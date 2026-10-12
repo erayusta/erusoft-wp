@@ -1,0 +1,51 @@
+name: ci
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        php: ['8.0', '8.3']
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php }}
+          tools: none
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: bash tools/php-lint.sh
+      - run: npm run validate
+      - run: npm test
+      # Secrets are not available to pull requests from forks: the scrub gates
+      # run on pushes and same-repository pull requests only.
+      - name: Materialise scrub secrets
+        if: github.event_name == 'push' || github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          SCRUB_HASHES: ${{ secrets.SCRUB_HASHES }}
+        run: |
+          if [ -z "$SCRUB_HASHES" ]; then echo "::error::SCRUB_HASHES secret is empty or missing"; exit 1; fi
+          printf '%s\n' "$SCRUB_HASHES" > "$RUNNER_TEMP/scrub-hashes.txt"
+          echo "SCRUB_HASHES_FILE=$RUNNER_TEMP/scrub-hashes.txt" >> "$GITHUB_ENV"
+      - name: Scrub
+        if: github.event_name == 'push' || github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          SCRUB_ALLOW_IDENTITY: ${{ secrets.SCRUB_ALLOW_IDENTITY }}
+        run: npm run scrub
+      - name: Fork pull request notice
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name != github.repository
+        run: echo "::notice::Pull request from a fork; scrub secrets are unavailable, so the scrub gates are skipped. A maintainer runs the scrub before merging."
+      - run: npm run build
+      - name: Scrub build output
+        if: github.event_name == 'push' || github.event.pull_request.head.repo.full_name == github.repository
+        env:
+          SCRUB_ALLOW_IDENTITY: ${{ secrets.SCRUB_ALLOW_IDENTITY }}
+        run: bash tools/scrub-dist.sh

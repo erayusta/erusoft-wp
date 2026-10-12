@@ -1,0 +1,24 @@
+.eru-bcb-banner {
+	width: 100%;
+	margin: 20px auto;
+	clear: both;
+	display: block;
+	position: relative;
+}
+.eru-bcb-break { width: 100%; clear: both; margin: 20px 0; display: block; }
+ul.products .eru-bcb-banner { flex-basis: 100%; width: 100%; max-width: 100%; grid-column: 1 / -1; list-style: none; }
+.eru-bcb-link { display: block; text-decoration: none; width: 100%; }
+.eru-bcb-img { width: 100%; height: auto; display: block; border-radius: 4px; }
+.eru-bcb-mobile { display: none; }
+.eru-bcb-single-img .eru-bcb-img { display: block; }
+.eru-bcb-text {
+	display: block;
+	padding: 14px 20px;
+	border-radius: 4px;
+	font-weight: 600;
+	text-align: center;
+}
+@media (max-width: 768px) {
+	.eru-bcb-banner:not(.eru-bcb-single-img) .eru-bcb-desktop { display: none; }
+	.eru-bcb-banner:not(.eru-bcb-single-img) .eru-bcb-mobile { display: block; }
+}

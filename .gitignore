@@ -7,3 +7,4 @@ node_modules/
 *.sql
 *.sql.gz
 /.superpowers/
+/tools/scrub-hashes.txt

@@ -1,0 +1,10 @@
+{
+  "isSuccess": true,
+  "result": {
+    "summary": { "averageRating": 3.5, "totalElements": 2, "totalPages": 1 },
+    "reviews": [
+      { "id": 70000011, "userFullName": "Zeynep Demir", "rate": 5, "comment": "Kupa sağlam geldi, paketleme özenliydi.", "createdAt": 1759000000000, "trusted": true, "mediaFiles": [] },
+      { "id": 70000012, "userFullName": "Can Öztürk", "rate": 2, "comment": "Kulpu beklediğimden küçük.", "createdAt": 1758900000000, "trusted": false, "mediaFiles": [] }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "isSuccess": true,
+  "result": {
+    "summary": { "averageRating": 3.6, "totalElements": 5, "totalPages": 2 },
+    "reviews": [
+      { "id": 70000004, "userFullName": "ilker şen", "rate": 4, "comment": "İkinci sayfadaki yorum; dikişleri sağlam.", "createdAt": 1758000000000, "trusted": true, "sellerId": 123456, "mediaFiles": [] }
+    ]
+  }
+}

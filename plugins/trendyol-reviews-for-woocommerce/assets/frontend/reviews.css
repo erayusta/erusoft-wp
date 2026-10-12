@@ -1,0 +1,383 @@
+/* Trendyol Reviews for WooCommerce — front-end styles */
+
+.eru-tyr-reviews {
+	--eru-tyr-orange: #f27a1a;
+	--eru-tyr-border: #e6e6e6;
+	--eru-tyr-muted: #8a8a8a;
+	--eru-tyr-text: #333;
+}
+
+/* Rating summary panel */
+.eru-tyr-summary {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 28px;
+	align-items: center;
+	padding: 20px 24px;
+	margin: 0 0 20px;
+	border: 1px solid var(--eru-tyr-border, #e6e6e6);
+	border-radius: 12px;
+	background: #fafafa;
+}
+
+.eru-tyr-summary-score {
+	text-align: center;
+	min-width: 120px;
+}
+
+.eru-tyr-summary-average {
+	font-size: 44px;
+	line-height: 1;
+	font-weight: 700;
+	color: #222;
+}
+
+.eru-tyr-stars {
+	position: relative;
+	display: inline-block;
+	font-size: 16px;
+	line-height: 1;
+	color: #d5d5d5;
+}
+
+.eru-tyr-stars::before {
+	content: "★★★★★";
+	letter-spacing: 2px;
+}
+
+.eru-tyr-stars-fill {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	white-space: nowrap;
+	color: #f27a1a;
+}
+
+.eru-tyr-stars-fill::before {
+	content: "★★★★★";
+	letter-spacing: 2px;
+}
+
+.eru-tyr-summary-stars {
+	margin-top: 6px;
+	font-size: 18px;
+}
+
+.eru-tyr-summary-count {
+	margin-top: 4px;
+	font-size: 13px;
+	color: #777;
+}
+
+.eru-tyr-summary-bars {
+	flex: 1;
+	min-width: 220px;
+	max-width: 420px;
+}
+
+.eru-tyr-bar-row {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	margin: 4px 0;
+	font-size: 13px;
+	color: #555;
+}
+
+.eru-tyr-bar-label {
+	width: 34px;
+	white-space: nowrap;
+}
+
+.eru-tyr-bar-star {
+	color: #f27a1a;
+}
+
+.eru-tyr-bar-track {
+	flex: 1;
+	height: 8px;
+	border-radius: 4px;
+	background: #e9e9e9;
+	overflow: hidden;
+}
+
+.eru-tyr-bar-fill {
+	display: block;
+	height: 100%;
+	border-radius: 4px;
+	background: #f27a1a;
+}
+
+.eru-tyr-bar-count {
+	width: 48px;
+	text-align: right;
+	color: #999;
+}
+
+/* Toolbar (count + sort + filter) */
+.eru-tyr-toolbar {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+	gap: 12px;
+	margin: 0 0 16px;
+}
+
+.eru-tyr-toolbar-count {
+	font-size: 15px;
+	font-weight: 600;
+	color: #222;
+}
+
+.eru-tyr-toolbar-controls {
+	display: flex;
+	gap: 8px;
+}
+
+.eru-tyr-toolbar-controls select {
+	padding: 6px 28px 6px 12px;
+	border: 1px solid var(--eru-tyr-border, #e6e6e6);
+	border-radius: 8px;
+	background-color: #fff;
+	font-size: 13px;
+	color: #333;
+	line-height: 1.4;
+	height: auto;
+}
+
+/* Review cards */
+.eru-tyr-list {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.eru-tyr-list.eru-tyr-loading {
+	opacity: 0.45;
+	pointer-events: none;
+	transition: opacity 0.15s ease;
+}
+
+.eru-tyr-card {
+	border: 1px solid var(--eru-tyr-border, #e6e6e6);
+	border-radius: 12px;
+	padding: 16px 18px;
+	background: #fff;
+}
+
+.eru-tyr-card-head {
+	display: flex;
+	align-items: flex-start;
+	gap: 12px;
+	margin-bottom: 10px;
+}
+
+.eru-tyr-avatar {
+	flex: 0 0 auto;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	background: hsl(var(--eru-tyr-hue, 25), 65%, 92%);
+	color: hsl(var(--eru-tyr-hue, 25), 55%, 38%);
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	user-select: none;
+}
+
+.eru-tyr-card-meta {
+	flex: 1;
+	min-width: 0;
+}
+
+.eru-tyr-card-row1 {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 8px;
+}
+
+.eru-tyr-card-author {
+	font-weight: 600;
+	font-size: 14px;
+	color: #222;
+}
+
+.eru-tyr-card-row2 {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	margin-top: 3px;
+}
+
+.eru-tyr-card-stars .eru-tyr-stars {
+	font-size: 14px;
+}
+
+.eru-tyr-card-date {
+	font-size: 12px;
+	color: var(--eru-tyr-muted, #8a8a8a);
+}
+
+.eru-tyr-card-body {
+	font-size: 14px;
+	line-height: 1.6;
+	color: var(--eru-tyr-text, #333);
+}
+
+.eru-tyr-card-body p {
+	margin: 0 0 8px;
+}
+
+.eru-tyr-card-body p:last-child {
+	margin-bottom: 0;
+}
+
+/* Source badge */
+.eru-tyr-badge {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	padding: 2px 9px;
+	border-radius: 20px;
+	background: #fff3ea;
+	border: 1px solid #f8ceac;
+	color: #d96a12;
+	font-size: 11px;
+	font-weight: 600;
+	line-height: 1.5;
+	white-space: nowrap;
+}
+
+/* Review photo gallery */
+.eru-tyr-photos {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	margin-top: 12px;
+}
+
+.eru-tyr-photo img {
+	width: 68px;
+	height: 68px;
+	object-fit: cover;
+	border-radius: 8px;
+	border: 1px solid #e2e2e2;
+	display: block;
+	transition: transform 0.15s ease;
+}
+
+.eru-tyr-photo:hover img {
+	transform: scale(1.05);
+}
+
+/* Pagination */
+.eru-tyr-pagination {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 16px;
+	margin: 20px 0 8px;
+}
+
+.eru-tyr-page-btn {
+	padding: 7px 16px;
+	border: 1px solid var(--eru-tyr-border, #e6e6e6);
+	border-radius: 8px;
+	background: #fff;
+	color: #333;
+	font-size: 13px;
+	font-weight: 600;
+	cursor: pointer;
+	line-height: 1.4;
+	transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.eru-tyr-page-btn:hover:not(:disabled) {
+	border-color: #f27a1a;
+	color: #f27a1a;
+	background: #fff;
+}
+
+.eru-tyr-page-btn:disabled {
+	opacity: 0.4;
+	cursor: default;
+}
+
+.eru-tyr-page-info {
+	font-size: 13px;
+	color: var(--eru-tyr-muted, #8a8a8a);
+}
+
+.eru-tyr-empty {
+	padding: 24px;
+	text-align: center;
+	color: var(--eru-tyr-muted, #8a8a8a);
+	border: 1px dashed var(--eru-tyr-border, #e6e6e6);
+	border-radius: 12px;
+}
+
+/* Lightbox */
+.eru-tyr-lightbox {
+	position: fixed;
+	inset: 0;
+	z-index: 99999;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: rgba(0, 0, 0, 0.82);
+	cursor: zoom-out;
+	padding: 4vh 4vw;
+}
+
+.eru-tyr-lightbox img {
+	max-width: 100%;
+	max-height: 100%;
+	border-radius: 8px;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.eru-tyr-lightbox-close {
+	position: absolute;
+	top: 18px;
+	right: 24px;
+	font-size: 34px;
+	color: #fff;
+	background: none;
+	border: 0;
+	cursor: pointer;
+	line-height: 1;
+}
+
+/* Review form spacing under our list */
+.eru-tyr-reviews #review_form_wrapper {
+	margin-top: 28px;
+}
+
+@media (max-width: 600px) {
+	.eru-tyr-summary {
+		gap: 16px;
+		padding: 16px;
+	}
+	.eru-tyr-summary-average {
+		font-size: 36px;
+	}
+	.eru-tyr-toolbar {
+		flex-direction: column;
+		align-items: stretch;
+	}
+	.eru-tyr-toolbar-controls select {
+		flex: 1;
+	}
+	.eru-tyr-card {
+		padding: 14px;
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "totalElements": 5,
+  "totalPages": 1,
+  "page": 0,
+  "size": 100,
+  "content": [
+    { "barcode": "8680000000011", "stockCode": "DM-TS-01-M", "productMainId": "DM-TS-01", "productContentId": 900001, "title": "Pamuklu Tişört M", "brand": "Demo Marka", "approved": true, "archived": false, "rejected": false, "blacklisted": false, "onSale": true, "quantity": 5 },
+    { "barcode": "8680000000012", "stockCode": "DM-TS-01-L", "productMainId": "DM-TS-01", "productContentId": 900001, "title": "Pamuklu Tişört L", "brand": "Demo Marka", "approved": true, "archived": false, "rejected": false, "blacklisted": false, "onSale": true, "quantity": 0 },
+    { "barcode": "8680000000029", "stockCode": "DM-KP-02", "productMainId": "DM-KP-02", "productContentId": 900002, "title": "Seramik Kupa", "brand": "Demo Marka", "approved": true, "archived": false, "rejected": false, "blacklisted": false, "onSale": true, "quantity": 12 },
+    { "barcode": "8680000000036", "stockCode": "DM-CN-03", "productMainId": "DM-CN-03", "productContentId": 900003, "title": "Keten Çanta", "brand": "Demo Marka", "approved": true, "archived": false, "rejected": false, "blacklisted": false, "onSale": true, "quantity": 3 },
+    { "barcode": "8680000000043", "stockCode": "DM-ES-04", "productMainId": "DM-ES-04", "productContentId": 900004, "title": "Eski Ürün", "brand": "Demo Marka", "approved": true, "archived": true, "rejected": false, "blacklisted": false, "onSale": false, "quantity": 0 }
+  ]
+}

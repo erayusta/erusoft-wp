@@ -1,0 +1,54 @@
+name: pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - name: Materialise scrub secrets
+        env:
+          SCRUB_HASHES: ${{ secrets.SCRUB_HASHES }}
+        run: |
+          if [ -z "$SCRUB_HASHES" ]; then echo "::error::SCRUB_HASHES secret is empty or missing"; exit 1; fi
+          printf '%s\n' "$SCRUB_HASHES" > "$RUNNER_TEMP/scrub-hashes.txt"
+          echo "SCRUB_HASHES_FILE=$RUNNER_TEMP/scrub-hashes.txt" >> "$GITHUB_ENV"
+      - name: Scrub
+        env:
+          SCRUB_ALLOW_IDENTITY: ${{ secrets.SCRUB_ALLOW_IDENTITY }}
+        run: npm run scrub
+      - run: npm run build
+      - name: Scrub build output
+        env:
+          SCRUB_ALLOW_IDENTITY: ${{ secrets.SCRUB_ALLOW_IDENTITY }}
+        run: bash tools/scrub-dist.sh
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    environment:
+      name: github-pages
+      url: ${{ steps.d.outputs.page_url }}
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4
