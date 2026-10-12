@@ -1,0 +1,9 @@
+# Müşteri adları, yerel yollar ve kararlar içerir; ASLA yayınlanmaz
+/.private/
+.DS_Store
+node_modules/
+/site/dist/
+*.log
+*.sql
+*.sql.gz
+/.superpowers/
