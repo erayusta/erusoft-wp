@@ -2,8 +2,8 @@
 /**
  * Text-domain check: every translation call must pass the plugin's text domain as a string literal
  * (wp i18n make-pot cannot extract class constants or variables).
- *   php tools/check-text-domains.php [--fix] plugins mu-plugins
- * The expected domain is the "Text Domain:" header found in the plugin's folder (fallback: folder name).
+ *   php tools/check-text-domains.php [--fix] plugins mu-plugins themes
+ * The expected domain is the "Text Domain:" header found in the plugin's folder, or style.css for themes (fallback: folder name).
  * --fix replaces non-literal domain arguments with the literal. Exit 1 when anything is reported.
  */
 $fix = false; $roots = [];
@@ -14,17 +14,19 @@ function expected_domain($dir, $folder, $path) {
   static $cache=[];
   $top=substr($path,0,strpos($path,'/'.$folder.'/')+strlen($folder)+1);
   if (isset($cache[$top])) return $cache[$top];
+  if (preg_match('~(^|/)themes/~', $top) && is_file($top.'/style.css') && preg_match('/^[ \t\/*#@]*Text Domain:\s*(\S+)/mi', file_get_contents($top.'/style.css', false, null, 0, 8192), $h)) return $cache[$top]=$h[1];
   foreach (glob($top.'/*.php') as $f) {
     if (preg_match('/^[ \t\/*#@]*Text Domain:\s*(\S+)/mi', file_get_contents($f, false, null, 0, 8192), $h)) return $cache[$top]=$h[1];
   }
   return $cache[$top]=$folder;
 }
 foreach ($roots as $root) {
+  if (!is_dir($root)) continue;
   $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($root, FilesystemIterator::SKIP_DOTS));
   foreach ($it as $f) {
     if (substr($f,-4)!=='.php') continue;
     $path=(string)$f;
-    if (!preg_match('#(?:plugins|mu-plugins)/([^/]+)/#',$path,$m)) continue;
+    if (!preg_match('#(?:plugins|mu-plugins|themes)/([^/]+)/#',$path,$m)) continue;
     $slug=expected_domain(dirname($path,1), $m[1], $path);
     $src=file_get_contents($path); $tk=token_get_all($src); $n=count($tk);
     $edits=[]; // [start,end,replacement] token indexes

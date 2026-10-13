@@ -1,6 +1,9 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { validateCatalog, loadCatalog } from '../tools/lib/catalog.mjs';
+import { mkdtempSync, mkdirSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 
 const ok = { slug: 'a-for-woocommerce', name: 'A for WooCommerce', type: 'plugin', category: 'Güvenlik', tagline_tr: 'x', tagline_en: 'x', features_tr: ['a', 'b'], requires: { wp: '6.5', php: '8.0' }, integrations: [], status: 'coming-soon', phase: 2, repo: null, path: null, screenshots: [], version: '1.0.0' };
 
@@ -22,3 +25,17 @@ test('individual pack mu-plugins have no own entry', () => {
   const names = loadCatalog('catalog.json').map(e => e.name);
   for (const n of ['Action Scheduler Sleep Tuning', 'AutomateWoo Redis Flush Fix', 'Cart Fragments Guard', 'Checkout Login Gate Event Guard', 'Conditional Category Rewrite Flush', 'Frontend Cloudflare Purge Blocker', 'Frontend Plugin Diet', 'Non-Blocking IndexNow', 'Order Status Webhook Topics', 'PixelYourSite Fragment Fix', 'Redis Flush Tracer']) assert.ok(!names.includes(n), n);
 });
+
+const themeEntry = { ...ok, slug: 'x-theme', name: 'X Theme', type: 'theme', category: 'Tema', status: 'stable', path: 'themes/x' };
+const themeRoot = (style = true) => {
+  const r = mkdtempSync(join(tmpdir(), 'cat-'));
+  mkdirSync(join(r, 'themes/x'), { recursive: true });
+  writeFileSync(join(r, 'themes/x/README.md'), '# x');
+  if (style) writeFileSync(join(r, 'themes/x/style.css'), '/* Theme Name: X */');
+  return r;
+};
+test('theme with style.css passes', () => assert.deepEqual(validateCatalog([themeEntry], themeRoot()), []));
+test('stable theme needs style.css', () => assert.match(validateCatalog([themeEntry], themeRoot(false)).join(), /style\.css/));
+test('theme path must start with themes/', () => assert.match(validateCatalog([{ ...themeEntry, path: 'plugins/x' }], themeRoot()).join(), /themes\//));
+test('path with .. segments rejected', () => assert.match(validateCatalog([{ ...themeEntry, path: 'themes/../plugins/x' }], themeRoot()).join(), /\.\./));
+test('plugin path must not start with themes/', () => assert.match(validateCatalog([{ ...themeEntry, type: 'plugin' }], themeRoot()).join(), /themes\//));

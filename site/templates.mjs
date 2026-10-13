@@ -145,6 +145,7 @@ export function productPage(e, readmeHtml) {
   const side = [];
   if (hasZip) side.push(`<a class="btn btn-primary" href="/downloads/${e.slug}.zip" download>ZIP indir${e.version ? ` <small>v${esc(e.version)}</small>` : ''}</a>`);
   if (hasZip && e.type === 'mu-plugin') side.push(`<p class="side-note"><strong>Eklentiler → Yeni ekle ile yüklemeyin.</strong> ZIP'i açın ve <code>.php</code> dosyalarını doğrudan <code>wp-content/mu-plugins/</code> klasörüne (en üst düzeye, alt klasör olmadan) kopyalayın; etkinleştirme gerekmez.</p>`);
+  if (hasZip && e.type === 'theme') side.push(`<p class="side-note"><strong>Görünüm → Temalar → Yeni ekle → Tema yükle</strong> ile ZIP'i yükleyip etkinleştirin.${e.requires.wc ? ' WooCommerce eklentisi gereklidir.' : ''}</p>`);
   if (soon) side.push(`<p class="soon-note">Yakında. Bu eklenti henüz yayımlanmadı.</p>`);
   else if (ghUrl) side.push(`<a class="btn ${hasZip ? 'btn-ghost' : 'btn-primary'}" href="${esc(ghUrl)}" target="_blank" rel="noopener">GitHub'da gör</a>`);
   const main = readmeHtml

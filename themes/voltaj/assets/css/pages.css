@@ -1,0 +1,62 @@
+/* Voltaj: pages — quote and contact templates, brands directory, 404. */
+
+/* ---- Quote / contact ---- */
+.vj-form-page__grid { display: grid; gap: 24px; align-items: start; }
+@media (min-width: 960px) { .vj-form-page__grid { grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: 32px; } }
+.vj-form-page__main > * + * { margin-top: 20px; }
+.vj-form-page__aside { display: grid; gap: 20px; }
+.vj-form-page__aside:empty { display: none; }
+.vj-form-page__aside .vj-prose { font-size: 1rem; }
+
+/* ---- Brands directory ---- */
+.vj-letters { position: sticky; top: var(--vj-header-h); z-index: 5; background: var(--vj-bg); padding: 8px 0; margin-bottom: 8px; }
+.admin-bar .vj-letters { top: calc(var(--vj-header-h) + 32px); }
+.vj-letters ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px; }
+.vj-letters a {
+	display: grid; place-items: center;
+	width: 36px; height: 36px;
+	background: var(--vj-surface); border: 1px solid var(--vj-line); border-radius: 3px;
+	color: var(--vj-ink); text-decoration: none;
+	font-family: var(--vj-mono); font-weight: 700;
+}
+.vj-letters a:hover { background: var(--vj-base); color: var(--vj-accent); border-color: var(--vj-base); }
+.vj-brand-group { padding-top: 20px; scroll-margin-top: calc(var(--vj-header-h) + 60px); }
+.vj-brand-group__letter {
+	display: flex; align-items: center; gap: 12px;
+	font-family: var(--vj-mono); font-size: 1.1rem;
+	margin-bottom: 12px;
+}
+.vj-brand-group__letter::after { content: ""; flex: 1; height: 1px; background: var(--vj-line); }
+.vj-brand-grid {
+	list-style: none; margin: 0; padding: 0;
+	display: grid; gap: 10px;
+	grid-template-columns: repeat(auto-fill, minmax(min(100%, 180px), 1fr));
+}
+@media (max-width: 479px) { .vj-brand-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.vj-brand-card {
+	display: grid; gap: 4px; justify-items: center; text-align: center;
+	height: 100%; padding: 16px 12px;
+	background: var(--vj-surface); border: 1px solid var(--vj-line); border-radius: var(--vj-radius);
+	color: var(--vj-ink); text-decoration: none;
+}
+.vj-brand-card:hover { border-color: var(--vj-ink); }
+.vj-brand-card__logo { display: grid; place-items: center; height: 56px; width: 100%; margin-bottom: 6px; }
+.vj-brand-card__logo img { max-height: 56px; width: auto; object-fit: contain; }
+.vj-brand-card__logo.is-empty span {
+	display: grid; place-items: center;
+	width: 52px; height: 52px;
+	background: var(--vj-base); color: var(--vj-accent);
+	border-radius: var(--vj-radius);
+	font-weight: 800; font-size: 1.1rem;
+}
+.vj-brand-card__name { font-weight: 700; }
+.vj-brand-card__count { font-family: var(--vj-mono); font-size: .75rem; color: var(--vj-muted); }
+
+/* ---- 404 ---- */
+.vj-404 { padding-top: clamp(32px, 6vw, 72px); }
+.vj-404__code {
+	margin: 0 0 8px;
+	font-family: var(--vj-mono); font-size: clamp(3rem, 10vw, 6rem); font-weight: 800; line-height: 1;
+	color: var(--vj-accent-ink);
+}
+.vj-404 .vj-search { margin-block: 20px; }

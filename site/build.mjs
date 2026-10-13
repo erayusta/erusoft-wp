@@ -12,6 +12,7 @@ export { slugifyTr };
 
 const here = dirname(fileURLToPath(import.meta.url));
 const ZIP_DENY = /(^|\/)(tests|node_modules|\.git|\.github|\.DS_Store|\.editorconfig|\.gitattributes|phpunit\.xml[^/]*|composer\.(json|lock)|[^/]*\.log)(\/|$)/;
+const THEME_DENY = /^\/demo(\/|$)/i;
 const order = { stable: 0, beta: 1, 'coming-soon': 2 };
 
 const write = (out, rel, data) => {
@@ -25,7 +26,7 @@ function zipProduct(root, out, e) {
   try {
     cpSync(join(root, e.path), join(stage, e.slug), {
       recursive: true,
-      filter: src => !ZIP_DENY.test(src.slice(join(root, e.path).length))
+      filter: src => { const rel = src.slice(join(root, e.path).length); return !ZIP_DENY.test(rel) && !(e.type === 'theme' && THEME_DENY.test(rel)); }
     });
     mkdirSync(join(out, 'downloads'), { recursive: true });
     const zipPath = resolve(out, 'downloads', e.slug + '.zip');
@@ -40,7 +41,7 @@ export async function build({ root = process.cwd(), out = 'site/dist' } = {}) {
   root = resolve(root);
   out = resolve(root, out);
   const entries = loadCatalog(join(root, 'catalog.json'));
-  const errs = validateCatalog(entries);
+  const errs = validateCatalog(entries, root);
   if (errs.length) throw new Error('catalog invalid:\n' + errs.join('\n'));
   rmSync(out, { recursive: true, force: true });
   mkdirSync(out, { recursive: true });

@@ -1,8 +1,9 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { mkdtempSync, readFileSync, writeFileSync, copyFileSync, existsSync } from 'node:fs';
+import { mkdtempSync, readFileSync, writeFileSync, copyFileSync, existsSync, mkdirSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
+import { execFileSync } from 'node:child_process';
 import { build, slugifyTr, updateReadme } from '../site/build.mjs';
 import { renderReadme } from '../site/lib/render.mjs';
 import { indexPage } from '../site/templates.mjs';
@@ -101,4 +102,35 @@ test('--readme replaces only the marked region', () => {
   assert.doesNotMatch(md, /OLD/);
   writeFileSync(join(root, 'README.md'), 'no markers');
   assert.throws(() => updateReadme(root), /markers/);
+});
+
+test('theme ZIP excludes top-level demo/ only; product page explains theme install', async () => {
+  const root = mkdtempSync(join(tmpdir(), 'theme-root-'));
+  const t = join(root, 'themes', 'demo-theme');
+  for (const d of ['demo/images', 'template-parts/demo']) mkdirSync(join(t, d), { recursive: true });
+  writeFileSync(join(t, 'style.css'), '/* Theme Name: Demo */');
+  writeFileSync(join(t, 'index.php'), '<?php\n');
+  writeFileSync(join(t, 'README.md'), '# Demo');
+  writeFileSync(join(t, 'demo/setup.php'), '<?php\n');
+  writeFileSync(join(t, 'demo/images/a.jpg'), 'x');
+  writeFileSync(join(t, 'template-parts/demo/x.php'), '<?php\n');
+  const pl = join(root, 'plugins', 'demo-plugin');
+  mkdirSync(join(pl, 'demo'), { recursive: true });
+  writeFileSync(join(pl, 'demo-plugin.php'), '<?php\n');
+  writeFileSync(join(pl, 'README.md'), '# Demo plugin');
+  writeFileSync(join(pl, 'demo/data.php'), '<?php\n');
+  copyFileSync('CNAME', join(root, 'CNAME'));
+  writeFileSync(join(root, 'catalog.json'), JSON.stringify([{ slug: 'demo-theme', name: 'Demo Theme', type: 'theme', category: 'Tema', tagline_tr: 'x', tagline_en: 'x', features_tr: ['a', 'b'], requires: { wp: '6.5', php: '8.0', wc: '9.0' }, integrations: [], status: 'stable', phase: 4, repo: null, path: 'themes/demo-theme', screenshots: [], version: '1.0.0' },
+    { slug: 'demo-plugin', name: 'Demo Plugin', type: 'plugin', category: 'Güvenlik', tagline_tr: 'x', tagline_en: 'x', features_tr: ['a', 'b'], requires: { wp: '6.5', php: '8.0' }, integrations: [], status: 'stable', phase: 4, repo: null, path: 'plugins/demo-plugin', screenshots: [], version: '1.0.0' }]));
+  const out = join(root, 'dist');
+  await build({ root, out });
+  const list = execFileSync('unzip', ['-Z1', join(out, 'downloads', 'demo-theme.zip')], { encoding: 'utf8' }).split('\n');
+  assert.ok(list.includes('demo-theme/style.css'));
+  assert.ok(list.includes('demo-theme/template-parts/demo/x.php'));
+  assert.ok(!list.some(l => l.startsWith('demo-theme/demo/') || l === 'demo-theme/demo'), list.join());
+  const plist = execFileSync('unzip', ['-Z1', join(out, 'downloads', 'demo-plugin.zip')], { encoding: 'utf8' }).split('\n');
+  assert.ok(plist.includes('demo-plugin/demo/data.php'), 'plugins keep their demo/ folder');
+  const html = readFileSync(join(out, 'demo-theme', 'index.html'), 'utf8');
+  assert.match(html, /Görünüm → Temalar/);
+  assert.match(html, /WooCommerce eklentisi gereklidir/);
 });

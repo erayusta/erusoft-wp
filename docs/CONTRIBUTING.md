@@ -76,6 +76,20 @@ Betik `WP_DEBUG_LOG` açar, ön yüz sayfalarını (`/`, `/?s=demo`, WooCommerce
 `tools/smoke.sh <slug> [--no-wc]` or `--mu [--no-wc]` exercises them and fails on any PHP diagnostic
 from wp-content, an unexpected HTTP status, a database error or a failing admin hook.
 
+## Temalar (themes)
+
+Her tema `themes/<slug>/` altında yaşar: `style.css` (başlıklar, `Text Domain: <slug>`), `functions.php`, şablonlar,
+`README.md`, `readme.txt`, `CHANGELOG.md`, `screenshot.png`. Katalogda `type: "theme"` ve `path: "themes/<slug>"` olmalıdır.
+Üst düzey `demo/` klasörü (WP-CLI demo betikleri ve görseller) depoda kalır ama ZIP'e girmez. Tüm önekler (fonksiyon,
+seçenek, tema modu, kanca, betik tutacağı) tema slug'ıdır. Tema demo sitesine bağlamak için:
+
+```bash
+ERUSOFT_WP_DEMO=$HOME/code/erusoft-wp-themes bash tools/link-demo.sh   # themes/* -> wp-content/themes/
+```
+
+**English summary:** themes live in `themes/<slug>/` with `style.css` as the header and text-domain source; the top-level
+`demo/` folder is excluded from the ZIP; prefix everything with the slug; `link-demo.sh` also symlinks `themes/*`.
+
 ## CI secrets
 
 CI needs two repository secrets (Settings > Secrets and variables > Actions). Neither value is ever committed.

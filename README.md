@@ -65,6 +65,9 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Purchase Limits for WooCommerce](https://wordpress.erusoft.com/purchase-limits-for-woocommerce/) — Ürün, kategori ve sipariş bazında adet limiti ile müşteri başına dönemlik limit koyar. | Sepet & Ödeme Akışı | Stabil |
 | [Turkish Address Fields for WooCommerce](https://wordpress.erusoft.com/turkish-address-fields-for-woocommerce/) — Klasik ödeme sayfasında il, ilçe, mahalle ve sokak seçimi; paketli adres verisi ve kapı numarası kontrolü. | Sepet & Ödeme Akışı | Stabil |
 | [KİNETİK](https://wordpress.erusoft.com/kinetik/) — Türkiye için açık kaynak WooCommerce spor giyim teması: adres seçimi, beden seçici, ücretsiz kargo çubuğu. | Tema | Stabil |
+| [Narin](https://wordpress.erusoft.com/narin/) — Küçük mağazalar için zarif WooCommerce teması: kemerli giriş, filtre çekmecesi, bölgeden okunan ücretsiz kargo çubuğu. | Tema | Stabil |
+| [Ufuk](https://wordpress.erusoft.com/ufuk/) — Kurumsal siteler için sade ve hızlı tema: ana sayfa bölümleri Özelleştirici'den, açık/koyu mod, spam korumalı form. | Tema | Stabil |
+| [Voltaj](https://wordpress.erusoft.com/voltaj/) — Teknik malzeme mağazaları için WooCommerce teması: kategori katalog paneli, özellik öncelikli kartlar, teklif formu. | Tema | Stabil |
 | [Brand Product Sorting for WooCommerce](https://wordpress.erusoft.com/brand-product-sorting-for-woocommerce/) — Marka arşivindeki ürünleri sürükle-bırak ile sıralayın. | Ürün & Katalog | Stabil |
 | [Bulk Product Visibility for WooCommerce](https://wordpress.erusoft.com/bulk-product-visibility-for-woocommerce/) — Ürünlerin görünürlüğünü kategoriye göre toplu veya tek tek yönetin. | Ürün & Katalog | Stabil |
 | [Bundle Stock Sync for WooCommerce](https://wordpress.erusoft.com/bundle-stock-sync-for-woocommerce/) — Paket ürünlerin stoğunu bileşen SKU ve adetlerinden hesaplar, satış ve iadelerle senkron tutar. | Ürün & Katalog | Stabil |
@@ -98,10 +101,6 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Server-Side Refunds for Matomo](https://wordpress.erusoft.com/server-side-refunds-for-matomo/) — İade ve iptalleri Matomo'ya sunucu tarafında bildirir. | Raporlama & Analitik | Yakında |
 | [Custom Order Statuses for WooCommerce](https://wordpress.erusoft.com/custom-order-statuses-for-woocommerce/) — Panelden sipariş durumu ekleyin; renk, sıra, e-posta ve toplu işlem yönetin. | Sepet & Ödeme Akışı | Yakında |
 | [Device Trade-In for WooCommerce](https://wordpress.erusoft.com/device-trade-in-for-woocommerce/) — Takas edilen ürün için yapılandırılabilir özelliklere göre indirim değeri hesaplar. | Sepet & Ödeme Akışı | Yakında |
-| [Narin](https://wordpress.erusoft.com/narin/) — Zarif tipografi ve cam efektli bileşenlerle şık bir WooCommerce teması. | Tema | Yakında |
-| [Oje](https://wordpress.erusoft.com/oje/) — Hero ve kategori bölümleri, güven bandıyla yumuşak görünümlü WooCommerce teması. | Tema | Yakında |
-| [Ufuk](https://wordpress.erusoft.com/ufuk/) — Kurumsal siteler için sade ve hızlı WordPress teması. | Tema | Yakında |
-| [Voltaj](https://wordpress.erusoft.com/voltaj/) — Marka, iletişim ve teklif isteği sayfa şablonlarıyla WooCommerce teması. | Tema | Yakında |
 | [Product Add-On Services for WooCommerce](https://wordpress.erusoft.com/product-add-on-services-for-woocommerce/) — Ürün veya kategoriye bağlı ek hizmet grupları (montaj, garanti vb.) tanımlayın. | Ürün & Katalog | Yakında |
 | [T-Soft Migrator for WooCommerce](https://wordpress.erusoft.com/t-soft-migrator-for-woocommerce/) — T-Soft mağaza verisini WooCommerce'e taşıyan genel içe aktarma aracı. | Ürün & Katalog | Yakında |
 <!-- catalog:end -->

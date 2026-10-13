@@ -2126,12 +2126,14 @@
     "name": "Narin",
     "type": "theme",
     "category": "Tema",
-    "tagline_tr": "Zarif tipografi ve cam efektli bileşenlerle şık bir WooCommerce teması.",
-    "tagline_en": "An elegant WooCommerce theme with refined typography and glass-effect components.",
+    "tagline_tr": "Küçük mağazalar için zarif WooCommerce teması: kemerli giriş, filtre çekmecesi, bölgeden okunan ücretsiz kargo çubuğu.",
+    "tagline_en": "An elegant WooCommerce theme for small shops: arched hero, filter drawer and a zone-based free-shipping bar.",
     "features_tr": [
-      "Zarif tipografi ve cam efektli bileşenler",
-      "Yerleşik SEO ve şema katmanı",
-      "Hazır mağaza şablonları"
+      "Özelleştirici'den ana sayfa: giriş, kategoriler, yeni ürünler, yazılar, öne çıkan bilgiler",
+      "Kargo bölgesindeki ücretsiz gönderim yönteminden okunan ilerleme çubuğu",
+      "Kart düzenli sepet, iki sütunlu ödeme ve mobil satın alma çubukları",
+      "Şablon ezmeden, yalnızca kancalarla WooCommerce görünümü",
+      "Gömülü yazı tipleri, dış istek yok, WooCommerce olmadan da çalışır"
     ],
     "requires": {
       "wp": "6.5",
@@ -2139,11 +2141,19 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 4,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "themes/narin",
+    "screenshots": [
+      "docs/screenshots/narin/1.png",
+      "docs/screenshots/narin/2.png",
+      "docs/screenshots/narin/3.png",
+      "docs/screenshots/narin/4.png",
+      "docs/screenshots/narin/5.png",
+      "docs/screenshots/narin/6.png",
+      "docs/screenshots/narin/7.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2151,23 +2161,31 @@
     "name": "Ufuk",
     "type": "theme",
     "category": "Tema",
-    "tagline_tr": "Kurumsal siteler için sade ve hızlı WordPress teması.",
-    "tagline_en": "A clean, fast WordPress theme for corporate sites.",
+    "tagline_tr": "Kurumsal siteler için sade ve hızlı tema: ana sayfa bölümleri Özelleştirici'den, açık/koyu mod, spam korumalı form.",
+    "tagline_en": "A clean, fast corporate theme: Customizer-built front page, light/dark mode and a spam-protected contact form.",
     "features_tr": [
-      "Tasarım ayarları dosyası",
-      "Ana sayfa bölümleri",
-      "Standart şablonlar"
+      "Özelleştirici'den ana sayfa: giriş, rakamlar, hizmetler, hakkımızda, yazılar, çağrı bandı",
+      "Alt sayfalardan hizmet kartları",
+      "Nonce, bal küpü ve hız sınırlı iletişim formu (mesaj saklamaz)",
+      "Açık/koyu mod, gömülü yazı tipi, dış istek yok",
+      "Boş ayarlar ziyaretçiye hiçbir şey göstermez"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 4,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "themes/ufuk",
+    "screenshots": [
+      "docs/screenshots/ufuk/1.png",
+      "docs/screenshots/ufuk/2.png",
+      "docs/screenshots/ufuk/3.png",
+      "docs/screenshots/ufuk/4.png",
+      "docs/screenshots/ufuk/5.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2331,53 +2349,39 @@
     "version": "1.0.0"
   },
   {
-    "slug": "oje",
-    "name": "Oje",
-    "type": "theme",
-    "category": "Tema",
-    "tagline_tr": "Hero ve kategori bölümleri, güven bandıyla yumuşak görünümlü WooCommerce teması.",
-    "tagline_en": "A softly styled WooCommerce theme with hero and category sections and a trust bar.",
-    "features_tr": [
-      "Hero ve kategori kutuları",
-      "Editoryal bölüm",
-      "Güven bandı"
-    ],
-    "requires": {
-      "wp": "6.5",
-      "wc": "9.0",
-      "php": "8.0"
-    },
-    "integrations": [],
-    "status": "coming-soon",
-    "phase": 4,
-    "repo": null,
-    "path": null,
-    "screenshots": [],
-    "version": "1.0.0"
-  },
-  {
     "slug": "voltaj",
     "name": "Voltaj",
     "type": "theme",
     "category": "Tema",
-    "tagline_tr": "Marka, iletişim ve teklif isteği sayfa şablonlarıyla WooCommerce teması.",
-    "tagline_en": "A WooCommerce theme with brand, contact and quote-request page templates.",
+    "tagline_tr": "Teknik malzeme mağazaları için WooCommerce teması: kategori katalog paneli, özellik öncelikli kartlar, teklif formu.",
+    "tagline_en": "A WooCommerce theme for technical supply stores: category catalogue panel, spec-first product cards, quote form.",
     "features_tr": [
-      "Marka, iletişim ve teklif şablonları",
-      "Sepet ve ödeme sayfası uyarlamaları",
-      "Hızlı ve sade listeleme"
+      "Ürün kategorilerinden kurulan, klavyeyle kullanılan iki bölmeli katalog paneli",
+      "Ürün kodu, stok durumu ve öne çıkan nitelikleri gösteren kartlar; sayımlı nitelik filtreleri",
+      "Özellik tablolu ürün sayfası, bölgeden okunan ücretsiz kargo çubuğu",
+      "Teklif İste, İletişim ve Markalar şablonları; formlar e-postayla gider, saklanmaz",
+      "Ödeme adımları ve sipariş sayfasında kopyalanabilir IBAN; şablon ezmeden, yalnızca kancalarla"
     ],
     "requires": {
       "wp": "6.5",
-      "wc": "9.0",
+      "wc": "9.6",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 4,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "themes/voltaj",
+    "screenshots": [
+      "docs/screenshots/voltaj/1.png",
+      "docs/screenshots/voltaj/2.png",
+      "docs/screenshots/voltaj/3.png",
+      "docs/screenshots/voltaj/4.png",
+      "docs/screenshots/voltaj/5.png",
+      "docs/screenshots/voltaj/6.png",
+      "docs/screenshots/voltaj/7.png",
+      "docs/screenshots/voltaj/8.png"
+    ],
     "version": "1.0.0"
   },
   {

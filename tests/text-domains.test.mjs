@@ -7,8 +7,8 @@ import { spawnSync } from 'node:child_process';
 
 const TOOL = resolve('tools/check-text-domains.php');
 
-test('every translation call uses its plugin text domain as a string literal', () => {
-  const r = spawnSync('php', [TOOL, 'plugins', 'mu-plugins'], { encoding: 'utf8' });
+test('every translation call uses its plugin or theme text domain as a string literal', () => {
+  const r = spawnSync('php', [TOOL, 'plugins', 'mu-plugins', 'themes'], { encoding: 'utf8' });
   assert.equal(r.status, 0, r.stdout + r.stderr);
 });
 
@@ -25,4 +25,17 @@ test('class-constant, variable and wrong literal domains are reported', () => {
   assert.match(r.stdout, /NONLIT .*\$td/);
   assert.match(r.stdout, /WRONG .*'other'/);
   assert.match(r.stdout, /total=3/);
+});
+
+test('a theme text domain comes from style.css', () => {
+  const dir = mkdtempSync(join(tmpdir(), 'td-'));
+  mkdirSync(join(dir, 'themes', 'demo-theme'), { recursive: true });
+  writeFileSync(join(dir, 'themes', 'demo-theme', 'style.css'), '/*\nTheme Name: Demo\nText Domain: demo-theme\n*/\n');
+  writeFileSync(join(dir, 'themes', 'demo-theme', 'functions.php'), "<?php\n__( 'a', 'other' );\n");
+  writeFileSync(join(dir, 'themes', 'demo-theme', 'good.php'), "<?php\n__( 'a', 'demo-theme' );\n");
+  const r = spawnSync('php', [TOOL, join(dir, 'themes')], { encoding: 'utf8' });
+  assert.equal(r.status, 1);
+  assert.match(r.stdout, /WRONG .*functions\.php:2 'other'/);
+  assert.doesNotMatch(r.stdout, /good\.php/);
+  assert.match(r.stdout, /total=1/);
 });

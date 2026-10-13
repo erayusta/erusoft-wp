@@ -1,10 +1,11 @@
 import { readFileSync, existsSync } from 'node:fs';
+import { join } from 'node:path';
 
 export const CATEGORIES = ['Ödeme', 'Pazaryeri', 'Pazarlama & Kampanya', 'Sepet & Ödeme Akışı', 'Ürün & Katalog', 'Kargo & Teslimat', 'Fatura & Muhasebe', 'Müşteri & B2B', 'Raporlama & Analitik', 'SEO', 'Güvenlik', 'Performans', 'İçerik & AI', 'Entegrasyon (ERP/CRM)', 'Tema', 'Geliştirici Araçları'];
 
 export const loadCatalog = p => JSON.parse(readFileSync(p, 'utf8'));
 
-export function validateCatalog(entries) {
+export function validateCatalog(entries, root = process.cwd()) {
   const errs = [];
   const seen = new Set();
   for (const e of entries) {
@@ -20,11 +21,14 @@ export function validateCatalog(entries) {
     if (!Array.isArray(e.features_tr) || e.features_tr.length < 2 || e.features_tr.length > 5) errs.push(`${id}: 2-5 features required`);
     if (!e.requires?.wp || !e.requires?.php) errs.push(`${id}: requires.wp and requires.php needed`);
     if (!['stable', 'beta', 'coming-soon'].includes(e.status)) errs.push(`${id}: bad status`);
+    if (e.path && e.path.split('/').some(seg => seg === '..' || seg === '.')) errs.push(`${id}: path must not contain . or .. segments`);
+    if (e.path && (e.type === 'theme') !== e.path.startsWith('themes/')) errs.push(`${id}: ${e.type === 'theme' ? 'themes must live' : 'only themes may live'} under themes/`);
     if (e.status !== 'coming-soon') {
       if (!e.path && !e.repo) errs.push(`${id}: stable/beta needs path or repo`);
-      if (e.path && !existsSync(`${e.path}/README.md`)) errs.push(`${id}: ${e.path}/README.md missing`);
+      if (e.path && !existsSync(join(root, e.path, 'README.md'))) errs.push(`${id}: ${e.path}/README.md missing`);
+      if (e.type === 'theme' && e.path && !existsSync(join(root, e.path, 'style.css'))) errs.push(`${id}: ${e.path}/style.css missing`);
     }
-    for (const s of e.screenshots || []) if (!existsSync(s)) errs.push(`${id}: screenshot missing ${s}`);
+    for (const s of e.screenshots || []) if (!existsSync(join(root, s))) errs.push(`${id}: screenshot missing ${s}`);
   }
   return errs;
 }

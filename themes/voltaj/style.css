@@ -1,0 +1,17 @@
+/*
+Theme Name: Voltaj
+Theme URI: https://wordpress.erusoft.com/voltaj/
+Author: Erusoft
+Author URI: https://erusoft.com
+Description: A WooCommerce theme for technical and electrical supply stores. A single sticky header with a full-width product search and a two-pane category catalogue panel built from your product categories (cached, keyboard accessible), spec-first product cards (SKU, stock state, key attributes), a product page with a spec table, a framed buy box and a free-shipping progress bar read from your shipping zones, attribute filters with counts on shop pages, a brands page, quote-request and contact forms (sent by e-mail, never stored), a blog table of contents, checkout steps, copyable bank details on the thank-you page, a mobile buy bar and a "recently viewed" strip kept in the visitor's browser. Self-hosted Archivo and JetBrains Mono, no external requests; works without WooCommerce too. Turkish UI, translation-ready.
+Version: 1.0.0
+Requires at least: 6.5
+Tested up to: 7.1
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: voltaj
+Tags: e-commerce, blog, two-columns, left-sidebar, custom-colors, custom-logo, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, wide-blocks
+*/
+
+/* Styles live in assets/css/ and are loaded per page (see voltaj_assets() in functions.php). */
