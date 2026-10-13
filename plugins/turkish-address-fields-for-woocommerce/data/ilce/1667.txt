@@ -1,0 +1,59 @@
+1284	15 Temmuz Şehitler Mah.	1.nolu=|10~|11~|12~|13~|14~|15~|16~|2.nolu=|3.nolu=|4~|5~|6~|7~|8~|9~|Ağrı Doğubayazıt1@|Bayatlar~|Bılınmeyen~|Bılınmeyen11~|Bılınmeyen116~|Bılınmeyen13~|Bılınmeyen225~|Devlet Hastanesi~|Emniyet@|Gül~|Hocik Tapı=|Hocik Yolu~|Maraşal Fevzi Çakmak@
+1287	Adnan Menderes Mah.	1~|20~|21~|22~|23~|30~|34~|36~|37~|38~|39~|40~|41~|42~|43~|Ağrı Doğubayazıt1@|Bılınmeyen16~|Bılınmeyen17~|Bılınmeyen2~|Bılınmeyen24~|Bılınmeyen25~|Bılınmeyen27~|Bılınmeyen29~|Bılınmeyen3~|Bılınmeyen31~|Bılınmeyen35~|Bılınmeyen41~|Cilo=|Cilo-=|Cumhuriyet@|Değirmen-=|Ehlibeyit Camii~|Eski Cilo~|Eski Değirmen~|Eski Sinema=|Eski Çarşı~|Eski Şor Bulak~|Hetem Pınarı-=|Hürriyet 6~|M.akif Ersoy Cadesi~|Maraşal Fevzi Çakmak@|Murat Nehrı~|R.tayip Erdoğan Park Yolu@|Sinema~|Tepe Mahallesi=|Çay=|Şirinpınar=|Şorbulak=
+6189	Alakoçlu Köyü	Alakoçlu=
+140180	Alakoçlu Köyü, Döşeme Mevkii	Döşeme=
+6190	Aras Köyü	Aras=
+6191	Aşağıdumanlı Köyü	Aşağı Dumanlı=
+6192	Aşağıdüzmeydan Köyü	Aşağıdüzmeydan=
+6193	Aşağıesen Köyü	Aşağı Esen=
+6194	Aşağıtoklu Köyü	Aşağı Toklu=
+6195	Balçiçek Köyü	Balçiçek=
+6197	Bayramyazı Köyü	Ağrı Doğubayazıt@|Bayramyazı=
+6196	Bayıraltı Köyü	Bayıraltı=
+6198	Boyuncak Köyü	Boyuncak=
+1285	Cumhuriyet Mah.	44~|45~|46~|47~|48~|49~|50~|51~|52~|53~|54~|55~|56~|58~|59~|60~|61~|62~|63~|64~|65~|66~|Ağrı Doğubayazıt1@|Cumhuriyet@|Değirmen-2~|Emniyet@|Hocik Yolu~|Maraşal Fevzi Çakmak@|Serin~|Serin Tepe 1~|Serin Tepe-2~|Serin Tepe-3~|Yassıkaya=|Şehit Erol Olcak~|Şehit Ömer Halis Demir~
+6204	Dilekyazı Köyü	Dilekyazı=
+6205	Düzgören Köyü	Düzgören=
+6206	Geçitveren Köyü	Ağrı Doğubayazıt@|Geçitveren=
+6207	Gözucu Köyü	Gözucu=
+6208	Gözucu Köyü, Satikomu Mezrası	Satikomu=
+6209	Gündoğdu Köyü	Gündoğdu=
+6210	Güneysöğüt Köyü	Güneysöğüt=
+1286	Hürriyet Mah.	67~|68~|69~|70~|71~|72~|73~|74~|75~|76~|78~|79~|80~|81~|82~|83~|84~|85~|87~|Deprem Evleri-=|Eski Kale~|Eski Kantar~|Eskiabide=|Eskikarakol~|Hürriyet 6~|Karakol~|Kızlar Kalesi~|Kızlarkalesi-=|M.akif Ersoy Cadesi~|Maraşal Fevzi Çakmak@|Merkez Camii-~|R.tayip Erdoğan Park Yolu@|Sağlık Ocağı~|Yavuz Selim İöo~|Yibo~|Şehit Hidayet Yılmaz@|Şehit Hidayet Yılmaz-@
+6214	Karagöz Köyü	Karagöz=
+6212	Kağnılı Köyü	Köyün Kendisi=
+6213	Kağnılı Köyü, Kağnılı Mezrası	Kağnılı=
+6215	Kumlubucak Köyü	Kumlubucak=
+6216	Kumlubucak Köyü, Esen Mezrası	Ağrı Doğubayazıt@|Esen=
+6217	Kumluca Köyü	Kumluca=
+6218	Kumluca Köyü, Yeniköy Mezrası	Yeniköy Mezrası=
+6219	Samanyolu Köyü	Samanyolu=
+6220	Samanyolu Köyü, Gültepe Mezrası	Gültepe=
+6221	Samanyolu Köyü, İnanlı Mezrası	İnanlı=
+6223	Tanrıverdi Köyü	Tanrıverdi=
+6222	Tanrıverdi Köyü, Kürekli Mezrası	Kürekli=
+6224	Tanrıverdi Köyü, Yaylacık Mezrası	Yaylacık=
+6226	Tanyolu Köyü	Tanyolu=
+6227	Tanyolu Köyü, Adakent Mezrası	Adakent=
+6228	Tanyolu Köyü, Kayalık Mezrası	Kayalık=
+6225	Tanyolu Köyü, Yaylacık Mezrası	Yaylacık=
+6229	Taşteker Köyü	Ağrı Doğubayazıt@|Taşteker=
+6230	Taşteker Köyü, Kado Mezrası	Ağrı Doğubayazıt@|Kado=
+6231	Yanalyol Köyü	Ağrı Doğubayazıt@|Boş=|Yanalyol=
+6232	Yankaya Köyü	Yankaya=
+6233	Yardımcılar Köyü	Yardımcılar=
+6234	Yassıkaya Köyü	Serin Tepe 1~|Yassıkaya=
+6235	Yeltepe Köyü	Yeltepe=
+6236	Yeltepe Köyü, Gümüşlü Mezrası	Gümüşlü=
+6237	Yukarıdumanlı Köyü	Yukarı Dumanlı=
+6238	Yukarıdüzmeydan Köyü	Yukarıdüzmeydan=
+6239	Yukarıdüzmeydan Köyü, Sivrice Mezrası	Sivrice=
+6240	Yukarıesen Köyü	Yukarı Esen=
+6241	Yukarıtaşlıçay Köyü	Ağrı Doğubayazıt@|Yukarı Taşlıçay=
+6242	Yukarıtoklu Köyü	Yukarı Toklu=
+6201	Çökelge Köyü	Çökelge=
+6203	Çökelge Köyü, Çekelge Mezrası	
+6202	Çökelge Köyü, Çökelge Mezrası	Çökelge/1=
+6199	Çöğürlü Köyü	Çöğürlü=
+6200	Çöğürlü Köyü, Çermik Mezrası	Çermik=
+6211	İkiyamaç Köyü	İkiyamaç=

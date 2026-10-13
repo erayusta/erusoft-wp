@@ -1,0 +1,85 @@
+19962	Abdullahpaşa Mah.	10.~|12.~|14.~|27.~|35.~|37.~|39.~|43.~|Faruk Katırcı~|Muhtar Abdi Fırtına~|Panayır@
+183973	Akhisar Mah.	Akhisar~
+183969	Akçakoyun Mah.	Akçakoyun~
+183971	Akçasusurluk Mah.	Akçasusurluk~
+183975	Arız Mah.	Arız~
+183977	Bakırköy Mah.	Bakır~
+183979	Ballıkaya Mah.	Ballıkaya~
+183981	Bayramdere Mah.	1.( Yeniköy)~|10.( Yeniköy)~|101.(yeniköy)~|103 (yeniköy)~|105.(yeniköy)~|108.(yeniköy)~|11.( Yeniköy)~|110.(yeniköy)~|12.( Yeniköy)~|13.( Yeniköy)~|14.( Yeniköy)~|15.( Yeniköy)~|16.(yeniköy)~|17.(yeniköy)~|18.(yeniköy)~|19~|2.( Yeniköy)~|20.(yeniköy)~|21 (yeniköy)~|22 ( Yeniköy)~|23.( Yeniköy)~|24.( Yeniköy)~|25.( Yeniköy)~|26.( Yeniköy)~|27.(yeniköy)~|28 ( Yeniköy)~|29.( Yeniköy)~|3.(yeniköy)~|30.( Yeniköy)~|31.(yeniköy)~|32.(yeniköy)~|33.(yeniköy)~|34.(yeniköy)~|35.(yeniköy)~|36.(yeniköy)~|37.(yeniköy)~|38.(yeniköy)~|39.(yeniköy)~|4 ( Yeniköy)~|40 (yeniköy)~|41.(yeniköy)~|42 (yeniköy)~|43 (yeniköy)~|436 (yeniköy)~|44 (yeniköy)~|45.(yeniköy)~|47.(yeniköy)~|48.(yeniköy)~|49.(yeniköy)~|5.(yeniköy)~|50.(yeniköy)~|51.(yeniköy)~|52.(yeniköy)~|53.(yeniköy)~|55.(yeniköy)~|57.(yeniköy)~|59.(yeniköy)~|6 ( Yeniköy)~|61.(yeniköy)~|63.(yeniköy)~|65 (yeniköy)~|67.(yeniköy)~|69 (yeniköy)~|7.( Yeniköy)~|73.(yeniköy)~|75 (yeniköy)~|77 (yeniköy)~|79 (yeniköy)~|8.( Yeniköy)~|81 (yeniköy)~|83 (yeniköy)~|85 (yeniköy)~|89.(yeniköy)~|9 ( Yeniköy)~|91(yeniköy)~|93.(yeniköy)~|Bayramdere~|Dere~|Fevziçakmak@|Kamberkışla=|Karacabey@|Kurşunlu@|Mehmet İzgi%|Orman@|Piknik@|Sahil=
+183983	Beylik Mah.	Beylik~
+183985	Boğazköy Mah.	Boğaz~
+19963	Canbalı Mah.	100.~|102.~|104.~|106~|108~|110.~|14 Eylül@|142.~|161.~|162.~|163.~|166.~|167.~|168~|169.~|170~|171.~|172~|173.~|174~|175.~|177.~|178~|179.~|181.~|1821~|183.~|216.~|241.~|299.~|349 Ada=|422~|66.~|Bandırma Yolu@|Bağlar@|Bursa@|Bursa Yolu~|Canbalı Dereyatağı~|Karatopraklar Mevkii~|Kemalpaşa Yolu~|Kocaada Mevkii=|Köprübaşı=|Mahrukatcılar=|Ortaçayır Mevkii~|Paşaçayırı=|Runguçpaşa@|Sazlık=|Soğanpazarı=|Zincirli Kuyu~|Çakıllıkuyu Mevkii=|Çıkmaz~|Şifa~
+183987	Canbaz Mah.	Canbaz~
+184001	Danişment Mah.	Danişment~
+183997	Dağesemen Mah.	Dağesemen~
+183999	Dağkadı Mah.	Dağkadı~
+184003	Doğla Mah.	Doğla~
+19964	Drama Mah.	119.~|129~|14 Eylül@|76.~|Adliye@|Cumhuriyet Myd.|Faruk Katırcı~|Hasan Yurt~|Muhtar Cavit Tarlı~|Mustafa Çorlu~|Ortaokul@|Runguç Paşa@|İ.hakkı Bilgin~
+184005	Ekinli Mah.	Ekinli~
+184007	Ekmekçi Mah.	Ekmekçi~
+19965	Emirsultan Mah.	140.~|185.~|187.~|189.~|196.~|198.~|200.~|202.~|203.~|204.~|205.~|206.~|209.~|213.~|215.~|217.~|219.~|221.~|222.~|227.~|228.~|229.~|238.~|261.~|269.~|280.~|285.~|286.~|301.~|307.~|309.~|310.~|311.~|312.~|313.~|315.~|316.~|317.~|318.~|319.~|320.~|321.~|325~|340.~|342.~|352.~|358~|360.~|362.~|364.~|366.~|367.~|Adliye@|Kemal Çeltik~|M. Hasan Kula~|Yeşil~
+19966	Esentepe Mah.	158.~|159~|176.~|178.~|180.~|182.~|184.~|186.~|188.~|189/1~|192.~|194.~|195~|199.~|224.~|225.~|226.~|238~|239~|243~|250~|251.~|274.~|280~|284.~|285.~|286~|287~|296.~|300~|302~|304~|368~|370~|380~|Anadolu~|Bayırlar~|Kanarya~|Leylak~|M. Hasan Kula~|Şahin~
+184009	Eskikaraağaç Mah.	Eskikaraağaç~
+184011	Eskisarıbey Mah.	Eskisarıbey~
+184013	Fevzipaşa Mah.	Fevzipaşa~
+19967	Garipçe Mah.	10.~|37.~|39.~|47.~|67.~|69.~|71.~|73.~|75.~|Atatürk%|Dr. Rüştü Özüt@|Faruk Katırcı~|Hilmi Büyükşekerci~|Park@|Yusuf Derici~
+19968	Gazi Mah.	129~|137.~|143.~|147.~|150.~|153.~|1811~|191.~|193.~|195.~|201.~|207.~|208.~|211.~|212.~|214.~|229.~|231.~|233.~|234.~|235.~|238.~|239.~|240.~|241.~|242.~|243.~|244.~|245.~|247.~|249~|255.~|256~|257~|258.~|259.~|260.~|261.~|262~|263.~|265.~|267.~|271.~|272.~|288.~|295.~|296.~|297.~|298.~|308.~|310.~|311~|317.~|351~|90.~|92.~|94.~|96.~|98.~|Adliye@|Bayıraltı=|Bağlar@|Fatih Sultan Mehmet@|Kemal Çeltik~|Okul~|Ortaokul@|Şükrü Keskin~
+184015	Gölecik Mah.	Gölecik~
+184017	Gölkıyı Mah.	Gölkıyı~
+184019	Gönü Mah.	Gönü~
+184021	Güngörmez Mah.	Güngörmez~
+19969	Hamidiye Mah.	10.~|11~|12~|14.~|17.~|19.~|23.~|27.~|338.~|339.~|343.~|345.~|35.~|400~|401~|402~|404~|404.~|405~|406~|407.~|408.~|409~|410~|63~|8.~|Akanlar=|Dutluk=|Panayır@|Şirinevler~
+184025	Harmanlı Mah.	Harmanlı~
+184027	Hayırlar Mah.	Hayırlar~
+184029	Hotanlı Mah.	Hanife Dere- Köprübaşı Mevkii=|Hotanlı~
+19970	Hüdavendigar Mah.	1823~|24.~|26.~|28.~|30.~|35.~|351.~|378~|51.~|53.~|55.~|57.~|59.~|61.~|65.~|67.~|9.~|Bandırma Yolu@|Karaosmanlar=|Mustafa Kırımlı@|Yeniköy@|İmaret@|Şehit Tarık Koyuncuoğlu~
+184031	Hürriyet Mah.	Hürriyet~
+19971	Karacaahmet Mah.	101.~|103.~|105.~|141.~|143.~|435~|48.~|58.~|66.~|68.~|95.~|97.~|Bursa@|Ihlamur~|Karacaahmet@|Nuri Katar~|Runguçpaşa@|Turan Özek@|İsmet Arı~|Şükrü Keskin~
+184039	Karakoca Mah.	Karakoca~
+184041	Karasu Mah.	Karasu~
+184043	Kedikaya Mah.	Kedikaya~
+184045	Keşlik Mah.	Keşlik~
+184049	Kulakpınar Mah.	Kulakpınar~
+184051	Kurşunlu Mah.	(22)~|1~|10 (malkara)~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19 (malkara)~|19~|2~|20~|21 (malkara)~|22.(malkara)~|23~|25 (malkara)~|25~|26 (malkara)~|26~|27 (malkara)~|27~|28 (malkara)~|29~|3 (malkara)~|3~|30 (malkara)~|31~|33~|37 (malkara)~|37~|39 (malkara)~|39~|4. (malkara)~|41 (malkara)~|41~|43 (malkara)~|43~|45 (malkara)~|5. (malkara)~|6~|7 (malkara)~|7~|8 (malkara)~|9.(malkara)~|Kursunlu@|Kurşunlu (malkara)@|Kurşunlu~|Yeniköy Cd@|Yeniköy@|Çınar (malkara)~|Çınar~
+184053	Küçükkaraağaç Mah.	Küçükkaraağaç~|Taşdan Çiftliği~
+184047	Kıranlar Mah.	Kıranlar~
+19973	Mamuriyet Mah.	1.~|11.~|2.~|3.~|30.~|4.~|5.~|6.~|7.~|80~|9.~|Boğaz Yolu~|Karaosmanlar=|Panayır@|Yeniköy@
+19974	Mecidiye Mah.	105.~|107.~|111.~|118.~|120.~|411~|412~|413~|415~|416~|417~|42.~|44.~|48.~|50.~|Bandırma Karayolu@|Karacaahmet@|Muhtar Hasan Kınalıoğlu~|Turan Özek@|Üçkuyular@|Şifa~
+184055	Muratlı Mah.	Muratlı~
+19975	Nasrettin Mah.	109.~|113.~|151.~|52.~|54.~|64.~|66.~|68.~|Bağlar@|Bursa@|Karacaahmet@|Runguçpaşa@|Ş. Ahmet Demirkurt~
+184057	Okçular Mah.	Okçular~
+184059	Orhaniye Mah.	Orhaniye~
+184061	Ortasarıbey Mah.	Ortasarıbey~
+184023	Ova Hamidiye Mah.	Hamidiye~
+184063	Ovaesemen Mah.	Ovaesemen~
+19976	Runguşpaşa Mah.	119.~|121.~|125~|133.~|14 Eylül@|204~|209~|340~|35.~|37.~|41.~|47.~|49.~|75.~|Atatürk%|Cumhuriyet Myd.|Dr. Rüştü Özüt@|Faruk Katırcı~|Hasan Yurt~|Hasan Ünaldı~|M.hasan Kula~|Muhtar Cavit Tarlı~|Ortaokul@|Panayır@|Park@|Runguşpaşa@|Uluabatlı Hasan Myd.|Yüksel Arda~|İrfan Ülker~
+19977	Saadet Mah.	15~|18.~|192.~|21.~|22.~|23.~|25.~|29.~|305.~|306.~|31.~|314.~|323.~|324.~|325.~|326.~|327.~|328.~|329.~|33.~|330.~|331.~|332.~|333.~|334.~|335.~|336.~|337.~|338.~|341.~|35.~|356.~|63.~|Atılgan~|M. Hasan Kula~|Muhtar Aziz Eren~|Panayır@|Uluabatlı Hasan Myd.
+184067	Sazlıca Mah.	Sazlıca~
+19978	Selimiye Mah.	10.~|11.~|13.~|17.~|19.~|23.~|27.~|35.~|4.~|53.~|8.~|80.~|Yeniköy@|İmaret@
+184069	Seyran Mah.	Seyran~
+184071	Subaşı Mah.	Subaşı~
+184073	Sultaniye Mah.	Sultaniye~
+19979	Sırabademler Mah.	1.blok Sanayi Sitesi=|10.blok Sanayi Sitesi=|11.blok Sanayi Sitesi=|12.blok Sanayi Sitesi=|128~|129.~|13.blok Sanayi Sitesi=|137.~|14 Eylül@|14.blok Sanayi Sitesi=|143.~|147.~|148~|15.blok Sanayi Sitesi=|151~|152~|153.~|16.blok Sanayi Sitesi=|160~|164.~|165.~|168~|17.blok Sanayi Sitesi=|18.blok Sanayi Sitesi=|183~|19.blok Sanayi Sitesi=|197.~|2.blok Sanayi Sitesi=|20.blok Sanayi Sitesi=|21.blok Sanayi Sitesi=|216.~|218.~|22.blok Sanayi Sitesi=|220.~|23.blok Sanayi Sitesi=|237.~|24.blok Sanayi Sitesi=|241.~|246.~|248.~|25.blok Sanayi Sitesi=|26.blok Sanayi Sitesi=|27.blok Sanayi Sitesi=|28.blok Sanayi Sitesi=|29.blok Sanayi Sitesi=|3.blok Sanayi Sitesi=|30.blok Sanayi Sitesi=|31.blok Sanayi Sitesi=|32.blok Sanayi Sitesi=|33.blok Sanayi Sitesi=|34.blok Sanayi Sitesi=|35.blok Sanayi Sitesi=|36.blok Sanayi Sitesi=|37.blok Sanayi Sitesi=|4.blok Sanayi Sitesi=|423~|424~|425~|426~|427~|428~|429~|430~|431~|432~|433~|434~|5.blok Sanayi Sitesi=|6.blok Sanayi Sitesi=|7.blok Sanayi Sitesi=|8.blok Sanayi Sitesi=|82.~|84.~|86.~|88.~|9.blok Sanayi Sitesi=|Bayırlar Paşaçayırı Mevki=|Bağlar@|Galericiler~|Hakan Sepetçi~|Hastane~|Karacabey-bursa Karayolu=|Kemalpaşa Yolu~|Marmara=|Ortaokul@|Runguçpaşa@|Şehit Kemal Köse~|Şükrü Keskin~
+19980	Tabaklar Mah.	36.~|371.~|372.~|373.~|374.~|375.~|376.~|377.~|378.~|379.~|381.~|383.~|75.~|83.~|87.~|89.~|Atatürk%|Bandırma@|Bandırma Yolu@|Borsa~|Cumhuriyet Myd.|Dr. Rüştü Özüt@|Eken Pasajı=|Gebekilise Mevkii=|Halil Kurt~|Hüsnü Eken~|Nihat Oktay~|Park@|Sabri Bulut~|Sadık Yılmaz~
+19981	Tavşanlı Mah.	101.~|131.~|135.~|139~|141.~|382.~|384.~|385.~|386.~|387.~|389.~|391.~|393.~|395.~|412~|413~|414~|415~|417~|418~|419~|420~|421~|48~|56.~|60.~|62.~|76.~|85.~|87~|89.~|93.~|95.~|97.~|99.~|Balık Hali=|Bandırma@|Bandırma Yolu@|Bursa@|Camandıra Mevkii~|Cami~|Cumhuriyet Myd.|Halil Kurt~|Hanife Dere-köprübaşı Mevkii=|Karacaahmet@|Nuri Katar~|Otogar=|Runguçpaşa@|Sadık Yılmaz@|Turan Özek@|İsmail Hakkı Bilgin~|İsmet Arı~|Şehit Kemal Köse~
+184079	Taşlık Mah.	Taşlık~
+184081	Taşpınar Mah.	Taşpınar~|Teknosab 1.@|Teknosab 10.@|Teknosab 11.@|Teknosab 12.@|Teknosab 13.@|Teknosab 14.@|Teknosab 15.@|Teknosab 16.@|Teknosab 17.@|Teknosab 18.@|Teknosab 19.@|Teknosab 2.@|Teknosab 20.@|Teknosab 21.@|Teknosab 22.@|Teknosab 23.@|Teknosab 24.@|Teknosab 25.@|Teknosab 26.@|Teknosab 27.@|Teknosab 28.@|Teknosab 29.@|Teknosab 3.@|Teknosab 30.@|Teknosab 31.@|Teknosab 32.@|Teknosab 33.@|Teknosab 34.@|Teknosab 35.@|Teknosab 36.@|Teknosab 37.@|Teknosab 38.@|Teknosab 39.@|Teknosab 4.@|Teknosab 40.@|Teknosab 5.@|Teknosab 6.@|Teknosab 7.@|Teknosab 8.@|Teknosab 9.@|Teknosab@
+184083	Tophisar Mah.	Tophisar~
+184085	Uluabat Mah.	Uluabat~
+184087	Yarış Mah.	Yarış~
+19982	Yeni Mah.	170.~|223.~|230.~|232.~|241.~|243.~|247.~|252.~|253.~|254.~|261.~|264.~|268.~|270.~|273.~|275.~|276.~|277.~|278.~|279.~|280~|281.~|282.~|283.~|288.~|290.~|291.~|292.~|293.~|294.~|303.~|66.~|Ortaokul@
+19983	Yenice Mah.	105.~|107.~|109.~|151.~|58.~|66.~|68.~|Bursa@|Karacaahmet@|İsmet Arı~|Şükrü Keskin~
+184089	Yenikaraağaç Mah.	Yenikaraağaç~
+184091	Yenisarıbey Mah.	Yenisarıbey~
+184093	Yeşildere Mah.	Yeşildere~
+184095	Yolağzı Mah.	Yolağzı~
+183989	Çamlıca Mah.	Çamlıca~
+183991	Çarıkköy Mah.	Çarık~
+183993	Çavuş Mah.	Çavuş~
+183995	Çeşnigir Mah.	Çeşnigir~
+184065	Örencik Mah.	Örencik~
+184033	İkizce Mah.	İkizce~
+184035	İnkaya Mah.	İnkaya~
+184037	İsmetpaşa Mah.	İsmetpaşa~
+184075	Şahinköy Mah.	Şahin.@|Şahinköy~
+184077	Şahmelek Mah.	Şahmelek~

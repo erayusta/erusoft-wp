@@ -1,0 +1,27 @@
+78973	Alan Köyü, Alan Mevkii	 Köy$
+78974	Alan Köyü, Alan Yaylası Yayla Evleri	 Köy$
+78975	Alan Köyü, Bürücek Yaylası Yayla Evleri	 Köy$
+78977	Alan Köyü, Erikçayırı Mevkii	 Köy$
+78976	Alan Köyü, Erikçayırı Yaylası Yayla Evleri	 Köy$
+78978	Alan Köyü, Kaynar Mevkii	 Köy$
+78980	Aydoğmuş Köyü	 Köy$
+70800	Cumhuriyet Mah.	Adalar~|Asmalı~|Ayanoğlu~|Aymaklar~|Aynalı~|Emin~|Güllük~|Halilefendi~|Hürriyet@|Kadıoğlu~|Karşı~|Kesici~|Mezarlık~|Seferler~|Vatan@|Yazlık~|Çamcı~|Çelikler~|Öğretmen Ahmet Yüce@|Öğretmen Mustafa Aymak~|İhsan Şen%|Şehit Polis Emin Şahin@|Şehit Recep Avşar~|Şen~
+78981	Dağüstü Köyü, Dağüstü Mevkii	 Köy$
+78982	Dağüstü Köyü, Düden Yayla Evleri	 Köy$
+78983	Erikbelen Köyü, Karşıbağlar Mevkii	 Köy$
+78984	Erikbelen Köyü, Kuştanlar Mevkii	 Köy$
+78987	Erikbelen Köyü, Orta Mevkii	 Köy$
+78988	Erikbelen Köyü, Teknepınar Mevkii	 Köy$
+78985	Erikbelen Köyü, Yeni Mevkii	 Köy$
+78986	Erikbelen Köyü, Yukarı Mevkii	 Köy$
+70801	Gençosman Mah.	Avşarlar~|Aşağıyayla=|Bayramoğlu~|Beyazıt~|Cücenler~|Eskiyayla=|Garipler~|Hacı Mehmet Yavuz@|Hocalar~|Kabadayılar~|Karaosmanlar~|Kılıçlar~|Leleler~|Samanlı~|Yavuz Selim~|Yeniyayla=|Yüksel Bayram@|Yıldızlar~|Çakmaklar~|Çartıl~|Çomaklar~|Öğretmen Ahmet Yüce@|İmamlı~|Şahin Tepesi Myd.|Şahinler@|Şehit Tümgeneral Aydoğan Aydın@|Şükrüler~
+70808	Hatipli Beldesi, Cumhuriyet Mah.	Barbaros@|Cumhuriyet Myd.|Fatih@|Gül~|Hürriyet@|Oflaz~|Çiğdem~|Şehit Şirin Kılınç@
+70809	Hatipli Beldesi, Fatih Mah.	Belediye@|Fatih@|Genç Osman@|Gül~|Kırışlar~|Lale~|Menekşe~|Oflaz~
+70810	Hatipli Beldesi, Gençosman Mah.	Barbaros@|Belediye@|Bülbül~|Cumhuriyet Myd.|Genç Osman@|Nergiz~|Pınar~|Söğütlü~|Yayla Cami@|Yayla Gümbürdek@|Yayla Oluk@|Çavuşlu~|Üflet~
+70804	Karacaören Alibaba Mah.	Eroğlu~|Evliya~|Fatih@|Harman~|Hürriyet Myd.|Kahvecigil~|Korkmazlar~|Mimar Sinan@|Salihağa~
+70805	Karacaören Aşıroğlu Mah.	Adalar~|Dervişağa~|Güzle~|Hürriyet Myd.|Mimar Sinan@|Salihağa~|İlköğretim@|Şahinler~|Şerefli@
+70806	Karacaören Gaziosmanpaşa Mah.	Dervişler~|Değirmen~|Gül~|Karacaören Yayla=|Kerimağa~|Mimar Sinan@|Sırtıkara~|İlköğretim@
+78989	Sarıağıl Köyü	 Köy$
+70803	Sinanpaşa Mah.	15 Temmuz Şehitler Meydanı Myd.|Aydınlar~|Bolatlar~|Değirmen~|Hürriyet@|Kadıoğlu~|Karabalçık~|Köseler~|Meralar~|Osmanlı@|Saltaşı~|Selvi~|Sereme~|Tepeüstü~|Yüksel Bayram@|İhsan Şen%|Şehit Recep Avşar~|Şeker~|Şerefli~
+78990	Şahnaalan Köyü	 Köy$
+78991	Şahnaalan Köyü, Şahnaalan Yaylası Yayla Evleri	 Köy$

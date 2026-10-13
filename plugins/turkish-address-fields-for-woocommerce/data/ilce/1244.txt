@@ -1,0 +1,32 @@
+156659	Akdoğan Mah.	Akdoğan Derelik=|Büyükcami=|Demirciler=|Demirciler1=|Kabandibi-=|Kaskaroboğlu=|Kovacık=|Mesoras=|Çaykara@
+156697	Arpaözü Mah.	Arpaözü Kaban=|Arpaözü=|Aşağaki=|Mezire=|Çakırlar=|Öteki=
+156651	Ataköy Mah.	Ataköy=|Barma Yayla=|Cerrah Yaylası=|Eğrisu Yaylası=|Hanırmak Yaylası=|Kunilar=|Laleli@|Merkez=|Sarıkaya Yaylası=|Sultanmurat Yaylası=|Sıcakoba Yaylası=|Vartan Yaylası=|Şahinkaya Armutlu=
+156661	Aşağıkumlu Mah.	Aşağıkumlu Düz=|Kotoğlu=|Serdarlı=|Varlı=|Yukarıkumlu Orta=|Çaspa=
+156663	Baltacılı Mah.	Baltacılı Kestanelik=|Baltacılı=|Baltacılı Orta=|Ehiltaş Altı=|Ulucami Mezrası=|Yayla=|Yeşilalan Kestanelik=|Yeşilalan Orta=|Yüksektepe=
+156701	Demirkapı Mah.	Arpaözü Kaban=|Demirkapı Aşağı=|Demirkapı Büyük=|Demirkapı Yukarı=|Derindere=|Hasangiller=|Küçük=
+156703	Demirli Mah.	A.çamlık=|Demirli Merkez=|Glisura=|Kastel=|Lisra-=|Salimodi=|Severler=|Çaykara 2@|Çaykara-@|Özenler=
+156705	Derindere Mah.	Atatürk@|Atatürk- Myd.|Cengiz Topel=|Derindere Orta=|Derindere Sarıkaya=|Dursun Ali İnan@|Filakkomları=|Gameneya=|Geriki=|Hocalikomları=|Köroğlu=|Mağlakamboz=|Mustafa Kemal Akyüz@|Sırandağı=|İlk=
+156669	Eğridere Mah.	Bayraklı-=|Cami Civarı=|Dere=|Eğridere Armutlu=|Eğridere Düz=|Eğridere Fındıklı=|Hurcan=|Hükümet-@|Işıklı=|Kukulaş=|Kurtdağı=|Sıralıevler=|Yoncalı=|Çambaşı Lustra=|Şehit Kaymakam Muhammet Fatih Safitürk@|Şirinevler=
+79981	Işıklı Mah.	Belediye~|Belediye1~|Cami~|Cami1~|Değirmen~|Değirmen1~|Değirmen2~|Eğridere Fındıklı=|Güney=|Işıklı Kaban=|Kabandibi-=|Kovacık-=|Kuzey=|Mehle=|Sağlık Ocağı=|Taşören=|Triboli=|Uzun~|Yükselen=|Çaykara 1~|Çaykara@|Üst Kaban=|Şehit Kaymakam Muhammet Fatih Safitürk@
+156671	Kabataş Mah.	Akpınar=|Alt Kaban=|Birlik=|Işıklı Kaban=|Köprübaşı=|Ulucami Kaban=|Ulucami Mezrası=|Çeşme=|Çiftırmak=|Çiftırmak1=|Üst Kaban=
+156653	Karaçam Mah.	Ali Rıza Uzuner@|Arapdere=|Gaset=|Istaronar=|Karaçam Seyrantepe=|Kültür=|Merkez Saadet@|Merkez Saadet1~|Merkez Saadet2~|Saadet=|Sıran Dağı=|Turnali=|Yeşilkaya=|Şehit Muhabere Er Dursun Sivaz@|Şehit Muhabere Er Dursun Sivaz-@|Şeyhi=
+156673	Kayran Mah.	Belekoniya=|Evoşka=|Kayran 1=|Kayran=|Taşören=|Yayla-=
+156675	Koldere Mah.	Atalar=|Aşağı-=|Bakkaloğlu=|Canlı=|Denizli-=|Kansızlı=|Karali=|Osmançelebi-=|Papuçlu=|Sarmaç=|Varlılar-=|Çalışkanlar=|Çaykara@|Çaykara2~|Çaykara3~|Çaykara4~|Şahinkaya Derelik=
+156677	Köknar Mah.	Başyurt=|Beğazlar=|Cevizli=|Eğrisu Yaylası=|Irmaklar=|Istaronar=|Karaçam Seyrantepe=|Köknar Merkez=|Salimodi=|Yumurtalı=|Çakar=|Çalimodi=|Çamlıbel Alçakköprü=|İstren=|İstren Raşi=
+156707	Köseli Mah.	Alçakköprü=|Camiüstü=|Demirli Merkez=|Glisura=|Kurşunlu-=|Kuzukonar=|Köseli Kaban=|Köseli=|Çaykara 2@|Çaykara-@|Özenler=|Özenler1=
+156679	Maraşlı Mah.	Cami Civarı=|Eğridere Fındıklı=|Kaldaban=|Karali=|Kukulaş=|Kuyucak=|Maraşlı=|Osmançelebi=|Sevimli=|Yoncalı=|Çaykara@|Çeşmeli=
+156681	Soğanlı Mah.	Büyükcami=|Demirciler-=|Demirciler1=|Karşı Semt=|Kovacık=|Mesoras=|Soğanlı Merkez=|Yaprakçık=|Yaprakçık1=|Yaprakçık2=|Çaykara@|Çaykara1~|Üçdirek=
+156657	Taşkıran Mah.	Birvana=|Elmalı=|Güneşli 2=|Güneşli=|Gürpınar=|Haraplı=|Kaban=|Kendirli=|Kurtali=|Kurşunlu=|Lokmanlı=|Mağlakamboz=|Serander=|Seyrantepe=|Taşlıgedik Cami=|Çambaşı Düz=|Çaykara-@|Özenler1=
+156685	Taşlıgedik Mah.	Ardıçlı=|Aydınlı=|Birvana-=|Taşlıgedik Cami=|Çambaşı Düz=|Çambaşı Lustra=
+156687	Taşören Mah.	Bayraklı=|Hurcan=|Kayran 1=|Kayran=|Kundika=|Taşören=|Yükselen=|İkidere=
+156689	Ulucami Mah.	Alaysa=|Ancumah=|Fettahlı=|Kaban Şudurli=|Karayemişlik=|Lişako=|Manaho=|Mezra=|Sürmeli=|Ulucami Kaban=|Ulucami Mezrası=|Ulucami Tufa=|Üst Kaban=
+156655	Uzungöl Mah.	A.çamlık=|Abdiağa~|Abdiağa1~|Alçakköprü=|Atatürk@|Atatürk1~|Atatürk2~|Atatürk3~|Demirli Merkez=|Dursun Ali İnan@|Elmalı=|Eminoğlu~|Fatih@|Fatih1~|Fatih10~|Fatih2~|Fatih3~|Fatih4~|Fatih5~|Fatih6~|Fatih8~|Fatih9~|Fevzi Çakmak 2~|Fevzi Çakmak@|Fevzi Çakmak1~|Fevzi Çakmak3~|Fevzi Çakmak4~|Fevzi Çakmak5@|Filak=|Filakkomları=|Gameneya=|Glazomat=|Hocalikomları=|Kamelaç=|Kastel-=|Krenisli=|Kurşunlu=|Malbetkomları=|Mağlakamboz=|Meryemli=|Muskomları=|Mustafa Kemal Akyüz@|Mustafa Kemal Akyüz1~|Severler=|Seyrantepe=|Tuzla=|Uzungöl Cami~|Uzungöl Cami1~|Uzungöl Cami2~|Uzungöl Cami3~|Uzungöl Cami4~|Y.çamlık=|Çakar=|Çalimodi=|Çaykara 2@|Çaykara-@|Çaykara5~|Özenler1=|İnceli=|İnönü@|İnönü1~|İnönü2~|İnönü3~|İnönü4~|İnönü5~|Şalgammezrası=
+156691	Uzuntarla Mah.	Ablayaras=|Aksu=|Başyurt=|Göl=|Gümüşhane=|Karaçam=|Mahtalar Yayla-=|Mavreyas-=|Oğlaklı=|Suyamlı=|Türbe 1 Nolu~|Türbe 2 Nolu~|Türbe 3 Nolu~|Türbe@|Uzuntarla=|Yeni Yayla=|Yukarı Mavreyas=|Yumurtalı=|Yurt Yayla-=
+156711	Yaylaönü Mah.	Aslan=|Fevzi Çakmak@|Kudi=|Sıran Dağı=|Yaylaönü Aşağı=|Yaylaönü Lustra=|Yaylaönü Orta=|Yaylaönü Saadet=|Yaylaönü Yukarı=|Ömerli=|Şekersu Merkez=
+156693	Yeşilalan Mah.	Alaysa=|Baltacılı Kestanelik=|Baltacılı Orta=|Baltacılı-=|Bayraklı=|Belekoniya=|Cahmut=|Cunis=|Darboğaz=|Düziçi=|Ehiltaş Altı=|Kama=|Kayran 1=|Kayran-=|Manaho=|Tatlısu=|Taşören-=|Tepebaşı=|Terzili=|Ulucami Tufa=|Yayla 1=|Yayla=|Yeni=|Yeşilalan Bayramlı=|Yeşilalan Dereli=|Yeşilalan Kestanelik=|Yeşilalan Orta=|Yeşilalan Tufa=|Yüksektepe=|Üst Kaban=
+156695	Yukarıkumlu Mah.	Aşağı=|Canlı=|Kansızlı-=|Varlı=|Varlılar=|Yukarıkumlu Orta=
+156665	Çambaşı Mah.	Aydınlı=|Birvana=|Gürpınar=|Kaban=|Kukulaş=|Kurtdağı=|Lokmanlı-=|Mağlakamboz=|Çambaşı Düz=|Çambaşı Lustra=|Çambaşı Merkez=|Çambaşı Orta=|Çambaşı Yukarı=
+156667	Çamlıbel Mah.	Cevizlik=|Coroh=|Eğrisu Yaylası-=|Kamara=|Kayşali-=|Komatlar=|Laleli@|Sarıkaya Yaylası=|Tahto=|Tuzla=|Çamlıbel Alçakköprü=|Çamlıbel Kaban=|Çamlıbel Merkez=|Çamlıbel Sarıkaya=
+156699	Çayıroba Mah.	Arpaözü=|Balehor=|Derindere=|Derindere Sarıkaya=|Fedakar=|Hapşuli=|Karşıki=|Köy Merkez=|Mastikali=|Mustafa Kemal Akyüz@|Platı=|Solaklı=|Varhali=|Yaylaönü Saadet=
+156683	Şahinkaya Mah.	Atalar=|Barma Yayla=|Canlı-=|Duruca=|Feğmenos Kazankıran=|Feğmenos Kazankıran1=|Görnek Yayla=|Gülveren=|Güneşalan=|Hurmalık 1=|Hurmalık=|Kaskaroboğlu=|Kazankıran=|Madensuyu=|Maltepe=|Pamuklu=|Pınarbaşı Emirgan-=|Riziya Mevkii=|Sarmaç-=|Soğuksu=|Subaşı=|Yeşilalan=|Zakrop Ahbaz İfterğodi=|Çamurlu=|Çanaklı Sinaysa=|Çaykara@|Çaykara6~|Üst Tip=|Şahinkaya Armutlu=|Şahinkaya Derelik=|Şahinkaya Fındıklı=
+156709	Şekersu Mah.	Aşağı Tabanoz=|Demirli Merkez-=|Derindere=|Fevzi Çakmak-@|Fevzi Çakmak1~|Grenimezrası=|Karester=|Osmankomları=|Severler=|Sıran Dağı=|Traşkabanı=|Turnali=|Yukarı Tabanoz=|Çelepçayırı=|Şalgammezrası=|Şekersu Büyük=|Şekersu Merkez=

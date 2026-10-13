@@ -1,0 +1,23 @@
+60890	Akköy Mah.	Akköy=|Fındık Çukuru=|Kuşkayası=|İnceoğulları=
+60891	Akpınar Mah.	Akpınar=|Horu=|Çakaldağı=
+151013	Budak Mah.	Cimiçli~|Deli Ahmetli~|Evliya Yanı~|Guzelyurt~|Kabataş~|Mahmatlı~|Merkez Kıran~
+60892	Burhan Güneyi Mah.	Burhan Güneyi=|Taşdibek=|Yukarı Taşdibek=
+60894	Danışman Mah.	Kerimli=|Kıran=|Mendelli=|Seymenli=|Torunevyanı=|Çayır=|Çıraklar=|İmamevyanı=
+151015	Edirli Mah.	Edirli~|Merkez~|Saz Yanı~|Çakıryanı~
+60895	Giden Mah.	Giden=|Hacı Mahmut=|Tahnalsalak=
+60896	Gümüşlü Mah.	Gümüşlü=
+151017	Hisarbey Mah.	Boztepe/çevlük Yanı~|Orta / Keleşli Yanı~|Şişmenli Hitip Pirahmetli~
+60897	Kemal Paşa Mah.	Kavak Güneyi=|Kışlacık=|Orta=|Teperik=|İnece=
+60905	Kestaneyokuşu Mah.	Ayıkalesi=|Camiyanı=|Delikli Kaya=|Gavasevyanı=|Horoz Tepesi=|Kestaneyokuşu=|Semer=
+151023	Kocaman Mah.	Merkez~
+151019	Saitler Mah.	Aşağı Çarmaşa~|Çarmaşa~
+60906	Sakargeriş Mah.	Aşağı Dumandağı=|Dağköy=|Kuzköy=|Merkez=|Tombak=|Yukarı Dumandağı=|Çevlikyatak=
+60899	Sarıyakup Mah.	Aşağı Sarıyakup=|Camii Yanı=|Domşu=|Tepeörmeli=|Topuzoğlu=
+60900	Sucuali Mah.	Sucuali=
+151021	Söken Mah.	Hatipli~|Hösülyanı~|Kadılı~|Mahmutlu Yanı~|Tırıçlı~
+60901	Taşoluk Mah.	1 Nolu~|13 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|Avni Güneş~|Bacanak Pazarı=|Cohoğlu=|Fatsa@|Gelinkaya@|Güneş Kardeşler~|Güneşler@|Gürez Şimşek@|Pazaryeri@|Terminal Caddesi@|İstiklal@|Şükrü Çelik@
+60902	Tepeli Mah.	Tepeli=|Yaztepe=
+60903	Uzunali Mah.	Hasto Deresi=|Karaağaçdüzü=|Kırkmeşe=|Uzunali=
+60904	Yeni Mah.	Yeni Mahalle=
+60893	Çavuşbaşı Mah.	Aşağı Mah.=|Kıranoba=|Orta Mah.=
+60898	Örmeli Mah.	10 Nolu~|11 Nolu~|12 Nolu~|9 Nolu~|Ahlat=|Atatürk@|Hatipli=|Karakulaklar=|Karaçorak=|Kilise Tepesi=|Lazlı=|Mehmet Uygun~|Osman Uygun@|Türkmen=|Çavuşlu=|Şht.yıldıray Uygun@

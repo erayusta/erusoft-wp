@@ -1,0 +1,2 @@
+.eru-webp-progress { max-width: 480px; height: 14px; background: #dcdcde; border-radius: 7px; overflow: hidden; }
+.eru-webp-progress__bar { height: 100%; width: 0; background: #2271b1; transition: width .2s; }

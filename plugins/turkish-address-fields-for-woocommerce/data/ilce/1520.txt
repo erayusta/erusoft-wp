@@ -1,0 +1,70 @@
+24639	Akpınar Köyü	 Köy$
+24640	Alancık Köyü	 Köy$
+24641	Alören Köyü	 Köy$
+24638	Ağcakoyun Köyü	 Köy$
+24642	Aşağıkörücek Köyü	 Köy$
+20438	Bahçelievler Mah.	100.yıl@|100.yıl1~|Atatürk@|Bahriye Üçok@|Bahçelievler@|Bahçepınar~|Bey Özü Köy Yolu@|Bilinmeyen11~|Bilinmeyen60~|Esen~|Etemoğlu~|Etemoğlu/1~|Hocabağı=|Hızar~|Karataş~|Kelem~|Kozallar~|Menekşe~|Park~|Santral~|Santral/1~|Secaattin Özden 1~|Secaattin Özden@|Taman~|Tevfik Dursun 1~|Tevfik Dursun~|Torun~|Zübeyde Hanım@|Çetinler~|Çorum Amasya Yolu 1@|Çorum Amasya Yolu 2~|Çorum-amasya-karayolu@|Özyolu~|Özyolu/1~
+24643	Bayındır Köyü	 Köy$
+24644	Bekişler Köyü	 Köy$
+24645	Bekişler Köyü, Doruk Bekiş Mezrası	 Köy$
+24646	Bekişler Köyü, Çam Bekiş Mezrası	 Köy$
+24647	Beyözü Köyü	 Köy$
+24649	Boyacı Köyü	 Köy$
+24650	Boyacı Köyü, Aşağı Mezrası	 Köy$
+24648	Boğazkaya Köyü	 Köy$
+24651	Bükse Köyü	 Köy$
+20439	Camikebir Mah.	Arzu~|Avni Başol~|Bilinmeyen 3~|Danacı~|Fıçılar~|Karanfil 1~|Karanfil~|Kayışoğlu~|Mine 1~|Mine 2~|Mine 3~|Mine~|Nafiz Koldaş 1~|Nafız Koldaş@|Pazar~|Uğur Mumcu@|Yıldız 1~|Yıldız 2~|Yıldız 3~|Yıldız~|Çiğdem~|Şht.mustafa Eker@
+24654	Dağsaray Köyü	 Köy$
+24655	Devletoğlan Köyü	 Köy$
+24656	Doğla Köyü	 Köy$
+20440	Doğu Mah.	Ahmet Taner Kışlalı@|Ahmet Taner Kışlalı/1~|Ahmet Taner Kışlalı/3~|Ahmet Taner Kışlalı/4~|Ahmet Taner Kışlalı1~|Bilinmeyen 11~|Bilinmeyen 13~|Bilinmeyen 8~|Bilinmeyen 9~|Değirmen~|Dicle~|Doğan~|Ekici~|Ekici/1~|Elmastaşı~|Emekli~|Fırat@|Harmanlar~|Hürriyet~|Ilgın~|Karabağlar~|Kızılırmak~|Meriç~|Meriç/1~|Meriç/2~|Meriç/3~|Meriç/4~|Okul~|Ozanlar-@|Sönmez~|Vişneli~|Vişneli/1~|Yavuz@|Yeşilırmak~|Yücel~|Yüksel=|Çalışkanlar~|Çoruh~|Çorum Amasya Yolu 1@|Çorum Amasya Yolu/1~|Çorum Amasya Yolu/2~|Çorum Amasya Yolu/3~|Çorum Amasya Yolu/4~|Çorum Amasya Yolu/5~|Çorum-amasya-karayolu@|Öksüz~|Şehit Muharrem Ünlü@|Şehit Muharrem Ünlü/1~|Şehit Muharrem Ünlü2~
+24657	Elmapınar Köyü	 Köy$
+20446	Elvançelebi Köyü, Bahçelievler Mevkii	Ara~|Atatürk~|Fatih~|Güvercin~|Hürriyet~|Kazım Karabekir~|Meydan~|Mimar Sinan~|Türbe~|Çorum-amasya Yolu~|İğdeler~
+20448	Elvançelebi Köyü, Dediği Mevkii	Arsana~|Atatürk~|Bahçe~|Dediği Köy$|Fatih~|Gökdere~|Harman~|Hürriyet~|Kazım Karabekir~|Killik~|Kısa~|Çay~|Çorum Amasya Karayolu~
+20447	Elvançelebi Köyü, Çamlık Mevkii	Akpınar~|Atatürk~|Cehrilik~|Eski Hamam~|Hamam~|Hanönü~|Lojman~|M.akif Ersoy~|Meydan~|Mütevelli~|Orta~|Tekkeşin~|Tepe~|Türbe~|Yavuz Selim~|Çadır~|Çimen Üstü~|Çorum-amasya Yolu~|Şht.mustafa Eker~
+24658	Emirbağı Köyü	 Köy$
+24659	Fakıahmet Köyü	 Köy$
+24661	Figani Köyü	 Köy$
+24662	Figani Köyü, Koloğlu Mezrası	 Köy$
+24660	Fındıklı Köyü	 Köy$
+24663	Geykoca Köyü	 Köy$
+24664	Gökçebel Köyü	 Köy$
+24665	Güngörmez Köyü	 Köy$
+24666	Hisarkavak Köyü	 Köy$
+20441	Hıdırlık Mah.	Aykaçlar 1~|Aykaçlar~|Aylar 1~|Aylar~|Meydan 1~|Meydan~|Sözallar 1~|Sözallar 2~|Sözallar~|Tepebaşı 1~|Tepebaşı 2~|Tepebaşı 3~|Tepebaşı 4~|Tepebaşı 5~|Tepebaşı 6~|Tepebaşı~|Uşaklar 1~|Uşaklar~|Şehir Yolu~
+24667	Işıklı Köyü	 Köy$
+24669	Kalecik Köyü	 Köy$
+24670	Karacaören Köyü	 Köy$
+24671	Karacuma Köyü	 Köy$
+24672	Karacuma Köyü, Mollacop Mevkii	 Köy$
+24673	Kargı Köyü	 Köy$
+24674	Kayı Köyü	 Köy$
+24676	Konaç Köyü	 Köy$
+24677	Koyunağılı Köyü	 Köy$
+24678	Kozören Köyü	 Köy$
+24682	Kuyucak Köyü	 Köy$
+24679	Köprübaşı Köyü	 Köy$
+24680	Körücek Köyü	 Köy$
+24681	Köseeyüp Köyü	 Köy$
+24675	Kışlacık Köyü	 Köy$
+20442	Mescit Mah.	Ahmet Taner Kışlalı@|Bayramcı~|Bilinmeyen1~|Bilinmeyen6~|Bilinmeyen7~|Biçer 1~|Biçer 2~|Biçer~|Büklüm 1~|Büklüm 2~|Büklüm~|Can~|Güçlü~|Harmanlar~|Kamuran Yüksel~|Kamuran Yüksel/1~|Karabağlar~|Karşıyaka 1~|Karşıyaka Kümeevler~|Karşıyaka~|Nafız Koldaş@|Pınar 1~|Pınar 2~|Pınar 4~|Pınar@|Yüce~|Çamlık~|Üçüncü~|Şehit Hıdır Gençaslan 1~|Şehit Hıdır Gençaslan~
+24683	Pınarbaşı Köyü	 Köy$
+185102	Pınarbaşı Köyü, Pınarbaşı Mücavir Mevkii	Alagüney Mevki=
+20443	Sarıdede Mah.	Bahriye Üçok@|Bahçeler~|Bahçeler/1~|Bahçeler/2~|Bahçeler/3~|Bağlar~|Bey Özü Köy Yolu@|Bey Özü Yolu-@|Bilinmeyen 14~|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen12~|Bilinmeyen8~|Bilinmeyen9~|Camii~|Ceyhan~|Cömert~|Fıçılar~|Harun Baltacı~|Karataş Bağlar Yolu@|Köprübaşı Köy Yolu~|Lale~|Lale/1~|Pazar~|Poyraz~|Sanat Okulu@|Su Deposu~|Tuna~|Tuna/1~|Uğur Mumcu@|Yahya Kemal@|Yeni Yol~|Zafer 1~|Zafer~|Zafer/1~|Zafer/2~|Zafer/3~|Zafer/4~|Çiftlik~|Çorum Amasya Yolu 1@|Çorum-amasya Karayolu-@|Çorum-amasya-karayolu@|Çörekim~
+24684	Sarıhasan Köyü	- Köy$
+24686	Sorkoğlan Köyü	 Köy$
+24688	Söğütyolu Köyü	 Köy$
+24687	Söğütönü Köyü	 Köy$
+24689	Sülüklü Köyü	 Köy$
+24685	Sırçalı Köyü	 Köy$
+24690	Tanrıvermiş Köyü	 Köy$
+24691	Terken Köyü	 Köy$
+24692	Totali Köyü	 Köy$
+20445	Tutluk Mah.	Arzu~|Atmaca~|Bekir Aksoy~|Bilinmeyen36~|Bilinmeyen5~|Canlar~|Dilber~|Dilber1~|Erdoğanlar~|Erocağı~|Esenler@|Faydacı~|Gönül~|Hürriyet~|Kaymak=|Keskin~|Kurs~|Kurs1~|Lise~|Lojman~|Mecitözü Küçük Sanayi Sitesi~|Mecitözü Küçük Sanayi Sitesi1~|Mecitözü Küçük Sanayi Sitesi10~|Mecitözü Küçük Sanayi Sitesi11~|Mecitözü Küçük Sanayi Sitesi2~|Mecitözü Küçük Sanayi Sitesi3~|Mecitözü Küçük Sanayi Sitesi4~|Mecitözü Küçük Sanayi Sitesi5~|Mecitözü Küçük Sanayi Sitesi6~|Mecitözü Küçük Sanayi Sitesi7~|Mecitözü Küçük Sanayi Sitesi8~|Nafız Koldaş@|Ozanlar@|Uçar~|Zahireciler~|Zübeyde Hanım@|Çimen~|Çorum Amasya Yolu 1@|Çorum Amasya Yolu1~|Çorum Amasya Yolu2~|Çorum-amasya-karayolu@|Özyolu~|Özçekiç~|Ünal~|Üçüncüoğlu 1~|Üçüncüoğlu@|İş Hanı~|Şht. Nusret Erdem 3~|Şht. Nusret Erdem1~|Şht. Nusret Erdem2~|Şht.mustafa Eker@|Şht.nusret Erdem@|Şht.nusret Erdem1~|Şht.nusret Erdem2~|Şht.nusret Erdem3~|Şht.nusret Erdem4~|Şht.nusret Erdem5~
+24693	Vakıflar Köyü	 Köy$
+24694	Yedigöz Köyü	 Köy$
+24695	Yeşilova Köyü	 Köy$
+24652	Çayköy Köyü	 Köy$
+24653	Çitli Köyü	 Köy$
+24668	İbek Köyü	 Köy$
+20444	Şehler Mah.	Araz~|Cami 1~|Cami 2~|Güler 1~|Güler~|Sakatlar~|Tekke 1~|Tekke 2~|Tekke 3~|Tekke 4~|Tekke 5~|Tekke 6~|Tekke 7~|Tekke 8~|Tekke~|Tepe 1~|Tepe~|Tepebaşı 4~|Çördükler 1~|Çördükler~|Özkarayolu~|Özkarayolu1~|Özkarayolu2~|Özkarayolu3~|Özkarayolu4~|Özkarayolu5~|Özkarayolu6~|Şen~

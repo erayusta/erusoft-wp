@@ -1,0 +1,109 @@
+44875	Akyayla Köyü	Akyayla=
+44870	Akçakale Köyü	Akçakale=
+44871	Akçay Köyü	Köyün Kendisi=
+44872	Akçay Köyü, Köprübaşı Mevkii	Köprü Başı=
+44935	Akören Köyü	Akören=|Esenkır=
+44876	Altungedik Köyü	Altungedik=
+44878	Altungedik Köyü, Tek Ev Mezrası	
+44877	Altungedik Köyü, Tek Evler Mezrası	Tek Evler=
+44883	Aydınkavak Köyü, Değirmen Mevkii	Değirmen Mevkii=
+44882	Aydınkavak Köyü, Diktaş Mevkii	Diktaş=
+44884	Aydınkavak Köyü, Köprübaşı Mevkii	Köprübaşı=
+44885	Aydınkavak Köyü, Köyiçi Mevkii	Köy İçi=
+44873	Ağdam Köyü	Ağdam Köyün Kendisi=
+44874	Ağdam Köyü, Afet Evleri Mevkii	Afet Evleri=
+41765	Aşağı Kümbet Mah.	22~|260~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|83~|85~|86~|87~|89~|90~|91~|93~|94~|Ateşyen~|Camii~|Derviş Efendi~|Kaldırım~|Kamil Baba~|Köse Kofe Çıkmazı~|Köse~|Çaloğlu~
+41766	Aşağıdere Mah.	3.~|302~|4~|4.~|44~|60~|61~|62~|64~|65~|66~|67~|68~|69~|Aluşluk@|Kofe~|Köprü~|Taştan Çıkmazı~
+44879	Aşağıkaragüney Köyü	Aşağıkaragüney Köyün Kendisi=
+44880	Aşağıkaragüney Köyü, Aşağıkaragüney Mezrası Mezrası	Aşşağıkaragüney Mezrası=
+44881	Aşağıtut Köyü	Aşağıtut=
+41767	Bayam Mah.	1.~|50~|51~|52~|53~|Bayam Kümesi=|Çiçekli Konutları~
+44886	Bulanık Köyü	Köyün Kendisi=
+44887	Bulanık Köyü, 1.mezra Mezrası	1.mezra=
+44888	Bulanık Köyü, 2.mezra Mezrası	2. Mezra=
+44889	Bulanık Köyü, 3,mezra Mezrası	3. Mezra=
+44936	Bücüklü Köyü	Bücüklü=
+44937	Camuşlu Köyü	Köyün Kendisi=
+44938	Camuşlu Köyü, Pınar Göze Mevkii	Pınargöze=
+44945	Denizgölü Köyü	Denizgölü=
+44897	Devebük Köyü	Devebük=
+44896	Değirmendere Köyü	Değirmendere=
+44898	Dibekkaya Köyü	Dibekkaya=
+44900	Donandı Köyü	Köyünkendisi~
+44901	Donandı Köyü, Merkez Mevkii	Donandı Merkez=
+44899	Donandı Köyü, Yukarı Donandı Mezrası	Yukarı Donandı=
+44902	Duranlar Köyü	Duranlar=
+44903	Esenkır Köyü	Esenkır=|Köyün Kendisi=
+44904	Esenkır Köyü, Esenkır Mezrası	Esenkır=
+44905	Evyapan Köyü	Evyapan=
+44906	Görecek Köyü	Görecek=
+44946	Gümüştepe Köyü	Gümüştepe=
+44907	Günindi Köyü	Günindi=
+44908	Günindi Köyü, Rızvan Mezrası	Rızvan=
+44909	Günindiyaylası Köyü	Günindi Yaylası=
+44910	Güvendik Köyü	Güvendik=
+41768	Haznedar Mah.	Küme=
+44911	Karabağ Köyü	Karabağ=
+44947	Karaboncuk Köyü	Karaboncuk=
+44912	Karacaören Köyü	Karacaören=
+44913	Karakale Köyü	Karakale Köyün Kendisi=
+44914	Karakale Köyü, Tab Mezrası	Tab Mezrası=
+44948	Karakuş Köyü, Aras Mevkii	Aras=
+44949	Karakuş Köyü, Merkez Mevkii	Karakuş=
+44915	Keşişkıran Köyü	Köyün Kendisi=
+44916	Keşişkıran Köyü, Keşişkıran Mezrası	Keşişkıran Mezrası=
+44950	Kozlu Köyü	Kozlu=
+44918	Kuloğlu Köyü	Kuloğlu=
+44919	Kuloğlu Köyü, Demirkapı Mezrası	Demirkapı=
+44921	Kuloğlu Köyü, Hizan Mezrası	Hizan=
+44920	Kuloğlu Köyü, Tut Mezrası	Tut=
+44922	Kuruyayla Köyü	Köyün Kendisi=
+44923	Kuruyayla Köyü, Çavuşlar Mezrası	Çavuşlar=
+44924	Kuruyayla Köyü, Çiflik Mezrası	Çifitlik=
+44951	Kömürlü Köyü	Kömürlü=
+44917	Körpınar Köyü	Körpınar Köyün Kendisi=
+99074	Körpınar Köyü, Körpınar Afetevleri Mevkii	
+44934	Kötek Köyü	Kötek=
+44953	Ortaköy Köyü	Ortaköy=
+44954	Paslı Köyü	Paslı=
+44925	Sağbaş Köyü	Sağbaş=
+99780	Sesveren Köyü, Köyün Kendisi Mevkii	Sesveren=
+44957	Taşbilek Köyü	Taşbilek=
+44926	Taşburun Köyü	Taşburun=
+99199	Taşburun Köyü, Taşburun Afet Evleri Mevkii	Taşburun Afet Evleri=
+44927	Tomruktaş Köyü	Tomruktaş=
+41770	Toprakkale Mah.	302~|40~|41~|42~|44~|Dar~|Encihan~|Hüseyin Bey 1~|Hüseyin Bey~|Köprü~|Nebi Çıkmazı~
+44958	Tunçkaya Köyü	Köyün Kendisi=
+44959	Tunçkaya Köyü, Değirmendere Mezrası	Değirmendere=
+44961	Yalnızağaç Köyü	Yalnızağaç=
+196995	Yankıpınar Köyü, Gözlüce Mevkii	Gözlüce=
+196993	Yankıpınar Köyü, Güven Mevkii	Güven=
+99258	Yankıpınar Köyü, Köyün Kendisi Mevkii	Yankıpınar=
+44928	Yağlıca Köyü	Yağlıca=
+44929	Yellikıran Köyü	Yellikıran=
+44930	Yenice Köyü	Yenice=
+44931	Yolkorur Köyü	Yolkorur=
+41771	Yukarı Dere Mah.	1..~|2.~|30~|32~|33~|34~|35~|36~|37~
+41772	Yukarı Kümbet Mah.	11~|12~|13~|15~|18~|19~|20~|21~|22~|23~|24~|25~|26~|83~|Kızılark~|Peri Bedirhan Çıkmazı~|Peri~|Tiroğlu~|Toperler Çıkmazı~|Özbek Çıkmazı~|Şido~
+44932	Yukarıkaragüney Köyü	Köyün Kendesi=
+197019	Yukarıkaragüney Köyü, Gülağa Mevkii	
+44933	Yukarıkaragüney Köyü, Yukarıgüney Kara Mezrası	Yukarı Güney Kara=
+41773	Zuvar Mah.	1~|10~|1123~|14~|2~|3~|4~|5~|68~|7~|8~|9~|Aluşluk@|Erce Çıkmazı~|Okul~|Ortayol~|Saraçoğlu~
+44892	Çallı Köyü, Bayam Mevkii	
+44891	Çallı Köyü, Çallı Afetevleri Mevkii	Çallı Afet Evleri Mevkii=
+44893	Çallı Köyü, Çallı Bayam Mevkii	Çallı Bayam Mevkii=
+44890	Çallı Köyü, Çallı Mevkii	Çallıı=
+44894	Çayarası Köyü	Çayarası=
+44939	Çaybük Köyü	Çaybük=
+44940	Çengilli Köyü	Çengilli Köyün Kendisi=
+44941	Çengilli Köyü, Çengilli Mezrası	Çengilli Mezrası=
+44942	Çeperli Köyü	Çeperli=
+44943	Çilehane Köyü	Çilehane=
+44895	Çiçekli Köyü	Köyün Kendisi=
+139559	Çiçekli Köyü, Bahçecik Mevkii	Bahçecik=
+44944	Çukurayva Köyü	Çukurayva=
+44960	Ürker Köyü	Ürker=
+99106	Ürker Köyü, Ülker Afetevleri Mevkii	
+44955	Şaban Köyü	Köyün Kendisi=
+44956	Şaban Köyü, Seksen Mezrası	Seksen=
+41769	Şahindere Mah.	100~|100.yıl@|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|155~|157~|158~|159~|160~|161~|162~|163~|165~|166~|167~|168~|169~|170~|171~|172~|173~|174~|175~|176~|177~|178~|179~|180~|181~|182~|183~|184~|185~|186~|187~|188~|189~|190~|191~|192~|193~|196~|198~|199~|200~|201.~|202~|203~|204~|205~|206~|207~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|229~|230~|231~|232~|234~|236~|237~|238~|239~|240~|241~|242~|243~|244~|245~|246~|247~|248~|249~|250~|251~|252~|253~|254~|255~|256~|257~|258~|259~|300~|301~|303~|36~|37~|38~|4~|6~|82~|98~|Ali Ataman@|Ali Ataman Çıkmazı~|Aluşluk@|Efo~|Eleyüp~|Emniyet Amiri Ahmet Yıldız@|Hacı Kağızman@|Hacı Kağızman Çıkmazı~|Hakan Özkaner@|Hal Binası~|Hal~|Hasan Acara@|Karaca~|Küçük Sanayi Sitesi~|Marongozlar~|Mehmet Akif Ersoy@|Mehmet Usta~|Mezbaha~|Milli Egemenlik@|Milli Egemenlik Meydanı Myd.|Narinkale@|Nüsret Bey Çıkmazı~|Ortayol~|Selasker~|Ustalar~|Yeni 1~|Yeni Çarşı@|Ömeroğlu~|İnönü@|İskan Evleri~|İskan Evleri Çıkmazı~|İsmail Bey~|İstiklal Alanı Myd.|İstiklal@|Şehitlik@

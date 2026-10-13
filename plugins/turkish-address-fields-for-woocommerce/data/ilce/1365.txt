@@ -1,0 +1,31 @@
+178317	Adalıkuzu Mah.	1.adalıkuzu=|2.adalıkuzu=
+178323	Afşar Mah.	Afşar_1=
+178319	Akbaş Mah.	Akbaş=
+178321	Akçakese Mah.	Akçakese=
+2099	Aşağı Mah.	Afşar~|Aşağı Cami~|Aşağı=|Bayraktar Çeşme~|Bayırönü~|Bölükbaşı~|Garipçe=|Gökmen~|Hamamönü~|Kantarcı~|Köprübaşı~|Köprübaşı-~|Leblebici~|Ordu@|Sarayönü~|Tuğrul~|Yanık~|Yediler~|Çınarlı~|Özden~|İnkılap@
+178325	Boyalı Mah.	1.boyalı=|2.boyalı=|3.boyalı=
+2100	Emirler Mah.	Ağaçeşme~|Bayraktar Çeşme~|Başöğretmen İzcibey~|Derebaşı~|Emirler=|Fatih Sultan Mehmet@|Fatih Sultan Mehmet-@|Hamamönü~|Mescit~|Meydan~|Orman~|Sarayönü~|Sağlık~|Uludağ~|Yağcılar~|İnkılap@|İsmail Hakkı Dokumacı~|İstatistik~
+178329	Garipçe Mah.	Garipçe=
+197249	Güneyce Mah.	Barbaros@|Bayrak@|Beypazarı@|Ergenekon~|Gazi@|Güneyce=|Hilal@|Hilmi Çayırlıoğlu@|Karagöl~|Maraşal Fevzi Çakmak@|Mareşal@|Mimarsinan- Myd.|Orhangazi~|Oğuzhan@|Perili=|Pirireis@|Sancak@|Vatan@|Yıldız@|Özal@|Şehit@
+178331	Güzel Mah.	Güzel=
+178333	Hacılar Mah.	Hacılar=
+178335	Kadıobası Mah.	Kadıobası=
+178337	Kamanlar Mah.	19 Mayıs@|Hacılar=|Kamanlar=
+178339	Karacaören Mah.	Karacaören=
+178341	Kavaközü Mah.	1.kavaközü=|2.kavaközü=
+178343	Kayı Mah.	Kayı=
+178345	Kırkkavak Mah.	1.kırkkavak=|2.kırkkavak=
+178347	Meyvabükü Mah.	1.meyvabükü=|Meyvabükü=
+178353	Salihler Mah.	Salihler=
+178355	Sapanlı Mah.	Sapanlı=
+178313	Sorgun Mah.	Ahmet Onbaşı~|Ahmet Çavuş~|Alperenler~|Ankara@|Atatürk_2@|Aymazlar~|Beğböğrek~|Fatih Sultan Mehmet_1@|Gazi Ali Çavuş@|Karagöz~|Koca Muhtar~|Kuyu Başı~|Köroğlu~|Lale_1~|Mehmet Çavuş~|Menekşe~|Oğuz Kaan~|Pamuk Dede~|Sancakcılar~|Savaşlar~|Sele~|Semerci~|Sorgun-=|Yağmur Baba~|Yunus Emre@|Çiğdem~|Öksüzler~|İmamoğlu~|Şehit Ayhan Oğuz~|Şehit Necibettin Altay@
+178357	Tahtacıörencik Mah.	1.tahtacıörencik=|2.tahtacıörencik=
+178359	Taşören Mah.	Taşören=
+178361	Yelli Mah.	1.yelli=|2.yelli=
+2101	Yeni Mah.	Akasya~|Atatürk@|Bayar~|Elçibey~|Emek~|Eroğlu~|Ertuğrulgazi~|Esertepe~|Fatih~|Gaziosmanpaşa~|Günsazak~|Hilal_1~|Lale~|Leblebici~|Mithatpaşa@|Mutlu~|Namık Kemal~|Ordu@|Osmangazi~|Sağırlı~|Villa~|Yıldırım~|Şehit Jnd.ast.tufan Karataş~|Şehit Prş.ayşe Söylemez~
+178315	Yeşilöz Mah.	Atatürk_1@|Cumhuriyet@|Dikmen~|Güney Yazısı~|Hanönü@|Harmanlık=|Hatip~|Kadıbağı~|Kalaycı Yolu~|Kamanlar=|Karaağaç~|Karşı Mahalle~|Kiymir Çayı Sahil@|Kökez~|Mıhlı Pınar~|Okul~|Sağlık_1~|Taşpınar~|Tepecik@|Yeni Mahalle=|Yukarı Bağlar~|Yukarı Cami Önü Meydanı@|Çukuryazısı~|Şehit Astsubay İrfan Türker~|Şehit Uzman Çavuş Vedat Odabaşı~|Şehit Üsteğmen Hüsnü Türköz~|Şelale~
+2102	Yukarı Mah.	1~|10~|11~|12~|13~|14~|19 Mayıs@|2~|3~|4~|Albayrak~|Arıkozan~|Atatürk@|Bükyolu~|Cumhuriyet_1 Myd.|Derebaşı~|Esertepe~|Fatih Sultan Mehmet@|Gençlik@|Kantarcı~|Karaman~|Karaoğlan~|Köprübaşı~|Leblebici~|Meydan~|Ordu@|Sağlık~|Serdar~|Sümbül~|Tiftikçi~|Yenipınar~|Yukarı=|Özbaş~|Özdal~|Özden~|İnkılap@|Şehit Ast.irfan Türker~|Şehit Er Tolga Akpınar~|Şehit Yüzbaşı Tuncay Orhan~
+178311	Çağa Mah.	Akşemseddin=|Aşağı Mahalle Küme Evleri=|Belediye Meydanı- Myd.|Cami~|Fevzi Efendi@|Fidan~|Hacıhasan~|Hisar@|Kanuni@|Karaağaç- Myd.|Kazım Karabekir@|Kocataş Myd.|Kuyucu~|Mehmet Akif~|Rüzgarlı~|Süleyman Hilmi@|Ulupınar_1~|Uzun~|Yandak~|Yavuz Selim~|Yüksel~|Çağabey@|Şahin~
+178327	Çukurören Mah.	1.çukurören=|2.çukurören=|3.çukurören=|Durnalı Mezrası=
+178351	Özköy Mah.	Özköy=
+178349	Özçaltı Mah.	Özçaltı=

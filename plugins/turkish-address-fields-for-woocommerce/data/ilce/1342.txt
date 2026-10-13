@@ -1,0 +1,73 @@
+76816	Akçaşar Köyü	 Köy$
+100113	Ali Kemali Efendi Mah.	201~|202~|203~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|228~|229~|Cavit Bozbıyık@|Devlet Bahçeli@|Dr.bahattin Taner@|Kayseri-sivas%|Nergiz~|Nevzat Yücedağ@|Ragıp Çatak~|Tuğ-san@|Çiğdem~
+196515	Alperen Mah.	101~|102~|103~|104~|105~|106~|Bahar~|Bağlar~|Cami~|Fatih~|Göktürk@|Hafız Uğurlu Petrol Karşısı=|Hayvancılık Bölgesi=|Karagöl~|Köroğlu@|Kızılırmak@|Kızışar~|Maden~|Su Deposu=|Tck İl Yolu@|Yasemin@|İstasyon~
+70369	Bahçeli Mah.	501~|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|Adem Yavuz@|Badem 1~|Badem 2~|Badem~|Badem3~|Badem4~|Bayır~|Cemil Özcan@|Cengiz Topel@|Cevat Bozbıyık~|Cevat Bozbıyık1~|Cumhuriyet1 Myd.|Devlet Bahçeli@|Dr.bahattin Taner@|Evliya~|Evliya1~|Habil~|Hacı Osman Efendi~|Haruk=|Hikmet Yalçın~|Hikmet Yalçın1~|Hükümet 1~|Hükümet@|Kahri Efendi@|Kara Özü 1~|Kara Özü 2~|Kara Özü@|Kayalı~|Külekçi=|Papatya~|Sağlık Ocağı@|Seyran~|Seyrantepe@|Tekke@|Tuğsan 1~|Uzun Bayır~|Yavuz Selim@
+76817	Baştepeler Köyü	 Köy$
+76818	Bulhasan Köyü	 Köy$
+76819	Burhan Köyü	 Köy$
+76822	Cesurlar Köyü	 Köy$
+76820	Cesurlar Köyü, Cevizcik Mezrası	 Köy$
+76821	Cesurlar Köyü, Sarıkaya Mezrası	 Köy$
+76832	Dendil Köyü	 Köy$
+76833	Durgunsu Köyü	 Köy$
+76834	Durgunsu Köyü, Üçaıl Mezrası Mezrası	 Köy$
+76839	Ekizce Köyü	 Köy$
+76836	Eskiyurt Köyü	 Köy$
+76835	Eskiçubuk Köyü	 Köy$
+70375	Eğerci Köyü, Bahçelievler Mevkii	Atatürk~|Bektaş Tepesi~|Cumhuriyet~|Eğercibaba~|Fatih~|Fevzi Çakmak~|Gümüşdere~|Gürüz~|Hasan Tahsin~|Mimar Sinan~|Selçuklu~|Yeşildere~|Yıldırım Beyazıt~|Özeller~|İsmet İnönü~
+70376	Eğerci Köyü, Göksu Mevkii	Ahmet Yesevi~|Atatürk~|Cami~|Devrim~|Evliya~|Eğerci Baba~|Fatih~|Gemerek~|Kenan Evren~|İbni Sina~
+70377	Eğerci Köyü, Karşıyaka Mevkii	Atatürk~|Cengiz Topel~|Gemerek~|Kayseri~|Kazım Karabekir~|Mehmet Akif Ersoy~|Mithatpaşa~|Tuna~|Yavuz Selim~|Yunus Emre~|İstiklal~
+76837	Eşikli Köyü	 Köy$
+70370	Fevziçakmak Mah.	301~|302~|303~|304~|305~|Açelya~|Begonya~|Cavit Bozbıyık@|Devlet Bahçeli@|Dr.bahattin Taner@|Evren@|Fevzi Çakmak Yeniyol7~|Gül~|Güneşevler 1.~|Güneşevler 2.~|Güneşevler 3.~|Hanifi Demirkol@|Hasan Bey Deresi=|Hastane 2~|Kayseri-sivas%|Lale 1~|Lale~|Nergiz~|Okullar@|Osb 1~|Osb 2~|Osb 3~|Osb 4~|Osb 5~|Osb 6~|Osb-1@|Osb-2@|Osb-3@|Sağlık Ocağı@|Susam~|Tuğ-san@|Yenıyol 58~|Yeşilöz Grup Köy Yolu~|Ömer Sami Bozbek~|Şehit Pilot M.aras@
+196511	Gaziosmanpaşa Mah.	401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|Alparslan@|Bayındır~|Cihangir~|Ekizce Talazoğlu Grup Köy Yolu~|Fevzi Çakmak@|Gültepe~|Kahramanlar~|Kervan~|Mevlana~|Mimarsinan~|Osmanlı@|Oğuzeli@|Plevne~|Selçuk~|Sivas-@|Sivas1@|Yeni Sanayi 1~|Yeni Sanayi 2~|Yeni Sanayi 3~|Yeni Sanayi 4~|Yeni Sanayi 5~|Özerler Madencilik=|İlhanlı~|İnönü@|Şehit Gazi Akşap~
+76838	Hacıyusuf Köyü	 Köy$
+99338	Horuk Mah.	Horuk Mahalle İçi=|Tck İl Yolu@
+76840	Karaağıl Köyü	 Köy$
+196513	Karacalar Mah.	527~|Hasanbeyderesi=|Küme=|Yesevi -@|Yesevi@
+76841	Karaerkek Köyü	 Köy$
+76842	Karagöl Köyü	 Köy$
+76843	Kartalkaya Köyü	 Köy$
+76844	Keklicek Köyü	 Köy$
+76845	Kocaoğlu Köyü	 Köy$
+76847	Köseli Köyü	 Köy$
+76846	Köseli Köyü, Kabaktepe Mezrası	 Köy$
+76849	Kümeören Köyü	 Köy$
+76848	Küçüktuzhisar Köyü	 Köy$
+100112	Muhsin Yazıcıoğlu Mah.	2.etap Toki Kümeevler=|501~|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515~|517~|518~|519~|520~|521~|522~|523~|524~|525~|526~|527~|528~|529~|530~|Eski Sanayi 1~|Eski Sanayi 3~|Eski Sanayi 4~|Eski Sanayi 5~|Hastane 1~|Hastane 2~|Kayseri-sivas%|Küme Evler~|Seyrantepe@|Tataroğlu 1~|Tataroğlu 2~|Tataroğlu 3~|Yavuz Bülent Bakiler@|Yenıyol 58~|Şehit Ahmet Adıyaman~|Şehit Pilot M.aras@
+76850	Osmanuşağı Köyü	 Köy$
+76858	Seydinali Köyü	 Köy$
+70384	Sızır Beldesi, Arpaözü Mah.	Kuzey~|Sazlık=|Subaşı~|Yamaç~|Yıldırım~
+70380	Sızır Beldesi, Kalebaşı Mah.	Cami~|Gül~|Macitler~|Meydan~|Meşeciler~|Mithat Paşa@|Nergiz~|Papatya~|Çadır Kent=|İnönü@|Şehit Şahin Kabasakal@
+70381	Sızır Beldesi, Köprübaşı Mah.	1.~|2.~|Atatürk@|Bahçelievler~|Elma Oku~|Fatih~|Garaj~|Gürler~|Kale~|Lale~|Mithat Paşa@|Nejat Uygur~|Obruk=|Sivas@|Çamlık~|İnönü@
+70382	Sızır Beldesi, Subaşı Mah.	A.ipekçi@|Göksu@|Hal~|Kaynak~|Kumartaş~|M.akif@|Namık Kemal@|Okul~|Yayla Yolu@|Çayır Alan@|Özbey~|Şehit Şahin Kabasakal@
+70383	Sızır Beldesi, Yeni Mah.	Atatürk@|Barış~|Demetevler@|Düzağaç~|Girne@|Osman Tamer@|Y.sultan Selim@|Çağırşak=|İstiklal@|Şehit Murat Şahin@
+76859	Talazoğlu Köyü	 Köy$
+76860	Talazoğlu Köyü, Kuşkayası Mezrası	 Köy$
+76861	Tatlıpınar Köyü	 Köy$
+76862	Tekmen Köyü	 Köy$
+196517	Yenidoğan Mah.	701~|702~|703~|Alparslan@|Anayurt~|Avşar@|Bahar-~|Bağlar-~|Buhara~|Camii Sokagı~|Cumhuriyet@|Dargeçit@|Fatih-~|Gültepe~|Karagöl-~|Karanfil@|Kızışar-~|Maden-~|Merve@|Mimarsinan~|Selçuk~|Sivas-@|Sivas1@|Sümer@|Toki 1. Etap~|Tuna@|Uluğbey@|Uğur~|Vatan@|Yenidoğan Bahar~|Yenidoğan Bağlar~|Yenidoğan Fatih~|Yenidoğan Karagöl~|Yenidoğan Kızışar~|Yenidoğan Maden~|Yenidoğan İstasyon~|Yesevi@|İstanbul@|İstasyon Altı=|İstasyon-~
+196519	Yenihayat Mah.	Alperen Yeniyol~|Atakent=|Atatürk@|Bahar~|Bağlar~|Bozok@|Cami~|Fatih~|Gültepe-~|Gürsel Devamı=|Karagöl~|Köroğlu@|Kızışar~|Maden~|Malazgirt@|Mimarsinan-~|Plevne-~|Selçuk-~|Vatan@|Yenidoğan İstasyon~|Yenihayat Fatih~|Yenihayat Gültepe~|Yenihayat Mimarsinan~|Yenihayat Plevne~|Yenihayat Selçuk~|Yenihayat İstasyon Altı=|Yenı Yol 1~|Yesevi@|İstanbul@|İstasyon~
+76863	Yeniköy Köyü	 Köy$
+76864	Yeşilöz Köyü	 Köy$
+70371	Yukarı Mah.	801~|802~|803~|804~|805~|806~|807~|808~|809~|811~|812~|813~|814~|815~|817~|818~|819~|820~|821~|822~|823~|825~|827~|828~|829~|830~|831~|832~|Caferler~|Cami 1.~|Cami 2.~|Cami 3.~|Cami 4.~|Cumhuriyet1 Myd.|Devlet Bahçeli@|Fatih-~|Gonca~|Hacıvaki~|Hoca Ahmet Efendi~|Kahri Efendi@|Karanfil1~|Karapınar=|Kasım Beyli Mezrası=|Kayalar Başı~|Külekçi=|Kümeevler=|Manolya~|Menekşe~|Okullar Sokak~|Okullar1@|Pekmezin Deresi=|Sofular~|Tatlıcak Mezrası=|Tck Devlet Yolu@|Yeşilöz Grup Köy Yolu~|Zambak~
+76823	Çat Köyü	 Köy$
+76825	Çat Köyü, Ademin Yaylası Yayla Evleri	 Köy$
+76827	Çat Köyü, Aligillerin Yaylası Yayla Evleri	 Köy$
+76830	Çat Köyü, Hatabalanı Yaylası Yayla Evleri	 Köy$
+76826	Çat Köyü, Kilisealan Yaylası Yayla Evleri	 Köy$
+76829	Çat Köyü, Neciplerin Yaylası Yayla Evleri	 Köy$
+76824	Çat Köyü, Yayla Evi Yayla Evleri	 Köy$
+76828	Çat Köyü, Ömerçavuş Yaylası Yayla Evleri	 Köy$
+70372	Çepni Beldesi, Alaybey Mah.	Asmalı~|Bahçelievler~|Dağınık=|Değirmen~|Emek~|Erdal İnönü@|Gül~|Güneş~|Huzur~|Irmak=|Kayın=|Mehmet Altay@|Menekşe~|Mestan Bey@|Meşe~|Okul@|Sınır@|Zafer~|Çağlayan~|Çiçekli~|Çıkmaz~|Şirin~
+70374	Çepni Beldesi, Uğur Mumcu Mah.	Bağlar~|Fidanlık@|Hafız Ömer Öcal@|Kınalı Kapı@
+70373	Çepni Beldesi, Ş.binbaşı Mehmet Aras Mah.	11 Evler@|Akasya~|Ceylan~|Dere~|Dikmen=|Doğu@|Erdal İnönü@|Fidanlık@|Güçhan@|Hayri Özdemir~|Kardelen~|Kavak~|Kuşburnu~|Mevsim~|Naneli~|Papatya~|Pınar=|Serinevler@|Sümbül~|Sınır@|Tatar~|Yüce~|Yıldırım~|Zakkum~|Zümrüt~|Çiğdem~|Çınar~
+76831	Çiçekoğlu Köyü	 Köy$
+76851	Örenyurt Köyü	 Köy$
+76857	Öziçi Köyü	 Köy$
+76854	Öziçi Köyü, Abdurrahmanlar Mezrası Mezrası	 Köy$
+76855	Öziçi Köyü, Aşağı Kazaklı Mezrası Mezrası	 Köy$
+76856	Öziçi Köyü, Ebiller Mezrası	 Köy$
+76852	Öziçi Köyü, Sıyırmalı Mezrası	 Köy$
+76853	Öziçi Köyü, Yukarı Kazaklı Mezrası Mezrası	 Köy$
+70379	İnkışla Köyü, Bahçelievler Mevkii	Atatürk~|Badem~|Begonya~|Elvan~|Filiz~|Gonca~|Kamelya~|Kardelen~|Nilüfer~|Papatya~|Yasemin~|Yavuz~|Yonca~|Zambak~|İstiklal~|Ş.muzaffer Ağbaba~
+70378	İnkışla Köyü, Bağlarbaşı Mevkii	Akasya~|Atatürk~|Açelya~|Gelincik~|Gül~|Kaktüs~|Kamer~|Karanfil~|Kestane~|Lale~|Leylak~|Manolya~|Menekşe~|Nergiz~|Nevruz~|Reyhan~|Selvi~|Susam~|Sümbül~|Zakkum~|Çiğdem~|İstiklal~|Ş.muzaffer Ağbaba~

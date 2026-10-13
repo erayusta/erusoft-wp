@@ -1,0 +1,80 @@
+28490	Akgömlek Köyü	 Köy$
+28489	Akgömlek Köyü, Ciban Mezrası Mezrası	 Köy$
+28491	Akgömlek Köyü, Karaçor Mezrası Mezrası	 Köy$
+28485	Akçatepe Köyü	Akçatepe=
+28486	Akçatepe Köyü, Acısu Mezrası	 Köy$
+28487	Akçatepe Köyü, Doğan Mezrası	 Köy$
+28488	Akçatepe Köyü, Emre Mezrası	 Köy$
+28498	Altınkürek Köyü	 Köy$
+28496	Altınkürek Köyü, Derince Mezrası Mezrası	 Köy$
+28495	Altınkürek Köyü, Karşı Mevkii Mevkii	 Köy$
+28494	Altınkürek Köyü, Orta Mevkii Mevkii	 Köy$
+28497	Altınkürek Köyü, Yukarı Mevkii Mevkii	 Köy$
+28492	Altınkürek Köyü, Şahverdiyen Mevkii	 Köy$
+28493	Altınkürek Köyü, Şüşan Mezrası	 Köy$
+28499	Altıyaka Köyü, Aşörgen Mezrası	 Köy$
+28501	Altıyaka Köyü, Cabbar Mezrası	 Köy$
+28500	Altıyaka Köyü, Dede Mezrası	 Köy$
+28503	Altıyaka Köyü, Karşıyaka Mevkii	 Köy$
+28502	Altıyaka Köyü, Koçemin Mezrası	 Köy$
+28504	Altıyaka Köyü, Merkez Mevkii	 Köy$
+28507	Aslankaşı Köyü	 Köy$
+28506	Aslankaşı Köyü, Arkulu Mezrası	 Köy$
+28505	Aslankaşı Köyü, İbolar Mezrası	 Köy$
+28508	Aşağıçakmak Köyü	 Köy$
+28509	Bademli Köyü	 Köy$
+28510	Bademli Köyü, Değirmen Mevkii Mevkii	 Köy$
+28511	Bademli Köyü, Sino Mezrası Mezrası	Sino Mezrası=
+28512	Bahçeli Köyü	 Köy$
+21412	Baraj Mah.	1.~|Ahmet Yesevi@|Alper Tunga~|Fırat~|Gündoğdu@|Halil Alış@|Halil Alış=|Hilal~|Kanuni@|Koruluk@|Mehmet Akif Ersoy@|Mevlana@|Sahil Yolu~|Selvi~|Site@|Taş~|Tuna~|Ulubatlı Hasan@|Yunus Emre@|Çağrı~|Çıkmaz~
+28513	Bayındır Köyü	 Köy$
+28514	Beydeğirmeni Köyü	 Köy$
+28516	Beydeğirmeni Köyü, Aşağı Demirli Mezrası	 Köy$
+28518	Beydeğirmeni Köyü, Melilan Mezrası	 Köy$
+28515	Beydeğirmeni Köyü, Yukarı Demirli Mezrası	 Köy$
+28517	Beydeğirmeni Köyü, Çakmaklı Mezrası	 Köy$
+28519	Bölükçalı Köyü	 Köy$
+28520	Büklümlü Köyü	 Köy$
+28530	Denizli Köyü	 Köy$
+28529	Denizli Köyü, Yahyalı Mezrası Mezrası	Denizli Köyü Köy$
+21413	Değirmenbaşı Mah.	3~|4~|5~|6~|Baraj~|Barbaros~|Bezirgan~|Dsi@|General Polat Haşimov@|Kazım Karabekir~|Muzaffer Doğan@|Orhangazi~|Osmangazi@|Seftil~|Tek Dut=|Topçu@|Türkmen 2~|Türkmen~|İnönü@|İrfan Turan@|Şehit J. Ütğm. Aytaç Kaya@|Şehit J.uzm. Çvş. Ertül Tekin~|Şehit Polis Akın Kılınç~|Şehit Polis Eyyüp Oğuz@|Şehit Polis Selahattin Doğan~
+28531	Dürümlü Köyü	 Köy$
+21414	Fırat Mah.	1~|15~|16~|17~|18~|19~|20~|21~|Fevzi Çakmak@|Fuzuli@|Gemi Deresi~|Hilmi Tuna@|Mimar Sinan~|Muzaffer Doğan@|Timur Demir@|Yavuz Selim@|Şehit Polis Mehmet Emin Aydın@|Şeyh Edebali~
+28535	Gökbelen Köyü	 Köy$
+28532	Gökbelen Köyü, Karahüseyin Mezrası Mezrası	 Köy$
+28533	Gökbelen Köyü, Karaçor Mezrası Mezrası	 Köy$
+28534	Gökbelen Köyü, Soğuk Su Mezrası Mezrası	 Köy$
+28536	Göldere Köyü	 Köy$
+28537	Göldere Köyü, Dursunlu Mezrası	 Köy$
+28538	Güneytepe Köyü	 Köy$
+21415	Kallar Mah.	10@|11~|12~|13~|14~|7@|8~|9~|Cumhuriyet@|Muzaffer Doğan@|Yusuf Ziya Paşa@|Şehit Polis Eyyüp Oğuz@|Şehit Polis Orhan Akpunar@
+28539	Kopuzlu Köyü	 Köy$
+28540	Koyunuşağı Köyü	 Köy$
+28541	Kurşunkaya Köyü	Kurşunkaya Köyü Köy$
+28543	Kurşunkaya Köyü, Soğanlı Mezrası	 Köy$
+28542	Kurşunkaya Köyü, Çalık Çayı Mezrası	Çalık Çayı=
+28544	Kuşçu Köyü	 Köy$
+28546	Kuşçu Köyü, Dursunlu Mezrası Mezrası	 Köy$
+28545	Kuşçu Köyü, Yukarı Kuşçu Mezrası	 Köy$
+28550	Nimri Köyü, Pınarlar Mevkii	Köy Sokağı Köy$|Küme Evleri~|Şalt Yolu~
+28551	Sağdıçlar Köyü	 Köy$
+28553	Sağdıçlar Köyü, Kırklar Mezrası Mezrası	Kırklar Mezrası=
+28552	Sağdıçlar Köyü, Orta Mezra Mezrası	 Köy$
+28554	Taşkesen Köyü	 Köy$
+28555	Taşkesen Köyü, Mandere Mezrası Mezrası	 Köy$
+28556	Topkıran Köyü	 Köy$
+28557	Topkıran Köyü, Karabey Mezrası Mezrası	 Köy$
+28558	Topkıran Köyü, Konak Mezrası Mezrası	 Köy$
+28559	Ulupınar Köyü	Ulupınar=
+28522	Çalık Köyü	Çalık=
+28521	Çalık Köyü, Süleymanlı Mezrası	 Köy$
+28525	Çevrekaya Köyü	 Köy$
+28528	Çevrekaya Köyü, Alikan Mezrası Mezrası	 Köy$
+28524	Çevrekaya Köyü, Hamurlu Mezrası Mezrası	 Köy$
+28523	Çevrekaya Köyü, Taktah Mezrası Mezrası	 Köy$
+28527	Çevrekaya Köyü, Taşkonak Mezrası Mezrası	 Köy$
+28526	Çevrekaya Köyü, Çay Mezrası Mezrası	 Köy$
+28549	Örenyaka Köyü, Aşağı Mevkii	 Köy$
+28548	Örenyaka Köyü, Karşı Mevkii	 Köy$
+28547	Örenyaka Köyü, Yukarı Mevkii	 Köy$
+28560	Üçpınar Köyü	 Köy$

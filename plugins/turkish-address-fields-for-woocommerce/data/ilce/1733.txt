@@ -1,0 +1,137 @@
+80669	Agahefendi Mah.	1.gül~|14~|2 . Şirin~|Dursun Dede~|Hızır Reis~|Kaya~|Kürşat@|Lale~|Papatya@|Salim Bey@|Taş Ocağı@|Taş Ocağı/1~|Turgut Reis~|Yeni Evler-@|Yeni Evler.~|Şht Hüseyin Avni Yazıtaş~|Şht Oğuzhan Demirdüyen~|Şht. Ekrem Can~
+88938	Aktaş Köyü	 Köy$
+88993	Akyamaç Köyü	 Köy$
+88939	Alemdar Köyü	 Köy$
+88994	Aydoğan Köyü	 Köy$
+88940	Azizli Köyü	 Köy$
+183858	Azizlibağları Mah.	Azizli=|Azizlibağları~
+80671	Aşağı Çatak Mah.	1.lale~|2. Emniyet@|Akan Güneş@|Alacaoğlu~|Alkan~|Arar~|Araç~|Bingöl~|Eski Sungurlu@|Hayrullah Efendi~|Nohutlu@|Poyraz~|Salim Bey@|Sungurlu 1.~|Sungurlu/6~|Terzi~|Çerkez Pınar~|Çiçek~|Çukur Pınar~|Öncül~|Şirin 1.~
+80670	Aşağınohutlu Mah.	2. Emniyet@|64.~|67.~|68.~|Aynalı Hamam~|Açıkbaş~|Başçavuş~|Behiçler Cami Aralığı~|Camızlık Pınar@|Demir~|Doğuş~|Emniyet@|Funda~|Geçit~|Güneş~|Hüzni~|Korkmaz~|Kısakürek@|Kısakürek/1~|Lise@|Mevlana~|Meydanyeri@|Müze@|Necip Altınok@|Sakarya@|Salim Bey/1~|Sinema~|Süsler~|Un Pazarı@|Yzb.bahattin Çokdeğerli@|Yıldız Gül~|Öğr. Vehbi Ulusoy@|Ülkü 1~|Ülkü 2~|İnci~|Şahin~|Şeyhzade.@|Şht. Hasan Tikilo~|Şht. Mahmut Turan 1.~|Şht. Selman Bozkurt~
+88995	Bacılı Köyü	 Köy$
+88996	Bahçecik Köyü	 Köy$
+80672	Bahçeşehir Mah.	1. Esen~|1. Selimiye@|1. Selimiye/1~|1.çiğdem~|1.çınar~|158.~|159.~|2. Selimiye@|2. Selimiye/11~|3. Selimiye~|3.dere~|4. Selimiye~|5. Selimiye~|6. Selimiye~|7. Selimiye~|8. Selimiye~|Adnan Menderes%|Akgül~|Altundağ@|Ceylan~|Durak Doğan@|Elmalık~|Fatih@|Fatma Temel Turhan@|Fatma Turhan@|Gül~|Hatice Aral%|Hilal (4)~|Hilal (5)~|Hilal (6)~|Hilal 1~|Kadife~|Menekşe~|Palmiye~|Papatya/2~|Seven~|Susam~|Yeşilyol~|Çam~|Ülkü@|Şeyh Şamil~|Şht Rahmi Duyar@|Şht Turgut Ocak@|Şht. A. Han Erden~|Şht. Akif Karabulut~|Şht. Ali Başpınar~|Şht. Alpaslan Ekici@|Şht. Murat Üstündağ~|Şht. Salıh Ekici@|Şht. Sinan Topaç~|Şirin~
+88942	Baltasarılar Köyü, Köklü Mevkii	 Köy$
+88943	Baltasarılar Köyü, Merkez Mevkii	 Köy$
+89023	Battal Köyü	 Köy$
+89024	Bayatören Köyü	 Köy$
+88944	Başıbüyüklü Köyü	 Köy$
+88945	Başınayayla Köyü	 Köy$
+88946	Beyvelioğlu Köyü	 Köy$
+139652	Bilal Şahin Mah.	1.atatürk@|Abdulhamithan@|Doğukent@|Dr.kazım Arslan%|Fatih Sultan Mehmet@|H.ahmet Yesevi@|Haşim Kılıç@|Mustafa Bacanlı@|Nohutlu Baba-@|Sokullu Mehmetpaşa@|Yıldırım Beyazıt@|Şehit. Bayram Karataş@|Şehıt Bayram Karataş/2~|Şht.hakan Şahin@
+88997	Bişek Köyü, Kalınbük Mevkii	 Köy$
+88998	Bişek Köyü, Merkez Mevkii	 Köy$
+88947	Bozlar Köyü	 Köy$
+88948	Buzağcıoğlu Köyü	 Köy$
+89025	Büyükincirli Köyü	 Köy$
+88949	Büyükmahal Köyü	 Köy$
+88999	Büyüknefes Köyü	 Köy$
+88950	Cihanpaşa Köyü	 Köy$
+89003	Dambasan Köyü	 Köy$
+88953	Darıcı Köyü	 Köy$
+89004	Dayılı Köyü, Araplıçiftliği Mevkii	 Köy$
+89005	Dayılı Köyü, Merkez Mevkii	 Köy$
+88952	Dağyenicesi Köyü	 Köy$
+89006	Delihasanlı Köyü	 Köy$
+88955	Derbent Köyü, Merkez Mevkii	 Köy$
+88954	Derbent Köyü, Çıraderesi Mevkii	 Köy$
+89007	Dereboymul Köyü	 Köy$
+88956	Derekışla Köyü	 Köy$
+88957	Deremahal Köyü	 Köy$
+88958	Deremumlu Köyü	 Köy$
+80673	Develik Mah.	1.@|4. Örnek~|Develik Camii 1~|Develik Camii 2~|Develik Camii@|Funda 2~|Menekşe Dere~|Çamlık@
+183856	Divanlı Mah.	Cemil Çiçek@|Divanlı~|Yozgat-boğazlıyan Yolu@
+80674	Erdoğan Akdağ Mah.	149.~|Adnan Menderes%|Asuman~|Atakan Yüksel-~|Bahri Akdağ@|Bilal Şahin@|Dr.kazım Arslan%|Esentepe~|Gaziler@|Gökhan Çınarer~|H.ahmet Yesevi@|Hacı Doğan@|Hatice Akdağ@|Hayri Yıldız@|Huzur~|Mehmet Erdemir@|Menekşe1@|Menekşe2@|Muammer Bölükbaşı@|Muslubelen~|Mustafa Gümüş@|Selam~|Serpil Akdağ@|Sevgi~|Veli Uyar@|Viyana@|Çapanoğlu 1~|Çapanoğlu 2~|Çapanoğlu 3~|Çapanoğlu 4~|Çapanoğlu@|Şahin Akdağ~|Şht Ali Bektaş~|Şht Mustafa Doğan@|Şht Nurullah Buldu@|Şht İsmail Dursun@|Şht. Murat Karataş@|Şht. İlhan Sarıoğlu~|Şht.t.fikret Erciyas@|Şht.yılmaz Düzgören@
+89421	Erkekli Köyü	 Köy$
+80694	Esenli Köyü, Bahçelievler Mevkii	Acer 1~|Acer 2~|Amir Çiçek~|Atatürk~|Avşar~|Battallar~|Başol~|Bilal Şahin~|Bıyıklı~|Ceylan~|Emin~|Erdem~|Gökoğlu~|Kaplan~|Niyazi~|Nogay~|Tekcan~|Çetin~|İskele~|Şehit Hasan Şahin~
+80696	Esenli Köyü, Gelingüllü Mevkii	Akbulut~|Ayan~|Açıkgöz~|Başer~|Bilal Şahin~|Bostancı~|Dalkılıç~|Demirel~|Durusoy~|Erollar~|Eyüp 1~|Eyüp 2~|Gazi Mustafa Öztürk~|Hacı~|Hasan~|Koçak~|Koçlar~|Koçyiğit~|Nurettin~|Osman~|Palabıyık 1~|Palabıyık 2~|Pr.dr.şuayip Üşenmez~|Selvi~|Tevfik~|Yaylagül~|Yıldırım~|Özbek~|Özer~|Üngörmüş~|Ünlü~|İpek~|İşçimen~|Şahin~|Şahiner~|Şehit Yavuz Fakılı~
+80697	Esenli Köyü, Karşıyaka Mevkii	1 Nolu~|Atatürk~|Balaban~|Barışlar~|Baygül~|Bruno Lafont~|Dedik~|Duran~|Göz Hüyüğü~|Gül Şehri~|Hasan~|Karslar~|Kılıçaslan~|Mahmut Hoca~|Nazif~|Necip~|Parlak~|Yaşar~|Zeki Sağlam~|Çakır~|Çavuş~|Önal~|Özenç~|Ünal~|İmasın Bekir~|İzmir~
+80695	Esenli Köyü, Çay Mevkii	A Nuri Özkaya~|Adeli~|Afacan~|Ahmet~|Alaaddin~|Ali Hoca~|Altunok 1~|Altunok 2~|Aplak~|Ataman~|Aydın~|Badem~|Bahri~|Bağlar~|Bernant Deoğu~|Bilal Şahin~|Bozkurt~|Bulut~|Dede Efendi~|Dedik~|Derebey~|Derya~|Edeler~|Efendi~|Eğitim~|Gezer~|Gökoğlu~|Güvem~|Hacı Ali~|Halil~|Harun~|Hasan Çavuş~|Hayri Yıldız~|Hurşit~|Kamil~|Karaca~|Kızlar Kayası~|Leyla~|Mehtap~|Melek~|Memduh~|Menekşe~|Mesire~|Nalbant~|Pancar~|Portakal Çiçeği~|Resul 1~|Resul 2~|Resul 3~|Resul 4~|Salimin Çavuş~|Saraçlar~|Serhat~|Sevim~|Seyhan C. Turhan~|Sipahi~|Sucu~|Susam~|Süleyman~|Taşdemir~|Türüdü~|Çelebi~|Çemen~|Çivi~|Özger~|Üzüm~|İğdeli~|Şahiner~|Şahinler~|Şehit Altan Erdem~|Şehit Mehmet Başol~|Şeker~|Şevket Çavuş~|Şeyma~|Şht Ahmet Kılıçarslan~
+80675	Eskipazar Mah.	1. Bacanakzade~|1.@|1. Meyveli~|1. Naneli~|1. Tahta Camii~|1. Örnek~|1. Ümre~|1.doğuş~|1.koç~|1.yukarı Pınar~|2. Meyveli~|2. Naneli~|2. Örnek~|2. Ümre~|2.bacanakzade~|3. Meyveli~|3. Naneli~|3. Örnek~|4. Meyveli~|4. Örnek~|5. Örnek~|57.~|58.~|59.~|6. Örnek~|60.~|61.~|Bozkurt~|Dere 3.~|Develik Camii 1~|Develik Camii@|Dolgun 1~|Dolgun~|Doğuş Aralığı~|Görün~|Kaanlar 2~|Kaanlar.1~|Kayseri@|Kır~|Mehmet Akif@|Menekşe 1~|Menekşe 2~|Namazgah Camii Aralığı~|Namazgah~|Orman~|Pazar~|Pınar~|Sadettin Önder~|Saygılı~|Soğuk Pınar~|Yeşil~|Yukarı Pınar~|Çamlık@|Çiğdem~|Özlü~|Ülkü/3~|Şht . Mehmet Koçak@|Şht Haydar Ali Korkmaz~|Şht. Durmuş Delibaş@|Şht. H.doğan Yılmaz~|Şht. Mehmet Başol@|Şht. Nuri Tanışman@
+88960	Evci Köyü	 Köy$
+88961	Fakıbeyli Köyü	 Köy$
+80676	Fatih Mah.	1. Öztürk~|1.yeni Evler@|173~|174.~|175~|176~|177~|180~|181~|182.~|183.~|184.~|2.çiğdem~|2.öztürk~|Adnan Menderes%|Alparslan@|Alperen@|Bilgehan@|Bozok@|Caner~|Ceyhan~|Elmalı~|Gazi@|Güler~|Hilal~|Karahan~|Koç~|Koçak~|Kurt Deresi~|Kılıçaslan~|Kışla Altı@|Nazlı@|Rıza Kayaalp@|Sağlık Ocağı/1~|Sercan~|Sümbül~|Yasemen~|Yetmişevler 1.~|Yetmişevler 2.~|Yetmişevler 3.~|Yetmişevler 4.~|Yetmişevler@|Yıldız Tepe~|Yıldıztepe@|Zambak~|Çamlıca@|Çamlık@|Çamlık Yolu@|Çengeltepe@|Öztürk@|Şht. Adnan Altınok@|Şht. Mustafa Tekgül-@|Şht. Uğur Çiftçi@
+89028	Gevrek Köyü	 Köy$
+89029	Gökçekışla Köyü	 Köy$
+89015	Görpeli Köyü	 Köy$
+88962	Güdülelmahacılı Köyü	 Köy$
+88963	Güllük Köyü	 Köy$
+89008	Güllüoluk Köyü	 Köy$
+89009	Gülyayla Köyü, Killik Mevkii	 Köy$
+89010	Gülyayla Köyü, Merkez Mevkii	 Köy$
+89014	Güneşli Köyü	 Köy$
+88964	Hamzalı Köyü	 Köy$
+89011	Haydarbeyli Köyü	 Köy$
+88967	Kababel Köyü	 Köy$
+89012	Kale Köyü	 Köy$
+89030	Karabıyık Köyü	 Köy$
+88968	Karacalar Köyü	 Köy$
+89013	Karalar Köyü	 Köy$
+80678	Karatepe Mah.	24.~|Bademlik@|Dr. Sadık Ahmet@|H.ahmet Yesevi@|Mevlana~|Nohutlu Baba@|Prof.dr Nihat Boydaş@|Tevhit@|Yurt 3.@|Yuva 4@|Yuvakent@|Yıldırım/1@|İmam Hatip@|Şehit Büyükelçi Erkut Ve Nadide Akbay@|Şehit. Bayram Karataş@|Şht. Bilal Eser~|Şht. Mürsel Ocak@|Şht. Sami Aslan@|Şht. Yavuz Fakılı@|Şht.hakan Şahin@
+88969	Kavurgalı Köyü	 Köy$
+89031	Kaşkışla Köyü	 Köy$
+88975	Kolanlı Köyü	 Köy$
+89032	Koyunculu Köyü	 Köy$
+88979	Kuyumcu Köyü	 Köy$
+88978	Kuşcu Köyü	 Köy$
+80679	Köseoğlu Mah.	1. Çıkış~|119.~|2. Çıkış~|3. Çıkış~|44~|Adnan Menderes%|Bahçeli~|Cumhuriyet@|Dere 3.~|Dere 3./1~|Gevrekzade@|Gül Veren~|Gülaylar@|Gülveren~|Kaynak~|Kayseri@|Kayyumzade@|Kültür Park@|Küme Evler 1=|Küme Evler 2=|Mehmet Akif@|Nakıpzade Camii@|Nakıpzade~|Papatya@|Sarar~|Tayfun~|Tenekeciler Arastası-~|Yavuz~|Yeni Evler@|Yolboyu@|Çağlayan~|Ünlü~|İsmet Paşa~|Şht Mustafa Uğur~|Şht Sedat Nezih Özok~|Şht Serdar Tayyar Duruduygu@|Şht. Hasan Tikilo~|Şht. Salih Çam~|Şht. Turgay Eroglu@|Şht.ahmet Kılıçarslan~
+88977	Köseyusuflu Köyü	 Köy$
+88976	Köçekkömü Köyü	 Köy$
+89033	Köçeklioğlu Köyü	 Köy$
+88970	Kırıksoku Köyü	 Köy$
+88972	Kırım Köyü, Merkez Mevkii	 Köy$
+88971	Kırım Köyü, Mollahasan Mevkii	 Köy$
+88974	Kızıltepe Köyü	 Köy$
+88973	Kışla Köyü	 Köy$
+89034	Lök Köyü	 Köy$|Köy~
+80680	Medrese Mah.	1.sinema~|Adnan Menderes%|Dere~|Ganizade~|Hamamcıoğlu~|Kültür Park@|Kültür~|Küçük Hamam 2.~|Küçük Hamam 3.~|Küçük Hamam~|Lise@|Mahmut Turan~|Meydanyeri@|Nakıpzade Camii@|Söğütlü Dere@|Tenekeciler Arastası~|Tol Çarşı@|Yazar Abbas Sayar~|Çubukçu Güler~|Çubukçu~|Üzüm Pazarı~|İstiklal~|Şeyhzade.@|Şht. Mehmet Armağan Alper~|Şht.bahadır Fuat Buharalıoğlu~
+80681	Mehmet Hulusi Efendi Mah.	146.~|Akbabalar@|Cehirlik~|Dereboyu~|Entegre@|Eyüp Sultan@|Gün~|Hüseyin Gazı@|Kartal 1.~|Kazım Karabekir@|Kürşat@|Kürşat.~|Meriç/1=|Orhan Gazi 1.@|Orhan Gazi 2.@|Salim Bey@|Sungurlu@|Toki Küme Evler=|Ulubatlı Hasan@|Yeni Evler 1.~|Şht Emre Çiftçi~|Şht Hıdır Erbilek Kartal~|Şht Serdar Tayyar Duruduygu@|Şht. Cengiz İçen~
+88980	Mezraa Köyü	 Köy$
+88992	Musabeyli Köyü	 Köy$
+89016	Musabeyliboğazı Köyü	 Köy$
+80682	Mutafoğlu Mah.	1. Aydın~|1. Güngör~|1. Merkez~|1. Tuna~|1.sakarya@|1.şeker Pınar~|1.şen~|151.~|2. Aydın~|2. Güngör~|2. Hayrullah Efendi~|2. Tuna~|2.şeker Pınar~|3. Şeker Pınar~|3.güngör~|Akan Güneş@|Bıçakcı~|Civelek@|Duran~|Eski Sungurlu@|Fevzi Bey@|Görpeli~|Gün Sazak@|Hayrullah Efendi 1.~|Hayrullah Efendi~|Niyazi~|Polat~|Poyraz~|Salim Bey@|Sungurlu@|Tekgül~|Turan@|Ulubatlı Hasan@|Çanakpınar~|Çankaya~
+80691	Osmanpaşa Köyü, Cami Mevkii	Adem Baba~|Belediye Park~|Demirel~|Dere~|Duygular~|Erler~|Gül~|Kardelen~|Mullah Baba~|Nuri Ağa~|Poyraz~|Yenice~|Yozgat Yolu~|Şahin~
+80693	Osmanpaşa Köyü, Tekke Mevkii	Atatürk~|Beşevler~|Buket~|Dursunlar~|Gündüzler~|Hatipler~|Jandarma~|Kamer~|Karanfil~|Menekşe~|Piroğlu~|Salkım~|Vahaplar~|Yar~|Çiçek~|Çiğdem~|Çınar~
+80692	Osmanpaşa Köyü, Şehitler Mevkii	Aksu~|Ali Baba~|Bülbül~|Can Kurtaran~|Gedik~|Karaca~|Karşıyaka~|Kurtuluş~|Nergiz~|Papatya~|Rüzgar~|Selvi~|Yanar~|Yağmur~|Şehitler~
+89018	Penbecik Köyü	 Köy$
+88981	Recepli Köyü	 Köy$
+88982	Salmanfakılı Köyü	 Köy$
+89020	Sarıfatma Köyü	 Köy$
+183854	Sarıhacılı Mah.	Cemil Çiçek-@|Sarıhacılı~
+88984	Sarımbey Köyü	 Köy$
+89036	Sarınınören Köyü	 Köy$|Sarınınören~
+89019	Sağlık Köyü	 Köy$
+89021	Söğütlüyayla Köyü	 Köy$
+89037	Tayfur Köyü	 Köy$
+88985	Tayıp Köyü	 Köy$
+80684	Taşköprü Mah.	2. Susam~|3.menekşe~|Altay~|Dedik Camii~|Divanoğlu~|Hamamcıoğlu~|Kartal~|Kışla Altı@|Mahmut Turan~|Mehmet Akif@|Nakıpzade Camii@|Oguzhan Demir Üye~|Osman Öztürk~|Sofu Hoca@|Tepe~|Yasemin~|Şeyhzade.@|Şht. İlyas Karadavut~
+80685	Tekke Mah.	1. Tahta Camii~|1.yukarı Pınar~|2.bacanakzade~|2.tahta Camii~|Altay~|Dere 3.~|Develik Camii@|Feyza~|Feza~|Hasbahçe~|Kürkçü~|Mehmet Akif@|Menekşe 1~|Menekşe Dere~|Merve~|Seyfi Ağa~|Tahta Cami Aralığı~|Yıldırım~|Çamlık@|Çınar~|Şht Kınalı Hasan@|Şht Sedat Nezih Özok~|Şht.ahmet Kılıçarslan~
+89038	Tekkeyenicesi Köyü	 Köy$
+89022	Topaç Köyü	 Köy$
+88986	Topcu Köyü	 Köy$
+80686	Tuzkaya Mah.	140.~|2 . Şirin~|Alp~|Amaç~|Cumhuriyet@|Demircilik@|Hacı Nine 1.~|Hacı Nine 2.~|Hacı Nine~|Hızır Reis~|Kayyumzade@|Papatya@|Polis Nuri Efendi 1.~|Polis Nuri Efendi 2.~|Tayfun~|Taş Ocağı@|Tellal Kaya~|Tuna~|Tuygun 1.~|Tuygun 5.~|Tuygun 6.~|Yeni Evler@|Yeni Evler.~|Yeni~|Çağlayan~|Ünlü~|Şht. Adem Kocadağ@|Şht. Süleyman Maran~|Şht. Zafer Tanış~|Şht. Zülfikar Özgen~
+88987	Türkmen Köyü	 Köy$
+88988	Türkmensarılar Köyü, Dönederesi Mevkii	 Köy$
+88989	Türkmensarılar Köyü, Merkez Mevkii	 Köy$
+88990	Yassıhüyük Köyü	 Köy$
+88991	Yazpınar Köyü	 Köy$
+80687	Yenicami Mah.	1. Kışla~|2. Kışla~|29.~|Adnan Menderes%|Dar~|Dedik Camii~|Dere Üstü@|Fevzi Çakmak@|Kaan~|Kaya Başı~|Kuru Dere~|Kışla Altı@|Kışlaaltı~|Rıza Kayaalp@|Sofu Hoca@|Sofu Hoca/1~|Stadyum 1.~|Stadyum 2.-~|Söğütlü Dere@|Yasemin~|Yavuz 1.~|Zafer~|Çetin~|Şeyhzade.@|Şht. Avni Gencekol~
+89039	Yeşilova Köyü	 Köy$
+89040	Yudan Köyü	 Köy$
+80689	Yukarınohutlu Mah.	1. Paşaoğlu@|1. Yurt@|1. Çeşme~|2. Emniyet@|2. Paşaoğlu@|2. Yurt@|2. Çeşme~|3. Paşaoğlu@|3. Çeşme~|4. Paşaoğlu@|4. Çeşme~|5. Paşaoğlu@|6. Paşaoğlu@|7. Paşaoğlu@|Başçavuş~|Camızlık Pınar@|Canset~|Demirtürk~|Duygu~|Erginler Camii@|Güven~|Hilal 3~|Korkmaz~|Kısakürek@|Meriç/1=|Mevlana~|Musa Camii@|Namık Kemal@|Nohutlu Baba@|Nuri Bey@|Pınar-=|Sadıç 2~|Yavuz Sultan Selim@|Yurt@|Çirçir~|Öncü~|Özge~|Özlem-=|Şehıt Bayram Karataş/2~|Şen~|Şht. Levent Karaca~|Şht. Necip Güneş~|Şht. Tuncay Karaca~|Şht. Yılmaz Güngören~|Şht.adnan Menderes Gülbaş@
+80688	Yukarıçatak Mah.	1. Paşaoğlu@|169.~|170.~|171~|191.~|192.~|193.~|2. Paşaoğlu@|5. Paşaoğlu@|6. Paşaoğlu@|7. Paşaoğlu@|Alacaoğlu~|Baglar İçi~|Büyük Pınar~|Duygu~|Meriç~|Namık Kemal@|Nohutlu@|Sungurlu 1.~|Sungurlu 2.~|Sungurlu 3.~|Sungurlu 4.~|Sungurlu 5.~|Sungurlu/6~|Terzi~|Yurt@|Çukur Pınar~|Ümit 1.~|Ümit 2.~|Ümit~
+139971	Çadırardıç Köyü, Karalar Mevkii	Aydogan~|Sarıfatma~|Yozgat~|Yıldız~|Şht Zafer Tanış~
+80690	Çadırardıç Köyü, Merkez Mevkii	Akpınar~|Ardıç~|Demirer~|Gönül~|Gül~|Hane~|Kaplan~|Lale~|Menekşe~|Nur~|Okul~|Soylu~|Yahya~|Yayla~|Yozgat~|Çiçek~|Şahin~|Şener~|Şht. Murat~
+88951	Çalatlı Köyü	 Köy$|Bozok Osb~
+89027	Çalılı Köyü	 Köy$
+139651	Çapanoğlu Mah.	1~|2.~|3.~|4.~|5.~|6.@|7. Sok~|8. Sok~|9.~|Adnan Menderes-%|Ahlat~|Allı Turna~|Alıç~|Atalay Yörükoğlu@|Aynalı Körük~|Azizlibağları~|Cemil Çiçek@|Erik~|Faik Boran~|Gelin Kayası~|Gelincik~|Gülnaz~|Hüzni Baba~|Kekik~|Kerkenes~|Kuşburnu-~|Madımak@|Metin Eroğlu@|Meşe~|Münüp Sarıoğlu~|Nilüfer~|Pelit@|Toki 1. Bölge=|Toki 2. Bölge=|Yayla~|Yeşil Ayna~|Çeşka~|İhsan Sezen~|İğde~|Şht. Kaymakam Kemalbey@|Şht. Şuayip Çalışkan~
+89000	Çatma Köyü, Merkez Mevkii	 Köy$
+89001	Çatma Köyü, Yukarı Çatma Mevkii	 Köy$
+89026	Çağlayan Köyü	 Köy$
+89002	Çorak Köyü	 Köy$
+89017	Örencik Köyü	 Köy$
+89035	Özlüce Köyü	 Köy$
+88965	İnceçayır Köyü	 Köy$
+80677	İstanbulluoğlu Mah.	18~|Amaç~|Cumhuriyet@|Ekmeleddin İhsanoğlu@|Emniyet@|Fatih/3~|Gevrekzade@|Hacı Nine 1.~|Hacı Nine~|Karabacak~|Kayyumzade@|Kurtuluş~|Menfez~|Müze@|Onur~|Papatya@|Salim Bey@|Tuna~|Şht Abdi Duyar~|Şht. Hasan Tikilo~|Şirin 1.~
+88966	İşleğen Köyü	 Köy$
+184316	Şeyh Ahmet Efendi Mah.	3.menekşe~|Divanoğlu~|Funda 1~|Funda 2~|Menekşe Dere~|Osman Öztürk~|Şeyh Camii Aralığı~|Şeyhzade 1~|Şeyhzade.@
+80683	Şeyhosman Mah.	1. Barbaros~|1. Pınar~|1.yeni~|1.yeşil~|2. Barbaros~|74~|75~|76.~|77.~|78~|Adnan Menderes%|Atalay Yörükoğlu@|Atatürk@|Barbaros@|Batıkent 1.~|Batıkent 2.~|Batıkent 3.~|Bozok/1~|Buzlu~|Camii~|Cemil Çiçek@|Dere 1~|Dere 2.~|Doğan~|Fırat Çakıroğlu@|Gül Veren~|Gülveren~|Gümüş~|Hacı Eyüp~|Kayseri@|Osman Bağdadi~|Sanayi 1.@|Sanayi 10.@|Sanayi 11.@|Sanayi 12.@|Sanayi 13.@|Sanayi 14.@|Sanayi 15.@|Sanayi 16.@|Sanayi 17.@|Sanayi 18.@|Sanayi 19.@|Sanayi 2.@|Sanayi 3.@|Sanayi 4.@|Sanayi 5.@|Sanayi 6.@|Sanayi 7.@|Sanayi 8.@|Sanayi 9.@|Sağlık Ocağı@|Taşkın~|Tuygun~|Yse Evleri@|Şehit Vehbi Erdoğan~|Şht Emrah Duran~|Şht Mehmet Ali Arslan~|Şht Mustafa Akpolatlı~|Şht. Mustafa Koçak~|Şht.gökhan Peker@|Şht.hüsnü Taşcıoğlu~|Şht.levent Şahin~

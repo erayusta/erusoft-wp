@@ -1,0 +1,16 @@
+19593	Akçaören Köyü	Akçaören Köy$
+19594	Akören Köyü	Akören Köy$
+19595	Belenli Köyü, Aşağı Mevkii	1.~|2.~|3-~|4-~|5.~|6.~|Aşağı Belenli Köy$
+19596	Belenli Köyü, Orta Tepe Mevkii	10.~|11.~|12.~|13.~|Orta Belenli Köy$
+19597	Belenli Köyü, Yukarı Tepe Mevkii	7.~|8.~|9.~|Yukarı Belenli Köy$
+19598	Elmacık Köyü	Elmacık Köy$
+19599	Kayı Köyü, Orta Mevkii	1~|4~|5~|6~|6/1~|7~|8~|9~
+19600	Kayı Köyü, Yukarı Mevkii	10~|11~|2~|4~|6~|7~|8~|9~
+19601	Kayı Köyü, Çay Kenarı Mevkii	1~|1/1~|11~|2~|2/1~|2/2~|3~|4~
+11082	Konak Mah.	Akpınar@|Antalya@|Ateş 1.~|Ateş~|Bülbül~|Cumhuriyet Myd.|Dere~|Değirmen 1.~|Değirmen~|Fatih Sultan Mehmet@|Gazi@|Kavuk~|Kebabcı 1.~|Kebabcı~|Kiraz~|Menekşe~|Pazar~|Vezir 1.~|Vezir~|Yayla~|Çakmak 1~|Öz~|İstiklal~|Şenol~
+19602	Pınarbaşı Köyü	Pınarbaşı Köy$
+11083	Saray Mah.	Akpınar@|Altın 1.~|Altın~|Antalya@|Cevizli~|Dr.sadık Ahmet~|Elmalık~|Eşenli 1~|Eşenli~|Fatih Sultan Mehmet@|Hacı İsmail~|Hayta~|Karanfil~|Menekşe~|Nergiz 1.~|Nergiz 2.~|Nergiz~|Su Deposu~|Sümbül 1.~|Sümbül 1.-~|Sümbül~|Yavuz~|Yağcı~|Yıldırım Beyazıt 1.@|Yıldırım Beyazıt@|Yıldırım~|Çimen~|İstiklal~|Şehit Ömer Halisdemir 1.~|Şehit Ömer Halisdemir%
+19604	Yakalar Köyü, Aşağı Mevkii	11~|13~|7~
+19603	Yakalar Köyü, Köyiçi Mevkii	1~|14~|2~|3~
+19605	Yakalar Köyü, Yukarı Tepe Mevkii	1~|10~|11~|12~|15~|16~|2 1.~|2~|3~|4~|5~|6~|7~|8~|9~
+11084	Yeni Camii Mah.	1001- Köy$|1002- Köy$|1003- Köy$|1004- Köy$|1005- Köy$|1006- Köy$|1007- Köy$|Abdullah Çelik~|Adnan Menderes 1.~|Adnan Menderes 1.-~|Adnan Menderes 2.~|Adnan Menderes@|Antalya@|Atatürk@|Bahce~|Ceylan~|Erdem~|Fatih Sultan Mehmet 1.~|Fatih Sultan Mehmet 2.~|Fatih Sultan Mehmet@|Gazi@|Gelepli~|Gök Ali 1.~|Gök Ali 2.~|Gök Ali~|Güllük@|Hacıköy-@|Hamam~|Hükümet~|Marca~|Mehmet Akif Ersoy@|Necip Fazıl Kısakürek 1.@|Necip Fazıl Kısakürek@|Pınar~|Saray~|Sağlık~|Süleyman Demirel%|Süleyman Demirel1.~|Süleyman Demirel1.-~|Ufuk~|Uysal~|Yenicamii~|Zafer~|Zambak~|Ziraat~|Çakmak~|Çınar~|Şehit Ömer Halisdemir 2.~|Şehit Ömer Halisdemir%|Şehit Ömer Halisdemir-%

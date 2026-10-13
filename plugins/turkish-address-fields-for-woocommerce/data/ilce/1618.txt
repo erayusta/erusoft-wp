@@ -1,0 +1,51 @@
+191371	Akin Mah.	Akin=|Saraycık=
+191317	Aksaklı Mah.	Aksaklı=
+191319	Aslanbeyli Mah.	Aslanbeyli=
+191321	Ayvalı Mah.	Ayvalı=
+30308	Aşağısöğüt Mah.	Aşağısöğüt=
+191323	Bardakçı Mah.	Bardakçı=|Ortaoba=
+191327	Beykışla Mah.	Beykışla=
+191325	Beşsaray Mah.	Beşsaray=
+191329	Büyükdere Mah.	Büyükdere=
+191373	Büyükyayla Mah.	Büyükyayla=
+191331	Cevizli Mah.	Aktaş~|Alaca~|Kuyu~|Mezarlık~|Muhtarlık~|Taşkın~|Çakır~|Özcanlar~|İlköğretim~
+30309	Derebenek Mah.	Avdan~|Balıkçı~|Bardakçı~|Bedriye~|Delikadı~|Demirciler~|Ersöz~|Güler~|Hafızveli~|Kale~|Karakulak~|Kurtuluş@|Köse~|Molla Ahmet~|Sara~|Soğulcak Çiftliği=|Süter~|Tokmak~|Türbe~|Uğur~|Yanaz~|Yağcı~|Yusuf Çavuş~|Çoban~|Çırçır~|Çırçıraltı~|Üryan@
+191339	Değişören Mah.	Değişören=
+191313	Doğançayır Mah.	Ada~|Adayolu@|Aktaş~|Akça~|Anıt~|Araptekke~|Asb. İbrahim Uğur~|Ata~|Atatürk@|Aşık Veysel@|Bayır@|Başak~|Bengi~|Beyaz~|Beşik~|Bilgin~|Bitki~|Buket~|Bulut~|Büyükdere@|Cem~|Cemal Efendi~|Cemal Gürsel@|Ceylan~|Cumhuriyet@|Damla~|Dede~|Deniz~|Dere~|Devran~|Dilber~|Doruk~|Doğa~|Elmas~|Erdem~|Erenler~|Etem Efendi~|Ezgi~|Geçit~|Gizem~|Gül~|Gündoğdu@|Güneş~|Gürel~|Halk@|Hasan Gürcan@|Hayat~|Hürriyet@|Kanal@|Kanarya~|Karanfil~|Kardelen~|Kartal~|Kemal Kocakaya@|Kesim~|Koçsaray~|Küçük Çal@|Kımıli~|Kırkkız@|Levent~|Lütfü Ünal~|Mehtap~|Melek~|Melikgazi Çiftliği=|Menekşe~|Mert~|Millet@|Murat Çakır@|Nadas~|Nazmi Afacan@|Nazım Hikmet Ran@|Onur@|Park~|Pir Sultan Abdal@|Prf.dr.türkan Saylan@|Pullu~|Saray~|Saygı~|Sağlar~|Sefildede~|Sersemcikana~|Seyitgazi@|Sıla~|Türkü~|Ulus~|Uğur Mumcu@|Vatan@|Veysel Karani~|Yalçın Ünal@|Yaşam~|Yunus Emre@|Zübeyde Hanım~|Çal~|Çardak~|Çağla~|Çevikbir@|Çimen~|Çiğdem~|Çıkmaz 1~|Çıkmaz 2~|Öykü~|İlkay@|İlke~|İlkyaz~|İnce~|İnci~|İpek~|İsmet Paşa@
+191377	Fethiye Mah.	Fethiye=
+191379	Gemiç Mah.	Gemiç=
+191385	Göcenoluk Mah.	Dere~|Göcenoluk=
+191381	Gökbahçe Mah.	Aşağı Karacaşehir=|Gökbahçe=|Yukarı Karacaşehir=
+191341	Göknebi Mah.	Göknebi=
+191383	Gökçegüney Mah.	Gökçegüney=
+191343	Gümüşbel Mah.	Gümüşbel=
+191345	Karacalık Mah.	Karacalık=|Üçbaş=
+191391	Karaören Mah.	Karaören=
+191347	Kesenler Mah.	Kesenler=
+191393	Kümbet Mah.	Kümbet=
+191315	Kırka Mah.	Ada~|Afyon@|Ahmet Özmutlu~|Alparslan Türkeş@|Altun~|Arslan~|Atmaca~|Aydınlık Evler=|Ayhan Çakır~|Barış@|Bağ~|Beyazıt~|Boraks@|Büyükakseki=|Can~|Cumhuriyet (kültür)@|Cumhuriyet@|Dalmış~|Dağcı~|Demirli~|Derya~|Dr.osman Akbulut (ışık)@|Dr.osman Akbulut@|Durmuş~|Ekrem Tepe~|Emir~|Emirler@|Er~|Ergenekon~|Erkara~|Erol~|Ersoy@|Eryılmaz~|Etibank=|Fatih~|Fazlı Gündoğdu@|Fevzi Çakmak@|Gazi~|Gemiç@|Genç~|Gül~|Güllü~|Gümüş~|Gürlü~|Gürsöz@|H.mehmet Çörez~|Hacı Seydi Çakır@|Hamam Yolu@|Hatip~|Hoş~|Hüseyin Sevim@|Kalkan~|Kanal (kültür)~|Kanal~|Karakol~|Kaya~|Kimzan~|Kurt~|Kutlu~|Köse~|Küçük~|Lale~|M.ali Hoş@|Mehmet Ali Hoş@|Mercan~|Mert~|Mimar Sinan@|Mustafa Kemal@|Mut~|Necip~|Nilay~|Sakin~|Sami Özkan@|Sarıkaya@|Selvi~|Seyhan~|Siteler=|Stadyum@|Süleyman Kılıç@|Sümer~|Tepe (kültür)=|Tepe~|Teymen~|Turhan Duruel@|Uysal~|Vatan~|Yahya Kemal@|Yarbasan@|Yeşil~|Yunus Emre@|Yüksel~|Yıldız~|Yılmaz Doğu~|Yılmaz~|Çam~|Çelik~|Çimen~|Çiğdem~|Çörez@|Çörez Çiftliği=|Çıkmaz~|Çınar~|Çıtlık~|Öksüz@|Özdemir~|Özkan~|Ülkü~|Ünal~|Ünlü~|Şahin~|Şanlı~|Şehit Halil Kara@|Şelale~
+191395	Numanoluk Mah.	Ada=|Boyalı=|Numanoluk=
+191397	Oynaş Mah.	Oynaş=
+191399	Salihler Mah.	Salihler=
+191351	Sancar Mah.	Sancar=
+191401	Sandıközü Mah.	Sandıközü=
+191353	Sarayören Mah.	Sarayören=|Yeni Sarayören=
+191355	Sarıcailyas Mah.	Sarıcailyas=
+191359	Taşlıkköy Mah.	Taşlıkköy=
+191403	Yapıldak Mah.	Yapıldak=
+191405	Yarbasan Mah.	Yarbasan=
+191363	Yazıdere Mah.	Yazıdere=|Yeni=
+191365	Yenikent Mah.	Yenikent=
+191367	Yeşiltepe Mah.	Sarıbayır=|Yeşiltepe=
+191369	Yukarısöğüt Mah.	Yukarısöğüt=
+30311	Yunus Mah.	Abacı~|Adem~|Afyon@|Akköprü~|Arıkan~|Bademlik~|Cevizli~|Er~|Gülşen~|Güngör~|Höyük~|Hükümet@|Kazım Sakarya@|Kırkkavak@|Kıyı~|Odunpazarı@|Park~|Pazaryeri~|Sıdal~|Sırçalık~|Yayla~|Yeni Hastane~|Yeşiltepe~|Yıldırım~|Çanakçı~|Çarşı İçi@|Çelebi~|Özçetin~|Öğr.nasuh Yayalan@|Ülkü~|Üryan@|İlme Çiftliği=|Şirintepe~
+191333	Çatören Mah.	Köyaltı~|Çatören=
+191335	Çukurağıl Mah.	Çukurağıl=
+191337	Çukurca Mah.	Çukurca=
+191375	Çürüttüm Mah.	Küme~|Çürüttüm=
+191349	Örencik Mah.	Örencik=
+191361	Üçsaray Mah.	Üçsaray=
+191387	İdrisyayla Mah.	Taşoluk=|İdrisyayla=
+191389	İkizoluk Mah.	İkizoluk=
+30310	İkiçeşme Mah.	Afyon@|Akkaya@|Aliağa@|Bahçeli~|Bayıraltı~|Dere~|Dübek~|Eskişehir@|Hamamyolu@|Karahisar~|Karaköprü@|Kaya~|Konut~|Kültepe~|Kültür~|Maltepe~|Sakarya~|Sağlık~|Selbasan~|Türkkızı~|Uysal~|Uğurlu~|Yeni Cami~|Yeni~|Yıldız~|Çoban~|Örnekevler~|Öğr.nasuh Yayalan@|İtfaiye~|Şeker~
+191357	Şükranlı Mah.	Şükranlı=

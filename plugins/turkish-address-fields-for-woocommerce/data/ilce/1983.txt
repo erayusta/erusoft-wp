@@ -1,0 +1,53 @@
+100223	Adiller Mah.	Ali Turan~|Arslanoğlu~|Azim Sofu~|Aşkar~|Beypınarı~|Bobuşlar~|Cumhuriyet@|Duraklar~|Ermenek Karayolu=|Fazilet~|Gazi Arif Albayrak~|Hese~|Hüsülü~|Karaoğlan~|Konya Yolu@|Mandalcı~|Mehmet Emin Canan@|Merkez@|Mustafa Barcın@|Prof.dr.ibrahim Canan@|Salih~|Taşköprü@|Çandır~|Özçelikler~|İmamhatip~|Şehit Öğretmen Ali Yıldız~
+90293	Baş Mah.	Aksakal~|Belki~|Bostan Önü=|Erenler~|Ertaş Hoca~|Feslikan2~|Firenşe=|Gölet Yolu=|Gül Çıkmazı~|Hasan Çavuş=|Karanfil~|Kavaklı=|Kaynarca=|Killik=|Kurra Efendi~|Mehmet Dirican~|Mevlana@|Mustafa Kulak@|Peynirlik=|Sağlık~|Sey Obası=|Söğut Yalağı=|Söğütlü Camii=|Sümbül~|Tepe Çayır=|Tokuç=|Veli Büyük~|Yayla~|Çoban Çukuru-=
+92987	Civandere Köyü	Civandere=
+92988	Civandere Köyü, Boyalı Yayla Evleri	
+92989	Civler Köyü	Alanya~|Civler=|Fatih Sultan Mehmet@
+92990	Civler Köyü, Atalanı Yayla Evleri	Atalanı=
+92992	Civler Köyü, Kabalak Mevkii	Kabalak=
+92991	Civler Köyü, Makam (akçapınar) Yayla Evleri	Makam/akçapınar=
+92993	Civler Köyü, Taşpınar Yayla Evleri	Taşpınar=
+92998	Daran Köyü	Daran=|Daran1=
+92999	Daran Köyü, Yaylalar Yayla Evleri	Yaylalar=
+93001	Dumlugöze Köyü	Dumlugöze=
+93000	Dumlugöze Köyü, Dikenli Yayla Evleri	Dikenli=
+93004	Dumlugöze Köyü, Kaya Başı -gürüsdü-musurdu-olucak-dere-kayabaşı-ağ Yayla Evleri	Kayabaşı Gürüsdü Musurdu Olucak Dere Kayabaşı Ag=
+93002	Dumlugöze Köyü, Pireli/aşakbel Mevkii	Pireli/aşakbel=
+93003	Dumlugöze Köyü, Pireli/aşakbel-geven-dikenli-ormanlı-çukur-çetincy Mevkii	Pireli/aşakbel Geven Dikenli Ormanlı Çukur Çetince=
+93005	Dumlugöze Köyü, Çulhalar-kızılçukur-aşağı Süvari-yukarı-sivarı-ala Yayla Evleri	Dumlugöze1=|Çulhalar Kızılçulur Aşağı Süvari Yukarı Sivari Ala=|Çulhalar Kızılçur Aşağı Yukarı Sivari-ala=
+90304	Göktepe Beldesi, Cumhuriyet Mah.	Abdurrahman Akyüz@|Akif Müdür@|Akpınar=|Esen~|Hüsnü Yaylalı@|Kahyalar~|Karakol~|Molla Mustafa@|Yılanlıpınar=|İğdeli~
+139462	Göktepe Beldesi, Esentepe Mah.	1 Nolu~|10 Nolu~|11 Nolu~|12 Nolu~|13 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|9 Nolu~|Ahmet Tufan Şentürk@|Ahmet Çalışkan@|Akıf Müdür@|Atasevenler@|Barardı@|Fahri Akdemir@|Gençlik@|Göktepe@|Kaynarca@|Kurtdeliği=|Mahmut Coşkun@|Mehmet Doğan@|Mustafa Kökçam@|Sağlıkocagı@|Çiçekpınarı@
+90305	Göktepe Beldesi, Göksu Mah.	Atatürk@|Belister=|Durmuş Oğuz@|Pürçüklü~|Saitli~|İbrahim Timur@
+90301	Göktepe Beldesi, Gülpazar Mah.	Abdurrahman Karakoç@|Asar~|Atatürk@|Belister=|Durmuş Oğuz@|Gazipaşa@|Hafızlı~|Hüsnü Yaylalı@|Korali~|Kökceviz~|Mehmetler Yeri=|Taşlıboğaz~|Tığcarlı~|Çavuşlu~|Ünlü~
+139463	Göktepe Beldesi, Günder Mah.	1 İnci~|2 İnci~|3 Üncü~|4 Üncü~|5 İnci~|6 Incı~|7 İnci~|8 İnci~|Demircioğlu=|Gazipaşa@|Göktepe@|Günder Hes=|Öğretmen Mahmut Bedir@
+90302	Göktepe Beldesi, Yeşilyurt Mah.	Akif Müdür@|Baba Küstü 1.~|Baba Küstü 2.~|Bedir~|Camii~|Durmuş Oğuz@|Esen~|Karakol~|Mehmet Akif Ersoy@|Ustalar~|Yahyalı~|İbrahim Timur@
+90303	Göktepe Beldesi, Yıldız Mah.	Abdurrahman Karakoç@|Akpınar=|Ali Soysal~|Coşar~|Demircioğlu=|Hüsnü Yaylalı@|Karahasanlar~|Kocallar~|Mehmetler Yeri=|Molla Mustafa@|Mustanlı~|Rasıh~|Saraybeleni~|Taşpınar=|Yılanlıpınar=|İbrahim Timur@
+99289	Göktepe Beldesi, Çukurbağ Mah.	Abdullah Usta~|Alanya@|Aydın~|Cenneliler~|Demircioğlu=|Dizelitaş@|Duran Dinç@|Ecirler~|Ertuğrul~|Eğitmen@|Garip~|Girenes=|Hacı Sofu~|Hacılar@|Işıldak~|Kahramanlı@|Kayalar~|Ketir~|Köristan@|Küpçüler~|Mezarlık@|Nebiler~|Olgun~|Ormancı~|Osmanlı@|Oğuzlar~|Postacı~|Sağlam~|Taşdibi~|Yılmazlar~|Çetinler~|Çongulu~|Çulhalar~|Ömerli@
+93008	Işıklı Köyü	Işıklı=
+90295	Karakaya Mah.	Cumhuriyet@|Feslikan2~|Gül~|Gül1~|Gül2~|Konya Yolu@|Lale~|Mevlana@|Mustafa Kulak@|Selam~|Sümbül~|Tozan Yolu~|Veli Büyük~|Yeşildere~|Çiğdem~|Öğretmen Murat Uçacak@|Şht.ibrahim Duran@
+93009	Koçaşlı Köyü, Göksu Mevkii	Göksu=
+93010	Koçaşlı Köyü, Merkez Mevkii	Koçaşlı Merkez=
+93011	Koçaşlı Köyü, Yayla Evleri Yayla Evleri	Yayla Evleri=
+90296	Küçük Karapınar Mah.	Ambartaş=|Birlik~|Cumhuriyet@|Fazilet~|Fehmi Özer@|Kamil Şabanoğlu@|Karahasan Beleni=|Karapınar Yaylası=|Konya Yolu@|Malazgirt@|Mevlana@|Mustafa Barcın@|Pazaryeri=|Pınarbaşı~|Yeşildere~|Çataloluk=|İmamhatip~|İnceöz=
+200285	Mençek Mah.	Cimenler~|Ermenek Karayolu=|Eğitmen Ahmet Yaman@|Göksu~|Hüsülü~|Koleri~|Koleri2~|Mençek~|Taşeli~|Taşeli1~|Taşköprü@
+90297	Merkez Mah.	Aydın~|Bal~|Cumhuriyet@|Demirci~|Ertaş Hoca~|Kadılar~|Karacaoğlan@|Merkez1~|Mevlana@|Nergis~|Sümbül~|Zambak~|Çiğdem~|Öğretmen Murat Uçacak@|Şht.ibrahim Duran@
+100224	Ortaköy Mah.	Akçalar 2~|Akçalar~|Alanya~|Araplar 1~|Araplar~|Fatih Sultan Mehmet@|Göksu~|Halil İbrahim Korkmaz@|Hüseyin Aktaş~|Karaosman~|Köleler~|Kızılcakışla~|Merkez@|Ortaköy Turcalar Yolu~|Çakıcılar~
+90298	Turcalar Mah.	Alanya~|Barış~|Bedesten~|Cumhuriyet@|Fazilet~|Gusunyeri=|Hafız~|Karaosman~|Killik=|Muhsin Yazıcıoğlu@|Ortaköy Turcalar Yolu~|Tepe~|Yıldırım~|Çandır~
+90299	Ulucami Mah.	Ahmet Efendi~|Akdeniz@|Akdeniz1~|Aslan~|Aşagı Boyalı=|Bal~|Belki~|Bostan Önü=|Cumhuriyet@|Cumhuriyet1~|Fakirceli=|Firenşe=|Gusunyeri=|Gölcük-=|Karacaoğlan@|Kavaklı=|Kaynarca=|Killik=|Kurra Efendi~|Mehmet Dirican~|Mevlana@|Söğut Yalağı=|Tapur~|Tepe Ardı=|Tepe Çayır=|Tokuç=|Yayla~|Yaylalı=|Yürek Üçtaş=|Çavuş~|Şht.ibrahim Duran-@
+93013	Uğurlu Köyü	Uğurlu=
+93018	Uğurlu Köyü, Beyçayır Yayla Evleri	Beyçayır=
+93016	Uğurlu Köyü, Boyunağıl Yayla Evleri	Boyunağıl=
+93020	Uğurlu Köyü, Gezirail Yayla Evleri	Gezirail=
+93027	Uğurlu Köyü, Hacalardı Mevkii	Belister=|Göktepe@
+93017	Uğurlu Köyü, Hesbek Yayla Evleri	Hesbek=
+93025	Uğurlu Köyü, Kale Döşeği Yayla Evleri	Kale Döşeği=
+93014	Uğurlu Köyü, Kaynarca Yayla Evleri	Ermenek Karayolu=|Kaynarca=
+93015	Uğurlu Köyü, Manastır Yayla Evleri	Manastır=
+93026	Uğurlu Köyü, Nacı Ali Yurdu Yayla Evleri	Nacı Ali Yurdu=|Çelik Başı=
+93024	Uğurlu Köyü, Suliçi Yayla Evleri	Suliçi=
+93022	Uğurlu Köyü, Susanlı Yayla Evleri	Taştekne=
+93019	Uğurlu Köyü, Sıtma Pınarı Yayla Evleri	Sıtmapınarı=|Çelik Başı=
+93021	Uğurlu Köyü, Çetince Önü Yayla Evleri	Çetince Önü=
+93023	Uğurlu Köyü, Çevlik Başı Yayla Evleri	Uğurlu=|Çelik Başı=
+90300	Yeşilyurt Mah.	Ali Efe~|Cevizli~|Erikli~|Fazilet~|Malazgirt@|Pazar~|Vural~|Yıldırım~|Zambak~
+90294	Çakıllar Mah.	Cevizli~|Cumhuriyet@|Feslikan~|Malazgirt@|Muhsin Yazıcıoğlu@|Pazar~|Vural~|Yıldırım~|Zambak~|Öğretmen Murat Uçacak@|Şht.ibrahim Duran@

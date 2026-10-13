@@ -1,0 +1,27 @@
+4956	Akçatepe Köyü	Akçatepe=
+589	Ayniye Mah.	200~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|Akasya~|Balcılar~|Begonya~|Beylik~|Emekçi~|Emniyet@|Fırın~|Karagözlüm~|Manolya~|Merkez~|Pınar~|Tekel@|Vakıf~|Zübeyde Hanım@|Çanakçı@|Çınar~|İstikbal@
+4957	Boyundere Köyü	Boyundere=
+590	Bulanık Mah.	Bulanık=
+591	Cumhuriyet Mah.	100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|508~|Bağcılar~|Erdem~|Karanfil~|Lise@|Uğurlu~|Vakıf~|Yayla~|Zübeyde Hanım@|Zümrüt~|Çiğdem~
+4972	Elçiler Köyü	Elçiler=
+593	Fethiye Mah.	300~|301~|302~|304~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|414~|Akçapınar~|Cami~|Demirci~|Emniyet@|Geni (geni)=|Geni~|Kadı~|Nilüfer~|Sümbül~|Tekel@|Ufuk~|Yeni-=|Ziyaret~|Çanakçı@
+4961	Havutlu Köyü	Havutlu=
+4962	Kaşlıca Köyü	Kaşlıca=
+4963	Kaşlıca Köyü, Pamuklu Mezrası	Pamuklu=
+4964	Köseli Köyü	Köseli=
+4965	Meryemuşağı Köyü	Meryemuşağı=
+595	Reşadiye Mah.	301~|400~|401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|Akgül~|Fırın~|Gül~|Hamam~|Kardelen~|Levent~|Mehmet Turgut Okyay@|Menekşe~|Mercan~|Papatya~|Pınar~|Ulupınar~|Vakıf~|Zübeyde Hanım@|Çanakçı@|Çatalpınar~|Çayırlık~|İnci~
+596	Salah Mah.	105~|500~|501~|502~|503~|504~|505~|506~|507~|508~|Lise@|Mutlu~|Okul~|Uğurlu~|Zambak~
+4967	Tepecik Köyü	Tepecik=
+4968	Tepecik Köyü, Yeşilyamaç Mezrası	Yeşilyamaç=
+4969	Yalankoz Köyü	Yalankoz=
+4970	Yaylımlı Köyü	Yaylımlı=
+4971	Yaylımlı Köyü, Kıllılı Mezrası	Kıllılı=
+4973	Yeşilyurt Köyü	Yeşilyurt=
+4974	Yeşilyurt Köyü, Pınarlı Mezrası	Pınarlı=
+592	Çamlıca Mah.	Çamlıca=
+4959	Çiftlik Köyü	Çiftlik=
+4960	Çiftlik Köyü, Akbel Mezrası	Akbel=
+4958	Çiftlik Köyü, Sülmen Mezrası	Sülmen=
+4966	Öğütlü Köyü	Öğütlü=
+98184	Ünlüce Köyü	Ünlüce=

@@ -1,0 +1,63 @@
+165625	Aktaş Mah.	Dişderik Geçitli=|Duvanlı=|Mısalı=|Saraylı=
+165675	Alıçlı Mah.	Alıçlı=
+51852	Aşağıulupınar Mah.	Aşağıulupınar Divriği=|Değirmen=|Harmanlı=|Zaimoğlu=
+51853	Aşağıyenice Mah.	Akıllıoğlu~|Dabakçılar~|Naim Cömertlioğlu@|Yenice~
+51851	Aşağıçörenge Mah.	Emiroğlu@|Fadıllıoğlu 1~|Fadıllıoğlu~|Fındıklı Çeşme~|Malatya@|Saitoğlu~|Taşköprü 1~|Taşköprü 2~|Taşköprü~
+51854	Berenge Mah.	Berenge1~|Cevat Paşa~|Emiroğlu@|Hacı Şerif Ağa@|Hami Aydınlar 1~|Hami Aydınlar~|Müftüler 1~|Müftüler 2~|Müftüler~|Namık Gedik@|Nevzat Sezer@|Zehra Bilir@|Çarşı@|İpekçi 1~|İpekçi~
+165681	Bostancık Mah.	Bahçeler=|Bostancık=|Bulgurlu=
+165627	Boğazlı Mah.	Boğazlı=
+165629	Budak Mah.	Budak=
+51855	Cömertli Mah.	Cömertler=|Efeler~|Efeler1~|Erzen~|Erzen1=
+165685	Deregezen Mah.	Deregezen=
+165637	Düzce Mah.	Düzce=
+165687	Esikli Mah.	Esikli=|Taşdelen=|Üçtepe=
+165689	Eskiarapgir Mah.	Bostanpınarı=|Eskiarapgir=
+165639	Eğnir Mah.	Beypınar=|Eğnir=|Tanısa=
+165691	Gebeli Mah.	Gebeli=|Şerek=
+51858	Göz Mah.	Göz=
+165641	Gözeli Mah.	Bardıbaş=|Gözeli=
+165643	Günyüzü Mah.	Ortaevler=|Palanga=|Çiftlik=
+51859	Hezenek Mah.	Bedrettin Tolga@|Beşdutlar~|Hezenek1~|Hezenek2~|Hezenek3~|Kaynarca~|Kırkdutlar~|Malatya_1@|Mehmet Ali Aydınlar%
+51860	Hocaali Mah.	Başeski~|Ciğerci~|Cumhuriyet~|Emiroğlu@|Hocaali1~|Hocaali2~|Hocali1~|Taşköprü~|Zehra Bilir@
+165645	Kayakesen Mah.	Kayakesen=|Kozer=|Yayla Evleri=
+165693	Kaynak Mah.	Kaynak=|Levenge=
+165695	Kazanç Mah.	Kazanç=|Rotop=
+165699	Konducak Mah.	Ağcebenk=|Konducak=|Saray=|Selimler=
+165647	Koru Mah.	Koru=|Çay=|Çimen=
+51861	Köseoğlu Mah.	Atatürk@|Aydınlar~|Gazozcular~|Hacı Yahya~|Hükümet@|Kasaplar Sırası~|Köseoğlu1~|Köseoğlu2~|Menekşe~|Namık Gedik@|Topçular~|Çarşı@|Çaylı~
+165697	Kılıçlı Mah.	Beygilli~|Hacıuşağı=|Kebiruşağı=|Kılıçlı=
+51862	Mehmetakif Mah.	Adnan Kahveci~|Atatürk@|Ayvazpınarı~|Cami~|Divriği@|Ekşi~|Eğemen~|Feti Gemuhluoğlu@|Huzur~|Hüseyin Avni Paşa@|Karabay~|Karaca~|Karşıyaka~|Kozluk~|Mehmet Akif1~|Mehmet Akif10~|Mehmet Akif11=|Mehmet Akif12~|Mehmet Akif13~|Mehmet Akif14~|Mehmet Akif15~|Mehmet Akif16~|Mehmet Akif17~|Mehmet Akif18~|Mehmet Akif19~|Mehmet Akif2~|Mehmet Akif20~|Mehmet Akif21~|Mehmet Akif22~|Mehmet Akif23~|Mehmet Akif24~|Mehmet Akif25~|Mehmet Akif26~|Mehmet Akif27~|Mehmet Akif28~|Mehmet Akif29~|Mehmet Akif3~|Mehmet Akif30~|Mehmet Akif31~|Mehmet Akif32~|Mehmet Akif33~|Mehmet Akif34~|Mehmet Akif35~|Mehmet Akif36~|Mehmet Akif37~|Mehmet Akif38~|Mehmet Akif39~|Mehmet Akif40~|Mehmet Akif41~|Mehmet Akif45~|Mehmet Akif5~|Mehmet Akif6~|Mehmet Akif7~|Mehmet Akif8~|Mehmet Akif9~|Mehmet Kerem Aydınlar@|Osmanpaşa@|Saime Hatun~|Seyrantepe~|Suluca~|Sönmez~|Tarakçı~|Tuncay Kavuncu Paşa@|Yusuf Kamil Paşa Cad. 114 Nolu~|Yusuf Kamil Paşa Cad. 115 Nolu~|Yusuf Kamil Paşa Cad. 116 Nolu~|Yusuf Kamil Paşa@|Çoban~|Çobanlı@|Ömer Baba@|Şemsi Belli@
+165701	Meşeli Mah.	Meşeli=
+165649	Onar Mah.	Kayalısu=|Onar=|Onar1=|Onar2=|Tutağacı=
+165651	Ormansırtı Mah.	Ormansırtı 1=|Ormansırtı=|İnderesi=
+51863	Osmanpaşa Mah.	Akyol=|Arkbaşı=|Caferpaşa=|Kesikbaş=
+165679	Pacalı Mah.	Pacalı=
+165703	Pirali Mah.	Haraç=|Mehmet Uşağı=|Pirali=
+51864	Sekizsu Mah.	Hacı Bayramlı=|Santral=|Çobankaya=
+165653	Selamlı Mah.	Selamlı=
+51865	Serge Mah.	Meydan=
+165705	Sinikli Mah.	Ballıca=|Sinikli=|Uşağı=|Yoluklu=|Yukarı Sinikli=
+165707	Sipahiuşağı Mah.	Sipahiuşağı=
+165655	Suceyin Mah.	Dikilitaş=|Hamza=|Kalecik=|Suceyin=|Suceyin1=|Taşköprü_1=|Vijna=|Yamangil=|İsuyurt=
+165657	Sugeçti Mah.	Alhut=|Kalın Harman=|Yanıklar=
+165663	Tarhan Mah.	Alanlı=|Tarhan=|Yıldızlar=
+165673	Taşdelen Mah.	Taşdelen=
+165665	Taşdibek Mah.	Taşdibek=
+165711	Ulaçlı Mah.	Ulaçlı=
+165667	Yaylacık Mah.	Yaylacık=
+165713	Yazılı Mah.	Yazılı=
+51867	Yeni Mah.	Atatürk@|Bolpınar@|Bolpınar1@|Demirciler 1~|Demirciler~|Divriği@|Emiroğlu 1@|Emiroğlu@|Hastane@|Karayolları@|Kazım Karabekir~|Mimar Sinan~|Sanayi 1~|Sanayi 2~|Sanayi~|Sinanlı~|Sinema~|Yeni~|Yeni Yol 21~|Yeni2~|Zekayi Bingüler@|Ziya Gökalp~|Çamlı 1~|Çamlı~|Çarşı@|Çerkez~|Özgür 1~|Özgür~|İnönü@
+165669	Yeşilyayla Mah.	Mahmudi Deresi=|Yeşilyayla=|Yeşilyayla1=
+51869	Yukarıulupınar Mah.	Gözeli=|Haslık=|Odapınar=|Yukarıulupınar Divriği=
+165671	Yukarıyabanlı Mah.	Yukarıyabanlı=
+51870	Yukarıyenice Mah.	Bali Beyler=|Derbeder=|Mehmet Ali Aydınlar%|Möhteroğlu=|Naim Cömertlioğlu@|Oğuzlu=|Şair Fehmi Gür=|Şekerci=
+51868	Yukarıçörenge Mah.	Arifin Virajı~|Dabazpınarı~|Karanfil~|Malatya@|Müderrisoğlu~|Saraçbaşı~|Tahtıklı~|Yukarıçörenge1~|Yukarıçörenge2~|Yukarıçörenge3~|Yukarıçörenge5~|Çift Mezar~
+51871	Zöhrap Mah.	Bademli=|Ocaklı=|Ocaklı1=|Okul=|Tepe=
+165683	Çakırsu Mah.	Çakırsu=|Çiftlik_1=
+51856	Çarşı Mah.	Fevzi Çakmak~|Hacı Şerif Ağa@|Hamam~|Menekşe~|Namık Gedik@|Taşpınar~|Topçular~|Çarşı1~|Çarşı10=|Çarşı2~|Çarşı3~|Çarşı4=|Çarşı5~|Çarşı6~|Çarşı7~|Çarşı8~|Çarşı9~
+165631	Çaybaşı Mah.	Çaybaşı=
+165635	Çimen Mah.	Ballıca_1=|Çimen=
+165633	Çiğnir Mah.	Yumrutaş=|Çiğnir=
+51857	Çobanlı Mah.	Engin=|Sütpınar=|Çobanlı@|Çobanlı1=|Şakir Paşa=
+165661	Şağıluşağı Mah.	Kuşçu=|Şağıluşağı=
+51866	Şıhlar Mah.	Kadıoğlu=|Küme 1=|Küme=|Sofular=|Şabanağa=

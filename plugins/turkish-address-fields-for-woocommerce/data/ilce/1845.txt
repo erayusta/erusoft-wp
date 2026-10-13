@@ -1,0 +1,75 @@
+48771	Alancık Köyü, Merkez Mevkii	Merkez=
+48770	Alancık Köyü, Örencik Mevkii	Örencik=
+48775	Aybasan Köyü, Merkez Mevkii	Merkez=
+48776	Aybasan Köyü, Yakınca Mevkii	Yakınca=
+48818	Az.kalaycı Köyü, Demirci Mevkii	Demirci=
+48816	Az.kalaycı Köyü, Güllü Mevkii	Güllü=
+48815	Az.kalaycı Köyü, Ilıyazı Mevkii	Ilıyazı=
+48814	Az.kalaycı Köyü, Merkez Mevkii	Merkez=
+48817	Az.kalaycı Köyü, Zanaltı Mevkii	Zanaltı=
+48772	Aşıklı Köyü	- Köy$
+48773	Aşıklı Köyü, Merkez Mevkii	Merkez=
+48774	Aşıklı Köyü, Orta Mevkii	Orta=
+48779	Başçavuş Köyü, Gossokü Mevkii	Gossokü=
+48778	Başçavuş Köyü, Menteşe Mevkii	Menteşe=
+48777	Başçavuş Köyü, Merkez Mevkii	Merkez=
+48823	Büyükmutlu Köyü, Merkez Mevkii	Merkez=
+48782	Celallı Köyü, Küpcüler Mevkii	Küpcüler=
+48780	Celallı Köyü, Merkez Mevkii	Merkez=
+48781	Celallı Köyü, Tatlıca Mevkii	Tatlıca=
+48783	Dağlı Köyü, Kısık Mevkii	Kısık=
+48785	Dağlı Köyü, Merkez Mevkii	Merkez=
+48784	Dağlı Köyü, Yukarıdağlı Mevkii	Yukarıdağlı=
+48786	Dağlı Köyü, İmam Mevkii	İmam=
+48789	Demirkaya Köyü, Demircili Mevkii	Demircili=
+48788	Demirkaya Köyü, Manav Mevkii	Manav=
+48787	Demirkaya Köyü, Merkez Mevkii	Merkez=
+48790	Dereköy Köyü, Merkez Mevkii	Merkez=
+48791	Dereköy Köyü, Yörecik Mevkii	Yörecik=
+41901	Dibekli Mah.	Değirmen~|Dibekli@|Fırıncuk Kayası~|Fırıncuk~|Gülveren~|Kanarya~|Kesmenoğlu~|Kılıç~|Lale~|Yeldan~|Çevrik@|Şen~
+48793	Dördül Köyü, Baş Köy Mevkii	Baş Köy=
+48794	Dördül Köyü, Konuklar Mevkii	Konuklar=
+48792	Dördül Köyü, Merkez Mevkii	Merkez=
+48796	Edeler Köyü, Merkez Mevkii	Merkez=
+48795	Edeler Köyü, Çatak Mevkii	Çatak=
+48797	Furuncuk Köyü, Merkez Mevkii	Merkez=
+41902	Güneytekke Mah.	Ay~|Besiciler~|Gül~|Güneytekke 2.~|Güneytekke 4.~|Ihlamur~|Karaman Yolu@|Karanfil~|Lale~|Menekşe~|Meşe~|Mithat Paşa 2~|Mithat Paşa@|Murat Başesgioğlu@|Neşe~|Okul~|Soğuksu 4~|Soğuksu@|Topcuoğlu~|Ustalar~|Yamaç~|Zambak~|Çınar~|Şen~
+48798	Gürleyik Köyü, Değirmenbaşı Mevkii	Değirmenbaşı=
+48799	Gürleyik Köyü, Merkez Mevkii	Merkez=
+48800	Gürleyik Köyü, Poyracık Mevkii	Poyracık=
+48803	Gürpelit Köyü, Ahmet Bey Mevkii	Ahmet Bey=
+48801	Gürpelit Köyü, Değirmenci Mevkii	Değirmenci=
+48804	Gürpelit Köyü, Düzce Mevkii	Düzce=
+48802	Gürpelit Köyü, Merkez Mevkii	Merkez=
+48807	Harmangeriş Köyü, Akca Kese Mevkii	Akca Kese=
+48808	Harmangeriş Köyü, Ali Yeri Mevkii	Ali Yeri=
+48810	Harmangeriş Köyü, Hatıp Mevkii	Hatıp=
+48806	Harmangeriş Köyü, Hıdırlı Mevkii	Hıdırlı=
+48805	Harmangeriş Köyü, Merkez Mevkii	Merkez=
+48812	Harmangeriş Köyü, Muhtrem Mevkii	Muhtrem=
+48809	Harmangeriş Köyü, Paşa Mevkii	Paşa=
+48811	Harmangeriş Köyü, Tulek Mevkii	Tulek=
+48813	Himmet Köyü, Merkez Mevkii	Merkez=
+41903	Karaman Mah.	Alancık Yolu@|Ay~|Ergin~|Gök~|Gün~|Güvenç~|Hafız Şakir@|Karaman Yolu-@|Kıraç~|Meriç~|Tepe Yolu~|Turhan~|Uğurbey~|Vatan@|Yokuş~|Çam~|Çamlık~|Çevrik@|Öz~|Özdemir~|Özden~|İlgin~
+41904	Korucak Mah.	Ay~|Cevizli~|Cevizli Çıkmazı~|Dere~|Değirmen~|Dörtyol@|Dörtyol Çıkmazı~|Kaplan~|Kastamonu@|Kemer~|Korucak 1.~|Meşe~|Yeşil~|Çay~|Çin~|Çınar~|Öksüzler~
+41905	Kuztekke Mah.	Aslanlar~|Bilal Köyü~|Gür~|Hafızoğlu~|Hamza Köyü~|Harman~|Hıdır Köyü~|Ihlamur~|Kastamonu@|Kocaharman~|Kuz Dağı~|Sağca~|Tan~|Taşlık~|Türbe~|Yassı Kuzu@|Yılmazlar~|Çanakcı~|Şeyh Şir Ali Bani@
+48820	Küçükmutlu Köyü, Ardıçalan Mevkii	Ardıçalan=
+48821	Küçükmutlu Köyü, Dibekli Mevkii	Dibekli=
+48822	Küçükmutlu Köyü, Köyceyiz Mevkii	Köyceyiz=
+48819	Küçükmutlu Köyü, Merkez Mevkii	Merkez=
+41906	Merkez Mah.	Akasya~|Bahçe~|Cumhuriyet Myd.|Dar~|Dibekli@|Fener~|Gökkuşağı~|Gün~|Gür~|Hasan Sarı@|Hoca Köyü@|Karaman Yolu@|Kardelen@|Köşk~|Kıbrıs~|Lütfi Aysan 1~|Lütfi Aysan@|Mezbaha Çıkmaz~|Murat Başesgioğlu@|Nar~|Nar Çıkmazı~|Nergiz Çıkmaz~|Papatya~|Pazar~|Saka Çıkmaz~|Selvi@|Soğuksu@|Tepe~|Vatan@|Yeşil~|Çakır~|Çam~|Çay~|Çevre Çıkmaz~|Çevrik@|Çeşmebaşı~|İbrahim Tekinok@|Şehit Muzaffer Arslan~|Şeyh Şir Ali Bani@
+48825	Salman Köyü, Abidinoğlu Mevkii	Abidinoğlu=
+48826	Salman Köyü, Gücüllü Mevkii	Gücüllü=
+48824	Salman Köyü, Merkez Mevkii	Merkez=
+48827	Sefer Köyü, Dede Mevkii	Dede=
+48828	Sefer Köyü, Gücükdibi Mevkii	Gücükdibi=
+48829	Sefer Köyü, Merkez Mevkii	Merkez=
+48831	Tepecik Köyü, Halı Mevkii	Halı=
+48833	Tepecik Köyü, Himmetli Mevkii	Himmetli=
+48832	Tepecik Köyü, Kaya Mevkii	Kaya=
+48830	Tepecik Köyü, Merkez Mevkii	Merkez=
+48834	Uzunyol Köyü	Köyün Kendisi=
+48836	Yarımca Köyü, Güney Yarımca Mevkii	Güney Yarımca=
+48837	Yarımca Köyü, Harmancık Mevkii	Harmancık=
+48835	Yarımca Köyü, Kuzey Yarımca Mevkii	Kuzey Yarımca=
+41900	Çevrik Mah.	Akca Kese~|Evliya~|Eğitmen~|Fidan~|Gümüştaş~|Gün~|Karanlar~|Kızılcasu~|Lale 4~|Lale~|Menekşe~|Tekin~|Çevrik@|Özkanlar~|Ünlü~

@@ -1,0 +1,41 @@
+151953	Akoluk Mah.	Avut~|Derekol~|Doraman~|Gökçeağıl~|Orta~|Poyraz~
+151957	Akpınar Mah.	Ahmetoğlu~|Hatipoğlu~|Kadıllı~|Kadıoğlu~|Orta~|Töngelcioğlu~
+151969	Aydınlar Mah.	Camiyanı Ve Küçük Mahmutoğlu~|Eminoğlu~|Güleloğlu~|Keloğlu Ve Hafızlar~|Kürtoğlu~|Küçükmahmutoğlu~|Semenoğlu Ve Kocahasanoğlu~|Süleymanoğlu~|Çakmaklar~|Çakırali Ve Dervişoğlu~|Çavuşoğlu~
+151975	Başçardak Mah.	Değirmen Yanı~|Lazbeli~|Su Gözü~|Yukarı Köy~
+151977	Belenyurt Mah.	Akkaya~|Dargıca~|Kavşak~|Kozyalak~|Yaykınlık~
+151983	Cevizlik Mah.	Ellezoğlu~|Felekoğlu~|Garipoğlu~|Gegiloğlu~|Kocahaliloğlu~|Kömürcüoğlu~|Ramadanoğlu~|Yusufoğlu~
+151997	Doğlu Mah.	Arnaktepe~|Aşağa~|Dorazan~|Genceloğlu~|Kıran~|Kıraçoğlu~|Orta~|Yukarı~
+152005	Durak Mah.	Abaloğlu~|Ağakolu~|Burkaçlı~|Dölbentli~|Elikçioğlu~|Eğrek~|Huysuzoğlu~|Kayadibi~|Kömürocağı~|Köyiçi~|Çayırdağa~|Şıhlar~
+152011	Elmaçukur Mah.	Dere~|Düz~|Güney~|Tulumlu~|Yeni~
+152013	Eymür Mah.	Aşağı Eymür~|Kabaklı~|Külekçioğlu~|Sarıtaş~|Semenoğlu~|Yukarı~|Öksüzlü~
+152015	Fındıklı Mah.	Bayramgazi~|Camiyanı~|Sallı~|Yukarı~
+61194	Gündüzlü Mah.	Ara~|Atatürk@|Bekir Sıtkı Baykal@|Bezirganoğlu@|Cami~|Gündüzlü@|Gündüzlü-1=|Hamide Özay@|Karakoca@|Poyrazoğlu~|Çayırağzı~|Çıkmaz~
+152017	Güvenköy Mah.	Güvenköy~
+152019	Güvenyurt Mah.	Sallar~|Sarmacaman~
+152021	Güzelyurt Mah.	Alaca~|Düz~|Gacaroğlu~|Kıran~|Tepe Dibi~|Yeni~
+152025	Hocaoğlu Mah.	Hocaoğlu~
+152027	Kadıncık Mah.	Kadıncık~
+152029	Kalıcak Mah.	Kalıcak~|Kavaklık~|Orta~|Şüküroğlu~
+61195	Karakoca Mah.	Camiyanı=|Dastra=|Derviş Salih=|Düzkıran=|Emincioğlu=|Hamzaoğlu=|Hasanoğlu=|Karakoca@|Karaçayır=|Kaçoğlu=|Mehmet Efendi~|Orman~|Yardibi=|Çamlıbel=
+152031	Kardeşler Mah.	Alacat~|Aşağıköy~|Bodurlu~|Cumuklu~|Haramiçukur~|Hasanlı~|Hatipli~|Kışla~|Merkez~|Yarbaşı~|Çoplu~|Öteköy~
+152035	Kirazlık Mah.	Değirmen Başı~|Kozören~|Mercanoğlu~|Ortayol~|Taşpetek~
+152039	Koşaca Mah.	Gürgentepe~|Karagöz~|Pirali~
+152041	Kumanlar Mah.	Göbüt~|Karsadun~|Kumanlar~|Yazlık~|Çiflik~
+152043	Kumrulu Mah.	Ilıcak~|Karadallı~|Orta~|Yukarı~
+152033	Kıranyağmur Mah.	Kargülü~|Konak Yanı~|Köyiçi~|Telbüslü~|Yağmur~|Çamlık~|Öte Sokak~
+152045	Ohtamış Mah.	Düz~|Karşıkol~|Sırageçe~|Tepekışla~|Yukarıkışla~
+152047	Oyumgürgen Mah.	Mezarlık Önü~|Soğanlık~|Yusuflu~|Çıtlaklı~
+152051	Refahiye Mah.	Karşıyaka~|Merkez~|Sırt~
+152057	Uzunmahmut Mah.	Camiyanı~|Derekol~|Düz~|Elemin~|Kayadibi~|Kızılca Ören~|Kızılliman~|Pamukluk~|Yağcılar~|Yeşiltepe~|Çakırlı Sırganlık~|Çangalbelen Güniyal~|Çilesizoğlu~
+61196	Yenimahalle Mah.	Yeni=
+152059	Yenisayaca Mah.	Akyazı~|Aşağı~|Bolhayır~|Kazancı~|Çubuk~|Çöllen~
+61197	Yolbaşı Mah.	Aşağı=|Orta=|Yukarı=
+152061	Yukarıkızılen Mah.	Avluca~|Camiyanı~|Kestane Belanı~|Kıran~|Sıra~|Tepeköy~|Yukarı~|Çamurlu~
+61192	Çatallı Mah.	1 Nisan@|100.yıl@|Atatürk@|Gündüzlü@|Mehtap~|Menekşe~|Milli Egemenlik Meydanı=|Muammer Kutlu@|Taşocağı~|Yahya Arcan 1.~|Yahya Arcan 2.~|Yahya Arcan 3.~|Yahya Arcan~|Çatallı-1=|Çatallı-2=|Çuhadaroğlu~|Şehit Metin Aydın~
+151989	Çağlayan Mah.	Çağlayan~
+151991	Çubuklu Mah.	Azak~|Belan~|Camiyanı~|Dolaytam~|Karşıağız~|Kızılçaören~|Taşlıpınar~|Tepe~|Türkmeno~|Yeniköy~
+61193	Çukur Mah.	Çongara=|Çukur=
+152049	Ören Mah.	Düz~|Çatak~
+151963	Şahinkaya Mah.	Gerdij~|Gölarası~|Kayadibi~|Kaytazlı~|Çukur~
+152053	Şekeroluk Mah.	Aykut~|Güvebe~|Semizler~|Çılık~|Şekeroluk~
+152055	Şıhlar Mah.	Değirmendere~|Düz~|Elikpınarı~|Sapdere Muratlı~|Sapdere~|Çukur~|Öteköy~

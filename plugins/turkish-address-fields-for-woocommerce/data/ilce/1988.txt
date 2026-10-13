@@ -1,0 +1,15 @@
+27642	Akardere Köyü	Akardere=
+27643	Büyük Gerdelli Köyü	Büyükgerdelli=
+21259	Cumhuriyet Mah.	19.~|20.~|20.1~|21.~|21.1~|21.2~|22.~|22.1~|22.2~|23.~|24.~|Keramettin@|Kovankaya~|Maraşal Çakmak 1~|Maraşal Çakmak@|Maraşal Çakmak3~|Mareşal Çakmak 2~|Sahil 18~|Sahil@|Sahil1~
+27644	Domurcalı Köyü	Domurcalı=
+27646	Geçkinli Köyü	Geçkinli=
+27647	Keramettin Köyü	Keramettin=
+27648	Küküler Köyü	Edirne 1~|Küküler=
+21260	Merkez Mah.	1.~|10.~|11~|11.1~|11.2~|11.3~|12.~|13.~|13.1~|14.~|15.~|16.~|17.~|2.~|3.~|31.~|31.1~|31.2~|31.3~|32.~|4.~|5.~|5.1~|5.2~|6.~|6.1~|7.~|8.~|9.~|Bilinmeyen~|Edirne 1~|Edirne@|General Hüseyin Hüsnü 1~|General Hüseyin Hüsnü 2~|General Hüseyin Hüsnü@|General Hüseyin Hüsnü1~|Kemal Balıkesir@|Kemal Balıkesir1~|Maraşal Çakmak3~|Sahil@|Sahil1~|Salih Omurtak@|Salih Omurtak1~
+21263	Organize Sanayi Bölgesi Mah.	1.@|10.~|2.@|3.@|4~|4.@|5.@|5.1~|6.@|7.~
+27649	Sülecik Köyü	Sülecik=
+27651	Tatarlar Köyü	Tatarlar=
+27650	Taşlısekban Köyü	Taşlısekban=
+27652	Yağcılı Köyü	Yağcılı=
+21261	Yeni Mah.	18.~|18.1~|18.2~|31.2~|32.~|32.1~|9.2~|Bilinmeyen~|Maraşal Çakmak@|Salih Omurtak@
+21262	Şafak Mah.	29.~|30.~|33.~|Edirne 1~|Edirne@|Keramettin@|Maraşal Çakmak@|Sahil@

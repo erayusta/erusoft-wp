@@ -1,0 +1,75 @@
+189529	Abdurrahmanköy Mah.	Abdurrahmanköy=|Daragut=
+189407	Akarsu Mah.	Akarsu=|Akdağ1=|Dırbaz Komu=|Selim Komu=|Uğurlu Komu-~
+189535	Akpınar Mah.	Akpınar=
+189413	Alemdağı Mah.	Alemdağı=|Halit Komu=|Mahmut Komu=|Nail Mezrası=|Taşkesen Komu=|Yusuf Komu=|Şerif Komu=
+189631	Aliküllek Mah.	Aliküllek=
+189421	Anıtlı Mah.	Anıtlı=
+189539	Aydınsu Mah.	Aydınsu=|Gültepe=|Gültepe-~|Narlı Dere=
+189627	Ağaçlı Mah.	Ağaçlı=
+189425	Aşağıincesu Mah.	Aşağıincesu=
+189427	Aşağısöylemez Mah.	Abiş Mezrası=|Aşağısöylemez=|Hanik Mezrası=|Hüseyin Mezrası=|Kamil Komu=|Osman Mezrası=|Zübeyir Mezrası=
+30017	Bayraktar Mah.	Bıınmeyen110~|Cumhuriyet@|Cumhuriyet1~|Kardelen1~|Kardelen2~|Köyceğiz=|Okullar@|Sancaktar@|Tutakyolu@|Tutakyolu/1@|Yol G~|Yol192@|Yol193@|Yol194@|Yol195~|Yol196~|Yol197~|Yol199~|Yol2@|Yol201~|Yol202~|Yol203~|Yol206~|Yol207~|Yol208~|Yol209~|Yol211~|Yol213~|Yol214~|Yol215~|Yol216~|Yol217~|Yol222~|Yol223~|Yol224~|Yol225~|Yol228~|Yol230~|Yol231~|Yol232~|Yol233~|Yol234~|Yol235~|Yol236~|Yol238~|Yol239~|Yol241~|Yol242~|Yol243~|Yol244~|Yol245~|Yol247~|Yol248~|Yol249~|Yol250~|Yol251~|Yol252~|Yol253~|Yol254~|Yol255~|Yol256~|Yol257~|Yol258~|Yol260~|Yol261~|Yol263~|Yol264~|Yol265~|Yol266~|Yol267~|Yol268~|Yol270~|Yol271@|Yol275~|Yol276~|Yol277~|Yol278~|Yol279~|Yol280~|Yol281~|Yol282~|Yol284~|Yol444~|Yol55@|Yol56%|Yol57~|Yol58~|Yol59~|Yol60~|Yol61~|Yol62~|Yol63~|Yol64~|Yol65~|Yol66~|Yol67~|Yol68~|Yol69~|Yol70~|Yol71~|Yol72~|Yol73~|Yol75@|Yol76@|Yol77~|Yol78~|Yol79~|Yol80~|Yol81~|Yol82~|Yol83~|Yol84~|Yol85~|Yol86~|Yol90~|Yol91~|Yol92~|Yol93~|Yol94~|Yol95~|Yolt~|Yücelikyolu@|Çabakçurlu~|Çimen~|Çiğdem~
+189435	Bezirhane Mah.	Bezirhane=|Güztepe=
+189639	Değirmenkaya Mah.	Değirmenkaya=|Kejo Komu=
+189643	Doruca Mah.	Doruca=
+189559	Duruca Mah.	Duruca=
+189555	Dörtpınar Mah.	Dörtpınar=
+189647	Dündar Mah.	Dündar=|Düzce Komu=|İbo=
+30018	Elmaağaç Mah.	Ağaç=|Golan Mezrası=|Gültepe Mezrası=
+189651	Geventepe Mah.	Geventepe=
+189621	Göksu Mah.	Aşağı Dengiz=|Göksü B.m=|Kömür-~|Olgunlar=|Yukarı Dengiz=
+189563	Göktepe Mah.	Göktepe=
+189567	Güllü Mah.	Güllü=|Çeti=
+189653	Hacıbayram Mah.	Hacıbayram=
+189569	Hasanova Mah.	Altıntaht Mezrası=|Hasanova=
+189657	Kapanlı Mah.	Kapanlı=|Şeyh Hasan Komu=
+189455	Karaağıl Mah.	Karaağıl=
+189573	Karabey Mah.	Gege Mezrası=|Karabey=
+189459	Karakale Mah.	Eldik Mezrası=|Hacı Hakkı Mezrası=|Karakale=|Yukarıçığılgan=
+189577	Karakaya Mah.	A.dilediz Mezrası=|A.sini Mezrası=|Karakaya=|Y.sini Mezrası=
+189463	Karasu Mah.	Budak Mezrası=|Karasu=|Kırgındere=
+30021	Karşıyaka Mah.	Yaka=
+189619	Kayalar Mah.	Kayalar=
+189467	Kazbel Mah.	Kazbel=|Kaş Mezrası=
+189667	Kurupınar Mah.	Kurupınar=
+189661	Kösehasan Mah.	Abdo Ağa Mezrası=|Esenler Mezrası=|Gürco Mezrası=|Kösehasan=
+189477	Köyceğiz Mah.	Köyceğiz=|Kırnak=
+189473	Kırgındere Mah.	Haşim Mezrası~|Kırgındere=|Teco Mezrası=
+189583	Kırıkpınar Mah.	Kırıkpınar=
+189527	Molla Osman Mah.	Molla Osman B.m=
+189587	Mollabekir Mah.	Mollabekir=
+189589	Muratlı Mah.	Muratlı=
+189481	Payveren Mah.	Hamit-~|Kavak=|Mahmut=|Payveren=
+189487	Salyamaç Mah.	Bahtiyar=|Polat=|Salyamaç=|Yukarı İncesu=
+189671	Sancaktar Mah.	Maksut=|Sancaktar1=
+189593	Sarıçiçek Mah.	Sarıçiçek=
+189597	Selenli Mah.	Selenli=
+189601	Sukonak Mah.	Sukonak=
+189675	Sulutaş Mah.	Sulutaş=
+189491	Taşan Mah.	Nimet Komu=|Taşan=
+189681	Tosunlu Mah.	Kavak Mezrası=|Tosunlu=|Yusufeli Mezrası=
+189495	Turnagöl Mah.	Gücür Mezrası=|Gülliçimen Mezrası=|Turnagöl=|Çiçekli Mezrası=
+189685	Ulucanlar Mah.	Hacı Emin Komu=|Haydar Komu=|Maksi Mezrası=|Ulucanlar=
+189605	Uğurdalı Mah.	Uğurdalı=
+189689	Yahyaköy Mah.	Efendi Yavuz=|Yahyaköy=
+189609	Yalındal Mah.	Narlı Dere=|Yalındal=
+30020	Yeni Mah.	18mart@|18mart/1@|18mart/3@|18mart/4@|18mart/41@|Aktur~|Aktur/4~|Aktur/5~|Aktur/6~|Bahar~|Bahar/1~|Batur~|Berfin~|Bılınmeyen1~|Bılınmeyen113~|Bılınmeyen2~|Bılınmeyen3~|Bılınmeyen4~|Bılınmeyen5~|Bılınmeyen6~|Bılınmeyen7~|Cumhuriyet@|Dar~|Erzurum Yolu@|Erzurum Yolu/1@|Erzurum Yolu/3~|Erzurum Yolu/5~|Erzurum Yolu/6~|Erzurum Yolu/8~|Erzurum Yolu/9~|Evren~|Göksuyolu@|Gürsel~|Hamam~|Hamam/1~|Hamam/3~|Hastaneüstüevleri~|Hastaneüstüevleri/3~|Kardelen~|Kardelen/1~|Kardelen/2~|Kavaklı~|Kıymık~|Maliyelojmanları~|Maliyelojmanları/1~|Maliyelojmanları/2~|Maliyelojmanları/3~|Namık~|Namık/1~|Okullar@|Rengin~|Selvi~|Sıhhıye@|Tutakyolu/1@|Yeniyol107~|Yeniyol108~|Yeniyol109~|Yibo~|Yol10~|Yol100~|Yol101~|Yol102~|Yol103~|Yol104~|Yol105~|Yol106~|Yol107~|Yol108~|Yol109~|Yol11~|Yol110~|Yol111~|Yol112~|Yol113~|Yol114@|Yol115~|Yol116~|Yol117~|Yol118~|Yol119~|Yol12~|Yol120~|Yol121~|Yol122~|Yol123~|Yol124~|Yol125~|Yol126~|Yol127~|Yol128~|Yol129~|Yol130~|Yol131~|Yol132~|Yol133~|Yol134~|Yol135~|Yol136~|Yol138~|Yol139~|Yol140~|Yol142~|Yol143~|Yol144~|Yol145~|Yol146~|Yol150~|Yol151~|Yol152~|Yol153~|Yol154~|Yol155~|Yol156~|Yol157~|Yol158~|Yol159~|Yol160~|Yol161~|Yol162~|Yol163@|Yol164~|Yol165~|Yol166~|Yol167~|Yol168~|Yol169~|Yol170~|Yol171~|Yol172~|Yol173~|Yol174~|Yol175~|Yol176~|Yol177~|Yol179~|Yol18~|Yol180~|Yol181~|Yol182~|Yol184~|Yol185~|Yol186~|Yol187~|Yol188~|Yol19@|Yol190~|Yol191~|Yol2@|Yol20@|Yol200@|Yol21~|Yol22~|Yol23~|Yol24~|Yol26~|Yol27~|Yol28~|Yol285~|Yol29~|Yol30~|Yol31~|Yol32~|Yol33~|Yol34~|Yol35~|Yol36~|Yol37~|Yol38~|Yol39~|Yol40~|Yol41~|Yol42~|Yol43~|Yol44~|Yol46~|Yol48~|Yol49~|Yol5~|Yol50~|Yol51~|Yol52~|Yol7~|Yol8~|Yol9~|Yol95~|Yol96~|Yol97@|Yol98~|Yol99@|Yola~|Yola1@|Yolb~|Yolc~|Yold@|Yole~|Yücelikyolu@|Çakmak~|Çeşme~|İşhanı~
+189503	Yeniköy Mah.	Yeniköy=
+189523	Yeşilova Mah.	Yeşilova=
+189615	Yeşilyurt Mah.	Yeşilyurt=
+189613	Yiğityolu Mah.	Yiğityolu=
+189691	Yolgören Mah.	Bekir Baba=|Yemlihan=|Yolgören=|Şoruk=
+189507	Yukarıcihanbey Mah.	Yukarıcihanbey=
+189511	Yukarısöylemez Mah.	Akdağ~|Eşref=|Nimet=|Yukarısöylemez=|Şerif=
+189509	Yukarıçığılgan Mah.	A.çıkılğan Mezrası=|Hamit Mezrası=|Yukarıçığılgan=
+189517	Yücelik Mah.	Güzeldere=|Harabane=|Tahtırevan=|Yücelik=
+189545	Çakmaközü Mah.	Çakmaközü=
+189635	Çaltılı Mah.	Çaltılı=
+189547	Çalışkan Mah.	Çalışkan=
+189441	Çatalören Mah.	Çatalören=
+189445	Çavuşköy Mah.	Çavuş Güllü=|Çavuşköy Merkez=
+189449	Çayırbeyli Mah.	Çayırbeyli=
+189551	Çelikli Mah.	Çelikli=
+189451	Çepi Mah.	Golan Mezrası=|Çepi=
+189501	Üzengili Mah.	Üzengili=
+189677	Şakirköy Mah.	Haydar=|Yekmal=|Çiçek=|Şakirköy=

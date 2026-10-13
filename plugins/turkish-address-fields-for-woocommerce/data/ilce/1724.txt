@@ -1,0 +1,18 @@
+144639	Alhan Mah.	Alhan~
+144641	Alioğullar Mah.	Merkez~|Yayla Evleri~
+144647	Dereköy Mah.	Dere@|Yeniyol@|Yeniyol1.~|Yeniyol2.~|Yeniyol3.~|Yeniyol4~|Yeniyol5.~|Yeniyol6.~
+144649	Direcik Mah.	Merkez~
+144651	Donduran Mah.	Bozdoğan@|Cuma Camisi~|Delecek Tepe~|Dere~|Kocatepe~|Kooperatif 1.~|Kooperatif@|Köyiçi 1~|Köyiçi 2~|Köyiçi 3~|Köyiçi 4~|Köyiçi Anayol@|Saray Altı 1~|Saray Altı 2~|Yenicami~|Yeniyol 1~|Yeniyol 10~|Yeniyol 11~|Yeniyol 2~|Yeniyol 3@|Yeniyol 3~|Yeniyol 4~|Yeniyol 5~|Yeniyol 6~|Yeniyol 7~|Yeniyol 8~|Yeniyol 9~|Yeniyol@
+10301	Doğu Mah.	Atatürk@|Ayhan Sayar@|Eşref Ozan@|Faik Savranoğlu@|Gamze~|Kale~|Kamelya~|Karanfil~|Kardelen~|Kelebek~|Konur~|Koray~|Kıvanç~|Kıvırcık~|Kızılcık~|Kızılırmak@|Ladin~|Lale~|Lavanta~|Leylak~|Mahir~|Manolya~|Mehtap~|Melda~|Meltem~|Menekşe~|Mercan~|Merih~|Meriç~|Merve~|Mimoza~|Mine~|Moray~|Mutlu~|Muzaffer Aksoy@|Müge~|Orkide~|Pasin~|Pazartepe@|Sanayi Sit.=
+144653	Eğridere Mah.	Eğridere~
+144655	Hacıköseler Mah.	Katrancı~|Merkez~|Yalnızevler~
+144657	Hamzabali Mah.	Bahçearası Şafak~|Cami 1.~|Cami 2.~|Cami 3.~|Cami@|Okul 1.~|Okul@|Okul2.~|Sağlık Ocağı (merkez)@|Sağlık Ocağı~|Yenipazar Dalama Devlet Kara Yolu@|Yeniyol@|Yeniyol1.~|Yeniyol2.~|Yeniyol3.~|Yeniyol4~|Yeniyol5.~|Yeniyol6.~|Yeniyol7.~|Çavdar Yolu 1.~|Çavdar Yolu@
+10302	Hükümet Mah.	1=|24~|Abdullah Efendi@|Atatürk@|Aydınoğlu@|Büyük Menderes@|Cennetkuyu~|Cihanoğlu@|Efe~|Emek~|Ender~|Engin~|Enis~|Ercan~|Erdem~|Erden~|Erman~|Ertürk~|Esen~|Eser~|Esin~|Evin~|Ezgi~|Feza~|Fidan~|Figen~|Filiz~|Firuze~|Fulya~|Funda~|Fırat~|Gediz@|Gelincik~|Gencay~|Gezi~|Giray~|Gizem~|Gonca~|Gökalp~|Gözde~|Gül~|Gülay~|Gülden~|Gülin~|Gülistan~|Güliz~|Gülşah~|Gündüz~|Güneş~|Güngör~|Güniz~|Güray~|Gürbüz~|Gürkan~|Güven~|Güzide~|Güzin~|Hacı İsmail@|Hale~|Hande~|Hülya~|Hümeyra~|Ihlamur~|Ilgaz~|Ilgın~|Irmak~|Işık~|Kadıkuyu@|Kanarya~|Kavak~|Kavaklıkuyu@|Kaya~|Kazandere@|Kesenkuyu~|Kurtuluş~|Köknar~|Ünübol Camii~|İkbal~|İnci~|İncirli~|İnönü@|İpek~|İrem~
+144659	Karacaören Mah.	1101~|1102~|1103~|1104~|1106~|Karacaağaç~|Karacaören~
+144661	Karaçakal Mah.	Köseler~|Merkez~|Mestanlar~
+144665	Koyunlar Mah.	Merkez~
+144667	Paşaköy Mah.	Merkez~
+10303	Yeni Mah.	Atatürk@|Demet~|Eşref Ozan@|Faik Savranoğlu@|Gazino@|Kasaplar~|Nadide~|Nalan~|Nazlı~|Nergiz~|Neyran~|Neşe~|Nil~|Nilgün~|Nilüfer~|Okay~|Olgun~|Onur~|Orbay~|Orkun~|Palmiye~|Pazartepe@|Petek~|Pınar~|Sakarya~|Sarmaşık~|Sedef~|Seden~|Seher~|Sema~|Serap~|Sevgi~|Seyhan~|Sezen~|Seçkin~|Tülin~|Yaprak~|Yasemin~|Yağmur~|Yeldeğirmen@|Yeliz~|Yörük Ali Efe@|Yıldız~|Önder~|Özay~|Özden~|Özlem~|Şehnaz~
+10300	Çarşı Mah.	466~|514~|Akasya~|Akay~|Akgün~|Akman~|Aksoy~|Alp~|Altay~|Amazon~|Angın~|Anıl~|Aras~|Arda~|Ardıç~|Arman~|Asil~|Asma~|Atacan~|Atay~|Avşar~|Aydın~|Açelya~|Bahar~|Barış~|Bayındır~|Başak~|Begonya~|Beste~|Bestekar~|Billur~|Binnaz~|Bodenoğlu~|Buket~|Burcu~|Burçak~|Büyük Menderes@|Cevher~|Cihan~|Coşkun~|Defne~|Deniz~|Dere~|Deren~|Derman~|Derya~|Dicle~|Dilek~|Doğa~|Doğan~|Doğuş~|Duru~|Duygu~|Fevzi Çakmak@|Hurşit Efendi@|Kadir Efendi@|Kocataş@|Okul~|Yörük Ali Efe@|Çağatay~|Çağdaş~|Çağlayan~|Çimen~|Çiğdem~|Çınar~|İlyas@|İnönü@|İğde~
+144643	Çavdar Mah.	Avcı Aliler~|Belen~|Davutlar~|Hacı İsalar~|Himmetler~|Çam~
+144645	Çulhan Mah.	Merkez~

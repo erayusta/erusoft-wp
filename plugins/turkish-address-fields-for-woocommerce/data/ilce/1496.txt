@@ -1,0 +1,55 @@
+94716	Alapınar Köyü	Alapınar Köy$
+94718	Aydoğmuş Köyü, Dere Mevkii	Dere Köy$
+94717	Aydoğmuş Köyü, Merkez Mevkii	Merkez Köy$
+94719	Başköy Köyü, Karşıgeçe Mevkii	Karşıgeçe Köy$
+94721	Başköy Köyü, Merkez Mevkii	Merkez Köy$
+94720	Başköy Köyü, Meryemler Mevkii	Meryemler Köy$
+94722	Curunlu Köyü	Curunlu Köy$
+94724	Danişment Köyü	Danişment Köy$
+94725	Demirci Köyü	Demirci Köy$
+94727	Dizlermezeci Köyü, Datça Mevkii	Datça Köy$
+94728	Dizlermezeci Köyü, Dizler Mevkii	Dizler Köy$
+94726	Dizlermezeci Köyü, Mezeci Mevkii	Mezeci Köy$
+94729	Dizlermezeci Köyü, Yakacı Mevkii	Yakacı Köy$
+94731	Elvanlar Köyü, Merkez Mevkii	Merkez Köy$
+94730	Elvanlar Köyü, Çayırlı Mevkii	Çayırlı Köy$
+94732	Hacıköy Köyü	Hacıköy Köy$
+94733	Hisarköy Köyü	Hisarköy Köy$
+94736	Kaleköy Köyü	Kaleköy Köy$
+94737	Kanatlı Köyü	Kanatlı Köy$
+94738	Kapısuyu Köyü	Kapısuyu Köy$
+94740	Karaman Köyü, Hasanlar Mevkii	Hasanlar Köy$
+94742	Karaman Köyü, Kaşaltı Mevkii	Kaşaltı Köy$
+94741	Karaman Köyü, Merkez Mevkii	Merkez Köy$
+94739	Karaman Köyü, Yalı Mevkii	Yalı Köy$
+90701	Kargacak Mah.	Aşağı~|Bahçe~|Bekiroğlu~|Geniş~|Kayıkçılar~|Kolçak~|Lise Altı~|Odayanı~|Çakmak@
+94743	Kavaklı Köyü	Kavaklı Köy$
+94744	Kirlikmüslimhoca Köyü	Kirlimüslimhoca Köy$
+94747	Kömeç Köyü, Atakdibi Mevkii	Atakdibi Köy$
+94746	Kömeç Köyü, Kayalı Mevkii	Kayalı Köy$
+94745	Kömeç Köyü, Merkez Mevkii	Merkez Köy$
+90702	Liman Mah.	15 Temmuz~|Atatürk@|Aşağı Çarşı 1~|Aşağı Çarşı~|Emniyet~|Fener~|Hakkı Sayın~|Kayıkçılar~|Milli Egemenlik Alanı=|Pazar~|Ptt~|Yalı~|Zeytinlik 1~|Zeytinlik~|Çakmak 2.~|Çakmak@|Çakmakçılar~|İskele@
+94748	Meydan Köyü, Merkez Mevkii	Merkez Köy$
+94749	Meydan Köyü, Yenice Mevkii	Yenice Köy$
+94750	Meydan Köyü, Çengelli Mevkii	Çengelli Köy$
+94751	Ovatekkeönü Köyü	Ovatekkeönü Köy$
+94755	Paşalılar Köyü, Esentepe Mevkii	Esentepe Köy$
+94753	Paşalılar Köyü, Gürgenlik Mevkii	Gürgenlik Köy$
+94757	Paşalılar Köyü, Hüseyin Paşa Mevkii	Hüseyin Paşa Köy$
+94754	Paşalılar Köyü, Yaylacık Mevkii	Yaylacık Köy$
+94756	Paşalılar Köyü, Şabanlar Mevkii	Şabanlar Köy$
+94758	Sarıderesi Köyü	Köyün Kendisi Köy$
+94759	Sarıderesi Köyü, Akçabelen Mevkii	Akçabelen Köy$
+94760	Sarıderesi Köyü, Gürgenlik Mevkii	Gürgenlik Köy$
+94761	Sarıderesi Köyü, Çukurköy Mevkii	Çukurköy Köy$
+94763	Uğurlu Köyü	Uğurlu Köy$
+94764	Yeniköy Köyü	Yeniköy Köy$
+94765	Ziyaretköy Köyü, Merkez Mevkii	Merkez Köy$
+94766	Ziyaretköy Köyü, Şimşirdere Mevkii	Şimşirdere Köy$
+94723	Çayaltı Köyü	Çayaltı Köy$
+94752	Ömerler Köyü	Ömerler Köy$
+90703	Ömerler Mah.	Ali Fehmi Ağartan@|Ballı=|Demirel~|Harman~|Kömeç~|Lise Altı~|Nihat Hoca~|Pança 1~|Pança~|Çakmak@|Çolaklar~|Şarmanlı~
+94734	İlyasgeçidi Köyü, Dip Mevkii	Dip Köy$
+94735	İlyasgeçidi Köyü, Merkez Mevkii	Merkez Köy$
+94762	Şeyhler Köyü	Şeyhler Köy$
+90704	Şile Mah.	Ali Fehmi Ağartan@|Atatürk@|Bayraktar~|Derviş~|Fatih 2.~|Fatih@|Hacı Hasanlar~|Hacı İsa~|Hamam~|Hıdırlar=|Kahyaoğlu~|Kütüphane~|Milli Egemenlik Alanı=|Pomak~|Pınar 1~|Pınar 2~|Pınar~|Çamboğaz~

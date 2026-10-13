@@ -1,0 +1,276 @@
+67870	Akarsu Köyü	Akarsu=
+139815	Akarsu Köyü, Akarsu Mücavir Mevkii	- Köy$|1 Nolu Papatya~|Akar~|Aydınlık~|Değirmen Üstü~|Gümüş~|Güneysu~|Güzel Yurt~|Kar~|Kivi~|Tepe~|Uzun~|Yeniyol~
+67872	Akpınar Köyü, Azina Mevkii	Azina=
+67877	Akpınar Köyü, Esentepe Mevkii	Esentepe=
+67874	Akpınar Köyü, Göltepe Mevkii	Göltepe=
+67875	Akpınar Köyü, Hazavite Mevkii	Hazavite=
+67871	Akpınar Köyü, Merkez Mevkii	Merkez=
+67873	Akpınar Köyü, Şairler Mevkii	Şairler=
+67876	Akpınar Köyü, Şairtepe Mevkii	Şairtepe=
+67878	Aktaş Köyü, Mollaahmetoğlu Mevkii	Mollaahmetoğlu=
+67879	Aktaş Köyü, İslamoğlu Mevkii	İslamoğlu=
+140847	Alipaşa Mah.	Duru~|Gonca~|Harika~|Likapa~|Meydanlar~|Mihraç~|Mihrimah@|Nur~|Rüya~|Rüzgar~|Sahil@|Sakin~|Turanlı@|Yakamoz~
+67702	Ambarlık Köyü, Azaklılar Mevkii	Azaklılar=
+67696	Ambarlık Köyü, Bayındırlar Mevkii	Bayındırlar=|Demircioğlu Alt=
+67697	Ambarlık Köyü, Kamaraş Mevkii	Kamaraş=
+67694	Ambarlık Köyü, Konaklar Mevkii	Konaklar=
+67699	Ambarlık Köyü, Koseler Mevkii	Köseler=
+67695	Ambarlık Köyü, Koçallar Mevkii	Koçallar=
+67693	Ambarlık Köyü, Merkez Mevkii	Merkez=
+67692	Ambarlık Köyü, Türütler Mevkii	Türütler=
+67703	Ambarlık Köyü, Yıldıztepe Mevkii	Yıldıztepe=
+67700	Ambarlık Köyü, İsmailoğlu Mevkii	İsmailoğlu=
+67701	Ambarlık Köyü, Şahintepe Mevkii	Şahintepe=
+67698	Ambarlık Köyü, Şehit Mevkii	Şehit=
+61277	Atmeydanı Mah.	1 Nolu Bıldırcın~|1 Nolu Ziraat~|2 Nolu Karanfil~|2 Nolu Sümbül~|2 Nolu Yıldız~|4 Nolu Gül~|Armutlu~|Avcılar~|Bağcı~|Ceylan~|Fakülte@|Hacı Eşref@|Harem~|Karayemiş~|Kılavuz~|Narenciye~|Pazar@|Pirpiri-~|Recep Tayyip Erdoğan-%|Sancak~|Saray~|Zihniderin@|Üniversite~|Şehit Binbaşı Arslan Kulaksız~
+67704	Ayane Köyü	Ayane=
+67707	Azaklıhoca Köyü, Kutlular Mevkii	Kutlular=
+67706	Azaklıhoca Köyü, Orta Mevkii	Orta=
+67705	Azaklıhoca Köyü, Yeniköy Mevkii	Yeniköy=
+61279	Balsu Mah.	4 Nolu Dere~|5 Nolu Cami~|Balsu@|Güneli~|Tepeüstü~|Uzunsırt~|Yolveren~|Zirve-~
+67881	Balıkçılar Köyü, Ardına Mevkii	Ardına=|Aşağı=
+67880	Balıkçılar Köyü, Aşağı Mevkii	Ardına=|Aşağı=
+67886	Balıkçılar Köyü, Dağ Deresi Mezrası	Dağ Deresi=
+67882	Balıkçılar Köyü, Eminoğulları Mevkii	Ardına=|Eminoğulları=|Pandırlar=|Yukarı=
+67884	Balıkçılar Köyü, Orta Mevkii	Ardına=|Eminoğulları=|Orta=
+67883	Balıkçılar Köyü, Pandırlar Mevkii	Pandırlar=|Yukarı=
+67885	Balıkçılar Köyü, Yukarı Mevkii	Ardına=|Dağ Deresi=|Yukarı=
+61278	Bağdatlı Mah.	1 Nolu Okul~|1 Nolu Çınar~|Atatürk@|Dağdibi~|Gazi İshak Balcı~|M.edip Tavil~|Menderes%|Narlı~|Recep Tayyip Erdoğan%|Reisli~|Taviloğlu~|Yenişehir-@|Çorapçılar@
+67708	Beştepe Köyü	Beştepe=|Yeniselimiye=
+196491	Bozkale Mah.	Bozkale~|Coşkun~|Doğa~|Kuzey~|Menderes%|Yenikale~
+67887	Boğaz Köyü, Eski Mevkii	Eski=|Üst=
+67888	Boğaz Köyü, Üst Mevkii	Üst=
+61280	Boğaz Mah.	3 Nolu Esentepe~|Atatürk@|Cesur~|Deniz Yıldızı~|Devran~|Dumlu~|Fazilet~|Ihlamur~|Lojman~|Menderes%|Ocak~|Payidar~|Vadi@|Yağmur~|Yıldırım~|Çalıkuşu~|Öğretim~
+67709	Bıldırcınköy Köyü	Bıldırcınköy=
+67714	Camidağı Köyü, Cevizlik Mevkii	Cevizlik=
+67715	Camidağı Köyü, Hamçayır Mevkii	Hamçayır=
+67713	Camidağı Köyü, Hur Mevkii	Hur=
+67712	Camidağı Köyü, Köseler Mevkii	Köseler=
+67710	Camidağı Köyü, Orta Mevkii	Orta=
+67711	Camidağı Köyü, Sadıklar Mevkii	Sadıklar=
+61281	Camiönü Mah.	1 Nolu Soğuksu~|2 Nolu Menzil~|2 Nolu Okul~|2 Nolu Çay~|Ada~|Akın~|Atatürk@|Basamak~|Bedesten~|Cumhuriyet@|Gençosman~|Liman~|Menderes%|Tomurcuk-~|Tunahan~
+61285	Dağsu Mah.	3 Nolu Dik~|3 Nolu Güneşli~|3 Nolu Yan~|Aras~|Dağbaşı@|Demirkapı~|Düz~|Düzyol~|Güneli~|Tepeüstü~|Toprak~|Uzunsırt~|Yolveren~|Çeşme@|İçmeler@
+196493	Dağınıksu Mah.	Atmaca~|Berrak@|Dilek~|Ege~|Gökkuşağı@|Gündoğdu@|Güzel~|Güzelyalı@|Hatıra@|Hilal@|Kuzey~|Menderes%|Nergis~|Nimet~|Portakal~|Poyraz~|Simge~|Yeşilvadi@|Çiçek~|Şelale~
+67735	Derebaşı Köyü, Devranlar Mevkii	Devranlar=
+67729	Derebaşı Köyü, Eminoğlu (eminuka) Mevkii	Eminoğlu=
+67730	Derebaşı Köyü, Fındıklar Mevkii	Fındıklar=
+67734	Derebaşı Köyü, Gültepe Mevkii	Gültepe=
+67728	Derebaşı Köyü, Hamçayır Mevkii	Hamçayır 1=
+67726	Derebaşı Köyü, Kadıbaşlar Mevkii	Kadıbaşlar=
+67731	Derebaşı Köyü, Karaırmak Mevkii	Karaırmak=
+67733	Derebaşı Köyü, Katıla Mevkii	Katila=
+67727	Derebaşı Köyü, Kostanlar Mevkii	Kostanlar=
+67732	Derebaşı Köyü, Köseler Mevkii	Köseler=
+67725	Derebaşı Köyü, Merkez Mevkii	Merkez=
+61287	Dereüstü Mah.	4 Nolu Dere~|5 Nolu Çıkmaz~|Cami@|Uzunsırt~|Yeşil~|Zirve@|İçmeler@
+61286	Değirmendere Mah.	3 Nolu Karanfil~|3 Nolu Menekşe~|Aydın~|Erzurum@|Hayrat@|Lojman~|Trafo~
+67736	Dörtyol Köyü	Dörtyol=
+67737	Düzköy Köyü	Düzköy=
+61288	Ekmekçiler Mah.	2 Nolu Küme~|2 Nolu Soğuksu~|2 Nolu Sırt~|5 Nolu Dere~|Fakülte@|Hemşin~|Recep Tayyip Erdoğan-%
+61289	Ekrem Orhon Mah.	1 Nolu Güvercin~|1 Nolu Karanfil~|1 Nolu Kartal~|1 Nolu Manolya~|1 Nolu Sümbül~|2 Nolu Bülbül~|2 Nolu Laleli@|2 Nolu Sülün~|3 Nolu Gül~|Cumhuriyet@|Elvan~|Gençlik@|Hanımeli~|Karadeniz@|Kemal Yeri@|Leyla~|Menderes%|Ordu@|Stadyum~
+67739	Elmalı Köyü, Akıncılar Mevkii	Akıncılar=
+67743	Elmalı Köyü, Dere Başı Mevkii	Dere Başı=
+67742	Elmalı Köyü, Dere Boyu Mevkii	Dere Boyu=
+67752	Elmalı Köyü, Esentepe Mevkii	Esentepe=
+67748	Elmalı Köyü, Esenyurt Mevkii	Esenyurt=|Sırt=|İstanoz=|İşyarlar=
+67750	Elmalı Köyü, Güzelyurt Mevkii	Güzelyurt=
+67744	Elmalı Köyü, Karşıyaka Mevkii	Karşıyaka=
+67738	Elmalı Köyü, Kirazlık Mevkii	Kirazlık=
+67741	Elmalı Köyü, Merkez Mevkii	Merkez=|İşyarlar=
+67753	Elmalı Köyü, Seyrantepe Mevkii	Seyrantepe=
+67751	Elmalı Köyü, Sırt Mevkii	Sırt=|İşyarlar=
+67747	Elmalı Köyü, Topçular Mevkii	Topçular=
+67745	Elmalı Köyü, Yeşilyurt Mevkii	Yeşilyurt=
+67746	Elmalı Köyü, Çaplar Mevkii	Çaplar=
+67740	Elmalı Köyü, Çavuşoğlu Mevkii	Çavuşoğlu=
+67749	Elmalı Köyü, İşyarlar Mevkii	İşyarlar=
+61290	Eminettin Mah.	Adliye@|Atatürk@|Barışık~|Buzluk~|Cumhuriyet@|Emin~|Farabi~|Hisar~|Kale~|Kütüphane~|Lokman Hekim~|Mehmet Fahri Mete~|Menderes%|Pirireis@|Sur~|Tahsin Efendi~
+61291	Engindere Mah.	1 Nolu Cumhuriyet@|3 Nolu Deniz~|Dayı~|Demokrasi~|Doruk~|Güneş~|Kurtuluş~|Mehtap~|Menderes%|Sanayi~|Selçuklu~|Sevgi@|Türkmenbaşı@|Ufuk~|Çilek~|Şehit Murat Çalışkan~
+140060	Engindere Sb Mah.	Sevgi_1~
+67754	Erenköy Köyü	Erenköy=
+61292	Fatih Mah.	2 Nolu Esentepe~|3 Nolu Küme~|3 Nolu Pınar~|4 Nolu Cami~|Güneşli@|Paşa@|Süleyman Reis~|İçmeler@
+61293	Fener Mah.	2 Nolu Güvercin~|2 Nolu Lise~|2 Nolu Menzil~|3 Nolu Esentepe~|4 Nolu Yeni~|5 Nolu Gül~|Adalet~|Atatürk@|Bereket~|Buhara~|Evliya Çelebi~|Kısa~|Lojman~|Menderes%|Rahmet~|Sabır~|Sandıkçı Şükrü~|Semerkant~|Su~|Sümeyye Hatun~|Taşkent~|Zihni Derin~|Ömür~
+67755	Gölgeli Köyü, Gölgeli-1 Mevkii	Gölgeli1=
+67756	Gölgeli Köyü, Gölgeli-2 Mevkii	Gölgeli 2=
+61294	Gülbahar Mah.	1 Nolu Okul~|2 Nolu Kartal~|2 Nolu Manolya~|Anadolu~|Atatürk@|Dr Talip Korkmaz~|Dutdibi~|Elif~|Elçibey~|Gülbahar Hatun~|Hızır Hop~|Kardelen~|Kayışdağı~|Köşe~|Menderes%|Meşe~|Paşa@|Recep Tayyip Erdoğan%|Sarmaşık~|Susam~|Süleyman Reis~|Vakıf~|Yavuz Selim~|Yağız~|Yenişehir@|Zühre~|İpsiz Recep~|Şehit Azım Özdemir~|Şehit Halil Sadıkoğlu~|Şehit Oktay Türüt~|Şirin~
+67757	Güzelköy Köyü, Kurs'tan İtibaren Mevkii	Kurstan İtibaren=
+67758	Güzelköy Köyü, Silyanlı Mevkii	Silyanlı=
+67761	Güzelyurt Köyü, Alik Mevkii	Alik=|Havger=
+67760	Güzelyurt Köyü, Havger Mevkii	Havger=
+67759	Güzelyurt Köyü, Merkez Mevkii	Merkez=
+61295	Halatçılar Mah.	Bayır~|Ekrem Orhon@|Pirireis@|Yüksektepe~|Şehit Coşkun Telci~
+196495	Hamidiye Mah.	Bulut~|Cennet~|Demet~|Efe~|Gündoğdu@|Gündüz~|Güzelsırt@|Güzelyalı@|Hayat~|Kemerköprü~|Menderes%|Milliyet~|Saraybahçe~|Sevgi@|Taşlık-@|Türbe~|Ulus~|Yamaç~|Yeşilpınar~|Yeşilvadi@|Yonca~|Çapa~|Övgü~|Öğretmenler~|İpek Yolu~
+61296	Hamzabey Mah.	1 Nolu Güneşli~|2 Nolu Şehitler@|3 Nolu Manolya~|4 Nolu Menekşe~|Esenler~|Kamelya~|Lale~|Onur~|Ramazan Dede~|Sümbül@|Yasemen~|Zincirli@
+61297	Hayrat Mah.	2 Nolu Güneşli~|2 Nolu Ziraat~|3 Nolu Bülbül~|3 Nolu Esentepe~|Artan~|Erzurum@|Fabrika~|Hayrat@|Kuvel~|Küçük Sanayi@|Lojman~|Ocak~|Yazıcı~
+61299	Kale Mah.	1 Nolu Küme~|1 Nolu Merdiven~|3 Nolu Cami~|Arka~|Atatürk@|Dereüstü~|Ekrem Orhon@|Emin~|Erzurum@|Kale~|Keresteciler~|Pirireis@|Tahsildar Bostancı~|Şehit Polis Yaşar Yavaş~
+61300	Kanbursırt Mah.	2 Nolu Güneşli~|3 Nolu Bülbül~|3 Nolu Sırt~|Cami Altı~|Denizgören@|Erzurum@|Fabrika~|Gölgeli~|Hayrat@
+61301	Kaplıca Mah.	2 Nolu Bıldırcın~|2 Nolu Yıldız~|3 Nolu Dik~|5 Nolu Okul_1~|Bakır~|Dağ~|Dağbaşı@|Erenler~|Fakülte@|Hür~|Ilıca~|Kalafat~|Komşu~|Küçük_1~|Recep Tayyip Erdoğan%|Selvi~|Yağmursuyu~|Yeniköy~|Şehitlik~
+67765	Karasu Köyü, Alişör Mevkii	Alişör=
+67767	Karasu Köyü, Cingöz Mevkii	Cingöz=
+67766	Karasu Köyü, Godol Mevkii	Godol=
+67771	Karasu Köyü, Güneyler Mevkii	Güneyler=
+67769	Karasu Köyü, Hev Mevkii	Hev=
+67768	Karasu Köyü, Kayadibi Mevkii	Kayadibi=
+67764	Karasu Köyü, Kop Mevkii	Kop=
+67763	Karasu Köyü, Merkez Mevkii	Merkez=
+67762	Karasu Köyü, Merkez-aşağı Mevkii	Merkez Aşağı=
+67770	Karasu Köyü, Sırt Mevkii	Sırt=
+67774	Karayemiş Köyü, Erenler Mevkii	Erenler=
+67773	Karayemiş Köyü, Güven Mevkii	Güven=
+67776	Karayemiş Köyü, Kayalık Mevkii	Kayalık=
+67775	Karayemiş Köyü, Kotos Mevkii	Kotos=
+67777	Karayemiş Köyü, Menderes Mevkii	Menderes=
+67772	Karayemiş Köyü, Merkez Mevkii	Merkez=
+61302	Kavaklı Mah.	2 Nolu Kaldırım~|2 Nolu Yayla~|Dostlar~|Ekrem Orhon@|Fulya~|Kavaklı~|Pirireis@|Recep Tayyip Erdoğan%
+61322	Kendirli Beldesi, Asmalık Mah.	1 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5nolu~|Abdulkerim@|Akşemsettin@|Ayasofya@|Başak~|Davutlar~|Fatih~|Fatih Sultan Mehmet@|Hacı Mahmut~|Hilal~|Kalecik=|Karakazım~|Karanfil@|Lale~|Molla Hüsrev@|Panayır~|Pembeler~|Prof.dr.necmettin Erbakan@|Recep Tayyip Erdoğan@|Tahirler~|Yunus~|Yıldırım Beyazıt@
+61323	Kendirli Beldesi, Düz Mah.	Abdulhamit@|Ahmet Efendi~|Ak~|Alkılıç~|Güveliler~|Güzel~|Hafız Hasan@|Kulevalar~|Menderes~|Recep Tayyip Erdoğan@|Stadyum@|Sultan Vahdettin~|Sönmezler~|Yavuz Selim@|Çiyalar~|Şehit Azmi@
+61324	Kendirli Beldesi, Halaslar Mah.	14 Nolu~|2 Nolu~|Akşemsettin@|Canlar~|Cevizlik@|Değirmen~|Elmalı@|Enis Efendi~|Haci Ali~|Hacılar~|Lale~|Mevlana@|Recep Tayyip Erdoğan@|Reis Ali Usta@|Reis~|Serdar~|Zekeriyalar~|Zeki Gör~|Zıkrullah Efendi~|İbni Sina@|İsmail Efendi~
+61325	Kendirli Beldesi, Orta Mah.	4 Nolu~|Abdulkerim@|Ayasofya@|Başak 2~|Başak~|Emirli~|Fatih Sultan Mehmet@|Gül~|Karanfil@|Kukuli~|Mevlana@|Prof.dr.necmettin Erbakan@|Recep Tayyip Erdoğan@|Stadyum@|Yavuz Selim@|Yıldırım Beyazıt@|Çevirme~|Örnek~|Şehit Azmi@|Şehit Soner Fazlıoğlu~
+61326	Kendirli Beldesi, Sırt Mah.	1 Nolu~|14 Nolu~|2 Nolu~|5 Nolu~|Abdulhamit@|Ahmet Efendi~|Akyıldırım~|Albayraklar~|Amicalar~|Berber Ethem~|Beştepe=|Dere~|Esentepe=|Eğitim~|Hafız Hasan@|Hira~|Huzur~|Köseoğlu~|Mevlana@|Okullar~|Osman Efendi~|Recep Tayyip Erdoğan@|Sönmezler~|Sırt~|Teyyar~|Zeki Gör~|Çakmakçılar~|Ömer Efendi~|İbni Sina@|İbni Sina9~|İmamı Azam@|Şehit Mustafa Kılıç~|Şeyh Şamıl~
+67889	Ketenli Köyü, Balcılar (şafaklar) Mevkii	Balcılar=
+67891	Ketenli Köyü, Karoğulları Mevkii	Karaoğulları=
+67892	Ketenli Köyü, Koşkoşlar Mevkii	Koşkoşlar=
+67890	Ketenli Köyü, Orsidi Mevkii	Orsidi=
+67893	Ketenli Köyü, Yazıcılar (merkez) Mevkii	Yazıcılar Merkez=
+67894	Ketenli Köyü, Yazıcılar Mevkii	Yazıcılar=
+67791	Kocatepe Köyü	Kocatepe=
+67895	Kurtuluş Köyü	Kurtuluş Mevki=
+67805	Köprülü Köyü, Güzelyurt Mevkii	Güzelyurt=
+67803	Köprülü Köyü, Karşı Mevkii	Karşı=
+67804	Köprülü Köyü, Merkez Mevkii	Köprülü Merkez=
+67812	Küçükköy Köyü, Aşağı Mevkii	Aşağı=
+67813	Küçükköy Köyü, Orta Mevkii	Orta=
+67814	Küçükköy Köyü, Yukarı Mevkii	Yukarı=
+67806	Küçükçayır Köyü, Alt Mevkii	Alt=
+67810	Küçükçayır Köyü, Asgoroz Mevkii	Asgoroz=
+67809	Küçükçayır Köyü, Delallar Mevkii	Delallar=
+67807	Küçükçayır Köyü, Dere Mevkii	Dere=
+67811	Küçükçayır Köyü, Üst Mevkii	Üst=
+67808	Küçükçayır Köyü, İçmeler Mevkii	İçmeler=
+67786	Kırklartepesi Köyü, Korutürk Mevkii	Korutürk=
+67788	Kırklartepesi Köyü, Merkez Mevkii	Kırklartepesi Merkez=
+67787	Kırklartepesi Köyü, Orta Mevkii	Orta=
+67818	Melek Köyü, Eser Mevkii	Eser=
+67816	Melek Köyü, Merkez Mevkii	Merkez=
+67819	Melek Köyü, Soğuksu Mevkii	Soğuksu=
+67820	Melek Köyü, Yağlıtaş Mevkii	Yağlıtaş=
+67815	Melek Köyü, Yeni Melek Mevkii	Yeni Melek=
+67817	Melek Köyü, Çalıklar Mevkii	Çalıklar=
+61303	Mermerdelen Mah.	1 Nolu Soğuksu~|2 Nolu Çay~|Atatürk@|Bağ~|Can~|Cumhuriyet@|Filiz~|Konak~|Kültür~|Menderes%|Murat~|Serin~|Tomurcuk~|Çağla~
+196497	Mezra Mah.	Aydınlar@|Doğa~|Sancaktar~|Çiçek~
+99675	Muradiye Beldesi, Kömürcüler Mah.	Dereboyu@|Gündoğan 1~|Gündoğan 2~|Gündoğan 3~|Gündoğan 4~|Gündoğan 6~|Gündoğan 7~|Gündoğan~|Lale 1~|Lale~|Merkez 4~|Merkez@|Soğuksu@|Tekke=|Şehit Hasan 1~|Şehit Hasan 2~|Şehit Hasan 3~|Şehit Hasan 4~|Şehit Hasan 5~|Şehit Hasan@
+98938	Muradiye Beldesi, Köprübaşı Mah.	Abdurrahim Albayrak 1~|Abdurrahim Albayrak 2~|Abdurrahim Albayrak 4~|Abdurrahim Albayrak 5~|Abdurrahim Albayrak 6~|Abdurrahim Albayrak 7~|Abdurrahim Albayrak@|Albayrak~|Dereboyu 1~|Dereboyu@|Gül 1~|Gül 3~|Gül 4~|Gül 5~|Gül@|Kişmirler~|Merkez 1~|Merkez 2~|Merkez 3~|Merkez 6~|Merkez@|Şehit Nurettin Balcı 1~|Şehit Nurettin Balcı 2~|Şehit Nurettin Balcı~|Şirin 1~|Şirin~
+61327	Muradiye Beldesi, Mesudiye Mah.	Atatürk@|Bağlar 1~|Bağlar 2~|Bağlar 3~|Bağlar 4~|Bağlar@|Başöğretmen 1~|Başöğretmen~|Değırmen-~|Fatih@|Fatih-@|Fevzi Çakmak 1~|Fevzi Çakmak 2~|Fevzi Çakmak@|Gençlik@|Güneli=|Güneli-=|Güneşli=|Hafızlar~|Hakimiyet 2~|Hakimiyet 3~|Hakimiyet 4~|Hakimiyet@|Hastane@|Hüseyin Sakal 1~|Hüseyin Sakal 2~|Hüseyin Sakal 3~|Hüseyin Sakal 4~|Hüseyin Sakal@|Hüseyin Sakal/1~|Hüseyin Sakal/2~|Kavazlar=|Küçük Cami 1~|Küçük Cami 2~|Küçük Cami~|M.akif Ersoy 1~|M.akif Ersoy 10~|M.akif Ersoy 11~|M.akif Ersoy 2~|M.akif Ersoy 3~|M.akif Ersoy 4~|M.akif Ersoy 5~|M.akif Ersoy 6~|M.akif Ersoy 7~|M.akif Ersoy 8~|M.akif Ersoy 9~|M.akif Ersoy@|Mimarsinan 1~|Mimarsinan 2~|Mimarsinan 3~|Mimarsinan@|Muhtar Niyazi Delihasan~|Nazımlar=|Sünbül~|Tütünlük 1~|Tütünlük 2~|Tütünlük@|Yavuz Selim~|Yeni 1~|Yeni~|Yüksekköy=|İpekyolu 1~|İpekyolu~
+61328	Muradiye Beldesi, Orta Muradiye Mah.	Avcılar=|Derinırmak@|Gençlik 1~|Gençlik 10~|Gençlik 11~|Gençlik 2=|Gençlik 3~|Gençlik 4~|Gençlik 5~|Gençlik 6~|Gençlik 7~|Gençlik 9~|Gençlik@|Güneli=|Hakimiyet 1~|Hakimiyet@|Hürriyet 1~|Hürriyet 10~|Hürriyet 11~|Hürriyet 12~|Hürriyet 13~|Hürriyet 14~|Hürriyet 15~|Hürriyet 2~|Hürriyet 3~|Hürriyet 4~|Hürriyet 5~|Hürriyet 6~|Hürriyet 7~|Hürriyet 8~|Hürriyet 9~|Hürriyet@|Jandarmalar=|Karanfil 1~|Karanfil~|Kayadibi=|Kayadibi-=|Küçükdere@|Küçükdere-@|Manolya~|Menekşe 1~|Menekşe 2~|Menekşe~|Mengenler=|Muharremler=|Papatya~|Yayla~|Yayla-~
+98937	Muradiye Beldesi, Soğuksu Mah.	Abdurrahim Albayrak 8~|Abdurrahim Albayrak@|Cemre 1~|Cemre 2~|Cemre 3~|Cemre 4~|Cemre~|Dereboyu 2~|Dereboyu@|Hamzalar~|Kazdallar 1~|Kazdallar 2~|Kazdallar 3~|Kazdallar 4~|Kazdallar 5~|Kazdallar~|Lale~|Soğuksu 1~|Soğuksu 10~|Soğuksu 11~|Soğuksu 2~|Soğuksu 3~|Soğuksu 4~|Soğuksu 6~|Soğuksu 7~|Soğuksu 8~|Soğuksu 9~|Soğuksu@|Yeni Avcılar 1~|Yeni Avcılar 2~|Yeni Avcılar~|Yeni Hafızlar~|Yeni Hafızlar1~
+61329	Muradiye Beldesi, Yeşildere Mah.	Barış~|Büyükdere@|Candan~|Derinırmak 2~|Derinırmak 3~|Derinırmak@|Fatih@|Hacırıfat=|Hürriyet 15~|Hürriyet@|Hürriyet-@|Kaptanlar=|Kayadibi Küme Evler=|Küçükdere 1~|Küçükdere 2~|Küçükdere 3~|Küçükdere 4~|Küçükdere 5~|Küçükdere 6~|Küçükdere@|Sudüşen 1~|Sudüşen@|Taşlıdere 1~|Taşlıdere 2~|Taşlıdere 3~|Taşlıdere~|Yayla 2~|Yayla~|Yayla1~
+61304	Müftü Mah.	1 Nolu Fatih~|1 Nolu Lise~|2 Nolu Seyran~|2 Nolu Yeni Evler~|3 Nolu Çıkmaz~|Atatürk@|Atman~|Ay~|Ayışığı~|Badem~|Başak~|Burak~|Buğday~|Cumhuriyet@|Dede Efendi~|Derin Vadi@|Değirmen~|Dirlik~|Elmas~|Elçibey~|Eğitim~|Hacı Vehbi~|Hacı Şemsi~|Hatip~|Kafiye Nene~|Kirazlık@|Mehmet Akif Ersoy~|Menderes%|Molla Yakup~|Paşa@|Recep Tayyip Erdoğan%|Sarmaşık~|Stadyum~|Susam~|Süleyman Reis~|Yakut~|Yenişehir@|Yeşiltepe~|Zekeriya~|Çelik~|Ünlü~|İlahiyat~|Şahin~|Şehit Polis Memuru Kürşat İnan~
+67821	Ortapazar Köyü	Ortapazar=
+67826	Pazarköy Köyü, Aktepe Mevkii	Aktepe=
+67825	Pazarköy Köyü, Arnault Mevkii	Arnault=
+67824	Pazarköy Köyü, Güzeltepe Mevkii	Güzeltepe=
+67823	Pazarköy Köyü, Kartaltepe Mevkii	Kartaltepe=
+67827	Pazarköy Köyü, Merkez Mevkii	Güneli=|Pazarköy Merkez=
+61305	Paşakuyu Mah.	1 Nolu Lise~|2 Nolu Cami~|2 Nolu Merdiven~|2 Nolu Yeni~|2 Nolu Çınar~|Atatürk@|Burak~|Cumhuriyet@|Elmalı~|Hacıosman~|Küçük~|Paşa@|Paşakuyu~|Recep Tayyip Erdoğan%|Yenişehir@|Yeşiltepe~|Zirve@|Zübeyde Hanım@|İlahiyat~|Şeker~
+61306	Pehlivan Mah.	1 Nolu Seyran~|1 Nolu Sırt~|Komşu~|Recep Tayyip Erdoğan-%|Çeşme@|Şen~
+61307	Pehlivantaşı Mah.	4 Nolu Okul~|6 Nolu Çıkmaz~|Ahmet Feyiz@|Boztepe~|Denizgören@|Erzurum@|Kervan~|Recep Tayyip Erdoğan%|Soğukçeşme~|Sunduk~
+67896	Pekmezli Köyü, Aşağı Mevkii	Aşağı=
+67897	Pekmezli Köyü, Orta Mevkii	Orta=
+61308	Pilavdağı Mah.	3 Nolu Okul~|Denizgören@|Erzurum@|Hayrat@
+61309	Piriçelebi Mah.	1 Nolu Yeni Evler~|2 Nolu Park~|Adliye@|Alan~|Antika~|Armutlu~|Ata~|Atatürk@|Cumhuriyet@|Denktaş~|Ekrem Orhon@|Esinti~|Fevzi Çakmak@|Gelincik~|Harem~|Hürrem Sultan~|Kütüphane~|Kılavuz~|Menderes%|Niyazibey~|Palmiye~|Pirireis@|Pirpiri-~|Ulubatlı~|Yankı~|Yurt~|Zihniderin@|İbrahim Karaoğlanoğlu@|Şehit Polis Yaşar Yavaş~
+61310	Portakallık Mah.	1 Nolu Okul~|1 Nolu Çınar~|4 Nolu Çıkmaz~|Atatürk@|Defne~|Desen~|Doğan~|Kibar~|Kubilay~|Medine~|Menderes%|Mert~|Recep Tayyip Erdoğan%|Yaldız~|Yenişehir-@|Şehit Aziz Yıldız~|Şehit Bülent Besler~|Şehit Yakup Bıyık~
+67898	Pınarbaşı Köyü	Pınarpaşı=
+61311	Reşadiye Mah.	1 Nolu Deniz~|Atakan~|Atatürk@|Aydın~|Bilim~|Cumhuriyet@|Filiz~|Hayrat@|Kader~|Kültür~|Menderes%|Nuh~|Saraç~|Serin~|Tatoğlu~|Terminal~|Trafo~|İtfaiye~
+61316	Salarha Beldesi, Güneşli Mah.	Anıt~|Güneş~|Güneşli@|Yalı~|Yıldız~|Çay~
+61317	Salarha Beldesi, Güneştepe Mah.	Anıt~|Fatih@|Fatih1~|Güneşli@|Kaytazlar~|Yıldız~
+99309	Salarha Beldesi, Kasarcılar Mah.	Cennet~|Kasar~|Kasarcılar@|Kayalık~|Merkez=|Orta~|Sırt Kasarcılar@|İpek~
+99678	Salarha Beldesi, Kireçhane Mah.	Ayane~|Büyükmeşe~|Büyükmeşe1~|Büyükmeşe2~|Büyükmeşe3~|Büyükmeşe4~|Değirmen~|Hasan Fırat~|Kaytazlar~|Kireçhane@|Kireçhane1~|Kırklartepesi Merkez=
+61318	Salarha Beldesi, Kokulukaya Mah.	Atatürk@|Fevzi Çakmak@|Irmak~|Kokulu~|Menekşe~|Menekşe1~|Yeni~|Şehit Abdulkadir Sadıkoğlu~|Şehit Nedim Çalık~
+61319	Salarha Beldesi, Müderrisler Mah.	Atatürk@|Bizim~|Camii~|Dereboyu~|Fevzi Çakmak 3~|Fevzi Çakmak@|Gülbahar Hatun 1~|Gülbahar Hatun~|Hacı Harun~|Kayalar~|Lale~|Sümbül~|Sırt~|Tepe~|Yeşil Ilıca@|Örnek~|Üzümlü@|Şirin~
+99339	Salarha Beldesi, Sırt Kasarcılar Mah.	Cami Altı~|Derebahçe~|Hamitlar~|Kanuni~|Kasar~|Neşe~|Orta~|Saray~|Sırt Kasarcılar@|Yokuş~
+61321	Salarha Beldesi, Yeşilılıca Mah.	Dereboyu~|Dik~|Fatih@|Güneş~|Güneşli-@|Kara~|Kaytazlar~|Kireçhane@|Ocak~|Yeşil Ilıca@|Çay~
+61320	Salarha Beldesi, Üzümlü Mah.	Büyükmeşe 2~|Büyükmeşe1~|Sırt~|Yaşar~|Zümrüt~|Üzümlü@
+67828	Selimiye Köyü	Selimiye=
+67829	Soğukçeşme Köyü	Soğukçeşme=
+67901	Söğütlü Köyü, Aşağı Mevkii	Aşağı=
+67903	Söğütlü Köyü, Mezra Mezrası	Mezra=
+67902	Söğütlü Köyü, Orta Mevkii	Orta=
+67900	Söğütlü Köyü, Yukarı Karşı Mevkii	Yukarı Karşı=
+67899	Söğütlü Köyü, Yukarı Mevkii	Yukarı=
+67834	Sütlüce Köyü, Ayvalı Mevkii	Ayvalı=
+67833	Sütlüce Köyü, Merkez Mevkii	Merkez=
+67832	Sütlüce Köyü, Taşerek Mevkii	Taşerek=
+67830	Sütlüce Köyü, Tepe Üstü Mevkii	Tepe Üstü=
+67831	Sütlüce Köyü, Öksüzler Mevkii	Öksüzler=
+67838	Taşköprü Köyü, Ardin Mevkii	Ardin=
+67836	Taşköprü Köyü, Baş Mevkii	Baş=
+67837	Taşköprü Köyü, Dere Mevkii	Dere=
+67839	Taşköprü Köyü, Merkez Mevkii	Merkez=
+67835	Taşköprü Köyü, Orta Mevkii	Ardin=|Orta=
+196499	Taşlıdere Mah.	Alipaşa~|Ayyıldız~|Açelya~|Bahar~|Birlik~|Demokrasi~|Doruk~|Felenksu~|Gazi~|Gurur~|Gözde~|Huzur~|Kulebaşı~|Kurtuluş~|Mehtap~|Menderes%|Sevgi@|Ulus~|Çağlayan~|Öğretmenler~
+67904	Taşlık Köyü	Taşlık=
+67907	Taşpınar Köyü, Esentepe Mevkii	Esentepe=
+67905	Taşpınar Köyü, Orta Mevkii	Orta=
+67908	Taşpınar Köyü, Yeşilırmak Mevkii	Yeşilırmak=
+67906	Taşpınar Köyü, Şentepe Mevkii	Şentepe=
+67840	Tekke Köyü	Kirazlık=|Tekke=
+61312	Tophane Mah.	1 Nolu Bülbül~|1 Nolu Dik~|1 Nolu Irmak~|1 Nolu Laleli@|1 Nolu Menzil~|1 Nolu Park~|1 Nolu Yan~|1 Nolu Yeni~|1 Nolu Çay~|2 Nolu Dere~|2 Nolu Menekşe~|Atatürk@|Barış@|Cimil~|Cumhuriyet@|Dalyan~|Dirsek~|Fevzi Paşa~|Fındıklı~|Genç~|Gür~|Kanarya~|Kanuni~|Kaçkar@|Kolej~|Menderes%|Meryem~|Meydan@|Ordu@|Osman Paşa~|Palandöken@|Recep Tayyip Erdoğan%|Santral~|Söğütlü~|Tophane@|Yeni Haliçi~|Yokuş~|Yunus Emre@|Ziya Paşa~|Çanakkale@|Çeşme@|İstiklal~|Şair~|Şehit Er Uğur Korkmaz~
+67842	Topkaya Köyü, Aşağı Mevkii	Aşağı=
+67843	Topkaya Köyü, Yukarı Mevkii	Yukarı=
+67841	Topkaya Köyü, Üst Mevkii	Üst=
+67845	Tuğlalı Köyü, Alt Mevkii	Alt=
+67844	Tuğlalı Köyü, Üst Mevkii	Üst=
+67846	Uzunköy Köyü	Uzunköy=
+67915	Veliköy Köyü, Aşağı Mevkii	Aşağı=
+67912	Veliköy Köyü, Günebakış Mevkii	
+67909	Veliköy Köyü, Karaaliler Mevkii	Karaaliler=
+67911	Veliköy Köyü, Meraller Mevkii	Meraller=
+67913	Veliköy Köyü, Merkez Mevkii	Merkez=
+67910	Veliköy Köyü, Orta Mevkii	Orta=
+67914	Veliköy Köyü, Çelikler Mevkii	Çelikler=
+61313	Yağlıtaş Mah.	2 Nolu Soğuksu~|Aslan~|Ekrem Orhon_1~|Fakülte@|Ilıca~|Kavaklı~|Mandıracılar~|Pirpiri~|Recep Tayyip Erdoğan%|İpek~|Şehitlik~
+67854	Yemişlik Köyü, Kalamari Mevkii	Kalamari=|Orta=
+67857	Yemişlik Köyü, Koçlar Mevkii	Koçlar=|Orta=
+67855	Yemişlik Köyü, Orta Mevkii	Orta=
+67856	Yemişlik Köyü, Yukarı Mevkii	Yukarı=|İstanoz=
+67853	Yemişlik Köyü, İstanoz Mevkii	Yukarı=|İstanoz=
+61314	Yeni Mah.	Denizgören@|Erzurum@
+67858	Yenidoğan Köyü, Balcılar Mevkii	Balcılar=
+197375	Yenidoğan Köyü, Gümüşler Mevkii	Gümüşler=
+197377	Yenidoğan Köyü, Hacıalioğlu Mevkii	Hacıalioğlu=
+67859	Yenigüzelköy Köyü	Yenigüzelköy=
+67916	Yenikale Köyü, Aşağı Mevkii	Aşağı=
+67917	Yenikale Köyü, Düz Mevkii	Düz=
+67918	Yenikale Köyü, Sırt Mevkii	Sırt=
+67919	Yenikale Köyü, Timena Mevkii	Timena=
+67861	Yenikasarcılar Köyü, Manavlar Mevkii	Manavlar=
+67860	Yenikasarcılar Köyü, Merkez Mevkii	Merkez=
+61315	Yeniköy Mah.	1 Nolu Cami~|1 Nolu Gül~|1 Nolu Seyran~|1 Nolu Sülün~|1 Nolu Sırt~|1 Nolu Yayla~|2 Nolu Irmak~|2 Nolu Pınar~|2 Nolu Yıldız~|5 Nolu Okul~|Alaattin Hoca~|Atatürk@|Bakırcılar@|Barış@|Bilgili~|Bizim~|Cumhuriyet@|Dağbaşı@|Dik Merdivenler~|Geçit~|Huri~|Karabağ~|Keçeli~|Komşu~|Kömürcüler~|Kıbrıs@|Kırk Merdiven~|Melek@|Menderes%|Mermer~|Meydan@|Mostar@|Papatya@|Pazar@|Peri~|Recep Tayyip Erdoğan%|Susuz~|Tevfik İleri@|Tevfik İleri_1 Myd.|Yalı@|Yağmursuyu~|Yeni@|Yeniköy~|Yiğit~|Çarşı@|Çelebi~|Çeşme@
+67862	Yeniselimiye Köyü	Yeniselimiye=
+67864	Yeşildere Köyü, Camiönü-güneşli-merkez Güzelyurt Mevkii	Camiönü Güneşli Merkez Güzelyurt=
+67865	Yeşildere Köyü, Esendere-güven-yeşilova Mevkii	Esendere Güven Yeşilova=
+67863	Yeşildere Köyü, Yıldıztepe-güzeldere Mevkii	Yıldıztepe Güzeldere=
+67867	Yolveren Köyü	Yolveren=
+67866	Yolüstü Köyü	Yolüstü=
+67868	Zincirliköprü Köyü, Güneli Mevkii	Güneli=
+67869	Zincirliköprü Köyü, Şöz Mevkii	Şöz=
+61282	Çamlıbel Mah.	1 Nolu Ara~|1 Nolu Kaldırım~|1 Nolu Lale~|1 Nolu Laleli@|1 Nolu Çamlı~|2 Nolu Deniz~|2 Nolu Çıkmaz~|Asmalı~|Atatürk@|Balsu@|Cumhuriyet@|Damla~|Dar~|Kaptan~|Kevser~|Meryem~|Recep Tayyip Erdoğan%|Sinanpaşa~|Turgut Reis~|Yeşiltepe~|Yunus Burgut~|Zübeyde Hanım@|Zümrüt~|Çamlıbel~|İnce~
+61283	Çarşı Mah.	1 Nolu Barbaros~|1 Nolu Dere~|1 Nolu Menekşe~|1 Nolu Pınar~|1 Nolu Yeni Evler~|1 Nolu Yıldız~|1 Nolu Şehitler@|3 Nolu Yeni~|Akasya~|Anafartalar@|Atatürk@|Belediye@|Belediye Evleri~|Bosna~|Cengiz Topel@|Ceylan~|Cumhuriyet@|Doğal~|Eski Hastane~|Fevzi Çakmak@|Hacı Eşref@|Hafız Seyfullah~|Hal~|Kanburoğlu~|Karayemiş~|Kazım Karabekir@|Keskin~|Keşmir~|Kiremit~|Manifaturacılar@|Menderes%|Minyeli Abdullah~|Osman Karavin@|Pazar@|Petek~|Siteler~|Tarım~|Tevfik İleri@|Tevfik İleri_1 Myd.|Tuna~|Usta~|Uygur~|Zihniderin@|İşhanı~|Şehit Binbaşı Arslan Kulaksız~|Şehit Hüseyin Gür~
+67716	Çaybaşı Köyü, Merkez Mevkii	Merkez=
+67719	Çaybaşı Köyü, Orta Mevkii	Orta=
+67717	Çaybaşı Köyü, Sırt Mevkii	Sırt=
+67718	Çaybaşı Köyü, Çiyanda Mevkii	Çıyanda=
+67720	Çaycılar Köyü	Çaycılar=
+140849	Çiftekavak Mah.	Alim~|Asya~|Dereboyu@|Düzyalı~|Elit~|Gün Batımı~|Güney~|Küçük Sanayi@|Mihrimah@|Mutlu~|Rüya~|Safir~|Sahil@|Tepeler~|Yaprak~|Çiftekavak@
+67723	Çimenli Köyü, Demircioğlu Alt Mevkii	Demircioğlu Alt=
+67724	Çimenli Köyü, Demircioğlu Üst Mevkii	Demircioğlu Üst=
+67722	Çimenli Köyü, Sukas Mevkii	Sukas=
+61284	Çorapçılar Mah.	Armutluk~|Boyama~|Derviş Yurt~|Gülhanım Papaker~|Muratlar~|Paşa@|Çorapçılar@|İçmeler@
+67822	Örnek Köyü	Örnek=
+67848	Üçkaya Köyü, Bıçakcılar Mevkii	Bıçakçılar=
+67852	Üçkaya Köyü, Mezra Mezrası	Mezra=
+67850	Üçkaya Köyü, Orta Mevkii	Orta=
+67851	Üçkaya Köyü, Çelikler Mevkii	Çelikler=
+67847	Üçkaya Köyü, Çetinkayalar Mevkii	Çetinkayalar=
+67849	Üçkaya Köyü, Üst Mevkii	Üst=
+61298	İslampaşa Mah.	1 Nolu Esentepe~|1 Nolu Okul~|2 Mart~|2 Nolu Ara~|2 Nolu Barbaros~|2 Nolu Fatih~|2 Nolu Şehitler@|4 Nolu Menekşe~|4 Nolu Çıkmaz~|Arıcı~|Kafkas-@|Kurşunlu Cami~|Lale~|Menderes%|Mimar Sinan~|Recep Tayyip Erdoğan%|Sağlık~|Sümbül@|Yenişehir-@|Zincirli@|İskender~|Şehit Ali İslamoğlu~|Şehit Binbaşı Ömer Aktuğ~|Şehit Erol Şafak~|Şehit Hızır Sandalcı~|Şehit Kemal İsmailoğlu~|Şehit Murat Fakir~|Şehit İbrahim Meral~|Şentepe~

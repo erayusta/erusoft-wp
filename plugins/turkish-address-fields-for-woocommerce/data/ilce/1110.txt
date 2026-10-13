@@ -1,0 +1,28 @@
+21364	Akpınar Mah.	Aşağı Andiri=|Orta Andiri=|Yukarı Andiri=
+27985	Altınayva Köyü	 Köy$
+27987	Aşağıyabanlı Köyü	 Köy$
+27986	Aşağıyabanlı Köyü, Ortayabanlı Mezrası	 Köy$
+27988	Bademli Köyü	 Köy$
+27989	Bahadırlar Köyü	Bahadırlar=
+27990	Balkayası Köyü	 Köy$
+21366	Başpınar Mah.	Ekirek=
+27991	Beyelması Köyü	 Köy$
+27992	Demirçarık Köyü	 Köy$
+27993	Demirçarık Köyü, Afet Evleri(yeni Yerleşim Yeri) Mevkii	 Köy$
+27994	Dibekli Köyü	 Köy$
+27995	Kaşpınar Köyü	 Köy$|Kaşpınar=
+99724	Merkez Mah.	Aksoy~|Ali Baba~|Aliuşağı~|Apuşma=|Arifağa~|Atatürk%|Atatürk@|Bahçeli Evler 1~|Belediye@|Berktaş~|Beydemir Çıkmazı~|Biçici~|Delibaşı~|Efendi~|Ekrem Köprülü@|Elazığ@|Faik Uyanık~|Faruk Doğan~|Gençosman=|Güner Omay@|Hekamat~|Hiccan~|Hocalar~|Hüseyin Tuncer@|Kasım~|Kavuncu~|Kepekçi~|Kuyumcu~|Köprülü@|Lise~|Mezarlık~|Mezart Yolu 1=|Mezart Yolu~|Muhtar Kenan~|Mustafa Sobay~|Mustafa Yay~|Nergiz~|Paşa~|Peğler~|Postacı Ziya~|Saadet~|Sadi Kapısız@|Sakagil~|Sağlık@|Servet Öcal~|Seyir~|Uçkun Kaya@|Yazıcı~|Yeni~|Çayırlık~|Örtmeli Çıkmazı=|Özkul~|Üçdut~|İbrahim Ağa~|Şahinler=|Şehit Hasan Halit Küçük~|Şehit Mehmet Ağgedik@|Şehit Rüstem Şen@|Şht.mehmet Yavuz@
+27996	Modanlı Köyü	 Köy$
+28000	Pulköy Köyü	 Köy$
+28001	Samançay Köyü	 Köy$
+28003	Samançay Köyü, Armutlu Mezrası	 Köy$
+28002	Samançay Köyü, Gümüşsuyu Mezrası	 Köy$
+28004	Saraycık Köyü	 Köy$
+28005	Saraycık Köyü, Konak Mezrası	 Köy$
+28006	Yedibağ Köyü	 Köy$
+28007	Yenipayam Köyü	 Köy$
+28008	Yenipayam Köyü, Salkımlı Mezrası	 Köy$
+27997	Öğrendik Köyü	 Köy$
+27999	Öğrendik Köyü, Kurtuluş Mezrası	 Köy$
+27998	Öğrendik Köyü, Tarlabaşı Mezrası	 Köy$
+21370	Şenpınar Mah.	Vahşen=

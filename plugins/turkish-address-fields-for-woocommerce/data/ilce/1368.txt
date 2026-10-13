@@ -1,0 +1,84 @@
+1348	Adatepe Mah.	1~|10~|2~|3~|4-~|5~|6~|7~|8~|9~|Akgül~|Alaca~|Alaçam~|Atatürk@|Aydın~|Ayva~|Ayyıldız~|Aşağıçay~|Bakırcıoğlu~|Balıkçı~|Barış~|Buket-~|Büyük~|Demircioğlu_1~|Eslemez Yolu=|Güldüz~|Hastane~|Haytaoğlu~|Kaptan~|Kargaca~|Kerimoğlu~|Keçeci~|Kolaylı-~|Kolaylıoğlu~|Koparan~|Kozalak~|Koçak~|Kutsuz~|Köroğlu~|Köseoğlu~|Mehmetpaşa@|Merzifon Yolu@|Pekbay~|Pektaş / Çay~|Petrol-~|Pilot Salım Kökçü@|Sakin~|Solmaz~|Sıtmapınar~|Yeni_1~|Çayır@|Çimen~|Özbek~|İstanbul@
+6583	Akpınar Köyü	Akpınar=
+6549	Alören Köyü	Aloren=
+6550	Alören Köyü, Alören Yaylası Mezrası	Aloren Yaylası=
+1349	Artıkabat Mah.	Adalet-~|Akdal~|Akgöz~|Akkuş-~|Aktaş~|Akıncılar-~|Aliemmi~|Altun~|Altunyay~|Altınezen~|Arpaguş~|Aslanlar~|Atalay~|Ayşepınarı~|Ağapınar@|Badem~|Ballar@|Banka~|Battaloğlu Kışlası=|Bay~|Bayram_1~|Bağlarbaşı~|Başak~|Başçavuş-~|Becenoğlu Kışlası=|Bilgin_1~|Bolat~|Boz~|Büyükyılanlıoğlu=|Can~|Cebeci~|Celal Çakıcı~|Cemre-~|Cerit Çıkmazı~|Ceylan~|Cintaş~|Cumaoğlu~|Cumhuriyet Myd.|Cumhuriyet.@|Dalyanoğlu Kışlası=|Danışkan~|Dedeoğlu~|Demokrasi-~|Doluel~|Dr.ahmet Özden~|Dumlupınar-~|Dündar_1~|Eda-~|Egemenlik-~|Ekici~|Ekiz~|Emir~|Ertegül~|Funda~|Gedik Çıkmazı~|Gürbüz~|Hakan~|Harput~|Hilal~|Kahraman~|Kardelen/ Artıkabat~|Kaynar~|Keklicek~|Kemal Demirel~|Kemal Paşa@|Kemal Şadi Ayhan~|Kocatepe~|Konak~|Kooperatif~|Kozak~|Koç~|Kuruçay_1~|Köprülü~|Küçükyılanoğlu=|Kılavuz~|Kılıç~|Kısa~|Kızılcık~|Melek~|Meltem~|Menekşe~|Morgül~|Muhsin Yazıcıoğlu@|Murat~|Okul~|Onur~|Oğulcan~|Paslıoğlu~|Pınar~|Sadullah~|Sakarya-~|Sarayözü@|Sarıgül~|Sengir~|Seziş~|Seçkin~|Sildir~|Susam-~|Sönmez~|Sıla~|Talaş-~|Taşkale~|Taşköprü~|Tilkicioğlu~|Turabi~|Turan_1~|Türkmen~|Ulusoy~|Uzunoğlu~|Vefa-~|Villa~|Yavuz~|Yeni~|Yenipınar Maraşlı~|Yukarıçay~|Yunus~|Yıldız (artıkabat)~|Zübeyde Hanım%|Çalışkan~|Çelenk~|Çetin~|Çevik~|Çolak~|Çotur-~|Önder_1~|Özbudak~|Özen~|Öztürk~|Ülkü@|Ümit@|Ünlü~|İlker~|İmren~|İstanbul@|İstiklal~|Şehit Alaaddin Bal~|Şehit Astsubay Ömer Halisdemir-~|Şehit J. Er İsmet Çıplak~|Şehit J.er Salih Çakan-~
+1354	Ağcadede Mah.	Park~|Sabah~|Tütüncü~|Çiftepınar~|İşler~|Şehit Hamit Kargılı~
+6622	Aşağıovacık Köyü, Dere Mevkii	Dere=
+6621	Aşağıovacık Köyü, Karşı Mevkii	Karşı=
+6620	Aşağıovacık Köyü, Kelahmetler(güller) Mevkii	Kelahmetler=
+6618	Aşağıovacık Köyü, Merkez Mevkii	Aksu=|Merkez=
+6619	Aşağıovacık Köyü, Nizamlar Mevkii	Nizamlar=
+6592	Bacakoğlu Köyü	Bacakoğlu=|İstanbul@
+6593	Bademli Köyü	Bademli=
+6594	Bademli Köyü, Mürseller Mezrası	Mürseller=|İstanbul@
+6551	Balıklı Köyü, Aşağı Balıklı Mevkii	Aşağıbalıklı=
+6552	Balıklı Köyü, Merkez Mevkii	Aşağıbalıklı=|Balıklı=
+6553	Beden Köyü	Beden=
+1355	Camikebir Mah.	Belediye~|Bilgin~|Cami~|Canikli~|Cumhuriyet_1@|Darphane-~|Dündar~|Gümüş- Myd.|Hamam~|Hürriyet%|Kale~|Medrese~|Nalbant~|Ortasınırı-~|Tütüncü~|Yiğit~|Çarşı~|Çay~|Çilingir~|Şehit Cevdet Topçam~|Şehit Hakkı Özdemir~|Şehit Murat Akca~|Şehit Mustafa Sünnetci~
+1350	Cumara Mah.	Ahsen~|Akgöz~|Albayrak~|Aslan~|Ata / Cumara-~|Atatürk@|Ballıklıoğlu-~|Bayburt~|Bektaş~|Buket~|Celal Çakıcı~|Dereüzeri~|Dönmez~|Düzgün~|Ekici~|Emre~|Esnemez~|Fevzioğlu Kışlası=|Funda~|Gedik Küme~|Gevheroğlu~|Gül_1~|Gündüz~|Güngör~|Hacıkınalı~|Hisaroğlu~|Kabalak~|Karagöz~|Kardelen~|Kayınpınarı~|Keklicek~|Kemal Şadi Ayhan~|Kiremitci@|Koç_1~|Kuruçay~|Köksal~|Körömerler Kışlası=|Küçükayvalı Kışlası=|Kınalı~|Mehmetpaşa@|Mutlu~|Nida~|Okuyucu~|Pazar~|Polis Lojmanları~|Rabia~|Salim~|Sarıtaş~|Sedat~|Tahmaz~|Tahmazlar Kışlası-=|Tangal~|Tarık-~|Taşköprü~|Tekeoğlu~|Temiz~|Terminal~|Turnalar@|Ukil~|Uysal~|Uçar~|Yaprak~|Yurt~|Zafer~|Zübeyde Hanım%|Çobanoğlu Kışlası=|Çobanoğlu~|Çolakoğlu~|Çukur~|Önder~|Özata~|Özdöl~|İmdat~|İstanbul@|İstasyon@|İğci~|Şahiner~|Şehit Teğmen Ahmet Çıtak~
+6598	Derbentobruğu Köyü	Derbentobruğu=
+6599	Derbentobruğu Köyü, Yongalık Mezrası	Yongalık Mezrası=|İstanbul@
+6600	Derbentobruğu Köyü, Yukarı Obruk Mevkii	Yukarıobruk=
+6557	Doluca Köyü	Doluca=
+6601	Dumanlı Köyü	Dumanlı=
+6558	Eslemez Köyü	Eslemez=|İstanbul@
+6585	Güllüce Köyü	Güllüce=
+6559	Güplüce Köyü	Güplüce=|İstanbul@
+6602	Güvemözü Köyü	Güvemözü=
+1352	Hacıyahya Mah.	Acar~|Aktaş (hacıyahya)~|Alpaslan~|Altunay~|Alıcıoğlu~|Arpalık-=|Arzu~|Ata~|Atakan~|Aydoğdu~|Açelya~|Ağapınar@|Babadan~|Balcı~|Banka~|Beyazgül~|Beyazıt~|Bilim~|Bölük~|Canıbek~|Cesur~|Ceylan Küme Evleri~|Cezaevi@|Civan~|Coşar~|Coşkun~|Culuk~|Cumhuriyet Myd.|Cumhuriyet.@|Damla~|Dar~|Darendeli~|Darçın~|Dağlı~|Doğan~|Dr. Mümin Sarıkulak~|Durak~|Emek~|Ender@|Erbal~|Erdoğan~|Eren~|Ertürk~|Fedakar~|Fındıkoğlu~|Gediktaş~|Gökmen~|Gül~|Gülen~|Gümüş@|Gündoğdu~|Hacı Abdullah Kışlası=|Hacıana~|Hacıyahya / Koç~|Hekimoğlu~|Hopancı~|Ilgın~|Kanarya~|Karabacak~|Karadağ~|Karatepe~|Kardeşler~|Kasırga~|Kemal Paşa@|Kizir~|Koyun~|Koç (hacıyahya)-~|Kurt~|Kömürcüoğlu~|Kılıçaslan~|Manolya~|Mercan~|Mert~|Muğullar~|Olgun~|Ovalı-~|Oyan~|Park_1~|Sabır~|Sarıgül-~|Semih~|Seval~|Simge~|Su Deposu~|Talebeyurdu~|Tekel@|Tekkelioğlu~|Tekçam~|Topaloğlu~|Tuncer~|Tunç~|Umut~|Uyan~|Uygun_1~|Uzunlar~|Uğurlu@|Yüksel~|Yılmaz~|Zeytünlü~|Çağdaş~|Çelik~|Çorumluoğlu~|Çınar~|Özlem~|İmirler@|İpek~|Şabanoğlu~|Şahbaz~|Şahin~|Şakalak~|Şehit Asb Hayati Arduç~|Şehit J. Er Hüseyin Gül~|Şehit J.kd.çvş. Malik Ejder Zeytünlü~|Şehit Yarbay İhsan Ejdar~|Şen~
+1356	Irgat Mah.	Armağan-~|Ayhan~|Belediye~|Bülbüllüce-~|Cumhuriyet-@|Demircioğlu~|Demircioğlu Çıkmaz~|Gümüşlü~|Kabadere~|Medrese~|Okul_1~|Tepecik-~|Türeli~|Çilingir~|Özhan~|Üzari~|Şehit Hakkı Özdemir~|Şehit Murat Akca~
+6586	Karaali Köyü	Karaali=
+6564	Karacaören Köyü	Karacaören=|Çiftçioğlu=|İstanbul@
+6587	Karakaya Köyü	Karakaya=
+6603	Kağnıcı Köyü	Kağnıcı=|Saraycık1=
+6565	Keçi Köyü	Keçı=
+6568	Kiziroğlu Köyü	Kiziroğlu=|İstanbul@
+6570	Koltuk Köyü, Merkez Mevkii	Aloren Yaylası=|Koltuk=
+6569	Koltuk Köyü, Çat Mevkii	Çat=
+6571	Konuktepe Köyü	Konuktepe=
+6572	Konuktepe Köyü, Kuşburnu Mezrası	Kuşburnu=
+6588	Korkut Köyü	Gümüşhacıköy Hamamözü Yolu/2~|Korkut=
+6589	Korkut Köyü, Çömezler Mezrası	Çömezler=
+6608	Kutluca Köyü	Kutluca=
+6573	Kuzalan Köyü	Kuzalan=|İstanbul@
+6590	Köseler Köyü	Köseler=
+6566	Kılıçaslan Köyü	Hacı Abdullah Kışlası=|Kılıçaslan=
+6567	Kırca Köyü	Kırca=|İstanbul@
+6604	Kızık Köyü	Kızık=
+6605	Kızık Köyü, Ahlatlı Mezrası	Ahlatlı=
+6606	Kızık Köyü, Hayatdere Mezrası	Hayatdere=
+6607	Kızılca Köyü	Kızılca=
+6591	Ovabaşı Köyü	Ovabaşı=
+6609	Pusacak Köyü	Pusacak=
+6610	Pusacak Köyü, Kızırcaören Mezrası	Kızılcaören=
+6574	Sallar Köyü	Sallar=|İstanbul@
+1353	Saray Mah.	Atatürk@|Atatürk.-@|Aydın_1~|Baykuş~|Bayram~|Bedestaniçi~|Bilgen~|Bozkurt~|Buket-~|Burak~|Burcu~|Buse~|Ceylan_1~|Cezaevi@|Dalkıran~|Demirel~|Demirtaş~|Duzcu~|Ekinpazarı~|Gonca~|Gümüş@|Güngör_1~|Hamit~|Kaan~|Kadıoğlu~|Kahraman_1~|Kaptan~|Kayhan~|Kazancılar~|Kemer~|Kerimoğlu~|Kunduracılar~|Kırmızı~|Kızıklı~|Lise@|Mehmetpaşa@|Onbaşı~|Pamukçular~|Parlak~|Pilot Salım Kökçü@|Sarıtepe~|Semercioğlu~|Sıtmapınar~|Tanır@|Terziler~|Turna~|Tuzcu~|Uğur~|Vural~|Yetkin~|Yunus Emre~|Zümrüt~|Çakıcı~|Çalıdede~|Çavuş Pınarı~|Çayır@|Çağlar~|Çetmi@|Özgür~
+6611	Saraycık Köyü	Saraycık1=|İstanbul@
+6612	Saraycık Köyü, Ballık Mezrası	Ballık=|Saraycık=
+6576	Sarayözü Köyü	Sarayözü=
+6579	Sarayözü Köyü, Alıçlı Çukur Mezrası	Alıçlı Çukur=
+6575	Sarayözü Köyü, Armutalan, Mezrası	Armutalan=
+6578	Sarayözü Köyü, Darçinler Kışlası Mezrası	Darçinler Kışlası=
+6580	Sarayözü Köyü, Kurtderesi Mezrası	Kurt Deresi=
+6577	Sarayözü Köyü, Semercioğlu Mezrası	Semercioğlu=
+6581	Sarayözü Köyü, Çamınbaşı Mezrası	Çamınbaşı=
+6613	Sekü Köyü	Sekü=|İstanbul@
+1358	Tekke Mah.	Karahan~|Meydan~|Park~|Park Çıkmaz~|Tütüncü~|Yenicami~|Özer~|Şehit Hakkı Özdemir~|Şehit Pilot İlhan Günaydın~
+6582	Yazıyeri Köyü	Yazıyeri=|İstanbul@
+1359	Yenicami Mah.	Kavalalı~|Park~|Sabah~|Tütüncü_1~|Yenicami~|Yunak~
+6641	Yeniköy Köyü, Bilaloğlu Mevkii	Bilaloğlu=|Çayanlar=
+6640	Yeniköy Köyü, Çayanlar Mevkii	Bilaloğlu=|Gümüşhacıköy Hamamözü Yolu/2~|Çayanlar=
+6595	Çalköy Köyü	Çalköy=
+6597	Çalköy Köyü, Albaz Deresi Mezrası	Albaz Deresi=
+6596	Çalköy Köyü, Köyiçi Mezrası	Köyiçi=
+6554	Çavuşköy Köyü	Çavuşköy=
+1351	Çay Mah.	Adaş~|Akça~|Alaçam~|Altundağ-~|Atatürk@|Ataçıkmazı~|Avcı~|Aşağıçay~|Buket~|Büyük Ayvalı (lazlar) Kışlası=|Cafar Pınarı Yolu~|Ceylan (çay)~|Cindoruk~|Coci-~|Demirciler~|Demircioğlu_1~|Doğramayol~|Fatih -@|Fatih~|Fırat-~|Gezgiç~|Gökcen~|Gül / Çay~|Güldüz~|Güven~|Güzel~|Haliçi~|Hanımeli~|Haytaoğlu~|Huzur~|Hızarcılar-~|Kadırga=|Kaportacılıar~|Karanfil~|Kartal-~|Kaymakcı~|Keltepe Gölet Yolu-~|Keresteciler~|Kolaylıoğlu~|Küçükayvalı Kışlası=|Lale-~|Mehmetpaşa@|Melisa~|Merzifon Yolu@|Mirza~|Motorcular~|Murat / Çay~|Orta~|Papatya~|Pektaş / Çay~|Raşit Usta-~|Sakız~|Samancı~|Sami Cömert@|Sanayi~|Selim~|Sevim~|Sevinç-~|Sözüdoğru~|Tarım~|Teknetaş~|Tuncay~|Turan~|Turnalar@|Tüfenkci~|Ulutaş-~|Uygun~|Yakıştıran-~|Yasemen~|Yağcılar~|Yeniler~|Yıldırım~|Yıldız~|Yığman~|Çalışır~|Çamlık~|Çamtepe~|Çerezci~|Çimen~|İmam Hatip~|İstanbul@|Şener~
+6555	Çetmi Köyü	Çetmi=
+6556	Çiftçioğlu Köyü	Çiftçioğlu=|İstanbul@
+6584	Çitli Köyü	Çitli=
+6560	İmirler Köyü, Berberoğlu Mevkii	Berberoglu=
+6563	İmirler Köyü, Cumaoğlu Kışlası Mezrası	Cumaoğlu Kışlası=|İstanbul@
+6561	İmirler Köyü, Erenler Mevkii	Erenler=
+6562	İmirler Köyü, Gültepe Mevkii	Gültepe=
+1357	Şıhlar Mah.	Cumhuriyet Çıkmazı~|Cumhuriyet_1@|Dediği~|Değirmen Çıkmazı~|Sugözü~|Çay~|Çilingir~|Çilingir Çıkmazı~|Şehit Cevdet Topçam~|Şehit Mustafa Sünnetci~|Şehit P. Astsb. Çvş. Barış Çemrek-~

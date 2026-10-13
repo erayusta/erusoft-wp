@@ -1,0 +1,105 @@
+64557	Adaksu Köyü	Adaksu=
+60385	Adalar Mah.	1001~|1002~|1003~|1003/1~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1023~|1024~|1025~|Adalar Yolu@|Ahlat Yolu@
+60386	Afşin Mah.	1101~|1102~|1103~|1104~|1105~|1106~|1107~|1108~|1109~|1110~|1111~|1112~|1113~|Ağrı@
+64573	Akalan Köyü	Akalan=
+60387	Aksungur Mah.	100. Yıl@|202~|203~|204~|205~|206~|207~|208~|209~|213~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|228~|230~|232~|233~|234~|237~|Ahmed-i Hani@|Bulanık@|Eski Değirmen@|Eski Kayık@|Hastane@|Kültür@|Özgürlük Meydanı Myd.|Şehit Polis Mehmet Özbek@|Şehitlik@
+64558	Akören Köyü	Akören=
+64574	Alikalkan Köyü	Ali Kalkan=
+60388	Alişan Mah.	1002~|1012~|1013~|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|714~|720~|904~|912~|915~|940~|Adalar Yolu@|Ahlat Yolu@|Kut Baba@
+60389	Altuntaş Mah.	1201~|1202~|1203~|1204~|1205~|1206~|1207~|1208~|1209~|1210~|1220~|Hasretpınar Köyü Yolu~|Şehit Kaymakam Muhammet Fatih Safitürk@
+64504	Alyar Köyü	Alyar=
+64505	Aradere Köyü	Aradere=
+64584	Arslankaya Köyü	Arslankaya=
+64506	Aynalıhoca Köyü	Aynalıhoca=
+64524	Ağılbaşı Köyü, 1 Mevkii	1.mevki=
+64525	Ağılbaşı Köyü, 2 Mevkii	2.mevki=
+64575	Aşağıkıcık Köyü	Aşağıkıcık=
+64526	Bademözü Köyü	Bademözü=
+64577	Bahçe Köyü, 1 Mevkii	1=
+64578	Bahçe Köyü, 2 Mevkii	2=
+64528	Balkaya Köyü	Balkaya=
+64527	Balkaya Köyü, Çat Mezrası	Çatkomu=
+64530	Beypınar Köyü	Beypınar=
+64529	Beşdam Köyü	Beşdam=
+64507	Beşçatak Köyü	Beşçatak=
+64556	Bilala Köyü	Bilala=
+64508	Bostankaya Köyü	Bostankaya=
+64559	Boyundere Köyü	Boyundere=
+64531	Boyçapkın Köyü	Boyçapkın=
+60395	Danışmentgazi Mah.	12355~|401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|415~|416~|417~|418~|419~|420~|421~|422~|423~|424~|425~|426~|427~|430~|431~|432~|433~|434~|435~|436~|437~|438~|439~|440~|450~|451~|525~|5432~|606~|Bilinmeyen 15~|Bilinmeyen 18~|Bilinmeyen/12.~|Bilinmeyen/26.~|Bulanık@|Hasretpınar Köyü Yolu~|Kültür@|Selahaddin Eyyubi@|Sultan Alparslan@|Şehit Kaymakam Muhammet Fatih Safitürk@
+64579	Dirimpınar Köyü	Dirimpınar=
+64510	Dolabaş Köyü	Dolabaş=
+64580	Doğantaş Köyü	Doğantaş=
+64534	Erence Köyü	Erence=
+64535	Fenek Köyü	Fenek=
+64581	Gölağılı Köyü	Gölağılı=|Nurettin=
+64511	Güleç Köyü	Güleç=
+60397	Gülkoru Köyü, Bilgin Mevkii	Arafat~|Atatürk~|Bilinmeyen 1~|Bilinmeyen 2~|Bilinmeyen/17~|Bilinmeyen/20~|Bilinmeyen/21~|Bilinmeyen3~|Bülbül~|Cumhuriyet~|Dicle~|Fırat~|Menekşe~|Patnos~|Sümbül~
+60398	Gülkoru Köyü, Eyyubi Mevkii	1 Eylül~|Alpaslan~|Altın~|Bilinmeyen/13~|Bilinmeyen/14~|Bilinmeyen/16~|Bilinmeyen/18~|Derman~|Gülkoru~|Kanarya~|Kültür~|Mehmet Akif Ersoy~|Patnos~|Vatan~|Özgürlük~|İstiklal~|Şafak~
+60399	Gülkoru Köyü, Seydagil Mevkii	Alpaslan-~|Altın~|Bereket~|Bilinmeyen/10~|Bilinmeyen/11~|Bilinmeyen/13~|Cesur~|Cumhuriyet~|Destan~|Emek~|Eğitim~|Gülkoru~|Kanarya~|Kervan~|Kültür~|Malazgirt~|Mezarlık~|Namık Kemal~|Patnos~|Sağlık~|Çıkmaz~|Özgür~|İstiklal~|Şifa~
+64538	Güzelbaba Köyü	Güzelbaba=
+64537	Güzelbaba Köyü, Bezirhane Mezrası	Bezirhane=
+64536	Güzelbaba Köyü, Karadera Mezrası	Karadere=
+64582	Hancağız Köyü	Hancağız=
+64512	Hanoğlu Köyü	Hanoğlu=
+64583	Hasanpaşa Köyü	Hasanpaşa=
+64513	Hasretpınar Köyü	Hasretpınar=
+64540	Kadıköy Köyü	Kadıköy=
+64560	Karaali Köyü	Karaali=
+100345	Karaali Köyü, Bekirhan Mevkii	Bekirhan=
+64561	Karahasan Köyü	Karahasan=
+64514	Karakaya Köyü	Karakaya=
+64542	Karakoç Köyü	Aşağıkıcık=|Karakoç=
+64541	Karakoç Köyü, Hacılar Mezrası	Hacılar=
+64545	Kardeşler Köyü	Kardeşler=
+64544	Karıncalı Köyü	Karıncalı=
+64543	Karıncalı Köyü, Dövenciler Mezrası	Dövenciler=
+64547	Kazgöl Köyü	Kazgöl=
+64546	Kazgöl Köyü, Dedeağaç Mezrası	Dedeağaç=
+60400	Konakkuran Beldesi, Atatürk Mah.	Acar~|Alparslan 1071~|Bilinmeyen 14~|Bilinmeyen/1~|Cumhuriyet@|Hasanpaşa@|Haçlı~|Hürriyet@|Keskin~|Malazgirt@|Narin~|Yayla~|Yeler~|Yeşim~|Yunus~|Şehit Binbaşı Arslan Kulaksız~|Şehitlik@
+60401	Konakkuran Beldesi, Murat Mah.	Alparslan@|Bedel~|Bilimeyen/1~|Bingöl~|Fetullah Bey~|Gemli~|Gül~|Güvercin~|Hasanpaşa@|Çakıcı~|Şehit İsmail Bülbül@
+60402	Konakkuran Beldesi, Yeni Mah.	Bilinmeyen/2~|Bilinmeyen/5~|Çetinler@
+60403	Konakkuran Beldesi, Ziyaret Mah.	Ali~|Bezirgan~|Dalkıran~|Ezgi~|Fetullah Bey~|Güvercin~|Hasanpaşa@|Hürriyet@|Karanfil~|Malazgirt@|Orhan Pamuk@|Yağmur~|Zafer@|Çakıcı~|Çatal~|Şehit İsmail Bülbül@
+64585	Koçali Köyü	Koçali=
+64563	Kulcak Köyü	Kulcak=
+64548	Kuruca Köyü	Bilala=|Kuruca=
+64515	Kılıççı Köyü	112=
+64562	Kızılyusuf Köyü	Kızılyusuf=
+64586	Laladağı Köyü	Laladağı=
+64564	Mağalcık Köyü	Mağalcık=
+60390	Mengüçgazi Mah.	100. Yıl@|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|1102~|111~|112~|113~|114~|115~|117~|118~|119~|120~|121~|122~|123~|124~|125~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|144~|147~|149~|170~|176~|308~|309~|311~|314~|316~|318~|324~|325~|327~|328~|329~|331~|333~|335~|339~|601~|602~|606~|Ahlat Yolu@|Albay Önel@|Atatürk@|Ağrı@|Hastane@|Hükümet Konağı Önü@|Kültür@|Narin Kale@|Pelemez Rampası@|Sınır@|Yılankıran@|Zafer@|Özgürlük Meydanı Myd.|Şehit Astsubay Ömer Halisdemir@|Şehit Jandarma Binbaşı Arslan Kulaksız@|Şehit Polis Fethi Sekin@
+64518	Mezraaköy Köyü	Mezraköy=
+64516	Mezraaköy Köyü, Alınca Mezrası	Alınca=
+64519	Mollabaki Köyü	Mollabaki=
+64565	Molladerman Köyü	Molladerman=
+60394	Murat Mah.	501~|502~|503~|504~|505~|509~|513~|514~|515~|516~|517~|520~|522~|524~|526~|528~|530~|531~|532~|534~|536~|538~|540~|542~|560~|562~|Ahmed-i Hani@|Badişan@|Bulanık@|Eski Değirmen@|Eski Kayık@|Konakkuran@|Şehitlik@
+64520	Muratkolu Köyü	Muratkolu=
+64587	Nurettin Köyü	Nurettin=
+99936	Nurettin Köyü, Taşlıçeşme Mevkii	Tatlıçeşme=
+64566	Odaköy Köyü	Odaköy=
+64521	Okçuhan Köyü	Bulanık@|Hanoğlu=|Okçular=
+64568	Oğuzhan Köyü	Oğuzhan=
+64567	Oğuzhan Köyü, Şekerova Mezrası	Şekerova=
+60396	Saftekingazi Mah.	701~|901~|902~|903~|904~|905~|906~|907~|909~|911~|912~|913~|914~|915~|916~|917~|919~|920~|921~|922~|923~|924~|926~|928~|930~|934~|938~|940~|942~|Ahlat Yolu@|Albay Önel@|Kut Baba@|Kültür@|Şehit Jandarma Binbaşı Arslan Kulaksız@|Şehit Kaymakam Muhammet Fatih Safitürk@
+60391	Saltukgazi Mah.	301~|304~|305~|307~|310~|311~|312~|313~|315~|317~|319~|320~|321~|322~|334~|336~|337~|338~|340~|341~|342~|345~|347~|349~|350~|351~|352~|354~|357~|358~|359~|360~|361~|362~|364~|365~|366~|367~|368~|369~|370~|371~|372~|373~|374~|375~|377~|378~|379~|381~|382~|383~|385~|386~|387~|388~|389~|391~|393~|817~|Bozkurtlar@|Hastane@|Hükümet Konağı Önü@|Mezra Köyü Yolu~|Pelemez Rampası@|Yılankıran@|Özgürlük Meydanı Myd.|Şehit Polis Mehmet Özbek@|Şehitlik@
+64570	Sarıdavut Köyü	Kulcak=|Sarıdavut=
+64522	Selekutu Köyü	Kurtulmuşoğlu=
+60392	Selçuklu Mah.	320~|328~|330~|801~|802~|803~|804~|805~|806~|807~|809~|811~|812~|813~|814~|815~|816~|817~|818~|819~|820~|821~|822~|823~|824~|825~|827~|828~|830~|831~|832~|834~|835~|Acar@|Ağrı@|Hastane@|Pelemez Rampası@|Zafer@
+64588	Söğütlü Köyü	Söğütlü=
+64549	Sırtdüzü Köyü	Sırtdüzü=
+64571	Tatargazi Köyü	Tatargazi=
+64523	Tatlıca Köyü	Tatlıca=
+64550	Tıkızlı Köyü	Tıkızlı=
+98374	Ulusu Köyü, Köyün Kendisi Mevkii	Aktuzla=|Kumeevler=
+64552	Uyanık Köyü	Uyanık=
+64553	Yapraklı Köyü	Yapraklı=
+64572	Yaramış Köyü	Yaramış=
+64554	Yolgözler Köyü	Yolgözler=
+64589	Yukarıkıcık Köyü	Yukarıkıcık=
+64555	Yurtseven Köyü	Yurtseven=
+64509	Çayırdere Köyü	Çayırdere=
+64532	Çiçekveren Köyü, Köyün Kendisi Mevkii	Çiçekveren=
+64533	Çiçekveren Köyü, Yıldız Mevkii	Yıldız=
+64569	Örenşar Köyü	Örenşar=
+64539	İyikomşu Köyü	İyikomşu=
+60393	Şekerbulak Mah.	605~|607~|609~|611~|616~|618~|619~|620~|622~|624~|626~|628~|629~|630~|634~|635~|636~|637~|638~|640~|642~|644~|646~|708~|Kut Baba@|Şehit Kaymakam Muhammet Fatih Safitürk@

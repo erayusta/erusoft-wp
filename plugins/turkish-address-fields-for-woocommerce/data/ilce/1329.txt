@@ -1,0 +1,48 @@
+177103	Akkaya Mah.	Abdiuşağı=|Güzle=|Merkez Akkaya=|Pınargözü=|Üskiyen=
+177105	Akoluk Mah.	Akoluk Merkez=
+177109	Bahçecik Mah.	Bahçecik=
+177107	Bağdatlı Mah.	Bağdatlı=
+319	Belenköy Mah.	Belenköy=|Eğridere=|Harapseki=|Kabakulağın Köprüsü=|Kahveci=|Karahanlıdere=|Kubatlı=
+177115	Değirmenciuşağı Mah.	Değirmenciuşağı=|Fındık=
+177179	Gaffaruşağı Mah.	Gaffaruşağı Merkez=|Ormancık=
+177117	Gedikli Mah.	Gedikli Merkez=|Suçatı=|Tapurlu=
+177119	Göbelli Mah.	Damderesi=|Göbelli Kazancı=|Göbelli Merkez=|Kapıkaya=|Kozderesi=
+320	Gökçeli Mah.	Gökçeli=
+177121	Gürümze Mah.	Gürümze Merkez=|Kayhan=|Keher=
+177123	Güzpınarı Mah.	Belen=|Güzpınarı Merkez=|Kapukaya=|Yeniçeri=
+177125	Hıdıruşağı Mah.	Hıdıruşağı=
+177167	Kaleyüzü Mah.	Kaleyüzü Merkez=|Çorukuşağı=
+326	Karacaoğlan Mah.	Askerlik Şubesi Tepe=|Bozat=|Cami 2~|Cami 3~|Cami 4~|Cami 5~|Cami 6~|Cami@|Cami1~|İşletme@|İşletme/1~|İşletme/2~|İşletme/3~|İşletme/4~|İşletme/5~|İşletme/6~
+321	Karacauşağı Mah.	Karacauşağı=|Köseli=
+177131	Kayadibi Mah.	Kayadibi=|Çatak=
+322	Kazancı Mah.	Kazancı=|Köleli=|Mavlıyan=
+177129	Kaşaltı Mah.	Merkez Kaşaltı=
+325	Keklikçi Mah.	Fatih Talabe Yurdu=|Güneşli=|Kamışlı=|Keklikçi=|Sıtkı Toksoy@|Topak Taş/3~
+177141	Konakkuran Mah.	Güzelyurt=|Karaağaç=|Konakkuran Merkez=|Kıy=|Mecit=|Payamgüneyi.=|İmirömer=
+177161	Kovukçınar Mah.	Gürlevik=|Houdu=|Keloluk=|Kiraz=|Kovukçınar Merkez=
+177139	Koçyazı Mah.	Koçyazı Merkez=|Toşur=
+177133	Kırıkuşağı Mah.	Elmalı Yayla=|Kırıkuşağı Merkez=|Serin Yayla=
+177135	Kısacıklı Mah.	Alıçlı=|Aşağı Oba=|Hüsametli=|Kayrak=|Kubatlı.=|Kısacıklı Merkez=
+177137	Kızılyer Mah.	Kise=|Kızılyer Merkez=|Söğüt=
+177163	Mansurlu Mah.	Hümetler=|Kaleuşağı=|Karacehennemli=|Karataş=|Mansurlu Merkez=|Tömekler=|Çalıklar=|Çayırlı=
+177169	Musalar Mah.	Bostan Dere=|Dere=|Harmancık=|Musalar Merkez=|Sarız=
+177143	Olucak Mah.	Olucak Merkez=|Yanıkdam=|Yazyurdu=
+177171	Ormancık Mah.	Ormancık=
+177173	Ortaköy Mah.	Ortaköy=|Tahta Köprü=
+177175	Oruçlu Mah.	Avuçlar=|Kerimuşağı=|Oruçlu Merkez=
+177145	Paşalı Mah.	Bahçeli=|Bozgüney=|Paşalı Merkez=|Yazı=
+324	Sülemişli Mah.	Bahçeler=|Bağarası=|Eski Feke=|Kileli=|Kurudere=|Sülemişli=
+177147	Süphandere Mah.	Kivren=|Süphandere=|Yeni Seki=
+177149	Tenkerli Mah.	Büyükoluk-~|Pınargözü Karadayılı=|Tenkerli=|Çem=
+177151	Tokmanaklı Mah.	Beyler=|Güneygeçe=|Hamitli=|Soğanlı=|Tokmanaklı Merkez=|Tıkırlı=|Yunuslu=|Çamlı Burun=
+177153	Tortulu Mah.	Delifakılar=|Köselı=|Merkez=|Topakhasan=|Tortulu=|Ziyelli=|Çataloluk=
+177155	Uğurlubağ Mah.	Uğurlubağ Merkez=
+177157	Yaylapınar Mah.	Yaylapınar=
+177159	Yerebakan Mah.	Maran=|Merkez Yerebakan=|Tordere=
+323	Yeşil Düşmüş Mah.	Topak Taş/3~|Yatılı Bölge Okulu=|Yeşil Düşmüş=
+177111	Çandırlar Mah.	Bekirhacı=|Çandırlar Merkez=
+177165	Çondu Mah.	Barak=|Cevizli Kol=|Çondu/merkez=
+177113	Çürükler Mah.	Yeşilvadi=|Çürükler Merkez=
+177127	İncirci Mah.	Akbelen=|Esirmek=|Kurtlar=|Kızılköy=|Merkez Kaşaltı=|Sarılar=|İncirci Merkez=|İncirci Çamlık=
+327	İslam Mah.	Belenköy Yolu@|Belenköy Yolu/1~|Eski Hastane@|Eski Hastane/1~|Eski Hastane/2~|Fatih Talabe Yurdu=|Ilkokul/2~|Irmak@|Irmak/1~|Irmak/2~|Kocayurdan=|Kozan Yolu@|Kozan Yolu/1~|Kozan Yolu/2~|Kozan Yolu/3@|Küllük~|Sıtkı Tokso/1~|Sıtkı Toksoy@|Topak Taş@|Topak Taş/2~|Topak Taş/3~|Ulus@|Ulus/1~|Ulus/2~|Çamlık~|İlkokul@|İlkokul/1~|İlkokul/2~
+177177	Şahmuratlı Mah.	Barak=|Kurukoyak=|Çokça=|Şahmuratlı Merkez=

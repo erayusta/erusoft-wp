@@ -1,0 +1,18 @@
+5026	Akpınar Köyü	 Köy$
+5027	Aşağıçaybelen Köyü	Aşağıçaybelen=
+743	Büyük Mah.	Atacan~|Atatürk@|Açılan~|Başar 1~|Başar~|Dar~|Dere~|Gazi~|Gölet~|Hacı Veli~|Han@|Hisar~|Kaya~|Kısa~|Pınar1~|Savaş~|Sefer~|Simsar~|Tepecik 1~|Tepecik~|Uzun~|Yeni Hamam~|Yeni~|Çam~|Özer 1~|Özer 2~|Özer~
+744	Cumhuriyet Mah.	Afyonkarahisar1@|Asarkale~|Ayten~|Ağıllar=|Baraj~|Bağyeri~|Beydağı@|Derbent Yolu~|Dr.avni Tan@|Dr.mete Tan@|Fevzi Eskisoy@|Gül~|Karanfil~|Kayalı~|Kilim~|Köroğlu~|Kümbet=|Lale~|Leylak~|Menekşe~|Nergiz~|Oğuzlar@|Papatya~|Papatya2~|Park1~|Pınar~|Sanayi~|Selvi~|Sümbül~|Ufuk~|Vişne~|Zambak~|Zübeyde Hanım@|Çilek~|Çiğdem~|İlkokul1@|Şafak@
+5031	Derbent Köyü, Abdullahlı Mevkii	 Köy$
+5030	Derbent Köyü, Ceritli Mevkii	 Köy$
+5029	Derbent Köyü, Orta Mevkii	 Köy$
+5032	Eskigömü Köyü	Eskigömü=
+745	Hürriyet Mah.	Abdil Ergün~|Afyonkarahisar@|Arif Bey~|Bayır~|Bağlar 1~|Bağlar~|Doğan 1~|Doğan~|Doğan1~|Ede~|Fethi Arısoy~|Hanardı~|Kadir Şen~|Kaya1~|Konutlar~|Kısa1~|Neşe~|Orman~|Papatya1~|Park2~|Saraç~|Sevgi Yolu~|Stadyum~|Söğüt~|Yeni Açılan~|Yeni Hamam~|Çeşme~|Çimenli~|İlkokul@|Şehit Bahadır Özenç@
+5035	Kuzören Köyü	 Köy$
+5036	Mallıca Köyü	 Köy$
+5037	Muratkoru Köyü	Muratkoru=
+5038	Sağırlı Köyü	 Köy$
+746	Yeni Mah.	Afyonkarahisar@|Arı~|Atatürk@|Bahar~|Cami~|Demir~|Değirmen~|Hayat~|Kanal~|Kapanan~|Kavaklı~|Kurtuluş@|Park Myd.|Tepe~|Çukur~|Çıkmaz~|İnce~|Şanlı~|Şen~|Şenlik~
+5039	Yukarıçaybelen Köyü	Yukarıçaybelen=
+5028	Çukurkuyu Köyü	 Köy$
+5033	İmrallı Köyü	 Köy$
+5034	İnpınar Köyü	 Köy$

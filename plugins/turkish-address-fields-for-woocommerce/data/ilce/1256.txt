@@ -1,0 +1,72 @@
+143783	Akdam Mah.	Merkez~
+143781	Akçaova Mah.	Akar~|Akasya~|Akça~|Akın~|Albay~|Altınabat@|Arif~|Ata~|Atatürk@|Aydın~|Badem~|Bahadır~|Bahçe Arkası~|Barış~|Bayır~|Begonya~|Belen~|Beyazıt (orta)~|Beyazıt~|Buket~|Bülbül~|Celep~|Cesur~|Ceviz~|Ceylan~|Civan~|Cuma~|Cumhuriyet Myd.|Dar~|Dağdibi~|Defne~|Demet~|Demirci~|Deniz~|Dereiçi~|Dereyolu~|Değirmen~|Dostluk~|Doğan~|Duran~|Egemenlik@|Elmas~|Emin~|Emniyet~|Erden~|Eren~|Esen~|Ezgi~|Fabrika~|Fatih~|Fener~|Ferah~|Fevzi Çakmak@|Fırat~|Gazi~|Gökbel~|Gökcen~|Gökmehmet Efe~|Gölbey (hacımemişler)@|Gölbey@|Gül~|Güler~|Gündoğdu~|Güneş~|Güzin (orta)~|Güzin~|Hacıharım~|Hüriyet~|Ihlamur~|Irmak~|Işık~|Kahraman~|Kaktüs~|Kanarya~|Karakol~|Karanfil~|Kardelen~|Kardeş~|Kartal~|Kaya~|Kemer~|Kiraz~|Koşar~|Kurtuluş~|Kuzey~|Kıvanç~|Lale~|Leylak~|Madran~|Mehtap~|Meltem~|Menderes@|Menekşe~|Menteş~|Mescit~|Mezarlık~|Muslu~|Narlı~|Nehir~|Nergiz~|Neşe~|Okul~|Onur~|Orkide~|Orman~|Park~|Pazar~|Pınar~|Pınarlar@|Sardunya~|Saygı~|Sağlık (orta)~|Sağlık~|Seher~|Selin~|Selvi~|Serçe~|Seven~|Sevgi~|Sevinç~|Sezgin~|Seçkin~|Simge~|Sinem~|Sırma~|Testi~|Trafo~|Tuna~|Tuğçe~|Türkmen~|Ulaş~|Ulu~|Umut@|Uygar~|Uysal~|Uzun~|Venüs~|Vezir~|Vişne~|Yasemen~|Yavuz~|Yayla Evleri~|Yayla~|Yeni~|Yonca~|Yorgun~|Yunus~|Yörük Ali Efe@|Yüce~|Yıldırım~|Yıldız~|Yılmaz~|Zakkum~|Zambak~|Zeybek~|Zeytin~|Zirve~|Çakmak~|Çakır~|Çam~|Çayyüzü@|Çayır~|Çelebi~|Çelik Yüzü~|Çerçi~|Çetin~|Çimen~|Çine (orta)@|Çine@|Çoban~|Çınar~|Çıvgın~|Öz~|Özdemir~|Özen~|Özgür~|Özkar~|İnönü@|İpek~|İstiklal@|İçli~|Şafak~|Şahin~|Şelale~
+143785	Alabayır Mah.	Atacan~|Dereli~|Emiroğlu~|Karaağaç~|Merkez~
+143893	Altınabat Mah.	Merkez~
+143787	Altınova Mah.	Merkez~
+143791	Bahçearası Mah.	Birancılar~|Darıalanı~|Kıdeş~|Merkez~|Ömerler~
+143789	Bağlarbaşı Mah.	Merkez~
+143793	Bedirler Mah.	Alakilise~|Bedirler~|Merkez~|Sıralar~|Teknecik~
+143795	Bereket Mah.	Merkez~
+143799	Bucak Mah.	Bucak~|Merkez~
+143797	Bölüntü Mah.	Merkez~
+143801	Camızağılı Mah.	Kelveli~|Merkez~|Çeşme Başı~
+143803	Cumalı Mah.	Merkez~
+10099	Cumhuriyet Mah.	1~|10~|100~|102~|11~|12~|13~|14~|143 Çıkmazı~|15~|16~|17~|18~|19~|2~|20~|21~|22~|223 Çıkmazı~|25~|26~|27~|28 Çıkmazı~|29~|3~|30~|303~|31~|32~|33~|34~|35~|36~|37~|372~|374~|376 Çıkmazı~|378~|38~|380~|382~|384~|39~|390~|4~|40~|406~|41~|414~|416~|42~|422~|424~|425~|426~|427~|427/1~|428~|43~|430~|431~|433~|434~|435~|437~|439~|44~|441~|443~|445 Çıkmaz~|45~|46~|469 Çıkmazı~|47~|471~|473~|475~|477~|479~|48~|481~|483~|485~|487~|489~|49~|491~|493~|5~|50~|507=|508=|509=|51~|510=|511=|512=|513=|519~|52~|53~|54~|55~|56~|57~|58~|59~|6~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7~|70~|71~|72~|72/1~|72/2~|73~|74~|75~|76~|77~|78~|79~|8~|80~|81~|82~|83~|84~|86~|88~|9~|90~|92~|94~|96~|98~|Adnan Menderes%|Atatürk (karakollar)@|Cumhuriyet@|Kuvayımilliye@|İsmail Ak~|İsmail Çetin~|Şehit Jan.kom.çvş.ali İhsan Uzun@
+143811	Dereli Mah.	Merkez~
+143815	Dorumlar Mah.	Aktaş~|Merkez~|Ova~
+143813	Doğanyurt Mah.	Araphisar~|Gedilli~|Hacımusalar~|Merkez~
+143817	Dutluoluk Mah.	Merkez~
+143819	Elderesi Mah.	Merkez~
+143821	Esentepe Mah.	Merkez~
+143823	Eskiçine Mah.	Merkez~
+143825	Evciler Mah.	Merkez~
+143827	Gökyaka Mah.	1@|10@|12@|14@|16@|18@|2@|3@|4@|5@|6@|8@|Memişler~|Merkez~|Selahattin Gökozan%|Çine Osb~
+143831	Hacıpaşalar Mah.	Asmalar~|Dinecik~|Kemer~|Merkez~|İslamderesi-çay Kıyı~
+143833	Hallaçlar Mah.	Beşpınar~|Karatepe~|Merkez~|Ova~|Çöpten~
+10094	Hamitabat Mah.	174~|174/1~|178~|180~|182~|182/1~|184~|186~|190~|192~|194~|196~|197~|198~|200~|202~|204~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|224~|225~|226~|227~|228~|229~|230~|231~|232~|233~|234~|235~|236~|237~|238~|239~|240~|241~|243~|245~|247~|249~|251~|253~|255~|257~|259~|261~|263~|265~|267~|268~|269~|271~|273~|275~|277~|279~|281~|283~|285~|287~|296~|298~|300~|333~|335~|337~|341~|353~|355~|367~|377~|379~|392~|400~|402~|404~|408~|410~|412~|432~|449~|451~|467~|503=|504=|505=|Adnan Menderes%|Atatürk@|Kuvayımilliye@|Mehmet Yavaş@|Muhtar Nuri Ülgüç~|Namık Gedik@|Soğancılar@|Umut Barış Bozkurt~|Şehit Adnan Özdemir@
+143895	Hasanlar Mah.	Merkez~
+143897	Kabalar Mah.	Harımcık~|Karıngeç Dere~|Merkez~|Sarniç~
+143837	Kabataş Mah.	Acısu~|Kazaklar~|Merkez~
+143899	Kadılar Mah.	Merkez~
+143839	Kahraman Mah.	Merkez~
+143841	Karahayıt Mah.	Merkez~|İdil~
+143843	Karakollar Mah.	1052~|1054~|1056~|Akbaşlar~|Atatürk (karakollar)@|Aydın-muğla Karayolu=|Ağa~|Baraklar~|Bulvar~|Cami~|Cennet~|Cumhuriyet@|Damla~|Davutçu~|Depo@|Dere~|Düğün~|Gazi~|Güneş~|Isparta~|Kampüs=|Kavak Dibi@|Koray~|Köprübaşı~|Köy Civarı=|Mera~|Müftü Hoca~|Osman Aydın~|Ova~|Pınar~|Rüzgar~|Stadyum~|Sucu~|Süleyman Saldı@|Tepe~|Topuz~|Yağmur~|Yıldız~|Zeynel~|Zeytin~|Çavuşlar~|Çeşme~|Çimenlik~|Çine~|Çukur~|Şehit Ahmet Demir@|Şehit Şenol May~
+143845	Karanfiller Mah.	Camii~|Orta~|Taşoda~
+143847	Karğı Mah.	Merkez~
+143849	Kasar Mah.	Belen~|Hacılar~|Kulaksızlar~|Kuyu Belen~|Resüler~|Yeni~|Zeytinli~
+143851	Kavşıt Mah.	Merkez~|Yayla~
+143829	Kirazderesi Mah.	Bayramlı~|Merkez~|Ören~
+143859	Kuruköy Mah.	Merkez~
+143855	Kırksakallar Mah.	Baharyurdu~|Durluman~|Gökyaka~|Hıdırağa~|Kemer~
+143853	Kırkışık Mah.	Asmalılar~|Merkez~
+143857	Kızılgüney Mah.	Merkez~|Nalbantlar~
+143861	Mutaflar Mah.	Merkez~
+143863	Ovacık Mah.	Merkez~
+143867	Saraçlar Mah.	Merkez~
+143869	Sarnıç Mah.	Merkez~
+143903	Sarıköy Mah.	Esenli~|Merkez~
+10095	Sarıoğlu Mah.	256~|296~|302~|304~|328~|330~|332~|334~|336~|338~|340~|342~|344~|346~|348~|350~|352~|354~|356~|358~|360~|362~|364~|366~|368~|370~|379~|385~|387~|389~|391~|393~|395~|396~|397~|399~|401~|405~|409~|411~|413~|415~|417~|419 Çıkmazı~|421~|423~|514=|515=|516=|517=|520~|Adnan Menderes%|Atatürk@|Nuri Güngör@|Umut Barış Bozkurt~|Şükran Güngör~
+143901	Sağlık Mah.	Merkez~
+143905	Seferler Mah.	Develler~|Merkez~
+10096	Soğancılar Mah.	101~|103~|105~|106~|107~|108~|109~|110~|111~|112~|114~|115 Çıkmazı~|116~|117~|118~|119 Çıkmazı~|120~|121~|122~|123~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|136~|137~|138 Çıkmazı~|139~|140~|141~|142~|144~|145~|146~|147~|148~|149~|150~|152~|153~|154~|155~|156~|157~|158~|159~|160~|161~|162~|163~|164~|165~|166~|167~|168~|169~|170~|171~|172~|173~|175~|176~|177~|179~|181~|183~|185~|187~|189~|191~|193~|195~|197~|199~|201~|203~|205~|398~|400~|436~|506=|518=|521~|85~|87~|89~|91~|93~|95~|97~|99~|Kuvayımilliye@|Soğancılar@|Şehit Adnan Özdemir@|Şehler@
+143871	Soğukoluk Mah.	Emirler~|Merkez~|Yağlık~
+143873	Subaşı Mah.	Merkez~|Sakızağacı~
+143907	Söğütçük Mah.	Belen~|Cami~|Dere~|Eski Muğla~|Kabalar~|Mehmet Akif~|Tüller~
+143877	Tatarmemişler Mah.	Asar~|Karakışlık~|Kemerler~|Kızılcık~|Yeşilyurt~
+143875	Taşoluk Mah.	Cabbarlar~|Hüseyinceler~|Merkez~|Yukarı~
+143879	Tepeköy Mah.	Merkez~
+143881	Topçam Mah.	Dedeler~|Dutağaç~|Mezra~|Paklalar~|Sarnıç~|Sarıkavak~|Yayla~|Yağmuralanı~|Örenyanı~
+143909	Umurköy Mah.	Merkez~
+143885	Yağcılar Mah.	Merkez~
+10098	Yeni Mah.	306~|308~|310~|312~|314~|316~|318~|320~|322~|324~|326~|332~|334~|336~|338~|339~|340~|342~|343~|344~|345~|347~|349~|351 Çıkmazı~|353~|357~|361~|363~|365~|367~|369~|371~|373~|375~|377~|381~|383~|385~|387~|391~|403~|405~|407~|447~|Adnan Menderes%|Alişen~|Atatürk@|Doktor Mustafa Merdin~|Nuri Güngör@|Şükran Güngör~
+143887	Yeniköy Mah.	Merkez~
+143911	Yeşilköy Mah.	Merkez~
+143889	Yolboyu Mah.	Merkez~
+143891	Yörükler Mah.	Merkez~
+143805	Çaltı Mah.	Merkez~
+143807	Çatak Mah.	Merkez~
+143809	Çöğürlük Mah.	Kavaklar~|Menderes~|Merkez~|Çöğürlük~
+143865	Özeren Mah.	Merkez~
+143883	Ünlüce Mah.	Merkez~|Ova~
+143835	İbrahimkavağı Mah.	Merkez~|Çulhalar~
+10097	Şevketiye Mah.	242~|244~|246~|248~|250~|252~|253~|254~|258~|260~|262~|264~|266~|270~|271~|272~|274~|276~|278~|280~|282~|284~|286~|288~|289~|290~|291~|292~|293~|295 Çıkmaz~|297~|301~|305~|307~|309~|311~|313~|315~|317~|319~|321~|323~|325~|327~|329~|331~|394~|418~|420~|453~|455~|457~|459~|461~|463~|465~|495~|497~|499~|501~|Adnan Menderes%|Ali Rıza Efendi~|Ali Şen~|Atatürk@|Kuvayımilliye@|Mehmet Yavaş@|Namık Gedik@|Nuri Güngör@|Şehit Asteğmen Hüseyin Uzunova@|Şükran Güngör~

@@ -1,0 +1,55 @@
+1970	Abazlı Mah.	100@|101~|102~|103~|104~|105~|106~|107~|108~|109@|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|Abazlı=
+177897	Afşar Mah.	19 Mayıs Afşar=|200~|201~|203~|204@|205~|206-~|207~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221-~|222~|Abdi İpekçi=|Adnan Kahveci=|Afet Konutları-=|Atatürk.@|Avni Akyol=|Bahçeli=|Beşevler=|Cami=|Cumhuriyet Afşar=|Dadaloğlu=|Fatih Sultan Mehmet Afşar=|Torunoğlu=|Yayla Afşar=|Ziya Gökalp Afşar=
+1994	Ahmetçayırı Mah.	Ahmet Çayırı 7. Afet Konutu=|Ahmetçayırı=
+177965	Akkoyunlu Mah.	Akkoyunlu=
+177903	Aydoğan Mah.	Aydoğan=
+177899	Aşağıhacıbekir Mah.	Aşağıhacıbekir=
+177901	Aşıkoğlu Mah.	Aşıkoğlu=
+177905	Bahçekaradalak Mah.	Aşıkoğlu=|Bahçekaradalak=|Üçem=
+177907	Bektaşlı Mah.	Atatürk..=|Bektaşlı=
+177909	Belçarşak Mah.	Belçarşak~|Sarılar~|Uğrusarı=|Vurallar~|Yüceller~|Öcallar~
+177967	Beynam Mah.	Atatürk....=|Bahçelievler=|Beynam Konakları=|Beynam=|Beynam Çiftligi=|Beynam Çiftlik Mevkii=|Boyacılar Dostlar Çiftligi-~|Dağ Evleri=|Dostlar Çiftliği=|Giz Kent Bahçeevleri=|Gözde Bahçeevleri=|Güzel Bahçe Evleri=|Kale Boğazı=|Serhat Evleri=|Yenipınar=
+177931	Büyükbayat Mah.	Büyükbayat=|Küçükbayat=
+1976	Büyükboyalık Mah.	Büyükboyalık=|Büyükboyalık Sitesi=|Tarım İşletmeleri Müdürlüğü=
+177913	Büyükcamili Mah.	Bektaşlı=|Büyükcamili=|Küçükcamili=
+177917	Davdanlı Mah.	Davdanlı=
+177919	Derekışla Mah.	Derekışla=
+177923	Ergin Mah.	Aşıkoğlu=|Cumhuriyet Ergin=|Ergin Yaylası=|Hürriyet=|Kerişli=|Köseli=|İstiklal=
+177921	Eğribasan Mah.	Eğribasan=
+1966	Göztepe Mah.	1~|2~|21~|22~|23~|24~|25~|26~|27~|28~|Atatürk%|Mevlana@|Osman Gazi@|İbrahim Gürbüz@
+177925	Gülbağı Mah.	Gülbağı=
+99986	Hamidiye Mah.	1~|17~|18~|19~|2~|20~|3~|Ankara Hafta Sonu Evleri Hamidiye-=|Atatürk%|Hamidiye25.afet Konutu~
+177927	Hanburun Mah.	Hanburun=
+177929	Karahamzalı Mah.	Karahamzalı=
+1968	Kartaltepe Mah.	16@|28~|29~|30~|31~|32~|33~|34~|35@|36~|37~|38~|39~|40~|41~|42~|43~|45~|46~|47~|48~|49~|Abdülmecit~|Alparslan Türkeş%|Atatürk%|Mevlana@|Osman Gazi@|Sanayi@|Turgut Altınok@|İ.melih Gökçek@|İbrahim Gürbüz@|Şehit Aziz Çelik~
+1977	Kerişli Mah.	Kerişli=
+1983	Kesikköprü Erdemli Mah.	Erdemli 1 Kümesi=|Erdemli 2 Kümesi=|Sırapınar=
+1982	Kesikköprü Kızılırmak Mah.	23 Nisan~|Abdülkadir Arslan@|Ahmet Arif~|Dere~|Gazi Mustafa Kemal@|Kanalyolu 1~|Kırmızı Yayla=|Kızılırmak=|Mimar Sinan@|Mithat Paşa@|Santral@|Site-=|Yasin~|İnönü@|Şehit Teğmen~
+1981	Kesikköprü Mah.	19 Mayıs~|Atatürk... Myd.|Dere_1~|Enginoğlu~|Eğilmez Kale Mevki=|Göl=|Gül~|Kanalyolu 1~|Kanalyolu 2~|Karanfil~|Karayalçın@|Lale~|Maden@|Maden Kesikköprü=|Menekşe~|Mimar Sinan@|Mithat Paşa@|Raşit Ercan@|Reşat Nuri Güntekin~|Yavuz Selim@|İnönü@
+177933	Koçyayla Mah.	Koçyayla=
+177911	Kuyular Mah.	Büyükbıyık=|Küçükbıyık=
+1978	Köseli Mah.	Hürriyet=|Köseli 9.afet Konutu=|Köseli=
+177935	Küçükbayat Mah.	Büyükbayat=|Küçükbayat=|Şehriban=
+1974	Küçükboyalık Mah.	Küçükboyalık=
+177937	Küçükbıyık Mah.	Bektaşlı=|Küçükbıyık=
+177939	Küçükcamili Mah.	Küçükcamili=|Sarıhüyük=
+177941	Sarıhüyük Mah.	Sarıhüyük=|Yukarıhacıbekir=
+177945	Sofular Mah.	Karşıyaka Sofular=|Sofular=|Yeni Yerleşim=
+177947	Suyugüzel Mah.	Adıgüzel=|Karşıyaka Suyugüzel=|Suyugüzel=
+177943	Sırapınar Mah.	Erdemli 2 Kümesi=|Sırapınar=
+177951	Tatarhüyük Mah.	Tatarhüyük=
+177953	Tepeköy Mah.	Küçükcamili=|Tepeköy=|Yayla Tepeköy=
+1971	Tolköy Mah.	Tolköy=
+177957	Yaylalıözü Mah.	Yaylalıözü=
+1973	Yeniköy Mah.	Yeniköy=
+177959	Yeniyapançarşak Mah.	Hanburun=|Yeniyapançarşak=
+177961	Yeniyapanşeyhli Mah.	Karaburun=|Yeniyapanşeyhli 1=|Yeniyapanşeyhli 2=|Yeniyapanşeyhli 3=
+177963	Yukarıhacıbekir Mah.	Sarıhüyük=|Yukarıhacıbekir=
+1992	Yöreli Mah.	Yöreli 23 Afet Konutu=|Yöreli=
+1972	Çatalçeşme Mah.	Küçükboyalık=|Çatalçeşme=
+177915	Çatalören Mah.	Çatalören=
+1975	Çiğdemli Mah.	Çiğdemli 33 Afet Konutu=|Çiğdemli=
+177955	Üçem Mah.	Üçem=
+1967	İsmetpaşa Mah.	4~|5=|50~|51~|6~|Abazlı=|Alparslan Türkeş%|Şehit Cumhur Işık~
+177949	Şehriban Mah.	Şehriban=
+1969	Şentepe Mah.	10~|11~|12~|13~|14~|15~|16@|7~|8~|9~|Abazlı Mevkii=|Ankara Haftasonu Evleri Şentepe=|Atatürk%|Fatih Sultan Mehmet~|Kemal Şahin@|Mehmet Akif Ersoy~|Sanayi@|Yunus Emre~|Ziya Gökalp~|İ.melih Gökçek@|Şehit Murat Yalçın~|Şehit Önder Yıldırım~|Şentepe 1.afet Konutu~

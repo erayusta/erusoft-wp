@@ -1,0 +1,37 @@
+45094	Aksu Köyü	Aksu=
+45095	Aynalı Köyü	Aynalı=
+45097	Büyükçatak Köyü, Afet Evleri Mevkii	Kiziroğlu Afet Evleri=
+45096	Büyükçatak Köyü, Merkez Mevkii	Büyükçatak=
+41785	Cumhuriyet Mah.	3~|Beşir~|Kandil~|Nilüfer~|Piknik~|Sağlık~|Yahşi~|Yalçın~|Çakmak~|İlim Yolu 1~|İsrafil~|Şehit Anıl Kaan Aybek@|Şehit Ömercan Yekebağcı@
+45100	Doyumlu Köyü	Doyumlu=
+45101	Erdağı Köyü	Erdağı=
+45102	Ermişler Köyü	Ermişler=
+45103	Gölbaşı Köyü	Gölbaşı Köyün Kendisi=
+45104	Gölbaşı Köyü, Gölbaşı Mezra Mezrası	Gölbaşı Mezrası=
+45105	Harmanlı Köyü	Harmanlı=
+45108	Kalecik Köyü	Kalecik=
+45109	Karapınar Köyü	Karapınar=
+45110	Kayadibi Köyü	Kayadibi=
+45111	Kayalık Köyü, Köyiçi Mevkii	Köy İçi=
+45112	Kayalık Köyü, Tepe Mevkii	Tepe=
+41787	Kazım Karabekir Mah.	1~|15 Temmuz Şehitler Caddesi@|Ahmet Arslan@|Ahmet Yesevi@|Alev~|Alpertunga~|Ara~|Ayaz~|Aydın~|Banka~|Bilgin~|Birlik~|Cenub-i Garbi Kafkas@|Demir~|Dikmen~|Dr. Nevzat Doğan@|Emniyet~|Enerji~|Ertuğrul Gazi@|Fatih Sultan Mehmet@|Gezgin~|Gültepe~|Gültepen~|Güntepe~|Halit Paşa~|Hasır~|Hazine~|Hüseyin Aytemiz~|Kafkasya~|Kalecik@|Kamil Saraçoğlu@|Kara Murat~|Kazım Karabekir@|Melikşah@|Meçhul~|Nebioğlu~|Park~|Pınar~|Rençber~|Santral~|Sercan~|Sevgi~|Sultan Alparslan@|Timur~|Uzunyol~|Yardım~|Yeni~|Yunus Emre@|Yurt~|Yücel Çelikbilek@|Zinderen~|Özgür@|İnce~|Şehit Olgun Kurbanoğlu@|Şehit Selçuk Uray@|Şentepe~
+45113	Keçili Köyü	Keçili=
+45117	Kiziroğlu Köyü	Kiziroğlu=
+45118	Kurugöl Köyü	Kurugöl Köyün Kendisi=
+45119	Kurugöl Köyü, Beşevler Mezrası	Beşevler=
+45120	Küçükçatak Köyü	Küçükçatak=
+45115	Kırkpınar Köyü, Afetevleri Mevkii	Kırkpınar Afet Evleri=
+45116	Kırkpınar Köyü, Merkez Mevkii	Kırkpınar Köyün Kendisi=
+45114	Kırçiçeği Köyü	Kırçiçeği=
+45121	Ortalar Köyü	Ortalar=
+45122	Porsuklu Köyü	Porsuklu=
+45123	Taşlıca Köyü	Taşlıca Köyün Kendisi=
+45124	Taşlıca Köyü, Karatuzak Mevkii	Karatuzak=
+45125	Yaylacık Köyü	Yaylacık=
+45126	Yolboyu Köyü	Yolboyu=
+45098	Çamçavuş Köyü	Çamçavuş=
+45099	Çığrıklı Köyü	Çığrıklı=
+45106	İncesu Köyü	İncesu=
+45107	İncilipınar Köyü	İncilipınar=
+41786	İnkılap Mah.	4~|Diktaş~|Fatih Sultan Mehmet@|Kazım Karabekir@|Lise~|Meniye~|Yekebağcı~|Şehit Ömercan Yekebağcı@
+196571	İnönü Mah.	2=|Ahmet Arslan@|Alp~|Asya@|Ata~|Aşık Şenlik~|Bahçe~|Bayrak~|Bayır~|Buhara~|Bülbül~|Camii~|Doğu~|Eflatun~|Feza~|Genç~|Güzel~|Hasan Harakani~|Kültür~|Medine~|Nazlı~|Onur~|Orhan Gazi~|Piri Reis~|Sağlıklı~|Semerkant~|Tuna@|Türkistan@|Yıldız~|Çağlayan~|İlim Yolu~|Şeyh Şamil~

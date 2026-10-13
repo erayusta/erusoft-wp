@@ -1,0 +1,40 @@
+.eru-faq {
+	--eru-faq-accent: #1f6feb;
+	--eru-faq-border: rgba(127, 127, 127, .3);
+	--eru-faq-bg: transparent;
+	margin: 1.5em 0;
+	max-width: 100%;
+}
+.eru-faq__item {
+	border: 1px solid var(--eru-faq-border);
+	border-radius: 8px;
+	margin: 0 0 .6em;
+	background: var(--eru-faq-bg);
+	overflow: hidden;
+}
+.eru-faq__q {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 1em;
+	padding: .9em 1.1em;
+	font-weight: 600;
+	cursor: pointer;
+	list-style: none;
+}
+.eru-faq__q::-webkit-details-marker { display: none; }
+.eru-faq__q::after {
+	content: "";
+	flex: 0 0 .6em;
+	height: .6em;
+	border-right: 2px solid var(--eru-faq-accent);
+	border-bottom: 2px solid var(--eru-faq-accent);
+	transform: rotate(45deg);
+	transition: transform .2s ease;
+}
+.eru-faq__item[open] > .eru-faq__q::after { transform: rotate(-135deg); }
+.eru-faq__q:focus-visible { outline: 2px solid var(--eru-faq-accent); outline-offset: -2px; }
+.eru-faq__a { padding: 0 1.1em 1em; }
+.eru-faq__a > :first-child { margin-top: 0; }
+.eru-faq__a > :last-child { margin-bottom: 0; }
+@media (prefers-reduced-motion: reduce) { .eru-faq__q::after { transition: none; } }

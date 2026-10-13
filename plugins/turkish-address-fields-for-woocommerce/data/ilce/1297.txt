@@ -1,0 +1,81 @@
+39397	Akdoğan Köyü	Akdoğan=|Köyün Kendisi..=
+39398	Akdoğan Köyü, Karşıyaka Mezrası	Karşıyaka=
+39399	Akpınar Köyü	1027~|Akpınar=
+31450	Altınkum Mah.	1002~|1003~|1004~|103.@|Barla@|Cihangir~|Demirköprü~|Hayalkent 1~|Hayalkent~|Karşıyaka 1~|Karşıyaka~|Kumrular~|Mavigöl~|Meltem 1~|Meltem~|Siteler~|Tepe~|Şelale~
+31449	Ağa Mah.	2.@|6.@|Edet 1~|Edet~|Gülbaba~|Hıdırellez~|Ispartalılar~|Ispartalılar1~|Kuzgunlar~|Köroğlu~|Taktak~|Taktak1~
+39391	Ağılköy Köyü	Ağılköy=|Köyün Kendisi 1=
+39392	Ağılköy Köyü, Harmanyeri Mevkii	Harmanyeri 1=|Harmanyeri 2=|Harmanyeri=
+39400	Aşağı Gökdere Köyü	Aşağı Gökdere=
+39401	Bademli Köyü	Bademli=|Bademlii=
+196819	Baklan Köyü	4 Nolu-~|7 Nolu~|8 Nolu~|Baklan 2~|Baklan 3~|Baklan 4~|Baklan 5~|Baklan 6~|Baklan~|Baklan1~
+39404	Balkırı Köyü	104.@|104/1~|Balkırı=|Harmanyeri 2=
+31486	Barla Köyü, Akmescit Mevkii	107.-~|108-~|116.~|130.~|131.~|133~|134.~|135~|136.~|137.~|138.~|139.~|140.~|141.~|142.~|145.~|6.~|7.~
+31487	Barla Köyü, Baş Mevkii	105.~|107.~|108.-~|109.~|110.~|111.~|112.~|113.-~|114.~|115.~|116.~|117.-~|118.~|119.~|120~|121.~|123.~|124.~|125~|126.~|127.~|128.~|129.~|130.~|131.~|132.~|133~|133.-~|134.-~|135.-~|136.~|4.~|5.~
+31488	Barla Köyü, Boyalı Mevkii	Bağcığaz=|Dağ Yakası=|Dikmen=|Eğirdir Senirkent@|Göl Yakası=|Kamışlıbük=|Söğütlü -~|Çorak=
+31489	Barla Köyü, Camikebir Mevkii	1. Cumhuriyet~|10.~|101.~|102.~|103.~|104.~|105.~|106.~|107.~|107.-~|108.~|11.~|11/1~|116.~|118.~|12~|120~|122~|145.~|146.~|166.~|168.~|169.~|170.~|172~|173.~|174~|175~|176~|177.~|177.-~|178.~|178.-~|179.~|181.-~|182~|183.~|184.~|185.~|185.-~|192.~|193.~|194.~|197.~|2. Demiralp~|201~|203~|206.~|208.~|328.~|4.~|6.~|7.~|8.~|Camikebir Kümevleri=|Çorak=
+31490	Barla Köyü, Pazar Mevkii	142.~|142.-~|144.-~|146.~|148.-~|7.~|9.~|9.-~
+31491	Barla Köyü, Yeni Mevkii	11/1~|12~|13.~|14.~|15.~|16.~|16/1~|17.~|18.~|189~|19.~|191.~|2. Demiralp~|20.~|208.~|209.~|21.~|210.~|211.~|212.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|22~|220.~|221.~|222.~|223.~|224.~|225.~|226.~|227.~|228.~|229.~|230.~|231.~|232.~|233.~|234.~|235.~|236.~|237.~|238.~|239.~|24.~|240.~|241.~|242.~|243.~|244.~|245~|246~|247.~|248.~|249-~|250.~|251.~|252.~|253.~|254.~|255.~|256.~|257~|257.~|258.~|259.~|260.~|261.~|262-~|263.~|264~|265~|266-~|267-~|268-~|269-~|270-~|271-~|272-~|273~|274~|275-~|276~|277-~|278~|279-~|280.~|281.~|282.~|283.~|284.~|285.~|286.~|287.~|288.~|289.~|290.~|291-~|292~|293.~|295.~|296~|296/1~|297~|298.~|299.~|3.~|300.-~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|311~|312.-~|313~|313.~|314.~|315.~|316.~|317.~|318.~|319.~|320.~|321.~|322.~|323.~|324.~|325.~|326.~|327.~|328.~|329.~|330.~|9.~|Bağören=|Ova-~|Söğütlü~
+31492	Barla Köyü, Yokuşbaşı Mevkii	13.~|14.~|144.~|146.~|147.~|148.~|149.-~|150.~|151.~|157.~|158.~|159.-~|160.~|161.~|181.~|182~|182-~|185.~|187~|188.~|189~|190.~|191.~|2. Demiralp~|246~|8.~|9.~|Yokuşbaşı=
+31451	Bağbuyan Mah.	Baybuğan Mevki=|Çay 1~|Ömer Şengöl@
+31452	Bağlar Mah.	102.@|102./1~|1021~|Barlas~|Dereli 1~|Dereli~|Güngör~|Hafız 2~|Hafız~|Halil Üstün@|Kabalı~|Meseyin 2~|Meseyin~|Meseyin Çkmazı~|Oktar~|Trafikçi Yüksel~|Çayderesi~
+39425	Bağören Köyü	Bağören=
+39402	Bağıcık Köyü	Bağıcık=
+39403	Bağıllı Köyü	Bağıllı=
+39426	Beydere Köyü, Merkez Mevkii	Merkez=
+39427	Beydere Köyü, Sahil Mevkii	Sahil=
+31453	Camii Mah.	1015~|1016~|1030~|2.@|3.@|4.@|Atayolu@|Ağalar 1~|Ağalar 2~|Ağalar~|Derya~|Dokuzoğlu~|Dr. İsa Köklü@|Esma Sultan 2~|Esma Sultan~|Hacımemişler~|Hükümet~|Hüsamettin Tanış@|Kale~|Keskinler~|Kunduracılar~|Kuruçeşme~|Kuş~|Medrese~|Oduncular~|Pazar~|Sivişler~|Uzun~|Çapçı~|Çınar~|İplik Pazarı~
+31454	Demirkapı Mah.	2.@|Bülbül 1~|Dokuzoğlu~|Dr. İsa Köklü@|Hüsamettin Tanış@|Karadayı~|Müftüler~|Ortaklar~|İplik Pazarı~|Şenler~|Şirin~
+39408	Eyüpler Köyü	Eyüpler=
+39406	Eyüpler Köyü, Hacıramazanlar Mezrası	Hacıramazanlar=
+39407	Eyüpler Köyü, Çiftlik Mezrası	Çiftlik=
+183572	Göktaş Köyü	Fatma Pınarı~|Liman 1~|Liman 2~|Liman 3~|Liman~|Meydan~|Sahil Yolu 1~|Sahil Yolu~|Yanıkevler 2~|Yanıkevler~|Ömer Şengöl@
+31474	Gökçehöyük Köyü, Cumhuriyet Mevkii	Celal Bayar~|Derviş.~|Gazi Hüseyin Açıkkol 1~|Gazi Hüseyin Açıkkol~|Hacı Veli 1~|Hacı Veli~|Halil Efendi~|Karaoğlan~|Topal İbrahim~|İsmet İnönü~
+31475	Gökçehöyük Köyü, Hürriyet Mevkii	Ali Bozkurt~|Atatürk~|Maraşal Fevzi Çakmak~|Mucukoğlu Bayram Korkmaz~|Tataahmet~|Yüzbaşı Musa Demiralay~|İsmet İnönü~
+31477	Gökçehöyük Köyü, Zafer Mevkii	Adnan Menderes~|Ayanoğlu~|Celal Bayar~|Hacı Veli~|Hasan Çavuş~|Karaoğlan~|Molla Mahmut Ünal~|Polis Mehmet Demirbilek~
+31476	Gökçehöyük Köyü, İstiklal Mevkii	Adnan Menderes~|Atatürk~|Benli Mehmet~|Karaman~|Muhtar Hasan Ali Yüceer~|Muhtar Hasan Çetinkaya~|Polis Mehmet Demirbilek~|Öğretmen Keskin Hafız~|Öğretmen Yusuf Değirmencioğlu~|İmam Hüseyin Karabuğa~|İsmet İnönü~|İstiklal~
+31456	Hacışeyh Mah.	1027~|6.@|6./1~|Alebeler~|Demokrat~|Hıdırellez~|Hıdırellez1~|Ispartalılar~|Kırkayak~|Seyraniler~|Taktaklar~|Şaymanlar 1~|Şaymanlar~
+31457	Hamam Mah.	2.@|6.@|Asmalı~|Dervişler~|Dr. İsa Köklü@|Haşmet~|Hüsamettin Tanış@|Köroğlu~|Köseler~|Köseler1~|Prof.dr.hilmi Akın~|Tahirler~|Tiryaki~|Tufan~|Yorgancıoğlu~|Çakırlar~
+39409	Havutlu Köyü	Havutlu=
+39393	Haymana Köyü	Merkez=
+39395	Haymana Köyü, Cirbeli Mezrası	Cirbeli=
+39396	Haymana Köyü, Deniz Altı Mezrası	Denizaltı=|Kırıntı=
+39394	Haymana Köyü, Koca Cesme Mezrası	Koca Çeşme=
+31460	Kale Mah.	Atayolu@|Ballı~|Camiyanı 1~|Camiyanı~|Kaleburnu~|Molla~|Omarağalar~|Uzun 1~|Uzun~
+31461	Katip Mah.	2.@|6.@|6./1~|Başkatip~|Dervişler~|Dr. İsa Köklü@|Fırınlı~|Haşmet~|Hüsamettin Tanış@|Karçınzade~|Merdivenli 1~|Merdivenli~|Müftüler~|Ortaklar~|Prof.dr.hilmi Akın~|Şenler~|Şirin~
+31463	Konya Bucağı Mah.	1034~|Bekçitaşı~|Büklümoğlu 1~|Büklümoğlu~|Hacıköseler~|Harmanyeri 1~|Harmanyeri 2~|Harmanyeri 3~|Harmanyeri~|Haşimağa 1~|Haşimağa~|Hobanoğlu~|Manılar~|Prof.dr.yıldız Kuzgun~|Çayderesi~|Ömer Şengöl 1~|Ömer Şengöl 2~|Ömer Şengöl@|Şelli~
+31464	Kubbeli Mah.	1030~|5.@|Demokrat~|Dokuzoğlu~|Esma Sultan 2~|Esma Sultan~|Kaynak~|Kırkayak~|Mehmet Yiğitbaşı@|Mümin 1~|Mümin~|Ortaklar~|Prof.dr.ömer Fevzi Öztığ~|Rüzgarlı 1~|Rüzgarlı~
+39410	Kırıntı Köyü	Kırıntı=
+31462	Kızılçubuk Mah.	1033~|104.@|Armutlu~|Bereket~|Bülbül~|Cesur 1~|Cesur~|Dr. İsa Köklü@|Elma Çiçeği~|Fidan~|Gayret~|Gülbahçe 1~|Gülbahçe 2~|Gülbahçe~|Güllük 3~|Halil Üstün@|Hancılar~|Kanallı 1~|Kanallı~|Kağnılı 1~|Kağnılı~|Kırlangıç 1~|Kırlangıç 2~|Kırlangıç 3~|Kırlangıç 4~|Kırlangıç~|Kısmet~|Kızılcık 1~|Kızılcık~|Murat 1~|Murat~|Nalıncı 1~|Nalıncı 2~|Nalıncı~|Nalıncı Çıkmazı~|Susam~|Çiftlik Yolu~|Çilingir~|Ömer Şengöl@
+39411	Mahmatlar Köyü	Akdikmen~|Mahmatlar=
+31465	Menderes Mah.	1022~|1023~|1024~|104.@|Bulucu~|Dr. İsa Köklü@|Gelincik~|Gökkuşağı~|Kanarya 4~|Lale~|Leylak~|Menekşe~|Modernevler~|Nergis~|Orkide~|Ortanca~|Pamuklu 1~|Pamuklu~|Papatya~|Sümbül~|Zambak~
+31478	Pazarköy Köyü, Aşağı Mevkii	1 Nolu 1~|1 Nolu~|10 Nolu~|11 Nolu~|2 Nolu 1~|2 Nolu~|Belediye-~
+31480	Pazarköy Köyü, Yeni Mevkii	11 Nolu~|12-~|2 Nolu-~|3 Nolu~|6 Nolu 1~|6 Nolu~|7 Nolu 1~|7~
+31481	Pazarköy Köyü, Yukarı Mevkii	1 Nolu~|10 Nolu 1~|10 Nolu~|11 Nolu~|12~|2 Nolu 2~|2 Nolu 3~|3 Nolu 1~|4 Nolu~|5 Nolu~|Belediye-~
+31467	Poyraz Mah.	1027~|5.@|6.@|Demokrat~|Dolmalıbahçe 2~|Dolmalıbahçe~|Gazi 1~|Gazi~|Mümin~|Rüzgarlı 1~|Rüzgarlı 2~|Rüzgarlı~
+31466	Pınar Pazarı Mah.	1019~|1020~|Balkırı=|Cesur~|Güllük 1~|Güllük 2~|Güllük 3~|Güllük~|Halil Üstün 1~|Halil Üstün 2~|Halil Üstün 3~|Halil Üstün@|Kanallı 1~|Kızılcık~|Meseyin 1~|Meseyin 2~|Meseyin~|Murat~|Pınar 1~|Pınar Pazarı Koop.=|Pınar~|Takırlar~|Taştepe Korkmazlar Koop.=|Şelli 1~|Şelli~
+31468	Sanayi Mah.	1017~|1018~|102.@|1028~|1031~|1032~|Bağkur Evleri=|Budak~|Demirci~|Fenerli~|Goncagül 1~|Goncagül~|Göçerler~|Halil Üstün@|Hurdacılar 1~|Hurdacılar~|Kabalı~|Kavakdibi 1~|Kavakdibi~|Keresteciler~|Kiremitçi~|Kireşçi~|Mecnun 1~|Mecnun 2~|Mecnun~|Motorcular~|Mütevelli~|Prof.dr.yıldız Kuzgun~|Saraç~|Uncu 1~|Uncu~|Çayderesi~|Ömer Şengöl 3~|Ömer Şengöl@
+31482	Sarıidris Beldesi, Ağa Mah.	Abık~|Akdikmen~|Atpınar@|Aydınlık~|Cumhuriyet Myd.|Değirmen~|Gamalı~|Gaymakam~|Gumpir~|Hecin~|Hizar~|Köse~|Mevlana~|Millet@|Selvi 2~|Selvi~|Selvi1~|Sinama~|Ufuk~|Vatan@|Yakuplar~|Çınar~
+31483	Sarıidris Beldesi, Dere Mah.	Abık~|Arzu~|Atpınar 1~|Atpınar 3~|Atpınar@|Başpınar@|Cumhuriyet Myd.|Güven~|Hacıamat~|Kartal~|Keller~|Nergiz~|Saat~|Selvi~|Selvi1~|Yayla~|Çiğdem~|Çürükler~|Şehit Sezgin Uludağ~
+31484	Sarıidris Beldesi, Hürriyet Mah.	Akdikmen~|Arazi Yolu~|Atan6~|Ataş~|Ballı~|Bartlıca 1~|Bartlıca~|Bosa 10~|Bosa 11~|Bosa~|Değirmen~|Erdem~|Erenler 1~|Erenler~|Fatih@|Gurucuklar~|Göztepe=|Gül~|Gülistan~|Gılcılar~|Halil İbrahim Akpınar~|Kale@|Kale Çıkmazı~|Karabayır~|Karabayır1~|Karabayır1 Çıkmazı~|Karanfil~|Karkın Göl 1~|Karkın Göl~|Karkın Göl Çıkmazı 2~|Karkın Konya 1~|Karkın Konya 2~|Karkın Konya 3~|Karkın Konya 4~|Karkın Konya 5~|Karkın Konya 6~|Karkın Konya@|Karkın Konya Çıkmazı~|Lale~|Menderes~|Mercan~|Millet 1~|Millet 11~|Millet@|Nar~|Sağlık 1~|Sağlık 10~|Sağlık@|Sönmez~|Töngüşlü~|Vatan 1~|Vatan 10~|Vatan 2~|Vatan 3~|Vatan@|Vatan1~|Zambak~|Zambak1~|Zümrüt 10~|Zümrüt~|Çalıseki~|Çam~|Çile~|Çukurören~|Çuval~|Çınar 1~|Çınar~|Öksüz~|Özkanlar~|Şampık~|Şehit Ali Kocabaş@|Şehit Ömer Halis Demir~
+31485	Sarıidris Beldesi, İstiklal Mah.	Abık~|Daşbaş~|Erenler 5~|Erenler~|Kartal~|Köse~|Kızıldere~|Memur~|Millet 1~|Millet@|Sönmez 1~|Sönmez 2~|Sönmez 4~|Sönmez 5~|Sönmez 6~|Sönmez~|Ufuk~|Çatlak~|Çatmalı~|Çile~|Çiğdem 1~|Çiğdem 3~|Çiğdem~
+31469	Sekibağ Mah.	1025~|1026~|1029~|Begonya 1~|Begonya 2~|Begonya~|Ceylan~|Güneş 1~|Güneş~|Kanarya 1~|Kanarya 2~|Kanarya 3~|Kanarya 4~|Kanarya~|Yonca~|Çıkmaz~
+39412	Serpil Köyü	Köyün Kendisi 2=|Çaltı Arası=
+39413	Serpil Köyü, Çaltı Arası Mezrası	Çaltı Arası=|Çiftlik=
+39414	Sevinçbey Köyü	Isparta-eğirdir Yolu@|Merkez=
+39415	Sevinçbey Köyü, Beşevler Mevkii	Beşevler=|Isparta-eğirdir Yolu@
+31470	Seydim Mah.	5.@|Kayalar~|Kaynak~|Mehmet Yiğitbaşı@|Prof.dr.ömer Fevzi Öztığ~|Tabaklar~
+39416	Sipahiler Köyü, Erenler Mevkii	Erenler=
+39417	Sipahiler Köyü, Merkez Mevkii	Merkez=
+39418	Sorkuncak Köyü	Sorkuncak=
+39419	Tepeli Köyü	Tepeli=
+31471	Yazla Mah.	1001~|1010~|1011~|5.@|Doruk~|Haydar~|Isparta-eğirdir Yolu%|Komando 1~|Komando 2~|Komando 3~|Komando 4~|Komando 5~|Komando 6~|Komando~|Merkez=|Mini~|Okul~|Prof. Dr. Turan Yazgan 1~|Prof. Dr. Turan Yazgan@|Serçe~|Söğüt~|Türbeler 1~|Türbeler~|Zeyniler~|Çağla~|Çiftlik~|Üniversite~|İbrahim Gençay@|Şeyh Burhanettin~
+31472	Yeni Mah.	1026~|1029~|Altınbaşak~|Bizim~|Ceylan~|Dr. İsa Köklü@|Gökkuşağı~|Günışığı~|Hastane İçi=|Kanal~|Kanarya 4~|Kanarya~|Menekşe~|Nergis~|Pamuklu~|Sakinler~|Yakamoz~|Yaşam~|Çamlık~|Çıkmaz~
+31473	Yeşilada Mah.	1012~|1013~|1014~|Atayolu 1~|Atayolu 2~|Atayolu@|Bestelciler~|Büyük Pazarcık~|Camii 1~|Camii~|Civankıyısı 1~|Civankıyısı 2~|Civankıyısı~|Eski Bakkal~|Eski İskele~|Karabağlar 1~|Karabağlar 2~|Karabağlar 3~|Karabağlar 4~|Karabağlar=|Konak~|Köşkönü 1~|Köşkönü~|Pirikıyısı~|Sirkeciler~|Uzunboğaz~|Üzümcüler 1~|Üzümcüler~
+39421	Yukarı Gökdere Köyü	Kırıntı=|Yukarı Gökdere=
+39422	Yuvalı Köyü	Köyün Kendisi 1=|Köyün Kendisi 2=
+39424	Yuvalı Köyü, Bahçıvan Mezrası	Bahçıvan=
+39423	Yuvalı Köyü, Yelliler Mezrası	Yelliler 1=|Yelliler=
+39420	Yılgıncak Köyü	Yılgıncak=
+39405	Çay Köyü	Bağıllı=|Harmanyeri 1=|Köyün Kendisi 1=|Köyün Kendisi..=|Çay=
+31458	İmaret Mah.	2.@|2./1~|Asmalı~|Açelya~|Açelya1~|Demirciler~|Dr. İsa Köklü@|Gülbaba~|Hayrat 1~|Hayrat~|Hüsamettin Tanış@|Ispartalılar~|Yorgancıoğlu~
+31459	İstasyon Mah.	1005~|1006~|1007~|1008~|1009~|Altın~|Bahçelievler~|Devlet Demiryolları~|Gaziler@|Kumsal~|Mavigöl~|Orman İşletme Müdürlüğü~|Siteler~|Yeşiltepe 1~|Yeşiltepe 2~|Yeşiltepe 3~|Yeşiltepe 4~|Yeşiltepe~|İbrahim Gençay@|İstasyon@

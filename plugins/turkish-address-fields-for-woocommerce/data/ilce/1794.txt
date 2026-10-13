@@ -1,0 +1,57 @@
+97941	Aksu Köyü	Aksu=
+97940	Açma Köyü	Açma=
+91219	Açma Mah.	103.~|71.@|71/1~|726.-~|801.~|802.~|803~|804.~|805.~|806.~|807.~|808.~|809~|810.-~|811~|812~|813.~|814.~|815.~|816.~|817.~|818.~|819.~|820~|821.~|822.~|823.~|823.-~|824.~|825.~|Ağa~|Aşık Veysel~|Batı Çıkmaz-~|Göl~|Harman Çayır~|Karacaoğlan~|Necip Fazıl@|Necmettin Erbakan@|Okul~|Sahil~|Tahir Efendi~|Veysel Karani~|Yunus Emre%|Çayır~|Çobanoğlu~|İpek~|Şişçioğlu~
+97942	Bakacak Köyü	Bakacak=|Cırcır~|Kovancı~
+97952	Bekiroğlu Köyü, Alt Mevkii	Alt=
+97951	Bekiroğlu Köyü, Hacıoğlu Mevkii	Hacıoğlu=
+97954	Bekiroğlu Köyü, Kum Mevkii	Kum=|Zekeriya=
+97953	Bekiroğlu Köyü, Merkez Mevkii	Merkez=|Yeşilyayla=
+91227	Cumakırı Mah.	204.~|901.~|902.~|903.~|904.~|905.~|906.~|907.~|908.~|909.-~|Göl~|Gümüşhane~|Org.rasim Betir@|Sahil~|Çobanoğlu~
+97950	Değirmentepe Köyü, Delihüseyin Mevkii	Delihüseyin=
+97949	Değirmentepe Köyü, Dursunlu Mevkii	Dursunlu=|Hacıoğlu=
+97947	Değirmentepe Köyü, Kızılcık Mevkii	Kızılcık=
+97948	Değirmentepe Köyü, Merkez Mevkii	Merkez=
+91225	Esen Mah.	412.~|421.~|501.~|502.~|503.~|504.~|505.~|506.~|507.~|508.~|509.~|510.~|511.~|512.~|513.~|514.~|515.~|516.~|517.~|518.~|519.~|520.~|521.~|522.~|523.~|61.@|612.~|614.~|Cumhuriyet@|Mehmet Akif@|Postacı Halil Düzenli~|Sakarya~|Çınarlı@|İlim~
+91220	Fatih Mah.	701.~|702.~|703.~|704.~|705.~|706.~|707.~|708.~|709.~|71.@|710.~|711.~|712.~|713.~|714.~|715.~|716~|717~|718~|719.~|720.~|721.~|722.~|723.~|724.~|725.~|726.~|727.~|728.~|Akşemseddin~|Alsancak~|Battal Gazi~|Bayrak~|Büyük Melen~|Fehmi Coşkun@|Hasan Tahsin~|Hilal~|Kanuni@|Kibar~|Köroğlu~|Mimar~|Narin~|Nazır~|Vezir~|Yeşil~|Yunus Emre%|Çeşmeli~|İpek~|İsmet Paşa~|Şahin~
+97955	Güzeldere Köyü	Güzeldere=
+97956	Güzeldere Köyü, Deli Mehmet Mevkii	Deli Mehmet=
+97957	Hacısüleymanbey Köyü	Alt=|Hacısüleymanbey=
+97958	Hacıyakup Köyü	Açma=|Hacıyakup=|Orta=
+97959	Hamamüstü Köyü, Cevizlik Mevkii	Cevizlik=
+97963	Hamamüstü Köyü, Dere Mevkii	Dere=
+97962	Hamamüstü Köyü, Gölcük Mevkii	Gölcük=|Karaca=
+97961	Hamamüstü Köyü, Merkez Mevkii	Merkez=
+97960	Hamamüstü Köyü, Orta Mevkii	Hacıyakup=|Orta=
+97965	Kemeryanı Köyü	Kemeryanı=
+99310	Kuyudüzü Mah.	1001.~|1002.~|1003.~|1004.~|1005.~|1006.~|1007.~|1008.~|1009~|1010~|1011~|1012.~|1013.~|1014.-~|1015.~|1015.-~|1016.~|1016.-~|1017.-~|1018.~|1019.~|1020.~|1021.~|1022.~|411.~|Kalıcı Konutlar@|Kuyudüzü 3~|Kuyudüzü/6~|Kıran Myd.
+91222	Kültür Mah.	101.~|102~|103.~|104.~|105.~|106.~|107.~|Ahmet Kabaklı~|Ahmet Niyazi Tonya~|Akbulut~|Arapkirli~|Balay~|Barbaros@|Beyazıt~|Cengiz Topel~|Coşkun~|Cumhuriyet@|Fatih@|Fisko~|Garaj~|Gazi Osmanpaşa~|Gül~|Güney~|Hafız Musa~|Hastane~|Huzur~|Hürriyet~|Kurs~|Kurtuluş~|Mehmet Akif@|Mehmet Ali Atasoy~|Metin Sönmez~|Necmettin Erbakan@|Okul~|Org.rasim Betir@|Parlak~|Siviloğlu~|Sultan~|Yavuz~|Yavuzselim~|Çınar~|İnci~|İpek~|Şentürk~
+97967	Muhapdede Köyü	Muhapdede=
+97980	Sarıdere Köyü	Merkez=|Sarıdere=
+97977	Saçmalıpınar Köyü, Albayrak Mevkii	Albayrak=|Orta=
+97976	Saçmalıpınar Köyü, Balkaya Mevkii	Balkaya=
+97969	Saçmalıpınar Köyü, Bıçkı Mevkii	Bıçkı=
+97971	Saçmalıpınar Köyü, Güney Mevkii	Güney=
+97968	Saçmalıpınar Köyü, Karamahmut Mevkii	Karamahmut=
+97973	Saçmalıpınar Köyü, Kurtdüzü Mevkii	Kurtdüzü=
+97970	Saçmalıpınar Köyü, Kıran Mevkii	Kıran=
+97978	Saçmalıpınar Köyü, Orta Mevkii	Albayrak=|Kıran=|Orta=
+97974	Saçmalıpınar Köyü, Yanık 1 Mevkii	Yanık 1=
+97975	Saçmalıpınar Köyü, Yanık 2 Mevkii	Yanık 2=
+97979	Saçmalıpınar Köyü, Yeni Mevkii	Yeni=
+97972	Saçmalıpınar Köyü, Şimşirlitepe Mevkii	Orta=|Şimşirlitepe=
+97981	Taşlık Köyü	Taşlık=
+97982	Yazlık Köyü	Yazlık~|Yazlık.=
+139654	Yazlık Köyü, Yazlık (mücavir) Mevkii	41.@|419.~|Yazlık~
+91226	Yazıpınar Mah.	1014.=|401.~|402.~|403.~|404.~|405.~|406.~|407.~|408.~|409.~|41.@|410.~|411.~|412.~|413.~|415.~|416.~|417.~|418.~|419.~|420.~|421.~|422~|423.~|424.~|425.~|426.~|427.~|428.~|429.~|430.~|431.~|431.-~|513.~|Bağlantı Yolu@|Cumhuriyet@|Genç~|Kalıcı Konutlar_1=|Yazlık~|Zeki Ergezen 1~|Zeki Ergezen%|Çalışkan-~|Çınarlı@|Şehit Ercan@|Şirin~
+91223	Yeni Mah.	301.~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|310.~|311.~|312.~|41.@|515.~|519.~|Ahmet Kabaklı~|Balay~|Barbaros@|Cumhuriyet@|Didem~|Fetih-~|Gazi Osmanpaşa~|Genç~|Gül~|Hafız Musa~|Hastane~|Karanfil~|Lale~|Mehmet Akif@|Prof.dr.aykut Barka~|Yavuz~|Yazlık~|Zafer Çıkmazı~|İnci~
+91224	Yeşil Mah.	201.~|202.~|203.~|204.~|205.~|206.~|207.~|208.~|209.~|210.~|211.~|212.~|213.~|214.~|215.~|216.~|821.~|Akıncı~|Aşık Veysel~|Başak~|Cami~|Değirmen~|Garaj~|Gedik~|Gök~|Gümüşhane~|Hürriyet~|Kurs~|Mehmet Akif@|Necip Fazıl@|Necmettin Erbakan@|Org.rasim Betir@|Tufan~|Umut~|Yazlık~|Yeniyol~
+97983	Yeşilova Köyü	Yazlık.=|Yeşilova=
+97984	Yunusefendi Köyü, Cino Mevkii	Cino=
+97985	Yunusefendi Köyü, Merkez Mevkii	Merkez=
+97986	Zekeriya Köyü	Zekeriya=
+97945	Çamlıbel Köyü, Dere Mevkii	Dere=
+97943	Çamlıbel Köyü, Karaca Mevkii	Karaca=
+97944	Çamlıbel Köyü, Merkez Mevkii	Merkez=
+97946	Çay Köyü	Aksu=|Hacısüleymanbey=|Çay=
+91221	İmamlar Mah.	502.~|601.~|602.~|603.~|604.~|605.~|606.~|607.~|608~|609.~|61.@|610.~|611.~|612.~|613.~|614.~|615.~|616.~|617.~|618.-~|619.~|62.@|Atatürk~|Atlas~|Aydın~|Bahar~|Barış~|Bayram Şengül~|Can~|Cumhuriyet@|Esnaf 1~|Esnaf 2~|Fabrika~|Fehmi Coşkun@|Hasan Çavuş~|Işık~|K.büyükkanber~|Kanuni@|Keleşoğlu~|Köroğlu~|Kültür~|Millet~|Mimar~|Ofis~|Pazar~|Sakarya~|Sanayi 1~|Sanayi 2~|Sanayi 3~|Seher~|Türkseven~|Volkan~|Yıldırım~|Çevik~|İlim~|İsmet Paşa~|Şafak~
+97964	İçmeler Köyü	Düzce / Gölyaka Yolu@|İçmeler=

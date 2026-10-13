@@ -1,0 +1,399 @@
+37259	Akgedik Köyü, Gümüşlük Mevkii	Gümüşlük Mevkii Kb.=
+37258	Akgedik Köyü, Hacılar Mevkii	Hacılar (hacılı) Mevkii Kb.=
+37262	Akgedik Köyü, Kayalçı Mevkii	Kayalçı (kalaycı) Mevkii K.b.=
+37263	Akgedik Köyü, Murathanoğlu Mevkii	Murathanoğlu Mevkii Kb.=
+37260	Akgedik Köyü, Çerkezli Mevkii	Çerkezli Mevkii Kb.=
+37261	Akgedik Köyü, İskan Mevkii	İskan Mevkii Kb.=
+37265	Akhisar Köyü	Akhisar Köyün Kendisi=
+37264	Akhisar Köyü, Merkez Mevkii	Akhisar Merkez (mezra) Mevkii Kb.=
+37334	Akocak Köyü, Kızılkaya Yayla Evleri	Kızılkaya Yaylası=
+37333	Akocak Köyü, Merkez Mevkii	Aşağıağa Kb=
+37266	Akpınar Köyü, Merkez Mevkii	Akpınar Kb=
+37065	Aksu Köyü, Merkez Mevkii	Aksu Merkez Kb.=
+37073	Aktutan Köyü, Alamanlı Mevkii	Alamanlı Kb=
+37066	Aktutan Köyü, Bektaşlı Mevkii	Bektaşlı Kb=
+37069	Aktutan Köyü, Cabri Mevkii	Cebri Kb=
+37072	Aktutan Köyü, Cücüklü Mevkii	Cücüklü Mevkii=
+37077	Aktutan Köyü, Esentepe Mevkii	Esentepe (istiforlü)=
+37075	Aktutan Köyü, Giretli Mevkii	Ciretli Kb=
+37076	Aktutan Köyü, Hacılı Mevkii	Hacılı=
+37071	Aktutan Köyü, Muzgulu Mevkii	Muzgulu=
+37070	Aktutan Köyü, Orta Mevkii	Orta Kb.=
+37068	Aktutan Köyü, Tarazalı Mevkii	Tarazalı Kb.=
+37074	Aktutan Köyü, Tefil Mevkii	Tefil Kb.=
+37078	Aktutan Köyü, Temürlü Mevkii	Temürlü Kb.=
+37067	Aktutan Köyü, Toramanlı Mevkii	Toramanlı=
+37257	Akçahisar Köyü, Merkez Mevkii	Akçahisar Merkez Kb.=|Gümüşhane Bayburt@
+183724	Akçakale Mah.	Akçakale Yaylası=|Bahçelievler=|Bölüklü Kb=|Cevizlik Kb=|Demirciler Kb=|Dsi=|Esentepe Kb=|Gabanbaşı Kb=|Kömürdere=|Parti Yaylası=|Tataroğlu Kb=|İpekyolu~
+37079	Alemdar Köyü, Alemdar Mevkii	Alemdar Kb.=
+37080	Alemdar Köyü, Karşı Mevkii	Karşı Kb.=
+37336	Alçakdere Köyü, Alçakdere Mevkii	Alçakdere Kb.=|Fuskonut=
+37335	Alçakdere Köyü, Alçakdere Yaylası Yayla Evleri	Ortakıran Yaylası K.b.=
+37267	Arduç Köyü, Merkez Mevkii	Ardıç Merkez Mevkii Kb.=
+37345	Arslanca Köyü, Arslanca Yayla Evleri	Arslanca Yaylası Kb.=
+37339	Arslanca Köyü, Aşağı Zuvas Yayla Evleri	Aşağı Zuvas Yaylası Kb.=
+37350	Arslanca Köyü, Balahor Yaylası 2 Yayla Evleri	Balahor Yaylası 2 Kb.=
+37349	Arslanca Köyü, Balahor Yaylası Yayla Evleri	Balahor Yaylası 1 Kb.=
+37341	Arslanca Köyü, Büyük Çimen Yayla Evleri	Büyük Çimen Yaylası Kb.=
+37342	Arslanca Köyü, Değirmenler Mevkii	Değirmenler Kb.=
+37340	Arslanca Köyü, Küçük Çimen Yayla Evleri	Küçük Çimen Yaylası Kb.=
+37344	Arslanca Köyü, Nöbünt Yayla Evleri	Nöbünt Yaylası Kb.=
+37347	Arslanca Köyü, Orta Mevkii	Arslanca Orta Mevkii Kb.=
+37348	Arslanca Köyü, Satıroğlu Mevkii	Satıroğlu Mevkii Kb.=
+37337	Arslanca Köyü, Yeni Yayla Yayla Evleri	Arslanca Yeni Yayla Yaylası Kb.=
+37338	Arslanca Köyü, Yukarı Zuvas Yayla Evleri	Yukarı Zuvas Yaylası Kb.=
+37343	Arslanca Köyü, Çatalçayır Yayla Evleri	Çatalçayır Yaylası Kb.=
+37346	Arslanca Köyü, Öteki Mevkii	Arslanca Öteki Mevkii Kb.=
+30931	Arzularkabaköy Beldesi, Ekinciler Mah.	Bakırcılar~|Efrasim~|Ekinciler 4~|Ekinciler5~|Esen~|Eski Sobran~|Gazi Metin Yaşar~|Kabanlar 2 Nolu~|Kabanlar 3 Nolu~|Kemal Yaşar~|Kurban Çavuş~|Niyazi Çavuş~|Rukiye Ana~|Tepeüstü~|Yeşiller~|Çavuş Dağı~|Çiçek~|İbrahim Aga@
+140436	Arzularkabaköy Beldesi, Esentepe Mah.	Aydın Kural~|Depo Yolu~|Dölek Yolu~|Esentepe Yeni Yol 2~|Fidanlık~|Fındıklık~|Gazi Mehmet Şenel@|Kadıgiller~|Karam~|Koruk Yolu~|Okul Yolu~|Taşdelen~|Yakutlar~|Yağmurdere Yolu~|Zirve~|İrfan Şenel~|Şehit Numan Yakut@|Şehit Numan Yakut/8/1.~|Şükrü Kural~
+30932	Arzularkabaköy Beldesi, Fatih Mah.	Ahmet Bey~|Ahmet Ziyaüddin@|Akasya~|Arnevit~|Arzukumu~|Arzular~|Atatürk@|Atatürk/1~|Balkayası~|Belediye@|Dere~|Efrasim~|Ekinciler5~|Eski Sobran~|Eğitmen~|Fatih Yeniyol 2=|Fatih Yeniyol1=|Fatih Yeniyol3=|Gazi Osman~|Gonca~|Gümüşhane Bayburt%|Hacı Ferhat~|Hacı Hüseyin~|Halil İbrahim~|Kumlu Dere~|Manolya~|Musa Devran~|Pala Ali~|Papatya~|Paşabey~|Rıza Bey~|Taş Ocağı~|Temelbey~|Tuba~|Yavuz Sultan Selim@|Yeşiller~|Yukarı Bostan~|Zakir Uçan@|Çavuş~|Ömer Lütfü~|İbrahim Ağa~|İbrahim Çavuş~|İpekyolu@|İsmail Bey~|Şehit Abdulvahid Tanış@
+99284	Arzularkabaköy Beldesi, Gaziler Mah.	Bozkurt~|Dölek Deresi~|Gazi Mehmet Yakut~|Gazi Yusuf Yıldız~|Gazi İbrahim Ethem~|Gazi Şükrü Şenel~|Gaziler~|Gölet Yolu~|Hüsamettin Hoca~|Kurallar~|Nezaket Ana~|Veli Efendi~|Veli Efendi4~|Yamaç~|Yoncalar~|Şehit Cengiz Erkan~
+139967	Arzularkabaköy Beldesi, Mezire Mah.	Hürriyet@|Hürriyet/4~|Mezarlık~|Mustafa Şenel~|Münire Tahir Şenel~
+30933	Arzularkabaköy Beldesi, Osman Gazi Mah.	Ali Rıza Usta~|Arifoğulları~|Atatürk@|Cumhuriyet@|Gümüşhane Bayburt%|Hacı Tahir~|Hacı Temel~|Halil İbrahim~|Meri Deresi~|Molla Bayram~|Molla Veli~|Yavuz Sultan Selim@|Yunusağa~|Zakir Uçan@|Çiğdem~|İbrahim Yaşar~|Şehit Abdulvahid Tanış@
+37082	Avşarbeyli Köyü, Avşarbeyli Mevkii	Avşarbeyli Mevkii Kb.=
+37351	Aşağı Yuvalı Köyü, Aşağı Yuvalı Mevkii	Aşağı Yuvalı K.b.=
+37352	Aşağı Yuvalı Köyü, Üstünkü Zügü Yayla Evleri	Üstünkü Zügü Yaylası Kb.=
+37081	Aşağıalıçlı Köyü, Aşağı Alıçlı Mevkii	Aşağı Alıçlı Mevkii Kb.=|Gümüşhane Kelkit@
+37083	Bahçecik Köyü, Merkez Mevkii	Bahçecik Merkez Mevkii=
+37269	Ballıca Köyü, Karşıyaka Mevkii	Gümüşhane Yağmurdere@|Karşıyaka Mevkii Kb.=
+37268	Ballıca Köyü, Yeni Mevkii	Gümüşhane Yağmurdere@|Yeni Mevkii Kb.=
+37353	Bandırlık Köyü, Merkez Mevkii	Bandırlak Merkez Mevkii K.b.=|Gümüşhane Yağmurdere@
+30915	Bağlarbaşı Mah.	Alemdar=|Bahçelidibi Semti=|Bahçelidibi Semti/1=|Değirmenönü Semti~|Hamamönü Semti=|Kazım Karabekir@|Kıran Semti=|Sanayi Sitesi A Blok=|Sanayi Sitesi B Blok=|Sanayi Sitesi C Blok=|Sanayi Sitesi D Blok=|Sanayi Sitesi E Blok=|Sanayi Sitesi F Blok=|Sanayi Sitesi G Blok=|Sanayi Sitesi H Blok-=|Sanayi Sitesi I Blok-=|Turgut Yücel~|Turgut Yücel/1~|Turgut Yücel/2~|Yukarı Bağlar=|Şahbenderler Semti=
+37270	Beyçam Köyü, Beyçam Mevkii	Beyçam Mevkii Kb.=|Yaylım=
+37355	Beşoba Köyü	Ayranlı Yaylası=|Gavuryurt Yaylası=|Köyün Kendisi Mevkii K.b.=
+37356	Beşoba Köyü, Kızıltaş Mezrası	Kızıltaş Mezrası K.b.=
+37354	Beşoba Köyü, Merkez Mevkii	
+37084	Boyluca Köyü, Devrenci Mevkii	Devrenci Mevkii Kb.=
+37085	Boyluca Köyü, Halezara Mevkii	Halezara Mevkii Kb.=
+37088	Boyluca Köyü, Haliloğlu Mevkii	Haliloğlu Mevkii Kb.=|Torul Şiran@
+37087	Boyluca Köyü, Merkez Mevkii	Boyluca Merkez Kb.=|Torul Şiran@
+37086	Boyluca Köyü, Serogoz Mevkii	Serogoz Mevkii Kb.=|Torul Şiran@
+37363	Buğalı Köyü, Boğalı Mevkii	Boğalı Mevkii Kb.=
+37362	Buğalı Köyü, Boğalı Yaylası Yayla Evleri	Boğalı Yaylası Kb.=
+37361	Buğalı Köyü, Eski Yayla Yayla Evleri	Eski Yayla Kb.=
+37360	Buğalı Köyü, Gacili Mevkii	Gacili Mevkii Kb.=
+37357	Buğalı Köyü, Gündüzoğlu Mevkii	Gündüzoğlu Mevkii Kb.=
+37359	Buğalı Köyü, Güney Mevkii	Güney Mevkii Kb.=
+37358	Buğalı Köyü, Mollaoğlu Mevkii	Mollaoğlu Mevkii Kb.=
+30916	Canca Mah.	Elmalı@|Elmalı1~|Kanberli=|Kanberli1=|Limon Deresi=|Rüfene=|Vank=|Zanka=|İstiklal@|İstiklal1~|İstiklal2~
+37103	Demirkaynak Köyü, Gündoğdu Mevkii	Gündoğdu Mevkii Kb.=
+37101	Demirkaynak Köyü, Merkez Mevkii	Demirkaynak Merkez Kb.=
+37272	Demirören Köyü, Demirören Mevkii	Demirören=
+37102	Dibekli Köyü, Bağ Mevkii	Bağ Mevkii Kb.=
+37106	Dibekli Köyü, Ekmekçi Mevkii	Ekmekçi Mevkii Kb.=
+37105	Dibekli Köyü, Karakaya Mevkii	Karakaya Mevkii Kb.=
+37107	Dibekli Köyü, Karşıyaka Mevkii	Karşıyaka K.b.=
+37104	Dibekli Köyü, Topculu Mevkii	Topculu Mevkii Kb.=
+37416	Dumanlı Köyü, Ayene Mevkii	Ayene=
+37414	Dumanlı Köyü, Binatlı Mevkii	Binatlı=
+37409	Dumanlı Köyü, Boyhane Yayla Evleri	Boyhane Yaylası=
+37408	Dumanlı Köyü, Cingarlı Mevkii	Cingarlı=
+37413	Dumanlı Köyü, Cirip Yayla Evleri	Cirip Yaylası=
+37402	Dumanlı Köyü, Daşlıova Yayla Evleri	Daşlıova Yaylası=
+37426	Dumanlı Köyü, Derinırmak Mevkii	Derinırmak=
+37428	Dumanlı Köyü, Eftelan Mevkii	Eftelan=
+37423	Dumanlı Köyü, Gobal Mevkii	Gobal=
+37404	Dumanlı Köyü, Gofi Yayla Evleri	Gofi Yaylası=
+37401	Dumanlı Köyü, Irmak Yayla Evleri	Irmak Yaylası=
+37422	Dumanlı Köyü, Irmakbaşı Yayla Evleri	Irmakbaşı=
+37407	Dumanlı Köyü, Kaban Yayla Evleri	Kaban Yaylası=
+37394	Dumanlı Köyü, Kelhasan Yayla Evleri	Kelhasan Yaylası=
+37395	Dumanlı Köyü, Kilise Sırtı Yayla Evleri	Kilise Sırtı Yaylası=
+37417	Dumanlı Köyü, Kuzugölü Yayla Evleri	Kuzugölü Yaylası=
+37415	Dumanlı Köyü, Kütük Yayla Evleri	Kütük Yaylası=
+37411	Dumanlı Köyü, Küçükçiçekli Yayla Evleri	Küçükçiçekli=
+37399	Dumanlı Köyü, Lenda Yayla Evleri	Lenda Yaylası=
+37419	Dumanlı Köyü, Orta Yayla Evleri	Orta Kb=
+37421	Dumanlı Köyü, Piştofli Mevkii	Piştofli=
+37398	Dumanlı Köyü, Sulaklı Yayla Evleri	Sulaklı Yaylası=
+37396	Dumanlı Köyü, Sırt Yayla Yayla Evleri	Sırt Yayla Yaylası=
+37403	Dumanlı Köyü, Tamzı Yayla Evleri	
+37418	Dumanlı Köyü, Taşaltı Yayla Evleri	Taşaltı Yaylası=
+37427	Dumanlı Köyü, Terzili Mevkii	Terzili=
+37405	Dumanlı Köyü, Uzunsırt Yayla Evleri	Uzunsırt Yaylası=
+37410	Dumanlı Köyü, Yeni Yayla Yayla Evleri	Yeni Yayla Yaylası=
+37425	Dumanlı Köyü, Zurnacili Mevkii	Zurnacili=
+37406	Dumanlı Köyü, Zırganlı Hanları Mezrası	
+37424	Dumanlı Köyü, Çakallı Mevkii	Çakallı=
+37412	Dumanlı Köyü, Çardaklı Yayla Evleri	Çardaklı Yaylası=
+37420	Dumanlı Köyü, Çiçek Yayla Evleri	Çiçek Yaylası=
+37400	Dumanlı Köyü, Çukur Yayla Evleri	Çukur Yaylası=
+37397	Dumanlı Köyü, İstavrama Yayla Evleri	İstavrama Yaylası=
+37429	Dumanlı Köyü, İşhanlı Mevkii	İşhanlı=
+37285	Duymadık Köyü, Merkez Mevkii	Duymadık=
+37281	Dölek Köyü, Cami Mevkii	Cami Mevkii Kb.=
+37284	Dölek Köyü, Dolanlı Mevkii	Dolanlı Mevkii Kb.=
+37274	Dölek Köyü, Garipli Mevkii	Garipli Mevkii Kb.=
+37277	Dölek Köyü, Hacıgil Mevkii	Hacıgil Mevkii Kb.=
+37282	Dölek Köyü, Hanemgil Mevkii	Hanemgil Mevkii Kb.=
+37280	Dölek Köyü, Karşı Mevkii	Karşı Mevkii K.b.=
+37278	Dölek Köyü, Kurtgil Mevkii	Kurtgil Mevkii Kb.=
+37283	Dölek Köyü, Muratgil Mevkii	Muratgil Mevkii Kb.=
+37275	Dölek Köyü, Okul Mevkii	Okul Mevkii Kb.=
+37279	Dölek Köyü, Oruçlu Mevkii	Oruçlu Mevkii Kb.=
+37276	Dölek Köyü, Yukarı Öteki Dere Mevkii	Yukarı Öteki Dere Mevkii Kb.=
+37273	Dölek Köyü, Çolakgil Mevkii	Çolakgil Mevkii K.b.=
+37116	Dörtkonak Köyü, Dörtkonak Yayla Evleri	Dörtkonak=
+37115	Dörtkonak Köyü, Emirler Mevkii	Emirler=
+37111	Dörtkonak Köyü, Kıran Mevkii	Kıran Mevkii K.b.=
+37113	Dörtkonak Köyü, Malaha Mevkii	Malaha=
+37108	Dörtkonak Köyü, Osmangil Mevkii	Osmangil=
+37109	Dörtkonak Köyü, Sallahlı Mevkii	Sallahlı=
+37112	Dörtkonak Köyü, Turhanlı Mevkii	Turhanlı=
+37114	Dörtkonak Köyü, Çakırlı Mevkii	Çakırlı Mevkii Kb.=
+37110	Dörtkonak Köyü, İşbirli Mevkii	İşbirli=
+37286	Düğünyazı Köyü, Düğünyazı Mevkii	Düğünyazı=
+37287	Erdemler Köyü, Caferli Mevkii	Caferli=
+37288	Erdemler Köyü, Recepli Mevkii	Recepli K.b=
+37290	Erdemler Köyü, Sevimli Mevkii	Sevimli=
+37289	Erdemler Köyü, Yeşilyurt Mevkii	Yeşilyurt=
+37430	Esenler Köyü, Esenler Mevkii	Esenler=
+37431	Esenler Köyü, Esenler Yaylası Yayla Evleri	
+37119	Esenyurt Köyü, Aşağı Mevkii	Aşağı=|Gümüşhane Erzincan@
+37117	Esenyurt Köyü, Orta Mevkii	Orta Mevkii K.b.=
+37118	Esenyurt Köyü, Yukarı Mevkii	Yukarı Mevkii K.b.=
+30918	Eskibağlar Mah.	Kazım Karabekir@|Kömürcüoğlu=|Yoncalık Semti=|Çavuşlu Semti=
+37291	Geçit Köyü, Eskiköy Mevkii	Eskiköy Mevkii K.b.=
+37292	Geçit Köyü, Merkez Mevkii	Geçit Merkez Mevkii K.b.=|Gümüşhane Bayburt@
+37294	Gökdere Köyü, Gökdere 2 Mevkii	Yukarı K.b=
+37293	Gökdere Köyü, Gökdere Mevkii	Aşağı K.b=
+37120	Gökçepınar Köyü, Gökçepınar Mevkii	Gökçepınar=
+37121	Gökçepınar Köyü, Karakaya Mevkii	Gümüşhane Kelkit@|Karakaya=
+37124	Gözeler Köyü, Bahçeli Mevkii	Bahçeli=
+37122	Gözeler Köyü, Cami Mevkii	Cami=
+37126	Gözeler Köyü, Gözeler Yayla Evleri	
+37123	Gözeler Köyü, Hapencili Mevkii	Hapencili=
+37127	Gözeler Köyü, Çamlıca Mevkii	Çamlıca Mevkii K.b.=
+37125	Gözeler Köyü, Çiçekli Mevkii	Çiçekli=
+37128	Gümüşkaya Köyü, Merkez Mevkii	Gümüşkaya=
+37432	Güngören Köyü, Güngören Mevkii	Güngören=
+37433	Güngören Köyü, Hamzaağa Yayla Evleri	Hamzaağa=
+37434	Güngören Köyü, Limonsuyu Mevkii	Limonsuyu=
+37435	Güngören Köyü, İspatan Mevkii	İspatan=
+37295	Güvercinlik Köyü, Aşağı Mevkii	Gümüşhane Bayburt@|Güvercinlik Aşağı=
+37296	Güvercinlik Köyü, Merkez Mevkii	Gümüşhane Bayburt@|Güvercinlik Merkez=
+30919	Hacıemin Mah.	Elmalı@|Elmalı3~|Gümüşeli=|Kaptan 1=|Kaptan=|Çitdüzü Mevkii=
+37130	Harmancık Köyü, Harmancık Mevkii	Harmancık Mevkii=
+37129	Harmancık Köyü, Sulanmış Mevkii	Sulanmış Mevkii=
+140100	Harmancık Köyü, Yoncalı Mevkii	Gümüşhane Bayburt@|Gümüşhane Bayburt/1~|Gümüşhane Erzincan@|Muharrambay 1~|Muharrambay 2~|Muharrambay 3~|Muharrambay~|Yoncalı Mevkii=
+37131	Harmancık Köyü, Yoncalı Osb Mevkii	1.~|2.~|3.~|4.~|5.~
+30920	Hasanbey Mah.	Anafartalar@|Anafartalar/1~|Anafartalar/2~|Anafartalar/3~|Aysın Rafet Ataç~|Bahçeli 10~|Bahçeli 11~|Bahçeli 9~|Bahçeli~|Balerin~|Balerin/1~|Balerin/2~|Cemal Hüsnü Taray~|Cengiz Topel~|Cumhuriyet@|Cumhuriyet/1~|Cumhuriyet/3~|Cumhuriyet/4~|Cumhuriyet/5~|Cumhuriyet/6~|Cumhuriyet2~|Daltaban@|Daltaban Sanayi Sitesi 1 Nolu~|Daltaban Sanayi Sitesi 2 Nolu~|Daltaban/1~|Daltaban/2~|Emek~|Fabrika~|Fazlı Yüce~|Harşit~|Hasan Tahsin Tüzün~|Hasanbey@|Hasanbey/1~|Hasanbey/2~|Kamil Akdik~|Kamil Akdik/1~|Kantek~|Karacaoğlan~|Karanfil~|Kayadibi-~|Köroğlu~|Köroğlu/1~|Kıbrıs@|Kıbrıs/1~|Kıbrıs/10~|Kıbrıs/11~|Kıbrıs/12~|Kıbrıs/13~|Kıbrıs/14~|Kıbrıs/2~|Kıbrıs/3~|Kıbrıs/4~|Kıbrıs/5~|Kıbrıs/6~|Kıbrıs/7~|Kıbrıs/8~|Kıbrıs/9~|Mehmet Zeki Bey~|Merdiven~|Merdiven/1~|Meteoroloji~|Mustafa Darman~|Nihat Sargınalp~|Osman Gazi~|Osman Gazi/1~|Ruşen Oktar~|Sebahattin Kadirbeyoğlu~|Sebahattin Kadirbeyoğlu/111~|Süleyman Sungurlu 1~|Sümer~|Topal Kayalık -=|Vasfi Mahir Kocatürk~|Veysel Rıza Zarbun~|Yusuf Ziya Zarbun~|Yıldız~|Zafer1~|Çamlı~|İsmail Hakkı Baykal~|Şeref Akdik~|Şeref Akdik/1~|Şeref Akdik/2~|Şeref Akdik/3~|Şeref Akdik/4~|Şh.erdal Tuncer~|Şh.kadir Çolak~|Şh.kadir Çolak/1~|Şh.muhammed Kumru~|Şh.özkan Şişman~|Şht.piyade Ercan Soydaş~|Şht.piyade Ercan Soydaş/1~
+37134	Hasköy Köyü, Aşağı Havriya Mevkii	Aşağı Havriya=|Baş=
+37136	Hasköy Köyü, Baş Mevkii	Baş Mevkii=
+37138	Hasköy Köyü, Beyler Mevkii	Beyler=
+37137	Hasköy Köyü, Memişli Mevkii	Memişli Mevkii K.b.=
+37133	Hasköy Köyü, Pazaryeri Mevkii	Pazaryeri=
+37135	Hasköy Köyü, Paşalar Mevkii	Paşalar=
+37139	Hasköy Köyü, Soğuksu Mevkii	Soğuksu=
+37132	Hasköy Köyü, Yukarı Havrıya Mevkii	Yukarı Havriya=
+37256	Kale Köyü, Merkez Mevkii	Merkez Mevkii Kb.=
+37306	Kaletaş Köyü, Bayramoğlu Mevkii	Bayramoğlu Mevkii K.b.=
+37305	Kaletaş Köyü, Torlakoğlu Mevkii	Torlakoğlu Mevkii K.b.=
+37307	Kaletaş Köyü, Yayla Yolu Mevkii	Yayla Yolu Mevkii K.b.=
+37304	Kaletaş Köyü, İbrahimefendi Mevkii	Gümüşhane Yağmurdere@|İbrahimefendi Mevkii K.b.=
+30922	Karaer Mah.	Ahmet Ziyauddin Gümüşhanevi@|Arazlar Çıkmazı=|Asmaaltı~|Atatürk@|Atatürk1~|Aydın Doğan=|Bahar~|Barış~|Basamak-~|Bayır~|Beste~|Cami~|Destan=|Dilaver Cebeci~|Emniyet~|Emniyet1~|Fuadiye@|Gazi~|Gökkuşağı=|Hazan~|Hilal~|Hürriyet@|Hürriyet1~|Kemaliye~|Lale~|Menekşe~|Menekşe/1~|Necati Akagün~|Nergiz~|Osmanbey@|Sebahattin Aytaç@|Sebahattin Aytaç Çıkmazı~|Sümbül~|Tamirciler~|Valibey~|Valibey1~|Yamaç~|Yeşil=|Zafer@|Zafer1~|Ziya Gökalp@|Çamlı~|Çamlıca1=|İskan~|İskan1~|İskan2~|Şht.basri Aslan~|Şht.basri Aslan1~|Şht.izzet Yalçın~|Şht.izzet Yalçın1~|Şht.izzet Yalçın2~|Şht.izzet Yalçın3~|Şht.polis Cengiz Erkan~|Şht.polis Cengiz Erkan1~
+37153	Karamustafa Köyü, Evreni Mevkii	Evreni=
+37154	Karamustafa Köyü, Kaden Mevkii	Kaden=|Torul Şiran@
+37152	Karamustafa Köyü, Karamustafa Mevkii	Karamustafa Mevkii=|Torul Şiran@
+37155	Karamustafa Köyü, Keşka Mevkii	Keşka=
+37151	Karamustafa Köyü, Kumlar Mevkii	Kumlar=
+37150	Karamustafa Köyü, Uzunyol Mevkii	Uzunyol Mevkii K.b.=
+30923	Karşıyaka Mah.	Ahmet Ziyauddin Gümüşhanevi@|Ahmet Ziyauddin Gümüşhanevi1~|Arzu~|Atatürk1~|Bahçeli 1~|Bahçeli 2~|Bahçeli 3~|Bahçeli 4~|Bahçeli 5~|Bahçeli 6~|Bahçeli 7~|Bahçeli 8~|Bahçeli~|Halit Zarbun 1~|Halit Zarbun~|Hürriyet@|Mesire~|Muzaffer Demirhan=|Osmanbey@|San 1~|San 2~|San~|Vadi 1~|Vadi 2~|Vadi 3~|Vadi 4~|Vadi~|İmamoğlu 1~|İmamoğlu 2~|İmamoğlu~
+37440	Kayabaşı Köyü, Kayabaşı Mevkii	Gümüşhane Yağmurdere@|Kayabaşı=
+37442	Kayabaşı Köyü, Kayabaşı Yaylası 2 Yayla Evleri	Kayabaşı Kavras Yaylası=
+37441	Kayabaşı Köyü, Kayabaşı Yaylası Yayla Evleri	Kayabaşı Yeni Yayla=
+37156	Kazantaş Köyü, Işıklı Mevkii	Damlık=|Gümüşhane Erzincan@|Işıklı=
+37157	Kazantaş Köyü, Karşı Mevkii	Kazantaş Karşı=
+37158	Kazantaş Köyü, Orta Mevkii	Kazantaş Orta Mevkii K.b.=
+37308	Keçikaya Köyü, Merkez Mevkii	Merkez K.b.=
+37162	Kocapınar Köyü, Merkez Mevkii	Kocapınar=
+37310	Kocayokuş Köyü, Kocayokuş Mevkii	Kocayokuş=
+37311	Kocayokuş Köyü, Kocayokuş Mezrası Mezrası	Kocayokuş Mezrası=
+37163	Kurtoğlu Köyü, Kurtoğlu Mevkii	Kurtoğlu Mevkii K.b.=|Köyceğiz=
+37309	Kılıçören Köyü, Merkez Mevkii	Duymadık=|Kılıçören=
+37160	Kırıklı Köyü, Bahçe Mevkii	Bahçe Mevkii K.b.=|Gümüşhane Erzincan@|Gümüşhane Kelkit@
+37159	Kırıklı Köyü, Merkez Mevkii	Gümüşhane Erzincan@|Gümüşhane Kelkit@|Kırıklı Merkez=
+37161	Kızılca Köyü, Kızılca Mevkii	Kızılca Merkez Mevkii K.b=
+37168	Mescitli Köyü, Akdikli Mevkii	Akdikli Mevkii=
+37166	Mescitli Köyü, Ayranlı Mevkii	Ayranlı=
+37172	Mescitli Köyü, Bağ Mevkii	Bağ=
+37169	Mescitli Köyü, Camiönü Mevkii	Camiönü=
+37170	Mescitli Köyü, Efendiler Mevkii	Efendiler=
+37175	Mescitli Köyü, Fırtına Mevkii	Fırtına=|Trabzon Gümüşhane@
+37165	Mescitli Köyü, Hurşit Ağagil Mevkii	Hurşit Ağagil=
+37171	Mescitli Köyü, Karaali Mevkii	Karaali=
+37174	Mescitli Köyü, Karşı Mevkii	Karşı=|Trabzon Gümüşhane@
+37167	Mescitli Köyü, Mescitli Yayla Evleri	Mescitli Yaylası K.b.=
+37173	Mescitli Köyü, Pehlivanlar Mevkii	Pehlivanlar=
+37164	Mescitli Köyü, Temelağa Mevkii	Temelağa=
+37312	Nazlıçayır Köyü, Nazlıçayır Mevkii	Nazlıçayır=
+140368	Oltanbey Mah.	Bayrak@|Bayrak/1~|Bayrak/2~|Cumhuriyet@|Güneri Kadirbeyoğlu~|Güneri Kadirbeyoğlu/1~|Hasanbey@|Müze~|Oltanbey/1~|Oltanbey/2~|Oltanbey/3~|Oltanbey/4~|Oltanbey/6~|Oltanbey/7~|Tünel=|Şht.ütğm.kemal Taşçı~
+37178	Olucak Köyü, Ağılören Mevkii	Ağılören=
+37177	Olucak Köyü, Köklüce Mevkii	Avoca Yaylası K.b.=
+37176	Olucak Köyü, Merkez Mevkii	Olucak Merkez=
+37179	Olukdere Köyü, Aşağı Mevkii	Aşağı Mevkii K.b.=
+37180	Olukdere Köyü, Yukarı Mevkii	Yukarı=
+37313	Pehlivantaşı Köyü, Merkez Mevkii	Pehlivantaşı=
+198969	Pirahmet Köyü, Düzler Mevkii	
+37184	Pirahmet Köyü, Pirahmet Mevkii	Gümüşhane Erzincan@|Pirahmet Yaylası=
+37188	Pirahmet Köyü, Pirahmet Y. Mevkii	Aşağı Kb=|Bükler=|Gümüşhane Erzincan@|Hacıgil=|Kaanlı=|Subasar=|Yukarı Kb=|Şekerli=
+37314	Sargınkaya Köyü, Bahçelievler Mevkii	Bahçelievler K.b=|Gümüşhane Bayburt@
+37315	Sargınkaya Köyü, Merkez Mevkii	Merkez Csbm=
+37316	Sarıçiçek Köyü, Merkez Mevkii	Sarıçiçek Merkez Mevkii=
+37317	Sarıçiçek Köyü, Çiçekli Yayla Evleri	Sarıçiçek Çiçekli Yaylası=
+37194	Sungurbeyli Köyü	
+37197	Sungurbeyli Köyü, Haşutlar Mevkii	Gümüşhane Erzincan@|Haşutlar=
+37196	Sungurbeyli Köyü, Karşı Mevkii	Karşı=
+37195	Sungurbeyli Köyü, Kirazlı Mevkii	Gümüşhane Erzincan@|Kirazlı=
+37193	Sungurbeyli Köyü, Merkez Mevkii	Gümüşhane Erzincan@|Merkez=
+37192	Sungurbeyli Köyü, Sungurbeyli Yayla Evleri	Gümüşhane Erzincan@|Sungur Yaylası=
+37319	Söğütağıl Köyü, Karşı Mevkii	Karşı=
+37320	Söğütağıl Köyü, Orta Mevkii	Orta Mevkii=
+37318	Söğütağıl Köyü, Çorak Mevkii	Gümüşhane Çorak@|Çorak=
+37321	Süle Köyü, Merkez Mevkii	Süle=
+30925	Süleymaniye Mah.	Süleymaniye Mevkii=
+37322	Süngübayır Köyü, Merkez Mevkii	Süngübayır Merkez Mevkii=
+37323	Tamzı Köyü, Merkez Mevkii	Gümüşhane Bayburt@|Tamzı=
+37324	Tandırlık Köyü, Merkez Mevkii	Merkez Mevkii K.b.=
+30927	Tekke Köyü, Cumhuriyet Mevkii	Demirci=|Mimar Sinan=|İpekyolu~|İpekyolu/3~
+30928	Tekke Köyü, Kaleönü Mevkii	15 Şubat=|Atatürk=|Bosna=|Fatih Sultan Mehmet=|Kalebaşı=|Kıbrıs=|Ozan Hasan=|İpekyolu 1~|İpekyolu 2~|İpekyolu 3~|İpekyolu 4~|İpekyolu~|Şeyhaziz=
+30929	Tekke Köyü, Katmerkaya Mevkii	19 Mayıs=|Cami=|Cumhuriyet=|Karanfil=|Karşıbahçe=|Karşıbahçe1~|Resul Yılmaz=|Yavuz Selim=|İpekyolu Katmerkaya=|İpekyolu~
+30930	Tekke Köyü, Türkmenler Mevkii	Işıkdere=|Kötüyarlar=|İnönü=|İpekyolu~
+37237	Yaydemir Köyü, Aşağı Mevkii	Yaydemir Aşağı Mevkii Kb.=
+37235	Yaydemir Köyü, Karşı Mevkii	Yaydemir Karşı Mevkii Kb.=
+37236	Yaydemir Köyü, Orta Mevkii	Yaydemir Orta Mevkii Kb.=
+37233	Yaydemir Köyü, Yaydemir Yayla Evleri	
+37234	Yaydemir Köyü, Yukarı Mevkii	Yaydemir Yukarı Mevkii Kb.=
+37327	Yayladere Köyü, Karşı Mevkii	Gümüşhane Yağmurdere@|Karşı Mevkii=
+37326	Yayladere Köyü, Orta Mevkii	Gümüşhane Yağmurdere@|Orta=
+37325	Yayladere Köyü, Yukarı Mevkii	Gümüşhane Yağmurdere@|Yukarı=
+37199	Yağlıdere Köyü	Yağlıdere Köyün Kendisi=
+37201	Yağlıdere Köyü, Acısu Yayla Evleri	Acısu Yaylası K.b=
+37213	Yağlıdere Köyü, Ayvazlı Mevkii	Ayvazlı=
+37221	Yağlıdere Köyü, Aşağı Dışbudak Mevkii	Aşağı Dışbudak=
+37216	Yağlıdere Köyü, Bazmetli Mevkii	Bazmetli=
+37222	Yağlıdere Köyü, Bulut Mevkii	Bulut Mevkii=
+37205	Yağlıdere Köyü, Bulutlu Mevkii	Bulutlu Mevkii=
+37207	Yağlıdere Köyü, Bulutlu Yaylası Yayla Evleri	Bulutlu Yaylası=
+37200	Yağlıdere Köyü, Cami Boğazı Yayla Evleri	Camii Boğazı Yayla Evleri K.b.=
+37211	Yağlıdere Köyü, Derinırmak Yayla Evleri	Derinırmak Yaylası=
+37230	Yağlıdere Köyü, Deveboynu Yayla Evleri	Deveboynu Yaylası=
+37231	Yağlıdere Köyü, Düzce Mevkii	Düzce Mevkii=
+37206	Yağlıdere Köyü, Evlice Mezrası	Evlice=|Krom Yaylası=
+37209	Yağlıdere Köyü, Hanlarındere Yayla Evleri	Hanlarındere=
+37232	Yağlıdere Köyü, Harabe Mevkii	Harabe=
+37215	Yağlıdere Köyü, Karaağaç Mevkii	Karaağaç=
+37223	Yağlıdere Köyü, Karayayla Yayla Evleri	Karayayla=
+37225	Yağlıdere Köyü, Kolathanları Mevkii	Kolathanları Yaylası=
+37224	Yağlıdere Köyü, Krom Yayla Evleri	Krom Yaylası=
+37202	Yağlıdere Köyü, Lorya Yayla Evleri	Lorya=
+37212	Yağlıdere Köyü, Maden Yayla Evleri	Maden=
+37208	Yağlıdere Köyü, Mandagölü Yayla Evleri	Mandagölü Yaylası=
+37220	Yağlıdere Köyü, Merkez Mevkii	Yağlıdere Merkez=
+37204	Yağlıdere Köyü, Mizit Yaylası Yayla Evleri	Mizit Yaylası=
+37228	Yağlıdere Köyü, Mollaali Mevkii	Mollaali=|Mollaali/1=
+37217	Yağlıdere Köyü, Muhara Mevkii	Muhara Yaylası=
+37218	Yağlıdere Köyü, Sarıoğlu Mevkii	Sarıoğlu=
+37203	Yağlıdere Köyü, Soğanlı Yayla Evleri	Soğanlı Yaylası=
+37219	Yağlıdere Köyü, Soğukpınar Mevkii	Soğukpınar=
+37210	Yağlıdere Köyü, Uslugun Yayla Evleri	Uslugun Yaylası=
+37214	Yağlıdere Köyü, Yamaç Mevkii	Yamaç=
+37226	Yağlıdere Köyü, Yeni Çamlık Mevkii	Yeni Çamlık=
+37229	Yağlıdere Köyü, Yoğurtlu Mevkii	Yoğurtlu=
+37227	Yağlıdere Köyü, Yukarı Parti Mevkii	Yukarı Parti=
+37332	Yağmurdere Köyü, Yağmurdere Mevkii	Yağmurdere Mevkii=
+30926	Yeni Mah.	1.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|Afet Bölgesi=|Emirler@|Emirler1~|Fatih@|Kazım Karabekir@|Kazım Karabekir/1~|Mehmet Akif Ersoy=|Mevlana=|Vadi~|X=|Yeni/1~|Yunus Emre@|Şh.murat Yıldız~|Şh.murat Yıldız/1~|Şh.murat Yıldız1~
+37328	Yenice Köyü, Yenice Mevkii	Yenice Mevkii K.b.=
+37239	Yeniköy Köyü, Merkez Mevkii	Gümüşhane Kelkit@|Yeniköy Merkez Mevkii=
+37238	Yeniköy Köyü, Ulukale Mevkii	Ulukale Mevkii Kb.=
+37241	Yeniyol Köyü, Cami Mevkii	Bükler=|Camii Mevkii=|Gümüşhane Bayburt@|Pir=
+37240	Yeniyol Köyü, Yeni Mevkii	Gümüşhane Bayburt@|Yeni=
+37242	Yeşildere Köyü, Güneşli Mevkii	Güneşli=
+37244	Yeşildere Köyü, Hacılı Mevkii	Hacılı Mevkii Kb.=
+37247	Yeşildere Köyü, Kuşlu Mevkii	Kuşlu (omela) Mevkii Kb.=
+37248	Yeşildere Köyü, Sığırlı Mevkii	Sığırlı=
+37243	Yeşildere Köyü, Taşdibi Mevkii	Taşdibi(temekküllü) Mevkii=
+37245	Yeşildere Köyü, Taşlıca Mevkii	Taşlıca=
+37246	Yeşildere Köyü, Zeynepli Mevkii	Zeynepli=
+37249	Yeşildere Köyü, Şakallı Mevkii	Şakallı=
+37252	Yeşilyurt Köyü, Cabaylı Mevkii	Cabaylı=
+37251	Yeşilyurt Köyü, Kalkanlı Mevkii	Bayraktarlı=|Kalkanlı(kozana)=|Rafuoğlu=
+37254	Yeşilyurt Köyü, Konacık Mevkii	Konacık=
+37253	Yeşilyurt Köyü, Türkmenli Mevkii	Türkmenli=
+37250	Yeşilyurt Köyü, Yetimli Mevkii	Hocagil=|Yetimli=
+37329	Yitirmez Köyü, Bağcılar Mevkii	Bağcılar Mevkii K.b.=
+37331	Yitirmez Köyü, Erikli Mevkii	Erikli=
+37330	Yitirmez Köyü, Semerciler Mevkii	Semerciler Mevkii Kb.=
+37255	Yukarı Alıçlı Köyü, Yukarı Alıçlı Mevkii	Yukarı Alıçlı K.b=
+37449	Yukarı Yuvalı Köyü, Yapraklı Yayla Evleri	Yapraklı Yaylası=
+37447	Yukarı Yuvalı Köyü, Yukarı Yuvalı Mevkii	Yukarı Yuvalı Kb=
+37448	Yukarı Yuvalı Köyü, Yılanlı Mevkii	Yılanlı Kb=
+37089	Çaltılı Köyü, Çaltılı Mevkii	Çaltılı Mevkii K.b.=
+37271	Çalık Köyü, Merkez Mevkii	Çalık Merkez Mevkii K.b.=
+37096	Çamlı Köyü, Ağalık Mevkii	Ağalık Mevkii Kb.=
+37093	Çamlı Köyü, Değirmen Mevkii	Değirmen Mevkii Kb.=
+139718	Çamlı Köyü, Işıkdere Mevkii	Işıkdere Mevkii Kb.=
+37092	Çamlı Köyü, Koyunoğlu Mevkii	Koyunoğlu Mevkii Kb.=|Koyunoğlu Mezrası=|Koyunoğlu Yaylası=
+37090	Çamlı Köyü, Mağaldos Mevkii	Mağaldos Mevkii Kb.=
+37091	Çamlı Köyü, Melitli Mevkii	Melitli Mevkii Kb.=
+37095	Çamlı Köyü, Merkez Mevkii	Çamlı Merkez Mevkii Kb.=
+37094	Çamlı Köyü, Piknik Mevkii	Piknik Mevkii Kb.=
+37098	Çamlı Köyü, Soğanlı Mevkii	Soğanlı Mevkii K.b.=|Tokluca Soğanlı Mezrası=|Zaanlı Yaylası=
+37097	Çamlı Köyü, Tokluca Mevkii	Tokluca Mevkii Kb.=
+30917	Çamlıca Mah.	Bahar~|Başköy=|Gazi~|Gazi1~|Gökkuşağı=|Gökkuşağı1=|Günebakan=|Hacı Bayram~|Hacı Bayram1~|Hamzalı=|Menekşe~|Papatya~|Pirli=|Sebahattin Aytaç@|Topal Mevkii=|Tünel1@|Tünel2@|Çamlıca-~|Çamlıca1=|Şht.izzet Yalçın~|Şht.izzet Yalçın3~|Şht.numan Yakut~|Şht.numan Yakut1~|Şht.numan Yakut2~|Şht.numan Yakut3~
+37100	Çayırardı Köyü, Aşağı Mevkii	Çayırardı Aşağı Mevkii Kb.=
+37099	Çayırardı Köyü, Yukarı Mevkii	Çayırardı Yukarı Mevkii Kb.=
+37365	Çorak Köyü	Çorak Köyün Kendisi=
+37374	Çorak Köyü, Alacaçayır Yayla Evleri	Alacaçayır Yaylası=
+37373	Çorak Köyü, Arpalı Yayla Evleri	Arpalı=
+37376	Çorak Köyü, Aşağı Kurugöl Yayla Evleri	Aşağı Kurugöl=
+37371	Çorak Köyü, Büyükyayla Yayla Evleri	Büyükyayla=
+37370	Çorak Köyü, Derindere Yayla Evleri	Derindere=
+37381	Çorak Köyü, Değirmenyurdu Yayla Evleri	Değirmenyurdu=
+37388	Çorak Köyü, Divane Yayla Evleri	Divane=
+37375	Çorak Köyü, Eğrisi Yayla Evleri	Eğrisu Yaylası K.b.=
+37391	Çorak Köyü, Gologos Yayla Evleri	Gologos=
+37385	Çorak Köyü, Gırlavu Yayla Evleri	Gırlavu Yaylası=
+37364	Çorak Köyü, Karaburun Yayla Evleri	Karaburun=
+37382	Çorak Köyü, Karahava Yayla Evleri	Karahava=
+37367	Çorak Köyü, Kasapoğlu Yayla Evleri	Kasapoğlu=
+37386	Çorak Köyü, Konaklı Yayla Evleri	Konaklı Yaylası=
+37384	Çorak Köyü, Kurtdere Yayla Evleri	Kurtdere Yaylası=
+37393	Çorak Köyü, Kurtdere-dilaver Yayla Evleri	Kurtdere Dilaver=
+37380	Çorak Köyü, Küçükyurt Yayla Evleri	Küçükyurt=
+37379	Çorak Köyü, Marondu Yayla Evleri	Marondu=
+37390	Çorak Köyü, Merkez Mevkii	Merkez K.b=
+37392	Çorak Köyü, Minconos Yayla Evleri	Minconos=
+37389	Çorak Köyü, Orta Yayla Evleri	Orta=
+37368	Çorak Köyü, Sarıtaş Yayla Evleri	Sarıtaş Yaylası=
+37366	Çorak Köyü, Taşdibi Yayla Evleri	Taşdibi=
+37372	Çorak Köyü, Taşköprü Mevkii	Taşköprü=
+37369	Çorak Köyü, Tekke Yayla Evleri	Tekke=
+37377	Çorak Köyü, Yukarı Kurugöl Yayla Evleri	Yukarı Kurugöl=
+37383	Çorak Köyü, Çatalpınar Yayla Evleri	Çatalpınar=
+37378	Çorak Köyü, Çağıl Göl Yayla Evleri	Çağıl Göl=
+37387	Çorak Köyü, Şican Yayla Evleri	Şican (sıçan Yurdu) Yaylası=
+37443	Örenler Köyü, Örenler Mevkii	Örenler Mevkii K.b.=
+37444	Örenler Köyü, Örenler Yaylası Yayla Evleri	Örenler Yaylası K.b.=
+37183	Övündü Köyü, Dere Mevkii	Dere K.b.=
+37181	Övündü Köyü, Yukarı Övündü Mevkii	Yukarı Övündü=
+37182	Övündü Köyü, Çako Mevkii	Çako=
+30924	Özcan Mah.	Bayrak@|Değirmenbahçe~|Elmalı 1~|Elmalı@|Elmalı2~|Güzeller 1~|Güzeller 2~|Güzeller@|Kalederesi Mevkii=|Oltanbey/1~|Süleyman Sungurlu 1~|Süleyman Sungurlu~|İstiklal 1~|İstiklal@|Şh.ilyas Boz=|Şh.murat Doğan~
+37198	Üçkol Köyü, Üçkol Mevkii	Üçkol Mevkii Kb.=
+37142	İkisu Köyü, Aslankılıçlar Mevkii	Aslankılıçlar=
+37143	İkisu Köyü, Babese Mevkii	Babaese=|Trabzon Gümüşhane@
+37145	İkisu Köyü, Bayraktarlar Mevkii	Bayraktarlar=
+37144	İkisu Köyü, Efeler Mevkii	Efeler=|Trabzon Gümüşhane@
+37148	İkisu Köyü, Fazlıoğlu Mevkii	Fazlıoğlu=|Trabzon Gümüşhane@
+37147	İkisu Köyü, Haleverne Mevkii	Haleverne=|Trabzon Gümüşhane@
+37146	İkisu Köyü, Hamitler Mevkii	Hamitler=|Torul Şiran@
+37141	İkisu Köyü, Harava Mevkii	Harava=
+37140	İkisu Köyü, Yılmazlar Mevkii	Torul Şiran@|Yılmazlar Mevkii K.b.=
+37149	İkisu Köyü, İkisu Mevkii	Torul Şiran@|Trabzon Gümüşhane@|İkisu=
+37436	İkiz Köyü, İkiz Mevkii	Gümüşhane Yağmurdere@|İkiz=
+37437	İkiz Köyü, İkiz Yaylası Yayla Evleri	İkiz Yaylası=
+37439	İncesu Köyü, Merkez Mevkii	Merkez Mevkii K.b=
+37438	İncesu Köyü, İncesu Yayla Evleri	İncesu Yaylası K.b=
+30921	İnönü Mah.	15 Şubat@|Afet Bölgesi=|Asude~|Aydın Doğan=|Ayışığı~|Açelya~|Emirler@|Emniyet~|Fevzi Ataç~|Fidanlık=|Güldeste~|Kadirbeyli~|Koruluk~|Koruluk1~|Koruluk2~|Kuşakkaya 1~|Kuşakkaya~|Kuşburnu=|Malazgirt~|Pınar=|Yalçın Kurt@|Zeki Kadirbeyoğlu~|İnönü 1~|İnönü@|Şh.hüseyin Sarı=|Şh.zikri Şahin 1~|Şh.zikri Şahin 2~|Şh.zikri Şahin 3~|Şh.zikri Şahin~|Şht.yücel Doğan~|Şht.yücel Doğan1~|Şht.yücel Doğan2~
+37445	Şephane Köyü, Şaphane Mevkii	Şephane=
+37446	Şephane Köyü, Şaphane Yaylası Yayla Evleri	

@@ -1,0 +1,35 @@
+181793	Akköy Mah.	Akköy=
+181795	Araplı Mah.	Araplı=
+181797	Başköy Mah.	Başköy=
+42361	Beyleryukarı Mah.	81.~|82.~|83.~|84.~|86.~|89.~|91.~|92.~|95.~|Bahri Hoca~|Bayır~|Birlik~|Ceylan~|Kara Mustafa Paşa@|Kekik~|Kocatepe~|Kıbrıs@|Sönmez~|Uzun İmam~|İsmet İnönü@|Şafak~|Şht. İsmail Oturak~
+181799	Büget Mah.	Büget=
+42362	Camikebir Mah.	251.~|252.~|51.@|61.~|62.~|71.~|Atatürk@|Camikebir@|Cumhuriyet 1. Myd.|Cumhuriyet@|Hisar~|Kara Mustafa Paşa@|Kocatepe~|Koçumlar@|Kıbrıs@|Tiryaki~|Ziya Gökalp@|İsa Çavuş~|İsmet İnönü@|Şahin~
+42363	Cumhuriyet Mah.	1.~|2.~|3.~|4.~|5.~|6.~|Ertuğrul Gazi~|Karaman~|Keşlik=|Kıbrıs@|Orhan Gazi~|Osman Gazi~|Suludere~|Tekke~|Yamaç~|Yağmur~|Çay~|İstasyon 1.=|İstasyon@|Şht. Sami Altunel~
+181803	Derbentbaşı Mah.	Derbentbaşı=
+181805	Doğanlı Mah.	Doğanlı=
+181807	Erdemli Mah.	Erdemli=|Kıbrıs@
+42365	Fatih Mah.	111.~|112.~|113.~|114.~|115.~|116.~|Besi Ahırları 1.=|Erciyes~|Fevzi Çakmak~|Güngör 1.~|Hacı Emin~|Harman~|Kara Abdullah~|Kazım Karabekir~|Korkmaz~|Kıbrıs@|Mehmet Akif~|Sarı~|Sazyolu~|Yastıkçılar~|Yurt~|Zafer~|İsmet İnönü@
+42366	Fevzioğlu Mah.	202.=|215.~|217.~|251.~|Atatürk@|Başak~|Dumlupınar~|Kıbrıs@|Kırbıyık~|Lise@|Sancak~|Tavacık~|İstasyon@
+181809	Gülbayır Mah.	Gülbayır=|Kıbrıs@
+42367	Güney Mah.	22.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|Demet~|Ertuğrul Gazi~|Esen~|Garipler~|Koca İmam~|Köşk~|Molla Ağa~|Müderris~|Park~|Taşlı~|Yaprak~|Şıh Aliler~
+181811	Güzelöz Mah.	Güzelöz=|Şht. Mehmet Güngördü@
+181815	Kale Mah.	Kale=
+42369	Karacabey Mah.	131.~|132.~|133.~|134.~|135.~|136.~|137.~|138.~|139.~|140.~|141.~|142.~|143.~|144.~|145.~|146.~|147.~|148.~|149.~|150.~|151.~|152.~|153.~|154.~|155.~|156.~|157.~|158.~|159.~|160.~|161.~|162.~|201.=|215.~|Bilge~|Cevizli~|Dal~|Hızır İlyas~|Kafkas~|Kıbrıs@|Lale~|Lise@|Milli Egemenlik@|Mimar Sinan~|Sanayi Sitesi 1.@|Sanayi Sitesi 2.@|Sanayi Sitesi 3.@|Ulus~|Yavuz~|Zümrüt~|Çamlıca~|Çiğdem~|Öztürk~|İstasyon@
+181819	Kavak Mah.	Kavak=
+181821	Kayadibi Mah.	Kayadibi=
+42370	Keler Mah.	51.@|57.~|61.~|62.~|63.~|64.~|65.~|66.~|67.~|68.~|69.~|70.~|93.~|94.~|Ali Kahyalar~|Bayraktar~|Havdura~|Koca Bey~|Kocatepe~|Koçumlar@|Kuyu Beleği@|Tatlısu~|Tepe~|İsa Çavuş~|Şahin~
+181823	Keşlik Mah.	Keşlik=
+181825	Kovalı Mah.	Kovalı=
+42372	Kuzey Mah.	207.=|51.@|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|60.~|Bayraktar~|Camii Kebir@|Hacı Katip~|Hisar 1.~|Koca İmam~|Mustafa Çavuş~|Papatya~|Sıvama~|Tatlısu~|Tepe~|Yenigün~
+181827	Kuşçu Mah.	Kuşçu=
+42371	Köşk Mah.	21.~|22.~|Atalay~|Atatürk@|Emre~|Ertuğrul Gazi~|Gülşani 1.~|Gülşani 2.~|Güney~|Güngör~|Küpeli~|Molla Ağa~|Müezzinler~|Park~|Pınar@|Sivri~|Tarım~|Tüfekçibaşı~|Yüzbirler~|İstasyon@|Şıh Aliler~
+42373	Mahmudiye Mah.	101.~|102.~|103.~|104.~|105.~|106.~|206.=|253.~|76.~|77.~|78.~|79.~|80.~|85.~|86.~|87.~|88.~|Adnan Menderes~|Bahri Hoca~|Birlik~|Doğan~|Hacı Emin~|Harmancı~|Kara Mustafa Paşa@|Karagöz~|Kekik~|Kepenek~|Kocatepe~|Kuyu~|Köse~|Kıbrıs@|Orta~|Sazyolu~|Yayla~|Yıldız~|İsmet İnönü@|Şht. İsmail Oturak~
+181831	Musahacılı Mah.	Musahacılı=
+181833	Ovaçiftlik Mah.	Ovaçiftlik=
+181835	Soğanlı Mah.	Soğanlı=|Yukarı Soğanlı=
+42374	Yavuz Selim Mah.	121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|130.~|163.~|164.~|165.~|166.~|167.~|168.~|169.~|170.~|171.~|180.~|181.~|182.~|184.~|185.~|186.~|70.~|Bahçe~|Besi Ahırları=|Cami~|Fatih~|Hacı Fatma~|Kuyu~|Kıbrıs@|Kılcan@|Park 1.~|Sağlık~|Stadyum@|Tevliyet=|Toki 2.@|Toki@|Ulu Camii@|Zengibar@|Çamlıca 1.~|Çınar@|İlim~|İsmet İnönü@|Şehitler@
+42375	Yenişehir Mah.	41.~|42.~|Bayraktar~|Bozoklu~|Colpa~|Dere~|Değirmen~|Garipler~|Koru~|Nar~|Oğuzlar~|Yenigün~|Yörükler~|Çamlık~|Çevik~
+181837	Yeşilova Mah.	Yeşilova=
+181801	Çadırkaya Mah.	Çadırkaya=
+42368	İdris Mah.	204.=|217.~|251.~|252.~|253.~|91.~|93.~|94.~|95.~|96.~|97.~|Camikebir@|Cevizli Çarşı~|Cumhuriyet@|Ergen~|Kara Mustafa Paşa@|Kendirler~|Kocatepe~|Kıbrıs@|Sönmez~|İsmet İnönü@|Şafak~|Şht. İsmail Oturak~
+181813	İçmece Mah.	Kıbrıs@|İçmece=

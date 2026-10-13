@@ -1,0 +1,206 @@
+77437	Akseki Köyü	 Köy$
+77439	Akseki Köyü, Düzpelit Mevkii	 Köy$
+139438	Akseki Köyü, Karakum Mevkii	 Köy$
+77441	Akseki Köyü, Soğanlı Mevkii	 Köy$
+77440	Akseki Köyü, Yukarı Ağıllar Mevkii	 Köy$
+77438	Akseki Köyü, Yukarı Mevkii	Akpınar Köy$
+77578	Aksu Köyü	 Köy$
+77580	Aksu Köyü, Baş Yayla Evleri	 Köy$
+77584	Aksu Köyü, Ecek Mevkii	 Köy$
+77585	Aksu Köyü, Eski Köy Mevkii	 Köy$
+77582	Aksu Köyü, Evelikli Yayla Evleri	 Köy$
+77579	Aksu Köyü, Kabaoğlu Mevkii	 Köy$
+77581	Aksu Köyü, Pınarlıyurt Mevkii	 Köy$
+77583	Aksu Köyü, Yağlıca Mevkii	 Köy$
+77443	Aydınlar Köyü	Merkez Köy$|Toki Konutları Köy$
+77444	Aydınlar Köyü, Körce Tuzla Mezrası	 Köy$
+77446	Aydınlar Köyü, Kösedağ Yayla Evleri	 Köy$
+77445	Aydınlar Köyü, Öküz Uçuran Yayla Evleri	 Köy$
+70446	Aşağıkale Mah.	Bükebağı=|Kale Dibi~|Meletlioğlu~|Sarıkaya~|Tokat@|Şehit Ömer Coşkun~
+77450	Bahçe Köyü	 Köy$
+77448	Bahçe Köyü, Karaçay Mevkii	 Köy$
+77447	Bahçe Köyü, Kozalağan Mezrası	 Köy$
+77449	Bahçe Köyü, Üçmerek Mezrası	 Köy$
+77586	Ballıca Köyü	 Köy$
+77588	Ballıca Köyü, Ballıca Başyayla Yayla Evleri	 Köy$
+77589	Ballıca Köyü, Ballıca Büyükdüz Yayla Evleri	 Köy$
+77591	Ballıca Köyü, Ballıca Evelikli Yayla Evleri	 Köy$
+77590	Ballıca Köyü, Dere Tarla Mevkii	 Köy$
+77593	Ballıca Köyü, Doluca Mevkii	 Köy$
+77592	Ballıca Köyü, Gesteliç Mevkii	 Köy$
+77594	Ballıca Köyü, Gümüşcek Mevkii	 Köy$
+77596	Ballıca Köyü, Karşı Mevkii	 Köy$
+77587	Ballıca Köyü, Yanıkağıl Mevkii	 Köy$
+77595	Ballıca Köyü, Çulhasamanlığı Mevkii	 Köy$
+77455	Boyalı Köyü	 Köy$
+77453	Boyalı Köyü, Fındıklı Mezrası	 Köy$
+77451	Boyalı Köyü, Karaca Ali Mezrası	 Köy$
+77452	Boyalı Köyü, Koça Bahçesi Çifliği Mezrası	 Köy$
+77454	Boyalı Köyü, Sarıçiçek Yaylası Yayla Evleri	 Köy$
+77456	Bozkuş Köyü	 Köy$
+77459	Bozkuş Köyü, Bozkuş Tekiralan Mezrası	 Köy$
+77457	Bozkuş Köyü, Bozkuş Yayla Evleri	 Köy$
+70447	Camiikebir Mah.	1. S~|13.s~|15.s~|16. S~|17.s~|2. S~|3. S~|4. S~|5. S~|6.s~|Akbulut~|Atatürk@|Ayındon@|Bilal Bülent Acar@|Bürükiçi~|Cengizhan~|Cumhuriyet@|Dede Korkut@|Dündarlı~|Erdem~|Eğriçimen Yolu@|Fatih@|Güleç~|Hamdi Helva~|Helvalı~|Hükümet Myd.|Karakollukçu~|Keltek~|Muhsin Yazıcıoğlu@|Nene Hatun~|Ordu@|Piri Reis~|S 6~|S3~|Sakarya@|Sanayi~|Sağlık=|Uygur=|Yazı Tarla 1.~|Yazı Tarla 2.~|Yazı Tarla 3.~|Yurt@|Ziya Gökalp=|Çetin~|Ömür~|Öğretmen Bedrettin Güngör@|Şehitlik~
+77465	Değirmentaş Köyü	 Köy$
+77466	Değirmentaş Köyü, Kösedağı Yayla Evleri	 Köy$
+77467	Dilekli Köyü	 Köy$
+77468	Dilekli Köyü, Ağılyazı Mevkii	 Köy$
+77469	Dilekli Köyü, Yokuşdibi Mezrası	 Köy$
+77470	Ekinözü Köyü	 Köy$
+77471	Ekinözü Köyü, Beşoluk Mezrası	 Köy$
+77472	Ekinözü Köyü, Kösedağ (eskiyayla) Yayla Evleri	 Köy$
+77474	Gökdere Köyü	 Köy$
+77475	Gökdere Köyü, Aydınlı Mezrası	 Köy$
+77476	Gölcük Köyü	 Köy$
+77478	Gölcük Köyü, Gölcük Handüzü Yayla Evleri	 Köy$
+77477	Gölcük Köyü, Gölcük Sazak Mezrası	 Köy$
+77611	Gümüşlü Köyü	 Köy$
+77617	Gümüşlü Köyü, Alaçam Mezrası	 Köy$
+77616	Gümüşlü Köyü, Danışmanlı Mevkii	 Köy$
+77612	Gümüşlü Köyü, Derekıyısı Mevkii	 Köy$
+77614	Gümüşlü Köyü, Eski Mevkii	 Köy$
+77619	Gümüşlü Köyü, Gümüşlü Çakmaklı Yayla Evleri	 Köy$
+77620	Gümüşlü Köyü, Gümüşlü Şabdaş Yayla Evleri	 Köy$
+77618	Gümüşlü Köyü, Sulupara Mezrası	 Köy$
+77615	Gümüşlü Köyü, Yeni Mevkii	 Köy$
+77613	Gümüşlü Köyü, Şapkama Mevkii	 Köy$
+77479	Günışık Köyü	 Köy$
+77480	Günışık Köyü, Günışık Karabayır Yayla Evleri	 Köy$
+77481	Günışık Köyü, Günışık Sultan Yazısı Mezrası	 Köy$
+77626	Güzelyurt Köyü, Acıdere Mevkii	 Köy$
+77622	Güzelyurt Köyü, Akçabel Yaylası Yayla Evleri	 Köy$
+77625	Güzelyurt Köyü, Bağlıca Mevkii	 Köy$
+77621	Güzelyurt Köyü, Başalan Yaylası Yayla Evleri	 Köy$
+77629	Güzelyurt Köyü, Budama Mevkii	 Köy$
+77623	Güzelyurt Köyü, Elmaalan Mevkii	 Köy$
+77628	Güzelyurt Köyü, Kecini Mevkii	 Köy$
+77630	Güzelyurt Köyü, Merkez Mevkii	 Köy$
+77624	Güzelyurt Köyü, Sayderesi Mevkii	 Köy$
+77627	Güzelyurt Köyü, Suludere Mevkii	 Köy$
+77482	Hacıilyas Köyü	 Köy$
+77483	Hacıilyas Köyü, Hacıilyas Arpacık Yayla Evleri	 Köy$
+77491	Kadife Köyü, A.söğütlü Mevkii	 Köy$
+77495	Kadife Köyü, Akbulut Mevkii	 Köy$
+77498	Kadife Köyü, Dere Mevkii	 Köy$
+77499	Kadife Köyü, Elmalı Mevkii	 Köy$
+77497	Kadife Köyü, Güvendik Mevkii	 Köy$
+77489	Kadife Köyü, Kuruseki Mevkii	 Köy$
+77500	Kadife Köyü, Merkez Mevkii	 Köy$
+77492	Kadife Köyü, Tarlabaşı Mevkii	 Köy$
+77490	Kadife Köyü, Y.söğütlü Mevkii	 Köy$
+77496	Kadife Köyü, Yazı Mevkii	 Köy$
+77493	Kadife Köyü, Çalışkanlar Mevkii	 Köy$
+77494	Kadife Köyü, Çicek Kayası Mevkii	 Köy$
+77501	Kalebaşı Köyü	 Köy$
+77513	Kalebaşı Köyü, Ardıçalan Mevkii Yayla Evleri	 Köy$
+77505	Kalebaşı Köyü, Ardıçalan Yayla Evleri	 Köy$
+77511	Kalebaşı Köyü, Ağcahisar Mezrası	 Köy$
+77504	Kalebaşı Köyü, Aşağı Mevkii	 Köy$
+77512	Kalebaşı Köyü, Köle Tarlası Mevkii	 Köy$
+77508	Kalebaşı Köyü, Kızılcalar Çiftliği Mevkii	 Köy$
+77510	Kalebaşı Köyü, Kızılçukur Mevkii	 Köy$
+77506	Kalebaşı Köyü, Mimli Mevkii	 Köy$
+77507	Kalebaşı Köyü, Paşapınar Mevkii	 Köy$
+77509	Kalebaşı Köyü, Yanıkyurt Mevkii	 Köy$
+77502	Kalebaşı Köyü, Yukarı Mevkii	 Köy$
+77514	Karaçam Köyü	 Köy$
+77518	Karaçam Köyü, Ağca Taş Yayla Evleri	 Köy$
+77516	Karaçam Köyü, Beyderesi Mezrası	 Köy$
+77515	Karaçam Köyü, Fındıklı Mevkii	 Köy$
+77517	Karaçam Köyü, Turhu Yayla Evleri	 Köy$
+77633	Kavacık Köyü	 Köy$
+77632	Kavacık Köyü, Eskiköy Mevkii	 Köy$
+77631	Kavacık Köyü, Seyfettin Yaylası Yayla Evleri	 Köy$
+77519	Kayaören Köyü	 Köy$
+77520	Kayaören Köyü, Cevizli Mevkii	 Köy$
+77521	Kayaören Köyü, Kalın Pınar Yayla Evleri	 Köy$
+77639	Kurşunlu Köyü	 Köy$
+77642	Kurşunlu Köyü, Kurşunlu Maden Mevkii	 Köy$
+77641	Kurşunlu Köyü, Kurşunlu Çakmaklı Yayla Evleri	 Köy$
+77640	Kurşunlu Köyü, Kurşunlu Şabtaş Yayla Evleri	 Köy$
+77643	Küplüce Köyü	 Köy$
+77522	Kılıçpınarı Köyü	 Köy$
+77637	Kızılelma Köyü, Asarcık Mevkii	 Köy$
+77634	Kızılelma Köyü, Hoşgadem Yaylası Yayla Evleri	 Köy$
+77638	Kızılelma Köyü, Kızılelma Mevkii	 Köy$
+77636	Kızılelma Köyü, Yeni Yayla Yayla Evleri	 Köy$
+77635	Kızılelma Köyü, Çalova Yaylası Yayla Evleri	 Köy$
+70448	Orta Mah.	Atatürk 2@|Ağcalı~|Cami Yanı@|Cemil Odyakmaz@|Demirtaş~|Derebaşı=|Dr.mehmet Ergin~|Eminler=|Eren=|Hasan Sis@|Kenan Arıcan@|Kiraz~|Kuşkuşlar~|Külahlı~|Zabunlar@|Çamlıyaka@|Şükrü Baysal@
+77569	Ortaköy Köyü	 Köy$
+77570	Ortaköy Köyü, Damatlar Mevkii	 Köy$
+77576	Ortaköy Köyü, Demirasar Yayla Evleri	 Köy$
+77575	Ortaköy Köyü, Horozalan Yayla Evleri	 Köy$
+77571	Ortaköy Köyü, Orta Mevkii	 Köy$
+77577	Ortaköy Köyü, Sarıalan Yayla Evleri	 Köy$
+77573	Ortaköy Köyü, Yetimler Mevkii	 Köy$
+77572	Ortaköy Köyü, Çiftlik (eskiköy) Mezrası	 Köy$
+77574	Ortaköy Köyü, Çiğseli Yayla Evleri	 Köy$
+77523	Ortaseki Köyü	 Köy$
+77524	Ortaseki Köyü, Bağlıyurt Mevkii	 Köy$
+77531	Ortaseki Köyü, Bostanderesi Mevkii	 Köy$
+77526	Ortaseki Köyü, Direkli Mh. Mevkii	 Köy$
+77530	Ortaseki Köyü, Direkli Yayla Evleri	 Köy$
+77533	Ortaseki Köyü, Koncalan Yayla Evleri	 Köy$
+77528	Ortaseki Köyü, Koçalı Mevkii	 Köy$
+77525	Ortaseki Köyü, Mekan Mevkii	 Köy$
+77529	Ortaseki Köyü, Sarı Çiçek Yayla Evleri	 Köy$
+77532	Ortaseki Köyü, Topalağan Yayla Evleri	 Köy$
+77527	Ortaseki Köyü, Çimenli Mevkii	 Köy$
+77534	Sarıharman Köyü	 Köy$
+77535	Sarıharman Köyü, Deryapınarı Yayla Evleri	 Köy$
+77536	Sarıharman Köyü, Terekeme Mezrası	 Köy$
+77537	Sarıkaya Köyü	 Köy$
+77538	Sarıkaya Köyü, Sarıkaya Yaylası Yayla Evleri	 Köy$
+70449	Subaşı Mah.	Eğriçimen 1~|Eğriçimen 10~|Eğriçimen 11~|Eğriçimen 12~|Eğriçimen 13~|Eğriçimen 14~|Eğriçimen 15~|Eğriçimen 16=|Eğriçimen 17~|Eğriçimen 2~|Eğriçimen 3~|Eğriçimen 4~|Eğriçimen 5~|Eğriçimen 6=|Eğriçimen 7~|Eğriçimen 8~|Eğriçimen 9~|Eğriçimen-ı@|Eğriçimen-ıı@|Eğriçimen-ııı@|Kavacık=|Müseri=|Sabri Demirtaş Sosyal Tesisler=|Çakıl=
+77539	Sugözü Köyü	 Köy$
+77541	Sugözü Köyü, Dağönü Mezrası	 Köy$
+77540	Sugözü Köyü, Sorhun Mezrası	 Köy$
+77543	Sütlüce Köyü	 Köy$
+77542	Sütlüce Köyü, Sütlüce Yaylası Yayla Evleri	 Köy$
+77544	Taşpınar Köyü	 Köy$
+77545	Taşpınar Köyü, Taşpınar Arpacık Yayla Evleri	 Köy$
+77546	Taşpınar Köyü, Taşpınar Koşoluk Yayla Evleri	 Köy$
+70451	Tuğladağı Mah.	1.~|10.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26~|27.~|28.~|29.~|30~|31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|40.~|41.~|42.~|43.~|44.~|6.~|8.~|9.~|Aydoğdu@|Bahçeli Evler@|Basmazlı~|Batmaz=|Cafarlar=|Cemil Odyakmaz@|Cennet~|Elvesi=|Esenkent 1@|Esenkent 2@|Esenkent 3@|Esenkent 4@|Esenkent 5@|Esenkent@|Mehmet Akif Ersoy~|Recepli~|Subaşı~|Ustagil=|Ömer Fikri Yıldırım~|Şehit Asker Ergin Keleş~|Şehit Asker Sedai Özer~|Şehit Jandarma Astsubay Başçavuş Sıddık Uluocak~|Şehit Jandarma Er Nuh Kaya~
+77550	Yalnıztepe Köyü	 Köy$
+77554	Yalnıztepe Köyü, Kalınpınar Yayla Evleri	 Köy$
+77552	Yalnıztepe Köyü, Kartallı Mevkii	 Köy$
+77553	Yalnıztepe Köyü, Yağmurlu Mevkii	 Köy$
+77551	Yalnıztepe Köyü, Yemişli Mevkii	 Köy$
+77547	Yağcılar Köyü	 Köy$
+77549	Yağcılar Köyü, Yaylalar Yayla Evleri	
+77548	Yağcılar Köyü, Yağcılar Yaylası Yayla Evleri	 Köy$
+77555	Yeniarslan Köyü	 Köy$
+77556	Yeniarslan Köyü, Yeniaslan Yaylası Yayla Evleri	 Köy$
+77644	Yenice Köyü	 Köy$
+77645	Yenice Köyü, Yenice Yaylası Yayla Evleri	 Köy$
+77557	Yeşilyurt Köyü	 Köy$
+77559	Yeşilyurt Köyü, Kümbet Yayla Evleri	 Köy$
+77560	Yolüstü Köyü	 Köy$
+77561	Yolüstü Köyü, Yapı Mh. Mevkii	 Köy$
+99554	Yukarıkale Mah.	Binektaşı~|Kalınpınar Yaylası~|Köprü Başı~|Merkez~|Topçulu~|İncirli Tarla~
+77610	Çandır Köyü	 Köy$
+77604	Çandır Köyü, Gödük Deresi Mevkii	 Köy$
+77608	Çandır Köyü, Halaçkaşı Mevkii	 Köy$
+77601	Çandır Köyü, Hasan Tamı Mevkii	 Köy$
+77600	Çandır Köyü, Havzul Mezrası	 Köy$
+77609	Çandır Köyü, Karanlıca Yaylası Yayla Evleri	 Köy$
+77607	Çandır Köyü, Kır Yayla Yayla Evleri	 Köy$
+77603	Çandır Köyü, Kızıl Kaya Yayla Evleri	 Köy$
+77602	Çandır Köyü, Kızıltaş Yayla Evleri	
+77598	Çandır Köyü, Leykün Mezrası	 Köy$
+77606	Çandır Köyü, Maden Fabrikası Mevkii	 Köy$
+77605	Çandır Köyü, Medrese Mevkii	 Köy$
+77597	Çandır Köyü, Torunlar Mezrası	 Köy$
+77599	Çandır Köyü, İlyaslı Mezrası	 Köy$
+77460	Çaylı Köyü	 Köy$
+77461	Çaylı Köyü, Çaylı İlefolu Yayla Evleri	 Köy$
+77462	Çiçeközü Köyü	 Köy$
+77463	Çiçeközü Köyü, Dipsizgöl Yayla Evleri	 Köy$
+183096	Çukuroba Köyü, Bayramca Mevkii	
+77464	Çukuroba Köyü, Köyün Kendisi Mevkii	 Köy$
+77484	İkizyaka Köyü	 Köy$
+77485	İkizyaka Köyü, İkizyaka Kengercik Yayla Evleri	 Köy$
+77486	İskenderşeyh Köyü	 Köy$
+77487	İskenderşeyh Köyü, Elmalı Yayla Evleri	 Köy$
+77488	İskenderşeyh Köyü, Sırganlı Yayla Evleri	 Köy$
+70450	Şeyhler Mah.	Furtana 1=|Furtana 2~|Kapıcı=|Tokat@

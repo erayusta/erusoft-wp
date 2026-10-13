@@ -1,0 +1,85 @@
+91241	Ahmetçiler Mah.	Ahmetçiler 2~|Ahmetçiler/1~|Alacapınar 1 Nolu~|Alacapınar~|Alaplı Yolu 1 Nolu~|Alaplı Yolu~|Dr. Devlet Bahçeli@|Harmanyolu=|Hebeler Yolu~|Kalıcı Konutlar=|Yeniyol~|Ziya Gökalp 1~|Ziya Gökalp~
+98097	Aksaklar Köyü, Mehmetköy Mevkii	Mehmetköy=
+98098	Aksaklar Köyü, Orta Mevkii	Orta=|Çırnık=
+98099	Aksaklar Köyü, Çırnık Mevkii	Orta=|Çırnık=
+98094	Akçaören Köyü, Merkez Mevkii	Merkez=|İsmailçayırı=
+98096	Akçaören Köyü, Turnacılar Mevkii	Turnacılar=|İsmailçayırı=
+98095	Akçaören Köyü, İsmailçayırı Mevkii	Hasanlar=|Merkez=|İsmailçayırı=
+98100	Asar Köyü	Asar=
+91242	Atatürk Mah.	1 Nolu~|Atatürk 3~|Atatürk 4~|Atatürk 5~|Atatürk 6~|Atatürk 7~|Atatürk@|Atatürk/1~|Atatürk/2~|Azizler 1~|Azizler@|Camii~|Dibektarla~|Dr. Devlet Bahçeli@|Esler-~|Eğitim~|Gül~|Hacı Asım 1~|Hacı Asım 2~|Hacı Asım~|Hürriyet~|Karanfil~|Lale~|Milli Egemenlik@|Milli Egemenlik1~|Mimar Sinan~|Molla Hasan~|Molla Hasan-~|Papatya~|Rıdvan Altun~|Rıdvan Altun1~|Şevket Yıldırım-~
+98101	Aydınyayla Köyü	Aydınyayla=|Çiftlik=
+98104	Bekirler Köyü, Melen Kıyısı Mevkii	Dokuz=|Melen Kıyısı=|Çorak=
+98102	Bekirler Köyü, Merkez Mevkii	Merkez=|Çorak=
+98103	Bekirler Köyü, Çorak Mevkii	Çorak=
+98115	Dibektaş Köyü, Avutluk Mevkii	Avutluk=
+98113	Dibektaş Köyü, Elmas Mevkii	Elmas=
+98114	Dibektaş Köyü, Kuruhüseyin Mevkii	Kuruhüseyin=
+98112	Dibektaş Köyü, Merkez Mevkii	Dibektaş Merkez=
+98116	Doğanlar Köyü, Merkez Mevkii	Mehmetköy=|Merkez=
+98117	Doğanlar Köyü, Vayıslar Mevkii	Vayıslar=
+98118	Dutlar Köyü, Aydın Mevkii	Aydın=
+98119	Dutlar Köyü, Merkez Mevkii	Dutlar Merkez=
+98120	Gaziler Köyü	Gaziler=
+98121	Gelenöz Köyü	Gelenöz=
+98124	Geriş Köyü, Güney Mevkii	Güney=
+98122	Geriş Köyü, Merkez Mevkii	Merkez=|Setlik=
+98123	Geriş Köyü, Setlik Mevkii	Merkez=|Setlik=
+98127	Gökçeağaç Köyü, Kazaklar Mevkii	Kazaklar=
+98125	Gökçeağaç Köyü, Merkez Mevkii	Merkez=|Sarıkaya=
+98129	Gökçeağaç Köyü, Yörükler Mevkii	Yörükler=
+98128	Gökçeağaç Köyü, Şaban Mevkii	Şaban=
+98126	Gökçeağaç Köyü, Şabanlar Mevkii	Şabanlar=
+98130	Güney Köyü	Güney=
+98778	Güney Köyü, Güneyaltı Mevkii	Sanayi~|Yığılca=
+98131	Hacılar Köyü, Aşağı Mevkii	Aşağı=|Vayıslar=
+98132	Hacılar Köyü, Yukarı Mevkii	Yukarı=
+98134	Hacıyeri Köyü, Dokuz Mevkii	Dokuz=
+98133	Hacıyeri Köyü, Merkez Mevkii	Merkez=
+98135	Hebeler Köyü	Hebeler=|Köseler=
+98137	Hocaköy Köyü, Orta Mevkii	Orta=|Yaplar=|Yukarı=
+98136	Hocaköy Köyü, Yukarı Mevkii	Mengen=|Yukarı=
+98140	Hocatman Köyü, Belen Mevkii	Belen=
+98139	Hocatman Köyü, Kirseyanı Mevkii	Dokuz=|Kirseyanı=
+98138	Hocatman Köyü, Merkez Mevkii	Merkez=
+98142	Hoşafoğlu Köyü, Aksu Mevkii	Aksu=
+98141	Hoşafoğlu Köyü, Merkez Mevkii	Merkez=
+98144	Karakaş Köyü, Merkez Mevkii	Merkez=|Resuller=|Yoğunpelit=
+98145	Karakaş Köyü, Yaplar Mevkii	Yaplar=
+98150	Kocaoğlu Köyü, Merkez Mevkii	Merkez=|Tavukpınarı=|Yukarı Akçaören=
+98152	Kocaoğlu Köyü, Pınarcık Mevkii	Petekli=|Pınarcık=|Tantan Kuyu=
+98151	Kocaoğlu Köyü, Yukarı Akçaören Mevkii	Tuğrul=|Yukarı Akçaören=
+98153	Köseler Köyü	Köseler=|Mehmetköy=
+98147	Kırık Köyü, Karakiraz Mevkii	Karakiraz=
+98146	Kırık Köyü, Merkez Mevkii	Merkez=
+98148	Kırık Köyü, Salavat Mevkii	Salavat=
+98149	Kırık Köyü, Çayırcık Mevkii	Çayırcık=
+91243	Mareşal Fevzi Çakmak Mah.	Ahmet Yesevi~|Gökçe Ağaç@|Harmantepe Yolu~|Mareşal Fevzi Çakmak 1~|Mareşal Fevzi Çakmak 2~|Mareşal Fevzi Çakmak 3~|Mareşal1 Eski~|Çamyuva Kümeevleri=|İncirler=
+98154	Mengen Köyü	Mengen=|Orta=|Yukarı=
+98155	Naşlar Köyü, Merkez Mevkii	Merkez=|Şerenaltı=
+98156	Naşlar Köyü, Şerenaltı Mevkii	Şerenaltı=
+98157	Orhangazi Köyü	Orhangazi=
+91244	Orhangazi Mah.	Atatürk@|Cumhuriyet@|Dr. Devlet Bahçeli@|Erenler@|Gaziler~|Güney- Köy$|Hasan Çamlı~|Kedi Pınar 1~|Kedi Pınar 2~|Kedi Pınar 3~|Kedi Pınar 4~|Kedi Pınar@|Kedi Pınar5~|Menekşe~|Mert~|Orhan Gazi~|Orhangazi/2~|Orhangazi/3~|Orhangazi/4~|Orhangazi/5~|Recep Tayyip Erdoğan@|Recep Temizel~|Stad~|Çakıl~
+98159	Redifler Köyü, Doğancılar Mevkii	Doğancılar=
+98158	Redifler Köyü, Merkez Mevkii	Merkez=|Yağcılar=
+98160	Sarıkaya Köyü	Aksu=|Salavat=|Sarıkaya=
+98165	Tuğrul Köyü	Asar=|Tuğrul=
+98163	Tıraşlar Köyü, Dağ Mevkii	Dağ=
+98162	Tıraşlar Köyü, Köseler Mevkii	Alaplı Yolu~|Dağ=|Köseler=|Yukarı=
+98161	Tıraşlar Köyü, Merkez Mevkii	Kedi Pınar@|Merkez=
+98167	Yaylatepe Köyü	Yaylatepe=
+98166	Yağcılar Köyü	Merkez=|Yağcılar=
+98168	Yeniyer Köyü, Kuruca Mevkii	Kuruca=
+98169	Yeniyer Köyü, Merkez Mevkii	Yeniyer Merkez=
+98174	Yoğunpelit Köyü	Yoğunpelit=
+98171	Yılgın Köyü, Aşağı Mevkii	Aşağı=
+98170	Yılgın Köyü, Dereiçi Mevkii	Dereiçi=|Merkez=
+98173	Yılgın Köyü, Osmancık Mevkii	Osmancık=
+98172	Yılgın Köyü, Yukarı Mevkii	Yukarı=
+98105	Çamlı Köyü, Güney Mevkii	Güney=
+98106	Çamlı Köyü, Kuzey Mevkii	Kuzey=
+98108	Çamlı Köyü, Tavukpınarı Mevkii	Tavukpınarı=|Yukarı=
+98107	Çamlı Köyü, Yukarı Mevkii	Kuzey=|Yukarı=
+98109	Çiftlik Köyü	Çiftlik=
+98110	Çukurören Köyü, Merkez Mevkii	Merkez=
+98111	Çukurören Köyü, Resuller Mevkii	Resuller=
+98143	İğneler Köyü	İğneler=

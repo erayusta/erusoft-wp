@@ -1,0 +1,10 @@
+80033	Akpınar Mah.	Adnan Kahveci Köprüsü~|Akpınar=|Alaeddin Kurt@|Atatürk@|Vali Recep Yazıcıoğlu@
+156793	Arpalı Mah.	Cerah Yayla=|Göl=|Kutlusu Yayla=|Köşk Yayla=|Limiya=|Merkez=|Sulak Yayla=|Taşlı Yayla=|Yeni Yayla=|Yukarı Mavreyas=|İsmailağa Yayla=
+156791	Beşköy Mah.	Abukam=|Aspalo=|Aşağı=|Dr.adnan Kahveci 1~|Dr.adnan Kahveci@|Esenler=|Gal Yaylası-=|Gündoğan 2=|Harmantepe Şehitliği Ağaçbaşı-=|Kahvedüzü-=|Merkez-=|Mesehor=|Okul Ve Cami=|Orta Cami=|Orta=|Sıcakoba Yaylası-=|Yangın Yayla-=|Yarıyol Sğuksu Ebeler Gangeller=|Yukarı=|Yıldızlı=|Yıldızlı1=
+185442	Büyükdoğanlı Mah.	Abukam=|Arı Irmağı=|Aspalo=|Ağaçbaşı Yayla=|Barma Yayla=|Gal Yaylası=|Harmantepe Şehitliği Ağaçbaşı=|Merkez=|Seslikaya Yayla=|Sıcakoba Yaylası=|Vizera Yayla=|Yamaç=|Yamaç1=|Yamaç2=|Yamaç3=|Yangın Yayla=|Yarıyol Sğuksu Ebeler Gangeller=
+80034	Fidanlı Mah.	Adnan Kahveci Köprüsü~|Akpınar=|Alaeddin Kurt@|Atatürk@|Fidanlı=|Fidanlı1=|Purtulli=
+80035	Gündoğan Mah.	Adnan Kahveci@|Adnan Kahveci Köprüsü~|Cumhuriyet~|Gündoğan 1=|Gündoğan 2=|Gündoğan 3=|Gündoğan 4=|Karaismailli=|Vali Recep Yazıcıoğlu@|Çıkmaz~|İbrahim Kralı 1~|İbrahim Kralı@|İsalar=
+156797	Güneşli Mah.	Alçaksıra=|Düz=|Erikli=|Fındıklık=|Gündoğan 1=|Halevli Yatak=|Kacalak=|Karaismailli=|Kokimel=|Limis=|Çeşba=|İsalar=|Şoğon=
+182064	Pınarbaşı Mah.	Doğan=|Görnek Yayla=|Kamelya=|Orta Sok.=|Pınarbaşı Emirgan=|Çanaklı Sinaysa=
+156799	Yağmurlu Mah.	Aboli=|Derin Irmaklar=|Fidanlı=|Purtulli=|Çakırlı=
+156795	Çifteköprü Mah.	Anaçlar=|Arkafol=|Arkafol1=|Aylent=|Erikli=|Erikli1=|Erikli2=|Gündoğan 2=|Kanavro=|Kazmaz=|Okul Ve Cami=|Vatoz=

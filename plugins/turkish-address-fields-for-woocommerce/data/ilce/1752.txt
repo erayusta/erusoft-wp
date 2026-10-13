@@ -1,0 +1,15 @@
+181312	Akin Mah.	37.~|41.~|43.~|48.~|49.~|51.~|54.~|55.~|60.~|63.~|65.~|66.~|67.~|69.~|72.~|73.@|74.~|75.~|Düzoğlanlar~|Kayseri 1.@|Kululu 1.@|Peltekler~|Sefler~|Ömerbeyler~|Şht. Nevzat Akyol~
+180847	Alevkışla Mah.	100.~|103.~|85.~|86.~|87.~|88.~|89.~|90.~|91.~|92.~|93.~|94.~|95.~|96.~|97.~|98.~|99.~|Alevkışla=
+180849	Ganişeyh Mah.	Ganişeyh=
+180853	Girinci Mah.	Girinci=
+180825	Gömürgen Mah.	351.~|441.~|456.~|457.~|460.~|466.~|468.~|472.~|473.~|479.=|485.~|486.~|487.~|488.~|494.~|495.~|496.~|497.~|Bayır~|Bucak~|Cami~|Efeler Çık.~|Ganişeyh Yolu~|Haceller Çık.~|Hürriyet@|Kör Ömer~|Mahmutlar Çık.~|Poyraz~|Pur~|Sarıoğlan@|Taşlıtepe~|Uğurlu~|Yamaç~|Şht.mahmut Aydeniz@|Şht.turgay Turan@
+181310	Gömürgen Yeni Mah.	501.~|502.~|504.~|505.~|506.~|507.~|508.~|513.~|521.~|522.~|523.~|524.~|540.~|543.~|545.~|547.~|548.~|550.~|555.~|558.~|560.~|561.~|562.~|566.~|Ayer~|Cami~|Dolanbaç~|Hürriyet@|Kırgılar~|Pur~|Yoncalık~|Çerkez Yolu~|Çeşme~|Şht. Ertuğrul Taciroğulları~|Şht.mahmut Aydeniz@|Şht.recep Eröz@
+180855	Gümüşsu Mah.	Gümüşsu=
+180837	Kululu Mah.	214.~|215.~|220.~|221.~|222.~|226.~|228.~|232.~|234.~|235.~|236.~|238.~|239.~|240.~|241.~|242.~|243.~|250.~|251.~|253.~|256.~|258.~|259.~|260.~|262.~|265.~|266.~|270.=|271.~|273.~|275.~|276.~|281.~|283.~|285.~|286.~|287.~|288.~|289.~|290.~|291.~|292.~|294.~|295.~|296.~|297.~|299.~|Akin@|Akkışla@|Akyol~|Bayındır@|Camii~|Celiloğlu~|Göktepe~|Kavlaklar~|Purgeçidi~|Tepebaşı~|Uzunçayır~|Şht.osman Aydın@
+183244	Manavuz Mah.	10.~|11.~|12.~|13.~|16.~|17.~|2.=|20.~|21.~|24.~|25.~|26.~|28.~|29.~|30.~|31.~|6.~|7.~|Esen~|Girinci 1.@|Hacı Musalar~|Oruçoğlu~
+180857	Ortaköy Mah.	571.~|572.~|573.~|574.~|575.~|576.~|577.~|578.~|579.~|580.~|581.~|582.~|583.~|584.~|585.~|586.~|587.~|588.~|589.~|590.~|591.~|592.~|593.~|594.~|595.~|596.~|598.~|600.~|601.~|602.~|603.~|Ortaköy=
+42125	Uğurlu Mah.	415.~|416.~|419.~|421.~|422.~|425.~|Bahçe~|Ganişeyh 1.@|Kale~|Kayseri@
+42126	Yeni Mah.	106.=|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|117.~|118.~|119.~|120.~|122.~|125.~|134.~|135.~|137.~|139.~|143.~|146.~|147.~|148.~|156.~|160.~|162.~|163.~|164.~|168.~|Akdere~|Elmalı~|Hacı Ali Taştan@|Hastane@|Kayseri@|Kemal Aydın~|Kululu@|Prof.dr. Ahmet Uğur@|Yeleç~|Çay~|Şht. Yılmaz Uçar@|Şht.fikret Tunç@
+42127	Yeşil Mah.	143.~|300.~|301.=|307.~|308.~|310.~|313.~|316.~|318.~|319.~|323.~|326.~|329.~|330.~|332.~|333.~|334.~|339.~|342.~|343.~|352.=|355.=|Bahçe~|Cıncıklı~|Ganişeyh 1.@|Hastane@|Kayseri@|Nergizli~|Prof.dr. Ahmet Uğur@|Yeleç~|Yeşil~|Çamlı~|Şht. Yılmaz Uçar@|Şht.ahmet Sungur@|Şht.fikret Tunç@
+42128	Yukarı Mah.	363.~|364.~|366.~|367.~|369.~|370.~|371.~|373.~|375.~|377.~|384.~|385.~|386.~|392.~|395.~|Akyol 1.~|Cevizli~|Cıncıklı~|Eser~|Gömürgen@|Karayel~|Kayseri@|Merve~|Okul~|Osmanlı~|Rüzgarlı~|Topuz~|İğdeli~|Şht. Yılmaz Uçar@|Şht.ahmet Sungur@|Şht.fikret Tunç@|Şht.mahmut Aydeniz@
+42124	Şen Mah.	176.~|177.~|183.~|190.~|193.=|195.~|197.=|198.=|Ak~|Altıevler~|Altınoğlu~|Bağlar~|Boğaz~|Döner~|Güzelyurt~|Huzur~|Kayseri@|Keklikoğlu~|Lale~|Temel~|Tepe~|Uğurlu 1.~|Çay~|Çiğdem 1.~|Çiğdem~|Şen~

@@ -1,0 +1,33 @@
+23661	Bakırlı Köyü	Bakırlı=
+23662	Bulduk Köyü	Bulduk=
+23663	Bulgurcu Köyü	Bulgurcu=
+23664	Büyükyakalı Köyü	Büyükyakalı=
+20311	Cumhuriyet Mah.	Ayan~|Eğrek~|Günay~|Gürpınar@|Hamam~|Hudut~|Kaderli~|Merkez Cami~|Mescit@|Pazar~|Sahil~|Terminal~|Yayla~|Çarşı Myd.|Çiçek~|Şehir Yolu@
+23670	Göldağı Köyü	Göldağı=
+140897	Gümerdiğin Mah.	Abdullah Mülazımoğlu 1@|Abdullah Mülazımoğlu 2@|Akyazı-~|Akçapınar@|Alican-~|Aşık Ömer~|Aşırdere~|Bayramoğlu~|Cengizoğlu~|Deprem Evleri~|Duman-~|Dumanderesi~|Erdal~|Erdaş~|Eşme~|Hayrullah~|Hürriyet 1~|Hürriyet 2~|Hüseyin Özdemir~|Kahyaoğlu~|Kalenderoğlu~|Karaarslan~|Karakaya@|Kavakçayır~|Mustafa Aydın-~|Muzaffer Arıkanoğlu~|Nebi~|Okul@|Ulusu~|Uluşen~|Veziroğlu@|Yankol~|Yançayır~|Yeşilöz Aşağı=|Yeşilöz Dereyayla=|Yeşilöz Yukarı=|Yeşilöz Çakıreşme=|Yunus Madenoğlu@|Çoraklık@|Ömer Karaağaç~|Ömer Kurtoğlu~|İlhan~|Şehit Ali Çakıroğlu~|Şehit Kadir Kelleci~|Şehit Satılmış Çatalkaya~|Şen~
+23672	Gündoğmuş Köyü	Gündoğmuş=
+23671	Gündoğmuş Köyü, Sırıklı Mezrası	Sırıklı=
+140899	Gürpınar Mah.	1.-~|10.-~|11.-~|12.-~|13.-~|14.-~|15 Temmuz Şehitler-@|15.-~|16.-~|17.-~|18.-~|19.-~|2.-~|20.-~|21.-~|22.-~|23.-~|24.-~|25.-~|26.-~|27.-~|28.-~|29.-~|3.-~|30.-~|31.-~|32.-~|33.-~|34.-~|35.-~|36.-~|37.-~|38.-~|39.-~|4.-~|40.-~|41.-~|42.-~|43.~|43.-~|44.-~|45.-~|46.-~|47.-~|48.-~|49.-~|5.-~|50.-~|51.-~|52.-~|53.-~|54.-~|55.-~|56.-~|57.-~|58.-~|59.-~|6.-~|60.-~|61.-~|62.-~|63.-~|64.-~|65.-~|66.-~|67.-~|68.-~|69.-~|7.-~|70.-~|71.-~|72.-~|73.-~|8.-~|9.-~|Akıncılar~|Aragez~|Asarardı~|Atatürk (orhan Gazi)%|Atatürk%|Barbaros~|Bayrak-~|Cevizli Dere~|Düzmeşe~|Elcegözü-~|Ergenekon~|Ertuğrul Gazi@|Gün Sazak@|Harman Yolu%|Hilal~|Kale~|Kanarya~|Kanuni~|Karakaya Yolu-~|Karakaya.~|Karamık Dere~|Karataş~|Kayı Yolu~|Kurucaöz~|Kızılcabel~|Kızılkaya Yolu-~|M. Karakaya-@|Malazgirt~|Mantarlık~|Mehmet Akif Ersoy@|Menekşe.~|Oguzlar~|Paldunkurak~|Papatya~|Sancak~|Sarıyıldız Çıkmazı~|Sevgi~|Sivridibi~|Sulucak Yolu-~|Söğütlü~|Sümbül~|Tavşan Tepesi~|Tavşan Çukuru~|Tuna~|Yavuz Sultan Selim (orhan Gazi)@|Yavuz Sultan Selim@|Yavuzlar~|Yayla Yolu-~|Yayladüzü=|Yukarı Ağacık~|Yunus Emre.@|Yurt~|Yurtlu~|Yörük Yolu~|Yıldırım Beyazıt@|Çankırı Yolu@|Çiçek.~|Çukurçam~|İbrahim Güngördü-@
+23674	Kamışköy Köyü	Kamışköy=
+23673	Kamışköy Köyü, Deprem Konutları Mezrası	Deprem Konutları=
+23675	Karahacı Köyü	Karahacı=
+23676	Karakoçaş Köyü	Karakoçaş=
+23677	Karamusa Köyü	Karamusa=
+99795	Karaören Mah.	Abalı~|Acar~|Ahlat~|Akdoğan~|Arpalık~|Aydoğdu~|Bahçe~|Baraj@|Borazan~|Cumhuriyet@|Dalyan~|Erdoğan~|Esertepe Evleri=|Eğitmen~|Fatih@|Gani~|Gazi~|Gökdemir~|Gülbahçe~|Gürcü Ana@|Hanımeli~|Harman~|Hür~|Kabakbahçe~|Kara Şakir~|Karanfil~|Kerim Pehlivan~|Koca Seyit~|Köseler~|Kıran~|Melikçe~|Millet~|Nalbant~|Neşeli~|Nuri Usta~|Okul~|Olukça~|Sağlık~|Sefer Usta~|Sultan~|Sırma~|Tanık~|Tepe~|Toruk~|Türbe~|Tütün~|Uzun~|Yunus Emre@|Yıldız~|Zaman~|Çakır~|Çamlıca~|Çamlık~|Çelik~|Çiğdem~|Çörten~|Çınar~|Özgür~|Şahin~|Şehit Sadık Erişen~|Şüheda~
+23679	Kutluşar Köyü	Kutluşar=
+23680	Küçükyakalı Köyü	Küçükyakalı=
+20312	Mahmudiye Mah.	Avcı~|Aytekin~|Camii@|Demirci~|Efendi Pınarı~|Hudut~|Karaağaç~|Mescit@|Mülayim~|Telli~|Uyanık~|Yanık~|Yavuz~|Çapçı~|Çaylık~|Özer~|Ünver~|Şehir Yolu@
+23681	Martköy Köyü	Martköy=
+23682	Martköy Köyü, Çadır Mevkii	Çadır=
+20313	Sağlık Mah.	Ahmet Erdem@|Ali Kayahorata~|Asya~|Ayhan~|Aşık~|Bayraktar~|Bulduk~|Burak Karahasanoğlu~|Camii@|Cemal Koyuncu@|Destici~|Karafakı~|Kılıçcı~|Kıryolu~|Mehmet Ünver~|Melih Gökçek@|Menekşe~|Mercan Çıkmazı~|Mescit@|Onbaşı~|Toki Evleri=|Çevik~|İsmail Açıkalın~|Şehit Kavaklı@|Şehit Murat@
+20314	Yeni Mah.	Abdulhamit Han~|Ada~|Ahmet Alpay~|Ali Çapcı~|Ateş~|Avrupa~|Aykar~|Bayramyeri~|Belça Evleri=|Buzlu~|Dutluk~|Dülger~|Esentepe~|Fahri Görgülü@|Güneş Evler=|Güneş Evleri=|Hasan Kılavuz@|Hüseyin Çulha~|Ihlamur~|Karayolları~|Kavakçayır~|Kaynakçı~|Konut~|Küçük Sanayi Sitesi 1.~|Küçük Sanayi Sitesi 2.~|Kıyak~|Kızılkaya~|Mehmet Ayanoğlu@|Mehmet Taşdelen~|Melih Gökçek@|Mozaik~|Mustafa Karakaya~|Müsellim@|Nevzat Ayaz@|Orta@|Salman~|Serin~|Sosyal~|Sultan Alparslan~|Sultan Alparslan-~|Taştepe@|Tekin~|Uğur~|Yalçın~|Yapraklı~|Yüzbaşı~|Zirve~|Zümrüt~|Çavuş~|Çimenözü~|Çorbacı~|Ören@|İkiçay~|Şehit Adem Yaşar~|Şehit Murat Saraç~|Şehit Murat Saraç-~|Şehit Veyis İlhan@
+20315	Yeniosb Mah.	1. Cadde@|2. Cadde@|3. Cadde@|4. Sokak~|7. Sokak-~|8. Sokak~|9-~|İlhan Gürsel@
+23665	Çapar Köyü	Çapar=
+23668	Çaparkayı Köyü	Çaparkayı=
+23667	Çaparkayı Köyü, Kayapınar Mezrası	Kayapınar=
+23666	Çaparkayı Köyü, Oluklu Mezrası	Oluklu=
+23669	Çerçi Köyü	Çerçi=
+23684	Ödek Köyü	Ödek=
+23683	Ödek Köyü, Demirsahan Mezrası	Demirsahan=
+23685	Özbek Köyü	Ozbek=
+23686	Özbek Köyü, Kurtsivrisi Mezrası	Kurtsivrisi=

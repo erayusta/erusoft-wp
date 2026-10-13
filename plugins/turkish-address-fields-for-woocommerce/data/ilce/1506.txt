@@ -1,0 +1,115 @@
+28775	Akboğa Köyü	 Köy$
+28776	Altıntarla Köyü	Altıntarla=|Altıntarla~
+28692	Arslantaşı Köyü	 Köy$
+28694	Arslantaşı Köyü, Seterli Mezrası	 Köy$
+28693	Arslantaşı Köyü, Ter Yaylası Yayla Evleri	 Köy$
+28689	Ağadibek Köyü	 Köy$
+28690	Ağadibek Köyü, Hopanlar Mezrası	 Köy$
+28691	Ağadibek Köyü, Yoncalı Mevkii	 Köy$
+28777	Bahçedere Köyü	Bahçedere=
+21432	Bahçelievler Mah.	Akman~|Atasoy~|Bahçe~|Gelincik~|Hacıgüllü~|Havuzlu Bahçe~|Karşı Yaka~|Koçoğlu~|Yusuf Efendi~|İstasyon@|Ş.cengiz Topel~|Ş.cuma Karadoğan~|Şerif Efendi~
+21433	Camii Kebir Mah.	Abdi Efendi=|Ali Çavuş=|Atabey=|Atatürk@|Ağapınar=|Ağmezarlık=|Bayır=|Bekir Efendi=|Celil Hoca=|Dere~|Dik~|Dutlu=|Ergene=|Eski Hükümet@|Fabrika Sahası=|Gazi Mithat Akgün~|Gölcük=|Gölgeli=|Güney=|Hazar=|Hürriyet=|Kavazbaşı=|Küpbaşı=|Kırlangıç=|Merdivenli~|Mihrap Bahçeleri=|Muhtar Mehmet Ali~|Muratoğlu=|Ordu=|Pazar~|Saadet=|Sarraf=|Seterli=|Sinema=|Sivrik Kullan Bahçeleri=|Suvaroğlu Bahçeleri=|Tataroğlu Bahçeleri=|Tepebaşı=|Tokmak Bahçeleri=|Yamaç=|Yeni Camii~|Yüksek=|Zincirkıran=|Ziya Gökalp@|Çarşı~|Çayırlık Bahçeleri=|Çeşme=|Çorbacı=|Çıkmaz=|İmam Şenmuz=|İnönü@|Ş.adnan Mavidemir@|Ş.ali İhsan=|Ş.nedim Özpolat~|Ş.turan Emeksiz~
+28698	Cumhuriyetçi Köyü	 Köy$
+28699	Cumhuriyetçi Köyü, Haraba Mezrası	 Köy$
+28696	Cumhuriyetçi Köyü, Kirazlı Mezrası	 Köy$
+28781	Durmuştepe Köyü, Güvendik Mezrası	Güvendık=|Güvendık~
+28783	Durmuştepe Köyü, Karagülle Mezrası	Karagüllü=
+28782	Durmuştepe Köyü, Sinan Mezrası	 Köy$|Sınan=
+28716	Dutpınar Köyü	 Köy$
+28717	Dutpınar Köyü, Bakaçak Mezrası	 Köy$
+28718	Dutpınar Köyü, Bağarası Mezrası	 Köy$
+28719	Dutpınar Köyü, Yörecik Mezrası	 Köy$
+28720	Dutpınar Köyü, Çınarçık Mezrası	 Köy$
+28784	Eğrikavak Köyü	 Köy$
+28785	Eğrikavak Köyü, Özay Mezrası	 Köy$
+21434	Gezin Köyü, Göl Önü Mevkii	1.~|13.~|19.~|2~|20.~|22.~|24.~|25.~|26.~|27.~|29.~|3. Sahil Yolu~|3.~|31.~|36.~|38.~|39.~|4. Sahil Yolu~|40.~|41.~|42.~|43.~|44.~|48.~|49.~|51.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|6. Sahil Yolu~|60.~|62.~|65.~|66.~|68.~|70.~|Bahçe~|Diyarbakır~|Düz Bayır~|Elazığ~|Kervan~|Kuru Dere~|Küçükova~|Sağlık~|Siteler~|Tavşan Pazarı~|Tepe~|Tımbel~|Uzun Bayır~
+21435	Gezin Köyü, Merkez Mevkii	76.~|Ada~|Bağlar Önü~|Diyarbakır~|Eski~|Güneşlik~|Hazar~|Kışlakçı~|Orman~|Sağlık~|Yazıevleri~|Yılan Taşı~|İstasyon~
+28721	Hanevleri Köyü	 Köy$
+28786	Hatunköy Köyü	 Köy$|Hatun Köy1=
+28787	Işıktepe Köyü	 Köy$
+28788	Işıktepe Köyü, Karataş Mezrası	 Köy$
+28722	Karatop Köyü	 Köy$
+28724	Karatop Köyü, Aşağı Karatop Mezrası	 Köy$
+28725	Karatop Köyü, Mastek Yayla Evleri	 Köy$
+28723	Karatop Köyü, Meşedibi Mezrası	 Köy$
+28726	Karatop Köyü, Tokmak Yayla Evleri	 Köy$
+28727	Kartaldere Köyü	 Köy$
+28728	Kartaldere Köyü, Ziyaret Evleri Mezrası	 Köy$
+28770	Kavak Köyü	 Köy$|Kavak Merkez~
+28774	Kavak Köyü, Kavak Gazi Ercan Mezrası	 Köy$|Kavak Gazi Ercan~
+28772	Kavak Köyü, Kavak Kara Ali Mezrası	Kavak Karaali~
+28773	Kavak Köyü, Kavak Küçük Bilal Mezrası	 Köy$|Kavak Küçük Bilal~
+28735	Kayalar Köyü	 Köy$
+28736	Kayalar Köyü, Güzelbağ Mezrası	 Köy$
+28733	Kayalar Köyü, Süran Mevkii	 Köy$
+28734	Kayalar Köyü, Yoncalı Mezrası	 Köy$
+28737	Kayalar Köyü, Şehbayram Mezrası	 Köy$
+28729	Kaşlıca Köyü	 Köy$
+28730	Kaşlıca Köyü, Bük Mezrası	 Köy$
+28731	Kaşlıca Köyü, Günbağı Mezrası	 Köy$
+28732	Kaşlıca Köyü, Yalınca Mezrası	 Köy$
+28789	Koçkonağı Köyü	 Köy$
+28790	Koçkonağı Köyü, Seyhan Mezrası	 Köy$
+28792	Koçkonağı Köyü, Tellikaya Mezrası	 Köy$
+28791	Koçkonağı Köyü, Tut Mezrası	 Köy$
+28743	Kumyazı Köyü	 Köy$
+28742	Kumyazı Köyü, Tuzluca Mezrası	 Köy$
+28744	Küçükova Köyü	 Köy$
+28739	Kızıltepe Köyü	Kızıltepe=
+28741	Kızıltepe Köyü, Köy Sokağı Mevkii	 Köy$
+28738	Kızıltepe Köyü, İstasyon Mezrası	 Köy$
+28745	Naldöken Köyü	 Köy$
+28748	Naldöken Köyü, Akburç Mezrası	 Köy$
+28746	Naldöken Köyü, Bahçe Mezrası	 Köy$
+28753	Naldöken Köyü, Demokan Mezrası	 Köy$
+100030	Naldöken Köyü, Güzelevler Mevkii	Güzelevler~
+28752	Naldöken Köyü, Kutuşağı Mezrası	 Köy$
+28750	Naldöken Köyü, Sarıyer Mezrası	 Köy$
+28749	Naldöken Köyü, Yeni Mezrası	 Köy$
+28747	Naldöken Köyü, Çay Mezrası	 Köy$
+28751	Naldöken Köyü, Şaman Mezrası	 Köy$
+28793	Plajköy Köyü	 Köy$
+28794	Polatköy Köyü	 Köy$
+28796	Polatköy Köyü, Dağ Mezrası	 Köy$
+28795	Polatköy Köyü, Tepe Mezrası	 Köy$|Tepe1~
+28757	Sağrılı Köyü	 Köy$
+28761	Sağrılı Köyü, Küçükkömler Mezrası	 Köy$
+28759	Sağrılı Köyü, Kısabekir Mezrası	 Köy$
+28760	Sağrılı Köyü, Nüzul Mevkii	 Köy$
+28758	Sağrılı Köyü, Zahuran Mevkii	 Köy$
+28762	Tekevler Köyü	 Köy$
+28763	Tekevler Köyü, Dilekkaya Mezrası	 Köy$
+28765	Tekevler Köyü, Harabe Mezrası	 Köy$
+28764	Tekevler Köyü, Zibe Mezrası	 Köy$
+28766	Tekevler Köyü, Çörekli Mezrası	 Köy$
+28767	Tekevler Köyü, Özyurt Mezrası	 Köy$
+28768	Tepecik Köyü	 Köy$
+28797	Topaluşağı Köyü	 Köy$
+28798	Yenibahçe Köyü	 Köy$
+28769	Yeşilova Köyü	 Köy$
+28802	Yoncapınar Köyü	 Köy$|Yoncapınar~
+28801	Yoncapınar Köyü, Tecer Mezrası	 Köy$
+28800	Yoncapınar Köyü, Şehoğlu Mezrası	 Köy$
+28799	Yıldızhan Köyü	 Köy$
+28780	Çakıroğlu Köyü	 Köy$
+28778	Çakıroğlu Köyü, Mollalar Mezrası	 Köy$
+28779	Çakıroğlu Köyü, Tellolar Mezrası	 Köy$
+28700	Çalkaya Köyü	 Köy$
+28701	Çalkaya Köyü, Osman Çayır Mezrası	 Köy$
+28702	Çalkaya Köyü, Sarıkavak Mezrası	 Köy$
+28703	Çalkaya Köyü, Zuğur Evleri Mezrası	 Köy$
+28704	Çayırköy Köyü	 Köy$
+28706	Çayırköy Köyü, Aşağı Meydancık Mezrası	 Köy$
+28705	Çayırköy Köyü, Bezikan Mezrası	 Köy$
+28708	Çayırköy Köyü, Karabıyık Mezrası	 Köy$
+28707	Çayırköy Köyü, Yukarı Meydancık Mezrası	 Köy$
+28710	Çitliköy Köyü, Acıbadem Mevkii	 Köy$
+28711	Çitliköy Köyü, Camii Mevkii	 Köy$
+28714	Çitliköy Köyü, Dere Mevkii	 Köy$
+28709	Çitliköy Köyü, Haraba Mevkii	 Köy$
+28713	Çitliköy Köyü, Samanlı Mevkii	 Köy$
+28712	Çitliköy Köyü, Yukarı Konaklar Mevkii	 Köy$
+28715	Çitliköy Köyü, Çayırköm Mevkii	 Köy$
+28754	Örtülü Köyü	 Köy$
+28755	Örtülü Köyü, Dere Mezrası	 Köy$
+28756	Örtülü Köyü, Yurtbaşı Mezrası	 Köy$

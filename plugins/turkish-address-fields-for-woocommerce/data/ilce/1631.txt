@@ -1,0 +1,147 @@
+28864	Akbuğday Köyü	 Köy$
+28866	Akbuğday Köyü, Elbistan Mezrası	 Köy$
+28865	Akbuğday Köyü, Kavak Mezrası	 Köy$
+21455	Akpınar Mah.	Akpınar@|Artıklar~|Baykara~|Beşiktaş~|Harbato~|Ihlamur~|Kayataş~|Mukaddes@|Yazma~
+28948	Akseki Köyü	 Köy$
+28950	Akseki Köyü, Bekerme Mezrası	 Köy$
+28949	Akseki Köyü, Fenk Mezrası	 Köy$
+28867	Alaattinköy Köyü	 Köy$
+28868	Alıncık Köyü	 Köy$
+28869	Aşağıçanakçı Köyü	 Köy$
+28870	Başkaynak Köyü	 Köy$
+28871	Bekçitepe Köyü	 Köy$
+28872	Bekçitepe Köyü, Doğanlar Mezrası	 Köy$
+28873	Bekçitepe Köyü, Durak Mezrası	 Köy$
+139732	Bekçitepe Köyü, Palandöken Mevkii	
+28875	Bekçitepe Köyü, Yaylaevleri Yayla Evleri	 Köy$
+28874	Bekçitepe Köyü, Yazlıkevler Yayla Evleri	Yazlıkevler~
+28951	Canuşağı Köyü, Konak Mezrası	 Köy$
+28952	Canuşağı Köyü, Merkez Mezrası	 Köy$
+28953	Canuşağı Köyü, Ziyalar Mezrası	 Köy$
+28880	Dedeyolu Köyü	Dedeyolu=
+28960	Dereboynu Köyü	 Köy$
+28963	Dereboynu Köyü, Köy Karşısı Yayla Evleri	 Köy$
+28962	Dereboynu Köyü, Sincan Mezrası	 Köy$
+28961	Dereboynu Köyü, Yukarı Teştek Mezrası	 Köy$
+28881	Dikmen Köyü	 Köy$
+28964	Doğanbağı Köyü	 Köy$
+28965	Duygulu Köyü	 Köy$
+28886	Dörtbölük Köyü	 Köy$
+28891	Dörtbölük Köyü, Cellatlar Mezrası	 Köy$
+28887	Dörtbölük Köyü, Delolar Mezrası	 Köy$
+28889	Dörtbölük Köyü, Haraba Mezrası	 Köy$
+28890	Dörtbölük Köyü, Kaldırım Mezrası	 Köy$
+28888	Dörtbölük Köyü, Suludere Mezrası	 Köy$
+28897	Elmasuyu Köyü	Elmasuyu=
+28966	Gelindere Köyü	 Köy$
+28970	Gelindere Köyü, Asaf Mezrası	 Köy$
+28968	Gelindere Köyü, Düztaş Mevkii	 Köy$
+28967	Gelindere Köyü, Hayat Mezrası	 Köy$
+28969	Gelindere Köyü, Kasaplar Mezrası	 Köy$
+21451	Gölbaşı Mah.	Adal~|Ahmet Kabaklı@|Av. Suat Bulut@|Batman~|Belediye Plaj~|Belediye~|Camii~|Değirmen@|Efdal~|Ege~|Egemen~|Egemenlik~|Elçi~|Erdoğan~|Erseven~|Erva~|Faik İçmeli@|Fatih Sultan Mehmet@|Gölcük@|Gümüş@|Güzel Bahçe~|Kamer~|Kamp@|Karagöz~|Karaçalı@|Kaymakam Hasan Canpolat@|Lojmanlar~|Maruf~|Mecnun~|Meteoroloji~|Mübarek~|Necip Güngör Kısaparmak@|Pala~|Paye~|Recep Tayyip Erdoğan%|Sahil@|Sancaktar~|Sazlık~|Sonyaz~|Sönmez~|Sümerbank Kamp~|Vakıf~|Yurt~|Yusuf Ziya Alptekin@|Yörük~|Öğretmen Evi@|İkram~|İmkb~|İsmail Ünlü@|Şehit Onbaşı Erkin Güler@
+28971	Görgülü Köyü	 Köy$
+28972	Görgülü Köyü, Gazazi Mezrası	 Köy$
+28973	Görgülü Köyü, Nene Gölü Mezrası	 Köy$
+28938	Gözeli Köyü	 Köy$
+28947	Gözeli Köyü, Aşağı Çolitır Mezrası	Aşağı Çolitır~
+28942	Gözeli Köyü, Bekirgölü Mezrası	 Köy$
+28941	Gözeli Köyü, Cami Mezrası	 Köy$
+28940	Gözeli Köyü, Esaflar Mevkii	 Köy$
+28944	Gözeli Köyü, Eylolar Mezrası	 Köy$
+28943	Gözeli Köyü, Kekeç Mezrası	 Köy$
+28946	Gözeli Köyü, Simotlar Mezrası	 Köy$
+28945	Gözeli Köyü, İbokaçlar Mezrası	 Köy$
+28939	Gözeli Köyü, Şirin Mevkii	 Köy$
+28898	Günay Köyü	 Köy$|Güney Köyü=
+28899	Günay Köyü, Yeniköy Mezrası	 Köy$|Yeniköy Yolu=
+28974	Günbalı Köyü	 Köy$
+28976	Günbalı Köyü, Kel Hüseyin Mevkii	 Köy$
+28975	Günbalı Köyü, Molla Hüseyin Mevkii	 Köy$
+28900	Hacılar Köyü	 Köy$
+28901	Hacılar Köyü, Hacılar Mevkii	 Köy$
+28893	Haftasar Köyü, Değirmen Önü Mezrası	 Köy$
+28896	Haftasar Köyü, Karlık Mezrası	 Köy$
+28892	Haftasar Köyü, Merkez Mevkii	 Köy$
+28894	Haftasar Köyü, Moğal Mezrası	 Köy$
+28895	Haftasar Köyü, Nahal Mezrası	 Köy$
+21452	Hazar Mah.	Akasya~|Akpınar@|Ay~|Ayna~|Azer~|Açelya~|Bal~|Bitişik~|Cami~|Dere~|Doğan~|Ebedi~|Emek~|Göl Yolu~|Gölcük1~|Gün~|Güneş~|Hazar~|Heybet~|Kalem~|Kamaşlı~|Kamış~|Kerem~|Kutlu~|Manolya~|Menekşe~|Minik~|Okul~|Recep Tayyip Erdoğan%|Safran~|Salkım~|Sağlık~|Su Yolu~|Söğüt~|Söğütlü~|Tm 12~|Uygur~|Yassı~|Yeni~|Yonca~|Yüksekler@|Zirekgür@|Çakıl~|Çayır~|Çilek~|Çiğdem~|Öğretmen Evi@|Üçgöz~|İğdeli~|Şehit Mustafa Erginöz@
+28977	Ilıncak Köyü	 Köy$
+28978	Kalaba Köyü	 Köy$
+28979	Kamışlık Köyü	 Köy$
+28980	Kamışlık Köyü, Eskiköy Mezrası	 Köy$
+21456	Karaçalı Mah.	Alıç~|Baykara~|Dardağan Yolu~|Dere Yolu~|Doğa~|Durak~|Güzelce~|Hazar Baba Kayak Merkezi Yolu~|Karaçalı@|Karaçalı Yolu~|Çalı~|Çamlık~|Çoban~
+28981	Kavakköy Köyü	 Köy$
+28982	Kavakköy Köyü, Kavak Üstü Mezrası	 Köy$
+28902	Kavallı Köyü	 Köy$
+99341	Kavallı Köyü, Boğaz Mevkii	Boğaz~
+28903	Kavallı Köyü, Sekiler Mevkii	 Köy$
+28983	Kayabağları Köyü	 Köy$
+28984	Kayabağları Köyü, Aylık Mezrası	 Köy$
+28904	Kayapınar Köyü	 Köy$
+28905	Kösebayır Köyü	 Köy$
+28907	Kösebayır Köyü, Atayurdu Mezrası	 Köy$
+28906	Kösebayır Köyü, Yazı Mezrası	 Köy$
+21453	Kültür Mah.	Acar~|Alaca~|Asalet~|Avcı~|Aydın~|Aşikar~|Aşiret~|Bahçeli~|Bahçeli1~|Baykara~|Bayram~|Bayındır~|Bilgin~|Buhara~|Celal İlaldı@|D.d.y.~|Dirlik~|Fatih Sultan Mehmet@|Güzel~|Halep~|Harman~|Hatıra~|Kafkas~|Kalkan~|Kapan~|Karanlık~|Karaçalı@|Kayataş~|Kehribar~|Kelebek~|Kent~|Kumru~|Kurtuluş@|Kuşburnu~|Köprü~|Kübra~|Kılıç~|Kısmet~|Limon~|Lise~|Metin~|Meyveli@|Millet~|Mukaddes@|Mutlu~|Pamuk~|Park~|Sanat~|Semra~|Tekin~|Temiz~|Tepe~|Ulus~|Yıldız~|Zambak~|Zeki~|Zirve~|Zümrüt~|Çamlık~|Çolak1~|Özkan@|Üst Geçit~|İlim~|İnci~|Şaşmaz~
+28908	Kürkköy Köyü	 Köy$
+28912	Kürkköy Köyü, Ağılözü Mezrası	 Köy$
+28917	Kürkköy Köyü, Badem Ağacı Mevkii	 Köy$
+28909	Kürkköy Köyü, Eski Bağlar Yayla Evleri	 Köy$
+28915	Kürkköy Köyü, Göl Önü Mevkii	 Köy$
+28914	Kürkköy Köyü, Huğ Üzü Mevkii	 Köy$
+28918	Kürkköy Köyü, Karşılan Mevkii	 Köy$
+28916	Kürkköy Köyü, Sakız Ağacı Mevkii	 Köy$
+28911	Kürkköy Köyü, Tuztaşı/değirmen Yayla Evleri	 Köy$
+28913	Kürkköy Köyü, Çöl Dere Mevkii	 Köy$
+28910	Kürkköy Köyü, İmran Göze Yayla Evleri	 Köy$
+28985	Kılıçkaya Köyü	 Köy$
+28986	Mullaali Köyü	 Köy$
+28882	Nergize Köyü	 Köy$
+28885	Nergize Köyü, Elmalıdere Mevkii	 Köy$
+28884	Nergize Köyü, Paha Mevkii	 Köy$
+28883	Nergize Köyü, Teyara Mevkii	 Köy$
+21454	Olgunlar Mah.	Akpınar@|Artezyen~|Asalet~|Bahçeler~|Bahçeli~|Bahçeli1~|Bayrak~|Başak~|Başak1~|Bilge~|Boğaz~|Bulut@|Faik Öztürk@|Genç~|Harman~|Heybet~|Kalkan~|Karanfil~|Kumru~|Kılıç~|Limon~|Mavi~|Merve~|Muhteşem~|Mukaddes@|Nadide~|Narin~|Saadet@|Sanat~|Saydam~|Sedef~|Sefa~|Semazen~|Simge~|Tek~|Tekil~|Tepe~|Tuna~|Tütün~|Uzun@|Uzun Yol~|Vefa~|Yaşam@|Yenigün~|Yeşil~|Yiğit~|Yusuf~|Yüksekler@|Yılmaz~|Zafer@|Zeki~|Çalı1~|Çiçek~|Çukur~|Özel~|Üstün~|Üzümlü~|Şirin~
+21457	Sanayi Mah.	18 Evler~|Adalı~|Adam~|Afacan~|Akan~|Akçam~|Alemdar~|Alper~|Altan~|Alıncık@|Arif~|Aslan~|Aslantaş~|Asya~|Atalan~|Atilla~|Atlı~|Atlı1~|Aysu@|Ayçiçek~|Ayışığı~|Badegül~|Badem~|Bademlik~|Bahçeci~|Balıkçı~|Barutçu~|Bayraklı~|Bağlar~|Begonya~|Bengü~|Bergüzar~|Betül~|Beyaz Evler~|Bilen~|Boncuk~|Boz~|Camlı~|Canpolatlar=|Cebeci~|Cebeli~|Civan~|Coşkun~|D.s.i. Eğitim Kampı~|Damlakent~|Daş~|Dehliz~|Deniz Yıldızı~|Denizli~|Dere Ağzı~|Dik~|Dirhem~|Divan~|Diyar~|Diyarbakır Yolu@|Doğa1@|Doğanlar~|Durusu~|Duygusal~|Duygusal1~|Dönence~|Efendi~|Eflak~|Efsane~|Ekici~|Elazığ Yolu@|Elit@|Elvan~|Emir~|Emirgan~|Erler~|Eyidemirler~|Fabrika~|Ferman~|Ferzan~|File~|Gakkoş~|Gençler~|Gençlik~|Gezer~|Gözeli Yolu@|Gül~|Gülizar~|Gülnihal~|Güney Köy@|Güngören~|Hacı~|Haftasar~|Hafız~|Havza~|Hazan~|Hazar Kent@|Hazerfen~|Haziran~|Hikmet~|Horasan~|Hürmetkar~|Hırkalı~|Kahveci~|Kaplan~|Kara~|Karar~|Karataşlar~|Karayel~|Karlı~|Katık~|Kavak~|Kaymak~|Kaynarca~|Kaşe~|Kilim~|Koca~|Koro~|Koru@|Kristal~|Kutup~|Kuyulu~|Kuzu~|Köşk~|Küre~|Kürk~|Kürklü~|Kır~|Kırmızı~|Makas~|Maraş~|Martı~|Mavi Bayrak~|Medeni~|Mehter~|Melankoli~|Melek~|Memleket~|Menemen~|Meral@|Mercan~|Merhaba~|Mesken~|Mesnevi~|Milli Park~|Muallim~|Muz~|Mühür~|Mısra~|Nallı~|Nesim~|Neyzen~|Nisa~|Nokta~|Noter~|Nur~|Okuyan~|Oluk~|Orman Yolu~|Oruç~|Ozan~|Oğul~|Park1~|Petek~|Petrol~|Poyraz~|Recep Tayyip Erdoğan%|Reis~|Romantik~|Sabah~|Sadrazam~|Saf~|Safir~|Sahip~|Saltuk~|Samandıra~|Sanayi@|Saray~|Sarıkanat~|Sebir~|Semaver~|Serasker~|Seyhan~|Sezer~|Sezgin~|Seçim~|Sivriceli~|Solmaz~|Su Yolu~|Sucukçu~|Suskun~|Sıla~|Tabla Yolu~|Taka~|Tarhan~|Tayfa~|Taş~|Taşkıran~|Tebriz~|Tekir~|Tel~|Temur Irmak@|Tire~|Tomurcuk~|Tuana~|Turabi~|Turkuaz~|Tümay~|Tümer~|Türkoğlu~|Umutlu~|Vahap~|Vekil~|Vezir~|Yakamoz@|Yakış~|Yalın~|Yaman~|Yardım~|Yedi Su~|Yeşil Evler@|Yumak~|Yunus Emre~|Yüce Tatil@|Yücedağ@|Yıldırım~|Zülfü Özbay@|Çakır~|Çaldıran~|Çardak~|Çatal~|Çavdar~|Çağlar~|Çekirdek~|Çekirge~|Çevik~|Çeçen~|Çiftlik~|Çiçekçi@|Çolak~|Öner~|Özgü~|Öztürk~|Özçelik@|İnanç~|İnce Mehmet~|İpekci~|İrfan Coşkun@|İstasyon~|Şah~|Şahan~|Şahin~|Şahinkent~|Şaman~|Şamdan~|Şems~|Şengül~|Şükrü~
+28919	Soğukpınar Köyü	 Köy$
+28920	Soğukpınar Köyü, Omolar Mezrası	 Köy$
+28921	Soğukpınar Köyü, İbolar Mezrası	 Köy$
+28922	Sürek Köyü, Göl Mezrası Mezrası	 Köy$
+28923	Sürek Köyü, Gölcük Mevkii	 Köy$
+28924	Sürek Köyü, Kesrik Mevkii	 Köy$
+28925	Sürek Köyü, Merkez Mevkii	 Köy$
+28987	Tarlatepe Köyü	 Köy$
+28988	Tarlatepe Köyü, Tahtikler Mezrası	 Köy$
+28989	Tarlatepe Köyü, Tilkidere Mezrası	 Köy$
+28990	Taşlıyayla Köyü	 Köy$
+28997	Topaluşağı Köyü, Ali Topal Mezrası	 Köy$
+28991	Topaluşağı Köyü, Bekirağa Mezrası	 Köy$
+28996	Topaluşağı Köyü, Derebey Mezrası	 Köy$
+28993	Topaluşağı Köyü, Keçiler Mezrası	 Köy$
+28998	Topaluşağı Köyü, Kıdiş Mevkii	 Köy$
+28995	Topaluşağı Köyü, Merkez Mezrası	 Köy$
+28992	Topaluşağı Köyü, Çamurluk Mezrası	 Köy$
+28994	Topaluşağı Köyü, Ürüdüler Mevkii	 Köy$
+28926	Uslu Köyü	 Köy$
+28927	Uslu Köyü, Yenice Mezrası	 Köy$
+28999	Yaruşağı Köyü	 Köy$
+29000	Yaruşağı Köyü, Çelemlik Mezrası	 Köy$
+28933	Yedikardeş Köyü, Hindogiller Mevkii	 Köy$
+28931	Yedikardeş Köyü, Merkez Mevkii	 Köy$
+28934	Yedikardeş Köyü, Tek Pınar Mevkii	 Köy$
+28932	Yedikardeş Köyü, Urlik Mevkii	 Köy$
+28935	Yedikardeş Köyü, Uzun Çimen Mevkii	 Köy$
+28936	Yedipınar Köyü	Yedipınar=
+28937	Yukarıçanakçı Köyü	 Köy$
+29001	Yürekkaya Köyü	 Köy$
+28876	Çatakkaya Köyü	 Köy$
+28877	Çatakkaya Köyü, Candı Yayla Evleri	 Köy$
+28878	Çatakkaya Köyü, Söğütler Mezrası	Söğütler=
+28879	Çatakkaya Köyü, Yazevleri Yayla Evleri	 Köy$
+28955	Çevrimtaş Köyü, Aşağı Mevkii	 Köy$
+28954	Çevrimtaş Köyü, Merkez Mevkii	 Köy$
+28956	Çevrimtaş Köyü, Yayla Evleri Mevkii	 Köy$
+28957	Çortunlu Köyü	 Köy$
+28959	Çortunlu Köyü, Demuşağı Mezrası	 Köy$
+28958	Çortunlu Köyü, Kasımuşağı Mezrası	 Köy$
+28928	Üçlerce Köyü	 Köy$
+28929	Üğrük Köyü	 Köy$
+28930	Üğrük Köyü, Canbek Mezrası	 Köy$

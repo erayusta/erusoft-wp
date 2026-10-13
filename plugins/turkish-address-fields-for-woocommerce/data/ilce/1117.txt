@@ -1,0 +1,99 @@
+89041	Abdurrahmanlı Köyü	 Köy$
+80699	Ahishavi Mah.	1. Hanlar~|1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|180.~|19.~|2. Hanlar~|2. Sakarya@|2.~|20.~|21.~|22.~|23.~|24.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Atatürk@|Mimar Sinan@|Namık Kemal@|Piri Reis@|Sakarya@|İlkokul@|İmam Hatip@|İstiklal@|Şht. Mehmet Aslanfer~|Şht.tğm.nurettin Türkmen@
+89043	Akbaş Köyü	 Köy$
+89045	Akçakoyunlu Köyü	 Köy$
+89044	Akçakışla Köyü	 Köy$
+89046	Alicik Köyü	 Köy$
+89047	Altılı Köyü	 Köy$
+89048	Ardıçalanı Köyü	 Köy$
+89049	Arpalık Köyü	 Köy$
+89050	Arslanlı Köyü	 Köy$
+139595	Arslanlı Köyü, Karabuğra Mevkii	 Köy$
+89042	Ağaçlı Köyü	 Köy$
+89051	Aşağıçulhalı Köyü	 Köy$
+89052	Bahçecik Köyü	 Köy$
+89053	Başçatak Köyü	 Köy$
+80709	Belekçahan Beldesi, Merkez Mah.	1~|1.küme=|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|4~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|5~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|60~|61~|62~|63~|64~|65~|66~|67~|69~|7~|71~|8~|9~|Kazım Karabekir@|Mehmet Akif Ersoy@|Yunus Emre@|Şehit Aziz Mutlu@|Şehit Piyade Uzman Çavuş Hasan Hüseyin Özdemir@
+89055	Boyalık Köyü	 Köy$
+89056	Bozhüyük Köyü	 Köy$
+89054	Boğazköy Köyü	 Köy$
+89057	Bulgurlu Köyü	 Köy$
+89064	Davulbaz Köyü	 Köy$
+89065	Davutlu Köyü	 Köy$
+89066	Dayılı Köyü	 Köy$
+89067	Dereyurt Köyü	Dereyurt-sıtma~
+89068	Dokuz Köyü	 Köy$
+89069	Dolak Köyü	 Köy$
+80701	Emek Mah.	180.~|181.~|182.~|183.~|184.~|185.~|186.~|187.~|188.~|189.~|190.~|191.~|192.~|193.~|194.~|195.~|196.~|197.~|198.~|199.~|200.~|201.~|202.~|204.~|205.~|231.~|325~|Bağkur@|Cumhuriyet@|Hürriyet@|Kazım Karabekir@|Mehmet Akif Ersoy@|Mezbahane@|Sivas@|Yavuz Selim@|Şht. İsmail Açıkgöz@
+89070	Evci Köyü	 Köy$
+89071	Eynelli Köyü	 Köy$
+89072	Gökdere Köyü	 Köy$
+89073	Güllük Köyü	 Köy$
+80708	Gültepe Mah.	166.~|167.~|168.~|169.-~|170.~|171.~|172.~|173.~|174.~|175.~|176.~|177.~|178.~|179.~|240.-~|241.~|242.~|243.~|244.~|245.@|246~|247~|248~|249~|253~|Barbaros@|Dikmen~|Sahra@|Sanayiciler@|Selimiye_1@|Tepe~|Turgut Özal@|Vatan@|Yozgat@|Yunus Emre@|Çiğdem~|İbn-i Sina@
+89074	Gümüşdibek Köyü	 Köy$
+89075	Gündüzler Köyü	 Köy$
+80702	Güneyli Mah.	180.~|203.~|206.~|207.~|208.~|209-~|210.~|211.~|212.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|220.~|221.~|222.~|223.~|224.~|225.~|226.~|227.~|228.~|229.~|230.~|231.~|232-~|234-~|235-~|260.~|261.~|262.~|263.~|264.~|265.~|266.~|267.~|268~|269~|Esentepe=|Günpark~|Kadıkışlası=|Karanfil@|Mehmet Akif Ersoy@|Mezarlık~|Mezbahane@|Sanayi-@|Sivas@|Yavuz Selim@|Yozgat@|İlkokul@|Şht. İsmail Açıkgöz@
+89076	Hacıfakılı Köyü	 Köy$
+89077	Halhacı Köyü	 Köy$
+89078	Hayran Köyü	 Köy$
+89079	Hüyüklüalanı Köyü	 Köy$
+89081	Karaalikaçağı Köyü	 Köy$
+89082	Karacaören Köyü	 Köy$
+89084	Karadikmen Köyü	 Köy$
+89086	Karapir Köyü	 Köy$
+89087	Kartal Köyü	 Köy$
+89088	Kayabaşı Köyü	 Köy$
+89089	Kayakışla Köyü	 Köy$
+89094	Kirsinkavağı Köyü	 Köy$
+89097	Kuşlukaçağı Köyü	 Köy$
+89096	Körük Köyü	 Köy$
+89090	Kılınçlı Köyü	 Köy$
+89091	Kırlar Köyü	 Köy$
+89092	Kızılcaova Köyü	 Köy$
+89093	Kızıldağ Köyü	 Köy$
+89098	Melikli Köyü	 Köy$
+89059	Muşalikalesi Köyü	 Köy$
+89099	Okçulu Köyü	 Köy$
+140675	Oluközü Beldesi, Konacı Mah.	Konacı~
+80710	Oluközü Beldesi, Merkez Mah.	Atatürk@|Buket~|Esen Tepe~|Fevzi Çakmak@|Gültepe=|Hacı Durmuş Atılan-@|Kardelen~|Kayalar@|Manolya~|Sarı Yaprak=|Sivas@|Sümbül~|Toki~|Yenişebi@
+89101	Ortaköy Köyü	 Köy$
+89105	Pazarcık Köyü	 Köy$
+89104	Paşabey Köyü	 Köy$
+89107	Sarıgüney Köyü	 Köy$
+89109	Sazlıdere Köyü	 Köy$
+89106	Sağıroğlu Köyü	 Köy$
+89108	Sekikaşı Köyü	 Köy$
+100134	Seyrantepe Mah.	330.~|331.~|332~|333.~|334.~|335.~|336~|337~|338~|339~|340~|341~|342~|343~|44.~|46.~|61.~|80.~|81.~|82.~|83.~|84.~|Kozalak~|Laleli~|Lütfullah Kayalar@|Orman Yolu@|Papatya~|Saray~|Saygı~|Seyran~|Sultan Harun Reşit@|Toki~|Öğretmen İsmail Yıldız~|Şht.baş.kom. Erdal Akpolat@
+89111	Tarhana Köyü	 Köy$
+89112	Taspınar Köyü	 Köy$
+89113	Tekkegüneyi Köyü	 Köy$
+89114	Temurşeyh Köyü	 Köy$
+80712	Umutlu Beldesi, Kale Mah.	Ahmet Yesevi@|Bayır=|Cumhuriyet@|Emek@|Eren~|Fatih@|Fidan~|Gül~|Kanarya~|Karanfil~|Kardelen~|Saray@|Yunus Emre@
+183846	Umutlu Beldesi, Karahisartatlısı Mah.	Karahisartatlısı=
+80713	Umutlu Beldesi, Karaçokrak Mah.	Karaçokrak=
+140677	Umutlu Beldesi, Olucak Mah.	Olucak=
+80711	Umutlu Beldesi, Umut Mah.	Ahmet Yesevi@|Barış~|Bayır=|Cumhuriyet@|Cumhuriyet/1~|Dilan~|Esen~|Fatih@|Hasret~|Karanfil~|Saray@|Sağlık~|Seten~|Yamaç~|Yunus Emre@|Çeşme~|İnönü@
+89115	Uzakçay Köyü	 Köy$
+89117	Veziralanı Köyü	 Köy$
+89118	Yazılıtaş Köyü	 Köy$
+89119	Yedişehri Köyü	 Köy$
+80705	Yeni Mah.	25.~|26.~|268~|27.~|270.~|28.~|29.~|30.~|31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|40.~|41.~|42.~|43.~|44.~|45.~|46.~|47.~|48.~|49.~|50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|61.~|Adnan Kahveci@|Mithat Paşa@|Namık Kemal@|Orman Yolu@|Peyami Sefa@|Sultan Harun Reşit@|İlkokul@|İmam Hatip@|Şht.baş.kom. Erdal Akpolat@|Şht.tğm.nurettin Türkmen@
+89120	Yeniyapan Köyü	 Köy$
+80706	Yeşildere Mah.	101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|284-~|285~|286~|287~|288~|289~|310.~|311-~|Fundalık@|Hızır İlyas@|Lütfullah Kayalar@|Selanik@|Turgut Özal@
+80707	Yeşiltepe Mah.	117.~|118.~|119.~|120.~|121.~|122.~|123.~|125.~|126.~|127.~|128.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|136.~|137.~|138.~|139.~|140.~|141.~|250.~|251.~|252.~|279~|280-~|281~|282~|350.~|351.~|352~|Atatürk@|Fundalık@|Hastane@|Kayalar@|Körükler@|Lütfullah Kayalar@|Nida Tüfekçi@|Turgut Özal@|İstiklal@|Şht. Savaş Hakverdi~
+89121	Yukarıçulhalı Köyü	 Köy$
+99623	Yukarıçulhalı Köyü, Şirinyayla Mevkii	
+89122	Yünalanı Köyü	 Köy$
+80700	Çamlık Mah.	100.~|109.~|360~|361~|362~|363~|364~|365~|366-~|367~|368~|89.~|90.~|91.~|92.~|93.~|94.~|95.~|96.~|97.~|98.~|99.~|Dumlupınar@|Hızır İlyas@|Lütfullah Kayalar@|Orman Yolu@|Selanik@|Ufuk~|İnkilap@|Şht. Tğm. Cengiz Porsuk@
+89060	Çampınar Köyü	 Köy$
+89061	Çardak Köyü	 Köy$
+89062	Çaypınar Köyü	 Köy$
+89058	Çağlayan Köyü	 Köy$
+89063	Çerçialanı Köyü	 Köy$
+89102	Örenkale Köyü	 Köy$
+89103	Özer Köyü	 Köy$
+89116	Üçkaraağaç Köyü	 Köy$
+80703	İbrahim Ağa Mah.	62.~|63.~|64.~|65.~|66.~|67.~|68.~|69.~|70.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|85.~|86.~|89.~|Adnan Kahveci@|Dumlupınar@|Fatih@|Lütfullah Kayalar@|Mithat Paşa@|Namık Kemal@|Orman Yolu@|Sakarya@|Ziya Gökalp@|İstiklal@|Şht. Eyüphan Seyhan@
+89080	İbrahimağaçiftliği Köyü	 Köy$
+80704	İstanbulluoğlu Mah.	124.~|142.~|143.~|144.~|145.~|146.~|147.~|148.~|149.~|150.~|151.~|152.~|153.~|154.~|155.~|156.~|157.~|158.~|159.~|160.~|161.~|162.~|163.~|164.~|165.~|166.~|167.~|290.~|291.~|292~|4.~|423~|Atatürk@|Bahçeli Evler@|Cengizhan@|Cumhuriyet@|Mevlana@|Nida Tüfekçi@|Selimiye@|Turgut Özal@|Vatan@|Yozgat@|İstiklal@|Şht. Hasan Fidan@
+89110	Şahnaderesi Köyü	 Köy$

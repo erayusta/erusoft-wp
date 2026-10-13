@@ -1,0 +1,44 @@
+55033	Akçaköy Köyü	Akçaköy=
+55035	Alibey Köyü	1.sokak=|2.sokak=|3.sokak=|4.sokak=|5.sokak Kd=|Afyon Kütahya Karayolu@|Alibey=
+55036	Altıntaş Köyü	Afyon Kütahya Karayolu@|Altıntaş=
+55034	Alıncık Köyü	Alıncık=
+55037	Aydınlar Köyü	Aydınlar=
+55038	Aykırıkçı Köyü	1.sokak=|2.sokak~|3.sokak=|4.sokak Kd~|Afyon Kütahya Karayolu@|Aykırıkçı=
+55039	Beşkarış Köyü	Beşkarış=
+51461	Bozbay Mah.	1.~|Akkutlu 2~|Akkutlu 3~|Akkutlu@|Akkutlı 1~|Arı~|Bülent Ecevit~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet 3~|Cumhuriyet 4~|Cumhuriyet 5~|Cumhuriyet 6~|Cumhuriyet@|Ertuğrul Gazi 1~|Ertuğrul Gazi~|Evliya Çelebi@|Fatih Sultan Mehmet 4~|Fuzuli~|Hayma Ana@|Hizar 1~|Hizar~|Karşıyaka Mevkii 1=|Karşıyaka Mevkii=|Kütahya Afyon Karayolu 35. Km Moruklu Mevkii Pusan Köyü Civarı=|Kütahya-altıntaş Karayolu Üzeri Zafer Havaalanı Mevkii=|Milli Egemenlik 1~|Milli Egemenlik@|Moruklu 1~|Pınarcık Köyü Taş Ocakları Mevkii=|Sanayi~|Sultan 1~|Ufuk~|Umut~|Yavuz Sultan Selim~|Yeni Mahlele Yolu Üzeri Mevkii=|Şehit Er M.emin Borazan 1~|Şehit Er M.emin Borazan 2~|Şehit Er M.emin Borazan~|Şehit Er Yaşar Yıldız@|Şekip Efendi~|Şht.asteğ.recep Akbunar@
+51462	Cumhuriyet Mah.	1~|Adalet 1~|Adalet~|Altıntaş-kütahya Yolu Üzeri (aksaz Mevki)=|Cumhuriyet@|Fahrettin Altay 2~|Fahrettin Altay@|Farabi 1~|Farabi~|Fatih Sultan Mehmet 1~|Fatih Sultan Mehmet 2~|Fatih Sultan Mehmet 3~|Fatih Sultan Mehmet 4~|Fatih Sultan Mehmet 5~|Fatih Sultan Mehmet%|Genç Osman~|Güneş 1~|Güneş~|Hasan Gültekin 1~|Hasan Gültekin 2~|Hasan Gültekin~|Kale~|Kanarya 1~|Kanarya 2~|Kanarya~|Kemer~|Kiraz~|Mehmetcik~|Mevlana 1~|Mevlana~|Mimar Sinan~|Mimoza 1~|Mimoza~|Orhan Gazi~|Orkide 1~|Orkide~|Osman Gazi~|Palmiye~|Papatya 1~|Papatya~|Pir Sultan Abdal~|Sema~|Tepe 1~|Tepe~|Tuna~|Yunus Emre~|Zafer 1~|Zafer 2~|Zafer 3~|Zafer~|Ziya Gökalp 1~|Ziya Gökalp 2~|Ziya Gökalp~|Çamlık~|Üniversite Yolu 1=|Üniversite Yolu~
+55041	Erenköy Köyü	Erenköy=
+55042	Eymir Köyü	1.sokak=|2.sokak=|3.sokak=|4. Sokak Kd=|Eymir=
+55043	Gecek Köyü	Gecek=
+55044	Genişler Köyü	1.sokak=|2.sokak=|3.sokak=|4. Sokak/ Kd=|Afyon Kütahya Karayolu@|Genişler=
+55046	Gökçeler Köyü, Aşağı Mevkii	Aşağı=|Yukarı=
+55045	Gökçeler Köyü, Yukarı Mevkii	Yukarı=
+51463	Hürriyet Mah.	25 Evler~|30 Ağustos 1~|30 Ağustos@|Akasya~|Barboros 1~|Barboros~|Bülbül 1~|Bülbül~|Celalettin Cerrah~|Devran~|Fahrettin Altay 1~|Fahrettin Altay@|Fidanlık 1~|Fidanlık~|Gül~|Hür 1~|Hür~|Hürriyet 1~|Hürriyet 2~|Hürriyet 3~|Hürriyet 4~|Hürriyet 5~|Hürriyet@|Konak 1~|Konak~|Lale~|Mermer~|Nilüfer 1=|Nilüfer 2~|Nilüfer=|Pınarbaşı Mevkii=|Saray~|Sağlık 2~|Sağlık~|Sümbül~|Yıldız~|Çiğdem 1~|Çiğdem 2~|Çiğdem~|Çınar~|İdil~|Şafak~|Şehit Er Cafer Mavi~|Şehit Sancaktar~
+55047	Işıklar Köyü	Işıklar=
+55048	Karaağaç Köyü	Karaağaç=
+55049	Kuyucak Köyü	1~|2~|3~|4~|5~|6~|Kuyucak 1~|Kuyucak 2~|Kuyucak=
+55050	Mecidiye Köyü	Mecidiye=
+55051	Murathanlar Köyü	1.sokak=|2.sokak Kd~|Murathanlar=
+55052	Osmaniye Köyü	Osmaniye=
+55053	Oysu Köyü	Oysu=
+55055	Pusan Köyü	1.sokak=|2.sk Kd~|Afyon Kütahya Karayolu@|Pusan=
+55054	Pınarcık Köyü	Pınarcık=
+55056	Sadıkkırı Köyü	Sadıkkırı=
+55057	Saraycık Köyü	Saraycık=
+55058	Sevdiğin Köyü	1.sokak=|2.sokak=|3.sokak=|4.sokak=|5.sokak=|6. Sokak/ Kd~|Kütahya Altıntaş Zafer Osb~|Sevdiğin=
+55061	Yalnızsaray Köyü	1.sokak=|2.sokak=|3.sokak=|4.sokak=|5.sokak=|6.sokak/kd~|Yalnızsaray=
+55062	Yapılcan Köyü	Yapılcan=
+55063	Yayla Köyü	1.sokak=|2.sokak Kd=|Yayla=
+51465	Yeni Mah.	Akkutlu 2~|Altıntaş 1~|Altıntaş 2~|Altıntaş@|Hacettepe 1~|Hacettepe 2~|Hacettepe 3~|Hacettepe~|Pınar 1~|Pınar 2~|Pınar~
+55064	Yenikaraağaç Köyü	Yenikaraağaç=
+55065	Yeşilyurt Köyü	Yeşilyurt=
+55066	Yolçatı Köyü	Yolçatı=
+51468	Zafertepeçalköy Köyü, Cumhuriyet Mevkii	Afyon Kütahya Karayolu@|Avsar 1~|Avşar~|Avşar/2~|Avşar/3~|Batarya~|Camii~|Coşkun~|Cumhuriyet~|Lalelik~|Tekke~|Zafertepeçalköy 2~|Çaysırası 1~|Çaysırası~|Şehitler~|Şehitler/1~
+51469	Zafertepeçalköy Köyü, Hürriyet Mevkii	Akpürüm~|Akpürüm/1~|Camii~|Hürriyet 1~|Hürriyet~|Hürriyet/2~|Kaya~|Kayaeber~|Kayaeber/2~|Kayaeber1~|Tepe~|Tepe/1~|Çaysırası 1~|Çaysırası~|Şehitler~
+51470	Zafertepeçalköy Köyü, Zafer Mevkii	1.~|2.~|3.~|Afyon Kütahya Karayolu@|Bilinmeyen 1~|Bilinmeyen 2~|Harputlu~|Lalelik 1~|Lalelik~|Oda~|Oda/1~|Oda/2~|Sarı~|Yelken~|Yelken/1~|Yelken/2~|Yeni Yol~|Yüzbaşı Şekip Efendi~|Yüzbaşı Şekip Efendi/1~|Yüzbaşı Şekip Efendi/2~|Yıldız~|Yıldız/1~|Zafer~|Zafer/1~|Zafer/2~|Zafertepeçalköy=|Zafertepeçalköy/1~|Çaysırası~|Çaysırası/2~
+55040	Çakırsaz Köyü	Afyon Kütahya Karayolu@|Çakırsaz=|Çakırsaz1~
+51467	Çayırbaşı Köyü, Zafer Mevkii	Altıntaş~|Atatürk~|Basmaz~|Başpınar~|Başpınar/1~|Cumhuriyet~|Demirci~|Dörtyol~|Fatih~|Fettah~|Gazi Nafel~|Girgin~|Güllü Dede~|Güllü Dede/1~|Hamza~|Karabent~|Kayanyolu~|Kazım Karabekir~|Kumluk~|Laleli~|Pehlivan~|Sarıyer~|Sarıyer/1~|Selvi~|Siteler~|Yemenli~|Yeşilova~|Yusuf Eğirtmen~|Yusuf Eğirtmen/1~|Çakı~|İmam~|İmam/1~|İnönü~
+51466	Çayırbaşı Köyü, İstiklal Mevkii	Aksaz~|Altıntaş~|Atatürk~|Bahçelievler~|Balıkçık~|Bilinmeyen~|Bilinmeyen/1~|Bilinmeyen/2~|Cumhuriyet~|Dablak~|Dumlupınar~|Durgut~|Fatih~|Gazi Mehmet~|Hacı Murat~|Karanfil~|Kooperatif~|Menderes~|Menderes/1~|Menderes/2~|Menderes/3~|Oysal~|Pınar~|Sönmez~|Söğütlü~|Tekke~|Çay Yolu~|Çetin~|Şavkılı~
+55060	Üçhüyük Köyü	1.sokak=|2.sokak=|3.sokak=|4.sokak Kd=|Üçhüyük=
+51464	İstiklal Mah.	Abdülhamit Han 2~|Abdülhamit Han~|Akbunar~|Ardıç~|Asım Gündüz 2~|Atatürk 1~|Atatürk@|Belediye~|Doğan 2~|Doğan~|Fatih~|Fevzi Çakmak@|Gözde~|Hürriyet@|Ilıca~|Kamelya~|Kamelya1~|Karanfil~|Karşıyaka Mevkii 2=|Koca Koru Mevkii=|Kütahya Afon Karayolu 35.km Moruklu 1=|Kütahya Afyon Karayolu 35. Km Moruklu Mevkii Pusan Köyü Civarı=|Mehmet Akif~|Milli Egemenlik 2~|Milli Egemenlik@|Nergis~|Serçe~|Ziraat@|Çay~|İstiklal Mevkii=|Şahin~|Şehit Cemil Şahin~|Şehit Polis Elvan 1~|Şehit Polis Elvan Özbay~|Şehit Polis Murat Dayı~|Şehit Veysel Temel@|Şht.polis Hayri Şahin 1~|Şht.polis Hayri Şahin~
+55059	Şanlıyurt Köyü	Şanlıyurt=

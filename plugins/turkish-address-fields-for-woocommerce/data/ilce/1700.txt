@@ -1,0 +1,99 @@
+65093	Alihoca Köyü, Kümea Mevkii	 Köy$
+65094	Alihoca Köyü, Kümeb Mevkii	 Köy$
+60797	Alpağut Mah.	101~|112~|12~|13.~|13/1~|7~|8.~|9~|Adana-ankara@|Akkaşlar~|Alpagut/1~|Alpagut/2~|Alpagut/3~|Alpagut/4~|Alpagut/5~|Alpagut/6~|Alpagut/7~|Alpagut/8~|Alpatuğ Yeniyol/4~|Alpatuğ Yeniyol/5~|Alpağut Yeniyol/1~|Alpağut Yeniyol/10~|Alpağut Yeniyol/11~|Alpağut Yeniyol/13~|Alpağut Yeniyol/15~|Alpağut Yeniyol/16~|Alpağut Yeniyol/20~|Alpağut Yeniyol/21~|Alpağut Yeniyol/22~|Alpağut Yeniyol/24~|Alpağut Yeniyol/25~|Alpağut Yeniyol/26~|Alpağut Yeniyol/27~|Alpağut Yeniyol/28~|Alpağut Yeniyol/29~|Alpağut Yeniyol/30~|Alpağut Yeniyol/31~|Alpağut Yeniyol/32~|Alpağut Yeniyol/34~|Alpağut Yeniyol/35~|Alpağut Yeniyol/36~|Alpağut Yeniyol/39~|Alpağut Yeniyol/40~|Alpağut Yeniyol/41~|Alpağut Yeniyol/42~|Alpağut Yeniyol/43~|Alpağut Yeniyol/44~|Alpağut Yeniyol/45~|Alpağut Yeniyol/46~|Alpağut Yeniyol/47~|Alpağut Yeniyol/48~|Alpağut Yeniyol/49~|Alpağut Yeniyol/50~|Alpağut Yeniyol/51~|Alpağut Yeniyol/52~|Alpağut Yeniyol/56~|Alpağut Yeniyol/57~|Alpağut Yeniyol/60~|Alpağut Yeniyol/62~|Alpağut Yeniyol/63~|Alpağut Yeniyol/8~|Alpağut Yeniyol/9~|Arıtma~|Avşar~|Avşar/1~|Belediye~|Belediye/1~|Belediye/2~|Belediye/3~|Cemal Gürsel@|Demir~|E-90 Karayolu-@|Erdaş~|Erhan Demir~|Ersayarlar~|Eski Su Deposu=|Eski Çarşı~|Güleç~|Hasan Erdoğan@|Hükümet=|Hüseyin Onur@|Kardeş Gediği Mevkii=|Karının Kuyu Mevkii=|Kayıpoğlu~|Meltem~|Meral~|Pınar~|Saprı~|Saprı/1~|Secaaddin~|Selim~|Tepe~|Toki~|Uçarlar~|Uğurlu@|Uğurlu Toki=|Uğurlu.~|Yakup Ünal@|Yakup Ünal_1@|Yalçın~|Yener~|Yılmaz~|Çetin~|Çetin/1~|Çetin/2~|İsmail Oğuz@|İsmet İnönü@|Şht.osman Gündüz@
+65041	Altay Köyü, Küme1 Mevkii	 Köy$
+65042	Altay Köyü, Küme2 Mevkii	 Köy$
+65095	Ardıçlı Köyü	 Köy$
+60798	Ballık Mah.	2~|2.-~|3._1~|Akfadime~|Akfadime/1~|Akkaşlar~|Avşarlar~|Cemal Gürsel@|Eski Su Deposu=|Eğriler~|Hacı Yusuf~|Hasan Efendi~|Hasan Erdoğan@|Hüseyin Onur -@|Hüseyin Onur@|Hüseyin Onur/1~|Kara Hamzalar~|Kızılaylar~|Mektupcular~|Mulla Ahmet~|Uçarlar~
+65045	Bayağıl Köyü, Küme1 Mevkii	 Köy$
+65046	Bayağıl Köyü, Küme2 Mevkii	 Köy$
+65047	Bayağıl Köyü, Küme3 Mevkii	 Köy$
+65043	Başmakçı Köyü, Küme1 Mevkii	 Köy$
+65044	Başmakçı Köyü, Küme2 Mevkii	 Köy$
+60807	Darboğaz Köyü, Atatürk Mevkii	12~|Ali Efendi~|Cengiz~|Cumhuriyet~|Duvaklık~|Gül~|Güven~|Karadere-1~|Lale~|Lale-1~|Menekşe~|Sayar~|Sağlık Ocağı~|Soğuk Pınar~|Stad~|Stat~|Çay~|Özer~|Şehit Edip Eşref Salman~|Şehit. Ali Dilmen~
+60808	Darboğaz Köyü, Bahçelievler Mevkii	Bey Çeşme~|Büklüm~|Değirmen~|Gözde Kümesi~|Mavi Köşe~|Sadık~|Seki~|Toker~|Özalp~|Şht. Edip Şeref Salman~
+60809	Darboğaz Köyü, Cumhuriyet Mevkii	Akman~|Ali Efendi~|Altan~|Aytaç Durak~|Badem~|Cumhuriyet~|Elma~|Gözde~|Güney~|Karatepe-1~|Karatepe-2~|Karatepe-3~|Sarıtaş~|Sezgin~|Yeni~|Özer~
+60810	Darboğaz Köyü, Zafer Mevkii	Badem~|Bağlar Başı~|Camii~|Cumhuriyet~|Demirciler~|Eren~|Gölet~|Hayırlı~|Kalkan~|Karaca~|Karataş~|Kardelan~|Monolya~|Mustafaunal~|Sarıtaş~|Tepebağ~|Yener~|Zirve~|Çiçek~|Çiğdem~|Ünal~|Şht. Edip Eşref Salman~|Şht. Ümit Yaşar Ulupınar~
+60800	Doğu Mah.	30~|30/1~|30/10~|30/11~|30/12~|30/13~|30/14~|30/2~|30/3~|30/4~|30/5~|30/6~|30/7~|30/8~|30/9~|31~|31/1~|31/2~|32~|32/1~|32/2~|32/3~|32/4~|32/5~|32_1~|5._1~|7.~|7./1~|7./2~|Adana-ankara@|Adil Erol@|Adil Erol/2~|Adil Erol/3~|Adil Erol/4~|Adnan Menderes@|Ahmet~|Ali~|Aslan~|Bamsı-~|Bereket~|Bilge~|Bölge Trafik İstasyonu~|Cehri-=|Demirler~|Demirler/1~|Dere-=|Ege~|Emniyet~|Gedeli-=|Gökhan~|Gökhan/2~|Gökhan/3~|Gökhan/4~|Güneş~|Han~|Han/1~|Huzur~|Hüseyin Dikmen@|Kar~|Kar/1~|Karakol~|Karakol/1~|Karakol/2~|Karakol/3~|Kelebek~|Kenan Evren@|Kodalağın Ağılı~|Kodalağın Ağılı/1~|Kodalağın Ağılı/10~|Kodalağın Ağılı/11~|Kodalağın Ağılı/12~|Kodalağın Ağılı/13~|Kodalağın Ağılı/14~|Kodalağın Ağılı/15~|Kodalağın Ağılı/16~|Kodalağın Ağılı/17~|Kodalağın Ağılı/2~|Kodalağın Ağılı/3~|Kodalağın Ağılı/4~|Kodalağın Ağılı/5~|Kodalağın Ağılı/6~|Kodalağın Ağılı/7~|Kodalağın Ağılı/8~|Kodalağın Ağılı/9~|Kuran Kursu~|Kuran Kursu/1~|Küçük Hatip~|Mehmet Tevfik Güney@|Mehmet Tevfik Güney/1~|Mehmet Tevfik Güney/2~|Mehmet Tevfik Güney/3~|Mevlana~|Orkide~|Parklar~|Parklar/1~|Parklar/2~|Parklar/3~|Parklar/4~|Parklar/5~|Parklar/6~|Purlu Osman~|Sansar@|Sultan~|Toplu Konut-=|Yüksel~|Yüksel/1~|Çiçek~|İsmail Oğuz@|İsmet İnönü@
+65098	Elmalı Köyü	 Köy$
+65048	Eminlik Köyü, Küme1 Mevkii	 Köy$
+65049	Eminlik Köyü, Küme2 Mevkii	 Köy$
+65054	Emirler Köyü	 Köy$
+65050	Emirler Köyü, Küme1 Mevkii	 Köy$
+65051	Emirler Köyü, Küme2 Mevkii	 Köy$
+65052	Emirler Köyü, Küme3 Mevkii	 Köy$
+65053	Emirler Köyü, Küme4 Mevkii	 Köy$
+65057	Gedelli Köyü	 Köy$
+65055	Gedelli Köyü, Küme1 Mevkii	Yeni Yerleşim Köy$
+65056	Gedelli Köyü, Küme2 Mevkii	 Köy$
+65058	Gümüşköy Köyü, Küme1 Mevkii	 Köy$
+65059	Gümüşköy Köyü, Küme2 Mevkii	 Köy$
+65060	Gümüşköy Köyü, Küme3 Mevkii	 Köy$
+65061	Gümüşköy Köyü, Küme4 Mevkii	 Köy$
+65062	Gümüşköy Köyü, Küme5 Mevkii	 Köy$
+65063	Gümüşköy Köyü, Küme6 Mevkii	 Köy$
+65064	Gümüşköy Köyü, Küme7 Mevkii	 Köy$
+65065	Güney Köyü, Küme1 Mevkii	 Köy$
+65066	Güney Köyü, Küme2 Mevkii	 Köy$
+65067	Hacıbekirli Köyü	 Köy$
+65068	Hacıbekirli Köyü, Küme1 Mevkii	 Köy$
+65069	Hacıbekirli Köyü, Küme2 Mevkii	 Köy$
+65099	Handere Köyü	 Köy$
+65070	Hasangazi Köyü, Küme1 Mevkii	Küme1 Köy$
+65071	Hasangazi Köyü, Küme2 Mevkii	Küme2 Köy$
+65072	Hasangazi Köyü, Küme3 Mevkii	Küme3 Köy$
+65073	Hasangazi Köyü, Küme4 Mevkii	Küme4 Köy$
+65100	Horoz Köyü	 Köy$
+65074	Hüsniye Köyü, Küme1 Mevkii	 Köy$
+65075	Hüsniye Köyü, Küme2 Mevkii	 Köy$
+60801	Kadılar Mah.	Adil Erol@|Adil Erol/1@|Adnan Menderes@|Demirler~|Emenler~|Gürümlü~|Hüseyin Onur@|Hüseyin Onur-@|Kenan Evren@|Pınar Başı~|Saçanlar~|Çakınlar~|Çakınlar/1~|Çakınlar/2~|Özmenler~|Şehit Osman Gündüz~
+65078	Karacaören Köyü	 Köy$
+60802	Kemalpaşa Mah.	10~|11~|14 Nolu~|14.küme Evler-=|28.-~|29.~|Adana Ankara/1~|Adana Ankara/11~|Adana Ankara/12~|Adana Ankara/13~|Adana Ankara/14~|Adana Ankara/15~|Adana Ankara/16~|Adana Ankara/17~|Adana Ankara/18~|Adana Ankara/2~|Adana Ankara/3~|Adana Ankara/4~|Adana Ankara/5~|Adana Ankara/7~|Adana-ankara@|Ak~|Aksoy~|Alp-~|Arıkan~|Arıkan/1~|Arıkan/1-~|Arıkan/11~|Arıkan/2~|Arıkan/3~|Arıkan/4~|Arıkan/5~|Arıkan/6~|Arıkan/7~|Arıkan/8~|Aydoğdu~|Aydoğdu/2~|Aydoğdu/3~|Aydoğdu/4~|Biçer~|Bozok-@|Boğaç~|Bulut~|Büyük Acıpınar=|Cezaevi~|Cezaevi/1~|Cezaevi/2~|Cezaevi/3~|Cezaevi/4~|Dağ~|Dağlaraştı~|Dağlaraştı/1~|Dağlaraştı/10~|Dağlaraştı/11~|Dağlaraştı/2~|Dağlaraştı/3~|Dağlaraştı/4~|Dağlaraştı/5~|Dağlaraştı/6~|Dağlaraştı/7~|Dağlaraştı/8~|Dağlaraştı/9~|Depo 2~|Depo~|Depo/1~|Depo/3~|Depo/4~|Depo/5~|Depo/6~|Depo/7~|Depo/9~|Devlet Demir Yolları=|Dikmen Mevki=|Erdağ-~|Erdine~|Erdine/1~|Erdine/2~|Erdine/3~|Erdoğan~|Erkilet/1~|Erkiletler~|Fatih Sultan Mehmed~|Gökçen~|Gölboğazı Mevkii~|Gül~|Gül/1~|Gül/2~|Habib Çavuş~|Halil~|Halil İbrahim~|Halil/1~|Halil/2~|Hami-~|Kara~|Kara/1~|Karacalar~|Karayer-=|Karbeyaz~|Kardelen-~|Kardeş Gediği 1.=|Kardeş Gediği-=|Karer-~|Kayaoğlu~|Keleş~|Kemalpaşa/1~|Kemalpaşa/10~|Kemalpaşa/100~|Kemalpaşa/101~|Kemalpaşa/103~|Kemalpaşa/105~|Kemalpaşa/106~|Kemalpaşa/107~|Kemalpaşa/108~|Kemalpaşa/109~|Kemalpaşa/11~|Kemalpaşa/110~|Kemalpaşa/111~|Kemalpaşa/112~|Kemalpaşa/113~|Kemalpaşa/115~|Kemalpaşa/116~|Kemalpaşa/12~|Kemalpaşa/120~|Kemalpaşa/121~|Kemalpaşa/128~|Kemalpaşa/129~|Kemalpaşa/13~|Kemalpaşa/131~|Kemalpaşa/133~|Kemalpaşa/135~|Kemalpaşa/136~|Kemalpaşa/137~|Kemalpaşa/14~|Kemalpaşa/140~|Kemalpaşa/142~|Kemalpaşa/144~|Kemalpaşa/148~|Kemalpaşa/149~|Kemalpaşa/15~|Kemalpaşa/150~|Kemalpaşa/151~|Kemalpaşa/153~|Kemalpaşa/154~|Kemalpaşa/156~|Kemalpaşa/157~|Kemalpaşa/158~|Kemalpaşa/159~|Kemalpaşa/16~|Kemalpaşa/160~|Kemalpaşa/162~|Kemalpaşa/163~|Kemalpaşa/164~|Kemalpaşa/165~|Kemalpaşa/166~|Kemalpaşa/167~|Kemalpaşa/168~|Kemalpaşa/169~|Kemalpaşa/17~|Kemalpaşa/170~|Kemalpaşa/171~|Kemalpaşa/172~|Kemalpaşa/173~|Kemalpaşa/174~|Kemalpaşa/175~|Kemalpaşa/176~|Kemalpaşa/177~|Kemalpaşa/178~|Kemalpaşa/179~|Kemalpaşa/18~|Kemalpaşa/180~|Kemalpaşa/181~|Kemalpaşa/182~|Kemalpaşa/183~|Kemalpaşa/185~|Kemalpaşa/186~|Kemalpaşa/187~|Kemalpaşa/188~|Kemalpaşa/189~|Kemalpaşa/19~|Kemalpaşa/190~|Kemalpaşa/191~|Kemalpaşa/192~|Kemalpaşa/193~|Kemalpaşa/194~|Kemalpaşa/195~|Kemalpaşa/196~|Kemalpaşa/197~|Kemalpaşa/199~|Kemalpaşa/2~|Kemalpaşa/20~|Kemalpaşa/200~|Kemalpaşa/201~|Kemalpaşa/202~|Kemalpaşa/203~|Kemalpaşa/204~|Kemalpaşa/205~|Kemalpaşa/206~|Kemalpaşa/207~|Kemalpaşa/208~|Kemalpaşa/21~|Kemalpaşa/22~|Kemalpaşa/221~|Kemalpaşa/222~|Kemalpaşa/223~|Kemalpaşa/224~|Kemalpaşa/226~|Kemalpaşa/227~|Kemalpaşa/228~|Kemalpaşa/229~|Kemalpaşa/23~|Kemalpaşa/230~|Kemalpaşa/231~|Kemalpaşa/232~|Kemalpaşa/233~|Kemalpaşa/235~|Kemalpaşa/236~|Kemalpaşa/237~|Kemalpaşa/238~|Kemalpaşa/239~|Kemalpaşa/24~|Kemalpaşa/241~|Kemalpaşa/242~|Kemalpaşa/246~|Kemalpaşa/247~|Kemalpaşa/248~|Kemalpaşa/249~|Kemalpaşa/25~|Kemalpaşa/255~|Kemalpaşa/256~|Kemalpaşa/258~|Kemalpaşa/26~|Kemalpaşa/260~|Kemalpaşa/269~|Kemalpaşa/27~|Kemalpaşa/270~|Kemalpaşa/271~|Kemalpaşa/272~|Kemalpaşa/273~|Kemalpaşa/274~|Kemalpaşa/28~|Kemalpaşa/280~|Kemalpaşa/281~|Kemalpaşa/282~|Kemalpaşa/286~|Kemalpaşa/288~|Kemalpaşa/289~|Kemalpaşa/29~|Kemalpaşa/290~|Kemalpaşa/291~|Kemalpaşa/292~|Kemalpaşa/293~|Kemalpaşa/294~|Kemalpaşa/295~|Kemalpaşa/296~|Kemalpaşa/297~|Kemalpaşa/298~|Kemalpaşa/299~|Kemalpaşa/3~|Kemalpaşa/30~|Kemalpaşa/300~|Kemalpaşa/301~|Kemalpaşa/302~|Kemalpaşa/303~|Kemalpaşa/304~|Kemalpaşa/305~|Kemalpaşa/306~|Kemalpaşa/307~|Kemalpaşa/308~|Kemalpaşa/309~|Kemalpaşa/31~|Kemalpaşa/311~|Kemalpaşa/312~|Kemalpaşa/313~|Kemalpaşa/314~|Kemalpaşa/315~|Kemalpaşa/316~|Kemalpaşa/317~|Kemalpaşa/318~|Kemalpaşa/319~|Kemalpaşa/320~|Kemalpaşa/321~|Kemalpaşa/322~|Kemalpaşa/323~|Kemalpaşa/324~|Kemalpaşa/325~|Kemalpaşa/326~|Kemalpaşa/327~|Kemalpaşa/328~|Kemalpaşa/329~|Kemalpaşa/33~|Kemalpaşa/330~|Kemalpaşa/331~|Kemalpaşa/333~|Kemalpaşa/334~|Kemalpaşa/335~|Kemalpaşa/336~|Kemalpaşa/337~|Kemalpaşa/34~|Kemalpaşa/340~|Kemalpaşa/341~|Kemalpaşa/348~|Kemalpaşa/349~|Kemalpaşa/35~|Kemalpaşa/350~|Kemalpaşa/351~|Kemalpaşa/352~|Kemalpaşa/354~|Kemalpaşa/355~|Kemalpaşa/356~|Kemalpaşa/357~|Kemalpaşa/358~|Kemalpaşa/359~|Kemalpaşa/36~|Kemalpaşa/360~|Kemalpaşa/361~|Kemalpaşa/364~|Kemalpaşa/365~|Kemalpaşa/366~|Kemalpaşa/367~|Kemalpaşa/37~|Kemalpaşa/370~|Kemalpaşa/372~|Kemalpaşa/373~|Kemalpaşa/374~|Kemalpaşa/375~|Kemalpaşa/377~|Kemalpaşa/378~|Kemalpaşa/379~|Kemalpaşa/38~|Kemalpaşa/380~|Kemalpaşa/39~|Kemalpaşa/4~|Kemalpaşa/40~|Kemalpaşa/41~|Kemalpaşa/410~|Kemalpaşa/410-@|Kemalpaşa/411~|Kemalpaşa/413~|Kemalpaşa/414~|Kemalpaşa/43~|Kemalpaşa/44~|Kemalpaşa/45~|Kemalpaşa/450~|Kemalpaşa/451~|Kemalpaşa/452~|Kemalpaşa/455~|Kemalpaşa/457~|Kemalpaşa/46~|Kemalpaşa/460~|Kemalpaşa/461~|Kemalpaşa/462~|Kemalpaşa/463~|Kemalpaşa/464~|Kemalpaşa/48~|Kemalpaşa/5~|Kemalpaşa/50~|Kemalpaşa/500~|Kemalpaşa/51~|Kemalpaşa/53~|Kemalpaşa/54~|Kemalpaşa/55~|Kemalpaşa/56~|Kemalpaşa/57~|Kemalpaşa/58~|Kemalpaşa/6~|Kemalpaşa/60~|Kemalpaşa/61~|Kemalpaşa/62~|Kemalpaşa/65~|Kemalpaşa/66~|Kemalpaşa/67~|Kemalpaşa/68~|Kemalpaşa/69~|Kemalpaşa/7~|Kemalpaşa/70~|Kemalpaşa/71~|Kemalpaşa/72~|Kemalpaşa/74~|Kemalpaşa/76~|Kemalpaşa/77~|Kemalpaşa/79~|Kemalpaşa/80~|Kemalpaşa/81~|Kemalpaşa/82~|Kemalpaşa/9~|Kemalpaşa/90~|Kemalpaşa/93~|Kemalpaşa/99~|Kiraz~|Kiraz/1~|Kiraz/2~|Kiraz/3~|Küçük Acıpınar=|Kılan@|Kılan/1~|Kılan/2~|Kılan/3~|Kılan/4~|Kılan/5~|Kılan/6~|Kılan/7~|Mağara~|Mehmet Tetiker~|Mehmet Tetiker/1~|Mehmet Tetiker/1-~|Mehmet Tetiker/2~|Mehmet Tetiker/3~|Mehmet Tetiker/4~|Mehmet Tetiker/5~|Ofis~|Ofis/1~|Ofis/2~|Osman Kavaklı~|Pekel~|Peyami~|Poyraz~|Poyraz/1~|Poyraz/2~|Poyraz/3~|Sarpı~|Tatboğazı~|Tekmen~|Tekmen/1~|Tetik-~|Turan~|Ufuk~|Yakup Gökçen@|Yakup Ünal_1@|Yeşil-=|Yunus@|Yunus/1~|Yunus/10~|Yunus/11~|Yunus/12~|Yunus/13~|Yunus/2~|Yunus/3~|Yunus/4~|Yunus/5~|Yunus/6~|Yunus/7~|Yıkar~|Yıkar/1~|Yıldız~|Çamlık~|Çamlık/1~|Çamlık/10~|Çamlık/2~|Çamlık/3~|Çamlık/4~|Çamlık/5~|Çiçek Sekisi~|Çiçek Sekisi/1~|Çiçek Sekisi/4~|Çoban~|Çoban/1~|Çukurova~|Çukurova/1~|Çıkmaz 1~|Çıkmaz~|Çıkmaz/10~|Çıkmaz/2~|Çıkmaz/3~|Çıkmaz/5~|Çıkmaz/6~|Çıkmaz/7~|Çıkmaz/8~|Ölçer~|Öz İçi Mevkii=|Özkul-~|Öztürk~|Öztürk/1~|Öztürk/10~|Öztürk/11~|Öztürk/12~|Öztürk/15~|Öztürk/18~|Öztürk/3~|Öztürk/4~|Öztürk/6~|Öztürk/7~|Öztürk/8~|Öztürk/9~|Ülkü~|Ülkü/3~|Üngör~|Üngör/1~|Üniversite-~|Ünsal~|Ünsal/1~|Ünsal/2~|Ünsal/5~|Ünsal/6~|Ünsal/7~|Ünsal/8~|İsmail Oğuz@|İsmet İnönü@|İşliyen~|Şehitlik 1-~|Şehitlik 10~|Şehitlik 11~|Şehitlik 111~|Şehitlik 12~|Şehitlik 13~|Şehitlik 14~|Şehitlik 2~|Şehitlik 2/1~|Şehitlik 3~|Şehitlik 4~|Şehitlik 5~|Şehitlik 5/1~|Şehitlik 6~|Şehitlik 7~|Şehitlik 8~|Şehitlik 9~|Şehitlik~|Şeker~|Şıhlı~
+65079	Kolsuz Köyü	 Köy$
+65117	Kozluca Köyü	 Köy$
+197659	Koçak Köyü, Azdın Mevkii	 Köy$
+197661	Koçak Köyü, Kalederesi Mevkii	Kalederesi 1~|Kalederesi 2~|Kalederesi 3~
+197665	Koçak Köyü, Köyün Kendisi Mevkii	 Köy$
+65102	Koçak Köyü, Küme1 Mevkii	 Köy$
+65103	Koçak Köyü, Küme2 Mevkii	 Köy$
+65104	Koçak Köyü, Küme3(ilemin Kümesi) Mevkii	 Köy$
+65106	Koçak Köyü, Küme5(aşağıöz) Mevkii	 Köy$
+65107	Koçak Köyü, Küme6(yukarıöz) Mevkii	 Köy$
+65108	Koçak Köyü, Küme7(seydiahmet) Mevkii	 Köy$
+65109	Koçak Köyü, Küme8(akyar) Mevkii	 Köy$
+197663	Koçak Köyü, Tosunali Mevkii	Tosunali 1~|Tosunali 2~
+197667	Köşkönü Köyü	Köyün Kendisi Köy$
+60805	Kılan Köyü, Fatih Mevkii	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|4~|5~|50~|51~|52~|53~|54~|6~|7~|8~|9~|Akın~|Aldemir~|Bulca~|Duruel~|Karacören~|Kaşınbaşı~|Köşker~|Kızılöz~|Mergen~|Okul~|Sanayii~|Sayar~|Toki Konutları=|Usluer~|Yetiş~|Çelik~|Özdemir~|Ünüversite~|İlgün~|Şehit Erol Özkul~|Şehit Murat Özel~|Şehit Süleyman Polat~
+60806	Kılan Köyü, Zafer Mevkii	Ataturk~|Barboros~|Bircan~|Dere~|Derin~|Erbaş~|Erdem~|Eskiköy~|Karacören~|Koop~|Mehmet Turan~|Polat~|Salman~|Soğanlık~|Suludere~|Tahtalı~|Tarımsal~|Toraman~|Turan~|Turhan~|Özcan~|İnce~|Şehit Halil Yıldırım~|Şehit Mustafa Koçoğlu~|Şehit Süleyman Polat~
+65118	Madenköy Köyü	 Köy$
+60803	Mehmetpaşa Mah.	6._1~|Adil Erol@|Adil Erol/1@|Adil Erol/5~|Adnan Menderes@|Cemal Gürsel@|Emenler~|Eski Su Deposu=|Eski Su Deposu/1~|Eğilmezler~|Hasan Efendi~|Hüseyin Onur@|Medrese~|Pınar Başı~|Su Deposu~|Çakılca~|Ömer Hoca~|Özmenler~
+60804	Mısırlı Mah.	10.~|11.~|12.~|15.~|9.~|Adnan Menderes@|Emniyet_1~|Ertaşlar~|Gürümlü~|Hüseyin Onur@|Kara Memiş~|Karabacak~|Köseler~|Mısırlı~|Secaaddin~|Soku~|Türk Ali~|Türkerler~|İsmail Oğuz@|İsmet İnönü@
+65080	Ovacık Köyü, Küme1 Mevkii	 Köy$
+65081	Ovacık Köyü, Küme2 Mevkii	 Köy$
+65082	Porsuk Köyü, Küme1 Mevkii	 Köy$
+65083	Porsuk Köyü, Küme2 Mevkii	 Köy$
+65084	Porsuk Köyü, Küme3 Mevkii	 Köy$
+65122	Tabaklı Köyü	 Köy$
+65120	Tabaklı Köyü, Küme2 Mevkii	 Köy$
+65121	Tabaklı Köyü, Küme3 Mevkii	Çakıl Kümesi (küme 3)~
+65090	Tekneçukur Köyü	 Köy$
+65088	Tekneçukur Köyü, Küme1 Mevkii	 Köy$
+65089	Tekneçukur Köyü, Küme2 Mevkii	 Köy$
+65091	Tepeköy Köyü	 Köy$
+65092	Toraman Köyü	 Köy$
+60811	Yeniyıldız Köyü, Atatürk Mevkii	Camii~|Hüseyin Doğan~|Kırmalar~|Paşalar~|Çeşme~|Çiçek~|İstasyon~
+60812	Yeniyıldız Köyü, Cumhuriyet Mevkii	Bahçelievler~|Kavaklıdere~|Meydan~|Uzun~|Çıkmaz~|İğdeler~
+60813	Yeniyıldız Köyü, Kurtuluş Mevkii	Akkaya~|Eski Okul~|Karaçam~|Kayrak~|İğdeler~
+65096	Çanakçı Köyü	 Köy$
+60814	Çiftehan Köyü, Cumhuriyet Mevkii	101.~|102.~|103.~|104.~|105.~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|E-5~|Kasap Mustafa~|Katrancı~|Torunevler~|Turgut Özal~|Valiler~
+60815	Çiftehan Köyü, Evren Mevkii	201.~|202.~|203.~|204.~|205.~|206 Sok~|206.~|207.~|208.~|209.~|210.~|211.~|212.~|213~|Erdoğan Özegen~|Koçak~|Necmettin Kılıç~|Orman Yolu~|Valiler~|İstasyon Cad~|İstasyon~
+65097	Çifteköy Köyü, Küme1 Mevkii	 Köy$
+98988	Çövek Mah.	1~|1-~|1.~|10.-~|11.-~|12~|12/1~|12/3~|13-~|14.~|15._1~|16.~|17.~|18~|18.~|19.~|2.~|20.~|22~|25.~|25/1~|26~|28/1~|29~|3.~|30_1~|32_1~|33~|33/1~|34~|35~|36~|38~|39~|4.~|40~|41.~|42~|45~|46~|49~|5.~|50~|6~|6.~|7~|Adana Koop.~|Adana-ankara@|Adil Erol@|Altay@|Arslan~|Arslan/1~|Arslan/21~|Arslan/3~|Ağaca Pınarı~|Aşağıbağ Mevki=|Bajdarlık=|Ballığın Ağılı=|Belpınarı=|Beyazıt~|Beş Ocak@|Beş Ocak/1~|Beş Ocak/2~|Beş Ocak/3~|Cami~|Cevizli~|Cevizli/1~|Cevizli/2~|Cevizli/3~|Cevizli/4~|Demir-~|Duman~|Erhan Demir~|Erhan Demir/1~|Fakoğlu-=|Gezer~|Gözcü~|Güney@|Güçlü~|Halil Ağanın Çadırı=|Hatipin Ağılı=|Hicri Baysal@|Hicri Baysal/1~|Hicri Baysal/2~|Hicri Baysal/3~|Hicri Baysal/4~|Hicri Baysal/5~|Hicri Baysal/6~|Hicri Baysal/7~|Karaağaç Mevkii=|Karatepe~|Karayel~|Karaçiçek~|Kaya Delik-=|Kocatürk~|Kocatürk/1~|Kocatürk/2~|Kocatürk/3~|Kursak~|Kuva-i Milliye@|Kuvai Milliye/1~|Kuvai Milliye/11~|Kuvai Milliye/3~|Kuvai Milliye/4~|Küme1=|Kılınç~|Kırbıyık~|Kırbıyık/10~|Kırbıyık/14~|Kırbıyık/15~|Kırbıyık/16~|Kırbıyık/17~|Kırbıyık/18~|Kırbıyık/19~|Kırbıyık/2~|Kırbıyık/22~|Kırbıyık/23~|Kırbıyık/25~|Kırbıyık/26~|Kırbıyık/27~|Kırbıyık/29~|Kırbıyık/30~|Kırbıyık/32~|Kırbıyık/33~|Kırbıyık/35~|Kırbıyık/36~|Kırbıyık/37~|Kırbıyık/38~|Kırbıyık/39~|Kırbıyık/40~|Kırbıyık/41~|Kırbıyık/42~|Kırbıyık/43~|Kırbıyık/44~|Kırbıyık/45~|Kırbıyık/46~|Kırbıyık/47~|Kırbıyık/48~|Kırbıyık/5~|Kırbıyık/50~|Kırbıyık/51~|Kırbıyık/52~|Kırbıyık/54~|Kırbıyık/55~|Kırbıyık/56~|Kırbıyık/57~|Kırbıyık/58~|Kırbıyık/6~|Kırbıyık/61~|Kırbıyık/62~|Kırbıyık/64~|Kırbıyık/7~|Kırbıyık/8~|Kırbıyık/80~|Kışla@|Kışla/10~|Kışla/11~|Kışla/12~|Kışla/13~|Kışla/14~|Kışla/15~|Kışla/16~|Kışla/2~|Kışla/3~|Kışla/4~|Kışla/5~|Kışla/6~|Kışla/7~|Kışla/8~|Kışla/9~|Medine~|Melizin Kırma Mevkii~|Osman Gündüz-@|Park~|Park/1~|Pekeller~|Pınar-~|Ramazan~|Ramazan/1~|Reşat Nuri Güntekin~|Reşat Nuri Güntekin/1~|Reşat Nuri Güntekin/10~|Reşat Nuri Güntekin/2~|Reşat Nuri Güntekin/3~|Reşat Nuri Güntekin/4~|Reşat Nuri Güntekin/5~|Reşat Nuri Güntekin/6~|Reşat Nuri Güntekin/8~|Reşat Nuri Güntekin/9~|Sansar@|Sarpı/2~|Sarpı/3~|Sarpı/4~|Sarpı/5~|Sarpı_1~|Süleyman Öldük@|Süleyman Öldük/1~|Süleyman Öldük/2~|Süleyman Öldük/3~|Süleyman Öldük/4~|Süleyman Öldük/5~|Toki~|Toki/1~|Toki/2~|Tıraztepe@|Tıraztepe/1~|Tıraztepe/10~|Tıraztepe/11~|Tıraztepe/12~|Tıraztepe/13~|Tıraztepe/14~|Tıraztepe/15~|Tıraztepe/2~|Tıraztepe/3~|Tıraztepe/4~|Tıraztepe/5~|Tıraztepe/6~|Tıraztepe/7~|Tıraztepe/9~|Ulukışla Otoyolu@|Zümrüt~|Zümrüt/1~|Zümrüt/2~|Zümrüt/3~|Zümrüt/5~|Zümrüt/6~|Çakmak=|Çövek/1~|Çövek/10~|Çövek/11~|Çövek/12~|Çövek/13~|Çövek/14~|Çövek/16~|Çövek/17~|Çövek/18~|Çövek/19~|Çövek/2~|Çövek/20~|Çövek/21~|Çövek/22~|Çövek/23~|Çövek/24~|Çövek/25~|Çövek/26~|Çövek/27~|Çövek/28~|Çövek/29~|Çövek/3~|Çövek/4~|Çövek/40~|Çövek/41~|Çövek/42~|Çövek/43~|Çövek/44~|Çövek/45~|Çövek/46~|Çövek/47~|Çövek/48~|Çövek/49~|Çövek/5~|Çövek/6~|Çövek/7~|Çövek/8~|Çövek/9~|Çıkrık=|Çınar~|Çınar/1~|Çınar/10~|Çınar/12~|Çınar/2~|Çınar/3~|Çınar/4~|Çınar/5~|Çınar/6~|Çınar/7~|Özden~|Ünal~|Ünal/1~|İlbeyi@|İlbeyi/1~|İlbeyi/10~|İlbeyi/11~|İlbeyi/12~|İlbeyi/13~|İlbeyi/14~|İlbeyi/15~|İlbeyi/16~|İlbeyi/17~|İlbeyi/18~|İlbeyi/2~|İlbeyi/3~|İlbeyi/4~|İlbeyi/5~|İlbeyi/6~|İlbeyi/7~|İlbeyi/8~|İlbeyi/9~|İsmailoğlu~|İstiklal@|Şht.osman Gündüz@|Şht.osman Gündüz/1~|Şht.osman Gündüz/10~|Şht.osman Gündüz/2~|Şht.osman Gündüz/3~|Şht.osman Gündüz/4~|Şht.osman Gündüz/5~|Şht.osman Gündüz/6~|Şht.osman Gündüz/7~|Şht.osman Gündüz/8~|Şht.osman Gündüz/9~|Şule~
+65123	Ünlüyaka Köyü	 Köy$
+65124	Ünlüyaka Köyü, Küme1 Mevkii	 Köy$
+65125	Ünlüyaka Köyü, Küme2 Mevkii	
+65076	İlhanköy Köyü	Köyün Kendi Köy$
+65077	İmrahor Köyü	 Köy$
+65085	Şeyhömerli Köyü, Küme1 Mevkii	 Köy$
+65086	Şeyhömerli Köyü, Küme2 Mevkii	 Köy$
+65087	Şeyhömerli Köyü, Küme3 Mevkii	 Köy$

@@ -1,0 +1,80 @@
+36024	Akpınar Köyü, Aşağı Mevkii	 Köy$
+36022	Akpınar Köyü, Hene Mevkii	 Köy$
+36025	Akpınar Köyü, Kemal Kışla Mevkii	 Köy$
+36026	Akpınar Köyü, Kök Diken Mevkii	 Köy$
+36023	Akpınar Köyü, Üst Mevkii	 Köy$
+36034	Boncukçukur Köyü, Ahmatlı Mevkii	 Köy$
+36031	Boncukçukur Köyü, Alanağzı Mevkii	 Köy$
+36028	Boncukçukur Köyü, Bük Mevkii	 Köy$
+36027	Boncukçukur Köyü, Derebükü Mevkii	 Köy$
+36032	Boncukçukur Köyü, Ezeltepe Mevkii	 Köy$
+36030	Boncukçukur Köyü, Köyeteği Mevkii	 Köy$
+36033	Boncukçukur Köyü, Orta Mevkii	Orta=
+36029	Boncukçukur Köyü, Veledinağzı Mevkii	 Köy$
+36035	Dayıcık Köyü, Aşağı Mevkii	 Köy$
+36036	Dayıcık Köyü, Yukarı Mevkii	 Köy$
+36040	Düzçukur Köyü, Aşağı Mevkii	 Köy$
+36037	Düzçukur Köyü, Güni Mevkii	 Köy$
+36038	Düzçukur Köyü, Gıran Mevkii	 Köy$
+36041	Düzçukur Köyü, Kırık Mevkii	 Köy$
+36039	Düzçukur Köyü, Orta Mevkii	 Köy$
+98341	Ergenekon Köyü, Danışman Mevkii	 Köy$
+98342	Ergenekon Köyü, Fındıklı Mevkii	 Köy$
+98343	Ergenekon Köyü, Yazlık Mevkii	 Köy$
+36045	Fındıklı Köyü, Aşağı Mevkii	Aşağı=
+36046	Fındıklı Köyü, Kaya Güney Mevkii	Kaya Güney=
+36042	Fındıklı Köyü, Küçük Kargaşa Mevkii	Küçük Kargaşa=
+36044	Fındıklı Köyü, Orta Mevkii	Orta=
+36043	Fındıklı Köyü, Üs Mevkii	Üs=
+36047	Fırınlı Köyü, Aydınlar Mevkii	 Köy$
+36048	Fırınlı Köyü, Tuzlakbaşı Mevkii	 Köy$
+30849	Giyimli Mah.	Badalçukurualtküme=|Badalçukuruüstküme=|Kıran Alt=|Kıran Üst=|Orta Mahalle Alt=|Orta Mahalle Üst=|Tikence Alt=|Tikence Üst Küme=|Zorlu Alt Kümesi=|Zorlu Üst Kümesi=
+30850	Güce Mah.	Ali Efendi~|Belediye~|Cumhuriyet@|Egeli=|Emniyet~|Esentepe=|Gökçebel@|Hacı Hamdi Paşa~|Kabarıklı=|Kahvecioğlu~|Kahyaoğlu~|Maraşal Fevzi Çakmak@|Maraşal Fevzi Çakmak/1~|Menekşe-~|Merkez Aşağı Kümesi=|Merkez Bodurlu Kümesi=|Merkez Yukarı Kümesi=|Osman Ağa Myd.|Sağlık~|Çayırhan~|Ş.muammer Dur~|Şeh Mehmet Efendi~|Şehit Ali Cevizci-@
+36049	Gürağaç Köyü, Absak Mevkii	 Köy$
+36050	Gürağaç Köyü, Aşağı Mevkii	 Köy$
+36057	Gürağaç Köyü, Baş Çukur Mevkii	 Köy$
+36056	Gürağaç Köyü, Düz Mevkii	 Köy$
+36052	Gürağaç Köyü, Ebulu Mevkii	 Köy$
+36051	Gürağaç Köyü, Kıran Mevkii	 Köy$
+36055	Gürağaç Köyü, Yukarı Mevkii	 Köy$
+36054	Gürağaç Köyü, İrizoğlu Mevkii	 Köy$
+36053	Gürağaç Köyü, Şehit Muhammer Dur Mevkii	 Köy$
+30851	Kemaliye Mah.	Camiyanı=|Egeli=|Güney=|Han Kıranı-=|Tek Kiraz=|Çavuşdüzü=
+36066	Kuluncak Köyü, Abdugil Mevkii	 Köy$
+36073	Kuluncak Köyü, Boynu Kıran Mevkii	 Köy$
+36067	Kuluncak Köyü, Cami Yanı Mevkii	 Köy$
+36072	Kuluncak Köyü, Eyüpgil Mevkii	 Köy$
+36069	Kuluncak Köyü, Karadere Mevkii	 Köy$
+36071	Kuluncak Köyü, Kavacık Mevkii	 Köy$
+36064	Kuluncak Köyü, Okul Yanı Mevkii	 Köy$
+36065	Kuluncak Köyü, Orta Mevkii	 Köy$
+36068	Kuluncak Köyü, Çakalağzı Mevkii	 Köy$
+36070	Kuluncak Köyü, Çal Mevkii	 Köy$
+36080	Sarıyar Köyü, Akkakonağı Mezrası	 Köy$
+36077	Sarıyar Köyü, Cami Yanı Mevkii	 Köy$
+36078	Sarıyar Köyü, Cardak Çukuru Mevkii	 Köy$
+36074	Sarıyar Köyü, Derebük Mevkii	 Köy$
+36079	Sarıyar Köyü, Gargan Tazlağı Mezrası	 Köy$
+36076	Sarıyar Köyü, Güney Mevkii	 Köy$
+36075	Sarıyar Köyü, Yeni Mevkii	 Köy$
+36081	Soğukpınar Köyü	Soğukpınar=
+98344	Tekkeköy Köyü, Akbaş Mevkii	 Köy$
+98345	Tekkeköy Köyü, Kabaalan Mevkii	 Köy$
+98349	Tekkeköy Köyü, Küçükköy Mevkii	 Köy$
+98348	Tekkeköy Köyü, Ocak Tamı (mezra) Mezrası	 Köy$
+98347	Tekkeköy Köyü, Ocak Tamı Mevkii	 Köy$
+98346	Tekkeköy Köyü, Yazlık Mevkii	 Köy$
+30852	Tevekli Mah.	Cebeci=|Hendenli=|Hüseyinoğulları-=|Kelebekli=|Kuz=|Kıran=|Menili=|Merkez=|Topçalı=
+98355	Yukarıboynuyoğun Köyü, Belen Mevkii	 Köy$
+98350	Yukarıboynuyoğun Köyü, Hasanşıh Mevkii	 Köy$
+98352	Yukarıboynuyoğun Köyü, Kovancak Mevkii	 Köy$
+98351	Yukarıboynuyoğun Köyü, Merkez Mevkii	 Köy$
+98353	Yukarıboynuyoğun Köyü, Yaylı Gıran Mevkii	 Köy$
+98354	Yukarıboynuyoğun Köyü, Çatak Mevkii	 Köy$
+36082	Örnekköy Köyü	 Köy$
+36063	İlit Köyü, Aloğlu Mevkii	 Köy$
+36058	İlit Köyü, Cami Mevkii	 Köy$
+36062	İlit Köyü, Fevzi Çakmak Mevkii	 Köy$
+36061	İlit Köyü, Kıran Mevkii	 Köy$
+36059	İlit Köyü, Mazıdüzü Mevkii	 Köy$
+36060	İlit Köyü, Çamdüzü Mevkii	 Köy$

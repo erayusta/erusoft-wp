@@ -1,0 +1,24 @@
+87700	Alfaklar Köyü	Alfaklar Köy$
+99191	Alfaklar Köyü, Pınar Mevkii	Pınar Köy$
+87701	Beki Köyü	Beki Köy$
+80509	Boğaz Mah.	Akasya~|Atilla~|Ayva~|Bademlik~|Bağ Evleri=|Ceviz~|Güneşli~|Hatay~|Kars~|Kayseri~|Kiraz~|Kiraz1~|Kuzey~|Nar~|Nar1~|Organize Sanayi Bölgesi=|Selvi~|Selvi1~|Söğüt~|Söğüt1~|Vişne~|Vişne1~|Vişne2~|Vişne3~|Yayla~|Zümrüt~|Çam~|Çilek~
+200289	Buğdaylı Mah.	Buğdaylı~
+87704	Coğuplu Köyü	Coğuplu Köy$
+87703	Coğuplu Köyü, Derincik Mevkii	Derincik Köy$|Yedideğirmen=
+87706	Delihıdırlı Köyü	Delihıdırlı Köy$
+80510	Dere Mah.	Adnan Menderes@|Ali İhsan Canlı 1~|Ali İhsan Canlı@|Alpaslan~|Alpaslan1~|Alpaslan2~|Atatürk@|Atilla~|Atilla1~|Açık Pazar Myd.|Barbaros~|Bağ Evleri=|Beyazıt~|Depo~|Fevzi Çakmak~|Gazi Osman Paşa 1~|Gazi Osman Paşa~|Hasan Bozoklu~|Hasan Tahsin~|Hasan Tahsin1~|Kazım Karabekir~|Mithat Paşa~|Namık Kemal~|Namık Kemal1~|Namık Kemal2~|Pamuk~|Pamuk1~|Pamuk2~|Susam~|Söğüt 1~|Söğüt~|Taşlı=|Timur~|Yavuz 1~|Yavuz 2~|Yavuz~|Ömer Özyurt~|Şht.kubilay~
+87707	Dumanlı Köyü	Dumanlı~
+87708	Duraklı Köyü	Duraklı Köy$
+100418	Duraklı Köyü, Yedideğirmen Mevkii	Yedideğirmen=
+87709	Karayakuplu Köyü	Karayakuplu Köy$|Pınar Köy$
+200287	Karbasan Mah.	2.çam 1~|2.çam 2~|2.çam 3~|2.çam~|Badem~|Bağ~|Ceviz 1~|Ceviz Fevzi Çakmak~|Fesleğen Namık Kemal~|Fesleğen1~|Fesleğen2~|Fesleğen3~|Gelincik Namık Kemal~|Gelincik1~|Gonca~|Gonca1~|Gül Namık Kemal~|Gül1~|Hurma~|Kabristan~|Kadınçeşmesi~|Karanfil Namık Kemal~|Karanfil1~|Kayısı 2~|Kayısı~|Kekik Namık Kemal~|Kekik1~|Kereviz~|Kereviz1~|Kestane 1~|Kestane~|Lale Namık Kemal~|Lale1~|Menekşe~|Nar 1~|Nar 3~|Nar Fevzi Çakmak~|Nergis 2~|Nergis Namık Kemal~|Nergis1~|Papatya 1~|Papatya 2~|Papatya Namık Kemal~|Selvi 1~|Selvi 2~|Selvi 3~|Selvi 4~|Selvi Namık Kemal Fevzi Çakmak~|Somaklık~|Söğüt Fevzi Çakmak~|Sümbül Namık Kemal~|Vişne Fevzi Çakmak~|Zakkum 1~|Zakkum 2~|Zakkum~|Zeytin~|Çimen Namık Kemal~|Çiçek~|İğde~|Şht.ilyas Uysal~
+87710	Kavaklı Köyü	Clandras Köy$|Kavaklı Köy$|Pınar Köy$
+87711	Kaykıllı Köyü	Kaykıllı Köy$
+80511	Konak Mah.	Adalet 1@|Adalet 2@|Ahmet Çetin~|Ahmet Çetin1~|Akasya~|Ali İhsan Canlı@|Ankara~|Açık Pazar Myd.|Bahar~|Bursa~|Cemil Özer~|Cemre~|Cemre1~|Cemre2~|Cumhuriyet@|Cumhuriyet1~|Cumhuriyet2~|Edirne~|Edirne1~|Edirne2~|Edirne3~|Hatay~|Kadife~|Kars~|Kayseri~|Kiraz~|Konya~|Kuzey~|Kuzey1~|Milli Egemenlik@|Milli Egemenlik1@|Organize Sanayi Bölgesi=|Papatya~|Papatya1~|Sakarya~|Sakarya1~|Samsun~|Sanayi Sitesi=|Sağlık~|Sağlık1~|Sağlık2~|Sivas~|Yayla~|Yaz 1~|Yaz~|Çimentepe~|İnönü 1~|İnönü 2~|İnönü@|İzmir~
+80513	Konak Osb Mah.	101.@|102.@|103.@|104.@|105.@|106.@|107.@|108.@
+87713	Külköy Köyü	Dere Köy$|Duraklı Köy$|Külköy 1~|Külköy 10~|Külköy 11~|Külköy 12~|Külköy 13~|Külköy 14~|Külköy 15~|Külköy 16~|Külköy 17~|Külköy 18~|Külköy 19~|Külköy 2~|Külköy 20~|Külköy 21~|Külköy 22~|Külköy 23~|Külköy 24~|Külköy 3~|Külköy 4~|Külköy 5~|Külköy 6~|Külköy 7~|Külköy 8~|Külköy 9~|Külköy Köy$
+87712	Kırkyaren Köyü	Kırkyaren Köy$
+87714	Paşalar Köyü	Külköy Köy$|Paşalar Köy$
+87715	Paşalar Köyü, Dere Mevkii	Dere Köy$|Pınar Köy$
+80512	Yeni Mah.	Adnan Menderes 1~|Adnan Menderes 2~|Adnan Menderes 3~|Adnan Menderes@|Ali İhsan Canlı 2~|Ali İhsan Canlı 3~|Ali İhsan Canlı 4~|Ali İhsan Canlı@|Ali İhsan Özkan 1~|Ali İhsan Özkan~|Atatürk 1~|Atatürk@|Ayçiçeği~|Açık Pazar Myd.|Bahçeli~|Beyazıt~|Cakcakoğlu Osman~|Ceritoğlu Mehmet~|Fesleğen~|Gelincik~|Gül~|Hasan Bozoklu~|Karanfil~|Kekik~|Koşu~|Kumru Oğlu Ali~|Lale~|Leylak~|Mercan Oğlu Niyazi~|Mimar Sinan~|Muharrem Oğlu Sait~|Nane~|Nergis~|Oba=|Papatya 2~|Papatya 3~|Papatya111~|Reis Mehmet Ağa~|Reis Nafiz 1~|Reis Nafiz 2~|Reis Nafiz~|Saatçi~|Sarmaşık~|Sarıgız=|Sümbül~|Ulukuş~|Yeni Pazar Myd.|Yonca~|Zambak~|Çimen 1~|Çimen 2~|Çimen~|İnönü@|Şaştepe~
+87705	Çokaklı Köyü	Çokaklı Köy$

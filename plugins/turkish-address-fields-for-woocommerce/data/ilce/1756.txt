@@ -1,0 +1,32 @@
+44752	Akbulak Köyü	Akbulak=
+44753	Aslahane Köyü	Aslahane=
+44754	Boyuntaş Köyü	Boyuntaş=
+44755	Büyükdurduran Köyü	Büyükdurduran=
+44756	Büyükpirveli Köyü	Büyükpirveli=
+44758	Camuşlu Köyü	Camuşlu=
+44757	Cebeci Köyü	Cebeci=
+44760	Demirkent Köyü	Demirkent=
+44761	Duraklı Köyü	Duraklı=
+44762	Esenyayla Köyü	Esenyayla Köyün Kendisi=
+44763	Geçitköy Köyü	Geçitköy=
+44764	Hacıpiri Köyü	Hacıpiri=
+44767	Kalkankale Köyü, Aşağı Mevkii	Kalkankale Aşağı Köy Bağlısı=
+44768	Kalkankale Köyü, Yukarı Mevkii	Kalkankale Yukarı Köy Bağlısı=
+44770	Karahan Köyü	Karahan=
+44769	Kayadöven Köyü	Kayadöven=
+44772	Kayaköprü Köyü, Karşı Mevkii	Karşı=
+44771	Kayaköprü Köyü, Merkez Mevkii	Merkez=
+44775	Kürekdere Köyü	Kürekdere=
+44773	Küçükaküzüm Köyü	Küçükaküzüm=
+44774	Küçükdurduran Köyü	Küçükdurduran=
+44776	Sulakbahçe Köyü	Sulakbahçe=
+44777	Süngüderesi Köyü	Süngüderesi=
+41746	Tepe Mah.	1.dere~|2~|6.sokak~|Anbar~|Asim Adıgüzel~|Budak~|Büklüm~|Camii~|Demirci~|Döner~|Elbeyi Tanyıldız~|Esen Yayla~|Hacı Murat Yıldırım=|Hayrullah Bulut~|Kalkankale~|Karşıyaka@|Sivri~|Sulak~|Söğütlü~|Tepecik~|Tepeler~|Turgut Turan~|Çeşme~|Üçpınar~
+41747	Topkaya Mah.	Ahmet Arslan@|Bulvar@|Elif~|Karaoğlu~|Kars@|Kooperatif~|Pompa~|Toprak Mahsulleri Ofisi~|Topyaka 1~|Yıldız~|Özgür~
+44780	Yerlikavak Köyü	Yerlikavak=
+44759	Çetindurak Köyü	Çetindurak=
+44779	Üçpınar Köyü	Üçpınar Köy Yolu=
+44765	İbişköy Köyü	İbişköy=
+44766	İncedere Köyü	İncedere=
+41745	İstasyon Mah.	1.dere~|Ahmet Arslan@|Cumhuriyet@|Geçit~|Işıklar~|Karahan~|Kavaklı~|Latif Aküzüm~|Medet Alibeyoğlu@|Mehmet Erdağı~|Muhammet Toptaş~|Suyolu~|Taşdere~|Yalı~|Yusuf Ziya Ayrım@|İsamettin Akkurt@
+44778	Şahnalar Köyü	Şahnalar=

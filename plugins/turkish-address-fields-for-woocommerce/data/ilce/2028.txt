@@ -1,0 +1,70 @@
+97432	Akdam Köyü, Akyar Mevkii	Akyar=|Diniker=
+97433	Akdam Köyü, Davutlu Mevkii	Davutlu=
+97435	Akdam Köyü, Delialiler Mevkii	Delialiler=|Küçükçınar=
+97431	Akdam Köyü, Evciler Mevkii	Evciler=|Şehit Polis Nadir Oğlakkaya@
+97430	Akdam Köyü, Işıklı Mevkii	Işıklı=
+97434	Akdam Köyü, Kürtler Mevkii	Kürtler=
+97436	Akdam Köyü, Merkez Mevkii	Akdam=|Akyar=|Gençaliler=
+97428	Akçataş Köyü, Akçalıuşağı Mevkii	Akçalıuşağı=
+97425	Akçataş Köyü, Aydınlar Mevkii	Aydınlar=
+97426	Akçataş Köyü, Diniker Mevkii	Diniker=
+97424	Akçataş Köyü, Göz Mevkii	Göz=
+97422	Akçataş Köyü, Karşıyaka Mevkii	Karşıyaka=
+97423	Akçataş Köyü, Merkez Mevkii	Akçataş=
+97429	Akçataş Köyü, Çintizli Mevkii	Çintizli=
+97427	Akçataş Köyü, İncirliburun Mevkii	Akçataş=|İncirliburun=|İncirliburun1=
+91142	Alibeyli Köyü, Kalfa Mevkii	4.=|6.=|7 Nolu=|8 Nolu=|Merkez=|Yanıklar=|İlbistanlı=|Şehit Uzman Onbaşı Hacı Mustafa Aki Küme Evleri=
+91143	Alibeyli Köyü, Merkez Mevkii	1 Nolu=|2 Nolu=|3 Nolu=|4.=|5 Nolu=|Azaplı=
+91140	Döğenli Mah.	1~|10.~|100~|101.~|102.~|103.~|104~|107.~|108.~|11.~|110.~|114~|12.~|13.~|14.~|15.~|16.~|163~|164~|165~|166~|167~|168~|169~|17.~|170~|171~|172~|173~|174~|175~|176~|177~|178~|179~|18.~|180~|181~|182~|183~|184~|185~|186~|187~|188~|189~|19.~|190~|191~|192~|193~|194~|195~|196~|197~|198~|199~|2.~|20.~|200~|201~|202~|203~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|3.~|34.~|35.~|36.~|37.~|38.~|39.~|4.~|40.~|41.~|42.~|43.~|44.~|45.~|46.~|47.~|48.~|49.~|5.~|50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|6.~|60.~|61.~|62.~|63.~|64.~|65.~|66.~|67.~|68.~|69.~|7.~|70.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|8.~|80.~|81.~|83.~|84.~|85.~|86.~|87.~|88.~|9.~|90.~|91.~|92.~|97.~|98.~|Atatürk@|Bilinmeyen3~|Bilinmeyen4~|Bilinmeyen6~|Bilinmeyen7~|Cafar Ağa=|Hükümet@|Hürreler=|Kanal Yolu Karıncalı Mevkii=|Kesik Kenarı=|Küçükçınar=|Metliler=|Metliler/1=|Petrol Mevkii=|Çamlık~|Şehit Er Mehmet Fındık~|Şehit Jandarma Er Afacan Büyükyenigün~|Şehit Polis Nadir Oğlakkaya@
+97454	Esenli Köyü, Bağdaş Mevkii	Bağdaş=
+197633	Esenli Köyü, Gazeller Mevkii	Gazeller=
+197591	Esenli Köyü, Gökçebel Mevkii	Gökçebel=
+197589	Esenli Köyü, Merkez Mevkii	Avşarlar=
+197635	Esenli Köyü, Yeni Cennetli Mevkii	Merkez=|Yeni Cennetli=
+197593	Gafarlı Köyü, Bağyeri Mevkii	Bağyeri=
+181828	Gafarlı Köyü, Cemiller Mevkii	Cemiller=
+97464	Gafarlı Köyü, Dineker Mevkii	Akyar=|Dineker=|Diniker=
+197595	Gafarlı Köyü, Ellezli Mevkii	Ellezli=|Çem Kalesi Mevkii=
+97468	Gafarlı Köyü, Geceli Mevkii	Geceli=|Terelik=
+97466	Gafarlı Köyü, Gökgedik Mevkii	Gökgedik=
+97462	Gafarlı Köyü, Güveller Mevkii	Güveller=
+97463	Gafarlı Köyü, Harmancık Yayla Evleri	Harmancık=
+197597	Gafarlı Köyü, Karakeçili Mevkii	- Köy$
+97465	Gafarlı Köyü, Kesmesur Yayla Evleri	Kesmesur=
+97456	Gafarlı Köyü, Merkez Mevkii	Gafarlı=|Turunçlu=
+97469	Gafarlı Köyü, Taşköprü Mevkii	Taşköprü=
+181830	Gafarlı Köyü, Taşocağı Mevkii	Taşocağı=|Yarımsakal=
+97455	Gafarlı Köyü, Terelik Mevkii	Terelik=
+97470	Hüyük Köyü, Merkez Mevkii	Hüyük=|Taşocağı=
+91141	Karaömerli Mah.	1~|100~|101.~|104~|105~|106~|107.~|108.~|109~|111.~|112.~|113.~|114~|115.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|136.~|137.~|138.~|139.~|140.~|141.~|142.~|143.~|144.~|145.~|146.~|147.~|148.~|149.~|150.~|151.~|152.~|153.~|154.~|155.~|156.~|157.~|158.~|159.~|160.~|161.~|162.~|201~|27.~|28~|29~|30~|31~|32.~|33.~|35.~|78.~|80.~|84.~|93~|94.~|95.~|96~|97.~|98.~|99.~|Atatürk@|Bilinmeyen 13.~|Bilinmeyen12~|Fatih@|Hükümet@|Şehit Jandarma Er Afacan Büyükyenigün~|Şehit Polis Nadir Oğlakkaya@
+97473	Köseli Köyü, Demirciler Mevkii	Akdam=|Akçalıuşağı=|Demirciler=
+97475	Köseli Köyü, Gençaliler Mevkii	Akdam=|Gençaliler=
+97476	Köseli Köyü, Merkez Mevkii	Köseli=|Yazıboyu=|Çaygeçit=
+97474	Köseli Köyü, İncirliburun Mevkii	Akçataş=|Köseli=|İncirliburun=|İncirliburun1=
+97477	Küçükçınar Köyü, Merkez Mevkii	Küçükçınar=|Çaygeçit=
+197599	Kızılömerli Köyü, Alişanlı Mevkii	Alişanlı=
+97472	Kızılömerli Köyü, Merkez Mevkii	Aşağı=|Kızılömerli=
+139709	Mehmetli Beldesi, Armağanlı Mah.	32~|33~|34~|35~|36~|37~|38~|39~|4.=|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6.=|60~|61~|62~|63~|64~|65~|Aydınlılar~|Fındıklar=|Gökçenler=|Halil İbrahimli=|Merkez~|Orman Kule~|Orman Yolu~|Püren Sokak~|Pınar Sokak~|Yeşil Yayla=
+91144	Mehmetli Beldesi, Cumhuriyet Mah.	1 Nolu~|18~|19~|2 Nolu~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3 Nolu~|31~|4 Nolu~|5 Nolu~|Aydınlılar~|Ağlıca Mevkii=|Karakol Mevkii~|Kölete Mevkii=|Omar Fakı Mevkii=|Orman Kule~|Reşadiye Köyü Mevkii=|Reşadiye1=|Sumbas Yol Çatı Mevkii=|Vali İsmail Fırat%
+91145	Mehmetli Beldesi, Yeni Mah.	1~|10~|11~|12~|13~|14=|15~|16~|17~|18~|2~|3~|4~|5 Nolu~|5~|6 Nolu~|6~|7~|8~|9~|Halil İbrahimli=|Halıtlı Mevkii=|Karakol Mevkii~|Mustafalar Mevkii=|Vali İsmail Fırat%
+97478	Reşadiye Köyü, Merkez Mevkii	Reşadiye Köyü Mevkii=
+97479	Yazıboyu Köyü, Merkez Mevkii	Köseli=|Yazıboyu=
+97480	Yazıboyu Köyü, Müstenler Mevkii	Müstenler=
+97482	Yeşilyayla Köyü, Agedik Mevkii	Agedik=
+97484	Yeşilyayla Köyü, Fındıklar Mevkii	Fındıklar=|Yeşil Yayla=
+97481	Yeşilyayla Köyü, Galipli Mevkii	Galipli=
+97485	Yeşilyayla Köyü, Geyikağılı Mevkii	Geyikağılı=
+97483	Yeşilyayla Köyü, Karagedik Mevkii	Karagedik=
+97486	Yeşilyayla Köyü, Kayseri Mevkii	Kayseri=
+97487	Yeşilyayla Köyü, Merkez Mevkii	Merkez=
+97488	Yeşilyayla Köyü, Safiyeler Mevkii	Safiyeler=
+97489	Yeşilyayla Köyü, Çukurfenk Mevkii	Çukurfenk=
+97444	Çiçeklidere Köyü, Alasırt Mevkii	Alasırt=
+197587	Çiçeklidere Köyü, Gökçebel Mevkii	- Köy$
+97445	Çiçeklidere Köyü, Kalkan Mevkii	Kalkan=
+97450	Çiçeklidere Köyü, Kırıkköprü Mevkii	Kırıkköprü=
+197585	Çiçeklidere Köyü, Merkez Mevkii	Cafarlı Deresi=|Kokçınar=|Merkezsazak=|Sürtme Yaylası=
+97441	Çiçeklidere Köyü, Tahtalı Mevkii	Tahtalı=
+97440	Çiçeklidere Köyü, Yirce Mevkii	Yirce=
+97446	Çiçeklidere Köyü, Zincarcık Mevkii	Zincarcık=
+97442	Çiçeklidere Köyü, Çıkıkalan Mevkii	Çiçeklidere=

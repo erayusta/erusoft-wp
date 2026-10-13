@@ -1,0 +1,80 @@
+157557	Adak Mah.	Adak=|Bahçeli Mezrası=
+157559	Adakent Mah.	Adakent=|Darık=|Köycük=
+157623	Ahmetli Mah.	Ahmetli=
+157561	Akçay Mah.	Akçay=|Bızmaro=|Zikreş=
+157491	Akıncılar Mah.	Akıncılar=|Bucak Mezrası=|Serap Mezrası=
+157493	Alagöz Mah.	Alagöz=
+157563	Alanlı Mah.	Alanlı=|Bilinmeyen.112~|Topuzgölü=|İpek Yolu1@
+157565	Alibey Mah.	Alibey=|Dede=|Kurudere=|Kuyucak=
+157567	Ambarlı Mah.	Ambarlı=
+157569	Atlı Mah.	Atlı=|Aşağımenteş=|Diktepe=|Günbatı=|Gündoğdu=|Kızlar=|Ovacık=|Umutlu=|Yayalar=|Yayıklı=|Yukarımenteş=|İpek Yolu1@
+157549	Aydınlar Mah.	Aydınlar=|Temel=|Üçkaya=
+157495	Aşağımezra Mah.	Aşağımezra=
+59949	Bahçelievler Mah.	502~|503~|504~|504_ 1~|505~|506~|507~|508~|509~|509-~|509/1~|510~|510.1~|510/1~|511~|512~|513~|514~|515~|516~|517~|519~|520~|520-~|521~|522~|523~|524~|525~|526~|527~|528~|529~|529_1~|530~|531~|532~|533~|534~|535~|536.~|537~|541~|542~|544~|551~|Kaniya Zadi@|Riya Qosere@|Xelat@|Şehitlik@
+157499	Ballı Mah.	Ballı=
+157571	Balova Mah.	Balova=
+157501	Bayraklı Mah.	Bayraklı=|Değirmenli=|Öğrencik Mezrası=
+157575	Bayırköy Mah.	Aktaş=|Bayırköy=|Yıldız=
+157497	Bağarası Mah.	Bağarası=
+157573	Başaran Mah.	Başaran=
+157577	Beşbudak Mah.	Beşbudak=|Direkli1=|Çatalca=
+157579	Boyaklı Mah.	Ağıl Mezrası=|Bilinmeyen1.~|Boyaklı=|Hamidiye Mezrası=|Sırt Mezrası=|İpek Yolu1@
+157503	Bozbayır Mah.	Akça=|Bozbayır=|Karabayır=
+157581	Bozok Mah.	Bozok=|Gırıktepe=|Harmanlı=
+157507	Burçköy Mah.	Burçköy=
+157505	Böğrek Mah.	Böğrek=
+59950	Cevizpınar Mah.	302~|314~|315~|401~|402-~|403~|404~|405~|405/1~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|418~|419~|421~|422~|423~|424~|425~|426~|426_~|427~|428~|429~|430~|431~|432~|433~|434~|435~|436~|437~|438~|439~|440~|441~|442~|443~|444~|445~|446~|447~|448~|449~|450~|451~|452~|453~|453_~|454~|455~|456~|457~|458~|459~|460~|461~|462~|463~|465~|466~|467~|469~|470~|470_~|471~|472~|473~|475~|475_~|476~|477~|479~|Atatürk/1 Myd.|Atatürk/2 Myd.|Azadi@|Belediye Myd.|Berdin@|Bilinmeyen..2~|Bilinmeyen.1~|Bilinmeyen1~|Bilinmeyen3~|Bilinmeyen4~|Bılınmeyen2~|Edip Karahan@|Erik Çıkmaz~|Medhan Çıkmaz~|Mehmet Uzun@|Musa Anter@|Prof.dr.aydın Ayaydın@|Riya Qosere@|Riya Qosere_1~|Serhat@|Serhat Çıkmaz~|Tan Çıkmaz~|Taxa Filla@|Turcel@|Veysi Karagül@|Welat@|Xap=|Yeni~|Yenii1~
+59951	Dağ Mah.	201-~|202~|203~|204~|205~|206~|207-~|208~|209~|210~|210/1~|211~|211/1~|212~|212.1~|212.2~|212.3~|212.4~|213~|214~|215~|216~|217~|219~|221~|222~|301~|Bilinmeyen 86~|Bilinmeyen.6~|Mancel@|Mancel/1~|Mazi@
+157511	Demirli Mah.	Akça/1=|Demirli=|Işıklar=|Karaca/1=|Urt=
+157591	Denktaş Mah.	Denktaş~|Taşkent=|İpek Yolu1@
+157513	Derinsu Mah.	Beştaş=|Derinsu=|Yassıtepe=|Yenice=
+157551	Dikmen Mah.	Dikmen=|Karaca=
+157593	Doğancı Mah.	Doğancı=
+157515	Dumanlı Mah.	Beşkavak=|Dumanlı=|Kayacık=
+157517	Dumluca Mah.	Bellik=|Dumluca=|Esen~|Seydoş Mevkii=
+157519	Düztaş Mah.	Bilinmeyen.22~|Bilinmeyen.4~|Bılınmeyendüztaş=|Düztaş=|Selamet Mezrası=|Tarlacık Mezrası=|Çivili Mezrası=|Çiçekli=
+157521	Göktaş Mah.	Alik Mezrası=|Göktaş=
+157595	Gölbaşı Mah.	Gölbaşı=|İpek Yolu1@
+197757	Hayırlı Mah.	Hayırlı=|İpek Yolu1@|Şalhınık=
+157523	Hisaraltı Mah.	Hisaraltı=|Hisaraltı1=
+157525	Ilıca Mah.	Yukarı Ilıca=
+157597	Issız Mah.	Issız=
+59952	Kale Mah.	101~|102~|103~|104~|104_1~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117_1~|118~|119~|120~|121~|122~|123~|124~|125~|125_1~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|145~|146~|147~|149~|150~|151~|153~|155~|157~|159~|161~|162_1~|163~|165~|172~|173~|174~|175~|176~|177~|178~|179~|180~|180_1~|181~|182~|183~|183/1~|184~|185~|186~|187~|190~|191~|192~|192_1~|212~|Ahmet Arif@|Akın Çıkmaz~|Amara@|Amed@|Amed_1~|Amed_2~|Amed_3~|Amed_4~|Amed_5~|Atatürk@|Berkevir=|Bilinmeyen2~|Bçküme Evler 1~|Cigerxwin@|Delila@|Kaniya Şehem E-@|Mancel@|Mancel/1~|Mesut Çıkmazı~|Prof.dr.aydın Ayaydın@|Qedrican@|Qedrican_1~|Reşid E Kurd@|Rojilat@|Rojilat_1~|Rojilat_2~|Taxa Filla@|Zeytin Küme Ev 2~|Zeytin Küme Ev~|Şehitlik@
+157601	Kanatlı Mah.	Kanatlı=
+157603	Karaburun Mah.	Karaburun=
+157605	Karataş Mah.	Karataş=|Yusuf Piri Mezrası=
+157527	Kayacık Mah.	Bardaklı=|Kayacık=|İncirli=
+157555	Kocatepe Mah.	Kocatepe B.m=|İpek Yolu1@
+157609	Konak Mah.	Konak=
+157611	Konuk Mah.	Konuk=
+157613	Kovalı Mah.	Kovalı=|Tepecik=|İpek Yolu1@
+157615	Kovanlı Mah.	Kovanlı=|İpek Yolu1@
+157607	Koçyiğit Mah.	Koçyiğit=|Timurleng=
+157529	Kuruçay Mah.	Kuruçay=
+157625	Kutluca Mah.	Kutluca=|Köklü=|İlhanlar=
+157621	Kuyulu Mah.	Kuyulu=|Mera=|Çekem Yolu=|İpek Yolu1@
+157619	Kuşçu Mah.	Kuşçu=
+157617	Köseveli Mah.	Köseveli=|İpek Yolu1@
+59953	Küçükpınar Mah.	203~|204~|301~|302~|303~|304~|305~|306~|307~|308~|310~|311~|312~|313~|314~|315~|Bılınmeyen2~|Edip Karahan@|Gap Küme Evleri=|Mancel@|Çeşme=
+157531	Meşeli Mah.	Meşeli=|Subatan=
+157629	Ortaca Mah.	Ortaca=
+157535	Pirinçli Mah.	Develi=|Devşil=|Dikenli=|Erdemli=|Gamir=|Hoz=|Konaklı=|Körbeşk=|Pirinçli=
+157533	Pınarcık Mah.	Göçebe 1 Nolu Çadır=|Pınarcık=
+157631	Soğukkuyu Mah.	Soğukkuyu=|İpek Yolu1@
+157537	Subaşı Mah.	Subaşı=
+99315	Söğütözü Mah.	801~|803~|804~|805~|807~|809~|811~|851~|852~|853~|Bahar~|Bilinmeyen.11~|Bilinmeyen.2~|Bilinmeyen/1~|Bilinmeyen/2~|Bilinmeyen/3~|Bilinmeyen/4~|Bilinmeyen/5~|Bilinmeyen/6~|Kayalar@|Söğütözü~|Xelat@|Şehitlik@
+157541	Taşıt Mah.	Taşıt=
+59955	Tepebağ Mah.	701~|702~|703~|704~|706~|707~|708~|709~|710~|711~|712~|713~|714~|715~|716~|717~|718~|719~|720~|723~|725~|729~|730~|731~|732~|741~|743~|750~|Bahar~|Bilinmeyen 33~|Bilinmeyen..3~|Bilinmeyen.111~|Bilinmeyen.2~|Inaba~|Kaniya Zadi@|Kürkan Mezrası=|Riya Qosere@|Sadan@|Çat Mezrası=
+157627	Yazıcık Mah.	Yazıcık=
+157547	Yukarımezra Mah.	Yukarımezra=
+59954	Zeytinpınar Mah.	602~|603~|607~|608~|609~|609_1~|610~|611~|611_1~|612~|613~|614~|615~|616~|617~|617_1~|618~|619~|620~|621~|622~|622_1~|624~|626~|628~|631~|Cigerxwin@|Göltahtı Mevkii=|Kani Zeytun@|Kelek=|Korta=|Roj@|Siftek Mevkii=|Susamlı Mevkii=|Tahte Gewr@|Çiçek Çıkmaz~
+157583	Çadırlı Mah.	Çadırlı=
+157587	Çataltepe Mah.	Develi/1=|Halitören=|Çataltepe=
+157589	Çayköy Mah.	Kelektepe=|Çayköy=
+157585	Çağıl Mah.	Dutlu=|Dutlu Yolu-~|Kuyulu Yolu 1inci Km.=|Peyamlı=|Subaşı/1=|Tavşanlı=|Çağıl=|Çekem=|Çekem Peyamlı Yolu=
+157509	Çukursu Mah.	1.küme Evler=|2.küme Evler=|3.küme Evler=
+157543	Üçkuyu Mah.	Üçkuyu=
+157545	Üçtepe Mah.	Aktepe=|Üçtepe=
+157599	İncesu Mah.	İncesu=
+157553	Şahverdi Mah.	Uzunova=|Çavuşlu=|Şahverdi=
+157539	Şerefli Mah.	Direkli=|Tahtı Derik=|Tutuklu=|Çukur=|Şerefli=

@@ -1,0 +1,175 @@
+92541	Adabaşı Köyü	Adabaşı=|İspir Yolu@
+92657	Akduran Köyü	Akduran=
+92543	Aksaçlı Köyü	Aksaçlı=
+92542	Akçakuzu Köyü	Akçakuzu=
+90140	Akşar Köyü, Esentepe Mevkii	Akşar 1~|Akşar 10~|Akşar 11~|Akşar 2~|Akşar 3~|Akşar 4~|Akşar 5~|Akşar 6~|Akşar 7~|Akşar 8~|Akşar 9~|Akşar Kümeevleri 10=|Akşar Kümeevleri 12=|Akşar Kümeevleri 4=|Akşar Kümeevleri 5=|Akşar Kümeevleri 7=|Akşar Kümeevleri 8=|Akşar Kümeevleri 9=|Aşağı Camii 1~|Aşağı Camii 2~|Aşağı Camii 3~|Aşağı Camii~|Belediye Akşar 1~|Belediye Akşar 2~|Belediye Akşar 3~|Belediye~|Dik~|Fatih~|Genç Osman~|Gümüşhane@|Kültür~|Kırkpınar Kümevleri 1=|Kırkpınar Kümevleri 2=|Sağlık~|Uzun~|Yavuz Selim 1~|Yavuz Selim~|Şehiryolu~
+90141	Akşar Köyü, Gültepe Mevkii	Akşar Kümeevler 1=|Akşar Kümeevler 2=|Akşar Kümeevler 3=|Akşar Kümeevler 4=|Akşar Kümeevleri 11=|Belediye Akşar 1~|Camii Kebir 2~|Camii Kebir~|Camikebir Akşar 1~|Camikebir Akşar 3~|Camikebir Akşar 4~|Camikebir Akşar 5~|Camikebir Akşar 6~|Cumhuriyet 2~|Cumhuriyet 3~|Cumhuriyet~|Değirmen~|Fatih~|Gazi~|Gümüşhane@|Hoca Ahmet Yesevi~|Manas~|Okul 1~|Okul~|Oslu Hoca~|Vatan~|Çıkmaz~|Şehiryolu~
+92544	Alapelit Köyü	Alapelit=
+92545	Alıçlık Köyü	Alıçlık=
+92546	Ardıçgöze Köyü	Ardıçgöze=
+92547	Armutlu Köyü	Armutlu=
+90143	Arpalı Beldesi, Cumhuriyet Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1023~|1024~|1025~|1026~|1027~|1028~|1029~|1030~|1031~|1032~|1033~|1034~|1035~|1036~|1037~|1038~|1039~|1040~|1041~|1042~|1043~|1044~|1045~|1046~|1047~|1048~|1049~|1050~|1051~|1052~|1053~|1054~|1055~|1056~|1057~|1058~|1059~|1060~|1061~|1062~|1063~|1064~|1065~|1066~|1067~|1068~|1069~|1070~|1071~|1072~|1073~|1074~|1075~|1076~|1077~|1078~|1079~|1080~|1081~|1082~|1083~|1084~|1085~|1086~|15 Temmuz@|Bahçecik~|Belediye@|Cumhuriyet 1=|Cumhuriyet 2=|Cumhuriyet 3=|Cumhuriyet 4=|Cumhuriyet 5=|Değirmen~|Fatih Sultan Mehmet@|Gümüşhane@|Hoca Ahmet Yesevi@|Saat Kule Myd.|Toki@|Trabzon@|Yüce Tepe@
+90144	Arpalı Beldesi, Hürriyet Mah.	15 Temmuz@|2001~|2002~|2003~|2004~|2005~|2006~|2007~|2008~|2009~|2010~|2011~|2012~|2013~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022~|2023~|2024~|2025~|2026~|2027~|2028~|2029~|2030~|2031~|2032~|2033~|2034~|2035~|2036~|2037~|2038~|2039~|2040~|2041~|2042~|2043~|2044~|2045~|2046~|2047~|2048~|2049~|2050~|2051~|2052~|2053~|2054~|2055~|2056~|2057~|2058~|2059~|2060~|2061~|2062~|2063~|2064~|2065~|2066~|2067~|2068~|2069~|2070~|2071~|2072~|2073~|2074~|2075~|2076~|2077~|Araklı@|Belediye@|Bezirhane~|Elmalı~|Esen~|Esentepe=|Fırın~|Hürriyet 1=|Hürriyet 2=|Hürriyet 3=|Kısa~|Mezarlık~|Muhtar~|Narlı~|Nişantaşı Köyü@|Okul~|Rüzgarlı~|Sığır Yeri Myd.|Yukarı Kırzı@|Yüce Tepe@|Zübeyde Hanım@|Çoruh@
+100222	Arpalı Beldesi, Çiçekli Mah.	3001~|3002~|3003~|3004~|3005~|3006~|3007~|3008~|3009~|3010~|3011~|3012~|3013~|Fatih Sultan Mehmet@|Gümüşhane@|Merkez~
+92548	Arslandede Köyü	Arslandede=|İspir Yolu@
+92551	Aydıncık Köyü	Aydıncık=
+92656	Ağören Köyü	Ağören=
+92549	Aşağıkışlak Köyü	Aşağıkışlak=
+92550	Aşağıpınarlı Köyü	Aşağıpınarlı=
+92660	Aşağıçımağıl Köyü, Merkez Mevkii	Aşağıçımağıl=|Taşındibi=
+92661	Aşağıçımağıl Köyü, Taşın Dibi Mevkii	Taşındibi=
+92552	Balca Köyü	Balca=
+92553	Balkaynak Köyü	Balkaynak=|Gümüşhane@
+92554	Ballıkaya Köyü	Ballıkaya=|İspir Yolu@
+92556	Bayraktar Köyü	Bayraktar=
+92555	Bayırtepe Köyü	Bayırtepe=
+92663	Başçımağıl Köyü, Dereçımağıl Mevkii	Dereçımağıl=
+92662	Başçımağıl Köyü, Merkez Mevkii	Başçımağıl=
+92557	Buğdaylı Köyü	Buğdaylı=
+90126	Camiikebir Mah.	Ayberk~|Battal Gazi~|Gazioğlu~|Güzel@|Hafız Osman@|Hapan@|Haydar Han@|Hoca Ahmet Yesevi@|Kazım Köklü@|Kura~|Kurtuluş@|Kuyubaşı@|Mehmetçik~|Nalbandiler@|Saathana Myd.|Semerciler@|Taşhan@|Ulu Camii@|Yıldız Garajı@|Zafer Yokuşu~|Zahire Hal@|Çakır~
+92569	Danişment Köyü	Danışment=|Erzincan@
+92570	Darıca Köyü, Merkez Mevkii	Darıca=
+92571	Darıca Köyü, Yukarı Darıca Mevkii	Yukarı Darıca=
+92568	Dağtarla Köyü	Dağtarla=
+92567	Dağçatı Köyü	Dağçatı=
+92666	Demirkaş Köyü	Demirkaş=
+92573	Demirışık Köyü	Demirışık=
+92572	Değirmencik Köyü	Bağlantı 1 Köy$|Değirmencik=|Çaykara@
+92574	Dikmetaş Köyü	Dikmetaş=|İspir Yolu@
+92575	Dövmekaya Köyü	Dövmekaya=
+92576	Erenli Köyü	Bakü 3~|Bakü 4~|Bakü 5~|Bakü~|Erenli=|Gümüşsu=|Ötüğen 1~
+98605	Erenli Köyü, Erenli Mücavir Mevkii	
+90127	Esentepe Mah.	Abdulvahhab Gazi@|Ahir~|Ahsen~|Ahu~|Alemdar@|Armağan~|Aslı~|Asri~|Aybüke~|Açelya~|Bayezid@|Beyböyrek@|Beşir~|Boran~|Buhara~|Burak@|Burhan~|Büyük İrşadi Baba@|Damat Ali Efendi@|Devran~|Dirsehan~|Edebali@|Ender~|Ensar~|Ferah~|Garipler@|Gaziler~|Gülendam~|Güneyli~|Güneşli~|Helva~|Hicret~|Hilal~|Hiçranı Taştan@|Karanfil~|Kardeş~|Kevser~|Keşmir@|Kıvanç~|Lalezar~|Lojmanlar@|M.akif Ersoy@|Metehan~|Muhacir~|N.fazıl Kısakürek@|Osmanlı@|Poyraz~|Reyhan~|Sakarya@|Saray Bosna@|Semerkant~|Su Çıkan@|Sultan Alparslan~|Tanyeli~|Temaşa~|Tuba~|Tunahan@|Turgut Özal%|Turna~|Yağmur~|Yonca~|Yunus Emre@|Yurt@|Zahir~|Zarif~|Çağrı~|Çeçenistan@|Çicekli~|Çınarlı~|Özlem~|İhvan~|İpek~|Şehit Bekir Bayram~|Şehit Bülent Altınsoy@|Şehit Bünyamin Karamemiş~|Şehit Dursun Bozkurt@|Şehit Erdal Eraslan@|Şehit Erdinç Aydın~|Şehit Ertaş Dağlar~|Şehit Fatih Kostık@|Şehit Gürcan Yavuz@|Şehit Hakan Öner~|Şehit Halil Türkoğlu~|Şehit Hamit Şahin~|Şehit Hüseyin Bahadır~|Şehit Hüseyin Işık~|Şehit Kadir Demir~|Şehit Kazım Yazıcı@|Şehit Mete Okur~|Şehit Muammer Gün~|Şehit Mustafa Kır~|Şehit Nevzat Kaya~|Şehit Oktay Altıntaş~|Şehit Oktay Karakelle~|Şehit Osman Aydoğdu~|Şehit Osman Bektaş~|Şehit Recep Ali Temel~|Şehit Recep Topaloğlu~|Şehit Sabahattin Türkoğlu~|Şehit Salim Temel~|Şehit Salim Turan@|Şehit Samet Akdeniz~|Şehit Serkan Saka~|Şehit Tacettin Akyüz~|Şehit Zeki Burak Okay@|Şehit Çağlayan Irmak~|Şehit Ömür Erbay~|Şehit İdris Karakaşoğlu~|Şehit İhsan Çelik~|Şehitler@
+92659	Gençosman Köyü, A.gençosman Mevkii	A.gençosman=
+92658	Gençosman Köyü, Merkez Mevkii	Gençosman=
+90139	Gençosman Mah.	1 Nolu~|10 Nolu~|11 Nolu~|12 Nolu~|13 Nolu~|14 Nolu~|15 Nolu~|2 Nolu@|21 Şubat@|3 Nolu~|4 Nolu@|5 Nolu~|6 Nolu@|7 Nolu~|8 Nolu~|9 Nolu~|Akif İnan@|Akşemsettin@|Alperen~|Altın~|Altıntaş~|Arkadaş~|Aslandağı~|Ağlar Baba~|Bağlantı@|Bağlarbaşı~|Bilgehan~|Bilgin~|Burla Hatun~|Cevher Dudayev@|Ceylan~|Cihangir~|Cumhuriyet@|Dede Paşa@|Dergah~|Derman~|Destan~|Deva~|Değerli~|Ekmelettin Bayburdi~|Estergon@|Gençlik~|Gurur~|Görkem~|Güneyli~|Güngören~|Güven~|Güzide~|Hanedan~|Hasret~|Heybetli~|Kader~|Kafkas~|Kanuni@|Kazan~|Kerkük@|Koruk@|Leylak~|Mahsun~|Manolya~|Millet@|Mohaç~|Mustafa Turgut~|Muteber~|Mücahit~|Mümtaz~|Oba~|Orhun~|Oslu Baba@|Padişah~|Reis~|Rüçhan~|Sahabe~|Sazak~|Serin~|Seyrani@|Susam~|Sümbül~|Tanyeli~|Taşköprü~|Tecelli~|Temiz~|Turgut Özal%|Vatan@|Çalışkan~|Çınar~|Çınarlı~|Öykü~|Şahmettin Karaman~
+92667	Gez Köyü, Aşağı Gez Mevkii	Aşağı Gez=|Erzurum Yolu@
+92668	Gez Köyü, Yukarı Gez Mevkii	Yukarı Gez=
+92578	Gökler Köyü	Gökler=
+92579	Gökpınar Köyü	Gökpınar=
+92577	Gökçeli Köyü	Gökçeli=
+92580	Göldere Köyü	Göldere=
+92584	Göloba Köyü, Merkez Mevkii	Göloba=
+92583	Göloba Köyü, Yayla Evleri Mevkii	Yayla Evleri=
+92581	Güder Köyü	Güder=
+92582	Güllüce Köyü	Güllüce=
+92585	Gümüşsu Köyü, Aşağı Gümüşsu Mevkii	Aşağı Gümüşsu=|Erzurum Yolu@
+98604	Gümüşsu Köyü, Gümüşsu Mücavir Mevkii	
+92586	Gümüşsu Köyü, Merkez Mevkii	Merkez=
+92588	Güneydere Köyü, Erenler Mevkii	Erenler=|Gümüşhane@|Güneydere=
+92587	Güneydere Köyü, Merkez Mevkii	Güneydere=
+92589	Güzelce Köyü	Güzelce=
+92590	Hacıoğlu Köyü	Hacıoğlu=
+90128	Halfikale (kaleardı) Mah.	Arzu~|Asude~|Aydınlar~|Bahadır~|Barış~|Bereket~|Bilge~|Boylu~|Burç~|Bülbül~|Dilber~|Dilek~|Dolunay~|Doğa~|Doğu~|Elif~|Erenler~|Firuze~|Gonca~|Harmanlar~|Huzur~|Işık~|Işıl~|Kaledibi~|Karabağ~|Konursu~|Lale~|Metinkale~|Narkazanı~|Nergis~|Onur~|Ozan~|Oğuzlar@|Papatya~|Rüzgar~|Savaş~|Saygı~|Sevinç~|Seçkin~|Soylu~|Sultan~|Süleymaniye@|Tepebaşı~|Tepetarla Yolu@|Uygun~|Vahdet~|Çaykara Yolu@|Çağla~|Çoruh~|Çıkmaz~|Özgür~|Ülkü~|Ünlü~|İmam Hatip Yolu@|İspir Yolu@|İstikbal~|Şingah Kaleardı@|Şirin~
+92591	Harmanözü Köyü	Afet Konutları=|Enerjisantrali=|Harmanözü=
+92669	Helva Köyü	Helva=|Masat=
+92592	Heybetepe Köyü	Heybetepe=
+92670	Iğdır Köyü	Iğdır=
+92593	Kabaçayır Köyü	Kabaçayır=
+90129	Kadızade Mah.	Akasya~|Aksa~|Akça~|Alparslan~|Burç~|Cami~|Fabrika@|Hal~|Hazal~|Hürmet~|Kaleboynu~|Kasaplar Çarşısı~|Kavcı~|Koçoğlu Çarşısı~|Kuloğlu~|Kuyubaşı@|Kuzgun~|Kısa~|Müftü~|Nehir~|Nevzat Karaoğlu@|Okul~|Pilavefendi~|Saathana Myd.|Semerciler@|Sencer~|Unutulmaz@|Yaşar Güler~|Çeşme~|Çiğdem~|İrşadi Baba~
+90130	Karasakal Mah.	Belli~|Bent@|Cinci~|Dik~|Ecrin~|Esen~|Furkan~|Hapishane Yolu~|Kalealtı@|Mektep~|Miraç~|Nevzat Karaoğlu@|Saatçi~|Unutulmaz@|Veysel Karani~|İmamoğlu~
+92594	Karlıca Köyü	Karlıca=|Karlıca Yaylası=
+92595	Karşıgeçit Köyü	Karşıgeçit=|İspir Yolu@
+92596	Kavacık Köyü	Kavacık=
+92597	Kavakyanı Köyü	Kavakyanı=
+196911	Kemertaş Köyü	Kemertaş=
+92599	Kitre Köyü, Merkez Mevkii	Kitre=
+92600	Kitre Köyü, Uğur Mevkii	Uğur=
+90147	Konursu Köyü, Fatih Mevkii	Adnan Menderes~|Alibey~|Arif Nevzat Karaoğlu~|Ark~|Asım Paşa~|Bayır~|Bağlantı 1 Köy$|Bağlantı1 Köy$|Camiikebir~|Cumhuriyet~|Değirmen~|Dikmen~|Dursunbey~|Elbeyi~|Esat Hafız~|Esen~|Fikribey~|Gül~|Hafız Enver~|Harman 1~|Harman~|Hikmet Efendi~|Hoca Ahmet Yesevi1~|Hocaahmetyesevi Küme 1=|Hocaahmetyesevi Küme 2=|Kaya~|Konursu Kümevleri 1=|Kuyu~|Manas~|Osmangazi~|Süleyman Efendi 1~|Süleyman Efendi~|Taşdibi~|Tepe~|Ziyaretyolu~|Zübeyde Hanım Kümevleri 1=|Zübeyde Hanım~|Çatalkaya~|Çaykara@|Çiflik Kümeevler 1=|Çiftlik~|İbrahim Efendi~|İmdatefendi~
+90148	Konursu Köyü, Yavuz Mevkii	Ahbun~|Aslanbey~|Bayır~|Bağlantı Köy$|Camiialtı~|Camiikebir~|Cumhuriyet 1~|Cumhuriyet~|Dere~|Doğu~|Dursunbey~|Esat Hafız~|Esentepe~|Göksay~|Günalan~|Hacı Osman~|Hafız Enver~|Kamil Efendi~|Kazan~|Konursu Kümevleri 1=|Mahmut Efendi~|Mera~|Mezarlık Üstü~|Pilavefendi~|Saadet~|Ufuk~|Yarbaşları~|Yeni Camii~|Yorgun~|Zübeyde Hanım~|Çaykara@|Çayır~|Öğretmen İnanç~|Şevketefendi~
+92676	Kop Köyü, Merkez Mevkii	Erzurum Yolu@|Kop=
+92673	Kop Köyü, Ortakop Mevkii	Erzurum Yolu@|Orta Kop=
+92674	Kop Köyü, Yukarı Kop Mevkii	Yukarı Kop=
+92675	Kop Köyü, Şehitlik Mevkii	Erzurum Yolu@|Şehitlik=
+92602	Kopuz Köyü	Kopuz=
+92603	Kozluk Köyü	Kozluk=
+92601	Koçbayır Köyü	Koçbayır=
+92604	Kurbanpınar Köyü	Kurbanpınar=
+92605	Kurugüney Köyü	Kurugüney=
+92672	Kıratlı Köyü, Aşağı Kıratlı Mevkii	Aşağı Kıratlı=
+92671	Kıratlı Köyü, Merkez Mevkii	Kıratlı=
+92598	Kırkpınar Köyü	Erzincan@|Kırkpınar=
+92655	Maden Köyü	Erzurum Yolu@|Maden=
+92606	Manas Köyü	Manas=
+92677	Masat Köyü, Merkez Mevkii	Masat=
+92678	Masat Köyü, Yukarı Masat Mevkii	Masat=|Yukarı Masat=
+90131	Mehmet Çelebi Mah.	Akasya~|Alparslan~|Avcı~|Beşikçi~|Burç~|Cirit~|Ertuğrul Gazi~|Hisar~|Kale Çıkmazı~|Kaleardı Yolu@|Kavcı~|Kayalık~|Kurtuluş@|Kuzgun~|Kısmet~|Okul~|Ravza~|Saraydüzü~|Savaş~|Sencer~|Sobacı~|Tuğra~|Yakup Bin Ubade~|Zihni~|Çoruh~
+92607	Mutlu Köyü	Erzincan@|Mutlu=
+92609	Nişantaşı Köyü, Karşıyaka Mevkii	Karşıyaka=
+92608	Nişantaşı Köyü, Merkez Mevkii	Gümüşhane@|Nişantaşı=
+92679	Ortaçımağıl Köyü	Ortaçımağıl=
+92610	Oruçbeyli Köyü	Erzincan@|Oruçbeyli=
+92611	Ozansu Köyü	Ozansu=
+92612	Pamuktaş Köyü	Pamuktaş=|Çukuryaylası=
+92613	Pelitli Köyü	Pelitli=
+92684	Petekkaya Köyü	Petekkaya=
+92614	Polatlı Köyü	Polatlı=
+92615	Rüştü Köyü	Rüştü=
+92616	Sakızlı Köyü	Demirözü@|Sakızlı=
+92617	Salkımsu Köyü	Salkımsu=
+92618	Sancaktepe Köyü, Merkez Mevkii	Sancaktepe=
+92619	Sancaktepe Köyü, Çatılar Mevkii	Çatılar=
+92620	Saraycık Köyü	Saraycık=
+92621	Sarıhan Köyü	Sarıhan=
+92622	Sarımeşe Köyü	Sarımeşe=
+92623	Seydiyakup Köyü	Seydiyakup=
+92625	Soğukgöze Köyü	Soğukgöze=
+92626	Söğütlü Köyü	Demirözü@|Erzincan@|Söğütlü=
+92624	Sırakayalar Köyü	Sırakayalar=
+92685	Sığırcı Köyü	Sığırcı=
+92627	Taht Köyü	Taht=
+92628	Taşburun Köyü	Taşburun=|İspir Yolu@
+92629	Taşkesen Köyü	Taşkesen=
+92631	Taşocağı Köyü, Aşağı Taşocağı Mevkii	Aşağı Taşocağı=|Taşocağı=
+92630	Taşocağı Köyü, Merkez Mevkii	Taşocağı=
+92686	Taşçılar Köyü	Taşçılar=
+92632	Tepetarla Köyü	Tepetarla=
+92633	Tomlacık Köyü	Tomlacık=
+90134	Tuzcuzade Mah.	Ak@|Akgöz~|Akçakuzu~|Akıncı~|Alp~|Alsancak~|Anıt~|Asuman~|Ay~|Azamet~|Bacanaklar~|Barbaros@|Bağlantı@|Bozkurt~|Buğlem~|Candan~|Canfeda~|Cihannuma~|Cumhuriyet@|Danışmendiler@|Dargun~|Dağhan~|Demirözü@|Ebabil~|Ecdad~|Edip Paşa~|Egemen~|Elmas~|Elzem~|Erdemli~|Erdoğan~|Esma~|Eymen~|Feraset~|Ferhat~|Firdevs~|Gazze~|Gurbet~|Gökpınar Yolu=|Göktürk Bey~|Göktürk~|Gökçe~|Gülsuyu~|Gürkan Öğüt~|Güçlü~|Harika~|Hastahane@|Hatıra~|Korkusuz~|Kudret~|Kurdal~|Kuğu~|Köroğlu@|Lise~|Lojmanlar@|Merve~|Mütenasip~|Müştak~|Nazar~|Nazenin~|Nurefşan~|Orhan~|Paşaoğlu~|Pulur~|Pönserek~|Saadet~|Seda=|Sedef~|Sema=|Sıla~|Tarık~|Taşköprü~|Tenha~|Turgut Özal%|Tuğrul Bey~|Türkistan@|Vali Nihat Üçyıldız@|Valide=|Vatan@|Vilayet Orman Yolu~|Vuslat~|Yadigar~|Yağız~|Yıldırım~|Zafer~|Zülfikar=|Çaykara Yolu@|Üftade~|İcabet~|İmaret~|İntiba@|İntikal~|İtibar~|Şahika~|Şahin~|Şehit Osman~|Şehit Osman Türbe Yolu~
+92638	Uluçayır Köyü, Günlüce Mevkii	Günlüce=
+92637	Uluçayır Köyü, Merkez Mevkii	Uluçayır=
+90135	Uzungazi Mah.	Ağa~|Bayraktar~|Belde~|Bilgiç~|Dikçe~|Gazioğlu~|Kalender~|Kayadibi~|Kayı~|Kazmacı~|Kocabey~|Kovancı~|Kura~|Kurtuluş@|Latif~|Makbul~|Mert~|Mesut~|Miray~|Mukaddes~|Mukim~|Mutlu~|Pire~|Sakin~|Sefa~|Uygar~|Vuslat~|Zafer Yokuşu~|Şafak~
+92634	Uğrak Köyü, Merkez Mevkii	Gümüşhane@|Uğrak=
+92635	Uğrak Köyü, Yukarı Uğrak Mevkii	Yukarı Uğrak=
+92636	Uğurgeldi Köyü	Uğurgeldi=
+90136	Velişaban Mah.	Arküstü~|Belediye Köprü~|Cinci~|Damla~|Dik~|Düz~|Erzurum@|Kahraman~|Mehmet Efendi~|Miraç~|Ozulu@|Saatçi~|Unutulmaz@|Veli Şaban@|Yavuz Selim@|İffet~|İzzetli@
+90137	Veysel Mah.	Ashab~|Atmaca~|Aşina~|Bacı~|Belli~|Berrak~|Birlik~|Buse~|Cemre~|Cesur~|Cinci~|Defne~|Dik~|Dikmerdiven~|Duduzar Yolu@|Duygulu~|Dürüst~|Efe~|Eke~|Esen~|Eze~|Gamze~|Gözde~|Gülşen~|Hapishane Yolu~|Issız~|Itır~|Kalealtı@|Kamer~|Mektep~|Sudeposu~|Yalçınkaya~|Yamaç~|Yığınak~
+92641	Yanıkçam Köyü	Yanıkçam=
+92642	Yaylalar Köyü	Yaylalar=
+92689	Yaylapınar Köyü, Durusu Mevkii	Durusu=
+92688	Yaylapınar Köyü, Kuzular Mevkii	Kuzular=
+92687	Yaylapınar Köyü, Merkez Mevkii	Yaylapınar=
+92643	Yazyurdu Köyü, Merkez Mevkii	Ayıtaşı Yaylası=|Aşağı Çataldere Yaylası=|Beyler Yaylası=|Kazburnu Yaylası=|Pencere Puarı Yaylası=|Yazyurdu=|Yukarı Çataldere Yaylası=
+92644	Yazyurdu Köyü, Yamalı Yaylası Mevkii	Yamalı Yaylası=
+92645	Yedigöze Köyü	Yedigöze=|İspir Yolu@
+92646	Yeniköy Köyü	Yeniköy=
+92647	Yerlice Köyü, Kızılcaören Mevkii	Kızılcaören=
+92648	Yerlice Köyü, Merkez Mevkii	Yerlice=
+92649	Yeşilyurt Köyü	Yeşilyurt=
+92650	Yeşilyurt Köyü, Kurcakol Mezrası	Kurcakol=
+92651	Yolaltı Köyü	15 Temmuz~|Gümüşhane@|Yolaltı=|Şehit Bülent Altınsoy~|Şehit Halil Türkoğlu~|Şehit Okan Öner~|Şehit Oktay Altuntaş~|Şehit Samet Akdeniz~|Şehit Sebahattin Türkoğlu~|Şehit Ömer Erbay~
+180926	Yolaltı Köyü, Yolaltı Osb Mevkii	1 Nolu~|10 Nolu~|11 Nolu~|12 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|9 Nolu~
+92653	Yoncalı Köyü, Aşağı Yoncalı Mevkii	Aşağı Yoncalı=|Mezra=
+92652	Yoncalı Köyü, Merkez Mevkii	Panpunli Yaylası=|Tap Yaylası=|Yoncalı=|Yoncalı Yaylası=
+92654	Yukarıkışlak Köyü	Yukarıkışlak=
+90138	Zahit Mah.	1 Nolu 21 Şubat Sanayi@|2 Nolu 21 Şubat Sanayi@|3 Nolu 21 Şubat Sanayi@|4 Nolu 21 Şubat Sanayi@|5 Nolu 21 Şubat Sanayi@|6 Nolu 21 Şubat Sanayi@|7 Nolu 21 Şubat Sanayi@|8 Nolu 21 Şubat Sanayi@|9 Nolu 21 Şubat Sanayi@|Adnan Menderes@|Akabe~|Arküstü~|Arya~|Arı~|Atabey~|Atkayası~|Ay Yıldız@|Aşina~|Bade~|Bahçeli~|Baki~|Bakü 5~|Bakü~|Baykent~|Bayındır@|Bağlantı@|Başak~|Cana~|Cemre~|Ceren~|Cevahir~|Cevher~|Cihan~|Cihanşah~|Cinci~|Duduzar Yolu@|Durgun~|Ebru~|Ergenekon@|Fahrettin Kumbasar@|Farabi@|Fazilet~|Fuzuli@|Genç Osman~|Gülcihan~|Güler~|Gülizar~|Gülnihal~|Gümüşsu=|Gündoğdu~|Hafız Süleyman~|Hasan Tahsin~|Haslet~|Hayal~|Hazan~|Ilgın~|Kamil Alp~|Kardelen~|Kekik~|Kemal Kutlu~|Keçi~|Kibar~|Kokoç~|Kombina@|Korkutata@|Kudret~|Kudüs~|Kurtderesi~|Kutlu Bey~|Kuytu~|Kuşburnu~|Köşkayağı~|Küçük~|Mamur~|Manolya~|Mehmet Oltulu@|Mevlana@|Muhteşem@|Mukadderat~|Münevver~|Müstesna~|Müşfik~|Naif~|Nazende~|Necati Alp~|Nevzat Şensoy~|Orhangazi@|Orta Pınar~|Osmangazi@|Park~|Payidar~|Pilot~|Recep Tayyip Erdoğan%|Sahilyolu~|Sancaktar~|Selam~|Selamet~|Serdengeçti~|Sergüzeşt~|Sultan Fahriye~|Sultan Vahdettin~|Söğüt~|Sırdaş~|Taşköprü~|Tebessüm~|Tepecik~|Tesbih~|Tevhit Çoruh@|Tuna~|Turgut~|Turgut Özal%|Töre~|Türkmen~|Türkoğlu~|Türkü~|Ulus~|Ulvi~|Uygur~|Uzun~|Veli Şaban@|Yayla~|Yazgı~|Yurdum~|Yürekli~|Yığınak~|Zerafet~|Zevahir~|Zümre~|Çalıkuşu~|Çay~|Çağlayan~|Çiftepınar~|Çilçil~|Çimenli~|Çizmeci~|Çoban Vahit~|Çolpan~|Çoruh Çıkmaz~|Örnek~|Ötüken~|Ötüğen 1~|Ötüğen~|Ülkem@|İftihar~|İnci~|İrem~|İrfani~|Şahane~|Şehit Serkan Saka~|Şehit Çağlayan Irmak@|Şehzade~
+92558	Çakırbağ Köyü	Çakırbağ=|İspir Yolu@
+92664	Çalıdere Köyü, Merkez Mevkii	Çalıdere=
+92665	Çalıdere Köyü, Çalıdere Hanları Mevkii	Erzurum Yolu@|Çalıdere Hanları=
+92559	Çamdere Köyü	Çamdere=
+92560	Çamlıkoz Köyü	Çamlıkoz=
+90145	Çayıryolu Köyü, Kutlubey Mevkii	1 Nolu Cumhuriyet~|1.coşkun~|2 Nolu Cumhuriyet~|2.coşkun~|Aktaş~|Ara~|Avşar~|Bayramoğlu~|Bağlantı2 Köy$|Erzincan 2 Kümeevler=|Erzincan@|Erzincan Kümevleri 1=|Kadıoğlu~|Köroğlu~|Metebey~|Okul~|Savaş~|Vatan~|Yayla~|Yurttaş~|Yıldırım~|Çatalbaş~|Çayıryolu=|Özdoğan~|Ülkü Gökalp Güney~
+90146	Çayıryolu Köyü, Şehit Mete Mevkii	1 Nolu Cumhuriyet~|2 Nolu Cumhuriyet~|Atatürk~|Bağlantı2 Köy$|Dumlupınar~|Erzincan@|Fatih Sultan Mehmet~|Gül~|Kocatepe~|Mercan~|Okur~|Tükenmez~|Uğurlu Mehmet Bey~|Vali Ali Haydar Öner~|Vatan~|Velibey~|Yavuz Sultan Selim~|Çayıryolu Köyü=
+92561	Çayırözü Köyü	Çayırözü=
+92562	Çerçi Köyü, Merkez Mevkii	Gümüşhane@|Yukarı Çerçi=|Çerçi=
+92563	Çerçi Köyü, Y.çerçi Mevkii	Gümüşhane@|Yukarı Çerçi=
+92565	Çiğdemtepe Köyü	Uğrak=|Çiğdemtepe=
+92566	Çorak Köyü	Erzincan@|Çorak=
+92681	Örence Köyü, A.örence Hanları Mevkii	A.örence Hanları=|Erzurum Yolu@
+92683	Örence Köyü, Kaleboynu Mevkii	Erzurum Yolu@|Kaleboynu=
+92680	Örence Köyü, Merkez Mevkii	Erzurum Yolu@|Örence=
+92682	Örence Köyü, Taşın Dibi Mevkii	Erzurum Yolu@|Taşın Dibi=
+92639	Üzengili Köyü, Merkez Mevkii	Üzengili=
+92640	Üzengili Köyü, Yayla Evleri Mevkii	Yayla Evleri=
+90132	Şeyhhayran Mah.	Ahmet İ Zencani~|Aziz Mahmut Hüdai~|Bacanaklar~|Balaban~|Belediye Köprü~|Beste~|Cumhuriyet@|Dedekorkut@|Gazioğlu~|Hastahane@|Hoca Ahmet Yesevi@|Hükümet Myd.|Kadife~|Kazancılık~|Mert~|Ordu@|Osman Okutmuş@|Rıhtım@|Saathana Myd.|Sebahattin Savacı@|Sedef~|Sultan Abdülhamit~|Sıtkı Özer@|Torun~|Turan@|Türkistan@|Unutulmaz@|Uygar~|Vefa~|Veli Şaban@|Zincirli Kuyu@|İkizler~|Şair Celali@|Şair Zihni@|Şehit Osman~
+90133	Şingah Mah.	Ak@|Ak~|Albayrak~|Anadolu~|Anıl~|Apak~|Arıkan~|Asalet~|Asil~|Asude~|Asıl~|Asırlık~|Ay~|Aydıntepe@|Ayışığı~|Aziz~|Ağa~|Aşiyan@|Aşık~|Babacan~|Babayiğit~|Badem~|Baha@|Bahar~|Bahtiyar~|Bahçelerbaşı~|Bala~|Balözü~|Barbaros@|Bayrak~|Bayır~|Bağdat@|Berat~|Beşpınar~|Bilgiç~|Billur~|Bizim~|Boğaçhan~|Burhanettin Veli~|Cennet~|Cenup~|Darıca~|Dilsiz~|Doruk~|Dost~|Doğan~|Dumlupınar~|Emin~|Erdemli~|Ertuğrul Gazi~|Evliya Çelebi~|Fatih Sultan Mehmet=|Fetih~|Fevzi Çakmak~|Firdevs~|Gamlı~|Garp~|Gazi~|Gonca~|Gül~|Gülistan~|Halide Edip Adıvar@|Halk~|Hamurkesen~|Harmanlar~|Hayat~|Hidayet~|Ihlamur~|Kadim~|Kaleardı Yolu@|Kanarya~|Karlı=|Kayabaşı~|Kayalık~|Kayalık Çıkmazı~|Kayışkıran~|Kelebek~|Kitapsız Mustafa Efendi~|Kumru~|Kurtuluş@|Köroğlu@|Köse~|Kültür~|Kılıçarslan~|Kınalı~|Kızıldağ~|Medeni~|Mehtap~|Meltem~|Menekşe~|Mezarlık Yolu~|Nadide~|Narin~|Nazlı~|Nezih~|Oğuzlar@|Paşa@|Pehlivan~|Pire~|Piri Reis@|Samyeli~|Sedir~|Sefa~|Selamlık~|Selvi~|Selçuklu~|Sevgi~|Sevimli~|Simge~|Sofa~|Soğuksu~|Sur~|Tayfa~|Taş Merdiven~|Tivzizler~|Toki Küme Evler=|Toki Yolu@|Tozlu~|Turgut Özal%|Uhut~|Uğurlu~|Vali Nihat Üçyıldız@|Yahya Akengin~|Yakup Bin Ensari=|Yaman~|Yaren~|Yazıcı~|Yiğit~|Yudum~|Yıldız@|Zahidi Geylani~|Zambak~|Zirve~|Ziyade~|Ziynet~|Zümrüt~|Çaba@|Çaykara Yolu@|Çelebi~|Çinimaçin~|Çobanoğlu@|Çoruh~|Üstün=|İbn-i Sina@|İhramcı~|İhtişam~|İkbal~|İmam Hatip Yolu@|İnceyol~|Şanlı~|Şark~|Şehit Oktay Karakelle~|Şehit Samet Akdeniz~|Şehit Samet Akdeniz1~|Şehit Yüzbaşı Agah@|Şehitardı~|Şerif Uğurlu~|Şimal~|Şingah Kaleardı@

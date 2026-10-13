@@ -1,0 +1,39 @@
+179619	Akçaköy Mah.	Akçaköy~|Büyükeşme~
+179623	Alagöz Mah.	Alagöz~
+179621	Alaçalı Mah.	Alaçalı~|Huzurkent~
+179625	Arıkdere Mah.	Arıkdere~
+179627	Ayyıldız Mah.	Ayyıldız~
+179629	Balaban Mah.	Balaban~
+179631	Beşkılıç Mah.	Beşkılıç~
+179635	Eceler Mah.	Eceler~
+179637	Elifoğlu Mah.	Elifoğlu~|İöo Lojman~
+179639	Erenyolu Mah.	Erenyolu~
+30616	Etiler Mah.	Aktaş~|Atatürk@|Barak@|Bozgeyik~|Cellat~|Cezayir~|Güllü~|Hitit%|Kaplan~|Kazcı~|Kılıç~|Okul@|Samsa~|Sümer Çıkmazı~|Süzer@|Unutan~|Yavuz Selim Süzer@|Yılmaz~
+179641	Gürçay Mah.	Gürçay~|Yukarı Gürçay~
+179643	Karacurun Mah.	Karacurun~
+179645	Karanfil Mah.	Karanfil~
+30614	Karşıyaka Mah.	Akgün~|Atatürk@|Aydemir~|Baraj@|Benli~|Harbi Çıkmazı~|Hitit%|Karataş~|Korel~|Kök~|Kümeevler~|Mumcu~|Okan~|Okul@|Pınarbaşı~|Unutan~|Yavuz~|Yurt~|Yüceler~|Yıldırım~|Zeuğma@|Özkara~|Şehit Yüzbaşı Fuat Oğuzcan@
+179647	Kelekli Mah.	Kelekli~
+179649	Kepirler Mah.	Kepirler~
+179653	Korkmazlar Mah.	Korkmazlar~
+179655	Kuruyazı Mah.	Kuruyazı~
+179651	Kıvırcık Mah.	Kıvırcık~
+30615	Lojmanlar Mah.	Bahçeli~|Fırat@|Güney~|Karanfil2@|Murat@|Yeşil~
+179661	Savaş Mah.	Savaş~
+179663	Soylu Mah.	Soylu~
+179665	Subağı Mah.	Köy~
+179669	Teketaşı Mah.	Teketaşı~|Yılmazlar~|Çağlayanlar~
+179671	Tosunlu Mah.	Tosunlu~
+179673	Türkyurdu Mah.	Türkyurdu~
+179675	Yarımca Mah.	Yarımca~
+179679	Yazır Mah.	Yazır~
+179677	Yaşar Mah.	Yaşar~
+179681	Yeşerti Mah.	Yeşerti~
+179683	Yolağzı Mah.	Yolağzı~
+179685	Yurtbağı Mah.	Yurtbağı~
+179687	Zührecik Mah.	Zührecik~
+30613	Çarşı Mah.	Aktan~|Alpaslan~|Atatürk@|Ateş~|Bahçeli Evler~|Barak@|Belediye@|Bilgen~|Bozkurt~|Döner~|Etiler@|Karaca~|Karalar~|Karanfil1@|Kaya Çıkmazı~|Kocaaslan~|Kutlu~|Vural~|Çamlık~|Özkara~|Şıhhavey~
+179633	Çiftlik Mah.	Çiftlik~
+179657	Öncüler Mah.	Küçükeşme~|Öncüler~
+179659	Örmetaş Mah.	Örmetaş Mezrası~|Örmetaş~
+179667	Şenlik Mah.	Şenlik~

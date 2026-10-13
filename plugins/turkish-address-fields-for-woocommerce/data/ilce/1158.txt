@@ -1,0 +1,21 @@
+150991	Alacalar Mah.	Akfatma=|Alaca=|Arpacılar=|Ayandun=|Cındallı=|Dadullu=|Düzdağ=|Hıdırevyanı=|Karacaçukur=|Kayaaltı=|Sekağıl=|Sevdeş=|Tepecik=|Çitler~|İmamoğlu=|Şahanlı=
+60874	Armutlu Mah.	Armutlu Yaylası=|Arpaçukuru=|Dereköy=|Hamastos=|Kuluncak-suçıkan=
+150997	Beştam Mah.	Merkez~|Saya Cakiraz~
+60876	Esenli Mah.	1~|2~|3~|4~|5~|Alibey~|Anaokulu@|Arpacılı=|Atatürk@|Aşık Veysel~|Bakırcılar~|Barış~|Beştam Obası=|Boğmalık=|Cumhuriyet%|Demirciler@|Dr.mehmet Efendi@|Eceli Obası=|Elmaslar~|Erenler~|Esenli=|Esenlioba Hacılıoba=|Eski Cezaevi~|Evliya Çelebi~|Fatsa@|Ficiroba=|Gazi~|Gilercioğulları~|Gökalioğlu~|Gölköy@|Gül~|H.edip Adıvar~|Hacıali Seyvanı=|Hacıeminoğlu~|Hacısayvanı=|Hamza Bey~|Hasan Çavuş~|Havluiçi=|Hükümet@|Hürriyet@|Karaağaçlı=|Karacakaya=|Karakol=|Karay Obası=|Koca Mehmet@|Lale~|Lise@|Mehmet Akif~|Mehmet Çavuş~|Melik Gazi~|Menekşe~|Mevlana@|Mimar Sinan~|Muratyeri=|Orhan Gazi~|Osmanağa@|Papatya~|Perşembe Yaylası=|Recepoğlu@|Remzi Efendi~|Reşadiye@|Rüştüefendi~|Sağlık@|Torun Oğulları~|Yunus Emre@|Zaimoğlu~|Çevrik Yanı=|İlhan@|İlyas Keskin@|İnönü@|İstiklal@|Şehit Burak Kurtuluş~|Şehitler~|Şht.adem Pentik~|Şht.sadullah Güler@|Şht.sadık Kütük~|Şht.temel Erdoğmuş~|Şht.yener Şahin~|Şht.çetin Kaya~
+60877	Fatih Mah.	Esoğlu=|Fatih Merkez=
+150999	Hisarcık Mah.	Bayraktarlar~|Cami Tannı~|Dingiller~|Oğuz Beli~|Yukarı~
+60878	Karamanlı Mah.	Ellezli=|Karamanlı=
+151011	Kayabaşı Mah.	Hacı Çayırı~|Hallaçoğlu~|Çobanoğlu~|Çobançı~|Şifa Suyu~
+60879	Koyunculu Mah.	Alankent Yolu=|Aşağı Koyunculu=
+60880	Kutlular Mah.	Aşağı Kutlular=|Konak Yanı=|Yaras Obası=
+60881	Küçükyaka Mah.	Geriş=|Germeşo Obası (yayla)=|Hacıosmanlı=|Kabakiraz=|Kuhi=|Küçükyaka Merkez=|Kızkayası Obası(yayla)=|Şıhlı=
+60882	Ortaköy Mah.	Ense=|Erzenoğlu@|Harmandaroğulları=|Hıdırlı=|Orta Mahalle=|Ortaköy Obası=|Recepoğlu@
+150993	Pelitözü Mah.	Cumhuriyet=|Karşıyaka=|Kızılot=|Merkez=
+151003	Sarıyar Mah.	Başçayır~|Cidde Ev Yanı~|Gebeşli~|Kefelek~|Kölemenli~|Merkez~|Çorak Mevkı~
+60883	Sağlık Mah.	Kabalıevyanı=|Yağcılı=|Çakırlı=|Çayırbaşı=
+151001	Sefalık Mah.	Sefalık~
+151005	Toygar Mah.	Boğmadüz~|Fidekse~|Kus Yuvası~|Menteşeli~|Merkez~|Soflu~|Tepe~|Yayla~|Çakır Evyanı~|İncik~
+151007	Uzundere Mah.	Belen Obası~|Beylerli Obası~|Borta Obası~|Emeksiz Ev Yanı~|Erikalan Obası~|Güllük~|Güzelloğulları~|Hacıahmetler~|Handoğulları~|Kadılar~|Kızıldere~|Memüllü~|Sevdeş Obası~|Talaz Ev Yanı~|Yukarı~|Çitler~
+151009	Zaferimilli Mah.	Alaekın~|Balcı Evi~|Belen~|Cebeci Evı~|Gülle~|Kaba Kiraz~|Kayaoğlu~|Merkez~|Saklı~|Tilkici~|Türbe Ardı~|Yelice~
+150995	Çakırlı Mah.	Abidin Oğlu~|Afurcuk Obası=|Alaca=|Ağlıoba=|Belediye~|Cafarlı=|Camii~|Dereköy~|Düzağıl=|Elmaalan=|Ficiroba=|Galıçevyanı=|Gölardı (çakırlı)=|Gölardı~|Gölyanı=|Güney=|Hacısayvanı=|Köprüderesi=|Köroğlu~|Kıran=|Mehmet Akif Ersoy~|Necip Fazıl Kısakürek~|Pınaralan=|Töngel=|Yenioba=|Çakırlı Merkez@|Çatakbaşı=|Çiftlik~|İstiklal~|Şeber~|Şebergüneyi=
+60875	Çukur Mah.	Okul Kümesi=|Çukur Aşağı=

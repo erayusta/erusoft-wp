@@ -1,0 +1,101 @@
+153849	Ahatlar Mah.	Gafiryan~|Merkez~
+153853	Ahmetler Mah.	Ahmetler~
+153855	Akdere Mah.	Akdere~
+52219	Akıncılar Mah.	1.yurt~|2.yurt~|72evler 1.~|72evler 2.~|72evler 3.~|Ahmet Çark@|Akıncılar 1.~|Akıncılar 3.~|Akıncılar 4.~|Akıncılar 5.~|Akıncılar 6.~|Akıncılar 7.~|Akıncılar 8.~|Akıncılar Dere~|Akıncılar Yeşilsaha~|Cengiz Topel~|Eski Simav Yolu@|Gaziler@|Gürler~|Kızılay~|Kızılay Yeni~|Kızılayevleri~|Papazoluk~|Sosyal Konut 1.~|Sosyal Konut 2.~|Tekel~|Toki@|Yunus Emre@|Çarşı~|Çevre Yolu%|Üniversite@|İmam Hatip@|Şht. Astsb. Uğur Palancı@|Şht.şerif Ali Kahraman~
+153857	Alaağaç Mah.	Akçeşme~|Alaağaç~|Eseler~
+153859	Armutlu Mah.	Armutlu~
+153861	Ayvaalan Mah.	Merkez~|Tepedibi~
+154063	Azizbey Mah.	Azizbey~
+52220	Bahçeler Mah.	1.boyahane~|1.tamirhane~|2.boyahane~|2.tamirhane~|Bahçeler~|Demirciler~|Değirmen~|Ersin~|Fabrika~|Haltaspınar~|Hastane~|Hüseyinağa Camii~|Kaymakam İbrahim Ethem Akıncı@|Kemal~|Otogaraj~|Oyukarkası=|Serke Deresi Bağ Evleri=|Sındırgı@|Tepecik~|İplikpınar~
+153863	Bardakçı Mah.	Bardakçı~
+153865	Bayramşah Mah.	Bayramşah~
+52221	Beyazıt Mah.	1.bahçelievler~|4.~|Akarsu Camii~|Beyazıt 1.~|Beyazıt 1.hisar~|Beyazıt 1.yurt~|Beyazıt 2.~|Beyazıt 2.hisar~|Beyazıt 2.yurt~|Beyazıt 3.~|Beyazıt Hilal~|Beyazıt Okul~|Beyazıt Park~|Beyazıt Yeşilsaha~|Beyazıt Yıldız~|Bizim~|Doğan 1.~|Doğan 2.~|Doğan 3.~|Doğan@|Kaplıca Yolu@|Menderes 3.~|Menderes 4.~|Menderes%|Nezih Demirkent@|Pike~|Rıfat Mutlu Hoca~|Selendi@|Çamlık~|Çevre Yolu%|Ülker~|Şenol~|Şht.ihsan Tüfekçi~
+154065	Boyacık Mah.	Boyacık~
+153869	Bozköy Mah.	Bozköy~
+154049	Bozçatlı Mah.	Bozçatlı~
+154067	Büyükkıran Mah.	Büyükkıran~
+52222	Camii Atik Mah.	Açıkpazar Mektep@|Açıkpazar Yeri Myd.|Ballıpınar~|Birlik@|Düvenönü Şirin~|Eski Cami 2.~|Eski Camii 1.~|Ferah@|Kültür~|Menderes@|Çapraz~|İki Oluklu~
+52223	Cumhuriyet Mah.	1.lise~|2.lise~|Atatürk İlkokulu B.evler~|Atölye~|Ayenlik Yolu~|Doğan 1.~|Doğan@|Gültepe~|Hisar Kaplıcaları=|Menderes 1.~|Menderes 2.~|Menderes%|Menderes@|Çevre Yolu%|Şehitler@
+154071	Danişmentler Mah.	Danişmentler~
+153891	Demirci Mah.	Demirci~
+52225	Doktor Mehmet Akarsu Mah.	75.yıl@|Akyar Yolu=|Bayrak~|Buhara~|Cinnah~|Demirci Akıncıları~|Ekrem Şerif Egeli@|Emir Sultan 1.~|Emir Sultan~|Estergon~|Fetih@|Gazi Osman Paşa@|Hacı Babai Veli@|Halıkent@|Kanije~|Kirman~|Kuvai Milliye@|Mimar Sinan@|Nurullah Doğruel%|Piri Reis~|Plevne@|Prof.burhan Toprak@|Selendi@|Semerkant~|Seyit Ali~|Söylemiş~|Ulubatlı Hasan~|Yağcı Bedir~|Ziya Gökalp~|İbrahim Ethem~|İsmail Özdağlar 1.~|İsmail Özdağlar 2.~|İsmail Özdağlar 3.~|İsmail Özdağlar 4.~|İsmail Özdağlar 5.~|İsmail Özdağlar 6.~|İsmail Özdağlar 7.~|İsmail Özdağlar 8.~|İsmail Özdağlar 9.~|İsmail Özdağlar Barbaros@|İsmail Özdağlar Hilal~|İsmail Özdağlar Yunus Emre@|İsmail Özdağlar Yıldız~|İstiklal@
+153817	Durhasan Mah.	Acar~|Atatürk~|Cumhuriyet (selvi) Myd.|Cumhuriyet Myd.|Dede~|Demirci (selvi)@|Demirci@|Ece Sultan@|Erdem~|Gün~|Gürbüz~|Karanfil~|Selendi@|Türbe~|İn Üstü~
+154073	Elek Mah.	Elek~
+153895	Esenyurt Mah.	Esenyurt~
+153899	Eskihisar Mah.	Eskihisar~
+52226	Fatih Mah.	Akdere@|Akıncılar@|Cengiz Topel İ.~|Fatih Camii~|Fatih Orta~|Gül~|Karakol~|Mimar Beşir Düvenli~|Saha~|Yunus Emre@|Özgür~|İmam Hatip O.@|İmam Hatip O.ara~
+154077	Gömeçler Mah.	Merkez~|Yeni~
+154053	Gümele Mah.	Gümele~
+154079	Gürçeşme Mah.	Gürçeşme~
+153903	Güveli Mah.	Güzelyurt~|Merkez~
+52230	Hacıbaba Mah.	1.bayır~|Atıf Akın@|Birlik@|Dübek~|Dübekönü~|Faraç Pınar~|Hamam Hisar~|Hamam~|Hisar~|Hükümet@|Kütüphane~|Menderes@|Müftüler~
+52227	Hacıhamza Mah.	Anadolu@|Ayvalık@|Ayvalık Yeni~|Huzur~|Kahramanlar@|Kahramanlar Yeni~|Tepetarla~|Tepetarla Yeni~|Yenicami Ayvalık~|Çereşe Myd.|Çevre Yolu%|Üniversite@
+52228	Hacıhasan Mah.	Atıf Akın@|Birlik@|Cumhuriyet Myd.|H.mustafa Keleş@|Hasır Pazarı~|Hükumet@|Kerimağa 1.~|Kerimağa 2.~|Kuyumcular~|Kıran~|Orhunlar~|Sakarya@|Tahtacıpınar~|Terziler~|Yağcılar~
+52229	Hacıtürbek Mah.	Abbas Bayırı 1.~|Abbas Bayırı 2.~|Ballıpınar~|Batmaz~|Dülgeroğlu~|Düvenönü Myd.|Düvenönü Şirin~|Hürriyet@|Menderes@|Zane~|Çapraz~|Çeşme Önü~
+153911	Hoşçalar Mah.	Hoşçalar~
+154057	Hüdük Mah.	Hüdük~
+153907	Hırkalı Mah.	Hırkalı~
+153915	Iklıkçı Mah.	Iklıkçı~
+153927	Karaisalar Mah.	Karaisalar~
+154081	Kargınışıklar Mah.	Kargınışıklar~
+52232	Kasımfakı Mah.	Akdere@|Akıncılar@|Atıf Akın@|Enstitü~|H.mustafa Keleş@|Kasımfakı Okul@|Kavaklı Camii~|Kiremitçiler~|Kıran~|Türkmen~|Yayla~|Özgür~|İmam Hatip O.@
+154083	Kayaköy Mah.	Kayaköy~
+153931	Kayranokçular Mah.	Kayranokçular~
+153933	Kazancı Mah.	Armutalanı~|Merkez~|Çatçiftliği~
+153937	Kerpiçlik Mah.	Kerpiçlik~
+153943	Kovancı Mah.	Karapınar (kovancı)~|Karapınar~|Kovancı~
+153951	Kulalar Mah.	Bağırgan~|Merkez~
+154089	Kuzeyir Mah.	Bozyaka~|Merkez~
+153955	Kuzuköy Mah.	Kadıboğan~|Kuzuköy~
+153947	Köylüce Mah.	Köylüce~|Meydancık~
+154087	Küpeler Mah.	Küpeler~
+154091	Küçükkıran Mah.	Küçükkıran~
+153959	Küçükoba Mah.	Küçükoba~
+153939	Kılavuzlar Mah.	Kahve~|Merkez~
+154085	Kışlak Mah.	Kışlak~
+153825	Mahmutlar Mah.	Birlik (fatih)~|Birlik~|Camii (fatih)~|Camii~|Demirci@|Doğan~|Gündoğdu~|Güney~|Hisar (fatih)~|Hisar~|Okul (fatih)~|Okul~|Sındırgı (fatih)@|Sındırgı@|Yayla~|Yeni~|Çağlayan~|Çiftçi~|Örnek~|Şirin (fatih)~|Şirin~
+153963	Marmaracık Mah.	Bozyer~|Merkez~
+153969	Mezitler Mah.	Mezitler~
+154093	Minnetler Mah.	Aşağı~|Yukarı~
+52233	Mithatpaşa Mah.	1.kurtuluş~|1.kültür~|2.kurtuluş~|2.kültür~|Bağlar~|Değirmen~|Hastane~|Kaym.ibrahim Ethem Akıncı@|Köprülü~|Mektep@|Stadyum~|Şerbetçi~|Şht.ahmet Korkmaz~
+52234	Pazar Mah.	2.kültür~|Açıkpazar Çarşı~|Değirmen~|Haltaspınar~|Hastane~|Hasır Pazarı~|Hüseyinağa Camii~|Kaym.ibrahim Ethem Akıncı@|Kültür~|Mektep@|Pazar Orta~|Pazar Söylemiş~|Sakarya@|İzmirli~
+153987	Rahmanlar Mah.	Rahmanlar~
+153995	Sayık Mah.	Kireçlik~|Kızıllar~|Merkez~|Tepeköy~|Terziler~
+153991	Sağnıç Mah.	Sağnıç~
+52235	Secaattin Mah.	A.akın Çıkmaz~|Alaca Camii~|Atıf Akın@|Gödeoğlu Bayırı~|H.mustafa Keleş@|Halıkent Park~|Hamam Hisar~|Hamam~|Hisar~|Kasımfakı Okul@|Kiremitçiler~|Kıran~|Secaattin Dere~|Tahtacıpınar~|Yeni Cami Ayvalık~|Yunus Emre@|Çağlayan~|Çereşe Myd.|Üniversite@|Şht. Astsb. Uğur Palancı@
+154001	Serçeler Mah.	Serçeler~
+154003	Sevişler Mah.	Merkez~|Parsamaz~
+52236	Sinan Mah.	Alpaslan@|Aşağı Çiftçiler~|Balıkesir@|Büyüktaş=|Hacı Ragıp 1.~|Hacı Ragıp 2.~|Kalaycıpınar~|Yukarı Çiftçiler~|Çoban Kadir~
+52237	Sofular Mah.	Balıkesir@|Demirlipınar~|Enstitü~|Kalaycıpınar~|Nurcamii~|Sakarya@|Sofular Doğan~|Yukarı Çiftçiler~|Çocuk Bahçesi~|İplikpınar~|Şakir Efendi 1.~|Şakir Efendi 2.~|Şht.kadir Bey~|Şht.m.ali Armutçu~
+154007	Söğütçük Mah.	Söğütçük~
+154011	Talas Mah.	Talas~
+154015	Taşokçular Mah.	Taşokçular~
+154019	Tekeler Mah.	Tekeler~
+154095	Teperik Mah.	Teperik~
+154023	Ulacık Mah.	Ulacık~
+154059	Yarbasan Mah.	Yarbasan~
+154097	Yavaşlar Mah.	Yavaşlar~
+52239	Yağmur Mah.	Ahçalıpınar~|Atatürk İlkokulu@|Batmaz~|Dayıoğlu 1.~|Dayıoğlu 2.~|Dutlaraltı~|Düvenönü Myd.|Düvenönü Şirin~|Ferah@|Hürriyet@|Kültür~|Menderes@|Mumcu~|Santral~
+52240	Yenice Mah.	Akdere Cad.1.~|Akdere Cad.2.~|Akdere@|Akdere Cd.çağlayan Mev.=|Akıncılar@|Alpaslan~|Balıkesir@|Büyüktaş~|Enstitü~|Güreş Harman~|Hacı Ragıp 1.~|Kavaklı Camii~|Kiremitçiler~|Kıran~|Kıspet~|Pehlivan~|Türkmen~|Yayla~|Yenice Yurt~|Çoban Kadir~
+154031	Yeşildere Mah.	Afetevleri~|Elmacık~|Karamanlar~|Merkez~|Mustanlar~|Orta~|Yalnızcuma~
+154037	Yeşiloba Mah.	Dörtahırlı~|Hacı Ahmet~|Hacıbaba~|Merkez~|Topaloğlu~|Uslular~|Çayırharman~
+154099	Yiğenler Mah.	Yiğenler~
+154045	Yiğitler Mah.	Yiğitler~
+154069	Çamköy Mah.	Çamköy~
+52224	Çamlıca Mah.	1.bahçelievler~|2.bahçelievler~|4.~|Ahçalıpınar~|Gelin Yolu~|Kozağaç Camii 1.~|Kozağaç Camii~|Menderes%|Yeni Çamlık~|Yorulmaz~|Çamlıca 1.~|Çamlıca Atölye~|Çamlıca Şirin~|Çamlık~
+153877	Çanakçı Mah.	Çanakçı~
+153881	Çandır Mah.	Çandır~
+153885	Çardaklı Mah.	Çardaklı~
+153889	Çataloluk Mah.	Çataloluk~
+153875	Çağıllar Mah.	Çağıllar~
+153973	Öksüzlü Mah.	Beylik~|Merkez~|Şehitler~
+153977	Ören Mah.	Ören~
+153981	Örücüler Mah.	Örücüler~
+154027	Üşümüş Mah.	Merkez~|Meyikler~
+153833	İcikler Mah.	Atatürk@|Barbaros@|Bülbül~|Camii~|Cumhuriyet (menderes)@|Cumhuriyet@|Emel~|Filiz~|Gazi~|Gül~|Gültepe~|Hacı Seyyah~|Harmandede~|Hilal~|Hüsrev~|Işık~|Kızılca Köy$|Lale~|M.akif Ersoy (menderes)@|M.akif Ersoy@|Menekşe Çıkmazı~|Mimar Sinan~|Mithat Paşa@|Mücahit Çıkmazı~|Narlıdere~|Osmanlı@|Oğuz~|Sağlık@|Serçe~|Sevgi~|Seyrantepe~|Sezak (menderes)~|Sezak~|Sidas@|Sultan=|Sünbül~|Ulubatlı~|Uluçiftlik=|Yağcı Çıkmazı~|Yiğit~|Zafer~|Çağlayan~|Çeşme~|Çiçek~|Özbek Çıkmazı~|İstiklal@|Şafak~
+154101	İmceler Mah.	İmceler~
+153919	İmrenler Mah.	Aşağı~|Merkez~
+154075	İrişler Mah.	İrişler~
+153923	İsmailler Mah.	İsmailler~
+52231	İçhisar Mah.	Abbas Bayırı 1.~|Ayvalık@|Dübekönü~|Hisar~|Kocapınar~|Menderes@|Sıtmadere~|Sıtmapınar~|Yenicamii Ayvalık~|Yenicamii~|Yukarı Hisar~|Çeşme Önü~|Çomaklı Bayırı~
+52238	Şehreküstü Mah.	1.köşebaşı~|2.köşebaşı~|Anadolu@|Atatürk İlkokulu B.evler~|Atölye~|Barbaros~|Demirhan~|Emetlibayırı~|Huzur~|Kayabaşı~|Kırüstü@|Menderes@|Osmanlı~|Sıtmapınar@|Yeni~|Çevre Yolu%|Şehreküstü Gaziler~

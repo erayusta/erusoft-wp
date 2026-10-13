@@ -1,0 +1,28 @@
+166301	Alvar Mah.	Alvar=
+166303	Aşağıselimli Mah.	Aşağıselimli=
+52009	Bahçelievler Mah.	Malatya@|Malatya1~|Zafer 34@|Zafer~|Zafer1~|Zafer10~|Zafer11~|Zafer12~|Zafer13~|Zafer14~|Zafer15~|Zafer16~|Zafer17~|Zafer18~|Zafer19~|Zafer2~|Zafer20~|Zafer21~|Zafer22~|Zafer23~|Zafer24~|Zafer25~|Zafer28~|Zafer29~|Zafer3~|Zafer30~|Zafer32~|Zafer33~|Zafer4~|Zafer5~|Zafer6~|Zafer7~|Zafer8~|Zafer9~
+166305	Başören Mah.	Başören=
+166307	Bicir Mah.	Bicir~|Bicir1~|Bicir10~|Bicir11~|Bicir12~|Bicir13~|Bicir14~|Bicir16~|Bicir2~|Bicir3~|Bicir4~|Bicir5~|Bicir6~|Bicir7~|Bicir8~|Bicir9~|Büyük Bük~|Büyük Bük1~|Kurbalık~|Kurbalık1~|Kurbalık2~|Kurbalık3~|Kurbalık4~|Kızılkaya~|Kızılkaya1~|Mağra Önü~|Mağra Önü1~|Çay~|Çay1~
+52010	Boğaziçi Mah.	Boğaziçi=
+166309	Bıyıkboğazı Mah.	Bıyıkboğazı=|Yünlük=
+166311	Ciritbelen Mah.	Ciritbelen=|Coplar=|Gökdere=
+166317	Göğebakan Mah.	Etyemezler=|Göğebakan=|Üzümlü Pınar=
+166339	Karabük Mah.	Karabük=|Malatya@
+166341	Karaçayır Mah.	Bahçe Evleri=|Dipderesi=|Gedik=|Karaçayır=|Karaçayır Yeni Yol 1=|Kümağıl=|Sincanlıboğaz=|Çolağınkolu=
+166323	Karlık Mah.	Karlık=|Çifteller=
+166321	Karıncalık Mah.	Karıncalık=|Kızıl Öz=|Kızıltaş=
+166325	Kaynarca Mah.	Beşiktepe~|Kaynarca=|Tosun Bükü~|Zafer Kaynarca=
+166331	Konaktepe Mah.	Dere Köy=|Konaktepe=
+166333	Kömüklü Mah.	Aşağı Kömüklü Mezrası=|Harebe Mezrası=|Kömüklü=|Kömüklü Yeni Yol 1=
+166327	Kızılhisar Mah.	Fındık=|Ilıcak=|Kendisi=|Keçik=
+166329	Kızılmağara Mah.	Hacıhasanlar=|Kızılmağara=|Yaşarlar=|Çörtenler=
+52013	Ortapınar Mah.	Atatürk@|Cami~|Cami1~|Cami2~|Cami3~|Ziyaret Çeşme~|Ziyaret Çeşme1~|Ziyaret Çeşme2~|Ziyaret Çeşme3~|Ziyaret Çeşme4~|Ziyaret Çeşme5~
+166299	Sofular Mah.	Ada=|Atatürk_1@|Bahçelievler=|Bük=|Eşref Bitlis@|Güvercin=|Hamalçayı=|Höyük=|Kale=|Kandil=|Menekşe=|Sarmaşık 1~|Sarmaşık 1-~|Seki=|Sofular 2=|Tomurcuk~|Turgut Özal@|Zambak=|Ziyaret=|Çayırlı=
+166335	Sultanlı Mah.	Beşiktepe1=|Sultanlı 13=|Sultanlı~|Sultanlı Yalnız Adam 1=|Sultanlı Yalnızdam=|Sultanlı1~|Sultanlı10=|Sultanlı12~|Sultanlı2~|Sultanlı3~|Sultanlı4~|Sultanlı5~|Sultanlı6~|Sultanlı7~|Sultanlı8~|Sultanlı9~|Taşlık=|Yukarı Sultanlı=
+166337	Temüklü Mah.	Aşağı=|Kale Temüklü=|Kulbekır 1=|Külbekir=|Temüklü=|Çarıkpınar=|İstiklal=
+52014	Yeni Mah.	Atatürk@|Kaymaz=|Ortapınar Yeni Yol 1=|Sadullah Ergin@
+166313	Çayköy Mah.	Malatya@|Yukarıçayköy=|Çayköy=|Çayköy1=
+166315	Çörmü Mah.	Çörmü=
+166319	İlisuluk Mah.	Kale İlisuluk=|Yukarıçayköy=|İlisuluk=
+52011	İsmetpaşa Mah.	Boğaziçi İsmetpaşa@|Boğaziçi1~|Boğaziçi2~|Kale_1~|Yazı=|Çitilbağı~|Çitilbağı10~|Çitilbağı11~|Çitilbağı2~|Çitilbağı3~|Çitilbağı4~|Çitilbağı5~|Çitilbağı6~|Çitilbağı7~|Çitilbağı8~|İsmetpaşa Kale1~|İsmetpaşa Kale2~|İstiklal1~
+52012	İstiklal Mah.	Atatürk@|Cumhuriyet Myd.|Fevzipaşa@|Fevzipaşa1~|Fevzipaşa10~|Fevzipaşa11~|Fevzipaşa12~|Fevzipaşa13~|Fevzipaşa14~|Fevzipaşa15~|Fevzipaşa16~|Fevzipaşa2~|Fevzipaşa3~|Fevzipaşa4~|Fevzipaşa5~|Fevzipaşa6~|Fevzipaşa7~|Fevzipaşa8~|Fevzipaşa9~|İstiklal1~|İstiklal2~|İstiklal3~

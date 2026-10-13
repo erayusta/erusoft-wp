@@ -1,0 +1,24 @@
+61619	Akarca Mah.	Atatürk@|Deniz~|Erdinç Büyükakalın@|Fatih Sultan Mehmet@|Göl~|Güzel~|Kardeşlik~|Küçük Cami~|Leylak~|Menekşe~|Mine~|Sarmaşık~|Vadi~|Yamaç~|Yeşil Tepe~|Zambak~|Çağlayan~|Çiçek~
+61621	Akgöl Mah.	Sümbül~|Zirve@
+61620	Akçakamış Mah.	Ahmet İr@|Arzu~|Gül~|Karanfil~|Onur~|Yavuz Selim@|Şehit Nedim Ercan~
+184827	Beşdeğirmen Mah.	Aşağı~|Orta~|Yukarı~
+61626	Cami Cedit Mah.	50. Yıl@|Ahmet İr@|Atatürk@|Bahar~|Beyaz~|Hürriyet@|Kardelen~|Orhan Gazi@|Stad~|Çevreyolu@|Şeref@
+184829	Fındıklı Mah.	Ada~|Ayazma~|Eğitim~|Miraç~|Selanik@|Yeşil~
+61622	Gündoğan Mah.	50.yıl@|Adnan Menderes@|Orkide~|Sanayi@|Söğüt~|Çevre Yolu@|Çiğdem~|İnce~|İsmet İnönü@|Şehit Mehmet Kıran~|Şeker~
+184831	Hasanfakı Mah.	Altyol~|Ara~|Üstyol@
+184835	Kantar Mah.	Belen@
+184837	Karateke Mah.	Akçukur~|Derviş@|Gaffar~|Molla@|Sanayi@|Ulus~
+184839	Kurudil Mah.	Barış@|Derya~|Dilber~|Dilek Sk~|Egemenlik@|Ozan@|İrem~
+61623	Küçük Söğütlü Mah.	Acılık@|Atatürk@|Ay~|Barış@|Beriköy=|Cami~|Cesur~|Damla~|Demet~|Ezgi~|Fatih Sultan Mehmet@|Günay~|Ihlamur~|Işık~|Kocaalan@|Lale~|Papatya~|Raşit Gönül~|Salkım~|Selvi~|Tepe~|Yahya Gönül~|Çevre Yolu@
+184841	Levent Mah.	Acıçeşme~|Güllü~|Kuşburnu~|Mehmet Akif Ersoy@|Oflak~|Pınar~|İncirlik~
+184845	Maksudiye Mah.	Ardıç~|Açelya~|Bariş@|Cumhuriyet@|Kayın~|Leylendi~|Manolya~|Mavi Ladin~|Molla Yusuf@|İmamlar~
+184843	Mağara Mah.	Kartal~|Nehir~|Sanayi@|Ümit~
+61624	Orta Mah.	50. Yıl@|Atatürk@|Balcılar@|Gazi~|Halit Molla@|Hürriyet@|Kiraz~|Kumdere=|Nilüfer~|Orhangazi@|Çınar~|İnce~|Şeref@
+61625	Rüstemler Mah.	Ekinlik~|Fatih Sultan Mehmet@|Kalkan~|Kul~|Çevre Yolu@
+184849	Soğucak Mah.	Anadolu@|Aydın~|Elmalı~|Güneş~|Karşıyaka~|Kervan~|Sanayi@|Vatan@|Çınar Pınarı~|Şen~
+61628	Soğucakosb Mah.	3. Organize Sanayi Bölgesi=
+184847	Sıraköy Mah.	Aşağıçeşme~|Merkez~|Tepeköy~
+184851	Tokmaklıdere Mah.	Halit Molla@
+184853	Türkbeylikkışla Mah.	Cumhuriyet@|Mera~|Olgun~|Set~|Çevreyolu@
+184855	Yeniköy Mah.	Arı~|Doruk~|Gök~|Okur~|Ova~|Sanayi Cd@|Tarabya~|Topgül~|Uygar~|Yalçın~|Çamlık~
+184833	İmamlar Mah.	Aslanlar~|Yukarı~

@@ -1,0 +1,48 @@
+178103	Ahatlar Mah.	Ahatlar=|Yayla Ahatlar=
+178145	Akkaya Mah.	Akkaya=|Aşağı Akkaya=|Yayla Akkaya=
+178105	Alakoç Mah.	Alakoç=|Yayla Alakoç=
+178107	Atça Mah.	Atça=|Yayla Atça=
+178109	Avdan Mah.	Avdan=|Geçici Yerleşim=
+178111	Avşarlar Mah.	Avşarlar=|Yayla Avşarlar=
+178113	Bardakçılar Mah.	Avdandere=|Bardakçılar=|Hacıgil=|Yeni Yerleşim-=
+178147	Bayındır Mah.	1.küme Bayındır=|2.küme Bayındır=|3.küme Bayındır=
+2015	Beyler Mah.	Ali Özdemir@|Avlasız~|Cumhuriyet@|Demirel~|Dikilitaş=|Emniyet~|Garip~|Gölün Yazı=|Halil Okur@|Harmancık@|Işık Kaya~|Işık~|Kalender~|Kayadibi~|Kocaman~|Kuyu Boğazı~|Kuyucak=|Kuz~|Mehmet Bahattin Dinçmen@|Muharrem Calip~|Mustafa Talat Güler@|Sarıtepe~|Sağlık~|Sünel~|Tatar~|Ulukuz~|Yeni Cami~|Çetin~|Çetiner~|Çiçek~|Ünlüler~|İset~
+178183	Beşbeyler Mah.	Beşbeyler Küme=|Boyalı=|Kavacık=|Sarpın Çiftliği=|Sofu Deresi=|Yağlıca Aluç Kayabaşı=|Yukarıdere=|Üreğil Çiftliği=
+178115	Buğralar Mah.	Buğralar=|Yayla Buğralar=
+178149	Bükeler Mah.	Mandıra Bükeler=|Merkez Bükeler=|Yayla Bükeler=
+178153	Dağkuzören Mah.	Ahmetler=|Dere Yurt=|Elveren=|Güney Dağkuzören=|Kadılar=|Kayabaşı Dağkuzören-=|Kuzey Dağkuzören=|Çal Dağkuzören=|Ören=
+178157	Doymuş Mah.	Doymuş=|Yayla Doymuş-=
+178155	Doğancı Mah.	Doğancı=
+178119	Doğanlar Mah.	Akpınar Çatağı=|Doğanlar=|Kurtluca=|Muratlar=|Çal=|Çit=
+178121	Dörtkonak Mah.	Aşağı Dörtkonak=|Dedem Çayırı=|Göl=|Kurt=|Yayla Dörtkonak=|Yukarı Dörtkonak=
+178123	Eldelek Mah.	Eldelek=|Yayla Eldelek=
+178125	Elmalı Mah.	50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69-~|Elmalı=|Kargalar=|Kavutçu=|Çorman=
+178159	Elvanlar Mah.	Merkez Elvanlar=|Yayla Elvanlar=
+178127	Elören Mah.	Beyler=|Elören=|Uzundere=|Yağlıca Aluç Kayabaşı=
+178161	Gümele Mah.	Gümele=
+178163	Güney Mah.	Bayacı=|Benli Yayla=|Demiryatağı-=|Güney=
+2016	Kayabaşı Mah.	Aluçdağı@|Başaran~|Beyler=|Dökük İçi=|Ethem Pehlivan~|Hacı Mehmet Efendi~|Hacı Şevket Efendi~|Hafız Ziya Tığlıoğlu~|Kapan~|Kayabaşı@|Kayabaşı.=|Kent~|Mavi~|Odabaşı~|Park~|Parmaksız~|Sarıkaya=|Tepebaş=|Yaman~|Yayalar=|Yağlıca Aluç Kayabaşı=|Yağlıca Aluç~|Yeşil~|Çalıkıran~|Çam~|Çağlar~|Çirçir~|Çiçekçiler~|Ömer Erkaya~|Örenler=|Özgür~|Özçelik~|İ Melih Gökçek@|İklimnur~
+178131	Kuyubaşı Mah.	Kuyubaşı=|Mandıra Kuyubaşı=
+178129	Kuşçular Mah.	1@|10~|11~|12@|13@|14~|15@|16@|17~|18~|19~|2@|20@|21~|22~|23~|24~|25@|3~|4~|5~|6~|7~|8~|9~|Kuşçular=|Yayla Kuşçular=
+2017	Körler Mah.	Akasya~|Barış~|Bayır~|Cumhuriyet@|Dere~|Emniyet~|Güven~|Işık~|Karalı~|Keyvan~|Leylekçi~|Mehmet Bahattin Dinçmen@|Savaş~|Semerci~|Semerkandı~|Türbe~|Yeni Cami~|Yurdagül~|Çetin~|İklimnur~
+178133	Meşeler Mah.	1.küme Muzrupağacın=|Cumhuriyet@|Meşeler=|Yayla Meşeler=
+178135	Muzrupağacın Mah.	1.küme Muzrupağacın=|2.küme Muzrupağacın=
+178137	Müsellim Mah.	Müsellim=
+2018	Orta Mah.	Beşbeyler@|Hacı Şevket Efendi~|Hafız Ziya Tığlıoğlu~|İklimnur~
+178167	Osmansin Mah.	Dökük=|Gürağaç=|Mandıra Osmansin-=|Merkez Osmansin=
+178141	Pelitçik Mah.	Pelitçik=
+178181	Peçenek Mah.	Bakırlı=|Camili=|Hocalar=|Orta=
+178171	Sarıkavak Mah.	Aşağı Sarıkavak=|Eskice=|Muratlar=|Yayla Sarıkavak=|Yukarı Sarıkavak=|Çift=
+178143	Tatlak Mah.	Güney Tatlak=|Güney Yayla=|Kuzey Tatlak=|Kuzey Yayla=|Merkez Elvanlar=
+2020	Yahyalar Mah.	Bayramoğlu~|Başaran~|Beşbeyler@|Cumhuriyet@|Hacı Şevket Efendi~|Hafız Ziya Tığlıoğlu~|Kusura~|Küçük Mahalle@|Kışlakçı~|Sezer~|Soydan~|Telli~|Topbaş~|Ulusoy~|Yaman-~|Yokuş~|Çamyanı~
+178173	Yahşihan Mah.	Yahşihan=|Yahşihan Yaylası=
+2021	Yayalar Mah.	Adalet~|Ali Özdemir@|Barış~|Cumhuriyet@|Harman~|Işık~|Karalı~|Mehmet Bahattin Dinçmen@|Mehmet Şenses~|Mustafa Al~|Mustafa Karagöz~|Mustafa Talat Güler-@|Peşeki@|Sanayi 1@|Sanayi 2@|Yeni Cami~|Yurdagül~|Çetin~|Özcan~|Özsoy~|Şahin~
+178175	Yediören Mah.	Beşevler=|Merkez Yediören=|Tepe=|Tepe Yayla=|Yayla Yediören=
+178179	Yoncatepe Mah.	Alıçbaşı=|Damyeri-=|Ferah=|Karadağ=|Kök Deresi=|Merkez Yoncatepe=|Yoncatepe Yayla=
+178177	Yılanlı Mah.	Aşağı Yılanlı=|Yayla Yılanlı=|Yukarı Yılanlı-=|Yılanlı=
+178117	Çamköy Mah.	Yayla Çamköy=|Çamköy=
+178151	Çukurören Mah.	1.küme Çukurören=|2.küme Çukurören=|3.küme Çukurören=|Belen=|Benli Yaylası (çukurören)=|Benli Yaylası-=|Hatıplar=|Hatıplar Yaylası=|Uzunburun=|Çörten=|Öreniçi=
+2019	Ömerağa Mah.	Beşbeyler@|Cumhuriyet@|Gürsoylar~|Güven~|Hacı Bekir Efendi~|Hacı Kara Ahmet~|Kayabaşı@|Koçak~|Mustafa Yeşil~|Odabaşı~|Park~|Savaş~|Türbe~|Uçar~|Çalıkıran~|Çamurla=|İklimnur~|Şehit Durali Aydın~
+178139	Örenköy Mah.	Örenköy=
+178169	Özmüş Mah.	Mandıra Özmüş=|Tokar=|Yayla Özmüş=|Özmüş=
+178165	İnceöz Mah.	Yayla İnceöz=|İnceöz=

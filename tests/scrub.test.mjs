@@ -86,3 +86,13 @@ test('plain terms: long terms match inside identifiers, short terms only as whol
   assert.equal(scanText('function zx_init() {}', opts)[0].rule, 'client-term');
   assert.equal(scanText('fizz xylophone', opts).length, 0);
 });
+
+test('skipTerms drops only the client-term rule', () => {
+  const hashes = new Set([termHash('Acme Gida')]);
+  const line = 'Acme Gida Sk. ' + 'jane' + '@' + 'roe-mail.test';
+  const all = scanText(line, { hashes });
+  const skipped = scanText(line, { hashes, skipTerms: true });
+  assert.ok(all.some(f => f.rule === 'client-term'));
+  assert.ok(!skipped.some(f => f.rule === 'client-term'));
+  assert.ok(skipped.some(f => f.rule === 'email'));
+});

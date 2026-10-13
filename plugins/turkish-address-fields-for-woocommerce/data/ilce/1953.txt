@@ -1,0 +1,28 @@
+52000	Abuşoğlu Mah.	Abuşağa 1=|Abuşağa=|İzollu@
+166261	Akuşağı Mah.	Durak=|Hanbey=|Merkez=|Tarlacık=|Topraklı=|Uzunpınar=|Uzunyol=|Uğurlu=|Ölütaş=
+166259	Akça Mah.	Akça=|Dük=|Gömesi=|Huşan=
+52001	Bağlıca Mah.	Bağlıca1~|Bağlıca10~|Bağlıca11~|Bağlıca12~|Bağlıca13~|Bağlıca14~|Bağlıca15~|Bağlıca16~|Bağlıca17~|Bağlıca18~|Bağlıca2~|Bağlıca3~|Bağlıca4~|Bağlıca5~|Bağlıca6~|Bağlıca7~|Bağlıca9@|Bağyolu@|Kurtuluş@|Sağlık@|İzollu@|Şehit Doğan Öztürk@
+166265	Bentköy Mah.	Bentköy=|Bentköy Toki~|Darıcıvan=|Gedeyan=|Mezra=|Taşan=|Yazı=
+166297	Darıpınar Mah.	Darıpınar=
+52002	Dedeköy Mah.	Kaymakam Mustafa Özsoy=
+52003	Düztarla Mah.	Düztarla1~|Düztarla10~|Düztarla11~|Düztarla12~|Düztarla13~|Düztarla14~|Düztarla15~|Düztarla16~|Düztarla17~|Düztarla18~|Düztarla2~|Düztarla3~|Düztarla39~|Düztarla4~|Düztarla5~|Düztarla6~|Düztarla7~|Düztarla9~|Karatepe~|Kaymakam Osman Bilgin=|Sahilyolu@|İzollu@
+166269	Erdemli Mah.	Dallan=|Erdemli=|Gevran=|Haydaran=|Kızılalan=|Memiömer=|Mikan=|Siman=
+166271	Gülenköy Mah.	Gülenköy=
+52004	Güneyce Mah.	Esendere=
+166275	Kaleköy Mah.	Kaleköy=
+166277	Karaağaç Mah.	Kalkan 1=|Kalkan 2=|Karaağaç=|Kılıçlı=
+166279	Karahüseyin Mah.	Baliler=|Gedikler=|Güncü=|Hüsrevler=|Karagöz=|Karahüseyin=|Mırtıklar=|Yayla_2=|İlhanlar=
+166283	Kozluk Mah.	Ali Hacılar=|Güneşli=|Kozluk=
+52005	Kumluyazı Mah.	Derebaşı=|Huriler=|Konak=|Kumluyazı1=|Kumluyazı2=|Okulyolu=|İzollu@
+166281	Kıyıcak Mah.	Kıyıcak=|Kıyıcak1~|Kıyıcak10~|Kıyıcak11~|Kıyıcak12~|Kıyıcak13~|Kıyıcak14~|Kıyıcak15~|Kıyıcak16~|Kıyıcak17~|Kıyıcak18~|Kıyıcak2~|Kıyıcak21~|Kıyıcak22~|Kıyıcak23~|Kıyıcak24~|Kıyıcak25~|Kıyıcak26~|Kıyıcak3~|Kıyıcak35~|Kıyıcak36~|Kıyıcak38~|Kıyıcak39~|Kıyıcak4~|Kıyıcak5~|Kıyıcak6~|Kıyıcak7~|Kıyıcak8~|Kıyıcak9~
+52006	Mahmut Dursun Mah.	Mahmut Dursun 4~|Mahmut Dursun 5~|Mahmut Dursun1~|Mahmut Dursun2~|Mahmut Dursun3~|Mişmiş@|Sencer Ülgütol=|Sultan Murat 1~|Sultan Murat@|İzollu@
+166285	Salkımlı Mah.	Salkımlı=
+166287	Sarıot Mah.	Sarıot=
+52007	Soğukpınar Mah.	Handere=
+166289	Tepebaşı Mah.	Aşağı Köy=|Dukan=|Orta Köy=|Tepebaşı=|Çay=
+166291	Uyanık Mah.	Meleşekan=|Uyanık=
+166293	Uzunhüseyin Mah.	Kantil=|Korkusuz=|Uzunhüseyin=|Yayla=|Yayla_1=|İncan=
+166295	Yenidamlar Mah.	Dağ=|Eskidamlar=|Osman Gölü=|Yenidamlar=|Çayır=|Çelemik=
+166267	Çanakçı Mah.	Aslanlar=|Kilisik=|Zekan=|Çanakçı=|İpekler=
+52008	Üçdeğirmen Mah.	Bekirhan=|Bekirhan1=|İzollu@
+166273	İkizpınar Mah.	İkizpınar=|İkizpınar Toki~

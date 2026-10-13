@@ -1,0 +1,108 @@
+18027	Adaköy Köyü, Adaköy Merkez Mevkii	Adaköy Merkez Köy Yolu=
+18026	Adaköy Köyü, Nahçıvan Mevkii	Dörtdivan Gerede Yolu@|Gerede@|Gerede/4~|Nahçıvan Mahalle Yolu=|Yayalar Köy Yolu=
+99402	Adakınık Mah.	1~|1/1~|2~|2/1~|2/2~|3~|3/1~|3/2~|4~|Adakınık/ısımsız2~|Adakınık/ısımsız3~|Adıkınık/ısımsız1~|Deveciler@|Düğer/2~|Karşıyaka@|Uluyol@|Uluyol/1~|Uluyol/2~|Uluyol1~|Yusufoğlu 1~|Yusufoğlu 2~|Yusufoğlu@|Çitler/3~
+18029	Aşağıdüğer Köyü, Aşağıdüğer Merkez Mevkii	Aşağıdüğer Merkez Köy Yolu=|Düğer/2~|Yukarısayık Merkez Köy Yolu=|Yusufoğlu@
+18028	Aşağıdüğer Köyü, Aşağıdüğer Yaylası Yayla Evleri	Aşağı Düğer Mandıra Yolu=|Aşağıdüğer Aladağ Yaylası Yolu=|Aşağıdüğer Yaylası Yolu=
+18034	Aşağısayık Köyü, Aşağısayık Merkez Mevkii	14~|Aşağısayık Merkez Köy Yolu=|Dülger Köy Yolu=|Yeni Mahalle Yolu=|Yukarısayık Merkez Köy Yolu=
+18033	Aşağısayık Köyü, Hasinler Mevkii	Hasinler Mahallesi Yolu=|Yukarısayık Merkez Köy Yolu=
+18030	Aşağısayık Köyü, Mandıra Yayla Evleri	Mandıra Yolu=
+18031	Aşağısayık Köyü, Yayla Yayla Evleri	Yayla Yolu=
+18032	Aşağısayık Köyü, Çukurca Aladağı Yayla Evleri	Çukurca Aladağı Yolu=
+99403	Bayramlar Mah.	11~|12~|13~|14~|Ahmet Yesevi@|Aydınalp@|Ağalarbayramlar 1~|Ağalarbayramlar@|Aşcıgil 1~|Aşcıgil@|Bayramoğlu 1~|Bayramoğlu 2~|Bayramoğlu@|Bucakkınık@|Karapınar Yaylası=|Köroğlu@
+18041	Bünüş Köyü, Batı Mevkii	Batı Mahalle Yolu=|Cemaller Merkez Köy Yolu=
+18039	Bünüş Köyü, Bünüş Aladağı Yayla Evleri	Bünüş Aladağı Yolu=
+18040	Bünüş Köyü, Bünüş Mandırası Yayla Evleri	Bünüş Mandırası Yolu=
+18042	Bünüş Köyü, Bünüş Merkez Mevkii	Bünüş Merkez Köy Yolu=
+18038	Bünüş Köyü, Göl Yayla Yayla Evleri	Göl Yayla Yolu=
+18045	Cemaller Köyü, Cemaller Hokak Yaylası Yayla Evleri	Cemaller Hokak Yaylası Yolu=
+18044	Cemaller Köyü, Cemaller Karagöz Yaylası Yayla Evleri	Cemaller Karagöz Yaylası Yolu=
+18043	Cemaller Köyü, Cemaller Kirazlı Yaylası Yayla Evleri	Cemaller Kirazlı Yaylası=
+18047	Cemaller Köyü, Cemaller Merkez Mevkii	Batı Mahalle Yolu=|Cemaller Merkez Köy Yolu=
+18046	Cemaller Köyü, Cemaller Çiçekli Yaylası Yayla Evleri	Cemaller Çiçekli Yaylası Yolu=
+99405	Deveciler Mah.	31~|31/1~|31/2~|31/3~|31/4~|32~|33~|34~|35~|Deveciler@|Deveciler/1~|Deveciler/2~|Deveciler/3~|Deveciler/4~|Gerede@|Gerede/4~|Karşıyaka@|Osmanlı@|Osmanlı/1~|Uluyol/2~|Yayalar Köy Yolu=
+18072	Doğancılar Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=|İmamlar Mahalle Yolu=
+18069	Doğancılar Köyü, Aşağı Yayla Yayla Evleri	Aşağı Yayla Yolu=
+18076	Doğancılar Köyü, Bayır Mevkii	Bayır Mahalle Yolu=|Çardak Köy Yolu=
+18071	Doğancılar Köyü, Gerede Yolu Mevkii	Anadolu Otoyolu@|Dörtdivan Gerede Yolu@|Gerede Yolu Mevkii=|Nahçıvan Mahalle Yolu=|İmamlar Mahalle Yolu=
+18078	Doğancılar Köyü, Kadirler Mevkii	Gerede Yolu Mevkii=|Kadirler Mahalle Yolu=|İmamlar Mahalle Yolu=
+18070	Doğancılar Köyü, Karaçayır Yaylası Yayla Evleri	Karaçayır Yaylası Yolu=
+18074	Doğancılar Köyü, Tabaklar Mevkii	Adaköy Merkez Köy Yolu=|Aşağı Mahalle Yolu=|Tabaklar Mahalle Yolu=|Şahallar Mahalle Yolu=
+18073	Doğancılar Köyü, Uzunlar Mevkii	Dörtdivan Gerede Yolu@|Uzunlar Mahalle Yolu=
+18077	Doğancılar Köyü, İmamlar Mevkii	Dörtdivan Gerede Yolu@|İmamlar Mahalle Yolu=
+18075	Doğancılar Köyü, Şahallar Mevkii	Tabaklar Mahalle Yolu=|Şahallar Mahalle Yolu=
+18080	Dülger Köyü, Aşağıdülger Mevkii	Aşağıdülger Mahalle Yolu=|Dülger Köy Yolu=
+18081	Dülger Köyü, Dülger Merkez Mevkii	Aşağısayık Merkez Köy Yolu=|Dülger Köy Yolu=
+18079	Dülger Köyü, Dülger Yaylası Yayla Evleri	Dülger Yaylası Yolu=
+18082	Göbüler Köyü, Aşağı Yayla Yayla Evleri	Aşağı Yayla Yolu=
+18085	Göbüler Köyü, Göbüler Merkez Mevkii	Göbüler Merkez Köy Yolu=
+18084	Göbüler Köyü, Softalar Mevkii	Softalar Mahalle Yolu=|Yalacık Köyü Yolu=|Çardak Köy Yolu=
+18083	Göbüler Köyü, Yukarı Yayla Yayla Evleri	Yukarı Yayla Yolu=
+18087	Gücükler Köyü, Gücükler Merkez Mevkii	Anadolu Otoyolu@|Gücükler Merkez Köy Yolu=
+18088	Gücükler Köyü, Gücükler Yaylası Yayla Evleri	Gücükler Yaylası Yolu=
+18086	Gücükler Köyü, Karslar Mevkii	Anadolu Otoyolu@|Karslar Mahalle Yolu=
+99406	Hacetler Mah.	41~|Ahmet Yesevi@|Bayramoğlu@|Erenler@|Erenler/1~|Erenler/2~|Hacetler@|Hacetler/1~|Hacetler/2~|Hacetler/3~|Karapınar Yaylası=|Karapınar1=|Karapınar2=
+10901	Kadılar Mah.	14~|Ahmet Yesevi 1~|Ahmet Yesevi 2~|Ahmet Yesevi 3~|Ahmet Yesevi@|Akça Çıkmaz~|Aladağ~|Ara~|Ardıç~|Arslan~|Atatürk@|Aydınalp@|Beyazıt~|Camii~|Cengiz Topel@|Cumhuriyet@|Dinler~|Doğan Çıkmazı~|Dr.sadık Ahmet@|Dr.sadık Ahmet/1~|Düğer@|Düğer/1~|Efe~|Elveren Çıkmazı~|Fatih~|Fırın~|Gazi~|Gül~|Hacı Havız 1~|Hacı Havız~|Hal~|Hal/1~|Halil Aksoy~|Kadıoğlu@|Karanfil~|Karapınar~|Kaynarca~|Köroğlu@|Köroğlu/1~|Pazar~|Pazar/1~|Pınar 1~|Pınar~|Sahil~|Sarışen~|Sağlık~|Umut~|Veysel Tiryaki@|Veysel Tiryaki/1~|Veysel Tiryaki/2~|Yazı 1~|Yazı@|Yellice~|Yellice/1~|Zeki Ergezen~|Çelik Çıkmazı~|Şeker Çıkmazı~|Şeker Çıkmazı/1~
+99407	Kargıbayramlar Mah.	2~|2/2~|4~|4/1~|4/2~|51~|51/1~|51/2~|53~|53/1~|54~|54/1~|Bayramlar@|Bayramlar/1~|Bayramlar/2~|Bayramlar/3~|Bayır@|Bayır/1~|Kargı@|Kargı/1~|Kargı/2~|Kargı/3~|Kargı/4~|Kargı/5~|Kargı/6~|Kargı/7~|Kargı/8~|Kargı/9~|Kargı10~|Uluyol/2~|Yayla@|Yayla/1~|Çitler/3~
+18098	Kuruca Köyü	Bayır Mahalle Yolu=|Kuruca Aladağ Yayla Yolu=|Kuruca Aşağı Yayla Yolu=|Kuruca Köy Yolu=|Kılıçlar Merkez Köy Yolu=
+18099	Kuruca Köyü, Kuruca Çampınar Yaylası Yayla Evleri	- Köy$
+18096	Kılıçlar Köyü, Kuzköy Mevkii	Kuzköy Mahalle Yolu=
+18097	Kılıçlar Köyü, Kılıçlar Merkez Mevkii	Kuruca Köy Yolu=|Kılıçlar Merkez Köy Yolu=
+18095	Kılıçlar Köyü, Kılıçlar Yaylası Yayla Evleri	Kılıçlar Yaylası Yolu=
+18100	Ortaköy Köyü, Kirazlı Yayla Yayla Evleri	Kirazlı Yaylası Yolu=
+18102	Ortaköy Köyü, Ortaköy Merkez Mevkii	Ortaköy Merkez Köy Yolu=
+18101	Ortaköy Köyü, Yaslıcalı Yaylası Yayla Evleri	Yaslıcalı Yaylası Yolu=
+18108	Seyitaliler Köyü, Aladağ Yaylası Yayla Evleri	- Köy$
+18110	Seyitaliler Köyü, Aşağı Yayla Yayla Evleri	- Köy$
+18109	Seyitaliler Köyü, Nuhören Yaylası Yayla Evleri	- Köy$
+18111	Seyitaliler Köyü, Seyitaliler Merkez Mevkii	Seyitaliler Merkez Köy Yolu=
+18112	Sorkun Köyü, Aladağ Yayla Evleri	Sorkun Aladağ Yolu=
+18116	Sorkun Köyü, Aşağı Mandıra Yayla Evleri	Aşağı Mandıra Yolu=
+18119	Sorkun Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=
+18113	Sorkun Köyü, Bıçkı Yaylası Yayla Evleri	Bıçkı Yaylası Yolu=
+18114	Sorkun Köyü, Göllü Yayla Yayla Evleri	Göllü Yayla Yolu=
+18117	Sorkun Köyü, Yeni Mevkii	Yeni Mahalle Yolu=
+18115	Sorkun Köyü, Yukarı Mandıra Yayla Evleri	Yukarı Mandıra Yolu=
+18118	Sorkun Köyü, Yukarı Mevkii	Yukarı Mahalle Yolu=
+18122	Süleler Köyü, Aladağ Yaylası Yayla Evleri	- Köy$
+18120	Süleler Köyü, Aşağı Yayla Yayla Evleri	- Köy$
+18123	Süleler Köyü, Süleler Merkez Mevkii	Süleler Merkez Köy Yolu=|Yalacık Köyü Yolu=
+18121	Süleler Köyü, Çampınar Yaylası Yayla Evleri	- Köy$
+18130	Yalacık Köyü	Süleler Merkez Köy Yolu=|Yalacık Köyü Yolu=
+18133	Yalacık Köyü, Yalacık Aşağı Yaylası Yayla Evleri	- Köy$
+18131	Yalacık Köyü, Yalacık Yaylası Yayla Evleri	Yalacık Yaylası Yolu=
+18132	Yalacık Köyü, Çampınar Yaylası Yayla Evleri	- Köy$
+18135	Yayalar Köyü	31/4~|Dörtdivan Gerede Yolu@|Nahçıvan Mahalle Yolu=|Yayalar Köy Yolu=|Çardak Köy Yolu=
+18134	Yayalar Köyü, Yağbaşlar Yaylası Yayla Evleri	Yağbaşlar Yaylası Yolu=
+18125	Yağbaşlar Köyü, Kabaklar Mevkii	Kabaklar Mahalle Yolu=
+18127	Yağbaşlar Köyü, Kabaklar Yaylası Yayla Evleri	Kabaklar Yaylası Yolu=
+18124	Yağbaşlar Köyü, Mursallar Mevkii	Mursallar Mahalle Yolu=
+18126	Yağbaşlar Köyü, Mursallar Yaylası Yayla Evleri	Mursallar Yaylası Yolu=
+18129	Yağbaşlar Köyü, Yağbaşlar Merkez Mevkii	Yağbaşlar Merkez Köy Yolu=
+18128	Yağbaşlar Köyü, Yağbaşlar Yaylası Yayla Evleri	Yağbaşlar Yaylası Yolu=
+18139	Yukarıdüğer Köyü, Aladağ Yayla Evleri	Yukarıdüğer Aladağ Yolu=
+18136	Yukarıdüğer Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=|Yeni Mahalle Yolu=|Yukarı Mahalle Yolu=
+18140	Yukarıdüğer Köyü, Aşağı Yayla Yayla Evleri	Yukarıdüğer Aşağı Yayla Yolu=
+18138	Yukarıdüğer Köyü, Yeni Mevkii	Yeni Mahalle Yolu=
+18137	Yukarıdüğer Köyü, Yukarı Mevkii	Aşağı Mahalle Yolu=|Yukarı Mahalle Yolu=
+18141	Yukarısayık Köyü, Aşağı Yayla Yayla Evleri	Yukarısayık Aşağı Yayla Yolu=
+18143	Yukarısayık Köyü, Yukarısayık Merkez Mevkii	Aşağıdüğer Merkez Köy Yolu=|Yukarısayık Merkez Köy Yolu=
+18142	Yukarısayık Köyü, Çukurca Yaylası Yayla Evleri	Çukurca Yaylası Yolu=
+18049	Çalköy Köyü, Çalköy Beydüşlüh Mah.yaylası Yayla Evleri	Çalköy Beydüşlüh Mah Yaylası Yolu=
+18048	Çalköy Köyü, Çalköy Köroğlu Yaylası Yayla Evleri	Çalköy Köroğlu Yaylası Yolu=
+18050	Çalköy Köyü, Çalköy Merkez Mevkii	Çalköy Merkez Köy Yolu=
+18052	Çardak Köyü	Kuruca Köy Yolu=|Yalacık Köyü Yolu=|Çardak Köy Yolu=
+18051	Çardak Köyü, Çardak Yaylası Yayla Evleri	Çaradak Köyü Aladağ Yaylası Yolu=|Çardak Yaylası Yolu=
+10900	Çavuşlar Mah.	Aladağ~|Aladağ/1~|Aladağ/2~|Atatürk@|Baba Hazır~|Başaran~|Cumhuriyet@|Cumhuriyet/1~|Danışman~|Demirciler@|Demirciler/1~|Demirciler/2~|Demirciler/3~|Demirciler/4~|Demirciler/5~|Demokrasi~|Erenler/1~|Erenler/2~|Fevzi Çıkmaz~|Gerede@|Gerede/1~|Gerede/2~|Gerede/3~|Hatipler@|Kadiroğlu Çıkmaz~|Karagöz~|Karşıyaka@|Köroğlu@|Müezzinoğlu Çıkmaz~|Nergis~|Tuncer Çıkmaz~|Veysel Tiryaki@|Yasemin~|Yazı@|Yeniçağa 1~|Yeniçağa 2~|Yeniçağa@|Yücel~|Çavuş 1~|Çavuş 2~|Çavuş@|Çayır~|Çayır/1~|Çetinkaya@|Çetinkaya/1~|İnönü~|İsmail Altundağ@|İsmail Altundağ/1~|İsmail Erdini@|İsmail Erdini/1~
+18057	Çetikören Köyü, Konaklar Mevkii	Konaklar Mahalle Yolu=|Ortaköy Merkez Köy Yolu=
+18056	Çetikören Köyü, Tepecik Mevkii	Tepecik Mahalle Yolu=
+18055	Çetikören Köyü, Çetikören Aladağ Yaylası Yayla Evleri	Çetikören Aladağ Yaylası Yolu=
+18054	Çetikören Köyü, Çetikören Gökçe Alan Yaylası Yayla Evleri	Çetikören Gökçe Alan Yaylası Yolu=
+18058	Çetikören Köyü, Çetikören Kirazlı Yaylası Yayla Evleri	Çetikören Kirazlı Yaylası Yolu=
+18053	Çetikören Köyü, Çetikören Mandıraları Yayla Evleri	Çetikören Mandıraları Yolu=
+99404	Çitler Mah.	21~|22~|23~|24~|24/1~|24/2~|24/3~|25~|25/1~|25/2~|Bayramlar@|Çitler@|Çitler/1~|Çitler/2~|Çitler/3~|Çitler/4~
+18106	Ömerpaşalar Köyü, Azaplar Mevkii	Azaplar Mahalle Yolu=|Karslar Mahalle Yolu=
+18103	Ömerpaşalar Köyü, Aşağı Yayla Yayla Evleri	Aşağı Yayla Yolu=
+98741	Ömerpaşalar Köyü, Gerede Yolu Mevkii	
+18105	Ömerpaşalar Köyü, Yeni Mevkii	Hatipler@|Yeni Mahalle Yolu=
+18104	Ömerpaşalar Köyü, Çimencik Yaylası Yayla Evleri	Çimencik Yaylası Yolu=
+18107	Ömerpaşalar Köyü, Ömerpaşalar Merkez Mevkii	Azaplar Mahalle Yolu=|Ömerpaşalar Köy Yolu=

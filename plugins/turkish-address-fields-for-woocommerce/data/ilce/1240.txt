@@ -1,0 +1,325 @@
+91377	Adaköy Köyü, Bıçakcıoğlu Mevkii	Bıçakcıoğlu=
+91376	Adaköy Köyü, Merkez Mevkii	Merkez=
+91378	Adaköy Köyü, İbadioğlu Mevkii	İbadioğlu=
+91245	Ahatlı Köyü, Ellezli Mevkii	380.~|381.~|382.~|383.~|384.~|385.~|386.~|387.~|388.~|389.~|390.~|391.~|392.~|393.~|394.~|395.~|396.~|397.~|398.~|399.~|400.~|401.~|402.~|403.~|404.~|405.~|406.~|407.~|408.~|409.~|52.~|82.~|Osb%
+91247	Ahatlı Köyü, Gemeçler Mevkii	430.~|431.~|432.~|433.~|434.~|435.~|436.~|437.~|438.~|439.~|440.~|441.~|442.~|443.~|444.~|445.~|446.~|447.~|448.~|449.~|450.~|451.~|452.~|453.~|454.~|455.~|456.~|457.=|52.~|82.~|85.~|Katırcı~
+91246	Ahatlı Köyü, Merkez Mevkii	50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|60.~|61.~|62.~|63.~|64.~|65.~|66.~|67.~|68.~|69.~|70.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|80.~|81.~|82.~|83.~|84.~|85.~|86.~|Ahatlı@|Osb%
+91364	Akpınar Köyü	Akpınar=|Boğaz@
+91249	Akyamaç Köyü, Bahçeodası Mevkii	Bahçeodası=
+91248	Akyamaç Köyü, Kabakçılar Mevkii	Kabakçılar=
+91251	Akyamaç Köyü, Katırcılar Mevkii	580.~|581.~|582.~|583.~|584.~|8043.~|Katırcılar=|Sahilyolu@|Söğütlü@|Yayla~
+91252	Akyamaç Köyü, Yeni Mevkii	Yeni=
+91250	Akyamaç Köyü, Çelenler Mevkii	Çelenler=
+91379	Akçahatipler Köyü, Camili Mevkii	Camili=
+91380	Akçahatipler Köyü, Merkez Mevkii	Merkez=
+91254	Aliköy Köyü, Dombaycıoğlu Mevkii	Dombaycıoğlu=
+91255	Aliköy Köyü, Hatipoğlu Mevkii	Hatipoğlu=
+91253	Aliköy Köyü, Merkez Mevkii	Merkez=
+91256	Aliköy Köyü, İmamlar Mevkii	İmamlar=
+91257	Ayvazlar Köyü, Merkez Mevkii	Merkez=
+91259	Ayvazlar Köyü, Pirahmet Mevkii	760.~|761.~|762.~|763.~|764.~|765.~|766.~|767.~|768.~|769.~|770.~|771.~|772.~|773.~|774.~|775.~|776.~|777.~|950.~|Geziyolu~|Kaya~
+91260	Ayvazlar Köyü, Yeni (mücavir Alan İçi) Mevkii	760.~|950.~|951.~|952.~|953.~|954.~|955.~|956.~|957.~|958.~|Kaya~
+91258	Ayvazlar Köyü, Yeni Mevkii	Yenı=
+91471	Aşağıihsaniye Köyü, Fındık Eneti Mevkii	Fındık Eneti=
+91470	Aşağıihsaniye Köyü, Kışla Mevkii	Kışla=
+91469	Aşağıihsaniye Köyü, Merkez Mevkii	Merkez=
+91473	Aşağısarmaşık Köyü, Ahmetler Mevkii	Ahmetler=
+91475	Aşağısarmaşık Köyü, Kartallar Mevkii	Kartallar=
+91474	Aşağısarmaşık Köyü, Yeni Mevkii	Yeni=
+91472	Aşağısarmaşık Köyü, Yolcuoğlu Mevkii	Yokcular=
+91382	Basat Köyü, Epçeloğlu Mevkii	Epçeloğlu=
+91383	Basat Köyü, Kadıeli Mevkii	Kadıeli=
+91386	Basat Köyü, Karacaoğlu Mevkii	Karacaoğlan=
+91387	Basat Köyü, Kocabasat Mevkii	Ortabasat=
+91384	Basat Köyü, Kürtler Mevkii	Kürtlerr=
+91381	Basat Köyü, Tabaklar Mevkii	Tabaklar=
+91388	Basat Köyü, Yeni Mevkii	Yeni=
+91385	Basat Köyü, İmamoğlu Mevkii	İmamoğlu=
+91476	Başaran Köyü, Gebelli Mevkii	Gebelli=
+91477	Başaran Köyü, Mantıklar Mevkii	Mantıklar=
+91478	Başaran Köyü, Parpacıoğlu Mevkii	Parpacıoğlu=
+91479	Başaran Köyü, Tetikler Mevkii	Tetikler=
+91261	Burunkaya Köyü, Merkez Mevkii	Burunkaya=
+91481	Coburlar Köyü, Alibeyoğlu Mevkii	Alibeyoğlu=
+91483	Coburlar Köyü, Engel Mevkii	Engel=
+91482	Coburlar Köyü, Kavakpınarı Mevkii	Kavakpınarı.=
+91480	Coburlar Köyü, Merkez Mevkii	Merkez=
+91267	Dağüstü Köyü, Bürümcek Mevkii	Bürümcek=
+91269	Dağüstü Köyü, Düz Mevkii	Düz=
+91268	Dağüstü Köyü, Hatipler Mevkii	Hatipler=
+91270	Dağüstü Köyü, Horcinaz Mevkii	Horcinas=
+98779	Dağüstü Köyü, Çay Mevkii	
+91369	Derecikören Köyü, Derecikören Mevkii	Derecikören=
+91276	Dereköseler Köyü, Danabaşlar Mevkii	Danabaşlar=
+91273	Dereköseler Köyü, Kadılar Mevkii	Kadılar=|Kocamehmetoğlu=
+91272	Dereköseler Köyü, Kanoğlu Mevkii	Kanoğlu.=
+91274	Dereköseler Köyü, Kocamehmetoğlu Mevkii	Kocamehmetoğlu=
+91277	Dereköseler Köyü, Köse Mevkii	Köse=
+91271	Dereköseler Köyü, Oruçoğlu Mevkii	Oruçoğlu=
+91275	Dereköseler Köyü, Sakallıoğlu Mevkii	Sakallıoğlu=
+91278	Dereli Köyü	Dereli=
+91392	Dursunlar Köyü, Hatipler Mevkii	Hatipler=
+91389	Dursunlar Köyü, Kadıoğlu Mevkii	Kadıoğlu=
+91390	Dursunlar Köyü, Muslubaşoğlu Mevkii	Muslubaşoğlu=
+91391	Dursunlar Köyü, Yanıklar Mevkii	Yanıklar=
+91393	Dursunlar Köyü, Çürükçüoğlu Mevkii	Çürükçüoğlu=
+91394	Emirşah Köyü, Arıkoğlu Mevkii	Arıkoğlu=
+91397	Emirşah Köyü, Emirler Mevkii	Emirler=
+91395	Emirşah Köyü, Eserler Mevkii	Eserler=
+91396	Emirşah Köyü, Hotoğlu Mevkii	Hotoğlu=
+91279	Erenköy Köyü, Aşağı Mevkii	Aşağı=
+91280	Erenköy Köyü, Yukarı Mevkii	Yukarı=
+91281	Esenlik Köyü, Merkez Mevkii	Merkez=
+91282	Esenlik Köyü, Çay Mevkii	Çay=
+91283	Esentepe Köyü	Esentepe=
+91370	Esenyurt Köyü	Esenyurt=
+89812	Filyos Beldesi, Abacık Mah.	4.ncü~|4/1~|Kayaaltı~|Kumsal 1~|Kumsal 2~|Kumsal 3~|Kumsal 4~|Kumsal@|İsimsiz Abacık~|İskele@
+89813	Filyos Beldesi, Geriş Mah.	7.nci~|Yeşiltepe@|Yeşiltepe1~
+89814	Filyos Beldesi, Hisarönü Mah.	Ara~|Atatürk@|Belediye~|Belediye1~|Cuma Yanı@|Cuma Yanı1~|Cuma Yanı2~|Cuma Yanı3~|Eyüp Ağa~|Eyüp Ağa1~|Hocalar2~|Karanfil~|Kocamuhtarlar~|Kumsal@|Namık Kemal 1~|Namık Kemal 2~|Namık Kemal@|Namık Kemal1~|Okul~|Park@|Park1~|Park2~|Park3~|Park4~|Park5~|Park6~|Uğur Mumcu@|Uğur Mumcu2~|Uğur Mumcu3~|Uğur Mumcu4~|Çıkmaz~|Ülkeri~|İskele@|İskele1~|Şengün~|Şht.er Fikret Parlak 1~|Şht.er Fikret Parlak@|Şht.er Fikret Parlak3~
+89815	Filyos Beldesi, Kocaali Mah.	Cuma Yanı@|Hocalar@|Hocalar1~|Hocalar2~|Huzur~|Huzur1~|Kayaaltı 1.~|Kayaaltı~|Mimar Sinan@|Seyrekler~|Yamaç~|Yankınlar~|Yarımca@|Çeşme~|Çeşme1~|Çeşme2~|İskele@|Ş.k.çavuş Sezai Karabulut 2~|Ş.k.çavuş Sezai Karabulut 3~|Ş.k.çavuş Sezai Karabulut@|Ş.k.çavuş Sezai Karabulut1@|Şht.er Fikret Parlak 2~|Şht.er Fikret Parlak@
+89817	Filyos Beldesi, Sefercik Mah.	5.nci~|6./1~|6.ncı~|Irmak 3~|Irmak 4~|Irmak@|Irmak1~|Irmak2~|Irmak5~
+89816	Filyos Beldesi, Öteyüz Mah.	1.~|2.~|3.~|Ahmet Yesevi@|Atatürk@|Beyler 1~|Beyler 2~|Beyler 3~|Beyler 4~|Beyler 5~|Beyler 6~|Beyler 7~|Beyler@|Cami~|Dispanser 1~|Dispanser~|Faik Akbay 1~|Faik Akbay@|Hatip Pınar~|Haşim Köktürk~|Irmak1~|Irmak2~|Karacalar 1~|Karacalar~|Karagözler~|Karapınar 1~|Karapınar 2~|Karapınar 3~|Karapınar 4~|Karapınar 5~|Karapınar 6~|Karapınar 7~|Karapınar@|Kaçarlar~|Kooperatif~|Mersinlik 1~|Mersinlik 2~|Mersinlik 3~|Mersinlik~|Namık Kemal@|Okul~|Papatya~|Park@|Postacılar 1~|Postacılar~|Rüzgarlı 1~|Rüzgarlı 2~|Rüzgarlı~|Uzunlar~|Uğur Mumcu 1~|Uğur Mumcu@|Uğur Mumcu3~|Çakmakçılar 1~|Çakmakçılar@|İsmail Hakkı Güngör~|İsmet Paşa 1~|İsmet Paşa 2~|İsmet Paşa@|Şht.kd.üstğ.necati Gürkaya@
+81013	Gemiciler Mah.	6010~|6071.~|6072.-~|6073.-~|6074.-~|6077.~|6078.-~|6079.-~|Abdurrahman Gemici@|Alagözler@|Arslanlar~|Ataman~|Bakır~|Balkan@|Berat~|Demirciler@|Esen~|Fidan~|Gazi@|Gedikler@|Gökhan Veli Kişioğlu@|Kabuklar@|Kredi~|Mercan~|Mesut~|Sahilyolu@|Salkım~|Söğütlü@|Yayla~|Yıldırım~|Şabandere~|Şehit Nazım Gemici@
+91289	Geriş Köyü, Durduoğlu Mevkii	350.~|871.~
+91287	Geriş Köyü, Orta Mevkii	Geriş@
+91286	Geriş Köyü, Recepoğlu Mevkii	810.~|811.~|812.~
+91288	Geriş Köyü, Salihoğlu Mevkii	840.~|841.~|Geriş@
+91284	Geriş Köyü, Çay Mevkii	250.~|251.~|252.~|253.~|254.~|255.~|256.~|Ankara@|Durduoğlu~|Geriş@|Kayıkçılar@|Ray~|Çay Küme~
+91285	Geriş Köyü, Şabanoğlu Mevkii	870.~|871.~|Geriş@
+91371	Gökçeler Köyü	Gökçeler=
+91491	Gökçetabaklar Köyü, Helimler Mevkii	Kerimler=
+91490	Gökçetabaklar Köyü, Köstebekler Mevkii	Köstebekler=
+91489	Gökçetabaklar Köyü, Merkez Mevkii	Merkez=
+91292	Güdüllü Köyü, Eymür Mevkii	Eymür=|Kadıoğlu Merkez=
+91290	Güdüllü Köyü, Merkez Mevkii	Merkez=
+91291	Güdüllü Köyü, Yukarı Mevkii	Yukarı=
+91492	Güzeloğlu Köyü, Hacı Karısı Mevkii	Hacı Karısı=
+91495	Güzeloğlu Köyü, Hatipoğlu Mevkii	Hatipoğlu=
+91493	Güzeloğlu Köyü, Çökelezler Mevkii	Çökelezler=
+91294	Güzelyaka Köyü, Gebeşler Mevkii	Gebeşler=
+91295	Güzelyaka Köyü, Odabaşoğlu Mevkii	Odabaşoğlu=
+91293	Güzelyaka Köyü, Oruçlar Mevkii	Oruçlar=
+91296	Güzelyaka Köyü, Zobalaklar Mevkii	Zobalaklar=
+91299	Güzelyurt Köyü, Akçaköy Mevkii	Akçaköy=
+91298	Güzelyurt Köyü, Budaklar Mevkii	Budaklar=
+91300	Güzelyurt Köyü, Demirciler Mevkii	Demirciler=
+91297	Güzelyurt Köyü, Elbisi Mevkii	Elbisi=
+91399	Hacıibadi Köyü, Baloğlu Mevkii	Baloğlu=
+91403	Hacıibadi Köyü, Hamdiloğlu Mevkii	Hamdiloğlu=
+91402	Hacıibadi Köyü, Kaptanlar Mevkii	Kaptanlar=
+91398	Hacıibadi Köyü, Kozlar Mevkii	Kozlar=
+91401	Hacıibadi Köyü, Kozoğlu Mevkii	Kozoğlu=
+91404	Hacıibadi Köyü, Merkez Mevkii	Merkez=
+91400	Hacıibadi Köyü, Çubukçu Mevkii	Çubukçular=
+91499	Hacılar Köyü, Acarlar Mevkii	Acarlar=
+91501	Hacılar Köyü, Arapoğlu Mevkii	Arapoğlu=
+91498	Hacılar Köyü, Aşağı Mevkii	Atatürk@|Aşağı=
+91500	Hacılar Köyü, Durcanlar Mevkii	Durcanlar=
+91496	Hacılar Köyü, Kavukoğlu Mevkii	Kavukoğlu=
+91502	Hacılar Köyü, Sarıkum Mevkii	Atatürk@|Sarıkum=
+91497	Hacılar Köyü, Yukarı Mevkii	Yukarı=
+91406	Hacıosmanlar Köyü, Akçalar Mevkii	Akçalar=
+91407	Hacıosmanlar Köyü, Kekeş Mevkii	Kekeç=
+91405	Hacıosmanlar Köyü, Merkez Mevkii	Merkez=
+91411	Helvacılar Köyü, Ahmetbaşaoğlu Mevkii	Ahmetbaşoğlu=
+91416	Helvacılar Köyü, Aşağıkıyı Mevkii	Aşağıkıyı=
+91415	Helvacılar Köyü, Hasanbeyler Mevkii	Hasanbeyler=
+91409	Helvacılar Köyü, Kurumsalar Mevkii	Kurumsalar=
+91414	Helvacılar Köyü, Mantarcıoğlu Mevkii	Mantarcıoğlu=
+91408	Helvacılar Köyü, Sarıözler Mevkii	Sarıözler=
+91412	Helvacılar Köyü, Sinanlar Mevkii	Sinanlar=
+91410	Helvacılar Köyü, Ünsallar Mevkii	Ünsallar=
+91413	Helvacılar Köyü, Şabanoğlu Mevkii	Merkez=|Şabanoğlu=
+91301	Kadıoğlu Köyü, Merkez Mevkii	Eymür=|Kadıoğlu Merkez=
+91302	Kadıoğlu Köyü, Çitmeciler Mevkii	Çitmeciler=
+91303	Kadıoğlu Köyü, Çobanhasanlar Mevkii	Çobanhasanlar=
+91515	Kahvecioğlu Köyü, Kirazoğlu Mevkii	Kirazoğlu=
+91516	Kahvecioğlu Köyü, Merkez Mevkii	Merkez.=
+91514	Kahvecioğlu Köyü, Yeni Mevkii	Yeni=
+91513	Kahvecioğlu Köyü, Çavuşlar Mevkii	Çavuşlar=
+91304	Kalafatlı Köyü, Kayım Mevkii	Kayım=
+91305	Kalafatlı Köyü, Merkez Mevkii	Demirciler=|Merkez=
+91306	Kalaycıoğlu Köyü	Kalaycıoğlu=
+91334	Kalaycıoğlu Köyü, Yanıklar Mevkii	Yanıklar=
+91419	Karaahmetler Köyü, Dervişoğlu Mevkii	Dervişoğlu=
+91417	Karaahmetler Köyü, Köloğlu Mevkii	Köloğlu=
+91418	Karaahmetler Köyü, Sakaoğlu Mevkii	Sakaoğlu=
+91522	Karakoç Köyü, Hocaoğlu Mevkii	Hocaoğlu=
+91518	Karakoç Köyü, Kuloğlu Mevkii	Kuloğlu=
+91520	Karakoç Köyü, Lazlar Mevkii	Lazlar=
+91517	Karakoç Köyü, Marangeli Mevkii	Marangeli=
+91519	Karakoç Köyü, Merkez Mevkii	Merkez=
+91521	Karakoç Köyü, Ocakçıoğlu Mevkii	Ocakçığlu=
+140713	Karalar Mah.	8000.~|8001.~|8018.~|8029.~|8031.~|8043.~|8046.~|8056.~|Akasya~|Arpa~|Aydoğan Cengiz~|Demirci~|Dere Yanı~|Değirmenyolu~|Filyos@|Gündüz~|Huzur~|Kültür~|Melih~|Odayanı~|Okul Önü~|Orman~|Pehlivanoğlu@|Veliköyü@|Yılmaz~
+91308	Karamusa Köyü, Aydınlar Mevkii	150.~|151.~|152.~|153.~|154.~|155.~|156.~|157.~|158.~|159.~|160.~|161.~|Arka Yol@|Aydınlar@|Cami~|Depo~|Mezarlık~|Turuncu~|Türbe~
+91309	Karamusa Köyü, Dedeler Mevkii	300.~|301.~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|310.~|311.~|312.~|313.~|314.~|315.~|316.~|317.~|318.~|327.-~|328.~|329.~|Aydınlar@|Bekirler~|Dedeler@|Ecidler~|Eğitim~|Hızar~|Kaya~|Nadir~|Su~|Yavuzoğlu~|Çeşme~|Çolaklar=|Özdede@|Üstyol~
+91307	Karamusa Köyü, Merkez Mevkii	Dombaycıoğlu=|Hatipoğlu=|Merkez=
+89831	Karapınar Beldesi, Aşağı Çukur Mah.	Atatürk 1~|Atatürk@|Hamza Usta 1~|Hamza Usta 2~|Hamza Usta 3~|Hamza Usta 4~|Hamza Usta~|Stadyum 1~|Stadyum 2~|Stadyum~|Taşoluk~|Temenler Çukur 13~|Temenler Çukur 16~|Temenler Çukur 17~|Temenler Çukur@|Özgür~|Şehit Sezgin Temel@|Şehit Sezgin Temel1~|Şehit Sezgin Temel2~
+89832	Karapınar Beldesi, Durmuşlar Mah.	Aydın 1~|Aydın 2~|Aydın~|Başoğlu 1~|Başoğlu~|Esenler 1~|Esenler 2~|Esenler~|Hasanbeyoğlu 1.~|Hasanbeyoğlu 2~|Hasanbeyoğlu 2.~|Hasanbeyoğlu 3.~|Hasanbeyoğlu 4.~|Hasanbeyoğlu 5.~|Hasanbeyoğlu@|Onur~|Paşa~|Çakaloğlu 1~|Çakaloğlu~
+89833	Karapınar Beldesi, Merkez Mah.	Ali Yılmaz Keser 1~|Ali Yılmaz Keser 3~|Ali Yılmaz Keser~|Atatürk@|Cumhuriyet@|Dağlıoğlu 1~|Dağlıoğlu 2~|Dağlıoğlu~|Elmacıoğlu 1~|Elmacıoğlu 2~|Elmacıoğlu 3~|Elmacıoğlu 4~|Elmacıoğlu~|Gökçetorlaklar@|Memoğlu 1~|Memoğlu 2~|Memoğlu 3~|Memoğlu 4~|Memoğlu~|Milli Egemenlik 1~|Milli Egemenlik 2~|Milli Egemenlik 3~|Milli Egemenlik@|Ptt~|Recepustaoğlu~|Sarıbeyoğlu 1~|Sarıbeyoğlu 2~|Sarıbeyoğlu 3~|Sarıbeyoğlu~|Taşoluk 1~|Taşoluk~
+91494	Karapınar Beldesi, Tilkiler Mah.	Tilkiler=
+89834	Karapınar Beldesi, Torlaklar Mah.	Batak~|Büklüm~|Gökçetorlaklar 1~|Gökçetorlaklar 2~|Gökçetorlaklar 3~|Gökçetorlaklar@|Karaca 1~|Karaca 2~|Karaca 3~|Karaca 4~|Karaca 5~|Karaca~|Çakaloğlu 1~|Çakaloğlu 2~|Çakaloğlu 3~|Çakaloğlu~|Şeref~
+89835	Karapınar Beldesi, Yukarı Çukur Mah.	Elmalık~|Oda 1~|Oda~|Stadyum~|Temenler Çukur 1~|Temenler Çukur 10~|Temenler Çukur 11~|Temenler Çukur 12~|Temenler Çukur 13~|Temenler Çukur 14~|Temenler Çukur 15~|Temenler Çukur 18~|Temenler Çukur 19~|Temenler Çukur 2~|Temenler Çukur 3~|Temenler Çukur 4~|Temenler Çukur 5~|Temenler Çukur 6~|Temenler Çukur 7~|Temenler Çukur 8~|Temenler Çukur 9~|Temenler Çukur@|Çukur 1~|Çukur 2~|Çukur~|Şehit Sezgin Temel@
+91313	Kayabaşı Köyü, Günyüzü Mevkii	Günyüzü=
+91310	Kayabaşı Köyü, Halaşlı Mevkii	Halaşlı=
+91312	Kayabaşı Köyü, Merkez Mevkii	Merkez=
+91311	Kayabaşı Köyü, Çay Mevkii	Çay=
+91317	Kayıkçılar Köyü, Arıcıoğlu Mevkii	100.~|101.~|102.~|103.~|104.~|254.~|Ankara@|Arıcıoğlu~|Kayıkçılar@|Kayıkçılar Demiryolu~
+184864	Kayıkçılar Köyü, Aşağıkayıkçılar Mevkii	
+91314	Kayıkçılar Köyü, Cina Mevkii	Ankara@|Cina~|Kayıkçılar@|Salman~|Yıldızlı~|Özer~
+91318	Kayıkçılar Köyü, Hacı Mevkii	1 Nolu~|480.~|481.~|482.~|483.~|484.~|485.~|486.~|487.~|488.~|489.~|490.~|491.~|492.~|493.~|494.~|495.~|496.~|497.~|498.~|499.~|50.~|500.~|501.~|502.~|503.~|504.~|505.~|506.~|507.~|508.~|509.~|510.~|511.~|512.~|513.~|514.~|515.~|Ahatlı@|Ankara@|Ardıç~|Hacı~|Kayıkçılar Ada~|Kayıkçılar@|Osb%|Çalışkan~|Çınar Altı~
+91315	Kayıkçılar Köyü, Katırcılar Mevkii	Hacı Tahir~|Harman~|Katırcı~|Kayıkçılar@|Kayıkçılar Demiryolu~
+91316	Kayıkçılar Köyü, Mansurkadıoğlu Mevkii	630.~|636.~|680.~|Ankara@|Cumhuriyet@|Kayıkçılar@|Kayıkçılar Demiryolu~|Mansurkadıoğlu~|Terzi~|Yılmazlar~|Çayır~
+91427	Kerimler Köyü, Andıoğlu Mevkii	Andıoğlu=
+91428	Kerimler Köyü, Boyacıoğlu Mevkii	Boyacıoğlu=
+91426	Kerimler Köyü, Rahmetoğlu Mevkii	Rahmetoğlu=
+91429	Kerimler Köyü, Sancıoğlu Mevkii	Sancıoğlu=
+91425	Kerimler Köyü, Sağıroğlu Mevkii	Sağıroğlu=
+91421	Koramanlar Köyü, Cıvaklar Mevkii	Cıvaklar=
+98767	Koramanlar Köyü, Değirmen Yanı Mevkii	Köy Sokağı=
+91420	Koramanlar Köyü, Kılçallar Mevkii	Kılçallar=
+91422	Koramanlar Köyü, Merkez Mevkii	Merkez=
+91424	Koramanlar Köyü, Teceller - Bacaklar Mevkii	Teceller=
+91423	Koramanlar Köyü, Şehler Mevkii	Şehler=
+91433	Kızılbel Köyü, Kadıeli Mevkii	Kadıeli=
+91430	Kızılbel Köyü, Mahmutoğlu Mevkii	Mahmutoğlu=
+91434	Kızılbel Köyü, Masmaslar Mevkii	Masmaslar=
+91436	Kızılbel Köyü, Merkez Mevkii	Emirler=|Merkez=
+91435	Kızılbel Köyü, Sağırlar Mevkii	Sağırlar=
+91431	Kızılbel Köyü, Seferler Mevkii	Seferler=
+91432	Kızılbel Köyü, Çiller Mevkii	Çiller=
+91320	Kışla Köyü, Kırklar Mevkii	Kırklar=
+91319	Kışla Köyü, Merkez Mevkii	Merkez=|Çomranlı=
+91321	Kışla Köyü, İmamlar Mevkii	İmamlar=
+91441	Madenler Köyü, Ahmetoğlu Mevkii	Ahmetoğlu=
+91439	Madenler Köyü, Ağalar Mevkii	Ağalar=
+91440	Madenler Köyü, Emiroğlu Mevkii	Emiroğlu=
+91437	Madenler Köyü, Merkez Mevkii	Akkaşlar=|Merkez=
+91442	Madenler Köyü, Pazarlıoğlu Mevkii	Pazarlıoğlu=
+91447	Muharremşah Köyü, Kuyumcuoğlu Mevkii	Kuyumcuoğlu=
+91445	Muharremşah Köyü, Mangırlar Mevkii	Mangırlar=
+91444	Muharremşah Köyü, Merkez Mevkii	Merkez=
+91443	Muharremşah Köyü, Severler Mevkii	Severler=
+91446	Muharremşah Köyü, Yörübaş Mevkii	Yörübaş=
+91324	Muhsinler Köyü, Baklacıoğlu Mevkii	Baklacıoğlu=
+91323	Muhsinler Köyü, Kamberoğlu Mevkii	Kamberoğlu=
+91325	Muhsinler Köyü, Kamiloğlu Mevkii	Kamiloğlu=
+91328	Muhsinler Köyü, Sivriovaz Mevkii	457.=|Sivriovaz=
+91322	Muhsinler Köyü, Tabaklar Mevkii	Tabaklar=
+91329	Muhsinler Köyü, Çakmakçıoğlu Mevkii	Çakmakçıoğlu=
+91327	Muhsinler Köyü, Çakıllar Mevkii	Çakıllar=
+91326	Muhsinler Köyü, Öceboğlu Mevkii	Öceboğlu=
+91449	Musausta Köyü, Helvacılar Mevkii	Helvacılar=
+91450	Musausta Köyü, Merkez Mevkii	Merkez=
+91448	Musausta Köyü, Paşa Kahya Mevkii	Gazi Paşa@|Paşa Kahya=|İnönü@
+89823	Nebioğlu Beldesi, Karaevligeriş Mah.	Abdurrahmanlar~|Abdurrahmanlar1~|Bayrambeyoğlu 1~|Bayrambeyoğlu 2~|Bayrambeyoğlu@|Değirmen~|Mucumoğlu 1~|Mucumoğlu@|Nebioğlu Karayolu@|Pilcivanlı 1~|Pilcivanlı~|Pilcivanlı Çıkmazı~|Talat Bilsin 2~|Talat Bilsin~|Talat Bilsin1~|Çilesizoğlu 1~|Çilesizoğlu 2~|Çilesizoğlu 3~|Çilesizoğlu 4~|Çilesizoğlu@|Şemsi Denizer~
+89824	Nebioğlu Beldesi, Terziler Mah.	Avni Ermiş~|Fidanlar~|Gazi Paşa@|Gazi Paşa1~|Kırnapçılar 1~|Kırnapçılar~|Nebioğlu Karayolu@|Papatya~|Papatya1~|Paşa Kahya=|Susam~|Verim~|Verim1~|İnönü@|İnönü1~|Şükürler~
+89825	Nebioğlu Beldesi, Yeni Pazar Mah.	1. Çıkmaz~|2. Çıkmaz~|3. Çıkmaz~|Alikadıoğulları@|Alikadıoğulları1~|Atatürk@|Belediye~|Belediye1~|Cami Altı~|Cami Altı1~|Cumhuriyet 1~|Cumhuriyet@|Halil Özdal@|Karaevliçavuş 1~|Karaevliçavuş 2~|Karaevliçavuş 3~|Karaevliçavuş 4~|Karaevliçavuş~|Karanfil~|Karanfil1~|Nebi~|Nebi1~|Nebi2~|Nebioğlu Karayolu@|Pınar~|Rıza Güneş~|Yay Yeri~|Çimen~
+89826	Nebioğlu Beldesi, Yeşilyurt Mah.	Akkaşlar=|Dere~|Dere1~|Dere2~|Güler~|Güler1~|Güler2~|Güneş~|Güven~|Karaevliçavuş 1~|Karagülmezler~|Karagülmezler1~|Sipahioğlu~|Yeşil~|Yeşil1~|Yeşil2~|Yeşil3~|Çimen~
+81015	Pehlivanlar Mah.	1035.~|4002.~|4023.~|4023.-~|4034.~|4044.~|Ali Gün~|Anıt~|Arnavutlar~|Aydoğan Cengiz~|Baruönü~|Bağlar@|Bilgin~|Billur~|Burcu (veliköyü)~|Burçak~|Deniz~|Değirmenyolu~|Dibek~|Ece~|Fikirtepe~|Gündüz~|Güneş~|Güzeltepe~|Güçlü~|Hisar@|Huzur~|Kanarya~|Kaplan~|Kayın~|Koridor~|Kumru~|Kuzey~|Kültür~|Leylak~|Melih~|Muzaffer Çelik@|Mısra~|Nazlı~|Oran~|Orman Tarla~|Ozan~|Pehlivan~|Pehlivanoğlu@|Poyraz@|Sarp~|Tekin~|Tunalı Hilmi@|Yalı@|Yaman~|Yeşil~|Zafer@|Zengin~|Zübeyde Hanım~|Çakıl~|Çiğdem~|Çuhadar~|Özdemir~|Özkanlar~|İrfan~
+89818	Perşembe Beldesi, Hacı Kadı Mah.	Akoğlu~|Aksoylar.~|Akçaoğlu 1~|Akçaoğlu 2~|Akçaoğlu~|Dereboyu@|Gül~|Hacı Muhittin~|Kaymak Yemezler~|Kışla~|Lale~|Okul~|Osb%|Remzi Bey~|Sağlık Ocağı 1~|Sağlık Ocağı@|Stadyum@|Taşköprü@|Veyis Uzun~|Ziya Bey~|İsmail Durdu@
+89819	Perşembe Beldesi, Keçecioğlu Mah.	Ak Gözler~|Ak Gözler1~|Celal Bostancı~|Eğitim@|Kamil Keçeci~|Kamil Keçeci1~|Keçiören@|Köksal Toptan%|Osb%|Uzunoğlu~|Uzunoğlu1~|Yemişenler@|Yeni~|İlitler~|İncivez~
+89822	Perşembe Beldesi, Keçecioğluosb Mah.	14 Nolu~|15 Nolu Sokak~|2 Nolu Cadde@|2/1 Nolu Cadde@|2_1nolu Cadde@|9 Nolu~|Keçiören@|Osb 10 Nolu~|Osb 11 Nolu~|Osb 12 Nolu~|Osb 16 Nolu~|Osb 17 Nolu~|Osb 3 Nolu~
+89820	Perşembe Beldesi, Merkez Mah.	1.~|2.~|3.~|4.~|5.~|Akfırat Hilmi Yıldız%|Atatürk 1~|Atatürk@|Bahçe~|Belediye~|Cami~|Cengizhan~|Cevat Özyurt@|Cumhuriyet@|Dar~|Dereboyu@|Durdu~|Eğitim@|Filiz-rıfat Güpgüpoğlu@|Hacıkadı Küçük Sanayi Sitesi 1~|Hacıkadı Küçük Sanayi Sitesi 2~|Hacıkadı Küçük Sanayi Sitesi@|Huzur~|Hürriyet@|Kaptanlar~|Karanfil~|Kavun Bostanı@|Keçiören@|Köksal Toptan%|Mantarlı~|Menekşe~|Necati Bey~|Nergis~|Osb%|Papatya~|Park@|Pazaryeri~|Salih Mankaloğlu~|Sağlık@|Sağlık Ocağı@|Selim Çelebi@|Serkan~|Stadyum@|Uzaldı~|Yemişenler@|Çolakoğlu@|Çıkmaz~|Özsamey@|İnönü@
+89821	Perşembe Beldesi, Sarı Kadı Mah.	Akcami~|Bayır~|Değirmenocağı~|Eğitim@|Macar~|Macarlar~|Mahsen~|Sarıoğlu@|Sarıoğlu1~|Sarıoğlu2~|Sarıoğlu3~|Satılmış Sarı~|Sağlık Ocağı 1~|Sağlık Ocağı@|Selim Çelebi@|Yurt@|Çelebiler~|Çiller~
+91523	Ramazanoğlu Köyü, Boduklar Mevkii	Boduklar=
+91524	Ramazanoğlu Köyü, Kara Hasan Paşa Mevkii	Kara Hasan Paşa=
+89827	Saltukova Beldesi, Düz Mah.	Atatürk@|Boğaz@|Gazi@|Himmetoğlu~|Menderes@|Okul@|Okul1~|Türbe@|Türbe1.~|Türbe2.~|Türbe3.~|Türbe4.~|Türbe5.~|Çelebi~|Çelebi1~|Çelebi2~|İnam~|İnam1~|İnam2~|İnam3~
+89828	Saltukova Beldesi, Karboğaz Mah.	Aydın~|Barış~|Boğaz@|Boğaz1~|Karanfil~|Kıvanç~|Onur~|Tuğla Harmanı@|Özgür~|İsimsiz2~|İsimsiz3~|İstiklal@|Şehit Kerim Keçeci@|Şehit Ömer Halisdemir@
+89829	Saltukova Beldesi, Kokaksu Mah.	Ali Osman Yüzlü~|Atatürk@|Atatürk1~|Atatürk2~|Atatürk3~|Barbaros~|Barbaros1~|Basri Çelebi@|Belediye~|Belediye1~|Bülent Ecevit@|Cengiz Topel~|Ceylan~|Deniz~|Dilek~|Dursun Kandemir~|Edebali~|Ertuğrul Gazi~|Hakkı Akçaoğlu~|Halil Ballı~|Hasan Tiryakioğlu~|Hilal~|Hurşit Korum~|Hurşit Korum1~|Hürriyet@|Hüseyin Çakır~|Hüseyin Öztürk~|Karadeniz@|Karagöl@|Kurtuluş@|Köroğlu@|Lale~|Mehmet Akif@|Mehmet Durmuşoğlu~|Mevlana~|Orhan Gazi~|Osmanlı@|Piri Reis~|Poyraz~|Recep Durmuşoğlu~|Sadık Topcuoğlu~|Satılmış Döngeloğlu~|Tuğla Harmanı@|Uzun Mehmet@|Yunus Emre~|Yurt~|Zafer@|İdris Erdoğan@|İdris Erdoğan1~|İnönü@|İstiklal@|İstiklal1~|Şehit Ömer Halisdemir@
+89830	Saltukova Beldesi, Sarıkum Mah.	Atatürk@|Atatürk4~|Basri Çelebi@|Bayrak@|Cumhuriyet@|Ihlamur~|Karagöl@|Mehmetcik~|Satılmış Çelik~|Süvari@|Ulus@|Vatan@|Zafer@|Çayır~|İnamoğlu~|İsimsiz1~|İstiklal@|Şehit Ahmet Bulgur~|Şehit Madenci Dursun Kartal~|Şehit Madenci Engin Düzcük~|Şehit Madenci Kadir Ötgüç~|Şehit Sacit Olcay Kabaklıoğlu@
+91451	Sandallar Köyü, Ebeşler Mevkii	Ebeşler=
+91452	Sandallar Köyü, Kadir Efendioğlu Mevkii	Kadir Efendioğlu=
+98766	Sandallar Köyü, Kütükçüoğlu Mevkii	Köy Sokağı=
+91453	Sandallar Köyü, Yahyabaşıoğlu Mevkii	Yahyabaşıoğlu=
+91525	Sarmaşık Köyü, Bedekler Mevkii	Bedekler=
+91526	Sarmaşık Köyü, Hüseyin Kaptanlar Mevkii	Hüseyin Kaptanlar=
+91527	Sazköy Köyü	Sazköy=
+91487	Serdaroğlu Köyü, Merkez Mevkii	Köstebekler=|Merkez=|Pilcivanlı~|Şemsi Denizer~
+91488	Serdaroğlu Köyü, Sarıkadıoğlu Mevkii	Sarıkadıoğlu=
+91486	Serdaroğlu Köyü, Yumuklar Mevkii	Yumuklar=
+91332	Sipahiler Köyü, Kavarıcılar Mevkii	Kavarıcılar=
+91331	Sipahiler Köyü, Merkez Mevkii	Merkez=
+91330	Sipahiler Köyü, Muslubey Mevkii	Muslubey=
+140715	Sofular Mah.	Ara~|Demet~|Değirmenli~|Durdu~|Hacı Mehmet~|Karaalp~|Kiren~|Köksal~|Mezarlık Yolu~|Saman~|Saraçlar@|Sofular@|Sünnetcioğlu=|Tarla Yolu~|Veliköyü@|Çpl~|Üstünkul~|İslam~
+91363	Taşçılı Köyü, Aşağıtaşçılı Mevkii	Aşağıtaşçılı=
+91361	Taşçılı Köyü, Yukarıtaşcılı Mevkii	Yukarıtaşçılı=
+91362	Taşçılı Köyü, Yusufhanlı Mevkii	Yusufhanlı=
+91372	Temenler Köyü	Temenler=
+91339	Torlaklar Köyü, Ayılar Mevkii	Ayılar=
+91338	Torlaklar Köyü, Güneller Mevkii	Güneller=
+91337	Torlaklar Köyü, Hatıplar Mevkii	Hatipler=
+91340	Uluköy Köyü, Kalembaşı Mevkii	430.~|530.~|531.~|532.~|533.~|Kalembaşı=
+91343	Uluköy Köyü, Karşı Mevkii	Karşı=
+91341	Uluköy Köyü, Kıran Mevkii	Kıran=
+91342	Uluköy Köyü, Orta Mevkii	Orta=
+91347	Veliköy Köyü, Merkez Mevkii	
+91345	Veliköy Köyü, Miyesseler Mevkii	Miyesseler=
+91348	Veliköy Köyü, Şahnalar Mevkii	8018.~|8029.-~|8043.~|900.~|901.~|902.~|903.~|904.~|905.~|906.~|907.~|908.~|909.~|910.~|911.~|912.~|913.~|914.~|915.~|916.~|917.~|918.~|Filyos@
+81016	Velioğlu Mah.	Afet Evleri Myd.|Afet~|Aktaş@|Akça~|Arslan~|Ata@|Atçayırı~|Ayazma@|Berivan~|Cengiz Topel@|Dağ~|Eflatun~|Ekim~|Ekol~|Erdoğdu~|Eylül~|Iraz@|Kadife~|Karaçalı~|Kasım~|Kestane~|Keten~|Kuyu~|Meriç~|Merkez@|Mimoza~|Namaztepe@|Narçiçeği~|Neşe~|Nisan~|Organize Sanayi-~|Osb%|Paşaoğlu~|Petekli~|Pınar@|Reis~|Sahra~|Samur~|Samyeli@|Sedef~|Serçe~|Sudenaz~|Toper~|Ulaş~|Uğurlu~|Vuslat~|Yalçın~|Yüksel~|Zakkum~|Çakmak~|Çalıkuşu~|Çarşamba~|Çoban Yıldızı~|Ümit@|İnce~|İpek~|Şirin~
+81019	Velioğluosb Mah.	Osb 1 Nolu~|Osb 10 Nolu~|Osb 11 Nolu~|Osb 12 Nolu~|Osb 13 Nolu~|Osb 15 Nolu~|Osb 16 Nolu~|Osb 17 Nolu~|Osb 3 Nolu~|Osb 4 Nolu~|Osb 5 Nolu~|Osb 6 Nolu~|Osb 7 Nolu~|Osb 8 Nolu~|Samyeli@
+91349	Yakademirciler Köyü, Karagözler Mevkii	Karagözler=
+91350	Yakademirciler Köyü, Salihler Mevkii	Salihler=
+91351	Yakademirciler Köyü, Sünnetçioğlu Mevkii	Bostancılar=|Sünnetcioğlu=
+91466	Yazıbaşı Köyü, Demirciler Mevkii	Demirciler=
+91465	Yazıbaşı Köyü, Kocamanlar Mevkii	Kocamanlar=
+91467	Yazıbaşı Köyü, Macarlar Mevkii	Macarlarr=
+91464	Yazıbaşı Köyü, Merkez Mevkii	Merkez=
+91468	Yazıköy Köyü	Yazıköy=
+81017	Yeni Mah.	15 Temmuz Demokrasi Meydanı Myd.|2005.~|2015.~|2016~|2017~|2018~|2019.-~|2020.-~|2021.~|2022.~|2023.~|2023.-~|2024.~|2025.~|2026.~|2029.~|2032.~|2037.~|2040.~|Acar~|Ada~|Akgün~|Akın~|Atatürk%|Atatürk Meydanı Myd.|Aydınlık@|Bahar~|Barbaros@|Barkın~|Barış@|Behçet Kalaycı~|Belediye Sosyal Tesisler=|Beyler~|Bilim~|Bilkent~|Birlik~|Burcu~|Cennet~|Cezaevi~|Cihan@|Dar~|Defne~|Deniz Kızı Myd.|Derin~|Deva~|Doğu~|Düz~|Düş~|Ekin~|Elit~|Elmalı@|Emek~|Erenler@|Esenlik~|Fevzi Çakmak@|Garip~|Geziyolu@|Girgin~|Gonca~|Gözde~|Güllü~|Güllük@|Gülsuyu~|Gümüş~|Günce~|Günebakan~|Güneş Müftüoğlu~|Halil Bey@|Halit Tokullugil~|Han~|Hanımeli~|Has~|Hasan Ataman~|Hürriyet@|Işık~|Kahyaoğlu@|Kaktüs~|Karaağaç~|Karaağaçlık~|Karayolları Meydanı Myd.|Kavaklıtarla~|Kaya~|Kaydır~|Kaşbaşı~|Kelebek~|Kiraz~|Kocabeyler~|Korudüzü@|Koşu Yolu@|Kurtuluş@|Kuşkonmaz~|Kök Celal~|Köktürk~|Köprübaşı Myd.|Kültür Meydanı Myd.|Kısa~|Metin~|Mimar Sinan@|Mimar~|Muhtar Talat Özcan~|Mühürlü~|Mısırlı~|Nehir~|Nihat Kantarcı@|Nihat Kantarcı Meydanı- Myd.|Nilüfer~|Odabaş~|Oktay-olcay Yurtbay@|Okul~|Onur~|Orta~|Ortanca~|Palmiye~|Prof.ilhan Tekeli~|Rüya~|Sadık Tekin Müftüoğlu@|Saka~|Sedir~|Selvi~|Serhat~|Serin~|Seymen~|Sinan~|Siteler@|Tetik~|Tunç~|Tuğrul Müftüoğlu@|Türkmen~|Utku~|Uzaldı@|Uğur Mumcu@|Vefa~|Yabangülü~|Yalı@|Yalın~|Yaprak~|Yaren~|Yemen~|Yokuş~|Yıldız~|Ziver~|Ziya Mısırlı~|Çapçılar Myd.|Çavdar~|Çay~|Çolak~|Çıkmaz~|Özgün~|İlim~|Şahin~|Şehit İzzet Demircan@|Şemsi Denizer@
+91528	Yeniköy Köyü	Yeniköy=
+91529	Yeşilköy Köyü	Yeşilköy=
+81018	Yeşiltepe Mah.	1000.-~|1003.-~|1004.-~|1006.-~|1007.-~|1010.-~|1011.-~|1012.-~|1013.-~|1014.-~|1036.-~|1038.-~|1039.-~|1041.-~|1042.-~|1043-~|1044.-~|1045.-~|1046.-~|1047.-~|1048.-~|1049.-~|1050.-~|1051.-~|1056.-~|1057.-~|3048.~|Ahatoğlu~|Akçay~|Berberoğlu~|Cami Yanı~|Cuma~|Gümüşok~|Kadıoğlu~|Karamusa~|Maltepe@|Marangoz~|Nar~|Rıza Yelkenci~|Taşköprü@|Türbe@|Zincirlikuyu@|Çelik~|Özkan~|Şehit Aydın@
+91530	Yeşilyayla Köyü	Yeşilköy=|Yeşilyayla=
+91353	Yeşilyurt Köyü	Yeşilyurt=
+91356	Yolgeçen Köyü, Başörenler Mevkii	Başörenler=
+91355	Yolgeçen Köyü, Gülşenler Mevkii	Gülşenler=|Marangeli=
+91354	Yolgeçen Köyü, Merkez Mevkii	Merkez=
+91360	Yukarıdere Köyü, Aşağı Mevkii	Aşağı=
+91358	Yukarıdere Köyü, Bostancılar Mevkii	Bostancılar=
+91359	Yukarıdere Köyü, Orta Mevkii	Orta=
+91357	Yukarıdere Köyü, Yukarı Mevkii	Yukarı=
+91375	Yukarıgöynük Köyü, Merkez Mevkii	Merkez=
+91373	Yukarıgöynük Köyü, Peyenli Mevkii	Peyenli=
+91374	Yukarıgöynük Köyü, Salmanlar Mevkii	Salmanlar=
+91533	Yukarıihsaniye Köyü, Kaşıkçılar Mevkii	Kaşıkçılar=
+91531	Yukarıihsaniye Köyü, Merkez Mevkii	Merkez=
+91534	Yukarıihsaniye Köyü, Yukarı Mevkii	Yukarı.=
+91532	Yukarıihsaniye Köyü, Şenköy Mevkii	Şenköy.=
+91484	Çamlık Köyü	Çamlık=
+81012	Çay Mah.	1000.-~|1001.-~|1002.-~|1003.-~|1004.-~|1005.-~|1006.-~|1007.-~|1008.-~|1009.-~|1010.-~|1014.~|1015.~|1016.-~|1017.-~|1018.-~|1019.-~|1020.-~|1021.-~|1022.-~|1023.-~|1024.-~|1025.-~|1026.~|1027.-~|1028.-~|1029.-~|1030.~|1030.-~|1031.-~|1032.-~|1033.-~|1034.-~|1035.~|1036.-~|1037.-~|1038.-~|1040.-~|1052.-~|1053.-~|1054.-~|1055.-~|Abdullah Kalaycı@|Ahatoğlu~|Akar~|Akbaş~|Alemdar~|Armağan~|Arzum Sitesi=|Asmalı~|Atatürk%|Badem (veliköyü)~|Bahadır~|Balat@|Ballı~|Bayraklı~|Bayır~|Başak~|Beril~|Bilge~|Boncuk (veliköyü)~|Bulut~|Burcu (veliköyü)~|Burunsuz~|Cevizli~|Cumhuriyet Meydanı Myd.|Demet~|Dere~|Dilay~|Doğa~|Doğancı~|Doğantepe@|Doğuş~|Dr.sezai Öztürk~|Döner~|Erdem~|Erdemli~|Erişim~|Esengin@|Esma~|Filiz~|Gören~|Gün@|Güneş Müftüoğlu~|Hakkı~|Hamam~|Hasan Gemici@|Hastane~|Hilal~|Hocaoğlu~|Hüseyin Çakır@|Hüsnü Kalaycı@|Hızır~|Kahyaoğlu@|Karakol~|Kazım Karabekir~|Kemal Paşa@|Kent~|Kirazlı~|Kocaağalar~|Konak~|Korkmaz~|Koçcuk~|Kılıç~|Kısmet~|Lavanta~|Lennestadt@|Maltepe@|Malçık~|Menekşe~|Metin Yurtbay@|Meydan~|Mimar Sinan@|Mustafa Zeren~|Mülazım~|Namık Kemal~|Nida~|Nihat Kantarcı@|Orhan Yardımcı~|Pazar~|Peker~|Polis~|Rauf Orbay~|Saray~|Sevgi~|Sofular@|Sorun~|Temel~|Topbaşı~|Tuna@|Umut~|Varlık~|Veli@|Veliköyü@|Yadigar~|Yakıcı~|Yamaç~|Yeşim~|Zümrüt~|Çapçılar Myd.|Çark~|Çay Gazi~|Çağan~|Çpl~|Çınar~|Ömer Kalaycı@|Öncü~|Özak~|Ünsal~|Üçlü~|İnönü Myd.|İstiklal@|Şadırvan~|Şanslı (veliköyü)~|Şehit Sacit Olcay~|Şifa~
+91365	Çayköy Köyü	Çayköy=
+98768	Çayköy Köyü, Dağüstü Mevkii	Türbe@
+91265	Çayır Köyü, Ayıcıoğlu Mevkii	Ayıcıoğlu=
+91264	Çayır Köyü, Başkancı Mevkii	Başkancı=
+91263	Çayır Köyü, Göçler Mevkii	Göçler=
+91262	Çayır Köyü, Merkez Mevkii	Merkez=
+91266	Çomranlı Köyü	Çomranlı=
+91485	Çorak Köyü	Çorak=
+91366	Çömlekçi Köyü, Orta Mevkii	Orta=
+91367	Çömlekçi Köyü, Yukarı Mevkii	Yukarı=
+91368	Çömlekçi Köyü, Öteyüz Mevkii	Öteyüz=
+91503	İhsanoğlu Köyü, Bostancıoğlu Mevkii	Bostancıoğlu=
+91509	İhsanoğlu Köyü, Bıçakçıoğlu Mevkii	Bıçakçıoğlu=
+91504	İhsanoğlu Köyü, Demircioğlu Mevkii	Demircioğlu=
+91505	İhsanoğlu Köyü, Eysanlar Mevkii	Eysanlar=
+91506	İhsanoğlu Köyü, Geriş Mevkii	Geriş=
+91507	İhsanoğlu Köyü, Hacı Kıramanlar Mevkii	Hacı Kıramanlar=
+91508	İhsanoğlu Köyü, Kalafatlar Mevkii	Kalafatlar=
+91511	İhsanoğlu Köyü, Kuyu Mevkii	Kuyu=
+91512	İhsanoğlu Köyü, Merkez Mevkii	Kuyu=|Merkez=
+91510	İhsanoğlu Köyü, Pazar Yeri Mevkii	Pazar Yeri=
+81014	İstasyon Mah.	5013.~|Ahatlı@|Alaca~|Alparslan~|Armutlu~|Ay~|Aydın~|Ayvalık~|Bartın Yolu@|Beyazgül~|Beyazıt~|Buğday~|Büyükdere~|Cem~|Cemre~|Cengiz Topel@|Darlık~|Demiryolu@|Derman~|Derviş~|Devran~|Değirmen@|Doğal~|Doğan~|Efes~|Elmas~|Elvan~|Emniyet~|Eren~|Esmer~|Evren~|Fatih@|Fazilet~|Fetih@|Fidanlık~|Gazi~|Geldi~|Gökhan Veli Kişioğlu@|Göl~|Gönül@|Göçmen~|Gül~|Güven~|Hacılar~|Hoşnut~|Iraz@|Karagöl~|Kardeş~|Kavaklı~|Kavram~|Kenan Aydın@|Kervan~|Koray~|Koru~|Kredi~|Küçük~|Kırçiçeği~|Lacivert~|Lale~|Manolya~|Mermer~|Metanet@|Mevlana~|Meşe~|Mine~|Nur~|Orta Hisar@|Osb%|Osman Metin Yurtbay@|Petek~|Rüzgarlı~|Sanayi Sitesi 1.~|Sanayi Sitesi 2.~|Sanayi Sitesi 3.~|Sanayi Sitesi 4.~|Sanayi Sitesi 5.~|Sanayi Sitesi 6.~|Sanayi Sitesi 7.~|Sanayi~|Seval~|Seyran~|Sosyal Tesis~|Sümbül~|Taflan~|Tan~|Tandoğan@|Terminal Myd.|Türker~|Ufuk~|Vali İsmet Metin~|Yaşar Doğu@|Yeşil Sanayi 1.~|Yeşil Sanayi 2.~|Yeşil Sanayi 3.~|Yeşil Sanayi 4.~|Yeşil Sanayi 5.~|Yeşil Sanayi 6.~|Yeşil Sanayi 7.~|Yeşil Sanayi 8.~|Yeşil Sanayi 9.~|Yeşilyurt~|Yonca~|Yunus~|Yurt~|Çalışkan~|Çamlık~|Çilingir~|Çimen~|Çınarlı~|Özcan~|Özgür~|Üstün~|İnci~|İncirlik~|İstanbul@|İstasyon@|İstasyon Meydanı Myd.|İstaş~|Şafak~|Şen~
+91459	Şehler Köyü, Ahmet Beyoğlu Mevkii	Ahmet Beyoğlu=
+91458	Şehler Köyü, Alagözler Mevkii	Alagözler=|Merkez=
+91461	Şehler Köyü, Hacı Muharremoğlu Mevkii	Hacı Muharremoğlu=
+91463	Şehler Köyü, Merkez Mevkii	Merkez=
+91462	Şehler Köyü, Pirkadı Mevkii	Pirkadı=
+91460	Şehler Köyü, Ramazankadı Mevkii	Razaman Kadı=
+91455	Şenköy Köyü, Hamzaoğlu Mevkii	Hamzaoğlu=
+91456	Şenköy Köyü, Katırcıoğlu Mevkii	Katırcıoğlu=
+91457	Şenköy Köyü, Palazoğlu Mevkii	Palazoğlu=
+91454	Şenköy Köyü, İnceahmetler Mevkii	İnceahmetler=
+91335	Şeyhoğlu Köyü, Gebeşler Mevkii	Gebeşler=
+91333	Şeyhoğlu Köyü, Merkez Mevkii	Merkez=
+91336	Şeyhoğlu Köyü, Çay Mevkii	Çay=

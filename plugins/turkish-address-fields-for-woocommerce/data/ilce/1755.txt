@@ -1,0 +1,24 @@
+31424	Akçaşar Mah.	Asar 1~|Asar 2~|Asar~|Harman 2~|Hava Pilot Kurmay Albay Mehmet Rıza Şenol~|Mehmet Akif Ersoy@
+31425	Bahçeli Mah.	Eski Yol~|Gökmehmetler~|Harman 1~|Harman 3~|Harman 4~|Harman 5~|Kerimler 1~|Kerimler~|Mehmet Akif Ersoy 2@|Mehmet Akif Ersoy 4@|Yandımkırı Mevkii 1~|Yandımkırı Mevkii 10~|Yandımkırı Mevkii 11~|Yandımkırı Mevkii 12~|Yandımkırı Mevkii 13~|Yandımkırı Mevkii 14~|Yandımkırı Mevkii 15~|Yandımkırı Mevkii 16~|Yandımkırı Mevkii 17~|Yandımkırı Mevkii 18~|Yandımkırı Mevkii 19~|Yandımkırı Mevkii 2~|Yandımkırı Mevkii 20~|Yandımkırı Mevkii 21~|Yandımkırı Mevkii 22~|Yandımkırı Mevkii 3~|Yandımkırı Mevkii 4~|Yandımkırı Mevkii 5~|Yandımkırı Mevkii 6~|Yandımkırı Mevkii 7~|Yandımkırı Mevkii 8~|Yandımkırı Mevkii 9~|Yandımkırı Mevkii~
+39375	Eldere Köyü	Eldere=
+39376	Elecik Köyü	Elecik=
+31427	Hürriyet Mah.	Akhüseyınler Zından=|Cami~|Cumhuriyet 3-@|Hatipler~|Hüseyin Turgut Tosun 1~|Hüseyin Turgut Tosun@|Mehmet Süreyya Demiraslan 2@|Poyraz 2~|Poyraz 3~|Poyraz 4~|Çay Yolu@
+39377	Karacahisar Köyü	Karacahisar=
+39378	Karağı Köyü	Karağı=
+39379	Katip Köyü	Katip=
+39380	Koçular Köyü	Koçular=
+31429	Kurtuluş Mah.	Karabacaklar~
+39381	Kösre Köyü	Kösre=|Mehmet Akif Ersoy@
+31430	Orta Mah.	Afetevler 1~|Afetevler 2~|Akıllar 1~|Akıllar~|Cami 1~|Cami 2~|Cami~|Cumhuriyet 2@|Gül~|Hastane@|Hüseyin Turgut Tosun@|Poyraz 2~|Poyraz 3-~|Çay Yolu@
+31431	Pazarcık Mah.	Eski Yol~|Hacılar~|Kavaklar 1~|Kavaklar~|Kocaarık 1~|Kocaarık~|Mehmet Akif Ersoy 1@|Mehmet Akif Ersoy 2@|Ramazan Ağaoğlu 1~|Ramazan Ağaoğlu@|Tarım 1~|Tarım 2~|Tarım 3~|Tarım~|Çay Yolu@
+39382	Sofular Köyü	Sofular=
+31432	Tepe Mah.	Eski Yol~|Hacılar 1~|Hacılar~|Kanal Üstü 1~|Kanal Üstü 2~|Kanal Üstü~|Kerimler 1~|Kerimler~|Mehmet Akif Ersoy 2@|Tepe Kent 1~|Tepe Kent 2~|Tepe Kent 3~|Çavuşlar~|İstikbal~
+39383	Terziler Köyü	Terziler=
+39384	Yaka Köyü	Yaka=
+31434	Yakaafşar Köyü, Mantaklar Mevkii	Aksu Yenişerbademli Yolu~|Ayrancı 1~|Ayrancı 2~|Ayrancı~|Hamitler~|Kalender~|Kılınç~|Mantaklar 1~|Mantaklar 2~|Mantaklar 4~|Mantaklar~|Uzun.~|Vatan~|Çamlıbel~|İstiklal 2-~
+31435	Yakaafşar Köyü, Yukarı Mevkii	101~|102~|103~|104~|108~|109~|110=|111~|Aksu Yenişerbademli Yolu 2~|Atatürk~|Dar..~|H.hüseyin -~|Kamburlar~|Yukarı~|Yılmazlar~|Çiçekler~|Çıkmaz 1~|İstiklal 1~
+31433	Yakaafşar Köyü, İmamlar Mevkii	105~|106~|107~|109~|111~|Aksu Yenişerbademli Yolu 1~|Aksu Yenişerbademli Yolu 2~|Aksu Yenişerbademli Yolu~|Atatürk~|Cumhuriyet~|Kamburlar~|Macırlar~|Süldür~|Uzun.~|Vatan~|İmamlar 1~|İmamlar 2~|İmamlar=|İstiklal 1~|İstiklal 2~|Ş. Ali Kaya~
+39386	Yukarıyaylabel Köyü	Yukarıyaylabel=
+39385	Yılanlı Köyü	Yılanlı=
+31426	Çay Mah.	Akhüseyinler~|Akhüseyınler Zından=|Karabacaklar~|Karağı1=|Kocaarık~|Kocabıyıklar~|Mehmet Süreyya Demiraslan 1@|Çay Yolu@
+31428	İstiklal Mah.	Afetevler 1~|Cumhuriyet 1@|Gül~|Hastane 1~|Hastane 2~|Hastane@|Hüseyin Turgut Tosun@|Kocabaşlar 1~|Kocabaşlar~|Kürecik Yolu 1=|Kürecik Yolu=|Mehmet Akif Ersoy 3@|Poyraz 1~|Tir~|Yeşilanamas 1~|Yeşilanamas 2~|Yeşilanamas 3~|Yeşilanamas 4~|Yeşilanamas 5~|Yeşilanamas 6~|Yeşilanamas=|Çay Yolu@

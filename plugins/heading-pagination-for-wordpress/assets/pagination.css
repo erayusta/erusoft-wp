@@ -1,0 +1,26 @@
+.eru-hp-toc {
+	border: 1px solid rgba(127, 127, 127, .3);
+	border-radius: 8px;
+	padding: 1em 1.2em;
+	margin: 0 0 1.6em;
+}
+.eru-hp-toc__title { margin: 0 0 .4em; font-weight: 700; }
+.eru-hp-toc ol { margin: 0; padding-left: 1.3em; }
+.eru-hp-toc li { margin: .2em 0; }
+.eru-hp-toc li.is-current > a { font-weight: 700; text-decoration: none; }
+.eru-hp-nav {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: .8em;
+	margin: 2em 0 0;
+}
+.eru-hp-nav a {
+	flex: 1 1 14em;
+	border: 1px solid rgba(127, 127, 127, .3);
+	border-radius: 8px;
+	padding: .8em 1em;
+	text-decoration: none;
+}
+.eru-hp-nav a span { display: block; font-size: .8em; opacity: .7; }
+.eru-hp-nav__next { text-align: right; margin-left: auto; }

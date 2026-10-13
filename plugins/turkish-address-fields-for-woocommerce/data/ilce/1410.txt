@@ -1,0 +1,230 @@
+48119	Akgüney Köyü, Fidimse Mevkii	Fidimse=
+48118	Akgüney Köyü, Merkez Mevkii	Merkez=
+48120	Akkonak Köyü, Merkez Mevkii	Merkez=
+48121	Aktaş Köyü	Köyün Kendisi=
+48117	Akçay Köyü, Hacı Mevkii	Hacı=
+48116	Akçay Köyü, Merkez Mevkii	Merkez=
+48122	Alaca Köyü, Merkez Mevkii	Merkez=
+48123	Alaca Köyü, Selam Mevkii	Selam=
+48128	Atabeyli Köyü, Karşı Mevkii	Karşı=
+48129	Atabeyli Köyü, Merkez Mevkii	Merkez=
+48127	Atabeyli Köyü, Çorak Mevkii	Çorak=
+41874	Avara Mah.	Ay~|Cami~|Celasinkarakocaoğlu~|Duman~|Fakazlı~|Gemiyeri~|Hacıyahya~|Işık~|Kara~|Karakocaoğlu-~|Kaşgarlı Mahmut~|Kuşçubuğu~|Mehmetakif@|Mırmıroğlu~|Mızrak~|Namıkkemal@|Orhan Veli~|Poyraz~|Soğucaksu~|Tepe~|Tuna~|Uluyaz~|Zencefil~|Ziyapaşa@|Çağ~|Şehit Astsubay Başçavuş Ömür Gülünay~|Şehit Astsubay Çavuş Muharrem Öğütçü~|Şehit Sözleşmeli Er Cuma Bağatur~|Şehiterrahmiyılmazer@
+48130	Ayvaköy Köyü	Köyün Kendisi=
+48132	Ayvat Köyü, Kadıoğlum Mevkii	Kadıoğlum=
+48131	Ayvat Köyü, Merkez Mevkii	Merkez=
+48133	Ayvat Köyü, Şirvan Mevkii	Şirvan=
+41873	Aşağıhatipbağı Mah.	25 Ağustos~|9 Hazıran~|Abdurrahmanpaşa@|Adnankahveci@|Altıkulaç@|Aras~|Cebeci~|Cumhuriyet@|Dere~|Galipdeniz@|Gümrük~|Gün~|Hacımehmetaydın@|Hacıziyaefendi~|Hürkuş~|Hürriyet@|Karagülle@|Kasımusta~|Keçekülah~|Mehmetfethiyıldırım@|Meydancık@|Mustafakemalpaşa@|Mustafaşerbetci~|Orhanşaikgökyay~|Semahat Çelebıoğlu~|Soğuksu~|Stad~|Topaloğlu~|Turgut Özakman~|Uluğ Bey~|Ustaoğlu~|Uğurmumcu@|Yenicami~|Yeniçarşı~|Zaferyolu@|İstiklal@|İtfaiye@|Şaşmaz~|Şehit Uzman Onbaşı Emin Yıldırım~|Şehit Uzman Onbaşı İbrahim Tüzel~|Şehiterrahmiyılmazer@|Şehıt Arıf Demırel~|Şehıt Uzman Onbaşı Veysel Günay~
+48125	Aşağıçaylı Köyü, Aşağı Mevkii	Aşağı=
+48126	Aşağıçaylı Köyü, Orta Mevkii	Orta=
+48124	Aşağıçaylı Köyü, Yukarı Mevkii	Yukarı=
+48142	Bayıralan Köyü, Danya Mevkii	Danya=
+48141	Bayıralan Köyü, Demir Mevkii	Demir=
+48140	Bayıralan Köyü, Köprülü Mevkii	Köprülü=
+48137	Bayıralan Köyü, Küpoğlu Mevkii	Küpoğlu=
+48136	Bayıralan Köyü, Merkez Mevkii	Merkez=
+48138	Bayıralan Köyü, Müezzin Mevkii	Müezzin=
+48139	Bayıralan Köyü, Pazen Mevkii	Pazen=
+48135	Başköy Köyü, Merkez Mevkii	Merkez=
+48134	Başköy Köyü, Yeneri Mevkii	Yeneri=
+48144	Belen Köyü, Fadara Mevkii	Fadara=
+48143	Belen Köyü, Merkez Mevkii	Merkez=
+48145	Belence Köyü	Köyün Kendisi=
+48147	Belören Köyü, Merkez Mevkii	Merkez=
+48146	Belören Köyü, Molla Ömer Mevkii	Molla Ömer=
+48150	Beyler Köyü, Kuşburnu Mevkii	Kuşburnu=
+48149	Beyler Köyü, Merkez Mevkii	Merkez=
+48148	Beyler Köyü, Selim Mevkii	Selim=
+41875	Boyran Mah.	Afet İnan~|Bal~|Baltaçıkmaz~|Derin~|Gemiyeri~|Hamdireis~|Haylazçıkmaz~|Heyemola~|Kale~|Karakocaoğlu~|Kevser~|Koyunağaçıkmaz~|Mehmetakif@|Meydancık@|Namıkkemal@|Nasreddin Hoca~|Tan~|Toprak~|Zakkum~|Ömerkaptan~|Ütğm.muharremsürav~|İsmetpaşa@
+41876	Camikebir Mah.	Alb.hulkiyeğin~|Altın~|Ateş~|Atilla~|Aşı Boyası~|Battal~|Camiarkası~|Cumhuriyet@|Darıcı~|Dr.atillagürsoy@|Dr.salihosmanoğlu@|Ebezeynep~|Gümrük~|Güneş~|Güven~|Hacıkazım~|Hacımehmetaydın@|Hacınuman@|Halil İnalcık~|Hasan Kaptan~|Hasan Tahsin~|Haziran~|Hürriyet@|Karaca@|Karanfil~|Kardelen~|Kazımkarabekir@|Kaşifbey@|Köroğlu~|Kızılcık~|Liman~|M.kadirkaratay@|Mehmetazizuzunyokuşu~|Mehmetsabri@|Mehmetşevki@|Mustafakemalpaşa@|Müezzin~|Münipbey~|Nur~|Orgenarel Aytaç Yalman~|Oğuzatay~|Rüştübey~|Sadık~|Selimçıdamal~|Suyolu~|Tokerormanlı~|Tunoğluçıkmaz~|Umay~|Yaprak~|Yosun~|Yıldırımbeyazıt@|Zaferyolu@|İsmetpaşa@|İstiklal@|Şehit Binbaşı Arslan Kulaksız~|Şehit Uzman Onbaşı Birhan Er~|Şehit Uzman Onbaşı Osman Ak~
+41877	Cünürye Mah.	Akşemseddin~|Ali Kuşçu~|Aziz Sancar~|Aşağı~|Aşçı Hüseyin~|Badem~|Bilge~|Cünürye@|Defne~|Doğa~|Ekim~|Erva~|Fikret İşeri~|Hacıyahya~|Hız~|Ihlamur~|Isırgan~|Kağnı~|Kısmet~|Mart~|Metehan~|Mevlana~|Mustafa Aktaş~|Namıkkemal-@|Nar~|Orkide~|Parlak~|Salkım~|Seher~|Soğucaksu~|Sırma~|Tarçın~|Tepe~|Uluyaz~|Yonca~|Yunus Emre~|Zencefil~|Çay~|Çilek~|Çınarçıkmaz~|Öykü~|Öz~|İsmetpaşa@|Şehit Astsubay Asçavuş Mehmet Muhammed Akay~|Şehit Astsubay Kıdemli Çavuş Akif Akçadağ~|Şehit Teğmen Mustafa Bayraktar~|Şehit Uzman Onbaşı Ahmet Alparslan~|Şehit Uzman Onbaşı Ali Taşöz~|Şehit Uzman Onbaşı Muhammed Yılmaz~|Şehit Uzman Onbaşı Selman Cankara~|Şehit Uzman Çavuş Hasan Hüseyin Özdemir~|Şehit Uzman Çavuş Tolga Can Yılmaz~|Şelaleçıkmaz~
+48170	Deliktaş Köyü, Bekiroğlu Mevkii	Bekiroğlu=
+48169	Deliktaş Köyü, Kayıkçıoğlu Mevkii	Kayıkçıoğlu=
+48168	Deliktaş Köyü, Kurtoğlu Mevkii	Kurtoğlu=
+48172	Deliktaş Köyü, Merkez Mevkii	Merkez=
+48171	Deliktaş Köyü, Yukarı Mevkii	Hatip=
+48173	Deresökü Köyü, Ali Mevkii	Ali=
+48177	Deresökü Köyü, Dağ Mevkii	Dağ=
+48178	Deresökü Köyü, Göl Mevkii	Göl=
+48175	Deresökü Köyü, Merkez Mevkii	Merkez=
+48176	Deresökü Köyü, Sarıahmet Mevkii	Sarıahmet=
+48174	Deresökü Köyü, Şahne Mevkii	Şahne=
+48179	Dibek Köyü, Bıçakçılar Mevkii	Bıçakçılar=
+48185	Dibek Köyü, Efendioğlu Mevkii	Efendioğlu=
+48180	Dibek Köyü, Hacıefendioğlu Mevkii	Hacıefendioğlu=
+48183	Dibek Köyü, Kabaoğlu Mevkii	Kabaoğlu=
+48181	Dibek Köyü, Kocaoğlu Mevkii	Kocaoğlu=
+48182	Dibek Köyü, Merkez Mevkii	Merkez=
+48184	Dibek Köyü, Ortaca Mevkii	Ortaca=
+48187	Dikili Köyü, Karacakaya Mevkii	Karacakaya=
+48186	Dikili Köyü, Merkez Mevkii	Merkez=
+48189	Doğanören Köyü, Konakyanı Mevkii	Konakyanı=
+48188	Doğanören Köyü, Merkez Mevkii	Merkez=
+48191	Durupınar Köyü, Merkez Mevkii	Merkez=
+48190	Durupınar Köyü, Yukarı Mevkii	Yukarı=
+48192	Erenyolu Köyü, Aşağı Mevkii	Aşağı=
+48193	Erenyolu Köyü, Küllü Mevkii	Küllü=
+48194	Erenyolu Köyü, Serenli Mevkii	Serenli=
+48195	Erenyolu Köyü, Şişman Mevkii	Şişman=
+140103	Erkekarpa Köyü, Erkekarpa Mücavir Mevkii	Saimhıdır 1~|İsmet Paşa 1~|İsmetpaşa~
+48197	Erkekarpa Köyü, Göller Mevkii	Göller=
+48196	Erkekarpa Köyü, Merkez Mevkii	Merkez=
+48199	Esenyurt Köyü, Demirci Mevkii	Demirci=
+48198	Esenyurt Köyü, Merkez Mevkii	Merkez=
+48204	Evrenye Köyü, Ayan Mevkii	Ayan=
+48205	Evrenye Köyü, Ağa Mevkii	Okul Caddesi 1. Çıkmaz -=|Okul~
+48203	Evrenye Köyü, Elik Mevkii	Elik=
+48201	Evrenye Köyü, Karabaş Mevkii	Cami_1~|Karabaş~|Kervansaray~|Okul~
+48200	Evrenye Köyü, Merkez Mevkii	Cami~|Evrenye~|Fırın~|Liman~|Merdiven-~
+48202	Evrenye Köyü, Namazgah Mevkii	Akın~|Merkez~|Muhtarköyü~|Ortaköy~|Sudi Topal~|Tığlı~
+48209	Gökbel Köyü, Büyük Mevkii	Büyük=
+48210	Gökbel Köyü, Küçük Mevkii	Küçük=
+48211	Gökbel Köyü, Terzi Mevkii	Terzi=
+48212	Gökçevre Köyü	Köyün Kendisi=
+48208	Göçkün Köyü, Kafa Mevkii	Kafa=
+48206	Göçkün Köyü, Merkez Mevkii	Merkez=
+48207	Göçkün Köyü, Mikail Mevkii	Mikail=
+48214	Güde Köyü, Aşağı Güde Mevkii	Aşağı Güde=
+48215	Güde Köyü, Yukarı Güde Mevkii	Yukarı Güde=
+48217	Güde Köyü, Çiloğlu Mevkii	Çiloğlu=
+48221	Güneşli Köyü, Hızaryanı Mevkii	Hızaryanı=
+48218	Güneşli Köyü, Merkez Mevkii	Merkez=
+48220	Güneşli Köyü, Sömöz Mevkii	Sömöz=
+48219	Güneşli Köyü, Sönmez Mevkii	
+48223	Hacıibrahim Köyü, Eğrioğlu Mevkii	Eğrioğlu=
+48224	Hacıibrahim Köyü, Karşı Mevkii	Karşı=
+48226	Hacıibrahim Köyü, Kuş Mevkii	Kuş=
+48225	Hacıibrahim Köyü, Köyüstü Mevkii	Köyüstü=
+48222	Hacıibrahim Köyü, Merkez Mevkii	Merkez=
+48229	Hacımehmet Köyü, Köprülü Mevkii	Köprülü=
+48227	Hacımehmet Köyü, Merkez Mevkii	Merkez=
+48228	Hacımehmet Köyü, San Mevkii	San=
+48231	Hamitköy Köyü, Erikpınarı Mevkii	Erikpınarı=
+48230	Hamitköy Köyü, Merkez Mevkii	Merkez=
+48233	Hayrioğlu Köyü, Danaoğlu Mevkii	Danaoğlu=
+48234	Hayrioğlu Köyü, Fatırız Mevkii	Fatırız=
+48232	Hayrioğlu Köyü, Merkez Mevkii	Merkez=
+48235	Hürmetli Köyü, Merkez Mevkii	Merkez=
+48244	Kabalar Köyü, Araldı Mevkii	Araldı=
+48243	Kabalar Köyü, Kök Mevkii	Kök=
+48242	Kabalar Köyü, Merkez Mevkii	Merkez=
+48246	Kabalarsökü Köyü, Apti Mevkii	Apti=
+48247	Kabalarsökü Köyü, Celi Mevkii	Celi=
+48245	Kabalarsökü Köyü, Merkez Mevkii	Merkez=
+48250	Karabey Köyü, Akpınar Mevkii	Akpınar=
+48248	Karabey Köyü, Merkez Mevkii	Merkez=
+48249	Karabey Köyü, Mumra Mevkii	Mumra=
+41878	Karaca Mah.	Barbaros~|Dolunay~|Geriş~|Goyungöz~|Gökkuşağı~|Güçlü~|Hacıkazım~|Hasantuna~|Hüseyinavni~|Ilgaz~|Karaca@|Karamehmetoğlu@|Kazımkarabekir@|Kulaksız~|Kınacı~|Kış~|Piri Reis~|Sadıkefendi~|Çalıkuşu~|Çelık~|İmamterzioğlu~|Şehıt Teğmen Bayram Olgun~
+41879	Karadeniz Mah.	Afife Jale~|Bahçe~|Cahit Arf~|Deniz~|Denk Kayığı~|Hasantuna~|Kadı Salih Reis~|Karaca@|Kayalı~|Kazımkarabekir@|Köprü~|Sabiha Gökçen~|Selimçıdamal~|Soğangöz~|Yalı~|Zaferyolu@|Ziyatunoğlu~|Çamlık~|Şahmeran~|Şehit Yüzbaşı Süleyman Şahin~
+48251	Karşıyaka Köyü, Arkutça Mevkii	Artukça=
+48252	Karşıyaka Köyü, Bakacak Mevkii	Bakacak=
+48253	Karşıyaka Köyü, Giboru Mevkii	Giboru=
+48254	Karşıyaka Köyü, Gürgenlik Mevkii	Gürgenlik=
+48255	Karşıyaka Köyü, Sırçalık Mevkii	Sırçalık=
+48256	Kayaelması Köyü, Merkez Mevkii	Merkez=
+48260	Keloğlu Köyü, Aha Mevkii	Aha=
+48258	Keloğlu Köyü, Demirci Mevkii	Demirci=
+48259	Keloğlu Köyü, Merkez Mevkii	Merkez=
+48257	Keloğlu Köyü, Süloğlu Mevkii	Süloğlu=
+48261	Korupınar Köyü, Karşı Mevkii	Karşı=
+48262	Korupınar Köyü, Köle Mevkii	Köle=
+48263	Korupınar Köyü, Orta Mevkii	Orta=
+48264	Korupınar Köyü, Çorbacı Mevkii	Çorbacı=
+48268	Kuzluk Köyü, Merkez Mevkii	Merkez=
+48269	Kuzluk Köyü, Zambak Mevkii	Zambak=
+48265	Köroğlu Köyü, Kadırga Mevkii	Kadırga=
+48266	Köroğlu Köyü, Merkez Mevkii	Merkez=
+48267	Köseköy Köyü, Merkez Mevkii	Merkez=
+41880	Kızılkara Mah.	Atlas~|Fatih~|Fevzi Çakmak~|Hacımehmet@|Kanunı~|Katip Çelebi~|Mimar Kemalettin~|Petek~|Saimhıdır~|Yavuz~|Yıldırım~|İsmetpaşa@|Şehit Uzman Onbaşı Nihat Kara~
+184614	Musa Mah.	Dr. Ismaıl Hakkı Bey~|Hancı~|Karayel~|Kurt~|Kuşçubuğu~|Kılıçarslan~|Lodos~|Mehmet Emin Kurtoğlu~|Musa~|Poyraz~|Rüzgar=|Yıldız~|İkiçay~|Şehiterrahmiyılmazer 1~|Şehiterrahmiyılmazer@|Şirvan=
+48282	Sakalar Köyü	- Köy$
+48283	Sakalar Köyü, Böcököyü Mevkii	Böcököyü=
+48285	Sakalar Köyü, Ortaköyü Mevkii	Ortaköyü=
+48284	Sakalar Köyü, Sakalar Mevkii	Sakalar=
+48286	Salıcıoğlu Köyü, Merkez Mevkii	Merkez=
+48288	Salıcıoğlu Köyü, Yayla Mevkii	Yayla=
+48287	Salıcıoğlu Köyü, Çanakçı Mevkii	Çanakçı=
+48291	Soğukpınar Köyü, Dere Mevkii	Dere=
+48289	Soğukpınar Köyü, Merkez Mevkii	Merkez=
+48290	Soğukpınar Köyü, Meydan Mevkii	Meydan=
+48292	Sökü Köyü	Köyün Kendisi=
+48305	Taşburun Köyü	Köyün Kendisi=
+48306	Taşoluk Köyü	Köyün Kendisi=
+48307	Toklukaya Köyü, Toklukaya Mevkii	Toklukaya=
+48309	Toklukaya Köyü, Yele Mevkii	Yele=
+48308	Toklukaya Köyü, Özlüce Mevkii	Özlüce=
+48314	Uluköy Köyü, Karafal Mevkii	Karafal=
+48313	Uluköy Köyü, Merkez Mevkii	Merkez=
+48315	Uluyol Köyü, Merkez Mevkii	Merkez=
+48316	Uluyol Köyü, Sökücek Mevkii	Sökücek=
+48317	Uluyol Köyü, Çakal Mevkii	Çakal=
+48312	Uğrak Köyü, Merkez Mevkii	Merkez=
+48311	Uğrak Köyü, Musrat Mevkii	Musrat=
+48310	Uğrak Köyü, İskir Mevkii	İskir=
+184618	Yakaboyu Mah.	Ada~|Ak~|Alparslan~|Deniz~|Gölge~|Gönül~|Gül~|Huzur~|Karınca~|Kumsal~|Sütçü İmam~|Sıla~|Uncuk~|Yakamoz~|Zaferyolu@|İskele~|Şehit Uzman Onbaşı Emre Baysal~|Şehit Uzman Onbaşı Mehmet Orhan~|Şehit Uzman Onbaşı Tayfun Pekel~|Şehıt Uzman Çavuş Alı Turgut~
+48326	Yamaç Köyü, Merkez Mevkii	Merkez=
+48328	Yaztepe Köyü, Geriş Mevkii	Geriş=
+48332	Yaztepe Köyü, Güzel Yalı Mevkii	Güzel Yalı=
+48327	Yaztepe Köyü, Merkez Mevkii	Merkez=
+48330	Yaztepe Köyü, Söğütlü Çeşme Mevkii	Söğütlü Çeşme=
+48333	Yaztepe Köyü, Terelik Mevkii	Terelik=
+48329	Yaztepe Köyü, Yanar Mevkii	Yanar=
+48331	Yaztepe Köyü, Zehi Mevkii	Zehi=
+41881	Yeni Mah.	Arı~|Evliya Çelebi~|Farabi~|Gırdap~|Halime Çavuş~|Hayal~|Kahve~|Kahyaoğlu~|Karaca@|Kavaklı~|Kiraz~|Kömür~|Mimar Sinan~|Mis~|Ocak~|Osman Hamdi Bey~|Rauf Denktaş~|Reşat Nuri~|Rıfat Ilgaz~|Zaferyolu@|Ziyabektaş~|Ömer Seyfettin~|Üzüm~|Şabanterzioğlu~|Şehit Uzman Onbaşı Eyüp Gülaştı~|Şehit Uzman Onbaşı Recep Bekar~|Şehit Uzman Onbaşı Selim Nergiz~|Şehıt Astsubay Çavuş Muhammed Alı Özcan~|Şerife Bacı~
+184616	Yeşilöz Mah.	Abdurrahmanpaşa@|Açelya~|Bahar~|Eylül~|Güz~|Kamelya~|Kanarya~|Kelebek~|Kış~|Limon~|Manastır~|Menekşe~|Nisan~|Papatya~|Sanayi~|Sardunya~|Sarmaşık~|Yamaç~|Yaz~|Yeşilöz~|Çavuşoğlu~|İkiçay~
+48335	Yolüstü Köyü	Köyün Kendisi=
+48336	Yolüstü Köyü, Yolüstü Mevkii	Yolüstü=
+41882	Yukarıhatipbağı Mah.	Aligözlük~|Bulut~|Dalyançıkmaz~|Damla~|Doruk~|Dr.atillagürsoy@|Duygu~|Geriş~|Halide Edip~|Hastaneyokuşu~|Ilgaz~|Karadut~|Karamehmetoğlu@|Kaş~|Köroğlu~|Lavanta~|M.kadirkaratay@|Mehmetazizuzunyokuşu~|Mimar Vedat Tek~|Mustafakemalpaşa@|Müftü Ahmet Efendi~|Samanyolu~|Sandal~|Serçe~|Suyolu~|Taşlı~|Terzioğlu~|Turna~|Ulu~|Yağmur~|Yıldırımbeyazıt@|Çaka Bey~|Şapka~|Şehit Uzman Onbaşı Ahmet Saygılı~|Şehit Uzman Onbaşı Batuhan Tank~|Şehit Uzman Onbaşı Güven Kurtulmuş~|Şehit Uzman Onbaşı Halil Çankaya~|Şehit Uzman Onbaşı Turgut Burkay Yılmaz~|Şrhit Uzman Onbaşı Halil İbrahim Akkaya~
+48339	Yukarıköy Köyü, Aşağı Mevkii	Aşağı=
+48338	Yukarıköy Köyü, Merkez Mevkii	Merkez=
+48340	Yukarıköy Köyü, Sörptarla Mevkii	Sörptarla=
+48337	Yukarıçaylı Köyü	Köyün Kendisi=
+48342	Yunusköy Köyü, Cevizleryanı Mevkii	Cevizleryanı=
+48341	Yunusköy Köyü, Yunusköy Mevkii	Yunusköy=
+48343	Yuvacık Köyü, Merkez Mevkii	Merkez=
+48151	Çamdalı Köyü, Armutça Mevkii	Armutça=
+48153	Çamdalı Köyü, Kolca Mevkii	Kolca=
+48152	Çamdalı Köyü, Merkez Mevkii	Merkez=
+184612	Çamlıca Mah.	Akasya~|Erguvan~|Kavak~|Limon~|Manolya~|Meşe~|Mimoza~|Yasemin~|Zeytin~|Çamlıca~|Çavuşoğlu~|Çınar~|Şabanterzioğlu~
+48156	Çaydüzü Köyü, Merkez Mevkii	Merkez=
+48157	Çaydüzü Köyü, Yörecik Mevkii	Yörecik=
+48158	Çaydüzü Köyü, Çakıcı Mevkii	Çakıcı=
+48159	Çaykıyı Köyü, Merkez Mevkii	Merkez=
+48162	Çiçekyazı Köyü, Ambarcık Mevkii	Ambarcık=
+48160	Çiçekyazı Köyü, Merkez Mevkii	Merkez=
+48161	Çiçekyazı Köyü, Çandır Mevkii	Çandır=
+48167	Çubuk Köyü, Hamdioğlu Mevkii	Hamdioğlu=
+48163	Çubuk Köyü, Merkez Mevkii	Merkez=
+48164	Çubuk Köyü, Topal Mustafaoğlu Mevkii	Topal Musatafaoğlu=
+48166	Çubuk Köyü, Şehit Mehmet Aslan Mevkii	Şehit Mehmet Aslan=
+48274	Örtülü Köyü, Merkez Mevkii	Merkez=
+48275	Örtülü Köyü, Tozluyurt Mevkii	Tozluyurt=
+48277	Özbaşı Köyü, Kayaaltı Mevkii	Kayaaltı=
+48276	Özbaşı Köyü, Merkez Mevkii	Merkez=
+48279	Özlüce Köyü, Atatürk Mevkii	Kaymakam Abdulkadir Yazıcı~|Merkez~|Posta~|İstiklal~
+48281	Özlüce Köyü, Eyrik Mevkii	Eyrik~|Yukarıdağ=|İmamoğlu~
+48278	Özlüce Köyü, Sağlık Ocağı Mevkii	Merkez_2~|Odayanı 1. Çıkmaz~|Odayanı 2. Çıkmaz~|Odayanı~|Türbe~|İstihkam~
+48318	Üçevler Köyü, Üçevler Mevkii	Üçevler=
+48320	Üçlüce Köyü, Börekçi Mevkii	Börekçi=
+48322	Üçlüce Köyü, Kabamdoğlu Mevkii	Kabamdoğlu=
+48323	Üçlüce Köyü, Keleş Mevkii	Keleş=
+48321	Üçlüce Köyü, Keleşoğlu Mevkii	Keleşoğlu=
+48319	Üçlüce Köyü, Tokatlı Mevkii	Tokatlı=
+48239	İkiyaka Köyü, Aşağı Mevkii	Aşağı=
+48236	İkiyaka Köyü, Yukarı Mevkii	Yukarı=
+48238	İkiyaka Köyü, Çayır Mevkii	Çayır=
+48237	İkiyaka Köyü, Şıh Mevkii	Şıh=
+48241	İkizler Köyü, Manastır Mevkii	Manastır=
+48240	İkizler Köyü, Merkez Mevkii	Merkez=
+48295	Şamalı Köyü, Ercekoz Mevkii	Ercekoz=
+48293	Şamalı Köyü, Merkez Mevkii	Merkez=
+48294	Şamalı Köyü, Softa Mevkii	Softa=
+48297	Şamaoğlu Köyü, Göçenoğlu Mevkii	Göçenoğlu=
+48299	Şamaoğlu Köyü, Kayardı Mevkii	Kayardı=
+48298	Şamaoğlu Köyü, Kireççik Mevkii	Kireççik=
+48296	Şamaoğlu Köyü, Merkel Mevkii	Merkel=
+48303	Şeyhömer Köyü, Budak Mevkii	Budak=
+48304	Şeyhömer Köyü, Dayı Mevkii	Dayı=
+48301	Şeyhömer Köyü, Kahyaoğlu Mevkii	Kahyaoğlu=
+48300	Şeyhömer Köyü, Osmanoğlu Mevkii	Osmanoğlu=
+48302	Şeyhömer Köyü, İmam Mevkii	İmam=

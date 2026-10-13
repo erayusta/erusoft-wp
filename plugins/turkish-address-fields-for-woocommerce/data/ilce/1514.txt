@@ -1,0 +1,50 @@
+148361	Akçaova Mah.	Akçaova~
+99811	Atatürk Mah.	15 Temmuz Şehitler@|Erol Özkan@|Fatih Sultan Mehmet@|Kardelen~|Mustafa Toydemir~|Okul(toki)~|Tavşantepe~|Yıldırım Beyazıt@|Şeh.asb. Mehmet Üste~|Şeh.yzb Hasan Ülker@|Şehit Jandarma Er Erhan Cangül~|Şehit Polis Servet Ildız~
+148289	Boğazpınar Mah.	Boğazpınar~|Geçici 11~
+148291	Bölceağaç Mah.	Bölceağaç~|Çerkez~
+148293	Cumhuriyet Mah.	Cumhuriyet~
+148341	Darıca Mah.	Darıca B.m~
+148303	Dereköy Mah.	Dereköy~
+148343	Değirmenboğazı Mah.	Değirmenboğazı~
+148365	Doğancı Mah.	Doğancı~
+148367	Dura Mah.	Dura~
+148305	Erecek Mah.	Erecek~
+148333	Eskimanyas Mah.	Eskimanyas~
+148307	Eskiçatal Mah.	Eskiçatal~
+148309	Eşen Mah.	Eşen~
+148345	Hacıibrahimpınarı Mah.	Hacıibrahimpınarı~
+148347	Hacıosman Mah.	Hacıosman~
+148349	Hacıyakup Mah.	Hacıyakup~
+148369	Hamamlı Mah.	Hamamlı~
+148311	Haydar Mah.	Haydar~|Söğütlük Mevkii~
+148313	Hekim Mah.	Hekim~
+148351	Işıklar Mah.	Işıklar~
+181424	Kalebayır Mah.	Ayvazlar~|Aşik Veysel@|Balatlar Çıkmazı~|Deveci Çıkmazı~|Efeler~|Evliya Çelebi~|Mevlana@|Meznun Oğulları Çıkmazı~|Meşrutiyet~|Çağlarlar~|Özkanlar Çıkmazı~|İstiklal@
+148317	Kalfa Mah.	Kalfa~
+148319	Kapaklı Mah.	Kapaklı~
+148353	Karakabaağaç Mah.	Karakabaağaç~
+148321	Kayaca Mah.	Kayaca~
+148371	Kocagöl Mah.	Akçaova Yolu~|Ilıcak Yolu~|K.soğuklar Yolu~|Kocagöl~
+148325	Koçoğlu Mah.	Koçoğlu~
+148327	Kubaş Mah.	Kubaş~
+148329	Kulak Mah.	Kulak~
+148323	Kızık Mah.	Ilıcabaşı~|Kızık~
+148285	Kızıksa Mah.	1 Nolu~|2 Nolu~|3 Nolu~|39 Evler@|4 Nolu~|Antep~|Antep Çıkmazı~|Bahçelievler@|Bandırma (istiklal)@|Bandırma@|Bağlar (istiklal)@|Bağlar~|Bekaroğlu Çıkmazı~|Bulamur~|Cami~|Dere~|Dilber~|Dutlu~|Eğri~|Fi Tepe Çıkmazı~|Geçici-1~|Geçici-2~|Geçici-3~|Hacı Çıkmazı~|Hilal Cami@|Kasaplar~|Kavas Çıkmazı~|Kenar~|Kermeyan~|Kray Çıkmazı=|Manyas (istiklal)@|Manyas@|Menekşe~|Mera~|Nalbant Çıkmazı~|Okul (istiklal)~|Okul@|Pazar@|Selbastı~|Sünbül~|Terziler~|Yeni~|Zambak~|Çayır Çıkmazı~
+10546	Maltepe Mah.	Cami~|Dere~|Dereboyu Mevkii=|Değirmendere@|Dübek~|Eskicami~|Gönen Yolu@|Hacı İlyas~|Hacılar~|Kavakalanı Mevkii=|Maltepe@|Okul~|Orta~|Panayır@|Santral@|Set Yolu~|Sığır Yolu~
+148355	Necip Mah.	Necip~
+148331	Peynirkuyu Mah.	Hanımoğlu~|Peynirkuyu~
+148287	Salur Mah.	Akıncılar~|Atatürk (zafer)@|Atatürk@|Barbaros~|Bayram@|Bağlarbaşı~|Cengiz Topel@|Cengizhan~|Eski Köy Mera Kenarı=|Eski Köy İçi-2=|Eski Köyiçi=|Fatih (zafer)@|Fatih@|Gaziosmanpaşa (zafer)@|Gaziosmanpaşa@|Genç Osman@|Gümüşpala~|Hilal~|Işıklar~|Kahramanlar@|Karacaoğlan~|Köprülü~|Manyas-gönen Karayolu@|Maraşal Fevzi Çakmak~|Mehmet Akif~|Menteşe~|Oğuzhan~|Sanayi Bölgesi~|Selçuklar~|Sınırdere (zafer)@|Sınırdere@|Çakırcalı~|Çiğdem~|Şehit Binbaşı Fehmi Ercan@
+148373	Süleymanlı Mah.	Giritli Yeri~|Kabatoprak~|Karakum~|Süleymanlı~|Çamurlu Azmak~
+148335	Tepecik Mah.	Koyun Kafiri Mevkii~|Tepecik~
+148337	Yayla Mah.	Yayla~
+10547	Yeni Mah.	Bentbaşı~|Değirmendere@|Erenler~|Geçici 10~|Geçici 1001~|Geçici 1003~|Geçici 9~|Geçici1002~|Geçici8~|Gönen Yolu@|Gülistan~|Karanfil~|Lazevleri~|Maltepe@|Menekşe~|Milli Egemenlik@|Panayır@|Park~|Sanayi Dükkanları=|Santral@|Yenicami~|Yıldız~|Yıldız Çıkmazı~|Çam~|Çavuşlar~|Çiçek~|Çiğdem~|Çınar~|İnönü@|Şehit Polis Cem Genç@|Şehit Yüzbaşı Çetin Ünsal~|Şen~
+148339	Yeniköy Mah.	Aralık Mevkii~|Bakacak Mevkii~|Gölönü Mevkii~|Sırt Yolu~|Teyyare Meydanı~|Yeniköy~
+148363	Çakırca Mah.	Çakırca~
+148295	Çal Mah.	Çal~
+148297	Çamlı Mah.	Çamlı~
+10545	Çarşı Mah.	Adalet~|Ahmet Gülçubuk@|Ali Hikmet Özen@|Aziz Toros@|Aşıklar~|Barbaros~|Bağlar~|Bağlariçi Kümeevler=|Behçet Yücel@|Bekir Sami%|Belediye Dükkanları=|Belediye~|Cengizhan@|Cevizlik Mevk.küme Evler-b.sami Bulv.dan Ulaş.=|Cumhuriyet@|Demokrasi@|Değirmenönü Mevkii (kapaklı Yolu Civarı)=|Dr. Emin Ülker~|Engin~|Erenler~|Esen~|Eski Cezaevi~|Eskihan~|Ferah~|Gaybullah~|Geçici 1~|Geçici 2~|Geçici 3~|Geçici 359~|Geçici 4~|Geçici 5~|Geçici 6~|Geçici 7~|Güngör~|Gürbaş@|Hacı Sait~|Hacılar~|Hamam~|Haşim Bozkurt@|Huzur~|Hükümet@|Levent~|Maarif~|Maltepe@|Mehmet Özdemir@|Meserret~|Meydan~|Muhsin Kelleci@|Panayır@|Papatya~|Rıza Çetin@|Santral@|Sazlık Mevkii=|Set Yolu~|Sığır Yolu~|Timurlenk~|Yavuz~|Yenicami~|Yıldırım~|Yılmaz~|Çağdaş~|Özgürlük@|İnkişaf~|İnönü@|İslam Akay~|İzzet Akın@|Şehit Jandarma Astsubay Ferhat Öztürk~
+148299	Çataltepe Mah.	Çataltepe~
+148301	Çavuşköy Mah.	Çavuşköy~
+148357	Ören Mah.	Ören~
+148315	İrşadiye Mah.	İrşadiye~
+148359	Şevketiye Mah.	Şevketiye B.m~

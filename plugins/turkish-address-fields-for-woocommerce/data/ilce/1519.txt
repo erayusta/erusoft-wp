@@ -1,0 +1,53 @@
+157959	Aksu Mah.	Aksu=
+157961	Arıköy Mah.	Arıköy=
+157963	Arısu Mah.	Arısu=
+157967	Atalar Mah.	Atalar=
+157969	Atlıca Mah.	Atlıca=
+157971	Aykut Mah.	Aykut=
+157965	Aşağıocak Mah.	Aşağıocak=|Kuşunte=
+157973	Bahçecik Mah.	Bahçecik=
+157975	Balpınar Mah.	Balpınar=
+157977	Bilge Mah.	Bilge=
+157983	Derecik Mah.	Akçallı=|Derecik=
+157985	Dikyamaç Mah.	Dikyamaç=
+157987	Duraklı Mah.	Duraklı=
+157989	Ekinciler Mah.	Ekinciler=
+157993	Engin Mah.	Engin=|Yeni Mahalle=
+157991	Erdalı Mah.	Erdalı=
+157995	Evciler Mah.	Evciler=|Tirbik=
+157997	Gümüşpınar Mah.	Alankuş=|Gümüşpınar=
+157999	Gümüşyuva Mah.	Gümüşyuva=
+59977	Gündoğan Mah.	Atlı~|Ayaz~|Aydın~|Bahçe~|Balcılar~|Başak~|Borange@|Bostan~|Buket~|Camii~|Damla~|Defne~|Dere~|Değirmen~|Emniyet@|Fidan~|Gelincik~|Gültepe@|Hamam~|Hastahane=|Hayat~|Jandarma@|Kadife@|Kalı~|Karanfil~|Kardelen~|Mevlana@|Palmiye~|Papatya~|Pınar~|Reyhan~|Sarmaşık~|Sevgi~|Sinema~|Stad@|Susam~|Sümbül@|Yağmur~|Yaşam~|Yibo@|Zambak~|Çağlayan~|Çiğdem@|Öten=|Ürek~
+158001	Gürgöze Mah.	Gürgöze=
+158003	Işıkyaka Mah.	Işıkyaka=
+158007	Karaalani Mah.	Karaalani=
+158009	Karataş Mah.	Karataş=
+59978	Karşıyaka Mah.	Akasya~|Erbek~|Erten~|Fesleğen~|Gavanı Yolu~|Ihlamur@|Irmak~|Kamelya~|Kayalar@|Kültür~|Kılıç~|Lale~|Manolya~|Mardin Diyarbakır@|Menekşe~|Mercan~|Orkide~|Pınar~|Soysal~|Tarçın~|Tekin~|Tuna~|Yalgı~|Yasa~|Yaşar@|Yula~|Çavdar~|Çimen~|Çınar~|Ömer Halis Demir@|Özen~|İnci~|İstiklal@
+59979	Kayalar Mah.	Altan@|Ambar~|Amber~|Aziz Sancar@|Açelya~|Ağaoğlu~|Bayar=|Bağlar~|Bulut~|Dag.1=|Duru~|Engin1~|Fosfat~|Gazi@|Gökkuşağı~|Gül=|Gülbahar~|Güven~|Hardal~|Harman~|Kalkan~|Karanfil~|Kayalar@|Kelebek~|Kiraz~|Kiremit~|Kitap~|Kırlangıç~|Leylak~|Menekşe~|Meşe~|Nergis~|Okul@|Palamut@|Paslanmaz~|Rüzgargülü~|Salkım@|Samyeli~|Terece~|Uşan~|Yaklav~|Yaprak~|Yaray~|Yaşar@|Yeşil Derik@|Yeşil Derik_1~|Yeşilçam~|Zafer~|Zemzem~|Zümrüt~|Çam=|Çam_1~|Çelik~|Çimen~|Çiçek~|Ömer Halis Demir@|İpek~|Şelale~
+158011	Kebapçı Mah.	Kebapçı=
+158013	Kemerli Mah.	Kemerli=
+158017	Kocakent Mah.	Kocakent=
+158019	Konur Mah.	Kaniyaali=|Konur=
+158015	Kışlak Mah.	Gürpınar=|Kışlak=|Çiftlik~
+158021	Meşeli Mah.	Meşeli=
+158023	Ortaklı Mah.	Ortaklı=
+59980	Poyraz Mah.	Aydar~|Aydın~|Barış@|Borange@|Borangee~|Buket~|Camii~|Cumhuriyet Meydanı Myd.|Dere~|Emniyet@|Etibank Sosyal Konutları=|Garaj=|Hamam~|Kale=|Kale_1=|Lale~|Mardin Diyarbakır@|Mardin Diyarbakır_1~|Menekşe~|Mevlana@|Sarmaşık~|Sevgi~|Sinema~|Stad@|Temli~|Temli_1~|Tünel~|Yeşil Derik@|Yeşil Derik_10~|Yeşil Derik_2~|Yeşil Derik_3~|Yeşil Derik_4~|Yeşil Derik_5~|Yeşil Derik_6~|Yeşil Derik_7~|Yeşil Derik_8~|Yeşil Derik_9~|Yeşil=|Yılmaz~|Zoro1~|Çiğdem@|Çıkmaz~|Ömer Halis Demir@|Öten=
+158029	Sakızlı Mah.	Por=|Sakızlı=
+158027	Sağmal Mah.	Sağmal Karayolu~|Sağmal=|Sütlüce=
+158035	Tanrıyolu Mah.	Tanrıyolu=
+158037	Tarlacık Mah.	Tarlacık=
+158039	Ulutaş Mah.	Karadal Mezrası=|Kelek=|Ulutaş=|Yoncalı=
+158045	Yalınağaç Mah.	Armağan=|Yalınağaç=
+158043	Yağmur Mah.	Yağmur=
+158049	Yetkinler Mah.	Yetkinler=
+158047	Yeşilköy Mah.	Yeşilköy=
+158051	Yukarıkonak Mah.	Yukarıkonak=
+158053	Yukarıocak Mah.	Yukarıocak=
+158055	Yücebağ Mah.	Karasu=|Karasu- Der=|Yücebağ=
+157979	Çankaya Mah.	Çankaya=
+157981	Çayönü Mah.	Aktaş=|Esimli=|Çayönü=
+158025	Ömürlü Mah.	Ömürlü=
+158041	Ürünlü Mah.	Belek=|Ürünlü=
+158005	İkisu Mah.	İkisu=
+158031	Şanlı Mah.	Şanlı=
+158033	Şenyuva Mah.	Ambar Mz.=|Sere Kaniye=|Şenyuva=

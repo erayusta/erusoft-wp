@@ -1,0 +1,56 @@
+44783	Akmazdam Köyü	Akmazdam=
+44781	Akçakale Köyü	Akçakale=
+44782	Akçalar Köyü	Akçalar=
+44784	Arslanoğlu Köyü	Arslanoğlu=
+44785	Atcılar Köyü	Atcılar=
+44786	Aydıngün Köyü	Aydıngün=
+44787	Bacıoğlu Köyü	Bacıoğlu=
+41748	Bahçeler Mah.	19 Mayıs~|Atatürk@|Bilinmeyen 201~|Bilinmeyen 205~|Bilinmeyen 208~|Bilinmeyen~|Cumhuriyet@|Gökhan Ergun~|Medet Alibeyoğlu@
+44788	Bardaklı Köyü	Bardaklı=
+44789	Bozyiğit Köyü	Bozyiğit=
+44790	Burcalı Köyü	Burcalı=
+44791	Büyükçatma Köyü	Büyükçatma=
+44792	Carcı Köyü	Carcı=
+44793	Carcıoğlu Köyü	Carcıoğlu=
+99126	Carcıoğlu Köyü, Carcıoğlu Afet Evleri Mevkii	Köy=
+44795	Dağköyü Köyü	Dağköyü=
+44796	Değirmenköprü Köyü	Değirmenköprü=
+44797	Doğruyol Köyü	Doğruyol=
+44798	Gediksatılmış Köyü	Gediksatılmış=
+44799	Göldalı Köyü	Göldalı=
+44800	Gönülalan Köyü	Gönülalan=
+44801	Gülyüzü Köyü	Gülyüzü=
+44802	Güvercin Köyü	Güvercin=
+44803	Hasançavuş Köyü	Hasançavuş=
+44804	Kakaç Köyü	Kakaç=
+44805	Karakale Köyü	Karakale=
+44806	Karaurgan Köyü	Karaurgan=
+44807	Kardeştepe Köyü	Kardeştepe=
+41752	Koçköyü Köyü, Gaziler Mevkii	6~|Atatürk~|Ay~|Belediye~|Can~|Gün~|Karakol~|Şht.kurban Korkmaz~
+41753	Koçköyü Köyü, Gültepe Mevkii	3~|4~|Kazım Karabekir~|Küme~|Neşe~|Selvi~|Vatan~|Çilem~
+41754	Koçköyü Köyü, Orta Mevkii	1~|2~|5~|Atatürk~|Fidan~|Karanfil~|Kazım Karabekir~|Mandıra~|Park~|Vatan~|Zübeyde Hanım~|Çiçek~|Şht.fikret Laçin~
+44809	Kuyucuk Köyü	Kuyucuk=
+44810	Kuzgunlu Köyü	Kuzgunlu=
+44814	Kümbet Köyü	Kümbet=
+44811	Küçükboğaz Köyü	Küçükboğaz=
+44812	Küçükboğaz Köyü, Kışla Mezrası	
+44813	Küçükçatma Köyü	Küçükçatma=
+44808	Kıraç Köyü	Kıraç=
+44815	Melikköyü Köyü	Melikköyü=
+44816	Mescitli Köyü	Mescitli=
+44817	Meydancık Köyü	Meydancık=
+44818	Okçuoğlu Köyü	Okçuoğlu=
+41749	Orta Mah.	19 Mayıs~|3 Kasım~|Bilinmeyen 200~|Bilinmeyen~|Cumhuriyet@|Dr.ibrahim Gökçe@|Fikret Avcı@|Halitpaşa~|Hoca Ahmet Yesevi~|Latif Aküzüm~|Servettin Durmuş~
+44819	Polatköyü Köyü	Polatköyü=
+44820	Söğütlü Köyü	Söğütlü=
+44821	Taşbaşı Köyü	Taşbaşı=
+44822	Taşdere Köyü	Taşdere=
+44823	Taşköprü Köyü	Taşköprü=
+44824	Taşlıağıl Köyü	Taşlıağıl=
+196415	Telek Köyü	Telek=
+196417	Tepecik Köyü	Tepecik=
+44827	Tepeköy Köyü	Tepeköy=
+44828	Tomarlı Köyü	Tomarlı=
+41750	Yalınçayır Mah.	Milli Egemenlik 1=|Milli Egemenlik@
+41751	Yeni Mah.	Bilinmeyen 202~|Bilinmeyen 206~|Bilinmeyen 207~|Bilinmeyen2~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet@|Dr.ibrahim Gökçe@|Fikret Avcı@|Hacı Mecit Güntay~|Kazım Karabekir~|Türközü~|Zilfali Özkaya~
+44794	Çanaksu Köyü	Çanaksu=

@@ -1,0 +1,28 @@
+55134	Afşar Köyü	Afşar=
+55135	Akpınar Köyü	Akpınar=
+55153	Ağarı Köyü	Ağarı=
+55136	Barağı Köyü	Barağı=
+51473	Cereller Mah.	1.~|10.~|11.~|12.~|18.~|2.~|26.~|3.~|30.~|31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|4.~|40.~|41.~|42.~|43.~|48.~|49.~|5.~|50.~|53.~|6.~|61.~|7.~|8.~|9.~|Asma~|Ay~|Başaran Ulusoy@|Begonya~|Cumhuriyet@|Gelincik~|Gonca~|Gül~|Gümüş~|Hoca Ahmet Yesevi~|Hürriyet@|Ihlamur~|Karanfil~|Kazım Damar=|Kiraz~|Konak~|Kütahya Uşak Yolu@|Kırçayır Mevkii=|Lale~|Menekşe~|Mustafa Ertaş@|Nail Önal~|Nilüfer~|Papatya~|Pınar~|Sanayi@|Serçe~|Sümbül~|Vatan@|Yaşam~|Zafer@|Zambak~|Çavdarhisar=|İsmail Tanrıverdi@|Şahin~|Şehit Kamil Gezer@|Şehit Yunus Pişkin~
+55139	Demiroluk Köyü	Demiroluk=
+55140	Doğancılar Köyü	Doğancılar=
+55141	Efeler Köyü	Efeler=
+55142	Efendiköprüsü Köyü	Efendiköprüsü=
+55143	Gökağaç Köyü	Gökağaç=
+55144	Gökler Köyü	Gökler=
+51477	Hacıkebir Köyü, Camii Kebir Mevkii	Akyol 1~|Akyol 2~|Akyol~|Akyol1~|Alerler~|Alkoçak~|Atatürk~|Camikebir~|Efeler~|Gelin~|Hacı Mehmetler~|Hacıkebir=|Karaveller~|Kıran 1~|Kıran~|Okul~|Sanayi 1~|Sanayi 2~|Sanayi 3~|Sanayi 4~|Sanayi~|Yeni Camii~|Örencik~|Şehir Yolu~
+51478	Hacıkebir Köyü, Esentepe Mevkii	Adnan Menderes~|Akasya~|Atatürk~|Cami 1~|Cami 2~|Cami~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet 4~|Cumhuriyet 5~|Cumhuriyet~|Efeler~|Eren~|Eren1~|Esentepe 1~|Esentepe 2~|Esentepe 3~|Esentepe=|Esentepe1~|Gelin~|Hacıkebir=|Hafızlar~|Hatipler 1~|Hatipler 2~|Hatipler 3~|Hatipler~|Karanfil~|Konyalılar 1~|Konyalılar~|Kütahya Uşak Yolu 1~|Kütahya Uşak Yolu@|Kıran-~|Lale~|Leylak~|Lise~|Manolya 1~|Manolya~|Menekşe~|Milli Egemenlik 1~|Milli Egemenlik 2~|Milli Egemenlik 3~|Milli Egemenlik 4~|Milli Egemenlik 5~|Milli Egemenlik 6~|Milli Egemenlik~|Murat Kuyusu~|Nergis~|Nilüfer~|Okul 1~|Okul 2~|Okul~|Olgun 1~|Olgun 2~|Olgun~|Papatya~|Sanayi~|Sümbül~|Zambak~|Çiğdem~|Örencik~
+55145	Hacımahmut Köyü	Hacımahmut=
+51474	Kemaller Mah.	Ada=|Cumhuriyet 1@|Cumhuriyet@|Eğriyoldar=|Çavdarhisar=
+55234	Kızık Köyü	Kızık=
+51475	Meydan Mah.	13.~|14.~|15 Temmuz Şehitler@|15.~|16.~|17.~|19.~|20.~|21.~|22.~|23.~|24.~|25.~|52.~|54.~|55.~|57.~|58.~|59.@|60.=|62.~|Abasultan~|Abdullah Özcan=|Akasya~|Ara~|Arap Deresi~|Baraj~|Başaran Ulusoy@|Bedir~|Bulut~|Cumhuriyet@|Dere~|Esen@|Fatih Sultan Mehmet@|Gençlik@|Güneş~|Hatip~|Hekim Sinan~|Hilal~|Kanal~|Karacaoğlan~|Kayaaltı~|Kazım Karabekir~|Kemer@|Köroğlu~|Kütahya Uşak Yolu@|Kırüstü@|Kışla~|Leylak~|Mera~|Mimar Sinan~|Mustafa Ertaş@|Nail Önal~|Prof.dr. Remzi Gören@|Pınar~|Taksim@|Tevfik Akgün@|Vatan@|Yeni Sanayi@|Yurt~|Yıldırım Beyazıt@|Yıldız~|Zafer@|Çarşı~|Çiçek~|Çiğdem~|Çınar~|Öz~|Şehit Ayhan Bütüner~|Şehit Sadık Uçar~|Şehit Selahattin Şenkal~|Şehit Tecelli Arı~|Şerif Ahmet Evkaya~
+55147	Pusatlar Köyü	Pusatlar=
+55148	Susuzkaya Köyü	Susuzkaya=
+55154	Tepecik Köyü	Tepecik=
+55149	Yağdığın Köyü	Yağdığın=
+55150	Yenicearmutcuk Köyü	Yenicearmutcuk=
+55151	Yeşildere Köyü	Yeşildere=
+51476	Yukarı Mah.	Abdullah Özcan=|Cumhuriyet@|Demiroluk=
+55152	Zobu Köyü	Zobu=
+55137	Çamköy Köyü	Çamköy=
+55138	Çatköy Köyü	Çatköy=
+55146	İlcikören Köyü	İlcikören=

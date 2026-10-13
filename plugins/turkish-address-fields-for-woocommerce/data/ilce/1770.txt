@@ -1,0 +1,20 @@
+158711	Akyayla Mah.	Akyayla 1~|Akyayla 2~|Akyayla 3~|Akyayla~|Aşağı Köy~|Konuk~|Küçükköy~
+158713	Altındere Mah.	Altındere=|Dikmetaş~|Kırıkhan=
+158715	Altıntas Mah.	Altıntas=|Altıntas/1~|Pınarbaşı~
+158717	Bağcılar Mah.	Akdere~|Bağcılar 1~|Bağcılar 2~|Bağcılar~|Bağcılar/1~|Evciler=|Gazi Köy~|Kırmızı Köprü 2~|Kırmızı Köprü~
+158719	Cevizlibelen Mah.	Aktaş~|Akıncılar~|Anapınar~|Aruzhan~|Bahçedere~|Cevizlibelen=|Koyunlu~|Kırmızı Köprü 1~|Kırmızı Köprü 2~|Kırmızı Köprü~|Petekli~|Rüzgarlı~|Yıldırım~|Çimenli~|Şerefhan 1~|Şerefhan~
+158725	Doğanyayla Mah.	Doğanyayla=|Küllüce=|Sakız=|Saray_1~|Trakya~|Ulubeyli=|Veligöl=|İri Köy=
+158727	Elmayaka Mah.	Akhisar=|Cuma=|Elmayaka=|Mercanlı~|Püsküllü=|İri Köy=|Şişli=
+158729	Güneyyamaç Mah.	Atmaca~|Garip~|Güneyyamaç=|Özbeyli=|İmamlı=
+158745	Kartal Mah.	Kartal=|Tunus~
+158731	Kaşıkçılar Mah.	Aras=|Beyoğlu~|Kaşıkçılar=|Kaşıkçılar/1~|Çağrı~|Ünsal~
+158733	Paşaköy Mah.	Paşaköy 1~|Paşaköy 2~|Paşaköy=
+158735	Ulubeyli Mah.	Saray_1~|Ulubeyli=|Yukarı Köy~
+158741	Yaylakonak Mah.	Altıntas=|Yaylakonak=
+158739	Yaşlıkavak Mah.	Atmaca 1~|Atmaca 2~|Atmaca 3~|Atmaca 4~|Atmaca~|Garip~|Yaşlıkavak 1~|Yaşlıkavak 2~|Yaşlıkavak~|İmamlı=
+158721	Çatbayır Mah.	Düzbaşı~|Keskin=|Papatya=|Çatbayır=
+158743	Çiçekli Mah.	Çiçekli=
+158723	Çömlekçi Mah.	Akdere~|Mengen~|Oğuzeli~|Paşaköy=|Çömlekçi=|Şenler~
+158737	Ünlüce Mah.	Laleli~|Pendik~|Taşköprü 1~|Taşköprü~|Taşköy 1~|Taşköy 2~|Taşköy~|Ünlüce~
+80582	İslam Mah.	Aprihaman~|Belediye Garajı Çıkmaz~|Cumhuriyet@|Cumhuriyet_1~|Cumhuriyet_10~|Cumhuriyet_2~|Cumhuriyet_3~|Cumhuriyet_5~|Cumhuriyet_7~|Cumhuriyet_8~|Cumhuriyet_9~|Değirmen~|Dicle~|Divan~|Hakim~|Hakkıbey=|Kale~|Kaymakamlık Çıkmaz~|Köşk=|Kısa~|Kız Yurdu Çıkmaz~|Liman=|Melkava~|Melkava/1~|Mutiullah Bey@|Pirant=|Pirant/1~|Pirant/2~|Rüçük~|Rüçük/1~|Saray=|Sungurlu=|Taşköy~|Toki@|Toki/1~|Yukarı~|İslam Blnmyn 2~|Şahintepesi~|Şehitler~
+158747	Şişli Mah.	Şişli=

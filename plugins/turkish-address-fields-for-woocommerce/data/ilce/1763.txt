@@ -1,0 +1,32 @@
+186191	Acısu Mah.	201-~|202~|203-~|204-~|Dereli Sefa~|Değirmencioğlu~|Kara Ahmetoğlu~|Köse Mahsut~|Üçpınar~
+186195	Akyazı Mah.	Abdioğlu~|Ağcaoğlu~|Boduroğlu~|Eyüp Oğlu~|Güneşli~|Hacı Osmanlar~|Kozluca~|Maraş~|Yenice~|İmamoğlu~
+186199	Alan Mah.	Bıcılllar~|Hacıgeriş@|Hatipoğlu~|Merkez_2~|Yeniköy_1~
+186205	Alişar Mah.	Merkez_21~
+186209	Armutlu Mah.	Armutlu~
+186323	Arıcak Mah.	Merkez_19~|Yukarı Arıcak~
+69881	Atatürk Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110-~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137-~|Altundaloğlu~|Balaban~|Bağdat~|Bedir~|Bereket~|Cami Geçidi~|Canbolat~|Cengil~|Cengizhan~|Cumhuriyet Myd.|Cumhuriyet_1@|Deniz~|Doğan~|Fatih@|Gazi~|Gelibolu~|Gülistan~|Güneş~|Işık~|Karaman~|Karaşın~|Kayalar@|Kaynarca~|Kazım Karabekir@|Kemal Akkaya@|Koral~|Korkmaz~|Kırımlı~|Lale~|Mehmet Çetin@|Niyazi Kaya~|Onat~|Papatya~|Pazar@|Renk~|Sancak~|Serhat~|Suvari~|Sümbül~|Ufuk~|Umut~|Uğur~|Yeni Doğan~|Yunus~|Çeri~|Ş.durmuş Işın@|Şahin~|Şen~
+186217	Ayaklıalan Mah.	Kalaycılar~|Merkez_12~|Naçarlar~|Uzuntarla~|Yeşilce~|Yukarı Dağcılar~|Özübüyük~
+186223	Aydınköy Mah.	Merkez_20~
+186213	Aşuru Mah.	Aşırı~
+69882	Biçincik Mah.	1-~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33%|34~|35~|36~|37~|38~|39~|4~|40~|41~|42~|43@|44~|45@|46~|47~|48~|49~|5~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7~|70~|71~|72~|73~|74~|8~|9~|Adnan Menderes@|Akkaya~|Akkoyunlu~|Aksu~|Alparslan@|Aydınlar Çıkmaz~|Başkan~|Bozkurt~|Buluş Çıkmazı~|Cumhuriyet Myd.|Demirciler~|Dirlik~|Dr.yağcıoğlu@|Erdoğan Cebeci@|Esen~|Güney~|Güven~|Hacıgeriş@|Hilal~|Hurşitbey~|Kafkas@|Kale~|Karanfil~|Kazım Karabekir@|Kemal Akkaya@|Mehmet Çetin@|Mehtap~|Merkez_6~|Mevlana@|Müezzinoğulları~|Noyan~|Olcay~|Orhan Gazi@|Parlak~|Susam~|Yavuz~|Yaykın-=|Yaşar Doğu@|Yeniköy@|Çetinkaya@|Çiftlik@|Çulha~|İbnisina@|İstiklal@|İşgör~|İşlek~|Ş.mahir Emen@
+186231	Dağcılar Mah.	Merkez_5~|Pençik~|Yukarı Dağcılar~|Çingir~|Çürükgeriş~
+186237	Emirmusa Mah.	Karaköse~|Merkez_14~
+186241	Esentepe Mah.	Edilli~|Merkez_7~
+186247	Gökgöl Mah.	Cincioğlu=
+186249	Gülveren Mah.	Kayaoğlu~|Zurnacılar~|Çingir~
+186329	Gündoğdu Mah.	130~|Gündoğdu-~|Mehmet Çetin@|Tığmaç (köy Merkezi)~
+186253	Hisariye Mah.	Kıtlık~|Merkez_16~|Meşelik~
+186263	Kesealan Mah.	Kabadayılar~|Kavşak~|Kertil~|Merkez_11~|Sarıdüz~|Vasil Oğlu~
+186279	Koşaca Mah.	Eynelli~|Merkez_7~|Merkez_8~
+186321	Kuyumcuoğlu Mah.	68~|74~|Dedeoğlu~|Kemal Akkaya@|Merkez_6~
+186269	Kılavuzlu Mah.	Araphasan~|Aslanoğlu~|Ganioğlu~|Karahaliloğlu~|Keslioğlu~|Koca Mustafa~|Körpınar~|Narlı~|Orta~|Sofular~|Çilingir~|Ömercioğlu~
+186283	Musaağa Mah.	Merkez_17~|Mısırcoğlu~
+186285	Sakızlık Mah.	Karamuk~|Merkez_15~
+186289	Uluköy Mah.	Güney_1~|Merkez_10~|Sülücek~
+186293	Yarımca Mah.	Garipoğlu~|Gölceviz~|Merkez_9~
+186297	Yaylaköy Mah.	Güngörmezler~|Kötekli~|Merkez_3~|Paskallar~|Sarılar~|Yeni Hah.~|Çağlayan~|Çukur~
+186307	Yeniömerli Mah.	Bağlıca~|Kiseoğlu~|Merkez_1~|Tahtalık~|Yayla Evi~
+186311	Yeşildere Mah.	Merkez_18~|Taşlıca(arzeren)~
+186315	Yeşilköy Mah.	Dereli Sefa_1~|Merkez_4~|Çakır Ahmet~
+186227	Çulhaoğlu Mah.	Karacaoğlu~|Merkez_13~
+186259	İmamlı Mah.	Asarma~|Karamuk~|Merkez~|Taş Kesiği~

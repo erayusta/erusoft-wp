@@ -1,0 +1,86 @@
+12085	Adagül Köyü	Adagül=
+12086	Adagül Köyü, Adagül Yayla Evleri	Adagül Yaylası=
+12125	Akpınar Köyü	Akpınar=
+9995	Aksu Mah.	Alaca~|Arkaköy~|Artvin Yolu~|Balcı~|Baraj~|Bora~|Dolunay~|Güven~|Hastane@|Karanfil~|Kars@|Kaynarca~|Kültür~|Lise~|Otingo~|Piyade~|Sanayi@|Sigorta@|Taşlık~|Uğur=|Yıldız~|İbrikli~|Şehit Jandarma Er Ramazan Köse@|Şehit Piyade Onbaşı Muhammet Aydemir@|Şener Özbayraklı@
+12088	Alaca Köyü, Işıklı Mevkii	Işıklı=
+12093	Alaca Köyü, Merkez Yayla Evleri	Alaca Yaylası=|Merkez=
+12090	Alaca Köyü, Orhan Mevkii	Orhan=
+12092	Alaca Köyü, Ortadere Mevkii	Ortadere=
+12089	Alaca Köyü, Yangın Mevkii	Yangın=
+12094	Ambarlı Köyü	Ambarlı=
+12095	Aralık Köyü	Aralık=
+12097	Aralık Köyü, Aralık Mezra Mezrası	Aralık Mezra=
+12096	Aralık Köyü, Aralık Yayla Evleri	Aralık Yaylası=
+12098	Arkaköy Köyü	Arkaköy=
+12099	Arkaköy Köyü, Arkaköy Yayla Evleri	Arkaköy Yayla=
+12100	Arkaköy Köyü, Yayla Yayla Evleri	Araköy Yaylası=
+12101	Atanoğlu Köyü	Atanoğlu=
+12103	Atanoğlu Köyü, Atanoğlu Köyü Yayla Evleri	Atanoğlu Yaylası=
+12102	Atanoğlu Köyü, Atanoğlu Mezrası	Mezra=
+12104	Avcılar Köyü	Avcılar=
+12105	Balcı Köyü	Balcı=
+12107	Balcı Köyü, Balcı Köyü Yayla Evleri	Balcı Yaylası=
+12106	Balcı Köyü, Balcı Mezrası	Balcı Mezra=
+119437	Boğazköy Köyü	Boğazköy=
+124436	Boğazköy Köyü, Akdilek Mevkii	Akdilek=
+12129	Camili Köyü	Camili=
+12131	Camili Köyü, Camili Köyü Yayla Evleri	Camili Lekoban Yaylası=
+12130	Camili Köyü, Camili Mezrası	Bilinmeyen=|Camili Mezra=
+12108	Civan Köyü	Civan=
+12109	Civan Köyü, Civan Yayla Evleri	Civan Yaylası=
+12111	Demirciler Köyü	Demirciler=
+12132	Düzenli Köyü	Düzenli=
+12134	Düzenli Köyü, Düzenli Köyü Mezrası	- Köy$
+12133	Düzenli Köyü, Düzenli Yayla Evleri	Düzenli Yaylası=
+12112	Düzköy Köyü	Düzköy=
+12135	Efeler Köyü	Efeler=
+12137	Efeler Köyü, Mezra Mezrası	Efeler Gorgit Mezrası=
+12136	Efeler Köyü, Yayla Yayla Evleri	Efeler Yaylası=
+12113	Fındıklı Köyü	Fındıklı=
+9996	Gündoğdu Mah.	Civan~|Emniyet@|Göktürk~|Gözde~|Hoca Ahmet Yesevi@|Hopa Yolu@|Huzur@|Hükümet@|Keskinler Yokuşu~|Murgul Yolu~|Mustafa Veziroğlu~|Osman Ellibeş@|Sturet=|Tünel~|Yeni@|Zorlu~|Örnek Site@
+12149	Güneşli Köyü	Güneşli=
+12150	Güreşen Köyü	Güreşen=
+12152	Güzelyurt Köyü, Başköy Mevkii	Başköy=
+12154	Güzelyurt Köyü, Kazanakapı Mevkii	Kazanakapı=
+12153	Güzelyurt Köyü, Longana Mevkii	Longana=
+12151	Güzelyurt Köyü, Merkez Mevkii	Merkez=
+12155	Güzelyurt Köyü, Uzunlar Mevkii	Uzunlar=
+12118	Kale Köyü, Düzhanlar Mevkii	Düzhanlar=
+12117	Kale Köyü, Petrol Mevkii	Petrol=
+12119	Kale Köyü, Topçular Mevkii	Topçular=
+12120	Kale Köyü, Çarmakit Mevkii	Çarmakit=
+12156	Karşıköy Köyü	Karşıköy=
+183402	Karşıköy Köyü, Gürgenli Mevkii	
+183404	Karşıköy Köyü, Ortamahalle Mevkii	
+183406	Karşıköy Köyü, Tekin Mevkii	
+183408	Karşıköy Köyü, Tektaş Mevkii	
+183400	Karşıköy Köyü, Çukur Mevkii	
+12157	Kayadibi Köyü	Kayadibi=
+12138	Kayalar Köyü	Kayalar=
+12140	Kayalar Köyü, Kayalar Köyü Mezrası	- Köy$
+12139	Kayalar Köyü, Kayalar Yayla Evleri	Kayalar Lekoban Yaylası=
+12121	Kaynarca Köyü	Kaynarca=
+12122	Kaynarca Köyü, Kaynarca Yayla Evleri	Kaynarca Yaylası=
+140318	Küçük Köy Mah.	Arma~|Dakvara=|Eski Hopa Yolu@|Güneş~|Harmantepe=|Hopa Yolu@|Osmanlı~|Örücüler~
+12141	Maralköy Köyü	Maral=
+12143	Maralköy Köyü, Maral Köy Mezrası	- Köy$
+12142	Maralköy Köyü, Maral Yayla Evleri	- Köy$
+9997	Merkez Mah.	15 Temmuz Demokrası Myd.|Acarlar~|Altay=|Aydınlar=|Bankalar@|Belediye~|Camii@|Cumhuriyet~|Demokrasi@|Fabrika~|Gözcü~|Ihlamur~|Kars@|Mavi Çarşı~|Mehmet Akif Ersoy~|Muratlı@|Napaşvan=|Orkide~|P.t.t@|Sahil@|Taşlık~|Taşlıtarla=|Vehbi Alparslan@|Yansıtıcı Yolu~|Zambak~|Çiçek~|Çoruh@|İskele@|Şan~|Şehit Onbaşı Ahmet Uzun@|Şehit Rafet Karacan@|Şehit Savaş Gedik~
+12146	Muratlı Köyü	Muratlı=
+12126	Taraklı Köyü	Taraklı=
+12144	Uğurköy Köyü	Uğurköy=
+12145	Uğurköy Köyü, Uğur Yayla Evleri	Uğurköy Yaylası=
+9998	Yeniyol Mah.	Muratlı@|Yeni Yol Merkez=|Örücüler~
+12159	Yeşilköy Köyü	Yeşilköy=
+183398	Zedoban Köyü, Köyün Kendisi Mevkii	Zedoban=
+12127	Zorlu Köyü	Zorlu=
+12128	Zorlu Köyü, Zorlu Yayla Evleri	Zorlu Yaylası=
+12147	Çavuşlu Köyü	Çavuşlu=
+12148	Çaylıköy Köyü	Çaylıköy=
+12110	Çifteköprü Köyü	Çifteköprü=
+12123	Örücüler Köyü	Örücüler=
+12124	Örücüler Köyü, Örücüler Mezrası	Örücüler Mezrası=
+12115	İbrikli Köyü, Esentepe Mevkii	Esentepe=
+12114	İbrikli Köyü, Merkez Mevkii	Merkez=
+12116	İbrikli Köyü, İbrikli Yayla Evleri	İbrikli Yaylası=
+12158	Şerefiye Köyü	Şerefiye=

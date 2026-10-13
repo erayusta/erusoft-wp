@@ -1,0 +1,34 @@
+89229	Aşağıkızılöz Köyü	 Köy$
+89230	Belören Köyü	 Köy$
+89254	Buzluk Köyü	 Köy$
+89232	Derbent Köyü	 Köy$
+89233	Dikmesöğüt Köyü	 Köy$
+89234	Elmalı Köyü	 Köy$
+89235	Elmalıçiftliği Köyü	 Köy$
+89236	Elmalıütüğü Köyü	 Köy$
+99306	Gümüşdiğin Mah.	Acısu~|Akdağ~|Akıncı~|Asma~|Balcı~|Billur~|Demirci~|Doruk~|Eskiköy~|Farabi~|Göksu~|Gülveren~|Güney~|Hanedan~|Hanımeli~|Kirazlık~|Kumluk~|Kızıltoprak~|Meriç~|Mülk~|Sarmaşık~|Selvi~|Sevimli~|Susam~|Uyum~|Uzun~|Zeybek~|Zeybek1~|Çayır~|Çukur~
+89238	Gümüşsu Köyü	 Köy$
+183872	Halıköy Beldesi, Akçakale Mah.	Akçakale~|Akçakale/1~|Akçakale/2~|Akçakale/3~|Akçakale/4~
+80799	Halıköy Beldesi, Bahçeli Evler Mah.	1.~|1/1~|Atatürk@|Belediye%|Belediye_3~|Belören=|Kadışehrı Sulusaray Yolu@|Karanfil=
+80798	Halıköy Beldesi, Fatih Mah.	Belediye%|Belediye_1~|Belediye_2~|Belediye_3~|Belediye_4~|Camii~|Cumhuriyet@|Cumhuriyet/1~|Fidanlık~|Konak~|Papatya~|Çiçek~
+183870	Halıköy Beldesi, Yoncalık Mah.	Yoncalık~|Yoncalık/1~|Yoncalık/10~|Yoncalık/11~|Yoncalık/2~|Yoncalık/3~|Yoncalık/4~|Yoncalık/6~|Yoncalık/7~|Yoncalık/8~|Yoncalık/9~
+183868	Halıköy Beldesi, Yukarıkızılöz Mah.	Yukarıkızılöz~|Yukarıkızılöz/1~|Yukarıkızılöz/2~
+89239	Hanözü Köyü	 Köy$
+89240	Kabalı Köyü	 Köy$
+80794	Kadıoğlu Mah.	Bağlama~|Bağlar~|Bağlar/1~|Can~|Congallı-~|Cumhuriyet%|Emek~|Genç~|Gül-~|Hasan Akın@|Kadılı~|Kamer~|Kışla=|Kışla/1~|Sarıkanarya~|Sağlık@|Sekiztaş~|Seyit Hoca~|Yazar~|Yaşar~|Çongallı~|İbrahim Müftüoğlu@|İbrahim Müftüoğlu/1~|İsmail Ağa~
+89241	Kemalli Köyü	 Köy$
+89242	Kıyılı Köyü	 Köy$
+80795	Lütfullah Kayalar Mah.	Ali Kelleci@|Beylik~|Cihan~|Cumhuriyet%|Cumhuriyet/1~|Dere~|Değirmen~|Fatih~|Fener~|Gazi Mehmet Sağlam@|Gazi Mehmet Sağlam/1~|Hacı Maviş~|Hafız Ali Ergin~|Hafız Kemal Seyhan~|Işık~|Kadıköy~|Kadışehrı Sulusaray Yolu@|Kadışehrı Yolu/1@|Kadışehrı Yolu/3~|Kanunı@|Kumluca~|Küçük~|Kışla=|Kışla/1~|Lale~|Menderes~|Menekşe~|Mustafa Karadavut~|Nergiz~|Pamuk~|Rüzgar~|Sanayi 1~|Sanayi 2~|Sanayi 3~|Sanayii Sitesi-=|Suyolu~|Tekir~|Toy~|Yıldız@|Yılman~|Çamlıca~|Ş.adem Canpolat@|Ş.nuri Çelik~|Ş.nuri Çelik/1~|Ş.osman Öztürk~|Ş.yasin Yoldaş~
+89243	Ovacık Köyü	 Köy$
+89245	Seyhan Köyü	 Köy$
+80797	Vasfıbey Mah.	Abdullah Efendi@|Abdullah Efendi/1~|Abdullah Efendi/2~|Abdullah Efendi/3~|Abdullah Efendi/4~|Abdullah Efendi/5~|Acar-~|Akarsu-~|Akay~|Aksoy~|Akyürek~|Altun-~|Aydın~|Beyazıt~|Bilir~|Bulut~|Bölük~|Dilman~|Ferhat~|Geylani~|Güneş~|Hasret~|Haydar~|Ihlamur~|Kadışehrı Yolu@|Kadışehrı Yolu/2~|Karacalar~|Karataş-~|Karlık~|Kavaklıdere~|Kayapınar~|Keltepe~|Kümbet~|Kınalı~|Maden~|Mutlu~|Osmangazi@|Pala~|Pınar~|Sakızlık~|Salim Usta~|Sarıca~|Sarıdede~|Söğüt~|Süleyman Çavuş~|Sümbül~|Tarlabaşı-~|Tayyar~|Tolga~|Udun-~|Veysel Şahingöz~|Yiğit~|Yıldırım~|Yıldızlı~|Çağırman-~|Şaban~|Şahin~
+183866	Yakacık Mah.	Kadışehrı Sulusaray Yolu@|Yakacık~|Yakacık/1~|Yakacık/10~|Yakacık/11~|Yakacık/2~|Yakacık/3~|Yakacık/4~|Yakacık/5~|Yakacık/6~|Yakacık/7~|Yakacık/8~|Yakacık/9~
+183864	Yangı Mah.	Kadışehrı Yolu@|Topal Halil~|Yangı~|Yangı/1~|Yangı/10~|Yangı/11~|Yangı/12~|Yangı/13~|Yangı/14~|Yangı/15~|Yangı/16~|Yangı/17~|Yangı/18~|Yangı/19~|Yangı/2~|Yangı/3~|Yangı/4~|Yangı/5~|Yangı/6~|Yangı/7~|Yangı/8~
+89248	Yanık Köyü	 Köy$
+89250	Yavuhasan Köyü	 Köy$
+89251	Yelten Köyü	 Köy$
+80796	Yeni Mah.	Ahmetyesevi~|Akasya~|Barbaros~|Boğaziçi~|Burcu~|Cumhuriyet%|Değirmen-~|Doğan~|Elçi~|Esen~|Fetih~|Gül~|Hafız Bekir Dursun-~|Hafız Mahmut Can~|Hafız Mahmut Zeybek~|Hicran~|Hüyük~|Kadışehrı Sulusaray Yolu@|Kadışehrı Yolu@|Kardelen~|Kumru~|Mimar Sinan~|Orhangazi~|Piri Reis~|Sakarya~|Saray@|Sarıkamış~|Sarıkanarya~|Sağlık@|Selimiye-~|Turgut Reis~|Utku~|Volkan~|Yakut~|Zümrüt-~|Çongallı~|İbrahim Müftüoğlu@|İkbal~|İnci~|Ş.doğan Özpolat@|Ş.doğan Özpolat/1~|Şen~
+89231	Çamsaray Köyü	 Köy$
+80793	Çaypınar Mah.	15 Temmuz~|Ahmet Karadavut~|Ahmet Karadavut1~|Akansoy~|Akça~|Altı Kasım~|Atmaca~|Balözü~|Başaran~|Belkonut-1~|Belkonut-4~|Benek~|Beste~|Burak~|Burçak~|Ceviz~|Ceylan~|Cumhuriyet%|Cumhuriyet/1~|Damlama~|Davut Hoca@|Defne~|Dere Ağzı~|Deveci~|Dutluk~|Dörtyol~|Düz~|Ekin~|Emniyet@|Faruk Durusoy~|Fenerbahçe@|Filiz~|Garip~|Gök~|Göknar~|Gül~|Gümüş~|Güngör-~|Güvercin~|H.ahmet Topuz@|Hafız~|Hatip~|Hazar~|Hidayet~|Ilıca~|Kaan~|Kablan~|Kabristan~|Kanalboyu~|Kanarya~|Karayel~|Kartal~|Kazancı~|Keklik~|Kevser~|Kovan~|Leylak~|Lodos~|Mehmetçik~|Mercan~|Paşa~|Sancak~|Seyit Onbaşı~|Seyran~|Terminal~|Topuk Yaylası~|Tuna~|Tunç~|Uysal~|Yavuhasan=|Yokuşyol~|Yörükler~|Yılmaz~|Çamiçi~|Çamlık~|Çavdar~|Çelen~|Çiftçiler~|Ördede~|İğde~|Şeker~
+89244	Örencik Köyü	 Köy$
+140681	Üçağaç Mah.	Akarlar~|Alpaydınlar~|Başak~|Dilek~|Ertekin~|Halil Pehlivan~|Halil Pehlivan/1~|Halil Pehlivan/2~|Halil Pehlivan/3~|Karaca~|Karaca/1~|Rüstem Pehlivan~|Sarıaslan~|Tokat~|Topal Halil~|Topal Halil/2~|Topal Halil/3~|Yozgat~|Yozgat/1~|Çamlıbel~|Özbek~|İpek~

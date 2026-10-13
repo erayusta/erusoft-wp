@@ -1,0 +1,86 @@
+/* Order SMS & Delivery Codes — order box, list badge, panel. */
+
+.eru-osms-box { margin: -6px -12px -12px; padding: 12px; }
+.eru-osms-muted { color: #646970; margin: 6px 0; }
+
+.eru-osms-strip {
+	font-weight: 600;
+	padding: 6px 10px;
+	border-left: 3px solid;
+	margin-bottom: 10px;
+}
+.eru-osms-strip--pending { border-color: #8c8f94; background: #f6f7f7; color: #3c434a; }
+.eru-osms-strip--ok    { border-color: #00a32a; background: #edfaef; color: #00450c; }
+.eru-osms-strip--bad   { border-color: #d63638; background: #fcf0f1; color: #8a2424; }
+
+.eru-osms-warn { color: #8a2424; margin: 6px 0; }
+.eru-osms-warn--soft { color: #6e4b00; }
+
+.eru-osms-form label { display: block; margin-bottom: 8px; font-size: 12px; color: #50575e; }
+.eru-osms-form input,
+.eru-osms-form select,
+.eru-osms-form textarea { display: block; width: 100%; margin-top: 3px; }
+.eru-osms-form .eru-osms-code {
+	font: 600 20px/1.2 ui-monospace, SFMono-Regular, Menlo, monospace;
+	letter-spacing: .35em;
+	text-align: center;
+}
+.eru-osms-form .eru-osms-verify { width: 100%; justify-content: center; text-align: center; }
+.eru-osms-msg { min-height: 1.4em; margin: 6px 0; }
+.eru-osms-msg[data-kind="error"]  { color: #b32d2e; }
+.eru-osms-msg[data-kind="ok"] { color: #007017; }
+.eru-osms-form .eru-osms-resend { font-size: 12px; }
+
+.eru-osms-record { display: grid; grid-template-columns: auto 1fr; gap: 4px 10px; margin: 0 0 8px; }
+.eru-osms-record dt { color: #646970; }
+.eru-osms-record dd { margin: 0; }
+
+.eru-osms-heading { margin: 14px 0 6px; padding-top: 10px; border-top: 1px solid #dcdcde; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: #646970; }
+.eru-osms-history { list-style: none; margin: 0; padding: 0; }
+.eru-osms-history li { padding: 6px 0; border-bottom: 1px solid #f0f0f1; }
+.eru-osms-history li:last-child { border-bottom: 0; }
+.eru-osms-history-top { display: flex; justify-content: space-between; font-size: 11px; color: #646970; }
+.eru-osms-history-name { font-weight: 600; margin: 2px 0; }
+.eru-osms-history-text { font-size: 12px; color: #3c434a; }
+.eru-osms-history-error { font-size: 12px; color: #b32d2e; }
+
+.eru-osms-badge {
+	display: inline-block;
+	padding: 1px 7px;
+	border-radius: 3px;
+	font-size: 11px;
+	line-height: 18px;
+	white-space: nowrap;
+	background: #f0f0f1;
+	color: #3c434a;
+}
+.eru-osms-badge--with_code,
+.eru-osms-badge--sent { background: #d7f1dc; color: #00450c; }
+.eru-osms-badge--without_code,
+.eru-osms-badge--error       { background: #f8d7d8; color: #8a2424; }
+.eru-osms-badge--test       { background: #fcf3cf; color: #6e4b00; }
+
+.column-eru_osms_delivery { width: 9em; }
+
+/* Panel */
+.eru-osms-panel .nav-tab-wrapper { margin-bottom: 16px; }
+.eru-osms-state { display: inline-flex; align-items: center; gap: 8px; margin: 4px 0 12px; color: #3c434a; }
+.eru-osms-state span { width: 8px; height: 8px; border-radius: 50%; background: #8c8f94; }
+.eru-osms-state--test span  { background: #dba617; }
+.eru-osms-state--live span { background: #00a32a; }
+.eru-osms-rules td { vertical-align: top; }
+.eru-osms-text-cell { max-width: 48ch; }
+.eru-osms-counter { margin: 4px 0 0; color: #646970; }
+.eru-osms-counter--warn { color: #996800; }
+.eru-osms-example { background: #f6f7f7; border: 1px solid #dcdcde; padding: 10px 12px; overflow-x: auto; max-width: 100%; }
+.eru-osms-filter { margin: 8px 0 12px; }
+.eru-osms-state--off span { background: #8c8f94; }
+.eru-osms-badge--queued,
+.eru-osms-badge--pending { background: #f0f0f1; color: #3c434a; }
+.eru-osms-badge--skipped { background: #f0f0f1; color: #646970; }
+.eru-osms-rules select, .eru-osms-rules input[type="text"] { max-width: 100%; margin-bottom: 4px; }
+.eru-osms-rules td { vertical-align: top; }
+@media (max-width: 782px) {
+	.eru-osms-rules thead { display: none; }
+	.eru-osms-rules td { display: block; }
+}

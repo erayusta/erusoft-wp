@@ -1,0 +1,20 @@
+38282	Akkaya Köyü, Aşağı Akkaya Köyü Mezrası	Asagı Akkaya=
+38284	Akkaya Köyü, Sariyer Mevkii	Sarıyer=
+38283	Akkaya Köyü, Yukarıakkaya Mezrası	Yukarı Akkaya=
+38268	Cevizli Köyü, Mevkii	Cevızlı=
+31013	Cumhuriyet Mah.	Bilinmeyen~|Cezaevı@|Cumhurıyet@|Efkarlar@|Evlıya Bey@|Kösk@|Sehıtalı@|Süvarıler@
+31014	Emirşaban Mah.	22 Evler@|Bilinmeyen22~|Bilinmeyen3@|Bırıncı~|Cumhurıyet@|Gök@|Hakkarı@|Hesınkan@|Ikıncı~|Kaymakam Nıyazı Erten@|Kaymakam Nıyazı Erten11~|Taslak Yol 12~|Yeni Yol~|Yenı@|Yesıl Tepe@|Yıbo@|Üçüncü~
+38269	Gündeş Köyü	Köyün Kendısı=
+38272	Gündeş Köyü, Guzeldere Mezrası	Güzeldere=
+38273	Gündeş Köyü, Köprülü Mezrası	Köprülü=
+38271	Gündeş Köyü, Ormanlı Mezrası	Ormanlı=
+38270	Gündeş Köyü, Çimenli Mezrası	Çımenlı Bağlısı=
+38274	Kayalık Köyü	Köyün Kendısı=
+38277	Kayalık Köyü, Kaynak Mezrası	Kaynak=|Meşelı Bağlısı=
+38276	Kayalık Köyü, Meşeli Mezrası	Meşelı Bağlısı=
+38275	Kayalık Köyü, Çeltik Mezrası	Çeltik Bağlısı=
+180878	Kazan Köyü, Köyün Kendisi Mevkii	Kazan=
+38278	Narlı Köyü	Narlı=
+98873	Yeşil Çeşme Mah.	Cumhurıyet@|Hakkarı@|Molla Haydar@|Narlı@|Samo@|Vatan@|Yenıyol~
+38280	Çığlı Köyü	Köyün Kendisi=
+38279	Üzümlü Köyü	Üzümlü=

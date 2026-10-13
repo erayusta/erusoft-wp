@@ -1,0 +1,72 @@
+190299	Acı Mah.	Acı=
+190307	Altınbaşak Mah.	Altınbaşak=|Altınbaşak1~|Altınbaşak10~|Altınbaşak11~|Altınbaşak12~|Altınbaşak13~|Altınbaşak14~|Altınbaşak15~|Altınbaşak16~|Altınbaşak17~|Altınbaşak18~|Altınbaşak19~|Altınbaşak2~|Altınbaşak20~|Altınbaşak21~|Altınbaşak22~|Altınbaşak23~|Altınbaşak24~|Altınbaşak25~|Altınbaşak26~|Altınbaşak27~|Altınbaşak29~|Altınbaşak3~|Altınbaşak30~|Altınbaşak31~|Altınbaşak32~|Altınbaşak33~|Altınbaşak4~|Altınbaşak5~|Altınbaşak6~|Altınbaşak7~|Altınbaşak8~|Altınbaşak9~
+190291	Alvar Mah.	1.küme~|1.küme/1~|1.çıkmaz~|2.küme~|2.küme/1~|2.küme/2~|2.küme/3~|2.küme/4~|2.çıkmaz~|3.küme~|3.küme/1~|3.küme/2~|3.küme/3~|75.yıl@|Alpaslan@|Bahçeli Evler~|Bahçeli Evler/1~|Bahçeli Evler/2~|Bahçeli Evler/3~|Binali Gönder@|Bılınmeyen100~|Bılınmeyen72~|Bılınmeyen79~|Bılınmeyen80~|Bılınmeyen81~|Bılınmeyen83~|Bılınmeyen85~|Bılınmeyen86~|Bılınmeyen87~|Cami~|Cumhuriyet Muhammet Lütfü Efendi@|Cumhuriyet/1@|Değirmen~|Gül~|Işık~|Karanfil~|Karaşeh~|Kardelen/1~|Kavşak-~|Lale~|Menekşe/1~|Paşalar@|Paşalar Lütfi Efendi@|Sümbül~|Yukarıçakmak=|Çağlayan/1~|Çağlayan/2~|Çağlayan/3~|Çiçek~|Çiçek/1~|İncesu~
+190309	Ardıçlı Mah.	Ardıçlı=|Üğümü=
+30046	Ağaçminare Mah.	Aslanağa~|Baba Efendi~|Bılınmeyen2~|Bılınmeyen3~|Camii~|Camii1~|Dağyolu~|Dağyolu/1~|Erzincanlı~|Hacı Kadir~|Hükümet~|Hüseyin Kavut~|Kardelen-~|Kişioğlu~|Kurnuşlu Çeşme~|Osman Ağa~|Yeniyol10~|Çağlayan~|Çiğdem~|Çınar~|İmam Hatip~|İpekoğlu~
+190303	Ağcalar Mah.	Ağcalar=
+190313	Aşıtlar Mah.	Aşıtlar=
+30047	Bahçelievler Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.~|31.~|4.~|5.~|6.~|7.~|8.~|9.~|Ali Çavuş~|Binali Gönder@|Bılınmeyen33~|Bılınmeyen38~|Bılınmeyen39~|Küme 2=|Prof Dr.recep Akdağ@|Sanayii Çarşısı@|Transit@|Yeniyol12~|Yeniyol80~
+190315	Baldızı Mah.	Baldızı=
+190317	Başören Mah.	Başören=
+190321	Bulkasım Mah.	Bulkasım=|Taşağıl=
+190323	Büyükdere Mah.	Acı=|Büyükdere=|Büyükdere/1~|Büyükdere/10~|Büyükdere/11~|Büyükdere/12~|Büyükdere/13~|Büyükdere/2~|Büyükdere/3~|Büyükdere/4~|Büyükdere/5~|Büyükdere/6~|Büyükdere/7~|Büyükdere/8~|Büyükdere/9~|Kurbançayır=
+190327	Büyüktüy Mah.	Büyüktüy=|Gölciğez=
+30048	Camikebir Mah.	Adnan Yılmaz-@|Akçalı Pınar~|Bılınmeyen16~|Bılınmeyen17~|Bılınmeyen5~|Bılınmeyen99~|Camii~|Camii1~|Cumhuriyet@|Derviş Efendi~|Gelincik~|Güler~|Hacı Kadir~|Hacı Yusuf~|Hacı Ömer~|Kurnuşlu Çeşme~|Kıraç~|Müftü Efendi~|Narin~|Nefi~|Osman Ağa~|Rıza Bey~|Tophane~|Ulu Camii~|Yukarı Çarşı~|Zümrüt~|İlhami Aras-~|İlhami Aras_1~
+190349	Demirdöven Mah.	Demirdöven=|Taşlıgüney=|Timar=|Üğümü=
+30049	Emirşeyh Mah.	Baba Efendi~|Bılınmeyen18~|Gelincik~|Hacı Hafız~|Hacı Kadir~|Hacı Yusuf~|Hacı Yusuf-~|Kanarya~|Kardelen~|Mete Hoca~|Narin~|Rıza Bey~|Timuçin~|Çiğdem~
+190351	Epsemce Mah.	Epsemce=|Üğümü=
+30050	Erzurumkapı Mah.	Aslanağa~|Bozbey~|Bılınmeyen2~|Bılınmeyen6~|Bılınmeyen7~|Bılınmeyen8~|Bılınmeyen9~|Camii~|Cevat Dursunoğlu~|Cumhuriyet@|Dispanser~|Haydar Efendi~|Hükümet~|Kişioğlu~|Kule~|Mehmet Taşbaşı@|Menekşe~|Pasin~|Vakıf~|Yüksel~|İmam Hatip~|İpekoğlu~|Şefik~|Şehit Yüzbaşı Külekçioğlu~
+190355	Esendere Mah.	Esendere=|Kızılören=
+190357	Gerdekkaya Mah.	Gerdekkaya=
+190359	Gölciğez Mah.	Gölciğez=
+190363	Hanahmet Mah.	Hanahmet=
+30051	Hasandede Mah.	13 Mart~|Bahar~|Bılınmeyen1~|Güneş~|Hacı Hafız~|Hatunoğlu~|Haydar Kurt~|Kadıoğlu~|Kardelen~|Leylak~|Nergiz~|Nur~|Osmanlı~|İmam Hatip~
+30052	Kaplıcalar Mah.	Alasakal~|Albay Abdülmennan@|Altuğ~|Altın Başak~|Altınbaşak=|Arıkan Şenyurt~|Beylerbeyi~|Bozkaya~|Bulak~|Bılınmeyen70~|Bılınmeyen73~|Bılınmeyen74~|Bılınmeyen76~|Bılınmeyen77~|Bılınmeyen78~|Cansız~|Dadaş~|Dede Efendi~|Dere~|Doç.dr.nevzat Saygılı~|Efe~|Gazi Mahmut~|Göztepe~|Hacı Behri~|Hikmet Efendi~|Hınıs~|Kartal~|Kaynarca~|Kaşıkçı~|Küme Evler 1~|Küme Evler 2~|Küme Evler 3~|Küme Evler 4~|Küme Evler 5~|Maden Evler~|Manolya~|Odabaşı~|Ova~|Pendik~|Polat~|Saltuk Bey~|Yeniyol1~|Yeniyol2~|Yeniyol3~|Yeniyol4~|Yeniyol5~|Yeniyol6~|Yüce~|Zeki Dede~|Zihni Aydın~|Çeşme~|İlhami Aras@|Şakar~|Şamil Ağa~|Şehit Vedat Topal@|Şenyurt/1~|Şerif Yılmaz~|Şifa~
+190365	Karakale Mah.	Hanahmet=|Karakale=|Pelitli=
+190369	Karavelet Mah.	Karavelet=
+30053	Kasımpaşa Mah.	Adnan Demircioğlu~|Bılınmeyen45~|Bılınmeyen47~|Bılınmeyen60~|Bılınmeyen61~|Bılınmeyen62~|Bılınmeyen63~|Bılınmeyen64~|Bılınmeyen65~|Bılınmeyen66~|Bılınmeyen66/1~|Bılınmeyen67~|Bılınmeyen69~|Bılınmeyen70~|Bılınmeyen71~|Bılınmeyen72~|Bılınmeyen78~|Bılınmeyen87~|Cennet~|Mazlumoğlu~|Mehtap~|Müftü Kamil Efendi~|Nidayi Orhan~|Nilüfer~|Sedi Efendi~|Yaşar Küçük~|Yeniyoll~|Yüzbaşı Ahmet Tonğ~|Zakir Efendi~|Çimenler~|İrfan Kılıç~|Şafak~|Şafak/1~|Şehit Vedat Topal@|Şehit İsak Çelik@
+190371	Kavuşturan Mah.	Kavuşturan=|Serçeboğazı=
+30054	Kethuda Mah.	Akasya~|Akçalı Pınar~|Alay~|Badem/1~|Bayoğlu~|Başak~|Belediye@|Bılınmeyen20~|Bılınmeyen48~|Bılınmeyen50~|Bılınmeyen51~|Bılınmeyen52~|Bılınmeyen53~|Bılınmeyen54~|Bılınmeyen55~|Bılınmeyen56~|Bılınmeyen57~|Bılınmeyen58~|Cevizli~|Cumhuriyet@|Doç.dr.nevzat Saygılıoğlu~|Dr.alpay Pasinli@|Eski Hal Çarşısı@|Gözeler~|Güney~|Hacı Ömer~|Haşim Bey~|Helim Efendi~|Kader Çıkmazı~|Meydan~|Nazlı Baba@|Org.selahattin Demircioğlu@|Prof.dr.a.kadir Karahan@|Rahmanlar~|Sadrettin Demircioğlu@|Salkım~|Santral~|Santral/1~|Serap~|Sinem~|Taşlı~|Transit@|Ulu Camii~|Ulu Camii/1~|Yukarı Çarşı~|Yukarıdanişment=|Çarıklıoğlu~|Üğümü=|İdeli~|Şakir Efendi~
+190375	Kevenlik Mah.	Kevenlik=
+190385	Kotandüzü Mah.	Kotandüzü=
+190387	Kurbançayır Mah.	Kavuşturan=|Kurbançayır=|Yayladağ=
+30055	Kurtuluş Mah.	15.~|Ada~|Akşemsettin~|Ali Çavuş/1~|Barbaros~|Barbaros1~|Bağdat~|Bılınmeyen21~|Bılınmeyen22~|Bılınmeyen24~|Bılınmeyen29~|Bılınmeyen33~|Bılınmeyen34~|Bılınmeyen38~|Dumlupınar~|Fatih Sultan~|Feyruz Ayber~|Fuat Pasin~|Gül Yusuf~|Harman~|Hükümet~|Kanuni Sultan~|Karacaoğlan~|Kişioğlu~|Lise~|Malazgirt~|Mehmet Taşbaşı@|Metehan~|Mezarlık~|Mimar Sinan~|Orkide~|Osman Gazi~|Oğuzhan~|Panama~|Piri Reis~|Preveze~|Prof Dr.recep Akdağ@|Ramiz Efendi~|Sakarya~|Sanayii Çarşısı@|Transit@|Ulubatlı Hasan~|Yavuz Selim~|Yaşar Doğu~|Yeniyol~|Yıldırım Beyazıt~|İhsan Toraman@|İnönü~|Şehit Kemaloğlu~
+190391	Küçüktüy Mah.	Küçüktüy=
+190379	Kızılören Mah.	Kızılören=
+190395	Otlukkapı Mah.	Altınbaşak=|Bulkasım=|Bılınmeyen78~|Bılınmeyen87~|Otlukkapı=|Yastıktepe=
+190397	Ovaköy Mah.	Korucuk=|Ovaköy=
+30056	Paşabey Mah.	Ayhan Uzun~|Badem~|Badem/1~|Badem/2~|Binali Gönder@|Burcu~|Bılınmeyen42~|Bılınmeyen43~|Bılınmeyen44~|Bılınmeyen45~|Bılınmeyen46~|Bılınmeyen71~|Canip Alpay~|Cemalettin Tören~|Dt Necmettin Güngör~|Gani Korel~|Kader Çıkmazı~|Kahraman Bey~|Kiziroğlu~|Mahmut Turan~|Mehmet Sekman~|Metin Kağızmanlı~|Metin Öztürk~|Meydan~|Murat Atmaca~|Paşabey~|Salim Ayrancı~|Teyo Pehlivan~|Transit@|Yazıcı~|Yağar~|Yeni Hali=|Yeniyol11~|Yıldızlar~|Çaykara~|İbrahim Bölükbaşı~|İncirli~|Şehit Polis Ayhan Uzun~
+190401	Pelitli Mah.	Kotandüzü=|Pelitli=|Çalıyazı=
+190405	Porsuk Mah.	Küme Evler=|Porsuk=
+190407	Pusudere Mah.	Korucuk=|Pusudere 1-~|Pusudere 2-~|Pusudere=
+30057	Reşadiye Mah.	Belediye@|Bılınmeyen40~|Bılınmeyen41~|Cumhuriyet@|Değirmen/1~|Ertaş~|Kızılay@|Org.selahattin Demircioğlu@|Park@|Prof.dr.serdar Sevimli@|Pınar~|Söğütlü Bahçe~|Transit@|İhsan Toraman@|İnhisar~|İnhisar-~
+190411	Saksı Mah.	Gölciğez=|Saksı=
+190413	Serçeboğazı Mah.	Serçeboğazı=
+30058	Sivas Mah.	Bılınmeyen18~|Can~|Elmalı~|Elmalı/1~|Gelincik~|Hacı Mahmut~|Kale~|Kale/1~|Kanarya~|Kıraç~|Rıza Bey~|Sümbül/1~|Timuçin~|Tolgahan~|Çiğdem~|İç Kale~
+190415	Sunak Mah.	Sunak=
+190417	Taşağıl Mah.	Taşağıl=
+190419	Taşkaynak Mah.	Acı=|Taşkaynak=
+190421	Taşlıgüney Mah.	Ardıçlı=|Demirdöven=|Taşlıgüney=|Timar=
+190423	Taşlıyurt Mah.	Gözeler/1~|Taşlıyurt=|Yastıktepe=
+190425	Tepecik Mah.	Sunak=|Tepecik=|Uzunark=
+190427	Timar Mah.	Timar=
+190429	Uzunark Mah.	Uzunark=
+30059	Yamaç Mah.	Akçalı Pınar~|Bülbül~|Bılınmeyen19~|Cihangir~|Hacı Sırrı Yarbaşı~|Kale~|Kıraç~|Sıtkı Bey~|Yarbaşı~
+190433	Yastıktepe Mah.	Kireçli=|Otlukkapı=|Taşlıyurt=|Yastıktepe=
+190435	Yavuzlu Mah.	Yavuzlu=
+190437	Yayla Mah.	Timar=|Yayla=
+190439	Yayladağ Mah.	Yayladağ=
+30060	Yeni Mah.	Bılınmeyen10~|Bılınmeyen11~|Bılınmeyen12~|Bılınmeyen13~|Bılınmeyen14~|Can~|Dispanser~|Kale~|Mehmet Taşbaşı@|Mehmet Taşbaşı1~|Pasin~|Sümbül/1~|Sıtkı Bey/1~|Vakıf~|Vakıf1~|Yeni1~|Zühtü~|Şahiner~|Şamlıoğlu~
+190441	Yeniköy Mah.	Timar=|Yeniköy=
+190443	Yiğitpınarı Mah.	Acı=|Taşkaynak=|Yiğitpınarı=
+190445	Yiğittaşı Mah.	Yiğittaşı=
+190449	Yukarıdanişment Mah.	Yukarıdanişment=|Üğümü=
+190447	Yukarıçakmak Mah.	Yukarıçakmak=|Yukarıçakmak/1~|Yukarıçakmak/2~|Yukarıçakmak/3~|Yukarıçakmak/4~|Yukarıçakmak/5~|Yukarıçakmak/6~|Yukarıçakmak/7~|Yukarıçakmak/8~
+190329	Çakırtaş Mah.	Çakırtaş=
+190333	Çalıyazı Mah.	Karakale=|Çalıyazı=
+190335	Çamlıca Mah.	Çamlıca=|Şahvekat=
+190339	Çiçekli Mah.	Yavuzlu=|Çiçekli=|Çöğender Evler=
+190343	Çöğender Mah.	Ağcalar=|Bılınmeyen85~|Korucu=|Çöğender Evler=|Çöğender=
+190399	Övenler Mah.	Bılınmeyen85~|Bına-~|Küme Evler=
+190431	Üğümü Mah.	Üğümü=|Üğümü1~|Üğümü2~|Üğümü3~|Üğümü4~|Üğümü5~|Üğümü6~|Üğümü7~|Üğümü8~
+190383	Şehit Burak Karakoç Mah.	Ağcalar=|Korucuk=

@@ -1,0 +1,117 @@
+74134	Akdem Köyü	Akdem=
+74135	Akdem Köyü, Akdoğan Mezrası	Akdoğan=
+74137	Aksöğüt Köyü	Aksöğüt=
+74136	Aksöğüt Köyü, Aktepe Mezrası	Aktepe=
+74133	Akçagedik Köyü	Akçagedik=
+74074	Akçalı Köyü	Akçalı=
+74111	Atalay Köyü	Atalay=
+74139	Avcılar Köyü	Avcılar=|Batman Siirt@
+74112	Aydemir Köyü	Aydemir=
+74140	Azıklı Köyü	Azıklı=
+74073	Ağaçlıpınar Köyü	Ağaçlı Pınar=
+70180	Bahçelievler Mah.	901.~|902.~|903.~|904.~|905.~|906~|907.~|908.~|910.~|911.~|913.~|914~|915.~|916~|917.~|918~|919.~|920~|921.~|922~|923.~|925.~|927~|928~|Botan@|Dr.yusuf Azizoğlu@|Gaffar Okkan@|Gülistan@|Kızılırmak@|Mevlana@|Recep Tayyip Erdoğan%|Sağlık Ocağı@|Sevgi@|Yayıkdere-@
+74141	Ballıkaya Köyü	Ballıkaya=
+74142	Ballıkaya Köyü, Yuvalı Mezrası	Yuvalı=
+74108	Bağlıca Köyü	Bağlıca=
+74110	Bağlıca Köyü, Aşağı Dibekli Mezrası	Aşağı Dibekli=
+74109	Bağlıca Köyü, Y.dibekli Mezrası	Y.dibekli=
+74075	Beykent Köyü	Beykentt=
+197391	Beşler Köyü	-~|Beşler=
+74143	Bozhüyük Köyü	Bozhüyük=
+74078	Bölüktepe Köyü	Bölüktepe=|Okul Yolu=
+74077	Bölüktepe Köyü, Pınarlı Mezrası	Pınarlı=
+74076	Bölüktepe Köyü, Çeşmeli Mezrası	Çeşmeli=
+70171	Cumhuriyet Mah.	201.~|202.~|203~|205.~|206~|207.~|208.~|210~|211.~|212~|213.~|214~|215.~|216~|Ahmet Kaya@|Barış@|Cumhuriyet/1~|Ethem Sancak@|Gençlik@|Gençlık@|Recep Tayyip Erdoğan%|Selahaddini Eyübi@|Turgut Özal@|Yaşar Kemal@|Ömer Halisdemir@
+74146	Demirkuyu Köyü	Demirkuyu=
+98409	Derince Köyü	Derince=
+70181	Dicle Mah.	1201~|1203.~|1206.~|1207.~|1208.~|1209~|1210.~|1211.~|1212.~|1213~|1214.~|1215.~|1224.~|1225.~|304.~|Beykent@|Cumhuriyet@|Gelincik@|Hasankeyf@|Mezopotamya@
+74147	Ekinli Köyü	Ekinli=
+74083	Erdurağı Köyü	Erdurağı=
+74081	Erdurağı Köyü, Gültepe Mezrası	Batman Siirt@|Gültepe=
+74080	Erdurağı Köyü, Kaynaklı Mezrası	Batman Siirt@|Kaynaklı=
+74082	Erdurağı Köyü, Sıcaksu Mezrası	Sıcaksu=
+70172	Fırat Mah.	301~|303.~|304.~|601.~|602.~|603.~|604.~|605.~|606.~|607.~|608.~|609.~|610.~|611.~|612.~|613.~|615.~|617.~|618.~|619.~|621.~|622.~|623.~|624.~|625.~|627.~|Atatürk%|Barış@|Beykent@|Cumhuriyet@|Gelincik@|Gürsel@|Haran@|Kervan@|Mezopotamya@|Yaşar Kemal@
+70182	Garzan Mah.	1301.~|1303.~|1305.~|1306~|1307~|1309~|1311.~|1313.~|1314.~|1315.~|1317.~|1319.~|1321~|1322~|1325~|1327~|1328~|1329~|1331~|1333~|1335~|1337~|1339~|Ahmet Arif@|Ağaçlıpınar@|Beykent@|Güneş@
+74148	Gökdoğan Köyü	Batman Siirt@|Gökdoğan=
+74150	Gökdoğan Köyü, Yunuslar Mezrası	Batman Siirt@|Yunuslar=
+74149	Gökdoğan Köyü, Yuvalı Mezrası	Batman Siirt@|Yuvalı=
+70186	Gözpınar Köyü, Huzur Mevkii	108.~|109.~|111.~|113.~|117.~|118.~|119.-~|122.~|123.~|127.~|229.~|Eğitim~|Huzur~|Turgut Özal~|Ziyaret~
+70187	Gözpınar Köyü, Kısmet Mevkii	111.~|113.~|115.-~|118.~|2.~|207.-~|209.~|211.~|212.~|216.~|218.~|220.~|221.~|222.~|223.~|224.~|226.-~|227.~|229.~|231.~|Ara~|Eğitim~|Karakol~|Sağlık~|Turgut Özal~
+70188	Gözpınar Köyü, Seyrantepe Mevkii	108.-~|109.-~|110.-~|111.-~|2.-~|220.~|301.-~|303.~|304.~|311.~|311.-~|313.~|320.~|330.~|332.~|336.~|340.~|Ara~|Eğitim~|Karakol~|Sağlık~|Seyit Meryem~|Tüzün~|Yibo~|Çay Geçit=
+70173	Güney Mah.	402~|404.~|405~|406~|406.~|408.~|409~|410~|411~|420.~|Ethem Sancak@|Gençlık@|Güney~|Güney/4~
+74086	Gürgöze Köyü	Batman Siirt@|Gürgöze=
+74085	Gürgöze Köyü, Birke Mezrası	Batman Siirt@|Birke=
+74084	Gürgöze Köyü, Kuyucuk Mezrası	Kuyucuk=
+74152	Güzeldere Köyü	Güzeldere=
+74153	Güzeldere Köyü, Demirbaşı Mezrası	Demirbaşı=
+74151	Güzeldere Köyü, Işıklı Mezrası	
+74156	Kapıkaya Köyü	Kapıkaya=
+74089	Karabağ Köyü	Karabağ=
+70185	Kayabağlar Beldesi, Bağlar Mah.	1.@|2.@|3.@|301~|302~|303~|304~|305~|306~|307~|307/1~|307/2~|309~|310~|311~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325.~|326~|Bahattin Sevgili@|Cami@|Dereboyu@|Değirmen@
+99120	Kayabağlar Beldesi, Kayalı Mah.	101~|102.~|104.~|105~|106~|107~|108~|109~|110~|112~|113~|114~|115~|117~|118~|119~|120~|136~|137~|138~|139~|140~|141~|142~|143~|144~|145~|146~|147.~|Ayran Mağarası@|Bağlar@|Cami@|Kayalı@|Kurtalan@|İhsan Emre Aydın@
+70184	Kayabağlar Beldesi, Çeşme Mah.	11.cad~|2@|201.~|202.~|203~|204~|206~|208~|209~|212~|214~|215.~|216.~|217.~|218~|219.~|220.~|221.~|222.~|223.~|225.~|227.~|229.~|9.@|Ara@|Ara/1~|Atabağı@|Bahattin Sevgili@|Diyarbakır@|Eski Garzan@|Kurtalan@|Okul-@|Sağlık@|Vatan~|İpek Yolu@|İpekyolu-@
+74117	Kayalısu Köyü	Kayalısu=
+74094	Konakpınar Köyü	Batman Siirt@|Konakpınar=
+70179	Kültür Mah.	301~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|310~|311.~|313.~|315.~|315/1~|315/2~|315/3~|317.~|323.~|325.~|327.~|329.~|331~|Barış@|Beykent@|Gürsel@|Haran@|Hürriyet@|Jandarma@|Recep Tayyip Erdoğan%|Selahaddini Eyübi@|Turgut Özal@|Yaşar Kemal@|Yunus Emre@|Çobanoğlu@
+74090	Kılıçlı Köyü	Bitlis Siirt/1@|Kılıçlı=|Ziyaret Baykan T.c.k Yolu Üzeri 23.km.kılıçlı Köyü/ Kurtalan/siirt-@
+74091	Kılıçlı Köyü, Gültepe Mezrası	Gültepe=
+74092	Kılıçlı Köyü, Kanikarvana Mezrası	Bitlis Siirt/1@|Kanikarvana=
+74093	Kılıçlı Köyü, Uluağaç Mezrası	Bitlis Siirt@|Uluağaç=
+74160	Saipbeyli Köyü	1=
+74159	Saipbeyli Köyü, Bahçeli Mezrası	Bahçeli=
+74157	Saipbeyli Köyü, Göztepe Mezrası	Göztepe=
+74158	Saipbeyli Köyü, Karamanlı Mezrası	
+70183	Seyrantepe Mah.	501.~|502.~|503.~|504.~|506.~|507.~|508~|509~|510~|512~|Turgut Özal@
+70174	Sümer Mah.	1001.~|1002.~|1003.~|1005~|1006.~|1007.~|1007./1~|1008.~|1009.~|1010.~|1011.~|1012.~|1013.~|1014.~|1015.~|1016.~|1017.~|1018~|1019.~|1020.~|1021.~|1022.~|1023.~|1024.~|1025~|1026.~|1028.~|1029~|Cengiz Topel@|Erzen@|Mısırç@|Recep Tayyip Erdoğan%|Recep Tayıb Erdoğan-%|Zenga@|Çevre Yolu%|İstasyon@
+74118	Tatlı Köyü	Tatlı=
+74161	Taşoluk Köyü	Taşoluk=
+70175	Tekel Mah.	101.~|102.~|103~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112~|113.~|114.~|115.~|116~|117.~|119~|120.~|121~|122.~|123~|124.~|126~|129.~|131.~|133.~|135.~|137.~|137/1~|138.~|140.~|141~|142.~|143~|143a~|147~|148~|150~|152~|154~|156.~|158.~|160.~|162.~|166~|167~|Batman@|Bağlar@|Cemre@|Emek@|Eğitim@|Prof. Dr. Aziz Sancar@|Recep Tayyip Erdoğan%
+74095	Teylan Köyü	Batman Siirt@|Deştekürk=|Teylan=
+74101	Tosunbağı Köyü	Tosunbağı=
+74100	Tosunbağı Köyü, Doğanlı Mezrası	Doğanlı=
+74162	Toytepe Köyü	Toytepe=
+74163	Toytepe Köyü, Tuzla Mezrası	Tuzla=
+74121	Tulumtaş Köyü	Tulumtaş=
+74120	Tulumtaş Köyü, Akbulut Mezrası	Akbulut=
+74122	Tulumtaş Köyü, Evciler Mezrası	Evciler=
+74119	Tulumtaş Köyü, Çukurlu Mezrası	Çukurlu=
+74102	Tütün Köyü	Tütün=
+74105	Tütün Köyü, Aydıncık Mezrası	Aydıncık=
+74106	Tütün Köyü, Tepecik Mezrası	Tepecik=
+74104	Tütün Köyü, Yapılar Mezrası	Yapılar=
+74103	Tütün Köyü, Çay Mezrası	Batman Siirt@|Bitlis Siirt@|Çay=
+74164	Uluköy Köyü	Uluköy=
+74165	Uluköy Köyü, Gümüşsuyu Mezrası	Gümüşsuyu=
+74166	Uluköy Köyü, Yuvalık Mezrası	Yuvalık=
+74167	Yakıttepe Köyü	Yakıttepe=
+74132	Yanarsu Köyü	Yanarsu=
+70176	Yayıkdere Mah.	801.~|802.~|803.~|804.~|805.~|806.~|807.~|808.~|809~|810~|811~|812~|813~|817.~|819.~|822~|823~|824~|914~|Gülistan@|Mevlana@|Sağlık Ocağı@|Telan@|Telan/1@
+74168	Yayıklı Köyü	Yayıklı=
+74169	Yellice Köyü	Yellice=
+70177	Yeni Mah.	1101.~|1102.~|1104.~|1106.~|1107.~|1108.~|1108a~|1109.~|1110~|1111.~|1112~|1113.~|1114~|1115.~|1117.~|1119~|1120.~|1121~|1122.~|1123.~|1124.~|1125.~|1126~|1127~|1128~|1129~|1130~|1131~|1133.~|1135~|1137.~|1139~|1401~|1402~|1403~|1410~|1412~|Batas@|Batman@|Göçer Tepesi=|Kayabağlar@|Limak~|Mereto@|Mezarlık@|Recep Tayyip Erdoğan%|Siirt%|Telan@|Zengin Tepe=|Çevre Yolu%
+70178	Yenidoğan Mah.	701.~|702.~|703.~|704.~|704a~|704b~|705.~|706.~|707.~|708.~|709.~|710.~|711.~|712.~|713.~|714.~|715.~|716.~|717.~|718.~|719.~|720.~|721.~|722.~|723~|727~|Ahmet Arif@|Bahar@|Beykent@|Gülistan@|Kervan@|Mehmet Akif Ersoy@|Recep Tayyip Erdoğan%|Sağlık@|Yaşar Kemal@|Şivan Perver@
+74107	Yeniköprü Köyü	Yeniköprü=
+74126	Yeşilkonak Köyü	Yeşilkonak=
+74170	Yoldurağı Köyü	Batman Siirt@|Yoldurağı=
+74127	Yuvalı Köyü	Yuvalı=
+74129	Yuvalı Köyü, Bozdoğan Mezrası	Bozdoğan=
+74128	Yuvalı Köyü, Soğuksu Mezrası	Soğuksu=
+74130	Yürekveren Köyü	Yürekveren=
+74131	Yürekveren Köyü, Mağaralı Mezrası	Mağaralı=
+74144	Çakıllı Köyü	Batman Siirt@|Çakıllı=
+74145	Çalıdüzü Köyü	Batman Siirt@|Çalıdüzü=
+74113	Çattepe Köyü	Çattepe=
+74079	Çayırlı Köyü	Batman Siirt@|Çayırlı=
+74114	Çeltikbaşı Köyü	Çeltikbaşı=
+74115	Çeltikbaşı Köyü, Balıklı Mezrası	Balıklı=
+74116	Çeltikbaşı Köyü, Ergüven Mezrası	Ergüven=
+74125	Üçpınar Köyü	Üçpınar=
+74124	Üçpınar Köyü, Aşağı Bişer Mezrası	Aşağı Bişer=
+74123	Üçpınar Köyü, Kargılı Mezrası	Kargılı=
+74154	İncirlik Köyü	Batman Siirt@|İncirlik=
+74155	İncirlik Köyü, Yolboyu Mezrası	Batman Siirt@|Yolboyu=
+74088	İğdeli Köyü	Bitlis Siirt/1@|Tosunbağı Doğanlı~
+74087	İğdeli Köyü, Yazılı Mezrası	Yazılı=
+74097	Şenköy Köyü	Şenköy=
+74099	Şenköy Köyü, Kuyulu Mezrası	Batman Siirt@|Kuyulu=
+74098	Şenköy Köyü, Yeniköy Mezrası	Yeniköy=

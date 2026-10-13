@@ -1,0 +1,24 @@
+20428	Bahçelievler Mah.	Ahmet Dede 1=|Ahmet Dede=|Ara~|Ata~|Bağlar 1.~|Bağlar 2.~|Bağlar 3.~|Bağlar 4.~|Bağlar 5.~|Bağlar 6.~|Bağlar 7.~|Bağlar@|Beyazıt 2.~|Beyazıt 3.~|Beyazıt 4.~|Beyazıt 5.~|Beyazıt 6.~|Beyazıt 7.~|Beyazıt 8.~|Beyazıt.@|Beyazıt.1.~|Bilinmeyen 8~|Bilinmeyen~|Darçıkmaz~|Davutpınarı 1.~|Davutpınarı 2.~|Davutpınarı 3.~|Davutpınarı~|Dağdibi 1.~|Dağdibi 2.~|Dağdibi 3.~|Dağdibi~|Demirci~|Dut~|Emniyet~|Fındık~|Gölet=|Harmanlar 1.~|Harmanlar 2.~|Harmanlar 3.~|Harmanlar 4.~|Harmanlar 5.~|Harmanlar 6.~|Harmanlar~|Kocabağlar=|Küçükpınar~|Menekşe~|Mercan 1.~|Mercan 2.~|Mercan 3.~|Mercan Dede@|Mercan~|Meydan~|Okul~|Okullar 1~|Okullar@|Çeşmeli 1.~|Çeşmeli 2.~|Çeşmeli 3.~|Çeşmeli 4.~|Çeşmeli~|Çiftlik@|Çirçir~|Çorum.@|Çukurca~|İğdeli 1.~|İğdeli 10.~|İğdeli 2.~|İğdeli 3.~|İğdeli 4.~|İğdeli 5.~|İğdeli 6.~|İğdeli 7.~|İğdeli 8.~|İğdeli 9.~|İğdeli@|Şırağıl Mevkii=
+24625	Doğanlar Köyü	 Köy$
+20429	Fatih Mah.	1.~|10.~|11.~|12.~|14.~|16.~|17.~|2.~|3.~|4.~|5.~|6.~|8.kozluca~|Ahmet Dede 1=|Ahmet Dede=|Bölükler@|Damat Çeşme 2.~|Damat Çeşme 3.~|Dağtarla=|Fatih 4.~|Fatih 6.~|Fatih 7.~|Fatih@|Gazi~|Havuzlar@|Hürriyet 1.~|Hürriyet 10.~|Hürriyet 11.~|Hürriyet 12.~|Hürriyet 13.~|Hürriyet 14.~|Hürriyet 2.~|Hürriyet 3.~|Hürriyet 4.~|Hürriyet 5.~|Hürriyet 6.~|Hürriyet 7.~|Hürriyet 8.~|Hürriyet 9.~|Hürriyet@|Kapılıkaya=|Karacaeşme@|Kozluca 1.~|Kozluca 2.~|Kozluca 3.~|Kozluca 4.~|Kozluca 5.~|Kozluca 6.~|Kozluca 7.~|Kışlalar 1.~|Kışlalar 2.~|Kışlalar 3.~|Kışlalar 4.~|Kışlalar 5.~|Kışlalar 6.~|Kışlalar 7.~|Kışlalar 8.~|Pınar 1~|Pınar~|Yamaç=|Çevre Yolu@|Çiftlik@|Çorum@|İskender~
+24627	Gökgözler Köyü, Karaköy Mevkii	 Köy$
+24628	Gökgözler Köyü, Merkez Mevkii	 Köy$
+24626	Gökçekaya Köyü	 Köy$
+24629	Gözübüyük Köyü, Karakütük Mevkii	 Köy$
+24632	Karasoku Köyü	 Köy$
+24633	Kavaklıçiftlik Köyü	 Köy$
+24635	Kuyumcu Köyü, Dutludere Mevkii	 Köy$
+24634	Kuyumcu Köyü, Kuyumcu Mevkii	 Köy$
+180984	Mescitli Köyü	Bülbül~|Camii~|Kanarya~|Mescitli Küme Evleri=|Namık Kemal~|Çorum~
+20434	Narlı Köyü, Ada Mevkii	Cumhuriyet~|Dalgıç~|Hamit Kaplan~|Katı Göz~|Kızamık~|Mehmet Akif~|Nar~|Yunus Emre~
+20435	Narlı Köyü, Bağlarbaşı Mevkii	Ata~|Badem~|Bağ~|Demet~|Demirciler~|Derya~|Eliaçık~|Gazi~|Gözübüyükler~|Gül~|Güzelyurt~|Hilal~|Kale~|Kayalar~|Kurtuluş~|Kızılırmak~|Mithat Paşa~|Sönmez~|Turnalar~|Yaldız~|İnönü~|İpek~|İzci~
+99527	Narlı Köyü, Cavraşlar Mevkii	Cavraşlar~
+20436	Narlı Köyü, Güney Mevkii	Ay~|Barış~|Gazi~|Güneş~|Kopar~|Kuyu~|Kızamık~|Mezarlık~|Salkım~|Çirçir~|Özlem~
+20437	Narlı Köyü, Yeni Mevkii	Aktaş~|Barbaros~|Engin~|Erdemli~|Fatih~|Gözübüyükler~|Gülveren~|Kumluk~|Küçükpınar~|Mevlana~|Milli Egemenlik~|Namık Kemal~|Sekiköy~|Selvi~|Suludere~|Sünbül~|Vatan~|Yunak~|Zümrüt~|Çamlık~|Çiftlik~|Çorum~|Özgür~|Ümit~|İstikbal~|İğdeli~
+24636	Sıtma Köyü	 Köy$
+20430	Yeni Mah.	Ahmet Dede 1=|Ahmet Dede=|Bahçeli~|Beyazıt@|Bilinmeyen 11~|Bilinmeyen 17~|Börekci~|Cumhuriyet~|Dikmen 1.~|Dikmen 2.~|Dikmen 3.~|Dikmen 4.~|Dikmen 5.~|Dikmen 6.~|Dikmen~|Dikmen/1~|Diyanet 1.sok~|Diyanet 2.~|Diyanet 3.~|Diyanet 4.~|Diyanet~|Doğan 1~|Doğan 1-~|Doğan~|Emekliler~|Fatih 2.~|Fatih 3.~|Fatih 5.~|Fatih Cad.1.sok@|Fatih@|Havuzlar@|Kahraman~|Karataş~|Keçeci~|Mimar Sinan 1.~|Mimar Sinan 3.~|Mimar Sinan 4.~|Mimar Sinan 5.~|Mimar Sinan 6.~|Mimar Sinan 7.~|Mimar Sinan 8.~|Mimarsinan 2.~|Mimarsinan@|Okullar 1~|Okullar 2~|Okullar 3~|Okullar 4.~|Okullar@|Pehlivan 1. Sk~|Pehlivan 2.~|Sanayi~|Sağlık~|Çiftlik@|Çorum.@
+24637	Yeşilpınar Köyü	 Köy$
+20433	Çamlıca Köyü, Yeşilyurt Mevkii	Atatürk~|Avcılar~|Bağcılar~|Bağcılar Çıkmazı~|Belediye~|Fatih~|Gazi~|Gazi Çıkmazı~|Lale~|Menekşe Çıkmazı~|Yüksel~|Çiğdem~|Çorum~|Ömer Efendi Çıkmazı~
+20432	Çamlıca Köyü, Şenyurt Mevkii	Cami Çıkmazı~|Demirciler~|Demirciler Çıkmazı~|Fatih~|Gülen~|Huzur 1.~|Huzur 2.~|Memiş Çıkmazı~|Mezarlık~|Tepebaşı~|Yumurtacılar Çıkmazı~|Yunus Emre~|Zahir Çıkmazı~|Çorum~|Üçdutlar Çıkmazı~
+24624	Çamlıpınar Köyü	 Köy$
+24631	İkizce Köyü	 Köy$

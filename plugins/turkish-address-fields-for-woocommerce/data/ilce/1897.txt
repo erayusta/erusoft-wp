@@ -1,0 +1,23 @@
+151027	Akkaya Mah.	Babucca~|Merkez~|Tevek~
+60907	Dere Mah.	Dere=|Fener=
+151029	Elmaköy Mah.	Davutoğlu~|İmamoğlu~|Şifa Suyu~
+151025	Göller Mah.	Duraklı=|Karşıyaka=|Kaynar=|Merkez=|Saklı=|Yukarı=
+151031	Gündoğdu Mah.	Hasandağı~|Merkez~
+60908	Güney Mah.	Güney=|Kaşbaşı=
+60909	Güneyce Mah.	Güneyce=
+60911	Hatipler Mah.	Hatipler=
+60910	Haşal Mah.	Haşal=
+151033	Karahamza Mah.	Aşağı Köy~|Karapınar~|Kıratlı~|Tikenoğlu~|Yukarı Köy~
+151035	Karahasan Mah.	Düz Kıran~|Fırışlık~|Merkez~|Öğrencik~
+60913	Karşıyaka Mah.	Karşıyaka=|Kavşak=
+151037	Kayatepe Mah.	Aşağı Kayatepe~|Davutoğlu~|Merkez~|Yukarı Kayatepe~
+151039	Keçili Mah.	Aşağı Kuşdoğan~|Aşağı Kızılot~|Dikyol~|Düzmeşe~|Elezbele~|Erikdüzü~|Kıraz~|Mağaza Pınarı~|Yukarı Kuşdoğan~|Yukarı Kızılot~
+60914	Kıran Mah.	Ali Efendioğlu=|Cami Düzü=|Kıran=
+151041	Madenköy Mah.	Merkez~|Taşboyu~|Üstgeriş~
+60915	Merkez Mah.	12 Eylül@|Aybastı@|Belediye@|Cami@|Fatsa@|Kanarya@|Recep Şenel@|Trafo@|Yüksel Çağlar@|İstiklal@|Şht.er Davut Uçuk@|Şht.er Şükrü Gelir@|Şht.hasan Özdenbaşı@
+151043	Ortaköy Mah.	Acegüney~|Aşağı Sarıbıyık~|Bükcüez~|Kalın Çorak~|Kızılot~|Orta~|Tuzla~|Yukarı Sarıbıyık~|Çılgılca~
+151045	Sayacatürk Mah.	Alçakbel~|Aşağı İskenli~|Devük~|Değirmendere~|Gevrek~|Merkez~|Yardibi~|Zıngıroğlu~
+60916	Terimli Mah.	Terimli=
+60917	Yeni Mah.	Yeni=
+60912	İncirli Mah.	İncirli=
+151047	Şirinköy Mah.	Aşağı Şirinköy~|Buruncu~|Hatipli~|Köseli~

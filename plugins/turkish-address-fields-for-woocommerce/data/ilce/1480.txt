@@ -1,0 +1,18 @@
+52886	Ahlatlı Köyü	Ahlatlı=
+52887	Ahmetler Köyü	Ahmetler=|Kocayazı=|Terzidere=
+52888	Aşağıkanara Köyü	Aşağı Kanara=|Yukarı Kanara=
+52889	Beyci Köyü	Beyci=
+52890	Devletliağaç Köyü	Devletliağaç=|Karahamza=
+52891	Elmacık Köyü	Elmacık=
+52892	Karaabalar Köyü	Karaabalar=
+52893	Kocatarla Köyü	Kocatarla=
+52894	Kocayazı Köyü	Kocayazı=
+52895	Kula Köyü	Kula=
+52896	Malkoçlar Köyü	Malkoçlar=
+52897	Tastepe Köyü	Tastepe=
+52898	Tatlıpınar Köyü	Tatlıpınar=
+52899	Terzidere Köyü	Terzidere=
+52900	Topçular Köyü	Topçular=
+49937	Yeni Mah.	100.yıl~|11 Kasım~|Bağlar Yolu~|Belediye~|Bozkaya 1=|Bozkaya 2=|Bozkaya=|Cami~|Camii 1~|Cevizlik Çıkmaz~|Cumhuriyet@|Defne Çıkmaz~|Depo Yolu~|Derinkuyu@|Değirmen~|Elmacık Tepe=|Fabrika~|Fevzi Çakmak@|Gazhane~|Gaziler@|Gül Çıkmaz~|Harmanlar 1~|Harmanlar~|Ihlamur~|Karanfil 1~|Karanfil 3~|Karanfil 5~|Karanfil 6~|Karanfil~|Kocadut~|Kırklareli@|Lale~|Menekşe Çıkmaz~|Mezarlık~|Papatya Çıkmaz 1~|Papatya Çıkmaz~|Savat Koru 1~|Savat Koru=|Serhad@|Sıhhiye~|Sığır Yolu=|Yasemin@|Yıldız~|Zübeyde Hanım@
+49938	Yeşillik Mah.	Ahlat Çıkmazı~|Akasya Çıkmazı~|Avcı Ağacı~|Açelya~|Bademlik~|Banka~|Bilinmeyen~|Bozkaya 1=|Cami~|Dere Çıkmazı~|Değirmen~|Dolay Tarla=|Fevzi Çakmak@|Fırın~|Gaziler@|Gülbahar~|Karanfil 1~|Karanfil 2~|Karanfil 3~|Karanfil 4~|Karanfil~|Kavaklı~|Koru~|Kütüklü Çıkmazı~|Kızlar Kayası~|Nergis~|Orkide~|Sardunya~|Sarmaşık Çıkmaz~|Savat Koru 1~|Savat Koru 2~|Savat Koru 3~|Suuçtu~|Söğüt~|Sümbül Çıkmazı 1~|Sümbül Çıkmazı~|Tastepe=|Yasemin 1~|Yasemin 2~|Yasemin@|Zambak Çıkmaz~|Zübeyde Hanım@|Çiğdem Çıkmaz~|Şimşir Çıkmazı~
+52901	Yukarıkanara Köyü	Yukarı Kanara=

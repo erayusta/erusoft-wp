@@ -1,0 +1,43 @@
+190169	Akbayır Mah.	Akbayır=
+100133	Aktepe Mah.	Adil Atabay~|Bılınmeyen22~|Bılınmeyen23~|Bılınmeyen5~|Eski Erzurum@|Gazi@|Ş.polis Burhanettin Ergün~
+190171	Altunkaya Mah.	Altunkaya=|Taşgeçit=
+190181	Atlı Mah.	Ardeşe=|Dere=|Orta/1=|Çiçekli=
+190177	Aşağıkaracasu Mah.	Aşağıkaracasu=
+190173	Aşağıçayırlı Mah.	Aşağıçayırlı=|Aşağıçayırlı1=|Soğukgöze=
+190185	Beğendik Mah.	Beğendik=
+190189	Beşkaya Mah.	Beşkaya=|Kesör=
+190193	Bozdoğan Mah.	Bozdoğan=|Bozdoğan1=
+190191	Boğazgören Mah.	Boğazgören=
+190197	Coşkunlar Mah.	Güvenlik=|Merkez=
+190205	Ekinlik Mah.	Ekinlik=
+190203	Eğlek Mah.	Akbayır Yolu=|Eğlek=
+190209	Filizli Mah.	Filizli=
+190211	Güngöründü Mah.	Güngöründü=|Güngöründü1=
+190267	Hükkam Mah.	Aşağı=|Dereağzı=|Hafızağa-~|Yaylalı=|Yukarı Cami=
+190215	Ilıkaynak Mah.	Ilıkaynak=|Yaylabaşı=
+190217	Kaban Mah.	Kaban=
+190219	Kaledibi Mah.	Duracık=|Kaledibi Merkez=|Kutlu=|Uğrak=
+190225	Karakoçlar Mah.	Karakoçlar=
+190229	Kekikli Mah.	Kekikli Merkez=|Salt=|Sumat=
+190227	Keçili Mah.	1. Keçili=|Keçili=
+190233	Köprübaşı Mah.	Köprübaşı=
+30044	Merkez Mah.	Ahmet Yesevi@|Arsa~|Atatürk@|Bılınmeyen15~|Bılınmeyen16~|Bılınmeyen17~|Bılınmeyen7~|Bılınmeyen8~|Bılınmeyen9~|Cumhuriyet@|Eski Erzurum@|Gazi@|Hürriyet@|Kültür~|Menekşe~|Osman Efendi~|Sağlık~|Sümbül~|İnkılap~|Ş.polis Burhanettin Ergün~|Şehit Asb. Üst. Çv. Nejdet Kayan~|Şehit Jan. Er Bülent Çalışkan~|Şehit Jan. Tğ. Sabri Kartal~|Şehit Jandarma Er Turgut Akyüz~|Şehit Onbaşı Taner Çiçek@|Şehit Orm. Fevzi Kaplan~|Şehit Polis Hüseyin Kalkan~|Şehit Polis Tunay Aydemir@|Şehit Polis Turgut Koçak~|Şehit Postacı Mesut Arslan~|Şht.öğrt.ilyas Acar~
+30045	Merkez Yeşilbağlar Mah.	Boyalı=|Kalo=|Kermasor=
+190237	Olgun Mah.	Olgun=
+190241	Olurdere Mah.	Olurdere=
+190245	Ormanağzı Mah.	1. Bağlar=|Bağlar=|Buzluca=|Ormanağzı Merkez=
+190235	Oğuzkent Mah.	Oğuzkent=
+190249	Sarıbaşak Mah.	Sarıbaşak=
+190253	Soğukgöze Mah.	Soğukgöze=|Taşgeçit=
+190257	Süngübayır Mah.	Süngübayır=
+190265	Taşgeçit Mah.	Taşgeçit=
+190269	Uzunharman Mah.	Ilıkaynak=|Uzunharman=|Uzunharman1=|Yaylabaşı=
+190273	Yaylabaşı Mah.	Ilıkaynak=|Yaylabaşı=
+190275	Yeşilbağlar Mah.	Bılınmeyen53~|Köprübaşı=|Yeşilbağlar=
+190281	Yolgözler Mah.	Yolgözler=
+190287	Yukarıkaracasu Mah.	Yukarıkaracasu=
+190283	Yukarıçayırlı Mah.	Yukarıçayırlı=
+190279	Yıldızkaya Mah.	Yıldızkaya=
+190199	Çataksu Mah.	Gümüş=|Güney=|Kazımkarabekir=|Kesör=|Çiftlik=|Çukur=
+190271	Ürünlü Mah.	Ürünlü=
+190259	Şalpazarı Mah.	Aşağı 1=|Orta=|Yukarı=

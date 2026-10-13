@@ -1,0 +1,14 @@
+191297	Beyköy Mah.	Beyköy=|Örencik~
+191299	Beyyayla Mah.	Beyyayla=
+30305	Bilal Habeşi Mah.	Atatürk@|Avcı Çıkmazı~|Aşağıbük=|Bahçelievler~|Girne@|Hal~|Hürriyet@|Kakmak~|Karanfil~|Kayısı@|Kocaçay@|Mihalıç Çıkmazı~|Orman~|Park~|Sanayi=|Stad@|Yayla~|Yayla Yolu=|Çamlıbel~|Çamlık~|Çağlayan@|Çetin~|İstiklal@|Şehit Er Ali Uysal@
+30301	Camikebir Mah.	Abdullah Yavuz@|Dere Yolu~|Düz~|Göçmez~|Hacı Kadı~|Kartal~|Kocaçay@|Kuyu Çıkmazı~|Manav Çıkmazı~|Pehlivan Çıkmazı~|Sarıbayır~|Stad@|Söyler~|Taşlık~|Yayla=|Zeybek Çıkmaz~|Çeşme~
+191301	Dağküplü Mah.	Avakası~|Büvetcik~|Dağküplü~|Gever Başı~|Karapınar~|Kozlu~|Uzun Tarla~|Yayla Evleri~|Örencik~
+191303	Düzköy Mah.	Düzköy=
+30304	Fatih Mah.	Abdullah Yavuz@|Ark~|Derviş~|Hatip Çıkmazı~|Hürriyet@|Kadıoğlu~|Karşıyaka=|Kılıç Çıkmazı~|Okul~|Orman~|Selçuk~|Yayla~|Yürür Çıkmazı~|Çağlan Küme Evleri=|Çağlayan@
+191305	Güney Mah.	Güney=
+191309	Kapıkaya Mah.	Kapıkaya=
+191295	Laçin Mah.	Akasya~|Altay@|Atatürk@|Barış~|Bayır Çıkmazı~|Bağlar~|Bilen~|Camii~|Ceyhan~|Ceylan~|Dar~|Demet~|Değirmen Dere=|Dikmen~|Dömen Mevkii=|Düz~|Er~|Ertuğrulgazi@|Esen~|Fatih@|Gül~|Hilal~|Hürriyet@|Karanfil~|Kaya~|Kağca Mevkii=|Kocakır Mevkii=|Kıbrıs (zafer)@|Kıbrıs@|Narlı~|Nergiz~|Nisan~|Nur~|Orman@|Oğuzhan@|Selçuk@|Taşkın~|Tekin~|Tuna@|Ulubuk~|Uysal~|Vatan@|Yavuz@|Yunus Emre@|Yıldız~|Çeşme~|Çimen~|Çınarkırı Mevkii=|Ömür@|Özlem~|İnan~
+191311	Mayıslar Mah.	Mayıslar=
+30302	Sarıkaya Mah.	Akın Çıkmazı~|Aşırlar~|Bahçe~|Bayram~|Bağlar~|Bağyolu~|Bilgin~|Büyük~|Cami~|Ceyhan~|Cihan~|Demirtaş~|Dik~|Erdal Çıkmazı~|Ertuğrul Çıkmazı~|Fidan~|Hürriyet@|Kadife Çıkmazı~|Kıbrıs@|Kızılyer=|Menekşe~|Molla~|Orman~|Sel~|Sezgin~|Suna~|Tekin~|Tombak~|Tınaz~|Yavuz~|Yağcı Çıkmazı~|Çayaltı=|Ünal~
+30303	Yeni Mah.	Abdulaziz Aydın~|Abdullah Yavuz@|Atilla~|Bayır~|Dere Yolu~|Doğan~|Fatih~|Gül~|Hürriyet@|Koral~|Köse~|Kıbrıs@|Müftü~|Okul~|Orman~|Suna~|Turan~|Yeni Cami~|Yenidoğan@|Çavdar~
+191307	İğdir Mah.	Yayla Evleri~|İğdir=

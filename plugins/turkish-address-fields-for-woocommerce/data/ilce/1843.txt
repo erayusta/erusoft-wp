@@ -1,0 +1,27 @@
+55431	Ayvacık Köyü	Ayvacık=
+55430	Ayvacık Köyü, Çatak Mezrası	Çatak=
+55433	Değirmendere Köyü	Değirmendere=
+55434	Gaipler Köyü	Gaipler=
+55435	Gürkuyu Köyü	Gürkuyu=
+55436	Gürkuyu Köyü, Karakaya Mevkii	Karakaya=
+51656	Hacı Hasanlar Mah.	Alibeyler=|Dombaycılar=|Kademler=|Mahalle İçi=|Mehmet Aliler=|Çiğdemli=|Şaphane-inceğiz Köy Yolu~
+51657	Kalabak Mah.	Emirler=|Mahalle İçi=|Otuzbirler=|Simav Şaphane Yolu@
+51658	Karaağıl Mah.	Hatipler=|Kademler=|Mahalle İçi=|Tireoğulları=|Yazıcılar=|Çiftçi~|Çiğdemli=|İnceeller=|İnceğiz@|Şaphane-inceğiz Köy Yolu~
+51659	Karacaderbent Mah.	1 Nolu~|2 Nolu~|3 Nolu~|Azerbaycan@|Bilinmeyen 1=|Biliınmeyenyol2=|Cebecioğulları=|Emirler 1=|Emirler=|Eseoğulları=|Ethem İnanç~|Galip Arıkan@|Göktürk~|Hasan Ağalar=|Karaahmetler=|Kaynarlar=|Kayı~|Kazak~|Kocaahmetler=|Kol Ağası Hüseyin Ağa@|Kırgız~|Mahalle İçi=|Muratlar=|Pehlivanlar=|Selçuklu@|Uygur~|Yakut~|Yenihan=|Özbek~
+55438	Karakür Köyü	Karakür=
+51663	Karamanca Köyü, Doktor Osman Mevkii	10 Nolu~|11 Nolu~|12 Nolu~|13 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|8 Nolu/1~|8 Nolu/2~|9 Nolu~|Atatürk~|Cumhuriyet 1-~|Cumhuriyet~|Cumhurıyet 1~|Karamanca Bilinmeyen/1~|Karamanca Bilinmeyen/15~|Karamanca Bilinmeyen/6~|Karamanca Bilinmeyen/7~|Karamanca Bilinmeyen/8~|Karamanca Bilinmeyen/9~|Köyderesi Yolu~|Mete Adanır~|Muzaffer Badaloğlu~|Simav Uşak Şosesi1~|Uşak-simav Şosesi~|Yedievler~
+51664	Karamanca Köyü, Gaziveli Mevkii	1 Nolu 1~|1 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|Karamanca Bilinmeyen/13~|Karamanca Bilinmeyen/14~|Karamanca Bilinmeyen/5~|Karamanca Bilinmeyen/6~|Karamanca Bilinmeyen/8~|Menderes~|Muzaffer Badaloğlu~|Sarıçam Köyyolu~|Uşak-simav Şosesi~
+51665	Karamanca Köyü, Yeşilalan Mevkii	14 Nolu~|15 Nolu~|Atatürk~|Cumhuriyet~|Cumhurıyet 1~|Karamanca Bilinmeyen/10~|Karamanca Bilinmeyen/11~|Karamanca Bilinmeyen/12~|Karamanca Bilinmeyen/16~|Karamanca Bilinmeyen/2~|Karamanca Bilinmeyen/3~|Mete Adanır 1~|Mete Adanır~|Mezarlık~|Simav-uşak Şosesi~
+55439	Karamustafalar Köyü	Karamustafalar=
+55440	Kızılkoltuk Köyü	Kayraklı=|Kızılkoltuk=|Topalahmetler=
+55443	Kızılkoltuk Köyü, Asmalı Mevkii	Asmalı=|Kayraklı=
+55441	Kızılkoltuk Köyü, Kayraklı Mevkii	Kayraklı=
+55442	Kızılkoltuk Köyü, Topalahmetler Mevkii	Topalahmetler=
+51660	Pazar Mah.	Ara~|Ara-~|Ayvacık@|Bağlar@|Bilinmeyen 2=|Burçak~|Cumhuriyet Myd.|Ege~|Emet@|Farfarlar=|Fatih~|Fuatbey@|Gül~|Hoca Ahmet Yesevi@|Hürriyet@|Kalaycılar~|Karakol@|Karakol~|Kayabaşı@|Kemer~|Lale~|Menderes@|Mezbaha~|Mustafa Türker@|Nalbant~|Okur~|Park~|Prof.güner Önce@|Sefer~|Son~|Tuzla~|Yasemin~|Yağmur~|Yeni Yol~|Yokuş~|Zeybek~|Zümrüt~|Çakıroğlu~|Çatal~|Çatalyolu@|Çavuş~|Çevre Yolu~|Çimenci@|Çit~|Çiğdem~|İ.hakkı Arıkan~|İlköğretim@
+51661	Subaşı Mah.	Akar~|Akın~|Ark~|Asarlık~|Avcı~|Bakırlı@|Cevizdibi~|Elmas~|Emet@|Eşref~|Kösürelik@|Mezbaha~|Ova~|Petek~|Semerci~|Subaşı=|Tutar~|Türmen~|Çatal~|Çim~|Çoban~|Çıkmaz~
+51662	Türegün Mah.	Akçagedik~|Ara~|Başak~|Boncuktaş@|Camii~|Cangal~|Cevizdibi~|Cumhuriyet Myd.|Ertan~|Esen~|Eski Karaağıl Yolu~|Fatih~|Fuatbey@|Gediz@|Gediz Simav Şoşesi@|Gediz-simav%|Gür~|Hizar~|Hürriyet@|Işıktepe Sosyal Konutları@|Jandarma~|Kabadöşek~|Kademler 2=|Kademler=|Kanal~|Karahan~|Karamanca@|Kasap~|Kasım Oktay~|Kayalar~|Kayran=|Kışla~|Mehmet Gökalp@|Mezarlık~|Mümin İnanç~|Narin~|Orhangazi~|Ormanyolu@|Ortacık~|Osmanlı@|Park~|Piri Reis@|Poyraz~|Prof.güner Önce@|Pınar~|Sabri İnanç~|Sanayi~|Sefer~|Selvi~|Sosyal Konutlar~|Soğukhava~|Subaşı 1=|Sultan~|Sülün~|Sümbül~|Tarım~|Türe~|Yakayol@|Yalçın~|Yamaç~|Yazağaç=|Yukarı Çimenci~|Zambak~|Zayıflar~|Zülfikar~|Çardak@|Çevre Yolu~|Çimenci@|Çiçek~|Çınar~|Özbey~|Ümit~|Üçbaş@|İ.hakkı Arıkan~|İslamoğlu~|İsmail Hakkı Karahan~|Şıhlar=|Şıhlar Çiftlik~
+55444	Uğurlugüme Köyü	Dombaycılar=|Uğurlugüme=
+55432	Çam Köyü	Çam=
+51666	Üçbaş Köyü, Atatürk Mevkii	Bağkış 1~|Bağkış 2~|Bağkış~|Demirel~|Fatih 1~|Fatih 2~|Fatih 3~|Fatih~|Gazi~|Gül~|Lale~|Türbe 1~|Türbe 2~|Türbe~|Üçbaş 1~|Üçbaş 2~|Üçbaş 3~|Üçbaş 4~|Üçbaş 5~|Üçbaş=
+51667	Üçbaş Köyü, Cumhuriyet Mevkii	Bağkış~|Demirel~|Fatih~|Gelincik~|Karamustafalar=|Karanfil 1~|Karanfil~|Menderes 1~|Menderes~|Mevlana 1~|Mevlana 2~|Mevlana 3~|Mevlana~|Onur 1~|Onur~|Sümbül~|Yunus Emre~|Zafer 1~|Zafer~|Zambak~|Çiğdem-~
+55437	İnceğiz Köyü	İnceğiz=

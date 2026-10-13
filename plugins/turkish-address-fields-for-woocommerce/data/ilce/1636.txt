@@ -1,0 +1,33 @@
+15902	Akçasu Köyü	Akçasu Köy Sokağı=
+10662	Balaban Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|3~|30~|4~|45~|5~|6~|7~|8~|9~|Alparslan Türkeş%|Balaban~|Balta~|Danışmentbey~|Değirmen~|Doğan~|Dündarbey~|Eskişehir Bilecik@|Eskişehir@|Eskişehir Yolu 1.=|Gündüzbey@|Gürpınar~|Güven~|Hankaya@|Karakeçili~|Kayacık~|Kurtuluş@|Kuz~|Orta~|Oğuz~|Pınardere~|Sancaktar~|Saraç~|Çimenlik~|İnönü@|İstiklal@
+15903	Borcak Köyü	Borcak Köy Sokağı=|İnhisar Söğüt Yolu@
+10663	Cumhuriyet Mah.	117~|118~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|154~|155~|156~|157~|158~|159~|160~|161~|162~|163~|164~|165~|166~|167~|168~|169~|170~|171~|172~|173~|174~|175~|176~|177~|178~|179~|180~|181~|182~|183~|184~|185~|186~|187~|188~|189~|190~|191~|192~|193~|194~|195~|196~|197~|198~|199~|54~|55~|57~|63~|68~|69~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|85~|97~|Ahievran~|Atatürk@|Ayhan~|Baykoca~|Bozüyük Yolu 1.=|Cumhuriyet@|Curabey@|Daracık~|Demirci~|Dereboyu 1.=|Dereboyu 2.~|Dereboyu~|Dinar~|Ersoy~|Fatih Sultan Mehmet@|Hankaya@|Kibar~|Kumral Abdal~|Kuyucak~|Köprü@|Kızılsaray Köyü Yolu 1.=|Mehmet Ayhan~|Mescit~|Metristepe~|Orhangazi@|Savcıbey~|Sünnetçi~|Yasemin~|Zambak~|Çelebi@|İnönü@|İpek~|Şehit Üsteğmen Onur İlkhan@
+15904	Dereboyu Köyü	Bozüyük Söğüt Yolu@|Dereboyu Köy Sokağı=
+183532	Dereboyu Köyü, Dereboyu Mücavir Mevkii	Dereboyu Köyiçi- Köy$
+15906	Dudaş Köyü	Dudaş Köy Sokağı=|Yeni Yerleşim Yeri~
+15905	Dömez Köyü	Dömez Köy Sokağı=
+15907	Geçitli Köyü	Geçitli Köy Sokağı=
+15908	Gündüzbey Köyü	Gündüzbey Köy Sokağı=|Söğüt Yolu@
+15909	Hamitabat Köyü	Hamitabat Köy Sokağı=
+15910	Hayriye Köyü	Hayriye Köy Sokağı=
+15911	Kayabalı Köyü	Kayabalı Köy Sokağı=
+10664	Kayhan Mah.	100~|101~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|35~|39~|40~|41~|42~|43~|44~|46~|47~|48~|49~|50~|51~|52~|53~|54~|55~|56~|57~|62~|64~|65~|66~|86~|87~|93~|94~|95~|96~|97~|98~|99~|Abdurrahman Gazi~|Akçakoca@|Alparslan Türkeş%|Alptekin~|Atatürk@|Aydoğdu Bey~|Bilecik Yolu 1.=|Bozüyük Yolu 2.=|Curabey@|Dellal~|Dr. Sadık Ahmet~|Dursun Fakıh@|Edebali@|Emir Karatekin~|Ertuğrulgazi@|Eskişehir Bilecik@|Fatih Sultan Mehmet@|Fatma Hatun~|Fevzi Çakmak@|Fulya~|Gündüzalp~|Güray~|Hamidiye~|Hayme Ana@|Hüdavendigar~|Karabuda~|Karanfil~|Kayıboyu~|Kileci~|Kirazdere~|Konuralp~|Malhunhatun~|Melikbey~|Menekşe~|Mihalgazi~|Musaoğlu~|Mustafa Şimşek@|Mutlu~|Nilüfer~|Osmangazi@|Papatya~|Refik Öztürk@|Sakarya@|Saltuk Alp~|Seher Fuçucu~|Stadyum~|Telekom~|Turgut Özal~|Yakup Maltaş@|Yunus Emre~|Zafer~|Zaimoğlu~|Çobanbey~|İpek Yolu@|Şehit Üsteğmen Onur İlkhan@|Şeker~
+15912	Kepen Köyü	Bozüyük Söğüt Yolu@|Kepen Köy Sokağı=
+10671	Küre Köyü, Küreosb Mevkii	1.~|2.~
+10670	Küre Köyü, Merkez Mevkii	1.-~|Atatürk/2~|Bahar~|Bilecik Söğüt Yolu@|Bilecik Yolu~|Burcu~|Cumhuriyet~|Dursun Fakıh~|Elmas~|Engin~|Esentepe~|Fatih~|Gonca~|Hastane~|Hastane1~|Hilal~|Kiraz Küme Evleri=|Kiraz~|Menekşe Küme Evleri=|Menekşe~|Nergis~|Nilüfer~|Papatya~|Sakin~|Sağlık Küme Evleri=|Sağlık~|Selvi~|Sönmez~|Tan~|Ufuk~|Yakut~|Yıldırım~|Yıldız~|Çetin~|Üzüm~|İnci~|İstiklal/1~|Şafak~|Şahin~|Şahin-~
+15913	Kızılsaray Köyü	Kızılsaray Köy Sokağı=
+15914	Oluklu Köyü	Oluklu Köy Sokağı=|Söğüt Yolu@
+10665	Orta Mah.	26~|27~|28~|29~|31@|32~|33~|36~|37~|38~|90~|91~|Aktimur~|Alparslan Türkeş%|Alperen~|Aydın~|Aykutalp~|Belediye~|Cami~|Candarbey~|Cemal Küflü@|Curabey@|Daracık~|Dağlıyar~|Dellal~|Doğu~|Emirali 1.~|Emirali~|Ertuğrulgazi@|Eskişehir Bilecik@|Eskişehir@|Eskişehir Yolu 2.=|Gündüzbey@|Halime Hatun~|Harmankaya~|Hasan Alp~|Karabuda~|Karamürsel~|Karasibey~|Kirazdere~|Kurttepesi 1.~|Kurttepesi~|Kurtuluş@|Köprü@|Kütüphane~|Malhunhatun~|Osmangazi@|Saitbey~|Sakarya@|Saruhanbey~|Selvi~|Sinema~|Tan~|Turgutalp~|Vakıf~|Zafer~|Çakabey~|Çelebi@|İnönü@|İstiklal 1.~|İstiklal@|Şehit Üsteğmen Onur İlkhan@|Şen~
+15915	Ortaca Köyü	Ortaca Köy Sokağı=
+15916	Rızapaşa Köyü	Rızapaşa Köy Sokağı=
+15917	Savcıbey Köyü	Savcıbey Köy Sokağı=
+15918	Sırhoca Köyü	Alparslan Türkeş%|Eskişehir Bilecik@|Söğüt Yolu@|Sırhoca Köy Sokağı=|İnhisar Söğüt Yolu@
+183534	Sırhoca Köyü, Sırhoca Mücavir Mevkii	Sırhoca Köyiçi- Köy$
+15919	Tuzaklı Köyü	Tuzaklı Köy Sokağı=
+10666	Türkmenbaşı Mah.	102~|58~|59~|60~|61~|67~|84~|88~|89~|Akçakoca@|Alparslan Türkeş%|Artukbey~|Bilecik Yolu 2.=|Bilecik Yolu 3.~|Bilecik Yolu 4.~|Bilecik Yolu 5.~|Bilecik Yolu 6.~|Doğanalp~|Dursun Fakıh@|Edebali@|Erenler~|Ertuğrulgazi@|Eskişehir Bilecik@|Fatih Sultan Mehmet@|Germiyanbey~|Göktepe@|Hamitbey~|Hüdavendigar~|Karamanbey~|Melek Hatun~|Orhan Bey~|Park~|Pazarlubey~|Samsa Çavuş~|Süleyman Şah@|Tavşanlı~|Türbe~|Çelik~
+15920	Yakacık Köyü	Yakacık Köy Sokağı=|İnhisar Söğüt Yolu@
+15921	Yeşilyurt Köyü	Söğüt Yolu@|Yeşilyurt Köy Sokağı=
+15922	Zemzemiye Köyü	Bursa Eskişehir@|Söğüt Yolu@|Zemzemiye Köy Sokağı=
+10667	Çaltı Köyü, Akarbaşı Mevkii	Akçakaya~|Atatürk/3~|Uğurlu~|Yayla~
+10668	Çaltı Köyü, Gür Mevkii	Atatürk~|Atilla~|Bademlik~|Belediye~|Elmalı~|Erenler~|Girne~|Gümüş~|Hamam~|Karaağaç~|Sefa~|Yayla~|Yeşil~|Zübeyde Hanım~|Çavuşlar Çıkmazı~|Çeşmeli~
+10669	Çaltı Köyü, Şen Mevkii	Bük~|Gümüş-~|Hamam-~|Kaplıca~|Sakarya~|Çavuşlar Çıkmazı-~|Çeşmeli-~

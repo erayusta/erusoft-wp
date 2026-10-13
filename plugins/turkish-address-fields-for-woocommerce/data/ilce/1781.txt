@@ -1,0 +1,14 @@
+143765	Ericek Mah.	Ericek~
+143767	Feslek Mah.	Feslek~
+143779	Gelenbe Mah.	Gelenbe~
+143769	Gündoğan Mah.	Gündoğan~
+10090	Kamilpaşa Mah.	16~|18~|20~|22~|22/1~|24~|24/1~|24/2~|26~|26/1~|28~|30~|32~|34~|36~|38~|40~|42~|44~|46~|48~|50~|52~|54~|56~|58~|60~|62~|64~|66~|68~|70~|70/1~|Ali Galip Bellek@|Atatürk@|Cumhuriyet Myd.|Gül~|Karakütük=|Körkuyu Mevkii=|Lale~|Mustafa Çavuş@|Mustafa Çavuş/1~|Sedde~|Sümbül~|Çağlayan@|Çolak İbrahim Bey@|Üniversite@|Şehit Yüzbaşı İdris Afyon@|Şehitler@
+10091	Kayaburnu Mah.	71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|90~|91~|92~|93~|94~|95~|Ali Galip Bellek@|Ericek@|Ericek Yolu Mevkii=|Muratdağı@|Sadettin Uyanık@|Sarıbaba@|Çağlayan@|Üniversite@|Şehit Yüzbaşı Bilal Soybilgiç@|Şehit Yüzbaşı İdris Afyon@
+143771	Kızıldere Mah.	Kızıldere~
+98793	Menderes Mah.	Adnan Menderes%|Bademarası=|Blokevler~|Fevzi Çakmak@|Kanal~|Kazım Karabekir@|Kuyular Mevkii=|Lise~|Mehmet Akif Ersoy~|Mezarlık Mevkii=|Ortaokul~|Park~|Savcıllıkırı=|Söğüt~|Vatan@|Yunus Emre~|Zeybekler~|Örnek~|İstasyon@|Şair~|Şehit Savcı Mehmet Selim Kiraz@|Şehit Üsteğmen Mehmet Esin~
+143773	Muratdağı Mah.	Muratdağı~
+143775	Ortakçı Mah.	Bekir Ongun%|Feslek@|Gelenbe@|Kızıldere@|Ortakcı@|Ortakçı~|Savcıllı@
+143777	Savcıllı Mah.	Savcıllı~
+10093	Zafer Mah.	1~|1/1~|1/2~|1/3~|101~|102~|103~|104~|3~|3/1~|5~|5/1~|7~|7/1~|7/2~|9~|9/1~|9/2~|Adnan Menderes%|Bademarası Mevkii~|Bahçe~|Begonya~|Efeler@|Fevzi Aksoy@|Hulusi Alpan@|Hüseyin Gökçetin@|Karanfil~|Kardelen~|Sanayi 1~|Sanayi 2~|Sanayi 3~|Sanayi 4~|Sanayi 4/1~|Sanayi 4/2~|Sanayi Myd.|Sanayi~|Yasemen~|Yeni~|Yusuf Başalı@|Zeytinoğlu@|Çolak İbrahim Bey@
+10092	Üçeylül Mah.	10~|12~|14~|2~|4~|6~|8~|Adnan Menderes%|Atatürk@|Pirelikaya Mevki=|Sedde~|Çolak İbrahim Bey@|Şehitler@
+10089	İstiklal Mah.	11~|11/1~|11/2~|13~|13/1~|15~|15/1~|15/2~|17~|17/1~|19~|19/1~|21~|23~|23/1~|25~|25/1~|27~|29~|31~|33~|35~|37~|39~|41~|43~|45~|47~|49~|Ali Galip Bellek@|Efeler@|Hulusi Alpan@|Karakütük=|Çolak İbrahim Bey@

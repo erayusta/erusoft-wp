@@ -1,0 +1,49 @@
+23627	Buğurören Köyü	Buğurören=
+23628	Büğdüz Köyü	Büğdüz=
+20292	Cem Sultan Mah.	Abdülhamit Han~|Ahmet Davutoğlu@|Ahmet Koçak~|Ahmet Uyanık~|Ahmet Yesevi@|Ahmet Yesevi/1~|Akpunarlar~|Ali Leventoğlu~|Beyazıt~|Bosna@|Bosna/1~|Börekçiler~|Büğdüz Yolu@|Canbazlar~|Celal Usta~|Cumhuriyet@|Cumhuriyet/11~|Cumhuriyet/16~|Cumhuriyet/3@|Cumhuriyet/5~|Devrez Köprüsü~|Erenler~|Erenler/1~|Erenler/2~|Ersoylar Cıkmazı~|Ertuğrul Gazi~|Eski Postane@|Fatih Sultan Mehmet@|Fevzi Çakmak@|Gazi~|Halil Akpunar~|Huzur~|Kemalettin Ersoy@|Kemalettin Ersoy/1~|Korkut Dede~|Leylak~|Mahmut Atalay~|Manolya~|Menekşe~|Mesir~|Mevlana~|Mimar Sinan@|Nadir Doğan~|Nakiboğlu~|Nevzat Ayaz /1~|Nevzat Ayaz@|Nevzat Ayaz/3~|Nevzat Ayaz/4~|Nevzat Ayaz/6~|Orhan Gazi~|Osman Dede@|Osman Dede/1~|Osman Dede/3~|Pınar~|Recep Koçak~|Recep Tayyip Erdoğan@|Recep Tayyip Erdoğan/1~|Rıza Doğan~|Sakarya@|Salkım~|Seyit Onbaşı~|Sultan Süleyman~|Uzun~|Uzun/1~|Uzun/2~|Uzun1~|Yavuz~|Yavuz Sultan Selim~|Yayla Kent@|Yayla Kent/1~|Yayla Kent/2~|Yayla Kent/3~|Yayık Ali~|Yaşar Doğru/1~|Yaşar Doğu~|Yunus Emre~|Çarşı~|Çelebi~|Çeliktenler~|Çiğdem~|Ömer Akpunar~|Üçgüller~|İdris Şahin~|İsmail Hakkı Duran~|Şehit Ahmet Yalçınkaya@|Şehit Ahmet Yalçınkaya/1~|Şehit Ahmet Yalçınkaya/2~|Şehit Uhut Kadir Işık@
+23629	Derebayındır Köyü	Derebayındır=
+198955	Dodurga Köyü, Eski Köy Mevkii	
+20296	Dodurga Köyü, Hamamönü Mevkii	Adem=|Adnanmenderes=|Atatürk=|Aşık=|Balcı=|Ballı=|Bayındır=|Büyükhabeş=|Cumhuriyet=|Değirmen=|Elma Dere=|Emeler=|Emikler=|Emin=|Hamam=|Hamdi=|Hatipler=|Kaftanhatun=|Kaplan=|Karanfil=|Melek=|Nuh Ağa=|Papatya=|Tepe-~|Terzi=|Topuzlar=|Turgutözal=|Yayla=|Yıldız=|Çankaya=|Çavuş Dede=|Çırçır=|Ünsallar=|Ünverdi=|İlyasoğlu=|Şentürk=
+20298	Dodurga Köyü, Kanarya Mevkii	Adnan Menderes=|Alparslan Türkeş=|Arıcı=|Atatürk=|Aşıklar=|Bahar=|Battalgazi=|Bayındır=|Belediye=|Bilge Kaan=|Damla=|Dedeoğlu=|Değirmen=|Elma Dere=|Erenler-~|Eşref-~|Gamze=|Halime=|Hamdi=|Hanimoğlu=|Kaftanhatun=|Karataş=|Koca=|Köroğlu=|Köse=|Manastır=|Manolya=|Muallim=|Musa=|Okul=|Park=|Recep Tayyip Erdoğan=|Sipahi=|Turgut Özal=|Vatan=|Vezir=|Yaşar Doğu=|Yunus=|Çiğdem=|Ünver-~
+20297	Dodurga Köyü, Naltepe Mevkii	Adnan Menderes=|Avşar=|Bakır=|Bal=|Beyazıt=|Bosna=|Cami=|Demircioğlu=|Dikilitaş=|Emine Sultan=|Eğrioğlu=|Fatma Hatun=|Gazi=|Gül=|Hasanağa=|Hasandede=|Huri=|Hızır=|Kadı=|Kaftan Hatun=|Kiraz=|Kuşcu=|Kör Hafız=|Mehmet Akif Ersoy=|Mimarsinan=|Molla=|Muzaffer=|Narçıkmaz=|Poyraz=|Salimbey=|Tavşanlı=|Uğur=|Yeni Pınar=|Yüzbaşı=|Çavuş=|Çimen=|Çiçek=|Şakirağa=|Şerbetçi=
+23630	Doğanlar Köyü	Doğanlar=
+23631	Elden Köyü	Elden=
+23632	Elden Köyü, Yayla Evleri Mezrası	Yayla Evleri=
+23633	Elden Köyü, Yeni Harman Yeri Mevkii	Yeni Harman Yeri=
+20299	Elmalık Köyü, Akçaören Mevkii	Akgedük=|Elmalı=
+20300	Elmalık Köyü, Elvan Mevkii	Akgedük=|Ankara=|Banaz=|Cumhuriyet=|Keşkekçi=|Torunlar=|Türbe Arkası=|Türbe=
+20301	Elmalık Köyü, Seydi Mevkii	Aydos=|Beyhan=|Cumhuriyet=|Güney=|Muslu=|Türbe=|Şahin=
+20293	Eski Yayla Mah.	Eski Yayla=|Eski Yayla/1=
+23635	Gökçeören Köyü	Gökçeören=
+23637	Gökçeören Köyü, Gökçeören Yayla Evleri	
+23636	Gökçeören Köyü, Yayla Evleri Yayla Evleri	Yayla Evleri=
+23638	Hasanhacı Köyü	Hasanhacı=
+23640	Hasanhacı Köyü, Yayla Evleri Yayla Evleri	Yaylaevleri=
+23641	Hüyükköy Köyü	Hüyükköy=
+20302	Kalfat Köyü, Hacı Hasan Mevkii	Akkurt-~|Ay-~|Bayrak-~|Belediye=|Bilgin=|Bulut-~|Cindek-~|Derinyol-~|Doğancılar=|Düzgün-~|Gökmeşe-~|Gölcük-~|Güne=|Güney=|Haltaş-~|Hilal-~|Hürriyet=|Kanalboyu-~|Karakaya-~|Karatekin-~|Millet=|Onay=|Sakarya=|Tuzla-~|Ulu=|Vatan=|Yatak-~|Yonca-~|Yıldız-~|Özcan-~|Şahin=|Şerafettin Kahveci=
+20305	Kalfat Köyü, Hatipler Mevkii	Aksu-~|Aydoğan-~|Belediye=|Bilgin=|Gökdoğan-~|Güller=|Güney=|Harman=|Hürriyet=|Kaymak=|Mehmet Akif=|Ulu=|Vatan=|Çeşme Yanı=
+20303	Kalfat Köyü, Nevzat Ayaz Mevkii	Cumhuriyet=|Gazi-~|Gökmen-~|Günbatımı-~|Gündüz=|Okul=|Selçuk=|Tepe=|Uluçay=|Çavuş-~|Çeşme Üstü=|Özdemir-~
+20304	Kalfat Köyü, Sünnetçiler Mevkii	10=|11=|12-~|13=|14=|15=|16=|17=|18-~|20=|21-~|22-~|24-~|25-~|26-~|27-~|28-~|29-~|30-~|31=|4-~|5-~|6-~|7-~|8-~|9-~|Akın=|Belediye=|Cami=|Cumhuriyet=|Eğrikaya=|Gökçeöz-~|Hekim=|Okul=|Sanayi=|Sarı-~|Söğütlü=|Topraklık-~|Uluçay=|Çataltepe=|Şekerciler=
+20294	Kanlıca Mah.	Ahmet Ay~|Ahmet Ay/1~|Büğdüz=|Fatih/7~|Gazi Halil Karagöz~|Hasan Sevinç~|Hızır~|Hızır/1~|Hızır/2~|Hızır/3~|Kanlıca 1~|Kanlıca 2~|Karanfil~|Karanfil/1~|Lale~|Lale/1~|Metin Alabaş~|Okul~|Ordueriler@|Ordueriler/1~|Ordueriler/2~|Ordueriler/4~|Rıza Alan~|Rıza Alan/1~|Sümbül/1~|Sümbül/2~|Tevfik Kış~|Tevfik Kış/1~|Tevfik Kış/2~|Tevfik Kış/3~|Tevfik Kış/4~|Tevfik Kış/6~|Yahya Özen~|Yaşar Ekin~|Yılmaz Kocabaş@|Yılmaz Kocabaş/1~|Yılmaz Kocabaş/2~|Yılmaz Kocabaş/5~|Çimen~|Çimen/1~|Çimen/2~|Ömer Topuz~|Ömer Topuz/2~|Ömer Topuz/3~|Ömer Topuz1~|Ünal~|İstanbul@|İstanbul/1~|İstanbul/2~|İstanbul/6~|Şehit Ali Uncu~|Şehit Hamza Aydoğan~|Şehit Hasan Bilgin~|Şehit Metehan Alp Kaya/1~|Şehit Metehan Alp Kaya/2~|Şehit Metehan Alp Kaya/3~|Şehit Metehan Alp Kaya/4~|Şehit Metehan Alp Kaya/5~|Şehit Metehan Alp Kaya/6~|Şehit Metehan Alp Kaya/7~|Şehit Metehan Alp Kaya/8~|Şehit Metehan Alp Kaya/9~|Şehit Metehan Alp/4~|Şehit Metehan Alpkaya~|Şehit Metehan Alpkaya/2~|Şehit Ramazan Uncu~|Şehit Uhut Kadir Işık@
+23643	Karaağaç Köyü	Karaağaç=
+23648	Kayıören Köyü	Kayıören=
+23649	Kırsakal Köyü	Kırsakal=
+23650	Kısaç Köyü	Kısaç=
+23651	Ortabayındır Köyü	Ortabayındır=
+23652	Ortabayındır Köyü, Yeni Ortabayındır Mevkii	Yeni Ortabayındır=
+23653	Sakaeli Köyü	Sakaeli=
+23654	Sakarcaören Köyü	Sakarcaören=
+23655	Salur Köyü	Salur=
+23656	Sancar Köyü	Sancar=
+20295	Sultan Beyazıt Mah.	Aydoğdu@|Aydoğdu/1~|Aydoğdu/2~|Aydoğdu/3~|Aydınlar~|Barbaros Hayrettin@|Battal Gazi@|Battal Gazi/1~|Battal Gazi/2~|Battal Gazi/3~|Bayrak~|Bayrak/1~|Bayrak/2~|Bayır~|Bayır/1~|Cami~|Cebeciler~|Cebeciler/1~|Cebeciler/2~|Cebeciler/3~|Coşkunlar~|Cumhuriyet@|Cumhuriyet/1~|Cumhuriyet/10~|Cumhuriyet/15~|Cumhuriyet/2~|Cumhuriyet/3@|Cumhuriyet/6~|Cumhuriyet/9~|Demirciler@|Demirciler/1~|Demirciler/2~|Devrez Köprüsü~|Devrez Köprüsü/1~|Doğular~|Doğular/1~|Doğular/2~|Doğular/3~|Doğular/4~|Eski Ankara@|Eski Ankara/1~|Eski Ankara1~|Eski Okullar@|Eski Okullar/1~|Gencosman@|Gencosman-@|Kalkandelen@|Kalkandelen/1~|Kırsakal=|Mehmet Akif Ersoy~|Mehmet Akif Ersoy/1~|Mimar Sinan-@|Orta Osb-@|Pazar Meydanı Myd.|Sakarca Ören/1~|Sakarca Ören/2~|Sevgi~|Sultan Beyazıt Mimar Sinan@|Ulubatlı Hasan~|Yılmaz~|İsmail Hakkı Karadayı@|İsmail Hakkı Karadayı/1~|Şehit Erkan Er@|Şehit Erkan Er/1~|Şehit Erkan Er/2~|Şehit Gültekin Karaman@|Şehit Gültekin Karaman/2~|Şehit Gültekin Karaman/3~|Şehit Gültekin Karaman/4~|Şehit Gültekin Karaman/5~|Şehit Gültekin Karaman/7~|Şehit Gültekin Karaman/8~|Şehit Gültekin Karaman/9~|Şehit Mustafa Erdal~
+23657	Tutmaçbayındır Köyü	Tutmaçbayındır=
+23658	Tutmaçbayındır Köyü, Taşlı Tarla Mevkii	Taşlıtarla=
+20308	Yaylakent Beldesi, Cumhuriyet Mah.	Ankara@|Ankara/2~|Ankara/3~|Ankara/4~|Ankara/6~|Ankara/7~|Arı~|Atatürk_1@|Bal~|Battal Gazi~|Battal Gazi/1~|Battal Gazi/2~|Bayrak@|Doğan~|Erenler~|Fatih@|Gazi Osman Paşa@|Gazi Osman Paşa/1~|Göçet Mevki=|Güdürek~|Gül~|Hamamönü@|Hamamönü/1~|Hamamönü/2~|Hamamönü/3~|Hamamönü/4~|Karapınar~|Kenan Evren@|Kenan Evren/1~|Kenan Evren/2~|Kenan Evren/3~|Kenan Evren/4~|Kenan Evren/5~|Kenan Evren/6~|Kenan Evren/7~|Kurt~|Kızıl Tepe~|Levent~|Moloz~|Sultan Süleyman@|Sultan Süleyman2~|Yazıcıoğlu~|Yunus Emre~|Yunus Emre/1~|Yılmaz~|Çakmak~|Özyolu@|İsmail Hakkı Karadayı 1~|İsmail Hakkı Karadayı@|İsmail Hakkı Karadayı/2~|İsmail Hakkı Karadayı/3~|İsmail Hakkı Karadayı/5~|İsmail Hakkı Karadayı/7~|İsmail Hakkı Karadayı/8~|Şahin/1~
+20309	Yaylakent Beldesi, Hürriyet Mah.	Abdülhamit Han~|Abdülhamit Han/1~|Adnan Menderes~|Akkaya Altı=|Alparslan Türkeş~|Ankara@|Ankara/5~|Atatürk Myd.|Barbaros@|Barbaros/1~|Barbaros/2~|Barbaros/3~|Barbaros/4~|Barbaros/5~|Barbaros/6~|Barbaros/7~|Cumhuriyet@|Dede Korkut~|Dede Korkut/1~|Dede~|Dede Yanı~|Dere~|Duduoğullar~|Eğitim~|Fevzi Paşa@|Fevzi Paşa/1~|Gazi Hasan Çaylak~|Güneş~|Hamidiye~|Hamidiye/1~|Hamidiye/2~|Hanımeli~|Karanfil~|Karanfil/1~|Kardelen~|Lale~|Lale/1~|Lale/2~|Lale/3~|Mevlana~|Nurettin Ok-~|Nurettinok~|Okul@|Papatya~|Piri Reis~|Piri Reis/1~|Sümbül~|Tufan Çıkmazı~|Tuzla~|Yavuz Sultan Selim~|Çatmapınar@|Çatmapınar/1~|Çatmapınar/2~|Çatmapınar/3~|Çatmapınar/4~|Çatmapınar/5~|Çatmapınar/6~|Çelebi~|İsmail Hakkı Karadayı@|Şehit Yunus Baş 1~|Şehit Yunus Baş~
+140791	Yaylakent Beldesi, Kayılar Mah.	Aydos~|Aydos Yaylası Küme Evleri~|Aydos Yaylası Küme Evleri/1~|Aydos Yaylası Küme Evleri/2~|Aydos Yaylası~|Aydos/1~|Aydos/2~|Aydos/3~|Aydos/4~|Aydos/5~|Aşağı Kayı~|Büyük Kayı~|Büyük Kayı/1~|Büyük Kayı/1/1~|Büyük Kayı/2~|Büyük Kayı/3~|Büyük Kayı/4~|Büyük Kayı/5~|Büyük Kayı/6~|Büyük Kayı/7~|Büyük Kayı/8~|Cami Yolu~|Cami Yolu/1~|Cami Yolu/2~|Cami Yolu/3~|Hacı Kızı~|Hacı Kızı/1~|Kayılar Küme Evleri~|Kayılar~|Mehmet Akif~|Mehmet Akif/1~|Molla Bekir~|Molla Bekir/1~|Osman Gazi~|Osman Gazi/1~|Osman Gazi/2~|Osman Gazi_2~|Tekçam~|Tekçam/1~|Tekçam/2~|Tuna Nehri@|Tuna Nehri/1~|Tuna Nehri/2~|Tuna Nehri/3~|Tuna Nehri/4~|Tuna Nehri/5~|Tuna Nehri/6~|Yalçın~|Yumrukaya@|Yumrukaya/1~|Yumrukaya/2~|Yumrukaya/3~|Yumrukaya/4~|Yumrukaya/5~|Çayyolu~|Çayyolu/1~|Çayyolu/2~
+20310	Yaylakent Beldesi, İnkilap Mah.	Yeşil Yurt@|Yeşil Yurt/1~|Yeşilöz=|Yukarı Yayla=|İnönü@|İnönü/1~|İnönü/10~|İnönü/2~|İnönü/3~|İnönü/4~|İnönü/5~|İnönü/6~|İnönü/7~|İnönü/8~|İnönü/9~
+23659	Yenice Köyü	Yenice=
+23660	Yuva Köyü	Yuva=
+20306	Özlü Köyü, Fatih Mevkii	Aciz=|Atatürk Cadde Çıkmazı=|Atatürk=|Demirel=|Eminönü=|Görkem=|Karaca Ören=|Nevzat Ayaz=|Papatya=|Yeşil Yurt=|Yıldırım Beyazıt=|Çalışkan=|Çiçek=|Çiğdem=|Çıkmaz=|Çınar=|Ören Mevkii=|Şen=|Şirin=
+20307	Özlü Köyü, Sancak Mevkii	Atatürk=|Ballı=|Bayrak=|Camii=|Dibecik=|Fetih=|Güven=|Hicran=|Köşem=|Osman Efendi=|Sakinler=|Seçkin=|Taş Kavmi=|Tutkular=|Uyanık=|Vatan=|Yıldırım Beyazıt=
+23642	İncecik Köyü	İncecik=

@@ -1,0 +1,95 @@
+4875	Aksu Köyü	Aksu=
+4876	Aksu Köyü, Gevrik Yağmurlu Mezrası	Gevrik Yağmurlu=
+4879	Aksu Köyü, Hürmer Mezrası	Hürmer=
+4877	Aksu Köyü, Senger Çömlek Mezrası	- Köy$
+4878	Aksu Köyü, Turmuşan Mezrası	Turmuşan=
+4880	Alancık Köyü	Alancık=
+4881	Alancık Köyü, Ger Mezrası	Ger=
+4883	Alancık Köyü, Küsran Mezrası	Küsran=
+4882	Alancık Köyü, Tişik Mezrası	Tişik=
+4884	Arıkonak Köyü	Arıkonak=
+4886	Arıkonak Köyü, Gevrol Mezrası	Gevrol=
+4887	Arıkonak Köyü, Göv Mezrası	Göv=
+4885	Arıkonak Köyü, Mengil Mezrası	Mengil=
+575	Ayengin Mah.	Gümcindi=|Gürük=|Karasu=|Şerefhan=
+4888	Balkaya Köyü	Balkaya=
+4892	Balkaya Köyü, Fırın Mezrası	Fırın=
+4891	Balkaya Köyü, Tokluca Mezrası	Tokluca=
+4889	Balkaya Köyü, Yaylabaşı Mezrası	Yaylabaşı=
+576	Cumhuriyet Mah.	Kargar=|Meran=
+4906	Dilektepe Köyü	Dilektepe=
+4907	Dilektepe Köyü, Kaskanlı Mezrası	Kaskanlı=
+4908	Dilektepe Köyü, Küçükçay Mezrası	Küçükçay=
+4909	Eskiköy Köyü	Eskiköy=
+577	Fatih Mah.	Aşağı Kaşkün=|Peker=|Yukarı Kaşkün=|Özgür=
+4910	Geçitli Köyü	Geçitli=
+4913	Geçitli Köyü, Senger Mezrası	- Köy$
+4912	Geçitli Köyü, Tuzik Mezrası	Tuzik=
+4911	Geçitli Köyü, Çat Mezrası	Çat=
+4914	Hasanlı Köyü	Hasanlı=
+4917	Hasanlı Köyü, Güzelsu Mezrası	Güzelsu=
+4916	Hasanlı Köyü, Karakaya Mezrası	Karakaya=
+4915	Hasanlı Köyü, Yanıkkaya Mezrası	Yanıkkaya=
+4918	Hüseyinli Köyü	Hüseyinli=
+4919	Hüseyinli Köyü, Gümükhan Mezrası	Gümükhan=
+4921	Hüseyinli Köyü, Yüksekova Mezrası	Yüksekova=
+4922	Hüseyinli Köyü, Çalılık Mezrası	Çalılık=
+4920	Hüseyinli Köyü, Çağlayan Mezrası	Çağlayan=
+4923	Karaköse Köyü	Karaköse=
+4925	Karaköse Köyü, Sorut Mezrası	Sorut=
+578	Karaman Mah.	Adnan Menderes@|Akif Küçükcan@|Atatürk Maydanı=|Cumhuriyet@|Dönmez=|Genco=|Halil Peker%|Hesanka=|Karşı Yaka Küme Evleri=|Korkut=|Mehmet Ataman@|Mundar=|Osman Yaşar@|Recep Tayyip Erdoğan%|Seyhan=|Tetikan=|Turgut Özal%|Vizan=|Yeşil Tepe=|Ömer Aybak@|Ömer Ulu@|İstiklal=
+581	Mahmutoğlu Mah.	Arif Kaya Küme Evleri=|Demir Küme Evleri=|Tekir Dağ Küme Evleri=|Çınar Küme Evleri=
+4927	Narlı Köyü	Narlı=
+98857	Narlı Köyü, Akdağ Mevkii	
+579	Onur Mah.	Cumhuriyet@|Gumraz Küme Evleri=|Halil Peker%|Mağ=|Millahasana=|Obalı Şüti=|Sincik=|Tetikan=|Yeşil Tepe=|Ömer Ulu@|İstiklal=
+4926	Pınarbaşı Köyü	Pınarbaşı=
+4933	Sakız Köyü	Sakız=
+4930	Sakız Köyü, Derecik Mezrası Mezrası	Derecik Mezrası=
+4931	Sakız Köyü, Hayırlı Mezrası	Hayırlı=
+4932	Sakız Köyü, Kocagazi Mezrası Mezrası	Kocagazi Mezrası=
+4929	Sakız Köyü, Küçük Evler Mezrası	Küçük Evler=
+4928	Sakız Köyü, Yayla Evleri Mezrası	Yayla Evleri=
+4937	Serince Köyü	Serince=
+4935	Serince Köyü, Gollusor Mezrası	Gollusor=
+4936	Serince Köyü, Soğanlı Mezrası	Soğanlı=
+4934	Serince Köyü, Yassıkaya Mezrası	Yassıkaya=
+4940	Subaşı Köyü	Subaşı=
+4938	Söğütlübahçe Köyü	Söğütlübahçe=
+4939	Söğütlübahçe Köyü, Aydın Mezrası	Aydın=
+4954	Taşkale Köyü	Taşkale=
+4952	Taşkale Köyü, Damlı Merkez Mezrası	Damlı Merkez=
+4955	Taşkale Köyü, Ekinci Kutan Mezrası	Ekinci Kutan=
+4951	Taşkale Köyü, Rezan Sağlam Mezrası	Rezan Sağlam=
+4953	Taşkale Köyü, Zevisimilan Mezrası	Zevisimilan=
+4950	Taşkale Köyü, Şamlük Kalımlı Mezrası	Şamlük Kalımlı=
+4924	Uğurlu Köyü, Köyün Kendisi Mezrası	Uğurlu=
+4872	Yarpuzlu Köyü	Yarpuzlu=
+4874	Yarpuzlu Köyü, Hodri Mezrası	Hodri=
+4873	Yarpuzlu Köyü, Şahintepe Mezrası	Şahintepe=
+580	Zeynel Aslan Mah.	Ağdi=|Aşağı Peyizge=|Küran Küme Evleri=|Mezra=|Yukarı Peyizge=|Çiçek=
+4893	Çamdere Köyü	Çamdere=
+4899	Çamdere Köyü, Elmırtan Mezrası	Elmirtan=
+4898	Çamdere Köyü, Hazaz Mezrası	Hazaz=
+4895	Çamdere Köyü, Hesikan Mezrası	Hesikan=
+4896	Çamdere Köyü, Hijik Mezrası	Hijik=
+4894	Çamdere Köyü, Serbent Mezrası	Serbent=
+4901	Çat Köyü	Çat=
+4900	Çat Köyü, Düdan Mezrası	Düdan=
+4902	Çatbahçe Köyü	Çatbahçe=
+4905	Çatbahçe Köyü, Tepebaşı Mezrası	Tepebaşı=
+4904	Çatbahçe Köyü, Çarhanek Mezrası	Çarhanek=
+4903	Çatbahçe Köyü, Çavçük Mezrası	Çavçük=
+584	İnlice Beldesi, Fırat Mah.	Fırat=|Gedük=|Narun Küme=|Teksöz=|Yenıyoll=
+585	İnlice Beldesi, Karadağ Mah.	Karadağ=|Kelesuk=
+587	İnlice Beldesi, Taşlıca Mah.	Taşlıca=
+588	İnlice Beldesi, Tuna Mah.	Tuna=
+583	İnlice Beldesi, Çükan Mah.	Çükan=
+582	İnlice Beldesi, Çınar Mah.	Grikan=|Kelesuk=|Sergazi=|Tuna=|Çınar=
+586	İnlice Beldesi, Özbilgin Mah.	Balığan=|Çemihelikan Küme=|Özbilgin=|Şamlıyan=
+4941	Şahinbeyler Köyü	Şahinbeyler=
+4944	Şahinbeyler Köyü, Adaklar Mezrası	Adaklar=
+4942	Şahinbeyler Köyü, Küplüce Mezrası	Küplüce=
+4943	Şahinbeyler Köyü, Kürelifan Mezrası	Kürelifan=
+4945	Şahkolu Köyü	Şahkolu=
+4947	Şahkolu Köyü, Biriman Mezrası	Biriman=
+4949	Şahkolu Köyü, Dervişan Mezrası	Dervişan=

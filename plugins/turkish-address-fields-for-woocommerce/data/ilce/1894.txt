@@ -1,0 +1,64 @@
+35247	Akköy Köyü, Aşağı Mevkii	 Köy$
+35246	Akköy Köyü, Yukarı Mevkii	 Köy$
+35250	Bakımlı Köyü, Aşağı Mevkii	 Köy$
+35252	Bakımlı Köyü, Güzören Mevkii	 Köy$
+35249	Bakımlı Köyü, Kaşdibi Mevkii	 Köy$
+35251	Bakımlı Köyü, Konak Mevkii	 Köy$
+35248	Bakımlı Köyü, Öte Mevkii	 Köy$
+30774	Beyli Mah.	Aşağı Beyli~|Bey Konağı@|Orta Beyli~|Yukarı Beyli~
+30771	Cami Yanı Mah.	Akkaş~|Alimengranı~|Aydın@|Ayyıldız@|Barış~|Berber Kemal~|Dikcegil~|Hacıbükü Hamdi Dede@|Katırcıoğlu~|Kuzcaköy@|Mahmutlu~|Mutlu~|Purboğaz~|Saffet Şengün=|Temel Efendi 1~|Temel Efendi 2~|Çeğel Kıranı 1.küme Ev=|Çeğel Kıranı 2.küme Ev=|Çeğel~|Çeşme Gözü~|Şenel~|Şengünlü 1.küme Ev=|Şengünlü 2.küme Ev=
+35259	Deregözü Köyü, Cami Mevkii	 Köy$
+35261	Deregözü Köyü, Erikbükü Mevkii	 Köy$
+35264	Deregözü Köyü, Gücer Mevkii	 Köy$
+35256	Deregözü Köyü, Güregeriş Mevkii	 Köy$
+35258	Deregözü Köyü, Kavak Mevkii	 Köy$
+35265	Deregözü Köyü, Kirazören Mevkii	 Köy$
+35257	Deregözü Köyü, Merkez Mevkii	 Köy$
+35262	Deregözü Köyü, Sekü Mevkii	 Köy$
+35260	Deregözü Köyü, Yaplu Mevkii	 Köy$
+35255	Deregözü Köyü, Yazlık Mevkii	 Köy$
+35263	Deregözü Köyü, Çorak Mevkii	 Köy$
+35266	Doğanköy Köyü, Aşağı Mevkii	 Köy$
+35268	Doğanköy Köyü, Kıran Mevkii	 Köy$
+35267	Doğanköy Köyü, Yukarı Mevkii	 Köy$
+35271	Düzköy Köyü, Armutdüzü Mevkii	 Köy$
+35269	Düzköy Köyü, Cücüklü Mevkii	 Köy$
+35270	Düzköy Köyü, Merkez Mevkii	 Köy$
+35272	Egeköy Köyü, Beküşlü Mevkii	 Köy$
+35278	Egeköy Köyü, Boztoprak Mevkii	Boztoprak=
+35273	Egeköy Köyü, Dalmanlı Mevkii	 Köy$
+35280	Egeköy Köyü, Dergözü Mevkii	 Köy$
+35274	Egeköy Köyü, Ege Mevkii	 Köy$
+35277	Egeköy Köyü, Harman Kıranı Mevkii	 Köy$
+35276	Egeköy Köyü, Kırıklı Mevkii	 Köy$
+35275	Egeköy Köyü, Ömerli Mevkii	 Köy$
+35279	Egeköy Köyü, Şıhlı Mevkii	 Köy$
+35281	Erenköy Köyü, Kösekıranı Mevkii	 Köy$
+35282	Erenköy Köyü, Merkez Mevkii	 Köy$
+35300	Kahraman Köyü, Karaçatak Mevkii	 Köy$
+35302	Kahraman Köyü, Tekdoruk Mevkii	 Köy$
+35301	Kahraman Köyü, Tezderesi Mevkii	 Köy$
+35284	Kaledibi Köyü, Güney Mevkii	 Köy$
+35285	Kaledibi Köyü, Kale Mevkii	 Köy$
+35283	Kaledibi Köyü, Kuz Mevkii	 Köy$
+30776	Karabörk Köyü, Kuz Mevkii	Geyiktepe=|Kuz=|Maden=
+30775	Karabörk Köyü, Merkez Mevkii	Atatürk=|Belamtam=|Coşkun Köçek=|Kömdüzü=|Mahmut Çiti=|Yeniköy=|Çakılca Kaya=
+30777	Karabörk Köyü, Çöcen Mevkii	Tepe Ören=|Çöcen=
+35293	Kuşköy Köyü, Gürebükü 2 Mevkii	 Köy$
+35290	Kuşköy Köyü, Gürebükü Mevkii	 Köy$
+35291	Kuşköy Köyü, Güvende Çubuğu Mevkii	 Köy$
+35289	Kuşköy Köyü, Kise 2 Mevkii	 Köy$
+35288	Kuşköy Köyü, Kise Mevkii	 Köy$
+35286	Kuşköy Köyü, Merkez Alt Mevkii	 Köy$
+35287	Kuşköy Köyü, Merkez Üst Mevkii	 Köy$
+35292	Kuşköy Köyü, İzzetli Mevkii	 Köy$
+30772	Merkez Mah.	Bekir Baba~|Dedeli Necmi Gümüş~|Dere Üstü~|Gazi Çavuş Kemal Gülal@|Gül~|Güllüklü Gıran~|Güneş~|Karahasan Rampası~|Karşıyaka=|Kuzcaköy@|Kıdıkoğlu~|Lokman Çağırıcı@|Muzaffer Bilge~|Nedim Baba~|Osman Bilge@|Prof.dr.ilhan Özdemir@|Tekegil~|Yıldız~|Çamurlu Boğaz~|Öncü~|İmamlı Ahmet Yıldız@|Şehit Bekçi Ömer Aydemir~|Şehit Jandarma Er Çoşkun Köçek~|Şehit Komando Onbaşı Yakup Kulaksız Myd.|Şehit Onbaşı Adil Çevik@|Şehit Piyade Er Asım Türk~|Şehit Teğmen Furkan Yayla Myd.|Şehit Uzman Çavuş Murat Kasım@|Şehit Uzman Çavuş İzzet Emir@|Şerif~
+30773	Orta Mah.	Arifli~|Aydınlı~|Aydınoğlu=|Aziz Kasım@|Aşağı Madala@|Cemre~|Dede~|Dereiçi~|Dikcegil~|Emin Çavuş~|Eminoğlu~|Emirli=|Emiroğlu~|Gültekin~|Haliloğlu~|Hekimoğlu~|Horuz~|Kale=|Karahasan Rampası~|Karasakallı 1.~|Karasakallı@|Kasımlı=|Kocalı=|Kop Halil Bilge=|Kop Halil~|Kuzcaköy@|Mürselli~|Seyitli~|Yukarı Madala~|Çakıltaşı~|Çeşme Gözü~|Çürük Ali=|Çürükali 1.~|Çürükali 2.~|Öztürk~|Şerif~|Şevkioğlu~
+35294	Sarayköy Köyü, Kıran Mevkii	 Köy$
+35295	Sarayköy Köyü, Orta Mevkii	 Köy$
+35296	Sarayköy Köyü, Üst Mevkii	 Köy$
+182260	Yenişadı Köyü	 Köy$
+35298	Yeşilköy Köyü, Kuz Mevkii	 Köy$
+35299	Yeşilköy Köyü, Yakuplu Mevkii	 Köy$
+35297	Yeşilköy Köyü, Yargeliş Mevkii	 Köy$
+35254	Çağlayan Köyü	 Köy$

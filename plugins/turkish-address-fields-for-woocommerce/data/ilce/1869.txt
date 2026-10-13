@@ -1,0 +1,30 @@
+53036	Avanoğlu Köyü	Avanoğlu=
+53037	Avanoğlu Köyü, Çökelek Mevkii	Çökelek=
+53038	Ayvalı Köyü	Ayvalı=
+53049	Derefakılı Köyü	Derefakılı=
+53039	Güllühüyük Köyü	Güllühüyük=
+53040	Güllühüyük Köyü, Hatunkara Mevkii	Hatunkara=
+53050	Hacıfakılı Köyü	Hacıfakılı=
+53041	Hamzabey Köyü	Hamzabey=
+53051	Hasanali Köyü	Hasanali=
+53042	Kilimli Köyü	Kilimli=
+53048	Kösefakılı Bucak Merkezi Köyü	Kösefakılı Bucak Merkezi=
+53043	Küçükabdiuşağı Köyü	Küçükabdiuşağı=
+50042	Mahsenli Köyü, Aliefendi Mevkii	Ahi-1~|Ahi-2~|Ahi-3~|Bahçeli-1~|Bahçeli-2~|Cevizli~|Kırşehir Akçakent Yolu~|Lale~
+50043	Mahsenli Köyü, Karşıyaka Mevkii	Ahi-1~|Cevizli~|Gültepe~|Harmantepe~|Çınarçık~
+50044	Mahsenli Köyü, Tepe Mevkii	Batı~|Kuzey~|Tepebaşı~
+53054	Polatlı Köyü	Polatlı=
+53047	Solakuşağı Köyü	Avanoğlu=|Solakuşağı=
+53055	Taşlıoluk Köyü	Taşlıoluk=
+53056	Tepefakılı Köyü	Tepefakılı=
+53052	Yaylaözü Köyü	Yaylaözü=
+53053	Yaylaözü Köyü, Güvemli Yayla Evleri	Güvemli=
+50040	Yenikent Mah.	Atatürk@|Atatürk8~|Atatürk9~|Belediye~|Belediye2~|Esenyurt=|Eyüp Has~|Eyüp Has1~|Gökhan Maraş=|Kazım Çağlayan~|Korutepe@|Korutepe5~|Korutepe6~|Korutepe7~|Kültür~|Mehmet Ali Yapıcı~|Mehmet Ali Yapıcı1~|Mehmet Ali Yapıcı2~|Meşe~|Mustafa Yıldırım~|Palamut~|Said Demirel~|Said Demirel2~|Said Demirel4~|Çiğdem~|Çiğdem1~|Çiğdem2~|Çiğdem3~
+50041	Yeniyapan Mah.	Atatürk-1=|Atatürk-2=|Kamışlı=|Yeşilevler=
+53058	Yetikli Köyü	Yetikli=
+53057	Yetikli Köyü, Güneşli Mevkii	Güneşli=
+53059	Yeşildere Köyü	Yeşildere=
+53045	Ödemişli Köyü	Ödemişli=
+53044	Ödemişli Köyü, Dere Mevkii	Dere=
+53046	Ömeruşağı Köyü	Ömeruşağı=
+50039	Şehricedid Mah.	Atatürk@|Atatürk10~|Atatürk11~|Atatürk12~|Atatürk4~|Atatürk5~|Atatürk7~|Belediye2~|Emin Çolak~|Emin Çolak1~|Korutepe@|Korutepe1~|Korutepe2~|Korutepe3~|Korutepe4~|Said Demirel~|Said Demirel1~|Said Demirel2~|Said Demirel3~|Said Demirel4~|Şevki Göğüsger~

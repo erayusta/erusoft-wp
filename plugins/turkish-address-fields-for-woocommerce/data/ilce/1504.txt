@@ -1,0 +1,70 @@
+193331	Abalı Mah.	Abalı 2=|Abalı=|Abalı1=|Diyarbakır Bingöl@
+193333	Akçabudak Mah.	Alıçlıyayla=|Botyan Yalıca=|Dergen=|Hiç=|Kasan=|Koçnarin=|Mahmut=|Orahli=|Tahtakülek=
+193335	Arıklı Mah.	Arıklı=|Diyarbakır Bingöl@|Çelebi=
+193337	Baharlar Mah.	Baharlar=|Gönen=|Hamzabey=|Saray=|Sezen=
+193339	Bayırlı Mah.	Bayırlı=|Bilgin=|Mehmedel=|Sağlık=|Tuverek=
+193465	Bağlan Mah.	Bağlan=|Esenli=
+193341	Birlik Mah.	Ayaz=|Birlik=|Diyarbakır Bingöl@|Gezan=|Görtnahım=|Kelesi=|Opek=|Öğrendi=|Şenan=|Şüktmeyik=|Şıkan=
+193343	Budak Mah.	Budak=|Dallıca=
+21131	Camikebir Mah.	Camiikebir 1.~|Camikebir 2. Sokak~|Eski Lice (sokak)~|Fehmi Bilal@|Halit Nazmi Balkaş Sokak~|Mele Halil Sokak~|Şeyh İsmail Caddesi@
+193351	Dallıca Mah.	Alataş=|Bakanlar=|Dallıca=|Kablo=
+193353	Damar Mah.	Damar=|Kulp Lice Yolu%
+193355	Daralan Mah.	Dahlek=|Daralan=|Diyarbakır Bingöl@
+21133	Delvan Mah.	Delvan 1~|Delvan 2~|Delvan 3~|Delvan 4~|Diyarbakır@|Goma Zengo=|Halis Toprak%|Kaya/1@|Lise@|Yenişehir 6~|Öğretmen Evi@
+193357	Dernek Mah.	Acımeşe=|Aşağı Çalıbükü=|Dernek=|Diyarbakır Bingöl 3@|Diyarbakır Bingöl@|Kıjık Badem=|Yukarı Çalıbükü=
+193475	Dibek Mah.	Dibek 1%|Dibek=|Halis Toprak%|Kaniyasıpi=|Çiğdem=
+193481	Dolunay Mah.	Dolunay=
+193359	Duru Mah.	Bekiran=|Diyarbakır Bingöl@|Duru=|Hani Yolu@|Işıklı=|Işıkten=|Kavacık=|Kutlamış=|Musabey=|Şefik Bey=
+193361	Ecemiş Mah.	Aşağı Akbulgur=|Dağarası=|Ecemiş=|Elma Deresi=|Orta Akbulgur=|Yukarı Akbulgur=|Şahbek=
+193363	Ergin Mah.	Diyarbakır Bingöl@|Ergin 1=|Ergin=|Gezan=
+193485	Esenler Mah.	Esenler=|Sağlam=
+193489	Gökçe Mah.	Diyarbakır Bingöl@|Gökçe=
+193367	Güldiken Mah.	Derince=|Eski Mahalle=|Gelberi=|Göze=|Güldiken=|Orta Mahalle=|Yaka=|Çötuk=|Şeyhmuz=
+193369	Gürbeyli Mah.	Eski Damar Yolu@|Farız=|Gürbeyli=|Konuklu 2. (cadde)=|Kulp Lice Yolu%
+193365	Güçlü Mah.	Diyarbakır Bingöl@|Güçlü=
+193371	Hedik Mah.	Görtan=|Hedik=|Seyrek=|Şağurdağı=
+193491	Kabakaya Mah.	Esenli=|Kabakaya=|Köprübaşı=|Zuhur=|Çanaklı=
+21134	Kali Mah.	Barış@|Değirmen@|Diyarbakır@|Fehmi Bilal@|Havacılar@|Kali 1~|Kali 10~|Kali 11~|Kali 12 (sokak)~|Kali 2~|Kali 3~|Kali 4~|Kali 5~|Kali 6~|Kali 7~|Kali 8~|Kali 9~|Karahasan@|Yusuf Ziya Ekinci@
+21135	Karahasan Mah.	6 Eylül@|Akro=|Aşağı Akro=|Aşağı Karabükü 1.=|Berı Tahar=|Bırık Mezrası=|Cevsak Mezresı=|Dabılo 1=|Dabılo@|Diyarbakır Bingöl 1.=|Diyarbakır Bingöl 2.=|Diyarbakır Bingöl 3@|Diyarbakır Bingöl@|Diyarbakır@|Eminoğlu=|Goma Feyzo=|Goma Salih=|Halis Toprak 2=|Halis Toprak%|Havacılar@|Hüryol=|Hıcıkan Mezrası=|Kali 10~|Karahasan 1~|Karahasan 2~|Karahasan 3~|Karahasan 4~|Karahasan 5~|Karahasan 6~|Karahasan 7~|Karahasan 9~|Karahasan@|Karangoz=|Kıjık Badem=|Mamo=|Mehmet Güle=|Park@|Pehnav=|Yibo ( Cadde)=|Yukarı Serı Şırt=|Yusuf Ziya Ekinci@|Çapaoğlu=
+21136	Kelvan Mah.	Bağlar@|Behcet Cantürk@|Cezaevi@|Demirçelik@|Hınk@|Karagöz@|Kelvan 1~|Kelvan 10~|Kelvan 11~|Kelvan 2~|Kelvan 3~|Kelvan 4~|Kelvan 5~|Kelvan 6~|Kelvan 7~|Kelvan 8~|Kelvan 9~|Mulla@|Mümin Ağa@|Okul@|Ş.t.bahtiyar Aydın@
+21138	Kumluca Mah.	Eko Hanım 1=|Eski Yeşilburç (cadde)=|Fehmi Bilal@|Konuklu 2. (cadde)=|Kulp Lice Yolu%|Kumluca 1 ( Cadde)=|Kumluca 1~|Kumluca 2 (cadde)=|Kumluca 2~|Kumluca 3~|Kumluca 4~|Kumluca 5~|Kumluca 6~|Kumluca 7~|Kumluca 8.(sokak)~
+193381	Kutlu Mah.	Kerpiçören=|Kutlu=
+21137	Körtük Mah.	6 Eylül@|Aydın@|Halis Toprak 1.~|Halis Toprak%|Kaniyasıpi=|Körtük 1~|Körtük 10~|Körtük 11~|Körtük 12~|Körtük 13~|Körtük 2~|Körtük 3~|Körtük 4~|Körtük 5~|Körtük 6~|Körtük 7~|Körtük 8~|Körtük 9~|Körtük@|Mümin Ağa@|Çarşı@|Ş.t.bahtiyar Aydın@
+193373	Kılıçlı Mah.	Ahmet=|Karşı=|Kılıçlı=|Yorulmaz 1%|Yorulmaz 2%|Yorulmaz=|Yorulmaz-kılıçlı Yolu%
+193375	Kıpçak Mah.	Dingilava=|Hasanan=|Kolan=|Kulp Lice Yolu%|Kıpçak=|Uzundere=
+193377	Kıralan Mah.	Diyarbakır Bingöl@|Gomatet=|Kıralan=|Zıraht=
+193379	Kıyı Mah.	Helsevbey=|Kolbağı=|Kulp Lice Yolu%|Kıyı=|Yıldız=
+21139	Mulla Mah.	Atatürk Çarşısı@|Diyarbakır@|Hal@|Havacılar@|Körtük@|Milli Güvenlik@|Mulla 1~|Mulla 10~|Mulla 11~|Mulla 12~|Mulla 2~|Mulla 3~|Mulla 4~|Mulla 5~|Mulla 6~|Mulla 7~|Mulla 8~|Mulla 9~|Mulla@|Mümin Ağa@|Yusuf Ziya Ekinci-@|Çarşı@
+21140	Muradiye Mah.	Cum=|Dobıran=|Goma Haci Sait=|Goma Sekyan=|Hıncıs@|Kali 10~|Muradiye 1~|Muradiye 2~|Muradiye 21~|Muradiye 3~|Çeşme~
+21141	Müminağa Mah.	6 Eylül@|Karagöz@|Karahasan@|Körtük@|Mulla@|Mümin Ağa@|Müminağa 1~|Müminağa 2~|Müminağa 3~|Müminağa 4~|Müminağa 5~|Müminağa 6~|Sincan Küme Evleri=|Ş.t.bahtiyar Aydın@
+193497	Ortaç Mah.	Ortaç=
+193501	Oyuklu Mah.	Oyuklu=
+193459	Savat Mah.	Kazo=|Savat=
+193387	Saydamlı Mah.	Dokuz Kat=|Kılınali=|Saydamlı=|Sıyrık Tepe=
+193389	Serin Mah.	Diyarbakır Bingöl@|Serin=
+193391	Sığınak Mah.	Hacı Hüseyin=|Kelemli=|Sığınak=|İskender=
+193395	Tepe Mah.	Budak 1. Sokak=|Haci Arif=|Haci İzzet=|Tepe 1=|Tepe=
+193399	Tuzla Mah.	Diyarbakır Bingöl@|Tuzla=
+193403	Türeli Mah.	Bakanlar~|Kalkanlı=|Karan=|Kutlu=|Memo Dbb@|Zara=|Çaylarbaşı=
+193409	Ulucak Mah.	Abdurrahman=|Aliyan=|Cevizli=|Hepgöze Dbb@|Ulucak=|Çiftlik=
+193503	Uçarlı Mah.	Diyarbakır Bingöl@|Uçarlı=
+193507	Yalaza Mah.	1.=|2.=|Yalaza=
+193425	Yalımlı Mah.	Aliyen=|Hevsel=|Keskuvari=|Koçkore=|Külçe=|Kıratlı=|Lehasor=|Yalımlı=
+193433	Yamaçlı Mah.	Yamaçlı=
+193437	Yaprak Mah.	Kulp Lice Yolu%|Yaprak=
+21143	Yenişehir Mah.	Atatürk Çarşısı@|Behcet Cantürk@|Cezaevi@|Diyarbakır@|Fehmi Bilal 1.~|Fehmi Bilal@|Goma Recep=|Kaya/1@|Kaya/2~|Lise@|Milli Güvenlik@|Mümin Ağa@|Nenehatun@|Yenişehir 1~|Yenişehir 2.~|Yenişehir 3.~|Yenişehir 4~|Yenişehir 5~|Yenişehir 6~|Yenişehir 7~|Yenişehir 8.~|Yusuf Ziya Ekinci@|Ş.t.bahtiyar Aydın@
+21144	Yeşilburç Mah.	Ağustos@|Bağlar@|Dercımte=|Eko Hanım 1=|Fehmi Bilal@|Mulla@|Okul@|Yeşilburç 1~|Yeşilburç 2~|Yeşilburç 3~|Yeşilburç 4~|Yeşilburç 5~|Yeşilburç 6~|Yeşilburç@|Ş.t.bahtiyar Aydın@
+193441	Yolçatı Mah.	Yolçatı=
+193445	Yorulmaz Mah.	Abdurrahman=|Güldiken 1%|Hepgöze Dbb@|Kaya 1%|Kaya=|Yaka=|Yorulmaz 1%|Yorulmaz 2%|Yorulmaz=|Yorulmaz-kılıçlı Yolu%
+193451	Yünlüce Mah.	Değirmenaltı=|Konuklu=|Kulp Lice Yolu%|Yünlüce=
+193513	Ziyaret Mah.	Diyarbakır Bingöl@|Ziyaret=
+193455	Zümrüt Mah.	Derya=|Kulp Lice Yolu%|Kıyı=|Mutlu=|Zümrüt=
+21132	Çarşı Mah.	6 Eylül@|Dibek=|Goma Ahme=|Goma Amerık=|Goma Diyar=|Goma Dırbe=|Halis Toprak%|Havacılar@|Kaniyasıpi=|Karahasan@|Kulp Lice Yolu%|Körtük@|Mulla@|Mümin Ağa@|Çarşı 1~|Çarşı 2~|Çarşı 3~|Çarşı 4~|Çarşı 5~|Çarşı 6~|Çarşı 7~|Çarşı@
+193473	Çavundur Mah.	Çavundur=
+193469	Çağdaş Mah.	Çağdaş=
+193345	Çeper Mah.	Beyler=|Diyarbakır Bingöl@|Puneyin=|Puneyın 1=|Çeper=
+193347	Çıralı Mah.	Uzundere=|Çıralı=
+193385	Örtülü Mah.	Ağılcık=|Cevizli-2=|Diyarbakır Bingöl@|Elmali=|Gece=|Gome Alan=|Göze Ahmet=|Hırban=|Karadere=|Vilo=
+193417	Üçdamlar Mah.	Aşağı Hodik=|Kancı=|Karaç=|Kayadibi=|Köşk=|Murat=|Sevak=|Yukarı Hodik=|Üçdamlar=
+21142	Şaar Mah.	6 Eylül@|Ağustos@|Eko Hanım=|Fehmi Bilal@|Goma İriş=|Halis Toprak%|Kulp Yolu Geçidi%|Mulla@|Ş.t.bahtiyar Aydın@|Şaar 1~|Şaar 2~|Şaar 3~|Şaar 4~|Şaar 5~|Şaar 6~|Şaar 7~|Şaar 8~|Şaar 9~
+193393	Şenlik Mah.	Akçapınar=|Aşağı Hambaz=|Hüzrep Deresi=|Paşaçiya=|Vaşın=|Yukarı Hambaz=|Şenlik=

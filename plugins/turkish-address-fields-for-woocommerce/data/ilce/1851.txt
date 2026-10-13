@@ -1,0 +1,18 @@
+190885	Altınçanak Mah.	Altın Kiraz@|Bağcılar~|Cami~|Güney~|Hacılar~|Kamışlı~|Karşı-~|Kuzum Efendi~|Orta-~|Seracılar@|Sönmezler~|Özlü~|İlim~
+190887	Balıklı Mah.	Artvin@|Balıklı Camii-~|Cevizli Vadi@|Demirciler~|Kafes Kulesi~|Konaklı~|Mavi Göl@|Okul-~|Osmanbalığı~|Sahil~|Salur~|Tavlı~|Teyin~|Tortum Gölü@|Ur Kekliği~|Yarımada~|Yarımadalı@|Yemişli@|Çan Çiçeği~|Çiftçiler@|Üvez~|İbrahim Hoca~|İskele~
+190889	Cevizli Mah.	Abbas Hoca~|Ağagilin-~|Ağaoğlu~|Aşağı -~|Barış~|Bilgin~|Cevizli Vadi@|Güney Bağlar@|Haznedar~|Kavaklı~|Kilise Tarla-~|Kurt-~|Küllah -~|Leylak~|Maral~|Menekşe~|Nebiler~|Papatya~|Pınarbaşı~|Stad@|Taş Camii~|Terzioğlu~|Uzundere-~|Vişneli~|Yukarı-~|Zabınoğlu~|Zambak~|Çitli Dere~|Özcanlar~|İbiş-~
+30122	Cömertler Mah.	Abbas~|Arslan~|Atalar@|Bağbancı~|Dedebağları@|Erler~|Esentepe~|Eşikli~|Halis Özsoy@|Mehmet Akif Ersoy@|Menderes@|Taşçılar~|Çapraz~|Şerifler~
+190895	Dikyar Mah.	Alan~|Ana Merkez~|Atyolu~|Avüçgen~|Aşağı Camii~|Baglar~|Bahçeli-~|Büyükbağ~|Coşar~|Dikyar Ana@|Dikyar Cami~|Dikyar~|Ertek~|Ertekler~|Erzurum@|Gül~|Halis Özsoy@|Karut-~|Karşı-~|Kayalar@|Kaygusuzlar~|Kaynut~|Kurtt~|Kösedere@|Küçük~|Küçükbağ~|Maden~|Müjdeciler~|Orgeneral Siyami Taşdan@|Orta-~|Sahinler~|Saklı Bahçe~|Seralı~|Siyami Taşdan@|Uzun Ömer~|Yeşil Bahçe~|Yukarı-~|Zoyuntap~|Çavuşoğlu~|Çelikler~|Ünlü~|Üzümlü-~
+30124	Erikli Mah.	Arlı~|Atatürk@|Baykal~|Bozdemir~|Büyükdere~|Doğanlar~|Eşrefoğlu@|Fevzi Paşa@|Halit Paşa@|Selvi~|Üzümlü~|Şahinler~
+190897	Gölbaşı Mah.	Artvin@|Aşağı-~|Baraj~|Camii-~|Coşarlar~|Denizbaşı 1~|Denizbaşı 2~|Denizbaşı 3~|Denizbaşı 4~|Denizbaşı~|Denızbaşı@|Değirmenbaşı@|Güney Sahil@|Hacıgilin~|Karamanoğlu@|Karşı~|Mezra~|Orta Mahalle~|Orta-~|Pethan~|Tepe-~|Tepebaşı~|Torunoğlu~|Yusuf Tekin@|Özgün~|İmamoğlu~
+190899	Kirazlı Mah.	Altın Kiraz@|Camii-~|Dermustağ-~|Ganigiller~|Gazi~|Gölet~|Gülü Bağdat@|Güzel Bahçe~|Karşı-~|Kerem-~|Kerim~|Nergis~|Nörgüs-~|Oğun-~|Sağlık~|Taşım-~|Vertağ-~|Yunus Emre~|Zümrüt~|Çerme 1~|Çerme 2~
+30125	Merkez Mah.	Akar~|Avcılar~|Aydınlar~|Bahçeli~|Cevri Şen@|Cumhuriyet@|Derman~|Erzurum@|Fırat Çıkmaz-~|Halis Özsoy@|Halit Paşa@|Hayrullah Han@|Kabristan~|Karaca~|Kardaş~|Kiraz~|Kotanlar~|Kızılelma@|M.şeref Özsoy@|Mehmet Akif Ersoy@|Menderes@|Necati Aydın@|Orgeneral Siyami Taşdan@|Uzundereli@|Yavaş~|Yazıcılar~|Yeni Sahil@|Zeytindalı@|Çaykara-@|Özcan~|Özdemir~|Özsoy~|Şehit Adnan Taşçı@|Şelale@
+30126	Muratefendi Mah.	Alkanlar~|Denizler~|Hikmet Çimen@|Kotan Çıkmaz~|Rüstem Çimen@|Turan~|Uzundereli@|Çardaklı~|Çimenli~|Özdere~|Şen~
+190901	Sapaca Mah.	Akbaş~|Akgün~|Bilgen~|Düzenli~|Kale~|Karahanlı~|Meral~|Osman Efendi~|Sapaca Ana@|Sapaca Köyü-~|Siyami Efendi~|Tesisler-~
+30127	Seyitefendi Mah.	Aralı~|Bahçeli Evler~|Ertekler Çıkmaz~|Hanoğlu~|Uzundereli@|Ş.siyami Akyüz@
+190903	Ulubağ Mah.	Ambarlı~|Artvin@|Atatürk-~|Bağlarbaşı~|Dutçular~|Eminoğlu~|Göller~|Habipoğlu~|Hüseyin Efendi~|Kayabaşı~|Mollaoğlu~|Pehlivan~|Santral@|Seferoğlu~|Siteler 1~|Siteler 2~|Siteler 3~|Siteler 4~|Siteler~|Taş Nanesi~|Ulubağ-~|Ulubağlar@|Yedi Göller@|Yeşil Cennet~|Yeşil Vadi~|Yıkıklar-~|Yıldız~|İstanbullu@
+30128	Uzundere Mah.	Aligilin~|Altun Çıkmaz~|Asmalı~|Daralan~|Demircan~|Dikmen~|Erdemler~|Kazandere~|Okul@|Rahimoğlu~|Uzundereli@|Çakmaklı Çıkmaz~|Çelikoğlu~
+30129	Yayla Mah.	Anadolu@|Ağaçlı~|Camii~|Osmanlı@|Tekin~|Tunç~|Yalçınlar Çıkmaz~|Çakıroğlu~|Özdoğan~|İstiklal@
+190893	Çamlıyamaç Mah.	Armutlu Yayla@|Aşık Ümmani Can@|Bademli~|Cumayın-~|Denızbaşı@|Elmalı~|Emrah~|Fındık-~|Fındıklı~|Fındıkoğlu~|Gaziler~|Hasayın~|Hürmüz~|Karşıyaka~|Köroğlu@|Kültür~|Reyhan~|Yukarı-~|Çadırcı~|Çukur-~
+30123	Çaybaşı Mah.	Artvin@|Güneşli~|Güzel~|Kalaycı~|Kalyoncu~|Sanayi@
+190891	Çağlayan Mah.	Altın Çilek@|Artvin-@|Cevizli Vadi@|Lojmanlar~|Makber@|Santral@|Tarım~|Taşkın~|Yusuf Ağa~|Çağlayanlı@|Çağlayanlı Köyü-~|Çiçekli~|İncirli~|Şelale-~

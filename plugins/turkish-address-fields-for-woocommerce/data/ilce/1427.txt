@@ -1,0 +1,57 @@
+178527	Afşar Mah.	Afşar=
+2135	Ahikemalşenyurt Mah.	1_1~|2_1~|3_1~|4_1~|6_1@|7_1@|8_1~|Ahikemalşenyurt=|Ali Kalaç@|Bağcılar=|Bekir Karabudak~|Boyalca Mevkii-=|Davut Dede Türbe~|Emenağaç=|Gazi Boyacı~|Kardelen~|Kazancıbaba~|Mehmet Akif~|Mustafa Tamkoç~|Muzaffer Bayrak~|Nazmi Bilgen-~|Noterler~|Pazaryeri Meydanı=|Prof. Günal Akbay~|Saatçi Hafız~|Seyit Ahmet Eşmedereli~|Ziya Gökalp~|İstasyon@|Şehit Ali Ekşioğlu~|Şehit Hüseyin Eğriboz~|Şehit Mustafa Akpolatlı~
+2136	Ahiler Yenice Mah.	Kemal Martlı~|Pazaryeri Meydanı=|Yenice=|Yenidoğan Ahiler Yenice=|Şehit Ali Ekşioğlu-~|Şehit Ali Yüzyıl~|Şehit Bayram Koçak~|Şehit Mustafa Akpolat~|Şehit Mustafa Akpolatlı~
+2152	Akcataş Mah.	Akcataş=
+2153	Akkaynak Mah.	Akkaynak=
+178507	Akkuzulu Mah.	Akkuzulu=
+178509	Aktepe Mah.	Aktepe=|Bayamlı=|Yarpınar=|Şarlayık=|Şıhpınar=
+178523	Alibeyli Mah.	Alibeyli=
+178525	Altıntaş Mah.	Altıntaş=
+2148	Arkbürk Mah.	Arkbürk=|Hüseyin Sağırkaya%
+178563	Beykavağı Mah.	Beykavağı=
+178579	Buğra Mah.	Alibeyli=|Buğra=
+2137	Cuma Saray Mah.	2_1~|3_1~|4-~|Ahmet Mumyakmaz~|Bekir Karabudak~|Cumhuriyet Myd.|Hüseyin Sağırkaya%|Mezbehane=|Nazmi Bilgen~|Prof. Günal Akbay~|Tenekeci~|Vatan~|İstasyon@|Şehit Ali Ekşioğlu~|Şehit Hüseyin Eğriboz~
+178531	Dağdemir Mah.	Dağdemir=|Çayır=
+178533	Demirtaş Mah.	Demirtaş=
+178577	Değirmenkaya Mah.	Değirmenkaya=
+178535	Elmapınar Mah.	Elmapınar=
+178575	Eskiköy Mah.	Eskiköy=
+178565	Eşmedere Mah.	Eşmedere=
+178511	Gökdere Mah.	Ayrancı~|Ebre~|Gökdere=|Karataş=|Kayıkbayırı=|Kuyucak-~
+178537	Gökçeören Mah.	Gökçeören=
+2149	Gölköy Mah.	Gölköyü=
+178513	Gümüşpınar Mah.	Bahçeler=|Gümüşpınar=
+178539	Hacıköy Mah.	Hacıköy=|Orçan=
+2139	Halilağa Tabakhane Mah.	Kazancıbaba~|Kemal Martlı~|Pazaryeri Meydanı=|Tabakhane=|Şehit Ali Yüzyıl~|Şehit Bayram Koçak~|Şehit Mustafa Akpolatlı~
+2140	Halitcevriaslangil Mah.	1~|10@|11@|12~|13@|14~|15~|16@|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31@|32~|33-~|34~|35~|36~|37~|38~|39~|4~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49@|5~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7@|70~|71~|72~|73~|74~|75~|76~|77-~|78~|79~|8~|80~|82~|83~|9~|Ahmet Nalcı~|Ali Seyhan~|Altınoluk Villalar=|Bülent Yapraklı~|Duran Karcı~|Dut~|Emenağaç=|Er~|Gümüşpınar Kümesi=|Gümüşpınar_1@|Hasan Çiğdem~|Hüseyin Sağırkaya%|Koçak=|Mehmet Köse~|Ovabağı Mevki=|Seyit Balcı~|Tacettin Maden~|Uludere=|Çankırı@|Çağlar@|Çengeller Yazısı Mevki=|Şehit A.erkan Doğan~|Şehit Bayram Keserler~|Şehit Ertan Palas~|Şehit Ertuğrul Pilatin~|Şehit Fatih Duru~|Şehit Hakan Gökçe~|Şehit Hakkı Çelik~|Şehit Kerem Bensiz~|Şehit Mehmet Akkaya~|Şehit Mustafa Tayyarcan~|Şehit Resul Erdoğan~|Şehit Sadık Türkyılmaz~|Şehit Seyhan Ulupınar~|Şehit Tümay Aktepe~|Şehit Ufuk Ünsal~|Şehit Veli Kara~|Şehit Zafer Aslan~|Şehit Çetin Ertaş~|Şehit Ömer Akbulut~|Şehit Özgür Çoşkun~
+178541	Hançılı Mah.	Hançılı=
+2156	Hasayaz Mah.	Hasayaz=
+2157	Karahöyük Mah.	Karahöyük=
+178515	Karalar Mah.	Ağılkaya=|Kanlıtarla=|Karalar=|Kazankaya=
+178543	Karatepe Mah.	Karatepe=
+178545	Karkın Mah.	Dümbelek İstasyon=|Karkın=
+178517	Keklicek Mah.	Keklicek=
+178567	Koyunbaba Mah.	Koyunbaba=
+178569	Kuyucak Mah.	Kuyucak Küme=
+178547	Kılçak Mah.	Kılçak=
+178549	Kınık Mah.	Kınık=
+2158	Kızılkaya Mah.	Kızılkaya=
+178551	Mahmutlar Mah.	A.mahmutlar=|Y.mahmutlar=
+178519	Samanlık Mah.	A.samanlık=|Güllük=|Köprübaşı=|Y.samanlık=
+178553	Satılar Mah.	Satılar=
+2159	Tavşancık Mah.	Tavşancık=
+178555	Tilki Mah.	Dağdemir=|Tilki=
+178557	Uyurca Mah.	Uyurca=
+2151	Yalımköy Mah.	Yalımköy=
+2146	Yenidoğan Yeşilyurt Mah.	Cumhuriyet Myd.|Ekiviran=|Hüseyin Sağırkaya%|Keçidere@|Prof. Günal Akbay-~|Yenidoğan Yeşilyurt Küme=|Şehit Ali Yüzyıl~|Şehit Bayram Koçak~|Şehit Sabri Kartal~|Şehit Yusuf Keser~
+2160	Yeniçöte Mah.	Yeniçöte=|Yılanlı=
+178573	Yeşilöz Mah.	Yeşilöz=
+178559	Yurtyenice Mah.	Yurtyenice=|Yüzbey=
+178561	Yüzbey Mah.	Yüzbey=
+2161	Yılanlı Mah.	Yeniçöte=|Yılanlı=
+178521	Çandır Mah.	Çandır B.m=
+2138	Çanşa Kale Mah.	Adnan Kahveci~|Ali Kalaç@|Arı~|Bedir~|Davut Dede Türbe~|Ekizce-=|Emekli Kent 11@|Emekli Kent 12~|Emekli Kent 13~|Emekli Kent 14~|Emekli Kent 15~|Emekli Kent 17~|Emekli Kent 2-~|Emekli Kent 3~|Emekli Kent 4~|Emekli Kent 5~|Emekli Kent 6~|Emekli Kent 7~|Emekli Kent 8~|Emekli Kent 9~|Gazi Boyacı-~|Gonca-~|Gül~|Kale=|Kalealtı=|Kardelen~|Kemal Martlı~|Lale~|Mehmet Akif~|Menekşe~|Mithat Paşa~|Mustafa Tamkoç~|Muzaffer Bayrak~|Noterler~|Papatya~|Tabakhane=|Teyfik Fikret~|Yaprak-~|Ziya Gökalp~|Çansa 16~|Çansa 18~|Çansa 19~|Çansa 20~|Çansa 21~|Çansa 22~|Çansa 23~|Çansa=|İstasyon-@|Şehit Ali Ekşioğlu~
+178529	Çaykaya Mah.	Çaykaya=
+2155	Çiftlikköy Mah.	Çiftlikköy=
+178571	Şemsettin Mah.	Şemsettin=
+2150	Şeyhmahmut Mah.	Şeyhmahmut=

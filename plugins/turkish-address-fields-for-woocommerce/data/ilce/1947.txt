@@ -1,0 +1,32 @@
+61056	Ağcaalan Mah.	Cami~|Güneyler~|Güngören~|Irmak~|Kale@|Lider~|Uslu~|Yelekin~|Yeni~|Ünye@
+61068	Aşağı Karlıtepe Mah.	Ağayeri@|Dere~|Elkinler~|Kavaklar~|Keskinler~|Mısırlar~|Terme@|Ünye@|İçağasu~
+198221	Aşağı Kaynartaş Mah.	Merkez=|Yağtaş=|Yeni=
+61064	Başönü Mah.	Başönü@|Eren~|Hatipoğlu~|Karşıyaka~|Köprübaşı~|Mescit~|Çilesiz~|Öztürk~|Şenbolluk@
+61057	Beylerce Mah.	Altunlar~|Hocagil~|Ovalıoğlu~|Yılmazlar~|İstiklal@
+151397	Bolluk Mah.	1 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|Arslanoğlu@|Atar~|Aydemir@|Aydoğan@|Aydın~|Açıkalın~|Aşurçavus~|Aşçı~|Bayır 2~|Bolluk~|Boz~|Cami~|Cumhuriyet@|Dalgıç~|Demir~|Dikbıyık~|Düzmeşe@|Elmalık@|Eyüplü~|Kabakeriş@|Kereci (ziliftar)~|Kereci~|Keriş@|Kermen~|Kışla (yeni)@|Mesut~|Okul@|Oral~|Sağlıkocağı~|Sekmen~|Süleymanoğlu~|Tefeklik~|Terme (ziliftar)@|Terme@|Topçuoğlu~|Torunali~|Türedi~|Ziliftar@|Çankeriş~|Çubuk~|Özbaş~|Üçpınar~|İkizce (yeni)@|İkizce@|İncekeriş@|Şeker~|Şentepe~
+151403	Derebaşı Mah.	Değirmendüzü~|Kilisedüzü~|Kuz~|Merkez~|Tepe~|Yokuşdibi~
+151383	Devecik Mah.	Abdullagil=|Gancıyatak=|Gelinkaya=|Kadirli=|Karaali=|Kelveli=|Kibargil=|Tombaşlı=|Zeyhirgil=|Çetinler=|Çoban Mezarı=|Çobanlı=
+198211	Diyek Mah.	Arılık=|Cin Değirmeni=|Diyek Kümesi=|Diyek Tepesi=|Göbelli=|Halla Bacağı=|Koççukuru=|Sapyatağı=|Tokmak Yanı=|Çorak Yanı=
+151405	Dumantepe Mah.	Ağayeri@|Dikilitaş 1.~|Dikilitaş 2.~|Dikilitaş 3.~|Dikilitaş 4.~|Dikilitaş~|Merkez 1.~|Merkez 2.~|Merkez~
+151407	Düzmeşe Mah.	Acara~|Merkez~|Tuzlusu~|Yeşiltepe~|Çorak~
+61069	Düzpelit Mah.	Boras~|Hacılı~|Irmak~|Mahmutoğulları~|İpekyolu@
+198217	Enağızlı Mah.	Demirciler=|Harmanlar=|Kürtlü=|Taşhan=|Telci=|Tepe=|Şenol=
+151415	Esentepe Mah.	Cohca 1.~|Cohca~|Değirmendüzü~|Esentepe Merkez 1.~|Esentepe Merkez 2.~|Esentepe Merkez 3.~|Esentepe Merkez 4.~|Esentepe Merkez~|Merkez 2.küme~|Taşhane~
+61066	Fatih Mah.	Ada~|Düzyakın~|Fatih@|Kuşdere~|Kışla~|Macit Arslan~|Çandır~
+61058	Gaziler Mah.	Cami~|Kirazlık~|Yaşar Doğu@
+61059	Kale Mah.	Beylerce@|Kale@|Kurallar~|Siyambaşoğlu~|Çetir~|Şabanoğlu~
+151409	Kervansaray Mah.	Ahmetli~|Allu Geniş~|Cınazlı~|Mamaşlı~|Uzunali~|Çolaklı~
+151411	Kiraztepe Mah.	Boğmalık 1.~|Boğmalık 2.~|Boğmalık 3.~|Boğmalık 4.~|Boğmalık~|Karadere~|Kışladere~|Merkez~|Meşelik~|Orta 1.~|Orta 2.~|Orta~
+61060	Kocaman Mah.	Gaziler@|Irmak@|Keşibaşı~|Çaybaşı@|Çeltik~
+61061	Kurtköy Mah.	Başcı~|Boz Kestane~|Kara Osmanoğlu~|Karaüzüm~|Köprü~|Odabaşı (kurtluca)@|Pınar~|İmam Yesiroğlu~
+61062	Kurtluca Mah.	Berbat Ali~|Dedekoç~|Hasan Ağzı~|Kurtluca@|Sefer Usta~|Tuzlusu@|Çataklıoğlu~
+61063	Merkez Mah.	Ada@|Adnan Kahveci~|Akkaya~|Ali Baba~|Asım Ovalı@|Azmi Yılmaz~|Beyceli@|Cumhuriyet@|Fatih~|Hasan Kalyoncu@|Hatipoğlu~|Hoca Ahmet Yesevi~|Hükümet@|Karabalçık~|Karapınar~|Laleli@|Menderes~|Mescit~|Sultan Ahmet~|Tataroğlu~|Taşlık~|Yakup Kaygı~|Yeni~|Yunusoğlu@|Yusuf Altun@|Öğretmen Nuri Yılmaz~|İkizce 15 Temmuz Demokrasi Meydanı Myd.|İmam Hatip Lisesi~|İsmail Coşkun~
+198215	Seymenli Mah.	Anbaryanı=|Cami=|Devrentaltı=|Doğan=|Emrullah=|Karaçoban=|Yusufusta=|Zerdafli=|Örmelitaş=
+198219	Tombaşlı Mah.	Balcı=|Bektaş=|Dikmetaş=|Kocahüseyin=|Menekşe=|Tombaşlı=|Torun=|Yıldırım=
+198213	Yenice Mah.	Araplı=|Aşıkgil=|Gücükler=|Hayat Yanı=|Tecirli=|Tek Oğulgil=|Tımbıllı=|Yolcugil=|Zompuroğlu Kümesi=|Öteyüz=
+151399	Yoğunoluk Mah.	Atatürk@|Belediye@|Ergen=|Kalenderli=|Köy Yeri=|Orta@|Tongazlı=|Töngel Dağı=|Yayla=|Ünye@|Şht.cezmi Sekmen=|Şinasi Teke@
+61067	Yukarı Karlıtepe Mah.	Cami~|Kaletaş~|Onbaşı~|Tiryaki~|Yamaklar~|Ünye@
+151395	Yukarı Kaynartaş Mah.	Avcalak=|Karaağaç=
+61065	Yunuskırığı Mah.	Fahrettin Altun~|Gündoğdu@|Okul~|Tevrat Altun~
+151413	Özpınar Mah.	Merkez~|Sile~
+184780	Şentepe Mah.	Arslan~|Arslanoğlu@|Atatürk@|Bayır 1~|Cahit Kışla@|Coşkun~|Cumhuriyet@|Elimtekne~|Ertekin~|Genç~|Gerdanlık~|Gökmen (orta)~|Gökmen~|Gül~|Hacıhambu~|Hamitoğlu~|Hasanoğlu~|Höbelen~|Kabakeriş@|Kaynartaş@|Keriş@|Kodaloğlu~|Körkem~|Kösetepe~|Kışla~|Kışlaoğlu~|Lale~|Sümbül~|Tahtacıoğlu~|Taşyanı~|Terme@|Tombaş~|Topul@|Tınkırlı@|Umudere~|Yılmaz (orta)~|Yılmaz~|Çayır~|İkizce@|İmanşah@|Şahintepe~|Şahiın~|Şengül~|Şentepe (orta)@

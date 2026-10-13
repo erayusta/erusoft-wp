@@ -1,0 +1,30 @@
+176733	Akyaka Mah.	1~|10~|14~|15~|16~|17~|18~|2~|20~|4~|5~|7~|8~|Akmaz~|Akova~|Akçanlar~|Alo Dayı~|Arif Özcan~|Armutçuoğlu~|Asmalı~|Asmaçık~|Atatürk@|Atıcı~|Aynımah Hatun~|Azmakboyu~|Açelya~|Aşık Veysel~|Barut~|Barzalar=|Cahit Güneyman~|Cami~|Cemalettin Bölgen~|Ceviz~|Cumhuriyet@|Damla~|Dedegil~|Defne~|Deniz~|Değirmen~|Dr Coşkun Yıldır~|Emin Bozkurt~|Ersan Gümüşalan~|Eyüp Şahin~|Gelincik~|Gizem~|Gökabad~|Gökdeniz~|Göktaş~|Görücü~|Gül~|Gülgün~|Gümrük~|Gümüş~|Hamdi Yücel Gürsoy~|Hasan Hüseyin Şahin~|Hüseyin Çavuş~|Ilgın~|Kadirler~|Kale~|Kanatoğlu~|Kanlıdere~|Karabacaklar~|Karanfil~|Karya~|Kavak~|Kaya~|Kemal Kaya~|Koyuncu~|Lale~|Lavanta~|Liman~|Mehmet Gökovalı~|Mehmet Yoncalı=|Menekşe~|Mercan~|Meşe=|Mimarlık~|Mimoza~|Mustafa Akkaya~|Mustafa Uyanık~|Nail Çakırhan~|Nar~|Nergiz~|Nilüfer~|Okaliptüs~|Oktay Akbal~|Orbukalan=|Orkide~|Orman Piknik Yeri=|Orman~|Osman Kocabıyık~|Papatya~|Papazlık Deresi~|Postacı~|Rasim Karabıyık~|Sahil~|Sanat~|Sarnıç~|Sarnıç Yanı~|Sarıoğlu~|Sağlık~|Sedir Adası=|Sefa~|Server Datça~|Süleyman Faik Pekmezci~|Süleyman Kaya~|Sümbül~|Teoman Ünüsan~|Turunç~|Türkoğlu~|Ulu~|Uzun~|Uçarlar~|Yasemin~|Yaşar Aydaş~|Yonca~|Yörük Ali~|Yörük Kerim~|Yılmaz~|Zambak~|Zeytin~|Çam~|Çatalçam@|Çağla~|Çağlayan~|Çimen~|Çoban~|Ömer Dursun~|Özkan~|Üzüm~|İdima~|İncir~|İnişdibi@|İpek~|Şadan Gökovalı~|Şahinler~|Şakayık~|Şebboy~|Şevket Akıncı~|Şimşek~
+176737	Akçapınar Mah.	Akçapınar~
+60264	Alparslan Mah.	Alparslan@|Atatürk@|Atmaca~|Bozyer@|Camuzaliler~|Celal Bayar@|Dalliler~|Dağdelenler~|Dervişler~|Dirhemler~|Ekmekçiler~|Gazezler~|Gökalp Gündüz@|Gökçeler~|Gölbaşı@|Gölcüklüler~|Güneş~|Hacıçakırlar~|Hamamcılar~|Karabaşalar~|Keklik~|Kocaömerler~|Koçoğlu 1@|Manolya~|Martı~|Menekşe~|Nilüfer~|Palmiye~|Park~|Salih Ülkü@|Salkım~|Sarmaşık~|Sarnıç~|Sarılar~|Servet Altan@|Sülün~|Telliler~|Tepeliler~|Toramanlar~|Yamasanlar~|Yusuf Ziya Kanat@|Çapalar~|Çaydere@|İsmet İnönü@|Şahinler~|Şehler~
+176741	Armutcuk Mah.	Kurudere~|İncir~
+176739	Arıcılar Mah.	Arıcılar~
+176743	Ataköy Mah.	Ataköy~
+60265	Ayazkıyı Mah.	Alibeyler~|Alicin@|Ayazkıyı@|Cumhuriyet@|Dirgemelliler~|Dülgerler~|Felekler~|Gökalp Gündüz@|Gökdağ~|Hacısalihler~|Havanalar~|Herdamlar~|Hisarardı~|Kadirler@|Katırcılar~|Kerimler~|Kocamehmetler~|Konak@|Kulhasanlar~|Osmanhoca@|Pazaryeri Myd.|Rauf Gündüz@|Salih Ülkü@|Samancılar~|Semerciler~|Telciler~|Umutkent@|Yapıcı Haliller~|Yiğitçeler~|Ömerler~|İstiklal@|Şimşekler~
+60266	Demirtaş Mah.	Abalılar~|Alparslan@|Ardıç~|Atatürk@|Ay~|Bahçeli~|Bavutlar~|Beyaz~|Bulut~|Buruşuklar~|Cami Kavağı~|Celal Bayar@|Cumhuriyet@|Danalar~|Dere~|Doğa~|Erboğanlar~|Etemler~|Fulya~|Funda~|Fındıklar~|Gölcükler~|Güzide Özsoy@|Hamamatlar~|Hükümet@|Ihlamur~|Kadıcılar~|Karaoğlanlar~|Kardelen~|Karçiçeği~|Kocatarla@|Koçoğlu 1@|Koçoğlu@|Kıntaklar~|Laleli~|Lavanta~|Mavişehir~|Melek Hanım@|Melisa~|Ovalar=|Servet Altan~|Suuçlun~|Tabaklar~|Tütüncüler~|Vakıf~|Yahyalar~|Yonca~|Yıldız~|Zambak~|Çarşı@|Çaybaşı@|Çaydere@|Çağlayan~|Çimen~|İkiz Kuyu@|İsmet İnönü@|Şehit Öğretmen Sezgin Keçeci@
+176751	Elmalı Mah.	Kafalılar~|Köyiçi~|Topaçlar~
+176753	Esentepe Mah.	Köyiçi~|Osmancılar~|Şehit Özel Meşegül@
+176735	Gökova Mah.	Akasya~|Atatürk@|Atatürk Myd.|Aykan Şeker~|Behiye Alım (yazılıtaş)~|Behiye Alım~|Bülent Ecevit@|Cahit Güneyman~|Cumhuriyet (yazılıtaş)@|Cumhuriyet@|Deveciler~|Fethiye%|Gökova@|Gül (yazılıtaş)~|Gül~|Gültekin Palabıyık~|Halil Dere@|Ihlamur~|Karadağlı@|Kardelen~|Karya~|Kataltı~|Koyuncular~|Lale~|Leylak~|Limon~|Manolya~|Marmaris%|Mavi~|Mehmet Gökovalı@|Menekşe~|Muğla%|Nergis~|Nilüfer (gökova)~|Orkide~|Ova~|Papatya~|Portakal (yazılıtaş)~|Portakal~|Sakartepe Tesisleri=|Salih Kara@|Taşköy=|Uğur Mumcu@|Yasemin~|Yazılıtaş@|Yeşil~|Çiftlik~|Çınar~|İdima~|İnönü@|İstiklal@|Şadan Gökovalı@|Şemkin~
+176755	Gökçe Mah.	Gökçe~
+176757	Gölcük Mah.	Gölcük~
+176759	Karabörtlen Mah.	Berberler~|İkizkuyu~
+176761	Kavakçalı Mah.	Kavakçalı~
+60267	Köprübaşı Mah.	Akasya~|Akhasanlar~|Açelya~|Ağalar Bağı~|Banur Işık@|Bardakçılar~|Begonya~|Berberler~|Boyacılar~|Bülbül~|Cumhuriyet@|Dağlılar~|Defne~|Ekizoğlu~|Emniyet@|Fesleğen~|Fevzi Çakmak@|Gazi Mustafa Kemal%|Gedikler~|Gelincik~|Gökdağ~|Gül~|Gülenler~|Herdamlar~|Hürriyet~|Kadirler@|Kamelya~|Kanarya@|Kanatlar~|Karaibrahimler~|Karakovalık@|Karakovalık=|Karanfil~|Kartal~|Kartopu~|Kasımpatı~|Kavacık@|Kocatarla@|Konak@|Koruluk~|Koçoğlu1~|Kumluk@|Kumru~|Kökcüler~|Kızlan=|Lale~|Leylak~|Mehmet Akif@|Mimoza~|Mülazımlar~|Nejat Önsöz@|Nergiz~|Orkide~|Orta~|Osmanhoca@|Ovalar=|Papatya~|Sardunya~|Serçe~|Süllenler~|Sümbül~|Takkurlar~|Tekkönü~|Tiryakiler~|Topçupaşalar~|Türkoğlu~|Ulukent@|Yapıcı Haliller~|Yasemin~|Yonca~|Zeytin~|Çayyolu@|Çiçek~|Çiğdem~|Çıldıramazlar~|Çınar~|Ömerler~|İnceler~|Şahin~|Şatırlar~|Şebboy~|Şehit Alican Harıp@|Şehit Öğretmen Sezgin Keçeci@
+176763	Kıra Mah.	Kıyra~
+176765	Kızılağaç Mah.	Kızılağaç~
+176767	Kızılyaka Mah.	Köy İçi~|Tepecik~
+176771	Portakallık Mah.	Portakallık~
+176773	Sarayyanı Mah.	Kabagünlük~|Köyiçi~
+176777	Turgut Mah.	Turgut~
+176779	Yaylasöğüt Mah.	Yaylasöğüt~
+176783	Yeşilova Mah.	Yeşilova~
+176781	Yeşilçam Mah.	Yeşilçam~
+176747	Çiçekli Mah.	Çiçekli~
+176749	Çörüş Mah.	Çörüş~
+176745	Çıtlık Mah.	Haşimbahçesi~|Karacaalan~|Köyiçi~|Taşkesiği~|Yılanlık~|Şirinköy~
+176769	Örnekköy Mah.	Örnekköy~
+176775	Şirinköy Mah.	Şirinköy~

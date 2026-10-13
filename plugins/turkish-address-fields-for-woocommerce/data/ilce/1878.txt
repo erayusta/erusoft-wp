@@ -1,0 +1,13 @@
+73953	Akyayla Köyü	Akyayla=
+73954	Akyayla Köyü, Kargacık Mezrası	Kargacık=|Küme Evler-~
+70156	Fakirullah Mah.	103~|104~|107~|112~|113~|114~|115~|116~|118~|119~|Cami~|Cumhuriyet@|Cumhuriyet1~|Fakirullah~|Hürriyet~|Necmettin Cevheri@|Sultan~|Sultan1~|Topraklar~|Çeşme~|İbrahim Hakkı Myd.|İsmail Hakkı Calapkulu%|İstiklal@|Şerefiye~|Şüheda~
+73950	Fersaf Köyü	Fersaf=
+73951	Fersaf Köyü, Aynsuç Mezrası	Aynsuç=
+73947	Hatrant Köyü	Hatrant=|Siirt Şırnak@
+73948	Hatrant Köyü, Erenler Mezrası	Erenler=
+73949	Hatrant Köyü, Kurşun Mevkii	Kurşun=
+70157	Mücahit Mah.	2.@|203~|210~|212~|222~|333@|Aras~|Baraj1@|Cami~|Hürriyet~|Kaleyolu@|Mukaddes@|Mücahit@|Saydanlar~|Tabiat@|Vatan~|İbrahim Hakkı Myd.|Şahinler~|Şerefiye~|Şüheda~
+70158	Saydanlar Mah.	3@|302~|314~|315~|33@|333@|Baraj@|Baraj1@|Kaleyolu@|Mukaddes@|Saydanlar~|Suleyman Kızılkan@|İbrahim Hakkı Myd.|İsmail Hakkı Calapkulu%|İsmail Hakkı Calapkulu1~
+73946	Sinep Köyü	Sinep=
+73955	Taşbalta Köyü	Baraj İnşaatı=|Taşbalta=
+73952	İkizbağlar Köyü	İkizbağlar.=

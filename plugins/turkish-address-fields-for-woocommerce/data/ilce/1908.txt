@@ -1,0 +1,18 @@
+68445	Bahattinpaşa Köyü	Bahattinpaşa=
+68446	Bürücek Köyü	Bürücek=
+61397	Eriklimanı Mah.	Adalar~|Arif Hikmet~|Atatürk 2~|Atatürk@|Derepazarı Karadeniz Sahil Yolu 1~|Derepazarı Karadeniz Sahil Yolu 3~|Ekrem Orhon~|Eriklimanı Mahallesi=|Fevzi Çakmak@|Hamdi Ömeroğlu~|Kazım Karabekir@|Saadettin Kaynak 2~|Saadettin Kaynak%|Uzunkaya=|Yalı~|Şehit Cengiz Topel~
+68450	Esentepe Köyü	Esentepe=
+61402	Fıçıcılar Mah.	Fıçıcılar Mahallesi=
+68451	Kirazdağı Köyü	Kirazdağı=
+68452	Maltepe Köyü	Maltepe=
+61398	Merkez Mah.	Adnan Menderes~|Atatürk 1~|Atatürk@|Hacı Ömer Sirkeci~|Merkez Mahallesi=|Saadettin Kaynak%|Tersane~|Yaşar Doğu~|İnönü~
+68453	Sandıktaş Köyü	Sandıktaş=
+61403	Sarıyer Mah.	Sarıyer Mahallesi=
+61401	Subaşı Mah.	Subaşı Mahallesi=|Çeşme=
+61399	Tersane Mah.	Atatürk@|Cumhuriyet~|Cumhuriyet/1~|Derepazarı Karadeniz Sahil Yolu/1~|Derepazarı Karadeniz Sahil Yolu/2~|Hacı Ömer Sirkeci~|Merkez Mahallesi=|Saadettin Kaynak%|Saadettin Kaynak/1~|Tersane Mahallesi=|Tersane~|Çalışkanlar Mahallesi=
+68454	Uzunkaya Köyü	Uzunkaya=
+68455	Yanıktaş Köyü	Yanıktaş=
+68447	Çakmakçılar Köyü	Çakmakçılar=
+61400	Çalışkanlar Mah.	Fıçıcılar Mahallesi=|Çalışkanlar Mahallesi=
+68448	Çeşme Köyü	Çeşme=
+68449	Çukurlu Köyü	Çukurlu=

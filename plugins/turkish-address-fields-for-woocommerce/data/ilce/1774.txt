@@ -1,0 +1,15 @@
+20688	Bahçeli Mah.	30 Ağustos@|4 Temmuz 1~|4 Temmuz@|Alan Mevki~|Ali Paşa 1~|Ali Paşa@|Alkan~|Alpaslan@|Ateş~|Avkan~|Ağalar~|Bahçeli 1~|Bahçeli 10~|Bahçeli 25~|Bağcılar@|Belediye Evleri=|Billur~|Can 1~|Can~|Ceylan~|Cumhuriyet Caddesi Mevki~|Cumhuriyet@|Daryol 1~|Daryol~|Dağdibi Mevki~|Demirciler~|Denizli - Uşak Yolu@|Denizli@|Doğan~|Ekiz~|Gökseke 1~|Gökseke 2~|Gökseke~|Harman Yeri~|Kültür~|Lale 1~|Lale~|Mevlana~|Mezaryanı~|Murat~|Namık Kemal~|Okursoy~|Oymak~|Park~|Poyrazlı Yolu~|Saydam~|Selçuk~|Sosyal Konut Evleri=|Ulusoy 1~|Ulusoy~|Uzun@|Uzunen Mevki~|Uşak@|Uşak1~|Yalçın~|Yavuz Dede=|Yeni Sokak~|Yeni Yol 2~|Yeni Yol 5~|Yeni Yol~|Yukarı Park@|Zafer~|Zeynep Şamil Girgin@|Zıntı Evleri 1~|Zıntı Evleri 2~|Zıntı Evleri~|İstiklal 1~|İstiklal@
+150127	Bükrüce Mah.	Bükrüce=
+150125	Deşdemir Mah.	Deşdemir=
+150133	Ekizbaba Mah.	Ekizbaba=
+150135	Gömce Mah.	Gömce=
+150123	Kutlubey Mah.	Altan Erbulak~|Atatürk 1~|Atatürk 2~|Atatürk 3~|Atatürk 5~|Atatürk 7~|Atatürk 8~|Atatürk 9~|Atatürk@|Cemal Gürsel 1~|Cemal Gürsel 3~|Cemal Gürsel@|Cevdet Sunay 1~|Cevdet Sunay 2~|Cevdet Sunay@|Ceylan_1~|Cihan 1~|Cihan 2~|Cihan~|Divan~|Doğantepe=|Erenler=|Evren~|Evren1~|Fevzi Çakmak~|Girne 1~|Girne 3~|Girne~|Girne1~|Gültepe~|Karaman~|Karaçay~|Kayalar 1~|Kutlubey 1~|Kutlubey 3~|Kutlubey 4~|Küçük~|Meclis 1~|Meclis~|Mevlana_1~|Millet~|Namık Kemal_1~|Nil~|Ordu~|Orhan Gazi~|Orhan Gazi1~|Sakarya~|Selahattin Pınar~|Terziler~|Terziler Çıkmazı~|Ufuk~|Yonca~|Çamlık 1~|Çamlık 2~|Çamlık-~|İbrahim Çallı 1~|İbrahim Çallı 2~|İbrahim Çallı 3~|İbrahim Çallı 4~|İbrahim Çallı 6~|İbrahim Çallı@|İmren~|Şen~
+150137	Köselli Mah.	Köselli=
+150139	Poyrazlı Mah.	Poyrazlı=
+150141	Sırıklı Mah.	Sırıklı=
+20689	Yahyalar Mah.	Ada@|Ali Paşa@|Alpaslan@|Baba~|Cumhuriyet@|Duman Gölü~|Fettahlar~|Geyik~|Gürsoy 1~|Gürsoy~|Hacı Ömerler~|Hamam~|Kayalar~|Konak Yıkığı Mevki~|Kuyular 1~|Kuyular~|Orta~|Oymak~|Pınar@|Sönmez~|Ulubey Caddesi Mevki~|Ulubey@|Yukarı Park@|Çaylı Cami~|İnce Caddesi Mevki~|İnce@
+20690	Yeni Mah.	Asar~|Asarardı Mevki~|Asma Dere@|Açık Pazaryeri=|Aşağı~|Bayram~|Cumhuriyet@|Daracık~|Denizli - Uşak Yolu@|Denizli@|Efendi~|Garaj~|Göçmez~|Gül~|Hamam~|Hastane~|Hisar@|Hocalı@|Kuyubaşı~|Küme~|Kısa~|Mallıkkaşı Mevki~|Mere~|Mithatpaşa@|Naci Baba~|Ongan@|Ormancı~|Ortaokul@|Pınar@|Sanayi Bölgesi=|Sanayi@|Sağlık@|Sümbül~|Tepe~|Ulubey@|Uğur Mumcu@|Yayalar 1~|Yayalar~|Yağcı~|Yeni~|Yeni Yol 4~|Yeni Yol 5~|Yeni Yol 6~|Yeni Yol 7~|Yeni Yol 8~|Yeni Yol 9~|Yurt~|Çamlık@|Çarşı@|Çay~|Ören@|Özcan~|Şehit Polis Enver Orakoğlu~|Şirin~
+150145	Yeşiloba Mah.	Yeşiloba=
+150129	Çamköy Mah.	Çamköy=
+150131	Çoğaşlı Mah.	Atatürk@|Çoğaşlı=
+150143	Üçkuyu Mah.	Denizli - Uşak Yolu@|Üçkuyu=

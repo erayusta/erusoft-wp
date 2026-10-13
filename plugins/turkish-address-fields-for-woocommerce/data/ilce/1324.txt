@@ -1,0 +1,46 @@
+35781	Adaköy Köyü	 Köy$
+30804	Altınlı Mah.	Altınlı=|Gebeceli=|Sahil=
+35782	Aralık Köyü	 Köy$
+35786	Balcılı Köyü, Gülalan Mezrası	 Köy$
+35785	Balcılı Köyü, Orta Mevkii	 Köy$
+35784	Balcılı Köyü, Tiryakiler Mevkii	 Köy$
+35783	Balcılı Köyü, Çolaklı Mevkii	 Köy$
+30805	Boztepe Mah.	Cami Yanı=|Civilli=|Koserli=|Memegil=|Mera=|Sahil=|Yuvarlaklı=
+30807	Derebaşı Mah.	Derebaşı=|Mustafa Yüksel@|Sahil=
+35793	Dereköy Köyü, Aşağı Mevkii	 Köy$
+35792	Dereköy Köyü, Berberli Mevkii	 Köy$
+35791	Dereköy Köyü, Kıran Mevkii	 Köy$
+139661	Dereköy Köyü, Micanoğlu Mevkii	
+30802	Gümüşçay Mah.	Abdigil=|Ahmet Yesevi~|Avukat Bilal Güdük@|Biberci Kumu=|Cüreli=|Dedeli=|Dedeoğlu~|Dedezade Mehmet Ağa@|Fatih@|Feyzullahlı=|Görnazlı=|Gümüşçay=|Halil Görnaz@|Hasan Okur@|Kamil Nalbant@|Küçük~|Mehmet Somuncuoğlu@|Okur@|Sahil@|Somuncugil=|Yusuf Dede@|Çetinli=|Çıkmaz~|Özler~|Şehit Ahmet Karaal@|Şehit Aydın Bebek~|Şehit Enver Cebeci~|Şehit Erol Çalık@|Şehit Eyüp Sevindi~|Şehit Hakan Kara@|Şehit Kerim Sofu~|Şehit Mehmet Civak~|Şehit Naci Demirci@|Şehit Nejdet Meme@|Şehit Rasim Köse@|Şehit Volkan Çelik~|Şehit Yalçın Ayar~
+35795	Kekiktepe Köyü	 Köy$
+35800	Kemaliye Köyü, Alt Mevkii	 Köy$
+35798	Kemaliye Köyü, Kırcaali Mevkii	 Köy$
+35802	Kemaliye Köyü, Merkez Mezrası	 Köy$
+35797	Kemaliye Köyü, Orta Mevkii	 Köy$
+35801	Kemaliye Köyü, Sisdağı Mevkii Mevkii	 Köy$
+35799	Kemaliye Köyü, Taşbaşı Mevkii	 Köy$
+35796	Kemaliye Köyü, Üst Mevkii	 Köy$
+35808	Kemerli Köyü, Emanetli Güney Mevkii	 Köy$
+35804	Kemerli Köyü, Gençaligil Kayalı Mevkii	 Köy$
+35807	Kemerli Köyü, Kazaklı Mevkii	 Köy$
+35803	Kemerli Köyü, Merkez Mevkii	 Köy$
+35806	Kemerli Köyü, Toklugil Mevkii	 Köy$
+35805	Kemerli Köyü, Yeşiltepe Mevkii	 Köy$
+30806	Köseli Mah.	Golcaköy=|Köseli=|Sahil=|Çınarlar=
+35809	Kösemen Köyü	 Köy$
+35811	Yarımca Köyü, Alt Mevkii	 Köy$
+35810	Yarımca Köyü, Armutlu Alan Mezrası	 Köy$
+35813	Yarımca Köyü, Dere Mevkii	 Köy$
+35814	Yarımca Köyü, Orta Mevkii	 Köy$
+35812	Yarımca Köyü, Üst Mevkii	 Köy$
+35788	Çorapçılar Köyü, Haliloğlu Mevkii	 Köy$
+35789	Çorapçılar Köyü, Kıran Mevkii	 Köy$
+35790	Çorapçılar Köyü, Yakuplu Mevkii	 Köy$
+140807	Ören Beldesi, Belen Mah.	Belen~
+30809	Ören Beldesi, Camidüzü Mah.	Camidüzü=
+30813	Ören Beldesi, Erzikıranı Mah.	Erzi Kıran=
+30810	Ören Beldesi, Kıran Mah.	Kıran=
+30811	Ören Beldesi, Sokak Mah.	Taşyanı=
+30812	Ören Beldesi, Tamyanı Mah.	Tamyanı=
+30808	Ören Beldesi, Yakuplu Mah.	Yakuplu=
+35794	İshaklı Köyü	 Köy$

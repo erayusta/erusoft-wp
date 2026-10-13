@@ -1,0 +1,36 @@
+100151	17 Eylül Mah.	1 Avanoğlu~|1 Avanoğlu1~|2. Kıbrıs@|Abdullah Efendi~|Bahçe~|Hüseyin Avni Paşa@|Hüseyin Avni Paşa1~|Okul@|Okul1~|Okul2~|Paşa~|Selçuk@|Zeybek 1~|Zeybek~|Şehit Erhan Çakmak~
+39428	Afşar Köyü	Afşar=
+39429	Akdağ Köyü	Akdağ=|Köke=
+31493	Aşağı Mah.	Asmaaltı~|Ayanoğlu@|Cami@|Cumhuriyet Myd.|Cura~|Dutaltı~|Hacı Ahmet~|Hacı Hasan 1~|Hacı Hasan~|Hocazade~|Hüseyin Avni Paşa@|Küçük~|Küçük Çarşı~|Okul@|Tunay~|Çaybaşı~
+100150	Bahçelievler Mah.	Akmescit@|Bilgin 1~|Bilgin~|Dörtyol@|Fidan~|Gazi Mehmet Alp@|Iı. Kılıçaslan@|Kemalpaşa@|Kurt Polat 1~|Kurt Polat 2~|Kurt Polat@|Peker~|Süleyman Demirel%|Yılmaz~|İnönü 1~|İnönü@
+39430	Balcı Köyü	Balcı=|Keçili=
+31499	Bağıllı Köyü, Aşağı Mevkii	Ahmet Akhan~|Ahmet Akhan-~|Akasya~|Aydın~|Ağa 2~|Ağa 3~|Ağa 4~|Ağa 5~|Ağa 6~|Ağa 7~|Badem 2~|Badem~|Bahçeli Evler~|Bahçeli~|Böcü~|Cami~|Cengiz Topel~|Ceylan~|Cumhuriyet~|Demiral~|Dumanlı~|Erguvan~|Fidanlık~|Fırın~|Gül~|Hizar~|Hizar1~|Karacayer~|Kartal~|Konya~|Koru~|Kültür~|Leylak~|Mezarlık~|Onevler~|Onevler1~|Taşer~|Taşlı~|Tokgöz~|Toptaş~|Uzun~|Yurtseven~|Yurtseven1~|Zambak~|Zümrüt~|Çatalyol 1~|Çatalyol~|Çeşme~|İnce~
+31501	Bağıllı Köyü, Yeni Mevkii	101~|Acar Ulusoy~|Akyol~|Cengiz Topel~|Cumhuriyet~|Demiral~|Hacı~|Hüyük~|Kaptan Cengiz~|Konya~|Kültür~|Küçük 1~|Küçük~|Mescit 1~|Mescit~|Pınar~|Toptaş~|Uzun~|Yeni 10~|Yeni 11~|Yeni 14~|Yeni 17~|Yeni 8~|Yeni 9~|Yeşilyurt~|Yıldırım~|Çamlıbel~|Çatalyol 1~|Çatalyol~|Çimen~|İnan~|Şht. Feyyaz Korkmaz~|Şht. Mevlüt Altaş~
+31502	Bağıllı Köyü, Yukarı Mevkii	Barbaros~|Hacı Bekir~|Lale~|Marangoz~|Marangoz-~|Tepe 1~|Tepe~|Tepe-~|Yağcı~|Yukarı 1~|Çeşme~|Şehitler~
+31500	Bağıllı Köyü, Şehitler Mevkii	Abdi Ağa~|Dar~|Girne~|Hacı Hafız~|Park~|Paşa~|Yalı Boyu~|Çeşme~|Şehitler 2~|Şehitler~|Şerif Ağa~|Şirin~
+39432	Esinyurt Köyü	Esinyurt=
+39433	Hacılar Köyü	Hacılar=
+100153	Haydarpaşa Mah.	2 Avanoğlu~|2.okul@|Akmescit@|Demirali~|Demirali1~|Fevzipaşa@|Karaca~|Köseoğlu~|Köseoğlu1~|Köseoğlu2~|Kıbrıs@|Okul@|Süleyman Demirel%|Süleyman Demirel1~|Yıldız~|Çakmakkuyu~|Çakmakkuyu1~|Şehit Atilla Şener@
+100152	Hüseyin Avni Paşa Mah.	Fani~|Hekimbaşı~|Hüseyin Avni Paşa@|Hüseyin Şekercioğlu@|Katip~|Manas~|Mimar Sinan@|Selçuk@|Türkmen~|Vefa~|Yahya Bey~|Yakup~|Çelebi~|Çobanoğlu@
+39434	Keçili Köyü	Keçili=
+39435	Köke Köyü	Köke=|Yukarı=
+31494	Kırevler Mah.	Dostlar 1~|Gazi 1~|Gazi 2~|Gazi@|Gazi/kılıc~|Geleabat@|Hüseyin Avni Paşa@|Kılıçarslan~|Manas 2~|Manas~|Mehmet Akif 1~|Mehmet Akif 2~|Mehmet Akif@|Mustan Yurttaş@|Pir Mehmet Paşa@|Solakoğlu@|Turhan Paşa@|Yunus Emre@|Ziya Gökalp@|Şehit İsakoğlu@|Şehitler@
+39436	Madenli Köyü	Eğirler Bahtiyar Yolu%|Eğirler=|Madenli=
+31495	Muharrem Mah.	Akmescit@|Cami@|Cumhuriyet 2~|Cumhuriyet Myd.|Fevzipaşa@|Hacı Abdullah~|Hastane@|Iı. Kılıçaslan@|Kadı~|Karakuyu~|Karakuyu İç~|Kemalpaşa 1~|Kemalpaşa 2~|Kemalpaşa@|Kılıçoğlu~|Okul@|Tekke~|Uzun~|Yeni~|Çınar~|İnönü@|Şehit Atilla Şener@
+31496	Orta Mah.	Akmescit@|Ayanoğlu 1~|Ayanoğlu 2~|Ayanoğlu@|Bahçe Evleri=|Barakoğlu~|Hacı Hasan~|Hüseyin Avni Paşa@|Kemalpaşa 2~|Mezarlık Üstü=|Osmanbey~|Yalı Boyu 1~|Yalı Boyu 3~|Yalı Boyu 4~|Yalı Boyu 5~|Yalı Boyu 6~|Yalı Boyu~|Zincirlikuyu~|Çaybaşı~
+31497	Selçuk Mah.	2. Kıbrıs 1~|2. Kıbrıs@|2.akmescit=|Akmescit@|Bilinmeyen 11~|Bilinmeyen 12~|Bilinmeyen 14~|Bilinmeyen 16~|Bilinmeyen 18~|Bilinmeyen 19~|Bilinmeyen 20~|Bilinmeyen 21~|Bilinmeyen 22~|Bilinmeyen 23~|Bilinmeyen~|Bilinmeyen1~|Bilinmeyen13~|Bilinmeyen2~|Bilinmeyen3~|Bilinmeyen4~|Bilinmeyen5~|Bilinmeyen6~|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen9~|Hesebey@|Kızılyaka 1@|Kızılyaka 2@|Kızılyaka 3~|Manas 1~|Manas 2~|Manas~|Selçuk@|Uluyol@|Zeybek~
+31503	Yaka Köyü, Bahçeli Evler Mevkii	101~|43~|44~|45~|46~|47~|48~|49~|50~|51~|52~|53~|54~|55~|56~|57~|9~|Akmescit@|Atatürk~|Bahçe Evleri=|Gül~|Isparta Yolu Kümesi~|Konya Yolu Kümesi -~|Koru Yolu~|Köprübaşı~
+31504	Yaka Köyü, Cumhuriyet Mevkii	1~|10 1~|10~|11~|12~|14~|2~|3~|4~|5~|6~|7~|8~|9 1~|9~|Akmescit@|Atatürk 1~|Atatürk~|Isparta Yolu Kümesi~|Okul~|Şehit Hasan Aktaş~
+31506	Yaka Köyü, Orta Mevkii	14~|15~|16~|17~|18~|19~|20~|21~|22~|23~|24~|25~|26~|35~|36~|37~|Atatürk~|Belediye~|Ceviz Ardı~|Cumhuriyet~|Lale 1~|Lale~|Yeni1 1~|Yeni1.~|Şehit Mustafa Baş~
+31507	Yaka Köyü, Yeni Mevkii	11~|13~|14~|15~|20~|9 1~|9~|Atatürk 1~|Atatürk~|Belediye~|Ceviz Ardı~|Lale~|Okul~
+31508	Yaka Köyü, Yukarı Mevkii	24~|26~|27~|28~|29~|30~|31~|32~|33~|34~|Belediye~|Cumhuriyet 199~|Cumhuriyet~|Şehit Mustafa Baş 1~|Şehit Mustafa Baş 2~|Şehit Mustafa Baş~|Şirin~
+31505	Yaka Köyü, Çay Mevkii	38~|39~|40~|41~|42~|43~|Koru Yolu~|Köprübaşı~
+31498	Yeni Mah.	1 Akmescit-=|17 Eylül 1~|17 Eylül@|2.akmescit=|Akikizler=|Akmescit@|Aslan~|Dervişmehmet~|Dervişmehmet1~|Erguvan~|Erguvan1~|Gavazoğlu~|Haydarpaşa@|Haydarpaşa1~|Haydarpaşa2~|Höyük Önü 1 Nolu=|Hüsnüefendi~|Karanfil~|Kurban~|Kurban1~|Kurban2~|Kurban4~|Kıbrıs@|Müezzin~|Okul@|Rağıb~|Uluyol 2~|Uluyol@|Uluyol1~|Çakmakkuyu~
+39440	Yenice Köyü, Aşağı Mevkii	Aşağı..=
+39437	Yenice Köyü, Kemer Mevkii	Kemer Köy$
+39438	Yenice Köyü, Kızdaşı Mevkii	Kızdaşı=
+39441	Yenice Köyü, Yakadibi Mevkii	Yakadibi=|Yukarı=
+39439	Yenice Köyü, Yukarı Mevkii	Köke=|Kızdaşı=|Yukarı=
+39442	Yeşilköy Köyü	Yeşilköy Köy$
+39443	Yeşilköy Köyü, Hanönü Mevkii	Esinyurt=|Hanönü Köy$
+39431	Çaltı Köyü	Çaltı 1=

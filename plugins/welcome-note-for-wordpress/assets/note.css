@@ -1,0 +1,16 @@
+.eru-wn { --eru-wn-bg: #e8f1fd; --eru-wn-fg: #0b3a75; --eru-wn-bd: #1f6feb; position: relative; box-sizing: border-box; }
+.eru-wn--success { --eru-wn-bg: #e6f6ec; --eru-wn-fg: #0d4a24; --eru-wn-bd: #1a9c4b; }
+.eru-wn--warning { --eru-wn-bg: #fff4dc; --eru-wn-fg: #5c3b00; --eru-wn-bd: #d89200; }
+.eru-wn__text { margin: 0; }
+.eru-wn__close { position: absolute; top: 50%; right: .7em; transform: translateY(-50%); border: 0; background: none; color: inherit; font-size: 1.5em; line-height: 1; cursor: pointer; padding: .1em .35em; }
+.eru-wn--admin { border-left: 4px solid var(--eru-wn-bd); background: var(--eru-wn-bg); color: var(--eru-wn-fg); padding: .8em 2.6em .8em 1em; margin: 15px 20px 5px 2px; }
+.eru-wn--admin a { color: inherit; font-weight: 600; }
+.eru-wn--front { left: 0; right: 0; z-index: 99999; background: var(--eru-wn-bg); color: var(--eru-wn-fg); border-bottom: 2px solid var(--eru-wn-bd); padding: .7em 2.8em .7em 1em; text-align: center; font-size: 15px; line-height: 1.45; }
+.eru-wn--front.eru-wn--bottom { position: fixed; bottom: 0; border-bottom: 0; border-top: 2px solid var(--eru-wn-bd); }
+.eru-wn--front.eru-wn--top { position: relative; }
+.eru-wn--front a { color: inherit; font-weight: 700; text-decoration: underline; }
+@media (prefers-color-scheme: dark) {
+	.eru-wn--front { --eru-wn-bg: #12233b; --eru-wn-fg: #d6e6ff; }
+	.eru-wn--front.eru-wn--success { --eru-wn-bg: #0f2a1a; --eru-wn-fg: #cdeed8; }
+	.eru-wn--front.eru-wn--warning { --eru-wn-bg: #33270a; --eru-wn-fg: #ffe9b5; }
+}

@@ -1,0 +1,131 @@
+64409	Adıvar Köyü, Mevkii	1 Küme=|2 Kume Evlerı=|3 Kume Evlerı=|4 Kume Evlerı=|5 Kume Evlerı=|6 Kume Evlerı=
+64380	Akçaarmut Köyü, Mevkii	1=|2kumeevlerı=
+64381	Akçaarmut Köyü, Tepecik Mezrası	Tepecik=
+64410	Akçakaynak Köyü	Akçakaynak=
+64413	Altınoluk Köyü	Altınoluk=
+64412	Altınoluk Köyü, Dere Mezrası	Dere=
+64411	Altınoluk Köyü, Horbızan Mezrası	Horbızan=
+64354	Arakonak Köyü	Arakonak=
+64356	Arakonak Köyü, Yeşil Yayla Mezrası Mezrası	Yeşil Yayla=
+64355	Arakonak Köyü, İbrahim Kuşhan Mezrası Mezrası	İbrahim Kuşhan=
+64383	Aşağıbüklü Köyü	Aşağıbüklü=
+64382	Aşağıbüklü Köyü, Yukarıbüklü Mezrası	Yukarıbüklü=
+60332	Bahçelievler Mah.	7.@|701~|702~|703~|704~|705~|705a~|706~|707~|708~|709~|710~|712~|714~|715~|716~|717~|718~|719~|720~|721~|723~|724~|725~|727~|728~|729~|730~|732~|733~|734~|736~|738~|740~|741~|742~|743~|77.@|Bilinmeyen/1.~|Bilinmeyen/10.~|Bilinmeyen/11.~|Bilinmeyen/13.~|Bilinmeyen/14.~|Bilinmeyen/15.~|Bilinmeyen/16.~|Bilinmeyen/17.~|Bilinmeyen/18.~|Bilinmeyen/19.~|Bilinmeyen/2.~|Bilinmeyen/20.~|Bilinmeyen/21.~|Bilinmeyen/3.~|Bilinmeyen/4.~|Bilinmeyen/5.~|Bilinmeyen/6.~|Bilinmeyen/7.~|Bilinmeyen/8.~|Bilinmeyen/9.~|Bulanık/1@|Malazgirt%|Muş%
+64357	Balotu Köyü, Mevkii	1kumeevler=|2kumeevler=|3kumeevler=|4 Küme=|5kumeevler=|6kumeevler=
+64414	Bostancılar Köyü, Mevkii	1 Küme=|2 Küme-=
+64384	Büngüldek Köyü, Mevkii	1kumeevler=|2 Küme=
+64386	Cankurtaran Köyü	Cankurtaran=
+64385	Cankurtaran Köyü, Karakaya Mezrası	Karakaya=
+60333	Cumhuriyet Mah.	12@|201~|202~|203~|204~|206~|208~|209~|210~|210/1~|211~|214~|215~|216~|217~|219~|221~|227~|229~|231~|233~|235~|241~|Bilinmeyen 16~|Şehit Üstteğmen Suat İshakoğlu@
+64417	Demirkapı Köyü	Demirkapı=
+64416	Demirkapı Köyü, Yeniköy Mezrası	Yeniköy=
+64415	Değirmensuyu Köyü, Mevkii	1.küme=|2kumeevler=
+64391	Dokuzpınar Köyü, Dizboyu Mezrası	Dizboyu=
+64394	Dokuzpınar Köyü, Mevkii	1.-=|2-=|3-=
+64390	Dokuzpınar Köyü, Sarıaltun Mezrası	Sarıaltun=
+64392	Dokuzpınar Köyü, Ziyaret Mezrası	Ziyaret=
+64393	Dokuzpınar Köyü, İkipınar Mezrası	İkipınar=
+64389	Dokuzpınar Köyü, Şıhmirza Mezrası	Şıhmirza=
+64418	Doğantepe Köyü, Mevkii	1=|2=|3=|Yeni Yerleşim Yeri=
+60341	Elmakaya Beldesi, Cumhuriyet Mah.	102~|114~|2@|205~|206~|208~|209~|210 Küme~|210~|211~|212~|215~|216~|218~|219~|221~|223~|224~|226~|228~|236~|237~|239~|240~|241~|242~|244~|246~|248~|250~|251~|252~|260~|261~|262~|268~|270~|3@|4@|Alpaslan@|Fatih@|İsimsiz1~
+60342	Elmakaya Beldesi, Karşıyaka Mah.	1@|102~|104~|106~|107~|108~|110~|112~|114~|114/1~|115~|117~|118~|120~|130~|131~|132~|133~|210 Küme~|4.@|5@|6@|Bilinmeyen~|Bilinmeyen/1~|Bilinmeyen/3~|Bilinmeyen/4~|Fatih@
+60349	Erentepe Beldesi, Fatih Mah.	203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|214~|215~|216~|218~|220~|221~|Bilinmeyen/1~|Bilinmeyen/2~|Bilinmeyen/3~|Bilinmeyen/4~|Bilinmeyen/5~|Bilinmeyen/6~|Bulanık%|Muş%
+60350	Erentepe Beldesi, Gazi Mah.	105~|301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|328~|333~|335~|339~|341~|Belediye@|Bilinmeyen/10~|Bilinmeyen/11~|Bilinmeyen/12~|Bilinmeyen/13~|Bilinmeyen/14~|Bilinmeyen/15~|Bilinmeyen/16~|Bilinmeyen/17~|Bilinmeyen/19~|Bilinmeyen/20~|Bilinmeyen/21~|Bilinmeyen/22~|Bilinmeyen/23~|Bilinmeyen/24~|Bilinmeyen/25~|Bilinmeyen/26~|Bilinmeyen/27~|Bilinmeyen/28~|Bilinmeyen/29~|Bilinmeyen/30~|Bilinmeyen/31~|Bilinmeyen/32~|Bilinmeyen/33~|Bilinmeyen/8~|Bilinmeyen/9~|Muş%
+60351	Erentepe Beldesi, Kale Mah.	101~|102~|103~|104~|105~|106~|107~|107/1~|108~|109~|110~|111~|112~|113~|114~|115~|115/1@|116~|116/1~|117~|118~|203~|Belediye@|Bilinmeyen/7~|Bulanık%|Yemişen@
+64360	Ericek Köyü	Ericek=|Erıcek 2=
+64397	Esenlik Köyü, Biniciler Mezrası Mezrası	Birinciler Mezrası=
+64395	Esenlik Köyü, Halit Mezrası Mezrası	Halit Mezrası=
+64396	Esenlik Köyü, Mevkii	1 Kume=|2=
+64419	Eskiyol Köyü	Eskiyol=
+64420	Eskiyol Köyü, Ardıç Mezrası	Yukarı Bayramlı=
+64421	Eskiyol Köyü, Bayramlı Mezrası	Bayramlı=
+64362	Gölyanı Köyü	Gölyanı=
+64361	Gölyanı Köyü, Vangesor Mezrası Mezrası	Vangesor=
+64363	Göztepe Köyü, Mevkii	1.küme=
+60334	Güllüova Mah.	8@|801~|803~|804~|806~|807~|808~|809~|810~|811~|812~|813~|816~|817~|818~|819~|822~|824~|826~|Bilinmeyen 2~|Bilinmeyen 4~|Bilinmeyen 58~|Bilinmeyen/1006~|Bilinmeyen/1007~|Bilinmeyen/1008~|Bilinmeyen/1009~|Bilinmeyen/1010~|Bilinmeyen/1011~|Bilinmeyen/1012~|Bilinmeyen8~|Güllüce Deresi~|Selahaddin Eyyubi@|Üçtepe@
+64398	Gülçimen Köyü	Gülçimen=
+64364	Gümüşpınar Köyü, Mevkii	1 Küme=|2 Kumeevlerı=
+64399	Günbatmaz Köyü, Mevkii	1-=|2=
+64365	Gündüzü Köyü, Mevkii	1=
+64367	Günyurdu Köyü	Günyurdu=
+64366	Günyurdu Köyü, Kuzulu Mezrası	Kuzuluk=
+64379	Han Köyü	Han=
+64400	Hoşgeldi Köyü, Kelehoşk Mezrası	Kelehoşk=
+64401	Hoşgeldi Köyü, Mevkii	Hoşgeldi=|Yeni Yerleşim Yeri=
+60364	Karaağıl Köyü, Murat Mevkii	301~|302-~|303~|304~|305~|306-~|307~|308-~|309-~|310~|311~|312~|313~|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen12~|Bilinmeyen17~|Bilinmeyen5~|Bilinmeyen6~|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen9~|Cumhuriyet~
+60363	Karaağıl Köyü, Uğur Mahhalesi Mevkii	201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|310~|312~|313~|Bilinmeyen10~|Bilinmeyen13~|Bilinmeyen14~|Bilinmeyen15~|Bilinmeyen16~|Cumhuriyet~
+60362	Karaağıl Köyü, Yıldız Mevkii	101.~|102.~|103.~|104-~|105~|106~|107-~|108~|109~|110~|111-~|112~|113~|301~|Bilinmeyen1~|Bilinmeyen17~|Bilinmeyen2~|Bilinmeyen3~|Bilinmeyen4~|Cumhuriyet~
+64368	Karaburun Köyü, Mevkii	1 Kumeevler~|1.küme-=|2kumeevler=|3 Küme=
+64422	Karacaören Köyü	Karacaören=
+64371	Kotanlı Köyü	Kotanlı=
+64370	Kotanlı Köyü, Kom Mezrası Mezrası	Kom=
+64423	Koyunağılı Köyü	Koyunağılı=
+64424	Koyunağılı Köyü, Gelinçeşmesi Mezrası	Gelinçeşmesi=|Koyunağılı=
+64426	Kurganlı Köyü, Mevkii	1 Kume=|2 Kume Evı=|3=|4 Kume Evı=
+64425	Köprüyolu Köyü, Mevkii	1=|2 Kume=|3 Kume=|4 Kume=
+60336	Kültür Mah.	101.~|102~|102.a~|103.~|104.~|105.~|106~|107.~|110.~|111.~|113.~|114.~|115.~|116.~|117.~|118.~|119~|12@|120.~|121.~|123~|124~|124a~|125~|127~|128~|129~|130~|131~|Bilinmeyen /6~|Bilinmeyen /8~|Bilinmeyen 57~|Bilinmeyen5~|Bilinmeyen8~|Kazım Karabekir@|Kâzım Karabekir Caddesi/-@|Şehit Üstteğmen Suat İshakoğlu@
+64369	Kırkgöze Köyü	Kırk Göze=
+60337	Mescitli Mah.	9@|906~|908~|910~|911~|912~|913~|917~|Bilinmeyen/1000~|Bilinmeyen/1001~|Bilinmeyen/1002~|Bilinmeyen/1003~|Bulanık@|Selahaddin Eyyubi@
+64429	Meşeiçi Köyü, Beşevler Mezrası	Beşevler=
+64427	Meşeiçi Köyü, Mevkii	1 Küme=|2 Kumeevler~
+64428	Meşeiçi Köyü, Ürünlü Mezrası	Ürünlü=
+64408	Molladavut Köyü, Mevkii	1 Küme=|2kumeevler=|3 Kumeevler=|4kumeevler=
+60352	Mollakent Köyü, Pınarbaşı Mevkii	201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|290~|Belediye~|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen12~|Bilinmeyen13~|Bilinmeyen14~|Bilinmeyen15~|Dere~|Sağlık Ocağı~
+60353	Mollakent Köyü, Yeşilyurt Mevkii	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|Belediye~|Bilinmeyen1~|Bilinmeyen2~|Bilinmeyen3~|Bilinmeyen4~|Bilinmeyen5~|Bilinmeyen6~|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen9~|İlkokul~
+64403	Okçular Köyü, Mevkii	1=|2=|Geçici Yerleşim Yeri=
+64404	Olurdere Köyü	Eski Yerleşim=|Olurdere=|Yeni=
+64405	Olurdere Köyü, Soman Mezrası	Soman=
+64402	Oğlakkaya Köyü, Mevkii	1=|2=|3=|4 Kume=|5 Kume=|5-=|6 Kume=
+99064	Rüstemgedik Beldesi, Bağlar Mah.	1.@|106~|108~|109~|110~|111~|113~|114~|115~|116~|118~|120~|Bulanık@|Malazgirt@|Rüstemgedik%
+99063	Rüstemgedik Beldesi, Hanedan Mah.	2@|202~|204~|205~|206~|207~|208~|209~|210~|211~|212~|214~|215~|Bilinmeyen 5~|Bilinmeyen/1~|Bulanık@|Gündüzü~|Kotanlı@
+60344	Rüstemgedik Beldesi, Zafer Mah.	302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|Bilinmeyen/12.~|Gündüzü~|Kotanlı@|Kotanlı/1~|Sultanlı~
+60343	Rüstemgedik Beldesi, İnönü Mah.	302~|403~|404~|405~|406~|407~|408~|409~|410~|Bilinmeyen /2~|Bilinmeyen/123~|Malazgirt@|Rüstemgedik%
+64432	Samanyolu Köyü	Samanyolu=
+64430	Samanyolu Köyü, Mezrası	Pınarcık=
+64431	Samanyolu Köyü, Pınarcık Mezrası	Köyün Kendisi=
+60366	Sarıpınar Beldesi, Pınar Mah.	202~|204~|205~|206~|207~|208~|209~|210~|211~|212~|216~|222~|224~|226~|228~|229~|İdris Koralp@
+60367	Sarıpınar Beldesi, Sinan Mah.	101~|103~|104~|105~|106~|107~|110~|111~|112~|114~|115~|116~|118~|120~|122~|Bilinmeyen~|Gaffar Okan@|İdris Koralp@|İsimsiz 1~|İsimsiz 2~
+60365	Sarıpınar Beldesi, Çimen Mah.	202~|301~|302~|304~|306~|307~|309~|310~|312~|İdris Koralp@
+64439	Seçme Köyü	Köyün Kendisi=
+64435	Seçme Köyü, Memetler Mezrası	Memetler=
+64433	Seçme Köyü, Saliha Mezrası	Saliha=
+64437	Seçme Köyü, Sütlüce Mezrası	Sütlüce=
+64438	Seçme Köyü, Topağaç Mezrası	Topağaç=
+64436	Seçme Köyü, Çilçile Mezrası	Çilçile=
+64434	Seçme Köyü, Çiçekli Mezrası	Çiçekli=
+64376	Sultanlı Köyü	Sultanlı=
+64374	Sultanlı Köyü, Boztaş Mezrası	Boztaş=
+64375	Sultanlı Köyü, Düzalan Mezrası	Düzalan=
+64373	Söğütlü Köyü	Söğütlü=
+64440	Sıradere Köyü	Sıradere=
+64444	Toklular Köyü	Altınoluk=|Toklular=
+60354	Uzgörür Beldesi, Abdalbeyazıt Mah.	3.@|401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|416~
+60358	Uzgörür Beldesi, Alagez Mah.	301~|302~|303~|305~|306~|308~
+60355	Uzgörür Beldesi, Arı Mah.	501~|502~|503~|504~|505~|506~|508~|509~|511~|520~|521~
+60356	Uzgörür Beldesi, Fatih Mah.	1@|101~|102~|103~|104~|105~|106~|108~|110~|111~|112~|113~|114~|116~|117~|119~|121~|123~|124~|125~|126~|2@
+60357	Uzgörür Beldesi, Gazi Mah.	1@|125~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|213~|2222~
+64448	Yazbaşı Köyü	Yazıbaşı=
+64446	Yazbaşı Köyü, Kortagül Mezrası Mezrası	Kortagül Mezrası=
+64447	Yazbaşı Köyü, Kılındor Mezrası Mezrası	Kılındor Mezrası=
+64445	Yazbaşı Köyü, Kırmızıtaş Mezrası Mezrası	Kırmıztaş=
+60359	Yemişen Köyü, Bahçelievler Mevkii	102~|301~|302~|304~|305~|308~|309~|312~|Bahçelievler Bilinmeyen 1=|Bahçelievler Bilinmeyen 10=|Bahçelievler Bilinmeyen 11=|Bahçelievler Bilinmeyen 12=|Bahçelievler Bilinmeyen 13=|Bahçelievler Bilinmeyen 2=|Bahçelievler Bilinmeyen 3=|Bahçelievler Bilinmeyen 4=|Bahçelievler Bilinmeyen 5=|Bahçelievler Bilinmeyen 6=|Bahçelievler Bilinmeyen 7=|Bahçelievler Bilinmeyen 8=|Bahçelievler Bilinmeyen9=
+60360	Yemişen Köyü, Fatih Mevkii	105~|108~|201~|202~|203~|205~|206~|207~|208~|209~|210~|211~|212~|Fatih Bilinmeyen 1=|Karayolu~
+60361	Yemişen Köyü, Saray Mevkii	101~|102~|103~|105~|107~|108~|110~|111~|112~|Bahçelievler Bilinmeyen 1=|Karayolu~|Saray Bilinmeyen 1=|Saray Bilinmeyen 2=|Saray Bilinmeyen 3=|Saray Bilinmeyen 4=
+60339	Yeni Mah.	100.yıl Hal@|409~|480~|482~|501~|502~|503~|504~|505~|506~|507~|507a~|508~|509~|510~|510/1~|511~|512~|513~|513/1~|514~|515~|516~|517~|518~|519~|520~|521~|523~|524~|525~|526~|526/1~|527~|528~|529~|530~|531~|532~|533~|534~|535~|536~|538~|54@|540~|542~|544~|546 A~|546~|548~|55@|554~|556~|556a~|558~|562~|564~|565~|566~|572~|Bilinmeyen /17~|Bilinmeyen /7~|Bilinmeyen12.~|Demirciler~|Karaoğlanoğlu@|Kazım Karabekir@|Muş%|Sultan Alparslan@|Test150~
+64407	Yokuşbaşı Köyü	Yokuşbaşı=
+64406	Yokuşbaşı Köyü, Yeşilova Mezrası	Yeşilova=
+60348	Yoncalı Beldesi, Cumhuriyet Mah.	100~|Bilinmeyen/13~|Bilinmeyen/14~|Bilinmeyen/15~|Cumhuriyet@|Gündüz~|Muş Bulanık%
+60345	Yoncalı Beldesi, Hürriyet Mah.	1.~|Arslan~|Atatürk@|Bilinmeyen/11~|Bilinmeyen/6~|Bilinmeyen/7~|Bilinmeyen/8~|Bilinmeyen/9~|Bilinmeyen10~|Bilinmeyen1000~|Bılınmeyen/12~|Duman@|Hilal@|Okul~|Polat~|Sağlık~|Yonca~|İstiklal@
+60346	Yoncalı Beldesi, Yeni Mah.	Alparslan@|Atatürk@|Belediye~|Bilineyen/3~|Bilinmeyen/1~|Bilinmeyen/2~|Bilinmeyen/4~|Bilinmeyen/5~|Mezarlık Yanı~|Onur~
+60340	Zafer Mah.	601~|602~|603~|605~|606~|607~|608~|610~|611~|612~|613~|614~|615~|616~|617~|618~|619~|620~|621~|622~|623~|623a~|624~|625~|626~|635~|637~|638~|639~|640~|641~|641/a~|643~|645~|647~|649~|651~|66@|661~|663~|665~|670~|Bilinmeyen /16~|Bilinmeyen/101~|Bilinmeyen/102~|Bilinmeyen/104~|Bilinmeyen/105~|Bilinmeyen/106~|Bilinmeyen/107~|Bilinmeyen/108~|Bilinmeyen/109~|Bilinmeyen/110~|Bilinmeyen/111~|Bilinmeyen/112~|Bilinmeyen/113~|Bilinmeyen/114~|Bilinmeyen/115~|Bilinmeyen/117~|Bilinmeyen/118~|Bilinmeyen/119~|Bilinmeyen/120.~|Bilinmeyen/28~|Bilinmeyen21.~|Bilinmeyen24.~|Bilinmeyen26.~|Bilinmeyen27.~|Bilinmeyen28.~|Bilinmeyen30.~|Ertuğrul Gazi@|Hastane@|Malazgirt%|Selahaddin Eyyubi@|Sultan Alparslan@|Şehit Binbaşı Arslan Kulaksız@|Şehit Üstteğmen Suat İshakoğlu@
+64387	Çataklı Köyü	Kumeevler=|Çataklı=
+64388	Çataklı Köyü, Güveç Mezrası	Güveç=|Kumeevler=
+64358	Çaygeldi Köyü, Çaygeldi Mevkii	1.küme=|2.küme=
+64372	Örenkent Köyü, Mevkii	1=|2 Kume Evler=
+64378	Üçtepe Köyü, Mevkii	1.küme=|2. Kumeevler=
+60335	İnönü Mah.	214~|303~|304~|305~|308~|310~|312~|313~|313/1~|313/2~|316~|317~|317/1~|317/2~|317/3~|317/4~|318~|319~|320~|322~|324~|326~|330~|334~|338~|340~|344~|344a~|Bilinmeyen 1.~|Bilinmeyen 2~|Bilinmeyen3.~|Bilinmeyen4.~|Bilinmeyen8~|Güllüova Yolu~|Mesçitli@|Selahaddin Eyyubi@|Şehit Üstteğmen Suat İshakoğlu@
+64441	Şatırlar Köyü	Şatırlar=
+64442	Şatırlar Köyü, Yılandere Mezrası	Yılandere=
+60338	Şehitlik Mah.	102~|106~|4@|401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|415~|415a~|416~|417~|419~|419a~|420~|421~|421a~|422~|423~|424~|425~|426~|428~|429~|430~|430a~|432~|434~|436~|437~|439~|44@|440~|441~|442~|443~|445~|447~|449~|451~|452~|453~|454~|455~|455a~|457~|459~|463~|465~|466~|467~|468~|469~|470~|471~|472~|473~|474~|475~|476~|480-~|482~|491~|492~|493~|494~|497~|524~|54@|Bilineyen /9~|Bilinmeyen~|Bilinmeyen/100~|Bilinmeyen11.~|Bilinmeyen14.~|Bilinmeyen16.~|Bilinmeyen17.~|Bilinmeyen18.~|Bilinmeyen6.~|Kazım Karabekir@
+64377	Şehittahir Köyü	Şehittahir=
+64443	Şehitveren Köyü	Şehitveren=

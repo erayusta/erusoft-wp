@@ -1,0 +1,65 @@
+185955	Akbulut Mah.	Karanlık Dere~|Merkez~|Yakalar~|Yeni~
+185961	Akgüney Mah.	Gözüaçık~|Karşı~|Veisoğlu~
+185965	Alidedebölmesi Mah.	Ayınderesi~|Barmo~|Hıdır~|Merkez~
+69869	Alparslan Mah.	Alp~|Ata~|Bafra@|Beşyol~|Bülbül~|Doğan~|Emniyet~|Eser~|Genç~|Huzur~|Hızır~|Işık~|Kanarya~|Karanfil 1.~|Karanfil~|Küçük Sanayi Sit.~|Lale~|Lise 3.~|Lise@|Menekşe~|Namık Kemal 1.~|Namık Kemal@|Paşa~|Samsun 1.@|Sanayi@|Serçe~|Tepebaşı~|Tuğra~|Uluçay@|Yakakent@|Yunus Emre@|Zincirlikuyu~|Ziraat~|Zümrüt~|Çavuş~|İstikbal 1.~|İstikbal 2.~|İstikbal~|Şehit Murat Yıldız~|Şirin~
+185969	Aşağı Akgüney Mah.	Azizağa~|Bayramoğlu~|Camii~|Hacıoğlu~|Karataş~
+185977	Aşağıkoçlu Mah.	Ağaçalan~|Beleç~|Deveboynu~|Eşe~|Harmancıkaltı~|Hıdıralan~|Karaağaç~|Körmahmut~|Köseveldüzü~|Osmanoğlu~|Softooğlu~|Tefekli~
+185973	Aşağıısırganlı Mah.	Merkez_46~
+185989	Bahşioymağı Mah.	Adiloğlu~|Demirci~|Hıdırlı~
+69870	Bekiroğlu Mah.	Ceylan~|Gökmen Köyü~|Karaağaç~|Karaca~|Köseveldüzü~|Türkmen Köyü~|Üspınar~
+185991	Demircideresi Mah.	Kirenli~|Yeni~
+185993	Doyran Mah.	15 Temmuz Demokrasi Şehidi Muhammed Ali Aksu~|Cırtlar~|Merkez~|Okul_1~|Soğuksu~
+186185	Doğankent Mah.	Kabalan~|Koltak~
+69872	Esentepe Mah.	Bekirköyü~|Güvez Köyü~|Yörük Köyü~|Şehit Binbaşı Alaiddin Helvacı~
+185995	Etyemez Mah.	Güllüoğlu~|Gülpınar~|Güçoğlu~|Kahyaoğlu~|Kışla~|Sarımsaklı~|Yusufoğlu~|Çavuşoğlu~|Çoban~
+69873	Fatih Mah.	Bedirler~|Cevizli 1.~|Cevizli~|Demirci 1.~|Demirci~|Geyikkoşan 1.~|Geyikkoşan 2.-~|Geyikkoşan 3.~|Geyikkoşan 4.-~|Geyikkoşan 5.-~|Geyikkoşan 6.-~|Geyikkoşan 7.~|Geyikkoşan 8.~|Geyikkoşan@|Geyikkoşan Sosyal Konutlar Sitesi-=|Göçkün 2.~|Göçkün@|Hürriyet~|Kahraman 1.~|Kahraman 2.~|Kahraman 3.~|Kahraman 4.~|Kahraman 5.~|Kahraman 6.~|Kahraman~|Kum~|Martı~|Ova~|Pınar 1.~|Pınar 2~|Pınar~|Sahil~|Siteler~|Süleyman Çelebi 1. Sokak~|Süleyman Çelebi 2. Sokak~|Süleyman Çelebi 3.-~|Süleyman Çelebi 3.sokak~|Süleyman Çelebi Sokak~|Tekel İşçi Evleri~|Vadi~|Yakakent@|Zafer~|Şehit Selçuk Demir~
+186005	Gökçeağaçoymağı Mah.	Adilli~|Ali~|Arıçalı~|Gökçeağaç~|Hıdır~|Kemik~|Kozluca~|Kuzlar~|Köprü~|Kısrakçı~
+186015	Gökçeboğaz Mah.	Evci 1.~|Gecekli~|Kalfalı~|Karaali~|Kargalı~|Kozoğlu~|Kırıklı~|Yeni~
+186001	Göçkün Mah.	Albakent~|Geyikkoşan@|Kum~|Merkez~
+186019	Gülkaya Mah.	Dereköy_10~|Fiğlik~|Ortageriş~
+69874	Gültepe Mah.	Pergelli 1.~|Pergelli~
+186183	Gümüşova Mah.	Merkez_34~
+186023	Güvenli Mah.	Darı Güney~|Dikmen~|Düzdağ~|Güvenli~|Hacıköy~|Karaman~|Sarıalan~
+186027	Habilli Mah.	Abbaslar~|Eskicamii~|Kumca~|Soğuksu~
+186033	Harmancık Mah.	Harmancık~|Harmancıkaltı~|Kapı Boğazı~|Köseveldüzü~|Sokutaşı~|İnceoğlu~
+69876	Kadıköy Mah.	Atmaca_8~|Genel Müdür Osman Tural~|Güvez Köyü~|Çuha 1.~|İnderesi=|Şehit Piyade Astsubay Kıdemli Çavuş Erdal Bolat~
+186037	Kalıkdemirci Mah.	Acem~|Bayramkalfa~|Demirci~|Kabadağ~
+186043	Kapaklı Mah.	Merkez~|Şehit Piyade Onbaşı Kadir Kara-~
+186047	Karahüseyinli Mah.	Adiloğlu~|Cami_8~|Orta~|Sultanoğlu~|Söngütlü~|Çiftlik~|Şabanoğlu_1~
+186045	Karaçukur Mah.	Kaluk~|Merkez~
+186053	Karlı Mah.	Bektaşdere~|Karşı~|Kayacık~|Merkez Cami~|Merkez~|Orta~|Sırt~|Yeni~|Yolboyu~
+69877	Karşıyaka Mah.	Anıttepe~|Bakırcı~|Değirmen~|Katırcı~|Katırcı Yokuşu~|Köprübaşı~|Merkez~|Sarı Şaban~|Selanik@|Tahtalı Köprübaşı~|Uzun Kuyu~|Çay~|Çığlık~
+186065	Killik Mah.	Eski Killik~|Merkez~
+186067	Köseköy Mah.	Akgüney~|Gürgendüzü~|Karaağaç Düzü~|Kelikbeleği~|Merkez~|Nadıköy~|Öküztaşı~
+186063	Kızlan Mah.	Kızlan~
+186059	Kışlakonak Mah.	K.çavuşoğlu~|Mahmutoğlu~|Merkez Yeni~|Şabanoğlu~
+69878	Madenler Mah.	Bayraktar~|Evci 1.~|Evci 2.~|Kırıklı~|Mandır~|Şehit Piyade Uzman Çavuş Yavuz Mete~|Şehit Selman Özay~
+186073	Ortaköy Mah.	Merkez~|Müyesserli~
+186081	Pelitbükü Mah.	Gökgel~|Hasırlık~|Karacak~|Koğuz_1~|Ovacık-~|Yalnız Ceviz~|Yukarı Karacak~|Çoban Adası~|Örenlice~
+186089	Pelitbüküsekecek Mah.	Belce~|Ekleş~|Koğuz~|Sekecek~|Şirinköy~
+186095	Sancar Mah.	Merkez~
+186097	Sarılık Mah.	Aşağı~|Merkez_30~
+186101	Soğukçam Mah.	Aşağı Bedeş~|Merkez Kanalboyu~|Ordulular~|Orta Bedeş~
+186107	Taşkelik Mah.	Aşağı~|Doğan Yuvası~|Meydancık~|Orta~|Söngütlü~|Çiftlik~|Şabanoğlu_1~
+186173	Tefekli Mah.	Dervişoğlu~|Kalacıoğlu~|Merkez~
+186113	Tepebölmesi Mah.	Atmaca~|Könezli~|Yüzükçü~
+186119	Terskırık Mah.	Kuzdağ~|Merkez~
+186125	Toplu Mah.	Cami~|Merkez~|Okul_1~|Ordulu~|Sahil~|Tepe~|Çamlık~
+186127	Umutlu Mah.	Merkez~|Toklu~
+186129	Uzunkıraç Mah.	Aşağı_3~|Köklü Kırık~|Kızıl Karar~|Merkez~
+186131	Vicikler Mah.	Cami Mh.~|Göncüoğlu~|Gürgeriş~|Keçeci~|Okul~
+69879	Yakacık Mah.	503-~|504-~|Eski Bafra 1.~|Eski Bafra 2.~|Eski Bafra~|Samsun 1.@|Siteler~
+69880	Yenicami Mah.	Atatürk@|Bafra 1.~|Bafra 2,~|Bafra 3.~|Bafra 3.-~|Bafra@|Barbaros~|Başkan Mustafa Aykaç~|Başkan Nami Deliorman~|Belediye@|Bülbül~|Cumhuriyet~|Damla~|Dutluk~|Eski Şube~|Genç~|Harmanyeri 1,~|Harmanyeri 2,~|Harmanyeri~|Kanarya~|Karagül~|Karagüllü~|Kaymakam Mustafa Masatlı~|Kiremithane~|Kurtuluş~|Lise 1,~|Lise 2.~|Lise@|Necipler~|Nurluoğlu~|Onur~|Sakarya~|Setkenar~|Somçağ 1.~|Somçağ 2.~|Somçağ~|Sönmez~|Sülin~|Tarhan@|Tepe~|Tepebaşı~|Uluçay@|Vahitler~|Yasemin~|Yunus Emre@|Çavuş~|Önder~|İnönü~|İçel~|Şahinbaş~|Şehit Mustafa Kaba -~
+186135	Yenice Mah.	Civli~|Merkez~|Meydancık~|Sapak~|Tepe-~
+186141	Yeniköy Mah.	15 Temmuz Demokrasi Şehidi Sevgi Yeşilyurt-~|Merkez~
+186177	Yeşilköy Mah.	Arnavutlar~|Dolmalar~|Kapaklı~|Keleşoğlu~
+186145	Yoğunpelit Mah.	Merkez~|Sarıgöl~
+186149	Yukarıelma Mah.	Aydınbeyli~|Civli~|Karataş~|Merkez~|Sofular~|Çiftlik~
+186159	Yukarıkoçlu Mah.	Congo~|Orta~|Sadırlık~|Zibo~
+186163	Yukarısoğukçam Mah.	Karataş~|Orta~|Reşit Ağa~|Tepeköy~|Şıhlar~
+186155	Yukarıısırganlı Mah.	Aşağı~|Hacıkırığı~|Merkez~|Sekecek~
+186167	Zeytin Mah.	Abuzlar~|Gayboğlu~|Kayacık~|Kışla~|Merkez~
+69871	Çeşme Mah.	Belediye@|Cumhuriyet~|Değirmen~|Eski Şube~|Genel Müdür Osman Tural~|Gül~|Güler~|Koymat~|Koymat Yokuş~|Kurtuluş~|Nur~|Nurluoğlu~|Okul~|Selanik@|Tepebaşı~|Yıldız~|Çeşme 1.~|Çeşme 2.~|Çeşme 3.~|İbrahim Baykan-~|İstiklal~|Şehit Kadir Kara~|Şehit Şenol Çelebi~
+186077	Örenli Mah.	Dereköy~|Duroğlu~|Eskiköy~|Orta~|Tomaçoğlu~
+69875	İncirli Mah.	Bayraktar~|Bekirköyü~|Egemen~|Çamlık~|Şehit Selman Özay~
+186103	Şirinköy Mah.	Şirinköy~

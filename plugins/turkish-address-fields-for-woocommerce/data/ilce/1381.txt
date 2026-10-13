@@ -1,0 +1,26 @@
+193007	Abacılar Mah.	Abacılar=
+193009	Akçayurt Mah.	8100=|Akçayurt=
+193011	Anıl Mah.	Anıl=|Anıl-1=|Dicle@
+193013	Belen Mah.	Belen=|Burak=|Dicle@
+21102	Dereli Mah.	101~|14~|15~|17~|18~|20~|21~|2104~|22~|23~|3104~|4104~|Aral~|Atçılar~|Bahçeler~|Bilim~|Dere~|Dicle@|Ferikoğlu@|Kaldırım~|Kayalık~|Kuyular Yolu@|Mehmet Akif Ersoy@|Muradiye~|Uçak~|Yıldızlar1~|Zilan~|Çelik1~|Çeşme.~|Çıra~|Özçelik~|Şehitler~
+193019	Gömeç Mah.	Diyarbakır Bingöl@|Gedük=|Gömeç=|Gömeç1%|Güçlü=|Pınar=|Çağıl=
+192995	Gürbüz Mah.	48~|481~|482~|483~|484~|485~|486~|488~|489~|492~|494~|495~|50~|51~|52~|53~|54~|55~|56~|57~|58~|60~|84~|Aslan 1~|Aslan 2~|Aslan 3~|Aslan~|Bahçeli Evler~|Bahçelievler 1~|Bahçelievler 2~|Bahçelievler 3~|Barbaros 1~|Barbaros~|Bağlar 1~|Bağlar 2~|Bağlar 3~|Bağlar 4~|Bağlar 5~|Bağlar@|Beyazıt~|Bini Tilli Polat=|Bini Tilli Yıldız=|Buhari~|Cami.~|Deniz~|Doşe~|Fatih 1~|Fatih~|Gazali~|Güç~|Karanfil~|Kaya 1~|Kaya 2~|Kaya~|Kaçmaz~|Kutan~|Kılıç 1~|Kılıç~|Lale~|Lale1~|Lale2~|Lale3~|Lale4~|Lale5~|M.akif Ersoy~|Manolya~|Mercan~|Mercan1~|Mercan2~|Mercan3~|Mercan4~|Mercan5~|Meşe~|Narlı 1~|Narlı@|Orhanbey~|Osmanbey~|Penbe~|Piri Reis~|Sağlık@|Selvi 1~|Selvi~|Sümbül~|Toros 1~|Toros 2~|Toros@|Turgut Reis~|Ulucami 1~|Ulucami@|Vatan@|Yavuz~|Yeşilyurt 1~|Yeşilyurt 2~|Yeşilyurt 3~|Yeşilyurt 4~|Yeşilyurt@|Yonca~|Yıldız 2~|Yıldız 3~|Yıldız 4~|Yıldız 5~|Yıldız~|Yıldız1~|Ziraat 1~|Ziraat~|Çam~|Çamlıca@|Çimen~|Çiçek~|Çıreyni~|Çıreyni1~|Çıreyni2~|Çıreyni3~|İbni Sina~|Şehit Eşref Yıldız~
+193023	Kalaba Mah.	85~|Eski Lice Yolu@|Gürbulak=|Kalaba=
+193025	Kaledibi Mah.	8100=|Başaklı=|Diktaş=|Güzelce=|Kaledibi=|Sarı Evler=|Sıra Evler=|Taşburnu=
+192997	Kuyular Mah.	2~|4~|5~|6~|61~|63~|64~|65~|66~|67~|68~|69~|7~|70~|71~|72~|73~|74~|75~|76~|77~|78~|80~|81~|82=|83~|9~|Ak~|Akman~|Aligaffar Okan~|Aydın~|Azmi~|Bahçelievler~|Baran~|Bağlar.~|Camii.~|Değirmen~|Eşkin=|Ferah~|Gülden~|Işık~|Lalebey 1~|Lalebey@|Narin~|Nur@|Ofis~|Okul~|Piraziz~|Sevgi~|Çelik~|Çeşmeli~|Şehit Emrah Tezgel~
+193027	Kırım Mah.	1010%|Aka=|Hani Yolu%|Kermen=|Kırım=|Ovalı=|Özkaya=|İbrahim Evleri=
+21104	Merkez Mah.	1~|15 Temmuz Şehitler Myd.|222~|223~|225~|226~|227~|229~|230~|232~|234~|235~|236~|239~|24~|25~|27~|28~|2828~|29~|30~|31~|32~|33~|334~|337~|34~|35~|36~|38~|39~|40~|41~|42~|79~|Ankeris@|Atak~|Bahçe~|Baycan~|Bağlar Yolu~|Beşer~|Bilge~|Buğday Pazarı~|Camii~|Derviş~|Dicle 1~|Dicle@|Eski Deprem Konutları1~|Eski Deprem Konutları2~|Eski Lice Yolu@|Fatih1~|Fatih2~|Gültepe 1~|Güvercin~|Hakan~|Hakan1~|Hükümet@|Hüsnübey1~|Kalkan 3~|Kalkan1@|Kalkan2~|Karakoç1~|Karakoç2~|Kastal~|Kotan~|Küçük Camii~|Küçük~|Küçük1~|Laleli~|Menekşe~|Mesnevi~|Mevlana~|Mezarlık~|Nadir~|Nazlı~|Nazlı1~|Nergiz1~|Nergiz2~|Nergiz3~|Orman@|Oruç1~|Oruç2~|Oruç3~|Salihbeg@|Seher~|Serin1~|Serin2~|Serin3~|Susuz1~|Susuz2~|Susuz3~|Susuz4~|Susuz5~|Susuz6~|Taraman~|Tarım@|Teyze~|Yeni.1~|Yeşilevler~|Yüksek~|Yılmaz~|Zemin~|Çelik~|Çiftçiler~|Çoban~|Ünal~|İlkokul@|İlkokul1~|İnci~|İniş~|Şanlı~|Şehit Hacı Kemal Moğolkoç@|Şehit Sezgin Burak Cantürk@
+193031	Okurköy Mah.	Bafeys=|Okurköy=
+193033	Serenköy Mah.	Hani Yolu%|Hasanbey=|Mazılı=|Serenköy=|Tahirbey=
+193037	Sergen Mah.	206=|2222~|Bafeys=|Baziyan=|Bilinmeyen 201=|Goma Salih=|Goman=|Haciyusuf=|Karabulut=|Karaçalı Hani Yolu@|Korti=|Sergen=|Süleymanan=|Tilan=|Şeyhuyan=
+193051	Soylu Mah.	Soylu=
+193039	Süslü Mah.	Süslü=
+193041	Topçular Mah.	Damlatepe=|Sarı Evler=|Topçular=|Uysal=
+193043	Uzunlar Mah.	Aşağı=|Gültepe=|Hani Yolu%|Uzunlar=
+21105	Veziri Mah.	44~|45~|46~|Ankeris@|Arık~|Yusuf~
+193045	Yayvan Mah.	1010%|Yayvan=
+193047	Yukarıturalı Mah.	Aşağı Turalı Mezrası=|Ceviz=|Ovacık=|Yukarıturalı=|Çay=
+21103	Zirve Mah.	10~|11~|12~|13~|2104~|237~|3104~|3105~|3106~|3107~|322~|8~|92121~|Akbey~|Akçin~|Bakır~|Bora~|Caferi Tayar~|Camii 1~|Camii 2~|Erdoğmuş~|Etik~|Gül~|Kabil~|Kanhan~|Kayalar~|Kaçhan~|Kuyular Yolu@|Oksar~|Orman@|Süslüce~|Yalçın~|Yıldızlar1~|Yıldızlar2~|Yılmazlar~|Çeşme~|İnci~
+193015	Çardaklı Mah.	Gaybiyan=|Havdiyan=|Kanikevan=|Karaçalı Hani Yolu@|Çardaklı=
+21101	Çarşı Mah.	350~|Alican~|Arca~|Atçılar~|Camii 1~|Camii 2~|Dicle@|Ergin~|Hamam~|Hatipoğlu~|Hükümet@|Hüsnübey~|Küçük Camii~|Mezbaha~|Oktay~|Orak~|Orman@|Taraman~|Çarşı Küçük Cami~|İnci~
+193017	Çukurköy Mah.	Atıcı=|Aşağı Atıcı=|Bozok=|Çukurköy=

@@ -1,0 +1,188 @@
+29508	Akarsu Köyü	Akarsu=
+29509	Akarsu Köyü, Dahar Mezrası	
+29631	Akbağ Köyü	Akbağ=
+29475	Akçiğdem Köyü	Akçiğdem=
+29476	Alacatlı Köyü	Alaçatlı=
+29569	Alapınar Köyü	Alapınar=
+29540	Alaçayır Köyü	Alaçayır=
+29477	Altköy Köyü	Altköy=|Altköy/1=
+29632	Ardıçlık Köyü	Ardıçlık=
+29570	Armutlu Köyü	Armutlu=
+29478	Arpayazı Köyü	Arpayazı=
+29480	Arpayazı Köyü, Kazı Mezrası	Kazı=
+29479	Arpayazı Köyü, Taşdibi-taşbaşı Mezrası	Taşdibi Taşbaşı=
+29481	Arpayazı Köyü, Temür Mezrası	Temür=
+29524	Aslanyusuf Köyü	Aslanyusuf=
+29482	Avşarözü Köyü	Avşarözü=
+29512	Aydoğan Köyü	Aydoğan Merkez=
+29513	Aydoğan Köyü, Aydoğan Yayla Evleri	Aydoğan=
+29541	Aydıncık Köyü	Aydıncık=
+29539	Ağmusa Köyü	Ağmusa=|Yeni Yerleşim-=
+29571	Aşağısütlü Köyü	Aşağısütlü=
+29510	Aşut Köyü	Aşut=
+29511	Aşut Köyü, Ozan Mezrası	Ozan=
+29542	Babaaslan Köyü	Babaaslan=|Babolar=
+29544	Babaaslan Köyü, Ağtaş Mezrası	Ağtaş=
+29543	Babaaslan Köyü, Hinisler-başaklı Mezrası	Hinisler Başaklı=
+29572	Bakacak Köyü	Bakacak=
+29573	Baloğlu Köyü	Baloğlu=
+29574	Baştosun Köyü	Baştosun=|Çamlık=
+630095	Binali Yıldırım Mah.	101.~|115.~|116.~|208.~|210.~|501.~|502.~|510.~|511.~|512.~|516.~|518.~|522.~|524.~|526.@|601.~|602~|603.~|605.~|607.~|609.~|Av.mehmet Yavuz~|Binali Yıldırım@|Doğan Koç@|Gazi Mesut Vural~|Hamitoktay~|Kadı Şevki Yurtbaşı~|Karayolu%|Yenidoğan 3~|Şehit Aslan Palut~|Şehit Kenan Sapancı~|Şehit Mete Sertbaş@|Şehit Nurettin Karaman~|Şükrü Bayazıtlı~
+29514	Biçer Köyü	Biçer=
+29633	Bostandere Köyü	Bostandere=
+29634	Bostandere Köyü, Şakka-çiftlik Mezrası	Şakka Çiftlik=
+29545	Bölüktepe Köyü	Bölüktepe=
+21570	Camiişerif Mah.	201.~|202~|203.~|204~|205.~|206~|207.~|208~|209.~|211~|212-~|213~|213-~|301~|305.~|307.~|308.~|309.~|310.~|311.~|312~|313~|314~|316~|Binali Yıldırım@|Cemal Işık~|Dumanlı@|Fevzi Köroğlu~|Gazi Osman Sertbaş~|Sadettin Karaman~|Sağlık~|Turan Aras~|Yalçınkucuroğlu~|İdris Işık~|Şehit Cemal Gürgencioğlu~
+29546	Cengerli Köyü	Cengerli=
+29587	Damlaca Köyü	Damlaca=
+29547	Derebaşı Köyü	Derebaşı=
+29548	Derebaşı Köyü, Kerdağ Mezrası	Kerdağ=
+29637	Diyarlar Köyü	Diyarlar=|Sıralı=
+29549	Diştaş Köyü	Diştaş=
+29551	Diştaş Köyü, Yerlice Mezrası	Yerlice=
+29552	Diştaş Köyü, Çerçiler Mezrası	Çerçiler=
+29550	Diştaş Köyü, İncehatipler Mezrası	İncehatipler=
+29588	Dolaylı Köyü	Dolaylı=
+29538	Doğandere Köyü	Doğandere=
+29484	Ekecik Köyü	Ekecik=
+29553	Erecek Köyü	Erecek=
+29589	Gazipınarı Köyü	Gazipınar=
+29590	Gazipınarı Köyü, Işıklı Mezrası	Işıklı=
+29592	Gazipınarı Köyü, Yayla Yayla Evleri	Yayla=
+29591	Gazipınarı Köyü, Yaylabaşı Mezrası	Yaylabaşı=
+29516	Gemecik Köyü	Gemecik=
+29593	Gökseki Köyü	Gökseki=
+29594	Gölköy Köyü	Gölköy=
+29595	Gölköy Köyü, Şıhoruç Mevkii	Şıhoruç=
+29555	Gülensu Köyü	Gülensu=
+29556	Gülensu Köyü, Babolar Mezrası	Babolar=
+29557	Gülensu Köyü, Zereler Mezrası	Zereler=
+29558	Gülensu Köyü, İmecik Mezrası	İmecik=
+29630	Gümüşakar Köyü	Gümüşakar=
+29485	Günyüzü Köyü	Günyüzü=
+29638	Güventepe Köyü	Güventepe=
+29639	Güventepe Köyü, Yünlüce Mezrası	Yünlüce=
+29640	Güzle Köyü	Güzle=
+29486	Hacıköy Köyü	Günyüzü=|Hacıköy=|Kalkancı=
+21571	Hakoğlu Mah.	1.=|107.=|Dumanlı~|Hacıköy=|İsimsiz 25~|İsimsiz 26~
+29641	Halitler Köyü	Halitler=
+21572	Hökümet Mah.	102~|103.~|104.~|105.~|106.~|107.=|108.~|109.~|110.~|111.~|112.~|113.~|156-~|301.~|303.~|305.~|601-@|Ahmetyavuz~|Av.bekir Ekinci~|Bacanaklar~|Dumanlı@|Gazi Aslan Yalın~|Gazi Engin Aydoğdu~|Gazi Fatih Düdükçü~|Gazi Serhat Kılıç~|Karayolu@|Kazım Aktan~|Sefertekin~|Vedat Aydın~|Vezir Dumanlı@|Yaşar Erkan~|Şehit Bekir Dülgeroğlu@|Şehit Mete Sertbaş@|Şehit Metin Dağ~|Şehit Mustafa Piroğlu~|Şehit Turan Koçyiğit~|Şehit İlker Aktaş~
+29642	Kabuller Köyü	Kabuller=
+29517	Kadıköy Köyü	Kadıköy=
+29643	Kalkancı Köyü	Kalkancı=
+29644	Kalkancı Köyü, Yağmurtepe Mezrası	Yağmurtepe=
+29596	Kamberağa Köyü	Kamberağa=
+29597	Kamberağa Köyü, Aydıncık Mezrası	Aydıncık=
+29598	Kamberağa Köyü, Emirdere Mezrası	Emirdere=
+29518	Kandil Köyü	Kandil=
+29519	Kanlıtaş Köyü	Kanlıtaş=
+29520	Karasu Köyü	Karasu=
+29599	Karayaprak Köyü	Karayaprak=
+29521	Kayı Köyü	Kayı Köyü İskan Konutları-=|Kayı=
+29600	Kazören Köyü	Kazören=
+29487	Kaçak Köyü	Kaçak=
+29488	Kaçak Köyü, Gölcük Mezrası	Gölcük=
+29561	Kersen Köyü	Kersen=
+29559	Keçegöz Köyü	Keçegöz=
+29560	Keçegöz Köyü, Dikke--bayırlı Mezrası	Dikke Bayırlı=
+29522	Konakköy Köyü	Konakköy=
+29523	Konakköy Köyü, Tahar Mezrası	Aslanyusuf=|Tahar=
+29645	Koçkaya Köyü	Koçkaya=
+29646	Koçkaya Köyü, Oluklu Mezrası	Oluklu=
+29491	Kuzuluk Köyü	Kuzuluk=
+29554	Köçevi Köyü	Köçevi=
+29492	Kürelik Köyü	Kürelik=|Sağlık=
+29493	Kürelik Köyü, Alacahan Mezrası	Alacahan=
+29601	Kırantepe Köyü	Kırantepe=
+29602	Kırantepe Köyü, Örtülü Mezrası	Örtülü=
+29562	Kırkbulak Köyü	Kırkbulak=
+29490	Kırıktaş Köyü	Kırıktaş=
+29603	Kızıleniş Köyü	Kızıleniş=
+29604	Kızıleniş Köyü, Tosunlu Mezrası	Tosunlu=
+29563	Laleli Köyü	Laleli=
+29605	Leventler Köyü	Leventler=
+29606	Leventler Köyü, Dostolar-uysal Mezrası	Dostolar Uysal=
+29647	Madendere Köyü	Madendere=
+29648	Madendere Köyü, Aşağımaden-çamdibi Yayla Evleri	Aşağımaden Çamdibi=
+29607	Mendemebaşı Köyü	Mendemebaşı=
+29608	Mendemebaşı Köyü, Bektaşlı Mezrası	Bektaşlı=
+29609	Mendemebaşı Köyü, Gömü Mezrası	Gömü=
+29610	Mendemeköyçukuru Köyü	Mendemeköyçukuru=
+29489	Merkez Kalkancı Köyü	Kalkancı=|Yenidoğan/1@|Üçevler~
+29611	Muratçayırı Köyü	Muratçayırı=
+29564	Mülk Köyü	Mülk=
+29494	Olgunlar Köyü	Olgunlar=
+29495	Onurlu Köyü	Onurlu=
+29525	Ortagöze Köyü	Ortagöze=
+29526	Ortagöze Köyü, Akmeşe Mezrası	Akmeşe=|Ortagöze/1=
+29527	Ortagöze Köyü, Bulak Mezrası	Bulak=
+29528	Ortagöze Köyü, Tuzlakonağı Mezrası	Tuzlakonağı=
+29613	Perçem Köyü	Perçem=
+29496	Pınaryolu Köyü	Pınaryolu=
+29649	Resullar Köyü	Resullar=
+29650	Resullar Köyü, Çobanlı Mezrası	Çobanlı=
+29651	Resullar Köyü, Ören Mezrası	Ören=
+29530	Salur Köyü	Salur=
+29531	Salur Köyü, Yazı Mezrası	Yazı=
+29532	Sarhan Köyü	Sarhan=
+29652	Sarıbayır Köyü	Sarıbayır=
+29565	Sarıkoç Köyü	Sarıkoç=
+29497	Sağlık Köyü	Sağlık=
+29498	Sağlık Köyü, Kuşcullu Mezrası	Kuşcullu=
+29614	Söğütlü Köyü	Söğütlü=
+29616	Söğütlü Köyü, Kardeşler Mezrası	Kardeşler=
+29615	Söğütlü Köyü, Kel Süleyman Mezrası	Kel Süleyman=
+29617	Söğütlü Köyü, Koço Mezrası	Koço=
+29618	Söğütlü Köyü, Memiyurdu Mezrası	Memiryurdu=
+29620	Söğütlü Köyü, Resuloğlu Mezrası	Resuloğlu=
+29619	Söğütlü Köyü, Taşlıca Mezrası	Kel Süleyman=|Taşlıca=
+29566	Sıralı Köyü	Sıralı=
+29501	Teknecik Köyü	Teknecik=
+29622	Tepe Köyü	Tepe=
+29623	Tepe Köyü, Kınoğlu Mezrası	Kınoğlu=
+29653	Topağaç Köyü	Topağaç=
+29533	Tuzluçayır Köyü	Tuzluçayır=
+29534	Tülü Köyü	Tülü=
+29502	Ulucak Köyü	Ulucak=
+29624	Uludere Köyü	Mendemebaşı=|Uludere=
+29626	Yaylabeli Köyü	Yaylabeli=
+29627	Yaylabeli Köyü, Güvendik Mezrası	Güvendik=
+29654	Yaylapınarı Köyü	Yaylapınar=
+29535	Yazı Köyü	Yazı=
+29567	Yazıgediği Köyü	Sarıkoç=|Yazıgediği=
+21573	Yenidoğan Mah.	410.~|412.~|414.~|416.~|418~|420~|422~|500.~|503.~|504.~|505.~|506.~|507.~|508.~|509.~|513.~|514.~|515.~|517.~|519.~|520.~|521.~|523.=|524.~|Binali Yıldırım@|Cevdet Çinar~|Kalkancı~|Karamanlar~|Karayolu@|Yenidoğan/1@|Yeniyol 2~|Üçevler~|Şehit Dursun Bakan~|Şehit Kemal Ağgez~|Şehit Mete Sertbaş@|Şehit Metin Dil~
+29503	Yeniköy Köyü	Yeniköy=
+29655	Yeniyurt Köyü	Yeniyurt=
+29656	Yeniyurt Köyü, Deliktaş Mezrası	Deliktaş=
+29657	Yeniyurt Köyü, Eskikonak Mezrası	Eskikonak=
+29628	Yukarısütlü Köyü	Yukarısütlü=
+29629	Yukarısütlü Köyü, Dedepınar Mezrası	Dedepınar=
+29504	Yukarıyeniköy Köyü	Damlaca=|Yukarıyeni=
+29505	Yurtbaşı Köyü	Yurtbaşı=
+29506	Yurtbaşı Köyü, Kova Mezrası	Kova=
+29507	Yuvadağı Köyü	Yuvadağı=
+29536	Yıldızören Köyü	Yıldızören=
+29537	Yıldızören Köyü, Yayla Yayla Evleri	Yayla=
+29575	Çaltı Köyü	Çaltı=
+29483	Çamdibi Köyü	Çamdibi=
+29576	Çamlımülk Köyü	Çamlımülk=
+29579	Çamlımülk Köyü, Karyatağı Mezrası	Karyatağı=
+29577	Çamlımülk Köyü, Körismail Mezrası	Körismail=
+29578	Çamlımülk Köyü, Piroğlu Mezrası	Piroğlu=
+29580	Çamlımülk Köyü, Yanık Mezrası	Yanık=
+29582	Çat Köyü	Çat=
+29581	Çatak Köyü	Çatak=|Çatak/8=
+29568	Çatalçam Köyü	Çatalçam=
+29515	Çavuş Köyü	Çavuş=
+29636	Çiçekali Köyü	Çiçekali=
+29586	Çukuryazı Köyü	Çukuryazı=
+29583	Çukurçimen Köyü	Ekecik=|Çukurçimen=
+29585	Çukurçimen Köyü, Dere-yayla Yayla Evleri	Dere Yayla=
+29584	Çukurçimen Köyü, Gencolar-esenlik Mezrası	Dostolar Uysal=|Gencolar Esenlik=
+29635	Çıragediği Köyü	Çıragediği=
+29612	Ören Köyü	Ören=
+29625	Üçören Köyü	Üçören=
+29621	Şahaloğlu Köyü	Şahaloğlu=
+29499	Şahverdi Köyü	Şahverdi=
+29500	Şahverdi Köyü, Yaylacık Mezrası	Yaylacık=
+29529	Şaip Köyü	Şaip=

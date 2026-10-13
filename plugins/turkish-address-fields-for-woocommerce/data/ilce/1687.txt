@@ -1,0 +1,33 @@
+177663	Akpınar Mah.	Akpınar Kanal=|Akpınar Merkez=|Kuzey=|Serin Evler=
+177661	Akçal Mah.	Akçal=
+177665	Ayvat Mah.	Akdere=|Ayvat=|Kınık~
+177707	Bolatpınarı Mah.	Bolatpınarı=|Bozgüney İstiklal@
+177659	Bozgüney Mah.	13~|15~|19~|Adanan Menderes/2~|Adnan Menderes%|Adnan Menderes Esentepe~|Adnan Menderes/1~|Adnan Menderes/2~|Adnan Menderes1~|Adnan Menderes2~|Adnan Menderes3~|Atatürk Bozgüney@|Bahçeler~|Baraj Yolu~|Baraj Yolu/1~|Barajyolu/2~|Belediye~|Bozgüney İstiklal@|Boğaz~|Camili~|Camili/2~|Camili1~|Camili2~|Camili3~|Defne~|Fevzi Çakmak@|Fevzi Çakmak1~|Gümülek/1~|Hicran~|Hicran1~|Hopur~|Hopur1~|Hopur2~|Hopur3~|Huzur~|Kan (esentepe)-@|Kan Esentepe@|Kan Esentepe2~|Kumru~|Merve~|Merve1~|Merve2~|Merve3~|Mezarlık~|Mezarlık/1~|Mimar Sinan@|Mimar Sinan1~|Mimar Sinan2~|Mimar Sinan3~|Mimar Sinan4~|Mullanın Kavağı~|Mullanın Kavağı1~|Mullanın Kavağı2~|Mullanın Kavağı3~|Mustafa Özen~|Okul Civarı~|Oluk~|Oluk/1~|Oluk/2~|Papatya Bozgüney~|Pınar Bozgüney~|Tepe Bağ=|Tepe Bağ1~|Tepe Bağ2~|Tepe Bağ3~|Şehit İsmail Moğol@
+388	Cumhuriyet Mah.	Acar~|Acıbadem~|Ada~|Adatepe~|Adım~|Akar~|Akarsu~|Akasya~|Akmeşe~|Aksu~|Akın~|Alıç~|Anıt~|Ardıç~|Armağan~|Arı~|Asmalı~|Asude~|Atak~|Atılım~|Aziz~|Açelya~|Badem~|Bahçelievler@|Başak~|Başak1~|Başarı~|Beste~|Billur~|Birgül~|Birgül/1~|Birlik~|Bülbül~|Büyüktopuklu@|Büyüktopuklu1~|Bıldırcın~|Canan~|Cemre~|Cevher~|Cumhuriyet%|Cumhuriyet1~|Defne1~|Derya~|Destan~|Deva~|Didem~|Dilek~|Dost~|Doğan~|Döner~|Esentepe@|Fazilet~|Feza~|Filiz~|Fulya~|Funda~|Gamze~|Gedik@|Gizem~|Güneş~|Güvercin~|Hastane@|Hastane/1~|Hukuk~|Ihlamur~|Işık~|Işıl~|Kader~|Kaya~|Kaş~|Kelebek~|Kenar~|Kevser~|Koza~|Kumru Cumhuriyet~|Kural~|Kuzgun~|Küçüktopuklu~|Kısmet~|Kıvrım~|Kıvılcım~|Kızıltepe@|Kızıltepe/1~|Kızıltepe/2~|Kışla@|Kışla1~|Kışla2~|Lale~|Lojman~|Mavi~|Mercan~|Meyan~|Meşale~|Meşe~|Mısra~|Nadide~|Name~|Narin~|Nehir~|Nergis@|Neşe~|Nilüfer~|Okul~|Onur~|Ozan~|Papatya~|Park~|Petek~|Poyraz~|Pınar~|Pınarbaşı~|Recep Aktürk Cumhuriyet Myd.|Reyhan~|Rüya~|Saimbeyli@|Sarnıç~|Sarıfakı=|Seda~|Sefa~|Sema~|Serap~|Serin~|Sevgi~|Sezen~|Sümbül~|Sıla~|Taşlı~|Tema@|Tuna~|Tuna1~|Vatan@|Vatan1~|Veda~|Vefa~|Yakut~|Yamaç~|Yağmur~|Yaşam~|Yonca~|Yurt~|Yuva~|Yüce~|Yıldız~|Zakkum~|Zambak~|Zarif~|Çağdaş~|Çağla~|Çağlayan~|Çilem~|Çimen~|Ömür~|Üveyik Pınarı@|Üçgül~|İğde~|Şafak~|Şahin~|Şehit Zafer Özçay@|Şehit İlbey@|Şifa~
+177673	Damlalı Mah.	Damlalı=
+177675	Demiroluk Mah.	Demiroluk=
+177677	Doğanbeyli Mah.	Doğanbeyli Merkez=|Çiftlik=
+177679	Doğanlı Mah.	Bağlar=|Doğanlı Cumhurıyet=|Doğanlı Hürriyet=|Doğanlı Tepe=|Doğanlı İstiklal=|Kanal=|Yeni Doğanlı=|Yenicami=
+177667	Elemanlı Mah.	Aktaşalan=|Merkez=
+177681	Evci Mah.	Evci=
+177683	Fatmakuyu Mah.	Belbaşı=|Fatmakuyu=|Katarası=
+177685	Güzelim Mah.	Güzelim Cumhuriyet=|Karsavran=|İstiklal=
+177687	Hanyeri Mah.	Hanyeri=
+177691	Karsavran Mah.	Karsavran=
+177693	Kayapınar Mah.	Kayapınar=
+177695	Kayarcık Mah.	Kayarcıkmerkez=|Orta Oluk=
+177697	Kirazlıyurt Mah.	Kirazzlıyurt Merkez=|Çetince=
+177699	Koccağız Mah.	Koccağız=
+177701	Ortaköy Mah.	Ortaköy=
+177703	Pekmezli Mah.	Emir Gazi=|Pekmezli Merkez=
+177705	Pınarlar Mah.	Pınarlar=
+177711	Taşpınar Mah.	Taşpınar=
+177713	Tozlu Mah.	Tozlu=
+177715	Yamanlı Mah.	Yamanlı=
+390	Yenicami Mah.	Abdurahman Karaduman@|Afendi=|Arzu~|Avcı~|Aydınlık~|Ayışığı~|Bahçelievler@|Balkaya~|Beşoluk@|Burcu~|Caner~|Cennet~|Cimiz@|Damla~|Demet~|Deniz~|Deniz1~|Desen~|Dolunay~|Duygu~|Duygu1~|Ebru~|Fatih Terim@|Fidan~|Gedik@|Gedik1~|Gedik2~|Göz@|Göz1~|Güverler=|Harman~|Harmanyeri@|Hasret~|Hazin~|Hidayet~|Hürriyet~|Karanfil~|Kavaklıdere@|Kayalık~|Kaymaksekisi~|Kehaler=|Keklik Pınarı@|Keller=|Kemer~|Kervan~|Keskindere@|Killidere~|Kiraz~|Konuk@|Kuşkayası~|Kuşkonmaz~|Körler=|Kültür~|Kürtpınarı=|Küçüksanayi Cad.@|Kınalıtaş~|Kıraç~|Kızıltepe@|Maden~|Mehtap~|Mehter~|Mektep~|Menekşe~|Merkez Cami@|Mezdalıdere=|Müjde~|Rüzgar~|Sabancı@|Sabancı4~|Sağlam~|Sebat~|Sedef~|Sera~|Seyitler=|Susam~|Tek Söğüt~|Tepe-~|Tufan Paşa@|Vatan@|Vatan1~|Yaren~|Yelek@|Yenicami Camili~|Yenicami Merve~|Zümrüt~|Çal~|Çeşmeli~|Çiçek~|Çiğdem~|Önce Vatan@|Özgürlük~|İbriktaş~|İkram~|İlke~
+177717	Yeşilova Mah.	Yeşilova=
+177669	Çatalçam Mah.	Sarılar=|Tepe=|Yeni=
+177671	Çukurkışla Mah.	Kireç=|Çukurkışla=
+389	İstiklal Mah.	123~|Abdurahman Karaduman@|Adnan Menderes%|Adnan Menderes/2~|Akdeniz~|Altın~|Asalet~|Atatürk@|Bahar~|Bayrak~|Beyazgül~|Bilim~|Bora~|Bulut~|Bulut1~|Ceviz~|Ceylan~|Cihangir~|Cumhuriyet%|Cumhuriyet1~|Devrim~|Değirmen~|Değirmen/1~|Duman~|Dumlupınar~|Edalı~|Elvan~|Eren~|Esenler~|Esenyurt~|Fatih Terim@|Fidanlık~|Firuze~|Gelincik~|Girne@|Gurbet~|Gurur~|Gökkuşağı~|Göksu~|Gözlem~|Gücüllü@|Gümüş~|Güven~|Güzide~|Hakimiyet~|Hayat~|Hisar~|Kadife~|Kale~|Kanarya~|Karaca~|Karbeyaz~|Kardelen~|Karşıyaka=|Keklik~|Kübra~|Küçükbahçe~|Leylak~|Makber~|Manolya~|Mehmetcik~|Meltem~|Mert~|Mezarlık İstiklal@|Postahane~|Recep Aktürk Myd.|Sabancı@|Sabancı1~|Sabancı2~|Sabancı3~|Sabancı5~|Sahra~|Saimbeyli@|Salkım~|Samyeli~|Saray~|Sarmaşık~|Sebze Hali~|Serhat~|Simge~|Terminal~|Tomurcuk~|Toros@|Toros1~|Umut~|Uygar~|Uğur~|Vadi~|Yabangülü~|Yaldız~|Yaprak~|Yasemin~|Yayla~|Yazma~|Yoncalı~|Yosun~|Yıldırım~|Zafer~|Zirve~|Çalıkuşu~|Çamlıbel~|Çınar~|Çınar11~|Özgür~|Özlem~|İkioluk~|İlim~|İlkay~|İnci~|İpekyolu~|İstikbal~|İstiklal Yeni@|İstiklal Yeni/1@|İstiklal/1=|Şehit Kerim Güncan@|Şehit Mustafa Atikoğlu@|Şehitahmet Batkı@|Şelale~|Şirin~
+177689	İğdebel Mah.	Üçevler~|İğdebel Merkez=
+177709	Şar Mah.	Kara Durdular=|Şar/merkez=

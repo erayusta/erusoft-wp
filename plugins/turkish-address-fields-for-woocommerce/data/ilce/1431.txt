@@ -1,0 +1,177 @@
+77419	Akdere Köyü	 Köy$
+77352	Akgedik Köyü	 Köy$
+77420	Akpınar Köyü	 Köy$
+77322	Aktepe Köyü	 Köy$
+77318	Akçakale Köyü	 Köy$
+77317	Akçakale Köyü, Keşpınar Mezrası	 Köy$
+77316	Akçakale Köyü, Satıören Mezrası	 Köy$
+77315	Akçakale Köyü, Şatören Mezrası	
+77319	Akçamağara Köyü	 Köy$
+77320	Akçamağara Köyü, Karaabdi Mezrası	 Köy$
+77321	Akçaşehir Köyü	 Köy$
+70438	Alacahan Köyü, Cumhuriyet Mevkii	Bahtiyar~|Daracık~|Kale Başı~|Karanfil~|Küme Evler 5~|Küme Evler 6~|Küme Evler 7~
+70440	Alacahan Köyü, Hürriyet Mevkii	Afet Evler~|Bulvar~|Dörtyol~|Hasan Genç Caddesi~|Küme Evler 1.~|Küme Evler 2.~|Küme Evler 3.~|Küme Evler 4.~
+70441	Alacahan Köyü, Kervansaray Mevkii	Aşağı Pınar~|Kervansaray~|Menekşe~|Nergiz~|Zafer~|Çay Kenarı~
+70439	Alacahan Köyü, Çarşıbaşı Mevkii	Bulvar~|Elvan~|Fatih~|Küme Evler 9~|Küme Evler8~|Lojman 1.~|Lojman 2.~|Selçuk~|Sümbül~|Zambak~|Şencan~
+77348	Alacahan Yeniköy Köyü	 Köy$
+77283	Armağan Köyü	 Köy$
+77284	Arpalı Köyü	 Köy$|32 Köy$
+77285	Arpalı Köyü, Çukurçayır Mezrası	 Köy$
+77422	Avşarören Köyü	 Köy$|Sakaltutan~
+77421	Aşağıhüyük Köyü	 Köy$
+77323	Bahçeliyurt Köyü	 Köy$
+77324	Bektaşköy Köyü	 Köy$
+77326	Bektaşköy Köyü, Değirmen Dere Mezrası	 Köy$
+77325	Bektaşköy Köyü, Gelincik Kayası Mezrası	 Köy$
+77327	Bektaşköy Köyü, Kabakyazı Mezrası	 Köy$
+77423	Beyyurdu Köyü	 Köy$
+77287	Bozarmut Köyü	 Köy$
+77286	Boğaz Köyü	 Köy$
+77353	Bulak Köyü	 Köy$
+77328	Cevizköy Köyü	 Köy$
+77329	Cevizköy Köyü, Ortaköy Mezrası	 Köy$
+77291	Davulbaz Köyü	 Köy$|Koy=
+77393	Dayılı Köyü	 Köy$
+77392	Dağönü Köyü	 Köy$
+77292	Deligazili Köyü	 Köy$
+77382	Deliktaş Köyü	 Köy$
+77384	Delioğlanderesi Köyü	 Köy$
+77394	Dereköy Köyü	 Köy$
+77395	Dereköy Köyü, Çamlık Mezrası	 Köy$
+196881	Düzce Köyü	Düzce Mahallesi~
+77330	Dışlık Köyü	 Köy$
+77396	Elalibey Köyü	 Köy$
+77398	Elalibey Köyü, Günlice Mezrası	 Köy$
+77397	Elalibey Köyü, Kırlangıç Mezrası	 Köy$
+77357	Elkondu Köyü	 Köy$
+77293	Etyemez Köyü	 Köy$
+77294	Eymir Köyü	 Köy$
+77295	Eymir Köyü, Zaal Mezrası	 Köy$
+77356	Eğricek Köyü	 Köy$
+77358	Gebelikatran Köyü	 Köy$
+77359	Gebelikatran Köyü, Yakın Gebeli Mezrası	
+77360	Gebelikatran Köyü, Yakıngebeli Mezrası	 Köy$
+77399	Gençali Köyü	 Köy$
+70424	Göze Mah.	Aksu=|Anka 1.küme Evleri 1.~|Anka 1.küme Evleri 2.~|Anka Küme Evleri Şanlı Asker~|Anka-1=|Anka1. Küme Evleri 5.~|Anka1. Küme Evleri 6.~|Anka1. Küme Evleri 7.~|Anka1. Küme Evleri 8.~|Anka1.küme Evleri 3.~|Anka1.küme Evleri 4.~|Eski Sivas@|Mezarlık@|İbni Sina@
+77400	Güneypınar Köyü	 Köy$
+70425	Gürsel Mah.	A.ruhsati~|Ahmet Yesevi~|Ahmet Öztekin~|Battal Gazi~|Divriği Akşemsettin~|Divriği@|Malatya@|Mehmet Akif Ersoy~|Meslek Yüksek Okulu%|Mevlana~|R.mevlüt Yıldırım~|Samıt Baba~|Spor~|Yunus Emre~|Çarşı İçi@|İstasyon@|Şehit Erdal Budak~|Şehit Şerafettin Korkmaz~|Şeyh Şamil~
+77401	Gürükbekir Köyü	 Köy$
+77296	Hamal Köyü	 Köy$
+77297	Hamal Köyü, Tersekan Mezrası	 Köy$
+77361	Hamzabey Köyü	 Köy$
+201045	Hatunçayırı Köyü, Köyün Kendisi Mevkii	Hatunçayırı Köy$
+77403	Hatunçayırı Köyü, Çakırınköy Mezrası	 Köy$
+77402	Hatunçayırı Köyü, Çakırınköyü Mezrası	 Köy$
+70434	Havuz Köyü, Atatürk Mevkii	Anı~|Atatürk~|Camii~|Cumhuriyet~|Çeşme~|Şahan~|Şehit Battal Karadağ~|Şirin~
+70435	Havuz Köyü, Cumhuriyet Mevkii	Atatürk~|Cumhuriyet~|Dere~|Menekşe~|Taşlı~|Yıldırım~|Çiçekli~|Çıkmaz~
+70436	Havuz Köyü, Fatih Mevkii	Ara~|Aşağı~|Emek~|Fatih~|Gülen~|Harman~|Kanuni~|Sivas~|Tepe~|Yavuz~|Yeni~|Yeni Yerleşim~|Şahinler~
+70437	Havuz Köyü, Zafer Mevkii	Akkuş~|Arı~|Atatürk~|Sivas~|Zafer~
+77303	Humarlı Köyü	 Köy$
+70426	Hürriyet Mah.	Aksu Küme Evleri Güven~|Aksu Küme Evleri Karanfil~|Aksu Küme Evleri Mercan~|Aziziye~|Eski Sivas@|Hür~|Kudret~|Mezarlık@|R.ahmet Koçköprü~|R.ismail Ağa~|Selim~|Yan~|Çatal Çıkmazı~|Çıkmaz~|Şehit Hasan Torun@|Şehit Üzeyir Gençdoğmuş~
+77385	Hüyüklüyurt Köyü	 Köy$
+77429	Irmaç Köyü	 Köy$
+77363	Kabakçevliği Köyü	 Köy$
+77333	Kalkım Köyü	 Köy$
+77334	Kalkım Köyü, Kayapınar Mezrası	 Köy$
+77335	Kalkım Köyü, Kınalar Mezrası	 Köy$
+77298	Kangaltekkesi Köyü	 Köy$
+77336	Karacaören Köyü	 Köy$
+77337	Karacaören Köyü, Göktaş Mezrası	 Köy$
+77299	Karagücük Köyü	 Köy$|43 Köy$
+77364	Karamehmetli Köyü	 Köy$
+77404	Karanlık Köyü	 Köy$
+77338	Karasüver Köyü	 Köy$
+70428	Karşıyaka Mah.	1.çevre Yolu=|1.çevre Yolu Malazgirt@|2.çevre Yolu=|3.çevre Yolu Barbaros@|3.çevre Yolu=|4.çevre Yolu Hasan Keyf@|4.çevre Yolu=|Akasya~|Ayvaz~|Bekir Aksoy~|Deligazili@|Dere~|Değirmenbahçe@|Gama~|Gazi Hacı Emin Toptaş~|Gazi Muhittin Kaya~|Gökaylar@|Göktürk~|Hilmi Bilgin@|Karakol~|Koru~|Kumlar~|Mehmet Başer~|Melek Reşit Hanım~|Muhlis Akarsu~|Salkım~|Sanayi@|Sanayi Sitesi 1~|Sanayi Sitesi 2~|Sanayi Sitesi 3~|Sanayi Sitesi 4~|Sanayi Sitesi 5~|Sivas-malatya Çevre Yolu@|Sonevler 1~|Sonevler2~|Sonevler3~|Tan~|Terminal@|Topyolu~|Ulviye Hanım~|Uğur Koçköprü~|Yahya Kemal~|Yamaç~|Yeşilyurt~|Yonca~|Yüksel~|Yıldırım~|Zümrüt~|Çamlık~|Çağlayan~|Çıkmaz~|Ömer Seyfettin~|Özgen~|İmren~|Şehit Bedri Karatepe~|Şehit Halil Kamış@|Şehit Hayri Koçak@|Şehit İlhan Yalçın@|Şimşek~
+77389	Kavak Köyü	 Köy$|Erol Özcan Köy$
+77388	Kavak Köyü, Deli Hacı Mezrası	 Köy$
+77391	Kavak Köyü, Gemalmaz Mezrası	 Köy$
+197199	Kavak Köyü, Kavak Mücavir Mevkii	 Köy$|81 Köy$
+77390	Kavak Köyü, Temurun Köyü Mezrası	 Köy$
+77407	Kavak Mescit Köyü	 Köy$
+77408	Kavak Mescit Köyü, Kapçıl Mezrası	 Köy$
+77365	Killik Köyü, Dipoğlu Mevkii	Dipoğlu Köy$
+201043	Killik Köyü, Köyün Kendisi Mevkii	Killik Köy$
+77366	Killik Köyü, Sülükgölü Mezrası	Sülükgölü Köy$
+77367	Killik Köyü, Şıhlar Mezrası	 Köy$
+77302	Kocakurt Köyü	 Köy$|121=
+77368	Koçköprü Köyü	 Köy$
+77304	Kuruayşe Köyü	 Köy$
+77418	Kuşkayası Köyü	 Köy$
+77417	Kuşkayası Köyü, Kargakalesi Mezrası	 Köy$
+77416	Kuşkayası Köyü, Çalözü Mezrası	 Köy$
+77369	Külekli Köyü	 Köy$
+77370	Külekli Köyü, Ekizce Mezrası	 Köy$
+77371	Külekli Köyü, Göller Mezrası	 Köy$
+77406	Kürkçü Köyü	 Köy$
+77300	Kırkpınar Köyü	 Köy$
+77430	Kızıldikme Köyü	 Köy$
+77301	Kızıleniş Köyü	 Köy$
+77372	Maksutlu Köyü	 Köy$
+77305	Mancılık Köyü	 Köy$
+77339	Mescit Köyü	 Köy$
+77373	Minarekaya Köyü	 Köy$
+77431	Mühürkulak Köyü	 Köy$
+77432	Mühürkulak Köyü, Çakırın Köyü Mezrası	 Köy$
+77409	Mürsel Köyü	 Köy$|Mürsel Köy$
+77306	Mısırören Köyü	 Köy$
+77342	Onaran Köyü	 Köy$
+77340	Onaran Köyü, Kılıçdere Mezrası	 Köy$
+77341	Onaran Köyü, Çatalağıl Mezrası	 Köy$
+77374	Oğlaklı Köyü	 Köy$
+77410	Paşamçayırı Köyü	 Köy$
+77375	Pınargözü Köyü	 Köy$
+77377	Pınargözü Köyü, Davutoğlu Mezrası	 Köy$
+77376	Pınargözü Köyü, Taşgeçit Mezrası	 Köy$
+70430	Reşadiye Mah.	Alibaz Durgun~|Aziziye~|Cumhuriyet@|Eski Sivas@|Hal~|Paşa Pınarı~|Tek Sosyal Tes.=|Yeni Sivas@|Çarşı İçi@|Şehit Hasan Torun@
+77378	Sacayağı Köyü	 Köy$
+77379	Sarıkadı Köyü	 Köy$
+77343	Sarıpınar Köyü	 Köy$
+77344	Sarıpınar Köyü, Sekiliyurt Mezrası	 Köy$
+77345	Seçenyurdu Köyü	 Köy$
+77346	Sipahi Köyü, Sipahi Mevkii	 Köy$
+77308	Soğukpınar Köyü	 Köy$
+70431	Sularbaşı Mah.	Aşık Emsali~|Aşık Mesleki~|Aşık Minhacı~|Deli Gazili@|Dumlupınar~|Fatih Sultan Mehmet~|Kazım Karabekir~|Malatya@|Mimar Sinan~|Osman Gazi~|Pancar Bölge Arkası 1.=|Yeni Sivas@|Ömer Hulusi Efendi~|Şehit Özgür Çevik~|Şehit.ast.nazif Özdemir~|Şükrü Koçak~
+77411	Sultanpınarı Köyü	 Köy$
+77412	Sultanpınarı Köyü, Bayındır Mezrası	 Köy$
+77433	Sutaşı Köyü	 Köy$
+77387	Tahtalı Köyü	 Köy$
+77414	Tatlıpınar Köyü	 Köy$
+77347	Taşlı Köyü	 Köy$
+77413	Taşlık Köyü	 Köy$
+77434	Tilkihüyük Köyü	 Köy$
+77415	Topardıç Köyü	 Köy$
+77310	Turnalı Köyü	 Köy$
+77435	Yarhisar Köyü	 Köy$
+77311	Yaylacık Köyü	 Köy$
+77381	Yellice Köyü	 Köy$
+77380	Yellice Köyü, Ufacıkören Mezrası	 Köy$
+70432	Yeni Mah.	Aşık Derdiment~|Eski Sivas@|Hastane@|Karayolları 165.şube Şef.=|Karayolları~|M.salih Şirin İlköğ.okulu~|Müftü Abdullah Efendi~|Necip Fazıl Kısakürek~|Tmo İstasyon(tcdd)=|Şehit Murat Çalışkan~
+77313	Yeşildere Köyü	 Köy$
+77314	Yeşildere Köyü, Hacı Hasanlar Mezrası	 Köy$
+77351	Yeşilkale Köyü	 Köy$
+77349	Yeşilkale Köyü, Akgedik Mezrası	 Köy$
+77350	Yeşilkale Köyü, Bayındır Mezrası	 Köy$
+77312	Yeşilvadi Köyü	Yeşilvadi Köy$
+77405	Yeşilyurt Köyü	 Köy$
+77436	Yukarıhüyük Köyü	 Köy$
+70433	Zafer Mah.	Eski Sivas@|Hastane@|Hüyük~|Müftü Abdullah Efendi~|Uluğ Bey~|Yoncalık~|İstasyon@
+77288	Zerk Köyü	 Köy$
+77424	Çamurlu Köyü	 Köy$
+77383	Çatköy Köyü	 Köy$
+196883	Çayırova Köyü	Doymuş~|Çayırova~
+77354	Çağlıcaören Köyü	 Köy$
+77355	Çağlıcaören Köyü, Keçeci Mezrası	 Köy$
+139453	Çetinkaya Köyü, Cumhuriyet Mevkii	1~|16~|17~|2~|3~|4~|5~|6~|7~|8~|9~
+70442	Çetinkaya Köyü, Dabanözü Mevkii	Dabanözü~
+70443	Çetinkaya Köyü, Fatih Mevkii	Aydın~|Hürriyet~|Okul~|Tapucuoğlu~|Tur~|Çay~|Çağlayan~|İşbilir~|Şener~
+70444	Çetinkaya Köyü, Gürsel Mevkii	Akdoğan~|Arslantaş~|Atatürk~|Cantaş~|Cumhuriyet~|Karaömeroğlu~|Kocaoğlu~|Tcdd Lojmanları~|İnönü~|İstasyon~
+70445	Çetinkaya Köyü, Karşıyaka Mevkii	Karşıyaka~
+198917	Çiftlikören Köyü, Köyün Kendisi Mevkii	Köy İçi~
+77425	Çiftlikören Köyü, Midirinağılı Mevkii	
+77427	Çipil Köyü	 Köy$
+77428	Çipil Köyü, İlyasın Ağılı Yayla Evleri	 Köy$
+77307	Örencik Köyü	 Köy$
+77386	İmamınköyü Köyü	 Köy$
+77362	İğdeli Köyü	 Köy$
+77332	İğdelidere Köyü	 Köy$
+77309	Şekerpınar Köyü	 Köy$

@@ -1,0 +1,78 @@
+191413	Ahiler Mah.	Ahiler=
+191415	Aktaş Mah.	Aktaş=|Ağaç Köy Yaylası~|Kızılca Yaylası~|Çandır Çiftliği~
+191417	Aydınlı Mah.	Aydınlı=
+191485	Aşağıkepen Mah.	Aşağıkepen=|Hastavuk Çiftliği~|Muttalıp Yaylası~|Veledler Yaylası~|Veledlere Bağlı Ankaralılar Çiftliği~
+191419	Babadat Mah.	Babadat=|Mesut Çiftliği~
+191421	Bahçecik Mah.	Bahçecik=
+191423	Ballıhisar Mah.	Ballıhisar=
+191425	Benlikuyu Mah.	Benlikuyu=
+191427	Benliyaver Mah.	Benliyaver=
+191429	Beyyazı Mah.	Beyyazı=
+191431	Biçer Mah.	Biçer=
+191535	Buhara Mah.	Buhara=
+191435	Buzluca Mah.	Buzluca=
+191433	Böğürtlen Mah.	Böğürtlen=
+30316	Camikebir Mah.	Acem~|Haşhaş~|Hızırbey@|Hızırbey Çıkmaz~|Kadem~|Kartal~|Kaya~|Kutluçeşme~|Kıvrım~|Mavikadın~|Posta~|Prof. Dr. Nabi Avcı@|Yakup Hoca~|Yunus Emre@|Çukur~
+30317	Cumhuriyet Mah.	Akay~|Altan~|Atatürk%|Büyük Menderes@|Ceyhan~|Deniz~|Dicle~|Dr.nurettin Tuncel~|Fırat~|Hoca Ahmet Yesevi~|Karakol Çıkmazı~|Karanlık~|Karlı~|Kayık~|Kuma~|Kısa~|Kıyık~|Kışla Çıkmazı=|Millet@|Mısır~|Nasrettin Hoca@|Prof. Dr. Erol Altınsapan@|Prof. Dr. Nabi Avcı@|Sakarya@|Seyhan~|Sinan Paşa~|Süleyman Demirel@|Tabakhane@|Tayyar~|Tuna~|Yazıcı~|Çakır~|İpek~|Şemsettin Sönmez~
+30318	Demirci Mah.	Akcamii~|Demirci@|Değirmen~|Düden~|Hacı Mustafa Uça~|Hızırbey@|Kutluçeşme~|Müftü Tahsin Özalp~|Nemane@|Orhan Keskin~|Prf.mehmet Kaplan@|Prof. Dr. Nabi Avcı@|Şahin~
+191441	Demirciköy Mah.	Demirci=
+191443	Dinek Mah.	Dinek=
+191445	Dumluca Mah.	Dumluca=
+191407	Dümrek Mah.	Akkaş~|Alparslan~|Altıpınar~|Atmaca (yunusemre)~|Atmaca~|Ay~|Ayaş~|Ayvalı~|Ağa~|Baldede (yunusemre)~|Baldede@|Bayrak~|Bayraker=|Berkavak Mevkii=|Borazan@|Borular~|Cami~|Dede~|Dere~|Derviş~|Dükrek~|Dükrekşah (yunusemre)~|Dükrekşah~|Dümrek@|Efe~|Emin~|Fatih (fatih)@|Fatih (yunusemre)@|Fatih@|Fehmi Gür@|Fevzi Çakmak@|Güneş~|Gürcan~|Güzelce~|Habeş~|Hacı Mustafa~|Hamza~|Hatip~|Hocazade~|Hüseyin Efendi~|Hızırbey@|Ilgın~|Karakol@|Karaoğlan~|Kartal Pınar@|Kayalı=|Kazım Çal~|Kesmendede~|Konak~|Kopuk~|Kök~|Küdeli~|Küme (yunusemre)=|Küme=|Kılıç~|Lale~|Marangoz~|Mehmet Akif@|Menekşe~|Mezarlık (fatih)~|Mezarlık~|Molla Hüsrev@|Necipfazıl@|Pınar~|Sarmış~|Sarıka~|Sağlık Ocağı@|Sivrihisar@|Suderesi~|Topbas~|Turgut~|Ulu~|Uzun~|Vatan (yunusemre)@|Vatan@|Yeni Camii~|Yukarı Su Deposu~|Yılmaz~|Zeybek~|Zümrüt~|Çal Mevkii=|Çalbağı@|Çavuş~|Çağla~|Özkan~|İkbal@|İlk Reis~|Şah~
+191447	Elcik Mah.	Elcik=
+30319	Elmalı Mah.	Akcami~|Aksu Mozaik Tesisleri=|Ankara Yolu Üzeri Kır Evleri=|Ankoil Petrolcülük=|Ateş~|Badem~|Balaban~|Beypınarı=|Cennet~|Ceviz~|Demirci@|Hızırbey@|Kara~|Kerpiç~|Kıvrım~|Mandıra Yaylası=|Menekşe~|Pamuk~|Taşlık~|Çağlayan~|Özmen~
+191449	Ertuğrulköy Mah.	Balıkdamı Yaylası~|Ertuğrulköy=
+30320	Gedik Mah.	Alidede~|Altın~|Ay~|Ayvaz~|Esen~|Eskişehir@|Fırın~|Güven~|Kevser~|Meriç~|Muzaffer Atasoy~|Santral~|Uzun~|Yıldız~|Çavuş~|Üçpınar@|Şeref~
+191525	Gerenli Mah.	Gerenli=
+191451	Göktepe Mah.	Göktepe=
+191453	Gülçayır Mah.	Gülçayır=
+191455	Güvemli Mah.	Güvemli=
+191457	Hamamkarahisar Mah.	Güvensoy İşletmesi~|Hamamkarahisar=|Çardak Termal Tesisleri Mevki~
+191459	Hüdavendigar Mah.	Hüdavendigar=
+30321	Hızırbey Mah.	Ahmet Çıracı~|Atalay~|Atatürk%|Avni Dizman@|Dumlupınar~|Elcik~|Elvan~|Eskişehir@|Filiz~|Gavali~|Gazi~|Gençlik@|Gider~|Gökay~|Gül~|Gün Sazak@|Güneş~|Güvenlik@|Hikmet Altın~|Hızlan~|Kemal Sülükoğlu@|Kesik~|Kurtuluş~|Kültür~|Mehmet Akif Ersoy@|Mehmet Evcimen~|Mevlana~|Mustafa Atışkan@|Mustafa Yüzügüllü~|Muzaffer Demir@|Potoğlu~|Sami Çelikbaş@|Seyit Nurettin@|Sultan~|Sölpükzade~|Tansu Çiller%|Tevfik Karakaya@|Tevhit Çamoğlu~|Yavuz Gülerce~|Yaşar Doğu~|Yaşar Yurtdaş@|Yıldırım~|Zafer@|Çam~|İbrahim Demirkol@|İnci~|İsmet Atilla@|Ş.cemalettin Sakarya~|Ş.üzeyir Demir~|Şehit Ahmet Kantarcı~|Şehit Astsb. Cihangir Yaman~|Şehit Astsb.emin Öner~|Şehit Astsb.hüdaim Öner~|Şehit Astsb.ismail Tetik~|Şehit Astsb.sinan Koç~|Şehit Er Harun Öztürk~|Şehit Er Kerim Çokbiçer~|Şehit Onb.osman Gıcı~|Şehit Polis Mustafa Dağ~|Şehit Polis Rüstem Demirtaş~|Şehit Sadettin Anıl~|Şehit Uzm. Çvş. Cezmi Kaya@|Şehit Uzm.çvş.osman Uyarbolulu~|Şehit Uzm.çvş.yalçın Çelik~|Şehit Yasin Aktimur~|Şehit Çvş.serkan Özçeri~|Şehitlik@|Şht. Er Nihat Duru~|Şht. Polis Doğan Altınçanak~
+191471	Kadıncık Mah.	Kadıncık=
+191473	Kaldırımköy Mah.	Kaldırımköy=
+30322	Karabaşlı Mah.	Akça~|Arı~|Bodur~|Ceylan~|Eskişehir@|Hacımut~|Hüseyin Erbay~|Musalla~|Musalla Çıkmaz=|Nar~|Orman~|Pazar~|Pazar Çıkmaz=|Tütün~|Zafer@|Zümrüt~|Çınar Çıkmaz=|Üstün Çıkmaz=
+191475	Karaburhan Mah.	Karaburhan=
+191477	Karacakaya Mah.	Karacakaya=
+30323	Karacalar Mah.	Akay~|Akçeşme@|Ara~|Bodur~|Ceylan~|Eskişehir@|Fatih~|Gazi Sinan~|Han~|Hazinedar~|Hoca Ahmet Yesevi~|Hoşkadem~|Hoşnut~|Hüseyin Erbay~|Kaval~|Kaymaz~|Kuma~|Kutbittin Dede~|Levent~|Leylek~|Mumcu~|Prof. Dr. Nabi Avcı@|Sinan Paşa~|Süleyman Demirel@|Tütün~|Yavuz~|Yemenici~|Zafer@|Zümrüt~|Zümrüt Çıkmaz=|Çağla~|Çelik~|Çelik Çıkmaz=|Çukurhan~|Şemsettin Sönmez~
+191479	Karacaören Mah.	Karacaören=
+191527	Karacaörenyaylası Mah.	Karacaörenyaylası=
+191481	Karadat Mah.	Karadat=
+191529	Karakaya Mah.	Karakaya=|Karakaya Yolu~
+191483	Karkın Mah.	Karkın=
+191411	Kaymaz Mah.	Ahmet Taner Kışlalı@|Ankara@|Armutlu~|Atatürk (fatih)@|Atatürk@|Atay~|Aydın~|Bağ~|Bekçi~|Büyük~|Cengiz Topel (namık Kemal)@|Cengiz Topel@|Cumhuriyet Myd.|Dar~|Dere~|Doğan İkiz@|Doğançay@|Doğu~|Düz~|Eren@|Eğri~|Fabrika Sahası=|Ferruh Ataca~|Fevzi Çakmak@|Gazi~|Geçit~|Göl~|Göçmen~|Gül~|Güneş@|Harman~|Karanfil~|Kaymaz Çifteler Yolu~|Kocamanlar~|Kurtuluş (namık Kemal)@|Kurtuluş@|Kırbaş Çıkmaz~|Kısa~|Lale~|Menekşe~|Oktay~|Okul~|Paşa~|Savak~|Sazak (fatih)@|Sazak@|Sağlık~|Sedat Öztekin@|Stad~|Subaşı@|Susam~|Sümbül~|Tuncel Çıkmaz~|Yalçın Çıkmaz~|Yaverören@|Yokuş~|Zafer (namık Kemal)@|Zafer@|Zübeyde Hanım@|Çay~|Çifte Yatak=|Çimen~|Örnek~|Öz~|Öğretmen Ali İhsan Kocaman@|Ülker Çıkmaz~|Ünal~|İnkaya Çıkmaz~|İnönü@|Ş Rüstem Demirbaş@|Ş.emin Öner@|Şen~|Şimşek~|Şükrü Tunçel@
+191487	Kertek Mah.	Derekaşı Mevki~|Kertek=|Millet Mevki~
+191493	Koltan Mah.	Koltan=
+191491	Koçaş Mah.	Koçaş=
+30325	Kubbeli Mah.	Alemşah@|Bedesten Çıkmaz=|Horoz~|Hörhör~|Hızırbey~|Kadem~|Kartal~|Mavikadın~|Prof. Dr. Nabi Avcı@|Unkapanı@|Çırçır~|Şadırvan Myd.
+191495	Kurtşeyh Mah.	Fettahoğlu~|Kurtşeyh=
+30326	Kurşunlu Mah.	Akcamii~|Aziz Mahmut Hüdayi~|Beypınarı=|Dere~|Edilcik~|Efendi Pınarı=|Hamdibaba~|Haydar Kavağı Yaylası=|Hisar Dinlenme Tesisler=|Hürriyet~|Kanlıkavak Mevkii Bağ.ev=|Kayadibi Tesisleri=|Kemal Kaynakçı~|Küçük San.sit.hiz.binası=|Medrese~|Meydan~|Prf. Mehmet Kaplan@|Prof. Dr. Erol Altınsapan@|Sakarya Mozaik Fabrikası=|Salkım~|Tek Ören Yolu=|Tekke~|Tempo Turistik Tesisleri=|Trafik İst. Ve Jandarma Karakolu=|Yahşiyan Yaylası=|Özen Mozaik Fabrikası=|Özen Petrol Ofisi=|Şht.hakan Balcı~|Şht.ismail Kılıçaslan~|Şht.kazım Çokbilir~|Şht.kemal Aslan~|Şınşırak~
+30324	Kılıç Mah.	Ada~|Akdoğan~|Eskişehir@|Haliçi=|Hisar~|Hisar Yaylası=|Hisar Çıkmaz=|Kağnı~|Kağnı Çıkmazı=|Kepçe~|Kevser~|Kule~|Unkapanı@|İsmet Çağlar Paşa~|Şadırvan Myd.
+191489	Kınık Mah.	Kınık=
+191497	Memik Mah.	Memik=
+191499	Mülkköy Mah.	Mülkköy=
+191409	Nasrettin Hoca Mah.	Atatürk(nasrettin Hoca)~|Avcı~|Bayır~|Bağbaşı~|Değirmen~|Dolay~|Düven Önü~|Esentepe~|Fatih@|Gökbel~|Harman~|Harım~|Hüseyin Çavuş~|Kale@|Kale Pınarı~|Kayabaşı~|Koruk@|Nasrettin~|Subaşı~|Taşlar~|Çaylak~|İlerdik~|Şahan~
+191503	Ortaklar Mah.	Ortaklar=
+191501	Oğlakçı Mah.	Oğlakçı=
+191531	Paşakadın Mah.	Ağaveren~|Paşakadın=|Söğütlüözü~
+191505	Sadıkbağı Mah.	Sadıkbağı=
+191507	Sarıkavak Mah.	Sarıkavak=
+191509	Selimiye Mah.	Selimiye=
+191511	Sığırcık Mah.	Asaf Ağa Yaylası~|Gölbaşı Yaylası~|Kapaklı Yaylası~|Sığırcık=
+191513	Tekören Mah.	Tekören=
+191533	Yaverören Mah.	Yaverören=
+30327	Yenice Mah.	1.@|2.@|3.@|4.@|5.@|6.@|7.@|8.@|Abidin Tosun~|Barbaros@|Buğday~|Dar=|Dörtyol Tesisleri=|Elif~|Elmas~|Elmas Çıkmaz=|Er~|Esen~|Eskişehir@|Garipçe~|Gavurbağları Mevkii=|H. Ahmet Yesevi~|Harman~|Hicri Sezen@|Kavakdibi~|Kavakdibi Çıkmaz=|Köprü~|Kınıkyolu Mevkii=|Maden~|Maslak~|Muhtar Kemal Çakır~|Ofis~|Pancar Kantarı=|Satrangız Yaylası=|Selmani Farisi~|Söğüt~|Söğütlü Yaylası=|Söğütönü Yaylası=|Uzun~|Yeşil~|Yeşilırmak@|Yurt~|Çavuş~|Üçpınar@
+191515	Yenidoğan Mah.	Yenidoğan=
+191517	Yeniköy Mah.	Yeniköy=
+191519	Yeşilköy Mah.	Yeşilköy=
+191521	Yukarıkepen Mah.	Yukarıkepen=
+30328	Yunusemre Mah.	20 Eylül@|572~|Ahmet Ayık~|Ali Fuat Cebesoy@|Atatürk%|Ballıhisar Yolu=|Cengiz Topel@|Dilek~|Fevzi Çakmak@|Günyüzü~|Hacıbat Mandıra Yaylası=|Hastahane@|Kandemir~|Kavalalı~|Kazım Karabekir@|Mimar Sinan~|Tabakhane@|Yahşiyan Yaylası=|Çamlık~|Şht Bnb Osman Nuri Gülses@
+191523	Zeyköyü Mah.	Zeyköyü=
+191437	Çandır Mah.	Çandır=
+191439	Çaykoz Mah.	Çaykoz=
+191461	İbikseydi Mah.	İbikseydi=
+191467	İlyaspaşa Mah.	İlyaspaşa=
+191465	İlören Mah.	İlören=
+191469	İstiklalbağı Mah.	İstiklalbağı=
+191463	İğdecik Mah.	İğdecik=

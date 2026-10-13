@@ -1,0 +1,49 @@
+179435	Akbudak Mah.	Botaş~|Cumhuriyet~|Hürriyet~|Karşıyaka~|Pınar~
+179437	Akkoç Mah.	Akkoç~
+179439	Altınpınar Mah.	Altınpınar~
+179441	Aşağıkaravaiz Mah.	Aşağıkaravaiz~
+179443	Aşağıyufkalı Mah.	Aşağıyufkalı~
+30570	Bağlıca Mah.	Kümeler=
+179445	Başpınar Mah.	Başpınar~
+179447	Beydili Mah.	Beydili~|Çakallı~
+179451	Dağdancık Mah.	Dağdancık~|Gecehöyüğü~
+179453	Doğan Mah.	Doğan~
+30571	Dumlupınar Mah.	1 Nolu Cadde@|Akbudak@|Banka~|Başak~|Elif~|Gaziantep@|Gürbüz@|Gürsel@|Hazne~|Karapınar@|Kooparatif~|Lojman~|Mezbahane~|Muhtar Fevzi Özkan@|Sanayi@|Tuzcular@|Çardak~
+179433	Elif Mah.	1 Nolu~|1 Nolu Çıkmaz~|2 Nolu~|3 Nolu~|4 Nolu (karşıyaka)~|4 Nolu~|5 Nolu~|6 Nolu~|Alpaslan~|Altınbağ Çıkmazı=|Atatürk (fevzi Çakmak)@|Atatürk (inönü)-1@|Atatürk (karşıyaka)@|Atatürk-1=|Bayraktar~|Bazo Hoca (karşıyaka)@|Bazo Hoca@|Bağcı~|Cumhuriyet (fevzi Çakmak)@|Cumhuriyet (inönü)@|Cumhuriyet-2@|Demirci~|Değirmen-1~|Fırat@|Fıstıklı@|Hürriyet (inönü)@|Hürriyet-1@|Hıdır Çıkmazı=|Kaplan@|Karamanoğlu~|Peri~|Sarıkaya-1~|Sarılar~|Serin~|Sultan Selim@|Sönmez~|Taşdemir Çıkmazı=|Yeni=|Çelik Çıkmazı~|Şahinler (inönü)@|Şahinler-1=|Şehit Mehmet Bağcı (inönü)~|Şehit Mehmet Bağcı~
+179455	Emirhaydar Mah.	Emirhaydar~
+179457	Erenbağ Mah.	Erenbağ~
+179459	Esentepe Mah.	Esentepe~
+179461	Eskialtıntaş Mah.	Eskialtıntaş~
+179463	Fakılı Mah.	Fakılı~|Yeniyurt~
+30572	Fevzi Çakmak Mah.	Besni@|Cumhuriyet Okulu~|Erenler~|Göl~|Gür~|Karacaören-1@|Kör~|Ozan~|Sinan Paşa@|Tepebaşı~|Yayla~|Yılmaz~|Çevreyolu@
+179465	Fıstıklıdağ Mah.	Fıstıklıdağ~|Kemerli~
+179467	Gelinbuğday Mah.	Gelinbuğday~
+179469	Gökçepayam Mah.	Gökçepayam~
+179473	Güllüce Mah.	Güllüce~
+179475	Gümüşpınar Mah.	Gümüşpınar~
+179471	Güzey Mah.	Güzey~|Yukarı Gözey~
+179477	Hasanoğlu Mah.	Hasanoğlu~
+179479	Hisar Mah.	Hisar-1=|Pagir=
+30573	Kale Mah.	Akbudak@|Atatürk~|Besni@|Esenler~|Gaziler~|Huzur~|Kale~|Karalar~|Selvi Yiğit~|T.m.o.~|Yeni-1-1~|Yeşil~|İmamlar~
+179481	Karababa Mah.	Karababa~|Tepebaşı1=
+179483	Karacaören Mah.	Karacaören~
+179485	Köklüce Mah.	Köklüce~
+179487	Körhacıobası Mah.	Hatunobası~|Körhacıobası~
+179489	Küçüklü Mah.	Küçüklü~
+30574	Mehmet Gökçek Mah.	Adalet~|Ardil~|Ardıç~|Av.cengiz Gökçek@|Azezi~|Barış~|Besni@|Birikethane~|Dr.asım Güzelbey@|Garipbaba~|Gözcü~|Hacibekir~|Karlı~|Kenan Veziroğlu@|Koyuncular~|Nizip@|Sağlık Ocağı~|Sinan Paşa@|Veyselkarani~|Çevreyolu@|Şıhağa~
+179491	Muratlı Mah.	Muratlı~
+179493	Nurettin Mah.	Nurettin~
+179495	Sarıkaya Mah.	Sarıkaya~
+179497	Sarıtepe Mah.	Sarıtepe~
+179499	Tarlabaşı Mah.	Tarlabaşı~
+179501	Taşdeğirmen Mah.	Taşdeğirmen~
+30575	Turgut Özal Mah.	1 Nolu Cadde@|1001~|Akasya~|Aslan~|Babuşoğlu%|Cam~|Cami~|Cezaevi@|Defne~|Dicle~|Elif~|Gaziantep@|Gümüş~|Güney~|Gürsel@|Güven~|Ihlamur~|Karanfil~|Karatepe@|Kurtuluş~|Kuşçular~|Kıbrıs@|Muhtar Fevzi Özkan@|Nilüfer~|Pansiyon~|Reyhan~|Sarıkamıs@|Taş~|Tuzcular@|Zafer~|Zümrüt~|Çanakkale@|Çukobirlik~|İlim~|Şehit Uzman Çavuş Sait Demirel%
+179503	Yaylacık Mah.	Yaylacık~
+30576	Yeni Altıntaş Mah.	Akbudak@|Aydınlar~|Bostancılar~|Cirit~|Cumhuriyet-1@|Hacılar~|Huzur~|Küme Evler~|Menekşe~|Merkez Camii~|Mezbahane~|Mitatpaşa@|Muratpaşa@|Narcı~|Çeşmebaşı~|Şark~
+30577	Yeşilova Mah.	Altun~|Arı~|Bağcılar@|Cesur Çıkmazı~|Değirmen~|Doğan-1~|Dr.asım Güzelbey@|Emniyet~|Gaziantep@|Gündüz~|Güneş~|Hacı Muhtar~|Halı~|Hisar@|Kanarya~|Kartal~|Kılıç~|Osmanlı~|P.t.t.@|Pancar~|Serin-1~|Seyfi~|Stad~|Timurlenk~|Çevreyolu@|Çim~|Özgür~|İstiklal@|Şahinler@
+179505	Yolveren Mah.	Yolveren~
+179507	Yukarıkaravaiz Mah.	Yukarıkaravaiz=
+179509	Yukarıyufkalı Mah.	Yukarıyufkalı~
+179511	Ziyaret Mah.	Ziyaret~
+179449	Çiftekoz Mah.	Çiftekoz~
+146712	Şerif Peri Mah.	Akbayrak~|Bahar~|Fulya~|Gaziantep@|Mevlana~|Tuğra~|Yağmur~|Yunus~|Çevreyolu@|Şehit Sabri Emir@

@@ -1,0 +1,37 @@
+78943	Ahmetdanişment Köyü	 Köy$
+78944	Ahmetdanişment Köyü, A.danışment Mezra Mezrası	 Köy$
+78945	Aktaş Köyü	 Köy$
+78946	Aktaş Köyü, Aktaş Mezra Mezrası	 Köy$
+70792	Alpaslan Mah.	15 Temmuz Şehitler@|Atatürk@|Fuat Çağlayan~|G.o.paşa@|Milli Egemenlik~|Mithatpaşa@|Satlık Bayırı=|Sağlık@|Çınar~|İbrahim Çavuş Dirican@|İstasyon@
+70793	Altınova Mah.	Ağdullar Mevkii=|Cinge Pınarı=
+78942	Ağmusa Köyü	 Köy$
+78947	Aşağıgüçlü Köyü	 Köy$
+78948	Bayırlı Köyü	 Köy$
+78949	Bebekderesi Köyü	 Köy$|Rıza Özcan Köy$
+78950	Boyunpınar Köyü	 Köy$
+78951	Devecikargın Köyü	 Köy$
+78952	Evlideresi Köyü	 Köy$
+70794	Gaziosmanpaşa Mah.	D.d.yolu Altı=|Karşıyaka=|Kömür Ocağı=|Yatılı Bölge Okulu=
+78953	Gazipınarı Köyü	 Köy$
+78954	Gümüşyurt Köyü	 Köy$
+78955	Gürardıç Köyü	 Köy$
+78958	Kayaönü Köyü	 Köy$
+78959	Kunduz Köyü	 Köy$
+78960	Kunduzağılı Köyü	 Köy$
+70796	Kızılca Mah.	Aşağıpınar Sağlıca Yolu Altı=|Hacıpınar Sağlıca Yolu Üstü=
+78957	Mertekli Köyü	 Köy$
+78961	Poyrazalan Köyü	 Köy$
+78963	Salur Köyü	 Köy$
+78962	Sağlıca Köyü	 Köy$
+78964	Tanyeli Köyü	 Köy$
+78965	Taşpınar Köyü	 Köy$
+78966	Tuzla Köyü	 Köy$
+78967	Ulusulu Köyü	 Köy$
+78968	Yağcımusa Köyü	 Köy$
+78969	Yenice Köyü	 Köy$
+78970	Yukarıgüçlü Köyü	 Köy$
+78971	Yukarıgüçlü Köyü, Karakuş Yaylası Yayla Evleri	 Köy$
+78972	Yukarıgüçlü Köyü, Söğütlü Yaylası Yayla Evleri	 Köy$
+183838	Çelikli Mah.	Akşemsettin~|Altun~|Artova~|Atatürk~|Ağcadere~|Bosna Hersek~|Cumhuriyet~|Dr Sadık Ahmet~|Elçi~|Emiryolu~|Erdem~|F.sultan Mehmet 2~|F.sultan Mehmet 3~|F.sultan Mehmet~|F.çakmak(k.başı)~|G.o.paşa~|Gökçek~|Kazım Karabekir~|Mehmet Akif Ersoy~|Mevlana~|Mustafa Sabri Efendi~|Yavuz Sultan Selim 2~|Yavuz Sultan Selim~|Yunusemre~|Şht.elvan Çınar~
+70795	İstasyon Mah.	15 Temmuz Şehitler@|Atatürk@|Ddy@|Fuat Çağlayan~|Hükümet@|Kasımoğlu~|Mithatpaşa@|Sağlık@|Sıtma Pınarı=|Tokat@|Zile@|İstasyon@|İstiklal@|Şinasi~
+183840	İğdir Mah.	İğdir~

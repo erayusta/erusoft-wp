@@ -1,0 +1,40 @@
+192565	Akbaşak Mah.	Akbaşak=|Bağtepe=|Halto=|Soğukpınar=
+192567	Aktaş Mah.	Aktaş=
+192569	Albayrak Mah.	Albayrak=|Ağıltepe=|Büyükpınar=|Deprem Konutları.=|Taş=
+192571	Arpadere Mah.	Arpadere=
+192573	Atalar Mah.	Atalar=|Börümcek=
+192575	Avut Mah.	Avut=|Güney=|Kayacakaya=|Küçük Göl=|Sutca=|Yenice=|Yukarı Yeşil=|Çatak=|Çeğerli=
+192577	Aydınlı Mah.	Aydınlı=
+192579	Balcılar Mah.	Balcılar 1=|Balcılar=|Murathan=
+21075	Camii Kebir Mah.	Camii Kebir Kümeevleri=|Fırat@|Kooperatif@|Mikayit~|Muradiye 1~|Muradiye 1.~|Muradiye 2~|Muradiye~|Tekkale 1.~|Tekkale~|Ulucamii~|Yeni~|Ömer Halisdemir 1.~|Ömer Halisdemir@|Özerler 1~|Özerler 2~|Özerler~
+21074	Camiisuk Mah.	Bahçeli~|Bahçeli.~|Baraj@|Başpınar~|Camii Kebir Kümeevleri=|Camiisuk Sokak=|Cumhuriyet Myd.|Ejderağa~|Hilmi Gündoğan~|Kooperatif@|Koç~|Muradiye 1~|Saltaş~|Uzunçarşı 1.~|Uzunçarşı@|Yüzbaşı~|Ömer Halis Demir 3.~|Ömer Halisdemir 2.~|Ömer Halisdemir 3.~|Ömer Halisdemir@|İncirlitaş~
+192587	Deveboynu Mah.	Deveboynu=
+192585	Değirmensuyu Mah.	Değirmensuyu=|Kırmızıtepe=
+192589	Elmadere Mah.	Elmadere=
+192591	Geçitköy Mah.	Geçitköy=
+192593	Gökçepelit Mah.	Akbaşak=|Gökçepelit=|Karıntaş=|Tahtamaşat=|Yenice=
+192595	Güneydere Mah.	Güneydere=
+192597	Handere Mah.	Handere=
+192599	Hindibaba Mah.	Aşağı Hindibaba=|Siteler=|Yayla Evleri=|Yukarı Hidibaba=
+192603	Karakaya Mah.	Harmantepe=|Karakaya=|Yayla=
+21076	Karşıyaka Mah.	Baraj 1.~|Baraj 2~|Baraj 3.~|Baraj 4.~|Baraj@|Buhara=|Deprem Konutları 1.~|Deprem Konutları=|Geçit Köy Yolu 1.~|Geçit Köy Yolu.=|Güney Dere@|Karşıyaka=|Lise 1~|Lise 2~|Lise 3~|Lise 4.~|Lise 5.~|Lise 6.~|Lise@|Manastır 1.~|Manastır 2.~|Manastır 3.~|Manastır@|Sedat Arıtürk 1.~|Sedat Arıtürk 2.~|Sedat Arıtürk 3.~|Sedat Arıtürk 4.~|Sedat Arıtürk%|Ömer Halisdemir 1.~|İ.m.k.b. 75. Yıl@|İ.m.k.b. 75.yıl 1.~|İ.m.k.b. 75.yıl 3.~|İ.m.k.b. 75.yıl 4.~|İ.m.k.b.75.yıl 2.~
+192605	Kaynakköy Mah.	Kaynakk~|Kaynakköy=|Salmantarla=|Salmantarla-=
+192607	Keleşevleri Mah.	Keleşevleri=
+192609	Koçören Mah.	Aşağı Sergenli=|Koçören=|Saban=|Sayar=|Yolaçan=|Yukarı Sergenli=
+192611	Norşin Mah.	Balcılar=|Karşıyaka/1=|Norşin/külbastı=|Yeşil=
+192615	Ormançayı Mah.	Diğer Mezra=|Kuşan=|Ormançayı=
+192617	Oyuklu Mah.	Oyuklu=
+192619	Polatuşağı Mah.	Kuryan=|Kömürtepe=|Küldere=|Polatuşağı=
+192621	Sağtepe Mah.	Bahçe-1=|Elmadere=|Sağtepe=
+192623	Seferuşağı Mah.	Gündüz=|Seferuşağı=|Tarhana 1=|Tarhana=
+192625	Türkmen Mah.	Alt Küme=|Haltan=|Orta Küme=|Türkmen=|Üst Küme=
+192629	Yaygınkonak Mah.	Darsu=|Göktepe=|Yaygınkonak=|Çeşmedere=
+192631	Yazyağmuru Mah.	Yazyağmuru=
+192633	Yenice Mah.	Yenice=
+192635	Yeniköy Mah.	Yeniköy=
+192563	Yukarışeyhler Mah.	Akkılıçlar@|Avcılar@|Aşağı Şeyhler 1.~|Aşağışeyhler 1=|Aşağışeyhler 2=|Bahar 1~|Bahar~|Bahçe Saray@|Bahçe~|Bağlar=|Belediye@|Cafer Tayar@|Cami~|Demirciler~|Değirmen~|Değirmenlik=|Erdem~|Filiz~|Gülsüm~|Huzur~|Kahramanlar=|Karabulut~|Karacesmeee~|Kaya~|Kutlu~|Kutlu Sokak~|Kızılay Çıkmaz~|Kızıltepe~|M.akif@|M.zülfü~|Menteş~|Meram~|Merkez@|Merve~|Murat~|Nazlı 1~|Nazlı~|Nur~|Polat~|Pınar Çıkmaz~|Sadık~|Seferuşağı 1.=|Su Deposu~|Sümbül~|Tepe~|Veli~|Veysi~|Yeni Camii~|Yeşil-~|Yeşil/1~|Yeşilmen~|Yukarı Şehler 3.=|Çanakçılar=|Çay 1@|Çay@|Çelik~|Çermik@|Çıkmaz~|Çınar~|Çınarköy 1.~|Çınarköy 3.~|Çınarköy~|Şaban~|Şeyhler~
+192581	Çataldut Mah.	Alkanat=|Ekinlik=|Yazyağmuru=|Yemişli Yayla=|Çataldut=
+192583	Çaybaşı Mah.	Demirkül=|Çaybaşı=
+192627	Üçpınar Mah.	Üçpınar=
+192601	İbikkaya Mah.	İbikkaya=
+192613	İlyas Mah.	İlyas/malkaya=|İlyas1=

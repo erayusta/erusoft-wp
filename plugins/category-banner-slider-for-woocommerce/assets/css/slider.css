@@ -1,0 +1,64 @@
+/* Category Banner Slider — ön yüz stilleri */
+.eru-cbs { position: relative; width: 100%; }
+.eru-cbs__viewport { position: relative; overflow: hidden; width: 100%; }
+.eru-cbs__track {
+    display: flex;
+    transition: transform .45s ease;
+    will-change: transform;
+}
+.eru-cbs__slide { flex: 0 0 100%; min-width: 100%; }
+.eru-cbs__link { display: block; }
+.eru-cbs__picture,
+.eru-cbs__picture img { display: block; width: 100%; }
+
+/* Sabit yükseklik ayarlandıysa görseli kırparak doldur; yoksa doğal oran (auto). */
+.eru-cbs__picture img {
+    height: var(--eru-cbs-h-desktop, auto);
+    object-fit: cover;
+}
+@media (max-width: 1024px) {
+    .eru-cbs__picture img {
+        height: var(--eru-cbs-h-tablet, var(--eru-cbs-h-desktop, auto));
+    }
+}
+@media (max-width: 767px) {
+    .eru-cbs__picture img {
+        height: var(--eru-cbs-h-mobile, var(--eru-cbs-h-tablet, var(--eru-cbs-h-desktop, auto)));
+    }
+}
+
+/* Oklar */
+.eru-cbs__arrow {
+    position: absolute; top: 50%; transform: translateY(-50%);
+    z-index: 3; border: 0; cursor: pointer;
+    width: 42px; height: 42px; border-radius: 50%;
+    background: rgba(255,255,255,.85); color: #222;
+    font-size: 18px; line-height: 42px; text-align: center;
+    box-shadow: 0 1px 5px rgba(0,0,0,.2);
+    transition: background .2s ease;
+}
+.eru-cbs__arrow:hover { background: #fff; }
+.eru-cbs__arrow--prev { left: 14px; }
+.eru-cbs__arrow--next { right: 14px; }
+
+/* Noktalar */
+.eru-cbs__dots {
+    position: absolute; left: 0; right: 0; bottom: 14px;
+    display: flex; justify-content: center; gap: 8px; z-index: 3;
+}
+.eru-cbs__dot {
+    width: 10px; height: 10px; padding: 0; border: 0; border-radius: 50%;
+    cursor: pointer; background: rgba(255,255,255,.55);
+    transition: background .2s ease, transform .2s ease;
+}
+.eru-cbs__dot.is-active { background: #fff; transform: scale(1.2); }
+
+@media (max-width: 767px) {
+    .eru-cbs__arrow { width: 34px; height: 34px; line-height: 34px; font-size: 15px; }
+    .eru-cbs__arrow--prev { left: 8px; }
+    .eru-cbs__arrow--next { right: 8px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .eru-cbs__track { transition: none; }
+}

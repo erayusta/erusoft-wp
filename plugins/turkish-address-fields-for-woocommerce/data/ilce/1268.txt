@@ -1,0 +1,61 @@
+93091	Akboğaz Köyü	Akboğaz=
+90372	Aktepe Mah.	100~|101~|102~|103~|104~|105~|106~|107~|108~|112~|84~|85~|86~|87~|88~|89~|90~|91~|92~|93~|94~|95~|96~|97~|98~|99~|Aktepe/1~|Ankara@|Arslan Altınok@|Kazım Karabekir@|Ş.ali Saygılı@|Ş.ali Saygılı/1~|Ş.er.süleyman Gürsoy@|Şehit Jandarma Binbaşı Erhan Dikmen@|Şehit Jandarma Binbaşı Erhan Dikmen/1~|Şıh Duran Karakaya@
+93092	Alcılı Köyü	Alcılı=
+93093	Arbişli Köyü	Arbişli=
+93128	Aşağıihsangazili Köyü	Aşağıihsangazili=
+93094	Baraklı Köyü	Baraklı=
+93095	Bozköy Köyü	Bozköy=
+90380	Büyükafşar Köyü, Avşar Mevkii	Atatürk~|Cumhuriyet~|Dadaloğlu~|Güllü~|Lale~|Milli Egemenlik~|Ozan~|Rüzgarlı~|Sevinç~|Ulu~|Ulu/2~|Uğurmumcu~
+90381	Büyükafşar Köyü, Bahçelievler Mevkii	Baglar~|Karanfil~|Meşrutiyet~|Milli Egemenlik~|Sarnıç~|Ufuk~|Ulusan~
+90382	Büyükafşar Köyü, Boğaziçi Mevkii	Bademli~|Belediye~|Mahmut Kaya~|Neşeli~|Rüzgarlı/20~|Rıza Efendi~|Rıza Efendi/10~|Ulu~|Ulu/2~|Çamlık~|Şehit Tarık Kocaoğlu~|Şehit Tarık Kocaoğlu/1~
+90383	Büyükafşar Köyü, Karşıyaka Mevkii	Baglar~|Balımoğlu~|Behiç Çelik~|Milli Egemenlik~|Neşeli~|Neşeli/1~|Neşeli/2~
+90384	Büyükafşar Köyü, Yeni Mevkii	Dadaloğlu~|Poyraz~|Ulu/2~|Uğur Mumcu/1~|Uğurmumcu~|Çamlık~|Çıkmaz~
+90385	Büyükyağlı Köyü, Aydınlar Mevkii	Aydınlar~|Doğu~|Ergenekon~|Eser~|Eser/1~|Fatih~|Gül-~|Güner~|Güner/1~|Kale~|Tepe-~|Yuvam~|Çiğdem~|Çınar~
+90386	Büyükyağlı Köyü, Bahçelievler Mevkii	Dicle~|Egemenlik~|Ergenekon~|Karanfil~|Kızılırmak~|Sakarya~|Toros~|Toros/1~|Tuna-~|Yavuz-~|Şehit Mehmet Işıklı Bulvarı~
+90387	Büyükyağlı Köyü, Cumhuriyet Mevkii	Bozkır~|Bozkır/1~|Cumhuriyet~|Egemenlik~|Ergenekon~|Ergenekon/1~|Fatih~|Fatih/1~|Kanuni~|Karanfil~|Lale~|Menderes~|Menderes/1~|Toros~|Toros/2~|Tuna~|Ulu~|Yavuz~|Şehit Murat Tutal~
+90388	Büyükyağlı Köyü, Yeni Mevkii	Aşağı Benzinlik~|Aşağı Benzinlik/1~|Aşağı Benzinlik/20~|Aşağı Benzinlik/21~|Aşağı Benzinlik/22~|Aşağı Benzinlik/23~|Aşağı Benzinlik/24~|Aşağı Benzinlik/26~|Aşağı Benzinlik/4~|Aşağı Benzinlik/5~|Aşağı Benzinlik/6~|Bağevleri~|Bağevleri/1~|Bağevleri/2~|Bağevleri/3~|Toros~|Türkmen~|Vatan~|Vatan/10~|Vatan/2~|Vatan/3~|Yeni/1~|Yeni/10~|Yeni/11~|Yeni/15~|Yeni/2~|Yeni/9~|Yukarı Benzinlik(tepebaşıtesisleri) Civarı~|Yukarı Benzinlik/1~|Yukarı Benzinlik/2~|Çiçek~|Şehit Mehmet Işıklı Bulvarı~|Şehit Mehmet Işıklı Bulvarı/1~|Şehit Mehmet Işıklı Bulvarı/10~|Şehit Mehmet Işıklı Bulvarı/11~|Şehit Mehmet Işıklı Bulvarı/12~|Şehit Mehmet Işıklı Bulvarı/13~|Şehit Mehmet Işıklı Bulvarı/14~|Şehit Mehmet Işıklı Bulvarı/15~|Şehit Mehmet Işıklı Bulvarı/16~|Şehit Mehmet Işıklı Bulvarı/17~|Şehit Mehmet Işıklı Bulvarı/18~|Şehit Mehmet Işıklı Bulvarı/24~|Şehit Mehmet Işıklı Bulvarı/25~|Şehit Mehmet Işıklı Bulvarı/26~
+90389	Büyükyağlı Köyü, Yıldız Mevkii	Bozkır~|Bozkır/1~|Doğu~|Egemenlik~|Ergenekon~|Ergenekon/2~|Ergenekon/3~|Evren~|Fatih~|Fatih/2~|Fatih/3~|Güneş~|Güneş/1~|Lale~|Toros~|Yuvam~|Çeşme~|Çiçek~|Çiğdem~|Çınar~|Şehit Mehmet Işıklı Bulvarı~|Şehit Mehmet Işıklı Bulvarı/1~|Şehit Mehmet Işıklı Bulvarı/2~|Şehit Mehmet Işıklı Bulvarı/20~|Şehit Mehmet Işıklı Bulvarı/21~|Şehit Mehmet Işıklı Bulvarı/23~|Şehit Murat Tutal~
+93098	Coğul Köyü	Coğul=
+90373	Cumhuriyet Mah.	1~|10~|11~|12~|13~|2~|3~|4~|5~|6~|7~|8~|9~|Ankara@|Atatürk%|Musa (ka) Özdem@|Ramis Akdoğan@|Yusuf (hoca) Türksoy@|Şehit Jandarma Binbaşı Erhan Dikmen@
+93100	Dağobası Köyü	Dağobası=
+93101	Derekışla Köyü	Derekışla=
+93102	Doğanören Köyü	Doğanören=
+93103	Elmalı Köyü	Elmalı=
+93104	Evliyalı Köyü	Ankara@|Evliyalı=
+93105	Fadılobası Köyü	Fadılobası=
+90374	Fatih Mah.	113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141~|142~|Ankara@|Ankara/7~|Ceriklide~|Ceriklide/1~|Ceriklide/2~|Delice Dev~|Delice~|Fatih~|Fevzicakmak/1~|Hulusi (ka) Delice@|Küme Evler=|Kıbrıs Gazileri%|Nuri Erdem@|Nuri Erdem/1~|Toki 1~|Toki 2~|Toki 3~|Toki 4~
+90375	Fevzi Çakmak Mah.	14~|15~|16~|17~|18~|19~|20~|21~|22~|23~|24~|25~|26~|Ankara@|Ankara/10~|Fevzicakmak/1~|Fevzicakmak/2~|Kümeevler2=|Müftü Abdullah@|Ramis Akdoğan@|Yusuf (hoca) Türksoy@
+93106	Gözükızıllı Köyü	Gözükızıllı=
+90376	Gündüz Mah.	20~|24~|26~|27~|29~|30~|31~|32~|33~|Fevzicakmak/6~|Müftü Abdullah@
+93107	Hacıobası Köyü	Hacıobası=
+93108	Halitli Köyü	Halitli=
+93109	Herekli Köyü	Herekli=
+90377	Hürriyet Mah.	34~|35~|36~|37~|38~|39~|40~|41~|42~|43~|44~|45~|46~|47~|Kazım Karabekir@|Kazım Karabekir/1~|Müftü Abdullah@|Yusuf (hoca) Türksoy@|Şehit Jandarma Binbaşı Erhan Dikmen@|Şehit Jandarma Binbaşı Erhan Dikmen/1~|Şehit Jandarma Binbaşı Erhan Dikmen/2~
+90378	Karabekir Mah.	51~|54~|55~|57~|58~|59~|60~|61~|62~|62/1~|63~|Aktepe/1~|Ankara@|Ankara/1~|Ankara/9~|Fevzicakmak/2~|Fevzicakmak/6~|Kazım Karabekir@|Kazımkarabekir/1~|Kümeevler2=
+93111	Karaköseli Köyü	Karaköseli=
+93112	Karpuz Köyü	Karpuz=
+93113	Kavakköy Köyü	Kavakköy=
+93114	Kocabaş Köyü	Ankara@|Kocabaş=
+93115	Kurtoğlu Köyü	Kurtoğlu=
+93116	Kuzayyurt Köyü	Kuzayyurt=
+93117	Küçükafşar Köyü	Küçükafşar=
+93118	Meşeyayla Köyü	Meşeyayla=
+90379	Mimar Sinan Mah.	34~|47~|64~|65~|67~|68~|69~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|Atatürk%|Mimarsinan 1~|Mimarsinan 2~|Mimarsinan 3~|Musa (ka) Özdem@|Yusuf (hoca) Türksoy@|Şehit Ahmet Kubilay@|Şehit Jandarma Binbaşı Erhan Dikmen@|Şehit Jandarma Binbaşı Erhan Dikmen/3~|Şehit Jandarma Binbaşı Erhan Dikmen/4~
+93119	Ocakbaşı Köyü	Ocakbaşı=
+93120	Sarıyaka Köyü	Sarıyaka=
+93123	Tatlıcak Köyü	Tatlıcak=
+93124	Tavaözü Köyü	Tavaözü=
+93122	Taşyazı Köyü	Taşyazı=
+93125	Tekkeköy Köyü	Tekkeköy=
+93126	Yaylayurt Köyü	Yaylayurt=
+93127	Yeniyapan Köyü	Yeniyapan=
+93096	Çatallı Köyü	Çatallı=
+93097	Çatallıkarakoyunlu Köyü	Çatallıkarakoyunlu=
+90392	Çerikli Beldesi, Gökçebel Mah.	12~|29 Ekim@|50~|62~|70~|71~|Adalet@|Alaçatı~|Ankara@|Ankara-@|Ankara/3~|Bahçeli~|Barış~|Bayrak~|Başak~|Bilinmeyen27~|Bilinmeyen28~|Bilinmeyen29~|Bilinmeyen54~|Cami/1~|Camii~|Ceviz~|Cihan~|Dikmen~|Filizer@|Harman~|Hüseyin Gazi~|Ihlamur@|Karlı~|Karşıyaka~|Kiremit~|Meydan~|Nergiz~|Prof.dr.osman Durmuş@|Tekinay@|Tokay~|Türkmen~|Vatan@|Vatan-@|Çakıl~|Çam~|Çayır~|Çimen~|Çiğdem~|İnci~|Şehit Mehmet Işıklı@
+90395	Çerikli Beldesi, Merkez Mah.	60~|Adalet~|Alya~|Ankara@|Atatürk@|Bayındır~|Bağ~|Bilinmeyen61~|Cumhuriyet@|Dostlar@|Ekin~|Fidan~|Kervan~|Keskin -d -7125@|Konur~|Kızılkaş~|Tmo~|Tuna~|Yıldız@|Zerdali~|Çay~|Çongar@|Öztürk~|İskender Köse@|İstasyon@|Şehit Murat Eroğlu@
+90397	Çerikli Beldesi, Sakarya Mah.	100~|102@|150~|19~|41~|49~|61~|99~|Ankara@|Ankara-@|Bilinmeyen/19~|Bilinmeyen16~|Bilinmeyen18~|Bilinmeyen53~|Bilinmeyen76~|Dikmen~|Dikmen-~|Fatih@|Gazi~|Gençlik~|Halı Saha~|Kilit~|M.akif Ersoy@|Martı~|Menekşe~|Millet~|Pazar~|Prof .dr.osman Durmuş@|Prof Dr.osman Durmuş@|Prof.dr.osman Durmuş@|Pınar~|Tepe~|Tosun~|Türkmen~|Türkmen-~|Vatan@|Yıldız@|Çakıl~|Çaykara~|Çorum@|İskender Köse@|İstasyon@|İstiklal@|Şehit Adem Yassıkaya@|Şehit Adem Yassıkaya~|Şehit Mehmet Işıklı@|Şehit Murat Eroğlu@|Şehitler%
+90398	Çerikli Beldesi, Yeni Mah.	10.~|1071.@|1453.@|75~|9.~|99~|Acı Su Deresi@|Ankara@|Arı~|Ay~|Bağlar~|Beş Evler~|Bilinmeyen//1~|Demirbaş~|Dolunay~|Dostluk~|Doğan~|Eser~|Garaj~|Gök~|Göktepe~|Gül~|Güneş~|Güven@|Harran@|Hastane@|Hastane-@|Işık~|Kayadibi~|Kayalar~|Koru~|Kutlu~|Kılıç~|Laleli~|Mevlana~|Mutlu~|Nisan~|Okul@|Pazar~|Rüzgarlı~|Sancak~|Sağlık@|Su Deposu~|Söğüt@|Tomurcuk~|Toprak~|Tosun~|Ulusoy~|Varan@|Yakalı~|Yayla~|Yel~|Yenice~|Yunus Emre~|Çamlıca~|Çilek~|Çorum@|Çorum-@|Çıtırık~|Ülkü~|İğdeli~|Şafak~|Şahin~|Şehit Er Recep Şahin@|Şehitler%
+90399	Çerikli Beldesi, Yerlikent Mah.	1~|1.@|1001~|1002~|101~|111~|112~|2~|3~|30 Ağustos@|4~|5~|6~|7~|Aksu~|Alan~|Alpay~|Anafartalar~|Ankara@|Aşıkpaşa@|Bahar~|Balkan~|Batı~|Beyazıt~|Bilinmeyen3~|Bilinmeyen4~|Bilinmeyen5~|Bilnmeyen2~|Doğu~|Emek@|Ergenekon@|Esra~|Farabi~|Fatih Sultan Mehmet@|Fener~|Fevzi Çakmak@|Gazi Mustafa Kemal@|Gece~|Gündüz~|Güney~|Harmanlı~|Hilal~|Karanfil~|Kaçak~|Keskin -d -7125@|Kooperatif~|Kooperatif-~|Kum~|Kurtuluş~|Kurtuluş1~|Kuzey~|Menderes@|Mimar Sinan@|Mimar Sinan-@|Nazar~|Selvi~|Sevgi~|Seyda~|Seğmenler@|Susam~|Tatlıcak~|Tavşan Tepesi@|Taşlı~|Yasemin~|Yavuz Sultan Selim@|Yuva~|Zirve~|Çağlar~|Çiftlik~|Çınar~|Çınar/1~|Öztürk@|Şahintepesi@|Şehit Er Recep Şahin@|Şen~|Şirin Tepe@
+93099	Çongar Köyü	Çongar=
+93110	İmirli Köyü	İmirli=
+93121	Şahcalı Köyü	Şahcalı=

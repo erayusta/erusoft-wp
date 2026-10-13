@@ -1,0 +1,146 @@
+68739	Akbucak Köyü	Akbucak=
+68740	Akmescit Köyü	Akmescit=|Aktepe=
+68742	Aktaş Köyü, Soğuksu Mevki Mevkii	Soğuksu Mevki=
+68743	Aktaş Köyü, Çiçekören Mevki Mevkii	Çiçekören Mevki=
+68741	Aktaş Köyü, İnce Mevki Mevkii	İnce Mevki=
+68744	Aktepe Köyü	Aktepe=
+68749	Alçılı Köyü, Badialva Mevki Mevkii	Badialva=
+68746	Alçılı Köyü, Dere Mevki Mevkii	Dere=
+68748	Alçılı Köyü, Merkez Cami Mevki Mevkii	Merkez Cami=
+68745	Alçılı Köyü, Okul Mevkii Mevkii	Okul=
+68747	Alçılı Köyü, Tuna Mevki Mevkii	Tuna=
+68751	Balıkçı Köyü, Dumina Mevki Mevkii	Dumina=
+68753	Balıkçı Köyü, Liman Mevki Mevkii	Liman=
+68750	Balıkçı Köyü, Merkez Mevki Mevkii	Merkez=
+68752	Balıkçı Köyü, Sahil Mevki Mevkii	Sahil=
+68758	Başköy Köyü	- Köy$
+68756	Başköy Köyü, Geçitler Mevki Mevkii	Geçitler=
+68754	Başköy Köyü, Kanlı Mevki Mevkii	Kanlı=
+68757	Başköy Köyü, Sapanca Mevki Mevkii	Geçitler=|Sapanca=
+68755	Başköy Köyü, Tutoğlu Mevki Mevkii	Geçitler=|Tutoğlu=
+61461	Beyaztaş Mah.	Beyaztaş~|Kaleliler~|Şehit Erhan Dural@
+68759	Boğazlı Köyü	Boğazlı=
+68762	Bucak Köyü, Cami Mevki Mevkii	Cami=
+68760	Bucak Köyü, Dere Mevki Mevkii	Dere=
+68764	Bucak Köyü, Ocaozon Mevki Mevkii	Ocaozon=
+68763	Bucak Köyü, Tasu Mevki Mevkii	Tasu=
+68761	Bucak Köyü, Yukarı Mevki Mevkii	Yukarı=
+61462	Cumhuriyet Mah.	Akmescit@|Atalar~|Açelya~|Cengiz Topel@|Derya~|Direkdibi~|Dörtyol=|Fotoğrafçılar~|Galip~|Gönül~|Güneş~|Kaptan~|Kesikköprü@|Kurali~|Köseoğlu Çıkmaz~|Kızılay~|Memoğlu~|Nehir~|Orman Gülü~|Pazarcılar~|Pozoni@|Taptopi@|Tarık Kılıç~|Taşlıdere~|Tepebaşı~|Yarbaşı~|Yazlık 2~|Yazlık~|Çarşıkale~|Çaycılar@|Çise~|Şehit Murat Naiboğlu@
+68766	Darılı Köyü	Darılı=
+68765	Dağdibi Köyü	Dağdibi=
+68767	Derebaşı Köyü	Derebaşı=
+68768	Derinsu Köyü, Hoçoti Mevki Mevkii	Hoçoti=
+68769	Derinsu Köyü, Merkez Mevki Mevkii	Merkez=
+68770	Dernek Köyü	Dernek=
+68771	Elmalık Köyü	Elmalık=
+61469	Gazi Mah.	Gazi@|Odabaşlar~|Sevda~
+68776	Güney Köyü, Büyük Cami Mevki Mevkii	Büyük Cami Mevki=
+68775	Güney Köyü, Küçük Cami Mevki Mevkii	Küçük Cami Mevki=
+68772	Güney Köyü, Okul Mevki Mevkii	Küçük Cami Mevki=|Okul Mevki=
+68773	Güney Köyü, Pehlivanlar Mevki Mevkii	Pehlivanlar Mevki=
+68774	Güney Köyü, Yeni Mevki Mevkii	Yeni Mevki=
+61463	Güzelyalı Mah.	Arıtma~|Aşağı Akınlar~|Cami Üstü~|Denizgören~|Emek~|Feriha Ekşioğlu~|Güzel~|Güzelyalı@|Hazır~|Irmak~|Kaboğlu~|Kaleliler~|Kaynar_1~|Mance~|Sağlık~|Seyran Tepe~|Sulak~|Suradzade~|Tüylüoğlu~|Uzun~|Yukarı Akınlar~|Yükselen~|Yıldız~|Ömer Lütfü Balta~|Şehit Erhan Dural@|Şirinler~
+68787	Hamidiye Köyü, Alım Yeri Ve Okumuşlar Mevki Mevkii	Alım Yeri Ve Okumuşlar=
+139740	Hamidiye Köyü, Hamidiye Mücavir Mevkii	Anadolu~|Arslan~|Atmaca~|Bülent Baripoğlu~|Bıldırcın~|Doğan~|Fidan~|Fırtına~|Gül~|Huzur~|Huzurkent Sitesi~|Karanfil~|Kaçkar~|Kıyı~|Poyraz~|Sahil Cami~|Sevimli~|Tuğla~|Viya~|Yalı~|Yeniyol~|Çay~|Çağdaş~|Şehit Turgay Bal~
+68786	Hamidiye Köyü, Koçoğlu Ve Çebiler Mevki Mevkii	Koçoğlu Ve Çebiler=
+68777	Hamidiye Köyü, Merkez Cami Eski Pazaryolu Mevki Mevkii	Merkez Cami Esk İpazar Yolu Mevkii=
+68788	Hamidiye Köyü, Orta Mah. Yolu Ve İslamoğlu Mevki Mevkii	Orta Mah. Yolu Ve İslamoğlu=
+68789	Hamidiye Köyü, Orta Mah.yolu Ve Aytemizler Mevki Mevkii	Orta Mah Yolu Ve Aytemziler=
+68778	Hamidiye Köyü, Sağlık Ocağı Yolu Ve Çevresi Mevki Mevkii	Sağlık Ocağı Ve Çevresi Mevkii=
+68785	Hamidiye Köyü, Yarbaşı Ve Kızılhanlar Mevki Mevkii	Yarbaşı Ve Kızılhanlar=
+68792	Handağı Köyü, Aygüneş-yıldız-altun Mevki Mevkii	Aygüneş Yıldız Altun=
+68794	Handağı Köyü, Babuçoğlu-devrişoğlu Mevki Mevkii	Babuçoğlu Devrişoğlu=
+68793	Handağı Köyü, Bilaloğlu Mevki Mevkii	Bilaloğlu=
+68796	Handağı Köyü, Cevherler Mevkii	Cevherler=
+68790	Handağı Köyü, Hukanoğlu Mevki Mevkii	Hukanoğlu=
+68791	Handağı Köyü, Kesimal Mevki Mevkii	Kesimal=
+68795	Handağı Köyü, Yıldızlar Mevki Mevkii	Yıldızlar=
+68797	Hasköy Köyü	Hasköy=
+68798	Hisarlı Köyü, Biliciler Mevki Mevkii	Biliciler=
+68799	Hisarlı Köyü, Birinciler Mevki Mevkii	Birinciler=
+68800	Hisarlı Köyü, Radar Mevki Mevkii	Radar=
+68801	Irmak Köyü	Irmak=
+68802	Irmakyeniköy Köyü	Irmakyeniköy=
+68803	Kayağantaş Köyü	Kayağantaş=
+68804	Kesikköprü Köyü	Kesikköprü=
+61465	Kirazlık Mah.	Akademi~|Aslan~|Ayaz~|Balta -~|Balıkçı~|Birlik~|Boğaz~|Camii@|Endüstri~|Esentepe@|Esinler~|Fabrikalar@|Gölgelik~|Halil Gür~|Hemşin@|Irmak~|Kasaplar~|Kenan Sarı@|Konak~|Liman@|Meteoroloji@|Nacit Çamlı~|Nefes Kesen~|Orman~|Orta~|Otogar~|Oğuzboyu~|Pınar@|Reşat Acıyan~|Sakin~|Sarraflar~|Sera@|Tahsin Bekir Balta@|Tahtakılıç@|Yavuz~|Yurt~|Yuvam 1~|Yuvam~|Zamanlar~|Ziraat@|Zübeyde Hanım~|Çakır~|Çiftlik~|Çınar~|İmam Hatip~|İnce~|Şafak~|Şekerli~|Şen Yuva~
+183772	Kocaköprü Mah.	Abdioğlu@|Albayrak~|Aydınlar@|Baba Ocağı~|Balta Konak~|Bayram~|Bağlantı~|Buket~|Cinan~|Dem~|Doğuş~|Fikirtepe~|Hotri~|Kusta~|Kutluay~|Kızılağaç~|Mimoza~|Mor Menekşe~|Mutlu~|Papatya~|Tepeüstü~|Toki@|Yayla~|Yaşar Mahmutoğlu~|Yoncalı@|Zafer@|Şehit Hasan Morgül~|Şehit Ömer Halisdemir@
+68812	Kuzayca Köyü, Ana Yol Altı Mevki Mevkii	Ana Yol Altı=
+68814	Kuzayca Köyü, Omohale Ve Mezralar Mevki Mevkii	Omohale Ve Mezralar=
+68815	Kuzayca Köyü, Piyastoni Mevki Mevkii	Piyastoni=
+68813	Kuzayca Köyü, Tapsihon Yol Üstü Ve Köyiçi Mevki Mevkii	Topsihon Yol Üstü Ve Köyiçi=
+68818	Merdivenli Köyü	Merdivenli=
+68817	Merdivenli Köyü, Balaban Mevki Mevkii	Balaban=
+68816	Merdivenli Köyü, Tepe Mevki Mevkii	Tepe=
+183774	Ocak Mah.	Ardıç~|Aşık~|Başkan~|Bozacı~|Bölge@|Cisem~|Dereiçi~|Dolunay~|Gençkurt~|Karahan~|Kaynar~|Müftüoğlu~|Nur~|Okumuş~|Paşalı~|Sanayi 1.~|Sanayi 2.~|Sanayi 3.~|Sayın~|Serender@|Tutan~|Zilkale@|Şehit Pyd.er Turgay Bal@
+68824	Ortayol Köyü, Cami Mevki Mevkii	Cami=
+68822	Ortayol Köyü, Dere Mevkii Mevkii	Dere=
+68821	Ortayol Köyü, Harvat Mevkii Mevkii	Harvat=
+68820	Ortayol Köyü, Haşıoğlu Mevkii Mevkii	Haşıoğlu=
+68826	Ortayol Köyü, Hopa Mevki Mevkii	Hopa=
+68825	Ortayol Köyü, Paşakinalar Mevki Mevkii	Paşakinalar=
+68823	Ortayol Köyü, Pirimoğlu Mevkii	Pirimoğlu=
+68884	Ortaırmak Köyü	Ortaırmak=
+68830	Papatya Köyü	Papatya=
+61466	Pazar Mah.	1.okul~|2.okul~|24 Evler~|Aktepe@|Atatürk@|Ayçiçek~|Bağkur~|Cevher~|Demokrasi Myd.|Değirmen~|Dikmen@|Duraklar~|Erenler~|Ferah~|Fotoğrafçılar~|Fırın~|Gazhane~|Gülbayır@|Gülseren~|Güneş~|Güvercin~|Karadeniz@|Kaymakam Ayhan Terzi@|Lavanta~|Macit Fikret Basa@|Mavi Ay~|Miray~|Onmart@|Pazarcılar~|Telatar Sırtı~|Tevfik İleri~|Turhan Tan~|Uğurlu~|Vefa~|Yeşil~|Yılmaz Telatar@|Özdemir~|Şehit Mürsel Basa~|Şehit Nurettin Kadıoğlu~
+68835	Sahilköy Köyü, Aşağı Mevki Mevkii	Aşağı=
+68831	Sahilköy Köyü, Baş Mevki Mevkii	Baş=
+68833	Sahilköy Köyü, Kasapoğlu Mevki Mevkii	Kasapoğlu=
+68832	Sahilköy Köyü, Memoğlu Mevki Mevkii	Memoğlu=
+99149	Sahilköy Köyü, Sahilköy Mücavir Mevkii	Barış~|Elmalık~|Hazan~|Kanarya~|Karbasan~|Kum~|Meyvalık~|Trafik~|Ulaşan~|Şehitlik~
+68834	Sahilköy Köyü, Seydioğlu Mevki Mevkii	- Köy$
+68836	Sessizdere Köyü	Sessizdere=
+68837	Sivrikale Köyü	Sivrikale=
+68842	Sivritepe Köyü	Sivritepe=
+68840	Sivritepe Köyü, Cami Mevki Mevkii	Cami Mevki=
+68841	Sivritepe Köyü, Karşı Mevki Mevkii	Karşı=
+68839	Sivritepe Köyü, Orta Mevkii Mevkii	Orta=
+68838	Sivritepe Köyü, Sırt Mevki Mevkii	Sırt=
+61460	Soğuksu Mah.	Barınak~|Buloğlu@|Cumhuriyet@|Eski Rize@|Güngören~|Hastahane~|Hunarsu@|Kalaycı~|Kız Kulesi@|Manzara~|Millet@|Okul~|Prof Dr Taner Gören@|Saat~|Soğuksu@|Teras~|Turanlar~|Yazıcılar~|Çiğdem~|İmam Ağa@
+68845	Subaşı Köyü	Subaşı=
+68844	Subaşı Köyü, Haberal Mevki Mevkii	Haberal=
+68843	Subaşı Köyü, Y.karşı Mevki Mevkii	Y.karşı=
+68851	Sulak Köyü	Sulak=
+68847	Suçatı Köyü, Dışkapı Mevki Mevkii	Dışkapı=
+68848	Suçatı Köyü, Hazine Mevki Mevkii	Hazine=
+68849	Suçatı Köyü, Semtet Mevki Mevkii	Semtet=
+68850	Suçatı Köyü, Sırt Mevki Mevkii	Sırt=
+68846	Suçatı Köyü, İskele Mevki Mevkii	İskele=
+68862	Tektaş Köyü, Korkmazlar Mevki Mevkii	Korkmazlar Mevki=
+68860	Tektaş Köyü, Kösoğlu Ve Kolsuzoğlu Mevki Mevkii	Köseoğlu Ve Kolsuzoğlu Mevki=
+68859	Tektaş Köyü, Yeni Mevki Mevkii	Yeni Mevki=
+68861	Tektaş Köyü, Şabanoğlu Mevki Mevkii	Şabanoğlu Mevki=
+68863	Topluca Köyü	Topluca=
+68864	Tütüncüler Köyü	Tütüncüler=
+68868	Uğrak Köyü, Cihanlı Mevki Mevkii	Cihanlı Mevki=
+68865	Uğrak Köyü, Dere Mevki Mevkii	Dere Mevki=
+68867	Uğrak Köyü, Koçanlı Mevki Mevkii	Koçanlı Mevki=
+68866	Uğrak Köyü, Morçut Mevki Mevkii	Morçut Mevki=
+68869	Yavuz Köyü	Yavuz=
+68872	Yemişli Köyü, Cami Mevki Mevkii	Cami=
+68870	Yemişli Köyü, Kale Mevki Mevkii	Kale=
+68874	Yemişli Köyü, Karşı Mevki Mevkii	Karşı=
+68871	Yemişli Köyü, Okul Mevki Mevkii	Okul=
+68875	Yemişli Köyü, Orta Mevki Mevkii	Orta=
+68873	Yemişli Köyü, Sırt Mevki Mevkii	Sırt=
+68876	Yemişli Köyü, Yukarı Mevki Mevkii	Yukarı=
+68878	Yeşilköy Köyü, Satoğlu Mevki Mevkii	Satoğlu=
+68877	Yeşilköy Köyü, Uçanoğlu Mevki Mevkii	Uçanoğlu=
+61467	Yukarı Soğuksu Mah.	Avcı=|Camialtı~|Candan~|Cerrah~|Dönmez~|Kardelen~|Nebi@|Sarı~|Sırt=|Uygur~|Yukarı Soğuksu@|Çelik 1~|Çelik 2~
+68882	Yücehisar Köyü, Arka Dere Mevki Mevkii	Arka Dere=
+68883	Yücehisar Köyü, Orta Mevki Mevkii	Orta=
+68881	Yücehisar Köyü, Ortayol Mevki Mevkii	Ortayol=
+68879	Yücehisar Köyü, Ürünlü Doro Mevki Mevkii	Ürünlü Doro=
+68880	Yücehisar Köyü, Ürünlü Mevki Mevkii	Ürünlü=
+61468	Zafer Mah.	Armağan~|Aziz~|Bahar~|Esenler~|Günaçtı~|Halil Gür~|Hemşindere@|Işık~|Kaleliler~|Kuruluş~|Kuşçular~|Marangoz~|Parlayan~|Sadıklar~|Saygılı~|Su Deposu~|Türkmen~|Yaylacılar~|Yüzevler~|Zafer@|Ziraat@|Çiçekli~|Önder~|İnişdibi~|Şen Yuva~
+68829	Örnek Köyü, Avcılar Mevkii Mevkii	Avcılar Mevki=
+68827	Örnek Köyü, Okul Ve Cami Mevkii Mevkii	Okul Ve Camii=
+68828	Örnek Köyü, Sarışı Mevki Mevkii	Sarışı Mevki=
+61464	İkiztepe Mah.	Adalet~|Aşağıbahçe~|Bahçe~|Beyaz~|Cabat@|Eskicami~|Geniş~|Gülbahar~|Havaalanı@|Karabekir~|Karmate~|Kukulat~|Merdivenli~|Selvili@|Süvari~|Talbi~|Tünel@|Özgür~|İkiz~|Şekerci~
+68853	Şehitlik Köyü, Alt Mevki Mevkii	Alt Mevki=
+68854	Şehitlik Köyü, Cami Mevki Mevkii	Cami Mevki=
+68852	Şehitlik Köyü, Düzler Mevki Mevkii	Düzler Mevki=
+68855	Şehitlik Köyü, Üst Mevki Mevkii	Üst Mevki=
+68856	Şehitlik Köyü, Şentepe Mevki Mevkii	Şentepe Mevki=
+68857	Şendere Köyü	Şendere=
+68858	Şentepe Köyü	Şentepe=

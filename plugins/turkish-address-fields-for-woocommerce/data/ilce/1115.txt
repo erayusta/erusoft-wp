@@ -1,0 +1,119 @@
+173761	Acıkuyu Mah.	Acıkuyu=|Acıkuyu Küme Evler-~
+140350	Adnan Menderes Mah.	400~|401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|418~|419~|420~|421~|422~|423~|424~|425~|426~|427~|428-~|429-~|430~|431~|432~|433~|434~|435~|Abdullah Gül%|Abdullah Gül2~|Abdullah Gül3~|Abdullah Gül4~|Abdullah Gül5~|Abdullah Gül6~|Abdullah Gül7~|Abdullah Gül9~|Abdullah Gül9/1~|Alan~|Bal~|Balık~|Burak~|Burak1~|Ceylanpınar@|Ceylanpınar/1~|Coşkun-~|Deniz~|Dicle~|Emin~|Erdoğan~|Esin~|Firuze~|Firuze/1~|Gonca-~|Hilal-~|Kazım Karabekir~|Kolbudak~|Narin~|Narin1~|Narin2~|Narin3~|Narin4~|Nazım~|Necmettin Erbakan@|Oğuz~|Pınar~|Reyyan~|Saray~|Sultan~|Timur~|Toros~|Ulus~|Varna~|Yayla~|Yayla1~|Yeniyol~|Zorlu Köyü Akçakale Yolu@|Çiğdem~|Öncül=|İbrahim Gündoğan@|Şahin~|Şanlı Sokak~
+173763	Akbilek Mah.	Akbilek=|Altınlar=
+173769	Akdiken Mah.	Akdiken=|Dereli=|Tuzluca=
+173861	Akkeçi Mah.	Akkeçi=|Şanlıurfa Akçakale Yolu@
+173771	Aksahrınç Mah.	Aksahrınç=|Düzce=
+173765	Akçaköy Mah.	Akçaköy=
+173767	Akçalı Mah.	Akçalı=|Gölbaşı=
+173773	Alatlar Mah.	Alatlar=|Şanlıurfa Akçakale Yolu@
+173775	Alıncık Mah.	Alıncık=|Dağınık Evler=
+173777	Arıcan Mah.	Arıcan=
+174401	Aslanlı Mah.	Aslanlı=
+80325	Atatürk Mah.	Ahmet Bahçıvan@|Aygün~|Azim~|Cengiz~|Cengiz/1~|Duru~|Gecekondu~|Hastane~|Kaya~|Kule~|Kule/1~|Lale~|Mayın~|Mayın/2~|Mehmet Akif Ersoy@|Nizam~|Santral~|Sağlık~|Tarla~|Tepe~|Tuna~|Tuğrul~|Vatan~|Yargı~|Yıldız~|İnce~|İstasyon@|Şan~
+173935	Aydınlı Mah.	Aydınlı=|Beğendi=|Boyunsuz~
+173867	Ayranlı Mah.	Ayranlı=
+173779	Ayyıldız Mah.	Atlı Ummulkubul=|Ayyıldız=
+173863	Aşağıbeydaş Mah.	Atvan=|Aşağıbeydaş=|Elveren=|Güner=|Kavak=|Mecbura=|Yüksekova=|Şanlıurfa Akçakale Yolu@
+173847	Aşağıderen Mah.	Aşağıderen=|Yalıntaş=
+173865	Aşağıçinpolat Mah.	Aşağıçinpolat=|Obalı=
+173869	Baykuş Mah.	Baykuş=|Yakacık=|Şanlıurfa Akçakale Yolu@
+173781	Bilece Mah.	Bakacak Aşağı=|Bakacak Yukarı=|Bilece=|Koçaklar=
+173783	Bolatlar Mah.	Bolatlar=|Şanlıurfa Akçakale Yolu@
+173871	Boybeyi Mah.	Boybeyi=|Karakuş=|Kurunca=|Oymaklı 1-~
+173851	Buket Mah.	Buket=
+173835	Bulutlu Mah.	Baraç=|Bulutlu=|Ceylanharebesi=|Koçar=|Küçükyazlık=|Ulucak=|Yazlık=
+173855	Büyücek Mah.	Büyücek=
+173873	Büyüknaneli Mah.	Akyaprak=|Büyüknaneli=|Küçük Naneli=|Türkan=
+173785	Büyüktaş Mah.	Akçaköy=|Büyüktaş=|Kütüklü=
+173787	Büyüktokaç Mah.	Berdi=|Büyüktokaç=|Çobanlar=
+173789	Cevher Mah.	Atlı Ummulkubul=|Cevher=
+80326	Ceylanlı Mah.	1~|2.sanayi-~|Abdullah Gül 1~|Abdullah Gül%|Arabalı~|Ceylanlı 1 /1~|Ceylanlı 1 /11~|Ceylanlı 1 /12~|Ceylanlı 1 /13~|Ceylanlı 1 /14~|Ceylanlı 1 /15~|Ceylanlı 1 /16~|Ceylanlı 1 /17~|Ceylanlı 1 /18~|Ceylanlı 1 /19~|Ceylanlı 1 /2~|Ceylanlı 1 /20~|Ceylanlı 1 /21~|Ceylanlı 1 /22~|Ceylanlı 1 /23~|Ceylanlı 1 /24~|Ceylanlı 1 /3~|Ceylanlı 1 /4~|Ceylanlı 1 /6~|Ceylanlı 1 /8~|Ceylanlı 1~|Sanayi 1~|Sanayi~|Sanayi/ Ceylanlı 1~|İmar Yolu~
+173877	Deniz Mah.	Deniz 1=
+173879	Dibek Mah.	Cudideresi=|Dibek=|Karatepe=
+173881	Donandı Mah.	Donandı=|Geçitli=
+173883	Dorumali Mah.	Damlalı=|Dorumali=|Dorumali Yeşiltepe=|Dorumali Yeşiltepe-~|Küme Ev=|Seyitveren~|Yeşilyurt=
+173791	Düzce Mah.	Düzce=
+173885	Edebey Mah.	Duatepe=|Edebey=|Güngörmez=
+173887	Eke Mah.	Eke=
+173793	Ekinyazı Mah.	Akyıldız=|Ekinyazı=
+173889	Erdemler Mah.	Erdemler=
+173891	Erecek Mah.	Erecek=
+80327	Fatih Sultan Mehmet Mah.	100~|101~|102~|103~|104~|105~|106~|205~|Abdullah Gül%|Adalet~|Afet 1~|Afet 2~|Aycan~|Bahar~|Baki~|Berrak~|Beyazıt~|Cezaevi~|Cezaevi1~|Cihan~|Derya~|Ebubekir~|Ertuğrul~|Evren~|Fazilet~|Genç Osman~|Girne Sokak~|Gümüş~|Halis~|Huzur~|Kanarya~|Karanfil~|Kent~|Kocatepe~|Kumru~|Kütüphane~|Leylak~|Mehmet Akif Ersoy@|Melek~|Melek1~|Menekşe~|Mercan~|Mercan1~|Mimar Sinan~|Mutlu~|Pamuk/1~|Petek~|Santral~|Sayğı~|Sefa~|Selim~|Site~|Sunay~|Sur~|Sümbül~|Sıla~|Sıla1~|Tatlı~|Taşçı~|Taşçı1~|Tuna~|Yalçın~|Yazma~|Yağmur~|Zambak~|Zirve~|Çınar~|Şirin~
+80328	Fevzi Çakmak Mah.	Abdullah Gül%|Abdullah Gül1~|Atilla~|Aysel Özgür~|Bolu~|Burak~|Damla~|Dere~|Edessa~|Esenler~|Fatih~|Fatih1~|Fırat~|Gap~|Gap1~|Gülizar~|Gündoğan~|Güç~|Harran~|Hicran~|Irmak~|Kıbrıs~|Maltepe~|Meriç~|Meriç1~|Mevlana~|Murat~|Necmettin Erbakan@|Necmettin Erbakan/1~|Ordu~|Sakarya~|Sakarya Sokak~|Samsun~|Sayar~|Seyhan~|Türkmen~|Volkan~|Yahya Kemal~|Çevik~|İbrahim Gündoğan@|İzmir~
+197777	Fişenge Mah.	Fişenge=|Şanlıurfa Akçakale Yolu@
+173893	Geçittepe Mah.	Geçit Tepe-=|Geçittepe=|Huzurlu=
+173849	Gölbaşı Mah.	Gölbaşı=|Gölbaşı/1=
+173795	Gülveren Mah.	Abdullah Gül%|Akçakale Çadırkent~|Fatmakoyu=|Gülveren=|Sağlım=|İşgören=|Şahinoğlu=
+173797	Gündaş Mah.	Gündaş=|Kardeşler=|Menzil=|Tepecik=
+173799	Güneren Mah.	Güneren~
+173801	Güvenç Mah.	Ayranlı G.şeltuha=|Güvenç=|Tatlıkuyu Birhamiş=
+173895	Hacıekber Mah.	Balıca=|Hacıekber=|Çandirek=|Şanlıurfa Akçakale Yolu@
+80329	Hürriyet Mah.	15 Temmuz Şehitleri=|Ahmet Bahçıvan@|Ara~|Bahçe~|Bahçe/1~|Bahçe/2~|Camii~|Camii/1~|Cengiz~|Cumhuriyet~|D.d.y.~|Göl~|Hisar~|Hükümet~|Hürryet 1~|Ofis~|Pembe~|Serap~|Zafer~|Çeşme~|Çiçek~|İstasyon@|Şehit Er Yusuf Beylem~|Şehit Mustafa Direkli~|Şehit Polis Ferhat Avcı~
+173901	Karatepe Mah.	Aşağı Cudi Deresi=|Dibek=|Karatepe=|Karatepe1=|Salıkuyu=
+174473	Kayaca Mah.	Aslantepe=|Kayaca 1=|Kayaca=
+173943	Kayalık Mah.	Kayalık=
+197791	Kelebek Mah.	Kelebek=
+173807	Kepezli Mah.	Atlı Ummulkubul=|Kepezli Kurudere=|Kepezli=|Uzunyol=|Yarımtepe=
+173805	Keçili Mah.	Gülgelik Huveyn=|Keçili=
+173903	Koruklu Mah.	Gapeyam=|Karatepe1=|Koruklu=|Koruklu Yıldız=|Yakacık=|Şanlıurfa Akçakale Yolu@
+173907	Kurudere Mah.	Kurudere=|Köyceğiz~|Uğraklı=
+173905	Köseören Mah.	Köseören 1=|Köseören=|İkizce 1-~
+184270	Küçük Hacıekber Mah.	Küçük Hacıekber=
+173809	Kılıçlı Mah.	Kılıçlı=|Pekmezli=
+173853	Kırmıtlı Mah.	Kırmıtlı=
+173937	Mavitaş Mah.	Mavitaş=
+197789	Menzil Mah.	Menzil Yolu=
+173909	Mermer Mah.	Mermer=
+173911	Mil Mah.	Bölüklü=|Dalca=|Erkent=|Mil=|Çiçekli=
+173811	Narlıova Mah.	Küçük Tokaç=|Marastin=|Narlıova=
+173913	Nimet Mah.	Bey 1=|Erecek=|Nimet=
+173897	Nusretiye Mah.	Geçittepe=|Haktanır=|Mesudiye=|İlle=|İmamoğlu=
+173813	Ohali Mah.	Ohali=
+197781	Okaylar Mah.	Bulgu=|Esentepe=|Girne=
+173815	Onortak Mah.	Bulgu=|Demirli Muğayre=|Onortak=|Şekertepe Haleve=
+197785	Ortaderen Mah.	Aşağıderen=|Ortaderen=
+173915	Ortaören Mah.	Mil=|Obalı=|Ortaören=
+184272	Osmanlı Mah.	Kelebek 1=
+173759	Pekmezli Mah.	K.istanbul=|Karanfil 1=|Küçük Pekmezli=|Pekmezli=|Yeşiltepe=|Şanlı Zeydan=|Şeltuna=
+173819	Sakça Mah.	Coşkunlar-~|Limonlu=|Sakça=|Yüksektepe=
+173821	Salihler Mah.	Gözdeğmez Abuharmala=|Salihler=
+173823	Sevimli Mah.	Demirci=|Gülpınar=|Gültepe=|Sevimli=|Tilkili=
+173857	Seyrantepe Mah.	Mehmetli=|Seyrantepe=
+99352	Süleymanşah Mah.	Bilge~|Bulut~|Cebeci~|Ceylanpınar-@|Defne~|Dumlupınar~|Edessa~|Elmas~|Gündoğan~|Kale~|Kazım Karabekir~|Kral~|Kızılay~|Mehtap~|Necmettin Erbakan@|Okul~|Sedef~|Süleyman Şah Çıkmazı-~|Tekel~|Timurlenk~|Veteriner~|Ziya Gökalp~|Zübeyde Hanım~|Özen~|İbrahim Gündoğan@|İbrahim Gündoğan/1~|İstasyon@|Şah~|Şair Nabi~|Şair Nabi/1~|Şen~|Şimşek~
+173917	Sınırgören Mah.	Ağaçlı=|Sınırgören=
+173827	Tatlıca Mah.	Ahmet Bahçivan-@|Ahmet Bahçıvan@|Sakarya-~|Tatlıca=
+173933	Taşkınlar Mah.	Taşkınlar=
+173829	Topçu Mah.	Topçu=
+99351	Turgut Özal Mah.	200~|201~|202~|203~|204~|205~|Ahmet Bahçıvan@|Demet~|Demir~|Demir1~|Derya~|Elif~|Eser~|Evren~|Gül~|Gül1~|Güneş~|Kaya~|Kaya1~|Kocatepe~|Mehmet Akif Ersoy@|Meltem~|Meltem1~|Meltem2~|Meltem3~|Menekşe~|Nergiz~|Pamuk~|Sarsılmaz~|Sağlık~|Serap~|Tarla~|Tatlı~|Tuna~|Tunç~|Uzay~|Yörük~|Yörük1~|İnce~|İrem~|Şehit Ümit Yolcu-~
+173941	Tuzluca Mah.	Tuzluca=
+173919	Uğraklı Mah.	Uğraklı=|Şanlıurfa Akçakale Yolu@
+173831	Uğurhan Mah.	Keçili 1=|Kırmıtlı=|Uğurhan=
+173921	Uğurtaş Mah.	Balca=|Duatepe=|Uğurtaş=
+173833	Vize Mah.	Vize=|Şanlıurfa Akçakale Yolu@
+173939	Yalınlı Mah.	Yalınlı=
+173837	Yazlıca Mah.	Yazlıca=|Çömlekçi=
+173923	Yağmuralan Mah.	Işıldak=|Kalemli=|Külünce=|Yağmuralan=
+173925	Yediyol Mah.	Bahçeli=|Yediyol=
+80330	Yeni Mah.	1.sınır~|2.sınır~|3.sınır~|4.sınır~|Asır~|Ceylanpınar@|D.d.y.-=|Depo~|Destan~|Edessa~|Emirgan~|Gazi~|Gazi/1~|Gündoğan~|Hal~|Hudut~|Kazım Karabekir~|Kral~|Lise~|Necmettin Erbakan@|Postahane~|Sedir~|Selvi~|Serdar~|Susam~|Yavuz~|Yeni Bosna~|Yol~|Zübeyde Hanım~|Çağdaş~|Öncül 1~|Ülkü~|İstasyon@|Şair Nabi~|Şeker~|Şimşek~|Şimşek/1~|Şimşek/2~
+99353	Yenişehir Mah.	1.sanayi~|2.sanayi-~|3.sanayi~|300~|301~|302~|303~|304~|304/1~|305~|306~|307~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|325~|325/1~|326~|328~|4.sanayi~|5.sanayi~|9~|Aba~|Abdullah Gül%|Akasya~|Akdağ~|Akıncılar~|Atak~|Bediüzzaman Sait Nursi@|Bey~|Cennet@|Doğan~|Dumanlı Sokak~|Erbakan@|Fetih~|Haşimi~|Işık~|Kısmet~|Mega~|Mezarlık-@|Meşe~|Mimar Sinan~|Murat Hüdavenigar-@|Narlı~|Nur~|Nülifer~|Reyhan~|Sanayi~|Velioğlu~|Yurt~|Çam~|Şifa~
+173839	Yeşerti Mah.	Akbilek=|Yeşerti=|Şanlıurfa Akçakale Yolu@
+198763	Yukarı Çukurca Mah.	Yukarı Çukurca=
+173927	Yukarıbeydaş Mah.	Esendik=|Geçitli=|Göklü=|Karacurun=|Yukarıbeydaş=|İlle=|Şanlıurfa Akçakale Yolu@
+173841	Yukarıderen Mah.	Ortaderen=|Yukarıderen=
+173929	Yukarıçinpolat Mah.	Küçük İstanbul=|Yukarıçinpolat=
+173931	Yusufbey Mah.	Akkoyun=|Has=|Yusufbey=
+173843	Zenginova Mah.	Ayyıldız=|Zenginova=|Şen 1=
+173845	Zorlu Mah.	Zorlu=
+173875	Çakırlar Mah.	Çakırlar Küme Ev-~|Çakırlar=
+185378	Çokalan Mah.	Budaklı=|Çokalan=
+198761	Çukurca Mah.	Yukarı Çukurca=|Çukurca=
+185380	Çömlekçi Mah.	Oymaklı=|Çömlekçi=
+173817	Öncül Mah.	Altıntepe=|Pınarcık=|Öncül=
+173803	İkizce Mah.	İkizce=
+173899	İncedere Mah.	Nimet=|İncedere=
+140344	Şahinler Mah.	2.sanayi-~|Ceylanlı 1 /20~|Dumanlı=|Kanuni~|Sanayi~|Şahin 1=|Şahin 2=|Şahin 3=|Şahinler 1~|Şahinler 2~|Şahinler 3~|Şahinler 4~
+197779	Şahinsoylu Mah.	Ayışığı=|Bayraklı~|Bayraklı/1~
+173825	Şanlı Mah.	Şanlı=
+197787	Şefkat Mah.	Menzil Yolu=|Uyuklu=|Yönlü=
+173859	Şehitnusretbey Mah.	Çakırlar=|Şehitnusretbey=

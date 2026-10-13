@@ -1,0 +1,15 @@
+31890	Atatürk Mah.	Anamur@|Açık~|Batur@|Fatmasuyu~|Fevzi Çakmak@|Gazi~|Hal~|Karaseki@|Kaş~|Soğuksu@|Çevik~|Çırakli~|Özler~
+31892	Cumhuriyet Mah.	Atatürk@|Aynacı~|Buldurluoğlu~|Cengiz Topel@|Cumhuriyet@|D.s.i~|Göklevent~|Göktaş@|Gülnar@|Gülüm~|Halilefendi~|Hastane@|Kapız@|Karagöz~|Kumluk~|Kıbrıslılar~|Pınar~|S.çakmakoğlu@|Telefon~|Toprak~|Vezir~|Yetiş~|Yılmaz~|Çiftçiler~|Ünlü~
+182409	Duruhan Mah.	Bucak~|Gölpazarı~|Kaya~|Merkez~
+182411	Eskiyürük Mah.	Fidik~|Karatepe~|Merkez~|Murtçukuru~
+182413	Hacıbahattin Mah.	Akdam@|Arnavut~|Aslanoğlu~|Azgın~|Bulut~|Fatih Sultan~|Gözmenler~|H.cami~|Hacıbahattin 1~|Hacıbahattin@|Hacıoğlu@|Kalit~|Kamaş@|Karayel@|Köşk@|Kıbrıs@|Kıymaç~|Okul Yolu~|Solaklar~|Taşönü~|Tehneldere~|Türbe@|Tıraş~|Uzun~|Vatan~|Yansıyan~|Yavuz Selim@|Yörük~|Yüğrük~|Yıldız~|Ziya Gökalp@|Çelik~|Çetin~|Şeker~
+31893	Hürriyet Mah.	1.ortatepe~|2.ortatepe~|Akdeniz~|Aktan~|Barbaros@|Beyazevler~|Boncuk~|Bozdemir~|Cemaloğlu@|Cengiz Topel@|Hüsnü Şenel~|Kemal Ünlü~|Kuyu~|Mebuslar~|Menderes@|Osmanoğlu~|Ramazan Yılmaz~|Sahil~|Sazak~|Selviler~|Topaloğlu~|Türbe~|Tüysüzoğlu~|Yakamoz~|Yetkin~|Yıldırım@|Zeybek@|Şirin~
+182415	Karadere Mah.	Karadere~
+182417	Karaseki Mah.	Dundaşı~|Hasancık~|Hazna~|Merkez~
+31891	Merkez Mah.	Atatürk@|Aydın@|Cami~|Dörtayak~|Fener~|Gözmen@|Karaseki@|Kocabağ~|Merkez~|Nazilli~|S.çakmakoğlu@|Sudeposu@|Yurt~|Yıldırım Beyazıt@|Yılmaz~|Ünlü~|Şafak~|Şakir~|Şimşek~
+182419	Pembecik Mah.	Alibazlı~|Değirmendere~|Dona~|Ekşibey~|Gazsöğüt~|Gökçukur~|Hüsen~|Karagöl~|Karamorca~|Kaş~|Kubaşlı~|Kucum~|Sakarca~|Ziftlik~
+182421	Teknecik Mah.	Teknecik~
+31894	Yeni Mah.	Gökçel~|Kamaş@|Silifke@|Yıldız~|Ziya Gökalp@|Ötgün~|İncekum@
+140539	Yenikaş Mah.	Hasancık~|Yağrat~|Yenikaş Merkez~|Ören Düzü~
+182423	Yeniyürük Mah.	Akdam@|Kalit~|Uçar~|Yeniyörük~
+182425	Yeniyürükkaş Mah.	Yeniyürükkaş~

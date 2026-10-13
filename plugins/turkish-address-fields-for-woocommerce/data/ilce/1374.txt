@@ -1,0 +1,35 @@
+64868	Akçataş Köyü	 Köy$
+64869	Anapınar Köyü	 Köy$
+64872	Avuç Köyü	 Köy$
+64870	Aşağıbarak Köyü	 Köy$
+64871	Aşıklar Köyü	 Köy$
+60540	Bala Mah.	Atatürk%|Atkaya~|Aşık Mahsuni Şerif@|Aşık Veysel Şatıroğlu~|Balım Sultan~|Bektaş Efendi~|Cezaevi~|Esat Bozdağ~|Eski Pazar Yeri Myd.|Hacı Bektaşi Veli%|Halil Tunç~|Hanbağ=|Hastahane@|Hükümet~|Karayalçın Parkı=|Kaygusızlar Çiftliği=|Kurtuluş~|Müzisyenler~|Süreyya Sıtkı Bektaş@|Taşlı~|Ulusoy~|Velbert@|Yunus Emre~|Çilehane 2~|Çilehane@|Çiçek~|Şht.zafer Akpınarlı~
+64873	Başköy Köyü	 Köy$
+64874	Belbarak Köyü	 Köy$
+64875	Büyükburunağıl Köyü	 Köy$
+64876	Büyükkışla Köyü	 Köy$
+64879	Hasanlar Köyü	 Köy$
+64880	Hıdırlar Köyü	 Köy$
+64892	Hırkatepesidelik Köyü	 Köy$
+60543	Karaburna Köyü, Bahçelievler Mevkii	Albaşoğlu~|Atatürk~|Camii~|Hacıbektaş~|Kale~|Kanarya~|Karaburç~|Kekik~|Nevşehir~|Saray~|Sağlık~|Yonca~|Çetintürk~|Şaraphane~|Şenel~
+60544	Karaburna Köyü, Yeni Mevkii	Afetzadeler 1~|Afetzadeler 2~|Ayışığı~|Bayır~|Cumhuriyet~|Devran~|Erciyes~|Esen~|Fatih Sultan~|Gölet~|Günbaşı~|Güneş~|Hacı Bektaş~|Havuz 1~|Havuz 2~|Hilal~|Kavaklıdere~|Lale~|Menekşe~|Nergis~|Osmanlı~|Rüzgarlı~|Sağlık~|Serin Kent~|Seyran~|Sümbül~|Yahyalı~|Yamaç~|Yeşilyurt~|Yıldız~|Çamlıbel~|Çiğdem~|Örnek~|İnönü~|Şafak~
+64882	Karaburç Köyü	 Köy$
+64883	Karaova Köyü	 Köy$
+64884	Kayaaltı Köyü	 Köy$
+64885	Kayı Köyü	 Köy$
+64887	Killik Köyü	 Köy$
+64886	Kisecik Köyü	 Köy$
+64888	Köşektaş Köyü	 Köy$
+64889	Kütükçü Köyü	 Köy$
+60545	Kızılağıl Köyü, Bahçelievler Mevkii	Akoğlan~|Ateş~|Damla~|Erdoğan~|Gürol İlhan~|Güven~|Güzin~|Karanfil~|Kardelen~|Kayaaltı~|Kayaltı~|Kayseri~|Sarmaşık~|Yabangülü~|Çavuşömer Oğulları~|Çelik~|Çiftlik~|Çınar~|İpek~|İstanbul~
+60546	Kızılağıl Köyü, Cumhuriyet Mevkii	Alpaslan~|Bozkurt~|Buket~|Dalyan~|Devletbey~|Efe~|Erciyes~|Erdem~|Kubilay~|Lale~|Sevgi~|Taşkın~|Tolgahan~|Turan~|Yörük~|Zübeyir Kemelek~|Çevik~|İnayet~
+64890	Mikail Köyü	 Köy$
+64891	Sadık Köyü	 Köy$
+60541	Savat Mah.	Ahmet Taner Kışlalı~|Aloğlu=|Aşık Mahsuni Şerif@|Bakıbağ~|Bakıbağı Çiftliği=|Cemalettin Çelebi@|Cumhuriyet@|Dedebağ~|Dedebağı-1=|Dikilitaş~|Ekici~|Fevziçakmak~|Hacı Bektaşi Veli%|Kadıncık Ana~|Karahöyük~|Karakol~|Kızılöz Çiftliği=|Otmanbaba 1.~|Otmanbaba 10.~|Otmanbaba 11.~|Otmanbaba 2~|Otmanbaba 3~|Otmanbaba 4~|Otmanbaba 5~|Otmanbaba 6.~|Otmanbaba 7.~|Otmanbaba 8.~|Otmanbaba 9.~|Otmanbaba@|Salih Niyazi Baba~|Sümer~|Zemzem 1~|Zemzem 2~|Zemzem=|Çayırbağı Çiftliği=|Çelikbilek~|Çilehane@|Üçpınar~
+64893	Yenice Köyü	 Köy$
+64894	Yeniyapan Köyü	 Köy$
+64895	Yurtyeri Köyü	 Köy$
+60542	Zir Mah.	Ali Gürgür 1.~|Ali Gürgür 2~|Ali Gürgür@|Atatürk%|Avşar~|Aydoğmuş~|Aşıklar Yolu~|Babapınar Çiftliği=|Balı~|Dr.kebuter Önder~|Emin Gök~|Emniyet~|Evrim~|Güler~|Güneş~|Hacı Bektaşi Veli%|Harman~|Karanfil~|Karapınar Çiftliği=|Kocas Çiftliği=|Kutlu~|Kılıç~|Lale~|Lise=|Mescit~|Mutlu~|Okul~|Orhan~|Prf.dr.rıza Ayhan@|Pınar~|Sinema~|Sungur Çiftliği=|Sümbül~|Sümen 1~|Sümen~|Turan~|Yabanlı Çiftliği=|Çiğdem~|Özgür Zileli~|Özlem~|İsmet İnönü~|Şht.metin Babaoğlu~
+64878	Çivril Köyü	 Köy$
+64877	Çiğdem Köyü	 Köy$
+64881	İlicek Köyü	 Köy$

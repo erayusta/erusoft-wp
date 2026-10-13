@@ -1,0 +1,122 @@
+181123	Akpınar Mah.	Akpınar~|Kütüklü~
+181259	Akören Mah.	Akören=
+181375	Alagazili Mah.	Alagazili=
+181125	Alamescit Mah.	Alamescit=
+181127	Altıkesek Mah.	Altıkesek=
+181379	Arslanbeyli Mah.	Arslanbeyli=
+181381	Artmak Mah.	Artmak=
+181137	Avşarpotuklu Mah.	Avşarpotuklu=
+181263	Aygörmez Mah.	Aygörmez=
+181129	Aşağıbeyçayırı Mah.	Aşağıbeyçayırı=
+181131	Aşağıborandere Mah.	Aşağıborandere=
+181133	Aşağıkaragöz Mah.	Aşağıkaragöz=
+181135	Aşağıkızılçevlik Mah.	Aşağıkızılçevlik=
+181139	Bahçecik Mah.	Bahçecik=
+181265	Beserek Mah.	1586.~|1587.~|1588.~|1589.~|Beserek=
+181141	Büyükgümüşgün Mah.	Büyükgümüşgün=
+181143	Büyükgürleğen Mah.	Büyükgürleğen~|Küçükgürleğen~
+181145	Büyükkabaktepe Mah.	Büyükkabaktepe=
+181147	Büyükkaramanlı Mah.	Büyükkaramanlı~|Küçükkaramanlı~
+181149	Büyükkaramuklu Mah.	Büyükkaramuklu=
+181151	Büyükkömarmut Mah.	Büyükkömarmut=
+181153	Büyükpotuklu Mah.	Büyükpotuklu~|Göçmen~
+181383	Cabe Mah.	Ayvacık~|Çalıklar~
+181385	Cinahmet Mah.	Cinahmet=
+181267	Cinliören Mah.	Cinliören=
+181155	Demircili Mah.	Akpınar~|Demircili~
+181275	Demirciören Mah.	Demirciören=
+181279	Devederesi Mah.	Devederesi=
+181319	Dikilitaş Mah.	Dikilitaş=
+181395	Dilciler Mah.	Dilciler~|Karapınar~
+181397	Elmalı Mah.	Elmalı=
+181159	Emeğil Mah.	Emeğil~|Halkaçayır~
+181399	Esenköy Mah.	Esenköy=
+181401	Eskitekke Mah.	Altıparmak~|Eskitekke~
+181161	Eskiyassıpınar Mah.	Eskiyassıpınar~|Şekerpınar~
+181157	Eğrisöğüt Mah.	Eğrisöğüt=
+181163	Fakıekinciliği Mah.	Fakıekinciliği=
+181165	Gebelek Mah.	Gebelek=
+181167	Gölcük Mah.	Gölcük~|Uzunahmet~
+181403	Gültepe Mah.	Gültepe=
+42267	Gümüşgün Mah.	Altay~|Ara~|Ardıç~|Aslan Tokoğlu%|Atmaca~|Aydan~|Aydınlık~|Cengiztopel@|Cevizli~|Dadaloğlu%|Doğramacılar~|Fatih~|Gelincik~|Geçit~|Gümüşaylar%|Hapishane@|Hilal~|Hızarcılar~|Menekşe~|Oba~|Sanayi~|Sobacılar~|Taşkın~|Yeni Sanayi 1@|Yeni Sanayi 2@|Yeni Sanayi 3@|Yeni Sanayi 4@|Yeni Sanayi 5@|Yiğenoğlu~|Zümrüt~|Şht. Basri Sağır~|Şht.muhsin Gürlek@|Şht.sezer Güneş~
+42268	Güney Mah.	Aslan Tokoğlu%|Elmalı~|Güney~|Karaçay~|Karslı~|Nevruz~|Çavuşlar~|Çiftçi~|Çiğdem~|Çınarlı~|Şht.yaşar Doğan~
+181169	Halitbeyören Mah.	981.~|982.~|983.~|984.~|985.~|987.~|989.~|Halitbeyören=
+181405	Han Mah.	Han=
+181409	Hassa Mah.	Hassa=
+181407	Hasırcı Mah.	Hasırcı=
+181283	Hayriye Mah.	Hayriye=
+181321	Hilmiye Mah.	Erikçiler~|Hilmiye~
+42269	Hürriyet Mah.	77.~|78.~|79~|80.~|81.~|82.~|83.~|84.~|85.~|86.~|Alparslan Türkeş%|Aslan Tokoğlu%|Hasan Basri Önalp~|Kanal~|Kıraç~|Mehmet Akif Ersoy@|Papatya~|Prf.dr.faruk Süren@|Rasat~|Stad~|Tepedibi~|Topraklık=|Yağmur~|Yonca~|Zafer~|Çimen~|Şehit Adem Geben~|Şht. Mahmut Nayir@|Şht. Mehmet Fatih Bedir@
+181411	Kadılı Mah.	Kadılı~|Kurukavak~
+181325	Kaftangiyen Mah.	Kaftangiyen=
+181413	Kaman Mah.	Kaman=
+181173	Karaboğaz Mah.	Karaboğaz=
+181177	Karahacılı Mah.	Karahacılı=
+181329	Karahalka Mah.	Karahalka=
+181333	Karakuyu Mah.	Karakuyu=
+181289	Kavakköy Mah.	Kavakköy=
+181415	Kavlaklar Mah.	Kavlaklar~|Taşlık~
+181179	Kayaaltı Mah.	Kayaaltı~
+181417	Kayabaşı Mah.	Kayabaşı=
+42271	Kayaönü Mah.	Bayındır~|Domaniç~|Eski Hamam~|Hükümet@|Log~|Mehmet Ali Bey~|Sarraf~|Yokuş~|Yıldız~|Şelale~|Şht.volkan Yavuz~|Şht.ümit Altınışık~|Şirin~
+181117	Kaynar Mah.	1.=|2.=|3.=|452.~|Altun~|Ara~|Atatürk@|Barbaros@|Bulut~|Ceylan~|Derya~|Engin~|Eğitim~|Filiz~|Gül~|Gümüş~|Güngör~|Hilal@|Kaynar~|Koç~|Kılıç~|Lale~|Nergis~|Pınar~|Talimat~|Ticaret~|Viraj~|Yuva~|Yıldız~|Zafer@|Zümrüt~|Çelik~|Çimen~|İstiklal@|Şehit Bülent Yılmaz@|Şehit Kemal Yıldız@|Şehit Mahmut Nair@|Şehit Murat Ekinci@|Şehit Oktay Genel@
+181337	Kazancık Mah.	Kazancık=
+42272	Kerimoğlu Mah.	Cengiz Topel@|Dadaloğlu%|Keklik~|Kerimoğlu~|Şht.kenan Acılar~
+181343	Kurbağalık Mah.	Kurbağalık=
+181423	Kurttepe Mah.	Kurttepe=
+181293	Kuşçular Mah.	Kuşçular=
+181199	Köşkerli Mah.	Köşkerli=
+181203	Küçükkömarmut Mah.	Küçükkömarmut=
+181205	Küçükpotuklu Mah.	Küçükpotuklu=
+181419	Kılıçkışla Mah.	Kılıçkışla~|İğdeli~
+181183	Kılıçmehmet Mah.	Kılıçmehmet=
+181187	Kırkgeçit Mah.	Kevenağıl~|Kırkgeçit~
+181341	Kırkpınar Mah.	Kırkpınar=
+181191	Kızıldere Mah.	Azizler~|Kızıldere~|Tahtalı~
+181195	Kızılhan Mah.	Kızılhan=
+181421	Kızılören Mah.	Kızılören~|Mezgitli~|Çamlıca~
+181295	Malakköy Mah.	Malakköy=
+181209	Melikgazi Mah.	Melikgazi=
+181349	Methiye Mah.	Methiye=
+181213	Olukkaya Mah.	Olukkaya=
+181425	Oruçoğlu Mah.	Oruçoğlu=
+181299	Panlı Mah.	Panlı=
+181353	Pazarsu Mah.	Pazarsu=
+181121	Pazarören Mah.	300.~|301.~|310.~|Alimet Hoca@|Ardahan~|Atabay~|Atatürk (fatih)%|Ayvalı (fevzi Çakmak)~|Ayvalı~|Barbaros@|Cami~|Cumhuriyet@|Dere~|Derviş Bey~|Karanfil~|Kaya~|Kazım Karabekir@|Lale~|Mehmet Akif@|Menekşe~|Mevlana@|Mimar Sinan@|Okul@|Papatya~|Pınar~|Sağlık~|Toklar@|Vatan~|Yıldırım~|Zamantı@|Ziya Gökalp@|Çiğdem~|Öz~|Şht.ast.osman Yılmaz@|Şht.j.er Necmettin Keleş@|Şht.üst.teğ.kenan Acılar@
+181427	Paşalı Mah.	Hörgücük~|Paşalı~
+181217	Pulpınar Mah.	Pulpınar~|Sittiuşağı~
+181357	Saçayağı Mah.	Saçayağı=
+181429	Saçlı Mah.	Saçlı=
+181387	Serinyurt Mah.	Serinyurt=
+181221	Solaklar Mah.	Solaklar=
+181303	Söğütlü Mah.	Söğütlü=
+181307	Tahtaköprü Mah.	Tahtaköprü=
+181365	Taşlıgeçit Mah.	Taşlıgeçit=
+181223	Taşlıoğlu Mah.	Taşlıoğlu=
+181227	Taşoluk Mah.	Taşoluk=
+181311	Tersakan Mah.	Tersakan=
+181435	Tözgün Mah.	Tözgün=
+181369	Uzunpınar Mah.	Uzunpınar=
+42273	Uzunyol Mah.	Cengiz Topel@|Leylak~|Nergiz~
+181373	Yahyabey Mah.	Yahyabey=
+181437	Yarımtepe Mah.	Kötüören~|Yarımtepe~
+181229	Yağlıpınar Mah.	Yağlıpınar=
+42274	Yenicami Mah.	Alparslan Türkeş%|Atatürk@|Dedeman@|Demirciler~|Eski Hamam~|Gürünlü~|Haliçi=|Hükümet@|Kuzey~|Muammer Bey~|Saray~|Somtaş~|Tufan~|Ufuk~|Yenihamam~|Ziraat~|Çarşı İçi@|İlim~|İsmetpaşa@|Şehit İsmail Sakin~|Şht.abdullah Arslan~|Şht.bülent Yılmaz~|Şht.murat Ekinci~|Şht.osman Genel~|Şht.yusuf Asdemir~|Şirinevler~
+42275	Yeniocak Mah.	Aslan Tokoğlu%|Atatürk@|Batman~|Dedeman@|Esen~|Karslı~|Nevruz~|Çavdar~|Çiğdem~
+181439	Yeregeçen Mah.	Yeregeçen=
+181233	Yukarıbeyçayırı Mah.	Sevişler~|Yukarıbeyçayırı~
+181239	Yukarıborandere Mah.	Hanyeri~|Kütüklü~|Yukarıborandere~|Çakıllı~
+181245	Yukarıkaragöz Mah.	Salman Ovası~|Yukarıkaragöz~
+181249	Yukarıkızılçevlik Mah.	Yukarıkızılçevlik=|Çakmaklı~
+181253	Yusuflar Mah.	Yusuflar=
+181389	Çakılkaya Mah.	Çakılkaya=
+181391	Çaybaşı Mah.	Çaybaşı=
+181271	Çukuryurt Mah.	Çukuryurt=
+181393	Çördüklü Mah.	Kötüören~|Çördüklü~
+181315	Örenşehir Bucak Merkezi Mah.	Örenşehir Bucak Merkezi=
+181371	Üçpınar Mah.	Üçpınar=
+181285	İnliören Mah.	İnliören=
+42270	İnönü Mah.	Alparslan Türkeş%|Beştepe@|Enerji~|Eren~|Evren~|Eylül~|Gök~|Gül~|Karanfil@|Kubilay~|Mızrak~|Seçkin~|Tepe~|Çamlıca~|İsmet Paşa@|Şht.necmettin Keleş~|Şht.osman Yılmaz~|Şht.salih Akkurt~|Şirin~
+181171	İğdelipayaslı Mah.	Kırımuşağı~|İğdelipayaslı~
+181431	Şabanlı Mah.	Şabanlı=
+181361	Şerefiye Mah.	Şerefiye=|Şht. Veli Karaçay~

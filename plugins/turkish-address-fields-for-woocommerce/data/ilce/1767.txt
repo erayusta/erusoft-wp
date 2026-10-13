@@ -1,0 +1,31 @@
+90149	Ahmet Yesevi Mah.	15 Temmuz~|Abbasoğlu~|Acısu~|Adnan Menderes~|Araklı~|Aydınkent=|Beyzami Zengin~|Buhara~|Canan Sertoğlu~|Dedekorkut=|Dumlu~|Evliyalar=|F.sultan Mehmet~|Hacı Eşref~|Hacı Osman~|Irmak~|Levent=|Mimar Sinan~|Nebioğlu~|Necmettin Erbakan~|Nene Hatun~|Osmanlı~|Ronza~|Saatçi~|Sofuoğlu~|Tepebaşı=|Topdağı=|Uzun~|Y. Emre~|Yayla~|Yaşardoğu~|Zeytindalı~|Çaykara 1.~|Çaykara 2.~|Çaykara 3.~|Çaykara 4.~|Çaykara 5.~|Çaykara 6.~|Çaykara 7.~|Çaykara@|İpek~|Şehit Oktay~
+92690	Akbulut Köyü	Akbulut=|Çaykara@
+92691	Alaca Köyü	Alaca=|Menge Yaylası=
+90153	Aydıntepe Yaylası Mah.	Aydıntepe Yaylası=
+92692	Aşağıkırzı Köyü	Aşağıkırzı=
+92693	Başpınar Köyü	Başpınar=
+92697	Dumlu Köyü	Dumlu=|Dumlu Yaylası=|Seydiyakup Yaylası=|Çaykara@
+92698	Erikdibi Köyü	Erikdibi=|Erikdibi Yaylası=|Çaykara@
+92700	Gümüşdamla Köyü, Gümüşdamla Yayla Evleri	Gümüşdamla=
+92701	Gümüşdamla Köyü, Koşmer Yayla Evleri	Koşmer=
+92699	Gümüşdamla Köyü, Merkez Mevkii	Gümüşdamla Merkez=
+92702	Günbuldu Köyü	Günbuldu=
+90150	Hacı Ali Efendi Mah.	Abbasoğlu~|Adnan Menderes~|Atatürk@|Beşbaşlı~|Değirmendere~|Dumanlı~|F.yılmaz Çakır~|Fehim Bostancı~|Göller~|Güzin=|Hatip~|Lise~|Okul~|Oğuz~|Sofuoğlu~|Susuzlar=|Terzioğlu~|Ufuk=|Vadi=|Yıldırım~|Yıldız~|Zafer~|Ö. Halis Demir~|İmamlı~|İğdeler~
+90151	Kale Mah.	A. Türkeş~|Abbasoğlu~|Abdul Hamit Han~|Ahmet Günay~|Araklı~|Arapoğlu~|Atatürk@|Bayburt@|Bekir Çebioğlu~|Bekiroğlu~|Cihan~|Cumhuriyet Myd.|Dumlu~|Emri Arslan~|Fehim Bostancı~|Florya=|Gazi~|Gelincik~|Güneş~|Güngören~|Hacı Hasan~|Halit Şentürk~|Hoca Hayrettin~|Hoca Hüsnü~|Hurşitağa~|Kale Yamaç~|Karanfil=|Kardeş~|Kemer=|Lale~|Leylak~|Mahmut Oltan Sungurlu@|Mehmetçik~|Menekşe~|Mevlana~|Nehir=|Pınar~|Seyran=|Sofuoğlu~|Sulh~|Süleymanbey~|Sümbül=|Topaloğlu~|Trabzon@|Turgut Özal~|Y. Sultan Selim~|Yalvaç~|Yağmur~|Yaşardoğu~|Yeşilova@|Yurt~|Zeytindalı~|Çaykara@|Çayır~|Çiftlik=|Çiğdem~|Şahap Kavcıoğlu~
+92704	Kavlatan Köyü	Kavlatan=|Kavlatan Yayla=
+92705	Kılıçkaya Köyü, Merkez Mevkii	Kılıçkaya=|Çaykara@
+92706	Kılıçkaya Köyü, Çemçül Yayla Yayla Evleri	Çaykara@|Çemçül Yayla 1=|Çemçül Yayla=
+92707	Pınargözü Köyü	Pınargözü=
+92709	Sorkunlu Köyü	Aşağı Mezra=|Karakaya Yaylası=|Somarova Yaylası=|Sorkunlu=|Tornavi Yaylası=|Yukarı Mezra=|Çavdar Yaylası=|Çiçekli Yaylası=
+92710	Suludere Köyü	Akkoyun Yaylası=|Solgari Yaylası=|Suludere=
+92708	Sırataşlar Köyü	Sırataşlar=|Sırataşlar Yaylası=|Çaykara@
+90152	Yakudiye Mah.	Arapoğlu~|Atatürk@|Bayburt@|Başak~|Beşbaşlı~|Bülbül=|Cevdet Birgül~|Değirmendere~|Dışziyareti~|Gökkuşağı=|Günalan=|Hilal=|Hürriyet@|Kızıllar=|Lise~|Manolya=|Molla Halil~|Nergis~|Okumuşlar~|Park~|Rüzgarlı~|Sağlık Ocağı@|Selvi=|Uğurlu~|Yeni~|Çayır~|Çağlayan=|Çelik~|Çınarlı=|İshakoğlu@|İstiklal@|İğdeler~|Şafak=
+92712	Yanoba Köyü	Yanoba=
+92713	Yapracık Köyü	Yapracık=
+92714	Yazlık Köyü	Yazlık=|Şalcılar=
+92715	Yukarıkırzı Köyü	Yukarıkırzı=
+92694	Çatıksu Köyü	Çatıksu=
+92695	Çayırköprü Köyü	Çayırköprü=
+92696	Çiğdemlik Köyü	Çaykara@|Çiğdemlik=|Çiğdemlik Yaylası=
+92703	İncili Köyü	İncili=
+92711	Şalcılar Köyü	Şalcılar=

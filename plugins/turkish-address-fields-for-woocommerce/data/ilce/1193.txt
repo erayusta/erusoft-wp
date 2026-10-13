@@ -1,0 +1,231 @@
+15952	Akdurmuş Köyü	Akdurmus=|Akdurmuş=
+15950	Akdurmuş Köyü, Dikme Mezrası	Dikme=
+15951	Akdurmuş Köyü, Gayt Mezrası	Gayt=
+15949	Akdurmuş Köyü, Valirek Mezrası	Valirek=
+16044	Alatepe Köyü	Alatepe=
+15954	Alibir Köyü	Alibir=
+15955	Altınışık Köyü	Altınışık=
+15956	Ardıçtepe Köyü	Ardıçtepe=
+15958	Ardıçtepe Köyü, Ardıçtepeosb Mevkii	1 Nolu@|1 Nolu/1~|2 Nolu@|2 Nolu/1~|3 Nolu@|4 Nolu@|5 Nolu@|5 Nolu/1~|6~
+15957	Ardıçtepe Köyü, Yukarı Kemalan Mezrası	Yukarı Kemalan=
+16094	Arıcılar Köyü, Kork Mevkii	Kork=
+16093	Arıcılar Köyü, Merkez Mevkii	Arıcılar=
+16095	Arıcılar Köyü, Türkan Mevkii	Türkan=
+16033	Az Köyü	Az=
+16042	Ağaçeli Köyü, Merkez Mevkii	Ağaçeli=|Ağaçeli/1~|Ağaçeli/10~|Ağaçeli/2~|Ağaçeli/3~|Ağaçeli/4~|Ağaçeli/5~|Ağaçeli/6~|Ağaçeli/7~|Ağaçeli/8~|Ağaçeli/9~|Bingöl Muş@
+16043	Ağaçeli Köyü, Y.ağaçeli Mevkii	Y.ağaçeli=
+15948	Ağaçyolu Köyü	Ağaçyolu=
+15962	Aşağıakpınar Köyü, Ali Mezrası Mevkii	Ali Mezrası=
+15963	Aşağıakpınar Köyü, Celal Mezrası	Celal=
+15961	Aşağıakpınar Köyü, Eski Köy Mevkii	Eski Köy=|Eski Köy/1~|Eski Köy/10~|Eski Köy/2~|Eski Köy/4~|Eski Köy/5~|Eski Köy/6~|Eski Köy/7~|Eski Köy/8~|Eski Köy/9~
+15960	Aşağıakpınar Köyü, Merkez Mevkii	Aşağı Akpınar=
+15959	Aşağıakpınar Köyü, Yeni Yerleşim Mevkii	Yeni Yerleşim=
+15964	Aşağıköy Köyü	Aşağıköy=
+16122	Bahçeli Köyü	Bahçeli=
+10677	Bahçelievler Mah.	Akarsu~|Akman~|Akpınar~|Ardıç~|Arı~|Bahçe~|Cumhuriyet@|Doğan~|Eski Saray@|Evliya~|Fuzuli@|Genç@|Gülistan~|Güneşli~|Güvercin~|Hatice Belgin@|Hilmi Elçi@|Hürriyet@|Işıl~|Kardeşler~|Kartal~|Kelebek~|Kiraz~|Moda~|Musyan~|Nergiz~|Selahattin Kaya@|Selamet@|Sokullu~|Sıla~|Yağmur~|Yaşam~|Yeni@|Çayırlı~|Çınar~|Şirin~
+15965	Balpınar Köyü	Balpınar=
+200791	Balıklıçay Köyü, Hasanova Mezrası	Hasanova=
+16096	Balıklıçay Köyü, Merkez Mevkii	Balıklıçay=
+16097	Balıklıçay Köyü, Ünlüce Mezrası	Ünlüce=
+200793	Balıklıçay Köyü, Şeyhhasan Mevkii	Şeyhhasan=
+15966	Bilaloğlu Köyü, Aşağı Mevkii	Aşağı=
+15967	Bilaloğlu Köyü, Yukarı Mevkii	Yukarı=
+15968	Büyüktekören Köyü	Büyüktekören=|Büyüktekören/1~|Büyüktekören/2~|Büyüktekören/3~|Büyüktekören/4~|Büyüktekören/5~|Büyüktekören/6~|Büyüktekören/7~|Büyüktekören/8~
+16064	Dallıtepe Köyü, Göl Mezrası	Göl=
+16063	Dallıtepe Köyü, Merkez Mevkii	Dallıtepe=|Dallıtepe/1~|Dallıtepe/2~|Dallıtepe/3~|Dallıtepe/4~|Dallıtepe/5~|Dallıtepe/6~
+15983	Dikköy Köyü	Dikköy=|Dikköy/1~|Dikköy/10~|Dikköy/11~|Dikköy/12~|Dikköy/13~|Dikköy/14~|Dikköy/15~|Dikköy/16~|Dikköy/17~|Dikköy/18~|Dikköy/19~|Dikköy/2~|Dikköy/20~|Dikköy/21~|Dikköy/23~|Dikköy/24~|Dikköy/3~|Dikköy/4~|Dikköy/5~|Dikköy/6~|Dikköy/7~|Dikköy/8~|Dikköy/9~
+15984	Dikme Köyü, Merkez Mevkii	Dikme=|Dikme/1~|Dikme/2~|Dikme/3~|Dikme/4~|Dikme/5~|Dikme/6~|Dikme/7~
+15985	Dikme Köyü, Ovacık Mezrası	Ovacık=
+15986	Direkli Köyü	Direkli=
+16123	Dişbudak Köyü	Dişbudak=|Dişbudak/1~
+15953	Dügernan Köyü	Dügernan=
+15987	Düzyayla Köyü, Merkez Mevkii	Düzyayla=
+15988	Düzyayla Köyü, Yeni Yerleşim Mevkii	Yeni Yerleşim=
+15990	Ekinyolu Köyü, Beyaztoprak Mezrası	Beyaz Toprak=
+15991	Ekinyolu Köyü, Köprübaşı Mezrası	Bingöl Muş@|Köprübaşı=|Köprübaşı/1~|Köprübaşı/10~|Köprübaşı/11~|Köprübaşı/12~|Köprübaşı/14~|Köprübaşı/15~|Köprübaşı/16~|Köprübaşı/17~|Köprübaşı/19~|Köprübaşı/2~|Köprübaşı/20~|Köprübaşı/21~|Köprübaşı/22~|Köprübaşı/24~|Köprübaşı/25~|Köprübaşı/26~|Köprübaşı/27=|Köprübaşı/28~|Köprübaşı/3~|Köprübaşı/4~|Köprübaşı/5~|Köprübaşı/6~|Köprübaşı/7~|Köprübaşı/8~|Köprübaşı/9~
+15989	Ekinyolu Köyü, Merkez Mevkii	Bingöl Muş%|Ekinyolu=|Ekinyolu/1~|Ekinyolu/2~|Ekinyolu/3~|Ekinyolu/4~|Ekinyolu/5~|Ekinyolu/6~|Ekinyolu/7~|Ekinyolu/8~|Ekinyolu/9~
+140196	Ekinyolu Köyü, Merkez Mücavir Mevkii	1028.@|Merkez Mucavir=
+16068	Elmalı Köyü, Atçayır Mevkii	Atçayır=
+16066	Elmalı Köyü, Aşağı Mevkii	Aşağı=|Aşağı/1~|Aşağı/10~|Aşağı/11=|Aşağı/12=|Aşağı/2~|Aşağı/3~|Aşağı/4~|Aşağı/5~|Aşağı/6~|Aşağı/7~|Aşağı/8~|Aşağı/9~
+16067	Elmalı Köyü, Ler Mevkii	Ler=
+16065	Elmalı Köyü, Yukarı Mevkii	Yukarı=
+16014	Emtağ Köyü, Bani Mezrası	Bani=|Bani/1~|Bani/10~|Bani/2~|Bani/3~|Bani/4~|Bani/5~|Bani/6~|Bani/7~|Bani/8~|Bani/9~
+16013	Emtağ Köyü, Merkez Mevkii	Emtağ=
+16131	Erdemli Köyü	Erdemli=
+16124	Erentepe Köyü	Erentepe=|Erentepe/1~|Erentepe/10~|Erentepe/11~|Erentepe/12~|Erentepe/2~|Erentepe/3~|Erentepe/4~|Erentepe/5~|Erentepe/6~|Erentepe/7~|Erentepe/8~|Erentepe/9~
+15992	Garip Köyü	Garip=
+16125	Gökdere Köyü, Hartını Mevkii	Hartını=
+16126	Gökdere Köyü, Lıncık Mevkii	Lıncık=
+16127	Gökdere Köyü, Merkez Mevkii	Gökdere=|Gökdere/1~|Gökdere/10~|Gökdere/11~|Gökdere/12~|Gökdere/13~|Gökdere/14~|Gökdere/15~|Gökdere/16~|Gökdere/17~|Gökdere/18~|Gökdere/19~|Gökdere/2~|Gökdere/20~|Gökdere/21~|Gökdere/22~|Gökdere/3~|Gökdere/4~|Gökdere/7~|Gökdere/8~|Gökdere/9~
+15993	Gökçekanat Köyü	Gökçekanat=
+16070	Gökçeli Köyü, Dalsi Mezrası	Dalsi=
+16072	Gökçeli Köyü, Hevir Mezrası	Hevir=
+16073	Gökçeli Köyü, Merkez Mevkii	Gökçeli=
+16069	Gökçeli Köyü, Sofyan Mezrası	Sofyan=
+16071	Gökçeli Köyü, Şenlik Mezrası	Şenlik=
+15995	Göltepesi Köyü, Eski Yerleşim Mevkii	Eskiyerleşim=
+15997	Göltepesi Köyü, Havsal Mezrası	Eskiyerleşim1=|Havsal=
+15996	Göltepesi Köyü, Merkez Mevkii	Göltepesi=
+15994	Göltepesi Köyü, Yayla Evleri Yayla Evleri	Yayla Evleri=
+15999	Gözeler Köyü, 71 Deprem Mevkii	71 Deprem=
+15998	Gözeler Köyü, Merkez Mevkii	Gözeler=
+16074	Gözer Köyü	Gözer=
+140194	Gözer Köyü, Gözer Mücavir Mevkii	1028.@|Gözer Mücavir=
+16129	Gümüşlü Köyü, Evciler Mezrası	Evciler=
+16128	Gümüşlü Köyü, Merkez Mevkii	Gümüşlü=
+16098	Güngören Köyü	Güngören=
+16099	Güngören Köyü, Taş Mezrası	Taş=
+16130	Gürpınar Köyü	Gürpınar=
+16000	Güveçli Köyü	Bıngöl Genç%|Güveçli=|Güveçli Mücavir=|Güveçli/1~|Güveçli/10~|Güveçli/11~|Güveçli/12~|Güveçli/14~|Güveçli/15~|Güveçli/16~|Güveçli/17~|Güveçli/19=|Güveçli/2~|Güveçli/20~|Güveçli/21~|Güveçli/22~|Güveçli/23~|Güveçli/3~|Güveçli/32~|Güveçli/4~|Güveçli/5~|Güveçli/6~|Güveçli/7~|Güveçli/8~|Güveçli/9~|Güveçli13a~
+16001	Haziran Köyü	Haziran=
+10689	Ilıcalar Beldesi, Ilıca Mah.	Akasya~|Akasya/1~|Bahar~|Eğitim@|Eğitim/1@|Filiz~|Filiz/1~|Gazi~|Gazi/1~|Kaplıca@|Kaplıca/1~|Kaplıca/2~|Kaplıca/3~|Kaplıca/4=|Karanfil~|Kartal~|Menekşe~|Menekşe/1~|Menekşe/2~|Tepe~|Tepe/1~|Tepe/3~|Tepe/4~|Tepe/5~|Tepe/6~|Yokuş~|Yokuş/1~|Yokuş/2~|Çıkmaz~
+10691	Ilıcalar Beldesi, Kamışlı Mah.	Adalet~|Adalet/1~|Adalet/2~|Adalet/3~|Başak~|Heyelan=|Kamışlı/1@|Poyraz=|Poyraz/1=|Sevgi~|Sevgi/1~|Yolaltı=|Yolaltı/1~|Yolaltı/2~|Şükran@|Şükran/1~
+10692	Ilıcalar Beldesi, Kılıçlı Mah.	Kılıçaslan=|Kılıçaslan/1=
+10693	Ilıcalar Beldesi, Uzundere Mah.	Erzurum@|Erzurum/1~|Erzurum/2~|Erzurum/3~|Erzurum/4~|Erzurum/5~|Erzurum/6~|Hayat~|Hayat/1~|Komşu=|Komşu/1=|Kültür=|Sarmaşık~|Sarmaşık/1~|Yağmur~
+10694	Ilıcalar Beldesi, Çay Mah.	Bahçe~|Bahçe/1~|Bahçe/2~|Kamışlı/1@|Selamet@
+10690	Ilıcalar Beldesi, İçpınar Mah.	Aydınlık~|Aydınlık/1~|Aydınlık/2~|Bılınmeyen24~|Cami@|Cami/1~|Cami/2~|Dağınık=|Huzur@|Huzur/1~|Huzur/2~|Huzur/3~|Laderesi=|Menekşe~|Menekşe1~|Okul~|Okul/2~|Okul1~|İçpınar/1=
+16006	Kardeşler Köyü, Hevsel Mevkii	Hevsel=
+16004	Kardeşler Köyü, Merkez Mevkii	Beyaz Toprak=|Bingöl Muş@|Kardeşler=|Kardeşler/1~|Kardeşler/2~|Kardeşler/3~|Kardeşler/4~|Kardeşler/5~|Kardeşler/6~|Kardeşler/7=
+16005	Kardeşler Köyü, Yedievler Mevkii	Bingöl Muş@|Yedievler=
+16009	Kartal Köyü, Batı Mevkii	Batı=
+16010	Kartal Köyü, Eski Köy Mevkii	Eski Köy=
+16008	Kartal Köyü, Karşı Mevkii	Karşı=
+16007	Kartal Köyü, Merkez Mevkii	Kartal=
+10681	Karşıyaka Mah.	72.~|Dağlar@|Eski Karşıyaka@|Ferrah@|Hatice Belgin@|Hikmet Tekin%|Kandil~|Kübra~|Stat~|Toprak~|Vali Konağı@|Zeki Ergezen%|Çapakçur Viyadüğü%|İbni Sina@|Şark~
+16015	Kumgeçit Köyü	Kumgeçit=|Kumgeçit/1~|Kumgeçit/10~|Kumgeçit/11~|Kumgeçit/12~|Kumgeçit/13~|Kumgeçit/14~|Kumgeçit/15~|Kumgeçit/16~|Kumgeçit/17~|Kumgeçit/2~|Kumgeçit/3~|Kumgeçit/4~|Kumgeçit/5~|Kumgeçit/6~|Kumgeçit/7~|Kumgeçit/8~|Kumgeçit/9~
+16100	Kurtuluş Köyü	Kurtuluş=
+16016	Kuruca Köyü	Kuruca=
+16017	Kurudere Köyü	Kurudere=|Kurudere Mücavır=|Kurudere/1~|Kurudere/10~|Kurudere/11~|Kurudere/12~|Kurudere/13~|Kurudere/2~|Kurudere/3~|Kurudere/4~|Kurudere/5~|Kurudere/6~|Kurudere/7~|Kurudere/8~|Kurudere/9~
+196525	Kurudere Köyü, Kamışlı Mevkii	Kamışli=
+16040	Kuşburnu Köyü, Cevizli Mevkii	Cevizli=
+16041	Kuşburnu Köyü, Merkez Mevkii	Kuşburnu=
+16039	Kuşburnu Köyü, Çayırlı Mevkii	Çayırlı=
+16101	Kuşkondu Köyü	Kuşkondu=
+16075	Köklü Köyü	Köklü=|Köklü/1~|Köklü/2~|Köklü/3~|Köklü/4~|Köklü/5~
+10682	Kültür Mah.	12.@|201.@|202.~|203.~|204.~|205.~|206.~|Aftor=|Aftor İnalı%|Akar~|Alparslan@|Asmakaya~|Aydın~|Barış~|Bağdüzü@|Belediye Meclis Üyesi Ahmet Kaya@|Bingöl Genç%|Cemal Elçi@|Deniz~|Dicle@|Dilek~|Elmas~|Emel~|Emirhan~|Ensar~|Esen@|Eser~|Göynük~|Güler~|Güven~|Hakkı Artukarslan@|Halil Timur@|K. Karabekir@|Kanuni~|Karasu@|Koza~|Koç~|Koçak~|Kurtuluş@|Köknar~|Mazlum~|Melek~|Meneviş~|Mutlu~|Münevver~|Namlı~|Oğuzhan@|Pamuk~|Sena~|Sümbül~|Tekel@|Teknik~|Vefa~|Yasemin~|Yunus Emre~|Yurtsever~|Zeka~|Çamlı~|Çapakçur Viyadüğü%|Çiçekli~|Özgür~|İlim~|İmar~|İstemihan~|Şahin~|Şair Eşref@|Şamdan~|Şanlı~
+16020	Küçüktekören Köyü, Aşağı Zeynep Mezrası	Aşağı Zeynep=
+16018	Küçüktekören Köyü, Merkez Mevkii	Küçük Tekören=
+16019	Küçüktekören Köyü, Yukarı Zeynep Mezrası	Yukarı Zeynep=
+16011	Kılçadır Köyü	Kılçadır=
+16012	Kılçadır Köyü, Özlüce Mezrası	Özlüce=
+16132	Kıran Köyü	Kıran=
+16133	Kıran Köyü, Aşağı Paymerk Mezrası	Aşağı Paymerk=
+16134	Kıran Köyü, Yukarı Paymerk Mezrası	Yukarı Paymerk=
+10683	Mirzan Mah.	Abdullah Bazencir@|Akkoyunlu@|Asayiş~|Aslan~|Başarı~|Berat~|Cevher~|Dikmen@|Dost~|Dumlupınar~|Elif~|Fazilet~|Fuzuli@|Gonca~|Gülveren~|Gümüş~|Harman~|Hürriyet@|Ihlamur~|Karaca~|Kartopu~|Kavaklı~|Kestane~|Kuğu~|Lale~|Martı~|Menekşe~|Merhamet~|Mihriban~|Neşe~|Nilüfer~|Palmiye~|Rüzgarlı~|Sakarya~|Sedef~|Tepe~|Vahdet~|Yadigar~|Yaprak~|Yasir~|Yayladere~|Yıldırım@|Çalıkuşu~|Çukurca~|Çıra~
+16135	Olukpınar Köyü	Olukpınar=
+16021	Ormanardı Köyü	Bıngöl Genç%|Ormanardı=|Ormanardı Mücavir=|Ormanardı/1~|Ormanardı/2~|Ormanardı/3~|Ormanardı/4~|Ormanardı/5~|Ormanardı/6~
+16022	Ortaköy Köyü	Ortaköy=
+16080	Ortaçanak Köyü, Elma Mevkii	Elma=
+16081	Ortaçanak Köyü, Gevir Mevkii	Gevir=
+16079	Ortaçanak Köyü, Hezaz Mevkii	Hezaz=
+16084	Ortaçanak Köyü, Hezaz Yayla Evleri Yayla Evleri	Hezaz Yayla Evleri=
+16082	Ortaçanak Köyü, Hırtık Yayla Evleri	Hırtık=
+16076	Ortaçanak Köyü, Merkez Mevkii	Ortaçanak=
+16078	Ortaçanak Köyü, Samanlı Mezrası	Samanlı=
+16077	Ortaçanak Köyü, Subaşı Mezrası	Subaşı=
+16083	Ortaçanak Köyü, Tırşınek Yayla Evleri	Tırşınek=
+16103	Oğuldere Köyü	Oğuldere=|Oğuldere/1~|Oğuldere/2~|Oğuldere/3~|Oğuldere/4~|Oğuldere/5~|Oğuldere/6~|Oğuldere/7~
+16102	Oğuldere Köyü, Kilsek Mezrası	Kilsek=
+10685	Recep Tayyip Erdoğan Mah.	1.~|10.~|14.~|15.~|1509.@|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.~|30.~|4.~|5.~|6.~|7.~|8.~|Abdulkadir Konukoğlu@|Ali Coşkun@|Aziz Yıldırım@|Bedri Tuğ@|Dr. Cemal Duzcu~|Emek@|Güneş~|Kale@|Karanfil~|Kardelen@|Kızılay@|Necmettin Erbakan@|Palamut@|Rıfat Hisarcıklıoğlu@|Veysel Aksoy~|Yaylalar@|Çağla Arin@|Üniversite@|Şükrü Yılmaz@
+10702	Sancak Beldesi, Akbudak Mah.	101~|102~|Akbudak@
+10695	Sancak Beldesi, Büyükbaşköy Mah.	201~|202~|205~|206~|208~|209~|210~|211~|212~|213~|Büyükbaşköy@
+10697	Sancak Beldesi, Hoşkar Mah.	401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|418~|419~|420~|422~|423~|Cumhuriyet@|Vatan@
+10698	Sancak Beldesi, Karapınar Mah.	105~|501~|502~|503~|504~|505~|506~|507~|508~|Karapınar@
+10699	Sancak Beldesi, Küçükbaşköy Mah.	601~|602~|604~|Küçükbaş Köy@
+10700	Sancak Beldesi, Sarıgümüş Mah.	701~|702~|703~|704~|705~|706~|707~|Sarıgümüş@
+10701	Sancak Beldesi, Yeşilova Mah.	801~|802~|803~|804~|806~|Yeşilova@
+10696	Sancak Beldesi, Çimenli Mah.	.~|301~|302~|304~|305~|Çimenli@
+16026	Sancaklı Köyü, Konak-dereygazan Mezrası	Konak Dereygazan=
+16023	Sancaklı Köyü, Merkez Mevkii	Sancaklı=
+16024	Sancaklı Köyü, Çallar Mezrası	Çallar=
+16025	Sancaklı Köyü, Çukurcak Mezrası	Çukurcak=
+10684	Saray Mah.	91.sokak~|93.~|94.~|96.~|Aftor İnalı%|Bayındır@|Bingöl Muş%|Cami~|Elma~|Gayret~|Hasan Basri@|Hatunlar~|Huzur~|Karanfil~|Mekan~|Sağlık@|Seyran~|Tepebaşı@|Teyfik Turan@|Umut~|Yeni Başak~|Zambak~|Çapakçur@|Çapakçur Viyadüğü%|Özlem~|İnanç~|Şifa~|Şirince~
+16031	Sarıçiçek Köyü	Sarıçiçek=|Sarıçiçek/1~|Sarıçiçek/10~|Sarıçiçek/11~|Sarıçiçek/12~|Sarıçiçek/13~|Sarıçiçek/14~|Sarıçiçek/15~|Sarıçiçek/16~|Sarıçiçek/2~|Sarıçiçek/3~|Sarıçiçek/4~|Sarıçiçek/5~|Sarıçiçek/6~|Sarıçiçek/7~|Sarıçiçek/8~|Sarıçiçek/9~
+16030	Sarıçiçek Köyü, Germik Mezrası	Germik=
+16028	Sarıçiçek Köyü, Hacıçayır Mezrası	Hacıçayır=|Hacıçayır/1~|Hacıçayır/10~|Hacıçayır/11~|Hacıçayır/12~|Hacıçayır/13~|Hacıçayır/14~|Hacıçayır/15~|Hacıçayır/16~|Hacıçayır/2~|Hacıçayır/3~|Hacıçayır/4~|Hacıçayır/5~|Hacıçayır/6~|Hacıçayır/7~|Hacıçayır/8~|Hacıçayır/9~
+16029	Sarıçiçek Köyü, Kantar Mezrası	Bingöl Muş@|Kantar=|Kantar/1~|Kantar/11~|Kantar/12~|Kantar/13~|Kantar/14~|Kantar/15~|Kantar/16~|Kantar/17~|Kantar/18~|Kantar/19~|Kantar/2~|Kantar/20~|Kantar/21~|Kantar/22~|Kantar/23~|Kantar/24~|Kantar/25~|Kantar/26~|Kantar/27~|Kantar/3~|Kantar/4~|Kantar/5~|Kantar/6~|Kantar/7~|Kantar/8~|Kantar/9~
+140328	Selahaddin-i Eyyubi Mah.	1500.@|1501.~|1502.~|1503.@|1504.@|1505@|1506.~|1507.~|1508.@|1509.@|1510.@|1511.@|1512.@|1513.@|1514.~|1515.~|1516.~|1517.@|1518.@|1519.~|1520.~|Beyazgül@|Bingöl Sancak Yolu@|Buket~|Büklüm@|Kırçiçeği~|Palamut@|Papatya~|Serhat~|Zeki Ergezen%|Çağrı~|Üniversite@|Şafak~
+10680	Simani Mah.	1001.~|1002.~|1003.~|1004.~|1005.~|1006.~|1007.~|1008.~|1009.~|1010.~|1011.~|1012.~|1013.~|1014.~|1015.@|1016.@|1017.~|1018.~|1019.~|1020.~|1021.~|1022.~|1023.@|1024.~|1025.@|1026~|1027.~|1028.@|1029.~|1030.~|1031.~|1032.~|1033.~|1034.~|1035.~|1036.~|1037.~|1038.~|1039.~|1040.~|1041.~|1042.~|1043.~|1044.~|1045.~|1046.@|1047.~|1048.~|1049.~|1050.~|1051.~|1052.~|1053.~|1054.~|1055.~|1056.~|1057.~|1058.~|1059.~|1060.~|1061.~|1062.~|1063.~|1064.~|1065.~|1066.~|1067.~|1068~|1069.~|1070.~|1071.~|1072.~|1073.~|1074.~|1075.~|1076.~|1077.~|1078.~|1079.~|1080.~|1081.~|1082.~|1083.~|1084.~|1085.~|1086.~|1087.~|1088.~|1089.~|1090.~|1091.~|1092.~|1093.~|1094.~|1095.~|1096.~|1097.@|1098.@|1099.@|175.~|177.~|179.~|181.~|183.~|185.~|187.~|189.~|Ahşap~|Battalgazi@|Bayram~|Beroj=|Bingöl Muş%|Burak~|Defne~|Destan~|Değirmen~|Dilan~|Emre~|Enerji~|Eski Yekmal@|Fidan~|Gözer Mücavir=|Gülbahar~|Gün~|Güneşin Doğuşu~|Kemer~|Koşun=|Mermer~|Mesnevi@|Mezarlık~|Meşale~|Meşe~|Morgül~|Mısra~|Nazlı@|Orkide~|Pınar~|Sait Aymaz@|Sanat~|Sanayi~|Sema~|Sergi~|Servet~|Simani~|Söğütlü~|Takdir~|Tarım~|Ufuk~|Ustalık~|Veysel Karani@|Yenigün~|Çamlıca~|Çağlayan@|Çıraklık~|İhlas~|İrem~|İstikbal~|Şelale~|Şilan~
+16107	Sudüğünü Köyü, Cami Mevkii	Camii=
+16104	Sudüğünü Köyü, Elmaçayır Mezrası	Elmaçayır=
+16105	Sudüğünü Köyü, Esenler Mezrası	Esenler=
+16109	Sudüğünü Köyü, Eskiköy Mevkii	Eskiköy=
+16106	Sudüğünü Köyü, Haroçayırı Mezrası	Haroçayırı=
+16108	Sudüğünü Köyü, Ortaokul Mevkii	Ortaokul=
+16136	Suvaran Köyü, Aşağı Mevkii	Aşağı=
+16137	Suvaran Köyü, Yukarı Mevkii	Yukarı=
+16110	Sütgölü Köyü, Merkez Mevkii	Sütgölü=
+16111	Sütgölü Köyü, Şeref Mevkii	Şeref=
+16112	Tepebaşı Köyü	Tepebaşı=
+16032	Topalan Köyü	Topalan=
+16116	Uzunsavat Köyü, Merkez Mevkii	Uzunsavat=
+16117	Uzunsavat Köyü, Yayımlı Mezrası	Yayımlı=
+16114	Uğurova Köyü, Bekmezli Mezrası	Bekmezli=
+16115	Uğurova Köyü, Erenler Mezrası	Erenler=
+16113	Uğurova Köyü, Yeni Yerleşim Mevkii	Uğurova=
+16121	Yamaç Köyü	Yamaç=
+16118	Yaygınçayır Köyü, Merkez Mevkii	Yaygınçayır=
+16119	Yaygınçayır Köyü, Üsküdar Mevkii	Üsküdar=
+16120	Yazgülü Köyü	Yazgülü=|Yazgülü/1~|Yazgülü/2~|Yazgülü/3~|Yazgülü/4~|Yazgülü/5~
+16034	Yelesen Köyü	Yelesen=
+10686	Yeni Mah.	Akasya~|Akgün~|Asma~|Azimli~|Açelya~|Baran~|Bayır~|Bağcı~|Başarı~|Begonya~|Belen~|Bilgin~|Billur~|Cumhuriyet@|Dikmen@|Durgun~|Duygu~|Dönemeç~|Emektar~|Ercanlar~|Erdem~|Feza~|Fuzuli@|Gazi@|Gazi Paşa~|Gelin~|Gelincik~|Gezer~|Gözde~|Güller@|Gümüş~|Hürriyet@|Kadife~|Keklik~|Kervan~|Keskin~|Konuk~|Konut~|Kumru~|Kuş Gölü~|Kılıç~|Kırgız~|Maraşal Fevzi Çakmak@|Mehmet Bilgin@|Meltem~|Metan~|Narlı~|Nazır~|Nil~|Nurlu~|Onur~|Panayır~|Rençber Aziz@|Rüzgarlı~|Sarmaşık~|Selvi~|Sultan Kubbesi~|Turna~|Yakamoz~|Yakut~|Yaman~|Yamaç~|Yankı~|Yavuz Selim@|Yayladere~|Ziya Gökalp~|Zümrüt~|Çavdar~|Çağatay@|Çelik~|Çiğdem~|Çiğiltepe~|İnci~|İncirli~
+16085	Yenibaşlar Köyü	Erzurum@|Yenibaşlar=|Yenibaşlar/1~|Yenibaşlar/10~|Yenibaşlar/11~|Yenibaşlar/12~|Yenibaşlar/13~|Yenibaşlar/14~|Yenibaşlar/15~|Yenibaşlar/16~|Yenibaşlar/17~|Yenibaşlar/18~|Yenibaşlar/19~|Yenibaşlar/2~|Yenibaşlar/20~|Yenibaşlar/21~|Yenibaşlar/22~|Yenibaşlar/23~|Yenibaşlar/24~|Yenibaşlar/25~|Yenibaşlar/26~|Yenibaşlar/27~|Yenibaşlar/3~|Yenibaşlar/4~|Yenibaşlar/5~|Yenibaşlar/6~|Yenibaşlar/7~|Yenibaşlar/8~|Yenibaşlar/9~
+16091	Yenibaşlar Köyü, K.keşkare Mevkii	K.keşkare=|Yukarı Yenibaşlar=
+16087	Yenibaşlar Köyü, Köçek Mezrası	Köçek=
+16090	Yenibaşlar Köyü, Kürkürü Mevkii	Kürkürü=
+16088	Yenibaşlar Köyü, Mahkar Mezrası	Mahkar=
+16092	Yenibaşlar Köyü, Naman Mevkii	Naman=
+16086	Yenibaşlar Köyü, Yukarı Yenibaşlar Mevkii	Yukarı Yenibaşlar=
+16089	Yenibaşlar Köyü, Çavşan Deresi Mevkii	Çavşan Deresi=
+16035	Yeniköy Köyü	Yeniköy=|Yeniköy/1~|Yeniköy/2~|Yeniköy/3~|Yeniköy/4~|Yeniköy/5~|Yeniköy/6~|Yeniköy/7~|Yeniköy/8~
+10687	Yenişehir Mah.	15 Temmuz Direniş Myd.|Ayaz~|Aşiyan~|Bilginler~|Bingöl Genç%|Cemre~|Cumhuriyet@|Divan~|Ekin~|Evliya Çelebi~|Faik Ertuğrul@|Feyzullah Karaarslan@|Furkan~|Fuzuli@|Genç@|Güldiken~|Gültepe~|Hal~|Hastane@|Haydar Ünsal@|Hikmet~|Hürriyet@|Kutluay~|M.akif Ersoy@|Mehtap~|Melikşah~|Meram~|Mercan~|Murat~|Nehir~|Petek~|Sefa~|Selahattin Kaya@|Soğuksu~|Vakıf~|Yaren~|Çağ~|Çevlik~|Özgürlük@|İnönü@|Şirnan~
+16036	Yeşilköy Köyü	Yeşilköy=
+10688	Yeşilyurt Mah.	901.~|902.~|903.~|Alkan~|Anadolu~|Asude~|Atmaca~|Açelya~|Bahar@|Balkan~|Balkent~|Barbaros@|Berrak~|Dadaloğlu~|Damla~|Demir~|Derya~|Diriliş~|Doruk~|Erenler~|Eyubi~|Farabi@|Gençlik~|Göktaşı~|Göktürk~|Hicran~|Irmak~|Işık~|Karaağaç~|Karlı~|Kaya~|Kılavuz~|Kızılcık~|M.akif Ersoy@|Maraşal Fevzi Çakmak@|Mezra~|Misket~|Nagihan~|Namık Kemal~|Nazar~|Noyan~|Orman~|Palandöken@|Rumeli~|Sait Göker@|Salkım~|Sardunya~|Selçuk~|Semiz~|Seyhat~|Seyir~|T.fikret~|Uygur~|Uysal~|Vakıf~|Yahya Kemal~|Yalı~|Yayla~|Yeşilyurt@|Yurt~|Yıldız~|Çakıl~|Çağlıyan~|Çeltik~|Çilem~|Çimen~|Çoban~|Ören~|Özbek~|Özden~|İnce~|İpek~|İstiklal~
+16037	Yolçatı Köyü	Yolçatı=|Yolçatı/1~|Yolçatı/10~|Yolçatı/11~|Yolçatı/12~|Yolçatı/13~|Yolçatı/14~|Yolçatı/15~|Yolçatı/16~|Yolçatı/17~|Yolçatı/18~|Yolçatı/19~|Yolçatı/2~|Yolçatı/3~|Yolçatı/4~|Yolçatı/5~|Yolçatı/6~|Yolçatı/7~|Yolçatı/8~|Yolçatı/9~
+16038	Yukarıakpınar Köyü	Yukarıakpınar=
+16139	Yumaklı Köyü, Aşağı Yumaklı Mevkii	Aşağı Yumaklı=|Aşağı Yumaklı/1~|Aşağı Yumaklı/2~|Aşağı Yumaklı/3~|Aşağı Yumaklı/4~|Aşağı Yumaklı/5~|Aşağı Yumaklı/6~|Aşağı Yumaklı/7~
+16140	Yumaklı Köyü, Damcık Mezrası	Damcık=
+16143	Yumaklı Köyü, Karakoç Mezrası	Karakoç=
+16138	Yumaklı Köyü, Merkez-y.yumaklı Mevkii	Yumaklı=
+16141	Yumaklı Köyü, Polatlı Mezrası	Polatlı=
+16142	Yumaklı Köyü, İkizgöl Mezrası	İkizgöl=
+16052	Çavuşlar Köyü, Bahçeli Mevkii	Bahçeli=
+16051	Çavuşlar Köyü, Güzel Mevkii	Güzel=
+16056	Çavuşlar Köyü, Heşvare Mevkii	Heşvare=
+16055	Çavuşlar Köyü, Köme Mevkii	Köme=
+16053	Çavuşlar Köyü, Leyman Mevkii	Leyman=
+16054	Çavuşlar Köyü, Pınarlı Mevkii	Pınarlı=
+196663	Çavuşlar Köyü, Seydan Mevkii	Bingöl Muş%|Seydan=
+16046	Çavuşlar Köyü, Taşlı Mevkii	Bingöl Muş%|Taşlı=
+16047	Çavuşlar Köyü, Y.komsarik Mevkii	Y.komsarik=
+16058	Çavuşlar Köyü, Yeniyerleşim Mevkii	Yeni Yerleşim=
+16059	Çavuşlar Köyü, Yeşil Mevkii	Mezra=
+16045	Çavuşlar Köyü, Yeşilmezra Mevkii	Yeşilmezra=
+16049	Çavuşlar Köyü, Yeşiltepe Mevkii	Yeşiltepe=
+16057	Çavuşlar Köyü, Yukarı Mevkii	Yukarı=
+16048	Çavuşlar Köyü, Ömerli Mezrası	Bingöl Muş%|Ömerli=
+16050	Çavuşlar Köyü, Şeyhalan Mevkii	Bingöl Muş%|Şeyhalan=
+15969	Çayağzı Köyü	Çayagzı Mücavır=|Çayağzı=|Çayağzı/1~|Çayağzı/2~|Çayağzı/3~|Çayağzı/4~|Çayağzı/5~
+15970	Çayağzı Köyü, Kemalan Mezrası	Kemalan=|Kemalan/1~|Kemalan/2~|Kemalan/3~|Kemalan/4~
+15971	Çayboyu Köyü	Çayboyu=
+15972	Çeltiksuyu Köyü	Çeltiksuyu=|Çeltiksuyu/1~|Çeltiksuyu/10~|Çeltiksuyu/11~|Çeltiksuyu/12~|Çeltiksuyu/13~|Çeltiksuyu/14~|Çeltiksuyu/15~|Çeltiksuyu/16~|Çeltiksuyu/17~|Çeltiksuyu/18~|Çeltiksuyu/19~|Çeltiksuyu/2~|Çeltiksuyu/20~|Çeltiksuyu/21~|Çeltiksuyu/22~|Çeltiksuyu/3~|Çeltiksuyu/4~|Çeltiksuyu/5~|Çeltiksuyu/6~|Çeltiksuyu/8~|Çeltiksuyu/9~|Çeltıksuyu Mücavır=
+15974	Çevrimpınar Köyü, Alataş Mezrası	Alataş=
+15973	Çevrimpınar Köyü, Merkez Mevkii	Çevrimpınar=|Çevrimpınar/1~|Çevrimpınar/2~|Çevrimpınar/3~|Çevrimpınar/4~|Çevrimpınar/5~|Çevrimpınar/6~|Çevrimpınar/7~
+15979	Çiriş Köyü	Çiriş=
+15975	Çiçekdere Köyü	Çiçekdere=
+15976	Çiçekdere Köyü, Eskiköy Mezrası	Eskiköy=
+15977	Çiçekdere Köyü, Kuşluca Mezrası	Kuşluca=|Sancaklı=
+15978	Çiçekyayla Köyü	Çiçekyayla=
+16062	Çobantaşı Köyü, Derince Mezrası	Derince=
+16060	Çobantaşı Köyü, Merkez Mevkii	Çobantaşı=|Çobantaşı/1~|Çobantaşı/10~|Çobantaşı/11~|Çobantaşı/12~|Çobantaşı/13~|Çobantaşı/14~|Çobantaşı/15~|Çobantaşı/16~|Çobantaşı/17~|Çobantaşı/18~|Çobantaşı/19~|Çobantaşı/2~|Çobantaşı/20~|Çobantaşı/21~|Çobantaşı/22~|Çobantaşı/23~|Çobantaşı/24~|Çobantaşı/25~|Çobantaşı/26~|Çobantaşı/27~|Çobantaşı/28~|Çobantaşı/29~|Çobantaşı/3~|Çobantaşı/30~|Çobantaşı/31~|Çobantaşı/33~|Çobantaşı/34~|Çobantaşı/35~|Çobantaşı/36~|Çobantaşı/37~|Çobantaşı/38~|Çobantaşı/4~|Çobantaşı/5~|Çobantaşı/6~|Çobantaşı/7~|Çobantaşı/9~
+16061	Çobantaşı Köyü, Soğuk Çeşme Mevkii	Soğuk Çeşme=
+15982	Çukurca Köyü	Çukurca=
+15980	Çukurca Köyü, Körcüpınar Mezrası	Körcüpınar=
+15981	Çukurca Köyü, Çanakalın Mezrası	Çanakalın=
+10676	İnalı Mah.	401.~|Aftor İnalı%|Ahmet Bayram@|Akçay~|Alaca~|Belediye Meclis Üyesi Ahmet Kaya@|Beşik~|Bingöl Genç%|Bitki~|Botanik~|Desen~|Dicle@|Eski İnali@|Firuze~|Gülhane~|Kanal~|Karbeyaz~|Keban~|Kızılırmak@|Lalezar~|Menderes~|Okur~|Oğuzhan@|Pazar~|Sahra~|Uğurlu@|Yeşilırmak~|Özlüce~|Üzümlü@|İstemihan~|Şenlik~
+16002	İncesu Köyü	İncesu=|İncesu/1~|İncesu/11~|İncesu/12~|İncesu/13~|İncesu/14~|İncesu/15~|İncesu/16~|İncesu/17~|İncesu/18~|İncesu/19~|İncesu/2~|İncesu/20~|İncesu/21~|İncesu/22~|İncesu/3~|İncesu/4~|İncesu/5~|İncesu/6~|İncesu/7~
+16003	İncesu Köyü, Reng Mezrası	Reng=
+10679	İnönü Mah.	Beyazıt@|Bostan~|Demirciler~|Eski Saray@|Eğitim@|Fatih@|Genç@|Gül~|Güzel~|Hilal~|Kalem~|Kalkan~|Kocatepe@|Kültür@|Maden~|Malazgirt~|Mevlana~|Nergizli~|Nizam~|Oruç Reis~|Osmanlı~|Park@|Tural@|Vuslat~|Yokuş~|Yüzenada~|Çapakçur Viyadüğü%|İklim~|İnönü@|Şişli~
+140330	İçmeler Mah.	Bingöl Genç%|Feki Hasan@
+16027	Şabanköy Köyü	Şabanköy=
+10678	Şehit Mustafa Gündoğdu Mah.	51.~|52.~|53.~|54.~|Ak~|Akdağ@|Akdeniz@|Ağaçlı~|Bal~|Bayındır@|Başak~|Begüm~|Bizim~|Buhari~|Cam~|Cesur~|Devran~|Elvan~|Erciyes~|Fakülte@|Filiz~|Göl~|Güzide~|Hazar~|Karanfil~|Kent@|Marmara~|Muhabbet~|Müjde~|Narin~|Nur~|Ramazan~|Rüya~|Sancak~|Sarnıç~|Sarımsak~|Sultan~|Tunus~|Yelken~|Yemen~|Yonca~|Zeki Ergezen%|Ziyaret~|Çeşme~|Üniversite@|İnsaf~|İğde~|Şht.mustafa Gündoğdu@|Şölen~

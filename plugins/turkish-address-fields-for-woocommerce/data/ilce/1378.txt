@@ -1,0 +1,49 @@
+174323	Altınova Mah.	Altınova=|İshak=
+80375	Argaç Mah.	1=|12=|13=|2=|Argaç=
+174319	Argıl Mah.	Akasya~|Argıl/2@|Argıl/21~|Argıl/22~|Argıl/23~|Argıl/24~|Argıl/25~|Argıl/26~|Argıl/27~|Argıl/28~|Argıl/29~|Argıl/3~|Argıl/30~|Argıl/31~|Argıl/32~|Argıl/8~|Argıl_3~|Argın/1~|Arğıl/1~|Atatürk_2@|Atmaca~|Barbaros Silenecek-@|Bülbül~|Celal Doğan (tepebaşı)-@|Celal Doğan~|Celal Doğan/1~|Ceylan~|Ceylan//2~|Derya~|Dilek~|Endere~|Fesleğen~|Fırat~|Fırat/2~|Fırat/3~|Gümüş~|Heyik~|Hoca Ahmet Yesevi@|Hurma~|Karagül~|Karanfil~|Karanfil/1~|Kartal Tepe@|Kesmetaş~|Kesmetaş/1~|Kesmetaş/2~|Kesmetaş/3~|Kiraz~|Kurtuluş@|Kırlangıç~|Lale~|Manolya~|Manolya/1~|Mehmet Akif Ersoy@|Melengiç~|Melengiç/1~|Melengiç/2~|Menekşe~|Menekşe/1~|Mercan~|Mercan/1~|Mercan/2~|Mercan/3~|Mevlana@|Mevlana/1~|Mevlana/2~|Millet@|Mimar Sinan@|Mithatpaşa@|Mithatpaşa/1~|Namık Kemal@|Nurgül~|Papatya~|Pınar~|Reyhan=|Reyhan1~|Sarmaşık~|Sağlık~|Sevgi-~|Silinecek-~|Susam~|Sümbül~|Turna~|Vatan (tepebaşı)-@|Vatan~|Vatan Tepebaşı@|Vişne~|Vişne1~|Yeni Halfeti Yolu@|Yeni Halfeti Yolu/1~|Yeni Halfeti Yolu/2~|Yunus Emre@|Yüzevler@|Yıldırım~|Zambak~|Zerdali~|Çınar~|İnci~|Şahinbey~|Şair Nabi@|Şairnabi-@
+174325	Aşağı Göklü Mah.	Aşağı Göklü=
+174327	Balaban Mah.	Bademhatun=|Balaban=|Balaban2=|Bağlıca=|Mizgevri=
+174329	Beyburcu Mah.	Beyburcu=
+184756	Bitek Mah.	Bayram=|Bitek=|Bitek/1~|Bitek/2~|Bitek/5~|Bitek/6~|Bitek4~|Toki (yeni)@|Toki 10~|Toki 11~|Toki 12~|Toki 13~|Toki 14~|Toki 15~|Toki 16~|Toki 31~|Toki 32~|Toki 33~|Toki 6/1~|Toki 9~|Toki@|Toki1nolu~|Toki21~|Toki2nolu~|Toki3nolu~|Toki4nolu~|Toki5nolu~|Toki6nolu~|Toki7nolu~|Toki8nolu~
+174331	Bozyazı Mah.	Bozyazı=
+174333	Bulaklı Mah.	Bulaklı=
+80374	Cumhuriyet Mah.	1.çıkmaz-~|14~|14/1~|15~|16~|16/1~|17~|17/1~|18~|18/1~|18/1.~|18/2~|19~|19/1~|19/1.~|19/2~|2.çıkmaz-~|20~|20/1.~|21~|22~|22/1~|23~|24~|25~|26~|26/1~|3.çıkmaz~|34~|4-~|4.çıkmaz~|5-~|5.çıkmaz~|Cumhuriyet/1.=|Cumhuriyet/2~|Cumhuriyet/3~|Cumhuriyet_2~|Pınarbaşı@|Pınarbaşı/1~|Pınarbaşı/2~|Pınarbaşı/3.~|Pınarbaşı/4~|Pınarbaşı/5.~|Pınarbaşı/6@|Pınarbaşı/6.~
+174339	Dergili Mah.	Dergili=
+174341	Durak Mah.	Durak=
+80377	Dutluca Mah.	6=
+174343	Erikli Mah.	Erikli=
+80378	Fırat Mah.	13_1~|148~|37~|37/1~|4~|5~|50~|51~|52~|53~|54~|54/1~|55~|56~|57~|58~|59~|60~|60/1~|61~|62~|Ahmet Kaya~|Aydın Güven Gürkan@|Aydın Güven Gürkan/3~|Aydın Güven Gürkan_2@|Açelya~|Fırat1~|Gül 1~|Halfeti X3/2~|Karanfil 1~|Kardelen~|Lale 1~|Lale 2~|Leylak~|Manolya 1~|Menekşe 1~|Nergiz~|Nergiz/1~|Papatya 1~|Sünbül~|Uğur Mumcu@|Uğur Mumcu/1~|Uğur Mumcu/2~|Zakkum/2~
+174345	Fıstıközü Mah.	Fıstıközü=
+174347	Gözeli Mah.	Gözeli=|Gözeli/2~|Gözeli/3~|Gözeli/4~|Gözeli/5~|Gözeli/6~|Gözeli/7~|Gözeli/8~|Gözeli/9~|Gözeli_1~
+174349	Gülaçan Mah.	Gülaçan=
+174351	Günece Mah.	Günece=
+174353	Gürkuyu Mah.	Eski Hisar=|Gürkuyu=
+174385	Gürlüce Mah.	Gürlüce=
+174355	Hilalli Mah.	Akçayurt=|Birinci Hilalli=|Bozok=|Fincan=|Hilalli=|İkinci Hilalli=
+174357	Kalkan Mah.	Kalkan=|Sugören=
+184748	Kantarma Mah.	Kantarma=
+80373	Karaotlak Mah.	10~|10/1~|11_1~|123-~|124-~|127~|129~|129-~|12_1~|132~|133~|138-~|13_1~|148~|15-@|16_1~|19_1~|20_1~|21_1~|22_1~|2_1~|3-@|37~|37/1~|37/2~|37/3~|38~|63~|64~|65~|66~|67~|68~|69~|7.çıkmaz~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|8-@|80~|81~|82~|82/1~|84~|85~|86~|87~|93-~|Ahmet Kaya~|Argıl@|Argıl/1~|Argıl/10~|Argıl/11~|Argıl/13~|Argıl/14~|Argıl/15~|Argıl/20~|Argıl/4~|Argıl/5~|Argıl/6~|Argıl/7~|Argıl/9~|Argıl_2~|Aydın Güven Gürkan@|Aydın Güven Gürkan/1~|Aydın Güven Gürkan/2~|Aydın Güven Gürkan_2@|Halfeti X1-~|Halfeti X3~|Halfeti X3/1~|Halfeti X3/2~|Halfeti X3/3~|Karaotlak/1~|Karaotlak/10~|Karaotlak/11~|Karaotlak/12~|Karaotlak/13~|Karaotlak/14~|Karaotlak/15~|Karaotlak/16~|Karaotlak/17~|Karaotlak/18~|Karaotlak/19~|Karaotlak/2~|Karaotlak/20~|Karaotlak/21~|Karaotlak/23~|Karaotlak/25~|Karaotlak/27~|Karaotlak/3~|Karaotlak/4~|Karaotlak/5~|Karaotlak/6~|Karaotlak/7~|Karaotlak/8~|Karaotlak/9~|Karaotlak22~|Karaotlak23~|Musa Anter-=|Musa Anter/1~|Musa Anter/10~|Musa Anter/11~|Musa Anter/12~|Musa Anter/13~|Musa Anter/14~|Musa Anter/15~|Musa Anter/16~|Musa Anter/17=|Musa Anter/18~|Musa Anter/19~|Musa Anter/2~|Musa Anter/20~|Musa Anter/21~|Musa Anter/22~|Musa Anter/23~|Musa Anter/24~|Musa Anter/25~|Musa Anter/26~|Musa Anter/27~|Musa Anter/28~|Musa Anter/29~|Musa Anter/3~|Musa Anter/30~|Musa Anter/4~|Musa Anter/5~|Musa Anter/6~|Musa Anter/7~|Musa Anter/8~|Musa Anter/9~|Nazım Hikmet@|Nazım Hikmet/1~|Nazım Hikmet/2~|Nazım Hikmet/3~|Nazım Hikmet/4~|Nazım Hikmet/5~|Siyahgül/2~|Uğur Mumcu/1~|Zakkum~|Zakkum/2~|İnönü@|İnönü/2~|İnönü/5~|İnönü/6~|İnönü/7~|İnönü/8~
+174359	Kavaklıca Mah.	Kavaklıca=
+174361	Kayalar Mah.	Kayalar=|Kurttepe=|Topuzoğlu=
+174363	Kurugöl Mah.	Kurugöl 1@|Kurugöl=|Saluca=
+184750	Kınık Mah.	Kınık=
+174365	Macunlu Mah.	Agaçlı=|Külünçe=|Macunlu=
+184752	Narlık Mah.	Baraj Yolu (narlık)-@|Baraj Yolu (tepe)@|Baraj Yolu@|Baraj Yolu Tepe/5~|Bayrak~|Bayram/1~|Bayram_1~|Fırın-~|Narlı@|Narlı/1~|Narlı/19~|Narlı/2~|Narlı/20~|Narlı/21~|Narlı/22~|Narlı/23~|Narlı/3~|Narlı/4~|Narlı/5~|Narlı/6~|Narlı/7~|Narlı/8~|Narlı/9~|Narlık/2~|Narlık/6~|Nergis~|Nergis/1~|Nergis/2~|Nergis/3~|Nergis/4~|Zeytinlik (yeni)-@|Zeytinlik@|Zeytinlik/1~|Zeytinlik/10~|Zeytinlik/2~|Zeytinlik/3~|Zeytinlik/4~|Zeytinlik/5~|Zeytinlik/6~|Zeytinlik/7~|Zeytinlik/8~|Zeytinlik/9~
+174367	Ortayol Mah.	Ortayol=|Sağlık Ocağı@
+80370	Rüştiye Mah.	14.=|Anaç~|Atatürk@|Atatürk/1~|Ağar~|Balkıs~|Döner~|Kandamar~|Kanneci~|Kaynak~|Lojman~|Orta@|Orta/1~|Orta/2~|Sönmez~|Söğütlü~|Vurgun-~|Çakıllı~|Çoban~
+174377	Salmanlı Mah.	Salmanlı=
+174373	Savaşan Mah.	Savaşan~|Savaşan1~|Savaşan2~|Savaşan3~|Savaşan4~|Savaşan5~|Savaşan6~|Savaşan7~|Savaşan8=
+174375	Saylakkaya Mah.	Kayadere=|Saylakkaya=
+80376	Seldek Mah.	39~|39/1~|40~|41~|41/1~|42~|42/1~|42/2~|42/3~|42/4~|42/5~|42/6~|43~|43/1~|44~|45~|45/1~|45/2~|45/3~|46~|46/1~|47~|48~|49~|8.çıkmaz~|Berfin~|Mehmet Sincar~|Mehmet Sincar/1~|Mehmet Sincar/2~|Mehmet Sincar/3~|Mehmet Sincar/4~|Muhsin Melik~|Seldek~|Seldek/1~|Seldek/2~|Seldek/4~|Seldek/6~|Seldek/7~|Seldek/8~|Seldek/9~|Yılmaz Güney~|Yılmaz Güney/1~
+80379	Siyahgül Mah.	1 Sokak~|10~|100~|101~|102~|103-~|104~|105~|106~|107~|108~|109~|11~|11_1~|12_1~|2-~|3~|4-~|5_1~|64-~|65-=|66-~|67-~|68-=|69-~|6_1~|7~|70-~|71~|72~|73~|74~|75~|76-~|77-~|78-~|79~|8~|80-~|81-~|82-~|83~|84~|85~|86~|87~|9~|Ahmet Arif@|Ahmet Arif/1~|Ahmet Arif/2~|Ahmet Arif/3~|Ahmet Arif/4~|Ahmet Arif/5~|Ahmet Arif/6~|Ahmet Arif/7~|Ahmet Arif/8~|Argıl@|Argıl/12~|Argıl/16~|Argıl/17~|Argıl/18~|Argıl/19~|Argıl/20~|Argıl/4~|Argıl/6~|Argıl/7~|Aydın Güven Gürkan@|Aydın Güven Gürkan/3~|Belediye@|Belediye/1~|Bülent Ecevit@|Fırat1~|Halfeti X1~|Hastane@|Hastane/1~|Siyahgül/1~|Siyahgül/2~|Siyahgül_3~|Sıyahgül~|Sıyahgül1~|Sıyahgül3~|Sıyahgül4~|Zeytinli~|İnönü@|İnönü/1~|İnönü/10~|İnönü/2~|İnönü/9~
+174381	Sütveren Mah.	Sütveren=
+174379	Sırataşlar Mah.	Baldere=|Kurttepe=|Sırataşlar=
+174383	Tavşanören Mah.	Tavşanören=|Öteyüz=|Üçayak=
+184754	Yeni Mah.	Ateş~|Bitek2~|Ceviz~|Ceviz1~|Ceviz2~|Ceviz3~|Cumhuriyet (narlık) Myd.|Cumhuriyet (yeni)- Myd.|Cumhuriyet (şen)- Myd.|Cumhuriyet Myd.|Engin~|Lise (yeni)@|Lise@|Lise Yeni/1~|Lise Yeni/2~|Lise Yeni/3~|Lise Yeni/4~|Narlı (yeni)@|Narlı@|Narlı Yeni/1~|Narlı Yeni/2~|Narlı/10~|Narlı/11~|Narlı/12~|Narlı/13~|Narlı/14~|Narlı/15~|Narlı/16~|Narlı/17~|Narlı/18~|Polo~|Polo/1~|Polo/2~|Polo/3~|Polo/4~|Sağlık Ocağı@|Sağlık Ocağı/1~|Sağlık Ocağı/10~|Sağlık Ocağı/2~|Sağlık Ocağı/3~|Sağlık Ocağı/4~|Sağlık Ocağı/5~|Sağlık Ocağı/6~|Sağlık Ocağı/7~|Sağlık Ocağı/8~|Sağlık Ocağı1~|Sağlık Ocağı11~|Sağlık Ocağı12~|Yeni Cami~|Yeni~|Çeşme~|Çeşme/1~|Çeşme/2~|Çeşme/3~|Çeşme/4~|Öğretmenler (yeni)-@|Öğretmenler@|Öğretmenler/1~|Öğretmenler/17~|Öğretmenler/18~|Öğretmenler/2~|Öğretmenler/3~|Öğretmenler/4~|Öğretmenler/5~|Öğretmenler/6~
+80372	Yeşilözen Mah.	14-~|26~|26/1~|27~|28~|29~|30~|31-~|32~|33~|34~|34/1~|35~|36~|5. Küme Evler=|6.çıkmaz~|Ahmet Taner Kışlalı=|Cumhuriyet_1@|Deniz Gezmiş=|Pınarbaşı@|Pınarbaşı/3~|Seyit Rıza=
+174321	Yukarıgöklü Mah.	Atatürk./1~|Atatürk./2~|Atatürk./20~|Atatürk./21~|Atatürk./22~|Atatürk./3~|Atatürk./4~|Atatürk./5~|Atatürk./6~|Atatürk./7~|Atatürk./8~|Atatürk./9~|Atatürk_1@|Baraj Yolu (tepe)@|Baraj Yolu@|Baraj Yolu Tepe/1~|Baraj Yolu Tepe/2~|Baraj Yolu Tepe/3~|Baraj Yolu Tepe/4~|Baraj Yolu Tepe/6~|Baraj Yolu Tepe/7~|Baraj Yolu Tepe/8~|Gül~|Gül/1~|Gül/2~|Gül/3~|Gül/4~|Gül/5~|Karataş-~|Laçin~|M.akif Ersoy (tepe)~|M.akif Ersoy~|M.akif Ersoy/1~|M.akif Ersoy/2~|Narlı@|Narlı/24~|Sanayi~|Sanayi/1~|Sanayi/2~|Sanayi/3~|Sağlık Ocağı@|Sağlık Ocağı/9~|Tepeli~|Tepeli/1~|Tepeli/3~|Tepeli/4~|Tepeli/5~|Tepeli/6~|Tepeli/7~|Yeni1~|Yeni2~|Yukarıgöklü/1~|Yukarıgöklü/2~|Yukarıgöklü/3~|Yukarıgöklü_1~|Öz (tepe)~|Öz~|Şafak~
+174335	Çakallı Mah.	Çakallı=
+174337	Çebekoğlu Mah.	Çebekoğlu=
+174369	Ömerli Mah.	Ömerli=
+174371	Özmüş Mah.	Soylu=|Sütveren=|Yolgeçer=|Öveç=|Özmüş=
+80371	Şimaliye Mah.	1/1=|1_2=|Anaç~|Atatürk@|Atatürk/1~|Değirmendere~|Göksel~|Gökçek~|Kanneci~|Karayazgan~|Köksel~|Orta@|Sönmez~|Sümer~|Türkmen~|Çakıllı~|Şimaliye_1~

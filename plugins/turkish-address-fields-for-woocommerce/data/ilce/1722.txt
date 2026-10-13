@@ -1,0 +1,99 @@
+180988	Ahiler Köyü	Ahiler=
+23157	Akköy Köyü	Akköy=
+20209	Akçakoyun Köyü, Atatürk Mevkii	Akköy~|Akköy1~|Akköy2~|Cumhuriyet~|Dallık~|Dallık/4~|Dallık/9~|Dallık1~|Dallık10~|Dallık11~|Dallık12~|Dallık13~|Dallık16~|Dallık17~|Dallık18~|Dallık19~|Dallık2~|Dallık20~|Dallık21~|Dallık3~|Dallık5~|Dallık6~|Dallık7~|Dallık8~|Ersözler~|Eski Örencik Yolu~|Eski Örencik Yolu1~|Eski Örencik Yolu2~|Eski Örencik Yolu3~|Eski Örencik Yolu4~|Gaziler~|Taşlı~|Taşlı1~|Taşlı2~|Taşlı3~|Taşlı4~|Zindanlar~|Örencik~|Örencik1~|Örencik2~|Örencik3~|Örencik4~|Özbek~|Özbek/1~|Şakir Birtek~
+20210	Akçakoyun Köyü, Cumhuriyet Mevkii	Akköy~|Akköy3~|Akköy4~|Akköy5~|Akköyt/1~|Balkan~|Cumhuriyet~|Dallık~|Eski Hıdırlar~|Eski Hıdırlar1~|Eski Hıdırlar2~|Eski Hıdırlar3~|Eski Hıdırlar4~|Eski Hıdırlar5~|Eski Hıdırlar6~|Eski Hıdırlar7~|Eski İlkokul~|Hıdırlar~|Hıdırlar1~|Kalkım~|Kalkım1~|Kalkım10~|Kalkım12~|Kalkım13~|Kalkım14~|Kalkım15~|Kalkım16~|Kalkım2~|Kalkım3~|Kalkım4~|Kalkım5~|Kalkım6~|Kalkım7~|Kalkım8~|Kalkım9~|Kırklar~|Mandacı~|Mandacı1~|Mezarlık~|Mezarlık1~|Tahtakale~|Çakıl~|Örencik~|Örencik5~|Örencik6~|Örencik7~|Örencik8~|İlkokul~|İlkokul1~|İlkokul2~|İlkokul3~|İlkokul4~
+23172	Alancık Köyü	Alancık=
+23174	Alancık Köyü, Hasanlar Mevkii	Hasanlar=
+23173	Alancık Köyü, Pınaroba Mevkii	Pınaroba=
+23175	Araovacık Köyü	Araovacık=
+23158	Armutçuk Köyü	Armutçuk=
+23112	Aşağıinova Köyü	Aşagıınova=
+23113	Aşağıkaraaşık Köyü	Aşağıkaraarşık=|Çanakkale Balıkesir@
+23159	Aşağıçavuş Köyü	Akköy=|Aşağıçavuş=
+23114	Ballıçay Köyü	Ballıçay=
+23115	Ballıçay Köyü, Alanoba Mezrası	Alanoba=
+23151	Bayatlar Köyü	Bayatlar=|Karayolu@
+23160	Bağlı Köyü	Bağlı=|Karayolu@
+23116	Başkoz Köyü	Başkoz=
+23117	Bekten Köyü	Bekten=
+23176	Boynanlar Köyü	Boynanlar=|Karayolu1@
+23161	Canbaz Köyü	Canbaz=
+23180	Darıalan Köyü	Darıalan=
+23179	Darıalan Köyü, Altıparmaklar Mezrası	Altıparmaklar=
+23124	Davutköy Köyü	Davutköy=
+23154	Engeci Köyü	Engeci=
+20200	Eski Yenice Mah.	101 Nolu~|102 Nolu~|103 Nolu~|104 Nolu~|105 Nolu~|106 Nolu~|108 Nolu~|109 Nolu~|110 Nolu~|111 Nolu~|112 Nolu~|113 Nolu~|18 Mart@|315 Nolu~|Acar~|Agonya@|Alanlar~|Ara~|Asar~|Ayan~|Aydın~|Badem~|Barış@|Bayram~|Baş~|Bülbül~|Demokrasi@|Dere~|Dip~|Gül~|Güven~|Gıran~|Hacı~|Hamam~|Hükümet@|Ihlamur~|Karanfil~|Kaya~|Kayapınar~|Kumrular~|Kurşunlu~|Kök~|Kırçiçeği@|Kıyı~|Lale~|Mandıra~|Mehmet Bodur@|Mezbaha@|Namazgah~|Papatya~|Park~|Pazar~|Pekmez~|Sarı~|Tarla~|Tepe~|Tümbek~|Türk~|Vatan@|Yeşil~|Yokuş~|Çakmak~|Çaltı~|Çam~|Çeşme~|Çim~|Çiçek~|Çukur~|İnal~|İnce~|Şehit Mehmet Söyler@|Şehitlik@|Şıpka~
+23125	Gümüşler Köyü	Gümüşler=
+23126	Gündoğdu Köyü	Gündoğdu=
+23127	Güzeloba Köyü	Güzeloba=
+23181	Hacılar Köyü	Hacılar=
+23182	Hacıyusuflar Köyü	Hacıyusuflar=|Kuzupınarı=
+20206	Hamdibey Köyü, Hamdibey Mevkii	Akasya~|Aras 1~|Aras~|Asma~|Bilinmeyen12~|Dede~|Dere~|Dere/1~|Dibek~|Gökçe~|Görece~|Hamdibey~|Hamdibey-~|Hamdibey/1~|Hamdibey/10~|Hamdibey/11~|Hamdibey/2~|Hamdibey/3~|Hamdibey/4~|Hamdibey/5~|Hamdibey/6~|Hamdibey/7~|Hükümet~|Hükümet/1111~|Hükümet/2~|Hükümet/3~|Hükümet/4~|Kale~|Kale/1~|Kale/2~|Kale/3~|Karabey/3~|Kuyu~|Marangozlar~|Merkez~|Meydan~|Meydan/1~|Orman/1~|Orman/2~|Ova~|Ova/1~|Ova/2~|Pınar~|Pınar/2~|Pınar/3~|Pınar1~|Sakar~|Söğüt~|Söğüt/1~|Tarla~|Yenice 2~|Yunak~|Çaltı~|Çamlı~|Çayır~|Çıkmaz~
+23183	Haydaroba Köyü	Haydaroba=
+23152	Hıdırlar Köyü	Hıdırlar=
+23184	Kabalı Köyü	Kabalı=
+23164	Kalabakbaşı Köyü	Kalabakbaşı=|Karayolu@
+20207	Kalkım Beldesi, Atatürk Mah.	Akalar~|Akpınar.1~|Akçakoyun@|Akçakoyun1~|Akçakoyun2~|Camii Myd.|Dallık~|Dar~|Dere~|Edremit@|Emirhasanlar~|Fatih 1~|Hacı Ali Osman.1~|Hacı Ali Osman.2~|Hacı Ali Osman.3~|Hacı Aliosman~|Harman~|Karaaydın@|Latifler~|Lise@|Mezarlık~|Mezarlık.1~|Orman İşletme Müdürlüğü~|Ortaokul@|Oğlanalan~|Reşadiye@|Reşadiye1@|Samiler~|Sağlık Ocağı~|Tekeller~|Tepe~|Tepe.1~|Topallar~|Ustalar~|Yeni Mahalle 1~|Yeni Mahalle 2~|Yeni Mahalle 3~|Yeni Mahalle 4~|Yeni Mahalle 5~|Yeni Mahalle@|Çeltik~|Çeltik1~|Çeltik2~|İlkokul@
+20208	Kalkım Beldesi, Cumhuriyet Mah.	Akpınar~|Akpınar1~|Bilinmeyen2~|Değirmen~|Değirmenaltı~|Değirmenaltı1~|Edremit@|Edremit1@|Eminleraltı~|Gün~|Hacı Ahmet~|Hacı Efendiler~|Hacı Efendiler1~|Hamdi Bey1@|Hamdibey@|Karaaydın@|Korkmazlar~|Reşadiye@|Soğuk Hava Deposu@|Soğuk Hava1@|Tuztaşı~|Yeni Camii~|Yeni~|Yeni-~|Yıldız~|Zülfikar~|Çanlılar~|Çanlılar1~|Çanlılar2~|Çanlılar3~|Çınarçukuru~
+23165	Karaaydın Köyü	Karaaydın=|Karayolu@
+183040	Karabey Köyü	Ahiler~|Akpınar~|Akpınar/1~|Akpınar/2~|Alan~|Alan/1~|Alan/2~|Alan/3~|Aydınlı~|Aşıklar~|Bayramyeri~|Bağlar~|Bağlar/1~|Bağlar/2~|Bağlar/3~|Bağlar/4~|Bağlar/5~|Bağlar/6~|Bağlar/7~|Gül~|Gül/1~|Gül/2~|Halim~|Hamdibey~|Hamdibey/1~|Hamdibey/10~|Hamdibey/2~|Hamdibey/3~|Hamdibey/4~|Hamdibey/5~|Hamdibey/6~|Hamdibey/7~|Hamdibey/9~|Harman~|Harman/3~|Harman/4~|Harman/5~|Hoca Ahmet Yesevi~|Hoca Ahmet Yesevi/1~|Hoca Ahmet Yesevi/2~|Hoca Ahmet Yesevi/3~|Hoca Ahmet Yesevi/4~|Kanal~|Karabey~|Karabey/1~|Karabey/2~|Karabey/3~|Karapınar~|Lale~|Lale/1~|Mezarlık~|Mezarlık1~|Papatya~|Papatya/1~|Sağlık~|Sümbül~|Yunak~|Yunak/1~|Çavuşoğlu~|Çavuşoğlu/1~|Çavuşoğlu/2~|İsmail Helvacı~|İğdeli~
+23128	Karadoru Köyü	Karadoru=
+23131	Karaköy Köyü	Karaköy=
+23130	Karaköy Köyü, Gedikoba Mezrası	Gedikoba=
+23132	Karasu Köyü	Karasu=
+23153	Kargacı Köyü	Kargacı=
+23188	Koruköy Köyü, Çaltı Mevkii	Karayolu2@|Çaltı=
+23187	Koruköy Köyü, Çam Mevkii	Karayolu2@|Çam=
+23189	Kovancı Köyü	Kovancı=
+180986	Kurtlar Köyü	Cuma 1~|Cuma 2~|Cuma~|Dallık~|Demirci 1~|Demirci 3~|Demirci_2~|Değirmen 1~|Değirmen~|Dibektaşı~|Gümüşler 1~|Gümüşler~|Hamdibey~|Hamdibey/1~|Kalkım~|Kapalı~|Manolya~|Orman~|Orman/1~|Orman/2~|Orman/3~|Salkım~|Yenice 1~|Yenice 2~|Yenice~|Çavuşlar~|Çay Çıkmazı~|Çınarlı~
+20202	Kurtuluş Mah.	1 Nolu Sanayi~|2 Nolu Sanayi~|3 Nolu Sanayi~|4 Nolu Sanayi~|401 Nolu~|402 Nolu~|403 Nolu~|404 Nolu~|405 Nolu~|406 Nolu~|407 Nolu~|408 Nolu~|409 Nolu~|412 Nolu~|413 Nolu~|414 Nolu~|415 Nolu~|416 Nolu~|417 Nolu~|418 Nolu~|419 Nolu~|5 Nolu Sanayi~|6 Nolu Sanayi~|7 Nolu Sanayi~|Ahmet Demirbaş@|Anafartalar@|Atatürk@|Biga@|Cumhuriyet@|Emlak Kredi Bankası@|Hakimiyet@|Hamdibey@|Hc. İbrahim Bodur%|Hizarcılar~|Kavaklı Dere~|Kızılay@|Mehmet Bodur@|Menderes~|Nevruz Yolu@|Nuri Bilge Ceylan~|Panayır~|Pınar@|Sakarya@|Uzun~|Çamlıca@|Çanakkale Balıkesir Asfaltı@|Çınar@|İnönü@|İstiklal@|Şakir Askan~|Şehit Ramazan Ege@|Şehitlik~
+23190	Kuzupınarı Köyü	Kuzupınarı=
+23167	Kırıklar Köyü	Kırıklar=
+23185	Kızıldam Köyü	Kızıldam=
+20201	Kışlalar Mah.	109 Nolu~|200 Nolu~|201 Nolu~|202 Nolu~|203 Nolu~|204 Nolu~|205 Nolu~|206 Nolu~|207 Nolu~|208 Nolu~|209 Nolu~|210 Nolu~|211 Nolu~|212 Nolu~|213 Nolu~|214 Nolu~|215 Nolu~|216 Nolu~|217 Nolu~|218 Nolu~|219 Nolu~|220 Nolu~|221 Nolu~|223 Nolu~|224 Nolu~|Adalar@|Adalet@|Agonya@|Alanlar~|Alparslan@|Dede~|Dere~|Fatih@|Fındıcak~|Gaziler~|Gönlük~|Harmanlar~|Kavaklı Dere~|Kavakyaykın@|Kıbrıs~|Mareşal Fevzi Çakmak@|Mimar Sinan~|Nevruz Yolu@|Seyvan@|Tekel~|Vatan@|Yeşillik@|Yunus Emre~|Ziya Gökalp~|Zübeyde Hanım@|Çanakkale Balıkkesir Asfaltı@|Çayırlar~|İnönü@
+23133	Namazgah Köyü	Namazgah=
+23134	Nevruz Köyü, Aşağı Mevkii	Aşağı=
+23136	Nevruz Köyü, Orta Mevkii	Aşağı=|Orta=
+23135	Nevruz Köyü, Yukarı Mevkii	Aşağı=|Orta=|Yukarı=
+23168	Oğlanalanı Köyü	Oğlanalanı=
+20211	Pazarköy Köyü, Cumhuriyet Mevkii	Akasya~|Akpınar~|Bent~|Beyazıt~|Beyazıt/2~|Beyazıt/3.~|Beyazıt/4~|Beyazıt/5~|Cengiz Topel~|Cengiz Topel/1~|Cengiz Topel/2~|Ceylan~|Erdem~|Erikli~|Gölcük~|Hacılar~|Konak~|Kıraç~|Kıraç/1~|Kıraç/2~|Lise~|Lise/1~|Mercan~|Namık Kemal~|Nergiz~|Ova~|Pazarköy/1~|Pazarköy/2~|Pazarköy/3~|Pazarköy/4~|Polat~|Sadık Ahmet~|Savaşlar~|Sazak~|Sazak/1~|Silahlı Kuvvetler~|Yonca~|Zeybek~|Çakır~|Çanakkale~|Çanakkale/1~|Çınarlar~|Şener~
+20212	Pazarköy Köyü, İstiklal Mevkii	Akpınar~|Akpınar/1~|Akpınar/10~|Akpınar/2~|Akpınar/3~|Akpınar/4~|Akpınar/5~|Akpınar/6~|Akpınar/7~|Akpınar/8~|Akpınar/9~|Aksoylar~|Balıkesir~|Balıkesir/1~|Balıkesir/2~|Balıkesir/3~|Balıkesir/4~|Balıkesir/5~|Bağarası~|Bağlar~|Bağlar/1~|Bağlar/2~|Bağlar/3~|Cumhuriyet~|Demirci1~|Demirci_4~|Dutlu~|Evren~|Gül~|Gürlen~|Karıncalı~|Koruorman~|Koruorman/1~|Koruorman/2~|Koruorman/4~|Lale~|Macarlar~|Mandıra~|Menderes~|Menderes/1~|Menderes/2~|Menekşe~|Mezarlık~|Ova~|Ova/1~|Ova/4~|Ova/5~|Subaşı~|Yalçın~|Yıldırım~|Zübeyde Hanım~|Zübeyde Hanım/2~|Çeşme~|İkizler~|Şehitler~
+23155	Reşadiye Köyü	Reşadiye=
+23137	Sameteli Köyü	Sameteli=
+23138	Sarıçayır Köyü	Sarıçayır=
+23139	Sazak Köyü	Sazak=
+23140	Seyvan Köyü	Karayolu@|Seyvan=
+23141	Sofular Köyü	Sofular=
+23142	Soğucak Köyü	Soğucak=
+23192	Suuçtu Köyü	Suuçtu=
+23193	Suuçtu Köyü, Ahmetler Mezrası	Ahmetler=
+23143	Taban Köyü	Taban=
+23144	Torhasan Köyü	Asmalı=|Aşağıkaraarşık=|Torhasan=
+23145	Torhasan Köyü, Güveyler Mezrası	Güveyler=
+23146	Umurlar Köyü	Umurlar=
+23147	Umurlar Köyü, Yeni Mevkii	Umurlar=|Yeni=
+23197	Yalıoba Köyü	Yalıoba=
+23170	Yarış Köyü	Yarış=
+23195	Yağdıran Köyü, Kabaağaç Arası Mevkii	Kabaağaçarası=
+23194	Yağdıran Köyü, Yeşiller Mevkii	Kabaağaçarası=|Yeşiller=
+23196	Yağdıran Köyü, İbrahimler Mevkii	İbrahimler=
+20203	Yeni Mah.	301 Nolu~|302 Nolu~|303 Nolu~|304 Nolu~|305 Nolu~|306 Nolu~|307 Nolu~|308 Nolu~|309 Nolu~|310 Nolu~|311 Nolu~|312 Nolu~|313 Nolu~|314 Nolu~|315 Nolu~|Agonya@|Asmalı~|Barış@|Biga@|Cengiz~|Dere~|Elmalı@|Esnaflar~|Hc. İbrahim Bodur%|Karanfil~|Karapınar@|Koncagül~|Manolya@|Mehmet Akif Ersoy@|Mehmet Bodur@|Orta Okul~|Otogaraj Myd.|Pazar Yeri Myd.|Prof. Dr. Mehmet Emin Ceylan~|Ptt~|Pınar@|Sanayi Bölgesi=|Selamet@|Tütüncüler@|Yıldırım@|Çanakkale Balıkesir Asfaltı@|Çanakkale@|Çarşı@|İlkokul~|Şehit Hv.yzb.p.ali Birgül@
+23198	Yeniköy Köyü	Yeniköy=
+23199	Yeşilköy Köyü	Yeşilköy=
+23148	Yukarıinova Köyü	Yukarıinova=
+23149	Yukarıkaraaşık Köyü	Yukarıkaraaşık=
+23171	Yukarıçavuş Köyü	Yukarıçavuş=
+23119	Çakır Köyü	1@|Karaköy=|Çakır=
+23118	Çakır Köyü, Çargan Oba Mezrası	Çakır=|Çargan Oba=
+23120	Çakıroba Köyü	Çakıroba/1=
+23121	Çal Köyü	Karayolu1@|Çal=
+23122	Çamoba Köyü	Çamoba=
+23162	Çiftlik Köyü	Çiftlik=
+23163	Çukuroba Köyü	Çukuroba=
+23166	Çukuroba Köyü, Kıraçoba Mevkii	Kıraçoba=
+23123	Çınarcık Köyü	Karayolu1@|Çınarcık=
+23177	Çınarköy Köyü	Çınarköy=
+23178	Çırpılar Köyü	Karayolu@|Çırpılar=
+23169	Örencik Köyü	Örencik=
+23191	Öğmen Köyü	Öğmen=
+23156	Üçkabaağaç Köyü	Üçkabaağaç=

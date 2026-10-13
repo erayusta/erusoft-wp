@@ -1,0 +1,83 @@
+173949	Abdallı Mah.	Abdallı=
+173951	Akarçay Mah.	Adacık=|Akarçay=|Karakız=|Yeniyapan=|Şahinler=
+174051	Akpınar Mah.	Akpınar.=|Köroğlu=
+173953	Almaşar Mah.	Almaşar=|Almaşar/1=|Aratdağı=|Bulutlu=|Yukarıalmaşar=|Üstündağ=|Şanlıurfa Gaziantep Yolu@
+173955	Altınova Mah.	Altınova Bahçelievler~|Altınova Bahçelievler/1~|Altınova Bahçelievler/100~|Altınova Bahçelievler/2~|Altınova Kaymakam Tuncay Sonel@|Altınova Kaymakam Tuncay Sonel/1~|Altınova Kaymakam Tuncay Sonel/2~|Altınova Kaymakam Tuncay Sonel/3~|Altınova Menekşe~|Altınova Çiğdem~|Altınova Çiğdem/1~|Altınova Çiğdem/2~|Altınova Çiğdem/3~|Birecik@|Birecik/1~|Birecik/2~|Birecik/3~|Birecik/4~|Birecik/5~|Birecik/6~|Birecik/7~|Lale~|Lale/1~|Mahmut Yıldırım@|Mahmut Yıldırım/1~|Polatlar~|Polatlar/1~|Polatlar/2~|Susam~|Sümbül~|Sümbül/1~|Yeni Camii~|Yeni Camii/1~|Yeni Camii/2~|Yeni Camii/3~|Yeni Camii/4~|Yeni Okul@|Yeni Okul/1~|Yeni Okul/10~|Yeni Okul/2~|Yeni Okul/3~|Yeni Okul/4~|Yeni Okul/5~|Örnek~|Örnek/1~|Şht.polis Turğut İnaç@|Şht.polis Turğut İnaç/1~|Şht.polis Turğut İnaç/2~|Şht.polis Turğut İnaç/3~|Şht.polis Turğut İnaç/4~|Şht.polis Turğut İnaç/5~
+173957	Arslanlı Mah.	Arslanlı=
+173945	Ayran Mah.	09.~|10.~|100.~|101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|11.~|110.~|111.~|112.~|113.~|114~|115.~|116.~|117.~|118.~|119.~|12.~|120.-~|121.~|122.~|123.~|124.~|125.~|125./1~|126.~|127.~|128.~|129.~|13.~|130.~|131.~|132.~|133.-=|134.-=|135.-=|136-=|137.=|138.=|14.~|15.-~|16.~|17.~|18.~|19.~|20.~|20./1~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|27./1~|27./2~|28.~|29.~|30.~|31.~|32.~|33.~|34.~|35.~|35./1~|36.~|37.~|38.~|39.~|40.~|41.~|42.~|43.~|43./1~|44.~|45.~|46.~|46./1~|47.~|48.~|49.~|50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|60.~|61.~|62.~|63.~|64.~|65.~|66.~|67.~|68.~|69.~|70.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|80.~|81.~|82.~|83.~|84.~|85.~|86.~|87.~|88.~|89~|90.~|91.~|92.~|93.~|94.~|95.~|96.~|97.~|98.~|98./1~|99.~|Ayran Atatürk@|Ayran Atatürk/1~|Ayran Atatürk/2~|Ayran Atatürk/6~|Ayran Atatürk/7~|Ayran Atatürk/8~|Ayran Bosna@|Ayran Cumhuriyet Myd.|Ayran Fevzi Çakmak@|Ayran Fevzi Çakmak/1~|Ayran Fevzi Çakmak/2~|Ayran/12~|Ayran/3~|Ayran/4~|Ayran/5=|Ayran/6~|Cengiz Topel@|Fatih Sultan Mehmet (pınarbaşı)-@|Fatih Sultan Mehmet@|Fatih Sultan Mehmet/1~|Fatih Sultan Mehmet/2~|Fatih Sultan Mehmet/3~|Kazım Karabekir@
+173963	Aşağı Fatmacık Mah.	Aşağı Fatmacık=|Yeşilyurt=|Yukarıfatmacık=
+173965	Aşağı Habip Mah.	Aşağı Habip=
+173967	Aşağı Karkutlu Mah.	Aslanlar=|Aşağı Karkutlu=|Karadağ=|Kayalar=|Polatlı=|Yukarı Karkutlu=
+173969	Aşağı Kuyucak Mah.	Aşağı Kuyucak=|Orta Kuyucak=|Yukarı Kuyucak=
+173959	Aşağıalmaşar Mah.	Aşağıalmaşar=|Gazi=|Gökeşme=|Güllü-~|Tekağaç=|Şanlıurfa Gaziantep Otoyol%|Şanlıurfa Gaziantep Yolu@
+173961	Aşağıeşme Mah.	Aşağıeşme=|Orta Eşme=|Yeni Eşme=|Yeni=|Yukarı Eşme=
+174045	Bahçeönü Mah.	Bahçeönü=
+173971	Bağlarbaşı Mah.	Ahmet Fakıbaba=|Ağırbaş=|Bağlarbaşı=|Bağlarbaşı Şht.polis Turğut İnaç=|Kaymakam Tuncay Sonel=|Kozlu=|İlköğretim=|Şehit Komiser Aliosman Sarıçalı=
+173973	Bentbahçesi Mah.	Bentbahçesi=
+173975	Bozdere Mah.	Bozdere=|Esentepe=
+174053	Boztepe Mah.	Boztepe=
+174049	Böğürtlen Mah.	Böğürtlen B.m=|Türkmen=
+174055	Cibinören Mah.	Cibinören=|Külünçe=
+80333	Cumhuriyet Mah.	Altıntaş~|Altıntaş/1~|Altıntaş/2~|Altıntaş1~|Atatürk@|Aygün~|Buğday Pazarı/1~|Cumhuriyet/1~|Dahar Ağa-~|Fd~|Fevzi Çakmak~|Göz Bahçeleri 1~|Göz Bahçeleri~|Kazı Mağarası~|Kazı Mağarası/1~|Mazman~|Mecan Kapısı@|Mecan Kapısı/1~|Meşe~|Molla Selim~|Nacalşerif~|Nacar Şerif1~|Namık Kemal~|Namık Kemal/1~|Namık Kemal/1000~|Namık Kemal/2~|Sağlık Ocağı@|Tan~|Tan1~|Ulusu~|Ulusu/1~|Yeni Urfa Yolu@|Yeni Urfa Yolu/1~|Yeni Urfa Yolu/2=|Yeni Urfa Yolu/4~|Yenı Yol~|Yeşiltepe~|Yeşiltepe1~|Yeşiltepe2~|Yeşiltepe3~|Çam~|Çam1~|Çelenk~|Çerçi Yolu~|Çerçi Yolu/1~|Çerçi Yolu/2~|Çerçi Yolu/3~|Şahinkaya~
+174057	Dalocak Mah.	Dalocak=|Şanlıurfa Gaziantep Otoyol%
+174059	Damlıca Mah.	Damlıca=
+174087	Dağören Mah.	Dağören=|Körkuyu=
+173983	Diktepe Mah.	Diktepe=
+173985	Divriği Mah.	Divriği=
+173987	Dorucak Mah.	Dorucak=
+173989	Duyduk Mah.	Duyduk 1=|Duyduk=
+173991	Düzlüce Mah.	Düzlüce=
+174061	Dışlık Mah.	Alahacı=|Dışlık=|Dışlık Yeni=|Pusatlı=|Yeni Savaşa=
+174063	Ekenek Mah.	Beyazharabe=|Ekenek=|Kurunca=|Meyanca=
+173993	Geçittepe Mah.	Baraj Lojmanları=|Geçittepe=|Keskince Kaymakam Tuncay Sonel@
+173995	Göktepe Mah.	Bilekli=|Caboğlu=|Denktaş=|Göktepe=
+173997	Günışığı Mah.	Günışığı=|Şanlıurfa Gaziantep Otoyol%
+173999	Güvenir Mah.	Güvenir=
+174017	Güzelyurt Mah.	Atmaca=|Eriç Mezrası-~|Karayılan=|Yiğitler=|Çetinler=
+184286	Han Mah.	Han=
+174065	Haydarahmet Mah.	Eski Harabe-~|Haydarahmet=|Kısa Kuyu=|Uzunkuyu=|Şanlıurfa Gaziantep Otoyol%
+80334	Hoca Şerif Mah.	Akdeniz~|Akdeniz/1~|Akdeniz/2~|Akdeniz/3~|Atatürk İlkokulu@|Balkan~|Balkan/1~|Balkan/2~|Bağlar Yolu@|Fevzi Çakmak~|Güllü Mustafa~|Gültepe~|Hakim Baba~|Hakim Baba/1~|Hakim Baba/2~|Harputlu~|Keçeci Abbas~|Kureyş Çıkmazı~|Mayalar~|Mağara Camii@|Nacalşerif~|Sağlık Ocağı@|Sağlık Ocağı/1~|Tevney~|Tevney/1~|Tütüncüler~|Tütüncüler/1~|Şaşo Ahmet~
+174067	Ilgar Mah.	Ilgar Doğan=|Ilgar=|Yeşiltepe 1=|İğdeli=
+174047	Karababa Mah.	Karababa=
+80335	Karşıyaka Mah.	1~|1/1~|11~|13~|15~|17~|19~|2~|3~|5~|521~|521/1~|523~|523/1~|523/2~|523/3~|523/4~|523/5~|533~|538~|544~|545~|546~|547~|550~|551~|7~|7/1~|9~|Abdi İpekçi@|Abdi İpekçi/1~|Abdi İpekçi/2@|Abdi İpekçi/3~|Abdi İpekçi/4~|Abdi İpekçi/5~|Akdoğan~|Aydoğdu~|Aydoğdu/1~|Deniz~|Deniz/1~|Dicle~|Dicle/1~|Dicle/2~|Eski Nizip Yolu 1~|Eski Nizip Yolu 2~|Eski Nizip Yolu@|Eski Nizip Yolu/10~|Eski Nizip Yolu/11~|Eski Nizip Yolu/3~|Eski Nizip Yolu/4~|Eski Nizip Yolu/5~|Eski Nizip Yolu/6~|Eski Nizip Yolu/7~|Eski Nizip Yolu/8~|Eski Nizip Yolu/9~|Karşıyaka~|Köprü Yolu@|Köprü Yolu/1@|Köprü Yolu/2~|Köprü Yolu/3~|Nizip Yolu@|Oğuzlar~|Palandöken~|Palandöken/1~|Sanayi 1~|Sanayi 10~|Sanayi 11~|Sanayi 12~|Sanayi 13~|Sanayi 2~|Sanayi 3~|Sanayi 4~|Sanayi 5~|Sanayi 6~|Sanayi 7~|Sanayi 8~|Sanayi 9~|Sanayi@|Sanayi/14~|Sanayi/15~|Sanayi/16~|Sanayi/17~|Sanayi/18~|Sanayi/19~|Sanayi/20~|Saray Yolu@|Yonca~|Yonca/1~|Yıldırım@|Çakmaklar~|Çakmaklar/1~|İmam Hatip Lisesi@|İmam Hatip Lisesi/1~|İmam Hatip Lisesi/2~|İmam Hatip Lisesi/3~
+174007	Keskince Mah.	Bozkurt 1~|Bozkurt 2~|Bozkurt 3~|Bozkurt~|Keskince 1=|Keskince 2~|Keskince 3~|Keskince 4~|Keskince 5~|Keskince 6~|Keskince 7~|Keskince 8~|Keskince Fırat=|Keskince Kaymakam Tuncay Sonel@|Keskince Kaymakam Tuncay Sonel/3~|Keskince Kaymakam Tuncay Sonel/8~|Keskince Yavuz~|Muhtar Osman Sarı~
+174009	Kocaali Mah.	1. Nolu@|1.sokak~|10.sokak~|11.sokak~|12.sokak~|2.nolu@|2.sokak~|3. Nolu@|3.sokak~|4.nolu@|4.sokak~|5. Nolu@|5.sokak~|6.sokak~|7.sokak~|8.sokak~|9.sokak~|Birecik Osb-~|Kocaali=|Kulaksız=|Şanlıurfa Gaziantep Otoyol%|Şanlıurfa Gaziantep Yolu@
+174011	Konak Mah.	Gariboğlu=|Konak=|Sakaltutan=
+174071	Kural Mah.	Atatürk Kural@|Atatürk Kural/1=|Atatürk.=|Atatürk/1=|Gün=|I=|Kural Cumhuriyet@|Kural Cumhuriyet/1=|Kural Hürriyet=|Kural Karanfil=|Kural Yavuz Sultan Seli/2=|Kural Yavuz Sultan Selim@|Kural Yavuz Sultan Selim/1=|Kural Yavuz Sultan Selim/3=|Kural Yavuz Sultan Selim/4=|Yavuz Sultan Selim Kural=|İstiklal=
+80336	Kurtuluş Mah.	Adalı Çıkmazı~|Aktaş~|Akşahin~|Aslan Çıkmazı~|Aydın~|Açıkbaş~|Buğday Pazarı@|Camii-~|Cennet Baba~|Değirmen~|Doğan~|Eski Urfa Yolu@|Fırat İlkokulu@|Günay 1~|Günay~|Hac Cemiller~|Hasan Keşif@|Işık~|Kabakulak~|Kaplan~|Karataş~|Kaya 1~|Kaya~|Kule Altı~|Kurtuluş 1~|Kurtuluş 10~|Kurtuluş 1001~|Kurtuluş 1003~|Kurtuluş 1007~|Kurtuluş 102~|Kurtuluş 103~|Kurtuluş 105~|Kurtuluş 105/1~|Kurtuluş 107~|Kurtuluş 108~|Kurtuluş 109~|Kurtuluş 110~|Kurtuluş 111~|Kurtuluş 112~|Kurtuluş 113~|Kurtuluş 12~|Kurtuluş 13~|Kurtuluş 14~|Kurtuluş 15~|Kurtuluş 16~|Kurtuluş 2~|Kurtuluş 4~|Kurtuluş 5~|Kurtuluş 6~|Kurtuluş 7~|Kurtuluş 8~|Kurtuluş 9~|Kurtuluş~|Kurtuluş Yeni~|Kurtuluş Yeniyol 101~|Kurtuluş/1005~|Kurtuluş/20~|Kurtuluş11~|Kuşçular@|Mahmut Paşa~|Mazman-~|Meliki Dahar~|Mezbaha@|Onurlu~|Polat~|Polat/1~|Sakıp Yaşar@|Sedef~|Su Deposu~|Sünnetçiler Çıkmazı~|Taşkın~|Tekkanat~|Terece~|Turna~|Tünel~|Ufuk~|Uludağ~|Umut~|Urfa Kapısı@|Yalçın~|Yardımcı-~|Yardımcı1~|Yaşar~|Yeni Urfa Yolu@|Yeşil Dağ Camii~|Yeşildağ Fidanlık~|Yeşildağ Çıkmazı~|Yıldız~|Çalgıcılar~|Çelik~|Çiğdem~|Özkan~|İnnaplı Camii~|İnnaplı Camii Çık 1~|İnnaplı Camii Çık~|Şenöz~|Şeren 1~|Şeren~|Şıh Hasan@|Şıh Hasan/1~|Şıh Safi@
+174015	Kurucahöyük Mah.	Kurucahöyük=|Ortakurucahüyük=|Yukarıkurucahüyük=
+174013	Kömağıl Mah.	Aşağı Köm Ağıl=|Kömağıl=
+174019	Mengelli Mah.	Mengelli=
+80337	Merkez Mah.	11 Temmuz@|201~|202~|203~|204~|205~|Abdulvahap~|Adnan Menderes%|Adnan Menderes/1~|Ammi Kadir~|Açılan~|Bahçelievler@|Burç~|Cennet Baba~|Dişçi Fahri~|Ecri Efendi~|Eski Belediye@|Eski Belediye/1@|Faraç Çıkmazı~|Ferhat~|Fevzi Paşa~|Fincan~|Hac Cemiller~|Hac Cemiller/1~|Hac Miçaney~|Hacı Şerif Çıkmazı~|Hasan Baba@|Hasan Baba Hamamı~|Hasan Karaın/1~|Hasan Keşif@|Hastane@|Hastane/2~|Hastane/3~|Hoca Ahmet Yesevi@|Kale Altı@|Kale Altı/1@|Kesik Çıkmazı~|Kuşçular@|Mahmut Paşa~|Medrese@|Mehmet Emin Akan@|Merkez1~|Mirkelam~|Mustafa Efendi~|Müftü Mükerrem~|Sakıp Yaşar@|Suphi Sözmen@|Tekke Camii@|Tekke Camii/1~|Turşular~|Urfa Kapısı@|Uzun Çarşı~|Yeni Urfa Yolu@|Yusuf Kemal Yaşar@|Çarşı Cami~|Çarşı Cami/1~|Çelebi Çıkmazı-~|Çifte Han~|Özkan~|İnce Nacar Pazarı@|İnnaplı Camii~|Şıh Taha Çıkmazı~|Şıh Taha Çıkmazı/1~
+174021	Meteler Mah.	Aşağımeteler=|Meteler=|Şanlıurfa Gaziantep Otoyol%
+174073	Meyanca Mah.	Meyanca=
+80338	Meydan Mah.	11 Temmuz@|19 Mayıs@|701~|Ali Karaata@|Altınbaşak~|Aslantaş~|Ayvaz~|Ayvazlar~|Açıkgözoğlu~|Bingöl~|Birecik 6.~|Birecik 7~|Birecik 8~|Birecik 9~|Birecik1~|Birecik2~|Birecik3~|Birecik4~|Birecik5~|Birecik6~|Birecik7~|Buket~|Cennet~|Damla~|Dirier~|Doğuş~|Dr.abdulkadir Erdil@|Edebali@|Eski Top Sahası Dördüncü~|Eski Top Sahası~|Eski Top Sahası İkinci~|Fatih@|Ferit Aydın Mirkelam 1.~|Ferit Aydın Mirkelam@|Fırat@|Güzeler~|H.oktay Çulcuoğlu@|Halefoğlu~|Hasan Saygı@|Hastane 21.~|Hastane@|Hastane/1~|Hilal~|Huzur~|Kanarya~|Kanarya/1~|Kani Baba~|Kanıkara~|Karanfil~|Kelaynak~|Konar~|Lise@|Lise/1~|M.gökçek@|M.gökçek/34~|M.gökçek/35~|M.gökçek3~|Mehmet Özkınacı~|Merve~|Mevlana 1.~|Mevlana 2.~|Mevlana~|Meydan1~|Mimar Sinan@|Muhittin Aykılıç~|Nergiz~|Nergiz1~|Nevzat Yalçıntaş@|Nuri Sesigüzel@|Ocak~|P.t.t@|Palmiye~|Sadettin Karaata@|Sadettin Karaata/1~|Sakarya~|Seçme~|Sultan Kayıtbay@|Toki 1 Etap 2@|Toki 1 Etap 2/1~|Toki 1 Etap 2/2~|Toki 1 Etap 2/3~|Toki 1.etap 2.-~|Toki Sıra Evler=|Tuncay Sonel@|Uğur~|Yapıcı~|Yavuz Sultan Selim@|Yavuz Sultan Selim/1~|Yeni Urfa Yolu@|Zambak~|Zeytin Bahçesi=|Çerikan~|İlkbahar~|Şair Namık Ekrem@|Şair Namık Ekrem1~|Şehit Abdulgaffur Erkan~
+173947	Mezra Mah.	1.=|1./1=|2.=|3.=|4.=|5.~|6.~|A.eşref Fakkıbaba Caddesi@|Abdo~|Abdo/1~|Abdo/2~|Abdo/3~|Abdo/4~|Abdo/5~|Abdo/6~|Abdo/7~|Abdo/9~|Adalar /6~|Adalar~|Adalar/1~|Adalar/10~|Adalar/11~|Adalar/12~|Adalar/13~|Adalar/14~|Adalar/15~|Adalar/2~|Adalar/3~|Adalar/4~|Adalar/5~|Adalar/6~|Adalar/7~|Adalar/8~|Adalar/9~|Adalr/12~|Adalı~|Akasya~|Anafartalar@|Arslanoğlu Sk~|Arslanoğlu~|Atmacalar~|Ayasofya~|Bahçeler~|Bahçeler/1~|Bahçeler/2~|Berfin~|Bilinmeyen/2~|Bilinmeyen/3~|Bilinmeyen/4~|Birecik Caddesi-@|Birlik~|Bosna~|Ceren Sokak~|Ceren1~|Cumhuriyet@|Dar~|Demokrasi Caddesi@|Doğuş~|Eminler~|Faruk Çellik@|Faruk Çellik-@|Fenerbahçe~|Fidanlık Caddesi@|Gazali~|Gül 2~|Gül~|Güneş Caddesi@|Güven~|Hidayet~|Ihlamur~|Ihlamur/1~|Istınye@|Karataş/1~|Kayalar Caddesi@|Korkmazlar 1~|Korkmazlar 2~|M. Gökçek/12~|M. Gökçek/13~|M. Gökçek/15~|M. Göçek/14~|M. Göçek/15~|M.gökçek@|M.gökçek/1~|M.gökçek/1.~|M.gökçek/10~|M.gökçek/12~|M.gökçek/13~|M.gökçek/14~|M.gökçek/15~|M.gökçek/16~|M.gökçek/17~|M.gökçek/18~|M.gökçek/19~|M.gökçek/2~|M.gökçek/20~|M.gökçek/21~|M.gökçek/22~|M.gökçek/23~|M.gökçek/24~|M.gökçek/25~|M.gökçek/26~|M.gökçek/27~|M.gökçek/28~|M.gökçek/29~|M.gökçek/3~|M.gökçek/30~|M.gökçek/31~|M.gökçek/32~|M.gökçek/33~|M.gökçek/4~|M.gökçek/5~|M.gökçek/6~|M.gökçek/7~|M.gökçek/8~|M.gökçek/9~|Manolyan~|Mehmet Akif Ersoy@|Mehmet~|Melih Gökçek-@|Mevlana Çıkmazı~|Mezra 1-~|Mezra Camii~|Mezra Fırat~|Mezra Fırat/1~|Mezra Hastane~|Mezra Hastane-~|Mezra Karataş~|Mezra Lale~|Mezra Mevlana~|Mezra Polat~|Mezra Tuna~|Mezra Çam~|Mezra Çam Sokak Buraya Taşınsın~|Mezra İlköğretim@|Mezra/1~|Mezra/11~|Mezra/2~|Mezra/3~|Mezra/4~|Mezra/5~|Mimar Sinan Caddesi@|Mizan~|Nilüfer Sokak~|Nilüfer1~|Reyhan@|Reyhan Sk~|Sahil Yolu@|Sahil Yolu/1~|Sahil Yolu/100~|Sahil Yolu/2~|Sahil Yolu/3~|Sahil Yolu/4~|Sahil Yolu/5~|Sahil Yolu/6~|Sahil Yolu/9~|Selam Çıkmazı~|Su~|Sur~|Sur/1~|Sınır Caddesi-@|Tibil@|Tibil/1~|Tibil/2~|Tufan~|Yahya Akman@|Yavuz Selim@|Yavuzlar~|Yunus Emre~|Zerdali~|Çağlayan Sokak~|Özgül Caddesi@|Özgür~|Öziş~|İnce~|İnönü Sokak~|İnönü1~|İrem Sokak~|İrem1~|İstinye~|Şafak Sokak~|Şafak1~|Şehit Er Seracettin Aktaş@|Şehit Er Seracettin Aktaş/1~|Şehit Er Seracettin Aktaş/10~|Şehit Er Seracettin Aktaş/11~|Şehit Er Seracettin Aktaş/12~|Şehit Er Seracettin Aktaş/2~|Şehit Er Seracettin Aktaş/3~|Şehit Er Seracettin Aktaş/4~|Şehit Er Seracettin Aktaş/5~|Şehit Er Seracettin Aktaş/6~|Şehit Er Seracettin Aktaş/7~|Şehit Er Seracettin Aktaş/8~|Şehit Er Seracettin Aktaş/9~|Şehit Polis Mahmut Yavuz@|Şifa~|Şifa/1~
+174023	Orta Fatmacık Mah.	Orta Fatmacık=
+80339	Saha Mah.	Abbas Ağa~|Ata~|Atatürk@|Atatürk İlkokulu@|Atatürk/2~|Atatürk/3~|Atatürk/4~|Atlas~|Aşağı Karabaş 1=|Baraj~|Bağlar Yolu@|Caber Bahçesi=|Dahar Ağa~|Dahar Ağa/1~|Demirci Pazarı~|Eski Hayrat~|Eski Hayrat/1~|Gencer~|Güneş~|Hankef=|Hürriyet~|Kale Altı@|Karaca Çıkmazı~|Kelaynak Yolu@|Kemaliye~|Kemaliye/1~|Köşker Pazarı~|Küçük Çarşı~|Küçük Çarşı/1~|Kılıç~|Manolya~|Mayalar~|Mağara Camii@|Mağara Camii1@|Mağara Camii2@|Mehmet Alpay~|Okul Yolu~|Okul Yolu/1~|Okul Yolu/2~|Polatkan~|Saha-~|Tevney~|Tuna~|Tuna/1~|Tütüncüler~|Yeni Urfa Yolu/2=|Yeniyol 34=|Yunus Emre 1~|Yunus Emre 2~|Yunus Emre 3~|Çatalkap=|Çerçi Yolu~|İnce Nacar Pazarı@|Şanlıurfa Gaziantep Otoyol%|Şerif Şen 2.bölge~|Şerif Şen 2.bölge/1~|Şerif Şen 2.bölge/2~|Şerif Şen 2.bölge/3~|Şerif Şen 2.bölge/4~|Şerif Şen~|Şerif Şen/1~|Şerif Şen/2~|Şerif Şen/3~|Şerif Şen/4~|Şerif Şen/5~|Şerif Şen/6~|Şerif Şen/7~|Şerif Şen/8~|Şerif Şen/9~
+80340	Sancak Mah.	Ak Yavuz~|Ammi Kadir-~|Asafbey Çıkmazı~|Asafbey Çıkmazı/1~|Atar Pazarı~|Bayraktar~|Berber Halil~|Berber Halil/1~|Cuma Pazarı=|Dahar Ağa~|Demirci Kadir Çıkmazı~|Enver Akan~|Fırat İlkokulu-@|Gümgüm Çıkmazı-~|Kadir Ağa~|Kadir Ağa/1~|Kaleli Çıkmazı~|Karanlık Çıkmazı~|Köşker Pazarı~|Mazman~|Mazman/1~|Mazman/2~|Mağara Camii@|Mağara Camii1@|Mağara Camii2@|Mecan Kapısı@|Mecan Kapısı/2~|Mehmet Alpay~|Mehmet Alpay/1~|Onurlu-~|Salih Hoca~|Salih Hoca-~|Salih Hoca/1~|Sancak Karababa~|Sancak Yokuşu~|Sancak Yokuşu/1~|Sancak Yokuşu/2~|Sağlık Ocağı@|Sebze Hali~|Tevfik Hoca Çıkmazı~|Topuz Ağa~|Topçu Kadir~|Urfa Kapısı@|Uzun Çarşı~|Uçak Türk~|Yavuz~|Yavuz/1~|Yavuz/2~|Yavuz/3~|Yavuz/4~|Yavuz/5~|Çarşı Cami~|Çarşı Cami/1~|Çulcular Çıkmazı~|İnce Nacar Pazarı@|Şerbetçi~|Şıh Hasan@
+174025	Sekili Mah.	Sekili=
+174077	Sumaklı Mah.	Sumaklı=
+174027	Surtepe Mah.	Surtepe=|Yeniyol 34=
+197217	Söğürtlen Mah.	Söğürtlen=
+174029	Tüten Mah.	Karakuyu=|Kesme=|Tüten=|Yeşilköy=|İkimağara=|Şanlıurfa Gaziantep Otoyol%
+174031	Uğurcuk Mah.	Tek Taş=|Urfa Antep Otoyol%|Uğurcuk=|Şanlıurfa Birecik Bağlantı Otoyol%|Şanlıurfa Gaziantep Otoyol%
+174035	Yaylacık Mah.	Küçük Yaylacık=|Yaylacık=|Yukarı Yaylacık=
+174081	Yeniakpınar Mah.	Tepeören=|Yeniakpınar=
+99755	Yukarı Karabaş Mah.	Aşağı Karabaş=|Bilinmeyen4=|Bilinmeyen5=|Halfeti Yolu=|Orta Karabaş=|Yukarı Karabaş=
+174039	Yukarıhabib Mah.	Yukarıhabib=
+174041	Yukarıincirli Mah.	Aşağıincirli=|Yeniyapan 1=|Yukarıincirli=|Çatalkap=|Şanlıurfa Gaziantep Otoyol%
+174083	Yukarıyeniçağ Mah.	Aşağıyeniçağ=|Yukarıyeniçağ=|Şanlıurfa Gaziantep Otoyol%
+174085	Yuvacık Mah.	Eşme=|Sugeldi=|Yuvacık=|Şanlıurfa Gaziantep Otoyol%
+174037	Yılmaz Mah.	Yılmaz=|Şanlıurfa Birecik Bağlantı Otoyol%|Şanlıurfa Gaziantep Otoyol%
+174043	Ziyaret Mah.	Ada=|Ziyaret=
+173979	Çiftlik Mah.	Ayran@|Ayran/1~|Ayran/10~|Ayran/11~|Ayran/2~|Ayran/7~|Ayran/8~|Ayran/9~|Bahçe~|Fıstık 1~|Fıstık~|Lojman~|Menekşe~|Nergis~|Saha~|Saha/1~|Sedir~|Tepe~|Yeniyol6~|Çiftlik Cumhuriyet@|Çiftlik Cumhuriyet/1~|Çiftlik Cumhuriyet/2~|Çiftlik Cumhuriyet/3~|Çiftlik Cumhuriyet/4~|Çiftlik Damla~|Çiftlik Gül~|Çiftlik Hürriyet@|Çiftlik Hürriyet/1~|Çiftlik Hürriyet/2~|Çiftlik Hürriyet/3~|Çiftlik Karanfil~|Çiftlik Lale~|Çiftlik İstiklal@|Çiftlik İstiklal/1.~|Çiftlikgül/1~|Şirinler~
+173977	Çiçekalan Mah.	Çiçekalan=
+173981	Çoğan Mah.	Surdışı=|Çoğan=|Şanlıurfa Birecik Bağlantı Otoyol%|Şanlıurfa Gaziantep Yolu@
+174075	Özveren Mah.	Özveren=
+174033	Ünsal Mah.	Namazlı 1=|Namazlı 2=|Ünsal=
+174069	İnceler Mah.	Torbalı=|İnceler=
+174003	İncirli Mah.	İncirli=
+174005	İncirlidere Mah.	İncirlidere=
+174001	İnnaplı Mah.	Eski İnnaplı=|İnnaplı=|Şanlıurfa Gaziantep Otoyol%
+174079	Şekerköy Mah.	Harabe=|Şekerköy=

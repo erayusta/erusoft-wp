@@ -1,0 +1,57 @@
+97855	Akpınar Köyü	Akpınar=|Değirmen=
+97857	Avlayan Köyü, Kabaçayır Mevkii	Kabaçayır=
+97858	Avlayan Köyü, Kozlar Mevkii	Kozlar=
+97856	Avlayan Köyü, Merkez Mevkii	Merkez=
+97859	Avlayan Köyü, Osmancık Mevkii	Osmancık=
+97861	Büyükmelen Köyü, Merkez Mevkii	Merkez=
+97860	Büyükmelen Köyü, Süleyman Hancı Mevkii	Süleyman Hancı=
+97863	Dokuzdeğirmen Köyü, Korazoğlu Mevkii	Korazoğlu=|Çamlıpınar=
+97864	Dokuzdeğirmen Köyü, Merkez Mevkii	Değirmen=|Merkez=
+97865	Esentepe Köyü	Esentepe=
+97866	Hamascık Köyü, Merkez Mevkii	Merkez=
+97867	Hamascık Köyü, Tomas Mevkii	Davutağa=|Tomas=
+97868	Hamascık Köyü, İmriz Mevkii	İmriz=
+97869	Harmankaya Köyü	Harmankaya=
+97870	Iğdır Köyü	Iğdır=
+97873	Kızılüzüm Köyü, Dere Mevkii	Dere=|Pazarcık=
+97871	Kızılüzüm Köyü, Hatipoğlu Mevkii	12345=|5432=|Hatipoğlu=|Merkez=
+97872	Kızılüzüm Köyü, Kuru Ali Mevkii	Kuruali=|Merkez=
+97874	Kızılüzüm Köyü, Merkez Mevkii	Dere=|Kuru Ali=|Merkez=
+91210	Mehmet Akif Mah.	230.~|233.~|234.~|236.~|237.~|238.~|240.~|242.~|243.~|244.~|245.~|253.~|270.~|280.~|281.~|282.~|283.~|288.~|290.~|291.~|292.~|302.~|303.~|304.~|305.~|306.~|308.~|310.~|311.~|312.~|313.~|315.~|316.~|317.~|Adnan Menderes@|Coşar~|Cumhuriyet@|Elmacı~|Fevzi Çakmak@|Gül~|Gümüş~|Hitit~|Keleş~|Muştu~|Pak~|Polat~|Türedi~|Yıldız~|Çelik~|Şehit Eyüp Keleş~|Şehit Nusret Akar@|Şehit Turgut Duman@
+97875	Mısırlık Köyü	Karaçörtlen=|Merkez=|Mısırlık=
+97877	Ordulukaradere Köyü, Fırınyanı Mevkii	Fırınyanı=
+97879	Ordulukaradere Köyü, Güney Mevkii	Güney=
+97876	Ordulukaradere Köyü, Kuz Mevkii	Kuz=
+97881	Ordulukaradere Köyü, Merkez Mevkii	Merkez=
+97878	Ordulukaradere Köyü, Okul Mevkii	Okul=
+97880	Ordulukaradere Köyü, Şakir Mevkii	Şakir=
+91211	Orta Mah.	1.~|10.~|111.~|12.~|14.~|15.~|18.~|19.~|2.~|20.~|21.~|23.~|24.~|25.~|26.~|28.~|3.~|33.~|35.~|39.~|4.~|5.~|54.~|55.~|60.~|62.~|65.~|66.~|67.~|70.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|8.~|80.~|81.~|82.~|86.~|88.~|9.~|92.~|93.~|94.~|95.~|Atatürk%|Atmaca~|Aydın~|Bakırcılar~|Cumhuriyet@|Derya~|Erbaş~|Erol~|Gazi~|Kibar~|Kılıç~|Meriç~|Metin~|Molla Ahmet~|Muallim~|Nalbant~|Nazlı~|Onur~|Pazar~|Pirdal~|Poyraz~|Sakin~|Spor~|Trabzon~|Yavuz~|Yayla~|Öz~|Özbek~|Özkan~|Öztürk~|İstiklal@|Şafak~|Şehir Myd.|Şehit Nusret Akar@|Şehit Turgut Duman@
+97886	Subaşı Köyü, Cami Mevkii	Cami=
+97885	Subaşı Köyü, Değirmen Mevkii	Değirmen=
+97884	Sırtpınar Köyü, Merkez Mevkii	Iğdır=|Merkez=
+97883	Sırtpınar Köyü, Ören Mevkii	Ören1=
+97887	Taşlık Köyü	Arif=|Taşlık=
+91212	Yaka Mah.	303.~|304.~|331.~|332.~|335.~|336.~|340.~|341.~|342.~|343.~|344.~|345.~|346.~|347.~|348.~|349.~|353.~|356.~|357.~|358.~|359.~|361.~|362.~|363.~|364.~|365.~|366.~|367.~|380.~|383.~|387.~|390.~|401.~|403.~|Adnan Menderes@|Ak~|Barbaros@|Bulut~|Cami~|Coşar~|Cumhuriyet@|Derviş~|Emniyet~|Güney~|Gür~|Ihlamur~|Lale~|Tuna~|Yeni~|Yeşil~|Yunus Emre~|Zambak~|Çiçek~|Şehit Mesut Kıroğlu@|Şehit Nusret Akar@
+91213	Yeni Mah.	191.~|192.~|193.~|194.~|196.~|199.~|200.~|201.~|203.~|204.~|210.~|211.~|212.~|214.~|215.~|216.~|218.~|222.~|224.~|353.~|Ak~|Akoğlu~|Akçay~|Can~|Cumhuriyet@|Kaya~|Kuzey~|Kültür~|Saray~|Çolak~|Şahin~|Şehit Mesut Kıroğlu@
+97895	Yenitepe Köyü, Dere Mevkii	Dere=
+97896	Yenitepe Köyü, Merkez Mevkii	Değirmen=|Merkez=
+97900	Yeşiltepe Köyü, Elmalıdere Mevkii	Elmalıdere=
+97899	Yeşiltepe Köyü, Eskioğlu Mevkii	Esentepe=|Eskioğlu=
+97897	Yeşiltepe Köyü, Kıran Mevkii	Kıran=
+97898	Yeşiltepe Köyü, Orta Mevkii	Orta=
+97901	Yukarıavlayan Köyü	Kozlar=|Yukarıavlayan=
+97862	Çamlıpınar Köyü	Çamlıpınar=
+97905	Çelikdere Köyü, Ali Usta Mevkii	Ali Usta=
+97906	Çelikdere Köyü, Alt Mevkii	Alt=
+97902	Çelikdere Köyü, Kıran Mevkii	Kıran=
+97903	Çelikdere Köyü, Merkez Mevkii	Merkez=
+97904	Çelikdere Köyü, Öreniçi Mevkii	Öreniçi=
+91209	Çevrik Mah.	121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|130.~|133.~|134.~|136.~|137.~|138.~|139.~|140.~|141.~|142.~|143.~|146.~|148.~|149.~|150.~|151.~|152.~|153.~|154.~|159.~|161.~|162.~|164.~|165.~|166.~|167.~|168.~|172.~|173.~|174.~|175.~|177.~|178.~|179.~|180.~|181.~|182.~|183.~|184.~|185.~|186.~|187~|Acar~|Alibey Mangan~|Cumhuriyet@|Dr.sadık Ahmet~|Erdoğan~|Ertuğrul~|Esnaf~|Hafız Ahmet@|Hürriyet~|Işık~|Karanfil~|Konuralp~|Koru~|Köksal~|Mevlana@|Müderris~|Orman~|Pakmaya~|Parlak~|Sağlık@|Seçkin~|Trafo~|Yağmur~|Yıldırım~|Yılmaz~|Çakıroğlu~|Çam~|Özsoy~|İstiklal@|Şehir Myd.|Şehit Mesut Kıroğlu@|Şen~|Şifa~
+97882	Ören Köyü	Taşlık=|Ören=
+97892	Üvezbeli Köyü, Arif Mevkii	Arif=
+97889	Üvezbeli Köyü, Kaşaltı Mevkii	Kaşaltı=
+97890	Üvezbeli Köyü, Kersen Düzü Mevkii	Kaşaltı=|Kersen Düzü=
+97888	Üvezbeli Köyü, Küreklik Mevkii	Küreklik=
+97893	Üvezbeli Köyü, Kıran Mevkii	Küreklik=|Kıran=
+97891	Üvezbeli Köyü, Merkez Mevkii	Merkez=
+97894	Üvezbeli Köyü, Sıvazoğlu Mevkii	Sıvazoğlu=

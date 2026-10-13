@@ -1,0 +1,123 @@
+19338	Aksu Köyü	Aksu Köy$
+19339	Akyaka Köyü	Akyaka Köy$|Burdur Fethiye@
+19341	Akyayla Köyü, Cami Mevkii	Cami Köy$
+19340	Akyayla Köyü, Karşı Mevkii	Karşı Köy$
+10942	Akın Mah.	Aşık~|Dağ~|Dokumacılar@|Kabacalı~|Kara Ahmet Çıkmazı~|Karaahmet@|Köklü~|Mehmet Erkazancı~|Mimar~|Mumcu~|Muzaffer~|Say~|Söğütlü~|Taş Camii~|Yorgancı~|Özcan@|Şahin~
+10943	Armağan İlci Mah.	11001~|11002~|11003~|11004~|11005~|11006~|11007~|11008~|11009~|11010~|2.@|204~|205.~|206.~|208.~|Açan~|Cıvlaz Camii~|Cıvlaz~|Defne~|Demirtaş~|Donatım~|Feslikan~|Gürbüz~|Hoca Ahmet Yesevi~|Karacalar~|Karacaoğlan~|Karacaoğlan1~|Kemer~|Köşk~|Lala Paşa~|Mimar Sinan@|Murat Paşa@|Nene Hatun@|Sefer~|Serdar Oğlu@|Tan Yeri~|Tarım~|Topçu~|Umman~|Yahya Kemal@|Yayla~|Yaşar Doğu@|Yiğitbaş~|Yunus Emre@|Şehit Ayhan Çakır@|Şehit Rıza Çelik@|Şehit Sıtkı Kara@|Şehit Şemsi Öğrener@
+19349	Askeriye Köyü, Aşağı Tekkeönü Mevkii	1 Nolu=|27082~|Aşağı Tekeönü~|Yaka Mevkii~
+19345	Askeriye Köyü, Cami Mevkii	Cami=|Hal=
+19346	Askeriye Köyü, Hal Mevkii	Afyonkarahisar Burdur%|Hal=|Yeni Cami=
+19343	Askeriye Köyü, Karadere Mevkii	Afyonkarahisar Burdur%|Isparta Burdur@|Karadere=
+19347	Askeriye Köyü, Yaka Mevkii	Yaka Mevkii~|Yaka~
+19344	Askeriye Köyü, Yeni Cami Mevkii	Afyonkarahisar Burdur%|Karadere=|Yeni Cami=
+19348	Askeriye Köyü, Yukarı Tekkeönü Mevkii	--~|Yukarı Tekkeönü~
+19342	Askeriye Köyü, Çukurçeşme Mevkii	Cami=|Hal=|Karadere=|Yeni Cami=|Çukurçeşme Köy$
+10944	Atatürk Mah.	12008~|12013~|12015~|12017~|12019~|12023~|12025~|12029~|12031~|12032~|12033~|12034~|12035~|12036~|12037~|12038~|12050~|12051~|12052~|12053~|12054~|12055~|12056~|12057~|12058~|12059~|12060~|12061~|12062~|12065~|12066~|12067~|12068~|12069~|12070~|12071~|12072~|12073~|12074~|12075~|12076~|12077~|12078~|12079~|12080~|12082~|12085~|12086~|12087~|12088~|22002~|23010~|Ahmet Ruhi Yeşilyurt@|Ahmet Taner Kışlalı@|Bülent Ecevit%|Fahri Şentürk@|Göl Yolu@|Nuri Artok@|Nuri Ortaş~|Uğur Mumcu@|Zeynel Abidin Tonguç@|İsmail Boyacıoğlu@
+10945	Aydınlıkevler Mah.	13001~|13002~|13003~|13004~|13005~|13006~|13007~|13008~|13009~|13010~|13011~|51.~|52.~|53.~|54.~|55.~|Anıcı~|Armağan İlci%|Atik~|Aydınlık~|Bayrakçı~|Bereket~|Beyzade~|Cevat Paşa~|Cevher~|Cevizli~|Coşkun~|Dumlupınar@|Erdoğdu~|Gayret~|Gazi Refik~|Gürler~|Işıklar~|Kader~|Karabekir~|Karacihan~|Karanfil~|Kss 1.~|Kss 10.~|Kss 12.~|Kss 13.~|Kss 15.~|Kss 17.~|Kss 19.~|Kss 2.~|Kss 3.~|Kss 4.~|Kss 5.~|Kss 6.~|Kss 7.~|Kss 9.~|Kss.14~|Kss.16~|Kurtdereli~|Kuşkonmaz~|Mehmet Kaya@|Milli Egemenlik@|Mohaç~|Nevres~|Nurtopu~|Olgunlar~|Plevne~|Samanyolu~|Sedirler~|Seyran~|Taşdelen~|Terakki~|Ulus@|Umut~|Uslu~|Vezirhan~|Yavrukurt~|Zarif~|Zümre~|Çamlıbel~|Özgür~|Şehit Ali~|Şehit Mehmet~
+19351	Aziziye Köyü	Aziziye Köy$
+19350	Aşağı Müslümler Köyü	Aşağı Müslümler Köy$
+10947	Bahçelievler Mah.	15001~|3.tuna~|Abdullah Aşçı~|Akdemir~|Atatürk@|Babil~|Bademli~|Barbaros~|Bülent Ecevit%|Demirtaş~|Ekici~|Fakir Baykurt@|Feridun Şavlı~|Gazi Osman Paşa@|Genç Osman@|Halide Edip@|Koca Yusuf~|Kışla@|Mercan~|Mimar Sinan@|Mithat Paşa@|Murat Paşa@|Nene Hatun@|Ofis@|Paşa@|Stadyum@|Taşar~|Topçu~|Turgut~|Ulubatlı Hasan@|Yunus Emre@|Öğretmenler@|İbni Sina@|İsmail Altınok~|İsmail Dede Efendi~|Şehit Akif Altay@|Şehit Kalmaz@|Şehit Kemal Sunar~|Şehit Pilot Teğmen Hasan Diker@|Şehit Teğmen Ayfer Gök~|Şehitler@|Şeker@
+19353	Bayındır Köyü	Bayındır Köy$
+10946	Bağlar Mah.	1.ayşeoğlu Pınarı Yolu@|1.taşar Kuyu~|14001~|14002~|14003~|14004~|14005~|14006~|14007~|14008~|14009~|14010~|14011~|14012~|14013~|14014~|14015~|14016~|14017~|14018~|14019~|14020~|14021~|14022~|14023~|14024~|14024.~|14025~|14026~|14027~|14028~|14029~|14030~|14032~|14033~|14034~|14035~|14036~|14037~|14038~|14039~|14040~|14041~|14045~|14070~|14072~|14075~|14077~|14080~|14081~|14082~|2.ayşeoğlu Pınarı Yolu 1.çıkmazı~|2.ayşeoğlu Pınarı Yolu@|2.kokulu~|2.taşar Kuyu~|3.cadde@|Balcı~|Dorum Dede~|Havaalanı Cad. 2.çıkmazı@|Havaalanı@|Havaalanı Cd.1.çıkmazı@|Hoşafcı~|Höyük~|Kokulu~|Kokulu Çıkmazı~|Ofis@|Plaj~|Sığır Yolu@|Topraklık Caddesi@|Yan Arık~|Zerdali Harım Yolu~|İbrahim Zeki Burdurlu 1.çıkmazı~|İbrahim Zeki Burdurlu@|Şehit Cüneyt~|Şeker Plajı@
+19352	Başmakçı Köyü	Başmakçı Köy$
+19354	Bereket Köyü	Bereket Köy$
+19355	Beşkavak Köyü	Beşkavak Köy$
+10948	Bozkurt Mah.	16003~|16008~|16013~|16014~|16015~|16016~|16017~|16018~|16019~|16020~|16021~|Armağan İlci%|Ağırbaş~|Balcam~|Eşref Ayhan@|Fedakar~|Güleryüz~|Irmak~|Kolukısa~|Yankı~|Yıldırım Beyazıt@|Yıldırım Beyazıt Çıkmazı~|Çevre Yolu~|Şehit Sefa Çakır~
+19357	Bozlar Köyü	Bozlar Köy$
+19356	Boğaziçi Köyü	Boğaziçi Köy$|Burdur Fethiye@
+10949	Burç Mah.	17001~|17002~|17004~|Atatürk@|Birsoy~|Bülbül_1~|Cumhuriyet@|Cumhuriyet_1 Myd.|Dede Korkut@|Eli Açık~|Eski Ortaokul~|Güzelleştirme@|Hacı Bektaş~|Höyük~|Kışla@|Nafiz Bey@|Namık Kemal@|Nur Camii~|Ofis@|Paşa@|Stadyum@|Talay~|Taç Yıldız~|Toscalı~|Tuna~|Yeni Camii~|İbrahim Bey~|İkinci Tuna~|İstasyon@|Şehit Pilot Teğmen Hasan Diker@|Şentürk@|Şht.emeksiz@|Şht.özpolat@
+10979	Büğdüz Köyü, Fatih Mevkii	Atatürk~|Aydınlık 1.~|Aydınlık 2.~|Aydınlık~|Cami~|Cumhuriyet~|Ertekin 1.~|Ertekin~|M.akif~|Pazar 1.~|Pazar 2.~|Pazar 3.~|Pazar~|Sevgi 1.~|Sevgi 2.~|Sevgi~|Tuna 1.~|Tuna~|Ulus~|Yunus Emre 1.~|Yunus Emre 2.~|Yunus Emre~|Yıldız 1.~|Yıldız 2.~|Yıldız~
+10980	Büğdüz Köyü, Menderes Mevkii	Akdere 1.~|Akdere 2.~|Akdere 3.~|Akdere 4.~|Akdere~|Barış~|Büğdüz Köy$|Kurşunlu 1.~|Kurşunlu 2.~|Kurşunlu 3.~|Kurşunlu 4.~|Kurşunlu~|M.akif~|Ulus 1.~|Ulus~|Şeker 1.~|Şeker~
+10981	Büğdüz Köyü, Oğuzhan Mevkii	Büğdüz-~|Camii 1~|Camii~|Cevat Sayılı 4.~|Değirmen~|Gazi~|Profesör Doktor Veysel Eroğlu 1.~|Profesör Doktor Veysel Eroğlu 2.~|Profesör Doktor Veysel Eroğlu 4.~|Profesör Doktor Veysel Eroğlu 5.~|Profesör Doktor Veysel Eroğlu~|Ulus 2.~|Ulus 3.~|Ulus 4.~|Ulus~|Yeşil Bayır 1.~|Yeşil Bayır 2.~|Yeşil Bayır 3.~|Yeşil Bayır~|Yıldız 1.~|Yıldız 2.~|Yıldız~|Şirin~
+10950	Cemil Mah.	18018~|18028~|18029~|18031~|2.susamlık~|42024~|42030~|Ağıl Dere~|Ağıl~|Aşcı~|Balaban~|Barlas~|Cani Gürler~|Eski Antalya@|Fidanlık~|Koskos~|Koskos Çıkmazı~|Kırlı~|Palalı Cad. 1.çıkmazı~|Palalı@|Solmaz Cad.@|Solmaz~|Susuzlu~|Çevre Yolu%
+19359	Cimbilli Köyü, Aşağı Cinbilli Mevkii	Aşağı Cinbilli Köy$
+19360	Cimbilli Köyü, Tepe Mevkii	Tepe Köy$
+19358	Cimbilli Köyü, Yukarı Cinbilli Mevkii	Yukarı Cinbilli Köy$
+10953	Dere Mah.	1.susamlık~|2.susamlık~|Barlas~|Dağ~|Dokumacılar@|Eski Antalya@|Hayman~|Işlak~|Kurtcan~|Çavdır~|Çevre Yolu%|Çöğür~|İki Çeşmeli~
+10952	Değirmenler Mah.	20001~|20002~|Ayanoğlu~|Balkır~|Beleş~|Camii~|Cevat Sayılı%|Develi Çıkmazı~|Değirmenler~|Değirmenler Yokuşu~|Divan Baba@|Dokumacılar@|Hatip Çıkmazı~|Köklü~|Mehmet Akif@|Mehmet Akif Çıkmazı~|Mehmet Erkazancı~|Mustafa Şeref%|Pirali Çıkmazı~|Saden~|Sakız~|Susamlık Tepesi Yolu~|Çevre Yolu%
+19367	Düğer Köyü	Burdur Denizli@|Düğer Köy$
+10954	Emek Mah.	12079~|22001~|22002~|22003~|22004~|22005~|22006~|22007~|22008~|22009~|22010~|22011~|22012~|22013~|22014~|22016~|22017~|22019~|22020~|22021~|22023~|22024~|22025~|22027~|22028~|22029~|22030~|22031~|22032~|22034~|22036~|22037~|22038~|22040~|22041~|22043~|22045~|22047~|22049~|22050~|22051~|22053~|22055~|22057~|22059~|22061~|22065~|22066~|22067~|22068~|22069~|Akıncılar~|Anıl@|Bahar@|Bülent Ecevit%|Dr.mehmet Çelik~|Eker~|Ergenekon@|Farabi@|Feslikan~|Fuzuli~|Günbattı~|Hacı Arif Bey~|Karacaoğlan@|Koç~|Kumru~|Kuş Pınarı~|Mekik~|Nene Hatun@|Osman Gazi@|Sağlık@|Sıra Kapılar~|Turgut Reis~|Yahya Kemal@|Yonca~|Yükselen~|Çay~|İncili Pınar~|Şafak~|Şair Nedim@|Şehit~|Şehit Sıtkı Kara@
+19368	Erikli Köyü	Erikli Köy$
+10955	Fevzi Çakmak Mah.	22030~|23001~|23002~|23003~|23004~|23005~|23006~|23007~|23008~|23009~|23010~|23011~|23012~|23013~|23014~|23016~|23018~|23019~|23020~|23022~|23023~|23024~|23025~|23026~|23028~|23030~|23032~|23034~|23035~|23036~|23037~|23038~|23039~|23040~|23042~|23043~|23045~|23050~|23051~|23052~|23053~|23054~|23055~|23056~|23057~|23058~|23059~|23060~|23061~|23062~|23064~|23066~|23068~|23070~|23071~|23072~|23073~|23074~|23075~|23076~|23077~|23078~|23079~|23081~|23082~|23083~|23085~|50.yıl@|Acıpayam~|Esen Evler~|Göl Yolu@|Gölyolu@|Çocuk Parkı~|İsa Kayacan@|İsmail Hakkı Tonguç@|Şair Nedim@|Şehit Rıza Çelik@
+19369	Gökçebağ Köyü, Armut Mevkii	Afyonkarahisar Burdur%|Armut Köy$|Isparta Burdur@|Köyiçi=
+10978	Gökçebağ Köyü, Başakevler Mevkii	1.-~|10.sokak~|11.sokak~|12.sokak~|13.sokak~|14.sokak~|15.sokak~|2. Sokak-~|3. Sokak~|4. Sokak-~|5.sokak-~|6.sokak~|7.sokak-~|8.sokak~|9.sokak~|Burdur-ısparta Karayolu~|Eski Burdur Yolu Sokak~
+197473	Gökçebağ Köyü, Başakevler Osb Mevkii	2. Osb 1~|2. Osb 1.@|2. Osb 10~|2. Osb 2~|2. Osb 2.@|2. Osb 3~|2. Osb 3.@|2. Osb 4~|2. Osb 5~|2. Osb 6~|2. Osb 7~|2. Osb 9~
+19372	Gökçebağ Köyü, Kara Taş Mevkii	Afyonkarahisar Burdur%|Kara Taş Köy$|Köyiçi=
+19371	Gökçebağ Köyü, Kavak Altı Mevkii	-~|Afyonkarahisar Burdur%|Kavak Altı~
+19370	Gökçebağ Köyü, Köyiçi Mevkii	Afyonkarahisar Burdur%|Isparta Burdur@|Köyiçi=
+19373	Gökçebağ Köyü, Yol Altı Mevkii	Yolaltı~
+19375	Günalan Köyü	Günalan Köy$
+19376	Güneyyayla Köyü	Güneyyayla Köy$
+19377	Hacılar Köyü	Burdur Denizli@|Burdur Fethiye@|Hacılar Köy$
+19378	Halıcılar Köyü	Halıcılar Köy$
+10956	Hızır İlyas Mah.	1.taşar Kuyu~|12/1~|2.tekke~|24001~|24002~|24003.~|24004~|24005~|24006~|24007~|24008~|24009~|24010~|24011~|24012~|24014~|24015~|24016~|24017~|24019~|24020~|24021~|24022~|24024~|24025~|24026~|24029~|24031~|24033~|24035~|24036~|33001~|Bedir Bağı Yolu~|Deliklitaş 3. Çıkmaz~|Deliklitaş~|Dikilitaş Sokak~|Dorum Dede~|Emin Ağalar~|Halilağa~|Höyük~|Kocaman Damı Yolu~|Orta Yol@|Ototamirciler 1~|Soğukkuyu~|Sığır Yolu@|Yan Arık~|Yeşil Hasan Damı Yolu~|Zerdali Harım Yolu~|Ziraat Yolu~|İbrahim Zeki Burdurlu@|Şahanbağı Yolu~|Şehit Süleyman~
+19383	Kapaklı Köyü	Kapaklı Köy$
+19384	Karacaören Köyü	Karacaören Köy$
+19386	Karakent Köyü	Karakent Köy$
+10958	Karasenir Mah.	1.hamam~|2.hamam~|26001~|26002~|26003~|26004~|26005~|26006~|26007~|26008~|26011~|26012~|26015~|26017~|26018~|26019~|26020~|26021~|3.hamam~|Anıt~|Bülent Ecevit%|Büğdüz@|Canatan~|Cebeci~|Dr.turan Gönen@|Emre~|Eski Ortaokul~|Hürriyet@|Jandarma~|Karasenir@|Kınacı~|Kışla@|Murat~|Mustafa Şeref%|Nene Hatun@|Sinan~|Tacir~|Takka~|Ulus@|Vişne~|Yeşiltepe@|İnkılap@
+19385	Karaçal Köyü	Burdur Fethiye@|Karaçal Köy$
+19387	Kartalpınar Köyü	Kartalpınar Köy$
+19388	Kavacık Köyü	Kavacık Köy$
+19391	Kayaaltı Köyü, Deştimankale Mevkii	Deştimankale Köy$
+19393	Kayaaltı Köyü, Kerpiççukuru Mevkii	Kerpiççukuru=
+19390	Kayaaltı Köyü, Mezarlık Mevkii	Kaplanpınarı- Köy$|Mezarlık Köy$|Orta Köy$|Sığırbiriken=
+19395	Kayaaltı Köyü, Orta Mevkii	Kerpiççukuru=|Orta Köy$|Sığırbiriken=
+19389	Kayaaltı Köyü, Ova Mevkii	Antalya Burdur@|Ova Köy$
+19392	Kayaaltı Köyü, Sığırbiriken Mevkii	Sığırbiriken=
+19394	Kayaaltı Köyü, İğdederesi Mevkii	Kerpiççukuru=|Orta Köy$|İğdederesi Köy$
+19396	Kayış Köyü	Kayış Köy$
+19397	Kocapınar Köyü	Kocapınar Köy$
+10960	Konak Mah.	1.kandil~|1.rıza Doğrul Çıkmazı~|2.kandil~|2.rıza Doğrul Çıkmazı~|Adliye@|Belediye Dükkanları~|Cengiz Topel@|Ekiz~|Fevzi Paşa@|Gazi Cami~|Gazi@|Göksavaş~|Güzelleştirme@|Halk Pazarı@|Hamit Çine@|Kadı Ahmet~|Kalekapı@|Kazancı~|Pazar Cami~|Rıza Doğrul@|Sebzeci~|Taksi~|Uğur~|Uğuz~|Yurt~|Yörük~|İstasyon@|Şemsi~
+10982	Kozluca Köyü, Mithat Paşa Mevkii	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21~|22.~|23.~|3.~|4. 1.~|4. 2.~|4.~|555~|6.~|7.~|8.~|9. 1.~|9.~|Bademli 1.~|Camii~|Fevzi Çakmak 1.~|Fevzi Çakmak 2.~|Fevzi Çakmak 3.~|Fevzi Çakmak 4.~|Fevzi Çakmak 5.~|Fevzi Çakmak 6.~|Fevzi Çakmak~|Söğütlü~|İğdeli~
+10983	Kozluca Köyü, Park Mevkii	Bahçe 1.~|Bahçe 2.~|Bahçe 3.~|Bahçe 4.~|Bahçe 5.~|Bahçe 6.~|Bahçe 7.~|Bahçe~|Bağlar 1.~|Bağlar~|Dere~|Dilben~|Gazi 12.~|Gazi~|Gökalp 1.~|Gökalp~|Pazar 1.~|Pazar 2.~|Pazar 3.~|Pazar~|Rıza Bulut 1.~|Rıza Bulut 2.~|Rıza Bulut 3.~|Rıza Bulut 4.~|Rıza Bulut 5.~|Rıza Bulut 6.~|Rıza Bulut~|Uğurlu 1.~|Uğurlu 2.~|Uğurlu 3.~|Uğurlu 4.~|Uğurlu~|Yıldırım~|Çağlar 1.~|Çağlar 2.~|Çağlar 3.~|Çağlar~|Şair Osman Apaydın~
+10984	Kozluca Köyü, Saray Mevkii	10.~|8.~|Armutlu 1.~|Armutlu 2.~|Armutlu~|Bademli~|Camii~|Fevzi Çakmak 7.~|Fevzi Çakmak 8.~|Fevzi Çakmak 9.~|Fevzi Çakmak~|Gazi 1.~|Gazi 10.~|Gazi 11.~|Gazi 12.~|Gazi 2.~|Gazi 3.~|Gazi 4.~|Gazi 5.~|Gazi 6.~|Gazi 7.~|Gazi 8.~|Gazi 9.~|Gazi~|Hilal 1.~|Hilal 2.~|Hilal~|Kavaklı 1.~|Kavaklı 2.~|Kavaklı~|Narin-~|Oğuz~|Saray 1.~|Saray 2.~|Saray 3.~|Saray~|Söğütlü~|Tokat 1.~|Tokat 2.~|Tokat 3.~|Tokat~|Çakmak 1.~|Çakmak 2.~|Çakmak~|İğdeli 1.~|İğdeli 2.~|İğdeli 3.~|İğdeli 4.~|İğdeli 5.~|İğdeli~|Şahin~
+19400	Kumluca Köyü	Kumluca Köy$
+19411	Kurna Köyü	Kurna~|Kümeevler=
+19401	Kuruçay Köyü	Burdur Fethiye@|Kuruçay Köy$
+10961	Kuyu Mah.	1.akbulut~|Aşık~|Kabacalı~|Karaahmet@|Mehmet Akif@|Mehmet Erkazancı~|Saden~|Sakız~|Tiryaki Çıkmazı~|Şahin~|Şahin Çıkmazı~
+19399	Kökez Köyü	Kökez Köy$
+19398	Kökez Köyü, Y.kökez Mevkii	Yukarı Kökez Köy$
+10959	Kışla Mah.	1. Sezer~|1.şimşek~|2. Sezer~|2.okul Çıkmazı~|27032-~|27035-~|27036~|27037-~|27038~|27040~|27041-~|27042~|27043~|27045~|27046~|27049~|27057~|27059~|27060~|27061~|27062~|27063~|27064~|27065~|27066~|27067~|27070~|27071~|27072~|27080~|27081~|27082~|27085~|27090~|27092~|27093~|27094~|27095~|27096~|27097~|27098~|27099~|27101~|27105-~|27107-~|27108~|Ankara%|Demir~|Elmeddin Mevkii~|Güner~|Güner Çıkmazı~|Güven~|Melikşah~|Milli Egemenlik@|Okul@|Petek~|Tren Yolu Altı~|Çetin~|Özek~|İnci~|İzgi@|Şair Baki~|Şehit Ertan@|Şehit Selim@|Şenli~|Şimşek@
+10977	Kışlaosb Mah.	30.~|31.~|35.~|36.~|37.~|40.~|42.~|43.~|44.~|45.~|51.~|Melikşah~|Milli Egemenlik@|Şehit Ertan@
+10962	Mehmet Akif Ersoy Mah.	100.~|101.~|102.~|103~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|116.~|117.~|118.~|119~|120.~|121~|122.~|123~|124.~|126.~|127.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|136~|137.~|138.~|139.~|140.~|141.~|142.~|143~|144~|145~|146.~|147.~|148.~|149.~|150.~|151.~|153.~|154.~|155.~|156~|157.~|158~|160.~|161.~|162.~|166~|168~|Beyazıt@|Meram@|Çevre Yolu%|Şehit Cemil Topçuoğlu@
+10963	Menderes Mah.	1.çangar~|1.çıkmaz=|2.küme Evler~|2.çangar~|3.kümeevler~|31001~|31002~|31003~|31004~|31005~|31006~|31007~|31008~|31009~|31010~|31011~|31012~|31013~|31014~|31015~|31016~|31017~|31018~|31019~|31021~|31022~|31023~|31024~|31025~|31026~|31027~|31028~|31029~|31030~|31031~|31032~|31033~|31035~|31036~|31037~|31038~|31039~|31040~|31041~|31044~|31045~|31050~|31051~|31052~|31053~|31054~|31055~|31057~|31059~|31061~|31062~|31063~|Dere 1@|Dere Yolu@|Dikilitaş Sokak~|Hoşafçı~|Kemal Solmaz@|Orta Yol@|Şahanbağı Yolu~|Şehit Sefa~|Şehit Ümit~
+10964	Necati Bey Mah.	1. Düzlük Çıkmazı~|1.~|Berberoğlu~|Cevat Sayılı%|Dağ Yolu~|Düzlük@|Mustafa Şeref%|Necati Bey@|Tosun~|Veli Can~|İğdeli~
+10966	Pazar Mah.	1.yağ Pazarı~|2.yağ Pazarı~|Bakırcılar~|Belediye~|Eczane~|Eski Demirciler@|Gazi@|Kadayıfcı~|Kanrıcı~|Karagöz~|Mehmet Akif@|Nalbant~|Nayip~|Ot Pazarı~|Palas~|Tabakhamamı~|Taşcı~|Ulu Camii Meydanı Myd.|Ulu Camii Myd.|Uzun Çarşı@|Veis~|Yeni Hamam@|Zincirlikapı~|Özdemir~|Şekerci~
+10967	Recep Mah.	1.akbulut~|2.akbulut~|Alican~|Aşık~|Bekar@|Kabacalı~|Kırbaş~|Mehmet Akif@|Mumcu~|Recep Camii~|Süzek~|Taş Camii~|Urgancı~|Yavuz@|Özcan@
+10968	Sakarya Mah.	1. Abbas~|2.abbas~|36001~|Atabey@|Bayır~|Burç~|Cumhuriyet@|Eski Yeni Hamam@|Göktekin~|Hamamcı~|Hatip Hoca@|Mehmet Akif@|Oluklaraltı@|Sakarya@|Tereci~|Turan@|Tuğcu~|Yoğurtçu~
+19402	Sarıova Köyü	Sarıova Köy$
+19404	Sarıova Köyü, Kaplanpınarı Mevkii	
+19403	Sarıova Köyü, İtler Çerkini Mevkii	
+10969	Sinan Mah.	Hatip Hoca@|Hatip Hoca Çıkmazı~|Oluklaraltı@|Tepe~|Tepe Çıkmazı~|Yeşiltepe@
+19405	Soğanlı Köyü	Soğanlı Köy$
+19407	Suludere Köyü, Kayadibi Suludere Mevkii	Burdur Fethiye@|Kayadibi Suludere Köy$
+19408	Suludere Köyü, Yeni Suludere Mevkii	Burdur Fethiye@|Yeni Suludere Köy$
+19406	Suludere Köyü, Yukarı Suludere Mevkii	Yukarı Suludere Köy$
+19409	Taşkapı Köyü	Taşkapı Köy$
+10972	Tepe Mah.	40001~|Büğdüz@|Büğdüz_1~|Hatip Hoca@|Kılınçaslan~|Lale~|Mustafa Şeref%|Seccade~|Yeşiltepe@|Yeşiltepe Çıkmazı 1~|Yeşiltepe Çıkmazı 2~|Yeşiltepe Çıkmazı 3~|Yeşiltepe Çıkmazı~|Yeşitepe Kısa Çıkmazı~
+19410	Ulupınar Köyü	Ulupınar Köy$
+19412	Yarıköy Köyü	Yarıköy Köy$
+19413	Yassıgüme Köyü	Burdur Fethiye@|Yassıgüme Köy$
+19414	Yaylabeli Köyü	Yaylabeli Köy$
+19415	Yazıköy Köyü	Yazıköy Köy$
+10974	Yeni Mah.	18031~|42001~|42002~|42003~|42004~|42005~|42006~|42007~|42008~|42009~|42010~|42011~|42012~|42013~|42014~|42015~|42016~|42017~|42018~|42019~|42020~|42021~|42022~|42023~|42024~|42025~|42026~|42027~|42029~|42030~|Acun~|Akçay~|Armağan İlci%|Ağıl~|Bayer~|Bilgin~|Eski Antalya@|Fidanlık~|Hacı Adem~|Işıldak~|Kapanlı@|Kaya~|Keleş~|Kırlı~|Mehmet Akif@|Menderes@|Meteorloji~|Parım~|Sanayii@|Seymen@|Susuzlu~|Süzek~|Urgancı~|Çevre Yolu%|İsmet İnönü%|Şehit Mükerrem Varol~|Şehit Teğmen Halil Demirörs@|Şht.ersan@|Şht.gültekin@
+10975	Yenice Mah.	1.akbulut~|43001~|Alican~|Bekar@|Cangar~|Dokumacılar@|Eski Antalya 1. Çıkmazı@|Eski Antalya 2. Çıkmazı~|Eski Antalya@|Kara Osman~|Keleş~|Kurtcan~|Kuyulu~|Kuyulu Çıkmazı~|Kırlı~|Mumcu~|Selim~|Süzek~|Taş Camii~|Taş Camii Çıkmazı~|Urgancı~|Yavuz 1. Çıkmazı@|Yavuz 2. Çıkmazı@|Yavuz 3. Çıkmazı@|Yavuz@|Çeşmeli~|Özenç~|Şehit Mükerrem Varol~
+19416	Yeşildağ Köyü	Yeşildağ Köy$
+10976	Zafer Mah.	44001~|Adıgök~|Asmalı~|Bektaş~|Bülbül~|Cumhuriyet@|Eski Ortaokul~|Karasenir@|Levent~|Murat~|Oluklaraltı@|Oluklaraltı Çıkmazı~|Tarakçı~|Tek~|Ulus@|Zafer~|İbrahim Bey~|İnce~
+19361	Çallıca Köyü, Aşağı Mevkii	Aşağı Köy$
+19363	Çallıca Köyü, Ova Mevkii	Burdur Fethiye@|Ova Köy$
+19362	Çallıca Köyü, Yukarı Mevkii	Yukarı Köy$
+19365	Çatağıl Köyü, Mandıra Mevkii	Mandıra Köy$
+19364	Çatağıl Köyü, İnsuyu Mevkii	Antalya Burdur@|İnsuyu Köy$
+19366	Çendik Köyü	Burdur Fethiye@|Çendik Köy$
+10951	Çeşmedamı Mah.	19001~|Akkanat~|Alacacılar~|Atabey@|Bakırcılar~|Bayır~|Burç~|Cumhuriyet@|Cumhuriyet_1 Myd.|Deveci~|Eski Belediye@|Eski Demirciler@|Gazi@|Gazi Cd. Çıkmazı~|Güngör@|Hükümet@|Kahya~|Kart~|Müftülük~|Tekeli~|Ulu Cami@|Ulu Camii Meydanı Myd.|Ulu Camii Myd.|Ulucami@|Uzun Çarşı@|Yeşilyurt~|Çakmakcı~|Çeşmedamı Çıkmazı~|Çiloğlu~|Çingir~|Çingir Çıkmazı~
+19374	Çine Köyü	Antalya Burdur@|Çine Köy$|İtler Çerkini Köy$
+10965	Özgür Mah.	200.~|201.~|33001~|Ateşli Sanatlar 1.~|Ateşli Sanatlar 2.~|Ateşli Sanatlar 3.~|Ateşli Sanatlar 4.~|Ateşli Sanatlar 5.~|Ateşli Sanatlar 6.~|Ateşli Sanatlar 7.~|Ateşli Sanatlar 8.~|Ateşli Sanatlar 9.~|Ateşli Sanatlar@|Cümbüşlü@|Eski Garaj~|Gazi@|Gökdemir~|Güzelleştirme@|Hal Dükkanları~|Halk Pazarı@|Hamit Çine@|Höyük~|Hızırilyas@|Karyağdı~|Katrancı Çıkmazı~|Manav~|Mehmet Akif@|Mezbaha@|Namazgah~|Otogaraj İçi~|Ototamirciler 1~|Ototamirciler 2.~|Ototamirciler 4.~|Ototamirciler 5.~|Ototamirciler Sitesi 3.~|Tabak~|Tabakhaneler@|Yurt~|Yörük~|Çelik~|İsmet İnönü%|Şehit Rıza Çevik@|Şehit Uzman Çavuş Hakan Aktürk@
+10973	Üçdibek Mah.	1.turan Çıkmazı~|2.turan Çıkmazı~|Altan Yokuşu~|Atabey@|Boyacı~|Eski Yeni Hamam@|Güngör@|Mehmet Akif@|Onur~|Serdar~|Turan@|Ulu Camii Meydanı Myd.|Veis~|Özdemir~|İstiklal@|İstiklal Çıkmazı~
+19382	İlyas Köyü, Orta Mevkii	Orta=
+19380	İlyas Köyü, Çay Mevkii	Orta=|Çay Köy$|Çeşmeönü Köy$
+19381	İlyas Köyü, Çeşmeönü Mevkii	Çeşmeönü Köy$
+10957	İnönü Mah.	Gazi@|Hacı Ömer~|Kostak~|Mehmet Akif@|Taşcı~|Taşçı~|Veis~|Yeni Hamam@|Zincirlikapı~|Çiftçi~
+19379	İğdeli Köyü	İğdeli Köy$
+10970	Şeker Evleri Mah.	11009~|38001~|38002~|38003~|38004~|38005~|38007~|38011~|38012~|38013~|Cıvlaz~|Karacaoğlan1~|Kümeevleri=|Nene Hatun@|Ofis@|Plaj~|Serdar Oğlu@|Topraklık Caddesi@|Topraklık Sokak~|Yunus Emre@|Şeker Plajı@|Şeker İş~
+10971	Şirinevler Mah.	39001~|39002~|39003~|39004~|39005~|39006~|39007~|39008~|39009~|39010~|39011~|39012~|39013~|39014~|39015~|39016~|39017~|39018~|39019~|39020~|39021~|39022~|39023~|39024~|39025~|39026~|39027~|39028~|39029~|39030~|39031~|39032~|39033~|39034~|39035~|39036~|39037~|39038~|39039~|39041~|39042~|39043~|39044~|39045~|39046~|39047~|39048~|Akçay~|Altınkapı~|Armağan İlci%|Atilla@|Boyacıoğlu@|Evin~|Kalkan~|Ototamirciler Sitesi 3.~|Soysal~|Trafo@|Yeşildere~|Çevreyolu%|Şehit Sefa Çakır~

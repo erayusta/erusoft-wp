@@ -1,0 +1,22 @@
+50061	Bağbaşı Mah.	Alapınar@|Alapınar8~|Atatürk@|Atatürk2~|B.eskiboztepe~|B.eskiboztepe1~|B.eskiboztepe2~|B.eskiboztepe3~|B.eskiboztepe4~|B.eskiboztepe5~|Belediye@|Belediye2~|Belediye3~|Belediye4~|Cevizbağı@|Cevizbağı. 1~|Cevizbağı/1~|Cevizbağı1~|Cevizbağı10~|Cevizbağı2~|Cevizbağı3~|Cevizbağı3/1~|Cevizbağı3/2~|Cevizbağı4~|Cevizbağı5~|Cevizbağı5/1~|Cevizbağı5/2~|Cevizbağı8~|Cevizbağı9~|Esentepe@|Esentepe1~|Esentepe2~|Esentepe3~|Esentepe4~|Gençlik/1@|Höyük~|Höyük.1~|Höyük.2~|K.eskiboztepe~|K.eskiboztepe/3~|K.eskiboztepe1~|K.eskiboztepe2~|Kale@|Kale1~|Kale2~|Kale3~|Kervansaray@|Kervansaray.1~|Kervansaray.1/1~|Kervansaray.1/2~|Kervansaray1~|Kervansaray10~|Kervansaray11~|Kervansaray12~|Kervansaray13~|Kervansaray14~|Kervansaray15~|Kervansaray16~|Kervansaray17~|Kervansaray2~|Kervansaray3~|Kervansaray4~|Kervansaray5~|Kervansaray6~|Kervansaray7~|Kervansaray8~|Kervansaray9~|Kırşehir . 1~|Kırşehir . 2~|Kırşehir . 3~|Kırşehir . 3_1~|Kırşehir@|Kırşehir1~|Kırşehir10~|Kırşehir11~|Kırşehir12~|Kırşehir13~|Kırşehir14~|Kırşehir15~|Kırşehir16~|Kırşehir17~|Kırşehir18~|Kırşehir19~|Kırşehir2~|Kırşehir20~|Kırşehir3~|Kırşehir4~|Kırşehir5~|Kırşehir6~|Kırşehir7~|Kırşehir8~|Kırşehir8/1~|Kırşehir9~|Malya@|Malya1~|Malya2~|Mandıralar=|Melik@|Melik1~|Melik2~|Melik3~|Melik6~|Ozan . 1~|Ozan@|Ozan1~|Sivriyolu 1~|Sivriyolu 11~|Sivriyolu@|Sivriyolu1~|Sivriyolu2~|Sivriyolu4~|Sivriyolu5~|Sivriyolu6~|Sivriyolu7~|Çevre Yolu1~|Çevre Yolu2~|Çevre Yolu6~|Çevre Yolu7~|Çevre Yolu8~|Çevreyolu@|Çiğdem@|Çiğdem/1~|Çiğdem1~|Çiğdem2~|Çiğdem3~|Çiğdem4~|Özlü Yolu~|Özlü Yolu1~|Şefika~|Şefika1~
+53089	Büyükkışla Köyü	Büyükkışla=
+53095	Eskidoğanlı Köyü	Eskidoğanlı=
+53096	Harmanaltı Köyü	Harmanaltı=
+53099	Hatunoğlu Köyü	Hatunoğlu=
+53101	Hatunoğlu Köyü, Hatunoğlu Yayla Yayla Evleri	Hatunoğlu Yayla=
+53097	Hüseyinli Köyü	Hüseyinli=
+50064	Karacaören Köyü, Bahçelievler Mevkii	Atatürk~|Bağlar~|Belediye~|Celal Arıöz~|Fatih~|Gül99~|Habib Arıöz~|Kayatepe~|Kiraz~|Kuzey~|Kırşehir~|Orta~|Rüzgarlı~|Sanayi~|Yayla~|Çevreyolu~
+50065	Karacaören Köyü, Pınarbaşı Mevkii	Akasya~|Atatürk~|Camii~|Gül1~|Güney~|Habib Arıöz~|Karanfil1~|Kırşehir~|Orta~|Pınar~|Rüzgarlı~|Öğretmen~
+50066	Karacaören Köyü, Yeşilyurt Mevkii	Fidan~|Güney~|Karanfil~|Kiraz~|Kırşehir~|Lale~|Orta~|Pınar~|Çevreyolu~|Çiçek~|Çiğdem~|Çıkmaz~|Şenlik~
+53098	Külhüyük Köyü	Külhüyük=
+50062	Orta Mah.	Abbas Çelebi~|Abbas Çelebi/1~|Atatürk@|B.eskiboztepe~|Belediye@|Belediye.1~|Belediye/1~|Belediye2~|Belediye3~|Berberler~|Cumhuriyet Myd.|Cumhuriyetim@|Esentepe@|Esentepe4~|Esentepe5~|Esentepe6~|Fevzi Aydın~|Gençlik@|Gençlik/1@|Gençlik1~|Güzelevler~|Güzelevler/2~|Güzelevler2~|Hükümet@|Hükümet.1~|Hükümet.2~|Hükümet.3~|Hükümet1~|Kale@|Ma-@|Malya@|Malya/1@|Malya/4~|Malya3~|Malya5~|Malya6~|Mehmetçik.1~|Mehmetçik.2~|Mehmetçik.3~|Mehmetçik.4~|Melik@|Osmankahya~|Sanayi Sitesi@|Sanayi Sitesi1~|Sanayi Sitesi2~|Çevre Yolu/1~|Çevre Yolu/3~|Çevre Yolu5~|Çevreyolu@|Çiftçi 1~|Çiftçi 2~|Çiftçi~|Özlü Yolu~|Özlü Yolu/1~|İlyas Kahya@|İlyas Kahya/1~|İlyas Kahya1~|İlyas Kahya2~|İlyas Kahya3~
+53102	Uzunpınar Köyü	Uzunpınar=
+50063	Yeni Mah.	Abbas Çelebi~|Alapınar@|Alapınar/1~|Alapınar/10~|Alapınar/2~|Alapınar/3~|Alapınar/4~|Alapınar/5~|Alapınar/6~|Alapınar/9~|Alapınar8~|Aydın~|Aydın/1~|Belediye/1~|Berberler~|Cengiz Topel@|Cengiz Topel/1~|Cumhuriyetim@|Cumhuriyetim/1~|Cumhuriyetim/2~|Cumhuriyetim/3~|Cumhuriyetim/4~|Cumhuriyetim/5~|Cumhuriyetim/6~|Cumhuriyetim/7~|Cumhuriyetim/8~|Esekahya~|Esekahya/1~|Esekahya/2~|Gül~|Gül/1~|Gül/2~|Gül/3~|Gül/4~|Gül/5~|Güzelevler~|Güzelevler/1~|Güzelevler/2~|Güzelevler/3~|Güzelevler/4~|Güzelevler/5~|Güzelevler/6~|Kanarya~|Kanarya/1~|Lale@|Lale/1~|Lale/2~|Malya 1~|Malya@|Malya/2~|Malya/5~|Malya/6~|Mehmet Akif@|Muallem@|Muallem/1~|Muallem/2~|Muallem/3~|Sönmez~|Sönmez/1~|Sönmez/2~|Türe~|Yayla~|Yayla/1~|Çamlık~|Çamlık/1~|Çamlık/2~|Çerkezyolu~|Çerkezyolu/1~|Çerkezyolu/2~|Çerkezyolu/3~|Çerkezyolu/4~|Çerkezyolu/5~|Çiftçi~|Çiftçi/1~|Çiğdem@|Ömer Karaoğlanoğlu@|Özgürlük~|Özgürlük/1~|Şefika~|Şirinler~|Şirinler/1~
+53105	Yenidoğanlı Köyü, Malya T.i.m. Mevkii	Malya Tim=
+53104	Yenidoğanlı Köyü, Yeni Doğanlı Mevkii	Yeni Doğanlı=
+53090	Çamalak Köyü	Çamalak=
+53092	Çevirme Köyü, Çevirme Mevkii	Çevirme=
+53091	Çevirme Köyü, Şababzade Çiftliği Mevkii	Şababzade Çiftliği=
+53094	Çimeli Köyü	Çimeli=
+53093	Çiğdeli Köyü	Çiğdeli=
+53103	Üçkuyu Köyü	Üçkuyu=

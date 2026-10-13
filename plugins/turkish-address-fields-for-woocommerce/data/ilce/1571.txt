@@ -1,0 +1,48 @@
+15866	Ahmetler Köyü	Ahmetler Köy Sokağı=
+15865	Ahmetler Köyü, Kışla Mevkii	- Köy$
+15867	Alınca Köyü	Alınca Köy Sokağı=
+15868	Arapdede Köyü	Arapdede Köy Sokağı=
+98650	Arapdede Köyü, Arapdede Mücavir Mevkii	Arapdede Mücavir Köy Sokağı=|Bursa Yolu=
+15869	Arapdede Köyü, Sazak Mevkii	- Köy$
+15870	Arpadere Köyü	Arpadere Köy Sokağı=
+15871	Bahçesultan Köyü	Bahçesultan Köy Sokağı=|İnegöl Pazaryeri Yolu@
+10655	Beşikli Mah.	401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|Beşevler~|Beşikli~|Esere Yolu=|Ilıca~|Kırdalar~|Orta~|Recep Ceylan~|Taşlık Cami~|Taşlık~|Uzun~|Yenice Yolu=|Yukarı Camii~|Yukarı Dorukharmanlar~|Yüksek Harmanlar~|Yıldırım@
+15872	Bozcaarmut Köyü	Bozcaarmut Köy Sokağı=
+15873	Bulduk Köyü	Bulduk Köy Sokağı=
+15874	Burçalık Köyü	Burçalık Köy Sokağı=
+15876	Büyükelmalı Köyü	Büyükelmalı Köy Sokağı=
+15875	Büyükelmalı Köyü, Leyen İçi Mevkii	- Köy$
+15878	Demirköy Köyü, Demirköy Köyü Mevkii	Bilecik Eskişehir@|Demirköy Köy Sokağı=
+15877	Demirköy Köyü, Süleymaniye Mevkii	Bilecik Eskişehir@|Süleymaniye Köy Sokağı=
+10657	Dereboğaz Mah.	410~|Aralık~|Bahattin Şeker@|Bedribey~|Dar~|Dikilitaş~|Hekimoğlu~|Karakaş~|Kemal Gümüş~|Kurtuluş~|Kırdalar~|Kısa~|Recep Ceylan~|Taşlık~|Yukarı Camii~|Yukarı Dorukharmanlar~|Çarşı Myd.|Çiçeklikuyu~|İsmail Kırda~
+15879	Dereköy Köyü	Dereköy Köy Sokağı=|İnegöl Pazaryeri Yolu@
+98651	Dereköy Köyü, Dereköy Mücavir Mevkii	Dereköy Mücavir Köy Sokağı=|İnegöl Pazaryeri Yolu@
+10658	Doğanlar Mah.	901~|902~|903~|904~|905~|Bursa@|Dikilitaş~|Dönenli Yolu=|Karakaş~|Kireçlik~|Küçükkaya~|Kırdalar~|Kısıkkaya~|Merve~|Mescit~|Safa~|Taşlık Cami~|Yukarı Köyler~|Çarşı Myd.|Çobandere Mevkii=|İsmail Kırda~
+15880	Dülgeroğlu Köyü	Dülgeroğlu Köy Sokağı=
+15881	Dülgeroğlu Köyü, Sorgun Yayla Evleri	- Köy$
+15882	Esemen Köyü	Esemen Köy Sokağı=
+15883	Fıranlar Köyü	Fıranlar Köy Sokağı=
+15885	Fıranlar Köyü, Fıranlar 1 Mevkii	- Köy$
+15884	Fıranlar Köyü, Fıranlar Mevkii	
+98652	Fıranlar Köyü, Fıranlar Mücavir Mevkii	Fıranlar Mücavir Köy Sokağı=|Pazaryeri Yolu@
+15886	Güde Köyü	Güde Köy Sokağı=
+15887	Gümüşdere Köyü	Gümüşdere Köy Sokağı=|İnegöl Pazaryeri Yolu@
+15888	Günyurdu Köyü	Günyurdu Köy Sokağı=
+15892	Günyurdu Köyü, Balıklı Güney Mevkii	- Köy$
+15891	Günyurdu Köyü, Balıklı Mevkii	- Köy$
+15889	Günyurdu Köyü, Doruk Mevkii	- Köy$
+15890	Günyurdu Köyü, Sorkun Beyçayır Tavşan Tepe Mevkii	- Köy$
+15893	Günyurdu Köyü, Yeni Yerleşim Yeri Mevkii	Yenı Yerleşım Yerı 1~|Yenı Yerleşım Yerı 10~|Yenı Yerleşım Yerı 11~|Yenı Yerleşım Yerı 12~|Yenı Yerleşım Yerı 13~|Yenı Yerleşım Yerı 14~|Yenı Yerleşım Yerı 15~|Yenı Yerleşım Yerı 16~|Yenı Yerleşım Yerı 17~|Yenı Yerleşım Yerı 18~|Yenı Yerleşım Yerı 2~|Yenı Yerleşım Yerı 3~|Yenı Yerleşım Yerı 4~|Yenı Yerleşım Yerı 5~|Yenı Yerleşım Yerı 6~|Yenı Yerleşım Yerı 7~|Yenı Yerleşım Yerı 8~|Yenı Yerleşım Yerı 9~|Yenı Yerleşım Yerı~
+15894	Karadede Köyü	Karadede Köy Sokağı=
+15896	Karaköy Köyü	Bilecik Eskişehir@|Karaköy Köy Sokağı=|Pazaryeri Yolu@|Pazaryeri Yolu1@
+98653	Karaköy Köyü, Karaköy Mücavir Mevkii	Karamangünü Mevkii=|Pazaryeri Yolu@|Pazaryeri Yolu1@
+15895	Karaköy Köyü, Karaköy-2 Mevkii	
+15898	Küçükelmalı Köyü	Küçükelmalı Köy Sokağı=
+15897	Kınık Köyü	Kınık Köy Sokağı=|İnegöl Pazaryeri Yolu@
+15899	Nazifpaşa Köyü	Nazifpaşa Köy Sokağı=|İnegöl Pazaryeri Yolu@
+10661	Pamucakosb Mah.	1.@|2.@|3.@|4.@|5.@|6.@|7.@|Ring Yolu@
+15901	Sarnıç Köyü	Sarnıç Köy Sokağı=
+15900	Sarıdayı Köyü	Sarıdayı Köy Sokağı=
+10659	Yeni Mah.	3=|4=|501~|502~|503~|504~|505~|506~|507~|9 Mayıs~|Ahmetler Köy Yolu=|Arazi Yolu=|Aytaç~|Bahattin Şeker@|Bayır~|Bilecik Yolu=|Birlik~|Cami~|Dorukharmanlar~|Edebali~|Erguvan~|Ertuğrul Gazi~|Esere Yolu=|Fatih Sultan Mehmet@|Gazi Refik Özberber@|H.ahmet Yesevi@|Han~|Huzur~|Hürriyet@|Karaçalı Mevkii=|Kardelen@|Kartopu~|Kurtuluş~|Kutukkk~|Lale~|Mezarlık~|Nilüfer~|Orhangazi~|Osmangazi~|Pıt Pıt Dere Yolu=|Vehbibey~|Yan~|Yazıçeşme~|Yeni~|Yukarı Dorukharmanlar~|Yunus Emre~|Yıldırım@|Yıldız~|Zafer~|Zambak~|Ümmet Pınar Yolu=
+10660	Yüzbaşı Mah.	18~|19 Mayıs@|25=|32~|5 Eylül@|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|Abdülhamit Han@|Bahar~|Bahçeli Evler~|Bayram Akkoç~|Beyoğlu~|Bursa@|Bursa Yolu=|Dere~|Değirmen Yolu=|Dilek~|Dokumacılar~|Fazilet~|Fulya~|Gölcük Yolu=|Gül~|Güngör~|Güvercinlik~|Hacı Şakir~|Harmanlar~|Hüseyin Demirel~|Kamil Koç%|Karapınar~|Kenar Evler~|Kısıkkaya~|Kızılpınar Yolu=|Makineci~|Menekşe~|Mescit~|Mimar Sinan@|Sadri Turan@|Sorgun Yolu=|Sümbül~|Uzunkuyu~|Uğurlu~|Çıngıllı~|Ümit~|İğdir Sığır Yolu=|Şafak~|Şehit Bilal Özcan~|Şehit Mustafa Kurt~|Şehit Sedat Çakır~|Şehit Yasin Uz~|Şehit Yavuz Cengiz~
+10656	Çarşı Mah.	19 Mayıs@|26~|5 Eylül@|701~|702~|703~|704~|705~|706~|707~|Abdülhamit Han@|Akşemsettin~|Bahattin Şeker@|Bahçeli Evler~|Beyazıt~|Bursa@|Cami~|Fatih Sultan Mehmet@|Gazi Refik Özberber@|Hürriyet@|Karaçam Yolu=|Kardelen@|Kelemciler~|Kosova~|Mimar Sinan@|Nilüfer~|Ortaçeşme~|Papatya~|Sadri Turan@|Saray Bosna~|Tahıl~|Ulubatlı Hasan@|Vehbibey~|Yeni Konutlar~|Zübeyde Hanım@|Çamaşırlık~|Çarşı Myd.|Çayır~|İğdir Sığır Yolu=|Şehit Yusuf Candan~

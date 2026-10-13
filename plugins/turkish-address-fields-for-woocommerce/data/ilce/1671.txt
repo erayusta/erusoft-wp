@@ -1,0 +1,152 @@
+51680	Ada Mah.	Azim~|Bade~|Beste~|Buğra~|Damla~|Demir~|Duyum~|Ebru~|Emet Yolu@|Füze~|Görkem~|Hazar~|Kahraman~|Kavi~|Kuruçay Yolu@|Kılınç~|Levent~|Lider~|Mehmet Avcı~|Nazlı~|Patika~|Pehlivan=|Sarmaşık~|Sarıcasu@|Sertap~|Tahtalı~|Ulus~|Yeşim~|Yonca~|Yunus Emre@|Zakkum~|Çardaklı Yolu@|Örencik~
+55446	Akçaköy Köyü	Akçaköy=
+55447	Akçaşehir Köyü	Akçaşehir=
+51683	Aliköy Köyü, Aliköy-kemalsultan Mevkii	Belediye 1~|Belediye~|Berber~|Bılınmeyen 2~|Cumhuriyet~|Kütahya~|M.akif Ersoy~|Menderes~|Okul~|Sağlık~|Tekke~|Tekke/1~|Uysal~|Ziraat~|Çakmak~|İstasyon~|Şht.er Sadettin Kahraman~
+51684	Aliköy Köyü, Aliköy-zafer Mevkii	Akar~|Aktepe~|Arslan 3~|Arslan 4~|Arslan~|Arslan/1~|Bılınmeyen 1~|Cumhuriyet~|Gümüş~|Huzur~|Kütahya~|Kıran 1~|Kıran~|Menderes~|Pınar 1~|Pınar 2~|Pınar 3~|Pınar~|Sözer~|Sözer1~|Süleyman Kaya~|Tavşanlı~|Uslu~|Yüksel~|Çakmak~|Çimen~|Çiçek~|Ünay~|Şht.er Sadettin Kahraman~
+100245	Aliköy Köyü, Dulkadir Mevkii	Akasya~|Aktepe-~|Alperen~|Dulkadir=|Harman~|Karanfil~|Kurtuluş~|Papatya~|Selvi~|Yaman~|Yayla~|Çitlenbik~|Şahin~
+55448	Altınova Köyü	Altınova=
+55450	Altınova Köyü, Halil İbrahimler Mevkii	Halil İbrahimler=
+55449	Altınova Köyü, Topallar Mevkii	Topallar=
+55451	Arifler Köyü	Arifler=
+55452	Artıranlar Köyü	Artıranlar=
+55453	Avcılar Köyü	Avcılar=
+55454	Aydınlar Köyü	Aydınlar=
+55455	Ayvalı Köyü	1.sorkun=|Ayvalı=
+55445	Ağaköy Köyü	Ağaköy=
+51686	Balıköy Beldesi, Balıköy-kadı Mah.	Aşağı Camii@|Aşağı Camii/1~|Aşağı Camii/2~|Aşağı Camii/3~|Eski Camii@|Halilağalar~|Kadıyol~|Kadıyol/1~|Kadıyol/2~|Kadıyol/3~|Menekşe~|Menekşe/2~|Tepe@|Çiftlik@|Çiftlikk 1=|Çiftlikk 2=|Çiftlikk=
+99486	Balıköy Beldesi, Balıköy-karaşehir Mah.	Alan=|Balıköy@|Balıköy/1~|Balıköy/2~|Bülbül~|Bülbül/1~|Bılınmeyen 001~|Dede@|Güney~|Karaşehir Cami~|Karaşehir Okul~|Karaşehir~|Kocakıran~|Köyönü@|Pınar-~|Taş~|Yukarı Pınar~|Çimen~|Şehit Mehmet~|Şirin~
+99487	Balıköy Beldesi, Balıköy-kışla Mah.	Balıkoy@|Balıkoy/1~|Gazi~|Kışla Dere~|Kışla Harman~|Kışlaköy=|Kışlaköy/1=|Kışlaköy/2~|Muhammet Şut~|Taşkın~|Yukarı Cami@
+51687	Balıköy Beldesi, Balıköy-merkez Mah.	Ahmet Körhasan@|Bilinmeyen/1~|Bilinmeyen/2~|Bilinmeyen/3~|Cami@|Cami/1~|Carsı 1~|Cumhuriyet@|Cumhuriyet/2~|Cumhuriyet/3~|Cumhırıyet/1~|Esen~|Esen/1~|Güleç~|Güleç/1~|H.ahmet Yesevi~|Ketenlik=|Ketenlik/1=|Ketenlik/2~|Ketenlik/3~|Mağara=|Mağara/1=|Mağara/2=|Mağara/3=|Menderes 5~|Menderes@|Menderes/1~|Menderes/2~|Menderes/3~|Menderes/4~|Okul@|Pansiyon~|Pansiyon/1~|Sakinler~|Simav Harm~|Simav~|Simav/1~|Taşpınar@|Taşpınar/1@|Taşpınar/2@|Taşpınar/3~|Topraklık@|Topraklık/1~|Yıldız~|Yıldız/1~|Yıldız/2~|Yıldız/3~|Yıldız/4~|Yıldız/5~|Zümrüt~|Çamlıca@|Çamlıca/1@|Çarşı@|İstasyon~|Şirinevler~
+51685	Balıköy Beldesi, Balıköy-çıvgalar Mah.	Dere@|Dere/1~|Dere/2~|Güldere~|Harman 1=|Harman@|Harman/2~|Harman/3~|Muhsin Yazıcıoğlu@|Orman@|Orman/1~|Tavşanlı@|Tavşanlı/2~|Tavşanlı/3~|Yeni Camii@|Çıvgalar/1~|Çıvgalar/10~|Çıvgalar/2~|Çıvgalar/3~|Çıvgalar/4~|Çıvgalar/5~|Çıvgalar/6~|Çıvgalar/8~
+100028	Balıköy Beldesi, Soluganlar Mah.	Bilinmeyen 1~|Bilinmeyen Soluganlar=|Camii@|Düğün Salonu~|Gedikbağı=|Merkez=|Soluganlar 1=|Soluganlar Balıköy@|Soluganlar Harman=|Öztürk~|Öztürk/1~|Öztürk/2~
+51688	Bağlık Mah.	Aşık Yunus Emre@|Battal Gazi@|Beyazıt@|Buket~|Didem~|Dikmen~|Dilber~|Edip~|Er~|Evliya~|Ezan~|Fatih@|Gazi~|Gelibolu@|Gülderen~|Gülseren~|Gürbüz~|Güzide~|Hakim~|Hekimoğlu@|Hikmet~|Hoca Akşemseddin@|Hüküm~|Kamber~|Koca Muallim-@|Kösem~|Kültür@|Maden~|Menderes@|Muzaffer~|Neslihan~|Peri~|Yarar~|Yeni Alim~|Yeni Armağan~|Yeni Bilgili~|Yeni Billur~|Yeni Bulut~|Yeni Can~|Yeni Dere~|Yeni Devran~|Yeni Dilek~|Yeni Elvan~|Yeni Engin~|Yeni Ergül~|Yeni Fazilet~|Yeni Ferman~|Yeni Filiz~|Yeni Gamze~|Yeni Gülseven~|Yeni Güven~|Yeni Güzin~|Yeni Irmak~|Yeni Karaca~|Yeni Kibar~|Yeni Koza~|Yeni Nazlı~|Yeni Neşe~|Yeni Orkide~|Yeni Oğuz~|Yeni Yaylacık@|Yeni Yağız~|Yılmazel~|Çağlar~|İlim~|İrşad~
+55456	Başköy Köyü	Basköy=
+99413	Beyköy Mah.	Balıkesir Yolu@|Beyköy 1.~|Beyköy Küme=|Sorkun=|Tunçbilek Yolu@|Şehit Jandarma Uzman Çavuş Hasan Büber@
+55458	Bozbelen Köyü	Bozbelen=|Çivilicam Mevkii=
+55459	Burhan Köyü	Burhan=
+55477	Dağdemirli Köyü	Dağdemirli=
+51682	Dağçeşme Mah.	Ahi Evran~|Alan~|Aras~|Asalet~|Asil~|Avşar~|Bademli Evran 1.geçidi~|Bademli Evran 2.geçidi~|Bademli~|Belkıs~|Beyazıt Özlem Geçidi~|Beyköy Küme=|Boz~|Cem Sultan~|Dağçeşme~|Dedeler@|Doruk~|Dumlupınar@|Ece~|Elzem~|Emel~|Evran~|Feslihan~|Genç Osman@|Goncagül~|Göksu~|Güner~|Güvenç~|Hacı Ahmet Kırı=|Hacı Osmanlar_1~|Haymeana~|Hukuk~|Ilgın~|Kalem~|Kasımpatı~|Katip~|Kaşif~|Kekik~|Keklik~|Kelam~|Kelebek~|Kervan~|Kurşunlu~|Kıran~|Kırlangıç~|Lavanta~|Limon~|Lodos~|Martı~|Martı Çıkmaz~|Mazi~|Mimar Sinan@|Muhsin Yazıcıoğlu@|Muradiye~|Müderris~|Nane~|Nigar~|Onarlı~|Orhan Bey~|Poyraz~|Sarı~|Saygın~|Sema~|Seyran~|Sisli~|Söyler~|Tatlı~|Temiz~|Tunçbilek@|Tunçbilek Yolu@|Turan~|Töre~|Vezir~|Yankı~|Yasemin@|Yavuz Selim@|Yay~|Yediler~|Yenice~|Yeşil Çimen~|Yüksel~|Yıldırım Beyazıt@|Zencefil~|Zeytin~|Zincirlikaya~|Çalı~|Çağatay~|Çetin~|Çevre Yolu@|Çimen~|Çiçekli~|Çıkrık~|Ören~|Özgül~|Özkan~|Özlem~|Üçbey~|İmbat~|Şedirvan~|Şehit Jandarma Komando Er Cemil Demirayaklı~|Şehit Jandarma Uzman Çavuş Hasan Büber@|Şule~
+99410	Dedeler Mah.	Dedeler 1.~|Dedeler 2.~|Şehit Jandarma Uzman Çavuş Hasan Büber@
+55482	Derbent Köyü	Derbent=
+55483	Derecik Köyü	Derecik=
+55484	Devekayası Köyü	Devekayası=|Çobanköy=
+55480	Değirmisaz Köyü	Değirmisaz=
+55485	Doğanlar Köyü	Doğanlar=
+55486	Dudaş Köyü	Dudaş=
+55488	Dudaş Köyü, Alpagut Mevkii	Alpagut=
+55487	Dudaş Köyü, Baraj Kenarı Mevkii	Baraj Kenarı=
+51670	Durak Mah.	Abbacıklar~|Ahmet Yesevi@|Anıt~|Aralık~|Cumhuriyet Myd.|Destanlar~|Domaniç@|Dönmeler Çıkmaz~|Efeler Çıkmaz~|Ekizler Kavuncular Geçidi~|Ekizler~|Ellezler Çıkmazı~|Emirler@|Ergun~|Esifler Çıkmaz~|Etiler@|Fevzi Paşa~|Gelincik~|Gonca~|Gürsoy~|Huzur@|Işıkveren@|Karaca~|Kavuncular~|Kemal Zeytinoğlu@|Keşkekçi~|Kükürtlü Cami~|Kükürtlü@|Laleli~|Leblebiciler_1~|Leylak~|Lokal~|Mehmet Serdaroğlu~|Menekşe~|Meydan~|Minnet~|Mizah~|Müezzinler Çıkmazı~|Mülayim Dede 1.~|Mülayim Dede 2.~|Mülayim Keşkekci 2.geçidi~|Mülayim Keşkekçi 1.geçidi~|Mülayim Yamacı~|Mülayimtepe@|Numune~|Papatya~|Sabirler Çıkmazı~|Santral~|Sündüs~|Tahsin Buruk@|Tayyare~|Tunçbilek@|Ufuk@|Umut~|Uzun Çarşı@|Yandımlar~|Yaprak~|Yasemen~|Yeni Balık Pazarı~|Yıldız~|Zambak~|Zambak Çıkmaz~|Çakar~|Çağlayan~|Çevre Yolu@|Çeşme-~|Çiğdem~|Çobanlar Keşkekci Geçidi~|Çobanlar~|Ömür~|İkbal~|İstasyon@|İğiller~|Şehit Mustafa Çağlar~|Şehit Yaşar Gezer~|Şıhlar 1~
+55490	Dutlar Köyü	Dutlar=
+55491	Dümrekhüseyinpaşa Köyü	Dümrekhüseyinpaşa=
+55492	Dümrekorta Köyü	Dümrekorta=
+55493	Dümrekuluköy Köyü	Dümrekuluköy=
+55495	Elmaağacı Köyü	Elmaağacı=
+55496	Elmalı Köyü	Elmalı=
+55497	Emirler Köyü	Emirler=|Sekbandemirli=
+55498	Emirler Köyü, İstasyon Altı Mevkii	Emirler=|İstasyonaltı=
+55499	Erikli Köyü	Erikli=|Mehmet Eminler=|Taşdibi=
+55504	Erikli Köyü, Cevceller Mevkii	Cevceller=
+55502	Erikli Köyü, Haşhaşlık (çiftlik) Mevkii	Erikli=|Haşhaşlık Çiftlik=
+55500	Erikli Köyü, Kızılarman (tabaklı) Mevkii	Tabaklı=
+55505	Erikli Köyü, Mehmet Eminler Mezrası	Mehmet Eminler=
+55501	Erikli Köyü, Samaklı Mevkii	Erikli=|Samaklı=
+55503	Erikli Köyü, Taşdibi Mevkii	Mehmet Eminler=|Taşdibi=
+55494	Eğriöz Köyü	Eğriöz=
+55506	Eşen Köyü	Eşen=
+55507	Gazelyakup Köyü	Gazel Yakup=
+55508	Gevrekler Köyü	Gevrekler=
+55509	Göbel Köyü	Göbel Kaplıcaları=|Göbel=|Kurt Dede~|Termal Başköy-~|Termal-~
+55510	Gökçeyurt Köyü	Gökçeyurt=
+55511	Gölcük Köyü	Gölcük=|Sekbandemirli=
+55512	Gümüşgölcük Köyü	Gümüşgölcük=
+55513	Gümüşyeniköy Köyü	Gümüşyeniköy=
+51674	Hanımçeşme Mah.	Adak~|Adnan Menderes%|Akar~|Aksoy~|Ayaz~|Aydın~|Barbaros@|Begonya~|Bent~|Berat~|Berrak~|Beyaz Evler~|Binnur~|Cemre~|Cennet~|Cevher~|Dekor~|Derebaş~|Devran~|Diyar~|Ekmel~|Ekrem Ödemiş%|Elmas~|Ertuğrul Gazi@|Ertürk~|Eser~|Esra~|Estergon~|Fikir~|Gerçek~|Göktürk~|Gündüz~|Güvercin~|Hasat~|Hicret~|Horasan~|Irmak~|Karaer~|Kayı~|Kemer~|Kent~|Koza~|Kuğu~|Mekan~|Melek~|Mevlana@|Motif~|Murat~|Nur~|Osman Gazi@|Oğuz~|Pak~|Rahmet~|Ribat~|Selin~|Sezgi~|Tufan~|Tuna~|Turkuaz~|Yavuz~|Yayla~|Yağız~|Yıldırım~|Çamlı~|Çamoluk~|Çevre Yolu@|Çevre Yolu Üstü~|Çukur~|Ötüken~|Ümran~|İbni Sina@|İstikbal~|Şafak~|Şair Fuzuli@|Şehit Hüseyin Taşkın~|Şehit İsmail Düzgün@|Şelale~|Şems~
+55515	Karacakaş Köyü	Karacakaş=
+55516	Karakaya Köyü	Karakaya=
+55517	Karakişi Köyü	Karakişi=
+55518	Karakişi Köyü, Çukurca Mevkii	Çukurca=
+51676	Karakova Mah.	1.~|2.~|3.~|4.~|5.~|Aygün~|Bakım~|Beşir~|Büşra~|Deva~|Firdevs~|Gelin~|Gurur~|Hayal~|Hilal~|Kamer~|Kardeşler~|Kenar~|Kerim~|Kumral~|Kuruçay Yolu@|Nergiz~|Nilüfer~|Polen~|Sağlık_1~|Sedir~|Serap~|Sude~|Vakıf~|Volkan~|Yeşilova~|Yeşilpark@|Yosun~|Çayırova~|Çukurova~|İskan Dışı=
+55519	Karaköy Köyü	Karaköy=
+55520	Karapelit Köyü	Karapelit=
+55522	Karcık Köyü	Karcık=
+55523	Kargılı Köyü	Kargılı=
+55524	Karlı Köyü	Karlı=
+55525	Karlı Köyü, Paçasızlar Mevkii	Paçasızlar=
+55526	Kavaklı Köyü	Kavaklı=
+55527	Kavaklı Köyü, Benah Mevkii	Benah=
+51669	Kavaklı Mah.	Abalılar~|Abdullah Efendiler Cumhuriyet Geçidi~|Abdullah Efendiler~|Akasya~|Akıncılar~|Açelya~|Ağaçlı~|Babirler~|Barbaros Hayrettin@|Bayramlar~|Bitim~|Canlı~|Cumhuriyet_1@|Dedeler@|Dedeler_1~|Demirler Bayramlar Geçidi~|Demirler~|Dübekbaşı~|Eskiciler Çarşısı~|Funda~|Gorgor~|Güngören~|Hacı Ahmet Kırı=|Hoşgör Oturak 1. Geçidi~|Hoşgör Oturak 2. Geçidi~|Hoşgör~|Kavaklı Cami Abdullah Efendiler Geçidi~|Kavaklı Cami~|Kelepir@|Kemal Zeytinoğlu@|Kır~|Lokman~|Mutlular Abalılar Geçidi~|Mutlular@|Mutlular Hoşgör Geçidi~|Odun Pazarı@|Orman~|Oturak~|Sanat~|Sarp~|Sağlık@|Sağlık Tavşantarla Geçidi~|Serhat~|Serhat Tavşantarla Geçidi~|Servet~|Seçkin~|Tavşantarla Geçidi~|Tavşantarla~|Tintonlar~|Tunçbilek@|Ulucami@|Uzunaliler~|Yalvaç 1.~|Yalvaç 2.~|Yeşil~|Yıldıztepe~|Zeyrekler Kır Geçidi~|Zeyrekler~|Çakmaklar~|Çarşı~|Üftadeler~|Şehit Ayhan Bütün~|Şehit Uzman Çavuş Mustafa Altınel@|Şekerlik@|Şekerlik Yalvaç Geçidi~
+55528	Kayaarası Köyü	Kayaarası=
+55529	Kayı Köyü	Kayı=
+55551	Kocayeri Köyü	Kocayeri=
+55552	Kocayeri Köyü, Karaali Mevkii	Karaali=
+55553	Kozluca Köyü	Kozluca=
+51694	Kuruçay Beldesi, Kuruçay-güzelyurt Mah.	1.~|2.~|3.~|4.~|5.~|6.~|Akpınar~|Altın~|Ark~|Atay~|Bahçe~|Baykuş~|Bayır~|Başak~|Biber~|Biçer~|Cami~|Davulcu~|Dere~|Dibekbaşı~|Dinç~|Durak~|Ekin~|Fikret Yurtlu~|Gezer~|Göçmen~|Hasanhüseyin Dirgin~|Hayat~|Hilal~|Kabataş~|Kandilli~|Karagöz~|Karin Deresi~|Karşıyaka 1~|Karşıyaka 2~|Korkmaz~|Koru~|Koru1~|Mavi~|Mehtap~|Menekşe~|Menekşe Çıkmazı~|Mestanlar~|Nergis~|Okul~|Sarı~|Sağlık@|Sezgin Çıkmazı~|Tarla~|Yağar~|Yağmurlu=|Çakıcı~|Çavdarhisar Yolu~|Çetin~|Çiğdem Bayırı~|Çiğdem@|Özdemir~|Şahin~|Şehit Ali Alpaslan@|Şehit Kemal Uçar@|Şelale~
+51692	Kuruçay Beldesi, Kuruçay-kocapınar Mah.	15 Temmuz Demokrasi Şehitleri@|Araplar~|Aşağı Çimen~|Belediye~|Damla 1~|Damla 2~|Damla~|Dilek~|Esentepe 2~|Esentepe~|Esenyurt 1~|Esenyurt 2~|Esenyurt 3~|Esenyurt~|Hacıefendiler~|Hacıefendiler Çınargeçidi~|Kasımpaşa@|Mevlana~|Ortayol@|Pazaryolu~|Yunus~|Yıldız 1~|Yıldız~|Çelebi 1~|Çelebi~|Çimen 1~|Çimen 2~|Çimen~|Çimen Şen Geçidi~|Çinçir~|Çınar~|İlim~|İrfan~|İstiklal 1~|İstiklal~|Şehit Ali Alpaslan@|Şen~
+51693	Kuruçay Beldesi, Kuruçay-ören Mah.	15 Temmuz Demokrasi Şehitleri@|Bahçelievler 1~|Bahçelievler~|Bayrak~|Bayram~|Gelinyolu 2~|Gelinyolu@|Gölet=|Güneş 1~|Güneş~|Hacıhaliller~|Hanardı~|Kasımpaşa@|Kepez Küme Evleri=|Küçük Pazar Yolu~|Lale~|Nur~|Ortayol@|Pazaryolu 1~|Pazaryolu 2~|Pazaryolu~|Rahmet~|Sarmaşık~|Tavşanlı 1~|Tavşanlı 2~|Topçular~|Çakıliçi 1~|Çakıliçi 2~|Çakıliçi~|Çamlık 1~|Çamlık~|Çay Yeri Küme Evleri=|İlim~|Şehit Mehmet Karaduman~
+55554	Köprücek Köyü	Köprücek=
+55555	Köreken Köyü	Köreken=
+55556	Köseler Köyü	Köseler=
+55530	Kırkkavak Köyü	Kırkkavak=
+55533	Kızılbük Köyü	Kızılbük=
+55535	Kızılbük Köyü, Kömür İşletmesi Mevkii	Kömür İşletmesi=
+55534	Kızılbük Köyü, İstasyon Mevkii	İstasyon=
+55550	Kızılçukur Köyü	Akkaşdede=|Aliefendi=|Arapdede=|Bekirefendi=|Büyükpınar~|Cumhurıyet~|Dorukk=|Emirdede=|Gözören Mevki=|Keles=|Kızılçukur=|Okul1~|Tavsanlı=|Tavşanlı Çıkmaz~
+55531	Kışlademirli Köyü	Kışlademirli=
+55557	Madanlar Köyü	Madanlar=
+51672	Moymul Mah.	Ahmet Yesevi@|Akşemseddin@|Alemdar~|Altın~|Aslan~|Atabey~|Ataman~|Ayna~|Ayvalı@|Ayça~|Bahçe~|Balıkesir Yolu@|Balıklı@|Barbaros Hayrettin@|Barış~|Bayırlı~|Bağcılar~|Bedir@|Bekir Hocalar~|Bekirler Çıkmaz~|Beyköy@|Beyköy Semerciler Geçidi~|Bilgin~|Billur~|Bingül~|Birlik~|Büklüm~|Canlı~|Danacılar~|Dağçeşme Karabağlar Geçidi~|Dağçeşme~|Dedeler@|Defne~|Demet@|Derebaşı Bağcılar Geçidi~|Derebaşı~|Derecik@|Derecik Yolu@|Emniyet~|Erguvan~|Ferah~|Feza@|Genç~|Hacı Hasanlar~|Hacı Osmanlar~|Hacıbalılar Geçidi~|Hacıbalılar~|Hamam~|Hendek~|Hotanlı@|Huzur@|Kale~|Karabağlar~|Kaynar~|Konak~|Kristal~|Kulüp~|Kuyubaşı~|Körhüseyinler Alemdar Geçidi~|Körhüseyinler~|Köseler~|Lale~|Lalezar~|Manolya~|Mine~|Mor~|Mülayim@|Mülayim Uğur Geçidi~|Pirler~|Porsuk~|Pırlanta~|Revan~|Saray~|Sedef~|Semerciler~|Sevinç~|Söğüt~|Sümer~|Tabaklar~|Tayfun~|Taşkın~|Tunçbilek@|Tunçbilek Yolu@|Ufuk@|Uğur~|Yakut~|Yeni Cami~|Zirve~|Zümra~|Çakırlar~|Çarşı Meydanı~|Çatalca~|Çaybaşı~|Çayca~|Çayırbaşı=|Çevre Yolu@|Çiçek~|Önerler~|İmamlar~|İnci~|İrem~|İçten~|Şehit Jandarma Komando Er Cemil Demirayaklı~|Şehit Şemşettin Altınbek@|Şengül~|Şıhlar Danacılar Geçidi~|Şıhlar Hacıbalılar Geçidi~|Şıhlar~
+55558	Nusretler Köyü	Nusretler=
+55559	Opanözü Köyü	Opanözü=
+55560	Ovacık Köyü	Ovacık=
+55563	Sekbandemirli Köyü	Sekbandemirli=
+51675	Subaşı Mah.	Abide~|Alperen~|Anadolu@|Balaban~|Bayburt~|Beyaz~|Bilgili~|Burak~|Deniz@|Ekinci~|Ekrem Ödemiş%|Eğri Gazi@|Firuze~|Fulya~|Fırat~|Gözde~|Halil Polat@|Halil İbrahim Çakır~|Hasan Hüseyin Çiftçi~|Hızır~|Kartal~|Mavi~|Mehmet Akay~|Mehmet Ayvalı~|Mehmet Dağıstan~|Mehmet Doğruöz@|Mera~|Mercan~|Meriç~|Mustafa Akkaya~|Nar~|Okul~|Okyanus~|Onur~|Ortanca~|Piri Reis~|Preveze_1@|Salkım~|Samur~|Sefer~|Seki~|Tepe~|Turgut Reis~|Vadi~|Yakaca~|Yakın~|Yenidoğan@|Çaldıran~|Çalışkan~|Şimal~|Şükrü Dinçer@
+51695	Tepecik Beldesi, Tepecik-aşağı Mah.	Ahmet Derin%|Ahmet Uluçay@|Berber~|Beyler@|Canbaz~|Düden~|Düdenkırı=|Eşikkuyu~|Fatih~|Fırın~|Gazi Ali~|Gökçe~|Hatip~|Kayaaltı=|Koru~|Kızılcayaka=|Mezarlık~|Mustafa Özbay@|Okul~|Pansiyon~|Tepecik Bilinmeyen=|Valide Kırı@|Yayla~|Yağyeri=|Yol3/tepecik Aşağı~|Çayır~|Çağlar 2~|Çolak Efe@
+51696	Tepecik Beldesi, Tepecik-orta Mah.	Abekir~|Ahmet Derin 1=|Ahmet Derin 2~|Ahmet Derin%|Ahmet Uluçay@|Akça~|Belediye@|Beyazıt@|Beyler@|Cami~|Canlı~|Cumhuriyet 1~|Cumhuriyet@|Dutbahçe~|Dübek 1 Myd.|Dübek~|Ece Sultan~|Esen 1~|Esen~|Funda~|Gedik 1~|Gedik~|Güler~|Hacıbey 1~|Hacıbey~|Hacılar~|Havva Hatun 2~|Havva Hatun~|Hendekli~|Kanuni Küme Evleri=|Karaca~|Kayı~|Kayı/1~|Kıranbaşı~|Mustafa Çavuş~|Mustafa Özbay@|Mutlu~|Orta Tepecik Bilinmeyen 1=|Pınar~|Sarıbey~|Sağlık~|Seydikuyu~|Tekke~|Yol2/ Tepecık Orta~|Yol3/tepecık Orta~|Yol4/ Tepecık Orta~|Yunus Emre~|Zafer~|Çakır 1~|Çakır 2~|Çakır~|Çayır~|Özcan~|Şahin~|Şeker~
+51697	Tepecik Beldesi, Tepecik-yukarı Mah.	15 Temmuz Demokrasi Şehitleri~|Ahmet Derin 3~|Ahmet Derin%|Ahmet Uluçay@|Akçay~|Beyazıt 1~|Beyazıt 2~|Beyazıt 3~|Beyazıt 4~|Beyazıt@|Durak~|Hacı Hasan~|Karadayı~|Karanfil~|Kepez~|Kepez1~|Kepez2~|Kepez3~|Kepez4~|Kiraz~|Mandıra 1~|Mandıra~|Melısa~|Menderes@|Menekşe~|Molla İbrahim~|Sarıkuyu~|Selvi~|Sıhhiye İsmail Seven@|Yağlıdede~|Yol1/tepecik Yukarı~|Yol2/tepecik Yukarı~|Yol7/tepecık Yukarı~|Yol8/tepecık Yukarı 1~|Yol8/tepecık Yukarı~|Yol9/tepecik Yukarı 1=|Zambak~|Çamaşırlık~|Çardaklı@|Çardaklı Yolu@|Çatmacık=|Çayır Mevki=|Çiğdem~
+99722	Tunçbilek Beldesi, Gürağaç Cevizli Mah.	Alp~|Alıpınar~|Ardıç Pınarı=|Armutlu~|Asarlık@|Ay~|Barış~|Başak~|Bedir~|Belediye Myd.|Cevizli~|Dergah~|Ebilcik~|Emirgan~|Erdemir~|Erenler Arkası~|Erenler~|Esen~|Gazi@|Gelence=|H.ahmet Yesevi~|Kavaklo~|Kavaklı~|Kayaarası@|Kurs@|Kuyucu~|Kuğu~|Küçük Çakmaklı~|M.akif Ersoy@|Mantarlık~|Mehmet Usta~|Menderes~|Menekşe~|Mevlana~|Mor~|Odabaşı~|Osman Çavuş~|Pınar~|Recep Sarıkaya~|Saygın~|Sefa~|Selvi~|Sorkun Yolu=|Tavşan Tepesi=|Tepedibi~|Tokatlı@|Tokmak~|Trafo~|Ufuk~|Uhud~|Umut~|Veli Aladağ@|Yeni Cami~|Yukarı Çimen~|Yıldırım Beyazıt@|Yıldız~|Zambak~|Ziyade Pınar~|Çakmaklı~|Çankaya~|Çilek~|Özdemir~|Ülkü~|İlik~|İlim~|Şehit Mehmet Baş@
+99815	Tunçbilek Beldesi, Gürağaç Çınar Mah.	1.sorkun@|Akgedik~|Aktepe@|Altın~|Armutdibi~|Başkaya~|Başpınar@|Belediye Myd.|Cemre~|Cuma Karşısı@|Dar~|Davutlar~|Demirbilek@|Değirmen Yanı~|Elif@|Emirveli~|Erdoğan=|Erikbaşı~|Fatih@|Gürağaç@|Gürağaç Yolu~|Hasan Karcı@|Hicret~|Ilgın@|Kara Elmas~|Keles Yolu~|Kovköy~|Köse Hoca~|Köseretepesi~|Kıran~|M.akif Ersoy@|Meltem~|Menderes~|Merve~|Meydan~|Mezarlık~|Meşe@|Muallim Ahmet~|Nuri Hoca~|Polat~|Sivri@|Sorkun@|Söbüçam=|Taşkaya~|Tiryaki~|Ulucan~|Vatan@|Vatan/1@|Veli Aladağ@|Vurgun~|Yağcı~|Yeldeğirmeni~|Yenipınar~|Yıldırım Beyazıt@|Çamdibi~|Çardak Geçidi~|Çeşme~|Çiğdem@|Çiğdemli~|Çınar~|Çırağan@|Ören@|İlke~|İstiklal@|İğdeli~
+51703	Tunçbilek Beldesi, Tunçbilek Merkez Mah.	1.rezne~|1.çay~|1.ıhlamur~|2.rezne~|2.çay~|Adranos~|Ahmet Özkara~|Altay@|Bayıraltı~|Bektaş~|Beydağ~|Beyoğlu~|Cambazlar~|Cami@|Cami Çıkmazı~|Carsan~|Ceyran~|Dedekorkut~|Demirtaş@|Deniz~|Dereboyu~|Değirmen~|Değirmen Sırtı=|Dilekler~|Ekrem Fedai@|Ergenekon~|Fedai~|Gaffar Okan@|Görkem~|Gül~|Gürağaç@|Hasan Emmi~|Hilal~|Himmet Biray@|Ihlamur~|Kafkas~|Kaman~|Kavun~|Kayıbdede~|Kül Hattı=|Kıbrıs~|Kırmızı~|Namlı Geçidi~|Plevne~|Rezne~|Sanayi~|Tavşanlı@|Türkmen~|Veli Aladağ@|Yağmur~|Yeni Yurt~|Yeniyol~|Yörük Ali~|Yıldırım~|Çakıl~|Çamlıyuva~|Çay~|Çevrenk~|İgdedıbı~|İlet~|Şehit Teğmen Cevdet Bahadır@
+99484	Tunçbilek Beldesi, Tunçbilek-demirbilek Mah.	Acar~|Akçaalan~|Akçakaya~|Aldemir~|Alim~|Atlı~|Aydın~|Bahçeli~|Başağalar~|Başbey~|Bilgili~|Bodur~|Bozbelen~|Bozgeliş~|Büyükdüz Mevki=|Damatlar~|Dedealtı~|Deliktaş=|Dere~|Devecikonağı@|Dinç~|Efe~|Elmas~|Fidan~|Gonca~|Gümüş~|Güneş~|Harman~|Hasan Dayı~|Kafalar~|Kahraman~|Kahyalar~|Kanalboyu~|Karaali~|Karacalar~|Karşıyaka@|Kasabalı~|Kazım Kocabey@|Keles Yolu~|Kocabey~|Kocamanlar~|Kozlar~|Kuvayi Milliye@|Köprücek@|Köseler~|Molla Ali~|Oda 1~|Oda~|Park~|Raşit Balı@|Saitler~|Sazak~|Sıkı~|Tayfur~|Taşlıtarla~|Ulutaş~|Uslu~|Yavuz~|Yavuzlar~|Yeni Yol~|Yiğitler~|Çakır~|Çanakkale Şehidi Hasan Kaya~|Çatalçam@|Çaytepe~|Çelik~|Çete~|Çevik~|Çıkmaz Sokak~|Örenli~|Öteyaka~|Öz~|İğde~|Şehitler~
+51699	Tunçbilek Beldesi, Tunçbilek-hamitabat Mah.	2.dere~|Ali Çavuş~|Aşkın~|Bursa@|Darı Mevki=|Dereler Mevkii=|Dik~|Domaniç@|Dç.dr.mustafa Kalemli~|Fazilet~|Günay=|Harman Yeri~|Ilıcaksu~|Karsıyaka-=|Kavuncu~|Kayıboyu~|Kocahasanlar~|Koruma~|Laleli~|Linyit~|P.astsb.bçvş.ömer Halisdemir~|Tatar Musa@|Tunçbilek@|Yaylacık~|Yurtlular~|Yörük Himmet~|Yörük İsmail~|Yüksel~|Çetinler~|Çukur~|İbrahim Yılmaz~
+51701	Tunçbilek Beldesi, Tunçbilek-köprübaşı Mah.	15 Temmuz Demokrasi Şehitleri@|4 Nolu=|Adranos~|Başak~|Doğan~|Gürağaç@|Karaelmas~|Köse~|Muradiye Geçidi~|Mustafa Sahin-=|Mustafa Şahin 2~|Mustafa Şahin 3~|Mustafa Şahin 4~|Mustafa Şahin 5~|Mustafa Şahin 6~|Mustafa Şahin 7~|Mustafa Şahin~|Sedir~|Spor~|Termik 1.~|Termik 2.~|Termik 3.~|Termik 4.~|Termik 5.~|Termik 6.~|Termik 7.~|Termik 8.~|Termik 9.~|Termik=|Tunç~|Çelikler 1~|Çelikler~|İkmal~|İstasyon@
+51698	Tunçbilek Beldesi, Tunçbilek-çamaltı Mah.	1.~|1.site~|15 Temmuz Demokrasi Şehitleri@|2.~|3.~|4.~|5.~|6.~|7.~|8.~|Ahmet Özkara~|Ambarlar 1.~|Ambarlar 2.~|Ambarlar 3.~|Ambarlar 4.~|Ambarlar 5.~|Apartmanlar~|Atölye~|Açık Ocak~|Beke=|Beke Yolu~|Dere Tulumba~|Enerji~|Güven~|Güven/1~|Hakan~|Kültür=|Lale~|Madenci~|Madenciler~|Mutahhar Temel@|Site~|Site/1~|Site/2~|Site/3~|Site/4~|Termik=|Yayla~|Yayla/1~|Yazıhaneler=|Yeraltı=|İstasyon@|Şantiye~|Şehit Teğmen Cevdet Bahadır@
+51700	Tunçbilek Beldesi, Tunçbilek-ışık Mah.	Ahmet Özkara~|Ceyran~|Erguvan~|Erikdibi~|Hicran~|Işık Sit.=|Katlar~|Maden~|Çullu~|Çöğürlü~|Şehit Teğmen Cevdet Bahadır@
+51668	Ulucami Mah.	164 Evler 1.~|164 Evler 2.~|164 Evler 3.~|164 Evler 4.~|164 Evler 5.~|Akaylar Çıkmaz~|Akyol~|Akın~|Altay~|Armutlar~|Bahadır~|Balcılar~|Balılar~|Bayarslan@|Bayrak~|Baytarlar Çıkmaz~|Belde~|Bosna~|Buruklar~|Cumhuriyet Yaylacık Geçidi~|Cumhuriyet_1@|Dedebali~|Dedeler_1~|Demirciler 1.~|Demirciler 2.~|Demirciler 3.~|Demirciler Kütahya Geçidi~|Dübekler Kır Geçidi~|Dübekler~|Ekinciler~|Ekrem Ödemiş%|Elif~|Emir~|Eren~|Erikdibi~|Esmerler Çıkmaz~|Fetih~|Feyiz~|Fidan~|Hastane~|Hatip~|Hayat@|Hayır~|Haşim Benli%|Hıdır~|Kalender~|Karaveliler Haşim Benli Geçidi~|Karaveliler~|Kavaklı Cami~|Kavaklı Kır Geçidi~|Kayalar~|Kelepir@|Killik~|Kültürlü~|Kütahya@|Kütahya Geçidi~|Kır~|Mehmet Doğruöz@|Mercan~|Mücahit~|Nar~|Pınar~|Sahra~|Sancak~|Sağlam~|Sefahamam~|Sefer~|Seher~|Seyir~|Seçkin~|Subaşı~|Ulubatlı Hasan@|Ulucami Avlu~|Ulucami@|Uygun~|Vadi~|Yalvaç~|Yaylacık@|Yeni~|Yenidoğan@|Yerli~|Yukarı Çimen@|Yusuflar~|Yörükler~|Yüce~|Çardak~|Çarşı~|Çavuşhamam~|Üç Eylül@|Şekerlik@|Şekerlik Yalvaç Geçidi~|Şekerlik Yörükler Geçidi~|Şen~
+55570	Uluçam Köyü	Uluçam=
+55573	Vakıf Köyü	Vakıf=
+55575	Yataklı Köyü	Yataklı=
+55574	Yağmurlu Köyü	Yağmurlu=
+51671	Yeni Mah.	Ada@|Adliye~|Adnan Menderes%|Akkaşlar~|Akseven~|Alp~|Anber~|Arifağa Kanal Geçidi~|Arifağa~|Armağan~|Arslanbey@|Atlas~|Bahtiyar~|Bayarslan@|Benek~|Boyacılar~|Boyacılar Çıkmazı~|Bulut~|Buruklar~|Bölükbaşılar~|Bıçakçı~|Cennet~|Cevahir~|Cumhuriyet Myd.|Demiryolu Kenarı~|Dere~|Derman~|Derya~|Desen~|Dilek~|Diyanet~|Dost~|Doğru~|Duru~|Ekrem Ödemiş%|Emek~|Emet@|Emet Yolu@|Engin~|Erdem~|Ertuğrul Gazi@|Fahri Ergun@|Fazilet~|Fedakar~|Ferman~|Filiz~|Gençlik~|Gözlem~|Gül~|Gülseven~|Gündüz Geçidi~|Güneş~|Güzelyurt@|Hacıarifoğlu~|Hanımçeşme~|Hasret~|Haşim Benli%|Helvacılar~|Hisar~|Hocaoğlu~|Hüsnü Yeğiner@|Irmak~|Kader~|Karanfil~|Karayaka~|Kibar~|Kirazlar Çıkmaz~|Kocagözler~|Koza~|Kuruçay@|Kütahya@|Kütahya Sadık Penbe Geçidi~|Küçük Sanayi~|Küçük~|Leblebiciler@|Lise~|Meteoroloji~|Milli Egemenlik@|Namazgah@|Narin~|Neval~|Orkide~|Orta~|Rıza~|Sadık Penbe@|Sanayi~|Selçuklu 1.geçidi~|Selçuklu 2.geçidi~|Selçuklu 3.geçidi~|Selçuklu@|Serdar~|Sevgi~|Tarlabaşı Geçidi~|Tarlabaşı~|Tuba~|Uzun Çarşı@|Vural~|Yakamoz~|Yiğit~|Zeki~|Zümrüt~|Çatal Hamam~|Çelebi~|Çevre Yolu@|Çeyiz~|Çile~|Çınar~|Öz~|İlimyolu~|İrfan~|İstasyon@|İstiklal@|Şebnem~|Şehit Ali Gaffar Okkan@|Şehit Alparslan@|Şehit Hüseyin Ordu~|Şener~|Şirin~
+55576	Yeniköy Köyü	Yeniköy=
+55577	Yörgüç Köyü	Yörgüç=
+51677	Yıldırım Beyazıt Mah.	Arzum~|Aydınlar~|Baki~|Bayrak~|Bey~|Bora~|Boran~|Burcu~|Cenk~|Coşan~|Coşkun~|Demirtaş~|Derebeyli~|Elvan@|Ercan~|Farabi~|Gezgin~|Gizem~|Göktepe~|Göçmen Küme=|Gülbey~|Hale~|Işıklar~|Karaelmas@|Kardeş~|Kaya~|Kehribar~|Kelepir@|Kıraç~|Kısmet~|Kıymet~|Mehmet Doğruöz@|Mest~|Metin~|Oba~|Oymak~|Reyhan~|Sarp-~|Seda~|Serçe~|Türkmen~|Ulubatlı Hasan@|Yalçın 1.~|Yalçın 2.~|Yalçın 3.~|Yalçın~|Yalçıntaş~|Yaman~|Yamaç~|Yenidoğan 1.~|Yenidoğan 2.~|Yenidoğan 3.~|Yenidoğan@|Yeşiltepe@|Yılmaz~|Öğretmenler~|Ünal~|İlbey~|Şehit Teğmen Cevdet Bahadır@
+55460	Çakıllı Köyü	Çakıllı=
+55461	Çaldibi Köyü	Çaldibi=
+55462	Çaltılı Köyü	2=|3=|Çaltılı=
+55463	Çaltılı Köyü, 2 Mevkii	2=|3=
+55464	Çaltılı Köyü, 3 Mevkii	3=|4=
+55465	Çaltılı Köyü, 4 Mevkii	4=|Çaltılı=
+55466	Çamalan Köyü	Çamalan=
+51679	Çardaklı Mah.	Abdullah Dönmez~|Ada-=|Alim~|Almina~|Atatürk@|Ayen~|Cila~|D.s.i~|Emet Yolu-@|Ensar~|Ertan~|Germe~|Gezer~|Göbel Yolu@|Hafseler~|Hocanın@|Kadıoğlu~|Kaynak~|Kayra~|Kepez~|Küçükkır~|Kırıkcı~|Kızıltepe@|Mehmet Gültekin~|Mezarlık~|Muharrip~|Nuri Uygun~|Palanga@|Paşa~|Sarıkaya~|Sazlık~|Selgeçen~|Solmaz~|Sıla~|Uyar~|Uzlar~|Yaver~|Çakmacık~|Çakır~|Çardaklı Yolu@|Çayır~|Çağan~|Çerkez~|Çeşmebaşı@|Özbek~|Şahan~
+55467	Çayırköy Köyü	Çayırköy=
+55468	Çayıroluk Köyü	Çayıroluk=
+55471	Çobanköy Köyü	Çobanköy=
+104436	Çobanköy Köyü, Çobanköy Osb Mevkii	1-@|1.@|10.@|11.@|12.@|13.@|14.@|2.@|3.@|4.@|5.@|6.@|7.@|8.@|9.@
+55472	Çobanlar Köyü	Çobanlar=
+55475	Çobanlar Köyü, 1 Mevkii	- Köy$
+55476	Çobanlar Köyü, Gürepınar Mevkii	- Köy$|Gürepınar=
+51689	Çukurköy Mah.	100. Yıl Caddesi 1.~|100. Yıl Caddesi 10.~|100. Yıl Caddesi 11.~|100. Yıl Caddesi 2.~|100. Yıl Caddesi 3.~|100. Yıl Caddesi 4.~|100. Yıl Caddesi 5.~|100. Yıl Caddesi 6.~|100. Yıl Caddesi 7.~|100. Yıl Caddesi 8.~|100. Yıl Caddesi 9.~|100. Yıl@|3 Eylül@|30 Ağustos@|Adnan Menderes%|Ahmet Aykul@|Ahmet Esen@|Akkaya@|Akkoç~|Aksu~|Altun~|Asma~|Aycan~|Bakır~|Baraman Caddesi 1.~|Baraman Caddesi 10.~|Baraman Caddesi 11.~|Baraman Caddesi 12.~|Baraman Caddesi 13.~|Baraman Caddesi 14.~|Baraman Caddesi 2.~|Baraman Caddesi 3.~|Baraman Caddesi 4.~|Baraman Caddesi 5.~|Baraman Caddesi 6.~|Baraman Caddesi 7.~|Baraman Caddesi 8.~|Baraman Caddesi 9.~|Baraman@|Battal Gazi@|Bağ Evleri=|Bedirhan~|Beşik~|Bozkurt~|Bozok~|Bozyer@|Burçak~|Ceyhan@|Dağcılar~|Dedepınarı@|Diriliş@|Doğa~|Ekber~|Eraslan~|Ermiş~|Erol~|Ersöz~|Esen~|Esin~|Esma~|Evren~|Eyüp~|Ezgi~|Fatih@|Fevzi Çakmak@|Fuzuli~|Fındıcak@|Fırat@|Girgin~|Gümüş~|Gürel~|Gürpınar@|Hafız Ali Çelik@|Hasan Atlı@|Hasan Tahsin@|Hasan Öz@|Hekimoğlu@|Kadir Ahmet@|Kalemli@|Kayıboyu Caddesi 1.~|Kayıboyu Caddesi 10.~|Kayıboyu Caddesi 11.~|Kayıboyu Caddesi 2.~|Kayıboyu Caddesi 3.~|Kayıboyu Caddesi 4.~|Kayıboyu Caddesi 5.~|Kayıboyu Caddesi 6.~|Kayıboyu Caddesi 7.~|Kayıboyu Caddesi 8.~|Kayıboyu Caddesi 9.~|Kayıboyu@|Kazım Karabekir@|Koca Muallim@|Koru~|Kutlu~|Kültür@|Kızılağaç@|Latif~|Leblebiciler Sanayi=|Liman~|Lütuf~|Mareşal~|Mazı~|Mehmet Akif Ersoy@|Mehtap~|Memiş~|Menderes@|Mesnevi~|Meşe~|Mihrap~|Molla Gürani@|Nergis~|Nida~|Osmanlı@|Ozan~|Rahman~|Sanayiciler@|Sezer~|Stadyum@|Terminal~|Terzi Dede@|Titiz~|Tunç~|Tuğrul~|Ulu~|Vicdan~|Yaşar~|Yeni Adil~|Yeni Akın~|Yeni Alemdar~|Yeni Aslan~|Yeni Azim~|Yeni Başak~|Yeni Berrak~|Yeni Burak~|Yeni Burcu~|Yeni Bülbül~|Yeni Cennet~|Yeni Cevher~|Yeni Cihan~|Yeni Dekor~|Yeni Deniz~|Yeni Derya~|Yeni Doğan~|Yeni Doğru~|Yeni Edep~|Yeni Elzem~|Yeni Emel~|Yeni Erdem~|Yeni Eren~|Yeni Feslihan~|Yeni Feza~|Yeni Fidan~|Yeni Fikir~|Yeni Gizem~|Yeni Gonca~|Yeni Gökmen~|Yeni Güzin~|Yeni Hilal~|Yeni Kerem~|Yeni Lale~|Yeni Lalezar~|Yeni Leylak~|Yeni Manolya~|Yeni Meltem~|Yeni Menekşe~|Yeni Mercan~|Yeni Merve~|Yeni Meydan~|Yeni Minnet~|Yeni Nur~|Yeni Oba~|Yeni Onur~|Yeni Oymak~|Yeni Rahmet~|Yeni Sanayi=|Yeni Sağlık@|Yeni Seda~|Yeni Sema~|Yeni Tayfun~|Yeni Tekin~|Yeni Temel~|Yeni Tufan~|Yeni Vadi~|Yeni Yakut~|Yeni Yaman~|Yeni Yamaç~|Yeni Yaprak~|Yeni Yavuz~|Yeni Yaylacık@|Yeni Zambak~|Yeni Zümrüt~|Yeni Çamlıbel~|Yeni Çayır~|Yeni Çetin~|Yeni Çiğdem~|Yeni Ömür~|Yeni Özlem~|Yeni İpek~|Yeni Şebnem~|Zafer~|Çakır İsmail@|Çam~|Çamlık~|Çatal~|Çevik~|Çevre Yolu@|Çukur~|Özer~|İmren~|Şahmelek=|Şehit İsmail Düzgün@|Şeyh Murat Gazi@
+55469	Çıkrıcak Köyü	Çıkrıcak=
+55470	Çınarcık Köyü	Çınarcık=
+51681	Çırçırçeşme Mah.	Cesur~|Ceyhan@|Cihan~|Cihat~|Cömert~|Edep~|Ekin~|Evliya Çelebi@|Fatihler~|Gamze~|Gurbet~|Gökmen~|Güven@|Güzel~|Hakim Mefaret Hanım@|Hamidiye@|Hünkar~|Hürmet~|Kanaat~|Kanuni@|Karam~|Kaymak~|Kerem~|Kevser~|Koru~|Merve~|Petek~|Renk~|Rüzgar~|Rızık~|Saadet~|Sefa~|Soylu@|Temel~|Trafo~|Uygur~|Zembil~|Çevre Yolu@|Çile~|Çırçır Cami~|Öğüt~|Şehit Mehmet Akif Pekpak~
+55561	Öksüzler Köyü	Öksüzler=
+51678	Ömerbey Mah.	Adalet@|Aslanağzı Caddesi 1.~|Aslanağzı Caddesi 2.~|Aslanağzı@|Balıkesir Yolu@|Bağevleri~|Beyza~|Bilge~|Bozkuş@|Derecik Yolu@|Fesleğen Caddesi 1.~|Fesleğen Caddesi 2.~|Fesleğen Caddesi 3.~|Fesleğen Caddesi 4.~|Fesleğen Caddesi 5.~|Fesleğen@|Fidanlık~|Gülhane Caddesi 1.~|Gülhane Caddesi 2.~|Gülhane Caddesi 3.~|Gülhane Caddesi 4.~|Gülhane Caddesi 5.~|Gülhane Caddesi 6.~|Gülhane@|Gülhane Saygı Geçidi~|Hanımeli~|Hoşgörü@|Hürriyet Caddesi 1.~|Hürriyet Caddesi 2.~|Hürriyet@|Kaktüs~|Kardelen Caddesi 1.~|Kardelen Caddesi 2.~|Kardelen Caddesi 3.~|Kardelen Caddesi 4.~|Kardelen@|Kardelen Platin Geçidi~|Kızılcakaya@|Muhabbet~|Nadide~|Nazar~|Onurlu~|Palmiye Caddesi 1.~|Palmiye Caddesi 2.~|Palmiye Caddesi 3~|Palmiye Caddesi 4.~|Palmiye Caddesi 5.~|Palmiye Caddesi 6.~|Palmiye@|Platin~|Saygı~|Serin~|Sevda~|Sorkun=|Sümbül~|Tomurcuk~|Tophane Caddesi 1.~|Tophane Caddesi 2.~|Tophane Caddesi 3.~|Tophane Caddesi 4.~|Tophane Caddesi 5.~|Tophane Caddesi 6.~|Tophane Caddesi 7.~|Tophane@|Yudum~|Zarif~|Çağla@|Çağlar 3~|Çiçekdağı@|Özgürlük@
+55562	Ören Köyü	Ören=
+55571	Üyücek Köyü	Madanlar=|Üyücek=
+55572	Üyücek Köyü, Madanlar Mevkii	Madanlar=
+55514	İsaköy Köyü	İsaköy=
+51673	İstasyon Mah.	Adil~|Ahsen~|Ahu~|Akşemseddin@|Alaçam~|Alem~|Arzu~|Arı~|Ateş~|Badem~|Bayındır~|Başak~|Bereket~|Bodur~|Bülbül~|Can~|Ceren~|Ceylan~|Cihangir@|Cihangir Ülkü Geçidi~|Değirmenönü~|Dilara~|Dinç~|Divan~|Doğan~|Dünya~|Emet Yolu@|Emirhan~|Emrah~|Ergül~|Genç~|Gökçe~|Güldemet~|Günaydın~|Güney~|Güzin Günaydın 1.~|Güzin Günaydın 2.~|Güzin~|Hacı Veyis Alem Geçidi~|Harman~|Ilgaz@|Kandil~|Kurt~|Marmara~|Meltem~|Meram~|Mert~|Mürüvvet~|Nadir~|Neşe~|Nil1~|Rabia Hatun~|Refah~|Rüya~|Sadık~|Selvi~|Sena~|Seval~|Seyhan~|Tekin~|Tepecik Yolu=|Tuzendarlar Arıyem Mücavir=|Vişne~|Yadigar~|Yağmur~|Zerafet~|Çamlıbel~|Çelik~|Çevre Yolu@|Çini~|Özcan~|Ülkü~|Ürün~|İlham~|İpek~|İpek Özcan Geçidi~|Şifa~
+55565	Şahin Köyü	Şahin=
+55566	Şahmelek Köyü	Şahmelek=
+55567	Şapçı Köyü	Şapçı=
+55568	Şapçıdede Köyü	Şapçıdede=
+55569	Şenlik Köyü	Şenlik=

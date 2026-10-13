@@ -1,0 +1,19 @@
+151427	Akgüney Mah.	Bakacak~|Dere~|Islakyanı~|Merkez~|Ovaçukuru~|Töngeldüzü~
+61089	Başköy Mah.	Dikenli Semti=|Hatipli Semti=|Meğri Semti=|Töngeldüzü Semti=
+151429	Derinçay Mah.	Başkotanı~|Küme Evler~|Kışlacık~|Çayır~
+151433	Dişkaya Mah.	Arşılık~|Cumhuriyet~|Günindi~|Kadirli~|Kayadibi~|Tezderesi~|Şaban~
+151435	Esenyurt Mah.	Değirmen~|Endelek~|Irmak Kıyı~|Köseli~|Merkez~|Tepe~
+151437	Gelinkaya Mah.	Merkez~|Susuz~
+151441	Gülpınar Mah.	Düzyatak~|Elmadibi~|Fındık Beleyi~|Gökçeezen~|Saraytepe~|Çalca~
+151439	Gümüşdere Mah.	Alçakbel~|Aratepe~|Aydoğan~|Aşağıköy~|Merkez~
+151443	Harami Mah.	Agızlar~|Danışman~|Güçükburun~|Kuşyuvası~|Kındıralık~|Kızıldüz~|Müezzin Kırığı~|Oluklu~|Yolaydını~
+61090	Kabadüz Mah.	Barbaros@|Başköy@|Cumhuriyet@|Dağdelen=|Kadı Semti=|Karakiraz Semti=|Kurucuoğlu Semti=|Kuzköy Semti=|Köseoğlu Semti=|Mehmet Akif Ersoy@|Mehmetoğlu Semti=|Pirdeli Semti=|Pıtırak Semti=|Sağlık@|Yeniköy Semti=|Zekiroğlu=|Çimoğlu Semti=
+61091	Karakiraz Mah.	Fındık Pınarı=|Güney Semti=|Güzlük=|Köroğlu=|Maraşlıoğlu=
+151445	Kirazdere Mah.	Aşuluk~|Bakacak~|Gürgenyatak~|Haydar~|Kürtmezar~
+198731	Musakırık Mah.	1.~|10.~|100.~|101.~|102.~|103.~|104.~|105.~|105.1~|106.~|107.~|107.1~|108.~|109.~|11.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|117.~|118.~|119.~|12.~|120.~|121~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|13.~|130.~|131.~|132.~|133.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.@|29.~|3.~|30.~|31.~|32.~|33.@|34.~|35.~|36.~|37.~|38.~|39.~|4.~|40.~|41.~|42.~|44.~|45.~|46.~|47.~|48.~|49.~|5.~|50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|6.~|60.~|61.~|62.~|63.~|64.~|65.~|66.~|67.~|68.~|69.~|69.1~|7.~|70.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|8.~|8.1~|80.~|81.~|82.~|83.~|84.~|85.~|86.~|87~|88.~|89.~|9.~|90.~|91.~|92.~|93.~|94.~|95.~|96.~|97.~|98.~|99.~|Aliçin@|Alçakbel=|Araptamı=|Arpalık=|Atatürk@|Beytamı=|Beşiktaş=|Canik@|Cumhuriyet@|Dereyurt=|Değirmenbaşı (musakırık)=|Değirmenbaşı@|Dudu Yalağı=|Eminağa=|Ertaş (musakırık)@|Ertaş=|Eskibağlak=|Furtunlar@|Fındıkalan=|Galaboynu=|Gavurbükü=|Gerce=|Gölet@|Hasan Tahsin Tıflı Myd.|Heverek 1.~|Heverek@|Hevrek=|Horlak=|Horu=|Hümmetli=|Hüseyin Kaptan@|Ilıcaalan@|Ilıcaalağı=|Kabadüz=|Kabalak=|Kaleboynu=|Karacataş=|Karagöl@|Karlıdere=|Kavaklıca=|Kayabaşı=|Keyişköprü=|Keğiş=|Keşkaya=|Koçağılı=|Kısrakalan=|Kızılcataş=|Madalanı=|Maden=|Mesudiye@|Musakırık Merkez=|Müslüm Kaptan@|Ortaoba=|Sami Kovancı~|Sarıoba=|Seyit@|Seyitler=|Seçek=|Sinanlı=|Siteler@|Soğanözü=|Süleyman Felek@|Sütlüce@|Taşbaşı=|Taşlıoba=|Uzuncaen=|Yaprakbaşı=|Yassıyurt=|Yelimkara=|Yundalağı=|Çamalanı=|Çamışalağı=|İbrahim Köksal@|Şehit Adem Çiçek@
+198733	Turnalık Mah.	Armutalan=|Gölardı=|Güzlek=|Köklüce=|Susuz=|Tosunalan=|Turnalık 1.bölge=|Turnalık 2.bölge=|Turnalık 3.bölge=|Turnalık 4.bölge=|Turnalık=|Turnalık-nasuhbeyoğlu=|Çelikkıran=|Çıtlak=
+151451	Yeşilada Mah.	Altıoğlu~|Bakacakaltı~|Düdüklük~|Kabaktepe~|Kadıoğlu~|Kurukiraz~|Çoktam~
+198729	Yeşilyurt Mah.	Eminem Pınarı Mesire Yeri=|Gavranpuarı=|Güneybaşı=|Tirtoğlu=|Yeşilyurt Merkez=
+151417	Yokuşdibi Mah.	Gazi Mustafa Kemal@|Köknar=|Oğlakalan=|Yazı=
+197955	Yukarı Kirazdere Mah.	Düdüklük=|Elmadibi=|Kirazdere Merkez=
+151447	Özlükent Mah.	Geriş~|Harmancık~|Karapınar~|Okulyanı~|Topgünelik~

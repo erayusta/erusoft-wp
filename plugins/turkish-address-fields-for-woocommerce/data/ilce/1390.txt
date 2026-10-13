@@ -1,0 +1,65 @@
+166221	Akmağara Mah.	Afet Evleri=|Akmağara=|Akmağara Yeni Yol 1~|Aliağalar=|Darıyeri=|Hekimhan Sivas Yolu%|Karamuhca=|Kurbaglı=|Çatal Tepe=
+166155	Aksütlü Mah.	Aksütlü=|Aydınlar=|Hekimhan Malatya@|Hekimhan Sivas Yolu%|Mestiler=
+166157	Aşağısazlıca Mah.	Aşağısazlıca=|Miçolar=|Rum Köyü=
+166223	Bahçedamı Mah.	Bahçedamı=
+51965	Bahçelievler Mah.	Ahmet Taner Kışlalı@|Bademli~|Bahçelievler 2=|Bahçelievler 22=|Bahçelievler 24~|Bahçelievler 3~|Bahçelievler Yeni Yol 1=|Bahçelievler Yeni Yol 13=|Bahçelievler Yeni Yol 2~|Bahçelievler Yeni Yol 44~|Bahçelievler Yeni Yol3~|Bahçelievler Yeni Yol31~|Bahçelievler Yeni Yol4~|Bahçelievler Yeni Yol5=|Bahçelievler Yeni Yol8=|Bahçelievler1~|Bahçelievler10~|Bahçelievler11~|Bahçelievler13~|Bahçelievler2~|Bahçelievler3~|Bahçelievler4~|Bahçelievler5~|Bahçelievler6~|Bahçelievler7~|Bahçelievler8~|Bahçelievler9~|Bahçelievler91~|Barboros~|Bağevleri@|Bağevleri1~|Beşevler~|Bhaçelievler 5~|Bhaçelievler 7~|Gökdüzü@|Gökdüzü1@|Hanbağlılar~|Harmanlı~|Hastane@|Hekimhan Kangal Yolu~|Hekimhan Sivas Yolu%|Karadere 3~|Karadere3=|Karanfil~|Karayolları@|Kumluk~|Kumluk1~|Köroğlu~|Köroğlu1~|Köroğlu2~|Muallim~|Müftüler~|Nilüfer~|Sadullah Bilgin@|Sarısay~|Sefa~|Terminal~|Umut~|Yazıpara~|Yiğit~|Ömür~|Öncü~|Öncü2~|Öncü3~|Özkul~|İlhan Deniz%
+166163	Ballıkaya Mah.	Arguvan Hekimhan1@|Ballıkaya 1~|Ballıkaya 3~|Ballıkaya 4~|Ballıkaya 5~|Ballıkaya 6~|Ballıkaya 7~|Ballıkaya 8~|Ballıkaya 9~|Ballıkaya=|Ballıkaya2~|Miroğlar=|Çeki=
+166225	Basak Mah.	Basak=|Delihıdır=
+51964	Bağyolu Mah.	Arguvan Hekimhan=|Bahçelievler 10=|Bahçelievler 10/1~|Bahçelievler 14=|Bahçelievler 2=|Bahçelievler 7=|Bahçelievler 7/1=|Bahçelievler 7/10~|Bağevleri@|Bağyolu Karagüney=|Bağyolu~|Bağyolu Yeni Yol 2=|Bağyolu Yeni Yol 3=|Bağyolu1~|Castallar~|Dağınlı~|Değirmenbaşı~|Değirmenbaşı/1=|Erdem~|Erdem/1~|Hacı Kösün=|Hekimhan Sivas Yolu%|Kandıl=|Karabayır@|Kiraz~|Köprülü Mehmet Paşa 1=|Kütkütüler~|Maden Yolu=|Mehmet Emin Sungur@|Mezarlık=|Ortabağ=|Petrol~|Seyfi Oktay@|Tuzcular~|Yüceller~|İlhan Deniz%|İğdelipeğ=
+166167	Başkavak Mah.	Başkavak=
+166227	Başkınık Mah.	Başkınık=
+166169	Beykent Mah.	Beykent=|Beykent Çay Evleri=|Karaısık=|Müsteki Evleri-~
+166171	Boğazgören Mah.	Bahçe Evleri=|Boğazgören=|Hekimhan Sivas Yolu%|Çay Evleri=
+51966	Budaklı Mah.	Alişahlar=|Aşağı Budaklı=|Budaklı 1=|Budaklı 3=|Budaklı 9=|Deveci=|Güllüoğlu=|Ortabağ=|Yukarı Budaklı=
+166231	Davulgu Mah.	Davulgu=|Yunuslu=|Çakılı=|Çökeçderesi=
+166249	Delihasanyurdu Mah.	Delihasanyurdu=
+166179	Dereköy Mah.	Büyükpınar=|Dereköy=
+166181	Deveci Mah.	Deveci=
+166251	Dikenli Mah.	Dağ=|Dikenli 1~|Dikenli=|Sorhun=|Taşlıdere=|Yazıhan Kurşunlu Güzelyurt Yolu@|Yılanlı=
+166233	Dikili Mah.	Dikili=
+166183	Dumlu Mah.	Dumlu=
+166185	Dursunlu Mah.	Dursunlu=|Kızıldere=
+51967	Fatih Mah.	Ata~|Ata Önder Atabay@|Bayrak~|Demirciler~|Eflatun Cem Güney~|Emin Varol~|Fatih1~|Fatih2=|Fikri Çavdar~|Hekimhan Sivas Yolu%|Kalaylı~|Kale~|Karabayır@|Kayaardı~|Kayadibi@|Maden Yolu Kümeevleri-=|Nergis~|Petrol~|Soylu~|Taşhan~|İnönü@
+166135	Girmana Mah.	1 (aşağı Girmana)=|1 (hüyücek)=|1 (yukarı Girmana)=|1=|1.yağıplar=|2 (hüyücek)=|3=|Akgüller@|Akyazı=|Alişah=|Aslanlar/1=|Dağ=|Erecek=|Eski Köy=|Girmana Alıçlıyurt=|Girmana Aslanlar=|Girmana2=|Göğceler=|Güverçayırı=|Hacıyıl=|Hekimhan@|Hekimhan Malatya Yolu@|Hekimhan Sivas Yolu%|Hekimhan/1=|Kalebaşı=|Karatepe=|Kavak Yanı Yolu=|Kolsuzlar=|Kozluk=|Kılavuzlar=|Kınıklar=|Macıkırdığı=|Malatya (yukarı Girmana)@|Malatya@|Malatya Yukarı Girmana 1=|Ortadam=|Sulak Kavak Yanı=|Sümekyolu=|Yahyalı~|Yağıplar=|Yenice=|Yeşilpınar=|Çay=|Ören=|Şehit Reşit İzci=|Şeyhler=
+166187	Güvenç Mah.	Güvenç=
+166253	Güzelyayla Mah.	Eltüt=|Güzelyayla=|Yazıhan Kurşunlu Güzelyurt Yolu@|Üçpınar=
+166133	Güzelyurt Mah.	Alakilise=|Aşağıkuşculu=|Baharlı=|Dursunlu=|Dörtyol=|Fahlar=|Güzelyurt Merkez@|Güzelyurt Nebiler=|Hacıosmanlı=|Hayratut=|Ilıca=|Kadirli=|Kazancılar=|Kolaklı=|Kuzukulağı=|Kuşculu@|Küme (ismailli)=|Küme (karamahmut)=|Kızıldere=|Mevlana=|Sancıcubugu=|Ugurpınar=|Yazıhan Kurşunlu Güzelyurt Yolu@|Çerme=|Çobanpınarı@|Şahinler=
+182896	Güçlü Mah.	Akpınar=|Aratlar=|Ardıçlı 1=|Ardıçlı 2=|Ardıçlı 3=|Ardıçlı-=|Deveçimeni=|Dikenli 1~|Dikenli=|Düğürsoğutan=|Gündelen-=|Güçlü 10~|Güçlü 11~|Güçlü 2~|Güçlü 20=|Güçlü 6=|Güçlü 8~|Güçlü 9~|Güçlü Dere Çimeni-=|Güçlü Merkez 1=|Güçlü Merkez=|Güçlü5=|Hüsüller=|Karabekirler=|Karabektaşlar=|Kazandelen=|Mamalo=|Nakışlar 1=|Nakışlar=|Nebiler=|Tohlular=|Yazıhan Kurşunlu Güzelyurt Yolu@|Şıllanlı=
+166189	Hacılar Mah.	Hacılar=
+166139	Hasançelebi Mah.	Bahçe Evleri Uludere Mevkii=|Büyük Dere=|Celal Abbas 1~|Celal Abbas 2~|Celal Abbas~|Gülşendede@|Hasan Çelebi Belediye=|Hasançelebi 20=|Hasançelebi 22=|Hasançelebi 23=|Hasançelebi 26=|Hasançelebi 5=|Hekimhan Sivas Yolu%|Karagüney=|Kipeller-~|Kubatlar~|Küredere=|Lojmanlar-@|Mehmet Ali Çetin 1~|Mehmet Ali Çetin 2~|Mehmet Ali Çetin@|Molla Mustafa 1~|Molla Mustafa~|Muhsin Güler@|Nurettin Çağlayan 1~|Nurettin Çağlayan 2~|Nurettin Çağlayan 3~|Nurettin Çağlayan 4~|Nurettin Çağlayan 5~|Nurettin Çağlayan 6~|Nurettin Çağlayan 7~|Nurettin Çağlayan=|Obuz Mezrası=|Orta Yol Altı 1~|Orta Yol Altı 2~|Orta Yol Altı 3~|Orta Yol Altı~|Orta Yol Üstü 1~|Orta Yol Üstü~|Söğüt Dede 1~|Söğütdede@|Ulugüney Köçe Memolar=|Ulugüney Mezrası=
+166191	Haydaroğlu Mah.	Haydaroğlu=|Yıldırım İşan=|Şehit Süleyman Kaya=
+166195	Işıklı Mah.	Işıklı=|Otolar=
+51968	Karadere Mah.	Attepesi=|Bayhacıevi=|Değirmen Harkı=|Hekimhan Kuluncak Yolu@|Karadere 20=|Karadere 25=|Karadere 8=|Kizirli=|Ziyaret=|Ziyaret/1=|Şehit Seçim Kılıçaslan=
+166197	Karaköçek Mah.	Bazoğlar=|Deveci=|Karaköçek=|Otmangölü=
+166235	Karapınar Mah.	Dereyurt=|Karapınar=|Kavarcık=
+166237	Karslılar Mah.	Karslılar=
+51969	Karşıyaka Mah.	Ahmet Erdoğan~|Ahmet Taner Kışlalı@|Alıçlı~|Armutlu~|Hekimhan Kuluncak Yolu@|Karşıyaka 4~|Karşıyaka 5~|Karşıyaka Dursunlu~|Karşıyaka Elmalı~|Karşıyaka1~|Karşıyaka2~|Karşıyaka3~|Köprülü~|Körpınar~|Orta Çay=|Pamuklu=|Sadullah Bilgin@|Sarıbaşlar=|Sicilli~|Tandır~|Yeltepesi=|Zafer~|Çelebiler~|Çiftçiler~|Şehit Uzman Çavuş Güner Erdem@|Şıpşıpı~
+166201	Kavacık Mah.	Kavacık=
+166137	Kocaözü Mah.	Aliuşağı=|Bahçearası=|Bereket Kümesi=|Cihandut=|Cüre=|Dereli=|Döşşek Yazı=|Emirgazi=|Eskiköy=|Gözönü=|Hekimhan@|Hekimhan Malatya Yolu@|Hekimhan Sivas Yolu%|Işıkköyü Ve Taşucu=|Karabey=|Karaman=|Kaş=|Kuzundibi=|Kösehasan=|Kösehasan1=|Köyiçi=|Kızılpara=|Kızıltarla=|Müruyoğ Tahta=|Ok=|Pınar Deresi=|Soku Yeri=|Sorhumseki=|Yeniceli=|Yılmazlar=|Çadır Deresi=|Çadırderesi Ve Emirgazi=
+166203	Kozdere Mah.	Kozdere=
+166143	Kurşunlu Mah.	Alkolar=|Aşağı Alholar=|Cecimli=|Delihasanyurdu=|Dereevler=|Dolamanç Yaylası-=|Dumlupınar=|Fatih=|Gelengeç Yayla Evleri=|Giderler=|Gündüzler=|Hacıkelolar=|Karagöz=|Karamağara 1=|Karamağara=|Karapınar-=|Kasımlar=|Kozlubaba=|Kurşunlu 10=|Kurşunlu 20=|Kurşunlu 3=|Kurşunlu 7=|Kurşunlu 8=|Kurşunlu Yaylaları-=|Kurşunlu1=|Kurşunlu19=|Merkez (gelengeç)=|Merkez (kurşunlu)=|Mışevge=|Sünnet Yurdu=|Tulular=|Yazıhan Kurşunlu Güzelyurt Yolu@|Yiğitler=|Yukarı Alholar=|Çatalpınar=|Çağlayan-=|Çelikli Merkez=|İkizpınar 1=|İkizpınar=|Şahinler Kurşunlu=
+51970	Köprülü Mehmet Paşa Mah.	Ata Önder Atabay@|Bahçeciler~|Barış~|Boyalık=|Cami~|Hal~|Hekimhan Sivas Yolu%|Kalaylı~|Kayadibi@|Köprülü Mehmet Paşa 1=|Maden Yolu=|Madenyolu Kümeevleri-=|Malazgirt~|Mevsim~|Meşrutiyet~|Çöreklik=|İnönü@|İshaklar~|İsmet İnönü~|Şube~
+166239	Köylüköyü Mah.	Köylüköyü=|Seydimehmetler=|Çoban Yusuf=
+51971	Mimar Sinan Mah.	Aslanlar@|Ata Önder Atabay@|Aydınlık=|Bahçeli~|Eski Mezbahane~|Garipağaoğulları~|Hekimhan Kuluncak Yolu@|Kanarya~|Karşıyaka 1~|Melik Gazi@|Menekşe~|Mimar Sinan 4~|Mimar Sinan Aydınlar 1~|Mimar Sinan Aydınlar~|Mimar Sinan Bahçelievler~|Mimar Sinan@|Mimar Sinan Uğurlu~|Mimar Sinan Yeni Yol 1=|Salkım~|Sarmaşık~|Soğuk Pınar~|Tcdd=|Çelebioğlu~|İstasyon@|İstiklal~|Şahinler=
+166205	Mollaibrahim Mah.	Kulumoğlu=|Mollaibrahim=|Mollaibrahim Çay Evleri=|Okul Mahallesi=|Çaybaşı=
+166207	Salıcık Mah.	Budaklı 1=|Dumlu=|Ortabağ=|Salıcık=
+166241	Saraylı Mah.	Koyun Torunlar=|Kıraçlar=|Saraylı=
+166209	Sarıkız Mah.	Bağyanı=|Bağyanı1=|Bedirli=|Hekimhan Kuluncak Yolu@|Kilise=|Sarıkız=|Sarıkız Yılanlı=|Sarıkız1=
+166243	Sazlıca Mah.	Demirkoyak=|Kavulgan=|Sazlıca 1=|Sazlıca 2~|Sazlıca=|Sünnetçiler=
+166255	Söğüt Mah.	Horolar=|Söğüt=
+51973	Taşbaşı Mah.	Ata Önder Atabay@|Aşağı Çay=|Bostanpeği=|Cevher~|Dere~|Gazi Çavuş~|Gümüşpınar~|Hekimhan Sivas Yolu%|Kesikköprü=|Köşk~|Maden~|Mimar Sinan Aydınlar~|Taşbaşı 6=|Taşbaşı 7~|Taşbaşı 8~|İlim~|Şehit Oğuz Gürbüz~
+166245	Taşoluk Mah.	Kaymak=|Taşoluk=
+51974	Turgut Özal Mah.	Ali İhsan Yazgan@|Ata Önder Atabay@|Atatürk@|Cumhuriyet@|Hasan Lüleci@|Huzur~|Karşıyaka 1~|Kurudere~|Kışla@|Kışla/1~|Marangozlar@|Mimar Sinan@|Sadullah Bilgin@|Turgut Özal 1~|Turgut Özal 2~|Turgut Özal 3~|Turgut Özal 4~|Turgut Özal 5~|Turgut Özal 6~|Turgut Özal 7~|Turgut Özal@|İstasyon@|Şıpşıpı~
+166211	Uğurlu Mah.	Uğurlu=
+166215	Yayladam Mah.	Kaleboğazı=|Kilise-~|Yayladamı=
+166213	Yağca Mah.	Karşı Aşağı=|Midemuşağı=|Yağca 1=|Yağca=
+51975	Yeni Mah.	Akasya~|Akasya/1~|Akyüz~|Bağevleri@|Bağevleri/1~|Bağevleri/2~|Behçet Oktay@|Belediye~|Gazi~|Halit Efendi~|Hamam~|Hamza Demirtaş@|Hastane@|Hekimhan Sivas Yolu%|Kanal~|Karabayır@|Kooperatif~|Mehmet Emin Sungur@|Mutlu~|Sadullah Bilgin@|Sadık~|Seyfi Oktay@|Süt~|Tavşantepe~|Yeni 4~|Yeni 5~|Yeşildere~|İkizler~|İkizler/1~|İlhan Deniz%
+166247	Yeşilkale Mah.	Hekimhan Kangal Yolu~|Hekimhan Sivas Yolu%|Kavlaklar=|Yeşilkale 1=|Yeşilkale=
+166257	Yeşilköy Mah.	Husuklar=|Memurlar=|Yeşilköy=|Yılmazlar Ve Alçıklar=|Çelikler=
+166217	Yeşilpınar Mah.	Göğceler=|Hekimhan Sivas Yolu%|Katıl=|Yeşilpınar=
+166219	Yukarıselimli Mah.	Elmalı=|Şehit Onbaşı Münür Kılıç~
+166175	Çanakpınar Mah.	Deveci=|Çanakpınar=
+166229	Çimenlik Mah.	Tikenli=|Çimenlik 1=|Çimenlik=
+166177	Çulhalı Mah.	Bahçeler=|Eskikent=|Hekimhan Sivas Yolu%|Karakısık=|Çulhalı=
+166193	İğdir Mah.	İğdir=
+51972	Şehit Mehmet Fethi Akyüz Mah.	Arıkan~|Aslan~|Ayvaz~|Bağyolu~|Demirciler~|Hamza Demirtaş@|Karabayır@|Kardelen~|Kayadibi@|Mutlu~|Seyfi Oktay@|Turan Baba~|Tuzcular~|Çavuş~|İnönü@|Şehit Mehmet Fethi Akyüz 2~

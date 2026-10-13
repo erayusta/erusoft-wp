@@ -1,0 +1,106 @@
+29438	Adak Köyü	Adak=
+29367	Aksöğüt Köyü	Aksöğüt=
+29439	Akçalı Köyü	Akçalı=
+29373	Apçağa Köyü, Bey Mevkii	Bey=
+29374	Apçağa Köyü, Emirli Mevkii	Emirli=
+29376	Apçağa Köyü, Hacca Mevkii	Hacca=
+29370	Apçağa Köyü, Kayabaşı Mevkii	Kayabaşı=
+29368	Apçağa Köyü, Kemeraltı Mevkii	Kemeraltı=
+29378	Apçağa Köyü, Nerkat Mevkii	Nerkat=
+29369	Apçağa Köyü, Orta Mevkii	- Köy$|Orta=
+29371	Apçağa Köyü, Ottaş Mevkii	Ottaş=
+29375	Apçağa Köyü, Poser Mevkii	Poser=
+29377	Apçağa Köyü, Yayla Mevkii	Yayla=
+29372	Apçağa Köyü, Çerez Mevkii	Çerez=
+21557	Ariki Mah.	Abdulkadir Duru@|Ali Vecdi Bingöl@|Beyazıt~|Göz Camii~|Gülümser Duran Köse~|Hasan Deresi~|Koçan~|Sadık Zade-~|Süfla~|Vanlı~|Çöl Kaldırımı~|Ömer Fehmi Karaman@|Ülya~
+29416	Armağan Köyü	Armağan=
+29379	Arslanoba Köyü	Aslanbona=
+29419	Avcı Köyü	Avcı=
+29366	Ağıl Köyü	Ağıl=
+29418	Aşağıumutlu Köyü	Aşağıumutlu=
+29417	Aşağıumutlu Köyü, Değirmendere Mezrası	Değirmendere=
+21558	Bahçe Mah.	Abdulkadir Duru@|Ali Vecdi Bingöl@|Aşağı Embiyabey~|Bahçe~|Fırın~|Yukarı Embiyabey~
+29420	Balkırı Köyü	Balkırı=
+29380	Başarı Köyü	Başarı=
+29421	Başbağlar Köyü	Başbağlar=
+29413	Başpınar Köyü, Bahçecik Mevkii	Bahçecik=
+29415	Başpınar Köyü, Komlar Mevkii	Komlar=
+29414	Başpınar Köyü, Merkez Mevkii	Merkez=
+29440	Boylu Köyü	Boylu=
+29422	Buğdaypınar Köyü	Buğdaypınar=
+29383	Dallıca Köyü	Dallıca=
+29444	Demir Köyü	Demir=
+29385	Dilli Köyü	Dilli=
+29384	Dilli Köyü, Yeniköy Mezrası	Yeniköy=
+29386	Dolunay Köyü	Dolunay=
+29437	Dutluca Köyü, Akçiçek Mezrası	Akçiçek=
+29436	Dutluca Köyü, Aşağı Mevkii	1.=|Hürriyet=|Yıldırım~
+29435	Dutluca Köyü, Orta Mevkii	Saniye~|Tevfik Ertürk=
+29434	Dutluca Köyü, Yeni Mevkii	1.=
+29433	Dutluca Köyü, Yukarı Mevkii	Cumhuriyet=|San~
+21559	Dörtyolağzı Mah.	2.çarşı~|Buluta~|Buğday Meydanı~|Cumhuriyet@|Dörtyolağzı~|Gurbet Çıkmazı~|Hacı Ali Akın@|Hacı Evliya Myd.|Hasan Basri Aktan~|Kemaliyeli Sanatçılar~|Mudara~|Mustafa Özgül~|Otopark Myd.|Sofuzade~|Suluhan~|Çarsıııı~|Çarşı 1~|Şahsuvar~
+29446	Efeler Köyü	Efeler=
+29445	Efeler Köyü, Kızılçukur Mezrası	Kızılıçukur=
+29387	Ergü Köyü	Ergü=
+29423	Esence Köyü	Esence=
+183718	Esertepe Mah.	Esertepe=
+21560	Gençağa Mah.	Cumhuriyet@|Demirciler~|Demırcıler~|Eyüpoğlu~|Gençağa~|Gümrükçü~|Paççı~|Sahilyolu~|Sant@|Santral~|Yenimahalle~
+29389	Gözaydın Köyü	Gözaydın=
+29390	Güldibi Köyü	Güldibi=
+29393	Gümüşçeşme Köyü	Gümüşçeşme=
+29391	Gümüşçeşme Köyü, Ağıllar Mezrası	Ağıllar=
+29392	Gümüşçeşme Köyü, Çaltı Mezrası	Çaltı=
+29424	Günyolu Köyü	Günyolu=
+21561	Hacı Yusuf Mah.	Balkırı~|Cumhuriyet@|Demırcıoğlu~|Fehmi Balcı~|Hamza~|Mahti~|Sahilyolu~|Çevlik~|Şehit Astsubay İdris Yılmaz@
+21562	Halilağa Mah.	Arapoğlu~|Cemal Boztepe@|Cumhuriyet@|Emin Efendi@|Garip~|Okullar~|Sahilyolu~|Türkmen~|İshakpaşa~
+29394	Harmankaya Köyü	Harmankaya=
+29395	Kabataş Köyü	Kabataş=
+29396	Karakoçlu Köyü, Karşı Mevkii	Karşı=|Salihli=
+29397	Karakoçlu Köyü, Merkez Mevkii	Karakoçlu=
+29398	Karakoçlu Köyü, Ulaş Mezrası	Ulaş=
+29450	Karapınar Köyü	Karapınar=|Çakırtaş=
+29448	Karapınar Köyü, Konacık Mezrası	Konacık=|Yazmakaya=
+29451	Karapınar Köyü, Kıyı Mezra Mezrası	Kıyı Mezra=
+29447	Karapınar Köyü, Kıyı Mezrası	
+29449	Karapınar Köyü, Salkımlı Mezrası	Salkımlı=
+29425	Kavacık Köyü	Kavacık=
+29452	Kekikpınarı Köyü	Kekikpınar=
+29399	Kocaçimen Köyü	Kocaçimen=
+29400	Kozlupınar Köyü	Kozlupınar=|Yeşilyurt=
+29426	Kutluca Köyü	Kutluca=
+29454	Kuşak Köyü	Kuşak=
+29453	Kışlacık Köyü	Kışlacık=
+21564	Naip Mah.	Cumhuriyet@|Cumikbaşı~|Eyüpoğlu~|Kemaliyeli Sanatçılar~|Küçükdere~|Paççı~|Selamağası~|Ömer Hulusi Eraslan@|İncidüzü~
+29455	Ocak Köyü, Aşağı Mevkii	Karaca Ahmet=|Pır~
+29458	Ocak Köyü, Aşağı Yuvacık Mezrası	Aşağı Yuvacık=
+29457	Ocak Köyü, Karşı Mevkii	1.=
+29456	Ocak Köyü, Yukarı Mevkii	1.=|Ahmet Yesevi~|Hacı Bektaş Veli=
+29459	Ocak Köyü, Yukarı Yuvacık Mezrası	Yukarı Yuvacık=
+29401	Salihli Köyü	Salihli=
+29402	Sandık Köyü	Sandık=
+21565	Sandıkbağı Mah.	Canik~|Cirit~|Enver Gökçe@|Horozgözü~|Karaali~|Mahmut Efeoğlu~|Memiş Efendi~|Prof.ali Demirsoy~|Sergen Sırtı~|Seyit Ali~|Ömer Hulusi Eraslan@
+29427	Subaşı Köyü	Subaşı=
+29403	Sırakonak Köyü	Sırakonak=
+21566	Taşdibi Mah.	Buluta~|Cirit~|Cumhuriyet@|Enver Gökçe@|Hasan Basri Aktan~|Kadıgölü~|Kemaliyeli Sanatçılar~|Müftü~|Nalbant~|Seyit Ali~|Yağmur Dere~|Zincirlikaya~|Ömer Hulusi Eraslan@
+29460	Topkapı Köyü	Topkapı=
+29404	Toybelen Köyü	Toybelen=
+29406	Tuğlu Köyü, Cami Mevkii	Cami=|Dörtyol~|Hıdınlı-~|Kemer~|Küçükbey~
+29405	Tuğlu Köyü, Merekler Mezrası	Hacılar=|Merekler~
+29407	Tuğlu Köyü, Mescit Mevkii	Beyler=|Harm~|Mescı~
+29408	Yaka Köyü	Yaka=
+29409	Yayladamı Köyü	Yayladamı=
+29461	Yazmakaya Köyü	Yazmakaya=
+29410	Yeşilyamaç Köyü	Yeşilyamaç=
+29430	Yeşilyayla Köyü	Yeşilyayla=
+29411	Yeşilyurt Köyü	Yeşilyurt=
+29432	Yukarıumutlu Köyü	Yukarıarmutlu=
+29412	Yuva Köyü	Yuva=
+29431	Yıldızlı Köyü	Yıldızlı=
+29441	Çakırtaş Köyü	Yazmakaya=|Çakırtaş=
+29381	Çaldere Köyü	Çaldere=
+29382	Çanakçı Köyü	Çanakçı=
+29442	Çat Köyü	Çat=
+29443	Çit Köyü	Akçiçek=|Çit=
+21563	İshakpaşa Mah.	Ali Vecdi Bingöl@|Buluta~|Cumhuriyet@|Emin Efendi@|Hacı Ali Akın@|Kotan~|Tapur~|Türkmen~|Ömer Fehmi Karaman@|İshakpaşa~|Şehit Ast.sb.h.cahit Özer@
+29429	Şahinler Köyü	Şahinler=
+29428	Şahinler Köyü, Ekindere Mezrası	Ekindere=

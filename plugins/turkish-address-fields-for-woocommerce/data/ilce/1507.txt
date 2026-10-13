@@ -1,0 +1,66 @@
+156805	Akarsu Mah.	Akarsu Cami=|Akarsu Merkez=|Akarsu Yeni=|Akarsu İslamlı=|Ayastafor Tiristal=|Ayralaksa=|Coşandere Yeni Yayla=|Dere Üstü Mezrası Velci=|Dereiçi Marzalak=|Dereüstü=|Değirmenüstü=|Işıklı Ayralaksa Kurugöl=|Işıklı=|Kurugöl Seloba İskonden=|Mandiriyoz=|Mesoroş=|Okul=|Saral=|Çifte Irmak Fosya=
+156807	Akmescit Mah.	Akmescit Cami=|Akmescit Düz=|Akmescit Merkez Cami=|Aliağalar=|Karagülle=|Mazera Dereüstü=|Mousili=|İbrahim Ustalılar=|İncirli=
+156809	Alataş Mah.	Alataş Orta=|Bölme=|Koleha=|Taş Alan=|Çuvalcı Simat Yoka=
+156899	Alaçam Mah.	Alaçam Cami=|Bahçecik=|Karşıyaka=|Kırankaş Merkez=|Mamela=|Çobanlı=
+156811	Altındere Mah.	Altındere Cami=|Altındere Meryemana=|Altındere Çevirme=|Derekarşısı=|Kuştul=|Kırantaş Yeşiltepe=|Livayda=|Maroğlu=|Mars=|Metoş=|Samandıra=|Tepeleç=|Yeniköy=
+156813	Anayurt Mah.	Anayurt Kiraz=|Anayurt Merkez=|Dikkaya Çayırlar=|Gürgenağaç Çarşı=|Kotil=|Layna=|Y.labazan=|İpsarolin=|Şirinoba=
+156815	Ardıçlıyayla Mah.	Ardıçlıyayla Merkez=|Ardıçlıyayla Mezra=|Cami=|Coşandere Dere=|Kırantaş Merkez-=|Saral=
+156901	Armağan Mah.	Armağan Merkez=|Eski Erzurum@|Günay Merkez=|Kamışlı=|Uçansu-=|Yeni Devlet Karayolu2~
+156801	Atasu Mah.	Arıkaya=|Atasu Işıklar=|Atasu Merkez=|Cinali=|Fatih=|Hafızlar=|Kızılcık=|Taş Alan=|Yemişli=|Çolneşa=|Öztürkler=
+184742	Bahçekaya Mah.	Abiya=|Bakacak Ve Demircili=|Barışlı Merkez=|Katırcılı=|Kenan Oltan@|Kenan Oltan1~|Kenan Oltan2~|Kenan Oltan3~|Merkez 1=|Merkez 2=|Merkez 3=|Sevimli Mezra=|Seyitli=|Sıra=|Temelli Mehmetli=|Şakirağa=
+156819	Bakımlı Mah.	Ağursa Yurdu=|Bakımlı Orta=|Bezoz Yaylası=|Cami Altı=|Hamurya=|Hocamezarı Labaza=|Hohordüzü=|Karaahmet=|Karakaban=|Karakapan=|Kuz=|Köy Başı=|Parti Yaylası=|Saral=|Sukenarı Hocamezarı=|Sıçanyurdu Yaylası=|Taşyayla=|Turnagöl=
+156821	Bakırcılar Mah.	Aşağı Bakırcılar=|Bakırcılar Yukarı=|Dr.cevat Küçük~|Dr.cevat Küçük3~|Fatih=|Hafızlar=|Hanlar=|Kapuköy Merkez=|Kışla@|Kışla2~|Pilav Dağı=|Şehit Onb.kazım Albayrak@
+156903	Barışlı Mah.	Barışlı Kıran=|Barışlı Merkez=|Barışlı Orta=|Merkez 3=|Sevimli Mezra=|Sıra=|Çiçekli=
+156817	Bağışlı Mah.	Bağışlı Aşağı=|Bağışlı Mezra=|Bağışlı Orta=|Bağışlı Yayla-=|Bağışlı Yukarı=|Camialtı=|Gürgenağaç Düz-=|Kiremitli Karşıyaka=|Lendirina=|Yazılıtaş Alt=
+156823	Başar Mah.	Armutlu Yusuflu=|Bayırlar=|Başar Orta=|Büyükdüz=|Büyükselen=|Camialtı=|Haya 1 Mezrası=|Karahava=|Kıranoba=|Pilidara=|Taşlı=|Yaylacık=|Yerköprü=|Çamlıbel Başar=|Çamlıbel=
+156825	Coşandere Mah.	Ardıçlıyayla Merkez=|Armutlu=|Cevlik=|Coşandere Dere=|Coşandere Güney=|Coşandere=|Coşandere Meryemana=|Coşandere Mezarlık=|Coşandere Yeni Yayla=|Dere Yayla=|Ermeni=|Eşkıya=|Favatoz=|Fırınoba=|Haliya=|Hancuka=|Karaağaç=|Kurugöl Seloba İskonden=|Küçükyurt=|Manuklu-=|Maruklu=|Papazyurdu=|Selboğazı=|Taşköprü=|Yakacık=|Yenicami=|Yeniköy=|İncirlik=|İspandomoz=
+156837	Dikkaya Mah.	1.=|1_1=|2.=|Anayurt Merkez=|Dikkaya Çayırlar=|Kurkeş=|Liblide=
+156839	Erginköy Mah.	Arıkaya=|Atasu Işıklar=|Erginköy Merkez=|Hafızlar=|Halkolim=|Rahmanlı=|Soğuksu=|Zembelek=|Çolneşa=|İlaksa=
+156803	Esiroğlu Mah.	Aktarlar=|Ali Hikmet Tuncer@|Ağıllı Karabina-=|Ağıllı Karabina1=|Bahçecik=|Barışlı Merkez-=|Duralı=|Eski Erzurum@|Geçit Okul=|Günay Düzler=|Gündoğdu=|Işıklar 1=|Işıklar=|Kamışlı=|Kani Efendi 1@|Kani Efendi 2~|Kani Efendi 3~|Kani Efendi 4~|Kani Efendi 5~|Kani Efendi 6~|Kani Efendi 7~|Kani Efendi 8~|Kani Efendi 9~|Kani Efendi@|Karasanlı=|Karşıyaka=|Kaynarca Yeni=|Kenan Oltan Esiroğlu@|Kenan Oltan Işıklar@|Kenan Oltan2~|Kumrulu=|Kırankaş Merkez=|Mamela=|Merkez=|Nikozlar=|Sakızlı Merkez=|Salim Eyüpoğlu 1~|Salim Eyüpoğlu@|Topallar=|Tosunlu=|Çobanlı=|Öğütlü=
+184790	Fatih Mah.	Atatürk@|Atatürk2~|Atatürk4~|Atatürk5~|Atatürk6~|Beyaz Ali~|Beyaz Ali1~|Dr.cevat Küçük~|Dr.cevat Küçük1~|Dr.cevat Küçük2~|Dr.cevat Küçük3~|Hacıosmanoğlu-@|Hacıosmanoğlu5~|Hacıosmanoğlu6~|Murat Altıntaş~|Prof.dr.sadettin Güner@|Yazlık Köybaşı-=|Ömer Sümer@|İncirlik=|Şehit Er İsmail Temel Baş~|Şehit Er İsmail Temel Baş1~|Şehit Komando Er Celal Yıldırım@|Şehit Onb.kazım Albayrak@
+156905	Gayretli Mah.	Alt Mücavir=|Gayretli Merkez=|Mataracı Cevizlik=
+156907	Günay Mah.	Armağan Merkez=|Eski Erzurum@|Günay Dere=|Günay Düzler=|Günay Merkez=
+80042	Güney Mah.	Güney=|Kanlıpelit=|Kapuköy Merkez-=|Kışla@|Merekler=|İsmet Zeki Eyüboğlu@|İsmet Zeki Eyüboğlu4~|Şehit Astsubay Halit Avcı@
+156841	Gürgenağaç Mah.	Alt Yayla İmeriksa=|Anayurt Kiraz=|Aynalişa=|Bağışlı Yukarı=|Gürgenağaç Düz=|Gürgenağaç Kiraz=|Gürgenağaç Mezarlık=|Gürgenağaç Çarşı=|Gürgenağaç Çarşı1=|Hocamezarı Labaza=|Hordokop=|Kudaliza=|Lahana=|Lapazan=|Layna=|Mandagöl=|Turnagöl=|Y.labazan=|Çukur Libadomuz=
+156843	Güzelce Mah.	Anavli=|Aynalişa=|Bağışlı Yukarı=|Devar=|Gürgenağaç Düz-=|Güzelce Cami=|Güzelce Kıran=|Güzelce Çevirme=|Karakaban=|Karakapan=|Kıran Arkası=|Lendirina=
+156845	Güzelyayla Mah.	Giraz Yaylası=|Güzelyayla Merkez=|Hasan=|Kaynarca=|Kaçkar Taşlıoba Yaylası=|Kovezana Yaylası=|Liblide=|Mat Mezrası=|Pınarbaşı=|Soğuksu Yaylası=|Sırkanlı Yaylası=|İpsarolin=
+156847	Hamsiköy Mah.	Balahor Yaylası=|Balahorbaşı=|Barutçu Yaylası=|Bekçiler=|Beşevler Yaylası=|Devedüzü Yaylası=|Hamsiköy Merkez=|Hamsiköy Mezra=|Kasımağzı Köyü Yaylası=|Komata Deresi=|Kıranoba Yaylası=|Maloba Yaylası=|Taşocağı Yaylası=|Tohtoma Yaylası=|Yatak Yaylası=|Zarabot Yaylası=|Çıralı Mezrası=|İstaliya=|İstavroma Yaylası=
+156909	Hızarlı Mah.	Alt Mücavir=|Hızarlı Alt=|Sakızlı Merkez=|Üst=
+156849	Kapuköy Mah.	Aşağı Bakırcılar=|Bakırcılar Yukarı=|Bektaşlar=|Fatih=|Güney=|Kapuköy Merkez=|Kondu=|Zaferli Yukarı=
+156911	Kaynarca Mah.	Aktarlar=|Ağıllı Karabina-=|Ağıllı Karabina1=|Davitli=|Gündoğdu=|Karasanlı=|Kaynarca Orta=|Kaynarca Yeni=|Kaynarca Çayırlar=|Kufanlar=|Maden Maden 1=|Maden Maden-=|Mataracı Cevizlik=|Musuğlar=|Nikozlar=|Topallar=|Tosunlu=|Çayırlar Abeka=
+156853	Kiremitli Mah.	Bağışlı Aşağı=|Ermeni Düzü-=|Kanavur=|Kiremitli Haya=|Kiremitli Karşıyaka=|Kuzhan=|Mendobul=|Reşadiye=|Yukarıköy Sırt=|Şose Altı=
+80043	Konak Mah.	Hava=|Konak=|İsmet Zeki Eyüboğlu-@
+156855	Kozağaç Mah.	Aydede=|Hacıosmanoğlu@|Hacıosmanoğlu1~|Hacıosmanoğlu5~|Kozağaç Kale=|Kozağaç Kıran=|Kozağaç Yeni=|Kıran 2=|Ortaköy Sırt=|Vali Niyazi Şeker@|Yeşillik=|Çukur=|Üst.cengiz Duman@
+156859	Kuşçu Mah.	Alafolim=|Favatoz=|Gofrogol=|Gorfogol-=|Kankel=|Kursal=|Kuşçu Dere=|Kuşçu Limli=|Kuşçu Yukarı=|Ofluoğlu=|Omela=|Sırmanoy=|Zilma=|Çayırlar Orta=|Şambaklı=
+156857	Köprüyanı Mah.	Ağrıt=|Cami=|Kanavur=|Köprüyanı Köyü=|Reşadiye=|Sukenarı Merkez=|Taşoluğu=|Vadon=|Şanaşitka=|Şose Altı=
+156851	Kırantaş Mah.	Ağrıtlı=|Cami Altı-=|Işıklı Ayralaksa Kurugöl=|Köse=|Kırantaş Merkez=|Kırantaş Yeşiltepe=|Samandıra=|Saral=|Yakacık=|Çifte Irmak Fosya=
+156861	Mataracı Mah.	Fatih=|Gayretli Merkez=|Kirazlı=|Mataracı Aşağı=|Mataracı Cevizlik=|Mataracı Orta=|Mataracı Çarşı=|Mehmet Çavuş=|Mousili=|Sevinç Kıran=|İncirli=
+80044	Merkez Mah.	Atatürk@|Atatürk1~|Cami Çıkmaz~|Cumhuriyet@|Güney=|Kışla@|Kışla1~|Kışla2~|Pilot Nurettin Doğan@|Pilot Nurettin Doğan1~|Yavuz Sultan Selim@|Ömer Sümer@|Üst.cengiz Duman@|İsmet Zeki Eyüboğlu@|İsmet Zeki Eyüboğlu4~|Şehit Astsubay Halit Avcı@|Şehit J.yzb.yalcın Aydın~|Şehit Onb.kazım Albayrak@
+156863	Ocaklı Mah.	Bale=|Erenler=|Fikanoy=|Hava=|Kaloğra=|Kamaha=|Konak=|Küçük Hava=|Lişer Yayla Evleri=|Obayurt=|Ocaklı Aşağı=|Ocaklı Merkez Cami=|Ocaklı Çeşmeler=|Santıçayırı=|Seyranlık=|Simba Yaylası=|Solma=|Taşaltı=|Tepe Altı=|Çeşmeler Üstü=|İfteriya=|İsmet Zeki Eyüboğlu-@|İsmet Zeki Eyüboğlu1~
+156867	Ormaniçi Mah.	Kodila=|Ormaniçi Mezra=|Ormaniçi Yayla=|Sırkanlı=|Zembelek=|İlaksa=|Şambaklı=|Şehit Mehmet Yavuz=|Şehit Mehmet Yavuz-@
+156869	Ormanüstü Mah.	Babir 1=|Babir=|Elez=|Fındıklık=|Kanavur=|Kangoloy=|Mazla=|Ormanüstü Cami=|Ormanüstü Çeşmeler=|Sakanora=|Samana=|Serefol=|Taşoluğu=|Vadon=|Yaylabaşı Çamlık=|Zalafa=|Zarişa=|Şanaşitka=
+156871	Ortaköy Mah.	Aydede=|Kozağaç Kale=|Ortaköy Sırt=
+156865	Oğulağaç Mah.	Bibat=|Hafızlar=|Kadrol=|Koleha=|Kurtdağı Y.=|Köy İçi=|Kızılcık=|Sevimli Mezra=|Zangar=|Çuvalcı Simat Yoka=
+184788	Reşadiye Mah.	Alibey~|Alibey1~|Alibey2~|Alibey3~|Gül~|Gül1~|Gül2~|Gül3~|Hacıosmanoğlu@|Hacıosmanoğlu1~|Hacıosmanoğlu3~|Hacıosmanoğlu4~|Hacıosmanoğlu5~|Hacıosmanoğlu6~|Kozağaç Yeni=|Vali Niyazi Şeker@|Yavuz Sultan Selim@|Yeşillik=|Yılmaz~|Yılmaz1~|Öğretmen Süleyman Erdoğan~|Üst.cengiz Duman@|Üst.cengiz Duman1~|Üst.cengiz Duman2~|Üst.cengiz Duman3~|İsmet Zeki Eyüboğlu@|İsmet Zeki Eyüboğlu1~
+156875	Sevinç Mah.	Bahçe Kıran=|Balihör=|Devoran=|Harmanlar=|Köyiçi=|Mataracı Aşağı=|Mataracı Cevizlik-=|Mataracı Orta=|Mataracı Çarşı=|Merekler=|Sevinç Cami=|Sevinç Kıran=|Sevinç Yukarı=|Çayırlar Abeka=
+156879	Sukenarı Mah.	Ağrıt=|Sukenarı Merkez 1=|Sukenarı Merkez=|Çatak Cevizlik=
+156877	Sındıran Mah.	Bale=|Erenler=|Sanaya=|Seyranlık=|Sındıran Merkez=|Sındıran Çayırlar=|Taşaltı=
+156913	Temelli Mah.	Ayanlar=|Barışlı Kıran=|Cepninin Dağı=|Hazaka=|Işıklar=|Kara Ağaçlık=|Kara Orman=|Kenan Oltan-@|Kenan Oltan2~|Meyvelik=|Mollaoğlu=|Sevimli Mezra=|Süleyman Sırtı=|Temelli Dere=|Temelli Mehmetli=|Temelli Merkez=|Çiçekli=
+156885	Yaylabaşı Mah.	Bostanlı=|Karaabdal=|Orta Yayla=|Taşlıoba Yaylası=|Yaylabaşı Dere=|Yaylabaşı Orta=|Yaylabaşı Yeni Yayla=|Yaylabaşı Çamlık=|Yerlice Merkez=|Çikotoz Oba=
+156889	Yazlık Mah.	Akboran=|Arkolim=|Arnastal=|Bahceli=|Camlıca=|Coşandere Mezarlık=|Favatoz=|Gofrogol=|Hacıosmanoğlu-@|Kursal=|Mühürcü=|Omela=|Pilav Dağı=|Sazlık=|Selboğazı=|Sırmanoy-=|Yazlık Cami=|Yazlık Köybaşı=|Yazlık Kıran=|Yazlık Kıran1=|Yazlık Orta=|Ziganoy=|İncirlik=|İskobel=
+156887	Yazılıtaş Mah.	Aynalişa=|Bağışlı Aşağı=|Karakaban=|Kiremitli Karşıyaka=|Kuzhan=|Mendobul=|Taş Altı=|Yazlıklar=|Yazılıtaş Alt=|Yazılıtaş Cami=
+156915	Yeniköy Mah.	Bibat=|Hafızlar=|Köy İçi=|Zangar=
+156891	Yeşiltepe Mah.	Fikanoy=|Kamaha=|Kulindağı=|Laha=|Manranoy=|Salahnoy=|Santıçayırı=|Sivoy=|Solma=|Yeşiltepe Cami=|Yeşiltepe Limli=|Yeşiltepe İslamlı=|Yeşilyurt=|Örnekalan=|Örnekalan Yayla-=|İsmet Zeki Eyüboğlu-@
+80045	Yeşilyurt Mah.	Yeşilyurt=|İsmet Zeki Eyüboğlu@|İsmet Zeki Eyüboğlu2~|İsmet Zeki Eyüboğlu3~|İsmet Zeki Eyüboğlu4~
+156893	Yukarıköy Mah.	Alt Yayla İmeriksa=|Ardıçlıyayla Mezra=|Aydede=|Ağursa Yurdu=|Cami=|Devar=|Ermeni Düzü=|Hocamezarı Labaza=|Hohordüzü=|Hordokop=|Karaahmet=|Karakaban=|Karakapan=|Kutalitra=|Köprüyanı Köyü=|Köy Başı=|Lapazan-=|Mendobul=|Mollaismailli=|Sukenarı Hocamezarı=|Turnagöl=|Yukarıköy Hocamezarı=|Yukarıköy Orta 1=|Yukarıköy Orta=|Yukarıköy Sırt=|Şose Altı=
+156895	Yüzüncüyıl Mah.	Ambari=|Cakıllı=|Cormalık=|Esentepe=|Fındıklı=|Harman=|Karadağ=|Karamustafa=|Kuyruk=|Mandıra=|Ofluoğlu=|Ranboğlu=|Sırkanlı=|Yerlice=|Çayırlar Yeşiltepe-=|İskambel=
+156897	Zaferli Mah.	Fatih=|Güney=|Kirazlı=|Mataracı Çarşı=|Mehmet Çavuş=|Zaferli Yukarı=|İsimsiz Mahalle=
+156827	Çamlıdüz Mah.	Ayene=|Babara=|Babarza=|Haya 1 Mezrası=|Kangoloy=|Yan=|Yaylabaşı Dere=|Çamlıbel=|Çamlıdüz Orta=
+156829	Çatak Mah.	Taşaltı=|Yeşillik=|Çatak Cevizlik=|Çatak=|Üst.cengiz Duman-@
+156831	Çayırlar Mah.	Dereiçi=|Dip Yatağı=|Kanlıpınar=|Ormaniçi Yayla=|Sırkanlı=|Çayırlar Köybaşı=|Çayırlar Orta=|Çayırlar Yeşiltepe=|İskambel=
+156833	Çeşmeler Mah.	Serefol=|Taşaltı=|Çatak Cevizlik=|Çeşmeler Merkez=|Üşgürda=
+156835	Çıralı Mah.	Güzelyayla Merkez=|Hamsiköy Merkez=|Hamsiköy Mezra=|Kıranoba Yaylası=|Maloba Yaylası=|Soğuksu Yaylası=|Yayla Evleri=|Çıralı=|Çıralı Mezrası=|İstavroma Yaylası=
+156873	Örnekalan Mah.	Bahçe Kıran=|Kulindağı=|Köyiçi=|Laha=|Manranoy=|Santıçayırı=|Yelef=|Yeşiltepe Cami=|Yeşiltepe İslamlı=|Çakmak=|Çamlıca=|Örnekalan Cami=|Örnekalan Düzler=|Örnekalan=|Örnekalan Yayla-=|İsmet Zeki Eyüboğlu@
+184740	Öğütlü Mah.	Ali Hikmet Tuncer 1~|Ali Hikmet Tuncer 2~|Ali Hikmet Tuncer 3~|Ali Hikmet Tuncer 4~|Ali Hikmet Tuncer@|Ağa=|Duralı-=|Güzel=|Kenan Oltan Esiroğlu-@|Kenan Oltan Öğütlü 1~|Kenan Oltan Öğütlü 2~|Kenan Oltan Öğütlü@|Kumrulu=|Salim Eyüpoğlu 1~|Salim Eyüpoğlu 2~|Salim Eyüpoğlu@|Teraziler=|Öğütlü=|Üst=
+156883	Üçgedik Mah.	Başoba=|Büyükharman=|Derin Oba=|Eskala=|Haliya 1 Mezrası=|Haya 1 Mezrası=|Kadırga=|Kalecik=|Kasımağzı Köyü Yaylası=|Mile=|Ramazan Obası=|Simenli=|Zavilan=|Çamlıdüz Orta=|Çelige=|Üçgedik Dere=|Üçgedik Haya=|Üçgedik Kale=|Üçgedik Çeşmeler=|İstaliya=
+156881	Şimşirli Mah.	Aliağalı=|Ambari-=|Atasu Işıklar=|Ayor=|Beşirli=|Cakıllı=|Camii-=|Cormalık=|Demirci=|Hanzar=|Harman=|Kodil=|Kuyruk=|Kılıçbekir=|Maşkene Susana=|Sevimli Mezra=|Sırkanlı=|Tahtı=|Varnava=|Zembelek=|Çamlıyurt-=|Çavlik=|Şimşirli Mehmetli=|Şimşirli Orta=|Şimşirli Çamlık=

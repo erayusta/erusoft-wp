@@ -1,0 +1,42 @@
+184097	Akçapınar Mah.	Akçapınar~
+184099	Alpağut Mah.	Alpağut~
+184101	Avdan Mah.	Avdan1~
+184103	Baraklı Mah.	Büyük~|Küçük~|Çatak~
+184105	Basak Mah.	Cuma~|Kalber~|Orta~
+184107	Belenören Mah.	Belenören~
+184109	Bıyıklıalanı Mah.	Bıyıklıalanı~
+19986	Cuma Mah.	1.murat@|Adnan Menderes@|Atatürk@|Beylik~|Dede~|Dere~|Dikkaldırım~|Eminbey~|Ertuğrulbey@|Ethem Yaman~|Hoca Ahmet Yasevi@|Hüdaverdigar@|Karakol~|Karaçavuş@|Keskin Pınar~|Korkmaz@|Köroğlu~|M.akif Orhan@|Mahmutcuk~|Nesim~|Orhanbey@|Ragıp Rıfkı Keskin@|Rıza~|Tahir Hoca@|Tahir Nadi Aydın@|Ulu@|Yakup Çelebi~
+184117	Davutlar Mah.	Davutlar~|Kayadibi~|Çaylar~
+184113	Dağ Demirciler Mah.	Dağ Demirciler~
+184115	Dağdibi Mah.	Dağdibi~
+184119	Dedeler Mah.	Dedeler~
+184121	Delice Mah.	Dargıl~|Delice~
+184123	Denizler Mah.	Denizler~|Sarıyar~
+184125	Durak Mah.	Durak~
+184127	Düvenli Mah.	Düvenli~
+184129	Epçeler Mah.	Epçeler~
+19988	Ertuğrulgazi Mah.	Atatürk@|Bahar~|Berber Ali Aydın~|Bursa@|Doğan~|Ertuğrulbey@|Esenlik@|Gülseven~|Mehmetcik~|Orhanbey@|Serçe~|Toplu Konut İdaresi Başkanlığı@|Turgutalp@|Ulu@|Uludağ@|Yakup Çelebi@|Şahin~
+184131	Gelemiç Mah.	Gelemiç~|Pelitören~
+184133	Gököz Mah.	Gököz~
+184135	Harmanalanı Mah.	Harmanalanı~
+184137	Harmancık Demirci Mah.	Harmancık Demirci~
+184139	Haydar Mah.	Haydar~
+184111	Hereke Mah.	Çayören~
+184141	Issızören Mah.	Issızören~
+184143	Karaardıç Mah.	Karaardıç~
+184145	Kemaliye Mah.	Kemaliye~
+99408	Kirazlı Mah.	Domalı~
+184149	Koca Kovacık Mah.	Kapaklı~|Koca Kovacık~
+184151	Kozbudaklar Mah.	Kozbudaklar~
+19989	Küçük Kovacık Mah.	Anasultan@|Gülbahar Hatun~|Gülçiçekhatun~|Halime Hatun~|Haymeana~|Rabia Bala Hatun~
+184147	Kıran Işıklar Mah.	Kıran Işıklar~
+184153	Menteşe Mah.	Menteşe~
+184155	Pınarcık Mah.	Pınarcık~
+19990	Sofular Mah.	Adnan Menderes@|Dere~|Eskicioğlu~|Ganioğlu@|Hacı İbrahim Oğlu~|Koççukuru~|Oruçbey@|Sevinç~|Ulu@
+184157	Sorgun Mah.	Sorgun~
+184159	Uzunöz Mah.	Uzunöz~
+184163	Yazıbaşı Mah.	Yazıbaşı~
+184161	Yağcılar Mah.	Yağcılar~
+19991	Yenice Mah.	Avdan~|Bursa@|Karakol~|Katırcıoğlu~|Orhanbey@|Tuğrulbey@|Uzun~|Yakup Çelebi~|Yemişen~
+184165	Yunuslar Mah.	Babasızlar~|Yunuslar~
+19987	Çukur Mah.	Ayanlar~|Bayrampınarı~|Bodurlar~|Dere~|Kayabaşı~|Oruçbey@|Tahir Nadi Aydın@|İsmail Saydam@

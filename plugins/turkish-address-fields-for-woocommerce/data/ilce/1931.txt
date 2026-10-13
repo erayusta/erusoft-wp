@@ -1,0 +1,29 @@
+93919	Akdizgin Köyü	Akdizgin Köyü=
+93918	Akçakuşak Köyü	Akçakuşak Köyü=
+196633	Ağaçyurdu Köyü, Köyün Kendisi Mevkii	Ağaçyurdu Köyü=
+90614	Bağlar Mah.	205~|210~|215~|216~|217~|220~|224~|225~|226~|227~|228~|229~|230~|231~|232~|233~|234~|235~|238~|239~|240~|Bahçeyolu@|Cumhuriyet@|Göl@|Siirt@|Vali Atilla Koç@
+93920	Boyuncuk Köyü	Damlabaşı=|Köy Kendisi=
+99769	Bulmuşlar Köyü, Köyün Kendisi Mevkii	Köy=
+93925	Damlabaşı Köyü	Damlabaşı=
+93926	Damlarca Köyü	Damlarca=
+100184	Dağyeli Köyü, Köyün Kendisi Mevkii	53=
+93924	Dağyeli Köyü, Yenimah. Mezrası	Yenimah=
+135437	Demirboğaz Köyü, Köyün Kendisi Mevkii	Demirboğaz Köyü=
+93927	Düğünyurdu Köyü	Düğünyurdu Köyü=
+90618	Fındık Beldesi, Bahçelievler Mah.	105~|111~|113~|117~|Ahmede Hane@|Arin~|Berfin~|Beybun~|Faqiye Teyra@|Olca~|Seyit Aliye Fındık2~|Seyit Aliye Fındıki@|Seyit Aliye Fındıki1~|Viyan~|Özgür~|Şeyh Osman@
+90619	Fındık Beldesi, Cumhuriyet Mah.	201~|Cudi~|Gonca~|Gül~|Havin~|Mele Ahmet Elkoca@|Narin~|Nergiz~|Papatya~|Seyit Aliye Fındıki@
+100307	Fındık Beldesi, Gümüşyazı Mah.	405~|407~|Abdullah İlhan~|Are Nebi~|Azadi~|Botan@|Dara Meğela~|Didar~|Didar1~|Fındık@|Gabar@|Gabar1@|Hamit Elik~|Mesila~|Neytullah İlhan~
+90620	Fındık Beldesi, Karşıyaka Mah.	314~|315~|Baran~|Kobane@|Menekşe~|Meşe~|Newroz@|Renas~|Çicek~
+93930	Koçtepe Köyü	Koçtepe Köyü=|Koçtepe1~|Koçtepe10~|Koçtepe11~|Koçtepe12~|Koçtepe13~|Koçtepe14~|Koçtepe15~|Koçtepe2~|Koçtepe3~|Koçtepe4~|Koçtepe5~|Koçtepe6~|Koçtepe7~|Koçtepe8~|Koçtepe9~
+93929	Koçtepe Köyü, Koçyurdu Mezrası	Koçyurdu Mezra=
+99689	Ormaniçi Köyü, Ormaniçi Mevkii	Köy=
+93931	Sağkol Köyü	Sağkol Köyü=
+139905	Taşkonak Köyü, Köyün Kendisi Mevkii	Taşkonak Köyü=
+93934	Yatağankaya Köyü	Tahir Taş=
+93933	Yağmurkuyusu Köyü	Yağmurkuyusu Köyü=
+93932	Yağızoymak Köyü	Yağızoymak Köyü=
+90617	Yeni Mah.	103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|115~|116~|117~|125~|127~|128~|129~|130~|Siirt@|Vali Atilla Koç@|Vali Kamil Acun@|Y.i.b.o@
+135436	Çetinkaya Köyü, Köyün Kendisi Mevkii	Çetinkaya Köyü=
+93921	Çevrimli Köyü	Çevrimli Köyü=
+93922	Çobankazanı Köyü	Çobankazanı Köyü=
+93923	Çobankazanı Köyü, Soğucak Mezrası	Soğucak=

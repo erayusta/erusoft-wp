@@ -1,0 +1,81 @@
+192327	Akkoyunlu Mah.	Akkoyunlu=|Karatas=|Serincek=|Yukarı Taşmalı=
+192223	Akpınar Mah.	Akpınar=
+192325	Akçörten Mah.	Akçörten=|Ayranözü=|Aşağı İçözü=|Gazalan=|Sular=
+192329	Alabuğday Mah.	Alabuğday=|Elif Haneleri=|Kela=|Zoncek=
+192331	Alakoç Mah.	Akpınar-1=|Alakoç=
+192333	Arabük Mah.	Arabük=
+192225	Armağantaşı Mah.	Armağantaşı=
+192227	Armutlu Mah.	Armutlu=
+192229	Artuk Mah.	Artuk=|Yılanlıyurdu=
+192231	Asmalı Mah.	Asmalı=
+192235	Aynalı Mah.	Aynalı=|Bereketli=|Karatarla=|Petekkaya=|Taşkesen=|Çöplü=|İncirtepe=
+192323	Ağaçhan Mah.	Ağaçhan=
+192373	Aşağıtaşmalı Mah.	Aşağıtaşmalı=
+192233	Aşağışeyhler Mah.	Aşağışeyhler=
+192237	Bademli Mah.	Bademli=
+192239	Bahçe Mah.	Bahçe=
+192241	Balıksırtı Mah.	Balıksırtı=|Karatarla=
+192243	Bayat Mah.	Bayat=
+192335	Baykal Mah.	Baykal=|Başarı B.m=|Belek=|İsmail Çayırı=
+192245	Bayrak Mah.	Bayrak=|Eyyüp=
+192337	Bayırbağı Mah.	Bayırbağı=|Konuksever=
+192321	Başarı Mah.	Affan=|Başarı B.m=|Hazin=|Karataş -=|Karataş1=|Leyleği=
+192247	Bintaş Mah.	Bintaş=
+192339	Bircemal Mah.	Bircemal=|Kuşlukçayırı=
+192249	Bulundu Mah.	Bulundu=|Tekerkıran=
+192251	Ceylan Mah.	Ceylan=|Saltepe=
+192255	Değirmenli Mah.	Değirmenli=
+192257	Dikyol Mah.	Agaçdiken=|Bayrak=|Dikyol=|Karameşe=|Sürmenek=|Zorbekır=|İçoba=
+192259	Dilekpınar Mah.	Dilekpınar=|Kömek=|Topalan=
+192261	Elifuşağı Mah.	Elifuşağı=
+192263	Eskibağ Mah.	Eskibağ=|Kızılyamaç=
+192265	Genceli Mah.	Genceli=
+192267	Göktepe Mah.	Fıstıklı=|Göktepe=|Malay=
+192269	Gözerek Mah.	Gözerek=
+192319	Günaşan Mah.	Günaşan=
+192343	Gürüz Mah.	Dalbudak=|Gürüz=|Yolüstü=
+192271	Güzel Mah.	Cuvnek=|Güzel=
+192375	Güçlütaş Mah.	Güçlütaş=
+192279	Haburman Mah.	Haburman.=
+21054	Kala Mah.	Ayvazlar~|Aşukar~|Aşukar..~|Bağcılar~|Berberler~|Birim~|Birim/1~|Cami~|Divan~|Dokumacı~|Dumanlı~|Haburman 1.~|Haburman@|Haburman/1~|Hacı Musa 1.~|Hacı Musa~|Hacı Musa/1~|Hacı Musa/2~|Hacı Musa/3~|Helinamın=|Kala 1.~|Kala=|Karakaya 1.~|Kereze 1~|Kereze 2~|Kereze 3~|Kereze~|Kereze Şevket@|Kereze Şevket/1~|Kereze Şevket/2~|Koçaç@|Kumru~|Kurtuluş~|Pilol=|Sabır~|Sabır/1~|Santral~|Tabiat~|Tarlabaşı~|Torun~|Yokuş~|Yokuş.1.~|Yokuş.2.~|Yokuş/3~|Yunus Emre~|Yıldız~|Çamlık~|Çarşı@|Çelenk./1~|Ömer Halis Demir~|İstiklal@|İstiklal/1~|Şafak~
+192273	Kalaç Mah.	Kalaç=
+192275	Kalecik Mah.	Kalecik=|Mahro=|Marho@|Pagnik=
+192349	Karacaviran Mah.	Karacaviran=|Karataş1=|Kayıntarla=|Soğlan Çayır=
+192277	Karakaya Mah.	Armutlu=|Gölbaşı=|Karakaya3=
+192281	Karamusa Mah.	Karamusa=|Kolunun Çayırı=
+192283	Karataş Mah.	Karataş=|Kartaltaşı=|Kazanevler=|Tilkitepe=|Çiban-1=|Çiban-2=|Çiban-3=
+192285	Kartaltaşı Mah.	Bayrak=|Kartaltaşı=|Çivan=
+192287	Kayagediği Mah.	Demirtaş=|Kayagediği=|Çermik Ergani Yolu@
+192289	Keklik Mah.	Keklik=|Çermik Ergani Yolu@
+192291	Konaklı Mah.	Konaklı=|Çımenek=
+192353	Konuksever Mah.	Kayıntarla=|Konuksever=
+192293	Korudağ Mah.	Korudağ=
+192299	Kuyu Mah.	Kalaç=|Kuyu=
+192355	Kuşlukçayırı Mah.	Adalar=|Alyan=|Bircemal=|Günova=|Işıklı=|Kuşlukçayırı=
+192295	Köksal Mah.	Germik=|Köksal=
+192297	Kömürcüler Mah.	Bistan=|Doğan=|Kömürcüler=|Rezek=
+192351	Kırmatepe Mah.	Aşağı Taplur=|Kaleönü=|Kurtoğlu=|Kırasa=|Kırmatepe=|Yenice=|Şaraplı=
+192301	Pamuklu Mah.	Pamuklu=|Pamuklu1=|Pamuklu2=
+192303	Petekkaya Mah.	Dalipek=|Derezere=|Devkan=|Devkan1=|Kengerlik=|Petekkaya=
+192305	Pınarlı Mah.	Pınarlı=
+192361	Recep Mah.	Recep=
+192307	Saltepe Mah.	Saltepe=
+21055	Saray Mah.	Berber İbrahim~|Berberler 1.~|Berberler~|Beyler Köşkü~|Diyarbakır1@|Gulistan/1~|Gülistan~|Hamam~|Hamam/1~|Hamam/2~|Katip Mehmet 1.~|Kooperatif~|Kooperatif/1~|Kooperatif/2~|Kooperatif/3~|Kızılca 1.~|Kızılca~|Osmanbey~|Osmanbey/1~|Papatya~|Papatya/1~|Pınar~|Pınar/1~|Pınar/2~|Reyhan~|Sapko=|Ziya Gökalp 3.~|Ziya Gökalp 4.~|Ziya Gökalp@|Ziya Gökalp/1~|Ziya Gökalp/2~|Çarşı@|İmizar~|İmizar/1~
+192363	Sarıbalta Mah.	Sarıbalta=
+192365	Sarıca Mah.	Boztarla=|Sarıca=
+192309	Sinek Mah.	Genceli=|Köprübaşı=|Sinek=|Sinek Şelalesi=
+21056	Tepe Mah.	A.gaffar Okan 1.~|A.gaffar Okkan 2.~|A.gaffar Okkan@|Adliye 1.~|Adliye 2.~|Adliye 3.~|Adliye 4.~|Adliye~|Adliye/1~|Adliye/2~|Adliye/3~|Adliye/4~|Akasya~|Altınbağlar=|Anıl~|Asmalı2~|Avcılar~|Avcılar./1~|Bahçeci~|Bahçeci./1~|Bahçeci./2~|Bahçeci./3~|Bahçeci./4~|Bahçeci./5~|Bahçelievler=|Balık 1.~|Balık~|Barış~|Bağlar 1.~|Bağlar 2.~|Bağlar~|Beş Yüz Evler=|Bilardo~|Buhara~|Buhara.1.~|Buhara.2.~|Buhara.3.~|Cavsak 2.~|Cavsak 3.~|Cavsak 4.~|Cavsak~|Cevsak 1.~|Ceylan.1~|Ceylan.2~|Ceylan3~|Demetevler=|Değirmen~|Direk~|Direk/1~|Direk/2~|Direk/3~|Diyar~|Diyarbakır 1.~|Diyarbakır 2.~|Diyarbakır 3.~|Diyarbakır Ara~|Diyarbakır@|Efsel~|Emek~|Evsel~|Evsel/1~|Evsel/2~|Evsel/3~|Ferah~|Ferah/1~|Ferah/2~|Görkem~|Görkem/1~|Göz~|Gül~|Gümüş~|Güven~|Hanbaşı~|Hanbaşı/1~|Hanbaşı/2~|Hanbaşı/3~|Hanbaşı/4~|Harabaz 1.~|Harabaz=|Harefene~|Hastane~|Havuzlu Bahçe~|Heykel~|Heykel/1~|Heykel/2~|Heykel/3~|Heykel/4~|Heykel/5~|Kalecik Geçit~|Kandil~|Kaplıca 1.~|Kaplıca@|Kaplıca/1~|Kaplıca/2~|Kaplıca/3~|Karanfil 1.~|Karanfil 2.~|Karanfil~|Kardelen~|Katip Mehmet@|Katip Mehmet/1~|Kavaklı~|Kavaklı/1~|Kavaklı/2~|Kavaklı/3~|Kaymakamlık~|Kayme~|Kayme/1~|Kayme/2~|Kenan~|Kereze Sıdık@|Kolunun Çayırı=|Kuzey~|Köprübaşı=|Körmüşkan~|Kılıç~|Laleli~|Lise~|Lojman~|Lojman./1~|Mahro=|Manolya~|Marho@|Marho/1~|Martı 1.~|Martı~|Mehtap~|Melekler~|Melekler/2~|Melekler/3~|Melekler/4~|Melekler1~|Menekşe~|Menzil~|Merdivenli~|Meteoroloji~|Meteoroloji-1.~|Meteoroloji-2.~|Meteoroloji-3.~|Meteoroloji-4.~|Meteoroloji-5.~|Meteroloji 6.~|Metoroloji 7.~|Narlı~|Nur@|Ortanca~|Ortanca/1~|Park 2.~|Park 3.~|Park 4.~|Park 5.~|Park 6.~|Park 7.~|Park 8.~|Park~|Park/1~|Polat~|Poyraz 2.~|Poyraz~|Poyraz/1~|Recep Karaaslan@|Sandıkçı~|Sandıkçı/1~|Sapko=|Sağlık~|Susam~|Susam./1~|Sözler~|Tek~|Tekel 1.~|Tekel~|Tekel/2~|Tepe~|Toprak 1.~|Toprak 2.~|Toprak 3.~|Toprak~|Turistik~|Turna 1.~|Turna~|Vatan~|Volkan~|Yakamoz 1.~|Yakamoz 2.~|Yakamoz~|Yayla~|Yaşam~|Yel 1.~|Yel 2.~|Yel 3.~|Yel 4.~|Yel 5.~|Yel~|Yeşil~|Yibo~|Yibo/1~|Yonca~|Yonca/1~|Zambak~|Zeytin 1.~|Zeytin~|Ziraat 6.~|Ziraat~|Ziraat../1~|Ziraat../2~|Ziraat../3~|Ziraat../4~|Ziraat../5~|Ziya Gökal/3~|Ziya Gökalp@|Ziya Gökalp3~|Zübeyde Hanım@|Zübeyde Hanım/1~|Zübeyde Hanım/2~|Çamlıca~|Çağlayan~|Çeşme 2.~|Çeşme 3.~|Çeşme 4.~|Çeşme~|Çeşme../1~|Çimen~|Çıkmaz~|Üçel~|İhlasiye~|İncirli~|İpek~|İsmail Turan@|İstikbal~|İstikbal../1~|Şehit Polis Memuru Murat Dündar@|Şehit Polis Memuru Murat Dündar1~|Şehit~|Şeker 1.~|Şeker~|Şen~|Şirin~
+192367	Toplu Mah.	Aylar=|Balitepe=|Marho@|Toplu=
+192313	Yabanardı Mah.	Yabanardı=
+192317	Yaylacık Mah.	Dağbaşı=|Haraba=|Yaylacık=|Üçevler=
+192315	Yayıklı Mah.	Aşağı Yayıklı=|Bayrak=|Orta=|Yan=|Yukarı Yayıklı=
+192357	Yeşilova Mah.	Abdülaziz 2.kışlak=|Babacan=|Elekviran=|Kayıntaş=|Yeşilova=|Çağlek 1.kışlak=|İncehıdır=
+192369	Yiğitler Mah.	Gedikevler=|Güney=|Karatas=|Yiğitler=
+192371	Yoğun Mah.	Alabuğday=|Kela=|Kızılçubuk=|Yoğun=
+192341	Çalıtepe Mah.	Kocahudu=|Çalıtepe=
+21053	Çukur Mah.	Akıncılar~|Aydınlar~|Aygün~|Bande~|Bande.çşb 1~|Beybağı=|Bilardo~|Biriket~|Biriket./1~|Cami Ardı~|Cumhuriyet@|Divan~|Divan/1~|Diyarbakır1@|Durak~|Durak.1.~|Ekinciler~|Emniyet~|Evsel/3~|Fatih Emre~|Fatih Sultan Mehmet@|Fatih Sultan Mehmet/1~|Fatih Sultan Mehmet/2~|Gelincik~|Gokdere@|Gökdere-~|Güll~|Güney/1~|Güney2~|Güneş~|Hamam~|Huzur~|Huzur1~|Kapalı~|Karaca=|Karakaya@|Karanlık~|Karatay~|Karnıyarık~|Katip Mehmet@|Kayalık~|Kazancı Tepe~|Kazancı Tepe/1~|Kereze~|Kereze Sıdık@|Kereze Sıdık/2~|Kereze Sıdık/3~|Kereze Sıdık1~|Kumludere 1.~|Kumludere~|Kurtuluş~|Maltepe~|Menzil~|Menzil/1~|Menzil/2~|Mezbahane~|Molla Bekir 1~|Molla Bekir 2~|Molla Bekir@|Molla Bekir/3~|Paşa~|Petekkaya=|Siverek@|Tarlabaşı~|Terazi~|Tevfik Ağa~|Teyfik Aga/1~|Teyfik Aga/2~|Titinik~|Titinik/1~|Zorap=|Zümrüt@|Zümrüt/1~|Zümrüt/2~|Zümrüt/3~|Çakmak~|Çarşı@|Çarşı/1~|Çelenk~|Çelenk./1~|Çift Köprü-~|Çifteköprü~|Ömer Halis Demir~|İstiklal@|İstiklal/2~|Şelale~|Şirin Tepe~|Şölen~|Şölen.1~|Şölen/2~|Şölen/3~
+192253	Çukurelma Mah.	Armağantaşı=|Çukurelma=
+192359	Örenkuyu Mah.	Örenkuyu=
+192345	İkiçeltik Mah.	Fark=|İkiçeltik=
+192347	İncili Mah.	Başdönmez=|Bulutlu=|Dallıkaya=|İncili=
+192311	Şeyhandede Mah.	Dağbaşı=|Harabe=|Hüseynik=|Şeyhandede=

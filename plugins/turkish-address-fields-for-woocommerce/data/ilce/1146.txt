@@ -1,0 +1,182 @@
+67921	Akdere Köyü, Akpınar Mevkii	Akpınar=
+67920	Akdere Köyü, Merkez Mevkii	Merkez=
+67922	Akdere Köyü, Yüksek Mevkii	Yüksek=
+67926	Akkaya Köyü, Cami Ve Çevre Mevkii	Cami Çevre=
+67927	Akkaya Köyü, Düz Mevkii	Düz=
+67925	Akkaya Köyü, Orta Mevkii	Orta=
+67923	Akkaya Köyü, Sırt Mevkii	Sırt=
+67924	Akkaya Köyü, Yukarı Mevkii	Yukarı=
+67932	Armağan Köyü, Aşıklar Mevkii	Aşklar=
+67934	Armağan Köyü, Duatepe-altıntepe Mevkii	Duatepe Altıntepe=
+67933	Armağan Köyü, Koçoğlu Mevkii	Koçoğlu=
+67929	Armağan Köyü, Merkez Mevkii	Merkez=
+67930	Armağan Köyü, Ortamahalle Mevkii	Ortamahalle=
+67928	Armağan Köyü, Taş Kapı Mevkii	Taşkapı=
+67931	Armağan Köyü, Yeşilyurt Mevkii	Orta=|Yeşilyurt=
+140081	Arıcılar Köyü	Arıcılar=
+67938	Aşağıdurak Köyü, Düz Mevkii	Düz=
+67935	Aşağıdurak Köyü, Merkez Mevkii	Merkez=
+67936	Aşağıdurak Köyü, Sırt Mevkii	Sırt=
+67937	Aşağıdurak Köyü, Çirihinci Mevkii	Çirihinci=
+61335	Bahar Mah.	Ardeşen Karadeniz Sahil Yolu@|Bahar=|Yayla=
+61336	Barış Mah.	Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Bahar=|Barış=|Küme 2=|Küme 3=|Nebioğlu=|Sahil Yolu-=|Yakamoz~
+67942	Bayırcık Köyü, Cami Mevkii	Cami=
+67941	Bayırcık Köyü, Dere Mevkii	Dere=
+67940	Bayırcık Köyü, Dobira Mevkii	Dobira=
+67939	Bayırcık Köyü, Trambona Mevkii	Trambona=
+61337	Baş Mah.	Baş=|Cami=|Duatepe Altıntepe=|Seydioğlu 3~
+67943	Beyazkaya Köyü, Düz Mevkii	Düz=
+67944	Beyazkaya Köyü, Yukarı Cami Mevkii	Yukarı Cami=
+61338	Cami Mah.	Cami=|Dere İçi-=
+99492	Cumhuriyet Mah.	19 Mayıs~|Ankara~|Atatürk@|Av.serpil Navdar~|Balkan~|Beyoğlu@|Cihangir~|Cumhuriyet@|Dolana~|Dr. Sadık Ahmet~|Dr.avni Kabaoğlu~|Dumlupınar~|Fetih~|Furkan~|Hal@|Hamit Efendi@|Kağıthane Sadabat@|Malazgirt~|Merkez Mahalle Giriş@|Merve~|Nenehatun 1~|Nenehatun~|Nizam~|Sultan Alparslan@|Tuna~|Uludağ~|Yarbay Cevat Sütlüoğlu@|Yunus Emre~|İnönü@|Şehit Ekrem Okutan@|Şehit Hilmi Bozdi~
+61340	Deniz Mah.	Abdülhamit~|Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Azerbaycan@|Bağdat@|Bosna 1~|Bosna@|Cidde~|Deniz@|Dostlar@|Entegre@|Fırtına Dere=|Halim Bey@|Huzur@|Hüseyin İzzet@|Kaptan~|Karayel~|Lütfü Alemdar@|M.akif Ersoy@|Orhan Gazi~|Orhun~|R.tayyip Erddoğan@|Sahil@|Sahil/1~|Selahattin Eyyubi@|Temel Reis~|Temel Reis/1~|Veysel Karani%|Veysel Karani/2~|Yıldız~|Çeçenistan@|Özgür~|Şafak@|Şehit Aydın Bodur@|Şehit Cengiz Topel@|Şeyh Şamil@|Şirin Dede~
+67947	Doğanay Köyü, Kibaroğlu Mevkii	Kibarlar=|Önkibarlar-~
+67946	Doğanay Köyü, Merkez Mevkii	Merkez=
+67948	Doğanay Köyü, Navdarlar Mevkii	Navdarlar=
+67950	Doğanay Köyü, Orta Mevkii	Orta=
+67949	Doğanay Köyü, Çıraklar Mevkii	Çıraklar=
+67945	Doğanay Köyü, İslamoğlu Mevkii	İslamoğlu=
+67951	Doğanay Köyü, İsmailoğlu Mevkii	İsmailoğlu=
+67954	Duygulu Köyü, Cami Mevkii	Camı=
+67952	Duygulu Köyü, Tercümanlar Mevkii	Tercümanlar=
+67953	Duygulu Köyü, Topaloğlu Mevkii	Topaloğlu=
+61341	Düz Mah.	Beyoğlu@|Fırıncılar=|Hamit Efend 1~|Hamit Efendi@|Kardelen~|Kızılırmak@|Peruma@|Pirinçlik 1~|Pirinçlik@|Sinan~|Turgut Özal%|Türkistan@|Yarbay Cevat Sütlüoğlu@|Çağrı~|Şehzade~|Şentepe Girişi=
+61342	Elmalık Mah.	Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Ayder Yolu=|Badala=|Fidan 2=|Fidan=|Kurnazlar=|Kızılhan=|Terbıyıklar=|Terzioğlu Kümeevler=|Trafo=|Çamlıhemşin Yolu=
+67955	Eskiarmutluk Köyü	Eskiarmutluk=
+67956	Eskiarmutluk Köyü, Ilıca Mevkii	Ilıca=
+67958	Eskiarmutluk Köyü, Kırazlık Mevkii	Kırazlık=
+99493	Fatih Mah.	Ahmet Yesevi 1~|Ahmet Yesevi@|Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Behzat Atagün@|Birlik 1~|Birlik~|Burak~|Karadeniz Sahil Yolu-@|Lütfü Alemdar@|Niyazi Akay@|Sahil@|Yuvam~|İlhan Eskiçırak~
+61343	Fırtına Mah.	Adnan Kahveci@|Akıncılar@|Ali Kuşçu@|Anadolu@|Atatürk@|Barbaros Hayrettin Paşa@|Derman~|Düzce@|Farabi~|Fatih 10~|Fatih 3~|Fatih%|Fazilet~|Gazali 6~|Gazali@|Hacışahinler@|Hattat~|Hendek~|Kaçkar 10~|Kaçkar 11~|Kaçkar 12~|Kaçkar 13~|Kaçkar 2~|Kaçkar 3~|Kaçkar 4~|Kaçkar 5~|Kaçkar 6~|Kaçkar 7~|Kaçkar 8~|Kaçkar 9~|Kaçkar%|Kurtoğlu~|Lise 1~|Lise 2~|Lise 3~|Lise@|Medine~|Mekke~|Meltem~|Mevlana 1~|Mevlana@|Peruma@|Piri Reis@|T.gen. İsmet Yediyıldız~|Terzioğlu@|Turgut Reis@|Turgut Özal%|Yalova@|Yıldırım Beyazıt 2~|Yıldırım Beyazıt@|Ziya Okutan@|Zümrüt~|İbn İ Rüşt@|Şehit Cumali Ayçiçek@|Şehit M. Tevfik Kanoğlu@|Şehit Muhammet Şeremet@
+67964	Gündoğan Köyü, Berha Mevkii	Berha=
+67967	Gündoğan Köyü, Gençler Mevkii	Gençler=
+67963	Gündoğan Köyü, Kanoğlu Mevkii	Kanoğlu=
+67960	Gündoğan Köyü, Kuleciler Mevkii	Kuleciler=
+67961	Gündoğan Köyü, Oğuzlar Mevkii	Oğuzlar=
+67965	Gündoğan Köyü, Yıldızlar Mevkii	Yıldızlar=
+67962	Gündoğan Köyü, Zumadi Mevkii	Zumadi=
+67966	Gündoğan Köyü, Çelikler Mevkii	Çelikler=
+67968	Güney Köyü, Akarsu Mevkii	Akarsu=
+67969	Güney Köyü, Düz Mevkii	Düz=
+67973	Güney Köyü, Karşıyaka Mevkii	Karşıyaka=
+67972	Güney Köyü, Sırt Mevkii	Sırt=
+67971	Güney Köyü, Çukurlar Mevkii	Çukurlar=
+67974	Hoşdere Köyü	Hoşdere=
+183764	Işıklı Mah.	Ardeşen Karadeniz Sahil Yolu@|Cami-~|Duatepe Altıntepe=|Gültepe 1~|Gültepe 2~|Gültepe 3~|Gültepe 4~|Gültepe~|Işıklı Cami~|Karadeniz Sahil Yolu-@|Merkez_2~|Seydioğlu 1~|Seydioğlu 2~|Seydioğlu 3~|Seydioğlu~|Yayla=|Çiçekli~|Çiçekli1~|Çiçekli2~|Çiçekli3~
+61344	Kahveciler Mah.	Cami=|Kahveciler=|Yayla=|Şentepe=
+61345	Kavaklıdere Mah.	Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Kahveciler=|Kavaklıdere=|Çiftekavak=
+140127	Kaçkar Köyü, Dereiçi Mevkii	Dereiçi=
+140129	Kaçkar Köyü, Erikli Mevkii	Erikli=
+140131	Kaçkar Köyü, Güneşli Mevkii	Güneşli=
+68064	Kaçkar Köyü, Köyün Kendisi Mevkii	Kaçkar=
+140133	Kaçkar Köyü, Şelale Mevkii	Şelale=
+67985	Kirazlık Köyü	Kirazlık=
+183766	Konaktepe Mah.	Ardeşen Karadeniz Sahil Yolu@|Işıklı Cami~|Karadeniz Sahil Yolu1~|Köprübaşı~|Köprübaşı1~|Köprübaşı2~|Köprübaşı3~|Köprübaşı4~|Köprübaşı5~|Meyvalı~|Meyvalı1~|Meyvalı2~|Sahil Yolu-@|Yeniay~|Yeniay.~|Yeniay./1~|Yeniay1~|Yeniay2~|Çıraklar~|Çıraklar1~|Çıraklar2~|Çıraklar3~
+67990	Kurtuluş Köyü	Köyün Kendisi=
+61346	Kuzey Mah.	Cami=|Kuzey=
+67987	Köprüköy Köyü, Gulivat Mevkii	Gulivat=
+67988	Köprüköy Köyü, Kalayizeni Mevkii	Kalayizeni=
+67989	Köprüköy Köyü, Köprübaşı Mevkii	Köprübaşı=
+67986	Köprüköy Köyü, Merkez Mevkii	Merkez=
+67993	Küçükköy Köyü, Cami Mevkii	Cami=
+67991	Küçükköy Köyü, Güneli Mevkii	Güneli=
+67992	Küçükköy Köyü, Merkez Mevkii	Merkez=
+67994	Küçükköy Köyü, Yeni Mevkii	Yeni=
+67995	Küçükköy Köyü, İncirdip Mevkii	İncirdip=
+67998	Manganez Köyü, Alt Mevkii	Alt=
+67997	Manganez Köyü, Düz Mevkii	Düz=
+67996	Manganez Köyü, Üst Mevkii	Üst=
+61347	Merkez Mah.	Akşemsettin@|Ali Yılmaztürk~|Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Cumhuriyet@|Doğu~|Dr.hüsnü Atabey~|Dr.nizamettin Alemdar@|Elif@|Ergünler~|Güney@|Hasan Atabey@|Hurriyet@|Issızdere=|Kahveciler=|Kahyalar=|Kordon@|Mehmet Kabaoğlu@|Merkez=|Merkez Mahalle Giriş@|Merkez Tekeşinler1~|Muhammet Kabaoğlu@|Rutin~|Rıza Güney~|Sahil_1@|Saraloğlu Ali Efendi~|Tekeşinler=|Tekeşinler_1~|Yeni Cami Önü~|Yeni=|Çiğdem~|Öğretmen Faik Bodur~|Öğretmen Nuri Kıralioğlu~|Üstoğlu=|Şentepe=
+61348	Müftü Mah.	Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Müftü 1=|Müftü 2 Enderoğlu=|Müftü 3=|Öğretmen Rasim Ayan@|Şehit Osman Kulaber-~
+68005	Ortaalan Köyü, Ali Efendi Mevkii	Ali Efendi=
+68002	Ortaalan Köyü, Aşağı Mevkii	Aşağı=
+68006	Ortaalan Köyü, Bağukuçhe Mezrası	Bağukuche=
+67999	Ortaalan Köyü, Cennet Mevkii	Cennet=
+68004	Ortaalan Köyü, Esentepe Mevkii	Esentepe=
+68007	Ortaalan Köyü, Korzati Mezrası	Korzati=
+68000	Ortaalan Köyü, Merkez Mevkii	Merkez=
+68008	Ortaalan Köyü, Shemrona Mezrası	Shemrona=
+68003	Ortaalan Köyü, Suluzeni Mevkii	Suluzeni=
+68001	Ortaalan Köyü, Yukarı Mevkii	Yukarı=
+68021	Pirinçlik Köyü, Düz Mevkii	Düz=
+68022	Pirinçlik Köyü, Haşimoğlu Mevkii	Haşimoğlu=
+68019	Pirinçlik Köyü, Koda Mevkii	Koda=
+68023	Pirinçlik Köyü, Kulaberler Mevkii	Kulaberler=
+68020	Pirinçlik Köyü, Sırt Mevkii	Sırt=
+68017	Pınarlı Köyü, Alt Mevkii	Alt=
+68018	Pınarlı Köyü, Bahar Mevkii	Bahar=
+68016	Pınarlı Köyü, Cami Mevkii	Cami=
+68015	Pınarlı Köyü, Merkez Mevkii	Merkez=
+68014	Pınarlı Köyü, Üst Mevkii	Üst=
+68024	Serindere Köyü	Serindere=
+68026	Seslikaya Köyü, Baş Mevkii	Baş=
+68028	Seslikaya Köyü, Cami Mevkii	Cami=
+68029	Seslikaya Köyü, Düz Mevkii	Düz=
+68027	Seslikaya Köyü, Merkez Mevkii	Merkez=
+68025	Seslikaya Köyü, Orta Mevkii	Orta=
+68030	Seslikaya Köyü, Türbe Mevkii	Türbe=
+68032	Sinan Köyü, Dere Yeşil Mevkii	Dere Yeşil=
+68031	Sinan Köyü, Merkez Mevkii	Merkez=
+67983	Taşbaşı Mah.	Ardeşen Karadeniz Sahil Yolu@|Denizüstü~|Merkez_1~|Recep Dinçer~|Sahil Yolu-@|Taşbaşı Merkez 1~|Yayla=
+61352	Tunca Beldesi, Ada Mah.	Hasan Aytemiz~|Prf.dr. Rıfat Sami Ertekin@|Sandıkçılar 1~|Sandıkçılar 2~|Sandıkçılar 3~|Sandıkçılar 4~|Sandıkçılar 5~|Sandıkçılar~|Taş Pınar~
+139527	Tunca Beldesi, Düz Mah.	Cumhuriyet 1~|Hürriyet 3~|Hürriyet@|Hürriyet/2~|Hürriyet/4~|Hürriyet/5~|Mimar~|Nur~|Pınar~|Yavuz Selim/6~|Çolaklar~|Çolaklar/1~|Çolaklar/2~
+61353	Tunca Beldesi, Esentepe Mah.	Cumhuriyet@|Gül~|Huzur~|Hürriyet@|Mevlana 2~|Mevlana~|Mimar Sinan 2~
+61354	Tunca Beldesi, Konak Mah.	Ataseven~|Aytemiz~|Birlik~|Birlik/2~|Cumhuriyet 1~|Hürriyet@|Yavuz Selim@|Yavuz Selim/3~|Yavuz Selim/4~|Yavuz Selim/5~|Yavuz Selim/6~|Yavuz Selim/7~|Yavuz Selim/8~|Yeşil Vadi~|Yeşil Vadi/6~|Yeşiltepe~|Şehit Cumali Ayçiçek~
+61355	Tunca Beldesi, Merkez Mah.	111~|Aşağı Beyaz Su~|Cami~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet@|Değirmen Dere~|Doğa Vadi~|Erdoğan~|Fatih Sultan Mehmet~|Hürriyet 2~|Hürriyet@|Ilıca~|Karşı Yaka~|Kurtuluş~|Kızılay~|Mimar Sinan@|Nur~|Prf.dr. Rıfat Sami Ertekin@|Sarmaşık~|Taş Pınar~|Umut~|Yeşildere@|Yeşildere1~|Yeşildere2~|Yokuş~|Yokuş1~|Yukarı Beyaz Su 4~|Yukarı Beyaz Su~|Yılmaz~|Ziya Şeker~
+100027	Tunca Beldesi, Orta Mah.	Cumhuriyet 1~|Cumhuriyet 4~|Cumhuriyet 5~|Cumhuriyet@|Kumbasarlar 2~|Kumbasarlar~|Kumbasarlar/1~|Mehmet Akif Ersoy~|Prf.dr. Rıfat Sami Ertekin@|Yeşil Vadi~|Yeşil Vadi/1~|Yeşil Vadi/3~|Yeşil Vadi/4~|Yeşil Vadi/5~
+61356	Tunca Beldesi, Şenyuva Mah.	Bayrak 3~|Bayrak~|Cevizlik~|Doğan Yuvası~|Erzurum~|Hürriyet@|Mevlana~|Mimar Sinan 1~|Mimar Sinan 2~|Mimar Sinan@|Çakırlar 1~|Çakırlar~
+68048	Yamaçdere Köyü, Cami Mevkii	Cami=
+68049	Yamaçdere Köyü, Canca Mevkii	Canca=
+68046	Yamaçdere Köyü, Düz Mevkii	Düz=
+68050	Yamaçdere Köyü, Kurtgözlü Mevkii	Kurtgözlü=
+68047	Yamaçdere Köyü, Orta Mevkii	Orta=
+68053	Yavuz Köyü, Bahar Mevkii	Bahar=
+68052	Yavuz Köyü, Cami Mevkii	Cami=
+68054	Yavuz Köyü, Dere Mevkii	Dere=
+68051	Yavuz Köyü, Orta Mevkii	Orta=
+99491	Yavuz Selim Mah.	Afyon Baba~|Ahmer@|Atatürk@|Atatürk/5~|Bahçe~|Devran~|Doğatepe~|Doğatepe1~|Doğu Türkistan@|Fatih%|Fatih/1~|Fatih/2~|Fevzi Çakmak@|Fevzi Çakmak3~|Filistin~|Fırat~|Gazi Mustafa -~|Göktürk~|Gölcük@|Hendek~|Hikmet~|Kalem~|Kanuni~|Karadeniz@|Kaynaşlı~|Kazım Karabekir%|Kudüs~|Menderes 1~|Menderes 2~|Menderes@|Menderes3~|Mimar Sinan@|Mimar Sinan2~|Nira~|Sakarya@|Turgut Özal%|Vahdet~|Vatan@|Yarbay Cevat Sütlüoğlu@|Yavuz Selim@|Yavuz Selim2~|İnönü@|İnönü/1~|İstanbul~|Şehit Ekrem Okutan@|Şehit Kadir Sual@|Şehit Kadir Sual1~|Şehit Muhammet Şeremet@|Şehit Muhammet Şeremet20~
+61351	Yayla Mah.	Ardeşen Karadeniz Sahil Yolu@|Müftü 1=|Yayla=
+61350	Yeni Mah.	Akşemsettin@|Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Beşlioğlu=|Dr.gazi Yaşargil~|Dr.hüsnü Atabey~|Hasan Atabey@|Merkez=|Sahil_1@|Sütçü İmam~|Yeni=
+68057	Yeniköy Köyü, Cami Mevkii	Cami=
+68059	Yeniköy Köyü, Demirata Mevkii	Demirata=
+68058	Yeniköy Köyü, Merkez Mevkii	Merkez=
+68056	Yeniköy Köyü, Tutan Mevkii	Tutan=
+68055	Yeniköy Köyü, Üst Mevkii	Üst=
+68060	Yeniyol Köyü, Deniz Mevkii	Deniz=
+68061	Yeniyol Köyü, Yukarki Mevkii	Yukarki=
+68062	Yeniyol Köyü, Şefkibey Mevkii	Şefki Bey=
+68079	Yeşiltepe Köyü, Düz Mevkii	
+68077	Yeşiltepe Köyü, Karşı Mevkii	Karşı=
+68075	Yeşiltepe Köyü, Merkez Mevkii	Merkez=
+68078	Yeşiltepe Köyü, Mezra Mevkii	Mezra=
+68076	Yeşiltepe Köyü, Orta Mevkii	Orta=
+68065	Yukarıdurak Köyü, Büyük Mevkii	Büyük=
+68069	Yurtsever Köyü, Güney Mevkii	Güney=
+68067	Yurtsever Köyü, Merkez Mevkii	Yurtsever Merkez=
+68070	Yurtsever Köyü, Okumuşlar Mevkii	Okumuşlar=
+68068	Yurtsever Köyü, Çamlık Mevkii	Çamlık=
+68071	Zeytinlik Köyü	Zeytinlik=
+61339	Çiftekavak Mah.	Ardeşen Karadeniz Sahil Yolu@|Atatürk@|Karadeniz Sahil Yolu/1@|Çiftekavak=|Öğretmen Rasim Ayan@
+68073	Çıraklar Köyü, Açıkmeşe Mevkii	Açıkmeşe=
+68074	Çıraklar Köyü, Denizli Mevkii	Denizli=
+68072	Çıraklar Köyü, Çıraklar Mevkii	Çıraklar=
+139506	Önder Köyü	Önder=
+68063	Önder Köyü, Kayabaşı Mevkii	Kayabaşı=
+68011	Özgür Köyü, Cinizeni Mevkii	Cinizeni=
+68013	Özgür Köyü, Merkez Mevkii	Merkez=
+68009	Özgür Köyü, Nızamoğlu Mevkii	Nızamoğlu=
+68010	Özgür Köyü, Sırt Mevkii	Sırt=
+68012	Özgür Köyü, İsina Mevkii	İsina=
+68034	Şehitlik Köyü, Cami Altı Mevkii	Cami Altı=
+68033	Şehitlik Köyü, Cami Üstü Mevkii	Cami Üstü=
+68035	Şehitlik Köyü, Dere Mevkii	Dere=
+68038	Şendere Köyü, Aşağı Mevkii	Aşağı=
+68037	Şendere Köyü, Orta Mevkii	Orta=
+68036	Şendere Köyü, Yukarı Mevkii	Yukarı=
+61349	Şentepe Mah.	Kahveciler=|Şentepe=
+68040	Şenyamaç Köyü, Baş Mevkii	Baş=
+68039	Şenyamaç Köyü, Cami Mevkii	Cami=
+68041	Şenyamaç Köyü, Dere Mevkii	Dere=
+68042	Şenyamaç Köyü, Yeni Mevkii	Yeni=
+68045	Şenyurt Köyü, Arka Mevkii	Arka=
+68043	Şenyurt Köyü, Merkez Mevkii	Merkez=
+68044	Şenyurt Köyü, Sahil Mevkii	Sahil=

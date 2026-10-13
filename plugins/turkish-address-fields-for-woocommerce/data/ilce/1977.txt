@@ -1,0 +1,15 @@
+29464	Avcıçayırı Köyü	Avcıçayır=
+29463	Ağamçağam Köyü	Ağamçağam=
+29462	Ağamçağam Köyü, Mezra Mezrası	Mezra=
+29465	Boğazlı Köyü	Boğazlı=
+21569	Fatih Mah.	15 Temmuz Şehitler Myd.|Akkoyunlar~|Albayrak~|Bayındır~|Bülbül~|Camii@|Hükümet@|Hıdırellez~|Kazım Karabekir~|Kule~|Tek~|Öztürkler~|İsimsiz 13~|İsimsiz 15~|İsimsiz 16~|İsimsiz 2~|İsimsiz 21~|İsimsiz 25~|İsimsiz 26~|İstiklal~|Şahin~|Şehit Emsal~
+29466	Karadivan Köyü	Karadivan=
+29467	Küçükotlukbeli Köyü	Küçükotlukbeli=
+21567	Mehmet Akif Ersoy Mah.	Arslan~|Güneyler~|Hastane~|Kale~|Lise~|Pınar Deresi~|Sanayii=|Selçuklu~|Uygarlar~|Yavuz~|Yeni Mezarlık~|Yeniyol1~|Yeniyol2~|Yeniyol3~|Çınar Dibi~|İsimsiz 18~|İsimsiz 19~|İsimsiz 20~|İsimsiz 21~|İsimsiz 23~|İsimsiz 26~|Şendere~
+29469	Söğütlü Köyü	Söğütlü=
+29470	Söğütlü Köyü, Mezra Mezrası	Mezra=
+29471	Umurlu Köyü	Umurlu=
+29472	Yeniköy Köyü	Yeniköy=
+29473	Yeşilbük Köyü	Yeşilbük=
+29468	Ördekhacı Köyü	Ördekhacı=
+21568	Şehitler Mah.	Akşemseddin~|Büyükler=|Camii@|Gökkayak Su Deposu=|Göktürkler~|Hükümet@|Karagüney=|Kavaklıdere~|Osmanlı~|Osmanlı/1~|Oğuzlar~|Tekesor=|Yunus Emre~|Yunus Emre/1~|Çalışkan~|Çiflik=|Çiflik-=|İsimsiz 1=|İsimsiz 10~|İsimsiz 11~|İsimsiz 3~|İsimsiz 4~|İsimsiz 7~|İsimsiz 8~|İsimsiz 9~|Şehit Ünal Eroğlu@

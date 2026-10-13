@@ -1,0 +1,46 @@
+31580	Ayvalıpınar Köyü, Ayvapınarı Mevkii	Ayvapınarı=|Aşağıayvalı -~
+31583	Ayvalıpınar Köyü, Kuz Mevkii	Kuz Merkez Kümeevler~|Kuz~
+31582	Ayvalıpınar Köyü, Köprübaşı Mevkii	Aksu~|Bayır~|Bağlar 1~|Bağlar 2~|Bağlar~|Girne~|Gül~|Güven~|Hisar~|Kuz Mahalle Yolu~|Köprübaşı 1~|Köprübaşı 2~|Köprübaşı 3~|Köprübaşı 4~|Köprübaşı~|Kültür~|Mehtap~|Menderes~|Menderes-~|Pazar -~|Pazar 1~|Sülekler 1~|Sülekler 2~|Sülekler 3~|Sülekler~|Uğur~|Yıldız 1~|Yıldız-~|Çağlar~|Çeşme~
+31581	Ayvalıpınar Köyü, Çıraklar Mevkii	Mudar=|Nuhyeri=|Çıraklar=|Çıraklar-~
+31584	Ayvalıpınar Köyü, Öbektaş Mevkii	Kabakçılar~|Macarlar -~|Yeni Mahalle 1~|Yeni Mahalle 5~|Yenimahalle 2~|Yenimahalle 3~|Yenimahalle 4~|Yenimahalle~|Öbektaş 1.=|Öbektaş~
+39497	Aşağıyaylabel Köyü	Aşağıyaylabel=|Kızılbelen=
+31573	Başkoz Mah.	Arap Hüseyin~|Aşağı Pınarbaşı Hacı Ahmet Bilgi~|Başkoz 1~|Başkoz 2~|Başkoz 3~|Başkoz@|Fındık Çeşmesi 1~|Fındık Çeşmesi~|Haydar Şavkan@|Ortakoz~|Tekke~|Yukarı Baskoz 1~|Yukarı Baskoz 2~|Yukarı Baskoz~|Çıraklık 1~|Çıraklık@
+39477	Bekirağalar Köyü	Bekirağalar=
+31574	Belen Mah.	Belen 1~|Belen 2~|Belen 3~|Belen 4~|Belen 5~|Belen 6~|Belen 7~|Belen 8~|Belen@|Kızılkuşak=|Çukurtarla 1~|Çukurtarla 2~|Çukurtarla 3~|Çukurtarla~
+39478	Belence Köyü	Belence=
+39479	Beydili Köyü	Beydili=
+31575	Birlik Mah.	Ardıçlı Tarla 1~|Ardıçlı Tarla 2~|Ardıçlı Tarla@|Atatürk 2~|Atatürk@|Bilinmeyen 1~|Bılınmeyen Yol~|Kepez 1~|Kocatepe~|Köysandığı~|Melek Mualla Gürakın~|Murat Kızıl~|Mustafa Gürakın~|Taşpınar~|Toki Evleri~|Çızılen Yol~|İlbey 2~|İlbey 3~|İlbey~
+39480	Boğazköy Köyü	Boğazköy=
+39498	Bucakdere Köyü	Bucak Dere=|İncedere=
+31576	Cami Mah.	Ahmetbey@|Ali Molla~|Atatürk 1~|Atatürk@|Cumhuriyet Myd.|Doğancılar@|Efe~|Efe1~|Hakan Ayhan~|Hamam 1~|Hamam~|Hüseyin Şükrü Özsüt Köşlübağ@|Okçu Çeşme~|Toros 1~|Toros~|Çatalçeşme~|İmam Hatip~|İnbaşı~|Şallılar~
+39500	Darıbükü Köyü	Darıbükü=|Güney=|Çürükbelen=|İncedere=
+31577	Erenler Mah.	Ahmetbey 1~|Ahmetbey@|Ali Molla~|Aşağı Pınar 1~|Aşağı Pınar 2~|Aşağı Pınar 3~|Aşağı Pınar 4~|Aşağı Pınarbaşı Hacı Ahmet Bilgi~|Bilinmeyen Yol1~|Değirmenyolu 1~|Değirmenyolu 2~|Değirmenyolu 3~|Değirmenyolu 4~|Değirmenyolu~|Doğancılar@|Efe~|Efe1~|Gaziler~|Müezzinler~|Müftüler~|Tekke~|Yamaç~|Çatalçeşme~|Çetin Şentürk 1~|Çetin Şentürk@|İnbaşı~
+39501	Güldallı Köyü	Güldallı=
+39483	Gümü Köyü	Gümü=
+39484	Hacıahmetler Köyü	Hacıahmetler=
+39485	Hacıaliler Köyü	Hacıaliler=|Pınarköy=
+39486	Karadiken Köyü	Karadiken=|Yeşilyurt=
+31585	Kasımlar Köyü, Camii Mevkii	Bük~|Cami=|Camii 1=|Değirmen~|Fındık~|Havlu Kapı~|Kızlaralanı~|Mezar Üstü~|Sağlık Ocağı~|Solmaz~|Veli Dikyar~|Çaltılı~|Çaltılı-~
+31587	Kasımlar Köyü, Güney Mevkii	Gökmehmetler~|Güney=|Işıl 1~|Işıl~|Kardutlar~|Karşıyaka~|Kocabelen~|Kızılağaç 1~|Kızılağaç~|Mezar Üstü~|Sağlık Ocağı~|Seki~|Siyasi~|Solmaz~|Veli Dikyar~|Zengin~
+31586	Kasımlar Köyü, Çürük Belen Mevkii	Baltalar~|Bayramlar -~|Bayramlar~|Gökmehmetler~|Karşıyaka~|Kavakpınarı~|Kızlaralanı~|Mezar Altı~|Mezar Üstü~|Sovanlık~|Yalı 1~|Yalı~|Çörek~|Çürükbelen=
+31588	Kesme Köyü, Cami Mevkii	Akkulak~|Bayam~|Cumhuriyet 4~|Cumhuriyet2~|Değirmen~|Girne~|Yukarı~|Çamaltı 1~|Çamaltı~|Çevre Yolu~|Çökek=
+31590	Kesme Köyü, Derindere Mevkii	Derindere=|Girne 1~|Girne~|Haytalar 1~|Haytalar 3~|Haytalar~|Karagöz~|Olukaltı 1~|Olukaltı~|Çevre Yolu~
+31591	Kesme Köyü, Kızılbelen Mevkii	Bayam 1~|Bayam~|Belediye~|Cumhuriyet 3~|Cumhuriyet 4~|Cumhuriyet-~|Cumhuriyet2~|Doğancılar~|Girne~|Gölcük~|Karagöz~|Kızılbelen=|Musalar Çıkmazı~|Çevre Yolu~
+31589	Kesme Köyü, Çökek Mevkii	Girne~|Karani~|Piynaryaka 1~|Piynaryaka~|Çökek=|Çıkmaz~|Şamyaka 1~|Şamyaka 2~|Şamyaka 3~|Şamyaka~
+39487	Kuzca Köyü	Kuzca=
+39488	Melikler Köyü	Melikler=
+39489	Müezzinler Köyü	Boğazköy=|Müezzinler=
+39490	Pınarköy Köyü	Pınarköy=
+39492	Saray Köyü	Hacıahmetler=|Saray=
+39493	Sarımehmetler Köyü	Sarımehmetler=
+39491	Sağrak Köyü	Sağrak=
+39495	Yeniköy Köyü	Kuzca=|Sağrak=|Yeniköy=
+31578	Yeşildere Mah.	Değirmenderesi 1~|Değirmenderesi~|Koca Tarla 1~|Koca Tarla 2~|Koca Tarla~|Kocatepe Hastane 1~|Kocatepe Hastane@|Köy Yolu~|Yeşildere~
+39496	Yeşilyurt Köyü	Karadiken=|Yeşilyurt=|Çandır=
+31579	Yukarı Mah.	Atatürk@|Camii~|Değirmenciler~|Dokumacılar~|Efe1~|Hakan Ayhan~|Hüseyin Şükrü Özsüt Köşlübağ@|Kaldırım 1~|Kaldırım~|Kepez 1~|Kepez~|Kerimler Çıkmazı~|Kocatepe Hastane 2~|Kocatepe Hastane@|Kocatepe Hastane Çıkmazı 1~|Kocatepe Hastane Çıkmazı 2~|Kocatepe Hastane Çıkmazı 3~|Kocatepe~|Muratlar~|Olukbaşı 1~|Olukbaşı~|Poyraz~|Toros 1~|Toros~|İmam Hatip~|Şişlioğlu 1~|Şişlioğlu 2~|Şişlioğlu 3~|Şişlioğlu 4~|Şişlioğlu 5~|Şişlioğlu 6~|Şişlioğlu 7~|Şişlioğlu 8~|Şişlioğlu~
+39481	Çandır Köyü	Çandır=|Şehler=
+39482	Çobanisa Köyü	Hacıaliler 1=|Hacıaliler=|Pınarköy=|Çobanisa=
+39499	Çukurca Köyü	Çukurca=
+39502	İbişler Köyü	Cami=|Çürükbelen=|İbişler=
+39503	İncedere Köyü	-~|Güney=|İncedere=
+39494	Şehler Köyü	Şehler=

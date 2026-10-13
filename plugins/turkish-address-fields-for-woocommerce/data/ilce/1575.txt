@@ -1,0 +1,67 @@
+70189	Aydın Mah.	Atatürk@|Aydınlık~|Aydınlık1~|Aydınlık2~|Aydınlık3~|Aydınlık4~|Aydınlık5~|Aydınlık6~|Bahçelievler~|Baykal@|Beyazıt@|Beyazıt1@|Beyazıt2@|Beyazıt4~|Beyazıt5~|Beyazıt6~|Beyazıt7~|Cezaevi@|Cumhuriyet@|Değirmen~|Değirmen1~|Emniyet@|Halk Konutları~|Hükümet@|Kale~|Kale Çıkmazı~|Kaya~|Lise@|Mısır@|Nergiz~|Nergiz2~|Nergiz3~|Nergiz4~|Nergiz5~|Onuk~|Umay~|Çınar@|Özcan~|Özer~|Özer1~|Özer10~|Özer2~|Özer3~|Özer4~|Özer5~|Özer6~|Özer7~|Özer8~|Özer9~|Şafak~|Şafak1~|Şehit Turgut Sevinç~|Şehit Turgut Sevinç1~|Şehitlik~|Şen~|Şenyuva~
+74175	Ayvalıbağ Köyü	Ayvalıbağ=|Aşağıayvalıbağ=
+74173	Ayvalıbağ Köyü, Aşağıayvalıbağ Mezrası	Aşağıayvalıbağ=
+74174	Ayvalıbağ Köyü, Yukarıayvalıbağ Mezrası	Yukarıayvalıbağ=
+74171	Aşağıbalcılar Köyü	Aşağıbalcılar=
+74172	Aşağıbalcılar Köyü, Aşağıayvalıbağ Mezrası	Aşağıayvalıbağ=
+74176	Belenoluk Köyü	Belenoluk=
+74177	Bentköy Köyü	Bentköy=
+70192	Beğendik Beldesi, Gazi Mah.	Abas Deresi=|Abas Deresi1=|Cumhuriyet@|Cumhuriyet Sokak2~|Cumhuriyet/1@|Cumhuriyet/2@|Cumhuriyet/5@|Cumhuriyet1~|Cumhuriyet3@|Ptt~|Ptt1~|Ptt2~|Sökmen=|Sökmen1=|Sökmen2=|Sökmen3=|Yayla~|Yayla1~
+70193	Beğendik Beldesi, Kale Mah.	Dağ~|Kopru/1@|Köprü@|Sahut=|Tepe~|Tepe1~|Tepe2~|Tepe3~|Tepe4~
+74183	Dolusalkım Köyü	Dolusalkım=
+74184	Dolusalkım Köyü, Nurs Mezrası	Nurs=
+74218	Doğanca Köyü	Doğanca=
+74219	Doğanca Köyü, Sığırlı Mezrası	Sığırlı=
+74182	Doğanköy Köyü	Doğanköy=
+181590	Doğanköy Köyü, Karamik Mevkii	Karamik=
+74217	Düğüncüler Köyü	Düğüncüler=
+74212	Düğüncüler Köyü, Ormancık Mevkii	Ormancık=
+74186	Ekindüzü Köyü	Ekindüzü=
+74185	Ekindüzü Köyü, Yukarıekindüzü Mezrası	Yukarıekindüzü=
+140126	Erkent Köyü, Köyün Kendisi Mevkii	Erkent=
+74220	Erkent Köyü, Sığırlı Mezrası	Sığırlı=
+74187	Gökbudak Köyü	Gökbudak=
+74189	Gökçekoru Köyü	Gökçekoru=
+74191	Gökçekoru Köyü, Gökbel Mezrası	Gökbel=
+74190	Gökçekoru Köyü, Gölköy Mezrası	Gölköy=
+74188	Gökçekoru Köyü, Kubik Mezrası	Kubik=
+74192	Gölgeli Köyü	Gölgeli=
+74193	Güleçler Köyü	Güleçler=
+74194	Güleçler Köyü, Pınarbaşı Mevkii	Pınarbaşı=
+74195	Gümüşören Köyü	Gümüşören=
+74197	Gümüşören Köyü, Sarı Çıçek Mezrası	Sarıçiçek=
+74196	Gümüşören Köyü, Ulupınar Mezrası	Ulupınar=
+74221	Karasungur Köyü	Karasungur=
+98802	Karşıkaya Köyü, Berkevir Mevkii	Berkevir=
+74204	Karşıkaya Köyü, Gözlükuyu Mevkii	Gözlükuyu=
+74203	Karşıkaya Köyü, Karşıkaya (köy Merkezi) Mevkii	Karşıkaya=
+98290	Keskin Köyü	Keskin=
+74198	Kocaçavuş Köyü	Kocaçavuş=
+74222	Köprüçay Köyü	Köprüçay=
+74223	Köprüçay Köyü, Kiverik Mevkii	Kiverek=
+98408	Kışlacık Köyü	Kışlacık=
+74199	Narsuyu Köyü	Narsuyu=
+74200	Ormandalı Köyü	Ormandalı=
+74226	Palamutlu Köyü	Köyün Kendisi=
+74225	Palamutlu Köyü, Umurlu Mezrası	Okul=|Umurlu=
+198007	Palamutlu Köyü, Yazıcık Mevkii	Yazıcık=
+74201	Sarıdam Köyü	Sarıdam=
+74202	Sarıdam Köyü, Sökmen Mezrası	Sökmen=
+74205	Sarıyaprak Köyü	Sarıyaprak=
+140089	Sarıyaprak Köyü, Karadayı Mevkii	Karadayı=
+74206	Söğütönü Köyü	Söğütönü=
+74207	Taşdibek Köyü	Taşdibek=
+74227	Tosuntarla Köyü	Tosuntarla=
+74208	Tuzcular Köyü	Tuzcular=
+74209	Tuzcular Köyü, Beşan Mezrası	Beşan=
+74214	Yapraktepe Köyü	Yapraktepe=
+74211	Yapraktepe Köyü, Gözlükuyu Mezrası	Gözlükuyu=
+74213	Yapraktepe Köyü, Güzelbağ Mezrası	Güzelbağ=
+74215	Yeniaydın Köyü	Yeniaydın=
+74216	Yukarıbalcılar Köyü	Yukarıbalcılar=
+74178	Çatköy Köyü	Çatköy=
+74179	Çavuşlu Köyü	Çavuşlu=
+74180	Çobanören Köyü	Çobanören=
+74181	Çukurköy Köyü	Çukurköy=
+74210	Üçoyuk Köyü	Üçoyuk=
+70191	Şakiran Mah.	Bahçe~|Balcılar@|Balcılar1@|Batur~|Batur1~|Beyazıt8@|Beyazıt8/1~|Beytekin~|Beytekin1~|Cezaevi@|Cumhuriyet@|Doğan@|Doğan_1@|Gül~|Gül/2~|Gül_1~|Güler~|Güler1~|Güneş~|Kale~|Lale~|Nergiz~|Nergiz1~|Yayla~|Yıldız~|Çeşmebaşı~|İ.hakkı Develi~|İ.hakkı Develi1~

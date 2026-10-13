@@ -1,0 +1,204 @@
+70337	Abuçimen Mah.	Atatürk@|Dalokay~|Edison~|Hastahane@|Metin Altıok@|Naci Demirağ@|Saray~|Tünel~
+76678	Adatepe Köyü	 Köy$
+70338	Ahmetpaşa Mah.	Ahize~|Atatürk@|Bahriye Üçok@|Ceren~|Cingöz~|Damga~|Dağyolu~|Defile~|Derece~|Destan~|Duru~|Havza~|Hayat~|Hürriyet~|Ilıca~|Ilıman~|Kaygusuz~|Meşale~|Nuri Demirağ@|Pulur~|Sabır~|Sait Kozoğlu@|Sude~|Yasemin~|Yeşillik~
+76734	Akbaba Köyü	 Köy$
+76594	Akmeşe Köyü	 Köy$
+76595	Akpelit Köyü	 Köy$
+70339	Arhusu Mah.	Akkor~|Aluç~|Amaç~|Arhusu@|Asır~|Atatürk@|Atık~|Aşiyan~|Bahçe~|Balsu~|Bamya~|Begonya~|Besteci~|Beştepe~|Carinna Cuanna@|Cennet~|Demirli~|Dere İçi~|Dost~|Görüş~|Gül Çiçek~|Hazine~|Hazırlık~|Hekim~|Ilımlı~|Karanfil~|Kirazlı~|Menekşe~|Mimar~|Papatya~|Prof.muammer Aksoy@|Serap~|Tepe~|Yay~|Yayla~|Yunus Emre@|Çilek~|Çini~|İmge~|İstiklal~|İtibar~
+76658	Arıkbaşı Köyü	 Köy$
+76660	Atmalıoğlu Köyü	 Köy$
+76596	Avşarcık Köyü	 Köy$
+76659	Ağaçlıgöl Köyü	 Köy$
+70340	Aşağıhamam Mah.	Atatürk@|Cedit Paşa@|Maarif~|Necdet Sakaoğlu~|Prof.dr.mahir Tevrüz~|Taşbaşı~|İşçi~
+76717	Bahtiyar Köyü	 Köy$
+76597	Bahçeli Köyü	 Köy$
+76735	Balova Köyü	 Köy$
+76661	Bayırlı Köyü	 Köy$
+76663	Bayırlı Köyü, Ağcadam Mezrası	 Köy$
+76662	Bayırlı Köyü, Başmuhtar Mezrası	 Köy$
+76598	Bayırüstü Köyü	 Köy$
+76736	Başören Köyü	 Köy$
+76664	Beldibi Köyü	 Köy$
+76665	Beldibi Köyü, Konak Mezrası	 Köy$
+76666	Beyköy Köyü	 Köy$
+70341	Ceditpaşa Mah.	Adem Yavuz~|Asım Bezirci@|Atatürk@|Cedit Paşa@|Cenk~|Dr.mustafa Yeğin~|Gülender Akça~|Gülsüm Karababa~|Handan Metin~|Kaynarca~|Maarif~|Pir Sultan@|Tarlabaşı~|Çavuş~|Çitil~
+70342	Demirdağ Mah.	Atatürk@|Emekçiler@|Er~|Madenciler@|Meryem Şimşek~|Pansiyon~|Rüzgar~|Uğur Mumcu@|İnönü@
+76602	Derimli Köyü	 Köy$
+76603	Derimli Köyü, Körküsü Mezrası	 Köy$
+76739	Dikmeçay Köyü	 Köy$
+76740	Diktaş Köyü	 Köy$
+70343	Dillioğlu Mah.	Albüm~|Cedit Paşa@|Celdek~|Demet~|Kaynarca~|Mehmet Atay~|Selçuk~|Şehit Kubilay@
+76741	Dişbudak Köyü	 Köy$
+76604	Dumluca Köyü	 Köy$
+76605	Duruköy Köyü	 Köy$
+76606	Duruköy Köyü, Burmahan Mezrası	 Köy$
+76608	Ekinbaşı Köyü	 Köy$
+76609	Erikli Köyü	 Köy$
+76610	Erikli Köyü, Kozlu Mezrası	 Köy$
+76611	Eskibeyli Köyü	 Köy$
+76612	Eskibeyli Köyü, Güdge Mezrası	 Köy$
+76607	Eğrisu Köyü	 Köy$
+76676	Gedikbaşı Köyü	 Köy$
+76677	Gedikbaşı Köyü, Güvenli Mezrası	 Köy$
+76613	Gezey Köyü	 Köy$
+76718	Gökçebel Köyü	 Köy$
+70344	Gökçecamii Mah.	Cedit Paşa@|Hastahane@|Kültür~|Sancaktar~|Sağlık~|Tünel~|İbni Sina@
+76615	Gökçeharman Köyü	 Köy$
+76614	Gökçeharman Köyü, Keklikpınar Mezrası	 Köy$
+76742	Gölören Köyü	 Köy$
+76743	Gölören Köyü, Kaygısız Mevkii	 Köy$
+76719	Göndüren Köyü	 Köy$
+76616	Gözecik (merkez Bucağı) Köyü	 Köy$
+76744	Gözecik (sincan Bucağı) Köyü	 Köy$
+70345	Güllübağ Mah.	Acısu~|Adak~|Aday~|Adım~|Akasya~|Asım Bezirci@|Atatürk@|Ağaç~|Defne~|Dergah~|Durusu~|Ecenur~|Ecir~|Fener~|Fesleğen~|Fidan~|Fikir~|Fulya~|Garip Baba@|Garipbaba~|Gizem~|Gökkuşağı~|Gözde~|Güneş~|Hanife~|Hatem~|Hazin~|Jale~|Küme Evleri~|Menekşe~|Nergiz~|Pir Sultan@|Sağlam~|Serin~|Sümbül~|Özge~|İklim~|İleri~|İlhan~|İlim~|İlke~|İmar~|İncesu~|Şen~
+76745	Güllüce Köyü	 Köy$
+76746	Güllüce Köyü, Halilbey Mezrası	 Köy$
+76617	Günbahçe Köyü	 Köy$
+76621	Güneyevler Köyü	 Köy$
+76622	Güneyevler Köyü, Ahi Mezrası	 Köy$
+76618	Güneş Köyü	 Köy$
+76619	Güneş Köyü, Tekke Mezrası	 Köy$
+76620	Güneş Köyü, İstasyon Mezrası	 Köy$
+76623	Güresin Köyü	 Köy$
+76747	Gürpınar Köyü	 Köy$
+76624	Güvenkaya Köyü	 Köy$
+76626	Güvenkaya Köyü, Yılan Mezrası	 Köy$
+76625	Güvenkaya Köyü, Çartıl Mezrası	 Köy$
+70346	Hacıkumru Mah.	Afet~|Bahriye Üçok@|Kartal~|Kayalık~|Kumru~|Martı~|Su Deposu Yolu~|Sönmez~|Süslü~|Taşocağı~|Yaren~|Yiğit~|Zorlu~
+70347	Hacıosmanmescidi Mah.	Atatürk@|Can~|Cedit Paşa@|Maarif~|Prof.dr.mahir Tevrüz~|Sancaktar~|Tünel~|Çarşı~|Öğrenci~|İbni Sina@
+76669	Handere Köyü	 Köy$
+76627	Höbek Köyü	 Köy$
+70349	Kale Mah.	Ahu~|Akik~|Alaca~|Antik~|Arı~|Atatürk@|Bamteli~|Bağlar~|Beste~|Bilge~|Bilgi~|Dalokay~|Daracık~|Derviş~|Deva~|Dizdar~|Emek~|Esin~|Feza~|Fincan~|Goncagül~|Gölge~|Gürsu~|Havuz~|Hayber~|Hayrat~|Hazal~|Irgat~|Kekik~|Kenger~|Keven~|Metin Altıok@|Nevruz~|Reçber~|Sedir~|Tuğçe~|Uluçayır~|Umut~|Vişne~|Yakamoz~|Zümrüt~|Çiğdem~|Özgürlük~
+70350	Kalealtı Mah.	Bedesten~|Bekir Çavuş~|Canlar~|Kale Yolu~|Kubbe Dibi~|Kılavuz~|Naci Demirağ@|Santral~|Siddi Melik~|Sinaniye~|Ulu Cami@
+76698	Kaledibi Köyü	 Köy$
+76700	Kaledibi Köyü, Dam Mezrası	 Köy$
+76702	Kaledibi Köyü, Sağlık Mezrası	 Köy$
+76701	Kaledibi Köyü, Seyfedamı Mezrası	 Köy$
+76699	Kaledibi Köyü, Tipik Mezrası	 Köy$
+76630	Karaağaçlı Köyü	 Köy$
+76631	Karakale Köyü	 Köy$
+76633	Karakale Köyü, Apsal Mezrası	 Köy$
+76632	Karakale Köyü, Görgüren Mezrası	 Köy$
+76634	Karakuzulu Köyü	 Köy$
+139660	Karakuzulu Köyü, Hıdırlık Mevkii	 Köy$
+70351	Karamahmut Mah.	Albüm~|Arhusu@|Celdek~|Demet~|Sevgi~|Turan Dursun@|Yaprak~|Zerdali~|Şehit Kubilay@
+76752	Karaman Köyü	 Köy$
+76720	Karasar Köyü	 Köy$
+76721	Karasar Köyü, Karasarbeli Mezrası	 Köy$
+70352	Karayusuf Mah.	Aile~|Dere~|Dere Çay~|Dergi~|Duygu~|Gül~|Güvercin~|Hastahane@|Kültür~|Naci Demirağ@|Saray~|Yonca~|İzci~
+76670	Karşıkonak Köyü	 Köy$
+76723	Kavaklısu Köyü	 Köy$
+76722	Kavaklısu Köyü, Sütlüce Mezrası	 Köy$
+76635	Kayaburun Köyü	 Köy$
+183798	Kayacık Mah.	Ağar Kayacık=|Kayacık=|Özdemir=
+76753	Kekliktepe Köyü	 Köy$
+76754	Kekliktepe Köyü, Kışla Mezrası	 Köy$
+70353	Kemenkeş Mah.	Adil~|Bahriye Üçok@|Beltarla~|Canlar~|Danacı Sadık Özgür@|Iğımbat~|Kemenkeş~|Mezarlık~|Saatçi Yokuşu~|Sarp~|Sultan~|Ulu Cami@|Yağmur~
+76703	Kesme Köyü	 Köy$
+76639	Keçikaya Köyü	 Köy$
+70354	Kocapaşa Mah.	Atatürk@|Behçet Aysan~|Daracık~|Dolunay~|Ece~|Edison~|Emniyet~|Fen~|Gölge~|Metin Altıok@|Muhlis Akarsu~|Naci Demirağ@|Nesimi Çimen~|Nevruz~|Saray~
+76640	Kuluncak Köyü	 Köy$
+70356	Kültürlü Mah.	Aheste~|Cedit Paşa@|Celdek~|Genç~|Kadem~|Kafes~|Kültür~|Naci Demirağ@|Sağlık~|Turan Dursun@|Zinde~|Çalılık~|İtina~
+70355	Küçük Hüseyin Mah.	Aba~|Acar~|Aheste~|Ahmet Naci Akgün@|Arkı Kebir~|Açelya~|Cedit Paşa@|Dere~|Duygu~|Goncagül~|Naci Demirağ@|Turan Dursun@|Çalılık~
+76755	Kırkgöz Köyü	 Köy$
+76756	Kırkgöz Köyü, Akağıl Mezrası	 Köy$
+76724	Kızılcaören Köyü	 Köy$
+76725	Kızılcaören Köyü, Yünlüce Mezrası	 Köy$
+70357	Maden Mah.	Atatürk@
+76704	Madenli Köyü	 Köy$
+76705	Madenli Köyü, Ömerli Mezrası	 Köy$
+76641	Maltepe Köyü	 Köy$
+76643	Maltepe Köyü, Karaali Mezrası	 Köy$
+76642	Maltepe Köyü, Kutlu Mezrası	 Köy$
+70358	Mercantepe Mah.	Abdal Bayırı~|Ahmet Yesevi@|Akkiraz~|Atatürk@|Aşağı Hamam~|Boyalı Cami~|Cami Kebir@|Cami~|Dilekçe~|Huma Hatun~|Hürriyet~|Kale Yolu~|Kar~|Kasaplar~|Kızılay~|Manolya~|Mercantepe~|Meydan~|Naci Demirağ@|Nuri Demirağ@|Saatçi~|Sait Kozoğlu@|Siddi Melik~|Terziler~|Ticaret~|Tünel~|Ulu Cami@|Vatan~|Çimen~|Şemsi Bezirgan~
+76716	Mursal Köyü	 Köy$|Ali Kızıltuğ~
+76710	Mursal Köyü, Dişler Mezrası	 Köy$
+76713	Mursal Köyü, Karakaya Mezrası	 Köy$
+76714	Mursal Köyü, Mikail Mezrası	 Köy$
+76712	Mursal Köyü, Yuva Mezrası	 Köy$
+76711	Mursal Köyü, Çevirme Mezrası	 Köy$
+76715	Mursal Köyü, Çokmeşat Mezrası	 Köy$
+76645	Olukman Köyü	 Köy$
+76671	Ortaköy Köyü	 Köy$
+76757	Ovacık Köyü	 Köy$
+76646	Oyuktepe Köyü	 Köy$
+76644	Oğulbey Köyü	 Köy$
+183796	Purunsur Mah.	Purunsur=
+76672	Selimoğlu Köyü	 Köy$
+76732	Sincan Köyü	 Köy$
+76733	Sincan Köyü, Tortu Mezrası	 Köy$
+76648	Soğucak Köyü	 Köy$
+76768	Susuzlar Köyü	 Köy$
+76766	Susuzlar Köyü, Ahmetler Mezrası	 Köy$
+76764	Susuzlar Köyü, Derekaya Mezrası	 Köy$
+76765	Susuzlar Köyü, Güneştepe Mezrası	 Köy$
+76763	Susuzlar Köyü, Ilıca Mezrası	 Köy$
+76767	Susuzlar Köyü, Kımıllar Mezrası	 Köy$
+76762	Susuzlar Köyü, Tirollar Mezrası	 Köy$
+76728	Susuzören Köyü	 Köy$
+70359	Süleymanağa Mah.	Ada~|Alınteri~|Arhusu@|Asım Bezirci@|Cesur~|Güzide~|Hat~|Hatmi~|Hazin~|Hızma~|Ilık~|Kadayıf~|Kafiye~|Kanal~|Kanarya~|Mehmet Atay~|Menekşe~|Pir Sultan@|Sait Metin~|Ömür~|İlayda~|Şehit Kubilay@
+76761	Sırçalı Köyü	 Köy$
+76770	Tepehan Köyü	 Köy$
+76771	Tepehan Köyü, Acıgöz Mezrası	 Köy$
+76772	Tepehan Köyü, Karyağan Mezrası	 Köy$
+70360	Turabali Mah.	Afacan~|Ahali~|Ahenk~|Ahize~|Akarsu~|Asalet~|Atak~|Atatürk@|Ağıt~|Bademlik~|Bahriye Üçok@|Ceren~|Destan~|Divriği Arapgir Yolu@|Edip Önder@|Ferah~|Fide~|Güleryüz~|Gülpembe~|Harika~|Hayyam~|Helvacı~|Hemşehri~|Hülya Özgür@|Irmak~|Kader~|Kadife~|Kadim~|Kafile~|Kahve~|Kainat~|Kaldırım~|Kalp~|Kalpaklı~|Kalyan~|Kamer~|Kamu~|Kanaat~|Kanat~|Kaplıca~|Kaptan~|Karadut~|Karagül~|Keman~|Kurdeşen~|Kınalı~|Mecnun~|Meşale~|Mızıka~|Nuri Demirağ@|Pulur~|Su Perisi~|Susam~|Sülün~|Süs~|Taşocağı@|Turnalar~|Tülin~|Türkü~|Ulus~|Uğur Böceği~|Villa~|Yeni~|Yeşillik~|Yüzüncü Yıl~|Zülfikar~|İrem~|Şelale~|Şule~
+70361	Ulucamii Mah.	Bahriye Üçok@|Bekir Çavuş~|Canlar~|Danacı Sadık Özgür@|Emekçi~|Erdemli~|Güliş~|Güney~|Kalender~|Kayalık~|Kumru~|Sarp~|Ulu Cami@|Yiğit~
+76729	Uluçayır Köyü	 Köy$
+76649	Uzunbağ Köyü	 Köy$
+76650	Uzunbağ Köyü, Doğancık Mezrası	 Köy$
+76651	Uzunkaya Köyü	 Köy$
+76655	Yalnızsöğüt Köyü	 Köy$
+76654	Yalnızsöğüt Köyü, İnanlı Mezrası	 Köy$
+76656	Yazı Köyü	 Köy$
+76773	Yağbasan Köyü	 Köy$
+76731	Yerliçay Köyü	 Köy$
+76657	Yeşilyayla Köyü	 Köy$
+76673	Yeşilyol Köyü	 Köy$
+76674	Yeşilyol Köyü, Güçlü Mezrası	 Köy$
+76675	Yeşilyol Köyü, Hacıboşlar Mezrası	 Köy$
+76774	Yusufşeyh Köyü	 Köy$
+76775	Yuva Köyü	 Köy$
+76776	Yuva Köyü, Sarpan Mezrası	 Köy$
+70362	Zeliha Hatun Mah.	Asım Bezirci@|Cedit Paşa@|Gülsüm Karababa~|Kanarya~|Kaynarca~|Mehmet Atay~|Mevsim~|Pir Sultan@|Sait Metin~|Selçuk~|Simge~|Ömür~
+76667	Çakmakdüzü Köyü	 Köy$
+76737	Çakırağa Köyü	 Köy$
+76599	Çakırtarla Köyü	 Köy$
+76679	Çamlık Köyü	 Köy$
+76682	Çamlık Köyü, Doğan Mezrası	 Köy$
+76680	Çamlık Köyü, Topluca Mezrası	 Köy$
+76681	Çamlık Köyü, Çatılı Mezrası	 Köy$
+76738	Çamurlu Köyü	Köyün Kendisi Köy$
+76668	Çayören Köyü	 Köy$
+76683	Çayözü Köyü	 Köy$
+76688	Çayözü Köyü, Dolaçayı Mezrası	 Köy$
+76692	Çayözü Köyü, Hamuçimen Mezrası	 Köy$
+76685	Çayözü Köyü, Kahramanlar Mezrası	 Köy$
+76691	Çayözü Köyü, Kalederesi Mezrası	 Köy$
+76686	Çayözü Köyü, Kozluca Mezrası	 Köy$
+76690	Çayözü Köyü, Paşa Mezrası	 Köy$
+76684	Çayözü Köyü, Sağırtaş Mezrası	 Köy$
+76693	Çitme Köyü	 Köy$
+76592	Çiğdemli Köyü	 Köy$
+76593	Çiğdemli Köyü, Dazlak Mezrası	 Köy$
+76697	Çobandurağı Köyü	 Köy$
+182956	Çobandurağı Köyü, Karıklarağılı Mevkii	
+76696	Çobandurağı Köyü, Yeşilköy Mezrası	 Köy$
+76694	Çobandurağı Köyü, Zeynikler Mezrası	 Köy$
+76695	Çobandurağı Köyü, Çaltı Mezrası	 Köy$
+76600	Çukuröz Köyü	 Köy$
+76727	Ödek Köyü	 Köy$
+76726	Ödek Köyü, Türkali Mevkii	 Köy$
+76758	Ölçekli Köyü	 Köy$
+76759	Ölçekli Köyü, Özlüce Mezrası	 Köy$
+76760	Özbağı Köyü	 Köy$
+76730	Ürük Köyü	 Köy$
+76652	Üçpınar Köyü	 Köy$
+76653	Üçpınar Köyü, Çobanlı Mezrası	 Köy$
+76628	İkizbaşak Köyü	 Köy$
+70348	İmamoğlu Mah.	Abdal Bayırı~|Bahriye Üçok@|Bağyolu~|Dereboyu~|Derece~|Halk Ozanı Ali Kızıltuğ@|Hürriyet~|Iğımbat~|Kemenkeş~|Mezarlık~|Nuri Demirağ@|Saatçi Yokuşu~|Sait Kozoğlu@|Sultan~|Yasemin~|Üzümlü~
+76748	İmirhan Köyü	 Köy$
+76749	İmirhan Köyü, Tötük Mevkii	 Köy$
+76629	İnanlı Köyü	 Köy$
+76750	İncirlipınar Köyü	 Köy$
+76751	İncirlipınar Köyü, Ahmetören Mezrası	 Köy$
+76769	Şahinköy Köyü	 Köy$

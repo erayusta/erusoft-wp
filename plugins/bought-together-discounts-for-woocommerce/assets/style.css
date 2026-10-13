@@ -1,0 +1,12 @@
+.eru-btd-block{margin:1.5em 0;padding:1em;border:1px solid rgba(0,0,0,.15);border-radius:6px}
+.eru-btd-title{margin:0 0 .75em;font-size:1.1em}
+.eru-btd-items{list-style:none;margin:0 0 .75em;padding:0;display:flex;flex-direction:column;gap:.5em}
+.eru-btd-item{display:flex;align-items:center;gap:.75em}
+.eru-btd-item img{width:56px;height:56px;object-fit:cover;border-radius:4px;flex:none}
+.eru-btd-name{flex:1;min-width:0}
+.eru-btd-price{white-space:nowrap}
+.eru-btd-total{margin:0 0 .75em}
+.eru-btd-total del{opacity:.6;margin:0 .35em}
+.eru-btd-form{margin:0}
+@media (max-width:480px){.eru-btd-button{width:100%}}
+.eru-btd-button{cursor:pointer;padding:.7em 1.4em;border:0;border-radius:3px;background:#111;color:#fff;font:inherit}

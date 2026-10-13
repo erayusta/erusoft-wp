@@ -8,6 +8,12 @@
 //   --exclude <d> (repeatable, --dir mode only) skips the relative directory <d> inside the scanned path
 //   --strict     also requires the private plain-term list to be present
 //
+// Content-pinned data (tools/scrub-data-manifest.json, or $SCRUB_DATA_MANIFEST): a file whose path is listed
+//   AND whose sha256 matches the pinned hash skips ONLY the client-term rule; every pattern rule still runs.
+//   Paths match exactly (repo-relative, or relative to --dir) or, for extracted ZIPs, by the suffix after
+//   plugins/ or mu-plugins/ ("<slug>/data/…"). Any edit changes the hash and the file is fully scanned again.
+//   Re-pin after a deliberate data update with tools/pin-data.mjs (see docs/CONTRIBUTING.md).
+//
 // Term sources (the term list is private and is NEVER committed, not even as hashes):
 //   hashes:  $SCRUB_HASHES_FILE, else .private/scrub-hashes.txt  (one sha256 of a normalized term per line)
 //   plain:   $SCRUB_TERMS_FILE, else .private/scrub-terms.txt    (default mode, --strict, or SCRUB_PLAIN=1)
@@ -23,8 +29,10 @@ import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import { dirname, join, relative, resolve } from 'node:path';
 import { inflateSync } from 'node:zlib';
+import { createHash } from 'node:crypto';
 import { listTrackedFiles } from './lib/fsutil.mjs';
 import { scanText } from './lib/scrub-core.mjs';
+import { parseManifest } from './lib/scrub-manifest.mjs';
 
 const repoRoot = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const privateDir = join(repoRoot, '.private');
@@ -54,6 +62,36 @@ const identity = new Set((process.env.SCRUB_ALLOW_IDENTITY !== undefined
   ? process.env.SCRUB_ALLOW_IDENTITY.split(/[\n,]/) : existsSync(allowFile) ? readLines(allowFile) : [])
   .map(s => s.trim().replace(/^<|>$/g, '').toLowerCase()).filter(Boolean));
 
+// Content-pinned public data: path -> sha256 (plus the ZIP suffix form, --dir mode only).
+// The manifest must be byte-identical to the canonical form tools/pin-data.mjs writes (tools/lib/scrub-manifest.mjs);
+// otherwise nothing is pinned and a manifest-invalid finding is reported. A manifest that tries to skip another
+// rule or pin a path outside plugins/<slug>/data/ is a configuration error (exit 2).
+const manifestFile = process.env.SCRUB_DATA_MANIFEST || join(repoRoot, 'tools', 'scrub-data-manifest.json');
+const manifestRel = relative(scanRoot, manifestFile).split('\\').join('/');
+const pinned = new Map();
+const pinnedSuffix = new Map();
+let manifestError = '';
+let manifestPaths = [];
+if (existsSync(manifestFile)) {
+  const res = parseManifest(readFileSync(manifestFile, 'utf8'));
+  if (res.rules || res.path) fail(`manifest ${manifestFile}: ${res.error}`);
+  manifestError = res.error;
+  manifestPaths = res.files.map(e => e.path);
+  for (const e of res.files) {
+    pinned.set(e.path, e.sha256);
+    if (dirMode) pinnedSuffix.set(e.path.replace(/^(?:plugins|mu-plugins)\//, ''), e.sha256);
+  }
+}
+const sha256 = buf => createHash('sha256').update(buf).digest('hex');
+
+/** Is this file pinned public data with unchanged content? Suffix form ("<slug>/data/…") only for --dir scans of extracted ZIPs. */
+function isPinned(file, buf) {
+  if (!pinned.size) return false;
+  let want = pinned.get(file);
+  if (!want && dirMode) for (const [suffix, h] of pinnedSuffix) if (file === suffix || file.endsWith('/' + suffix)) { want = h; break; }
+  return !!want && sha256(buf) === want;
+}
+
 const ALLOW = new Set(['package-lock.json']);
 const FORBIDDEN = /^(\.private|\.superpowers)(\/|$)/;
 const ARCHIVE = /\.(zip|gz|tgz|rar|7z|tar|bz2|xz)$/i;
@@ -62,6 +100,8 @@ const IMG = /\.(png|jpe?g|webp|gif|tiff?)$/i;
 let findings = 0;
 const report = (where, f) => { findings++; console.log(`${where}:${f.line} ${f.rule} ${f.match}`); };
 const scan = text => scanText(text, { hashes, plainTerms });
+// A non-canonical manifest pins nothing and is a finding of its own.
+if (manifestError) report(dirMode ? manifestFile : manifestRel, { line: 0, rule: 'manifest-invalid', match: manifestError });
 
 // Printable runs from UTF-8 and UTF-16LE (both byte alignments) decodes of a binary blob.
 function strings(buf, min) {
@@ -142,6 +182,11 @@ if (!dirMode) {
 }
 const isExcluded = f => excludes.some(e => { const d = e.replace(/\/+$/, ''); return f === d || f.startsWith(d + '/'); });
 const files = dirMode ? walk(scanRoot).map(p => relative(scanRoot, p)).filter(f => !isExcluded(f)) : listTrackedFiles(scanRoot);
+// Repository mode: a pinned path that is not a repository file is stale (renamed/deleted data, or a typo).
+if (!dirMode && manifestPaths.length) {
+  const present = new Set(files.filter(f => existsSync(join(scanRoot, f))));
+  for (const p of manifestPaths) if (!present.has(p)) report(manifestRel, { line: 0, rule: 'manifest-stale', match: p });
+}
 for (const file of files) {
   if (ALLOW.has(file)) continue;
   // forbidden paths are reported by name only: their content may be the private term list itself
@@ -152,8 +197,18 @@ for (const file of files) {
   for (const f of scan(file.replace(/[\/._-]/g, ' '))) report(file + ' (path)', f);
   if (ARCHIVE.test(file)) { report(file, { line: 0, rule: 'archive-not-allowed', match: file }); continue; }
   const buf = readFileSync(abs);
+  // The manifest holds only paths and hex hashes (hex runs look like phone numbers): when canonical only its paths
+  // are scanned; when not, the manifest-invalid finding above already covers it.
+  if (!dirMode && file === manifestRel) {
+    if (!manifestError) for (const f of scan(manifestPaths.join('\n'))) report(file + ' (paths)', f);
+    continue;
+  }
   const text = decodeText(buf);
-  if (text !== null) { for (const f of scan(text)) report(file, f); continue; }
+  if (text !== null) {
+    const findings = isPinned(file, buf) ? scanText(text, { hashes, plainTerms, skipTerms: true }) : scan(text);
+    for (const f of findings) report(file, f);
+    continue;
+  }
   const label = IMG.test(file) ? ' (metadata)' : ' (binary)';
   for (const f of scan(binaryText(buf))) report(file + label, { ...f, line: 0 });
 }

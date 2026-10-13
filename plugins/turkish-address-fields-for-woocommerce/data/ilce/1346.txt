@@ -1,0 +1,304 @@
+18144	Afşartarakçı Köyü, Merkez Mevkii	Afşartarakçı Köy Yolu=|Bolu Samsun Yolu@
+18145	Afşartarakçı Köyü, Yayla Yayla Evleri	Afşartarakçı Yayla Yolu=
+18149	Ahmetler Köyü, Merkez Mevkii	Ahmetler Köy Yolu=
+18150	Ahmetler Köyü, Yayla Yayla Evleri	Ahmetler Yayla Yolu=
+18151	Akbaş Köyü, Merkez Mevkii	Akbaş Köy Yolu=
+18152	Akbaş Köyü, Yayla Yayla Evleri	Akbaş Yayla Yolu=
+18161	Aktaş Köyü, Gölcük Mevkii	Ankara Bolu Yolu@|Gölcük Mahalle Yolu=
+18160	Aktaş Köyü, Merkez Mevkii	Aktaş Merkez Köy Yolu=|Ankara Bolu Yolu@
+18163	Aktaşkurtlar Köyü, Aktaş Mevkii	Aktaş Mahalle Yolu=
+18164	Aktaşkurtlar Köyü, Bozkuş Mevkii	Bolu Samsun Yolu@|Bozkuş Mahalle Yolu=
+18162	Aktaşkurtlar Köyü, Kurtlar Mevkii	Aktaş Mahalle Yolu=|Kurtlar Mahalle Yolu=
+18165	Aktaşkurtlar Köyü, Yayla Yayla Evleri	Aktaşkurtlar Yayla Yolu=
+18154	Akçabey Köyü, Doğancılar Mevkii	Doğancılar Mahalle Yolu=
+18156	Akçabey Köyü, Katırcıoğlu Mevkii	Katırcıoğlu Mahalle Yolu=
+18155	Akçabey Köyü, Köseler Mevkii	Köseler Mahalle Yolu=
+18153	Akçabey Köyü, Merkez Mevkii	Akçabey Köy Yolu=|Bolu Samsun Yolu@
+18157	Akçabey Köyü, Yayla Yayla Evleri	Akçabey Yayla Yolu=
+18158	Akçaşehir Köyü, Merkez Mevkii	Akçaşehir Köy Yolu=
+18159	Akçaşehir Köyü, Yayla Yayla Evleri	Akçaşehir Yayla Yolu=
+18166	Asmaca Köyü, Merkez Mevkii	Asmaca Merkez Mahalle Yolu=
+18167	Asmaca Köyü, Orta Mevkii	Orta Mahalle Yolu=
+18168	Asmaca Köyü, Yayla Yayla Evleri	Asmaca Yayla Yolu=
+18169	Asmaca Köyü, Çalca Mevkii	Çalca Mahalle Yolu=
+18175	Aydınlar Köyü, Battallar Mevkii	Aydınlar Köy Yolu=|Battallar Mahallesi Yolu=|Dörtdivan Gerede Yolu@
+18174	Aydınlar Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Aydınlar Köy Yolu=
+18176	Aydınlar Köyü, Yayla Yayla Evleri	Aydınlar Yayla Yolu=
+18148	Ağızörengüney Köyü, Mandıralar Mevkii	Mandıralar Mahallesi Yolu=
+18146	Ağızörengüney Köyü, Merkez Mevkii	Ağızörengüney Köy Yolu=|Demirci Mahallesi Yolu=
+18147	Ağızörengüney Köyü, Yayla Yayla Evleri	Ağızörengüney Yayla Yolu=
+18170	Aşağıovacık Köyü, Merkez Mevkii	Aşağıovacık Köy Yolu=
+18171	Aşağıovacık Köyü, Yayla Yayla Evleri	Aşağıovacık Yayla Yolu=
+18172	Aşağıörenbaşı Köyü, Merkez Mevkii	Aşağıörenbaşı Köy Yolu=
+18173	Aşağıörenbaşı Köyü, Yayla Yayla Evleri	Aşağıörenbaşı Yayla Yolu=
+18181	Bahçedere Köyü, Ekmenler Mevkii	Ekmenler Mahalle Yolu=
+18180	Bahçedere Köyü, Gökçeler Mevkii	Gökçeler Mahalle Yolu=
+18177	Bahçedere Köyü, Köy Yaylası Yayla Evleri	Bahçedere Köy Yaylası Yolu=
+18178	Bahçedere Köyü, Merkez Mevkii	Bahçedere Merkez Köy Yolu=|Bolu Samsun Yolu@
+18179	Bahçedere Köyü, Yayla Yayla Evleri	Bahçedere Yayla Yolu=
+18182	Bahçedere Köyü, İmanlar Mevkii	İmanlar Mahalle Yolu=
+113437	Bahçelievler Mah.	100.~|101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|111.~|112.~|113.~|114.~|115.~|116.~|117 .~|118.~|119.~|120.~|Ada~|Ahsen~|Anadolu@|Arda~|Arzu~|Asmalı~|Asuman~|Begonya~|Betül~|Burcu~|Burç~|Cesur~|Cevher~|Damla~|Defne~|Demet~|Dost~|Efe~|Elmas~|Ensar~|Eren~|Esen~|Ferah~|Fidan~|Fırtına~|Gonca~|Göksökü=|Gümüş~|Güney~|Güzide~|Hoş~|Kadife~|Konuralp@|Kumru~|Kıble~|Leylak~|Manolya~|Mehtap~|Mercan~|Meriç~|Narin~|Nazar~|Neşe~|Nur~|Papatya~|Poyraz~|Samanyolu~|Sanayi Sitesi=|Sarmaşık~|Sedir~|Selim~|Sevgi~|Susam~|Söğüt~|Yakut~|Yüksel@|Zafer@|Zanaat~|Zümrüt~|Çağla~|Çevikoğlu~|Ümit~|İnci~|Şanlı~|Şehit Asb. Bahattin Yıldız@|Şener~|Şirin~|Şükür~
+18184	Balcılar Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=
+18183	Balcılar Köyü, Merkez Mevkii	Balcılar Köy Yolu=
+18185	Balcılar Köyü, Yayla Yayla Evleri	Balcılar Yayla Yolu=
+18187	Beşkonak Köyü, Eminağa Mevkii	Eminağa Mahalle Yolu=
+18189	Beşkonak Köyü, Fadıllar Mevkii	Fadıllar Mahalle Yolu=
+18188	Beşkonak Köyü, Karşı Mevkii	Karşı Mahalle Yolu=
+18186	Beşkonak Köyü, Tataroğlu Mevkii	Tataroğlu Mahalle Yolu=
+18190	Beşkonak Köyü, Yayla Yayla Evleri	Beşkonak Yayla Yolu=
+18191	Birinciafşar Köyü	Birinciafşar Köy Yolu=
+18193	Bünüş Köyü, Aşağı Mevkii	Aşağı Mahallesi Yolu=
+18192	Bünüş Köyü, Merkez Mevkii	Bünüş Merkez Köy Yolu=
+18194	Bünüş Köyü, Yayla Yayla Evleri	Bünüş Yayla Yolu=
+18223	Danişmentler Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Danişmentler Köy Yolu=
+18224	Danişmentler Köyü, Yayla Yayla Evleri	Danişmentler Yayla Yolu=
+18227	Davutbeyli Köyü, Bozuklar Mevkii	Bozuklar Mahalle Yolu=
+18226	Davutbeyli Köyü, Kandak Mevkii	Kandak Mahalle Yolu=
+18225	Davutbeyli Köyü, Merkez Mevkii	Davutbeyli Merkez Mahalle Yolu=
+18228	Davutbeyli Köyü, Yayla Yayla Evleri	Davutbeyli Yayla Yolu=
+10902	Dayıoğlu Mah.	Adil~|Akasya~|Aksu~|Akşemseddin@|Alpaslan@|Avaroğlu@|Bal~|Barbaros~|Batuhan~|Bağkurevleri~|Bosna~|Cennet~|Cihangir~|Duygu~|Dörtdivan@|Ebru~|Elif~|Elvan~|Emre~|Engin~|Erdemli@|Ertuğrul Gazi@|Esad~|Fakülte@|Fatih~|Fulya~|Funda~|Fuzuli~|Gelincik~|Gelişim@|Göl Bölgesi 1~|Göl Bölgesi 10~|Göl Bölgesi 11~|Göl Bölgesi 12~|Göl Bölgesi 13~|Göl Bölgesi 14~|Göl Bölgesi 15~|Göl Bölgesi 16~|Göl Bölgesi 17~|Göl Bölgesi 18~|Göl Bölgesi 19~|Göl Bölgesi 2~|Göl Bölgesi 20~|Göl Bölgesi 21~|Göl Bölgesi 22~|Göl Bölgesi 23~|Göl Bölgesi 24~|Göl Bölgesi 25~|Göl Bölgesi 26~|Göl Bölgesi 3~|Göl Bölgesi 4~|Göl Bölgesi 5~|Göl Bölgesi 6~|Göl Bölgesi 7~|Göl Bölgesi 8~|Göl Bölgesi 9~|Gülen~|Güzel~|Hanımeli~|Hayrettin Demiralp@|Hisar~|Hülya~|Hızırbey@|Ihlamur~|Işıklı~|Kadir~|Kale~|Kampüs~|Kandil~|Karanfil~|Karapınar@|Karbeyazı~|Kayı~|Kazım Karabekir@|Kelebek~|Kiraz~|Kosova~|Köroğlu@|Kültür~|Kılıç~|Ladin~|Lale~|Lavanta~|Levent~|Martı~|Mecaz~|Mehmet Akif Ersoy@|Menekşe~|Mevlana~|Mostar~|Nazlı~|Nehir~|Nergiz~|Nilüfer~|Orhan Gazi@|Osman Gazi@|Osmanlı@|Oğuzhan~|Paşa~|Pilevne~|Pınar~|Reyhan~|Rumşahkırı=|Rüya~|Rüzgarlı~|Safran~|Salkım~|Saray~|Selvi~|Sevim~|Seyran~|Soylu~|Sultan@|Sümbül~|Temiz~|Toklar Köyü=|Tunahan~|Turgut Reis~|Turna~|Türkmen~|Veysel Karani~|Yaprak~|Yasemin~|Yavuz~|Yeşil~|Yurt~|Yılanyeri=|Zambak~|Çamlık~|Çiğdemli~|Çoban Yıldızı~|Çınar~|İbni Sina@|İhsan~|İpek~|İstiklal@|Şafak~|Şahin~|Şeker~|Şelale~
+18219	Dağkara Köyü, Merkez Mevkii	Dağkara Köy Yolu=
+18221	Dağkara Köyü, Merkez Yayla Yayla Evleri	Dağkara Merkez Yayla Yolu=
+18220	Dağkara Köyü, Yanşaba Mevkii	Yanşaba Mahallesi Yolu=
+18222	Dağkara Köyü, Yanşaba Yaylası Yayla Evleri	Yanşaba Yayla Yolu=
+10903	Demirciler Mah.	Ahievran~|Akarsu~|Alemdar~|Ali Mülayim~|Antik~|Asude~|Aşağı Harman~|Bayındır@|Baş~|Başağa~|Benzinci~|Bilge~|Billur~|D-750 Yolu Yanı=|Dinamik~|Dirlik~|Ekin~|Emin~|Erdem~|Eski Sanayi 1 Nolu~|Eski Sanayi 2 Nolu~|Eski Sanayi 3 Nolu~|Eski Sanayi 4nolu~|Eski Sanayi@|Eyüp Sultan@|Fatih Sultan Mehmet@|Fevzi Paşa@|Filistin@|Gürcan~|Hacı Baki Çevikoğlu@|Hacı Emin Efendi@|Hacı Emine~|Hafız Şeref~|Hamza Pehlivan~|Hayal~|Hediye~|Irmak~|Kahraman~|Kalaycı Halil~|Kamelya~|Kanarya~|Kartal~|Kasap Mehmet~|Kibar~|Kodaloğlu~|Kurtuluş~|Köprübaşı~|Kısa~|Mehmet Akif Ersoy@|Orman İşletmesi=|Osmanlı@|Parlak~|Pelin~|Pembe~|Portakal~|Posta~|Prof.dr. Necmettin Erbakan_1@|Rahmet~|Rasim Meydan~|Rusum~|Santral~|Selam~|Sevinç~|Sincan@|Sineklioğlu~|Sungur~|Sıla~|Tabakhaneler 1 Nolu~|Tabakhaneler 10 Nolu~|Tabakhaneler 2 Nolu~|Tabakhaneler 3 Nolu~|Tabakhaneler 4 Nolu~|Tabakhaneler 5 Nolu~|Tabakhaneler 6.nolu~|Tabakhaneler 7 Nolu~|Tabakhaneler 8 Nolu~|Tabakhaneler 9 Nolu~|Teknotes=|Turgut Özal@|Tüfekçi Yakup~|Ulusu~|Usta~|Uygar~|Uçak~|Vefa~|Vişne~|Yalçın~|Yeni Camii~|Yeşim~|Yonca~|Yunus Emre@|Zarif~|Zengin~|Çakmaklıoğlu~|Çamlıca~|Çarıkçı~|Çeşme~|Öner~|İbni Sina@|İhlas~|İnönü@|İsmail Gür@|İğde~|Şıh Camii~
+10910	Demircilerosb Mah.	D100 Anka@|Organize Sanayi 2 Nolu=|Organize Sanayi 3 Nolu=|Organize Sanayi 4 Nolu=|Organize Sanayi 4 Nolu/1~|Organize Sanayi 5 Nolu=|Organize Sanayi 5 Nolu/1=|Organize Sanayi 7 Nolu=|Organize Sanayi 8 Nolu=|Organize Sanayi 9 Nolu=
+18231	Demircisopran Köyü, Gözümler Mevkii	Gözümler Mahalle Yolu=
+18230	Demircisopran Köyü, Hacı Muslar Mevkii	Hacı Muslar Mahalle Yolu=
+18229	Demircisopran Köyü, Merkez Mevkii	Demircisopran Merkez Köy Yolu=
+18233	Demircisopran Köyü, Yayla Yayla Evleri	Demircisopran Yayla Yolu=
+18232	Demircisopran Köyü, Şükürler Mevkii	Şükürler Mahalle Yolu=
+18234	Demirler Köyü, Merkez Mevkii	Demirler Köy Yolu=
+18235	Demirler Köyü, Yayla Yayla Evleri	Demirler Yayla Yolu=
+18236	Dikmen Köyü, Merkez Mevkii	Dikmen Köy Yolu=
+18237	Dikmen Köyü, Yayla Yayla Evleri	Dikmen Yayla Yolu=
+18238	Dursunfakı Köyü, Merkez Mevkii	Anadolu Otoyolu@|Dursunfakı Köy Yolu=|Mircekiraz Köy Yolu=
+18239	Dursunfakı Köyü, Yayla Yayla Evleri	Anadolu Otoyolu%|Dursunfakı Yayla Yolu=
+18240	Elören Köyü, Merkez Mevkii	Elören Köy Yolu=
+18241	Elören Köyü, Yayla Yayla Evleri	Elören Yayla Yolu=
+18243	Enseliler Köyü, Hatıplar Mevkii	Hatıplar Mahallesi Yolu=
+18242	Enseliler Köyü, Merkez Mevkii	Enseliler Köy Yolu=
+18245	Enseliler Köyü, Yayla Yayla Evleri	Enseliler Yayla Yolu=
+18244	Enseliler Köyü, Zadatlar Mevkii	Zadatlar Mahallesi Yolu=
+18247	Ertuğrulköy Köyü, Karakuz Mevkii	Karakuz Mahallesi Yolu=
+18246	Ertuğrulköy Köyü, Merkez Mevkii	Ertuğrulköy Köy Yolu=
+18248	Ertuğrulköy Köyü, Tekfur Mevkii	Tekfur Mahallesi Yolu=
+18249	Ertuğrulköy Köyü, Yayla Yayla Evleri	Ertuğrulköy Yayla Yolu=
+18251	Eymür Köyü, Burgucu Mevkii	Burgucu Mahallesi Yolu=
+18250	Eymür Köyü, Merkez Mevkii	Eymür Köy Yolu=
+18252	Eymür Köyü, Yayla Yayla Evleri	Eymür Yayla Yolu=
+18254	Geçitler Köyü, Dümenler Mevkii	Anadolu Otoyolu@|Dümenler Mahallesi Yolu=
+18256	Geçitler Köyü, Dümenler Yayla Yayla Evleri	Dümenler Yayla Yolu=
+18253	Geçitler Köyü, Merkez Mevkii	Geçitler Köy Yolu=
+18255	Geçitler Köyü, Merkez Yayla Yayla Evleri	Geçitler Merkez Yayla Yolu=
+18258	Göynükören Köyü, Ayvatlar Mevkii	Ayvatlar Mahalle Yolu=|Dörtdivan Gerede Yolu@|Yelkenler Köy Yolu=
+18261	Göynükören Köyü, Aşağı Yayla Yayla Evleri	Aşağı Yayla Yolu=
+18260	Göynükören Köyü, Markuşa Yaylası Yayla Evleri	Markuşa Yaylası Yolu=
+18257	Göynükören Köyü, Merkez Mevkii	Anadolu Otoyolu@|Dursunlar Mahalle Yolu=|Dörtdivan Gerede Yolu@|Göynükören Merkez Köy Yolu=
+18259	Göynükören Köyü, Çobanlar Mevkii	Anadolu Otoyolu@|Dörtdivan Gerede Yolu@|Çobanlar Mahalle Yolu=
+18265	Güneydemirciler Köyü, Bıçakcılar Mevkii	Bıçakcılar Mahalle Yolu=|Gerede Karabük Bağlantısı@
+18268	Güneydemirciler Köyü, Bıçakcılar Yayla Yayla Evleri	Bıçakcılar Yayla Yolu=
+18262	Güneydemirciler Köyü, Demirciler (merkez) Mevkii	Bolu Samsun Yolu@|Bıçakcılar Mahalle Yolu=|Deri Osb 1 Nolu@|Deri Osb 1 Nolu/1~|Gerede Deri İhtisas Osb 1 Nolu~|Gerede Deri İhtisas Osb 2 Nolu~|Gerede Deri İhtisas Osb 3 Nolu~|Gerede Deri İhtisas Osb 4 Nolu~|Gerede Deri İhtisas Osb 5 Nolu~|Gerede Deri İhtisas Osb 6 Nolu~|Gerede Deri İhtisas Osb 7 Nolu~|Gerede Deri İhtisas Osb 8 Nolu~|Gerede Deri İhtisas Osb 9 Nolu~|Gerede Karabük Bağlantısı@|Güneydemirciler Köy Yolu=
+18266	Güneydemirciler Köyü, Gaziler Mevkii	Gaziler Mahalle Yolu=
+18267	Güneydemirciler Köyü, Gaziler Yayla Yayla Evleri	Gaziler Yayla Yolu=
+18263	Güneydemirciler Köyü, Hacı İpekler Mevkii	Bolu Samsun Yolu@|Hacı İpekler Mahalle Yolu=
+18264	Güneydemirciler Köyü, Kabaklar Mevkii	Bolu Samsun Yolu@|Kabaklar Mahalle Yolu=
+18269	Hacılar Köyü, Merkez Mevkii	Hacılar Köy Yolu=|Salur Köy Yolu=
+18270	Hacılar Köyü, Yayla Yayla Evleri	Hacılar Yayla Yolu=
+18271	Halaçlar Köyü, Merkez Mevkii	Halaçlar Köy Yolu=
+18273	Halaçlar Köyü, Sağlık Mevkii	Sağlık Mahallesi Yolu=
+18274	Halaçlar Köyü, Yayla Yayla Evleri	Halaçlar Yayla Yolu=
+18272	Halaçlar Köyü, Yukarı Mevkii	Anadolu Otoyolu@|Yukarı Mahallesi Yolu=
+18275	Hasanlar Köyü, Merkez Mevkii	Hasanlar Köy Yolu=
+18276	Hasanlar Köyü, Merkez Yaylası Yayla Evleri	Hasanlar Merkez Yaylası Yolu=
+18277	Havullu Köyü, Mehmet Beylik Mevkii	Anadolu Otoyolu@|Mehmet Beylik Mahalle Yolu=
+18280	Havullu Köyü, Mehmet Beylik Yaylası Yayla Evleri	Havullu Mehmet Beylik Yaylası Yolu=
+18278	Havullu Köyü, Merkez Mevkii	Anadolu Otoyolu@|Havullu Merkez Köy Yolu=
+18279	Havullu Köyü, Merkez Yaylası Yayla Evleri	Anadolu Otoyolu%|Havullu Merkez Yaylası Yolu=
+18285	Ibrıcak Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Evrenler Mahalle Yolu=|Ibrıcak Merkez Köy Yolu=
+18282	Ibrıcak Köyü, Orta Mevkii	Ankara Bolu Yolu@|Orta Mahalle Yolu~|Orta Mahalle Yolu/1~|Orta Mahalle Yolu/5~|Orta Mahalle Yolu/6~|Orta Mahallesi Yolu/2~|Orta Mahallesi Yolu/3~|Orta Mahallesi Yolu/4~|Orta Mahallesi Yolu/5~|Orta Mahallesi Yolu/6~
+18283	Ibrıcak Köyü, Siyamlar Mevkii	Ankara Bolu Yolu@|Siyamlar Mahalle Yol/5~|Siyamlar Mahalle Yolu~|Siyamlar Mahalle Yolu/1~|Siyamlar Mahalle Yolu/2~|Siyamlar Mahalle Yolu/3~|Siyamlar Mahalle Yolu/4~|Siyamlar Mahalle Yolu/5~
+18286	Ibrıcak Köyü, Yayla Yayla Evleri	Ibrıcak Yayla Yolu=
+18281	Ibrıcak Köyü, Yeni Mevkii	Yeni Mahalle Yolu~|Yeni Mahalle Yolu/1~|Yeni Mahalle Yolu/2~|Yeni Mahalle Yolu/3~
+10904	Kabiller Mah.	Ayaz~|Birlik~|Bülbül~|Doğancıoğlu~|Figani Baba~|Gazhane~|Güngörmez~|Hacı Emin Efendi@|Hasbeyler~|Kaya~|Kazan~|Orta Çarşı~|Pehlivanlar~|Petek~|Salih Bey@|Saraçoğlu~|Su~|Taraşoğlu~|Taşhan~|Turan~|Ulus~|Veziroğlu~|Çaybaşı~|Çubukcuoğlu~|Özürlüoğlu~|İncirlioğlu~|İnönü@
+18293	Kalaç Köyü, Merkez Mevkii	Kalaç Köy Yolu=
+18294	Kalaç Köyü, Merkez Yaylası Yayla Evleri	Kalaç Merkez Yaylası Yolu=
+18296	Kapaklı Köyü, Dere Mevkii	Bolu Samsun Yolu@|Dere Mahalle Yolu=
+18295	Kapaklı Köyü, Merkez Mevkii	Bolu Samsun Yolu@|Kapaklı Köy Yolu=
+18297	Kapaklı Köyü, Yayla Yayla Evleri	Kapaklı Yayla Yolu=
+18299	Karacadağ Köyü, Dereköy Mevkii	Dereköy Mahalle Yolu=
+18300	Karacadağ Köyü, Kayabaşı Mevkii	Kayabaşı Mahalle Yolu=
+18298	Karacadağ Köyü, Merkez Mevkii	Karacadağ Merkez Köy Yolu=
+18301	Karacadağ Köyü, Tozaklar Mevkii	Tozaklar Mahalle Yolu=
+18302	Karacadağ Köyü, Yayla Yayla Evleri	Karacadağ Yayla Yolu=
+18306	Karacadağdemirciler Köyü, Avlasızgil Mevkii	Avlasızgil Mahalle Yolu=
+18305	Karacadağdemirciler Köyü, Ağagil Mevkii	Ağagil Mahalle Yolu=
+18308	Karacadağdemirciler Köyü, Dere Mevkii	Dere Mahallesi Yolu=
+18303	Karacadağdemirciler Köyü, Merkez Mevkii	Bolu Samsun Yolu@|Karacadağdemirciler Merkez Köy Yolu=
+18310	Karacadağdemirciler Köyü, Merkez Yayla Yayla Evleri	Karacadağdemirciler Merkez Yayla Yolu=
+18304	Karacadağdemirciler Köyü, Sömerciler Mevkii	Bolu Samsun Yolu@|Sömerciler Mahalle Yolu=
+18309	Karacadağdemirciler Köyü, Sömerciler Yayla Yayla Evleri	Sömerciler Yayla Yolu=
+18307	Karacadağdemirciler Köyü, İmamlar Mevkii	Bolu Samsun Yolu@|İmamlar Mahalle Yolu=
+18314	Karapazar Köyü, Deveyatağı Yaylası Yayla Evleri	Deveyatağı Yayla Yolu=
+18312	Karapazar Köyü, Küllü Yayla Yayla Evleri	Küllü Yayla Yolu=
+18311	Karapazar Köyü, Merkez Mevkii	Karapazar Köy Yolu=
+18313	Karapazar Köyü, Teççebel Yaylası Yayla Evleri	Teççebel Yayla Yolu=
+18315	Kavacık Köyü, Merkez Mevkii	Kavacık Köy Yolu=
+18316	Kayıkiraz Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Kayıkiraz Köy Yolu=
+18317	Kayıkiraz Köyü, Yayla Yayla Evleri	Kayıkiraz Yayla Yolu=
+18318	Kayısopran Köyü, Merkez Mevkii	Kayısopran Köy Yolu=
+18319	Kayısopran Köyü, Yayla Yayla Evleri	Kayısopran Yayla Yolu=
+18320	Kazanlar Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Kazanlar Köy Yolu=
+18321	Kazanlar Köyü, Yayla Yayla Evleri	Kazanlar Yayla Yolu=
+10905	Kitirler Mah.	Adalı~|Alyanak~|Alınteri~|Atatürk%|Atatürk Üst Yol%|Ateş İmam~|Aynalı~|Belkis Sabancı@|Bucak Yaylası=|Bülbül~|Ceylan~|Dayılar~|Demirciler Yaylası=|Dispanser~|Doğa~|Emniyet~|Esentepe Mesireliği=|Eski Hükümet~|Eskiciler~|Hacı Emin Efendi@|Hacı Veli Yaylası=|Hacı İpek~|Hacıoğlu~|Halcıoğlu~|Hasbeyler Yaylası=|Horozoğlu~|Hıdırlık~|Kadı~|Kalaycı~|Karaosmanoğlu~|Köprü~|Mengen Yolu~|Muallim Evleri~|Mücahit~|Okul~|Orta Çarşı~|Oruçlar~|Ramazan Dede@|Rumşah Yaylası=|Sakin~|Seviller Yaylası=|Taşaltı~|Taşdelen~|Tiftikçi~|Turan~|Tüccar Han~|Veziroğlu~|Yayla~|Yüksek~|Çamdibi~|Çeşmeli~|Çıkrıkçılar~
+18322	Koçumlar Köyü, Kıncallar Mevkii	Bolu Samsun Yolu@|Kıncallar Mahalle Yolu=
+18325	Koçumlar Köyü, Kıncallar Yaylası Yayla Evleri	Kıncallar Yaylası Yolu=
+18323	Koçumlar Köyü, Merkez Mevkii	Bolu Samsun Yolu@|Koçumlar Merkez Köy Yolu=
+18324	Koçumlar Köyü, Merkez Yaylası Yayla Evleri	Koçumlar Merkez Yaylası Yolu=
+18326	Kösreli Köyü, Merkez Mevkii	Kösreli Köy Yolu=
+18327	Kösreli Köyü, Merkez Yayla Yayla Evleri	Kösreli Merkez Yayla Yolu=
+18328	Kösreli Köyü, Çukurca Yaylası Yayla Evleri	- Köy$
+18330	Külef Köyü, Demirci Mevkii	Demirci Mahallesi Yolu=
+18329	Külef Köyü, Seyfe Mevkii	Seyfe Mahallesi Yolu=
+18331	Külef Köyü, Yayla Yayla Evleri	Külef Yayla Yolu=
+18332	Kürkçüler Köyü, Merkez Mevkii	Anadolu Otoyolu@|Kürkçüler Köy Yolu=|Mircekiraz Köy Yolu=
+18333	Kürkçüler Köyü, Yayla Yayla Evleri	Kürkçüler Yayla Yolu=
+18334	Macarlar Köyü, Ecinlioğlu Mevkii	Ecinlioğlu Mahallesi Yolu=
+18336	Macarlar Köyü, Macarlar Mevkii	Macarlar Mahallesi Yolu=
+18337	Macarlar Köyü, Merkez Mevkii	Macarlar Köy Yolu=
+18338	Macarlar Köyü, Yayla Yayla Evleri	Macarlar Yayla Yolu=
+18335	Macarlar Köyü, Çongallar Mevkii	Çongallar Mahallesi Yolu=
+18339	Mangallar Köyü, Merkez Mevkii	Mangallar Köy Yolu=|Üçpınar Mahallesi Yolu=
+18341	Mangallar Köyü, Yayla Yayla Evleri	Mangallar Yayla Yolu=
+18340	Mangallar Köyü, İmreşe Mevkii	İmreşe Mahallesi Yolu=|İmreşe Yaylası Yolu=
+18342	Mircekiraz Köyü, Merkez Mevkii	Anadolu Otoyolu@|Mircekiraz Köy Yolu=
+18343	Mircekiraz Köyü, Yayla Yayla Evleri	Mircekiraz Yayla Yolu=
+18344	Mukamlar Köyü, Merkez Mevkii	Mukamlar Köy Yolu=
+18345	Mukamlar Köyü, Yayla Yayla Evleri	Mukamlar Yayla Yolu=
+18346	Muratfakılar Köyü, Merkez Mevkii	Muratfakılar Köy Yolu=
+18348	Muratfakılar Köyü, Merkez Yayla Yayla Evleri	Muratfakılar Merkez Yayla Yolu=
+18347	Muratfakılar Köyü, Çengeller Mevkii	Çengeller Mahallesi Yolu=
+18349	Muratfakılar Köyü, Çengeller Yayla Yayla Evleri	Çengeller Yayla Yolu=
+18350	Mürdükler Köyü, Merkez Mevkii	Mürdükler Köy Yolu=
+18351	Mürdükler Köyü, Yayla Yayla Evleri	Mürdükler Yayla Yolu=
+18353	Nuhören Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=|Dörtdivan Gerede Yolu@|Nuhören Köy Yolu=
+18352	Nuhören Köyü, Merkez Mevkii	Dörtdivan Gerede Yolu@|Nuhören Köy Yolu=
+18354	Nuhören Köyü, Yayla Yayla Evleri	Nuhören Yayla Yolu=
+10906	Orta Mah.	Abdurrahman Şahin@|Abutoğlu~|Allamefendi~|Bey Camii~|Bodrum~|Boncukoğlu~|Büyük Camii~|Cevahircioğlu~|Ciğeroğlu~|Cumhuriyet@|Darende~|Demirtaş~|Dere~|Dingenç~|Ekmekci~|Eski Pazar Meydan~|Geçit~|Hacı Emin Efendi@|Haznedar~|Kadir Usta~|Kalaycı Babalık~|Osmanlı@|Postacı H.ibrahim~|Prof.dr. Necmettin Erbakan@|Saraç Osman~|Sun Salih~|Tarla 1 Nolu~|Tarla~|Topuzlar~|Vuslat~|Zeftcioğlu~|Çelik~|Çiçek~|Çırak Hasan~|Şifa~
+18358	Ortaca Köyü, Akkadim Mevkii	Akkadim Mahallesi Yolu=
+18359	Ortaca Köyü, Akkadim Yayla Yayla Evleri	- Köy$
+18356	Ortaca Köyü, Kadimler Mevkii	Kadimler Mahallesi Yolu=
+18361	Ortaca Köyü, Merkez Yayla Yayla Evleri	Ortaca Yayla Yolu=
+18357	Ortaca Köyü, Sinanlar Mevkii	Sinanlar Mahallesi Yolu=
+18360	Ortaca Köyü, Sinanlar Yayla Yayla Evleri	- Köy$
+18355	Ortaca Köyü, Yukarı Mevkii	Yukarı Mahalle Yolu=
+18365	Salur Köyü, Merkez Mevkii	Anadolu Otoyolu@|Mehmet Beylik Mahalle Yolu=|Salur Köy Yolu=
+18366	Salur Köyü, Yayla Yayla Evleri	Salur Yayla Yolu=
+18369	Samat Köyü, Mandıralar Mevkii	Mandıralar Mahalle Yolu=
+18367	Samat Köyü, Merkez Mevkii	Anadolu Otoyolu@|Hacılar Köy Yolu=|Mircekiraz Köy Yolu=|Salur Köy Yolu=|Samat Köy Yolu=
+18368	Samat Köyü, Yayla Yayla Evleri	Samat Yayla Yolu=
+18370	Sapanlıurgancılar Köyü, Merkez Mevkii	Anadolu Otoyolu@|Gerede Karabük Bağlantısı@|Sapanlıurgancılar Köy Yolu=|Yazıkara Köy Yolu=
+18371	Sapanlıurgancılar Köyü, Merkez Yayla Yayla Evleri	Sapanlıurgancılar Merkez Yayla Yolu=
+18372	Sarıoğlu Köyü, Merkez Mevkii	Bolu Samsun Yolu@|Sarıoğlu Köy Yolu=|Zadatlar Mahallesi Yolu=
+18373	Sarıoğlu Köyü, Yayla Yayla Evleri	- Köy$
+10907	Seviller Mah.	Abdurrahman Şahin@|Anapalı~|Atatürk Alt Yol%|Atatürk%|Atatürk Üst Yol%|Aşağı Tekke~|Bayraktar~|Başadam~|Başaran~|Bekçi Mustafa~|Bocurgatoğlu~|Boyacı Pınarı~|Civan~|Conkutoğlu~|Coşkun~|Cumhuriyet@|Dertli~|Eski Okul~|Eski Rüştiye~|Eskici~|Etyemez~|Gökmen~|Göçbeyoğlu~|Hafız Esat Gerede@|Harman~|Hastane~|Here~|Hilal~|Hükümet@|Kadınlar Panayırı~|Meydan~|Münir Efendi~|Nizam~|Sakarya@|Töngemen~|Uzun Hüseyin~|Yarbay İbrahim~|Yazgan~|Yenihal~|Çonkarlar~|Çınaroğlu~
+18375	Sipahiler Köyü, Ispahlar Mevkii	Ispahlar Mahalle Yolu=
+18374	Sipahiler Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Sipahiler Köy Yolu=
+18376	Sipahiler Köyü, Yayla Yayla Evleri	Sipahiler Yayla Yolu=
+18378	Sofular Köyü, Deyişler Mevkii	Deyişler Mahalle Yolu=
+18379	Sofular Köyü, Deyişler Yaylası Yayla Evleri	Deyişler Yayla Yolu=
+18377	Sofular Köyü, Merkez Mevkii	Deyişler Mahalle Yolu=|Sofular Köy Yolu=
+18380	Sofular Köyü, Sofular Yaylası Yayla Evleri	Sofular Yaylası Yolu=
+18383	Sungurlar Köyü, Emirler Mevkii	Emirler Mahalle Yolu=|Emirler Yayla Yolu=|Gaziler Mahalle Yolu=
+18381	Sungurlar Köyü, Merkez Mevkii	Sungurlar Köy Yolu=
+18382	Sungurlar Köyü, Yayla Yayla Evleri	Sungurlar Yayla Yolu=
+18385	Süllertoklar Köyü, Süller Mevkii	Süller Mahallesi Yolu=
+18387	Süllertoklar Köyü, Süller Yaylası Yayla Evleri	Süller Yaylası Yolu=
+18384	Süllertoklar Köyü, Toklar Mevkii	Ankara Bolu Yolu@|Toklar Mahallesi Yolu=
+18386	Süllertoklar Köyü, Toklar Yaylası Yayla Evleri	Toklar Yaylası Yolu=
+18389	Tatlar Köyü, Koçlar Mevkii	Koçlar Mahallesi Yolu=
+18391	Tatlar Köyü, Koçlar Yaylası Yayla Evleri	Koçlar Yaylası Yolu=
+18388	Tatlar Köyü, Merkez Mevkii	Tatlar Köy Yolu=
+18390	Tatlar Köyü, Merkez Yayla Yayla Evleri	Tatlar Merkez Yayla Yolu=
+18394	Ulaşlar Köyü, Işıklı Mevkii	Işıklı Mahalle Yolu=
+18396	Ulaşlar Köyü, Işıklı Yaylası Yayla Evleri	- Köy$
+18392	Ulaşlar Köyü, Merkez Mevkii	Bolu Samsun Yolu@|Ulaşlar Köy Yolu=
+18395	Ulaşlar Köyü, Merkez Yayla Yayla Evleri	Ulaşlar Merkez Yayla Yolu=
+18393	Ulaşlar Köyü, Seyitler Mevkii	Seyitler Mahalle Yolu=
+18397	Ulaşlar Köyü, Seyitler Yaylası Yayla Evleri	Seyitler Yaylası Yolu=
+18403	Yakaboy Köyü, Merkez Mevkii	Yakaboy Köy Yolu=
+18404	Yakaboy Köyü, Yayla Yayla Evleri	Yakaboy Yayla Yolu=
+18407	Yakakaya Köyü, Dursunlar Mevkii	Dursunlar Mahalle Yolu=
+18406	Yakakaya Köyü, Evrenler Mevkii	Evrenler Mahalle Yolu=|Ibrıcak Merkez Köy Yolu=|Tepe Mahalle Yolu=
+18408	Yakakaya Köyü, Tepe Mevkii	Dursunlar Mahalle Yolu=|Evrenler Mahalle Yolu=|Tepe Mahalle Yolu=
+18409	Yakakaya Köyü, Yayla Yayla Evleri	Yakakaya Yayla Yolu=
+18405	Yakakaya Köyü, Yunuslar Mevkii	Yunuslar Mahalle Yolu=
+18410	Yazıkara Köyü, Merkez Mevkii	Gerede Karabük Bağlantısı@|Sapanlıurgancılar Köy Yolu=|Yazıkara Köy Yolu=
+18411	Yazıkara Köyü, Yayla Yayla Evleri	- Köy$
+18414	Yazıköy Köyü, Afatlar Mevkii	Afatlar Mahallesi Yolu=|Ankara Bolu Yolu@
+18416	Yazıköy Köyü, Afatlar Yayla Yayla Evleri	Afatlar Yayla Yolu=
+18412	Yazıköy Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Mangallar Köy Yolu=|Yazıköy Köy Yolu=
+18415	Yazıköy Köyü, Merkez Yayla Yayla Evleri	Yazıköy Yayla Yolu=
+18413	Yazıköy Köyü, Üçpınar Mevkii	Üçpınar Mahallesi Yolu=
+18417	Yazıköy Köyü, Üçpınar Yayla Yayla Evleri	Üçpınar Yayla Yolu=
+18401	Yağdaş Köyü, Kurtça Mevkii	Kurtça Mahallesi Yolu=
+18400	Yağdaş Köyü, Merkez Mevkii	Yağdaş Köy Yolu=
+18402	Yağdaş Köyü, Yayla Yayla Evleri	Yağdaş Yayla Yolu=
+18418	Yelkenler Köyü, Merkez Mevkii	Dörtdivan Gerede Yolu@|Yelkenler Köy Yolu=
+18419	Yelkenler Köyü, Yanıklar Mevkii	Anadolu Otoyolu@|Yanıklar Mahallesi Yolu=
+18420	Yelkenler Köyü, Yayla Yayla Evleri	Yelkenler Yayla Yolu=
+18421	Yenecik Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Yenecik Köy Yolu=
+18422	Yenecik Köyü, Yayla Yayla Evleri	Yenecik Yayla Yolu=
+10908	Yeni Mah.	Ahlat~|Ahmet Düş@|Alıç~|Ardıç~|Ardıçlı~|Armağan~|Avşar~|Aydın~|Ayışığı~|Ağladı~|Bahar~|Bahçeli~|Başak~|Dereboyu@|Derman~|Dik~|Doruk~|Emirdağ~|Erkam~|Eyüp Sultan@|Fatih Sultan Mehmet@|Gül~|Güneş~|Güven~|Hacı Baki Çevikoğlu@|Hacı Sadık~|Halis~|Horasan~|Hürmet~|Kabaklar~|Karabük@|Konak~|Kırlangıç~|Kıymet~|Lüle~|Meltem~|Merkez Cami~|Mert~|Mimar Sinan@|Nalbant@|Necip Fazıl@|Pamuk~|Rüzgar~|Serin~|Serçe~|Sinem~|Süleymaniye~|Tepe~|Turgut Özal@|Uluç~|Uslu~|Uç~|Vadi~|Yaman~|Yamaç~|Yaylacı~|Yağmur~|Yiğit~|Yüzüncüyıl@|Yıldız~|Zahid~|Zirve@|Çiğdem~|Önder~|Özlem~|Öztürk~|İlkokul~|Şamlı~|Şimşir~
+18423	Yeniyapar Köyü, Merkez Mevkii	Yeniyapar Köy Yolu=
+18424	Yeniyapar Köyü, Yayla Yayla Evleri	Yeniyapar Yayla Yolu=
+18426	Yeşilvadi Köyü, Apsarı Mevkii	Apsarı Mahalle Yolu=|Kılıçlar Merkez Köy Yolu=
+18425	Yeşilvadi Köyü, Merkez Mevkii	Yeşilvadi Merkez Köy Yolu=
+18427	Yukarıovacık Köyü, Merkez Mevkii	Yukarıovacık Köy Yolu=
+18428	Yukarıovacık Köyü, Merkez Yaylası Yayla Evleri	Yukarıovacık Merkez Yaylası Yolu=
+18430	Yukarıörenbaşı Köyü, Avcılar Mevkii	Avcılar Mahalle Yolu=
+18431	Yukarıörenbaşı Köyü, Demirci Mevkii	Demirci Mahalle Yolu=
+18432	Yukarıörenbaşı Köyü, Kırbızlar Mevkii	Kırbızlar Mahalle Yolu=
+18429	Yukarıörenbaşı Köyü, Merkez Mevkii	Yukarıörenbaşı Merkez Köy Yolu=
+18433	Yukarıörenbaşı Köyü, Yayla Yayla Evleri	- Köy$
+18434	Yunuslar Köyü, Merkez Mevkii	Bolu Samsun Yolu@|Yunuslar Köy Yolu=
+18436	Yunuslar Köyü, Merkez Yayla Yayla Evleri	Yunuslar Merkez Yayla Yolu=
+18435	Yunuslar Köyü, Çukur Mevkii	Çukur Mahalle Yolu=
+18437	Yunuslar Köyü, Çukur Yayla Yayla Evleri	- Köy$
+18440	Zeyneller Köyü, Kurtlar Mevkii	Kurtlar Mahallesi Yolu=
+18438	Zeyneller Köyü, Merkez Mevkii	Zeyneller Köy Yolu=
+18439	Zeyneller Köyü, Yayla Yayla Evleri	Zeyneller Yayla Yolu=
+18203	Çalaman Köyü, Merkez Mevkii	Çalaman Köy Yolu=
+18201	Çalaman Köyü, Merkez Yayla Yayla Evleri	Çalaman Merkez Yayla Yolu=
+18200	Çalaman Köyü, Yaman Mevkii	Yaman Mahallesi Yolu=
+18202	Çalaman Köyü, Yaman Yaylası Mevkii	Yaman Yaylası Yolu=
+18204	Çalışlar Köyü, Merkez Mevkii	Çalışlar Köy Yolu=
+18205	Çalışlar Köyü, Yayla Yayla Evleri	Çalışlar Yayla Yolu=
+18206	Çayören Köyü, Merkez Mevkii	Bolu Samsun Yolu@|Çayören Köy Yolu=
+18207	Çayören Köyü, Yayla Yayla Evleri	Çayören Yayla Yolu=
+18208	Çayörengüney Köyü, Dere (merkez) Mevkii	Bolu Samsun Yolu@|Dere Merkez Köy Yolu=
+18209	Çayörengüney Köyü, Güney Mevkii	Bolu Samsun Yolu@|Güney Mahallesi Yolu=
+18210	Çayörengüney Köyü, Yayla Yayla Evleri	Çayörengüney Yayla Yolu=
+18196	Çağış Köyü, Akçagil Mevkii	Akçagil Mahalle Yolu=|Bolu Samsun Yolu@|Mandıra Mahalle Yolu=
+18197	Çağış Köyü, Kapçı Evi Mevkii	Kapçı Evi Mahalle Yolu=
+18195	Çağış Köyü, Çağış Mevkii	Çağış Köy Yolu=
+18198	Çağış Köyü, Çağış Yaylası Yayla Evleri	Çağış Yaylası Yolu=
+18214	Çoğullu Köyü, Karşı Yayla Yayla Evleri	Karşı Yayla Yolu=
+18215	Çoğullu Köyü, Matırlar Yaylası Yayla Evleri	Matırlar Yaylası Yolu=
+18211	Çoğullu Köyü, Merkez Mevkii	Anadolu Otoyolu@|Sofular Köy Yolu=|Yeniyapar Köy Yolu=|Çoğullu Köy Yolu=
+18213	Çoğullu Köyü, Yarış Yayla Evleri	Yarış Yaylası Yolu=
+18212	Çoğullu Köyü, Şahallar Mevkii	Şahallar Mahalle Yolu=
+18217	Çukurca Köyü, Mandıra Mevkii	Çukurca Mandıra Yolu=
+18216	Çukurca Köyü, Merkez Mevkii	Çukurca Köy Yolu=
+18218	Çukurca Köyü, Yayla Yayla Evleri	Çukurca Yayla Yolu=
+18363	Örencik Köyü, Baltacılar Mevkii	Baltacılar Mahalle Yolu=
+18362	Örencik Köyü, Merkez Mevkii	Örencik Merkez Köy Yolu=
+18364	Örencik Köyü, Yayla Yayla Evleri	Örencik Yayla Yolu=
+18398	Ümitköy Köyü, Merkez Mevkii	Ümitköy Köy Yolu=
+18399	Ümitköy Köyü, Yayla Yayla Evleri	Ümitköy Yayla Yolu=
+18287	İkinciafşar Köyü, Merkez Mevkii	Kurtlar Mahallesi Yolu=|İkinciafşar Köy Yolu=
+18288	İkinciafşar Köyü, Yayla Yayla Evleri	İkinciafşar Yayla Yolu=
+18289	İmamlar Köyü, Merkez Mevkii	Bolu Samsun Yolu@|İmamlar Köy Yolu=
+18290	İmamlar Köyü, Yayla Yayla Evleri	İmamlar Yayla Yolu=
+18291	İnköy Köyü, Merkez Mevkii	İnköy Köy Yolu=
+18292	İnköy Köyü, Yayla Yayla Evleri	İnköy Yayla Yolu=

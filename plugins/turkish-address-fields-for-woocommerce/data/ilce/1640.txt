@@ -1,0 +1,18 @@
+144609	Atça Mah.	1~|10~|100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|128/1~|128/2~|13~|130~|130/1~|131~|132~|134~|136~|138~|139~|14~|140~|141~|142~|143~|144~|145~|146~|147~|148~|149~|15~|150~|151~|152~|153~|154~|155~|157~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|4~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|5~|50~|51~|52~|53~|54~|55~|56~|58~|59~|6~|60~|61~|62~|62.çıkmaz~|64~|65.~|66~|67~|68~|69~|7~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|8~|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|89 Çıkmazı~|9~|90~|91~|92~|93~|94~|95~|95çıkmazı~|96~|97~|98~|99~|Abdibey (yeni)@|Abdibey@|Akmusluk-1=|Akmusluk-2=|Atatürk@|Atatürk Çıkmazı~|Aşılık~|Batı (çelebioğlu)@|Batı@|D.d.y.~|Develikuyu=|Eski Yenipazar Yolu Doğusu=|Fatma Uruk~|Gazi@|Halil Efendi~|Hancıoğlu-yağdere Çayı Arası=|Jurnalı@|Karakol (çelebioğlu)@|Karakol@|Karakol Çıkmazı~|Karayolu Altı=|Karayolu Kenarı=|Kavaklar (yeni)@|Kavaklar@|Kurtuluş@|Nazilli@|Necip Tezcan~|P.çvş.mutlu Uçar~|Park Myd.|Prof.dr.tamer Başoğlu@|Sanayi Sit. 1~|Sanayi Sit.2~|Sanayi Sit.3~|Sanayi Sit.4~|Sanayi Sit.6~|Suludere Kanal Boyu=|Yağdere Çayı=|Çayiçi=|Çevreyolu (çelebioğlu)~|Çevreyolu Batısı=|Çevreyolu~|Çomaklı=|İsabeyli Çayı=|Şehit Uzman Onbaşı Ufuk Demirkıran%
+10289	Beşeylül Mah.	411~|Arapdede@|Avukat Rıza Uslu%|Bahçelievler~|Cibe~|Cibe Çeşmesi~|Dereiçi~|Efe~|Menekşe~|Molla Kahve@|Nysa Kent Yapı Koop.=|Semerci M.ali Çıkmazı~|Ufuk~|Şahin~
+144627	Demirhan Mah.	Bağarası~|Demirhan~
+144615	Eskihisar Mah.	Beyazıt~|Hasankahvesi~|Kahveli~|Orta~|Rekmez~|Çatakderesi~
+144617	Güvendik Mah.	Güvendik~|Uzunyer~
+10290	Hisar Mah.	306~|330~|331~|332~|333~|334~|Almaz~|Baltacı~|Eski Aydın~|Fevzi Çakmak@|Fidanlık Çıkmazı~|Kanal~|Koşu@|Malgaç Çayı=|Memur Evleri Cami~|Memur Evleri1.~|Memur Evleri2.~|Memur Evleri3.~|Meteoroloji~|Mithatpaşa@|Portakal~|Prof. Dr. Nurettin Kaşka@|Soğukkuyu=|Terzioğlu~|Çayırlık=
+144619	Kabaca Mah.	Kabaca~|Yarendede~
+144621	Kavaklı Mah.	Boztepe~|Mollakahveleri~|Rekmez~|Türkmenkahve~|Yukarıkavaklı~
+10291	Kurtuluş Mah.	200~|201~|222~|244~|Ali Zühtü Bey~|Artezyen~|Atatürk@|Ateş~|Ayanoğlu~|Ayaydın~|Aydoğdu~|Ayvaz Değirmeni=|Cevdet İnci@|Cumhuriyet Myd.|Dayı Zeybek~|Değirmen~|Ersoy=|Eski Okul~|Gar~|Gülistan Koop.=|Gündoğdu~|H.değirmenci Çıkmazı~|Kadı Hasan~|Karanfil~|Kargılık=|Kemer~|Kural~|Nazilli@|Nysa@|Sanayii~|Sevgi Yolu~|Su~|Tapucu~|Yörük Ali~|Zümrüt Evler=|Çamlı Tepe=|İbrahim Hoca~|İnci Çıkmazı~|Şefik Çerçioğlu@|Şehitler~|Şirinevler=
+144633	Kılavuzlar Mah.	Kepez~|Kocataş~|Kılavuzlar~
+144623	Malgaçemir Mah.	Avlanbaba~|Kumaşdere~|Malgaçemir~|Sorkun~
+144625	Malgaçmustafa Mah.	Malgaçmustafa~|Ovacık~
+10292	Rekmez Mah.	Avukat Rıza Uslu%|Beylik Dere~|Cami~|Dr.mustafa Malgaç@|Eskihisar~|Gül~|Narlıdere~|Nysa Ören Yeri@|Org.cemal Tural@|Rekmez Dereiçi~
+144607	Salavatlı Mah.	101~|701~|702~|720@|746~|761~|767~|Akasya@|Aydın~|Ayrancılar=|Azaplı=|Bayır~|Beyler~|Cumhuriyet~|Derviş~|Ender~|Gazi (orta)~|Gazi@|Gemici~|Geriz~|Güneş~|Hamam~|Haney~|Hisar~|Huzur~|Hürriyet~|Köşk~|Kültür~|Kırçeşme~|Lale~|Manolya~|Merkez@|Mescit~|Meydan~|Miralay@|Nergis~|Okul@|Ortaca~|Papatya~|Park~|Sancaktar~|Sarısu@|Sağlık@|Sedir~|Selvi~|Spor~|Sultan~|Tesbihli~|Türkmen~|Yavuz~|Yağhane~|Çatal~|Çifte Kahveler=|Çınar~|İstasyon@|Şifa~|Şirin~
+144635	Uzunlar Mah.	Köycivarı~|Kızılcık~|Uzunlar~
+144637	Yağdere Mah.	Yağdere~
+10293	Zafer Mah.	506~|6 Eylül~|Adnan Menderes%|Atatürk@|Avukat Rıza Uslu%|Ağalar~|Bayram~|Beşeylül@|Burma~|Cengiz Tekeli~|Cumhuriyet Myd.|Dereiçi~|Hastane~|Mahmut Dülger@|Mithatpaşa@|Nelin Kümevler=|Nysa@|Org.cemal Tural@|Sigorta Evleri=|Sigorta Evleri-1~|Sigorta Evleri-2~|Çiçek~
+144629	İncealan Mah.	İncealan~

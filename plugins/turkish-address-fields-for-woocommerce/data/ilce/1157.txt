@@ -1,0 +1,33 @@
+177871	Akkaya Mah.	A Kümesi Akkaya=|Akkaya=|B Kümesi Akkaya=
+177895	Bayat Mah.	Bayat=
+177887	Bayram Mah.	Köy Bayram=
+1945	Başayaş Mah.	Ayaş Ankara%|Başayaş=
+1946	Başbereket Mah.	Ayaş Ankara%|Başbereket=
+1937	Camiatik Mah.	1.okul~|Bahçe.~|Banka~|Cumhuriyet.. Myd.|Dispanser~|Emine Tevfika Ayaşlı@|Fındık~|Hallaç~|Hekim Şaban Şifai@|Hükümet@|Kadıpınar~|Karadibek~|Karakaya@|Odunpazarı~|Sağlam~|Su Deposu~|Sülüklü~|Çay~|İhsan Kılıç@|Şekerpare~
+1938	Dervişimam Mah.	1.okul~|Bahçe.-~|Bünyamin~|Kadıpınar~|Katrancı~|Küçük~|Çıkmaz _1~|İhsan Kılıç@|Şakirefendi~
+1952	Emine Tevfika Ayaşlı Mah.	200@|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213@|214~|215~|216~|217~|218~|219~|220~|221~|222~|224~|225~|226~|227~|228~|229~|230~|231~|232~|233~|234~|235~|236~|237~|238~|239~|240@|241~|242@|243@|244~|245~|246~|247~|248~|249~|250~|251~|252@|253~|255~|256~|257~|258~|259~|260~|261~|262~|263~|264~|265~|266~|267~|268@|269~|270~|271~|Ankara_1@|Arıklar Girişi Yolu=|Arıklar Mevki=|Ayaş Ankara%|Ayaş Kaplıca Ve İçmeceleri-=|Fatih Sitesi=|Hafız Tevfik Boşkök@|Sanayi Sitesi=|Sinanlı Yollu Köprü Altı-=|Tahir Er 2-@|Tahir Er@|Tuna Boylu~|Yeşil Bahçeli Evler 1-~|Yeşil Bahçeli Evler 2-~|Yusuf Gül Gök@|Zafer Konut Yapı Kooperetifi=|Şevket Çiftçioğlu@|Şevket Çifçioğlu Küme=
+177893	Evci Mah.	Evci=
+1939	Ferahfaki Mah.	Ankara_2@|Ayaş Ankara%|Ayter Sitesi=|Dibekbaşı~|Emine Tevfika Ayaşlı@|Emine Tevfika Ayaşlı Toki Konutları=|Hallaç~|Kesikbaş-~|Ova Bağları=|Seher Kuzgun Bağları=|Sülüklü 1-~|Sülüklü~|Yukarı Okul~
+177873	Feruz Mah.	Feruz=|Köy Pınaryaka=
+177875	Gençali Mah.	Gençali=|Karşıyaka=
+1949	Gökler Mah.	Bavlaz=|Gökler=
+177885	Gökçebağ Mah.	Gökçebağ=|Ulupınar=
+1940	Hacımemi Mah.	1.okul~|4~|5~|Agah Top@|Aktaş~|Ayaş Ankara%|Bülbüller~|Depo~|Hekim Şaban Şifai@|Huzur~|Ilıca~|Karadere~|Mehmet Şakir Efendi~|Muhlis Okay-@|Tepebaşı~|Yukarı Karadere=|Çakmak~|Özyörük~|İskender~|İğdeci~|Şakirefendi~
+1941	Hacırecep Mah.	1~|2~|Ankara_1@|Ayaş Ankara%|Elveren~|Fatih Sultan Mehmet@|Hasan Dede@|Kaldırım~|Kuyucak=|Musalla~|Onur~|Umut@|Uğur Ergür~|Yunus Emre@|Yörük=|İğdeli 1~|İğdeli 2~|İğdeli~
+1942	Hacıveli Mah.	1 Nolu~|17 Nolu~|2 Nolu~|3 Nolu-~|4 Nolu~|6~|Atom Ank.tic.mensupları K.y.koop.=|Ayaş Ankara%|Demirli Çakmak@|Dibek~|Dibekbaşı_1~|Fatih Sultan Mehmet-@|Hacıveli=|Hekim Şaban Şifai@|Kaldırım~|Kağnı Pazarı~|Kağnı Pazarı Yolu~|Killik-~|Killik1~|Killik2~|Mehmet Şakir Efendi~|Orhan Türker@|Yörük=|Çakmak Mevkii=|Çakmak~|İlyas Seçkin@|İğdeli 1~|İğdeli-~|Şair Ahmet Polat Ateş@
+177877	Ilıca Mah.	A Kümesi Ilıca=|B Kümesi Ilıca=|C Kümesi Ilıca=|D Kümesi Ilıca=
+177869	Oltan Mah.	500-~|501-~|502-~|503-~|504~|505~|506~|507-~|508-~|509~|510-~|511~|512-~|513~|514~|515-~|516-~|517-~|518-~|519-~|Ayaş-polatlı Yolu=|Bahçe..~|Doğan~|Emek (yeni)@|Emek@|Evren~|Fidan~|Gülami@|Hasanoğlu~|Konut@|Kızıloğlu~|Murat~|Mutlu~|Polatlı 1@|Polatlı 2@|Sanayi@|Sipahi~|Tekke~|Tepe~|Vatan~|Çerkez~|Çiftlik@|İmamoğlu~|Şehit Olgun Gökmen (yeni)@|Şehit Olgun Gökmen@
+177889	Ortabereket Mah.	Ayaş Ankara%|Ortabereket=|Selçuklu=
+177891	Pınaryaka Mah.	Köy Pınaryaka=|Selçuklu=
+1963	Sinanlı Cuma Mah.	50@|51~|52~|53~|54~|55~|56~|57~|58~|59~|60~|61~|62@|63~|64~|65~|66~|67@|68~|69~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|84~|85@|86@|87~|88~|89~|90~|91~|92~|93~|94~|95~|96~|Ahlatlı=|Akpınar@|Alpaslan~|Arı~|Ayaş Polatlı Yolu%|Ayvalı@|Ağıllar-=|Bahçelievler Koop. -=|Gayran~|Gelincik@|Hacıbey~|Hürriyet@|Lale_1~|Memişi@|Nenehatun~|Pınaraltı@|Seğmenler@|Yıldırım~|Çamözü=|Özal@|Özhen Tavukculuk=|İbni Sina@|İstiklal@
+1964	Sinanlı Hocasinan Mah.	100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|Akpınar@|Atatürk@|Avşar=|Ayaş Polatlı Yolu%|Ayvalı@|Bahçe@|Berkay Türkel~|Cumhuriyet_3 Myd.|Demirel@|Derince~|Ertekin@|Fatih~|Gayran~|Gelincik@|Güdülyolu@|Güven~|Karanfil-~|Kazım Karabekir@|Kağnı Yolu=|Kubilay~|Mehmet Akif Ersoy~|Mehmetçik~|Menderes@|Mevlana@|Mimar Sinan@|Okullar@|Paşa@|Pınaraltı@|Selbasan@|Selbasan-1~|Selbasan-3~|Selbasan-5~|Uluyol@|Uğurçayırı=|Yavuz Sultan~|Yeregömü~|Yunus Emre.@|Yıldırım~|Çeşme~|Ömer Can Türkel@|Ömer Şahtürk-@|Özal@|İnce_1~|İstiklal@
+1965	Sinanlı Mahkeme Mah.	10@|11~|12~|123-~|124~|125~|126~|127~|128~|129~|13~|130~|14~|15~|16~|17~|18~|19~|20~|21~|22~|23@|24~|25~|26~|27~|Akpınar-@|Bahçe_1@|Bağdat~|Bağlar~|Demirel@|Dereçeşme~|Derince~|Doruk~|Güdülyolu@|Kalender~|Kavak=|Köy Hizmetleri=|Pınaraltı@|Türbe~|Ulucami~|İstiklal@
+1950	Tekke Mah.	Atasoy=|Ceylan=|Karakoyunlu=|Tekke Küme=|Çamözü=
+1951	Ulupınar Mah.	Ulupınar=
+177881	Uğurçayırı Mah.	Ayaş Polatlı Yolu%|Balçiçek=|Ertekin@|Uğurçayırı=
+177883	Yağmurdede Mah.	Karaköy=|Ulupınar=|Yağmurdede=|Ören=
+1954	Çanıllı Uluyol Mah.	Ankara@|Atatürk_1 Myd.|Ayaş@|Açelye~|Cumhuriyet@|Gül~|Hun@|Ihlamur~|Kayı Boyları=|Köy Pınaryaka=|Lale~|Oğuzlar@|Pehlivan=|Selçuklu=|Söğüt@|Zambak~|İnce~|İstiklal_1@
+1953	Çanıllı Çiğdemci Mah.	Altay@|Ankara-@|Atatürk_1 Myd.|Cumhuriyet@|Göktürkler@|Gül~|Hun@|Karanfil~|Ladin~|Menekşe~|Pelit~|Sağlık~|Çiçek~|İstiklal_1@
+1943	Ömeroğlu Mah.	Ayaş Ankara%|Dibekbaşı~|Dispanser~|Hallaç~|Hekim Şaban Şifai@|Kesikbaş~|Kıymacı~|Sağlam~|Su Deposu~|Süzen 1@|Süzen 2@|Süzen 3@|Süzen 4@|Yukarı Okul~|Çıkmaz~|İbili~|İnci Pınarı~|Şekerpare~
+177879	İlhanköy Mah.	A Kümesi İlhanköy=|B Kümesi İlhanköy=|C Kümesi İlhanköy=
+1944	Şeyhmuhittin Mah.	Akpınar.~|Akça Tepe~|Akçatepe 1-~|Alay Mevki=|Cepanelik Yolu~|Eski Ankara Yolu~|Hekim Şaban Şifai-@|Hükümet@|Kara Koyunlu Çiftliği=|Karapınar~|Kiraz Dibi=|Köprübaşı~|Kışla~|Mehmet Necati Ongay~|Rüşvan~|Temenni@|Çamözü=|Çay-~

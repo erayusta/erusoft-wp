@@ -51,17 +51,19 @@ function tcknValid(d) {
 /**
  * Scan text line by line.
  * @param {string} text
- * @param {{hashes: Set<string>, plainTerms?: string[]}} opts
+ * @param {{hashes: Set<string>, plainTerms?: string[], skipTerms?: boolean}} opts
+ *   skipTerms: skip ONLY the client-term rule (hashed and plain lists); every pattern rule still runs.
+ *   Used for content-pinned public data files (tools/scrub-data-manifest.json).
  * @returns {{rule: string, match: string, line: number}[]}
  */
-export function scanText(text, { hashes, plainTerms = [] }) {
+export function scanText(text, { hashes, plainTerms = [], skipTerms = false }) {
   const out = [];
   const lines = String(text).split(/\r?\n/);
   const plain = plainTerms.map(normalize).filter(Boolean);
   lines.forEach((line, i) => {
     const ln = i + 1;
     const push = (rule, match) => out.push({ rule, match, line: ln });
-    const toks = tokenize(line);
+    const toks = skipTerms ? [] : tokenize(line);
     // n-grams of up to 4 tokens, joined without spaces, compared against the hashed / plain term lists
     const grams = new Set();
     for (let a = 0; a < toks.length; a++) for (let k = 1; k <= 4 && a + k <= toks.length; k++) {

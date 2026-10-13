@@ -1,0 +1,31 @@
+183657	Akpınar Mah.	Merkez~|Ulu~
+183659	Alutca Mah.	Alutca~|Mezra~
+183661	Balatdanişment Mah.	Balatdanişment~
+11379	Ballısaray Mah.	Ballı@|Harmancık@|Saray@
+183663	Bekdemirler Mah.	Bekdemirler~
+183669	Dedebali Mah.	Dedebali Merkez~|Gölcük~|Maraşatlar~
+183671	Delicegüney Mah.	Delicegüney~
+183673	Dutluca Mah.	Dutluca Merkez~|Koyak~
+11373	Ece Mah.	Zafer@
+183675	Gedikören Mah.	Koçpınar Mezrası~|Naccalar~|Orta~|Sıpahiler~
+183677	Gökçeler Mah.	Gökçeler Çınar~|Merkez~|İstasyon~
+183679	Gülözü Mah.	Gülözü~
+183681	Harmancık Akalan Mah.	Harmancık Akalan~
+183683	Hopandanişment Mah.	Hopandanişment Merkez~|Köçekler~
+183685	Ilıcaksu Mah.	Ilıcaksu~
+11380	Karaca Mah.	Gölet~|Karaca Dere~|Karahasan~|İshaklar@
+11376	Kepekdere Mah.	Albay Çetin@|Küplü~|Mahmutlar@
+183691	Kocapınar Mah.	Kocapınar~
+183693	Kozluca Mah.	Kozluca~
+11377	Kılavuzlar Mah.	Kılavuz@
+183689	Kışmanlar Mah.	Kışmanlar~
+11374	Merkez Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15 Temmuz Şehitleri Çevre Yolu@|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.~|30.~|4 Eylül@|4.~|5.~|6.~|7.~|8.~|9.~|Aktaş~|Akşemseddin~|Alaaddin@|Alparslan~|Aydemir~|Aydınlar~|Aytuğ Çıkmazı~|Bahçeli~|Barbaros~|Bayram~|Bağlar~|Bereket~|Beyazıt~|Billur~|Büyükalan@|Cennet~|Cevahir~|Ceyhan~|Cumhuriyet Myd.|Cvk Mineral Madencilik=|Deniz~|Dere~|Derebaşı~|Destan~|Didem~|Eko Turizm@|Erdoğan Şahinoğlu@|Ergenekon~|Ertuğrul Gazi@|Fatih~|Fatih Sultan Mehmet@|Ferman~|Fevzipaşa@|Fındıklı~|Garaj~|Gazi Ali Selçuk@|Gazi Beytullah Altın@|Gazi İsmail Temel@|Girne~|Gül~|Gümüş~|Gürekinler~|Güven~|Hastane~|Hayri Öğelman Mad.ltd.şti=|Hüdavendigar@|Hürriyet@|Karaveyis@|Kardelen~|Kavaklı~|Kelebek~|Keles@|Kirazlı~|Koza~|Kıbrıs~|Kısmet~|Malazgirt@|Menderes@|Mevlana~|Niyazi Albayrak~|Okul~|Okçu Şüca@|Orman~|Osman Gazi@|Panayır@|Piri Reis~|Prof.dr.mustafa Yurtkuran@|Recep Bodur@|Sancar~|Saraç~|Selçuklu~|Simav@|Sipahiler@|Sirke~|Stadyum~|Süleyman Zihni@|Sümbül~|Tavşanlı@|Tekinler~|Topbaşı@|Turgut Reis~|Turhal~|Yavuz Selim@|Yavuz~|Yeni Hayat@|Yeşil~|Yunus Emre@|Yıldırım~|Yıldız~|Zekai Gümüşdiş@|Çamlıca~|Çamoğlu~|Çardı 1.~|Çardı 2.~|Çardı 3.~|Çardı 4.~|Çayır~|Çağlar~|Çelebi Mehmet@|Çiğdem~|Çınar~|Ögelman@|Ünal~|İğdeyüzü@|Şahinler@|Şehit Fethi Sekin@|Şehit Ömer Halisdemir@|Şenbiçer~|Şirin Evler@|Şirin~
+183695	Nalbant Mah.	Aşağı~|Yukarı~
+183697	Okçular Mah.	Okçular~
+11375	Saçaklı Mah.	Saçaklı=
+11378	Yayabaşı Mah.	Atatürk@|Mehmetçik~
+183699	Yeşilyurt Mah.	Yeşilyurt~
+183665	Çakmak Mah.	Çakmak~
+11372	Çamoğlu Mah.	Merkez=
+183667	Çatalsöğüt Mah.	Bayramlar~|Demirciler~|Doğancılar~|Karagözler~
+183687	İshaklar Mah.	İshaklar~

@@ -1,0 +1,74 @@
+98734	Adaköy Köyü, Avdan Mevkii	
+19279	Adaköy Köyü, Merkez Mevkii	Adaköy Merkez Mahalle Yolu=|Ankara Zonguldak Yolu@
+19277	Adaköy Köyü, Yayla Yayla Evleri	Adaköy Yayla Yolu=
+19278	Adaköy Köyü, Çamurcuk Mevkii	Çamurcuk Mahalle Yolu=
+19286	Akıncılar Köyü	Akıncılar Köy Yolu=
+98735	Akıncılar Köyü, Arpalık Mevkii	
+19287	Akıncılar Köyü, Yayla Yayla Evleri	Akıncılar Yayla Yolu=
+10939	Asil Bey Mah.	113.~|12.~|15.~|16.~|19.~|20.~|21.~|23.~|24.~|25.~|26.~|28.~|36.~|4.~|47~|49~|51~|53.~|60.~|71~|73~|8.~|Dörtdivan@|Ekrem Doğanay@|Hükümet Myd.|Molla Hasan@|Osman Gazi@|Sanayi Sitesi=|Sanayi Sitesi Sosyal Tesis=|Sultan Reşat@|Yaşar Çelik@|Şair Dertli~
+98739	Aşağıkuldan Köyü, Acısu Mevkii	Acısu=|Aşağıkuldan Merkez Mahalle Yolu=
+19282	Aşağıkuldan Köyü, Boya Deresi-teper Mevkii	- Köy$
+19280	Aşağıkuldan Köyü, Merkez Mevkii	Anadolu Otoyolu@|Aşağıkuldan Merkez Mahalle Yolu=
+19283	Aşağıkuldan Köyü, Yayla Evleri Yayla Evleri	Anadolu Otoyolu@|Aşağıkuldan Yayla Yolu=
+19281	Aşağıkuldan Köyü, Yukarı Mevkii	Anadolu Otoyolu@|Yukarı Mahalle Yolu=
+10940	Camiatik Mah.	14.~|15 Temmuz Şehitler@|18.~|2.~|22.~|5.~|55.~|57.~|59.~|6.~|61.~|63~|65.~|67~|69.~|7.~|9.~|Dörtdivan@|Eskiçağa@|Fatih Sultan Mehmet@|Sultan Reşat 1@|Yeni İstanbul@
+19288	Dereköy Köyü, Karamanlar Mevkii	Karamanlar Mahalle Yolu=
+19291	Dereköy Köyü, Karşı Mevkii	Karşı Mahalle Yolu=
+19290	Dereköy Köyü, Merkez Mevkii	Dereköy Merkez Mahalle Yolu=
+19289	Dereköy Köyü, Yayla Evleri Yayla Evleri	- Köy$
+19293	Doğancı Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=
+98738	Doğancı Köyü, Ballar Mevkii	
+19292	Doğancı Köyü, Merkez Mevkii	Anadolu Otoyolu@|Doğancı Köy Yolu=
+19294	Doğancı Köyü, Yayla Yayla Evleri	Doğancı Yayla Yolu=
+19295	Eskiçağa Köyü, Merkez Mevkii	Ankara Zonguldak Yolu@|Eskiçağa Köy Yolu=
+19296	Gölbaşı Köyü, Ela Mevkii	Ela Mahalle Yolu=
+19297	Gölbaşı Köyü, Merkez Mevkii	Gölbaşı Merkez Mahalle Yolu=
+98733	Gölbaşı Köyü, Sazlık Mevkii	
+19298	Gölbaşı Köyü, Yayla Evleri Yayla Evleri	Gölbaşı Yayla Yolu=
+10941	Gölyüzü Mah.	1.~|11~|27~|29~|3.~|30.~|31~|32.~|33.~|34.~|35~|37~|38~|39~|41~|43.~|45~|Kuş Cenneti=|Yaşar Çelik@|Yeni İstanbul@
+98731	Hamzabey Köyü, Başçayır Mevkii	
+19299	Hamzabey Köyü, Dumanlar Mevkii	Dumanlar Mahalle Yolu=|Yayalar Mahalle Yolu=
+19303	Hamzabey Köyü, Dumanlar Yayla Yayla Evleri	- Köy$
+98732	Hamzabey Köyü, Güllük Mevkii	
+19306	Hamzabey Köyü, Karabeyler Mevkii	Köy Sokagı=
+19305	Hamzabey Köyü, Karabeyler Yayla Yayla Evleri	- Köy$
+19301	Hamzabey Köyü, Sağırlar Mevkii	Sağırlar Mahalle Yolu=
+19304	Hamzabey Köyü, Sağırlar Yayla Yayla Evleri	- Köy$
+19300	Hamzabey Köyü, Yayalar Mevkii	Dumanlar Mahalle Yolu=|Sirkeller Mahalle Yolu=|Yayalar Mahalle Yolu=
+19302	Hamzabey Köyü, Yayalar Yayla Yayla Evleri	- Köy$
+19308	Kemaller Köyü, Cevekeller Mevkii	Cevekeller Mahalle Yolu=
+19311	Kemaller Köyü, Merkez Mevkii	Cevekeller Mahalle Yolu=|Kemaller Merkez Mahalle Yolu=
+19307	Kemaller Köyü, Müezzinler Mevkii	Müezzinler Mahalle Yolu=
+19310	Kemaller Köyü, Nallar Mevkii	Nallar Mahalle Yolu=
+98740	Kemaller Köyü, Nallaraltı Mevkii	
+19309	Kemaller Köyü, Tavşallar Mevkii	Tavşallar Mahalle Yolu=
+19314	Kındıra Köyü, Bey Mevkii	Bey Mahalle Yolu=
+19312	Kındıra Köyü, Hasanağalar Mevkii	Hasanağalar Mahalle Yolu=
+19313	Kındıra Köyü, Merkez Mevkii	Kındıra Merkez Köy Yolu=
+98736	Sarayköy Köyü, Alaycılar Mevkii	
+19323	Sarayköy Köyü, Eroğlu Mevkii	Eroğlu Mahalle Yolu=
+19326	Sarayköy Köyü, Saray Mevkii	Saray Mahalle Yolu=
+19324	Sarayköy Köyü, Süleymanlar Mevkii	Süleymanlar Mahalle Yolu=
+19325	Sarayköy Köyü, Yayla Yayla Evleri	Sarayköy Yayla Yolu=
+19322	Sarayköy Köyü, İzmirli Mevkii	İzmirli Mahalle Yolu=
+98737	Yamanlar Köyü, Kozbayırı Mevkii	
+19335	Yamanlar Köyü, Merkez Mevkii	Yamanlar Merkez Mahalle Yolu=
+19334	Yamanlar Köyü, Orta Mevkii	Orta Mahalle Yolu=
+19336	Yukarıkuldan Köyü, Merkez Mevkii	Yukarıkuldan Köy Yolu=
+19337	Yukarıkuldan Köyü, Yayla Evleri Yayla Evleri	Yukarıkuldan Yayla Yolu=
+19285	Çamlık Köyü	Çamlık=
+19284	Çamlık Köyü, Yayla Yayla Evleri	Çamlık Yayla Yolu=
+19319	Ören Köyü, Ahmetler Mevkii	Ahmetler Mahalle Yolu=|Cevekeller Mahalle Yolu=
+19320	Ören Köyü, Gıgalar Mevkii	Cevekeller Mahalle Yolu=|Gıgalar Mahalle Yolu=
+19315	Ören Köyü, Hamzalar Mevkii	Hamzalar Mahalle Yolu=
+19321	Ören Köyü, Mitatlar Mevkii	Mitatlar Mahalle Yolu=
+19318	Ören Köyü, Osman Ağalar Mevkii	Osman Ağalar Mahalle Yolu=
+19316	Ören Köyü, Yayla Evleri Yayla Evleri	Ören Yayla Yolu=
+19317	Ören Köyü, Çakırlar Mevkii	Çakırlar Mahalle Yolu=
+19329	Şahnalar Köyü, Aşağı Mevkii	Ankara Bolu Yolu@|Aşağı Mahalle Yolu=
+19331	Şahnalar Köyü, Dereköy Mevkii	Dereköy Mahalle Yolu=
+19328	Şahnalar Köyü, Tepe Mevkii	Tepe Mahalle Yolu=
+19333	Şahnalar Köyü, Yayla Yayla Evleri	Şahnalar Yayla Yolu=
+19330	Şahnalar Köyü, Yukarı Mevkii	Yukarı Mahalle Yolu=
+19332	Şahnalar Köyü, Çay Mevkii	Çay Mahalle Yolu=
+19327	Şahnalar Köyü, Üç Evler Mevkii	Ankara Bolu Yolu@|Üç Evler Mahalle Yolu=

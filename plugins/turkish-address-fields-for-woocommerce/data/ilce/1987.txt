@@ -1,0 +1,18 @@
+79554	Alanyurt Köyü	 Köy$
+79555	Alpudere Köyü	 Köy$
+79556	Arpacıkaraçay Köyü	 Köy$
+79558	Ballıkaya Köyü	 Köy$
+79557	Balıkhisar Köyü	 Köy$
+79559	Bayazıt Köyü	 Köy$
+78015	Belpınar Köyü	 Köy$
+79560	Buğdaylı Köyü	 Köy$
+70998	Fatih Mah.	15 Temmuz Şehitler@|Astsubay Ömer Halisdemir@|Fatih@|Gazi~|Gonca~|Lale~|Sağlık~|Yavuz Sultan Selim@|Çiçek~
+70999	Gaziosmanpaşa Mah.	Ahmet Gülhan~|Alparslan@|Atatürk Cad. 1.küme=|Atatürk Cad. 2. Küme=|Atatürk@|Cami~|Güven~|Hilal~|Kadife~|Kültür~|Lale~|Sanayi~|Yavuz Sultan Selim@|Yıldız~|Çınar~|Şehit Mehmet Güder@
+79562	Ilıcak Köyü	 Köy$
+183830	Malum Seyit Tekke Mah.	Adnan Menderes~|Alem~|Ali Hoca~|Alparslan~|Alperenler~|Ateşoğlu~|Bakacak~|Barbaros~|Beşparmak~|Ergenekon~|Fatih~|Güneş~|Güvendik~|Kale~|Kubilay~|M.turgut Özal~|Mehmet Akif Ersoy~|Seyit Ömer~|Turbe~|Turgut Reis~|Yapıcılar~|Yavuz Selim~|Yıldız~|Şenyurt~|Şht. Sadık Bezer~|Şht.mustafa Yıldırım~
+71000	Menderes Mah.	Birlik 1=|Birlik 2=|Birlik 3=|Birlik~|Milli Egemenlik 1=|Milli Egemenlik 2=|Milli Egemenlik 329@|Sümbül 1=|Sümbül~|Yıldız~
+78036	Sarıyaprak Köyü, Merkez Mevkii	 Köy$
+79563	Selimiye Köyü	 Köy$
+79564	Tekkeyeni Köyü	 Köy$
+79565	Uylubağı Köyü	 Köy$
+79561	Çime Köyü	 Köy$

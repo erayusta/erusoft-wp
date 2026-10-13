@@ -1,0 +1,14 @@
+55194	Allıören Köyü	1.=|2.=|3.=|4.=|5=|6. K.d.~|Allıören=
+55195	Arpalı Köyü	1.sokak=|2.sokak=|3.sokak=|4.kd=|Arpalı=
+55193	Ağaç Köyü	1.~|2.=|3.=|4~|5.=|Ağaç=
+55196	Büyükaslıhanlar Köyü	1. Sokak~|2.sokak=|3.sokak=|4.sokak=|5.sokak=|6.sk=|7.sk Kd=|Afyon Kütahya Karayolu@|Büyükaslıhanlar=
+51487	Cafergazi Mah.	15 Temmuz Şehitler@|Afyon Kütahya Yolu@|Akdeniz@|Altıntaş@|Asım Gündüz@|Ddy Civarı~|Dere~|Gaziler@|Gaziler~|Hilal@|Kahramanlar~|Karapınar~|Kurtuluş@|Kıbrıs@|Mehmetcik~|Mescid-~|Mescit~|Namık Kemal~|Orman~|Salih Omurtak@|Seğmen~|Topçu~|Uşak@|Ziya Paşa~|Çay~|İstiklal~|İzzet Paşa~|Şeker~|Şht.er.mehmet Kahraman@
+51488	Cumhuriyet Mah.	30 Ağustos@|Cafer Pekmez@|Camii~|Dede Altı~|Dede Üstü~|Fırın~|Gaziler@|Hükümet@|Işık~|Kahramanlar~|Kovalıpınar~|Meydan~|Uşak@|Yayla~|Yayık~|Çakır~|Çay~|Ülkü~|İstiklal~|Şehit Astsubay Ömer Halisdemir@|Şehitler~|Şehitlik~
+55197	Eyidemir Köyü	1.=|2~|3.=|4 Kd~|Eyidemir=
+55198	Hamur Köyü	1=|2=|3~|4kd=|Hamur=
+55200	Küçükaslıhanlar Köyü	1.~|2.~|2./1~|3.=|4.=|5.~|5/1.~|Afyon Kütahya Karayolu@|Küçükaslıhanlar=
+55199	Kızılca Köyü	- Köy$|1.sokak=|1.sokak/1~|1.sokak/2~|10.sokak~|10/1 Sokak~|10/2 Sokak~|10/3 Sokak~|10/4 Sokak~|11.sokak~|11/1 Sokak~|12 Köy Dışı=|2.sokak=|3.sokak~|4.sokak~|4/1 Sokak~|4/2 Sokak~|4/3 Sokak~|4/4 Sokak~|4/5 Sokak~|4/6 Sokak~|4/7 Sokak~|4/8 Sokak~|4/9 Sokak~|5.sokak~|6.sokak~|6/1 Sokak~|7.sokak~|8.sokak~|8/1 Sokak~|8/2 Sokak~|8/3 Sokak~|9.sokak~|9/1 Sokak~|9/2 Sokak~|9/3 Sokak~|9/4 Sokak~|Afyon Kütahya Karayolu@
+55201	Selkisaray Köyü	1.=|2.=|3.sokak Kd~|Selkisaray=
+51489	Turgut Özal Mah.	Afyon Kütahya Yolu@|Altıntaş@|Anıt Myd.|Ata@|Ddy Civarı~|Değirmen~|Fahrettin Altay@|Fatih~|Gül~|Hafız Mehmet@|Kemer~|Kılıç~|Mehmet Dumlu@|Yavuz~|Yeni Doğan~|Yeni Doğan Çıkmaz~|İsmet Paşa@|Şht.er Yaşar Yıldız@|Şht.er.mehmet Kahraman@
+55202	Yüylük Köyü	1. Sokak/köyün Kendisi=|2. Sokak/köyün Kendisi=|Kd.sokak/köyün Kendisi~|Yüylük=
+51490	Zafer Mah.	Afet İnan~|Altıntaş@|Altıntaş Yolu@|Anıt Myd.|Atatürk@|Cafer Pekmez@|Doğan~|Egemenlik~|Fahrettin Altay@|Fevzi Çakmak@|Hafız Mehmet@|Halide Edip Adıvar~|Hükümet@|Kazım Karabekir@|Kazım Orbay@|Kızılay~|Kızılca=|Pınar~|Yıldırım~|İsmet Paşa@|İstiklal~|Şht.er Yaşar Yıldız@|Şht.er.mehmet Kahraman@

@@ -1,0 +1,22 @@
+140386	Altınçanak Mah.	Avcılar~|Etikrom@|Hasanrut@|Kaya~|Kerikan=|Kurankursu=|Lavar=|Yeni Camii@|Çavuş Evleri=
+196395	Altıoluk Mah.	Altıoluk~|Şenova~
+28011	Bakladamlar Köyü	Bakladamlar=
+28017	Esenlik Köyü	 Köy$
+21374	Gülaman Mah.	Mehmedan=|Nergek=|Pazvaare=|Sağlık Ocağı=
+140390	Gündoğdu Mah.	Gölalan=|Karakol=|Karataş=|Tosunlar=|Şarkkromları Myd.
+28018	Gürçubuk Köyü	 Köy$
+28019	Halkalı Köyü	 Köy$
+28024	Kayranlı Köyü	Kayranlı=
+140388	Merkez Mah.	Etikrom@|Etikrom Lojmanları=|Hastahane@|Havuzlu~|Şarkkromları Myd.
+140803	Sularbaşı Mah.	Sularbaşı~
+28026	Yalnızdamlar Köyü	 Köy$
+28027	Yalnızdamlar Köyü, Bağin Mezrası	Bağin=
+28012	Çakmakkaya Köyü	 Köy$
+28014	Çanakça Köyü	 Köy$
+28013	Çanakça Köyü, Davan Mezrası	 Köy$
+28015	Çataklı Köyü	 Köy$
+28016	Çataklı Köyü, Çallıca Mezrası	 Köy$
+28020	İncebayır Köyü	 Köy$
+28021	İncebayır Köyü, Düzağaç Mezrası	 Köy$
+28022	İncebayır Köyü, Oğuz Mezrası	 Köy$
+28023	İncebayır Köyü, Yılmaz Mezrası	 Köy$

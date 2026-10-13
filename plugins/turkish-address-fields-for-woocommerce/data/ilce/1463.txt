@@ -1,0 +1,80 @@
+90408	Altuntaş Mah.	Aksan~|Aksan/1~|Akın~|Akın/1~|Ankara@|Ankara/1~|Ankara/2~|Ankara/3~|Asma~|Atatürk%|Atatürk/2~|Badem~|Bayır~|Bedir~|Cezaevi~|Cezaevi Üstü 1~|Civan~|Diriler~|Enes~|Ertuğrul Yurdagül@|Eser~|Eti~|Gaffar Okkan~|Gaffar Okkan/1~|Gazi Mesut Aksan~|Hastane~|Hastane Üstü Blokları~|Hastane/1~|Hilal~|Hüdaverdi Atakul@|Hüdaverdi Atakul/1~|Kaymakamlık Lojmanı~|Kiraz - 1=|Koç~|Kurşunkaya=|Kızılay~|Mehmetçik~|Mercan~|Metin Atakul~|Mola Mevki=|Nur~|Nur/1~|Pevrul Kavlak@|Recep Uzelli@|Said~|Said/1~|Saka/1~|Sema~|Sema/1~|Söğütlü/1~|Sümbül/1~|Toki Evleri=|Toraman~|Tuğra~|Yenievler~|Yiğit~|Zümre~|Zümrüt~|Zümrüt/1~|Özbek Saran@|Özbek Saran/1~|Özbek Saran/2~|Özbek Saran/4~|Özden~|Özler~|İmamı Azam~|İmamı Azam/1~|İnce~|Şakir Berk~|Şehit Ahmet Ergün~|Şehit Erhan Tekin~|Şehit Eyüp Torunlu~|Şehit Hasan Aygör~|Şehit Haydar Keleş~|Şehit Mehmet Berk~|Şehit Mustafa Kayaş~|Şehit Mustafa Olkaç~|Şehit Mustafa Olkaç/1~|Şehit Orhan Dağ~|Şehit Orhan Dağ/1~|Şehit Orhan Dağ/2~|Şehit Orhan Dağ/3~|Şehit Orhan Dağ/6~|Şehit Saffet Kuzucu~|Şehit Serkan Gençer~|Şehit Şüleyman Demirel~|Şengül~
+93131	Armutlu Köyü	Armutlu=
+93132	Aşağışıh Köyü	Aşağışıh=
+93133	Barak Köyü	Barak=
+93134	Barakobası Köyü	Barakobası=
+93136	Barakobası Köyü, Elifoğlu Mevkii	Elifoğlu=
+93135	Barakobası Köyü, Taşlık Mevkii	Taşlık=
+93137	Barakobası Köyü, Ömerin Mevkii	Ömerin=
+93138	Beşler Köyü	Beşler=
+90409	Bozkurt Mah.	Akkum~|Akkum/1~|Akkum/2~|Akkum/3~|Arıca~|Arıca/1~|Arılık~|Atik~|Bakırcılar-~|Baltacı~|Banka-~|Bedesten İçi-~|Bozkurt~|Bozkurt/1~|Bülbül 1~|Cami-~|Can~|Canlı~|Cin Ali Yolu@|Cin Ali Yolu/2~|Dar~|Dere~|Dikey~|Doymaz~|Doymaz/1~|Doymaz/2~|Doymaz/3~|Ergin-~|Ertuğrul Yurdagül@|Günay~|Günay/1~|Güven~|Güven/1~|Hal-~|Kaya~|Kayseri Yolu 1=|Kayseri Yolu@|Kayseri Yolu/1~|Kayseri Yolu/2~|Kayseri Yolu/3~|Kayseri Yolu/4~|Kayseri Yolu/70~|Kayseri Yolu/71~|Kayseri Yolu/72~|Kayseri Yolu/73~|Kayseri Yolu/74~|Kayseri Yolu/77~|Kayseri Yolu/78~|Kayseri Yolu/80~|Kayseri Yolu/81~|Keskin Yolu 1~|Konur~|Koç~|Koç/1~|Kudret Taşan~|Kudret Taşan/1~|Kudret Taşan/2~|Kudret Taşan/3~|Kudret Taşan/4~|Kudret Taşan/5~|Kudret Taşan/6~|Kırşehir@|Mağara Yolu 7~|Mağara Yolu~|Mağara Yolu/1~|Mağara Yolu/10~|Mağara Yolu/11~|Mağara Yolu/12~|Mağara Yolu/13~|Mağara Yolu/14~|Mağara Yolu/15~|Mağara Yolu/16~|Mağara Yolu/17~|Mağara Yolu/18~|Mağara Yolu/19~|Mağara Yolu/2~|Mağara Yolu/25~|Mağara Yolu/27~|Mağara Yolu/28~|Mağara Yolu/3~|Mağara Yolu/4~|Mağara Yolu/6~|Mağara Yolu/7~|Mağara Yolu/9~|Mert-~|Mustafa Necmettin~|Mustafa Necmettin/1~|Mustafa Necmettin/2~|Susam~|Taşlı~|Tepe 1~|Tepe 2~|Tepe/2~|Tepecik~|Test~|Toraman~|Toraman-~|Yirik Yaşar Köstekli~|Yirik Yaşar Köstekli/1~|Yirik Yaşar Köstekli/2~|Yılmaz-~|Çan~|Çerikli Yolu@|Örnek~|Ülkü-~|Şehit Meryem Yılmaztürk~|Şehit Polis Behram Aktaşlı~|Şehit Resul Dündar~|Şehit Resul Dündar/1~|Şehit İbrahim Ilıcan-~|Şekerciler-~|Şen~
+93140	Büyükceceli Köyü	Büyükceceli=
+93139	Büyükceceli Köyü, Köşker Mevkii	Köşker=
+93141	Cabatobası Köyü	Cabatobası=
+93142	Cankurtaran Köyü	Cankurtaran=|Mola Mevki=
+99246	Cankurtaran Köyü, Organize Sanayi Bölgesi Mevkii	1~|2~|3~|4~|5~|6~|7~|8~|Cankurtaran~
+93143	Cebrailli Köyü	Cebrailli=
+93144	Ceritkale Köyü	Ceritkale=
+90416	Ceritmüminli Köyü, Güneş Mevkii	Atatürk@|Ceritmüminli/1~|Ceritmüminli/10~|Ceritmüminli/11~|Ceritmüminli/12~|Ceritmüminli/2~|Ceritmüminli/3~|Ceritmüminli/5~|Gündoğdu@|Kartal@|Kumlak~|Neşe~|Otluk~|Sümbül~|Vatan~
+90414	Ceritmüminli Köyü, Tandoğan Mevkii	Atatürk@|Atatürk/2~|Cami-~|Ceritmüminli~|Ceritmüminli/1~|Ceritmüminli/10~|Ceritmüminli/14~|Ceritmüminli/17~|Ceritmüminli/26~|Ceritmüminli/27~|Dere~|Gündoğdu@|Kartal@|Mezarlık@|Sağlık Lojmanları=|Tuna~|Şehit Haydar Keleş@
+90415	Ceritmüminli Köyü, Ufuk Mevkii	Atatürk@|Ceritmüminli~|Ceritmüminli/1~|Ceritmüminli/16~|Ceritmüminli/21~|Ceritmüminli/23~|Ceritmüminli/24~|Dere~|Karadüz-=|Kartal@|Kenar-~|Mezarlık@|Otluk~|Palazoğlu~|Sarp~|Tuna~|Çay~|Çayır-=|İnönü@|Şehit Haydar Keleş@
+93145	Ceritobası Köyü	Ceritobası=
+93147	Ceritobası Köyü, Acıçiftliği Mevkii	Acıçiftliği=
+93146	Ceritobası Köyü, Yenimerden Mevkii	Yenimerden=
+93148	Cinali Köyü	Cinali=
+93149	Cinali Köyü, Hamit Mevki Yayla Evleri	Hamit Mevki=
+93157	Danacıobası Köyü	Danacıobası=
+93156	Dağsolaklısı Köyü	Dağsolaklısı=
+93158	Efendiköy Köyü	Efendiköy=
+93159	Eminefendi Köyü	Eminefendi=
+93160	Eroğlu Köyü	Eroğlu=
+93161	Esatmüminli Köyü	Esatmüminli=
+93162	Eskialibudak Köyü	Eskialibudak=
+93163	Gazibeyli Köyü	Gazibeyli=
+93165	Göktaş Köyü	Göktaş=
+93164	Göçbeyli Köyü	Göçbeyli=
+93166	Gülkonak Köyü	Gülkonak=
+90410	Gündoğdu Mah.	Bahçelievler~|Bahçelievler/1~|Bahçelievler/2~|Bahçelievler/3~|Bahçelievler/5~|Bahçelievler/6~|Bahçelievler/7~|Bahçelievler/8~|Balıkcı~|Balıkcı/1~|Canatan~|Canatan/1~|Cin Ali Yolu@|Cin Ali Yolu/1~|Dağ~|Dilim~|Dutluk~|Emel~|Emel/1~|Ergin~|Gümüş~|Gündoğdu 1~|Gündoğdu@|Gündoğdu/4~|Gürbüz~|Hançer~|Hançer/1~|Jale~|Jale/1~|Karmen 1~|Kaybal~|Kaybal/1~|Kirazoğlu=|Kör~|Kıraç~|Kırşehir@|Kıvrım~|Kıvrım/1~|Limon~|Limon/2~|Orman~|Orman/1~|Pınar~|Pınar/1~|Pınar/2~|Seylan~|Seylan/1~|Seylan/2~|Seylan/3~|Süleyman Müftüoğlu~|Sümbül~|Sümbül/2~|Sümbül/4~|Tokaylar~|Yaşar Demirel~|Yozgat@|Yılmaz~|Çerikli Yolu@|Çerikli Yolu/1~|Çerikli Yolu/10~|Çerikli Yolu/11~|Çerikli Yolu/12~|Çerikli Yolu/2~|Çerikli Yolu/20~|Çerikli Yolu/3~|Çerikli Yolu/4~|Çerikli Yolu/5~|Çerikli Yolu/6~|Çerikli Yolu/7~|Çerikli Yolu/8~|Çerikli Yolu/9~|Çeşme~|Çeşme/1~|Çeşme/2~|Çeşme/3~|Çeşme/4~|Çeşme/5~|Çeşme/6~|Çeşme/7~|Çeşme/8~|Çilek~|Örnek~|Özet~|Şehit Adem Zongür 2~|Şehit Celil Ucacelik~|Şehit Polis Serdar Özkılıç~|Şehit Polis Serdar Özkılıç/2~|Şehit Polis Serdar Özkılıç/3~
+93167	Hacıaliobası Köyü	Cabatobası=|Hacıaliobası=
+93168	Hacıömersolaklısı Köyü	Hacıömersolaklısı=
+93169	Haydardede Köyü	Haydardede=
+93172	Karafakılı Köyü	Karafakılı=
+93173	Kasımağa Köyü	Kasımağa=
+93174	Kavlak Köyü	Kavlak=
+93175	Kavurgalı Köyü	Kavurgalı=
+93176	Kayalaksolaklısı Köyü	Kayalaksolaklısı=
+93171	Kaçakköy Köyü	Kaçakköy=
+93177	Kevenli Köyü	Kevenli=
+90417	Konur Köyü, Bahçelievler Mevkii	Arap Akalın~|Atatürk~|Cami~|Cumhuriyet~|Hacı Mustafa Yardımcı~|Hacı Mustafa Yardımcı/1~|Hacı Mustafa Yardımcı/2~|Hacı Mustafa Yardımcı/3~|Hasan Kapan~|Hasan Kapan/1~|Himmet Hoca~|Mahir Mızrak-~|Mansuroğlu~|Mehmet Akif~|Oruçoğlu-~
+90418	Konur Köyü, Güzelyaka Mevkii	Atatürk~|Atatürk/1~|Atatürk/2~|Atatürk/3~|Cebrail~|F.sultan Mehmet~|Hasan Kapan~|Sanverler-~|Zafer~|Zafer/1~|Zafer/2~|İsmail Soyalp~|İstiklal~|İstiklal/1~
+90419	Konur Köyü, Karşıyaka Mevkii	Elmalı~|Fidan~|Fidan/2~|Halil Özdağ~|Hasan Kapan Sokak~|Himmet Hoca~|Himmet Hoca/1~|Hürriyet~|Mahir Mızrak~|Mehmet Akif~|Mehmet Akif/1~|Mehmet Mızrak~|Mustafa Kapan~|Nuri Canöz~|Nuri Koşal~|Nuri Koşal/1~|Okul~|Sanverler~|Tevfik Canöz-~|Zafer~|İstiklal~
+90420	Konur Köyü, Yeşiltaş Mevkii	1.~|2.~|3.~|3./2~|4.-~|5.-~|6.-~|Arap Akalın~|Arap Ali Onay~|Arap Ali Onay/2~|Atatürk~|Atatürk/4~|Doğan~|Elmalı~|Elmalı/1~|Elmalı/2~|Elmalı/3~|Elmalı/4~|Hacı Mustafa Yardımcı/2~|Haydar Sultan~|Haydar Sultan/1~|Haydar Sultan/2~|Haydar Sultan/4~|Haydar Sultan/5~|Haydar Sultan/7~|Kırcı~|Mahir Mızrak~|Mahir Mızrak/2~|Mustafa Kemal Bulvarı~|Mustafa Kemal Bulvarı/1~|Mustafa Kemal Bulvarı/2~|Mustafa Kemal Bulvarı/5~|Vatan~|Çaliçi~|Çaliçi/1~|Çaliçi/2~|Çaliçi/3~
+93178	Konurhacıobası Köyü	Konurhacıobası=
+93179	Kurşunkaya Köyü	Kurşunkaya=|Mola Mevki=
+93180	Kuzugüdenli Köyü	Kuzugüdenli=
+90421	Köprüköy Köyü, Fatih Mevkii	10~|11~|12~|13~|14-~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31-~|32-~|33-~|34-~|35~|36~|37~|38~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|5~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|61~|62~|64~|7~|8~|9~|Ankara~|Atatürk~|Boruklu-~|Cumhuriyet~|Cumhuriyet/4~|Demirhan~|Ergenekon~|Fevzi Çakmak~|Gökce~|Köroğlu~|Mevlana~|Millet~|Mimar Sinan~|Serdaroğlu/2~|Yunus Emre~|Özkavak~|İl Yolu-~|Şahin~
+90422	Köprüköy Köyü, Karşıyaka Mevkii	100~|101~|102~|103~|104~|105~|106~|107~|108-~|109-~|110~|111~|112-~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126-~|127~|128-~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141-~|39~|63~|76~|86~|87~|88~|89-~|90-~|91~|92~|93~|94~|95~|96~|97~|98~|99~|Ankara~|Ankara/1~|Bilinmeyenkarşıyaka/2~|Cumhuriyet~|Dalokay~|Erdem~|Fakıoğlu~|Filiz-~|Hacıhasan~|Hacıhasan/1~|Kasımlar~|Köprülüler~|Köprülüler/2~|Köprülüler/3~|Köprülüler/8~|Lale~|Menekşe-~|Mimar Sinan~|Serdaroğlu~|Serdaroğlu/2~|Sultan Selim~|Sümbül~|Taşboynu-~|Yayla~|Yağmur~|Çiğdem~|İl Yolu-~|İnönü~|Şehit İsmail Taşdelen~
+90423	Köprüköy Köyü, Yeni Mevkii	1~|4-~|65~|66~|67-~|68-~|69~|70~|71~|72-~|73~|74-~|75~|76~|77~|78~|79-~|80-~|81~|82~|83~|84-~|85~|Ankara~|Boruklu~|Bucak-~|Cumhuriyet~|Demirci-~|Fatih Sultan Mehmet~|Fevzi Çakmak~|Ilıca~|Karanfil-~|Keskin~|Köprüköy~|Köprüköy/10~|Köprüköy/8~|Kızılırmak~|Sanayi~|Zafer~|İl Yolu~|İl Yolu/7~
+90411	Maden Mah.	Abdurrahman Çanga~|Atmaca~|Bülbül~|Bıldırcın 1~|Ceviz~|Eski Sanayi 2~|Gazi@|Güvercin~|Horozlu~|Kıbrıs Kümesi@|Leylek~|Mehmet Arif Oğlu@|Mehmet Arif Oğlu/1~|Mehmet Arif Oğlu/2~|Mehmet Arif Oğlu/3~|Mehmet Arif Oğlu/5~|Mola Mevki=|Ressam Rahmi Pehlivanlı@|Saka~|Üveyik~|Şahin 1~|Şahin 2~|Şahin 3~|Şahin/3~|Şehit Ali İhsan Okatan~|Şehit Ali İhsan Okatan/1~|Şehit Ayhan Baran~|Şehit Bayram Döğeroğlu~|Şehit Bekir Erkaç~|Şehit Faik Demirkan~|Şehit Hüseyin Özmen~|Şehit Orhan Dağ~|Şehit Orhan Dağ/2~|Şehit Ramazan Bekar~|Şehit Saffet Kuzucu~|Şehit Serhat Geçer~|Şehit Vedat Kutluca~|Şehit Zülfikar Karalök~|Şehit İsmail Taşdelen~|Şehit İsmail Taşdelen/1~
+93181	Müsellim Köyü	Müsellim=
+93182	Olunlu Köyü	Olunlu=
+93183	Olunlu Köyü, Aşağı Olunlu Mevkii	Aşağı Olunlu=|Olunlu=
+93184	Ortasöken Köyü	Ortasöken=
+93185	Polatyurdu Köyü	Polatyurdu=
+93186	Seyfli Köyü	Seyfli=
+93187	Takazlı Köyü	Takazlı=
+93188	Turhanlı Köyü	Turhanlı=
+90412	Yeni Mah.	Ankara@|Aslan Yıldırım@|Aslan Yıldırım/1~|Canan~|Cemcem=|Cennet~|Cöke~|Cöke/1~|Deri~|Ela~|Fatih@|Gül~|Gül/1~|Hacı Taşan~|Kayalak~|Kayalak/1~|Kayalak/2~|Kayalak/3~|Kayalak/5~|Kayalak/6~|Kayalak/7~|Kayalak/8~|Kayseri Yolu@|Kayseri Yolu/10~|Kayseri Yolu/11~|Kayseri Yolu/12~|Kayseri Yolu/13~|Kayseri Yolu/14~|Kayseri Yolu/15~|Kayseri Yolu/16~|Kayseri Yolu/17~|Kayseri Yolu/18~|Kayseri Yolu/19~|Kayseri Yolu/20~|Kayseri Yolu/21~|Kayseri Yolu/22~|Kayseri Yolu/23~|Kayseri Yolu/24~|Kayseri Yolu/25~|Kayseri Yolu/26~|Kayseri Yolu/27~|Kayseri Yolu/28~|Kayseri Yolu/29~|Kayseri Yolu/30~|Kayseri Yolu/31~|Kayseri Yolu/32~|Kayseri Yolu/33~|Kayseri Yolu/34~|Kayseri Yolu/35~|Kayseri Yolu/36~|Kayseri Yolu/37~|Kayseri Yolu/38~|Kayseri Yolu/39~|Kayseri Yolu/40~|Kayseri Yolu/41~|Kayseri Yolu/42~|Kayseri Yolu/45~|Kayseri Yolu/46~|Kayseri Yolu/47~|Kayseri Yolu/48~|Kayseri Yolu/49~|Kayseri Yolu/50~|Kayseri Yolu/51~|Kayseri Yolu/52~|Kayseri Yolu/53~|Kayseri Yolu/55~|Kayseri Yolu/56~|Kayseri Yolu/57~|Kayseri Yolu/58~|Kayseri Yolu/59~|Kayseri Yolu/60~|Kayseri Yolu/61~|Kayseri Yolu/62~|Kayseri Yolu/63~|Kayseri Yolu/65~|Kayseri Yolu/66~|Kayseri Yolu/67~|Kayseri Yolu/68~|Kayseri Yolu/69~|Kayseri Yolu/75~|Kayseri Yolu/76~|Keskin Yolu 1~|Keskin Yolu/1~|Keskin Yolu/1.1~|Kınalı~|Leylak~|Menekşe~|Metin Öge~|Nazlı~|Nazlı/1~|Neşet Ertaş~|Papatya~|Seren-~|Seyit Çevik~|Sude-@|Söğütlü~|Söğütlü/2~|Topal Seyfettin Yıldırım@|Topal Seyfettin Yıldırım~|Topal Seyfettin Yıldırım/4~|Yamaç~|Yıldırım Beyazıt@|Yıldırım Beyazıt/1~|Zambak~|Çiğdem~|Çiğdem/1~|Çiğdem/2~|Çiğdem/3~|İğde~|Şehit Kenan Arı~|Şehit Serkan Gençer~|Şehit Süleyman İnanç~|Şehit Süleyman İnanç/1~|Şehit Süleyman İnanç/2~|Şehit Süleyman İnanç/3~|Şehit Süleyman İnanç/4~|Şehit Süleyman İnanç/5~|Şehit Süleyman İnanç/6~|Şehit Süleyman İnanç/7~|Şehit Süleyman İnanç/8~|Şehit Süleyman İnanç/9~
+93191	Yenialibudak Köyü	Yenialibudak=
+90413	Yenice Mah.	Abdurrahman Çanga~|Akcan Pasajı=|Altınsoy~|Arzu Bağları=|Atatürk%|Ağçeşme=|Bakırcılar~|Banka~|Barışık~|Bedesten İçi~|Bekir Kavlak~|Bekçe~|Belediye İş Merkezi=|Cami~|Ceviz-~|Cezaevi Üstü 1~|Cumhuriyet~|Demirciler~|Dilek~|Dolaşık~|Doğu~|Duru~|Dutluk~|Emir~|Engin~|Eren~|Erkanlı~|Esen~|Eski Sanayi 2~|Eski Sanayii 1@|Fidan~|Filiz~|Gazhane~|Girne~|Gülle~|Gümüş~|Gürbüz Bürbüztürk@|Hacı Ahmet Efendi Yurdakul~|Hal~|Hal İci~|Hüdaverdi Atakul@|Işık~|Kapaklı/1~|Karanfil~|Kasım~|Kibrithane~|Kirazoğlu=|Kınacı~|Kırşehir@|Kızılay~|Maden~|Magosa~|Mehmet Arif Oğlu@|Mert~|Mert/1~|Narin~|Parla~|Prof.dr.beşir Atalay@|Ressam Rahmi Pehlivanlı@|Saksı~|Sağlık~|Sorgun=|Topallar=|Tuna~|Tuna/1~|Ufuk~|Vişne~|Yagmur~|Yayla~|Yeniköy=|Yozgat@|Yozgat/1~|Yıldırım~|Yıldız~|Zeynep Gürbüz Türk~|Çınar~|Ömer Faruk Avunduklu Oğlu~|Ömer Faruk Avunduklu Oğlu/1~|Ömür~|Ülkü~|Ümit~|İncek~|İner~|Ş.teğmen Adnan Kaan@|Şah~|Şehit Adem Zongür 2~|Şehit Ali Osman Sorgun~|Şehit Arap Olkaç~|Şehit Astsubay Ömer Halisdemir@|Şehit Ayhan Babadağ~|Şehit Ayhan İcöz~|Şehit Orhan Başal~|Şehit Saffet Kuzucu~|Şehit Vedat Kutluca~|Şehit Vedat Kutluca-~|Şehit Zülfikar Karalök~|Şehit İbrahim Ilıcan~|Şehit Şuayip Sakallı~|Şehit Şüleyman Demirel~|Şehitler~|Şekerciler~
+93192	Yeniyapan Köyü	Yeniyapan=
+93193	Yoncalı Köyü	Yoncalı=
+93150	Çalış Köyü	Çalış=
+93151	Çamurabatmaz Köyü	Çamurabatmaz=
+93152	Çipideresi Köyü	Çipideresi=
+93155	Çipideresi Köyü, Keskinkayalar Mevkii	Keskinkayalar=
+93154	Çipideresi Köyü, Kürek Mevkii	Kürek=
+93153	Çipideresi Köyü, Topallar Mezrası	Topallar=
+93189	Üçevler Köyü	Olunlu=|Üçevler=
+93190	Üçkuyu Köyü	Üçkuyu=
+93170	İnziloğlu Köyü	İnziloğlu=

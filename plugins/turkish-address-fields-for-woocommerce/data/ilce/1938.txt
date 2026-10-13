@@ -1,0 +1,28 @@
+6614	Alanköy Köyü	Alanköy=
+1360	Arkutbey Mah.	Atatürk@|Belediye@|Belediye1~|Cumhuriyet Myd.|Gümüşhacıköy@|Kaplıca~|Kaplıca/1~|Menekşe~|Mert~|Okul~|Portakal~|Pınar Çıkmazı~|Sanayi~|Sanayi-2~|Sarıçamlar~|Sağlık~|Stadyum@|Su Deposu Yolu=|Tuzcu~|Yavuzlar~|Zümrüt Artukbey~|Çiçek Çıkmazı~|Çiğdem~|Çiğdem/1~|Çorum@|Çorum/1~|Şehit Alaattin Pergel~|Şehit Ertan Taş~|Şehit Ertan Taş/1~|Şehit Mehmet Alaca~|Şehit Mehmet Alaca/1~|Şehit Metin Aptullah Özışık~|Şehit Metin Aptullah Özışık/1~
+6616	Arpadere Köyü, Merkez Mevkii	Arpadere=
+6615	Arpadere Köyü, Orta Mevkii	Orta=
+6617	Arpadere Köyü, Saraçlar Mevkii	Saraçlar=
+6624	Damladere Köyü	Damladere=
+6626	Dedeköy Köyü	Dedeköy=
+6625	Dedeköy Köyü, Yayla Yayla Evleri	Dedeköy=|Yayla=
+6629	Gölköy Köyü	Gölköy=
+6628	Gölköy Köyü, Yayla Yayla Evleri	Yayla/gölköy=
+6627	Göçeri Köyü	Göçerı=
+1361	Hamitkaplan Mah.	Adil Candemir@|Adil Candemir/1~|Adil Candemir/2~|Ardıç~|Ardıç/1~|Ardıç/2~|Ardıç/3~|Ardıç/4~|Ardıç/5~|Cesur~|Dere~|Dere/1~|Dere/2~|Dere/3~|Elma~|Gül~|Gümüşhacıköy@|Halis Karaçam~|Kafkas@|Kahraman~|Koza~|Koza/1~|Papatya-~|Park~|Park/1~|Park/2~|Selvi~|Sümbül~|Sümbül/1~|Tepe~|Tepe/1~|Yiğitler@|Yiğitler/1~|Yiğitler/2~|Yonca~|Şen@|Şen/1~
+6630	Hıdırlar Köyü	Hıdırlar=
+1362	Köprübaşı Mah.	Adil Candemir@|Akarsu~|Bahçe~|Bahçe/1~|Bağ-~|Cami~|Damla~|Dere~|Dere/1~|Elma~|Göltarla=|Gümüşhacıköy@|Kafkas@|Metin Ateş@|Sarıçamlar~|Sercan~|Yazı=|Yeşil~|Yeşil/1~|Yurt~|Çeşme~|Şehit Metin Aptullah Özışık~
+6631	Kızılcaören Köyü	Kızılcaören=
+6632	Mağaraobruğu Köyü	Mağaraobruğu=
+1363	Saray Mah.	Adil Candemir@|Altun-~|Atatürk@|Atatürk/1~|Atatürk/2~|Bahar~|Barış~|Başak~|Belediye@|Belediye/2~|Bulut~|Burak-~|Bülbül-~|Civan~|Cumhuriyet Myd.|Dolunay~|Fevzi Çakmak@|Gazi Yunus~|Gümüşhacıköy@|Güneş~|Huzur~|Kar~|Karanfil~|Kemal Candemir@|Kemal Candemir/1~|Lale~|Lale/1~|Lale/2~|Lale/3~|Leylak~|Mercan~|Meşe~|Meşe/1~|Meşe/2~|Nergiz~|Nilüfer~|Onur~|Pazar~|Petek~|Saray~|Sedef~|Sevinç~|Sevinç/1~|Su Deposu Yolu=|Yaprak~|Yağmur~|Zümrüt~|Ömür.~|Örnek~|Şehit Hasan Bolat~
+6633	Sarayözü Köyü	Sarayözü=
+6634	Tekçam Köyü	Tekçam=
+6636	Tepeköy Köyü, Aycalar Mevkii	Aycanlar=|Tepeköy=
+6635	Tepeköy Köyü, Karadere Mevkii	Karadere=
+6637	Tepeköy Köyü, Merkez Mevkii	Aycanlar=|Tepeköy=
+98189	Tutkunlar Köyü	Tutkunlar=
+6638	Umarca Köyü	Umarca=
+6639	Yemişen Köyü	Yemışen=
+6643	Yukarıovacık Köyü	Yukarıovacık=
+6642	Yukarıovacık Köyü, Aksu Mezrası	Aksu=
+6623	Çayköy Köyü	Çayköy=

@@ -1,0 +1,116 @@
+77106	Acıpınar Köyü	 Köy$
+77019	Adamlı Köyü	 Köy$
+77020	Akkaya Köyü	 Köy$
+77107	Aktaş Köyü	 Köy$
+77021	Alanyurt Köyü	 Köy$
+77023	Alibeyli Köyü	 Köy$
+77022	Alçıören Köyü	 Köy$
+77108	Aylıoğlu Köyü	 Köy$
+77024	Bahçecik Köyü	 Köy$
+77109	Bakımlı Köyü	 Köy$
+77110	Bakımlı Köyü, Hoplamaz Mezrası	 Köy$
+77028	Bayramtepe Köyü	 Köy$
+77027	Bayramtepe Köyü, Eskiheze Mezrası	 Köy$
+77025	Bayıraltı Köyü	 Köy$
+77026	Bayıraltı Köyü, Çukurtarla Mezrası	 Köy$
+77112	Benlikaya Köyü	 Köy$
+77030	Besinli Köyü	 Köy$
+77029	Besinli Köyü, Keleş Mezrası	 Köy$
+77031	Beydili Köyü	 Köy$
+77033	Beydili Köyü, Keklicek Mezrası	 Köy$
+77034	Beydili Köyü, Yazlıkyurdu Mezrası	 Köy$
+77032	Beydili Köyü, Yağcılar Mezrası	 Köy$
+77037	Beykonağı Köyü	 Köy$
+100193	Beykonağı Köyü, Kavak Mevkii	 Köy$
+77035	Beykonağı Köyü, Yukarıoba Mezrası	 Köy$
+77036	Beykonağı Köyü, Çatma Mezrası	 Köy$
+77105	Celalli Köyü	 Köy$
+77104	Celalli Köyü, Kozağacı Mezrası	 Köy$
+77117	Demircilik Köyü	 Köy$
+77118	Derince Köyü	 Köy$
+77116	Değirmenboğazı Köyü	 Köy$
+77048	Değirmenseki Köyü	 Köy$
+77050	Durulmuş Köyü	 Köy$
+77060	Dündar Köyü	 Köy$
+77061	Düzyayla Köyü	 Köy$
+77051	Düğer Köyü	 Köy$
+77059	Düğer Köyü, Eskiköy Mezrası	 Köy$
+77058	Düğer Köyü, Karapınar Mezrası	 Köy$
+77054	Düğer Köyü, Kavakderesi Mezrası	 Köy$
+77055	Düğer Köyü, Koçali Mezrası	 Köy$
+77053	Düğer Köyü, Mercimek Deresi Mezrası	 Köy$
+77056	Düğer Köyü, Sarıköy Mezrası	 Köy$
+77052	Düğer Köyü, Uzamış Mezrası	 Köy$
+77057	Düğer Köyü, Veliışık Mezrası	 Köy$
+77049	Dışkapı Köyü	 Köy$
+77062	Ekingölü Köyü	 Köy$
+77063	Emre Köyü	 Köy$
+77064	Esenli Köyü	 Köy$
+77130	Esentepe Köyü	 Köy$
+77119	Evci Köyü	 Köy$
+77065	Eymir Köyü	 Köy$
+99373	Fatih Mah.	Atatürk@|Belediye~|Belediye1~|D 200 Devlet Yolu@|Fatih Yeniyol 1~|Fatih Yeniyol 2~|Fatih Yeniyol 3~|Gül~|Gürsel Öztürk@|Harman~|Mustafa Seçkin~|Ortayol@|Tigem@|Yeni1~|Yeniyol1 Fatih~|Yeniyol10 Fatih~|Yeniyol11 Fatih~|Yeniyol12 Fatih~|Yeniyol13 Fatih~|Yeniyol14 Fatih~|Yeniyol15 Fatih~|Yeniyol16 Fatih~|Yeniyol17 Fatih~|Yeniyol18 Fatih~|Yeniyol19 Fatih~|Yeniyol2 Fatih~|Yeniyol3 Fatih~|Yeniyol4 Fatih~|Yeniyol5 Fatih~|Yeniyol6 Fatih~|Yeniyol7 Fatih~|Yeniyol8 Fatih~|Yeniyol9 Fatih~|Zambak~|Çayyeniyol14~
+77066	Gedikçayırı Köyü	 Köy$
+77067	Gedikçayırı Köyü, Terekli Mezrası	 Köy$
+77122	Gölcük Köyü	 Köy$
+77121	Gölcük Köyü, Dosturoğlu Mezrası	 Köy$
+77120	Gölcük Köyü, Karapınar Mezrası	 Köy$
+77068	Göydün Köyü	Göydün Köy Sokağı Köy$|Sivas-erzincan Karayolu Caddesi~
+77070	Günyamaç Köyü	 Köy$
+77071	Günyamaç Köyü, Yeni Günyamaç Mezrası	 Köy$
+99374	Günyamaç Mah.	D 200 Devlet Yolu@|Günyamaç=
+77128	Kabalı Köyü	 Köy$
+77072	Kamışköy Köyü	 Köy$
+77129	Karayaprak Köyü	 Köy$
+77073	Karlı Köyü	0 Köy$
+77074	Karlı Köyü, Yuva Mezrası	 Köy$
+77075	Kaytarmış Köyü	 Köy$
+70412	Koç Mah.	1.~|2.~|3 Koç~|3-~|4.~|5~|Ali Çavuş@|D 200 Devlet Yolu@|Hafik Yeni Yol 7~|Halilbudak@|Killik~|Ortayol@|Plaj@|Sarıtaş~|Seten~|Sivas@|Tepe Yenı Yol 8~|Veli Kartal~|Yamköy~|Yeniyol 1 Çıkmaz Sokak~|Yeniyol 2~|Yeniyol 3~|Yeniyol Hafik 16~|Yeniyol Hafik 23~|Yeniyol Hafik 24~|Yeniyol Hafik 3~|Yeniyol1~|Yeniyol4~|Yenı Yol Koç 1~|Yenı Yol Koç 2~|Çayyeniyol14~
+77082	Koşutdere Köyü	 Köy$
+77083	Kurugöl Köyü	 Köy$
+77084	Küpecik Köyü	 Köy$
+77076	Kızılcaören Köyü	 Köy$
+77080	Kızılcaören Köyü, Barcın Mezrası	 Köy$
+77081	Kızılcaören Köyü, Kurtini Mezrası	 Köy$
+77077	Kızılcaören Köyü, Saray Mezrası	 Köy$
+77079	Kızılcaören Köyü, Sarımsak Mevkii	Mezra~
+77078	Kızılcaören Köyü, Yellice Mezrası	 Köy$
+77132	Kızılören Köyü	 Köy$
+77131	Kızılören Köyü, Molla Mezrası	 Köy$
+77085	Maden Köyü	 Köy$
+77086	Mansurlu Köyü	 Köy$
+77087	Olukbaşı Köyü	 Köy$
+77088	Otmanalan Köyü	 Köy$
+77089	Oymadere Köyü	 Köy$
+77135	Pirhüseyin Köyü	 Köy$
+77136	Pirhüseyin Köyü, İsmailhanı Mezrası	 Köy$
+77092	Pusat Köyü	 Köy$
+77093	Sofular Köyü	 Köy$
+77137	Süleymaniye Köyü	 Köy$
+77095	Tavşanlı Köyü	 Köy$
+70413	Tepe Mah.	1~|2~|3~|4~|6~|Gedik~|Kayadibi~|Killik~|Kızılören Grup Yolu~|Seten~|Tepe Yeniyol5~|Tepe Yenı Yol 1~|Tepe Yenı Yol 4~|Tepe Yenı Yol 5~|Tepe Yenı Yol 6~|Tepe Yenı Yol 8~|Tepe Yenı Yol 9~|Yeniyol Hafik 10~|Yeniyol Hafik 22~|Yeniyol Hafik 7~|Çayyeniyol14~
+77096	Topçuyeniköy Köyü	 Köy$
+77097	Tuzhisar Köyü	 Köy$
+77098	Tuzhisar Köyü, Soğuk Pınar Mezrası	 Köy$
+77100	Yakaboyu Köyü	 Köy$
+77139	Yalnızağıl Köyü	 Köy$
+77138	Yalıncak Köyü	 Köy$
+77102	Yarhisar Köyü	 Köy$
+77101	Yarhisar Köyü, Emrahınağılı Mezrası	 Köy$
+70414	Yeni Mah.	1 Nolu~|10~|11 Nolu~|12 Nolu~|13 Nolu~|14 Nolu~|15 Nolu~|16 Nolu~|17 Nolu~|18 Nolu~|19 Nolu~|2 Nolu~|20 Nolu~|21 Nolu~|22 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|9~|Altun Tepe@|Ayşe Gültay@|D 200 Devlet Yolu@|Değirmen~|Düz Yayla@|Kızılören Grup Yolu~|Okul~|Plaj@|Sivas 1~|Sivas@|Stad~|Yahya Kayış@|Yeni Yeniyol10~|Yeniyol Hafik 1~|Yeniyol Hafik 13~|Yeniyol Hafik 18~|Yeniyol Hafik 19~|Yeniyol Hafik 20~|Yeniyol Hafik 8~|Yeniyol Hafik 9~|Yeniyol1 Yeni~|Yeniyol2 Yeni~|Yeniyol3 Yeni~|Yeniyol4 Yeni~|Yeniyol5 Yeni~|Yeniyol6 Yeni~|Yenı Yol Yenı 10~|Yenı Yol Yenı 58~|Yenı Yol Yenı 9~|Yenıyol Yenı 7~|Yenıyol Yenı 8~|Çorak~
+77103	Yeniköy Köyü	 Köy$
+77038	Çakmak Köyü	 Köy$
+77039	Çaltılı Köyü	 Köy$
+77040	Çaltılı Köyü, Aşağı Çaltılı Mezrası	 Köy$
+70411	Çay Mah.	Apuloğlu-~|Atatürk@|Ağacukoğlu~|Cami~|D 200 Devlet Yolu@|Kayadibi~|Kızılören Grup Yolu~|Ptt~|Pınar~|Çay Boyu@|Çayyeniyol1~|Çayyeniyol10~|Çayyeniyol11~|Çayyeniyol12~|Çayyeniyol13~|Çayyeniyol14~|Çayyeniyol15~|Çayyeniyol16~|Çayyeniyol2~|Çayyeniyol3~|Çayyeniyol4~|Çayyeniyol5~|Çayyeniyol6~|Çayyeniyol7~|Çayyeniyol8~|Çayyeniyol9~
+77043	Çimenyenice Köyü	 Köy$
+77045	Çimenyenice Köyü, Ahmetuşağı Mezrası	 Köy$
+77044	Çimenyenice Köyü, Hıdıruşağı Mezrası	 Köy$
+77046	Çömlekli Köyü	 Köy$
+77042	Çınarlı Köyü	 Köy$
+77090	Öreğil Köyü	 Köy$
+77091	Özen Köyü	 Köy$
+77099	Üzeyir Köyü	 Köy$
+77126	İnandık Köyü	 Köy$
+77127	İnköy Köyü	 Köy$
+77094	Şahin Köyü	 Köy$

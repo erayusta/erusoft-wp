@@ -1,0 +1,34 @@
+92716	Akyaka Köyü	Akyaka=
+92717	Bayrampaşa Köyü	Bayrampaşa=|Gökçedere Demirözü@
+90157	Beşpınar Köyü, Esenyurt Mevkii	Aktan~|Cumhuriyet~|Edip Kahraman~|Hastane=|Kalecik Yolu~|Okul~|Vural~|Yakut~|Yavuz~|Yıldırım~|Çorak Düzü=|İsmail Çavuş~
+90158	Beşpınar Köyü, Yeşilyurt Mevkii	Akyaka~|Bent~|Cumhuriyet~|Deniz~|Değirmen~|Gül~|Hastane=|Kalecik Yolu~|Kıranoğlu~|Nehir~|Otlukbeli 2=|Otlukbeli 3=|Otlukbeli~|Otlukbeli1=|Pınar 1=|Pınar~|Pınarbaşı 1~|Pınarbaşı~|Torunoğlu~|Turan~|Tükenmez~|Şehit Gürcan Yavuz~
+92723	Damlıca Köyü	Damlıca=
+92724	Devetaşı Köyü	Devetaşı=
+92725	Dikmetaş Köyü	Dikmetaş=|Kalecik Yolu~
+92726	Elmalı Köyü	Elmalı=
+90155	Esentepe Mah.	15 Temmuz~|Anafartalar~|Asmalı~|Aşık Veysel~|Baha~|Bayrampaşa Köyü@|Bilge~|Binali Salman~|Buhara~|Bulut~|Burak~|Cami~|Dede Paşa@|Fatih Sultan Mehmet@|Gazi Gökhan Açıkgöz@|Gonca~|Gökçedere Demirözü@|Gültepe@|Güngören~|Güzin~|Hilal~|Jandarma Er Hakan Öner@|Karakaya~|Lokman Hekim~|Maraşal Fevzi Çakmak@|Mehmet Akif Ersoy@|Nenehatun~|Nilüfer~|Sakarya~|Selvi~|Serintepe~|Turan~|Vatan~|Vefa~|Yamaç~|Yeşil~|Yunus Emre@|Yıldırım~|Zafer~|Zeytin Dalı~|Çimen~|Şehit Jandarma Uzman Çavuş Fırat Kılıç@
+92727	Eymür Köyü	Eymür=|Gökçedere Demirözü@
+90159	Gökçedere Beldesi, Karşıyaka Mah.	Ahu~|Alparslan Türkeş@|Aydın=|Açıkgöz~|Bahçe~|Bayburt@|Bağlar~|Cemal=|Devetaşı Köyü=|Dikmetaş 1=|Erzincan@|Garip~|Gökçedere Demirözü@|Kale~|Kale Çıkmazı~|Kutup 5=|Kutup@|Kır=|Kırlangıç=|Nar~|Reis=|Seyran~|Turgut Özal@|Yılmaz=|Çaykara~|Çağrı~|Çimen~|Özdemir=
+90160	Gökçedere Beldesi, Pınarbaşı Mah.	Ahsen=|Akduman~|Akmeşe~|Arzu=|Ay~|Ayva~|Bahar=|Bayrampaşa Yolu=|Bayır~|Başaran=|Bulut=|Bulvar~|Dahi~|Dere~|Eren~|Fatih@|Fidanlık~|Gazi~|Gelincik~|Gümüş~|Güneş~|Hakimiyet@|Hilal~|Işık Çıkmazı~|Kadife~|Kanarya~|Kardeşler=|Kartepe=|Kelkit Gökçedere@|Korucu~|Köseyolu~|Mahsun~|Maraşal Fevzi Çakmak@|Menekşe~|Meşrutiyet@|Pınar~|Rüzgar~|Sınıkçı~|Vatan@|Yağmur~|Yıldız~|Çardak~|Çiçek~|Çömlek~|Şeker~|Şenyurt~
+90161	Gökçedere Beldesi, Yeşilyurt Mah.	Acar~|Akgün~|Albay~|Aralık~|Atik~|Aşkın Çıkmazı~|Aşut~|Bayram~|Cumhuriyet Myd.|Davut=|Demirci~|Fatih@|Gül~|Harman~|Irmak~|Karanfil~|Kazım Karabekir@|Kumru~|Lale~|Leylek~|Mahsun~|Medreseler@|Nane~|Neşe~|Nur~|Recep Tayyip Erdoğan@|Selçuk~|Serçe~|Ulucami~|Yeni Camii@|Yonca~|İlkokul~|İstiklal@|İstiklal Çıkmazı~|Şirin~
+99397	Güneşli Mah.	Akay~|Atatürk@|Baraj Yolu~|Defne~|Demirözü@|Depo~|Güneşli~|Hürriyet~|Karayaşmak=|Yağmur~|Çeşme~|Şirinler~
+92730	Güvercindere Köyü	Güvercindere=
+92728	Güçlü Köyü	Güçlü=
+92731	Işıkova Köyü	Işıkova=
+92732	Kalecik Köyü	Kalecik=
+92733	Karayaşmak Köyü	Karayaşmak=
+92734	Kavaklı Köyü	Kavaklı=
+92735	Otlukbeli Köyü	Otlukbeli=
+92736	Petekli Köyü	Petekli=
+92737	Pınarcık Köyü	Pınarcık=
+92738	Serenli Köyü	Serenli=
+92739	Yakupabdal Köyü	Yakupabdal=
+92740	Yazıbaşı Köyü	Yazıbaşı=
+92741	Yelpınar Köyü	Demirözü@|Yelpınar=
+92742	Yukarıpınarlı Köyü	Yukarıpınarlı=
+92719	Çakırözü Köyü	Çakırözü=
+92720	Çatalçeşme Köyü	Çatalçeşme=
+92718	Çağıllı Köyü	Cağıllı~|Çağıllı=
+99396	Çiftetaş Mah.	Akasya~|Demirözü@|Gündoğdu~|Güneş~|Hoşgörü~|Piyade Er Osman Aydoğdu~|Pınar~|Yeşilyurt~|Yıldız~|Çakırözü Köyü@|Çayıryolu Köyü=|Çiftetaş Köyü Yolu@|Çiftetaş~|İpek~
+92722	Çimentepe Köyü	Çimentepe=
+90156	Şirin Mah.	30 Ağustos~|Akasya~|Aktepe=|Bahar Özü~|Bahçeler~|Bağlar~|Bağlık~|Bilim~|Buğdaylı~|Cami~|Cemre~|Dede Paşa@|Demirözü@|Derman~|Derya~|Destan~|Doğanlar~|Dr.ülkü Güney@|Dumlupınar~|Elif~|Engin~|Erenler~|Esentepe 1=|Esra~|Eymür Köyü=|Ezgi~|Fatih Sultan Mehmet@|Gökçedere Demirözü@|Gül~|Gültepe@|Güney~|Güngören~|Hakikat~|Huzur~|Jandarma Er Hakan Öner@|Kanuni~|Karanfil~|Lale~|Manolya~|Menekşe~|Mercan~|Mustafa Köseoğlu@|Nazar~|Nehir=|Nergiz~|Okul@|Orgeneral Yaşar Güler@|Pazar~|Reyhan~|Sakarya~|Salkım~|Saydam~|Sevinç~|Sıra Selvi~|Türkistan~|Ufuk~|Varlık~|Yaren~|Yaylacık=|Yeni~|Yeşil~|Yeşiltepe~|Yiğitler~|Yunus Emre@|Yöre~|Yüzyıl~|Yıldırım Beyazıt@|Çağla~|Çiftetaş Köyü Yolu%|Çiğdem~|Ümit~|İhsan Ocaklı~|İmar~|İnci~|İpekyolu~|İstikbal~|Şehit Jandarma Uzman Çavuş Fırat Kılıç@|Şehit Polis Gürcan Yavuz@|Şirin@

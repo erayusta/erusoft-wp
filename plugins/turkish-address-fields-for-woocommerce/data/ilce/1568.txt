@@ -1,0 +1,199 @@
+1271	14 Nisan Mah.	1806~|404 1~|404~|406~|408~|410~|411 A~|411~|412~|413~|414 A-~|414~|415~|416~|418~|420~|421~|421/1~|422~|423~|424~|425~|426~|427~|429~|431~|432~|434~|438~|448~|464~|466~|468~|474-~|482 A~|482 Sınır~|492~|Bilinmeyen 100~|Bilinmeyen 171~|Bilinmeyen 18211~|Bilinmeyen 3~|Bilinmeyen 33~|Bilinmeyen1122~|Bilinmeyen1242~|Bilinmeyen427~|Bılınmeyen 101~|Molla İbrahim Yolu@|Yüncüler@|İpekyolu@
+108438	Abdulvehap Küfrevi Mah.	1901~|1902~|1904~|1906~|1912~|1913~|1914~|1915~|1916~|1918~|1921~|1924~|Ağrı Van@|Bilinmeyen 106~|Bilinmeyen 110~|Bilinmeyen122~|Bilinmeyen126~|Blinmeyen127~|Devlet Su İşleri@|Van Bulvarı@|Ziyaret@
+108439	Ahmed-i Hani Mahallesi Mah.	1804~|1806~|1812~|1814~|1823~|1826~|1830~|1830/1~|1832~|1833~|1834~|1836~|421~|492~|Bilinmeyen 101~|Bilinmeyen 132~|Bilinmeyen 181~|Bilinmeyen 187~|Bilinmeyen 20~|Bilinmeyen 21~|Bilinmeyen1122~|Bilinmeyen113~|Bilinmeyen117~|Bilinmeyen117/1~|Bilinmeyen129~|Bılınmeyen 1814~|Bılınmeyen 3~|Bılınmeyen 4~|Bılınmeyen1~|Bılınmeyen2~|Molla İbrahim Yolu@|Yüncüler@
+6035	Akdilek Köyü	Akdilek Köyü=
+99558	Akdilek Köyü, Bahçeli Mevkii	Bahçeli=
+139803	Akdilek Köyü, Güldüz Mevkii	Güldüz=
+6036	Akdilek Köyü, Şekerova Mezrası	Şekerova=
+6143	Aktepe Köyü	Aktepe=|Ağrı Bitlis@
+100230	Aktepe Köyü, Maltepe Mevkii	Maltepe=
+6133	Akyemiş Köyü	Akyemiş=
+6134	Akyemiş Köyü, Dermo Mezrası	Dermo=
+6033	Akçaören Köyü	Akçaören=
+6034	Akçaören Köyü, Gelebızın Mezrası	Gelebızın=
+6037	Alatay Köyü	Alatay=
+6038	Alatay Köyü, Kale Mezrası	Kale=
+1261	Alpaslan Mah.	204~|205~|206~|207~|208~|209~|212~|213~|216~|219~|220~|224~|225~|227~|228~|232~|233~|234~|236~|238~|239~|240~|242~|243~|244~|250~|252~|262~|263~|266~|268~|Alpaslan1~|Bilinmeyen.10~|Bilinmeyen2~|Bilinmeyen5~|Bılınmeyen10~|Bılınmeyen11~|Bılınmeyen12~|Bılınmeyen13~|Bılınmeyen14~|Bılınmeyen15~|Bılınmeyen16~|Bılınmeyen17~|Bılınmeyen19~|Bılınmeyen6~|Bılınmeyen7~|Bılınmeyen9~|Bılınmeyn3~|Bılınmeyn4~|Dergah@|Fatih Sultan Mehmet@|Malazgirt Cadesi@|Süphan@|Turgut Özal%|Turgut Özal1~|Turgut Özal2~|İpekyolu@
+6039	Andaçlı Köyü	Andaçlı=
+6144	Armutlu Köyü	Armutlu=
+6145	Armutlu Köyü, Yeşilce Mezrası	Köy=
+1269	Atatürk Mah.	101~|102~|103~|104~|107~|108~|120~|123~|124~|125~|126~|128~|130~|134~|140~|144~|146~|148~|149~|152~|156~|158~|160~|162~|164~|166~|168~|170~|Alpaslan@|Atatürk Bulvarı%|Bilinmeyen 102 Bi Alt Yol~|Bilinmeyen 125~|Bilinmeyen 163~|Bilinmeyen~|Bilinmeyen120~|Bilinmeyen121~|Bilinmeyen123~|Blınmeyenn~|Dergah@|Fatih Sultan Mehmet@|Malazgirt Cadesi@|Menders%|Nebiler@|Saidi Nursi@|Taslak10~|Taslak11~|Taslak12~|Taslak13~|Taslak15~|Taslak16~|Taslak17~|Taslak18~|Yavuz Sultan Selim@|Zeki Çelik@|İpekyolu@
+6040	Aşağıgöçmez Köyü	Aşağı Göcmez=
+6135	Aşağıkamışlı Köyü	Aşağı Kamışlı=
+1273	Badişan Mah.	501~|502-~|503~|505~|507~|509~|511~|516~|516/1~|517~|517/1~|552~|574~|576~|576/1~|578~|618~|618/1~|Bilinmeyen 161~|Bilinmeyen 182~|Bilinmeyen160~|Malazgirt Cadesi@|Malazgirt/1~|Molla İbrahim Küme Evler-@
+6041	Baltacık Köyü	Baltacık=
+6042	Baltacık Köyü, Gül Mezrası	Gül=
+6146	Bağbaşı Köyü	Bağbaşı=
+6100	Baştarla Köyü	Baştarla=
+6101	Baştarla Köyü, Dambat Mezrası	Dambat=
+6102	Baştarla Köyü, Şeytanova Mezrası	Şeytanova=
+6103	Bozoğlak Köyü	Bozoğlak=
+6108	Bozoğlak Köyü, Arpacık Mezrası	Arpacık=
+185564	Bozoğlak Köyü, Batıbeyli Mevkii	Ağrı Van%|Batıbeyli=
+6107	Bozoğlak Köyü, Fatih Mezrası	Fatih=
+6105	Bozoğlak Köyü, Yeşilçimen Mezrası	Yeşilçimen=
+6104	Bozoğlak Köyü, Yk.hırbe Mezrası	Yk.hırbe=
+6106	Bozoğlak Köyü, Zübeyt Komu Mezrası	Zübeyt Komu=
+6109	Bozoğlak Köyü, Çavuş Mezrası	Ağrı Van@|Çavuş=
+6136	Budak Köyü	Budak=
+1262	Cami Mah.	1203~|1204(3.sk/4nolu Çıkmaz Sk.)~|1205_1~|1206~|1207(1.çıkmaz Sok)~|1208(1.sok)~|1211~|1212~|1213(4 Sok)~|1214~|1216(2 Sok)~|1223~|1227~|1229~|Bilinmeyen1~|Bılınmeyen3~|Cumhuriyet@|Mihrali Kılıç (1210)~|Recep Tayyip Erdoğan Bul%|Van Bulvarı@
+1263	Cumhuriyet Mah.	1605~|1609~|1610~|1614~|1614/1~|1617~|1617.1~|1618~|1621~|1622~|1623~|1624~|1626~|1631~|1632~|1633~|1634~|1642~|1643~|1645~|1649~|1653~|1655~|1657~|1703~|Atatürk@|Ağrı Van@|Bilinmeyen 166~|Bilinmeyen 183~|Bilinmeyen 188~|Bilinmeyen140~|Bilinmeyen141~|Bilinmeyen3~|Bılnımeyen1~|Bılınmeyen4~|Bılınmeyen5~|Gökoğlu=|Karatoklu Yolu@|Van Bulvarı@|Vatan@
+6151	Dağalan Köyü	Dağalan=
+185534	Dedeli Beldesi, Akbulut Mah.	Ana@|Bostancı@|Cami~|Demır~|Durak~|Gül~|Hacı~|Keleş~|Kume Evlerı 1=|Patnos%|Tan~|Zeynel~|Özbek~|Üzümlü@|Üçevler~|Şeker~
+1280	Dedeli Beldesi, Budak Mah.	Küme Evleri=
+1281	Dedeli Beldesi, Cumhuriyet Mah.	Cumhuriyet Küme Evleri=
+185536	Dedeli Beldesi, Değirmen Mah.	149~|Denız@|Değırmen@|Incı~|Kale~|Patnos%|Sezer~|Yıldızlar~
+1277	Dedeli Beldesi, Merkez Mah.	10@|15 Temmuz~|23 Nısan~|4@|Ana@|Ara@|Bostancı@|Bülbül~|Cami~|Denız@|Değırmen@|Hacı~|Karalar~|Kaso~|Koçak~|Kıvanç@|Park~|Seher~|Tepe~|Tunç~|Zengın~|Çelık~|Çıkmaz~|Şahın~
+1283	Dedeli Beldesi, Yeşilova Mah.	Ağrı Van@|Küme Evler=|Yeşilova=
+185538	Dedeli Beldesi, Çaybaşı Mah.	Ana@|Bahar~|Baykal~|Geçer@|Hasandolu@|Kılıçlar~|Patnos%|Zalı@
+1278	Dedeli Beldesi, Üzümlü Mah.	Küme Evler.~|Küme Evleri1=
+6049	Demirören Köyü	Ağrı Bitlis@|Demirören=
+6115	Derecik Köyü	Derecik=
+6116	Derecik Köyü, Zali Mezrası	Zali=
+6113	Değirmendüzü Köyü	Ağrı Van@|Değirmendüzü=
+6114	Değirmendüzü Köyü, Kızılağıl Mezrası	Kızılağıl=
+6152	Dizginkale Köyü	Dizginkale=
+6132	Doğansu Köyü	Ağrı Muş@|Doğansu=
+6137	Düzceli Köyü	Düzceli=
+6050	Edremit Köyü	Edremit=
+6051	Edremit Köyü, Dinçer Mezrası	Dinçer=
+6153	Ergeçli Köyü	Ergeçli=
+198925	Ergeçli Köyü, Esentepe Mevkii	Esentepe=
+6157	Ergeçli Köyü, Mecnungölü Mezrası	Mecnungölü=
+6156	Ergeçli Köyü, Yılanlı Mezrası	Yılanlı=
+6154	Ergeçli Köyü, Zorava Mezrası	Zorava=
+6155	Ergeçli Köyü, Çubuklu Mezrası	Çubuklu=
+6117	Eryılmaz Köyü	Eryılmaz=
+6158	Esenbel Köyü	Ağrı Bitlis@|Esenbel=
+6052	Eskikonak Köyü	704~|Eskikonak=
+6159	Gençali Köyü	Ağrı Bitlis@|Gençali=
+6160	Gençali Köyü, Canik Mezrası	Canik=
+6053	Gökoğlu Köyü	Ağrı Van@|Gökoğlu=|Gül=
+6161	Gökçeali Köyü	Gökçeali=|Hazne=
+6162	Gökçeali Köyü, Göl Mezrası	Göl=
+6163	Gökçeali Köyü, Hazne Mezrası	Hazne=
+6164	Gönlüaçık Köyü	Gönlüaçık=
+6165	Gönlüaçık Köyü, Karabulak Mezrası	Karabulak=
+6054	Güllüce Köyü	Güllüce=
+6138	Günbeli Köyü	Günbeli=
+6118	Gündüz Köyü	Gündüz=
+6166	Güvercinli Köyü	Güvercinli=
+6055	Hacılar Köyü	Hacılar=
+181222	Hacılar Köyü, Evren Mevkii	Evren=
+6056	Hacılar Köyü, Gülçimen Mezrası	Gülçimen=
+6119	Hasandolu Köyü	Ağrı Van@|Hasandolu=
+6120	Hasandolu Köyü, Çiçek Mezrası	Çiçek=
+6121	Hisar Köyü	Hisar=
+6057	Karatoklu Köyü	Karatoklu=
+6122	Karbasan Köyü	Karbasan=
+127438	Karbasan Köyü, Balcılar Mevkii	Balcılar=
+6123	Karbasan Köyü, Derekomu Mezrası	Derekomu=
+6167	Kazanbey Köyü	Ağrı Bitlis@|Bey=|Kazan=|Kazanbey=|Kazanbey_1=
+6168	Kazanbey Köyü, Hırbe Mezrası	Hırbe=
+6169	Kazanbey Köyü, Çortali Mezrası	Çortali=
+98188	Kaş Köyü	Kaş=
+6170	Keçelbaba Köyü	Ağrı Bitlis@|Keçelbaba=
+6061	Konakbeyi Köyü	Ağrı Bitlis@|Konakbeyi=
+6060	Koçaklar Köyü	Koçaklar=
+6173	Kucak Köyü	Kucak=
+6062	Kuruyaka Köyü	Ağrı Van@|Kuruyaka=
+198151	Kuruyaka Köyü, Tekik Mevkii	Ağrı Van@|Tekit=
+6139	Kuşkaya Köyü	Kuşkaya=
+6171	Köseler Köyü	Köseler=
+6172	Köseler Köyü, Adalet Mezrası	Adalet=
+6063	Kürekli Köyü	Ağrı Bitlis@|Kürekli=
+6059	Kızkapan Köyü	Kızkapan=
+6058	Kızıltepe Köyü	Kızıltepe=
+6124	Meydandağı Köyü	Meydandağı=
+6064	Mollaibrahim Köyü	Ağrı Muş@|Molla İbrahim Yolu@|Mollaibrahim=
+6174	Onbaşılar Köyü	Onbaşılar=
+6125	Ortadamla Köyü	Ortadamla=
+6126	Ortadamla Köyü, Tozbelen Mezrası	Ağrı Van@|Tozbelen=
+6140	Oyacık Köyü	Ağrı Muş@|Oyacık=
+6128	Pirömer Köyü	Pirömer=
+196721	Pirömer Köyü, Cızvız Mevkii	Cızvız=
+1276	Sanayi Mah.	302~|303~|305~|306~|306/1~|307~|308~|310~|312-~|314~|315~|316~|317~|318~|320~|322~|324~|326~|328~|330~|332~|332/1 Sahada Tespit~|332s~|333~|334-~|336~|338~|340~|342~|344~|345-~|Altay@|Atatürk Bulvarı%|Ağrı Van@|Bilinmeyen135~|Bilinmeyen136~|Bilinmeyen140~|Taslak1~|Taslak2~|Taslak3~|Taslak4~|Taslak5~|Taslak6~|Taslak7~|Taslak8~|Taslak9~|Yüncüler@|İpek Yolu Mevki-~|İpekyolu@
+6175	Sarıdibek Köyü	Sarıdibek=
+1272	Sarısu Mah.	701~|701/1~|703~|704~|704/1~|706~|708~|709~|710~|712~|715~|Adar 1~|Adar 2~|Adar 3~|Adar 4~|Adar 5~|Adar 6~|Adar 7~|Bilinmeyen 12~|Bilinmeyen154~|Bilinmeyen156~|Bilinmeyen157~|Bilinmeyen158~|Bitlis Yolu(sınırı)~|Malazgirt Cadesi@
+6065	Sağrıca Köyü	Sağrıca=
+6066	Sağrıca Köyü, Küncük Mezrası	Küncük=
+1275	Selahaddini Eyyubi Mah.	1105~|1109~|1111~|1112~|1113~|1114~|1116~|1117~|1118~|1119~|1120~|1121~|1125~|1127~|1130~|1140~|1142~|1144~|1145~|1147~|1150~|1152~|1154~|1157~|1160-~|1162~|1164~|1166~|1178-~|1181~|1187~|1205~|Bilinmeyen18~|Kanuni@|Mahmut Sürer@|Recep Tayyip Erdoğan Bul%|Van Bulvarı@|Ziyaret@
+107442	Serhad Mah.	1703~|1706~|1707~|1709~|1710~|1712~|1713~|1716~|1725~|1729~|1734~|1734/1~|1736~|1739~|1743~|Bilinmeyen 102~|Bilinmeyen 104~|Bilinmeyen100~|Bilinmeyen30~|Kara Toklu.1~|Karatoklu Yolu@
+6067	Suluca Köyü	Ağrı Van@|Suluca=
+6068	Susuz Köyü	Susuz=
+6069	Susuz Köyü, Tekmal Mezrası	Tekmal=
+1274	Süphan Dağı Mah.	602~|604~|605~|606~|608~|609~|609.1bilinmeyen~|610~|611~|611.1bilinmeyen~|612~|614~|620~|Bilinmeyen 23~|Bilinmeyen159~|Bitlis Yolu(sınırı)~|Bitlis Yolu.1bilinmeyen~|Malazgirt Cadesi@|Malazgirt/2~
+1266	Sütlü Pınar Mah.	1505~|1508~|1510~|1512~|1517~|1519~|1520~|1521~|1522~|1528~|1531~|1533~|1534~|1535~|1539~|1542~|1544~|1545~|1548~|1549~|1550~|1552~|1553~|1559~|1559/sl~|1565~|1569~|1573~|1579~|1589~|1590~|Adar 8~|Karatoklu Yolu@|Van Bulvarı@|Zorlu@
+6070	Tanyeli Köyü	Tanyeli=
+6073	Tanyeli Köyü, Aşağı Tepe Önü Mezrası	Aşağı Tepe Önü=
+6075	Tanyeli Köyü, Düzce Mezrası	Düzce=
+6074	Tanyeli Köyü, Güzeldere Mezrası	Güzeldere=
+139802	Tanyeli Köyü, Kayadibi Mevkii	Kayadibi=
+6071	Tanyeli Köyü, Mezra Mezrası	Mezra=
+6076	Tanyeli Köyü, Y.salahana Mezrası	Y.salahana=
+127436	Tanyeli Köyü, Yayalar Mevkii	Yayalar=
+6072	Tanyeli Köyü, Yukarı Tepe Önü Mezrası	Yukarı Tepe Önü=
+6176	Taşkın Köyü	Taşkın=
+6177	Taşkın Köyü, Abdullah Mezrası	Abdullah=
+6178	Taşkın Köyü, Göl Mezrası	Göl=
+6179	Taşkın Köyü, Harabekent Mezrası	Harabekent=
+6180	Taşkın Köyü, Yayla Evi Mezrası	Yayla Evi=
+6077	Tepeli Köyü	Tepeli=
+198781	Turgut Özal Mah.	2001~|2002 (502)~|2004 (508)~|2005 (512)~|2006~|2007~|2008~|2012 (544)~|2015 ( 552)~|2017 (557)~|2019 (555)~|2020 (556)~|2022 (558)~|21 (535)~|Malazgirt Cadesi@|Molla İbrahim Yolu@|İpekyolu@
+6078	Usluca Köyü, Köyün Kendisi Mevkii	Usluca=
+6079	Uzunca Köyü	Uzunca=
+6080	Uzungün Köyü	Uzungün=
+6082	Uzungün Köyü, Halife Mezrası	Halife=
+6081	Uzungün Köyü, İncesu Mezrası	İncesu=
+6083	Yalçınkaya Köyü	Ağrı Bitlis@|Yalçınkaya=
+6084	Yalçınkaya Köyü, Cumhuriyet (liç) Mezrası	Cumhuriyet Liç=
+1267	Yeni Mah.	14 Nisan@|1624~|801 (garip)~|802~|803 (çam Sk/çevik Sk.)~|804~|805~|806~|807~|808~|809~|810~|811~|813~|814~|815~|819 (evliyaoğlu Sok.)~|820(kütüphane Sok.)~|824(2.çıkmaz Sok.)~|Ali Erhan(2. Sok)@|Atatürk Bulvarı%|Beylerbeyi@|Bilinmeyen109~|Bılınmeyenn1~|Bılınmıyor1~|Bılınmıyor2~|Cumhuriyet@|Emniyet@|Menders%|Park@|Taslak20~|Tatlı~|Tugy@|Van Bulvarı@|Şeyh Edebali@
+1268	Yeşil Çimen Mah.	1302~|1306~|1312~|1313~|1314~|1317~|1321~|1324~|1328(6sok)~|1330~|1331(2çıkmazsok)~|1332~|1333(3sk)~|1334~|1337(6.çıkmaz.sk)~|1343~|1344~|1345~|1352~|1356~|1356.1~|1372~|1372/1~|1374~|1376~|1378~|1384~|1389~|1390~|1390.1~|1392~|Bilinmeyen130~|Van Bulvarı@|Yunus Emre/2~|Yunusemre@|Çevre Yolu/2@
+6130	Yeşilhisar Köyü	Ağrı Van@|Yeşilhisar=
+6182	Yeşilyurt Köyü	Yeşilyurt=
+6131	Yukarıdamla Köyü	Yukarıdamla=
+6085	Yukarıgöçmez Köyü	Yukarıgöçmez=
+100377	Yukarıgöçmez Köyü, Dibek Mevkii	Dibek=
+100378	Yukarıgöçmez Köyü, Yenice Mevkii	Yenice=
+139810	Yukarıgöçmez Köyü, Yukarımahalle Mevkii	Yukarımahalle=
+947960	Yukarıgöçmez Köyü, İncesu Mezrası	İncesu=
+6088	Yukarıkamışlı Köyü	Yukarı Kamışlı=
+6089	Yukarıkülecik Köyü	Yukarıkülecik=
+100373	Yukarıkülecik Köyü, Dikilitaş Mevkii	Dikilitaş=
+6091	Yukarıkülecik Köyü, Geçit Mezrası	Geçit=|Hacı Ali Komu=
+6093	Yukarıkülecik Köyü, Kanışeviti Mezrası	Kanışeviti=
+6090	Yukarıkülecik Köyü, Kılka Mezrası	Kılka=
+6094	Yukarıkülecik Köyü, Salahane Mezrası	Salahane=
+6092	Yukarıkülecik Köyü, Vara Mezrası	Varan=
+100376	Yukarıkülecik Köyü, Varan Mevkii	Vara=
+1270	Yunusemre Mah.	1401~|1404~|1407~|1410(2.sok)~|1423(4.sok)~|1424(1.nolu Küme Evler)~|1424/1~|1424/2~|1432~|1435~|1439(3/1 Çıkmaz )~|1441(3.sok)~|1444~|1445~|1450~|1451~|1452~|1453~|1454~|1458~|1460~|1462~|1463~|1464~|1466~|1470~|1477~|1478~|1478/1~|1478/11~|1478/12~|1478/3~|1479(7.çıkmazı)~|1481(10.sok)~|1485~|1486~|1487~|1489~|1490(3.sok)~|1491~|1492~|1493~|1496~|1498~|1498/1~|Bilinmeyen 153~|Bilinmeyen 168~|Bilinmeyen 179~|Bilinmeyen 185~|Bilinmeyen 8~|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen110~|Bilinmeyen110/1~|Van Bulvarı@|Yunus Emre Cad(sınır)1.~|Yunusemre@|İmar Yolu /1~
+6183	Yurtöven Köyü	Yurtöven=
+6095	Yüncüler Köyü	Yüncüler=
+6096	Yürekveren Köyü	Mezra=|Yürekveren=
+6097	Yürekveren Köyü, Mezra Mezrası	Mezra=
+6098	Zincirkale Köyü	Zincirkale=
+6184	Zirekli Köyü	Zirekli=
+6185	Zirekli Köyü, Bozo Mezrası	Bozo=
+6186	Zirekli Köyü, Hırba Gülan Mezrası	Hırba Gülan=
+6187	Zirekli Köyü, Satıbulak Mezrası	Satıbulak=
+6188	Zirekli Köyü, Çevlik Mezrası	Çevlik=
+6099	Ziyaret Köyü	Ziyaret=
+6043	Çakırbey Köyü	Çakırbey=
+6044	Çakırbey Köyü, Tapu Mezrası	Tapu=
+6045	Çakırbey Köyü, Şırık Mezrası	Şırık=
+6046	Çamurlu Köyü	Çamurlu=
+6147	Çaputlu Köyü	Çaputlu=
+6148	Çaputlu Köyü, Yk.dumanlı Mezrası	Yk.dumanlı=
+6149	Çatmaoluk Köyü	Çatmaoluk=
+6047	Çavuşköy Köyü	Çavuşköy=
+6048	Çavuşköy Köyü, Yusuf Mezrası	Yusuf=
+1264	Çay Mah.	1002~|1004-~|1006~|1007~|1008~|1012~|1013~|1014~|1015~|1017~|1018~|1021~|1023 A~|1023~|1024~|1024/1~|1024/2~|1025~|1027~|1028~|1029~|1030/1~|1031~|1032~|1033~|1034~|1036~|1038~|1039~|1040~|1041~|1042~|1043~|1043/1~|1045~|1046~|1048~|1050~|1054~|1055~|1056~|1058~|1060~|1060/1~|1061~|1061/a~|1063~|1064~|1066~|1067~|1068~|1070~|1072~|1076~|1112~|Bilinmeyen 10~|Bilinmeyen 103~|Bilinmeyen 105~|Bilinmeyen 11~|Bilinmeyen 164~|Bilinmeyen 184~|Kanuni@|Ziyaret /1~|Ziyaret@|İmar Yolu~|Şakir Taşdemir /1~|Şakir Taşdemir /3~|Şakir Taşdemir@|Şakir Taşdemir/3~
+6110	Çimenli Köyü	Çimenli=
+6150	Çiçek Köyü	Çicek=
+6111	Çukurbağ Köyü	Çukurbağ=
+6112	Çukurbağ Köyü, Keleşler Mezrası Mezrası	Keleşler Mezrası=
+6127	Örendik Köyü	Ağrı Van@|Örendik=
+6141	Özdemir Köyü	Özdemir=
+6181	Ürküt Köyü	Ürküt=
+6142	Üçoymak Köyü	Ağrı Muş@|Üçoymak=
+1265	İnönü Mah.	902~|903~|904(1.sok)~|905~|906~|908~|909~|909/1~|911~|915~|917~|920~|925~|927~|937~|943~|945~|947~|Bilinmeyen 105~|Bilinmeyen107~|Malazgirt Cadesi@|Recep Tayyip Erdoğan Bul%

@@ -1,0 +1,32 @@
+/* Category Banner Slider — admin repeater stilleri */
+.eru-cbs-slide-row {
+    position: relative;
+    display: flex; flex-wrap: wrap; gap: 16px;
+    padding: 14px 14px 14px 34px;
+    margin: 0 0 12px; border: 1px solid #dcdcde; border-radius: 6px;
+    background: #fff;
+}
+.eru-cbs-drag {
+    position: absolute; left: 8px; top: 14px;
+    color: #8c8f94; cursor: move;
+}
+.eru-cbs-images { display: flex; gap: 14px; flex-wrap: wrap; }
+.eru-cbs-image-field {
+    display: flex; flex-direction: column; align-items: flex-start;
+    width: 120px;
+}
+.eru-cbs-image-label { font-weight: 600; font-size: 12px; margin-bottom: 4px; }
+.eru-cbs-image-preview {
+    width: 120px; height: 80px; border: 1px dashed #c3c4c7; border-radius: 4px;
+    background: #f6f7f7; display: flex; align-items: center; justify-content: center;
+    overflow: hidden; margin-bottom: 6px;
+}
+.eru-cbs-image-preview.has-image { border-style: solid; }
+.eru-cbs-image-preview img { max-width: 100%; max-height: 100%; display: block; }
+.eru-cbs-image-actions { display: flex; gap: 6px; align-items: center; }
+.eru-cbs-meta { display: flex; flex-direction: column; gap: 8px; min-width: 240px; flex: 1; }
+.eru-cbs-field { display: flex; flex-direction: column; font-size: 12px; }
+.eru-cbs-field span { font-weight: 600; margin-bottom: 2px; }
+.eru-cbs-field input { width: 100%; max-width: 360px; }
+.eru-cbs-remove-slide { color: #b32d2e; text-align: left; cursor: pointer; margin-top: 4px; }
+.eru-cbs-slides__list.ui-sortable .eru-cbs-slide-row { cursor: default; }

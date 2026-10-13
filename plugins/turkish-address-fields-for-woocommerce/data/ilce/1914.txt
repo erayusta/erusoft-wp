@@ -1,0 +1,16 @@
+166103	Akkent Mah.	Akkent=|Akkenttokı~|Hamzahan=|Hasanuşağı=|Kürttepesi=|Taşto=
+166105	Behramlı Mah.	Behramlı=|Behramlı Yaylası=
+166107	Burçköy Mah.	Begolar=|Burçköy=|Doğan Göksu=|Kurbalı=
+166109	Damlı Mah.	Damlı=|Malatya Doğanyol@
+166113	Gevheruşağı Mah.	Doğular(madikler)=|Gevheruşağı=|Gevheruşağı1=|Kocaabbaslar=|Osolar=|Taşağası=
+166101	Gökçe Mah.	Ada~|Aliçayı=|Belediye@|Cami~|Fatih@|Gaziyokuşu~|Gökçe1~|Gökçe2~|Gökçe3=|Gökçe4~|Gökçe5~|Gökçe6~|Gökçe7~|Güney~|Hacıoğlu~|Halk Evi~|Hastahane=|Hatip~|Işıklar~|Kanuni~|Kemal Sunal@|Malatya Doğanyol@|Mevlana@|Mimar Sinan Yokuşu~|Minetoğlu=|Okul=|Sımolar=|Çarşı~|Çağlar~
+166115	Gümüşsu Mah.	Balık=|Davutluk=|Erzemler=|Gümüşsu=|Haraba=|Karahuseyinler=
+166117	Koldere Mah.	Koldere 1=|Koldere=|Konaklı=|Malatya Doğanyol@|Mirikler=|Mustali=|Poyraz_1=|Çardak=
+166119	Konurtay Mah.	Konurtay=|Köyyaylası=
+166121	Mezraa Mah.	Kayatbağı=|Mezraa=|Sülüklü=
+166123	Poyraz Mah.	Atpınarı=|Karaali=|Poyraz=
+166125	Ulutaş Mah.	Naldöken=|Pazarcık=|Ulutaş=
+166129	Yalınca Mah.	Büyükgöl=|Pirmehmet=|Yalınca=
+166131	Yeşilköy Mah.	Yeşilköy=
+51960	Çolak Mah.	Adnan Menderes@|Akpınlar=|Bağarka=|Bağlar=|Bektaş=|Dicle~|Ertaş=|Fırat~|Gül~|Hanımeli~|Hursu=|Karalibostan=|Karamemikler=|Karanfil~|Konak=|Kurucik=|Lale~|Lar=|Malatya Doğanyol@|Menekşe~|Meriç~|Morçut=|Nergis~|Nevruz~|Nilüfer~|Orkide~|Osmanefendiler=|Papatya~|Sakarya~|Saz=|Sinordere=|Sünbül~|Yasemin~|Yazı=|Çiğdem~|Çolak1~|Çolak2~|Şehit Mehmet Doğan@
+51961	İsak Mah.	Akasya~|Akbaba~|Ali Acar@|Altın~|Ardıç~|Atmaca~|Beybağı=|Bülbül~|Bıldırcın~|Cebeci=|Dağ=|Elmas~|Güvercin~|Halit Yüksel@|Kanarya~|Kartal~|Kavak~|Kehribar~|Keklik~|Kumru~|Kuğu~|Kırlangıç~|Mercan~|Papağan~|Sadıkabdal=|Safir~|Serçe~|Söğüt~|Tepeler=|Turgut Özal@|Yakut~|Zümrüt~|Çalı~|Çam~|Çaylak~|Çınardere=|İnci~|İskele=|Şahin~

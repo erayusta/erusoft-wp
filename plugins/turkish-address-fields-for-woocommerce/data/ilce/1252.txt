@@ -1,0 +1,45 @@
+95190	Akdarı Köyü	Akdarı=
+95191	Akkiraz Köyü	Akkiraz=
+95186	Akçakale Köyü	Akçakale=
+95189	Akçıl Köyü	Akçıl=
+95188	Ağıllı Köyü	Ağıllı=
+95164	Aşağıcambaz Köyü	Aşağıcambaz=
+196539	Aşıkşenlik Mah.	Atatürk / Suhara Mah.@|Atatürk / Yakınsu Mah.@|Dağ~|Kalaça~|Kayabeyi=|Türbe~|Yeni Atatürk 1~|Yeni Atatürk 2~|Yeni Aşıkşenlik 1~|Yeni Aşıkşenlik 2~|Yeni Aşıkşenlik 3~|Yeni Aşıkşenlik 4~|Yeni Aşıkşenlik 5~|Yeni Dağ 1~|Yeni Dağ 2~|Yeni Kalaça 1~|Yeni İsmet Paşa 1~|Yeni İsmet Paşa 2~|İsmet Paşa@
+95192	Baltalı Köyü	Baltalı=
+95165	Başköy Köyü	Başköy=
+95166	Damlıca Köyü	Damlıca=
+90725	Dedekorkut Mah.	Adil Yılmaz@|Ardahan Kars Çevre Yolu/ Ufuktepe Mah.@|Ardahan Kars Çevre Yolu/yeni Mah.@|Atif Ababay@|Aşık Şenlik 1~|Aşıkşenlik~|Dr. Esat Oktay@|Hasan Tahsin~|Kuru Dere=|Prf. Dr. Yusuf Bayraktar 1~|Prf. Dr. Yusuf Bayraktar 2~|Prf. Dr. Yusuf Bayraktar 3~|Prf.dr.yusuf Bayraktar@|Yayla Yolu 1~|Yayla Yolu~|Yeni Şehit Ziyattin Yılmaz 1~|Zurzuna 1~|Zurzuna~|Şehit Ziyattin Yılmaz~
+95193	Dirsekkaya Köyü	Dirsekkaya=
+95167	Doğankaya Köyü	Doğankaya=
+95168	Eskibeyrehatun Köyü	Eskibeyrehatun=
+95169	Eşmepınar Köyü	Ardahan Kars Çevre Yolu/ Ufuktepe Mah.@|Eşmepınar=|Çıldırlı Aşık Şenlik1~
+95171	Gölbelen Köyü	Gölbelen=
+95170	Gölebakan Köyü	Gölebakan=
+95172	Güvenocak Köyü	Güvenocak=
+95173	Karakale Köyü	Karakale=
+95194	Kayabeyi Köyü	Kayabeyi=
+95174	Kaşlıkaya Köyü	Kaşlıkaya=
+95195	Kenarbel Köyü	Kenarbel=
+95197	Kenardere Köyü, Horozöttü Mezrası	Horozöttü=
+95196	Kenardere Köyü, Merkez Mevkii	Kenardere=
+95176	Kotanlı Köyü	Kotanlı=
+95177	Kotanlı Köyü, Kotanlı Yayla Evleri Yayla Evleri	Kotanlı Yayla Evleri=
+95187	Kurtkale Köyü	Kurtkale=
+95178	Kuzukaya Köyü	Kuzukaya=
+95179	Meryemköy Köyü	Meryemköy=
+95200	Sabaholdu Köyü	Sabaholdu=
+95180	Saymalı Köyü	Saymalı=
+95181	Sazlısu Köyü	Sazlısu=|Çıldırlı Aşık Şenlik1~
+95175	Semihaşakir Köyü	Semihaşakir=
+180744	Suhara Mah.	Atatürk / Suhara Mah.@|Değirmen 4~|Değirmen~|Fevzi Çakmak 5~|Uğur Mumcu 1~|Uğur Mumcu 2~|Uğur Mumcu 3~|Uğur Mumcu@|Yeni~|Yeni Suhara 1~|Yeni Suhara 2~|Yeni Suhara 3~|Yeni Suhara 4~
+95182	Taşdeğirmen Köyü	Taşdeğirmen=
+90726	Ufuktepe Mah.	Adil Yılmaz 1~|Adil Yılmaz 2~|Adil Yılmaz@|Aktaş~|Aktemur~|Ardahan Kars Çevre Yolu/ Ufuktepe Mah.@|Atif Ababay 1~|Atıf Ababay_1@|Kale~|Kurtkale@|Yayla Yolu 1~|Yayla Yolu~
+180742	Yakınsu Mah.	Adem Yavuz_1=|Atatürk / Yakınsu Mah.@|Değirmen 1~|Değirmen 2~|Değirmen 3~|Değirmen~|Fevzi Çakmak 1~|Fevzi Çakmak 2~|Fevzi Çakmak 3~|Fevzi Çakmak 4~|Fevzi Çakmak 5~|Fevzi Çakmak 6~|Fevzi Çakmak 7~|Fevzi Çakmak@|Çeşme~|Çeşme1~|Şivilli 1~|Şivilli 2~|Şivilli 3~|Şivilli 4~|Şivilli~
+90727	Yeni Mah.	Ardahan Kars Çevre Yolu/yeni Mah.@|Dr. Esat Oktay 1~|Dr. Esat Oktay@|Evren 1~|Evren~|Koravel 1~|Koravel 2~|Koravel~|Kuru Dere=|Kuru Dere Mevkii Yeni Mahalle-@|Prf.esbender Korkmaz 1~|Prf.esbender Korkmaz@|Çıldır Gölü 1~|Çıldır Gölü@|Çıldırlı Aşık Şenlik@
+95183	Yenibeyrehatun Köyü	Yenibeyrehatun=
+95185	Yukarıcambaz Köyü	Yukarıcambaz=
+140733	Yıldırımtepe Mah.	Alparslan Türkeş 1~|Alparslan Türkeş 2~|Alparslan Türkeş 3~|Alparslan Türkeş 4~|Alparslan Türkeş@|Ardahan Kars Çevre Yolu@|Bülent Ecevit 1~|Bülent Ecevit 2~|Bülent Ecevit 3~|Bülent Ecevit@|Rabat~|Yeni Yıldırım Tepe 1~|Yıldırımtepe~|Çevre Yolu1~
+90723	Çankaya Mah.	Aktaş~|Kurtkale 1~|Kurtkale 2~|Kurtkale 3~|Kurtkale@|Prf.esbender Korkmaz@|Yeni Çay Yol 1~
+90724	Çay Mah.	Adem Yavuz~|Atif Ababay@|Kurtkale@|Prf.esbender Korkmaz@|Yeni Çay Yol 1~|Zurzuna 1~|Şehit Engin Töre~
+95198	Öncül Köyü	Öncül=
+95199	Övündü Köyü	Övündü=

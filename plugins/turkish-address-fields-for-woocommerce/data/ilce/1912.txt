@@ -1,0 +1,52 @@
+35588	Doymuş Köyü, Celel Mevkii	 Köy$
+35591	Doymuş Köyü, Gökçebel Mevkii	 Köy$
+35590	Doymuş Köyü, Melikli Mevkii	 Köy$
+35592	Doymuş Köyü, Çerkezli Mevkii	 Köy$
+35589	Doymuş Köyü, Üzümce Mevkii	Üzümce Köy$
+35593	Güdül Köyü, Alt Mevkii	 Köy$
+35595	Güdül Köyü, Güney Mevkii	 Köy$
+35596	Güdül Köyü, Kıran Mevkii	 Köy$
+35594	Güdül Köyü, Orta Mevkii	 Köy$
+35602	Güvenlik Köyü, Ahmetoğlu Mevkii	 Köy$
+35598	Güvenlik Köyü, Almadibi Mevkii	 Köy$
+35597	Güvenlik Köyü, Başhozan Mevkii	 Köy$
+35600	Güvenlik Köyü, Dereyatak Mevkii	 Köy$
+139797	Güvenlik Köyü, Hacıoğlu Mevkii	
+35601	Güvenlik Köyü, Yanlızca Mevkii	 Köy$
+35599	Güvenlik Köyü, Örenalan Mevkii	 Köy$
+35604	Kozköy Köyü, Camiyanı Mevkii	 Köy$
+35605	Kozköy Köyü, Emirli Mevkii	 Köy$
+35606	Kozköy Köyü, Kaleboynu Mevkii	 Köy$
+35603	Kozköy Köyü, Töngelbükü Mevkii	 Köy$
+30786	Merkez Mah.	Ali Ağa~|Belediye~|Doğankent@|Eski Camii~|Gazi Arif Ağa~|Haşim Efendi~|Kavraz Mevkii=|Kuran Kursu~|Osmanağa~|Patanlar~|Pazar~|Tekinler~|Öztürkler~|İran Yolu@
+139602	Oyraca Köyü, Ellezli Mevkii	 Köy$
+35616	Oyraca Köyü, Eskimaden Mevkii	 Köy$
+35615	Oyraca Köyü, Kıran Mevkii	 Köy$
+35614	Oyraca Köyü, Oyraca Mevkii	 Köy$
+139603	Oyraca Köyü, Zögeli Mevkii	 Köy$
+30788	Sadaklı Mah.	Alimler~|Doğankent@|Hükümet@|Kisedüzü=|Okullar=|Sağlık~|İranyolu@
+35608	Söğütağzı Köyü, Almadibi Mevkii	 Köy$
+35611	Söğütağzı Köyü, Aşağı Mevkii	 Köy$
+35610	Söğütağzı Köyü, Dere Mevkii	 Köy$
+35607	Söğütağzı Köyü, Deregözü Mevkii	 Köy$
+35609	Söğütağzı Köyü, Yanağzı Mevkii	 Köy$
+30789	Süttaşı Mah.	Belen Mevkii=|Deregözü Karabıçakgil Mevkii=|Kavraz Deregözü Mevkii=|Kovancak Mevkii=|Olucak=|Sırgancık=|Çukurköy Mevkii=
+100420	Yeni Mah.	Yeni Mahalle=
+35613	Yeniköy Köyü, Yerlice Mevkii	 Köy$
+35612	Yeniköy Köyü, İslam Mevkii	 Köy$
+100421	Yeşiltepe Mah.	Fırıklı Mevkii=|Kıyıköy Mevkii=|Mentigil Mevkii=|Tek=|Çöcen Mevkii=
+35579	Çatak Köyü, Annakkıran Mevkii	 Köy$
+35583	Çatak Köyü, Büyükdağ Mevkii	 Köy$
+35576	Çatak Köyü, Kahveyanı Mevkii	 Köy$
+35578	Çatak Köyü, Kavrazlı Mevkii	 Köy$
+35577	Çatak Köyü, Kocamanlı Mevkii	 Köy$
+35584	Çatak Köyü, Melikli Mevkii	 Köy$
+35580	Çatak Köyü, Orta Mevkii	 Köy$
+35575	Çatak Köyü, Ustalı Mevkii	 Köy$
+35581	Çatak Köyü, Yamaklı Mevkii	 Köy$
+35582	Çatak Köyü, Yazlık Mevkii	 Köy$
+35574	Çatak Köyü, Çakırlı Mevkii	 Köy$
+35586	Çatalağaç Köyü, Camiyanı Mevkii	 Köy$
+35585	Çatalağaç Köyü, Derindere Mevkii	 Köy$
+139480	Çatalağaç Köyü, Kıranyatak Mevkii	
+35587	Çatalağaç Köyü, Orta Mevkii	 Köy$

@@ -1,0 +1,57 @@
+160205	Akgümüş Mah.	Akgümüş=
+160289	Akifiye Mah.	49001.~|49001/1~|49002.~|49003.~|49004.~|49005.~|49006.~|49007.~|49008.~|49009.~|49010.~|49011.~|49012.~|49013.~|49014.~|49015.~|49015/1.~|49016.~|49017.~|49018.~|49019.~|49020.~|49021.~|49022.~|49023.~|49024.~|49025.~|49026.~|49027.~|49028.~|49029.~|49030.~|49031.~|49032.~|49033.~|49034.~|49035.~|49036.~|49036/1.~|49037.~|49038.~|49039.~|49040.~|49041.~|49042.~|49043.~|49044.~|49045.~|49046.~|49047.~|49048.~|49049.~|49050.~|49051.~|49052.~|49053.~|49054.~|49056.~|49058.~|49060.~|49062.~|49064.~|49066.~|49068.~|49070.~|Cinliler=|Kırıtlı~|Merkez/akifiye 1=|Merkez/akifiye~|Soğucak Akifiye~|Turabı 1.~|Turabı 10.~|Turabı 12.~|Turabı 14.~|Turabı 2.~|Turabı 3.~|Turabı 4.~|Turabı 5.~|Turabı 6.~|Turabı 8.~|Turabı~|Çamtepe=
+160203	Akçakoyunlu Mah.	Akçakoyunlu=|Fatmalı=|Çiftlik=
+160207	Alameşe Mah.	Ateşler=|Bozalan=|Gökçekayrak=|Körhalil=|Merkez/ Alameşe=|Murtlu=|Tilkiler=
+160209	Alanlı Mah.	Asmaüstü=|Ayvalı=|Dereyeri=|Hocalar=|Kerçili=|Kızıltaş=|Orçan-~
+160291	Altınboğa Mah.	Altınboğa=|İskenderli=
+160213	Altınyayla Mah.	Altınyayla=
+160211	Alınoluk Mah.	Dere~|Dereobası=|Değirmenli=|Eşref=|Fakılar=|Karabörklü 1=|Kırcılar=|Merkez/ Alınoluk=|İnekçiler=|Şehit İsa Tahta@
+160215	Anacık Mah.	Anacık=
+160217	Arıklar Mah.	Arıklı=|Karabörklü 1=|Kıraç=|Merkez/ Arıklı=|Sarıtepe=
+160219	Başdoğan Mah.	Başdoğan-~|Haçağaç=|Karataşlı=|Sarı Veliler=|Sarıbıyıklı=|Soku=|Süleymanlı/ Boztopraklı=|Çınar=|İnekçiler=
+160221	Bektaşlı Mah.	Bektaşlı=|Kumarlı=
+160223	Beşbucak Mah.	5011~|Akçakoyunlu=|Eskiciler=|Eynallı=|Gökömerli=|Kaya/kızık=|Kaş=|Kerimler=|Kıyı Oba=|Merkez/beşbucak=|Soğancılar=|Yeniyol1~|Çiftlik=
+160227	Bostanlı Mah.	Bostanlı-~|Gönarlı=|Güssek=|Merkez/bostanlı=|Merkez/köklü=|Yanalak=
+160229	Boynuyoğunlu Mah.	Boynuoğunlu=|Karaçalılık=|Merkez-~|Tikenli1~
+160231	Boztopraklı Mah.	Albazlı=|Armut Kuyusu=|Cemelli=|Dadılar=|Değirmenli=|Halilçavuşlu=|Karadut=|Karahadır=|Küstük=|Kırcılar=|Merkez/ Çiçekli=|Mirikli=|Soku=|Süleymanlı/ Boztopraklı=|Çit=|İspirli=
+160225	Boğazören Mah.	Bahçeciler=|Hacı Eseler=|Işıkdibi=|Karaçalılık=|Merkez/ Boğazören=|Püren=|Senir=|Yeniyol11~
+160233	Bulgurkaya Mah.	Karadut=|Karapınar=|Kargılık=|Murtlu=
+160293	Cambaz Mah.	Gedik=|Güzelbeyli=|Köseuşağı=|Kızıloluk=|Kızıloluk/cambaz=
+160235	Camuzluk Mah.	Betceğiz=|Gedikkuyu=|Gedikkuyu1=|Kerimler=|Merkez/ Camuzluk=|Soğancılar=|İncirli=
+160241	Darıovası Mah.	Bahçeciler=|Ballar=|Baytarlı=|Doburlu=|Gedik/1=|Hacı Eseler=|Kadirli1=|Kavaklı=|Kundakçılar=|Merkez/ Boğazören=|Muttalipli=|Nebiler=|Yenıyol12~|Yenıyol13=|Çotlu=|Çınkırlar=
+160243	Efirağızlı Mah.	Acer Oba=|Akpınar/efirağızlı=|Akpınar/efirağızlı/1=|Baytarlı=|Kadirli1=|Kara Veliler=|Nebiler=|Sazak=|Yenıyol12~|Yenıyol13=|Çatak=|Çatal=|Çınkırlı=
+160245	Emirler Mah.	Bostandere=|Halbur=|Merkez/emirler=
+160247	Erenler Mah.	Kızılkaya=|Merkez/erenler=|Yeniyol4~|Yeniyol7~|Yenıyol2~|Yenıyol3~|Yenıyol5~
+160199	Geben Mah.	4001~|4002~|4003~|4004~|4005~|4006~|4011~|4013~|4014~|4016~|4020~|4026~|4028~|4030~|Ali Kahya 1~|Ali Kahya~|Altınyayla=|Andırın@|Andırın/fevziye 1~|Andırın/fevziye@|Arap~|Ayvalı/geben~|Bahçeli~|Baran 1~|Baran 2~|Baran@|Berçin@|Bozburun@|Bozburun1@|Dereli 1~|Dereli Fevziye/sokak~|Dereli~|Değirmen/geben~|Elmalı~|Engin~|Esentepe@|Fevziye@|Geben@|Göksun 1@|Göksun 2~|Göçyolu@|Gül/ Geben~|Gümüş~|Gürlek~|Hopur~|Kaldırımtaşı@|Koç~|Kurt~|Kuşçular~|Kırksu@|Mehmet Sağlam 1~|Mehmet Sağlam@|Menekşe~|Osman Bakacak 1~|Osman Bakacak~|Sarımsak~|Söğüt~|Yayla~|Yokuş~|Yorgancı~|Yılmaz 1~|Yılmaz~|Çakıllı~|Çaylı~|Çeşme~|Çiğdem~|İğde (fevziye)-~|İğde~|Şahan~|Şen 1~|Şen~
+160249	Gökahmetli Mah.	Akçakoyunlu=|Bakıcılar=|Ballar/1=|Bektaşlı=|Dallar=|Demirciler-~|Demirçiler=|Haşimler=|Kaplanlar=|Kumarlı=|Kıyıkçı=|Merkez/ Gökahmetli=|Çatalağaç=|Çavuşbekirli=|Çomulular=|Ümmetli=
+160253	Gökgedik Mah.	Değirmenbaşı=|Elmadağı=|Kabaca/gökgedik=|Kasımlı=|Merkez/gökgedik=|Mümüleli=|Pertler=
+160251	Gökçeli Mah.	30001=|Dereobası=|Fakı Uşağı=|Merkez/ Arıklı=|Merkez/gökçeli=|Sarıgöl=|Sarımsak/gökçeli=|Çopar Hopur=
+160255	Hacıveliuşağı Mah.	A Küme Evleri=|Avanlı=|Karadağ=|Karataşlı=|Kastal=|Merkez/ Hacıveliuşağı=|Yahyalar=|Çakırcı=
+160257	Kabaağaç Mah.	Afacanlı=|Kabaağaç-~|Kartallı=|Kuzucuklu=|İshaklı=
+160259	Kabaklar Mah.	Kabaklar=
+160305	Kaleboynu Mah.	Halbur=|Kaleboynu=|Varyanlı=
+160261	Karapınar Mah.	Armutboyu=|Karadut/karapınar=|Kisecik=
+160263	Kargaçayırı Mah.	Halbur=|Kargaçayırı=
+160273	Kumarlı Mah.	Asfalt Cıvarı-~|B=|Bektaşlı=|Kumarlı=
+160275	Kuzgun Mah.	Eskiciler=|Karalıuşağı=|Mullaahmetli=|Soğucak=|Süleymanlı=|Yeniyol1~
+160269	Köklü Mah.	Aşağı Emlikler=|Delioğlanlı=|Güllüler=|Gümüşoluk=|Kocaoğlanlı=|Köklü-~|Merkez/köklü=|Yanalak=|Yukarı Emlikler=|Çakalcılar=
+160271	Köleli Mah.	Akyıldız=|Hacı Kahyalar=|Kaya Önü=|Süleymanlı=
+160265	Kıyıkçı Mah.	Abuzerli-~|Bakıcılar=|Demirçiler=|Kumarlı=|Kıyıkçı=|Ümmetli=
+160267	Kızık Mah.	Ceritli=|Eskiciler=|Kaya/kızık=|Kızık~|Merkez/kızık=
+160297	Orhaniye Mah.	Elmalı Pınar=|Orhaniye=|İskenderli=
+160303	Osmancık Mah.	Bahçelievler=|Cinliler=|Fenk/osmancık=|Hapızağzı=|Kızıloluk=|Kızıloluk/cambaz=|İmirler=
+52665	Pınarbaşı Mah.	101~|102~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|119.~|120~|121~|122~|123~|124~|2001~|2005~|2006~|2007~|2008.~|2009~|2010~|2011~|2012~|9~|Arıcı~|Bekir Nadir Çetin@|Beyza~|Camii~|Camii-~|Cumhuriyet Yolu@|Gazi Soner Doğan~|Göksun@|Haseki=|Hükümet@|Kasımağa~|Keleşli=|Kocafakılı Yolu~|Kozludere-=|Mustafa~|Piknik Yolu~|Prof Nazmi Gültekin 1~|Prof Nazmı Gültekın~|Pınarbaşı@|Serin~|Sondaj Yolu~|Ufuk~|Yeşildağ~|Çakmak@|Çiçekli@|Şehit İsa Tahta 1~|Şehit İsa Tahta 2~|Şehit İsa Tahta 3~
+160299	Rifatiye Mah.	Böğüme=|Fenk/osmancık=|Güney=|Kurupınar=|Rifatiye-~|Serintepe=|İmirler=
+160277	Sumaklı Mah.	Bossek=|Güdenli=|Tikenli=|Tikenli1~|Tırtatlı=
+160279	Tatarlı Mah.	Baytarlı=|Karasu=|Kuşçular/tatarlı=|Melepcik=|Pertler=|Tahirli=|Çukurgoz=
+160281	Torun Mah.	Akpınar~|Arıklı=|Dereobası=|Gümüdüklü 1=|Karabörklü 1=|Kastal=|Muratlı=|Ortaoba=|Sarımsak/gökçeli=|Sarıtepe=|Sazak=|Yahyalar=|Çatak=
+52666	Tufan Paşa Mah.	201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|228~|230-~|3050.-~|3051~|3052~|3053~|3054~|3055~|3056.-~|3057-~|3060~|3061~|3062~|3063~|3064~|3065@|3066@|3067~|3068@|3069@|3070~|3071~|3073~|3075~|3077@|3077/1~|3078~|3079~|3084%|3086~|3088~|3090~|3092@|3096~|3098~|3100~|3102@|Alınoluk@|Emniyet Yolu~|Eşref=|Göç Yolu~|Gül_7~|Jandarma Yolu~|Kadirli%|Karanfil~|Kürtül~|Menekşe 1~|Osmanlı@|Prof. Dr. Ahmet Yaycıoğlu%|Tufanpaşa~|Çevre Yolu@|Şehit İlyas Paksoy@|Şehit İsa Tahta 1.~|Şehit İsa Tahta@
+52667	Yeni Mah.	1~|10~|1000~|1001~|1001.~|1002.~|1003~|1003.~|1004~|1004.~|1005~|1005.~|1006~|1006.~|1007~|1007.~|1008~|1008.~|1009.~|1010~|1010.~|1011@|1011.~|1012~|1012.~|1013.~|1014.~|1015.~|1016~|1016/1~|1017.~|1018.~|1019~|1020~|1021.~|1022~|1024-~|1026~|1028~|1030~|1032~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|2008.~|21~|22~|22/1~|22/2~|22/3~|23~|24~|25~|25/1~|26~|27~|28~|29~|3~|30-~|3102@|4~|447@|5~|5-~|6~|7~|8~|Bülbül~|Cumhuriyet Yolu@|Darıderesi=|Esen_5~|Fatih~|Fatma Tezcan Okul Yolu 1~|Fatma Tezcan Okul Yolu~|Göksun@|Hükümet@|Kadirli%|Kaya~|Kesik 111~|Kesik@|Kozlu Dere-~|M.akif Ersoy~|M.ali Zengin~|Mezbaha~|Rüzgarlı~|Salkım Söğüt 1~|Salkım Söğüt 2~|Salkım Söğüt@|Serintepe Yeni~|Sondaj Yolu~|Topaktaş~|Ufuk~|Yenıyol15~|Yeşildağ~|Çakmak@|Çamlıca~|Çevre Yolu@|İlkokul 1~|İlkokul~|İşletme@|Şehit Ahmet Bıçakçı@|Şehit Hakan Taşgıt@|Şehit İlyas Paksoy@|Şehit İsa Tahta@
+160283	Yeniköy Mah.	1009.~|1014.~|3086~|Melepcik=|Yeniköy=
+160201	Yeşilova Mah.	5001~|5002~|5003~|5004~|5005~|5006~|5007~|5008~|5010~|5011~|5012~|5014~|5016~|5018~|A=|A Küme Evleri=|Akçakoyunlu=|Atatürk@|Atatürk1@|B=|Bektaşlı=|C=|D=|Demircioğlu~|Dere~|Değirmen~|Hüseyin Kayran@|Kama~|Köroğlu@|Lale~|Mulla Dertoğlu~|Mustafa Beyoğlu~|Nergiz~|Sergen~|Taşlık~|Vezir 1~|Vezir 2~|Vezir~|Yeniyol50~|Çiçek~|Ümit~|Şht.j..hüseyin Kafalı 1~|Şht.j..hüseyin Kafalı@|Şht.j.uzm.onb.erdal Kama@|Şht.j.uzm.onb.erdal Kama/yeni~|Şht.j.çvş.hüseyin Kafalı@
+160301	Yeşiltepe Mah.	Yeşiltepe=
+160285	Yeşilyurt Mah.	22-~|47002~|47003~|Darıderesi=|Haseki=|Keleşli=|Kesik 1.~|Kesik1~|Kesik11~|Kesik12~|Kesik13~|Kesik14~|Kesik16~|Kesik17~|Kesik18~|Kesik19~|Kesik2~|Kesik20~|Kesik21~|Kesik22~|Kesik23~|Kesik24~|Kesik25~|Kesik26~|Kesik27~|Kesik27.~|Kesik28~|Kesik29~|Kesik30~|Kesik31~|Kesik32~|Kesik33~|Kesik34~|Kesik35~|Kesik4~|Kesik5~|Kesik6~|Kesik7~|Kesik8~|Kocakafalı=|Merkez/yeşilyurt=|Saybaşı=
+160237	Çiçekli Mah.	Haseki=|Haseki-~|Kafalı=|Karadut=|Karahamzalı=|Merkez/ Çiçekli=|Saybaşı=|Çiçekli-~
+160295	Çiğşar Mah.	Ali Paşa=|Beyoluğu=|Büğlen=|Enişdibi=|Hacı Kahya=|Küme Evler=|Merkez/çiğşarr=|Savrungözü=
+160287	Çokak Mah.	Bahçelievler=|Cinliler=|Kabaca=|Çokak B.m=
+160239	Çuhadarlı Mah.	Güzel Oba=|Çuhadarlı=

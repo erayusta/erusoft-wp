@@ -1,0 +1,43 @@
+23601	Ağılözü Köyü	Ağılözü=
+23602	Başovacık Köyü	Başovacık=
+23603	Bereket Köyü	Bereket=
+20275	Beşpınar Mah.	Beşpınar=
+20276	Cömertler Mah.	Akın@|Akın/1~|Akın/2~|Akın/3~|Bozkır~|Büyükgöl=|Dere Bahçe~|Dere Pınar@|Fatih Sultan Mehmet@|Gazi Yıldırım@|Hacı Recep~|Hasan Ceylan@|Hilal~|Hilmi Çimen@|Huzur~|Işık~|Kardelen-~|Kayabaşı~|Kenan Alpay@|Kenan Alpay/1~|Mehmet Akif Ersoy@|Mehmet Akif Ersoy/1~|Mehmet Akif Ersoy/3@|Mehmet Akif Ersoy/4~|Mehmet Akif Ersoy/5~|Mehmet Akif Ersoy/6~|Mehmet Akif Ersoy/7~|Nusret Küskü@|Nusret Küskü/1~|Pınar~|Pınar/1~|Recep Çeşme~|Refik Saydam@|Rıhtım~|Sahra~|Çarşı İçi@|Çerçi~|Ömer Sencer@
+23609	Dağören Köyü	Dağören=
+23611	Demirciören Köyü	Demirciören=
+20287	Dumanlı Köyü, Merkez Mevkii	1-~|2=|3=|4-~|5-~|6-~|7-~|Ata=|Cumhuriyet=|Damat=|Dik=|Eşref Bitlis=|Fidan=|Güney=|Hacı=|Hatip Gölü=|Kezban=|Kilyaka=|Kurt=|Kurşunlu=|Köseoğlu=|Kıran=|Mezarlık=|Necip=|Okul=|Orta=|Tarla=|Tuzla-~|Yayla=|Çaldibi=|Çavuş=|İsmail Hakkı Karadayı=|Şehit Şimşek Çınar=|Şirin=
+20278	Erenler Mah.	Benzinlik Ve Sanayii@|Gencer@|Lütfi Gökmenoğlu@|Lütfi Gökmenoğlu/1~|Lütfi Gökmenoğlu/4~|Lütfi Gökmenoğlu/7~|Lütfi Gökmenoğlu/8~|Lütfi Gökmenoğlu/9~|M.necati Yazıcı@|Mahmut Dinçer@|Mahmut Dinçer/2~|Mahmut Dinçer/3~|Mahmut Dinçer/4~|Mahmut Dinçer/5~|Nevzat Ayaz@|Nevzat Ayaz/1~|Nurettin Ok 1~|Nurettin Ok 2~|Nurettin Ok 3~|Nurettin Ok@|Onacak@|Süleyman Akpınar@|Tevfik Fikret Cad.@|Yeni Yol-~|Öğüt~|İstasyon@|İstasyon/1~|Ş.murat Aygen@
+23612	Eskiahır Köyü	Eskiahır=
+23613	Göllüce Köyü	Göllüce=
+20279	Hacı Bekir Mah.	Aralık~|Büyükgöl=|Cami/2~|Cami/3~|Camii~|Dedeler@|Dedeler/2~|Göl~|Gül~|Hastane@|Lale~|Çankırı@|Çankırı/1~|Çankırı/2~|Çankırı/2/1~|Çankırı/2/3~|Çankırı/4~
+20288	Hacımuslu Köyü, Merkez Mevkii	Alparslan=|Atatürk=|Cami=|Kale=|Kalekapısı=|Rıhtım=|Sadık Efendi=|Yeşil=|Ziyagökalp=
+23614	Hocahasan Köyü	Hocahasan=
+20280	Kale Mah.	Ara~|Ara/1~|Dağtarla@|Gazi Yıldırım@|Hastane@|Menekşe~|Samanyolu@|Verem Savaş@|Verem Savaş/1~|Verem Savaş/2~|Çamlıca@|Ören@|Şirin~
+20281	Kalekapu Mah.	Ayyıldız~|Benzinlik Ve Sanayi@|Benzinlik Ve Sanayi/1~|Beşevler@|Cumhuriyet@|Fidan-~|Güven~|Kalekapu Benzinlik Ve İstasyon@|Kalekapu Benzinlik Ve İstasyon/1~|Kalekapu Benzinlik Ve İstasyon/3~|Kalekapu Benzinlik Ve İstasyon/3/1~|Kalekapu Benzinlik Ve İstasyon/5~|Küçük Çıkmaz=|Lütfi Gökmenoğlu@|Lütfi Gökmenoğlu/10~|Lütfi Gökmenoğlu/10/1~|Mandı~|Muhsin Yazıcıoğlu@|Nusret Küskü@|Nusret Küskü/4~|Nusret Küskü/7~|Nusret Küskü/8~|Rıhtım~|Rıhtım/1~|Sanayi Pınarbaşı@|Sarıkaya@|Yavuz Sultan Selim@|Yavuz Sultan Selim/1@|Yeşilöz Cad./1~|Yeşilöz Cad./2~|Yeşilöz@|Çamlık~|Ülkü-~|İstasyon@|Şht. İbrahim Çevrük@
+23616	Kapaklı Köyü	Kapaklı=
+23618	Köpürlü Köyü	Köpürlü=
+23617	Kızılca Köyü	Kızılca=
+23619	Madenli Köyü	Madenli=
+20282	Müslüm Mah.	Akın/1~|Ayen~|Bekci Ömer@|Benzinlik Ve Sanayi@|Daryol~|Demirciler~|Harman~|Kenan Alpay@|Kenan Alpay/2~|Kenan Alpay/6~|Manolya~|Mehmet Akif Ersoy@|Mermerciler~|Meydan~|Mobilyacılar~|Nusret Küskü@|Nusret Küskü/5~|Rıhtım~|Sümbül~|Tamirciler~|Çarşı İçi@|Öncü~|Öncü/1~|Öncü/2~|Öncü/3~|Şht. İbrahim Çevrük@
+23620	Sarıalan Köyü, Merkez Mevkii	Merkez=
+23622	Sarıalan Köyü, Pınarcık Mevkii	Pınarcık=
+23621	Sarıalan Köyü, Uzunoğlu Mevkii	Uzunoğlu=
+20289	Sivricek Köyü, Fatih Mevkii	Atölye=|Bayır=|Camii=|Kale=|Lale=|Mehmet Çavuş=|Mustafa Kemal Paşa=|Sivribey=|Yayla Yolu=|Yıldırım Beyazıt=
+20290	Sivricek Köyü, Yeni Mevkii	Alayürek=|Araçderesi=|Aslanlı=|Hacı Koca=|Kediçorağı=|Lale=|Mezarlık=|Sivri Bey=|Yayla Yolu=
+23623	Sumucak Köyü	Sumucak=
+23624	Sünürlü Köyü	Sünürlü=
+20291	Taşkaracalar Köyü, Merkez Mevkii	Aralık=|Aydın=|Belediye=|Gülçeşme=|Harman=|Karaca Beyler=|Kurşunlu=|Taba=|İnşaat=|Şehit Arif Yiğitoğlu=|Şehit Rıfat Yiğitoğlu=
+20283	Yeni Mah.	Ahmet Şükrü Kanat@|Ethem Yalçın@|Nurettin Ok 1~|Nurettin Ok 2~|Okul 1~|Okul~|Pul~|S.muammer Karaağaç@|Sadık Akın@|Sadık Eryılmaz@|Yeniyol~|Öğüt~|İstasyon@
+20284	Yeşil Mah.	Aralık~|Dedeler@|Dedeler/2~|Hastane@|Hastane/2~|Çankırı@|Çankırı/3~
+23626	Yeşilören Köyü	Yeşilören=
+23625	Yeşilöz Köyü	Yeşilöz=
+20277	Çal Mah.	Dere Bahçe~|Fidanlık~|Fidanlık/1~|Hacı Recep~|Hocalar~|Kayabaşı~|Kayabaşı/2~|Okul 1~|Okul~|Recep Çeşme~|S.muammer Karaağaç@|Çarşı İçi@|Çerçi~|İstasyon@
+23604	Çatkese Köyü	Çatkese=
+20285	Çavundur Köyü, Fatih Mevkii	Ara=|Dere=|Hoca=|Küskü=|Memişağa=|Nevzat Ayaz=|Okul=|Orta=|Ulutaş=|Öksüz=|İstiklal=
+20286	Çavundur Köyü, Hürriyet Mevkii	Akın=|Cihan=|Dava=|Kabir=|Kaplıca=|Mehtap=|Paşalar=|Yeni Pınar=|Çetin=|İstiklal=|Şeker=
+23605	Çaylıca Köyü	Çaylıca=
+199497	Çiyni Mah.	Çiyni=|İstanbul Samsun@
+23608	Çukurca Köyü, Ekinli Mevkii	Ekinli=
+23607	Çukurca Köyü, Merkez Mevkii	Merkez=
+23606	Çırdak Köyü	Çırdak=
+23615	İğdir Köyü	İğdir=

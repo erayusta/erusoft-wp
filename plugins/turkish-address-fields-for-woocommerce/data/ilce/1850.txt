@@ -1,0 +1,25 @@
+24974	Anbarcı Köyü	 Köy$
+24975	Aşılıarmut Köyü	 Köy$
+140398	Belkavak Köyü	Keskin~|Keskin Çıkmazı~|Varlık~|Yıldız~|Şehit Ali Ateş~
+24976	Boztepe Köyü	 Köy$
+24977	Büyükerikli Köyü	 Köy$
+24978	Dağönü Köyü	 Köy$
+24979	Eskiçeltek Köyü	 Köy$
+24980	Gökçeağaç Köyü	 Köy$
+24981	Karaevliya Köyü	 Köy$
+24982	Karakısık Köyü	 Köy$
+20520	Karşıyaka Mah.	Adnan Türkoğlu@|Arif~|Barbaros@|Cumhuriyet@|Hüseyin Ağlı=|Karşıyaka@|Kurs~|Pirireis@|Sakırseki~|Sıtmasuyu@|Tutpınar@|Yaşar Doğu@|Yunus Emre@|Yusuf Yıldırım@|İhlas~|İnanç~
+24986	Köpeç Köyü	 Köy$
+24985	Küçükerikli Köyü	 Köy$
+24983	Kırköy Köyü	 Köy$
+24984	Kızağlı Köyü	 Köy$
+24987	Resuloğlu Köyü	 Köy$
+24988	Sazköy Köyü	 Köy$
+24989	Torunlar Köyü	 Köy$
+20521	Tutpınar Mah.	Millet@|Pınar~|Turgut Özal@
+24991	Yarımca Köyü	 Köy$
+20522	Yenicamii Mah.	Adakale~|Adnan Türkoğlu@|Ahmet Yesevi@|Alemdar@|Anane~|Asil~|Atıf Efendi@|Aydın~|Aşık~|Barbaros@|Barbaros Çıkmazı~|Beyazıt@|Cumhuriyet@|Dereboyu~|Ecdat~|Ender~|Erdem~|Ertuğrul Gazi@|Güler@|Hakkı Uzun@|Kır Çiftliği=|M. Akif Ersoy@|Maraşal Fevzi Çakmak@|Menderes@|Mimar Sinan@|Misaki Milli@|Nergiz~|Sadrazam~|Sağlık~|Sevinç~|Sultan~|Sümbül~|Yavuz Selim@|Yaşar Doğu@|Yıldırım@|Çeşme~|Çorum~
+24992	Yeniyapan Köyü	 Köy$
+20523	Yeşilyurt Mah.	Alparslan@|Dadaloğlu~|Darlık=|Derviş~|Deva~|Diyar~|Fatih@|Göçük=|Hamit Kaplan@|Hürriyet@|Kandil~|Karakaya=|Karavdar Yaylası=|Kavunluk=|Leylak~|Limasol~|Lokman Hekim@|Muhtar Kınalı Fatık~|Mustafa Fakıoğlu=|Pilot~|Uğurlu@|Zağ=|Çeloğlu=|Şehit Ahmet Topçu@|Şehit Sıddık Küçükgöz@|Şeyh Şamil@
+20524	Yüzgeç Mah.	Akseki=|Alparslan@|Armutlu Çukur=|Başkışla=|Beyazıt@|Beyoğlu~|Beyzade~|Cumhuriyet@|Düdüklük=|Gazzali~|Girit~|Gökis=|Gölcük Yaylası=|Gül~|Güroluk=|Hakkı Uzun@|Kamil~|Kandil~|Kevser~|Kurtözü=|Kıbrıs~|Kızılırmak~|Lale~|M.akif Ersoy@|M.fevzi Çakmak@|Malazgirt@|Mağrur~|Mehter~|Meltem~|Merkez~|Minyeli~|Mülkiye~|Sabır@|Serap~|Serdar~|Serhat~|Taşlıargaç=|Yalman~|Şeyh Şamil@
+24990	Üçdam Köyü	 Köy$

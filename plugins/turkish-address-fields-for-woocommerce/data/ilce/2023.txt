@@ -1,0 +1,51 @@
+96874	Akçağıl Köyü	Akçağıl=
+96870	Akçağıl Köyü, Kesmelik Mezrası	Kesmelik=
+96872	Akçağıl Köyü, Yeşilyurt Mezrası	Yeşilyurt=
+96873	Akçağıl Köyü, Çardak Mezrası	Çardak=
+96871	Akçağıl Köyü, Çiftlik Mezrası	Çiftlik=
+96876	Alahan Köyü	Alahan=|Türkmenler@
+96875	Alahan Köyü, Salhan Mezrası	Salhan=
+96877	Alahan Köyü, Uzunali Mezrası	Uzunali 1=|Uzunali=
+91016	Ağyüz Mah.	Aşağıbeylerbeyi=|Bahçe~|Bal~|Bal1~|Bilinmeyen7~|Bilinmeyenağyüz~|Cumhuriyet@|Cumhuriyet4@|Garip~|Gediz~|Hacı Şakir Çiftliği Köy Sokağı=|Havuzlu~|Havuzlu1~|Mantar~|Reyhan~|Çimenli~|Çiğdem~|Çobanbey@
+96878	Aşağıbeylerbeyi Köyü	Aşağıbeylerbeyi=|Hacı Şakir Çiftliği Köy Sokağı=
+96879	Aşağıbeylerbeyi Köyü, Hacı Şakir Çiftliği Mezrası	Hacı Şakir Çiftliği Köy Sokağı=
+96880	Beşiriye Köyü	Aynafar Köy Sokağı=|Beşiriye=|Elbeyli Konaklama Tesisleri=
+96884	Erikliyayla Köyü	Erikliyayla=
+96885	Erikliyayla Köyü, Solak Mezrası	Solak=
+96889	Geçerli Köyü	Geçerli=|Selmincik=
+96888	Geçerli Köyü, Buldum Mezrası	Buldum=
+96887	Geçerli Köyü, Göktepe Mezrası	Göktepe=
+96886	Geçerli Köyü, Kumsurun Mezrası	Kumsurun=
+96890	Günece Köyü	Günece=
+96892	Güvendik Köyü	Güvendik=
+96891	Güvendik Köyü, Sekizler Mezrası	Sekizler=
+96893	Havuzluçam Köyü	Havuzluçam=
+139750	Havuzluçam Köyü, Kaplanlar Mevkii	Kaplanlar 1=|Kaplanlar=
+139804	Havuzluçam Köyü, Sarıevler Mevkii	Sarıevler=
+96895	Havuzluçam Köyü, Yazılıbahar Mezrası	Ciris=|Yazılıbahar=
+91018	Hürriyet Mah.	1 Nolu~|15 Temmuz~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|Alahan Yolu Mevkii1@|Belediye~|Bilinmeyen 11~|Bilinmeyen Göçmen~|Bilinmeyen~|Bilinmeyen10~|Bilinmeyen11~|Bılınmeyen12~|Cumhuriyet@|Fidan~|Fırat~|Meriç~|Nur~|Okul@|Okul1~|Sağlık@|Sınır~|Toki1~|Toki2~|Toki3~|Toki4~|Toki5~|Toki6~|Türkmenler@|Uzun Ali Mezra Yolu@|Çakır~|Çobanbey@
+96896	Kalbursait Köyü	Kalbursait Köyüyenideğirmen Yolu Üzeri~|Kalbursait=
+96897	Kalbursait Köyü, Yılanlı Mezrası	Yılanlı=
+96898	Kalbursait Köyü, İkizkaya Mezrası	İkizkaya=
+96899	Karacurun Köyü	Buldum=|Karacurun=
+96900	Karaçağıl Köyü	Karaçağıl=
+96901	Karaçağıl Köyü, Tilkip Mezrası	Tilkip=
+96902	Kılcan Köyü	Kılcan=
+96903	Mercanlı Köyü	Mercanlı=
+96904	Sağlıcak Köyü	Sağlıcak=|Uzunali 1=
+96905	Selmincik Köyü	Selmincik=
+96906	Taşlıbakar Köyü	Taşlıbakar=
+96907	Taşlıbakar Köyü, Ciris Mezrası	Ciris=|Taşlıbakar=
+96908	Turanlı Köyü	Okul@|Turanlı=|Çiğdem~
+96909	Turanlı Köyü, Mahliören Mezrası	Mahliören=
+96910	Uğurlar Köyü	Uğurlar=
+91017	Yalçın Nane Mah.	Bilinmeyen Çıkmaz~|Bilinmeyen5@|Bilinmeyen500~|Bilinmeyen6@|Bilinmeyen9~|Bılınmeyenyol111@|Cumhuriyet@|Fırat Kalkanı@|Fırat Kalkanı1@|Gül~|Karanfil~|Menevşe~|Menevşe1@|Merih~|Nergiz~|Sedef~|Sümbül~|Ufuk~|Zambak~|Çobanbey@|Çobanbey1@|İstasyon~
+96914	Yağızköy Köyü	Aynafar Köy Sokağı=|Delhemi=|Küçükbıykır=|Sınıryolu=|Yağızköy=
+96911	Yağızköy Köyü, Aynafar Mezrası	Aynafar Köy Sokağı 1=|Aynafar Köy Sokağı=
+96912	Yağızköy Köyü, Delhemi Mezrası	Delhemi=
+96913	Yağızköy Köyü, Özkanlar Mezrası	Özkanlar=
+96915	Yenideğirmen Köyü	Yenideğirmen=
+96881	Çangallı Köyü	Çangallı=
+96883	Çıldıroba Köyü	Havuzluçam=|Çıldıroba=
+96882	Çıldıroba Köyü, Küçükbıykır Mezrası	Küçükbıykır=|Sınıryolu=|Yağızköy=
+91019	İnönü Mah.	Aksu~|Bahar~|Bilinmeyen 1@|Bilinmeyen 2@|Bilinmeyen 6~|Bilinmeyen 9~|Bilinmeyen8@|Bilinmeyenyol123~|Bılınmeyen12~|Cumhuriyet@|Deniz~|Deniz1~|Deniz2~|Dilek~|Dilek2~|Dilek_1~|Gülbahar~|Güneş~|Kuyulu~|Lale~|Mercan~|Narlı Bahçe~|Türkmenler@|Ufuk~|Yıldız~|Zübeyde Hanım~|Çamlıbel~|Çamlıbel_1~|Çiçek~|Çiçek1~|Çiçek2~|Çobanbey@

@@ -1,0 +1,132 @@
+99708	Akdik Köyü, Köyün Kendisi Mevkii	Akdik=|Özenli=
+200735	Altınhüseyin Köyü, Arılı Mevkii	Arılı=
+200737	Altınhüseyin Köyü, Ayranlı Mevkii	Ayranlı=
+200739	Altınhüseyin Köyü, Bahçe Mevkii	Bahçe=
+200741	Altınhüseyin Köyü, Başeğmez Mevkii	Başeğmez=
+200743	Altınhüseyin Köyü, Buğdaylı Mevkii	Buğdaylı=
+200745	Altınhüseyin Köyü, Dalaltı Mevkii	Dalatı=
+200747	Altınhüseyin Köyü, Dedecik Mevkii	Dedecik=
+200749	Altınhüseyin Köyü, Düzçatı Mevkii	Düzçatı=
+200751	Altınhüseyin Köyü, Kavacık Mevkii	Kavacık=
+99695	Altınhüseyin Köyü, Köyün Kendisi Mevkii	Altunhüseyin=
+200753	Altınhüseyin Köyü, Söğütlü Mevkii	Söğütlü=
+84306	Ardıçlı Köyü	Anuklar@|Ardıçlı=|Gazi@
+80243	Atatürk Mah.	Anuklar@|Gezi Şehitleri@
+84317	Ağaşenlik Köyü	Ağaşenlik=|Bozağakaraderbent=
+84382	Bardakçı Köyü	Bardakçı=
+84383	Bardakçı Köyü, Sahnezer Mezrası	Sahnezer=
+84329	Başkalecik Köyü	Başkalecik=|Gazi@
+100394	Başkalecik Köyü, Göneli Mevkii	Ardıçlı=|Gazi@|Göneli=
+100346	Başkalecik Köyü, Kerikan Mevkii	Kerikan=
+84320	Bozağakaraderbent Köyü	Bozağakaraderbent=
+84318	Bozağakaraderbent Köyü, Armut Düzü Mezrası	Armut Düzü=
+84319	Bozağakaraderbent Köyü, Haçan Mezrası	Haçan=
+139593	Bozağakaraderbent Köyü, Çağlayan Mevkii	Çağlayan=
+84362	Boğalı Köyü	Boğalı=
+84363	Boğalı Köyü, Bulut Mezrası	Bulut=
+84365	Dağbek Köyü	Dağbek=
+84326	Dağyolu Köyü, Armağan Mezrası	Armağan=
+84328	Dağyolu Köyü, Dağyolu Mevkii	Dağyolu=
+196641	Dağyolu Köyü, Değirmendere Mevkii	Değirmendere=
+139785	Dağyolu Köyü, Eğribük Mevkii	Eğribük=
+197027	Dağyolu Köyü, Göl Mevkii	Göl=
+84327	Dağyolu Köyü, Kuşhane Mevkii	Kuşhane=
+84366	Dereboyu Köyü	Dereboyu=|Yayla=
+84330	Dereköy Köyü	Dereköy=
+84333	Dereköy Köyü, Armutlu Mezrası	Armutlu=
+84335	Dereköy Köyü, Devriş Dere Mezrası Mezrası	Devriş Dere Mezrası=
+84332	Dereköy Köyü, Guller Mezrası Mezrası	Güller Mezrası=
+84334	Dereköy Köyü, Orta Dereköy Keleş Mezrası	Ortaköy Dere Keleş=
+84331	Dereköy Köyü, Çelik Mezrası Mezrası	Çelik Mezrası=
+84384	Derindere Köyü	Derindere=
+84336	Doğanpınar Köyü	Doğanpınar=
+84339	Doğanpınar Köyü, Bük Mezrası	Bük=
+84337	Doğanpınar Köyü, Mutu Mezrası	Mutu=
+80244	Ecevit Mah.	Aziz Nesin@|Cemal Süreyya~|Gezi Şehitleri@|Karacaoğlan~|Pülümür İsimsiz 1006~|Pülümür İsimsiz 1007~|Toki~|Uğur Mumcu@|Yunus Emre~
+84367	Efeağılı Köyü	Efeağılı=
+84386	Elmalı Köyü	Elmalı=
+84389	Elmalı Köyü, Elif Hatun Mezrası	Elif Hatun=
+84387	Elmalı Köyü, Karkan Mezrası	Karkan=
+84385	Elmalı Köyü, Küllü Mezrası	Küllü=
+84388	Elmalı Köyü, Çay Mezrası	Çay=
+84311	Göcenek Köyü	Göcenek=
+84368	Gökçekonak Köyü	Gökçekonak=
+84312	Hacılı Köyü	Hacılı=
+84321	Hasangazi Köyü	Hasangazi=
+84322	Hasangazi Köyü, Bayraklı Mezrası	Bayraklı=
+80236	Hiver Mah.	Adel~|Anuklar@|Duru~|Gazi@|Gezi Şehitleri@|Hiver=|Kayırlar@|Lina~|Pülümür İsimsiz 1004~|Sarı Budak@|Tuzla=|Türkan Saylan@|Umut~
+84371	Kabadal Köyü	Kabadal=
+84369	Kabadal Köyü, Kamışlar Mezrası	Dereboyu=|Kamışlar=
+84370	Kabadal Köyü, Yayla Mezrası	Yayla=
+84372	Kangallı Köyü	Aburga=|Kangallı=
+84373	Karagöz Köyü	Karagöz=
+100051	Kaymaztepe Köyü, Kaymaztepe Merkez Mevkii	Kaymaztepe=
+84324	Kayırlar Köyü, Aşağıkayır Mevkii	Aşağıkayır=
+84323	Kayırlar Köyü, Ortakayır Mevkii	Ortakayır=
+180960	Kayırlar Köyü, Yukarıkayır Mevkii	Yukarıkayır=
+84374	Kocatepe Köyü	Kocatepe=
+84375	Kovuklu Köyü	Kovuklu=
+84344	Kuzulca Köyü, Değirmendere Mezrası	Değirmen=
+84346	Kuzulca Köyü, Haraba Mezrası	Haraba=
+199421	Kuzulca Köyü, Köyün Kendisi Mevkii	Haraba=|Kuzulca=
+84345	Kuzulca Köyü, Yoncadere Mezrası	Yoncadere=
+84343	Kuzulca Köyü, Çay Mezrası	Çay=
+84313	Közlüce Köyü	Közlüce=
+84398	Kırdım Köyü	Kırdım=
+84393	Kırdım Köyü, Aşağı Bostan Yurdu Mezrası	Aşağı Bostan Yurdu=
+84392	Kırdım Köyü, Beyaz Pınar Mezrası	Beyaz Pınar=
+84397	Kırdım Köyü, Büvük Mezrası	Büvük=
+196613	Kırdım Köyü, Göğebakan Mevkii	Göğebakan=
+84390	Kırdım Köyü, Kırdım Deresi Mezrası	Kırdım Deresi=
+84391	Kırdım Köyü, Kızılbel Mezrası	Kızılbel=
+84395	Kırdım Köyü, Muhtar Komu Mezrası	Muhtar Komu=
+84396	Kırdım Köyü, Mürova Mezrası	Mürova=
+84394	Kırdım Köyü, Yukarı Bostan Yurdu Mezrası	Yukarı Bostan Yurdu=
+84325	Kırklar Köyü	Kırklar=
+84340	Kırkmeşe Köyü	Kırkmeşe=
+140172	Kızılmescit Köyü, Göl Mevkii	Göl 1=
+100033	Kızılmescit Köyü, Kızılmescit Merkez Mevkii	Kızılmescit Merkez=
+140202	Kızılmescit Köyü, Tanrıverdi Mevkii	Tanrıverdi=
+140176	Kızılmescit Köyü, Çatan Mevkii	Çatan=
+140174	Kızılmescit Köyü, Çevrecik Mevkii	Çevrecik=
+80241	Merkez Mah.	Adliye~|Aral~|Barış~|Belediye Evleri~|Cemal Süreya@|Cumhuriyet@|Erdem~|Erenler@|Gezi Şehitleri@|Göl=|Hükümet@|Hürriyet@|Korkmaz@|Mehmet Şerif Aydın~|Nil~|Ptt~|Pülümür İsimsiz108~|Pülümür İsimsiz108.~|Pülümür İsimsiz115~|Pülümür İsimsiz121~|Pınar@|Sağlık~|Selvi~|Sümbüllü~|Tunceli@|Uzunlar=|Vatan~|Yatılı Bölge Okulu=|Zümrüt~|Çiçekli~|Öztürk~|İnci~|İnönü~
+100155	Meydanlar Mah.	17 Aralık@|Aburga=|Ankara~|Aydınlık@|Bülbüllü~|Coşkunlar@|Esentepe~|Gezi Şehitleri@|Gül~|Halitpaşa@|Menekşe~|Mevlana@|Meydanlar=|Papatya~|Pendik@|Pülümür İsimsiz 1000~|Pülümür İsimsiz 1000.~|Pülümür İsimsiz 1001~|Pülümür İsimsiz 1008~|Pülümür İsimsiz 1061~|Pülümür İsimsiz 132~|Pülümür İsimsiz52~|Pülümür İsimsiz93~|Selanik~|Tunceli@|Yatılı Bölge Okulu=|Yıldıranlar~|Çıkmaz~|İstiklal@|Şengül~
+84361	Mezraa Köyü	Kırmızıköprü=|Mezra=
+199391	Mezraa Köyü, Beğendik Mevkii	Beğendik=
+100138	Mezraa Köyü, Salördek Mevkii	Salördek=
+100336	Mezraa Köyü, Uzunevler Mevkii	Uzunevler=
+139594	Mezraa Köyü, Çatalyaka Mevkii	Çatalyaka=
+84314	Nohutlu Köyü	Nohutlu=
+84347	Salkımözü Köyü	Salkımözü=
+84349	Salkımözü Köyü, Allahverdi Mezrası	Allahverdi=
+84348	Salkımözü Köyü, Köl Mezrası	Köl=|Salkımözü=
+84377	Sarıgül Köyü	Sarıgül=
+84376	Sağlamtaş Köyü	Sağlamtaş=
+84350	Senek Köyü	Senek=
+84351	Senek Köyü, Çardak Mezrası	Çardak=
+84356	Süleymanuşağı Köyü	Süleymanuşağı=
+84352	Süleymanuşağı Köyü, Algılı Mezrası	Algılı=
+84354	Süleymanuşağı Köyü, Heybeli Mezrası	Heybeli=
+84355	Süleymanuşağı Köyü, Keçi Kıran Mezrası	Keçikıran=
+84353	Süleymanuşağı Köyü, Çalgan Mezrası	Çalgan=
+84341	Taşlık Köyü, Evcik Mezrası	Evcik=
+84342	Taşlık Köyü, Çevlik Mezrası	Çevlik=
+84315	Turnadere Köyü	Turnadere=|Yatılı Bölge Okulu=
+84316	Turnadere Köyü, Yibo Mevkii	Yatılı Bölge Okulu=|Yibo=
+84360	Yarbaşı Köyü	Yarbaşı=
+84359	Yarbaşı Köyü, Aktekin Mezrası	Aktekin=
+182290	Yarbaşı Köyü, Barışlı Mevkii	Barışlı=
+84358	Yarbaşı Köyü, Körtemt Mezrası	Körtemt=
+140237	Yarbaşı Köyü, Taşyuva Mevkii	Taşyuva=
+198785	Yarbaşı Köyü, İmrendi Mevkii	
+84364	Çakırkaya Köyü	Çakırkaya=
+84307	Çağlayan Köyü	Çağlayan=
+84310	Çobanyıldızı Köyü	Yatılı Bölge Okulu=|Çobanyıldızı=
+84308	Çobanyıldızı Köyü, Aydınlar Mezrası	Aydınlar=
+84309	Çobanyıldızı Köyü, Kalınkaş Mezrası	Kalınkaş=
+84357	Ünveren Köyü	Ünveren=
+84381	Üçdam Köyü	Üçdam=
+84379	Üçdam Köyü, Gevrik Mezrası	Gevrik=
+84380	Üçdam Köyü, Hırava Mezrası	Hırava=
+84378	Üçdam Köyü, Çay Mezrası	Çay=
+99730	Şampaşakaraderbent Köyü, Köyün Kendisi Mevkii	Ahır Komı Mz~|Aşağışenocak Mz~|Caferağa Komu Mz~|Emlik Mz~|Gölelı(kamperı)mz=|Mezra Mezrası~|Saltaş Mz~|Yenikapı Mz~|Yukarışenoçak Mz~|Şampaşakaraderbent~

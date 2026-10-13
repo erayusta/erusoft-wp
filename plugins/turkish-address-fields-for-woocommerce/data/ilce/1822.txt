@@ -1,0 +1,33 @@
+37541	Akbaba Köyü	
+37540	Akbaba Köyü, Akbaba Mevkii	Akbaba=|Gümüşhane Erzincan@
+37543	Altıntaş Köyü	
+37542	Altıntaş Köyü, Altıntaş Mevkii	Altıntaş=|Yenice Salyazı@
+30954	Bahçelievler Mah.	Barış~|Bayburt Erzincan@|Bilinmeyen~|Bilinmeyen4~|Bülbül~|Can~|Ertuğrul Gazi@|Ertuğrul Gazi1~|Gümüş~|Gümüşhane Erzincan 2~|Gümüşhane Erzincan Karayolu%|Gümüşhane Erzincan10~|Gümüşhane Erzincan11~|Gümüşhane Erzincan12~|Gümüşhane Erzincan13~|Gümüşhane Erzincan14~|Gümüşhane Erzincan15~|Gümüşhane Erzincan17~|Gümüşhane Erzincan18~|Gümüşhane Erzincan20=|Gümüşhane Erzincan25~|Gümüşhane Erzincan26@|Gümüşhane Erzincan27@|Gümüşhane Erzincan3~|Gümüşhane Erzincan6~|Gümüşhane Erzincan7~|Gümüşhane Erzincan8~|Gümüşhane Erzincan9~|Hasanova@|Kayadibi1=|Mahmut Oltan Sungurlu 2~|Mahmut Oltan Sungurlu 4~|Mahmut Oltan Sungurlu 5~|Mahmut Oltan Sungurlu@|Mahmut Oltan Sungurlu1~|Necip Fazıl Kısakürek@|Necmi Tandemir~|Okyanus~|Rüzgar~|Rüzgar1~|Subaşı1=|Taşdemir~|Yağmur~|Yunus Emre@|Yunus Emre1~|Yunus Emre2~|Yunus Emre3~|Ziya Doğan@|Çağırgan Baba@|Şen~|Şenlik~|Şeyh Edipali@|Şeyh Edipali1~|Şirin~
+37545	Bizgili Köyü	
+37544	Bizgili Köyü, Bizgili Mevkii	Bizgili=
+30955	Cumhuriyet Mah.	Ahi Evran@|Akşemsettin@|Aygün~|Aygün1~|Dere 1~|Dere~|Dere/1~|Dere1~|Dere2~|Gonca~|Gonca1~|Gonca2~|Gümüşhane Erzincan /4~|Gümüşhane Erzincan Karayolu%|Hacı İrfan Can@|Kanarya~|Karanfil~|Karanfil1~|Kazım Karabekir@|Mahmut Oltan Sungurlu@|Osman Baba@|Pala~|Pırı Baba~|Reyhan~|Selçuklular~|Sinan Aygün@|Şehit Yusuf Erk@|Şehit Yusuf Erk1~|Şehit Yusuf Erk3~|Şeyh Şamil@
+30956	Fatih Mah.	Aydın Doğan@|Bayburt Erzincan@|Bayburt Erzincan1~|Bayburt Erzincan2@|Bayburt Erzincan3~|Bayburt Erzincan4~|Damla~|Defne~|Diriliş~|Diriliş1~|Fazlı Kesler~|Gazi~|Gül~|Gümüşhane Erzincan Karayolu%|Günalp~|Hakan Alp~|Hoca Ahmet Yesevi@|Mahmut Oltan Sungurlu@|Malazgirt~|Mehmet Akif Ersoy@|Mehmet Akif Ersoy1~|Mikail Tuna~|Mimar Sinan@|Pazar~|Piri Reis~|Sağlık Ocağı~|Selim Cansız 1~|Selim Cansız~|Süleyman Özcan@|Yıldırım~|Ziya Doğan@|Çiçek~|İstiklal@|Şehit Osman Yıldız~|Şehit Polis Nurettin Satılmış~
+37547	Gökçeköy Köyü	
+37546	Gökçeköy Köyü, Gökçeköy Mevkii	Bayburt Erzincan@|Gökçeköy=
+37549	Kabaktepe Köyü	
+37548	Kabaktepe Köyü, Kabaktepe Mevkii	Bayburt Erzincan@|Kabaktepe=
+37551	Kayadibi Köyü	
+37550	Kayadibi Köyü, Kayadibi Mevkii	Kayadibi=
+37553	Oylumdere Köyü	
+37552	Oylumdere Köyü, Oylumdere Mevkii	Oylumdere=
+30959	Salyazı Köyü, Cumhuriyet Mevkii	Atatürk~|Atatürk1~|Atatürk13~|Atatürk2~|Atatürk3~|Atatürk4~|Bayburt Erzincan@|Bayburt Erzincan2~|Bayburt Erzincan3~|Bayburt Erzincan4~|Bayburt Erzincan5~|Bayburt Erzincan6~|Bayburt Erzincan7~|Bilgin~|Büklüm~|Cami1~|Cami2~|Cami3~|Cengiz Topel~|Cengiz Topel1~|Cengiztopel2~|Demirci~|Demirci1~|Demirci2~|Demirci3~|Dereboyu~|Dik~|Dik1~|Dik7~|Fatih~|Fatih1~|Gül~|Gül1~|Gürsel~|Gürsel1~|Gürsel2~|Gürsel43~|Gürsel44~|Molla~|Tunç~|Ucuz~|Yılmaz~|Yılmaz2~|Yılmaz3~|Yılmaz4~|Şahin~|Şahin/5~|Şahin1~|Şahin2~|Şahin3~|Şahin4~|Şahin5~|Şahin6~
+30960	Salyazı Köyü, Hürriyet Mevkii	Atatürk~|Atatürk10~|Atatürk7~|Atatürk8~|Atatürk9~|Bayburt Erzincan@|Bayburt Erzincan10~|Bayburt Erzincan8~|Bayburt Erzincan9~|Belediye~|Belediye1~|Cami~|Cami/7~|Cami4~|Cami5~|Cami6~|Cami7~|Dereboyu~|Esen~|Fatih~|Fatih/1~|Fatih2~|Fatih3~|Fatih4~|Fatih5~|Güney~|Güney/3~|Güney1~|Güney11~|Güney2~|Güney3~|Güney4~|Güney5~|Güney7~|Güney8~|Güney9~|Kanber~|Lale~|Orhan Gazi~|Orkun~|Orkun2~|Orkun3~|Parlak~|Salyazı1~|Yıldırım~|Yıldırım1~|Yıldırım2~|Yıldırım3~|Yıldırım4~|İnci~
+37561	Subaşı Köyü	
+37560	Subaşı Köyü, Subaşı Mevkii	Subaşı Mevkii=|Subaşı Yolüstü Yaylası=
+30957	Yavuz Selim Mah.	Ahi Evran@|Akşemsettin@|Bilinmeyen~|Bilinmeyen1~|Bilinmeyen2~|Bilinmeyen3~|Bilinmeyen4~|Estergon~|Mahmut Oltan Sungurlu 2~|Mahmut Oltan Sungurlu 3~|Mahmut Oltan Sungurlu@|Mahmut Oltan Sungurlu2~|Mahmut Oltan Sungurlu4~|Menekşe~|Necmettin Erbakan~|Osman Gazi@|Osman Gazi2~|Osman Gazi3~|Osman Gazi4~|Osman Gazi5~|Papatya~|Polis Aytekin Aygün~|Şehit Yalçın Kalkan~|Şehit Yusuf Erk@|Şehit Yusuf Erk15~|Şeyh Şamil@
+37563	Yaylım Köyü	
+37562	Yaylım Köyü, Yaylım Mevkii	Yaylım=
+30958	Yeni Mah.	Akasya~|Akgül~|Atatürk@|Aydın Doğan@|Bahar~|Bahar2~|Bayburt Erzincan@|Burhan~|Ceylan~|Dolunay~|Duru~|Enver Taşdemir@|Gümüşhane Erzincan Karayolu%|Güneş~|Hacı İrfan Can@|Hasan Tahsin Aygün~|Hastane@|Hastane1~|Hilal~|Huzur~|Karaca~|Laleli~|Mahmut Oltan Sungurlu@|Mevlana@|Mimar Sinan@|Molla Celal~|Nilüfer~|Palmiye~|Postane@|Pınarbaşı~|Sezen Demir~|Sezen Demir1~|Uzun~|Uzun1~|Yenı Yol 2~|Zümrüt~|Çayır~|Çağlayan~|Çizgi~|Şehit Bünyamin Aygün~
+37565	Yuvacık Köyü	
+37564	Yuvacık Köyü, Yuvacık Mevkii	Yuvacık=
+37555	Örenşar Köyü	
+37554	Örenşar Köyü, Örenşar Mevkii	Bayburt Erzincan@|Örenşar=
+37557	Övünce Köyü	
+37556	Övünce Köyü, Övünce Mevkii	Gümüşhane Erzincan@|Övünce=
+37559	Özbeyli Köyü	
+37558	Özbeyli Köyü, Özbeyli Mevkii	Özbeyli=

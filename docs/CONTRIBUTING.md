@@ -23,6 +23,35 @@ Her commit ve yayın öncesinde `npm run scrub` çalıştırılır. Kapı; müş
 committed (not even hashed); CI injects it via the `SCRUB_HASHES_FILE` secret-backed temp file. With no term
 source the gate exits 2. Archives and `.private/` / `.superpowers/` paths are rejected.
 
+### İçerik sabitlenmiş kamu verisi (content-pinned public data)
+
+Resmî adres kayıtları gibi büyük kamu verilerinde sıradan sözcükler (ör. sokak adları) gizli terim listesindeki
+bir kelimeyle çakışabilir. Bu dosyalar `tools/scrub-data-manifest.json` içinde **yol + sha256** ile sabitlenir:
+
+- Yolu listede olan **ve** içeriğinin sha256'sı eşleşen dosyada yalnızca `client-term` kuralı atlanır. IBAN,
+  TCKN, e-posta, IP, telefon ve gizli anahtar kuralları her zaman çalışır.
+- Dosyada tek bir bayt değişirse hash tutmaz ve dosya yeniden tam taranır. Aynı içerik başka bir yolda
+  sabitlenmemiş sayılır. Arşiv yasağı sürer (veri düz `.txt` olarak gelir).
+- İndirme ZIP'lerinde (`tools/scrub-dist.sh`) dosya, `plugins/` önekinden sonraki yol (`<slug>/data/…`) ve
+  hash ile eşleşir.
+- Manifest yalnızca `{files:[{path,sha256}], rules_skipped:["client-term"]}` içerebilir; başka bir kural
+  atlanamaz. Manifestin kendisinde yollar taranır.
+
+Veriyi bilerek güncelledikten sonra (yeni kaynak sürümü, gözden geçirilmiş) yeniden sabitleyin:
+
+```bash
+node tools/pin-data.mjs 'plugins/turkish-address-fields-for-woocommerce/data/ilce/*.txt'
+npm run scrub
+```
+
+Yalnızca gözden geçirilmiş, üretilmiş kamu verisini sabitleyin; kod, belge veya müşteriden türeyen hiçbir
+dosyayı asla sabitlemeyin. Bir desen kuralı (telefon, TCKN, e-posta…) kamu verisinde tetiklenirse sabitleme
+bunu susturmaz; kayıt verinin kendisinde düzeltilmeli ya da ayrıca karara bağlanmalıdır.
+
+**English:** public data files may be pinned by path + sha256 in `tools/scrub-data-manifest.json`; only the
+client-term rule is skipped while the content is unchanged, all pattern rules still run. Re-pin after a
+deliberate, reviewed data update with `node tools/pin-data.mjs '<dir>/*.txt'`.
+
 ## Yerel demo sitesi ve duman testi (demo site + smoke test)
 
 Demo site depo dışındadır: `$HOME/code/erusoft-wp-demo` (tr_TR WordPress + WooCommerce, 6 uydurma ürün

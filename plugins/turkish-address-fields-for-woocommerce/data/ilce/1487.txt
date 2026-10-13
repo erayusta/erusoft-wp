@@ -1,0 +1,222 @@
+93638	Akçakışla Köyü	Akçakışla=
+93640	Akçakışla Köyü, Atalar Mezrası	Atalar=
+93641	Akçakışla Köyü, Damarlı Mezrası	Damarlı=
+93639	Akçakışla Köyü, Dutluca Mezrası	Dutluca=
+93495	Akçalı Köyü	Akçalı=
+93496	Akçalı Köyü, Budaklı Mezrası	Budaklı=
+93498	Akçalı Köyü, Karser Mevkii	Karser=
+93497	Akçalı Köyü, Kömk Mezrası	Kömk=
+93499	Alıçlı Köyü	Alıçlı=
+93500	Armutlu Köyü	Armutlu=|Gürco=|Tırgan=|Ğin=|Şat=
+181382	Armutlu Köyü, Kumruar Mevkii	Kumruar=
+181384	Armutlu Köyü, Sarıda Mevkii	Sarıda=
+93642	Arıkaya Köyü	Arıkaya=
+93643	Arıkaya Köyü, Dikbayır Mezrası	Dikbayır=
+181380	Arıkaya Köyü, Gökbudak Mevkii	Gökbudak=
+93645	Arıkaya Köyü, Irmak Mevkii	Irmak=
+93644	Arıkaya Köyü, Yemişlik Mezrası	Yemişlik=
+90510	Ağaçlık Mah.	1 Nolu=|1401~|1402~|1403~|1404~|Ağaçlık@|İpekyolu~
+90511	Aşağıgüneşli Mah.	2201~|2202@|2208~|2209~|2210~|2211~|2215~|707-~|709~|711-~|718~|Eski Diyarbakır_1@|Ova@|Çetinemeç-@|İpek Yolu@
+93550	Aşağıkıratlı Köyü	Aşağıkıratlı=
+90531	Bahçeli Mah.	Bahçeli@|Bahçeliipekyolu-@|Küme Evler_10=
+90533	Bekirhan Beldesi, Adnan Menderes Mah.	302~|307~|Batman Kozluk Yolu@|Fatih@|Hürriyet@|Ortaçay Yolu@|Yusuf Azizoğlu@|Zübeyde Hanım@|Zübeyde Hanım.1@|Zübeyde Hanım.2@
+90534	Bekirhan Beldesi, Gülpınar Mah.	102~|105~|106~|107~|109~|110~|111~|112~|4.c.~|Atatürk@|Batman Kozluk Yolu@|Batman-kozluk Karayolu@|Emek@|Fatih Sultan@|Kanuni@|Lise@|Seyitler Sokak~|Yunus Emre@
+139744	Bekirhan Beldesi, Ortaçay Mah.	10@|11@|502~|504~|505~|506~|507~|508~|509~|510~|511~|Aydınlar@|Dale~|Çınar~
+90535	Bekirhan Beldesi, Turgut Özal Mah.	204~|207~|209~|210~|212~|213~|214~|215~|5@|6@|Atatürk@|Batman Kozluk Yolu@|Cumhuriyet@|Zübeyde Hanım@|Zübeyde Hanım.1@|İnönü@|İnönü.1~
+90536	Bekirhan Beldesi, Yapraklı Mah.	401~|402~|403~|404~|405~|406~|407~|408~|Huzur@|Yapraklı@
+93618	Bekirhan Yenidoğan Köyü	Bekirhan Yenidoğan=
+93650	Beybağı Köyü	Beybağı=
+93651	Beybağı Köyü, Delava Mezrası	Delava=
+99856	Beşevler Mah.	1301~|Bahçeliipekyolu@|Küme Evler_3=|İpekyolu_1@
+93648	Beşkonak Köyü, Ağılbaş Mezrası	Ağılbaş=
+93649	Beşkonak Köyü, Esinlik Mezrası	Esinlik=
+93647	Beşkonak Köyü, Süleymanlar Mezrası	Süleymanlar=
+93646	Beşkonak Köyü, Şerikan Mezrası	Şerikan=
+93505	Bölükkonak Köyü	Bölükkonak=
+93553	Danagözü Köyü	Danagözü=
+93556	Danagözü Köyü, Aslanlı Mezrası	Aslanlı=
+93554	Danagözü Köyü, Taşoluk Mezrası	Taşoluk=
+93555	Danagözü Köyü, Çay Mezrası	Çay=
+93557	Dere Köyü	Dere=
+93560	Dere Köyü, Ava Mezrası	Ava=
+93559	Dere Köyü, Soylu Mezrası	Soylu=
+93558	Dere Köyü, Taava Mezrası	Taava=
+93561	Dere Köyü, Tekeli Mezrası	Tekeli=
+93562	Dere Köyü, Yeni Mevkii	Yeni=
+93660	Derince Köyü	Derince=
+197053	Derince Köyü, Çay Mevkii	Çay=
+90513	Değirmendere Mah.	1501~|1502~|Armağan@|Küme Evler=
+93563	Duygulu Köyü	Duygulu=
+139712	Duygulu Köyü, Metinga Mevkii	Metinga=
+93564	Duygulu Köyü, Yolbaşı Mezrası	Yolbaşı=
+93565	Dövecik Köyü	Dövecik=
+93566	Eskice Köyü	Eskice=
+93567	Eskice Köyü, Satı Mezrası	Satı=
+197081	Eskice Köyü, Seyitler Mevkii	Seyitler=
+93508	Geyikli Köyü	Cevizlik@|Geyikli=
+181374	Geyikli Köyü, Mergedere Mevkii	Cevizlik@|Mergedere=
+93507	Geçitaltı Köyü	Geçitaltı=
+196711	Geçitaltı Köyü, Gelşe Mevkii	Gelşe=
+181838	Geçitaltı Köyü, Mezarlık Mevkii	Mezarlık=
+197055	Geçitaltı Köyü, Sugesiye Mevkii	Sugesiye=
+139909	Geçitaltı Köyü, İkipınar Mevkii	İkipınar=
+93661	Güllüce Köyü	Güllüce=
+93662	Güllüce Köyü, Dikenli Mezrası	Dikenli=
+93663	Güllüce Köyü, Süleymana Mezrası	Süleymana=
+93509	Gümüşörgü Köyü	Gümüşörgü=
+93515	Gündüzlü Köyü, Kalkancık Mezrası	Kalkancık=
+181898	Gündüzlü Köyü, Köyün Kendisi Mevkii	Akıncılar~|Gazebandaran~|Ömerli~
+93664	Günyayla Köyü	Günyayla=
+93516	Gürpınar Köyü	Gürpınar=
+196683	Gürpınar Köyü, Gültepe Mevkii	Gültepe=
+93517	Gürpınar Köyü, Ulucanlar Mezrası	Ulucanlar=
+90514	Hamam Mah.	101~|102~|103~|104~|106~|108~|110~|112~|113~|Cumhuriyet@|Hıdırbey@|İslambey@
+181900	Kahveci Köyü, Köyün Kendisi Mevkii	Aşağı Kahveci=|Yukarı Kahveci=
+90516	Kale Mah.	301~|302~|303~|304~|306~|308~|310~|312~|313~|315~|320~|321=|Cumhuriyet@|Emniyet@|Eski Hal~|Hükümet@|Hükümet-@|Tepe@
+93568	Kaletepe Köyü	Kaletepe=
+93569	Kaletepe Köyü, Yeşilöz Mezrası	Yeşilöz=
+93570	Kaletepe Köyü, İnanlı Mezrası	Inanlı=
+93571	Kamışlı Köyü	Kamışlı=
+93572	Kamışlı Köyü, Akağaç Mezrası	Akağaç=
+93573	Karaoğlak Köyü	Karaoğlak=|Çay~
+197653	Karaoğlak Köyü, Merce Mevkii	Merce=
+93575	Karpuzlu Köyü	Karpuzlu=
+99087	Karpuzlu Köyü, Üçyol Mevkii	Cadde=
+90517	Karpuzlu Mah.	2101~|2102~|2103~|Küme Evler_5=
+93665	Karşıyaka Köyü	Karşıyaka=
+93576	Kavakdibi Köyü	Kavakdibi=
+93577	Kavakdibi Köyü, Orta Mezrası	Orta=
+93578	Kavakdibi Köyü, Salihli Mezrası	Salihli=
+93580	Kavakdibi Köyü, Soğukpınar Mevkii	Soğukpınar=
+90518	Kavaklı Mah.	Kavaklı=|Küme Evler_2=
+93521	Kayadibi Köyü	Kayadibi=
+93522	Kayadibi Köyü, Cindo Mezrası	Cindo=
+90519	Kemalpaşa Mah.	Kemalpaşa Mevki=|Küme Evler_6=
+90520	Komando Mah.	705~|709~|710~|902~|902/a~|904~|905~|906~|907~|909~|911~|913~|914~|920 Güven~|Eski Diyarbakır@|Çetinemeç@|İpek Yolu@
+93588	Konaklı Köyü	Diyarbakır Bitlis-@|Konaklı=
+93589	Konaklı Köyü, Hazari Mezrası	Hazarı=
+93583	Koçaklı Köyü	Koçaklı=
+93584	Koçaklı Köyü, Ağlemk Mezrası	Ağlemk=
+93587	Koçaklı Köyü, Güveçli Mezrası	Güveçli=
+93586	Koçaklı Köyü, Kettı Mezrası	Ketti=
+140242	Koçaklı Köyü, Norşen Mevkii	Norşen=
+93585	Koçaklı Köyü, Yeşiltepe Mezrası	Yeşiltepe=
+99639	Kulludere Köyü, Köyün Kendisi Mevkii	Küme Evler=
+93523	Kumlupınar Köyü	Kumlupınar=
+93526	Kumlupınar Köyü, Aslan Köy Mezrası	Aslan Köy=
+93524	Kumlupınar Köyü, Kocabey Mezrası	Kocabey=
+93525	Kumlupınar Köyü, Toptaş Mezrası	Toptaş=
+90521	Köprübaşı Mah.	15 Tmz.ş.cd.@|2521~|2522~|2525~|Küme Evler_1=|Serçem@
+93590	Ortaca Köyü	Ortaca=
+93591	Ortaca Köyü, Kaniyebine Mezrası	Kaniyebine=
+139907	Ortaca Köyü, Söğütlüpınar Mevkii	Söğütlüpınar=
+93666	Oyuktaş Köyü	Oyuktaş=
+93667	Oyuktaş Köyü, Yeşilyurt Mezrası	Yeşilyurt=
+93593	Parmakkapı Köyü	Parmakkapı=
+90522	Pınarbaşı Mah.	1102~|833=|Küme Evler_7~|Pınarbaşı=|Pınarbaşı İpekyolu@
+93594	Pınarhisar Köyü	Pınarhisar=
+93595	Pınarhisar Köyü, Yeşiltepe Mezrası	Yeşiltepe=
+93596	Samanyolu Köyü	Samanyolu=
+99379	Selahaddini Eyyübi Mah.	701~|702~|703~|704~|705~|706~|707~|709~|710~|711-~|712~|713~|714~|716~|718~|719=|Ova@|Çetinemeç@
+93579	Seyitler Köyü, Köyün Kendisi Mevkii	Seyitler=
+93529	Seyrantepe Köyü	Seyrantepe=
+93597	Taşlıdere Köyü	Taşlıdere=|Taşlıdere_1=
+93599	Taşlıdere Köyü, Doğancık Mezrası	Doğancık=
+93598	Taşlıdere Köyü, Yuvacık Mezrası	Yuvacık=
+93668	Taşlık Köyü	Taşlık=
+93669	Taşlık Köyü, Handelu Mezrası	Handelu=
+93670	Taşlık Köyü, Şakuli Mezrası	Şakuli=
+90524	Tepecik Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1012~|1023~|1031~|2~|2301~|2302~|2306~|2307~|2308~|2309~|2311~|2311-~|2312~|2320~|2322~|2325~|2327~|2329~|2401@|2402~|2403@|2403y~|2404~|2406~|2407~|2408~|2409~|2410~|2411~|2412~|2413~|2432~|2503~|2508~|2510~|2510-~|2514~|2515~|2516~|2517~|2517y~|2518~|2519~|2519y-~|2530tepe~|Eski Diyarbakır_1@|Hicret Cami Sk1~|Ova@|Seyitler~|Tepecik=|Çetinemeç@|İpek Yolu@|İpekyolu2@|İpekyolu3-@|Ş.şenay Aybüke@
+90525	Tepeüstü Mah.	Küme Evler_8~
+93530	Tosunpınar Köyü	Tosunpınar=
+93531	Tosunpınar Köyü, Yukarı Şat Mezrası	Yukarı Şat=
+93532	Tosunpınar Köyü, İncirlik Mezrası	İncirlik=
+93637	Tuzlagözü Köyü	Tuzlagözü=
+197565	Tuzlagözü Köyü, Yokuş Mevkii	Yokuş=
+197563	Tuzlagözü Köyü, Örnek Mevkii	Örnek=
+93600	Ulaşlı Köyü	Ulaşlı=|Yeni=|Yeşilpınar=|Çiftlik=
+181378	Ulaşlı Köyü, Aslanlı Mevkii	Aslanlı=
+93605	Ulaşlı Köyü, Camili Mevkii	Camili=
+99088	Ulaşlı Köyü, Hürriyet Mevkii	
+93602	Ulaşlı Köyü, Kale Mevkii	Kale=
+93606	Ulaşlı Köyü, Keklikpınar Mezrası	Keklikpınar=
+93607	Ulaşlı Köyü, Tomurcak Mevkii	Tomurcak=
+93604	Ulaşlı Köyü, Zorluca Mezrası	Zorluca=
+93671	Uzunyazı Köyü	Uzunyazı=
+93673	Uzunyazı Köyü, Seymenler Mezrası	Seymenler=
+93672	Uzunyazı Köyü, Uğurlu Mezrası	Uğurlu=
+93623	Uzunçayır Köyü	Uzunçayır=
+93625	Uzunçayır Köyü, Aksaray Mezrası	Aksaray=
+93631	Uzunçayır Köyü, Başeymez Mezrası	Başeymez=
+93628	Uzunçayır Köyü, Bulgurlu Mezrası	Bulgurlu=
+93633	Uzunçayır Köyü, Esentepe Mezrası	Esentepe=
+93629	Uzunçayır Köyü, Eshabe Mezrası	Eshabe=
+93634	Uzunçayır Köyü, Golazeng Mezrası	Golazeng=
+93632	Uzunçayır Köyü, Gülovası Mezrası	Gülovası=
+93635	Uzunçayır Köyü, Hasköy Mezrası	Hasköy=
+93624	Uzunçayır Köyü, Mercan Mezrası	Mercan=
+93627	Uzunçayır Köyü, Seyhan Mezrası	Seyhan=
+93626	Uzunçayır Köyü, Uzunyayla Mezrası	Uzunyayla=
+93636	Uzunçayır Köyü, Yeşilköy Mezrası	Yeşilköy=
+93630	Uzunçayır Köyü, Üzümlü Mezrası	Üzümlü=
+90526	Yamaçlı Mah.	801~|802~|803~|804~|806~|808~|810~|812~|814~|816~|818~|820~|822~|824~|825~|826~|828~|830~|831-=|Eski Diyarbakır_1@|Ova@|Çetinemeç@|İpek Yolu_1@
+93535	Yankılı Köyü	Yankılı=
+93609	Yanıkkaya Köyü	Yanıkkaya=
+93611	Yanıkkaya Köyü, Gertavi Mezrası	Gertavi=
+93612	Yanıkkaya Köyü, Sarıkuş Mezrası	Sarıkuş=
+93610	Yanıkkaya Köyü, Çavuşlu Mezrası	Çavuşlu=
+93536	Yapaklı Köyü	Yapaklı=
+93613	Yayalar Köyü	Yayalar=
+93614	Yayalar Köyü, Okçular Mezrası	Okçular=
+93615	Yayalar Köyü, Soylu Mezrası	Soylu=
+93674	Yazpınar Köyü	Yazpınar=
+93537	Yazılı Köyü	Yazılı=
+93538	Yazılı Köyü, Arıkbaşı Mezrası	Arıkbaşı=
+93540	Yazılı Köyü, Keseli Mezrası	Keseli=
+93539	Yazılı Köyü, Köseler Mezrası	Köseler=
+93541	Yedibölük Köyü	Yedibölük=
+90527	Yeni Mah.	400~|401~|402~|403~|404~|405~|406~|407~|411~|413~|415~|417~|418=|522~|Aymaro Yolu~|Cumhuriyet@|Doktor Berat Kıran@|Lise@
+93542	Yenidoğan Ase Köyü	Yenidoğan Ase=
+93545	Yenidoğan Ase Köyü, Alaca Mezrası	Alaca=
+93544	Yenidoğan Ase Köyü, Seyrantepe Mezrası	Seyrantepe=
+93547	Yenidoğan Ase Köyü, Sork Mezrası	Sork=
+93546	Yenidoğan Ase Köyü, Tepecik Mezrası	Tepecik=
+93543	Yenidoğan Ase Köyü, Şöpir Mezrası	Sopır=
+93616	Yeniçağlar Köyü	Yeniçağlar=
+93617	Yeniçağlar Köyü, Bacak Mezrası	Bacak=
+90528	Yeşiltepe Mah.	1601~|Küme Evler_9~|Yeşiltepe=
+99378	Yolaltı Mah.	Bitlis-silvan Karayolu%|Cevizlik@|Cevizlik Mah.=
+90532	Yolüstü Mah.	Cevizlik@|Küme Evler_4=
+90529	Yukarı Güneşli Mah.	15 Tmz.ş.cd.@|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|617~|618~|619~|620~|622~|624~|630~|631~|641~|642-~|Cezaevi@|Emniyet@|Tarım@|Tepe@|Çetinemeç@|Ünv.sok-~
+93581	Yukarıkıratlı Köyü	Yukarıkıratlı=
+93582	Yukarıkıratlı Köyü, Navala Mezrası	Navala=
+93548	Yıldızlı Köyü	Yıldızlı=
+93549	Yıldızlı Köyü, Kale Mezrası	Kale=
+93619	Ziyaret Köyü	Ziyaret=
+180928	Ziyaret Köyü, Canlar Mevkii	Canlar=
+93620	Ziyaret Köyü, Orta Mezrası	Orta=
+93622	Ziyaret Köyü, Yukarı Ziyaret Mezrası	Yukarı Ziyaret=
+93621	Ziyaret Köyü, Çayönü Mezrası	Çayönü=
+93551	Çamlıca Köyü	Çamlıca=
+90512	Çaybaşı Mah.	1901~|1902~|1903~|1904~|Çaybaşı=|İpek Yolu@
+93506	Çaygeçit Köyü	Çaygeçit=
+93652	Çayhan Köyü	Çayhan=
+93653	Çayönü Köyü	Çay Könü=
+93656	Çayönü Köyü, Dilimli Mezrası	Dilimli=
+93657	Çayönü Köyü, Kurşunlu Mezrası	Kurşunlu=
+93655	Çayönü Köyü, Yeniköy Mezrası	Yeni Köy=
+93659	Çayönü Köyü, Yolkenarı Mevkii	Yolkenarı=
+93654	Çayönü Köyü, Çakırlar Mezrası	Çakırlar=
+93658	Çayönü Köyü, Çay Kenarı Mevkii	Çay Kenarı=
+140152	Çayönü Köyü, İncili Mevkii	İncili=
+93552	Çevrecik Köyü	Çevrecik=
+93527	Örensu Köyü	Örensu=
+93528	Örensu Köyü, Kömürlü Mezrası	Kömürlü=
+93533	Ünsaldı Köyü	Ünsaldı=
+93534	Ünsaldı Köyü, Koyuncular Mezrası	Koyuncular=
+93518	İnişli Köyü	Yıldızlıı=|İnişli=
+197559	İnişli Köyü, Cemalo Mevkii	Cemalo=
+197561	İnişli Köyü, Tepeli Mevkii	Tepeli=
+93520	İnişli Köyü, Tunçbilek Mezrası	Tunçbilek=
+90515	İslambey Mah.	201~|202~|203~|204~|205~|206~|207~|208~|210~|212~|213~|401~|Cumhuriyet@|Karlı Ova@|Lise@|İslam@|İslambey@
+90523	Şemdinağa Mah.	501~|502~|503~|504~|505~|506~|507~|508~|510~|512~|516~|518~|520~|522~|523~|Cumhuriyet@|Emniyet@|Hükümet@|Sehitlik@|Çetinemeç@

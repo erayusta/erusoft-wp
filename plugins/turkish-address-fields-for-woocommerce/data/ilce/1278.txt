@@ -1,0 +1,48 @@
+21080	15 Temmuz Mah.	405.çşb/1~|484.çşb~|519~|519.çşb~|Afet Küme Evleri=|Atatürk%|Bahçe@|Bağlar 4.~|Bağlar 5.~|Bağlar 6.~|Bağlar 7.~|Bağlar-1.~|Bağlar-2.~|Bağlar-3.~|Camii 1.~|Camii~|Dicle İlçe Hastanesi.~|Ergani 1 Çıkmaz~|Ergani 1.~|Ergani 10.~|Ergani 11.~|Ergani 12.~|Ergani 2.~|Ergani 3.~|Ergani 4.@|Ergani 5.~|Ergani 6.~|Ergani 7.~|Ergani 8.~|Ergani 9.~|Ergani Caddesi Yarma=|Ergani. 1~|Eski Eğil Yolu 1.~|Eski Eğil Yolu 2.~|Eski Eğil Yolu 3.~|Eski Eğil Yolu 4.~|Eski Eğil Yolu 5.~|Eski Eğilyolu@|Eski Hani Yolu 4.=|Eski Hastane 1.~|Eski Hastane.~|Ferah 2.~|Ferah 3.~|Ferah@|Ferah1~|Hani Yolu 10~|Hani Yolu 11.~|Hani Yolu 12.~|Hani Yolu 13.~|Hani Yolu 14~|Hani Yolu 15.~|Hani Yolu 7.~|Hani Yolu 8.~|Hani Yolu 9.~|Hani Yolu@|Hani Yolu Hilver 1.~|Hani Yolu Hilver 2.~|Hani Yolu Hilver 3.~|Hani Yolu Hilver 4.~|Hani Yolu Hilver 5.~|Hani Yolu Hilver 6.~|Hani Yolu Hilver 7.~|Hani Yolu Hilver 8.~|Hani Yolu Hirver@|Hani Yolu-1.~|Hani Yolu-2.~|Hani Yolu-3.~|Hani Yolu-4.~|Hani Yolu-5.~|Hani Yolu-6.~|Hani Yolu-küme Evleri~|Hastahane@|Hastahane. 1~|Horkent@|Hükümet 1.~|Hükümet 10@|Hükümet 2.~|Hükümet@|Kral Kızı~|Maltin=|Memurlar 1.~|Memurlar 2.~|Memurlar 3.~|Memurlar@|Sars 1.~|Sars 2.~|Sars 3.~|Sars 5.~|Sars 6.~|Sars 7.~|Sars 8.~|Sars 9.~|Sars=|Tarım 1.~|Tarım 2.~|Tarım 3.~|Tarım@|Yeni Yol 5.~|Yeni Yol 6.~|Yeniyol 3.~|Yeniyol 4.~|Yeniyol 5.~|Yenı Yol 1.~|Yenı Yol 3.~|Zor 1.~|Zor 2.~|Zor~
+192717	Acar Mah.	Acar=|Dicle Hani Yolu .çşb~
+192639	Altayköy Mah.	Altayköy=|Beyanduran=|Bırdış=
+192641	Arıköy Mah.	Arıköy=|Aşağı Ordulu=|Esentepe=|Yukarı Ordulu=
+192643	Bademli Mah.	Bademli=|Dedeköy=|Meşeler=
+192645	Bahçedere Mah.	Bahçedere=
+192647	Bahçeköy Mah.	Bahçeköy=|Ergani Dicle Karayolu@|Etek=
+192649	Baltacı Mah.	Aşağı Baltacı=|Kormik Mezrası Baltacı Yolu 2~|Yukarı Baltacı=
+192653	Baturköy Mah.	Akbulut=|Aşağı Baturköy=|Doğan=|Yukarı Baturköy=|Çevlikbağ=
+21077	Bağlarbaşı Mah.	Camii-kebir@|Dağ~|Ferah@|Ferah1~|Han - Myd.|Hastahane@|Hükümet 10@|Kasan~|Kasan1~|Kasan2~|Kasan3~|Kasan4~|Kaya~|Kaya1~|Köprü~|Molla Ahmet~|Molla Hasan~|Molla Hasan1~|Radar~|Radar1~|Çır~|Ömeran~
+192651	Başköy Mah.	Başköy=|Köprübaşı=|Mezra=|Çaylıdere=|Çayüstü=
+192713	Biçer Mah.	Aşağı Biçer=|Yeşilsırt=|Yukarı Biçer=
+192659	Bozoba Mah.	Bağlar~|Bağlar/1~|Bozoba=|Keçin Komu~|Mehmet Hezik~|Mehmet Hezik/1~|Neçaran Komu~|Neçeran Komu/1~|Yeşil=|Çitili=
+192655	Boğaz Mah.	Boğaz=|Şenova=
+192657	Boğazköy Mah.	Boğazköy=|Evelek=
+192663	Dedeköy Mah.	Bademli=|Dedeköy=
+192665	Değirmenli Mah.	Değirmenli=
+192669	Durabeyli Mah.	Abasa=|Bazıda=|Dermana=
+192667	Döğer Mah.	Aşağı Döğer=|Aşağı Kurtuluş=|Bahçelievler-3=|Bahçelievler_1=|Bahçelievler_2=|Bağlar.=|Başköy=|Gölbaşı-1=|Gölbaşı-2=|Yukarı Değirmenli=|Yukarı Kurtuluş=|Özbey=
+192671	Gelincik Mah.	Bahçecik=|Gelincik=
+192715	Gölbaşı Mah.	Gölbaşı=
+192673	Gündoğdu Mah.	Gündoğdu=
+192637	Kaygısız Mah.	Akçabardak=|Ağahan=|Ağahan-=|Baharge=|Karagöm=|Küldiken=
+192675	Kayıköy Mah.	Kayıköy=
+192677	Kelekçi Mah.	Kelekçi=
+192681	Kocaalan Mah.	Acar=|Karaca=|Kocaalan=
+192683	Koruköy Mah.	Aşağı Koru=|Ergani Dicle Karayolu@|Gom=|Yukarı Koru=
+192687	Kurudere Mah.	Haraba=|Kurudere=|Yamaç=
+192685	Kurşunlu Mah.	Kurşunlu=
+199703	Kırklar Mah.	Elveren=|Kırklar=|Sındırlı=|Tekçalı=|Yarım Elma=|Örenbağ=
+192679	Kırkpınar Mah.	Kayaş=|Kurşunlu=|Köy=|Küpetaş=
+192689	Meydan Mah.	Akbulama=|Eceler=|Erler=|Kardeşler=|Meydan=
+192691	Pekmezciler Mah.	Pekmezciler=
+192719	Pınar Mah.	Pınar=
+192693	Sergenli Mah.	Sergenli=|Taştepe=
+199705	Süsümlü Mah.	Bilindik=|Durmakaya=|Karaçalı=|Karaçimen=|Keçelek=|Süsümlü=|Sımakveren=|Tepe Evleri=
+192695	Taşağıl Mah.	Taşağıl=
+192697	Tepe Mah.	Tepe=
+192699	Tepebaşı Mah.	Altıtaş=|Nohutlu=|Tepebaşı=|Yardımcı=
+192703	Ulubaş Mah.	Ergani Dicle Karayolu@|Ulubaş=|Ulubaş1=|Ulubaş2~|Ulubaş3~
+192705	Uluçeşme Mah.	Uluçeşme=
+192701	Uğrak Mah.	Uğrak=
+192709	Yeşilsırt Mah.	Baraj 1=|Baraj 3=|Baraj=|Ergani Dicle Otoyolu@|Yeşilsırt=
+21079	Yeşiltepe Mah.	Alboga 1~|Alboğa~|Aşağısaklı Mezrası=|Camii-kebir@|Camikebir 1~|Camikebir 2~|Camikebir 3~|Camikebir 4~|Dink~|Dizdeyni 1@|Dizdeyni~|Dizdeyni/10=|Eski Hani Yolu 4.=|Feyzan 7.~|Hani Yolu@|Hasanağa 3.~|Kale~|Kaleiçi 1~|Kaleiçi~|Kormik Mezrası Afet Konutları=|Kormik Mezrası Baltacı Yolu 1~|Kormik Mezrası Baltacı Yolu 2~|Kormik Mezrası Baltacı Yolu@|Kormik Mezrası=|Radar 2~|Radar~|Radar1~|Sımakır~|Yokuşlu Köyü@|Yukarı Saklı Mezrası=|Zeydinan=|Çır 1~|Çır~
+192711	Yokuşlu Mah.	Gızik=|Oba=|Yokuşlu=
+192661	Çavlı Mah.	Aşağı Çavlı=|Ergani Dicle Karayolu@|Yukarı Çavlı=
+21078	Çelebi Mah.	Bahçeler~|Eski Hani@|Eski Hani Yolu 1.~|Eski Hani Yolu 2.~|Eski Hani Yolu 3.~|Eski Hani Yolu 4.=|Eski Hani Yolu 5.~|Eski Hani Yolu 6.~|Eski Hani Yolu@|Eski Hani/1~|Ferah@|Ferah1~|Fettah~|Feyzan 4.~|Feyzan 5.~|Feyzan 6.~|Feyzan 8.~|Feyzan~|Feyzan/1~|Feyzan/2~|Feyzan/3~|Hasanağa 1.~|Hasanağa 2.~|Hasanağa 3.~|Hasanağa 4.~|Hasanağa 5~|Hasanağa~|Kale~|Kale1~|Maks197.~|Pirzeyt~|Yokuşlu Köyü@|Çelebi 1.=|Çıkmaz~|Şafak 1~|Şafak~|Şafak/2~
+192707	Üzümlü Mah.	Altuğ=|C Rumiyan=|Göze=|Gündüz=|Hevşiyan=|Konak=|Rumiyan=|Taşlı=|Üzümlü=|Şarikan=

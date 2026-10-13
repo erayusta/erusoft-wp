@@ -1,0 +1,58 @@
+193159	Akbulak Mah.	Akbulak=|Bağcılar=|Ceviz Çeşme=|Haruni=|Havrik=|Kelektepe=|Çay=
+193241	Akdoruk Mah.	Akdoruk=|Arkin=|Dikyol=|Farhale=|Gozito=|Huş=|Merga Amo=|Çekirdek=
+193293	Akçesir Mah.	Amiçor=|Berdag=|Bervar=|Cigur=|Dedar=|Ezetmori=|Gali=|Gramanos=|Gund=|Guzik=|Gıdornik=|Hazruk=|Hel Hel=|Hopir=|Hızordan=|Kipovit=|Kup=|Kures=|Kuç=|Miranger=|Morgung=|Nebika=|Reşo=|Sevit=|Smaksor=|Sulava=|Tekneval=|Zervel=|Ziyada=
+193163	Alaca Mah.	Aktulum=|Alaca=|Billurderesi=|Damlar=|Darabin=|Dedebağı=|Kahıldöven=|Karmataş=|Kasa=|Muş Kulp Yolu 1.%|Oyukdere=|Sivriyayla=|Taysever=|Taşdiken=|Tokagıl=|Şenyayla=
+193171	Argün Mah.	Argün=|Dika Haşika=|Dika Rut=|Dika Şemdin=|Dıkamir=|Geçit=|Hınzırak=|Kölmek=|Malaeme=|Mirga=|Rastil=|Taşlık=|Uzundere=
+193283	Aygün Mah.	Alaz=|Aygün=|Belgame=|Dadik=|Dırp=|Gomamike=|Göçka=|Gıdank=|Hakman=|Hanika=|Hartik=|Hasnut=|Heki=|Hertho=|Karaşilan=|Keleşik=|Kiki=|Meksudink=|Merga=|Mevik=|Mezir=|Okul=|Purğ=|Pırnard=|Pıştaçiye=|Sardin=|Sarıtaş=|Sarıçoban=|Sisirnaç=|Sudöndü=|Tevalınk=|Tıranik=|Çakal=|Şendo=|Şilan=
+193305	Ayhan Mah.	Ayhan=
+193153	Ağaçkorur Mah.	Ağaçkorur=|Buğulu=|Derik=|Dığdir=|Kehir Vang=|Kom=|Muş Kulp Yolu 1.%|Muş Kulp Yolu@|Soravang=|Tayes Evi=|Yüklüce=
+193149	Ağaçlı Mah.	1.~|2~|3.~|4~|Aşağı Bahçan~|Bahçeli~|Bağlar~|Bağlar Yolu 1.~|Budukan 1.~|Budukan~|Hars-=|Hastane~|Kaska=|Yukarı Bahçan~|Şehitlik (kale)@|Şehitlik Kale 1.~|Şehitlik.1@
+193235	Ağıllı Mah.	Ağıllı=|Dirlik=|Çekirdek=
+193179	Baloğlu Mah.	Aşağı Çay=|Baloğlu=|Balurkan=|Danacık=|Hadada=|Hışık=|Kaniyareş=|Mushaft=|Oskizamah=|Yukarı Çay=|Zizbek=|Çiftlik=|Çitlidoruk=|Çömlekçi=
+193185	Barın Mah.	Barın=|Mala Halito=
+193187	Bayır Mah.	Bayır=|Bağcılar=|Düzce=|Yukarı Polat=
+193175	Bağcılar Mah.	Bağcılar=|Dolusalkım=|Düzpelit=|Küçük Hacanan%|Ortakuyu=
+193307	Başbuğ Mah.	Bademli=|Başbuğ=|Bisor=|Malajeri=|Male Zori=|Malegume=|Mirik=|Çemesine=
+193191	Demirli Mah.	Birazeyna=|Demirli=|Mevik=
+193193	Dolun Mah.	Dolun=|Geli=
+193197	Düzce Mah.	Bağcılar=
+193245	Elmalı Mah.	Ağıllı=|Elmalı=|Gümüş Suyu=|Işıklar=|Yukarı Elmalı=
+193201	Güleç Mah.	Güleç=|Mala Abdo=|Mala Besi=|Mala Olı=|Mala Ropin=|Oymaklı=|Tokilka=
+193255	Güllük Mah.	Güllük=|Kulp Lice@|Maden=
+193303	Hamzalı Mah.	Akpınar=|Akyaprak=|Cami=|Derindere=|Dürüstan=|Hamzalı B.m=|Hamzalı Bucak Yolu%|Hamzalı Salkımlı Yolu%|Kom=|Kulp Silvan Yolu%|Sında=|Yeşil Tepe=|Yolçatı=|Çöl=
+193257	Kamışlı Mah.	Başçavuş=|Kamışlı Köy Yolu%|Kamışlı=|Mutlu=|Tahtabeş=|Yenidam=|Yeşilce=
+193261	Karaağaç Mah.	Karaağaç=
+193211	Karabulak Mah.	Alidere=|Avderik=|Dırıstan=|Haniye Kem=|Hocard=|Karabulak 1.=|Karabulak=|Karlık=|Kepezkaya=|Kupka=|Muş Kulp Yolu@|Oymak=|Turgut Özal%
+193311	Karaorman Mah.	Ağırbasan=|Karaorman=|Küme Evleri=|Sesveren=|Yavuz=
+193265	Karpuzlu Mah.	Dirlik=|Kafan=|Karpuzlu=|Kulp Lice@|Soğanlı=
+193295	Kayacık Mah.	Akocak=|Aşağı Gostik=|Gostik=|Gündüzlü=|Karaburç=|Kayacık=|Kepirtepe=|Metera=|Yüce Tarla=
+193313	Kayahan Mah.	Belaşi=|Hilufik=|Kayahan=
+199709	Kaynak Mah.	Hars=|Kaynak@|Kaynak Küme Evleri~|Narlıca Kaynak Yolu@|Okul Yolu~
+193219	Konuklu Mah.	Arık=|Kale=|Kale Mir=|Konuklu 2.~|Konuklu=|Konuklu Uzunova Yolu=|Malajerin=|Savaş=|Çiçekli=
+193301	Koçkar Mah.	Güher=|Kablebega=|Koçkar=|Mezir=|Mezra Yeşil=|Neval=|Okul=|Siglort=|Zakone=|Çiçekli=
+193269	Kurudere Mah.	Aşağı Kurudere=|Yukarı Kurudere=
+21124	Merkez Eski Mah.	102~|104~|105~|107~|108~|109~|110~|111~|113~|114~|118~|125~|126~|128~|130~|131~|132~|133~|134~|135~|137~|138~|139~|140~|149~|150~|152~|154~|155~|155/1.~|157~|157/1.~|159~|159/1~|162~|163~|164~|165~|166~|166/1~|166/1.~|168~|168/1.~|Cengiz Topel@|Mezarlık@|Turgut Özal%|Şehitlik 1.~|Şehitlik 21.~|Şehitlik@
+21126	Merkez Yeni Mah.	204~|208~|210~|211~|212~|213~|214~|215~|216~|221~|222~|223~|227~|228~|229~|230~|232~|233~|234~|240~|240/1.~|243~|244~|246 1.~|246~|259~|260~|261~|261/1.~|262~|263~|266~|268~|269~|282~|290~|Cengiz Topel@|Demirciler@|Diyarbakır@|Kümeevler=|Lise@|Sağlık@|Turgut Özal%
+193273	Narlıca Mah.	Gelda Çayı=|Gom=|Kulp Lice@|Narlıca=
+193329	Salkımlı Mah.	Bilgili=|Deştok=|Hamzalı Salkımlı Yolu%|Salkımlı=
+193297	Saltuk Mah.	Cumhuriyet=|Saltuk (dırbe)=
+193221	Taşköprü Mah.	Kuyucak=|Taşköprü=
+193223	Temran Mah.	Akbulak=|Hırba Mezrası=|Korukcu=|Mala Abdo=|Male Duburi=|Male Gaze=|Temran=
+21125	Tepecik Mah.	302~|303~|304~|304/1~|306~|307~|309~|310~|312~|314~|Meşe 1@|Meşe@|Neşe@|Tepecik Kümeevler=|Teğinler 1.~|Teğinler.@|Turgut Özal%|Çamlıca1=|Çınarlı 1.~|Çınarlı 2.~|Çınarlı@
+21128	Turgut Özal Mah.	216~|401-~|404~|405~|406~|409~|410~|411~|412~|415~|418~|419~|420~|422~|426~|428~|430~|431~|433~|434~|435~|435/1.~|436~|441~|467~|468~|469 /1.~|469~|472~|473~|474~|474/1.~|476~|478~|479~|480~|481~|482~|483~|484~|485~|486~|487~|488~|489~|490~|492~|493~|495~|495/1.~|496/1.~|498~|499~|Demirciler@|Diyarbakır@|Kümeevler=|Sağlık@|Turanlar@|Turgut Özal%|Yonca Küme Evleri~
+193315	Tuzla Mah.	Akocak=|Alikan=|Beşi=|Cafırka=|Ersık=|Fıtya Bale=|Hakar=|Hamzalı Bucak Yolu%|Hesemka=|Kevire Katran=|Kevıre Katran=|Nevala Fahre=|Olcay=|Rasta=|Turuncu=|Tuzla=|Tuzla Sason Yolu%|Şuka Hebo=
+193279	Uygur Mah.	Uygur=
+193317	Uzunova Mah.	Behad=|Kulp Silvan Yolu%|Oymaklı=|Sivrice=|Uzunova=
+193325	Yakıt Mah.	Cebeci=|Kulp Silvan Yolu%|Yakıt=
+193227	Yaylak Mah.	Akçanaaligünd=|Bejav=|Berrojk=|Boğaziçi=|Deras=|Deyika=|Goma Güle=|Gomadırıstan=|Güherme=|Helızga=|Kelesor=|Lıcikasımo=|Mezrasor=|Mılakadin=|Mılazini=|Nedre Kuş=|Simetok=|Yaylak=|Zeme=|Çayönü=|Şehsalih=
+193327	Yayık Mah.	Erenler=|Goma=|Kahveler=|Kuça=|Ovabağ=|Yayık=
+21127	Yeşilköy Mah.	501~|502~|503~|504~|505~|540~|543~|543/1.~|544~|546~|547~|551~|552~|554~|555~|Cengiz Topel@|Cevizli.@|Efeler.@|Hastahane@|Menekşe.@|Nehir.@|Spor@|Tepecik Kümeevler=|Turgut Özal%|Yallak.@|Yeşilköy@|Yeşilköy Mezarlık=
+193231	Yuvacık Mah.	Apanos=|Aşağı Gostik=|Davkar=|Muhlisag=|Nurhana=|Yuvacık=
+193281	Zeyrek Mah.	Kulp Lice@|Zeyrek=
+193247	Çağlayan Mah.	Derecik=|Deveboynu=|Hıraba=|Çağlayan=
+193251	Çukurca Mah.	Bağcılar=|Mutlu=|Zümrütlü=|Çukurca=
+193275	Özbek Mah.	Dalik=|Dökmetepe=|Kulp Lice@|Soldere=|Uygur=|Yeni Bağlar=|Yolu Güzel=|Özbek 1=|Özbek=
+193323	Ünal Mah.	Kocadağ=|Yavuz=|Ünal=
+193319	Üçkuyu Mah.	Üçkuyu 1=|Üçkuyu=
+193309	İnkaya Mah.	Yeşilce=|İnkaya=
+193205	İslamköy Mah.	Ahdat=|Kom=|Tur=|İslamköy=

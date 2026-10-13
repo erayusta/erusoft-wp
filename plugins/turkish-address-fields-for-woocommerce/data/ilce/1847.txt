@@ -1,0 +1,22 @@
+185537	Aksu Mah.	Aleköy~|Aslan~|Bağlar~|Canavar~|Cuma~|Davutlar~|Demirciler~|Döner~|Gölcük~|Güler~|Harman~|Karanlık~|Karayaka~|Kösler~|Madenler~|Meşe~|Osmanlar~|Çakır~|Çınar~
+185535	Akçapınar Mah.	Akçapınar~|Arabayolu~|Birlik~|Curcurhan~|Doruklar@|Dost~|Giden Dünya~|Gümbüldek~|Hırapınar~|Irmak~|Kardeş~|Kocapınar@|Koyunpınarı~|Manav~|Pınarbaşı~|Süleymanlar@|Tuzlupınar~|İmamlar~|İp Pınarı@|Şehitler~
+185539	Alballar Mah.	Alballar@|Alballar~|Bal~|Cami~|Eminağa~|Karaağaç~|Karabıyık~|Kayacık~|Konak~|Yayla~|Yaylaaltı~|Yoksul~|Yılmaz~|İğde~
+185541	Avdan Mah.	Avdan~|Aşağı Pınar~|Cevizli~|Dorukaltı@|Esenyurt Yolu~|Hakkılar~|Mezarlık Yolu~|Yayla~|Yukarı Mahalle~
+185547	Duman Mah.	Duman~
+185545	Dışdedeler Mah.	Kemikler~|Orta~|Yayla~|Çakallar~
+185549	Esenyurt Mah.	Esenyurt~|Yayla~
+185551	Hacıaliler Mah.	Hacıaliler~|Vişnelik~
+61758	Hacımurat Mah.	301.~|Akasya~|Altın~|Ankara@|Aydın~|Bahar~|Cumhuriyet Myd.|Değirmen~|Doğan~|Dr.mehmet Özaslan~|Fatih@|Fidan~|Gonca~|Gül~|Hastane~|Hıdırlık Arkası~|Hıdırlık~|Keskin~|Konakönü~|Kozçağız=|Kuğu~|Menekşe~|Mimar Sinan@|Nalçacılar~|Nergis~|Okul@|Papatya~|Petek~|Su Deposu~|Tetik~|Toki Evleri~|Trafo~|Uslu~|Vadi~|Yangınönü Myd.|Yavuz Selim@|Yurt~|Zambak~|Çağla~|Çiftlik~|Çiğdemlik~|Şimşek~
+185553	Hacıyakup Mah.	Bayırköy~|Feyzullah Bey@|Habibler~|Kabaklar~|Kıran~|Paşalar~|Pınarcık~|İstanbul@
+185555	Harkköy Mah.	Aslanlar~|Gündüzler~|Hark Yaylası~|Killer~|Seferler~|Veliler~|Veyseller~
+185559	Kemaller Mah.	Bayır~|Kaya~|Kemaller~|Kocameşe~|Nazmi Gürsoy@|Pürenlik~|Sofular~|Yayla~|Yıldız~|Çimen~|Çukur~
+185561	Mahdumlar Mah.	Alanlar@|Ardıçlar~|Ardıçlık~|Billur~|Dalkıran~|Dereiçi@|Doruk~|Gürleyik@|Hemşerim~|Karakiraz@|Karasular@|Kayaarkası~|Kaynar~|Kebir~|Kuzey Yaka~|Mahdumlar~|Merkez@|Müftü Efendi~|Okulaltı@|Salkım~|Sağlam~|Topluk~|Torum Aziz~|Turpçu Avlusu~|Uyurdere@|Yamaç~|Yatay~|Yayla~|Yukarıköy@|Çalta@|Öteyaka~|Şen~
+185563	Pirler Mah.	Pirler~
+185565	Tuzla Mah.	Aşağı Arpalık~|Emrahlar~|Emrahlar Yaylası~|Orta Tuzla~|Sağırlar~|Yaylayolu~|Yukarı~
+61759	Ulucamii Mah.	100.~|Alt Rüştiye~|Ankara@|Bademli~|Bahçe~|Dere~|Evliya Çelebi@|Fevzi Çakmak@|Göl Pazarı@|Hattat Saim Özel~|Hilal=|Hisar~|Huzur@|Lale=|Mehtap~|Orhan Gazi Çarşısı~|Saim Özel~|Santral~|Sarnıç~|Termal@|Yağmur~|Yunus Paşa Çarşısı~|Yusufbey@|Yıldırım~|Çay~|Üst Rüştiye~|İstanbul@
+185567	Uğurlu Mah.	Uğurlu~|Yayla~
+61760	Yenidoğan Mah.	Aralık~|Kocasazak@|Kızılsu@|Çamdibi~|Çoraksuyu~|İğdelik@
+185569	Yeniköy Mah.	Ankara@|Arayol~|Ardıç~|Dereiçi@|Erenler@|Esentepe~|Eşme~|Karalık@|Kepez~|Kervanyolu@|Keçeli Geçidi Köy$|Meydan~|Mezarlık~|Rüzgar~|Topçam~|Yeniköy~|Çakıl~|İpekyolu~
+61761	Yusufbey Mah.	200.~|201.~|202.~|203.~|204~|205~|206~|207~|208~|209~|210~|Bülbül~|Göl Pazarı@|Kadılar@|Karanfil~|Kemerköprü@|Kıratlı~|Tepe~|Türbe~|Yusufbey@|Özen~|Özyıldız~|İstanbul@
+185543	Çamtepe Mah.	Çamtepe~
+185557	İçdedeler Mah.	Eren~|Gülveren~|Yayla~|Çavuş~|Çavuşlar~|Çiftlik~|Üçerenler@|İçdedeler~

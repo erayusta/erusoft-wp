@@ -1,0 +1,147 @@
+17413	Akpınar Köyü, Mevkii	Akpınar Köy Yolu=
+17459	Akçaağaç Köyü, Köyün Kendisi Mevkii	Akçaağaç Köy Yolu=|Yalıntaş Köy Yolu=
+17458	Akçaağaç Köyü, Çağdaş Mevkii	Çağdaş Yolu=
+17373	Akıncı Köyü, Aydınlar Mezrası	Aydınlar Yolu=
+17372	Akıncı Köyü, Mevkii	Akıncı Köy Yolu=
+17379	Alatoprak Köyü, Aydoğdu Mezrası	Aydoğdu Yolu=
+17377	Alatoprak Köyü, Ilıcak Mezrası	Ilıcak Yolu=
+17374	Alatoprak Köyü, Mevkii	Alatoprak Köy Yolu=
+17376	Alatoprak Köyü, Yeşilyurt Mezrası	Yeşilyurt Yolu=
+17375	Alatoprak Köyü, Çanaklı Mezrası	Çanaklı Yolu=
+17378	Alatoprak Köyü, Şerefhan Mezrası	Şerefhan Yolu=
+17415	Alkoyun Köyü, Mevkii	Alkoyun Köy Yolu=
+17414	Alıcık Köyü, Mevkii	Alıcık Köy Yolu=
+17380	Aydemir Köyü	Aydemir Köy Yolu=
+17470	Açıkalan Köyü, Mevkii	Açıkalan Köy Yolu=
+17477	Ballı Köyü, Kütüklü Mezrası	Kütüklü Yolu=
+17476	Ballı Köyü, Mevkii	Ballı Köy Yolu=
+17471	Bağarası Köyü	Bağarası Köy Yolu=
+17472	Bağarası Köyü, Akarsu Mezrası	Akarsu Yolu=
+17473	Bağarası Köyü, Cevizli Mezrası	Cevizli Yolu=
+17475	Bağarası Köyü, Yalçınkaya Mezrası	Yalçınkaya Yolu=
+17474	Bağarası Köyü, Üçevler Mezrası	Üçevler Yolu=
+17463	Beşevler Köyü, Mevkii	Beşevler Köy Yolu=
+17425	Bozburun Köyü, Ağıllı Mezrası	Ağıllı Yolu=
+17424	Bozburun Köyü, Güvenli Mezrası	Güvenli Yolu=
+17423	Bozburun Köyü, Mevkii	Bozburun Köy Yolu=
+17426	Bozburun Köyü, Serince Mezrası	Serince Yolu=
+17422	Boğazönü Köyü	Boğazönü Köy Yolu=
+17433	Dağarcık Köyü, Mevkii	Dağarcık Köy Yolu=
+17435	Dağlık Köyü, Kuşcu Mezrası	Kuşçu Yolu=
+17434	Dağlık Köyü, Mevkii	Dağlık Köy Yolu=
+17436	Dağlık Köyü, Yiğitler Mezrası	Yiğitler Yolu=
+17386	Dereyolu Köyü, Mevkii	Dereyolu Köy Yolu=
+17464	Ekizler Köyü, Mevkii	Ekizler Köy Yolu=
+17456	Ekizler Köyü, Yoncalı Mevkii	Yoncalı Yolu=
+17439	Erler Köyü, Bahçeli Mezrası	Bahçeli Yolu=
+17438	Erler Köyü, Dereönü Mezrası	Dereönü Yolu=
+17440	Erler Köyü, Havarik Mezrası	Havarik Yolu=
+17437	Erler Köyü, Mevkii	Erler Köy Yolu=
+17395	Geyikpınar Köyü, Esenyurt Mezrası	Esenyurt Yolu=
+17394	Geyikpınar Köyü, Mevkii	Geyikpınar Köy Yolu=
+17397	Geyikpınar Köyü, Taş Mevkii	Taş Yolu=
+17396	Geyikpınar Köyü, Ölçülü Mezrası	Ölçülü Yolu=
+17442	Göztepe Köyü, Aksakal Mezrası	Aksakal Yolu=
+17441	Göztepe Köyü, Mevkii	Göztepe Köy Yolu=
+17485	Gümüşkanat Köyü, Atbaşı Mezrası	Atbaşı Yolu=
+17487	Gümüşkanat Köyü, Başçavuş Mezrası	Başçavuş Yolu=
+17489	Gümüşkanat Köyü, Cevizli Mezrası	Cevizli=
+17482	Gümüşkanat Köyü, Mevkii	Gümüşkanat Köy Yolu=
+17483	Gümüşkanat Köyü, Meşelik Mezrası	Meşelik Yolu=
+17490	Gümüşkanat Köyü, Vezik Mezrası	Vezik Yolu=
+17486	Gümüşkanat Köyü, Yıldız Mezrası	Yıldız Yolu=
+17484	Gümüşkanat Köyü, Ç.meşe Mezrası	Ç Meşe Yolu=
+17488	Gümüşkanat Köyü, Övencik Mezrası	Övencik Yolu=
+17447	Kapaklı Köyü, Mevkii	Kapaklı Köy Yolu=
+17400	Kapıkaya Köyü, Mevkii	Kapıkaya Köy Yolu=
+17494	Karabudak Köyü, Aydınlık Mezrası	Aydınlık Yolu=
+17493	Karabudak Köyü, Dere Mezrası	Dere Yolu=
+17492	Karabudak Köyü, Gül Mezrası	Gül Yolu=
+17491	Karabudak Köyü, Mevkii	Karabudak Köy Yolu=
+139662	Kavakbaşı Beldesi, Arpalıseki Mah.	Merkez 1~|Merkez 10~|Merkez 11~|Merkez 13~|Merkez 14~|Merkez 15~|Merkez 16~|Merkez 17~|Merkez 18~|Merkez 19~|Merkez 2~|Merkez 3~|Merkez 4~|Merkez 5~|Merkez 6~|Merkez 7~|Merkez 8~|Merkez 9~|Merkez~|Ozanlı 1~|Ozanlı 2~|Ozanlı 3~|Ozanlı 4~|Ozanlı 5~|Ozanlı 6~|Ozanlı~
+10844	Kavakbaşı Beldesi, Cami Mah.	Akrak@|Akrak2~|Akrak3~|Akrak4~|Akrak5~|Belediye@|Cumhuriyet@|Dutlar~|Kurtuluş~|Merkez Cami~|Trafo=|Çem=|İldeşler~
+10845	Kavakbaşı Beldesi, Gölbaşı Mah.	Akrak@|Akrak2~|Arpalıseki Yolu@|Belediye@|Belediye1~|Cumhuriyet@|Havuz~|Havuz1.~|Huyut@|Mezra 3~|Mezra~|Mezra1~|Okul~|Okul1~|Okul2~|Çapikan~|Çapikan Yolu 2~
+10846	Kavakbaşı Beldesi, Orta Mah.	4.~|5.~|7.~|Akrak@|Denizler~|Dutlar~|Merkez Cami 1~|Merkez Cami~|Toktaşlar~|Çem=|Özbaylar~|Özen~|İldeşler~
+10847	Kavakbaşı Beldesi, Yeni Mah.	Arpalıseki Yolu@|Cumhuriyet@|Değirmen~|Dutlar~|Hisk=|Mezarlık 4~|Mezarlık~|Nur~|Okul1~
+139663	Kavakbaşı Beldesi, Yüksekova Mah.	Yüksekova 1~|Yüksekova 2~|Yüksekova 23~|Yüksekova 3~|Yüksekova 4~|Yüksekova 5~|Yüksekova 6~|Yüksekova 7~|Yüksekova 8~|Yüksekova 9~|Yüksekova~
+139664	Kavakbaşı Beldesi, Çimen Mah.	Ardıç~|Ardıç1~|Ardıç2~|Ardıç3~|Varan~|Çimen~
+17448	Kayabaşı Köyü, Mevkii	Kayabaşı Köy Yolu=
+17404	Kayran Köyü, Köprübaşı Mezrası	Köprübaşı Yolu=
+17402	Kayran Köyü, Mevkii	Kayran Köy Yolu=
+17403	Kayran Köyü, Taşyol Mezrası	Taşyol Yolu=
+17401	Kaşak Köyü, Mevkii	Kaşak Köy Yolu=
+17495	Kaşıklı Köyü, Mevkii	Kaşıklı Köy Yolu=
+17449	Kocainiş Köyü, Mevkii	Kocainiş Köy Yolu=
+17450	Kocainiş Köyü, Onbaşı Mezrası	Onbaşı Yolu=
+17496	Kovanlı Köyü, Mevkii	Kovanlı Köy Yolu=
+17497	Kovanlı Köyü, Yünlü Mezrası	Yünlü Yolu=
+10848	Koyunlu Köyü, Eyubiye Mevkii	5.ara Yolu=|Ara Yolu=|Ara Yolu/1~|Belediye Yolu=|Cumhuriyet~|Cumhuriyet Yolu-=|Cumhuriyet/5~|Dikilitaş Yolu=|Dursun~|Güven~|Hemi~|Hemi/1~|Sabri~|Seferi~
+10849	Koyunlu Köyü, Fatih Mevkii	2.~|Birleşik~|Cumhuriyet~|Cumhuriyet/1~|Cumhuriyet/2~|Cumhuriyet/4=|Cumhuriyet/5~|Cumhuriyet/7~|Fatih Yolu 1.=|Gök Yolu=|Hemi~|Yamin~
+10850	Koyunlu Köyü, Levent Mevkii	3.~|4.~|Birleşik~|Cemal~|Cumhuriyet~|Cumhuriyet/3~|Cumhuriyet/6~|Cumhuriyet/8~|Sabri~|Yaprak~|İbrahim~
+10851	Koyunlu Köyü, Ömeriye Mevkii	Banısark Yolu=|Banısark Yolu/1=|Cumhuriyet 1=|Değirmen Yolu=|Değirmen Yolu/1=|Fırın Yolu=|Medine Yolu=
+17451	Kuşdili Köyü, Mevkii	Kuşdili Köy Yolu=
+17452	Küllüce Köyü, Mevkii	Küllüce Köy Yolu=
+17467	Meydan Köyü, Mevkii	Meydan=
+17469	Meydan Köyü, Uzunyol Mezrası	Uzunyol Yolu=
+17468	Meydan Köyü, Zeydan Mezrası	Zeydan Yolu=
+17465	Oluklu Köyü, Mevkii	Oluklu Köy Yolu=
+17466	Oluklu Köyü, Yeşilce Mezrası	Yeşilce Yolu=
+10840	Pınarbaşı Mah.	Ak~|Ballı~|Bağlar=|Bitlis Yolu@|Cevizli Çeşme 2@|Cevizli Çeşme-1@|Emniyet~|Ergezen 1~|Ergezen@|Halk~|Hükümet Konağı@|Rami~|Tarım~|Ternan=|İlköğretim@|İslam~|Şehit Anıt~|Şehit İsa Budak@
+17498	Salman Köyü, Mevkii	Salman Köy Yolu=
+17499	Salman Köyü, Tescilsiz Mezrası	Tescilsiz Yolu=
+17454	Sarıçiçek Köyü, Mevkii	Sarıçiçek Köy Yolu=
+17387	Sekiliyazı Köyü, Mevkii	Sekiliyazı Köy Yolu=
+99202	Taşboğaz Köyü, Gosing Mevkii	Gosing Yolu=
+17500	Taşboğaz Köyü, Merkez Mevkii	Taşboğaz Köy Yolu=
+99203	Taşboğaz Köyü, Vaskar Mevkii	Vaskar Yolu=
+17501	Taşboğaz Köyü, Yağlıca Mezrası	Yağlıca Yolu=
+17502	Taşboğaz Köyü, Yuvalı Mezrası	Yuvalı Yolu=
+10841	Taşlı Pınar Mah.	Bitlis Yolu@|Ternan=|Toki=
+17405	Tolgalı Köyü, Mevkii	Tolgalı Köy Yolu=
+17406	Tolgalı Köyü, Ocakbaşı Mezrası	Ocakbaşı Yolu=
+17407	Tolgalı Köyü, Sivrice Mezrası	Sivrice Yolu=
+17455	Uran Köyü, Mevkii	Uran Köy Yolu=
+17504	Uzunyar Köyü, Aşağı Uzunyar Mezrası	Aşağı Uzunyar Yolu=
+17505	Uzunyar Köyü, Kurtyan Mezrası	Kurtyan Yolu=
+17503	Uzunyar Köyü, Mevkii	Uzunyar Köy Yolu=
+17457	Yalıntaş Köyü, Mevkii	Yalıntaş 1 Yolu=|Yalıntaş Köy Yolu=
+17408	Yanıkçakır Köyü, Mevkii	Yanıkçakır Köy Yolu=
+17409	Yazıcık Köyü, Mevkii	Yazıcık Köy Yolu=
+10842	Yeni Mah.	201~|202~|202/1~|202/2~|203~|204~|205~|Kiler 1~|Kiler 2~|Kiler 3~|Kiler 4~|Kiler 5~|Kiler 6~|Kiler@
+10843	Yenibağ Mah.	Bitlis Yolu@|Gülmez 1~|Gülmez@|Kiler@
+17461	Yenidoğan Köyü, Mevkii	Yenidoğan Köy Yolu=
+17462	Yenidoğan Köyü, Ulaş Mezrası	Ulaş Yolu=
+17392	Yeniköy Köyü	Yeniköy Köy Yolu=
+17393	Yumrumeşe Köyü, Mevkii	Yumrumeşe Köy Yolu=
+17412	Yuvalıdam Köyü, Beyaz Su Mezrası	Beyaz Su Yolu=
+17410	Yuvalıdam Köyü, Beyazsu Mezrası	
+17411	Yuvalıdam Köyü, Mevkii	Yuvalıdam Köy Yolu=
+17479	Çatalerik Köyü, Bekçiler Mezrası	Bekçiler Yolu=
+17480	Çatalerik Köyü, Koçyatağı Mezrası	Koçyatağı Yolu=
+17478	Çatalerik Köyü, Mevkii	Çatalerik Koy Yolu=
+17481	Çatalerik Köyü, Sarıçubuk Mezrası	Sarıçubuk Yolu=
+17381	Çatalsöğüt Köyü, Mevkii	Çatalsöğüt Köy Yolu=
+17385	Çaygeçit Köyü, Evciler Mezrası	Evciler Yolu=
+17382	Çaygeçit Köyü, Mevkii	Çaygeçit Köy Yolu=
+17383	Çaygeçit Köyü, Mezra Mezrası	Mezra Yolu=
+17384	Çaygeçit Köyü, Taşkapı Mezrası	Taşkapı Yolu=
+17427	Çayırlı Köyü, Mevkii	Çayırlı Köy Yolu=
+17432	Çitliyol Köyü	Çitliyol Köy Yolu 1=
+17430	Çitliyol Köyü, Merkez Mevkii	Çitliyol Köy Yolu=
+17431	Çitliyol Köyü, Çevreli Mezrası	Çevreli Yolu=
+17399	Çiğdemalan Köyü, Bağ Mezrası	Bağ Yolu=
+17398	Çiğdemalan Köyü, Mevkii	Çiğdemalan Köy Yolu=
+17428	Çığır Köyü, Mevkii	Çığır Köy Yolu=
+17429	Çığır Köyü, Ocaklı Mezrası	Ocaklı Yolu=
+17453	Özenli Köyü, Mevkii	Özenli Köy Yolu=
+17388	Üstyayla Köyü, Mevkii	Üstyayla Köy Yolu=
+17389	Üstyayla Köyü, Mezra Mezrası	Üstyayla M. Yolu=
+17390	Üstyayla Köyü, Tosunlar Mezrası	Tosunlar Yolu=
+17391	Üstyayla Köyü, İnişli Mezrası	İnişli Yolu=
+17507	Üçadım Köyü, Bağlık Mezrası	Bağlık Yolu=
+17506	Üçadım Köyü, Mevkii	Üçadım Köy Yolu=
+17508	Üçadım Köyü, Taşlık Mezrası	Taşlık Yolu=
+17445	İkizler Köyü, Balkaya Mezrası	Balkaya Yolu=
+17443	İkizler Köyü, Mevkii	İkizler Köy Yolu=
+17446	İkizler Köyü, Uğur Mezrası	Uğur Yolu=
+17444	İkizler Köyü, Çukurca Mezrası	Çukurca Yolu=

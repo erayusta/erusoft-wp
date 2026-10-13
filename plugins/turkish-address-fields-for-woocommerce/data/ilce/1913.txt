@@ -1,0 +1,46 @@
+76777	Alan Köyü	 Köy$
+76778	Alazlı Köyü	 Köy$
+76779	Aslantaş Köyü	 Köy$
+76780	Avcıçayı Köyü	 Köy$
+76783	Başekin Köyü	 Köy$
+76781	Başekin Köyü, Aşağı Mezrası	 Köy$
+76782	Başekin Köyü, Kelosmangil Mezrası	 Köy$
+76786	Beşağaç Köyü, Beşağaç Mevkii	 Köy$
+76785	Beşağaç Köyü, Buruncuk Mevkii	 Köy$
+76784	Beşağaç Köyü, Karacaali Mezrası	 Köy$
+76787	Boyalı Köyü	 Köy$
+70363	Camikebir Mah.	Ahmet Ayık@|Bağ Yolu@|Camikebir 1.~|Camikebir 2.~|Kıpçak@|Sadık Çeşme 1.~|Sadık Çeşme 2.~|Taş Köprü~
+70364	Cinci Mah.	Hasan Hevüklüoğlu@|Hastane@|Meydanbaşı~|Sanayi~|Saylar~|Sivas@
+76789	Darıkol Köyü	 Köy$
+70366	Devrişağa Mah.	Arap Çeşme~|Hasan Hevüklüoğlu@|Hüseyin Yumuşak@|Okul@
+76790	Ekinciler Köyü	 Köy$
+76792	Ekinciler Köyü, Bağderesi Mezrası Mezrası	 Köy$
+76791	Ekinciler Köyü, Dönedere Mezrası Mezrası	 Köy$
+76793	Eskiköy Köyü	 Köy$
+76794	Göçüköy Köyü	 Köy$
+70367	Kale Mah.	Mecnun Otyakmaz@|İç Kale 1.~|İç Kale 2.~
+76797	Karkın Köyü, Karacakaya 1 Mevkii	 Köy$
+76798	Karkın Köyü, Karacakaya 2 Mevkii	 Köy$
+76799	Karkın Köyü, Karkın Mevkii	 Köy$
+76801	Kozağaç Köyü	 Köy$
+76802	Kozlu Köyü	 Köy$
+76804	Kozlu Köyü, Dere Mezrası	 Köy$
+76803	Kozlu Köyü, Hamam Mezrası	 Köy$
+76800	Kıpcak Köyü	 Köy$
+76805	Okculu Köyü	 Köy$
+76806	Ortaköy Köyü	 Köy$
+76807	Sarısuvat Köyü	 Köy$
+76809	Söbüler Köyü	 Köy$
+76811	Söbüler Köyü, Deveci Mezrası Mezrası	 Köy$
+76808	Söbüler Köyü, Develi Mezrası	
+76810	Söbüler Köyü, Orta Mezra Mezrası	 Köy$
+76796	Tavza Köyü	 Köy$
+76813	Yavşancık Köyü	 Köy$
+76814	Yavşancık Köyü, Gülşehir Mezrası Mezrası	 Köy$
+76815	Yeşilçukur Köyü	 Köy$
+76788	Çalıcı Köyü	 Köy$
+77041	Çatpınar Köyü, Köyün Kendisi Mevkii	 Köy$
+70365	Çay Mah.	Belediye~|Hamam~|Sarıkaya~|Sivas@
+70368	Ömerağa Mah.	Hüseyin Yumuşak@|Sivas@|Yeni Cami 1.~|Yeni Cami 2.~
+76812	Ütük Köyü	 Köy$
+76795	İçdere Köyü	 Köy$

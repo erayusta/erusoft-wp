@@ -1,0 +1,21 @@
+90737	Ata Mah.	Ata Küme Evleri=|Ata Yayla Evleri=
+95201	Burmadere Köyü	Burmadere=|Burmadere Yayla Evleri=|Çimliçayır=
+90739	Cumhuriyet Mah.	Balgözü=|Cumhuriyet Küme Evleri=|Derindere Yayla Evleri=|Kamu Kuruluşları=|Konuksever Yayla Evleri=|İnönü Yayla Evleri=
+95204	Dereköy Köyü	Dereköy=
+95203	Dereköy Köyü, Dereköy Köyü Yayla Evleri Yayla Evleri	Dereköy Yayla Evleri=
+95206	Eskikılıç Köyü	Eskikılıç=
+95205	Eskikılıç Köyü, Eskikılıç Köyü Yayla Evleri Yayla Evleri	Eskikılıç Yayla Evleri=
+90738	Kalender Mah.	Kalender Küme Evleri=|Kalender Yayla Evleri=|Kerimler~
+90734	Konuk Sever Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Atatürk@|Barış~|Binali Çakmak~|Kerimler~|Kerimler1~|Konuk Sever 3~|Konuk Sever 4~|Konuk Sever 5~|Konuk Sever 6~|Konuksever 1~|Konuksever 10~|Konuksever 2~|Konuksever 9~|Konuksever Yayla Evleri=|Kurtuluş Sok.~|Oba~|Serhat 28~|Serhat 5~|Tütengül@|Umut~|Zübeyde Hanım@|Ümit Kaftancıoğlu@|Ümit Kaftancıoğlu1~|İstiklal@|Şehit Caner Çelik@
+90736	Mustafa Kemal Mah.	Küme Evler=|Mustafa Kemal Yayla Evleri=
+95210	Otağlı Köyü	Otağlı=|Otağlı Yayla Evleri=
+90735	Serhat Mah.	75.@|Abdi İpekçi@|Barış~|Cumhuriyet Küme Evleri=|Emek~|Hanak-damal Yol Üstü Kümesi=|Kamu Kuruluşları=|Konuk Sever 5~|Serhat 1~|Serhat 10~|Serhat 11~|Serhat 12~|Serhat 13~|Serhat 14~|Serhat 15~|Serhat 16~|Serhat 17~|Serhat 18~|Serhat 199~|Serhat 2~|Serhat 20~|Serhat 21~|Serhat 22~|Serhat 26~|Serhat 28~|Serhat 3~|Serhat 5~|Serhat 6~|Serhat 7~|Serhat 8~|Serhat 9~|Tabur İçi Kümesi=|Yolaltı Kümesi=|Zübeyde Hanım@|Çaybaşı3~
+95211	Seyitören Köyü	Seyitören=
+95214	Tepeköy Köyü, Merkez Mevkii	
+95216	Tepeköy Köyü, Tepeköy Köyü Merkez Mevkii	Tepeköy=
+95215	Tepeköy Köyü, Tepeköy Yayla Evleri Yayla Evleri	Tepeköy Yayla Evleri=
+95213	Tepeköy Köyü, Yayla Evı Yayla Evleri	- Köy$
+90741	Çaybaşı Mah.	16.~|17.~|18.~|19.~|20.@|Cihan~|Kamu Kuruluşları=|Kültür~|Pullu=|Serhat 26~|Zübeyde Hanım@|Çaybaşı2~|Çaybaşı3~|Çaybaşı4~|Çağdaş~|Çelebi~|Çelebi1~|İstiklal@|İstiklal1~
+95209	İkizdere Köyü	İkizdere=
+95208	İkizdere Köyü, İkizdere Köyü Yayla Evleri Yayla Evleri	İkizdere Yayla Evleri=
+90740	İnönü Mah.	İnönü Küme Evleri=

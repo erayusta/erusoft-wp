@@ -1,0 +1,22 @@
+24726	Asar Köyü	 Köy$
+20458	Aştavul Beldesi, Bahçelievler Mah.	Alparslan~|Amasya-çorum@|Ercan~|Erdoğan~|Fatih@|Karanfil~|Mantar Çıkmazı~|Mezarlık~|Orkide~|Suyolu~|Yavuz~|Yücel Çıkmazı~|Çağlayan@|Çevre Yolu@|İstiklal@
+20459	Aştavul Beldesi, Şirinevler Mah.	Amasya-çorum@|Aydoğdu@|Cami~|Dere~|Kubbeli~|Köpübaşı@|Laleli~|Menekşe~|Oğuzlar@|Turan~|Yılmaz Çıkmazı~|Çiğdemli~|Çınarlı~|Öncül Çıkmazı~|İlim~
+20455	Bahçelievler Mah.	Adnan Menderes@|Belediye~|Bozyer~|Celal Bayar@|Gölyeri~|Hacı Hasan~|Harman Başı~|Hastahane~|Hükümet@|Kızlar Yolu~|Lise~|M.fevzi Çakmak@|Manasır~|Mecit Özü@|Poyraz~|İçyer~|Şehit Özmen~
+24727	Büyükkışla Köyü	 Köy$
+24728	Cevizli Köyü	 Köy$
+20456	Cumhuriyet Mah.	Adnan Menderes@|Atatürk@|Battal~|Bilgehan~|Cumhuriyet Myd.|Demirciler~|Emniyet~|Fatih Han~|Hamidiye~|Kahyaoğlu~|Lale~|M.akif Ersoy@|M.fevzi Çakmak@|Menekşe~|Metehan~|Nevruz~|Nuri Öncül~|Osman Paşa~|Oğuzhan~|Vatan@|Yavuz Han~|Çiğdem~|İsmet İnönü@|Şapinuva@|Şirin~
+24729	Esentepe Köyü	 Köy$
+24730	Fındıklı Köyü	 Köy$
+20460	Karahacip Köyü, Cumhuriyet Mevkii	1.~|2.~|Ceyhan~|Coşkun~|Cumhuriyet~|Demirciler~|Ergül~|Fatih~|Gül~|Gültepe~|Turan~|Turgut Özal~|Çetin~|Çilingir~|İlköğretim~
+20461	Karahacip Köyü, Fatih Mevkii	1.~|Cumhuriyet~|Fatih~|Genç Osman~|Karanfil~|Mezarlık~|Pınarbaşı~|Timur~|Özdemir~|Şenyurt~
+24732	Kavakalan Köyü	 Köy$
+24733	Kızılhamza Köyü	 Köy$
+24734	Oruçpınar Köyü	 Köy$
+24735	Salbaş Köyü	 Köy$
+24737	Senemoğlu Köyü, Akyar Mevkii	 Köy$
+24738	Senemoğlu Köyü, Merkez Mevkii	 Köy$
+24736	Senemoğlu Köyü, Sirkeoğlu Mevkii	 Köy$
+20457	Suyolu Mah.	100.yıl~|Adnan Menderes@|Atak~|Atatürk@|Bağlar~|Cebeci~|Ceviz~|Gazi@|Neşe~|Osman Paşa~|Sadık Uysal@|Tercan~|İnönü@|Ş.mahsuni Türkmen~|Şht.doğan Mutlu~
+24739	Yaylacık Köyü	 Köy$
+24740	Yukarı Kuyucak Köyü	 Köy$
+24731	İncesu Köyü	 Köy$

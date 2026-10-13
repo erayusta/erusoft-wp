@@ -1,0 +1,62 @@
+77864	Acıyurt Köyü	 Köy$|Konak Köy$
+77865	Akkaya Köyü	Akkaya Köy Sokağı Köy$|Karşıyaka=|Sivas-malatya Karayolu Caddesi~
+77866	Akkaya Köyü, Çifteağıl Mezrası	Çifteağıllar Köy Sokağı Köy$
+77868	Aşağıada Köyü	Aşağıada Köy Sokağı Köy$|Sivas-malatya Karayolu Caddesi~
+70497	Baharözü Köyü, Fatih Mevkii	1.~|2.~|25.~|26.~|27.~|28.~|29.~|3.~|30.~|4.~|5.~|6.~|7.~|8.~|Fatih Sultan Mehmet~
+70498	Baharözü Köyü, Yeni Mevkii	51.~|52.~|53.~|57.~|64.~|76.~|77.~|78.~|79.~|Mehmet Akif Ersoy~|Yunus Emre~
+77869	Başçayır Köyü	 Köy$
+77871	Başçayır Köyü, Halilağa Çiftliği Mezrası	 Köy$
+77870	Başçayır Köyü, Paşaçiftliği Mezrası	 Köy$
+77873	Bostankaya Köyü	 Köy$|Bostankaya İstasyonu Köy$
+77872	Boğazdere Köyü	 Köy$
+77877	Demircilik Köyü	 Köy$
+77878	Demircilik Köyü, Aşağı Demircilik Mezrası	 Köy$
+77879	Ekincioğlu Köyü	 Köy$
+70494	Esentepe Mah.	Abdi İpekçi@|Badem~|Bahar~|Bülbül~|Cemal Tarlan@|Cumhuriyet@|Demircilik@|Değirmen~|Dolunay~|Göl~|Gülveren~|Kanarya~|Kardelen~|Kazım Karabekir~|Keklik~|Menekşe~|Orhan Veli~|Tarım~|Tecer~|Toprak Mahsulleri Ofisi@|Turna~|Uğur Mumcu@|Yayla~|Yıldız~|Zencefil~|Çiçek~|Özdemir~|Özgür~|Şehit Hakan Topçu~|Şehit Mefduni Duman~
+77880	Eskikarahisar Köyü	 Köy$
+77882	Eskikarahisar Köyü, Kadir Ağa Mezrası	 Köy$
+77881	Eskikarahisar Köyü, Yeşilyurt Mezrası	 Köy$
+77883	Ezentere Köyü	 Köy$
+77884	Gümüşpınar Köyü	 Köy$
+77885	Güneşli Köyü	 Köy$
+77886	Gürpınar Köyü	 Köy$
+77887	Hacımirza Köyü	Hacımirza Köy Sokağı Köy$
+70495	Hürriyet Mah.	Atatürk@|Belediye~|Bostankaya~|Cemal Tarlan@|Demokrasi Myd.|Ergenekon~|Göl~|Gül~|Han~|Harman~|Harmancık=|Karanfil~|Kongre~|Kulyusuf Köy$|Kuva-i Milliye~|Köprübaşı~|Pazar~|Pınar Başı~|Sağlık~|Özlem~|İnönü@|İrfan~|Şahin~|Şehit Hacı Avcı~|Şehit Kubilay~|Şehit Muhammet Onur Demir~|Şehit Murat Doğan~
+77888	Kapukaya Köyü	 Köy$
+77889	Kapukaya Köyü, Yeşildiyar Mezrası	 Köy$
+77890	Karacalar Köyü	 Köy$
+77891	Karacalar Köyü, Ören Mezrası	 Köy$
+77892	Karagöl Köyü	 Köy$
+77896	Karataş Köyü	 Köy$
+77897	Karataş Köyü, Üç Evler Mevkii	 Köy$
+77893	Karaşar Köyü	Karaşar Köy Sokağı Köy$
+77895	Karaşar Köyü, Ağıl Mezrası	Köy Sokağı Köy$
+77894	Karaşar Köyü, Gülbahçe Mevkii	Köy Sokağı Köy$
+77898	Kayapınar Köyü	 Köy$
+77901	Kayapınar Köyü, Taş Ocağı A Mevkii	 Köy$
+77902	Kayapınar Köyü, Taş Ocağı B Mevkii	 Köy$
+77900	Kayapınar Köyü, Taş Ocağı Mevkii	 Köy$
+77899	Kayapınar Köyü, Ömer Ağa Mezrası	 Köy$
+77903	Kazanpınar Köyü	 Köy$
+77904	Kertmekaracaören Köyü	 Köy$|İstasyon A Köy$|İstasyon B Köy$|Şantiye Köy$
+77908	Korubaşı Köyü	 Köy$
+77909	Kovalı Köyü	Kovalı Köy Sokağı Köy$|Sivas-kayseri Karayolu Caddesi~|Sivas-malatya Karayolu Caddesi~
+77910	Kurtlukaya Köyü	 Köy$
+77911	Kurtoğlu Köyü	 Köy$
+77912	Kurtoğlu Köyü, Kötüyurt Mezrası	 Köy$
+77913	Küpeli Köyü	Köyün Kendisi~
+77914	Ovacık Köyü	 Köy$
+77915	Ovacık Köyü, Çakılpınar Mezrası	 Köy$
+77919	Tecer Köyü	 Köy$|Maden Ocakları=
+77921	Yapalı Köyü	 Köy$
+77922	Yapalı Köyü, Küçükyapalı Mevkii	 Köy$
+77923	Yazıcık Köyü	 Köy$
+77920	Yağdonduran Köyü	 Köy$
+140919	Yenikarahisar Mah.	Adnan Menderes@|Aksoylar=|Atatürk@|Büyük Pınar=|Cumhuriyet@|Dalcılar=|Fatih@|Fevzi Çakmak@|Geven=|Gümüşpınar~|Hamur Kesen=|Hilal@|Hisar@|Kale~|Kapaklı Pınar=|Karşıyaka=|Kulmaç~|Mimar Sinan@|Pınar=|Tansu Çiller@|Uğur~|Yavuz Selim@|Yıldız@|İbni Sina@|İstiklal@
+70496	Yeşilyurt Mah.	Bahçe~|Bozkurt~|Cami~|Cemal Tarlan@|Diriliş~|Ekincioğlu Köyü=|Fidan~|Gökçe~|Irmak~|Kültür~|Lozan~|Muhsin Yazıcıoğlu@|Okul~|Sivas@|Tarım İşletme Müd.=|Türkmen~|Zıraat~|Çay~|Şehit Ahmet Koçak~|Şehit Musa Topaloğlu~|Şehit Zeynel Dörtyol@
+77924	Yukarıada Köyü	Yukarıada~|Yukarıada Yeni Köy$
+77875	Çavdar Köyü	 Köy$
+77876	Çevirme Köyü	 Köy$
+77916	Örenlice Köyü	 Köy$
+77917	Örenlice Köyü, Beşevler Mezrası	 Köy$
+77918	Şenyurt Köyü	 Köy$

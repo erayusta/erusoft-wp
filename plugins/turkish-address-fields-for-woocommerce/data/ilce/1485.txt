@@ -1,0 +1,48 @@
+64896	Abdi Köyü	 Köy$
+64897	Akpınar Köyü	 Köy$
+60547	Altunsu Mah.	101~|102~|103~|104~|105~|106~|107~|108~|110~|112~|113~|114~|115~|116~|117@|201~|Atatürk%|Bayır~|Belediye@|Cumhuriyet@|Dr.doğan Birgül@|Düzgün~|Hal@|Kanlıca@|Kaplıca@|Konur~|Kozoğlu~|Lale~|X105.-~|X106.-~|Xistiklal.-@|Xkaplıca.-@|Xkonur.-~|Xkozoğlu.-~|Xlale.-~|Xşht. Jandarma Kom.er Mustafa Yılmaz.-~|Xşht. Piyade Uzm.çvş.talat Mollaoğlu.-~|İstiklal@|İzmir@|Şht. Jandarma Kom.er Mustafa Yılmaz~|Şht. Piyade Uzm.çvş.mürsel Gürlek@|Şht. Piyade Uzm.çvş.talat Mollaoğlu~|Şht. Uzm.çvş.şenol Coşkun@
+64898	Aylı Köyü	 Köy$
+60548	Bahçelievler Mah.	301@|302@|303@|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|326~|327~|328~|329~|330~|331~|332~|333~|334~|335~|336~|337~|338~|339~|342~|343~|344~|346~|347~|348~|349-~|351~|352~|353~|354~|355@|356~|357~|359~|501@|504~|509~|511~|Atatürk%|Beyoğlu@|Eren@|Mustafa Demir@|Nato@|X311.-~|X342.-~|Xönder.-~|Yavuz@|Önder~
+60553	Bağlıca Mah.	235~|236~|240@|241~|559_1~|561~|563~|565~|566~|568_1~|800@|801~|802@|803~|804~|806~|807~|808~|809~|810@|811~|812~|813~|814~|820_1~|825~|826~|830~|Baglıca.=|Bağlıca@|Kaplıca@|Kayseri@|Taşlıhüyük@
+64899	Belekli Köyü	 Köy$
+64900	Boğaziçi Köyü	 Köy$
+60552	Buruncuk Mah.	104~|117-@|242~|243~|248~|249~|250@|601@|602@|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|618~|623~|635~|641~|643~|646~|Buruncuk@|Buruncuk.=|Kanlıca@|Kaplıca@|Taşlıhüyük@|İstiklal@|Şht. Piyade Uzm.çvş.talat Mollaoğlu~
+64901	Büyükyağlı Köyü	 Köy$
+64902	Cağşak Köyü	 Köy$
+64904	Doyduk Köyü	 Köy$
+64905	Dörtyol Köyü	 Köy$
+60549	Emek Mah.	15~|16~|201~|202~|203~|204~|205~|206~|207~|208~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|22~|220~|221~|222~|223~|224~|225~|226~|227~|228~|229~|230~|231-~|232~|233~|234~|235~|236~|240@|241~|242~|243-~|244~|245~|247~|248~|249~|250@|251~|253~|254~|641~|830~|Cumhuriyet@|Girne@|Kaplıca@|Kayseri@|Nuriaylar@|Taşlıhüyük@|Terminal@|Xtaşlıhüyük.-@|Çıkmaz~|Önderevler@|Şehit Polis Recep Şahin@|Şht. Ast.çvş.çetin Güleç@|Şht. Piyade Uzm.çvş.mürsel Gürlek@|Şht. Piyade Uzm.çvş.talat Mollaoğlu~|Şht. Polis Ali Tuğral@
+64906	Gerce Köyü	 Köy$
+64907	Hacıfakılı Köyü	 Köy$
+60554	Hamamorta Mah.	117@|701@|702~|703~|704~|705~|706~|707@|708~|709~|710~|711~|712~|713~|714~|715~|716~|717~|718~|720~|721~|Dr.doğan Birgül@|Hamamorta=|Kanlıca@|Karahasanlı@|İstiklal@
+60550	Hoca Ahmet Yesevi Mah.	240@|254-~|501@|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515@|516~|517~|518~|519~|520~|521~|522~|523~|524~|525~|526~|527~|528@|530~|534~|535~|536~|543~|546@|549~|551~|552~|553~|554~|555~|556~|557~|558~|559~|561_1~|562~|563_1~|565~|566~|567~|568~|569~|801_1~|820~|Ak~|Akgül@|Atatürk%|Bağlıca@|Beyoğlu@|Eren@|Fatih Sultan Mehmet@|Fuzuli~|Gül~|Karanfil~|Kardelen~|Kayseri@|Manolya~|Mevlana@|Nato@|Nato.@|Okul~|Papatya~|Poyraz Tepe@|Sümbül~|Tepe~|Tınaz Tepe@|Xakgül.-@|Xbeyoğlu.-@|Xfatih Sultan Mehmet.-@|Xgül.-~|Xkayseri.-@|Xmanolya.-~|Xpoyraz Tepe.-@|Xtınaz Tepe.-@|Xörnek.-~|Xşht. Polis Recep Şahin.-@|Çiğdem~|Örnek~|İrfan Çelik@|Şehit Polis Recep Şahin@|Şht. Jan.kom.er.tuncay Ünal@
+64915	Hızıruşağı Köyü	 Köy$
+60559	Kalecik Köyü, Aşağı Mevkii	Aşağı~
+60557	Kalecik Köyü, Orta Mevkii	Orta~
+60558	Kalecik Köyü, Yukarı Mevkii	Yukarı~
+60560	Kanlıca Köyü, Gültepe Mevkii	Atatürk~|Fevzi Çakmak~|Namık Kemal~
+60562	Kanlıca Köyü, Yeni Mevkii	Atatürk~|Fevzi Çakmak~|İnönü~
+60563	Kanlıca Köyü, Yeşilova Mevkii	İnönü~
+60561	Kanlıca Köyü, İstasyon Mevkii	Atatürk~|Bahçelievler~|Kozaklı~
+64909	Kapaklı Köyü	 Köy$
+60571	Karahasanlı Köyü, Camikebir Mevkii	Camikebir~
+60569	Karahasanlı Köyü, Karşı Mevkii	Karşı~
+60568	Karahasanlı Köyü, Orta Mevkii	Orta~
+60570	Karahasanlı Köyü, Sadıkali Mevkii	Sadıkali~
+60564	Karasenir Köyü, Altınova Mevkii	Atatürk~|Hoca Ahmet Yesevi~|Kozaklı~
+60565	Karasenir Köyü, Bahçeli Mevkii	Cumhuriyet~|Fatih~|Sahil~
+60566	Karasenir Köyü, Orta Mevkii	Belkız~|Bostancı~|Bülbül~|Zümrüt~|Ömer Seyfettin~
+60567	Karasenir Köyü, Yukarı Mevkii	Abay Kubanbay~|Hastahane~|Kozaklı~|İnönü~|İstasyon~
+64910	Kaşkışla Köyü	 Köy$
+64911	Kuruağıl Köyü	 Köy$
+64916	Küllüce Köyü	 Köy$
+64912	Küçükyağlı Köyü	 Köy$
+60555	Kızılkoyunlu Mah.	1002~|900~|901~|902~|903~|904~|905~|906~|907~|Karahasanlı@|Kızılkoyunlu@|Mustafa Demir@|Yabanlı@
+64913	Merdanali Köyü	 Köy$
+64914	Taşlıhüyük Köyü	 Köy$
+60556	Yabanlı Mah.	1000~|1001~|1002~|901~|907~|Karahasanlı@|Kızılkoyunlu@|Xyabanlı.-=|Yabanlı@
+64918	Yassıca Köyü	 Köy$
+60551	Yeni Mah.	401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411@|412~|413~|414~|415@|416~|417~|418~|419~|420~|421~|422~|423~|424~|425~|426~|427~|428~|429~|430~|431~|432~|433~|434~|436~|437~|438~|439~|440@|441~|442~|450@|Kanlıca@|Karahasanlı@|Mustafa Demir@|X1-~|X202.-~|Xşht. Piyade Er Alper Tunga Yüksekli.@|Şht. Piyade Er Alper Tunga Yüksekli@|Şht. Uzm.çvş.şenol Coşkun@|Şht. Uzm.çvş.şenol Coşkun_1~
+64903	Çayiçi Köyü	 Köy$
+64917	Özce Köyü	 Köy$
+64908	İmran Köyü	 Köy$

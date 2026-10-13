@@ -1,0 +1,149 @@
+1219	100.yıl Mah.	1201~|1203~|1204~|1205~|1206~|1207~|1208~|1210~|1212~|1214~|1216~|1217~|1218~|1220~|1221~|1222~|1224~|1226~|1228~|1229~|1230~|1231~|1232~|1234~|1235~|1237~|1240~|1241~|1242~|1244~|1245~|1246~|1248~|1249~|1250~|1252~|1254~|1256~|1258~|1260~|1262~|1264~|1265~|1266~|1267~|1268~|1269~|1270~|1271~|1272~|1273~|1274~|1275~|1276~|1277~|1278~|1279~|1280~|1281~|1282~|1283~|1285~|1286~|1287~|1288~|1289~|1290~|1291~|1292~|1293~|1294~|1295~|1296~|1297~|1298~|2101~|2102~|2103~|2104~|2105~|2106~|2107~|2108~|2109~|2110~|2111~|2112~|2113~|Ağrı Van@|Cem~|Hava Limanı@|Yeni Demizhan@|Yeni Van@
+1203	Abide Mah.	1.kışla@|1022~|1024~|1026~|1028~|1030~|1031~|1032~|1033~|1035~|1037~|1039~|1040~|1042~|1044~|1045~|1046~|1048~|1050~|2.kışla@|3.kışla@|420~|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|612~|613~|614~|615~|620~|621~|623~|625~|627~|629~|630~|631~|632~|632/1~|633~|634~|635~|636~|637~|639~|641~|643~|645~|647~|649~|651~|651/1~|653~|655~|657~|659~|661~|663~|665~|667~|669~|671~|673~|675~|677~|679~|681~|683~|685~|687~|Bülbül@|Doktor Yaşar Eryılmaz@|Enstitü@|Stat@|Verilecek2~|Verilecek3@|Verilecek4%|Yaşar Kemal@|Yenivalikonağı@|Yurtpınar=
+5484	Ahmetbey Köyü	Ahmetbey=
+5485	Akbulgur Köyü	Akbulgur=
+5548	Akçay Köyü	Akçay=
+1204	Alpaslan Mah.	1301~|1302~|1303~|1304~|1305~|1306~|1307~|1308~|1310~|1312~|1313~|1314~|1315~|1316~|1318~|1320~|1321~|1323~|1325~|1327~|1328~|1329~|1330~|1331~|1333~|1334~|1336~|1337~|1338~|1339~|1341~|1342~|1343~|1344~|1347~|1349~|1351~|1353~|Atatürk@|Bılınmeyen 1~|Eski Van@|Kurtuluş@|Yaşar Kemal@|Yeni Van@|Çevre Yolu%
+5487	Anakaya Köyü	Anakaya=|Ağrı Erzurum@
+5488	Arakonak Köyü	Arakonak=
+5489	Aslangazi Köyü	Aslangazi=|Ağrı Erzurum@
+5483	Ağılbaşı Köyü	Ağılbaşı=
+5582	Aşağıağadeve Köyü	Aşağıağadeve=
+5549	Aşağıdürmeli Köyü	Aşağı Dürmeli=
+5550	Aşağıkent Köyü	Aşağı Kent=
+140459	Aşağıküpkıran Mah.	2102~|2102/1~|2109~|Aşağıküpkıran~|Aşağıküpkıran/1~|Taslak171~|Taslak22~|Taslak4~|Taslak54~|Taslak57~|Taslak67~|Taslak68~|Taslak71~|Taslak71/1~|Taslak71/2~|Taslak72~|Taslak86~
+5551	Aşağıpamuktaş Köyü	Aşağı Pamuktaş=
+5552	Aşağıpamuktaş Köyü, Mezra Mezrası	Mezra=
+5491	Aşağısaklıca Köyü	Aşağısaklıca=
+5492	Aşağısaklıca Köyü, Mamık Mezrası	Mamık=
+5493	Aşağıyoldüzü Köyü	Aşağı Yoldüzü=|Sarıtaş Afet Evleri=
+5494	Aşkale Köyü	Aşkale=
+5495	Badıllı Köyü	Badıllı=
+1205	Bahçelievler Mah.	222~|301~|302~|303~|304~|305~|306~|307~|308@|309~|310~|311~|312~|313~|314~|315~|316~|318~|320~|324~|326~|328~|330~|Cumhuriyet@|Doktor Yaşar Eryılmaz@|Eski Karakol@|Hürriyet@|Kağızman@|Ulubat@|Verilecek5~
+5553	Balkaynak Köyü	Balkaynak=
+5584	Ballıbostan Köyü	Ballıbostan=
+5496	Baloluk Köyü	Baloluk=
+5583	Balıksu Köyü	Balıksu=
+5555	Başkent Köyü	Başkent=
+5554	Başçavuş Köyü	Başçavuş=
+5586	Bezirhane Köyü	Bezirhane=
+5497	Beşbulak Köyü	Beşbulak=
+5585	Beşiktepe Köyü	Beşiktepe=
+5587	Boztoprak Köyü	Boztoprak=
+5498	Bölükbaşı Köyü	Bölükbaşı=
+5546	Cumaçay Köyü	Cumaçay=
+5547	Cumaçay Köyü, Komik Mezrası	Komik=
+1206	Cumhuriyet Mah.	1409~|1502~|1503~|1504~|1505~|1506~|1507~|1508~|1511~|1512~|1513~|1514~|1515~|1516~|1517~|1519~|1521~|1523~|1524~|1525~|1527~|1528~|1530~|1531~|1532~|1533~|1535~|1536~|1537~|1539~|1540~|1541~|1543~|1545~|1548~|1549~|1550~|1551~|1552~|1554~|1559~|1561~|29 Ekim@|Eski Van@|Hani Baba@|Kurtuluş@|Pazar@|Set Üstü@
+5506	Dedemaksut Köyü	Dedemaksut=
+5589	Doğutepe Köyü	Doğutepe=
+5590	Doğutepe Köyü, Mezra Mezrası	Mezra=
+5557	Dumanlı Köyü	Dumanlı=
+5556	Dönerdere Köyü	Dönerdere=
+5508	Eliaçık Köyü	Eliaçık=
+5591	Esenköy Köyü	Esenköy=
+5592	Esenköy Köyü, Esen Köy Mezrası	Esen Köy=
+5509	Eskiharman Köyü	Eskiharman=
+5507	Eğribelen Köyü	Eğribelen=
+1207	Fatih Mah.	101~|102~|103~|104~|108~|109~|111~|112~|113~|116~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|130~|131~|132~|133~|135~|137~|138~|139~|140~|141~|143~|145~|146~|147~|149~|150~|151~|151/a~|152~|153~|154~|155~|157~|158~|159~|160~|162~|163~|164~|165~|167~|173~|174~|175~|176~|177~|178~|189~|190~|191~|192~|193~|194~|201~|204~|205~|206~|208~|212~|214~|216~|217~|218~|219~|220~|221~|222~|223~|224~|226~|236~|237~|240~|241~|243~|245~|246~|247~|249~|250~|251~|253~|254~|255~|256~|257~|258~|260~|262~|263~|265~|266~|267~|268~|269~|271~|274~|275~|276~|277~|278~|280~|281~|283~|285~|293~|295~|Bilinmeyen 2~|Bilinmeyen 25~|Bilinmeyen11=|Doktor Yaşar Eryılmaz@|Fatih~|Göçmen~|Kanuni@|Kağızman@|Pınar@|Taslak81~|Trt@|Ulubat@|Verilecek11~|Verilecek12@|Verilecek13@|Verilecek14~|Verilecek16~|Verilecek5~|Yıldız~
+1208	Fevzi Çakmak Mah.	1152~|801~|803~|804~|806~|807~|809~|811~|812~|813~|814~|817~|818~|820~|822~|827~|831~|Atatürk@|Fevzi Çakmak@|Yaşar Kemal@|Çevre Yolu%
+1209	Fırat Mah.	1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1011/1~|1012~|1013~|1014~|1014/1~|1014/2~|1015~|1016~|1016/1~|1017~|1018~|1018/1~|1018/3~|1019~|1020~|1021~|1023~|1025~|1027~|1051~|1053~|1055~|1057~|1059~|900~|901~|902~|903~|904~|905~|907~|912~|915~|923~|924~|925~|926~|927~|928~|929~|931~|933~|934~|937~|939~|940~|941~|943~|943/1~|943/2~|943/3~|943/4~|943/5~|943/6~|944~|945~|946~|947~|948~|949~|950~|951~|952~|953~|954~|955~|956~|957~|958~|959~|960~|961~|962~|963~|964~|965~|965/1~|965/2~|965/3~|965/4~|965/5~|965/6~|965/7~|965/8~|965/9~|966~|967~|968~|969~|970~|971~|972~|973~|974~|975~|976~|977~|978~|979~|980~|980/1~|980/3~|982~|983~|984~|985~|986~|987~|988~|989~|990~|991~|992~|993~|994~|995~|Atalay@|Ağrı Erzurum@|Bilinmeyen 102~|Bilinmeyen 104~|Bilinmeyen 105~|Bilinmeyen 106~|Bilinmeyen 108~|Bilinmeyen 109~|Bilinmeyen 110~|Bilinmeyen 20@|Bılınmeyen 108~|Bılınmeyen 120~|Eğitim@|Huzurevi@|Toki 1~|Yaşar Kemal@|Yeni Üniversite@|Çevre Yolu%
+1210	Gazi Mah.	19 Mayıs@|501~|502~|503~|504~|506~|508~|509~|511~|512~|513~|514~|515~|516~|517~|519~|520~|521~|522~|524~|525~|526~|527~|528~|530~|534~|535~|536~|538~|540~|541~|545~|549~|615~|Bülbül@|Doktor Yaşar Eryılmaz@|Sağlık@|Stat@|Vali Konağı@
+5593	Geçitalan Köyü	Ağrı Doğubayazıt@|Geçitalan=
+5558	Gümüşyazı Köyü	Gümüşyazı=
+5594	Güneysu Köyü	Güneysu=
+5510	Güvendik Köyü	Güvendik=
+5511	Güvenli Köyü	Güvenli=
+5512	Hacısefer Köyü	Hacı Sefer=
+5559	Hanoba Köyü	Hanoba=
+1211	Hürriyet Mah.	1801~|1802~|1803~|1805~|1806~|1807~|1808~|1809~|1810~|1812~|1814~|1815~|1816~|1817~|1818~|1820~|1822~|1824~|Cumhuriyet@|Doktor Yaşar Eryılmaz@|General Vehbi Engin@|Hürriyet@|Mikail Aydemir@|Namık Sezgin@|Topçular@|Vali Konağı@
+5595	Hıdır Köyü	Hıdır=
+5596	Kalender Köyü	Kalender=
+5513	Karasu Köyü	Karasu=
+5514	Kavacık Köyü	Kavacık=
+5597	Kavakköy Köyü	Kavakköy=
+5515	Kayabey Köyü	Kayabey=
+5598	Kazlı Köyü	Ağrı Doğubayazıt@|Kazlı=
+1212	Kazım Karabekir Mah.	1901~|1905~|1906~|1908~|1910~|1911~|1912~|1913~|1914~|1915~|1916~|1917~|1919~|1921~|1922~|1923~|1924~|1925~|1926~|1927~|1930~|1939~|2001~|2004~|2006~|2008~|2009~|2011~|2012~|2013~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022~|2023~|2024~|2025~|2027~|2029~|2031~|2033~|2035~|2037~|2039~|2041~|2043~|2045~|2048~|2049~|2051~|2052~|2053~|2054~|2055~|2057~|2059~|2061~|2062~|2063~|2065~|2067~|2069~|2071~|2072~|2073~|2075~|2076~|2077~|2079~|2083~|2084~|2085~|2086~|2087~|2089~|2091~|2093~|2095~|Batı Kışla@|Beşevler@|Bilinmeyenn 23~|Bizim@|Cumhuriyet@|Eski Karakol@|General Vehbi Engin@|Hürriyet@|Kağızman@|Su Deposu~|Verilecek15~|Verilecek17~|Verilecek22~|Verilecek23~|Verilecek24~|Verilecek25~
+5560	Kocataş Köyü	Kocataş=
+5486	Kocataş Köyü, Altınçayır Mevkii	Altınçayır=
+5516	Konuktepe Köyü	Konuktepe=
+5562	Kovancık Köyü	Kovancık=
+5566	Kovancık Köyü, Ayranlı Mezrası	Ayrancı=
+5568	Kovancık Köyü, Aşağısubaşı Mezrası	Aşağısubaşı=
+5567	Kovancık Köyü, Darıca Mezrası	Darıca=
+5563	Kovancık Köyü, Gölsevti Mezrası	Gölsevti=
+181330	Kovancık Köyü, Keman Mevkii	Keman=
+5564	Kovancık Köyü, Pınarcık Mezrası	Pınarcık=
+5565	Kovancık Köyü, Yayıklı Mezrası	Yayıklı=
+5561	Koçbaşı Köyü	Koçbaşı=
+5517	Kumlugeçit Köyü	Kumlugeçit=
+1213	Kurtuluş Mah.	1101~|1102~|1103~|1104~|1105~|1106~|1107~|1107/1~|1109~|1110~|1111~|1112~|1115~|1118~|1119~|1121~|1124~|1126~|1127~|1128~|1129~|1130~|1134~|1136~|1137~|1139~|1150~|Atatürk@|Kurtuluş@|Yeni Van@|Çevre Yolu%
+1214	Leylek Pınar Mah.	1701~|1702~|1703~|1704~|1705~|1706~|1707~|1708~|1709~|1710~|1711~|1712~|1713~|1714~|1715~|1716~|1717~|1718~|1719~|1720~|1721~|1721/1~|1722~|1723~|1724~|1725~|1726~|1727~|Cumhuriyet@|Doğukışla@|General Vehbi Engin@|General Vehbi Engin/1@|Hani Baba@|Kurtuluş@|Namık Sezgin@|Taslak44~|Taslak481~|Vali Konağı@|İbrahim Elat@
+1215	Mehmet Akif Ersoy Mah.	1602~|1603~|1604~|1606~|1608~|1611~|1614~|1615~|1617~|1618~|1620~|1622~|1624~|1625~|1625/1~|1626~|1627~|1628~|1629~|1630~|1631~|1633~|1634~|1636~|1637~|1639~|1640~|1641~|1642~|1643~|1644~|1644/1~|1645~|1646~|1647~|1649~|1650~|1651~|1652~|1653~|1654~|1655~|1656~|1657~|1658~|1662~|1664~|1666~|1668~|1670~|1671~|1672~|1674~|1675~|1675/1~|1675/10~|1675/11~|1675/12~|1675/2~|1675/3~|1675/4~|1675/5~|1675/6~|1675/7~|1675/8~|1675/9~|1676~|1678~|1682~|1683~|1684~|1685~|1685/1~|1685/2~|1685/3~|1685/4~|1685/5~|1685/6~|1685/7~|1686~|1687~|1688~|1688/1~|1689~|1689/1~|1690~|1691~|1691/1~|1691/2~|1692~|1692/1~|1693~|1694~|1695~|1695/1~|1695/2~|1695/3~|1696~|1697~|1698~|1699~|2179~|2180~|2181~|2182~|2183~|2186~|2187~|2188~|2189~|2190~|2191~|2192~|2193~|2194~|2195~|2196~|2197~|Bilinmeyen12~|Bölge Trafik~|Cimikan Yolu@|Et Balık@|Hani Baba@|Hani Baba/1~|Hani Baba/2~|Hani Baba/3~|Hayvan Borsası@|Kavaklık@|Murat Nehri=|Orhan Alpaslan@|Yoncalı Köy Yolu@|Yoncalı Köy Yolu/1~|Yoncalı Köy Yolu/2~|Yoncalı Köy Yolu/4~|Yoncalı Köy Yolu/5~|Çevre Yolu%
+5569	Mollaali Köyü	Mollaali=
+5518	Mollaosman Köyü	Mollaosman=
+5519	Mollaosman Köyü, Konak Mevkii	Konak=
+5580	Murat Köyü	Ağrı Doğubayazıt@|Murat=
+100405	Murat Köyü, Ağrı Osb Mevkii	1.~|10.~|11.~|12.~|13~|14~|15~|16~|2.~|3.~|4~|5.~|6.~|7.~|8.~|9.~|Organize Sanayi%
+5581	Murat Köyü, Üç Evler Mezrası	Ağrı Doğubayazıt@|Üçevler=
+1216	Murat Mah.	1401~|1402~|1403~|1404~|1405~|1408~|1409~|1410~|1411~|1412~|1413~|1414~|1415~|1416~|1418~|1419~|1420~|1421~|1422~|1423~|1424~|1425~|1426~|1427~|1428~|1429~|1430~|1433~|1435~|1436~|1437~|1438~|1439~|1441~|1443~|1445~|1447~|1449~|1530~|29 Ekim@|Atatürk@|Eski Van@|Kurtuluş@|Pazar@|Set Üstü@|Çevre Yolu%
+5520	Murathan Köyü	Murathan=
+5570	Ortakent Köyü	Ortakent=
+5601	Ortayokuş Köyü	Ortayokuş=
+5602	Otlubayır Köyü	Otlubayır=
+5521	Ozanlar Köyü	Ozanlar=
+5599	Oğlaklı Köyü	Oğlaklı=
+5600	Oğlaklı Köyü, Çayır Mezrası	Çayır=
+5522	Sabuncu Köyü	Sabuncu=
+5523	Sarıca Köyü	Sarıca=
+5524	Sarıca Köyü, Ferhat Mezrası	Ferhat=
+5525	Sarıca Köyü, Reşo Mezrası	Reşo=
+5604	Sarıdoğan Köyü	Sarıdoğan=
+5573	Sarıharman Köyü	Sarıharman=
+5574	Sarıharman Köyü, Yukarı Subaşı Mezrası	Yukarısubaşı=
+5526	Sarıtaş Köyü	Köyün Kendisi=
+5572	Sağırtaş Köyü	Sağırtaş=
+5575	Soğancumaçay Köyü	Soğancumaçay=
+5527	Soğanköy Köyü	Soğanköy=
+5530	Suçatağı Köyü	Suçatağı=
+5528	Söğütlü Köyü	Söğütlü=
+5529	Söğütlü Köyü, Güzeldere Mezrası	
+1217	Sıtkıye Mah.	1102~|1142~|1144~|1152~|701~|702~|703~|703/a~|705~|706~|708~|709~|710~|710/a~|711~|712~|713~|714~|715~|715/1~|716~|717~|717/1~|718~|719~|721~|724~|726~|728~|734~|736~|Atatürk@|Fevzi Çakmak@|Kurtuluş@|Yaşar Kemal@|Yeni Van@|Çevre Yolu%
+5576	Taypınar Köyü	Taypınar=
+5531	Taştekne Köyü	Taştekne=
+5532	Tellisırt Köyü	Tellisırt=
+5533	Tezeren Köyü	Tezeren=
+5605	Uzunveli Köyü, Aşağı Pınar Mevkii	Aşağıpınar=
+5606	Uzunveli Köyü, Yukarı Pınar Mevkii	Yukarı Pınar=
+5577	Uçarkaya Köyü	Uçarkaya=
+5534	Yakınca Köyü	Yakınca=
+5607	Yalnızkonak Köyü	Yalnızkonak=
+1218	Yavuz Mah.	100 Yıl@|19 Mayıs@|401~|402~|403~|404~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|418~|419~|420~|421~|423~|606~|Bülbül@|Cumhuriyet@|Doktor Yaşar Eryılmaz@|Enstitü@|Kağızman@|Nevzat Güngör@|Sağlık@|Vali Konağı@|Yaşar Kemal@|İbrahim Öktem@
+5535	Yaylaköy Köyü	Yaylaköy=
+5536	Yazıcı Köyü	Yazıcı=
+5608	Yazılı Köyü	Yazılı=
+5538	Yolluyazı Köyü	Ağrı Van@|Yolluyazı=
+5539	Yolugüzel Köyü	Yaşar Kemal@|Yolugüzel=
+5540	Yoncalı Köyü	Ağrı Doğubayazıt@|Yoncalı=
+5541	Yorgunsöğüt Köyü	Yorgunsöğüt=
+6014	Yukarıağadeve Köyü	Yukarı Ağadeve=
+6015	Yukarıağadeve Köyü, Darboğaz Mezrası	Darboğaz=
+6013	Yukarıağadeve Köyü, Gülçimen Mezrası	Gülçimen=
+5578	Yukarıdürmeli Köyü	Yukarıdürmeli=
+5609	Yukarıküpkıran Köyü	Yukarıküpkıran=
+5579	Yukarıpamuktaş Köyü	Yukarı Pamuktaş=
+5542	Yukarısaklıca Köyü	Yukarı Saklıca=
+5543	Yukarıyoldüzü Köyü	Yukarıyoldüzü=
+5544	Yurtpınar Köyü	Ağrı Erzurum@|Yurtpınar=
+5537	Yığıntepe Köyü	Yığıntepe=
+5545	Ziyaret Köyü	Ziyaret=
+5588	Çakıroba Köyü	Çakıroba=
+5499	Çamurlu Köyü	Çamurlu=
+5500	Çatalipaşa Köyü	Çatalipaşa=
+5501	Çayırköy Köyü	Çayırköy=
+5502	Çobanbeyi Köyü	Çobanbeyi=
+5503	Çobanbeyi Köyü, Arap Mezrası	Arap=
+5504	Çukuralan Köyü	Çukuralan=
+5505	Çukurçayır Köyü	Çukurçayır=
+5603	Özbaşı Köyü	Özbaşı=
+5571	Özveren Köyü	Özveren=

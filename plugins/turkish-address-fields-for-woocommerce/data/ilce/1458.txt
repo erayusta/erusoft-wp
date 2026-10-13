@@ -1,0 +1,112 @@
+183358	Ahmet Yesevi Mah.	17 Şubat%|Ahmet Ağa~|Ahmet Yesevi/2~|Akasya~|Arı~|Aybüke@|Bağcılar~|Bilgehan~|Billur~|Daltaban~|Defne~|Derman~|Ece~|Esenlik~|Gizem~|Gül Esen~|Hisar~|Kanarya~|Kaya~|Kazım Karabekir@|Kağan~|Keklik~|Kelam~|Kümbet~|Lalezar~|Manolya~|Necip Fazıl@|Nezih~|Peri~|Plevne~|Poyraz~|Poyraz1~|Ruveyda~|Sarp~|Seyrangah~|Seyrangah/1~|Seçkin~|Sınır~|Tandır~|Tepe~|Timur~|Tuna~|Tunç~|Turgut Reis@|Türkerler-~|Umman~|Yakut~|Yeşilova=|Zambak~|Zeytin Dalı~|Ziyade~|Çakıl~|Çardak~|Çilek~|Ülkü~|İhlas~|İkbal~|Şafak~|Şule~
+37452	Akdağ Köyü	Akdağ Köyün Kendisi=
+37453	Aksöğüt Köyü	Aksöğüt=|Bayburt Şebinkarahisar@|Köycük=
+37454	Alacat Köyü	Alacat=
+30934	Atatürk Mah.	17 Şubat%|Alemdar~|Avşar~|Aydın Doğan@|Bizim~|Burak~|Demet~|Dilek~|Funda~|Geçit~|Gökdemir~|Güldane~|Güzel~|Hacı Neşat~|Hastane~|Hükümet@|Hükümet/1~|Kanuni~|Kaymakam Nuri Okutan@|Kehribar~|Koza~|Kule~|Kumru~|Kurtuluş~|Köknar~|Leylek Yuvası~|Merekardı~|Merekardı/1~|Merekardı/2~|Merekardı/3~|Merve~|Müderris Osman Efendi@|Müderris Osman Efendi/1~|Müderris Osman Efendi/2~|Müderris Osman Efendi/3~|Müderris Osman Efendi/4~|Perva~|Reyhanlı~|Serdar~|Seyran~|Stadyum~|Stadyum/1~|Stadyum/2~|Temel Yılmaz~|Villa~|Yeni Sahra~|Yeşim~|Zübeyde Hanım@|Şeker@|Şifa~
+37457	Aydoğdu Köyü	Aydoğdu=
+37458	Aziz Köyü	Aziz Köyün Kendisi Kb.=
+37451	Ağlık Köyü	Ağlık=
+37450	Ağıl Köyü	Ağıl=|Gümüşhane Erzincan@
+37455	Aşağıözlüce Köyü	Aşağıözlüce=|Gümüşhane Erzincan@
+37456	Aşut Köyü	Aşut=
+37459	Babakonağı Köyü	Babakonağı Merkez=
+37460	Babakonağı Köyü, Yayla Yayla Evleri	Babakonağı Yayla=
+30935	Bahçelievler Mah.	17 Şubat%|2/1~|2/2~|Aga~|Aksöğüt Köyü Yolu=|Aydın Doğan@|Bahçeli~|Berrak~|Beste~|Büklüm~|Coşku~|Cumhuriyet~|Destan~|Devran~|Divan~|Ekin~|Emre~|Erler~|Esentepe@|Esentepe/1~|Esentepe/2~|Esentepe/3~|Fazilet~|Ferah~|Geremez@|Gökçe~|Güler~|Gülistan~|Gülnar~|Gündoğan~|Gür~|Güzelce~|Hacı Burhan~|Kale Arkı@|Kale Arkı/1~|Kale Arkı/2~|Karaman~|Kasaba~|Kazım Karabekir@|Kelebek~|Kervan~|Kestane~|Kul Nuri~|Kuşburnu~|Kültür~|Kıran@|Kırlangıç~|Kıssa~|Kızılay~|Milli İrade@|Mimar Sinan~|Mimar Sinan-~|Necip Fazıl@|Sancak~|Satala~|Saygın~|Saçak~|Taşlı~|Tuğlu~|Yamaç~|Yamaç/1~|Yelli~|Yeşil Vadi@|Yokuş~|Zübeyde Hanım@|Ören~|Üçel~|İstiklal~|Şanlı~|Şen~
+37462	Balkaya Köyü	Balkaya=|Gümüşhane Erzincan@
+37461	Balıklı Köyü	Balıklı=
+37463	Başpınar Köyü	Başpınar=
+37464	Belenli Köyü	Belenli=
+37468	Bezendi Köyü, Aşağı Bezendi Mevkii	Aşağı Bezendi=
+37467	Bezendi Köyü, Kındıralık Mevkii	Kındıralık=
+37469	Bezendi Köyü, Merkez Mevkii	Bezendi Merkez=
+37466	Bezendi Köyü, Savcı Mevkii	Savcı=
+37465	Beşdeğirmen Köyü	Beşdeğirmen=
+37470	Bindal Köyü	Afet Konutları~|Afet Konutları1~|Afet Konutları2~|Afet Konutları3~|Afet Konutları4~|Afet Konutları5~|Afet Konutları6~|Afet Konutları7~|Afet Konutları8~|Bindal=
+37471	Bulak Köyü	Bulak=
+30936	Büyükcami Mah.	Ab~|Adnan Aktaş~|Avni~|Avni/1~|Aydemir~|Aydın Doğan@|Aydın Doğan-@|Bahtiyar~|Büyükcami~|Dar~|Dekar~|Diyar~|Dolunay~|Doğan~|Ertuğrul Gazi@|Eyme~|Gelincik~|Güven~|Güven/1~|Hamam~|Hilal~|Hoşnadar~|Karanfil~|Kayalı~|Kısıklı~|Mehmet Akif~|Menekşe~|Meşale~|Murathan~|Nasuhbeyoğlu~|Nur~|Oba~|Ozan~|Paşa~|Rüzgarlı~|Yamaçlar~|Yuva~|Zarif~|Çamlıca~|Çarşı~|Çetin~|Çiftlik 2~|Çiftlik 3~|Çiftlik@|İrfanibey~|İrfanibey/1~|Şark~|Şark/1~|Şerife Ana=|Şükrü~|Şükrü/1~
+37472	Cemalli Köyü	Cemalli=
+30937	Cumhuriyet Mah.	17 Şubat%|Ahmet Yesevi@|Ahmet Yesevi/1~|Ali Metin Tokdemir~|Ali Metin Tokdemir/1~|Atatürk@|Atayurt~|Aydın Doğan@|Ayrancı~|Ayvazoğlu~|Bademli~|Batı~|Bircan~|Bolkar~|Bordür~|Boğaziçi~|Bülbül~|Cemil Meriç@|Cengizhan~|Demir~|Dolaşık~|Duygu~|Efe~|Elmalı~|Emniyet~|Enver Şahin~|Ertürk~|Eğrigöze~|Fatih~|Granit~|Güllühatun~|Gülseven~|Gümüş Vadi~|Güney~|Gürbüz~|Hal~|Halit Paşa%|Halit Paşa4~|Hasat~|Hazal~|Hazin~|Hirik~|Irmak@|Kabristan Köprü~|Kabristan Köprü/1~|Kamer~|Kanara~|Kasırga~|Kavşak~|Kazancı~|Konak~|Kotan~|Kuyu~|Köprü~|Maarif~|Mahsun~|Molla Yusuf~|Murat~|Musalla~|Mısır~|Orhaniye~|Otlukbeli~|Pazar~|Piramit~|Rasim Oğulları~|Saraycık~|Selvi~|Sera~|Suvari~|Umut~|Utku~|Yemen~|Çamlık~|Çataklar~|Çatal Ardıç~|Çatal~|Çağlayan~|Çiçekli~|Çıkmaz~|Ömer~|Özmen~|Öğretmenevi~|İlham~|İpek~|Şahin~|Şehit Ali Mansiz@|Şenyuva~
+37481	Dayısı Köyü	Dayısı=
+37482	Deliler Köyü	Deliler=
+30940	Deredolu Beldesi, Cumhuriyet Mah.	Atatürk 2~|Atatürk@|Atatürk/1~|Atatürk/3@|Atatürk/4~|Atatürk/5~|Cumhuriyet/1~|Dilara~|Hasret~|Hasret/1~|Nergis~|Nergis/1~|Ortayol@|Ortayol/1@|Sıla~|Sıla1~|Yeni 3~|Yonca~|Çiğdem~|Çiğdem/1~
+30941	Deredolu Beldesi, Hürriyet Mah.	Atatürk@|Atatürk1@|Gümüşhane Kelkit@|Hasret~|Hilal~|Hürriyet/1~|Hürriyet/10~|Hürriyet/11~|Hürriyet/12~|Hürriyet/13~|Hürriyet/2~|Hürriyet/3~|Hürriyet/6=|Hürriyet/7~|Hürriyet/9~|Hürrüyet/5~|Hürrüyet/7~|Karşıyaka=|Ortayol@|Yayla Yolu=|Zümrüt=|Çiçek~|Özgür~|Özlem~
+30942	Deredolu Beldesi, Mahmatlı Mah.	Karlı~|Karlı/1~|Kayın~|Kayın/1~|Kayın/2~|Kayın/3~|Kayın/4~|Kayın/5~|Kayın/6~|Kayın/7~|Kayın/8~|Kayın1~|Kirazlı~|Lale~|Tandoğan@|Tandoğan/1~|Tandoğan/2~|Tandoğan/3~|Tandoğan/4~|Tandoğan/5~|Tandoğan/6~|Tandoğan/7~|Tandoğan/8~|Yıldız~|Çilek~|Çilek/1~|Çilek/2~|Çilek/3~|Çilek/4~
+37483	Dereyüzü Köyü	Bayburt Şebinkarahisar@|Dereyüzü=
+37484	Devekorusu Köyü	Devekorusu=
+37485	Doğanca Köyü	Bayburt Şebinkarahisar@|Doğanca=
+37486	Doğankavak Köyü	Doğankavak=
+37487	Dölek Köyü	Dölek=
+37488	Elmelik Köyü	Elmelik=
+37489	Eskikadı Köyü	Eskikadı=
+37490	Eskiyol Köyü	Eskiyol=
+37491	Eymür Köyü	Eymür=
+37493	Gerdekhisar Köyü, Merkez Mevkii	Bayburt Şebinkarahisar@|Gerdekhisar Merkez=
+37492	Gerdekhisar Köyü, Meydanlar Mevkii	Meydanlar=
+37495	Gödül Köyü, Merkez Mevkii	Gödül Merkez=
+37494	Gödül Köyü, Mezra Mevkii	Gödül Mezra=
+37496	Güllüce Köyü	Güllüce=
+37497	Gültepe Köyü	Gültepe=
+30943	Gümüşgöze Beldesi, Fatih Mah.	Bülbüller~|Davut~|Davut/1~|Davut/2~|Davut/3~|Davut/4~|Davut/5~|Karaca~|Karaca/1~|Karaca/2~|Karaca/3~|Karaca/4~|Karaca/5~|Karaca/6~|Karataş~|Karataş/1~|Kumlupahar~|Kumlupahar/1~|Kumlupahar/2~|Kumlupahar/3~|Kıran@|Kıran/1~|Kıran/2~|Kıran/3~|Kıran/4~|Kıran/5~|Maden~|Rüzgarlı~|Rüzgarlı/1~|Rüzgarlı/2~|Rüzgarlı/3~|Rüzgarlı/4~|Rüzgarlı/5~|Sahidingölü~|Sahidingölü/1~|Sahidingölü/2~|Sahidingölü/3~|Sahidingölü/4~|Sünnetçiler~|Sünnetçiler/1~|Çukur 10~|Çukur 11~|Çukur@|Çukur/1~|Çukur/2~|Çukur/3~|Çukur/4~|Çukur/5~|Çukur/6~|Çukur/7~|Çukur/8~|Çukur/9~|Çıkmaz~
+30944	Gümüşgöze Beldesi, Göztepe Mah.	Bağlarbaşı~|Bülbüller~|Bülbüller1~|Bülbüller2~|Bülbüller3~|Bülbüller4~|Değirmendere~|Değirmendere1~|Değirmendere2~|Gazneferli~|Gazneferli1~|Gazneferli2~|Gazneferli3~|Gözler@|Gözler1~|Gözler10~|Gözler11~|Gözler12~|Gözler2~|Gözler3~|Gözler4~|Gözler5~|Gözler6~|Gözler7~|Gözler8~|Gözler9~|Karanfil~|Maden~|Maden1~|Çayırlar~
+30945	Gümüşgöze Beldesi, Özyurt Mah.	Kom=
+37498	Günbatur Köyü	Günbatur=
+37499	Güneyçevirme Köyü	Güneyçevirme=|Güneyçevirme1~|Güneyçevirme10~|Güneyçevirme2~|Güneyçevirme3~|Güneyçevirme4~|Güneyçevirme5~|Güneyçevirme6~|Güneyçevirme7~|Güneyçevirme8~|Güneyçevirme9~
+37502	Gürleyik Köyü	Gürleyik Köyün Kendisi=
+37500	Gürleyik Köyü, Gürleyik Yayla Evleri	Gürleyik=
+37501	Gürleyik Köyü, Yayla Yayla Evleri	Gürleyik Yayla=
+37503	Güzyurdu Köyü	Güzyurdu=
+37504	Karacaören Köyü	Karacaören=
+183726	Karaçayır Mah.	Gümüşhane Erzincan@|Karaçayır=
+37506	Karşıyaka Köyü	Karşıyaka=
+37507	Kazanpınar Köyü, Merkez Mevkii	Kazanpınar Merkez=
+37508	Kazanpınar Köyü, Sula Mevkii	Bayburt Şebinkarahisar@|Sula=
+30946	Kaş Köyü, Esenler Mevkii	Aydınlar~|Cumhuriyet~|Cumhuriyet/1~|Cumhuriyet/2~|Emek~|Emek/1~|Gazi~|Gümüşhane Erzincan 1~|Gümüşhane Erzincan@|Gümüşhane Erzincan/1~|Gümüşhane Erzincan/2~|Gümüşhane/2~|Gümüşhane/3~|Karlık~|Karlık/1~|Karlık/2~|Köprübaşı~|Okul 2~|Ortayol 2~|Ortayol~|Ortayol/1~|Ortayol/2~|Rüzgarlı~|Rüzgarlı/1~|Rüzgarlı/2~|Rüzgarlı/3~|Rüzgarlı/4~
+30947	Kaş Köyü, Fatih Mevkii	Aydınlar/1~|Cumhuriyet~|Demet~|Dere~|Dere/1~|Gümüşhane Erzincan 1~|Gümüşhane~|Gümüşhane/1~|Irmak~|Irmak/1~|Irmak/2~|Irmak/3~|Karanfil~|Okul~|Ortayol~|Susam~|Çeşme~|Çiğdem~|İpekyolu~
+37514	Kozoğlu Köyü	Kozoğlu=
+37517	Kuşluk Köyü	Kuşluk=
+37515	Kömür Köyü	Kömür=
+37516	Köycük Köyü	Bayburt Şebinkarahisar@|Köycük=
+30939	Küçükcami Mah.	Alioğlu~|Alsancak~|Anadolu~|Arka~|Aydın Doğan@|Aydın Doğan-@|Bahçeler Üstü~|Bostancık~|Boyahane~|Daracık~|Elvan~|Elvan1~|Gukkulu Köprü~|Güzelyurt~|Harmanlar~|Hoşnadar~|Hoşnadar/1~|Kara Ağaç~|Karaca~|Kutlu~|Kutlu/1~|Kuğulu~|Köşem~|Küçük Cami@|Malazgirt~|Nisbet~|Sazlı~|Stadyum/1~|Tahir Efendi~|Tenha~|Topuzlar~|Uygur~|Çarşı~|Çevirme~|Özdemir~|Özdemir/1~|İmamhatip~
+37510	Kılıçtaşı Köyü	Bayburt Şebinkarahisar@|Kılıçtaşı=
+37509	Kılıççı Köyü	Kılıççı=
+37511	Kınalıtaş Köyü	Gümüşhane Erzincan@|Kınalıtaş Köyün Kendisi K.b.=
+37513	Kızılca Köyü, Merkez Mevkii	Merkez=
+37512	Kızılca Köyü, Yayla Yayla Evleri	Kızılca Yaylası=
+37518	Obalar Köyü	Obalar=
+37519	Oğuz Köyü	Oğuz=
+37523	Sadak Köyü	Sadak=
+37524	Salördek Köyü	Salördek=
+37525	Sarışeyh Köyü	Sarışeyh=
+37526	Sökmen Köyü	Sökmen=
+30951	Söğütlü Beldesi, Merkez Mah.	Aloğlu~|Aloğlu/1~|Aloğlu/2~|Aloğlu/3~|Cami~|Ernek Yayla=|Hoca Ahmet@|Hoca Ahmet/1~|Hoca Ahmet/10~|Hoca Ahmet/11~|Hoca Ahmet/12~|Hoca Ahmet/13~|Hoca Ahmet/14~|Hoca Ahmet/15~|Hoca Ahmet/16~|Hoca Ahmet/17~|Hoca Ahmet/18~|Hoca Ahmet/19~|Hoca Ahmet/2~|Hoca Ahmet/20~|Hoca Ahmet/21~|Hoca Ahmet/22~|Hoca Ahmet/3~|Hoca Ahmet/4~|Hoca Ahmet/5~|Hoca Ahmet/6~|Hoca Ahmet/7~|Hoca Ahmet/8~|Hoca Ahmet/9~|Huzur~|Huzur/1~|Huzur/2~|Molla~|Pazar-~|Vatan@|Vatan/1~|Vatan/10~|Vatan/11~|Vatan/12~|Vatan/13~|Vatan/14~|Vatan/15~|Vatan/16~|Vatan/17~|Vatan/2~|Vatan/3~|Vatan/4~|Vatan/5~|Vatan/6~|Vatan/7~|Vatan/8~|Vatan/9~|Yayla~|Yayla/1~|Yayla/10~|Yayla/2~|Yayla/7~|Yedi Kıran~|Yedi Kıran/1~|Yedi Kıran/2~|Yeşil~|Yeşil/1~|Yeşil/2~|Yeşil/3~|Yeşil/4~|Çiğdem~|Şahin~|Şehit Tahsin@|Şehit Tahsin/1~|Şehit Tahsin/10~|Şehit Tahsin/11~|Şehit Tahsin/12~|Şehit Tahsin/13~|Şehit Tahsin/14~|Şehit Tahsin/15~|Şehit Tahsin/16~|Şehit Tahsin/17~|Şehit Tahsin/18~|Şehit Tahsin/19~|Şehit Tahsin/2~|Şehit Tahsin/20~|Şehit Tahsin/21~|Şehit Tahsin/22~|Şehit Tahsin/23~|Şehit Tahsin/24~|Şehit Tahsin/25~|Şehit Tahsin/26~|Şehit Tahsin/3~|Şehit Tahsin/4~|Şehit Tahsin/5~|Şehit Tahsin/6~|Şehit Tahsin/7~|Şehit Tahsin/8~|Şehit Tahsin/9~
+37527	Sütveren Köyü	Sütveren=
+37529	Tütenli Köyü	Gümüşhane Kelkit@|Tütenli=
+37530	Uzunkol Köyü	Uzunkol=
+37531	Yarbaşı Köyü	Kozoğlu=|Yarbaşı=
+37532	Yenice Köyü, Gevezit Mevkii	Gevezit=
+37533	Yenice Köyü, Uyanık Mevkii	Uyanık=
+37534	Yeniköy Köyü	Yeniköy=
+37535	Yeniyol Köyü	Gümüşhane Erzincan@|Yeniyol=
+37536	Yeşilova Köyü	Yeşilova=
+37475	Yeşilpınar Köyü	Yeşilpınar Köyün Kendisi=
+37476	Yeşilpınar Köyü, Yayla Yayla Evleri	Beşdeğirmen Yayla=|Eskikadı Yayla=|Yayla 1=
+37537	Yeşilyurt Köyü	Yeşilyurt=
+37538	Yolçatı Köyü	Yolçatı=
+37539	Yukarıözlüce Köyü	Gümüşhane Erzincan@|Yukarıözlüce=
+183360	Yunus Emre Mah.	17 Şubat%|Acem~|Ark~|Asil~|Aybüke-@|Aşiyan~|Barbaros@|Barbaros/1~|Barbaros/2~|Barış~|Başak~|Bereket~|Beyazıt~|Bilge~|Ceren~|Damla~|Değirmen~|Dilara~|Dilara/1.~|Elveda~|Erdemli~|Eren~|Esat~|Eski Bağlar~|Eski Bağlar1~|Farabi~|Ferman~|Güneşli~|Hacı Yusuf~|Halit Paşa%|Halit Paşa/1~|Halit Paşa1~|Halit Paşa2~|Halit Paşa3~|Halit Paşa5~|Hızır~|Işıklar~|Karlı~|Karşıyaka@|Karşıyaka/1~|Kayalar~|Kaş~|Kemane~|Kuzey~|Kısmet~|Kısmet/1~|Kısmet/1.~|Kısmet/2~|Kısmet/2.~|Kısmet/3.~|Maraşal Fevzi Çakmak@|Maviş~|Narin~|Nene Hatun~|Okullar~|Oruçbey~|Oylum~|Papatya~|Pelit~|Rezene~|Sanayi 1.~|Sanayi 10.~|Sanayi 11.~|Sanayi 12.~|Sanayi 13.~|Sanayi 14.~|Sanayi 15.~|Sanayi 2.~|Sanayi 3.~|Sanayi 4.~|Sanayi 5.~|Sanayi 6.~|Sanayi 7.~|Sanayi 8.~|Sanayi 9.~|Sanayi@|Sazlar~|Selin~|Sema~|Semah~|Sıla~|Teyet~|Toplu Konut~|Yarenler~|Yasemen~|Yatağan~|Yavuz Sultan Selim~|Yazı~|Yuvam~|Yılanlı~|Zümrü~|Çember~|Çilingir~|Çiçekci~|Çınar~|Çınarcık~|Ömür~|Örenler~|Üzümlü~|İnce~|İrem~|Şehit Osman Şahin-~|Şehzade~|Şehzade/1~|Şimal~
+37474	Çakırlar Köyü	Çakırlar=
+37477	Çamur Köyü	Çamur=
+37473	Çağlar Köyü	Çağlar=
+37478	Çimenli Köyü	Çimenli=
+37479	Çömlecik Köyü, Kayacık Mevkii	Kayacık=
+37480	Çömlecik Köyü, Merkez Mevkii	Çömlecik=
+30948	Öbektaş Beldesi, Esentepe Mah.	Ali Bey~|Ali Bey2~|Ali Bey3~|Cumhuriyet@|Cumhuriyet/1~|Cumhuriyet/10~|Cumhuriyet/11~|Cumhuriyet/12~|Cumhuriyet/13~|Cumhuriyet/14~|Cumhuriyet/15~|Cumhuriyet/16@|Cumhuriyet/17~|Cumhuriyet/18~|Cumhuriyet/19~|Cumhuriyet/2~|Cumhuriyet/20~|Cumhuriyet/3~|Cumhuriyet/4~|Cumhuriyet/5~|Cumhuriyet/6~|Cumhuriyet/7~|Cumhuriyet/8~|Cumhuriyet/9~|Esentepe~|Kabristan~|Kabristan/1~|Kabristan/2~|Kaplan~|Kaplan/1~|Kaplan/2~|Kayalar~|Kayalar/1~|Malazgirt@|Malazgirt/3~|Peteklik~|Peteklik/1~|Peteklik/10~|Peteklik/11~|Peteklik/2~|Peteklik/3~|Peteklik/4~|Peteklik/5~|Peteklik/6~|Peteklik/7~|Peteklik/8~|Peteklik/9~|Çamlık~
+30949	Öbektaş Beldesi, Fatih Mah.	Ahmet Yesevi~|Ahmet Yesevi1~|Ahmet Yesevi2~|Ahmet Yesevi3~|Ali Bey~|Ali Bey1~|Ali Bey4~|Aziziye~|Aziziye/1~|Aziziye/2~|Cumhuriyet 1~|Cumhuriyet@|Cumhuriyet2~|Cumhuriyet3~|Cumhuriyet4~|Cumhuriyet5~|Cumhuriyet6~|Cumhuriyet7~|Cumhuriyet8~|Fatih=|Fatih2~|Fatih3~|Gümüşhane Erzincan@|Kabristan~|Kabristan1~|Malazgirt@|Malazgirt1~|Malazgirt2~|Malazgirt3~|Yunus Efendi~|Yunus Efendi1~|Yunus Efendi2~|Yunus Efendi3~|Yunus Efendi4~|Yunus Efendi5~
+30950	Öbektaş Beldesi, Halkevi Mah.	Fatih1=|Halkevi=
+37521	Örenbel Köyü	Gümüşhane Erzincan@|Örenbel=
+37522	Özen Köyü	Gümüşhane Kelkit@|Özen=
+37520	Öğütlü Köyü	Öğütlü=
+30952	Ünlüpınar Beldesi, Büyükcami Mah.	Aluç~|Ağa~|Aşık~|Aşık/1~|Behri~|Büyük Cami/1~|Büyük Cami/2~|Cami~|Cemal Gökçe~|Eskiköy~|Gümüşhane Kelkit@|Hacı Ahmet~|Hacı Hafız~|Halil Sağlam~|Hüseyin Acar~|Karatay~|Keleş~|Keleş/1~|Keşlik~|Kuduman~|Kuduman/1~|Kunt~|Köseoğlu Ahmet Keleş~|Mahmutoğulları~|Memiş~|Mollahamza=|Mollamustafa~|Mustafa Öğretmen~|Pekün~|Sağlam~|Süleymaniye~|Tunç~|Yazı~|Yücel@|Çağlar~|Ömer~|İlhanlar~|İsmail Güney@|İsmail Güney/1~|İsmail Güney/2~|Şükrüefendi~
+30953	Ünlüpınar Beldesi, Fatih Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|75.yıl~|75.yıl/1~|Aluç~|Aslan~|Büyükdevrent~|Cebeci~|Danagıran~|Danagıran/1~|Eylence@|Eylence/1~|Gazi Ali~|Gökçe~|Gümüşhane Kelkit@|Hafızoğlu~|Hafızoğlu/1~|Halife~|Halil Sağlam~|Hapo Osman Karatay /1~|Hapo Osman Karatay@|Hapo Osman Karatay/1~|Hapo Osman Karatay1~|Hapo Osman Karatay2~|Harmancık@|Harmancık/1~|Harmancık1~|Harmanlar~|Hatip~|Hayrioğlu~|Hilmi Sağlam~|Kabaşerif~|Kara Mehmet~|Karanfil~|Kaya~|Keşlik~|Kom=|Köstüre~|Lazahmet~|Mahmutoğulları~|Masur~|Mehmet Erdel~|Mustafa Öğretmen~|Nergiz~|Niyaz~|Papatya~|Park~|Pehlivan~|Pınar 1~|Pınar~|Reşit~|Sadık~|Salahor~|Sağlam~|Sağlam/1~|Sertali~|Temur~|Yenı~|Yusuf Gaygusuz~|Yusuf Nas~|Çangal~|Çavga~|Çavga/1~|Çağlar~|Ömeroğlu~|Ömeroğlu1~|Ömeroğlu2~|İlyas Nas~|İlyas Nas/1~|İsimsiz~|İskender~|Şehit Tayfur~|Şükrü Tarhan~
+30938	İnönü Mah.	17 Şubat%|17 Şubat1~|17 Şubat2~|Arada~|Asma~|Aydın Doğan@|Aydın Doğan1~|Damla-~|Derya 1~|Derya~|Ertuğrul Gazi@|Etlik~|Feyza~|Gazi~|Gülseren~|Gülseren/1~|Gülseren/2~|Gülseren/3~|Gümüş~|Gümüş/1~|Gümüşlük~|Gündüz~|Gündüz1~|Güz~|Hacı Yasin Işıldar@|Hacı Yasin Işıldar/1~|Hacı Yasin Işıldar/2~|Han~|Han/1~|Han/2~|Hasalar~|Huzur~|Hürriyet~|Işıldar~|Kahramanlar~|Kemer Altı~|Kumsal~|Mehtap~|Mehteran~|Meşelik~|Nail Doğan~|Pelit-~|Sanayi@|Sazlı Dere~|Serhat~|Su Başı~|Sümer~|Tarla~|Tepe Altı~|Uyanış~|Yağmur~|Yeni Bağlar~|Yeni Doğan~|Yeni~|Çaldıran~|Çağla~|Çiftlik 1~|Çiftlik@|Çukur~|Örnek~|Şark~|Şenlik~
+37528	Şen Köyü	Şen=

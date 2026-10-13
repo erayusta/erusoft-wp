@@ -1,0 +1,53 @@
+.eru-wib {
+	margin: 1.25rem 0;
+	border: 1px solid #dcdcde;
+	border-radius: 6px;
+	background: #f9f9fb;
+}
+.eru-wib summary {
+	cursor: pointer;
+	padding: .8rem 1rem;
+	font-weight: 600;
+}
+.eru-wib details > :not(summary) {
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+.eru-wib-text { margin-top: 0; color: #50575e; font-size: .9em; }
+.eru-wib-form label { display: block; font-size: .875em; }
+.eru-wib-form input[type="text"],
+.eru-wib-form input[type="email"],
+.eru-wib-form input[type="tel"],
+.eru-wib-form input[type="number"],
+.eru-wib-form textarea {
+	width: 100%;
+	box-sizing: border-box;
+	margin-top: .2rem;
+}
+.eru-wib-form p { margin: 0 0 .7rem; }
+.eru-wib-actions { display: flex; flex-wrap: wrap; gap: .6rem; padding-bottom: 1rem; }
+.eru-wib-hp { position: absolute !important; left: -9999px; height: 0; overflow: hidden; }
+.eru-wib-notice { padding: .5rem .75rem; border-radius: 4px; font-size: .9em; }
+.eru-wib-ok { background: #edfaef; color: #1e4620; }
+.eru-wib-err { background: #fcf0f1; color: #8a1f2b; }
+@media (max-width: 480px) {
+	.eru-wib-actions .button { flex: 1 1 100%; text-align: center; }
+}
+.eru-wib .eru-wib-actions .button {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 2.6rem;
+	padding: .4rem 1.1rem;
+	border: 1px solid #1d2327;
+	border-radius: 4px;
+	background: #1d2327;
+	color: #fff;
+	font-size: .95em;
+	text-decoration: none;
+	cursor: pointer;
+}
+.eru-wib .eru-wib-actions .eru-wib-wa {
+	background: #fff;
+	color: #1d2327;
+}

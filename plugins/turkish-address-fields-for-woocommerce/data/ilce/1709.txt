@@ -1,0 +1,46 @@
+157175	Akköy Mah.	Akköy Bekul=|Akköy Dere 1=|Akköy Dere=|Akköy Karşı=|Akköy Orta=|Rıdvanlı Bekul=
+157177	Aydoğdu Mah.	Aydoğdu Camii=|Aydoğdu Cumhuriyet=|Aydoğdu Gülbaharhatun@|Aydoğdu Sahil 1=|Aydoğdu Sahil=|Kurtuluş 1=|Kurtuluş=|Mısırlı Kıran=
+157173	Açıkalan Mah.	Açıkalan Düz=|Açıkalan Horaba=|Açıkalan Yayla=|Feyizli=|Karasu Devordoz=|Kırancık=|Rıdvanlı Bekul=|Rıdvanlı Yayla=|Sağrı=|Suruşoğulları=|Tonarbaşı=
+157179	Bahadırlı Mah.	Bahadırlı Alt=|Bahadırlı Orta=|Esentepe Merkez Cami=|Hacı Ziya Habiboğlu@|Üst=
+157181	Ballı Mah.	Armut Alan=|Ballı Camii=|Ballı Güney 1=|Ballı Güney=|Ballı Güneysu=|Ballı Yayla 1=|Ballı Yayla=|Ballı Çay 1=|Ballı Çay=|Cayırlık 1=|Cayırlık=|Deregözü Yayla=|Gatoor=|Karadağ Yayla=|Kıranköy Kıran=|Nepsiloz Şahinli 2=|Rıdvanlı Yayla=|Ömerli=
+157183	Bozalan Mah.	Bekaroğlu=|Bozalan Alt=|Bozalan Üst=|Esentepe Merkez Cami=|Turutoğlu=
+80158	Büyükliman Mah.	1-@|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|Ardıç~|Atatürk%|Aydınlar=|Bahar~|Bekirağa Kıranı=|Beyaz-~|Büyükliman Dere=|Büyükliman Tarlacık~|Büyükliman Tomurcuk~|Büyükliman Yıldız=|Eski~|Gazi Irmak~|Gülbaharhatun@|Gülen~|Gürdallı=|Hasan Cemilgüç@|Mevlana~|Salkım~|Semin~|Sevinç~|Tarlacık=|Turan~|Çiçek~|Özen~
+157185	Caferli Mah.	Bahadırlı Alt=|Caferli Alt=|Caferli Kıran=|Caferli Merkez=|Cami Altı=|Eyüboğlu 1=|Hacı Ziya Habiboğlu@|Kıran=|Panklı=|Ramazanlı=
+80159	Cumhuriyet Mah.	1-@|201~|202~|203~|204~|Alemisli=|Alimis~|Atatürk%|Belediye@|Cumhuriyet@|Cumhuriyet Küme Evleri=|Gülbaharhatun@|Hoşarlı=|Irmak~|Nergis~|Sağlık~|Toki~|Turem~|Üst=
+201159	Demirci Mah.	Cim~|Değirmen~|Hacili=|Mahmutlu Yolu=|Muhacirler=|Tepe=|Yalıköy Gül~|Çatma=|Çavuşlu=|İslamlar=|Şahinoğulları=|Şirin~|Şirin-~
+157191	Deregözü Mah.	Ballı Camii=|Ballı Çay=|Cebri Kıran=|Deregözü Cami 1=|Deregözü Cami=|Deregözü Uçantoz=|Deregözü Yayla=|Dereözü Kıran=|Gahrimanli=|Gatoor=|Gavrezli=|Hastane Yanı=|Loyuzli=|Mezere Mevkii=|Nepsiloz Şahinli 2=|Osmanbaşlı=|Yeniköy Kaldırım Yayla=|Ömerli=|İsali 1=|İsali=
+157193	Düzlük Mah.	Bıyıklılar=|Eyüboğlu 1=|Eyüboğlu 2=|Eyüboğlu=|Kaanlar=|Karanisli=|Sekmenli Yeşil=
+157195	Esentepe Mah.	Abdioğlu=|Avlan=|Bozalan Üst=|Esentepe Merkez Cami=|Güneyköy Güney=|Üst=|Şahinli=
+157197	Fethiye Mah.	Bayır=|Dağ Mevki=|Fethiye Kıran=|Fethiye Orta=|Karşı=|Karşıyaka=|Rıdvanlı Cami=|İshaklı Cami=
+157199	Fevziye Mah.	Afyonoğlu=|Ahmetoğlu=|Demirciler=|Fazlıoğlu=|Fevziye Merkez=|Fevziye Orta=|Kahyalar=|Karatepe Kıran=|Korşiloğlu=|Köprücek Bahadırlı=|Köprücek Karşı=|Satanoğlu=|Yukarı=|Yukarı Mezere=
+157201	Güneyköy Mah.	Abdioğlu=|Güneyköy Güney=|Kuzey=
+157203	Güneysu Mah.	Baliya 1=|Baliya=|Güneyköy Güney=|Güneysu Alt=|Güneysu Camii=|Güneysu Üst=|Harmancık=|Harmancık1=|Harmancık2=|Karali 1=|Koçaloğlu=|Yaylacık Cami-=
+80162	Hacıköy Mah.	1-@|701~|702~|Alaçam~|Atatürk%|Ayva~|Bekirağa Kıranı=|Buhara~|Ceylan~|Dervişoğlu=|Değirmenyanı=|Gazi Irmak~|Gülbaharhatun@|Gülbahçe~|Günaydın~|Hacıköy Cami~|Hacıköy@|Hacıköy Yeni~|Haliloğlu=|Karadağ~|Karadeniz~|Karayel~|Kardelen~|Kelebek~|Kuleyinli=|Kuyu~|Mavi~|Mecit~|Mimoza~|Nadide~|Uzun~|Yukarı Cami Yanı=|Çobanoğlu Kıran=|Ömer Reis Kıran=|Ülker~|Şahin~
+157205	Hamzalı Mah.	Aşağı Camii=|Hacili=|Hamzalı Horaba=|Kereşa=|Mahmutlu Cami=|Mahmutlu Yolu=|Mezere Mevkii=|Yukarı Camii=
+80163	Hürriyet Mah.	401~|402~|403~|404~|405~|406~|407~|Alev Yanık~|Bahadırlı Alt=|Belediye@|Elma~|Güneş~|Hacı Ziya Habiboğlu@|Hürriyet@|Hürriyet Yıldız~|Kutupan=|Lale~|Nihat Tahmazoğlu@|Reşat Alp~|Sağlık~|Seyran~|Seyran1~|Toki~|Zümrüt~|Çankaya~|İsmail Hakkı Şener@
+157211	Karatepe Mah.	Fazlıoğlu=|Fosaloğlu 1=|Fosaloğlu=|Karabektaşoğlu=|Karali 1=|Karatepe Kıran=|Korşiloğlu=|Köseli=|Mollahasanoğlu=|Taşkınlar=|Çaloğlu=
+80164	Kemaliye Mah.	1-@|14 Şubat Kurtuluş@|501~|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515~|516~|517~|518~|520~|521~|522~|523~|524~|525~|526~|527~|Adnan Demirtürk=|Anadolu~|Ara~|Atatürk%|Atmacalar=|Aydınlık~|Açelya~|Bülbül~|Dar~|Demiroğlu=|Deniz~|Doğan~|Elma-~|Engin~|Eyüp~|Fidan~|Garipler~|Gonca~|Gül~|Gülbaharhatun@|Hacı Ali Limandal@|Hacı Ziya Habiboğlu@|Hale~|Hasan Cemil Güç@|Hilal~|Hisar~|Kanarya~|Kanuni~|Karanis~|Kemaliye Cami~|Kemaliye@|Kemaliye Karanfil~|Kemaliye Mercan~|Koltuk Bayırı~|Kristal~|Kuytu~|Kıran 1=|Kıran=|Lise=|Manolya~|Martı~|Merve~|Murat~|Neşeli~|Okullar~|Poyraz~|Pınar~|Sanayi~|Sağlam~|Sağlamlar=|Sema~|Serçe~|Sevgi~|Sinema~|Stadyum~|Sümbül~|Tahsin Bank=|Tomurcuk~|Yakamoz~|Yeni~|Yeşil~|Yonca~|Yosun~|Zübeyde Hanım=|Çağlayan~|Çelik~|Çimen~|Çınar~|İnce~|İrem~
+157215	Kirazlık Mah.	Aydoğdu Cumhuriyet=|Kirazlık Dere 1=|Kirazlık Dere 2=|Kirazlık Dere 3=|Kirazlık Dere=|Kirazlık Düz=|Kışla=|Mısırlı Dere=|Mısırlı Kıran=|Osman Yamak@|Zambak 1=
+80165	Kirazlıkyeni Mah.	1-@|801~|802~|803~|804~|805~|806~|807~|808~|Atatürk%|Derya~|Gizem~|Gülbaharhatun@|Kavak~|Kiraz~|Kirazlık Düz-=|Kirazlıkyeni Cami~|Kirazlıkyeni Gülbahçe~|Kirazlıkyeni Selvi~|Koyunoğlu~|Kışla=|Osman Yamak@|Taflan@|Zambak 1=|Zambak~|Zeytinlik~|Çay~|Ömer Nakkaş@
+157217	Köprücek Mah.	Fazlıoğlu=|Fevziye Merkez=|Güneysu Üst=|Kahyalar=|Karali 1=|Köprücek Bahadırlı=|Köprücek Karşı=|Köseli=
+80166	Körez Mah.	1-@|101~|102~|103~|104~|203~|Alemisli=|Atatürk%|Avlan=|Donar=|Elemisli-=|Gülbaharhatun@|Körez Cami=|Mirilli=|Üst=
+201161	Küçükdere Mah.	1101~|1102~|1103~|1104~|Esentepe=|Hüseyin Avni Aker Yalı@|Kalemiza=|Kuran Kursu~|Kurs~|Küptaş=|Küçükdere Merkez Cami=|Küçükdere Sahil=|Mera~|Orta Mahalle=|Pınarlı Merkez=|Yalıköy Yaylacık~|Yeni Cami=|Şehit Gökhan Dal@|Şehit Kemal Türkyılmaz@
+157213	Kıranköy Mah.	Armut Alan=|Kıranköy Kıran=|Tarlacı Kıran-=|Tarlacık Kıran=|Yukarı Kıran=
+157219	Mahmutlu Mah.	Kereşa=|Mahmutlu Cami=|Mahmutlu Yeni=|Mahmutlu Üst=|Yengi Güney=|Yukarı Camii=
+157221	Mısırlı Mah.	Deregözü Uçantoz=|Kirazlık Dere 3=|Kirazlık Dere=|Kurtuluş=|Mısırlı Cami=|Mısırlı Dere=|Mısırlı Kıran=|Mısırlı Orta=|Mısırlı Uçantoz=|Sayda=
+157223	Ortaköy Mah.	Akköy Dere=|Akköy Karşı=|Akköy Orta=|Ortaköy Alt=|Ortaköy Cami=|Ortaköy=|Ortaköy Orta=|Ortaköy Üst=|Rıdvanlı Raşı=
+157225	Rıdvanlı Mah.	Akköy Bekul=|Akköy Orta=|Açıkalan Horaba=|Ballı Yayla=|Betroba=|Fethiye Kıran=|Hoşarlı Zere Yaylası=|Karaağaçlı=|Karşı=|Karşıyaka=|Ortaköy Üst=|Ortaköy-=|Rıdvanlı Bekul=|Rıdvanlı Cami=|Rıdvanlı Raşı 1=|Rıdvanlı Raşı=|Rıdvanlı Yayla=|İshaklı Cami=
+157227	Sekmenli Mah.	Bayır=|Bektaşlı=|Caferli Kıran=|Dağ Mevki=|Goyezi Merkez=|Rona Dere=|Salmanlı=|Sekmenli Yeşil=|Seymenli=|Zenbilli=|Ziyaret=
+157229	Sinanlı Mah.	Garbetli=|Köseler=|Sağırlı=|Sinanlı=|Sinanlı Orta=|Sinanlı Üst=|Sinanlı İskenderli=
+157231	Soğuksu Mah.	Bayır=|Caferli Kıran=|Fethiye Kıran=|Garbetli=|Sekmenli Yeşil=|Soğuksu Cami=|Soğuksu Yayla=|Soğuksu İskenderli=|Zenbilli=|Ziyaret=
+157235	Tarlacık Mah.	Caklı=|Gürdallı=|Halilli=|Kaanlar=|Kıranköy Kıran=|Tarlacık=|Tarlacık Kıran=|Tarlacık Orta=|Ömer Reis Kıran=
+157171	Yalıköy Mah.	1105~|1106~|1107~|Alçak Mevkii=|Aynacılar=|Cıkmaz~|Durak~|Fidayeler=|Hamzalı Yolu=|Hüseyin Avni Aker Yalı@|Kabaoğulları=|Kıran Suyu=|Liman~|Mahmutlu Yolu=|Menteşoğlu=|Mezarlık~|Miroğlu=|Osmanbaşlı=|Tanrıverdiler=|Tepe Yalı~|Yalıköy Ara~|Yalıköy Deniz=|Yalıköy Güneş~|Yalıköy Sanayi~|Yalıköy Sağlık~|Yukarı Cami=|Çolakoğulları=|Şehit Kemal Türkyılmaz@|Şehit Kemal Türkyılmaz Yalı@|Şehit İlyas Çolakoğlu@|Şeraslı=|Şirin~
+157237	Yaylacık Mah.	1 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|Abdioğlu=|Aramanlı=|Aydınlı 1=|Aydınlı=|Baliya 1=|Bozalan Üst=|Kadıoğulları=|Karali 1=|Karali=|Yaylacık Cami=|Yaylacık-=
+157239	Yıldız Mah.	Bayraktarlı=|Caferli Alt=|Demiroğlu=|Eyüboğlu 2=|Kerimli=|Laşıroğlu=|Okullar~|Sınara=|Tahsin Bank=|Yıldız Cami=|Yıldız Yeni=
+157187	Çamlık Mah.	Bekaroğlu=|Bozalan Üst=|Eminli=|Hacımahmutoğlu=|Kanzula=|Turutoğlu=|Çamlık Kıran=|Çamlık Orta=
+80160	Çamlık Sahil Mah.	1~|2~|3~|4~|5-~|Atatürk%|Gülbaharhatun@|Çamlık=
+80161	Çarşı Mah.	1-@|14 Şubat Kurtuluş@|301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313@|314~|315~|316~|317~|318~|319~|320~|Afetevleri~|Akasya~|Atatürk%|Ay~|Bedir~|Belediye@|Berat~|Defne~|Dere~|Düz~|Elma~|Elvan~|Ensar~|Esen~|Fındık~|Gazi Osman Paşa@|Gelincik~|Gülbaharhatun@|Hicret~|Hükümet~|Hürriyet@|Kasaplar~|Kunduracılar~|Kıble~|Kısa~|Kızılay~|Manifaturacılar@|Menekşe~|Mercan~|Mescit~|Miraç~|Mısır~|Namık Kemal@|Nihat Tahmazoğlu@|Onur~|Papatya~|Pazar~|Sarmaşık~|Sedef~|Selvi~|Söğüt~|Yaprak~|Ziya Gökalp@|Çarşı Engin~|Çarşı Gül~|Çarşı Karanfil~|Çiğdem~|İsmail Hakkı Şener@|Şadırvan~
+157189	Çavuşlu Mah.	Hacili=|Kayıktaş=|Mahmutağa=|Naipli=|Pınarlı Merkez=|Tepe-=|Yavuz Kaldırım Yayla=|Yengi Güney=|Çatma=|Çavuşlu Cami=|Çavuşlu=|Çavuşlu Orta=|Çilingirli=
+157207	İlyaslı Mah.	Alt Kıran=|Bektaşlı=|Bıyıklılar=|Eyüboğlu 1=|Gülbahar=|Kıranköy Kıran=|Rona Dere=|Salmanlı=|Tosunlu=|Yukarı Kıran=|İlyaslı Yayla=
+157209	İshaklı Mah.	Garbetli=|Karkaçlı=|Okul=|Rıdvanlı Raşı=|Sinanlı 1=|Sinanlı=|İshaklı Cami=
+157233	Şenocak Mah.	Tatarlı 1=|Tatarlı=|Topallı=|Tuhli=|Yukarı Mezere=|Şenocak Dere=|Şenocak Orta=

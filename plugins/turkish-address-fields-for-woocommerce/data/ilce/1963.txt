@@ -1,0 +1,22 @@
+23587	Alpsarı Köyü	Alpsarı=
+23583	Buğay Köyü	Buğay=
+20271	Büyük Mah.	15 Temmuz İstiklal@|Akçay~|Akçay/1~|Akçay/2~|Atabey=|Bahçe İçi Kışlaları=|Balbay@|Belediye@|Belediye/1~|Belediye/2~|Bilgiç~|Bilgiç/1~|Göktaş~|Göktaş/1~|Güney~|Güney/1~|Keskin~|Kurşunlu@|Kurşunlu/12~|Kurşunlu/14~|Kurşunlu/20~|Kurşunlu/21~|Kurşunlu/23~|Kurşunlu/24~|Kurşunlu/25~|Kurşunlu/25/1~|Kurşunlu/25/2~|Kurşunlu/25/4~|Kurşunlu/26~|Kurşunlu/27~|Kurşunlu/28~|Kurşunlu/29~|Kurşunlu/7~|Kurşunlu/8~|Mitik~|Mitik/1~|Okul@|Okul/1~|Okul/12~|Okul/2~|Okul/3~|Okul/4~|Okul/5~|Okul/6~|Okul/7~|Okul/8~|Osb - A.@|Osb - B.@|Osb - C.@|Osb - D.@|Osb - E.@|Osb - F.@|Osb - G.@|Osb Dilaver Balbay%|Osb G/1~|Osb Nevzat Ayaz%|Oğuz@|Oğuz/1~|Oğuz/2~|Park~|Sanayii@|Sanayii/1~|Sanayii/2~|Çankırı Şosesi=|Öğdü~|Şimşek~|Şimşek/1~|Şimşek/2~
+20274	Büyükosb Mah.	101.@|102.@|103.@|201.@|202.@|203.@|301.@|302.@|303.@|401.@|402.@|403.@|500.@|Dilaver Balbay%|Nevzat Ayaz%
+23585	Dikenli Köyü, Batıbeli Mevkii	Batıbeli=
+23586	Dikenli Köyü, Merkez Mevkii	Dikenli=
+20272	Doğu Mah.	15 Temmuz İstiklal@|15 Temmuz İstiklal/1~|15 Temmuz İstiklal/10~|15 Temmuz İstiklal/12~|15 Temmuz İstiklal/2~|15 Temmuz İstiklal/3~|15 Temmuz İstiklal/4~|15 Temmuz İstiklal/5~|15 Temmuz İstiklal/6~|15 Temmuz İstiklal/7~|15 Temmuz İstiklal/8~|15 Temmuz İstiklal/9~|Ayhan~|Bahçe İçi Kışlaları=|Baraj=|Belediye@|Ceylan~|Deniz@|Doğru~|Doğru/1~|Emre~|Esliğin Yaylalar=|Eti~|Karabulut~|Karaman~|Kerçin@|Koçak~|Kurşunlu@|Pınar~|Selçuk~|Sep=|Sufan~|Yukarı Yaylalar=|Zafer@|Zafer/1~|Zafer/2~|Zafer/3~|Çankırı Şosesi=|Örengül~|Öz~|Şahin~|Şht. J. Onb Hakan Işık@|Şht. J. Onb Hakan Işık/1~|Şht. J. Onb Hakan Işık/2~|Şht. J. Onb Hakan Işık/3~|Şht.j.er Latif Aşıkmuslu@
+23599	Hıcıp Köyü	Hıcıp=
+23600	Hıcıp Köyü, Yolkaya Yaylası Yayla Evleri	Yolkaya Yaylası=
+23588	Ildızım Köyü	Ildızım=|Ildızım Yaylası=
+23589	Ildızım Köyü, Ildızım Yaylası Yayla Evleri	Ildızım Yaylası=
+23591	Karatekin Köyü	Karatekin=|Sarıtarla=
+23593	Kayıçivi Köyü	Kayıçivi=
+23594	Kesecik Köyü	Kesecik=
+23595	Maruf Köyü	Maruf=
+23598	Maruf Köyü, Ikın Yaylası Yayla Evleri	Ikın Yaylası=
+23596	Maruf Köyü, Kaş Yayla Yayla Evleri	Kaş Yayla=
+23597	Maruf Köyü, Sanı Yaylası Yayla Evleri	Sanı Yaylası=
+20273	Uludağ Mah.	Ali Koçyiğit~|Belediye@|Belediye/10~|Belediye/6~|Belediye/7~|Belediye/8~|Belediye/9~|Belediye/9/1~|Efe~|Eser~|Eser/1~|Eser/1/1~|Gökdemir~|Kartal@|Kartal/1~|Kartal/2~|Kartal/2/1~|Kartal/3~|Kartal/3/1~|Kartal/4~|Kaymak~|Kaymak/1~|Kaymak/1/1~|Koru Kent@|Koru Kent/1~|Kurşunlu@|Kurşunlu/10/1~|Kurşunlu/11~|Kurşunlu/13~|Kurşunlu/14~|Kurşunlu/2~|Kurşunlu/3~|Kurşunlu/3/1~|Kurşunlu/4~|Kurşunlu/5~|Kurşunlu/6/1~|Kurşunlu/6/2~|Kurşunlu/9~|Oluk=|Osman Bekel~|Osman Bekel/1~|Pınar/2~|Pınar/3~|Samsa~|Sipahi~|Söğütlü Kavakdibi Kışlası=|Söğütlü Kavakdibi Kışlası/1=|Tepe~|Tepe/1~|Tepe/2~|Tepe/2/1~|Tepe/3~|Tepe/4~|Çocuk Evleri@|Çocuk Evleri/1~|Çocuk Evleri/1/2~|Çocuk Evleri/1/3~|Çocuk Evleri/1/4~|Çocuk Evleri/2~|Ünlü@|Ünlü/1~|Ünlü/1/1~|Ünlü/3~|Ünlü/3/1~|Ünlü/3/2~|Ünlü/3/3~|Ünlü/4~|Ünlü/5~|Ünlü/6~|Şht.t.onb.muharrem Öztürk@|Şht.t.onb.muharrem Öztürk/1~|Şht.t.onb.muharrem Öztürk/1/1~|Şht.t.onb.muharrem Öztürk/1/2~|Şht.t.onb.muharrem Öztürk/1/3~|Şht.t.onb.muharrem Öztürk/1/3/1~|Şht.t.onb.muharrem Öztürk/1/4~|Şht.t.onb.muharrem Öztürk/1/5~|Şht.t.onb.muharrem Öztürk/2~|Şht.t.onb.muharrem Öztürk/6~
+23584	Çukurören Köyü	Çukurören=
+23590	İkiçam Köyü	İkiçam=
+23592	Şıhlar Köyü	Şıhlar=

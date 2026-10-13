@@ -1,0 +1,26 @@
+190991	Akköprü Mah.	Akköprü=
+30252	Ata Mah.	302~|304~|306~|308~|310~|316~|318~|320~|322~|324~|332~|Bozan Geçidi Mevkii=|Nedim Sarı@|Tepebaşı@|İstasyon@
+190993	Aşağıdudaş Mah.	Aşağıdudaş=
+190995	Aşağıiğdeağacı Mah.	Aşağıiğdeağacı=
+190997	Doğanoğlu Mah.	Doğanoğlu=
+190999	Doğray Mah.	Doğray=
+191001	Emircik Mah.	Emircik=
+191003	Gökçeayva Mah.	Gökçeayva=
+191005	Halilbağı Mah.	Halilbağı=
+30253	Köprübaşı Mah.	1~|11~|12~|16~|2~|2.aralık~|22~|3~|4~|5~|6~|7~|8~|9~|Bük Mevkii=|Eskişehir Yolu~|Kesteldere Maden=|Kum Ocağı Şantiyesi=|Porsuk@|Tunalı 1@|Çeltik Mevkii=|İlkokul@|İnönü@|İpekyolu Aralığı~|İpekyolu@
+197051	Köprübaşı Osb Mah.	1.cadde@|10.cadde@|2.cadde@|3.cadde@|4.cadde@|5.cadde@|6.cadde@|7.cadde@|8.cadde@|9.cadde@
+191011	Kızılcaören Mah.	Kızılcaören=
+191013	Okçu Mah.	Okçu=
+191015	Parsıbey Mah.	Parsıbey=
+190989	Rahmiye Mah.	Rahmiye=
+191017	Sultaniye Mah.	Sultaniye=
+191019	Süleymaniye Mah.	Süleymaniye=
+191021	Uzunburun Mah.	Uzunburun=
+191023	Yalınlı Mah.	Yalınlı=
+30255	Yeni Mah.	101~|103~|104~|105~|106~|107~|108~|109~|11~|110~|112~|114~|116~|118~|120~|22~|Aşağıgöl Mevkii=|Porsuk@|Sadettin Anıl@|Tunalı 1@|Tunalı 2@|Yukarıgöl Mevkii=|İlkokul@|İnönü@|İpekyolu@
+191025	Yeniyurt Mah.	Yeniyurt=
+191027	Yukarıdudaş Mah.	Yukarıdudaş=
+191029	Yukarıiğdeağacı Mah.	Yukarıiğdeağacı=
+30256	Yunus Emre Mah.	116~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|217~|218~|219~|221~|223~|225~|227~|229~|231~|233~|235~|237~|243~|245~|246~|Baraj Şantiyesi=|Bağlar@|Esentepe@|Kötü Çayır Mevkii=|Nedim Sarı@|Porsuk@|Tepebaşı@|Tunalı 2@|Yunus Emre@|İlkokul@|İstasyon@|İstiklal@
+191007	İkipınar Mah.	İkipınar=
+191009	İmikler Mah.	İmikler=

@@ -1,0 +1,50 @@
+183190	15 Temmuz Mah.	393~|398~|399~|399/1~|407~|408~|409~|410~|412~|413~|414~|415~|416~|417~|418~|419~|420~|440~|Akrepli Caddesı@|Bilinmeyen 10~|Bilinmeyen 11~|Bilinmeyen 12~|Bilinmeyen 14~|Bilinmeyen 15~|Bilinmeyen 16~|Bilinmeyen 17~|Bilinmeyen 18~|Bilinmeyen 19~|Bilinmeyen 20~|Bilinmeyen 21~|Bilinmeyen 23~|Bilinmeyen 24~|Bilinmeyen 25~|Bilinmeyen 26~|Bilinmeyen 27~|Bilinmeyen 28~|Bilinmeyen 29~|Bilinmeyen 31~|Bilinmeyen 32~|Bilinmeyen 33~|Bilinmeyen 34~|Bilinmeyen 35~|Bilinmeyen 36~|Bilinmeyen 37~|Bilinmeyen 38~|Bilinmeyen 39~|Bilinmeyen 40~|Bilinmeyen 41~|Bilinmeyen 42~|Bilinmeyen 43~|Bilinmeyen 45~|Bilinmeyen 46~|Bilinmeyen 47~|Bilinmeyen 48~|Bilinmeyen 49~|Bilinmeyen 50~|Bilinmeyen 51~|Bilinmeyen 52~|Bilinmeyen 7~|Bilinmeyen 8~|Bilinmeyen 9~|Bilinmiyor 53~|D=|E=|Eyyüp Cenap Gülpınar Caddesı@|F 1=|Muhsin Yazıcıoğlu Caddesı@|Necmettin Cevheri Caddesı@|Sultan Abdulhamit Han Caddesı@|Viranşehir Caddesı@|Şehit Seydo Kahraman Caddesı@
+80364	Adnan Menderes Mah.	100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|122_1~|123~|61~|95~|96~|97~|98~|99~|99_1~|Emniyet Caddesı@|Gazi Caddesı@|Merkez Caddesı@|Yavuz Sultan Selim Caddesı@|Şehit Fethi Sekin Caddesı@
+174249	Akbulut Mah.	Akbulut=|Çamlık=
+174309	Aktepe Mah.	Aktepe=|Yenice14~
+174251	Alaca Mah.	Alaca=
+174313	Altınköy Mah.	Altınköy=
+174261	Avcılı Mah.	Avcılı=
+174265	Aydoğdu Mah.	Aydoğdu=|Gültepe=
+174263	Aydın Mah.	Aydın=
+174253	Aşağıdoruklu Mah.	Aşağıdoruklu=|Paşatepesi=
+174255	Aşağıdurmuş Mah.	Aşağıdurmuş=
+174257	Aşağıkarataş Mah.	Aşağıkarataş=
+80361	Bahçelievler Mah.	232~|246~|247~|248~|249~|250~|251~|252~|253~|254~|254/1~|255~|256~|257~|258~|259~|260~|261~|262~|263~|264~|264/1~|264/bahçelievler~|265~|266~|267~|268~|270~|271~|272~|273~|274~|275~|276~|277~|278~|279~|280~|281~|282~|283~|284-~|369-~|369/1~|5053-~|A~|B~|Bahçelievler /5~|Bahçelievler/1~|Bahçelievler/10~|Bahçelievler/11~|Bahçelievler/12~|Bahçelievler/13~|Bahçelievler/14~|Bahçelievler/15~|Bahçelievler/16~|Bahçelievler/17~|Bahçelievler/18~|Bahçelievler/19~|Bahçelievler/2~|Bahçelievler/20~|Bahçelievler/21~|Bahçelievler/22~|Bahçelievler/23~|Bahçelievler/24~|Bahçelievler/25~|Bahçelievler/26~|Bahçelievler/27~|Bahçelievler/28~|Bahçelievler/29~|Bahçelievler/3~|Bahçelievler/30~|Bahçelievler/31~|Bahçelievler/32~|Bahçelievler/33~|Bahçelievler/34~|Bahçelievler/35~|Bahçelievler/36~|Bahçelievler/37~|Bahçelievler/38~|Bahçelievler/39~|Bahçelievler/4~|Bahçelievler/40~|Bahçelievler/41~|Bahçelievler/42~|Bahçelievler/43~|Bahçelievler/44~|Bahçelievler/45~|Bahçelievler/46~|Bahçelievler/47~|Bahçelievler/48~|Bahçelievler/49~|Bahçelievler/50~|Bahçelievler/51~|Bahçelievler/52~|Bahçelievler/53~|Bahçelievler/54~|Bahçelievler/55~|Bahçelievler/56~|Bahçelievler/57~|Bahçelievler/58~|Bahçelievler/59~|Bahçelievler/6~|Bahçelievler/60~|Bahçelievler/61~|Bahçelievler/62~|Bahçelievler/63~|Bahçelievler/64~|Bahçelievler/65~|Bahçelievler/66~|Bahçelievler/67~|Bahçelievler/68~|Bahçelievler/69~|Bahçelievler/7~|Bahçelievler/70~|Bahçelievler/71~|Bahçelievler/72~|Bahçelievler/73~|Bahçelievler/74~|Bahçelievler/75~|Bahçelievler/76~|Bahçelievler/77~|Bahçelievler/78~|Bahçelievler/79~|Bahçelievler/8~|Bahçelievler/80~|Bahçelievler/81~|Bahçelievler/82~|Bahçelievler/83~|Bahçelievler/84~|Bahçelievler/85~|Bahçelievler/86~|Bahçelievler/87~|Bahçelievler/9~|C~|Gazi Caddesı@|Prof.dr.necmettin Erbekan Caddesı-@|Urfa Kapı Caddesı@|Şaabin Caddesı@|Şehit Fethi Sekin Caddesı@|Şehit Yarbay Songül Yakut Caddesı@|Şht Polis Memuru Feyyaz Yumuşak@|Şht Polis Memuru Okan Acar@
+174267	Boğalı Mah.	Boğalı=
+174269	Büyükyenice Mah.	Büyükyenice=|Küçükyenice=|Yenice1~|Yenice10~|Yenice11~|Yenice12~|Yenice13~|Yenice14~|Yenice15~|Yenice16~|Yenice2~|Yenice3~|Yenice4~|Yenice6~|Yenice7~|Yenice8~|Yenice9~
+174431	Büyükyıldız Mah.	Aslan-~|Beyaz Gül=|Büyükyıldız=|Dereköy=|Selman-~
+173133	Büyükçaylı Mah.	2.grup-=|Aş. Sütlüce-~|By. Tatlıca=|Büyükçaylı Küme Ev=|Büyükçaylı=|Gellegöç=|Gole-=|Hamik Göçerleri=|Kuzey Küme Evler=|Kç. Tatlıca=|Kç. Çaylı=|Serte-=|Sufra=|Şanlı=
+174271	Ceylan Mah.	Aşağıesence=|Ceylan=
+80362	Cumhuriyet Mah.	158.~|366~|367~|368~|371~|372~|373~|374~|375~|376~|376/1~|377~|378~|379~|380~|381~|382~|383~|383/1~|383/2~|383/3~|383/4~|383/5~|384~|385~|386~|387~|388~|389~|389/1~|390~|391~|392~|392/1~|393~|394~|395~|396~|400~|401~|402~|403~|404~|405~|406~|F=|Muhsin Yazıcıoğlu Caddesı@|Muhsin Yazıcıoğlu/1~|Muhsin Yazıcıoğlu/2~|Stat Caddesı@|Sultan Abdulhamit Han Caddesı@|Sultan Süleyman Han Caddesı@|Sultan Süleyman Han/1~|Sultan Süleyman Han/2~|Sultan Süleyman Han/3~|Viranşehir Caddesı@
+174273	Damlacık Mah.	Aşağıpolat=|Damlacık=|Esentepe=|Kırıktaş=|Yukarıpolat=
+174275	Dikili Mah.	Aşağıdikili=|Dikili=|Yenice12~|Yenice13~
+174277	Düzova Mah.	Düzova=
+80359	Ensar Mah.	285~|286~|287~|288~|289~|290~|291~|292~|293~|294~|295~|296~|297~|298~|299~|300~|301~|301/1~|302~|303~|304~|305~|306~|307~|322~|323~|324~|325~|326~|327~|328~|329~|331~|333~|334~|335~|336~|337~|338~|339~|340~|341~|342~|343~|344~|345~|346~|347~|357~|358~|359~|360~|Arbit-=|Bayat-=|Beyaz Kule-=|Celeyl-=|Cıssıh-=|Cıveyn-=|Gazi Caddesı@|Hamidaş-=|Hırbetes-=|Hızeyl-=|Kartal=|Keserelevset-=|Mungelan-=|Ofa-=|Sukna-=|Viranşehir Caddesı@|Şaabin Caddesı@|Şehami-=|Şehit Tümgeneral Aydoğan Aydın Caddesı@|Şehit Yasin Börü Caddesı@|Şehit Ömer Halis Demir Caddesı@|Şibli-=
+100430	Fatih Sultan Mehmet Mah.	307~|308~|309~|310~|311~|312~|313~|314~|315~|315/1~|316~|317~|318~|319~|320~|332~|339~|347~|348~|349~|350~|351~|352~|353~|354~|355~|356~|357~|361~|361/1~|362~|363~|364~|365~|Bahçelievler/66~|Fatih Sultan Mehmet/1~|Fatih Sultan Mehmet/10~|Fatih Sultan Mehmet/11~|Fatih Sultan Mehmet/12~|Fatih Sultan Mehmet/13~|Fatih Sultan Mehmet/14~|Fatih Sultan Mehmet/15~|Fatih Sultan Mehmet/16~|Fatih Sultan Mehmet/17~|Fatih Sultan Mehmet/2~|Fatih Sultan Mehmet/4~|Fatih Sultan Mehmet/5~|Fatih Sultan Mehmet/6~|Fatih Sultan Mehmet/7~|Fatih Sultan Mehmet/8~|Fatih Sultan Mehmet/9~|G~|Toki=|Urfa Kapı Caddesı@|Viranşehir Caddesı@|Şaabin Caddesı@|Şht Polis Memuru Feyyaz Yumuşak@
+174259	Gültepe Mah.	Gültepe=
+174281	Gümüş Mah.	Aşağıçekirge=|Budak Küme Evleri-=|Gümüş=|Yukarıçekirge=
+174283	Han Mah.	Han=|Tepe=
+174285	Işıklar Mah.	Aydın Küme Evleri=|Işıklar=
+174287	Maden Mah.	Maden=
+80365	Mehmet Akif Ersoy Mah.	156~|157~|158.~|159~|160~|161~|162~|163~|164~|165~|166~|167~|168.-~|169~|170~|171~|172~|173~|174~|175~|177~|178~|179~|180~|181~|182~|182/1~|183~|368~|Stat Caddesı@|Sultan Süleyman Han Caddesı@|Sultan Süleyman Han/1~|Sultan Süleyman Han/3~|Sultan Süleyman Han/4~|Viranşehir Caddesı@
+80366	Mevlana Mah.	1~|10-~|1006.-~|12~|13~|13/mevlana~|14~|15~|16~|17~|18-~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|3~|4~|5~|6~|6-~|7~|8~|9~|Emniyet Caddesı@|Mevlana 1~|Mevlana 3~|Mevlana 4~|Mevlana 5~|İstasyon Caddesı@|Şehit Kaymakam M.fatih Safitürk Caddesı 1@|Şehit Kaymakam M.fatih Safitürk Caddesı@
+174289	Muratlı Mah.	Alev Evleri=|Muratlı=|Yenice14~|Zorova=
+174291	Saraççeşme Mah.	Boncuklu=|Saraççeşme=|Tepe=|Şabana=
+80363	Selahaddin Eyyübi Mah.	109~|54~|56-~|57~|58~|59~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|70~|71~|72~|73~|74~|75~|75/1~|76~|77~|78~|79~|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|90~|91~|92~|93~|94~|Emniyet Caddesı@|H Küme Evleri-=|Urfa Kapı Caddesı@|Yavuz Sultan Selim Caddesı@|Yeniyol~|Şehit Fethi Sekin /1~|Şehit Fethi Sekin Caddesı@|Şehit Ümit Yolcu Caddesı@
+80360	Seydo Atilla Mah.	134~|184~|185~|186~|187~|187_1~|188~|189~|190~|191~|192~|193~|194~|195~|196~|197~|198~|199~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|Gazi Caddesı@|Viranşehir Caddesı@|Şehit Tümgeneral Aydoğan Aydın Caddesı@|Şehit Ömer Halis Demir Caddesı@
+174293	Tekinler Mah.	Tekinler=
+80368	Turgut Özal Mah.	221~|222~|223~|224~|225~|226~|227~|228~|229~|230~|231~|232~|232/1~|233~|234~|235~|236~|237~|238~|239~|240~|241~|242~|243~|243/1~|244~|245~|Gazi Caddesı@|Şehit Fethi Sekin Caddesı@
+80367	Ulucami Mah.	124~|124-~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|14~|140~|141~|142~|143~|144~|145~|145-~|146~|147~|148-~|149~|15 Temmuz Demokrasi Caddesı@|150~|151~|152~|153~|154~|155~|831~|Gazi Caddesı@|Merkez Caddesı@|Viranşehir Caddesı@|Yenıyol1~|İstasyon@|Şehit Kaymakam M.fatih Safitürk Caddesı 1@|Şehit Kaymakam M.fatih Safitürk Caddesı@|Şehit Ömer Halis Demir Caddesı@
+174295	Yalçınkaya Mah.	Yalçınkaya=
+174297	Yeniköy Mah.	Yeniköy=
+80369	Yenişehir Mah.	29~|30~|32~|33~|34~|35~|36~|37~|38~|39~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|50~|51~|52~|53~|54~|55~|Akrepli Caddesı@|Başbakanlık Afad Ceylanpınar Konaklama Tesisleri-=|Bilinmeyen@|Emniyet Caddesı@|Gümüşsu=|Seyfullah Hacımütfüoğlu@|Sufra=|Tigem Merkez İşletmesi 1=|Tigem Merkez İşletmesi=|Tüğem(sayarlı)-1-=|Viranşehir Caddesı@|Viranşehir Caddesı/1@|Yavuz Sultan Selim Caddesı@|Yenişehir 3=|Yenişehir 4=|Yenişehir 5=|Yenişehir/1~|Yenişehir/1.=|Özbek Tarlası~|Şehit Ümit Yolcu Caddesı@
+174299	Yeşiltepe Mah.	Yeşiltepe=
+174317	Yoncalı Mah.	Köyün Kendisi=
+174301	Yukarıdoruklu Mah.	Yukarıdoruklu=
+174303	Yukarıdurmuş Mah.	Yukarıdurmuş=
+174315	Yukarıesence Mah.	Yukarıesence=
+174305	Yukarıkarataş Mah.	Beyaztaş=|Yukarıkarataş=
+174307	Yukarıtaşlıdere Mah.	Aşağıtaşlıdere=|Yukarıtaşlıdere=
+174311	Yüksektepe Mah.	Yüksektepe=
+174279	Özbek Mah.	Başbakanlık Afad Viranşehir Konaklama Tesisleri-=|Ceylanpınar Viranşehir-%|Küçük Sanayi Sitesi~|Küçük Sanayi Sitesi/1~|Küçük Sanayi Sitesi/10~|Küçük Sanayi Sitesi/11~|Küçük Sanayi Sitesi/2~|Küçük Sanayi Sitesi/3~|Küçük Sanayi Sitesi/4~|Küçük Sanayi Sitesi/5~|Küçük Sanayi Sitesi/6~|Küçük Sanayi Sitesi/7~|Küçük Sanayi Sitesi/8~|Küçük Sanayi Sitesi/9~|Viranşehir Caddesı@|Özbek~|Özbek Tarlası-~|Özbek/1.~|Özbek/10.~|Özbek/11.~|Özbek/12~|Özbek/13~|Özbek/14~|Özbek/14.~|Özbek/15.~|Özbek/16.~|Özbek/17.~|Özbek/18.~|Özbek/19.~|Özbek/2.~|Özbek/20.~|Özbek/21.~|Özbek/22.~|Özbek/23.~|Özbek/24.~|Özbek/25.~|Özbek/26.~|Özbek/27.~|Özbek/28.~|Özbek/3.~|Özbek/4.~|Özbek/5.~|Özbek/6.~|Özbek/7.~|Özbek/8.~|Özbek/9.~

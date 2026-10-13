@@ -1,0 +1,43 @@
+183539	Aktaş Mah.	Aktaş~|Kocaçayır~
+183537	Akçasaz Mah.	Akçasaz~
+11335	Armutçuk Mah.	Akpınar@|Büyükorhan@|Cami Myd.|Okul@|Osmandede@
+183605	Bademlik Mah.	Veletler~|Çökene~
+183541	Balaban Mah.	Balaban~
+183543	Bayındır Mah.	Bayındır~
+183545	Burunca Mah.	Burunca~
+11331	Cumhuriyet Mah.	Ali Sarkıç@|Atatürk@|Bursa Yolu@|Cami~|Cumapazarı=|Cumhuriyet@|Cumhuriyet Myd.|Mustafa Sevim@|Zafer@
+183551	Danacılar Mah.	Danacılar~
+183553	Danaçalı Mah.	Danaçalı~
+183555	Demirler Mah.	Aşağı~|Yukarı~
+183557	Derecik Mah.	Derecik~
+183559	Durhasan Mah.	Durhasan~|Küçükçam Kümeevleri=
+183561	Düğüncüler Mah.	Düğüncüler~|Kaplıca Küme Evleri=|Kiraz~
+183563	Elekçalı Mah.	Elekçalı~
+183565	Ericek Mah.	Ericek~
+183567	Gedikler Mah.	Gedikler~
+183569	Geynik Mah.	Geynik~|Kökez~
+183571	Hacıahmetler Mah.	Hacıahmetler~
+183573	Hacılar Mah.	Hacılar~
+183575	Hemşeriler Mah.	Hemşeriler~
+11333	Hocahasan Mah.	Belediye Myd.|Büyükorhan Belediyesi Şehitler Myd.|Deredibi~|Esentepe=|Hamitler=|Pehlivan~|Turan~|Ulu@|Çeşme~|İlhan~|Şehit Ramazan Aktay@
+183577	Karaağız Mah.	Karaağız~
+183581	Karalar Mah.	Karalar~
+183579	Karaçukur Mah.	Karaçukur~
+183583	Kayapa Mah.	Kayapa~
+183585	Kuşlar Mah.	Kuşlar~
+183535	Kınık Mah.	1.küme Evler=|A Bir~|A Üç~|A İki~|Atatürk@|Emin Menteş@|F Bir~|F Küme=|Fevzi Çakmak@|K.bir~|K.iki~|Kazım Karabekir@|İ 1 Küme=|İ Bir~|İ Çavuş~|İ Üç~|İ İki~|İnönü@
+183587	Mazlumlar Mah.	Mazlumlar~
+11334	Orhan Mah.	Aşıklar@|Belpınar~|Cuma Pazarı=|Cumhuriyet@|Dağlık Karabağ@|Dr.ibrahim Öktem@|Dursunbey@|Eskiköy=|Fevzi Paşa@|Kargalar=|Kazım Paşa@|Kemalpaşa@|Kiraz~|Manolya~|Orhan~|Osmancık~|Osmangazi@|Pınar@|Pınar~|Yumru Kaya=|İsmetpaşa@|Şehit Emin Sevim@
+183589	Osmanlar Mah.	Osmanlar 1~|Osmanlar~
+183595	Perçin Mah.	Perçin~
+183599	Pirebeyler Mah.	Pirebeyler 1~|Pirebeyler~|İstasyon~
+183597	Pınarköy Mah.	Pınarköy~
+183601	Sarnıç Mah.	Sarnıç~
+183603	Tekerler Mah.	Tekerler~
+183607	Yenice Mah.	Yenice~
+183609	Zaferiye Mah.	Zaferiye~
+183547	Çakıryenice Mah.	Çakıryenice~
+183549	Çeribaşı Mah.	Çeribaşı~
+183591	Örencik Mah.	Örencik~
+183593	Özlüce Mah.	Özlüce~
+11336	İsmetiye Mah.	Bursa@|Cami Myd.|Okul@|Orhangazi@

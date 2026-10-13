@@ -1,0 +1,33 @@
+80601	Adnan Menderes Mah.	Bilgin~|Dağ Çıkmazı~|Hazine~|Hazine/1~|Hazine/2~|Köprü~|Maraşal Fevzi Çakmak@|Maraşal Fevzi Çakmak/1~|Maraşal Fevzi Çakmak/222@|Maraşal Fevzi Çakmak/3~|Meydan~|Sultan~|Zümrüt 1. Çıkmaz~|Zümrüt~|Çılga/1~|İpek~
+159005	Akçabük Mah.	Akçabük=|Değirmen~|Değirmen/1~|Değirmen/2~|Duldalık~|Ekenek~|Emi~|Horis~|Sivritepe~|Übeyit~|Übeyit/1~
+159007	Alacayar Mah.	Alacayar=|Aşağı=|Baltacı~|Gürağaç/1~|Karakavak~|Tellikaya=|Yukarı~|Çemik~|Çemik1~
+159043	Atlıhan Mah.	Alakaynak=|Büyükağaç=|Kavaklıdere=|Kenarköy=
+159003	Ağaçlık Mah.	Ağaçlık=|Saygın=
+159009	Aşağınarlıca Mah.	Aşağınarlıca=
+80602	Bahçelievler Mah.	Alaçam=|Atikler-=|Atikler/bahçelievler~|Atikler/bahçelievler/1~|Bahçıvan~|Bahçıvan/1~|Bahçıvan/2~|Bahçıvan/3~|Gönül~|Gönül/1~|Karanfil~|Memur Evleri.~|Memur Evleri.-~|Memur Evleri/1~|Memur Evleri/2~|Memur Evleri/3~|Yeni~
+159011	Bilgi Mah.	Bilgi=|Üçüzler~|Üçüzler/1~
+159013	Boyunpınar Mah.	Ağaçlık=|Boyunpınar=
+80603	Cumhuriyet Mah.	Akıncılar~|Aras@|Atatürk@|Atatürk/1~|Dostgül~|Dostgül/1~|Dostgül/2~|Dostgül/3~|Dostgül/4~|Dostgül/5~|Kale~|Kale/1~|Karanfil~|Köprü~|Maraşal Fevzi Çakmak@|Maraşal Fevzi Çakmak/2~|Memur Evleri.~|Taşköprü=
+159055	Dalbastı Mah.	Dalbastı=
+159017	Derebaşı Mah.	Boyunpınar=|Derebaşı=
+159045	Dokuzdam Mah.	Alantaş~|Armağan~|Armağan/1~|Dokuzdam~|Dönemeç~|Yolgeçen~|Yolgeçen/1~|Yukarı Kuşak~|Şahinbaş~|Şahinbaş T1~|Şahinbaş/1~|Şıvgınlı=|Şıvgınlı/1~
+159019	Eliaçık Mah.	Eliaçık=|Görentaş/1~|Gürağaç~|Gürağaç/1~|Sarıgöz=|Yenimahale~
+159021	Görentaş Mah.	Ağaçlık=|Derebaşı=|Görentaş=|Görentaş/1~|Onağıl=|Yapılı=
+80604	Hacıosman Mah.	Gönül/1~|Menekşe=|Şahin=
+159023	Işınlı Mah.	Elmacı~|Işınlı~|Kirazlı~|Kirazlı/1~|Yenimahale~
+80605	Karşıyaka Mah.	1. Aşağı=|1. Yukarı~|Ağaçköprü=|Değirmen~|Karanfil~|Karanfil/1~|Karanfil/2~|Orta~|Taşaltı~
+159025	Kaçıt Mah.	Dalbastı=|Kaçıt=|Sak=
+159047	Konalga Mah.	Andiçen=|Konalga=|Konalga/1~|Mevki~|Taşdibek~|Şıvgınlı=|Şıvgınlı/1~
+159027	Korulu Mah.	Albucak~|Albucak/1~|Albucak/2~|Albucak/3~|Gelenler~|Gökçedal~|Korulu~|Korulu/1~|Sak=|Sığırcık~|Yuvalıçam=|Çılga/1~|Övenler~|Övenler/1~
+159041	Narlı Mah.	Budaklı~|Budaklı/1~|Kolaçka~|Kolaçka/1~|Kovacık/2~|Narlı B.m~|Narlı B.m/1~|Narlı B.m/2~|Narlı B.m/3~|Narlı B.m/4~
+159029	Onağıl Mah.	Abalı Bilinmeyen~|Onağıl=
+80606	Selçuklu Mah.	Akıncılar~|Atatürk@|Beyoğlu-=|Beyoğlu/selçuklu=|Sözveren~
+159053	Sugeldi Mah.	Kovacık~|Kovacık/1~|Kovacık/2~|Kovacık/3~|Narlı B.m~|Narlı B.m/2~|Sugeldi~|Taşdibek~|Taşdibek/1~|Taşdibek/2~|Çevre~
+159031	Sözveren Mah.	Akıncılar~|Bahçivan~|Bahçıvan-~|Beyoğlu~|Beyoğlu/1~|Gürağaç/1~|Kirazlı~|Kirazlı/1~|Kirazlı/2~|Samanlı~|Sarp~|Sarp/1~|Sözveren~|Sözveren/1~|Sözveren/2~|Taşaltı~|Tüten~|Yaylaönü~|Çınardibi~
+159051	Sırmalı Mah.	Ardıçlı~|Ardıçlı/1~|Beğendik~|Beğendik/1~|Beğendik/2~|Beğendik/3~|Dursunlar~|Dursunlar/1~|Gelincik~|Kerimoğlu~|Küllüce~|Sırmalı~|Sırmalı/1~|Şahpur~|Şahpur/1~|Şahpur/2~
+159033	Teknecik Mah.	Saygın=|Teknecik=
+159035	Toyga Mah.	Atikler~|Dölek~|Samanlı~|Samanlı/1~|Toyga~|Toyga/1~|Tozkoparan~|Tozkoparan/1~|Tozkoparan/2~
+159037	Uzuntekne Mah.	Uzuntekne=|Yanköy~|İçimli~|İçimli/1~|İçimli/2~|İçimli/3~|İçimli/4~|İçimli/5~
+159039	Yukarınarlıca Mah.	Yukarınarlıca=
+159015	Çılga Mah.	Bağlan~|Bölmetaş~|Karadana~|Mersin~|Tozkoparan~|Çamlıca~|Çılga~|Çılga/1~
+159049	Övecek Mah.	Kıyıcak=|Urganlı~|Usanmaz=|Yeniköy~|Yeniköy/1~|Övecek~|Övecek.1=

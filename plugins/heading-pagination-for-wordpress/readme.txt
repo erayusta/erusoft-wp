@@ -1,0 +1,40 @@
+=== Heading Pagination for WordPress ===
+Contributors: erusoft
+Tags: pagination, headings, long posts, table of contents
+Requires at least: 6.5
+Tested up to: 7.1
+Requires PHP: 8.0
+Stable tag: 1.0.0
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Splits long posts into pages at a chosen heading level with a table of contents and prev/next links.
+
+== Description ==
+
+Splits long posts into pages at a chosen heading level (H2–H4) using WordPress's own pagination, adds a table of contents and prev/next links. Posts with too few headings or words are left untouched.
+
+The admin interface is in Turkish. Diğer Erusoft eklentileri: https://wordpress.erusoft.com
+
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`.
+2. Activate it.
+3. Configure it under its Settings screen.
+
+== Frequently Asked Questions ==
+
+= Does it send data anywhere by default? =
+No. It does not use any external service.
+
+== Screenshots ==
+
+1. Ayarlar
+2. Sayfa 2, masaüstü
+3. Sayfa 2, mobil
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial public release.

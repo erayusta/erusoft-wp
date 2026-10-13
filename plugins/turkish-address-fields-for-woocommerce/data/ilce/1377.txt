@@ -1,0 +1,139 @@
+38154	Akbulut Köyü	Köyün Kendisi=
+38155	Akbulut Köyü, Demirlimez Mezrası	Demirlimez=
+38156	Akbulut Köyü, Yumrukaya Mezrası	Köyün Kendisi=|Yumrukaya=
+38244	Akkuş Köyü, Köyün Kendisi Mevkii	Köyün Kendisi=
+38243	Akkuş Köyü, Çetintaş Mezrası	Çetıntas=
+99741	Aksu Köyü, Köyün Kendisi Mevkii	Aksu=
+38220	Akçalı Köyü, Eğercik Mezrası	Akcalı=|Egercik=
+38221	Akçalı Köyü, Kanatlı Mezrası	Akcalı=|Kanatlı=
+38219	Akçalı Köyü, Köyün Kendisi Mevkii	Köyün Kendısı=
+38222	Akçalı Köyü, Yeniyol Mezrası	Akçalı=|Asagı Kayacık=|Yağmurlu=|Yeniyol 1=
+38153	Ağaçdibi Köyü, Bahi Mezrası	Bahı=|Çukurca Yolu@
+38152	Ağaçdibi Köyü, Köyün Kendisi Mevkii	Agaçdıbı=
+197643	Aşağı Derecik Köyü	Köyün Kendisi=
+38174	Aşağı Derecik Köyü, 1.harput Mevkii	1.harput=
+38175	Aşağı Derecik Köyü, 2.harput Mevkii	2.harput=
+38177	Aşağı Derecik Köyü, Dez Mevkii	Dez=
+38172	Aşağı Derecik Köyü, Dikmen Mevkii	Dikmen=
+38180	Aşağı Derecik Köyü, Seranüs Mevkii	Seranüs=
+197647	Aşağı Derecik Köyü, Sulak Mevkii	Sulak=
+135438	Aşağı Derecik Köyü, Trafik Mevkii	Trafik=
+38179	Aşağı Derecik Köyü, Yukarı Derecik Mevkii	Yukarı Derecik=
+197645	Aşağı Derecik Köyü, Yüce Mevkii	Yüce=
+38157	Bayköy Köyü	Bayköy=
+30992	Bağlar Mah.	303~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|328~|329~|330~|331~|332~|333~|334~|335~|336~|337~|338~|339~|340~|341~|342~|343~|344~|345~|346@|347~|348~|349~|350~|Camıı@|Egıtım@|Merzan@|Sanayı@
+38214	Bağışlı Köyü, Aşağı Kayacık Mezrası	Asagı Kayacık=|Köyün Kendısı=|Yukarı Kayacık=
+38218	Bağışlı Köyü, Budaklı Mezrası	Budaklı=
+38213	Bağışlı Köyü, Köyün Kendisi Mevkii	Köyün Kendısı=
+38217	Bağışlı Köyü, Musahan Mezrası	Musahan=
+38215	Bağışlı Köyü, Oğulcul Mezrası	Musahan=|Ogulcul=
+38216	Bağışlı Köyü, Yukarı Kayacık Mezrası	Asagı Kayacık=|Yukarı Kayacık=
+31005	Berçelan Mah.	1304~|1305~|1307~|1308~|1309~|1310~|1311~|1312~|1313~|1314~|1315~|1316~|1317~|Berçelan@|Cezaevı@|Sümbül@|Zübeyde Hanım@
+30993	Biçer Mah.	704~|706~|707~|708~|711~|712~|713~|714~|715~|716~|717~|718~|Bayındırlık@|Gülüres Baba@|Hakkarı Van Bulvarı@|M.saıt Atay@|Sevgı@|Seyh M.selım@
+38224	Boybeyi Köyü	Köyün Kendısı=
+38223	Boybeyi Köyü, Boybeyi Mezrası	Boybeyi=
+38225	Boybeyi Köyü, Dikilitaş Mezrası	Dıkılıtas=
+38226	Boybeyi Köyü, Yeşilbulak Mezrası	Yesıl Bulak=
+30994	Bulak Mah.	1003~|1004~|1007~|1009~|1012~|1016~|1021~|1022~|1023~|1024~|1025~|1027~|1028~|1030~|1032~|1034~|1107~|1112~|1312~|1313~|1314~|Altay@|Atatürk@|Atlılar@|Av.cumhur Keskın@|Av.muhsın Zeydanoglu@|Bulvar@|Cumhurıyet 1~|Cumhurıyet 2~|Cumhurıyet@|Dervıs Yalım@|Ertuslar@|Fıdan Hanım@|Gençlık@|Hakkarı Van Bulvarı@|Istıklal@|Karayolları~|Kayacan@|Konak@|Mukaddes Akar~|Mühürdar@|Namık Erdogan@|Ordu@|Orman@|Otluca Tugay@|Pagan@|Sht.mehmet Ceyhan@|Sümbül@|Tslk~|Ulu Camı@|Zübeyde Hanım@
+38245	Cevizdibi Köyü, Mevkii	Köyün Kendısı=
+38161	Ceylanlı Köyü, Doğanlı Mevkii	Doganlı=
+100214	Ceylanlı Köyü, Gelinli Mevkii	Gelınlı=
+38159	Ceylanlı Köyü, Gipe Mevkii	Gıpe=
+38158	Ceylanlı Köyü, Mevkii	Ceylanlı=
+38160	Ceylanlı Köyü, Sütçüler Mevkii	Sütcüler=
+38162	Ceylanlı Köyü, Yığınlı Mevkii	Yıgınlı=
+30995	Dağgöl Mah.	508~|509~|510~|511~|512~|513~|514~|515~|517~|518~|519~|520~|521~|522~|523~|524~|525~|526~|527~|528~|529~|530~|531~|532~|602~|Ertuslar@|Fıdan Hanım@|Gençlık@|Hakkarı Van Bulvarı@|Hastane@|Pagan@|Saglık@|Sağlık-@|Serıf Aga~|Seyh M.selım@|Sht.selahattın@|Yıldız@
+38230	Demirtaş Köyü, Köyün Kendisi Mevkii	Köyün Kendisi=|Yağmurlu=
+38228	Demirtaş Köyü, Oluklu Mezrası	Oluklu=
+38229	Demirtaş Köyü, Yağmurlu Mezrası	Yağmurlu=
+38227	Demirtaş Köyü, Öğrencik Mezrası	Öğrencik=
+38234	Doğanyurt Köyü, Bağlar Mevkii	Doğanyurt=
+38232	Doğanyurt Köyü, Boğazlı Mevkii	Bogazlı=
+38231	Doğanyurt Köyü, Köyün Kendisi Mevkii	Doganyurt=
+38233	Doğanyurt Köyü, Su Ocağı Mevkii	Küçük Köşk=|Oluklu=|Su Ocagı=
+31011	Durankaya Beldesi, Bağlarbaşı Mah.	Altın Çesme=|Derebası=|Güvenir Hacelyan=|Keskınler=
+31009	Durankaya Beldesi, Biçenek Mah.	Keskınler=|Merkez Bıçenek=|Tarlabası=|Yaylacık=
+31007	Durankaya Beldesi, Cumhuriyet Mah.	Kasaltı=|Seylılan=|Yıldız=
+98957	Durankaya Beldesi, Köyiçi Mah.	Köy Içı=
+31008	Durankaya Beldesi, Pınarbaşı Mah.	Asagı Güvenır Belan=|Erıjyan=|Güvenir Hacelyan=|Köy Içı=|Mamüdan Tekın=|Pınarbası1=|Seylılan=|Yukarı Güvenır Belan=|Yılmazlar=
+31012	Durankaya Beldesi, Yeni Mah.	Budaklar=|Dagsu=|Gürbüz=|Karaman=|Yıldız=|Zeve=
+31010	Durankaya Beldesi, Çaylıca Mah.	Dagsu=|Güngören=|Molahüseyın=|Yenı Yol 1=|Zeve=
+38246	Elmacık Köyü, Mevkii	Elmacık=
+30996	Gazi Mah.	1032~|1104~|1105~|1106~|1107~|1108~|1109~|1110~|1111~|1112~|1113~|1114~|1115~|1116~|1117~|1118~|1119~|1120~|1121~|1122~|1123~|1124~|1125~|1126~|1127~|1128~|1402~|Anadolu@|Av.cumhur Keskın@|Av.muhsın Zeydanoglu@|Bulvar@|Gültekınler@|Onaylar@|Otluca@|Senler@|Sürme Hanım@|Çölemerık@|Özdemır~
+38167	Geçimli Köyü, Bahçeli Mevkii	Bahçeli=
+38168	Geçimli Köyü, İncir Mevkii	İncir=
+38242	Geçitli Köyü, Köyün Kendisi Mevkii	Gecıtlı=
+31006	Halife Derviş Mah.	602~|603~|604@|605~|606~|607~|608~|609~|610~|611~|614~|616~|Fıdan Hanım@|Hakkarı Van Bulvarı@|M.ubeydullah@|Seyh M.selım@
+100383	Işık Köyü, Köyün Kendisi Mevkii	Köyün Kendısı=
+100379	Işık Köyü, Tepecik Mevkii	Tepecık=
+38247	Işık Köyü, Yapraklı Mezrası	Yapraklı=
+38235	Işıklar Köyü	Köyün Kendisi=
+38236	Işıklar Köyü, Küçükköşk Mezrası	Küçük Köşk=
+38237	Işıklar Köyü, Çavuşlu Mezrası	Çavuşlu=
+38266	Kamışlı Köyü, Köyceyiz Mevkii	Köyceyiz=
+38267	Kamışlı Köyü, Merkez Mevkii	Kamıslı=
+31004	Karşıyaka Mah.	901~|902~|903~|904~|905~|907~|908~|910~|911~|912~|Merzan@|Otluca@|Otluca Tugay@|Pırodan@|Saglık@|Taslakyol49~|Ünıversıte@
+38255	Kavaklı Köyü, Armutlu Mezrası Mezrası	Armutlu=|Çeltik Mezrası=
+100209	Kavaklı Köyü, Köyün Kendisi Mevkii	Kavaklı=
+38256	Kavaklı Köyü, Çeltik Mezrası Mezrası	Çeltik Mezrası=
+38258	Kavalköy Köyü, Mevkii	Köyün Kendisi=
+38170	Kaymaklı Köyü, Koçlu Mezrası	Kaymaklı=|Koclu=
+38169	Kaymaklı Köyü, Köyün Kendisi Mevkii	Kaymaklı=
+38171	Kaymaklı Köyü, Sütlüce Mezrası	Kaymaklı=|Sütlüce=
+30997	Keklikpınar Mah.	1204~|1503~|1504~|1505~|1506~|1507~|1508~|1509~|1510~|1511~|1512~|1513~|1514~|1515~|Bayram Çallı@|Hakkari Van1~|Hakkarı Van Bulvarı@|Kampüs@|Pınarlar@|Örnek@
+38185	Konak Köyü, Zavite Mezrası	Aydınlık=
+38184	Konak Köyü, Zavite Mezrası Mezrası	Aydınlık=|Zavite Mezrası=|Çanaklı=
+30998	Kıran Mah.	1202~|1203~|1204~|1205~|1206~|1208~|1210~|1211~|1212~|1213~|1214~|1215~|Cezaevı@|Hakkarı Van Bulvarı@|Çallı@|Örnek@
+38173	Kırıkdağ Köyü, Aşağıkırbaşı Mevkii	Asağıkırbası=
+38176	Kırıkdağ Köyü, Dereşaban Mezrası	Dereşaban=
+38181	Kırıkdağ Köyü, Köyün Kendisi Mevkii	Köyün Kendısı=
+38182	Kırıkdağ Köyü, Rez Mevkii	Rez=
+38183	Kırıkdağ Köyü, Yeni Mevkii	Yenı=
+30999	Medrese Mah.	205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|718~|Bahadırlar@|Bayındırlık@|Gülüres Baba@|Hakkarı Van Bulvarı@|Hısas@|M.saıt Atay@|Sevgı@
+31000	Merzan Mah.	402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|414~|415~|417~|418~|419~|420~|421~|422~|423~|424~|425~|426~|427~|430~|432~|433~|434~|435~|436~|437~|438~|439~|440~|Emin~|Fırat@|Golazuryan@|Merzan@|Pırodan@|Sanayı@|Taslak12.~|Ünıversıte@
+38209	Olgunlar Köyü, Köyün Kendisi Mevkii	Köyün Kendisi=
+38212	Olgunlar Köyü, Stoka Mevkii	Stoka=
+38211	Olgunlar Köyü, Yeni Mevkii	Yeni=
+38210	Olgunlar Köyü, Yukarı Dereli Mevkii	Yukarı Derelı=
+38197	Otluca Köyü, Aşağı Otluca Mevkii	Asagı Otluca=|Dag Komkando Tugayı=|Sarıkaya=
+38200	Otluca Köyü, Dağ Komando Tugayı Mevkii	Dag Komkando Tugayı=
+38196	Otluca Köyü, Dereboyu Mevkii	Dereboyu=
+38195	Otluca Köyü, Güzel Mezrası	Güzel=
+38194	Otluca Köyü, Köprücük Mezrası	Köprücük=|Tümsek=
+38192	Otluca Köyü, Otlubel Mezrası	Otlubel=
+38199	Otluca Köyü, Otluca Dağ Komando Togayı Mezrası	Otluca Dag Komado Tugayı=
+38201	Otluca Köyü, Otluca Dağ Komkando Tugayı Mezrası	Dag Komkando Tugayı=
+38202	Otluca Köyü, Otlucaosb Mevkii	
+38193	Otluca Köyü, Sarıkaya Mezrası	Sarıkaya 1=|Sarıkaya=
+38198	Otluca Köyü, Tümsek Mevkii	Otluca Dag Komado Tugayı=|Tümsek=
+38190	Otluca Köyü, Uyanık Mezrası	Uyanık=|Yukarı Otluca=
+38191	Otluca Köyü, Yukarı Otluca Mevkii	Otlubel=|Yukarı Otluca Kontrol=
+100130	Oğul Köyü, Ağaçsız Mevkii	Ağaçsız=
+38189	Oğul Köyü, Dilek Mevkii	Dılek=
+38186	Oğul Köyü, Göze Mevkii	Göze=
+38188	Oğul Köyü, Ilıca Mevkii	Ilıca=
+38187	Oğul Köyü, Yeni Oğul Mevkii	Yeni Ogul=
+31001	Pehlivan Mah.	802~|803~|804~|805~|806~|807~|808~|809~|810~|811~|812~|813~|814~|815~|816~|817~|818~|819~|Bulvar@|Hakkarı Van Bulvarı@|Itfaıye@|Kayacan@|Musa Anter@|Mühürdar@|Otluca@|Saglık@|Sağlık-@|Senler@|Tslk~|Çölemerık@
+38262	Pınarca Köyü, Ayranlı Mezrası	Ayranlı=
+38260	Pınarca Köyü, Hendek Mezrası	Hendek=
+38259	Pınarca Köyü, Mevkii	Pınarca=
+38264	Pınarca Köyü, Oğurlu Mezrası	Ugurlu=
+38261	Pınarca Köyü, Sarıgül Mezrası	Sarı Gül=
+38265	Pınarca Köyü, Taşlıca Işık Mezrası	Taslıca Isık=|Yapraklı=
+38263	Pınarca Köyü, Yeniyol Mezrası	Yenı Yol=
+38241	Sarıtaş Köyü, Kürüm Mezrası	Köyün Kendısı=|Kürüm=
+38240	Sarıtaş Köyü, Musahan Mevkii	Musahan=
+38239	Sarıtaş Köyü, Sarıtaş Bağlısı Mevkii	Sarıtas Baglısı=|Sarıtaş=
+31003	Sümbül Mah.	103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|119~|120~|121~|122~|718~|Bayındırlık@|Depın@|Hakkarı Van Bulvarı@|Hısas@|Çukurca Yolu@
+38205	Taşbaşı Köyü, Mevkii	Köyün Kendisi=
+31002	Yeni Mah.	1127~|1402~|1403~|1404~|1405~|1406~|1407~|1408~|1409~|1410~|1411~|1412~|1414~|1416~|1417~|1418~|1422~|1424~|1426~|1428~|1430~|1434~|Gültekınler@|Otluca Tugay@|Sürme Hanım@
+99916	Yoncalı Köyü, Köyün Kendisi Mevkii	Yoncalı=|Yoncalı-~
+38163	Çaltıkoru Köyü	Kaymaklı=|Çaltıkoru=
+38164	Çaltıkoru Köyü, Yukarı Çaltıkoru Mezrası	Yukarı Çaltıkoru=
+38165	Çanaklı Köyü	Çanaklı=
+38166	Çimenli Köyü, Mevkii	Çımenlı=
+38204	Ördekli Köyü, Eski Ördekli Mevkii	Yenı=|Ördeklı=
+38203	Ördekli Köyü, Yeni Mevkii	Yenı=
+38207	Üzümcü Köyü, Deren Mezrası	Deren=
+38208	Üzümcü Köyü, Dereüstü Mezrası	Dereustu=
+38206	Üzümcü Köyü, Köyün Kendisi Mevkii	Üzümcü=

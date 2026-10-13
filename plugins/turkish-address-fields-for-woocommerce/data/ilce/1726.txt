@@ -1,0 +1,81 @@
+80923	100.yıl Mah.	1.san.sitesi Ablok~|10.san.sitesi İ Blok~|100.yıl_2~|11.san.sitesi J Blok~|12.san.sitesi K Blok~|2.san.sitesi B Blok~|3.san.sitesi C Blok~|4.san.sitesi D Blok~|5.san.sitesi E Blok~|6.san.sitesi F Blok~|7.san.sitesi G Blok~|8.san.sitesi H Blok~|9.san.sitesi I Blok~|Afetevleri@|Afetevlerı_2~|Akşemsettin~|Alaca~|Aliş~|Alişar~|Amiral~|Ankara Asfaltı%|Ankara Asfaltı/2~|Ankara Asfaltı/3~|Ankara Asfaltı_2~|Asuman@|Atik_1~|Aynalı~|Aynalı_1~|Azimkar-~|Aziziye~|Balkan~|Balpınar~|Barbaros_1@|Bağlar~|Bedir~|Bekir Bozdağ%|Bekir Bozdağ_2~|Bereket~|Beyazıt_1~|Bilal Şahin@|Bilim~|Bosna~|Bozbey@|Bozbey_2~|Bozdoğan~|Bozok~|Bozok_2~|Buhara~|Bülbül~|Bülbül_2~|Büyük Tuna@|Büyük Tuna/3~|Cenk~|Ceylan_1@|Conkbayır~|Cumhuriyet_1~|Demokrasi~|Dibek@|Dibek_2~|Egemenlik~|Elmas~|Engin~|Erciyas~|Erdem~|Erenler~|Esengül~|Fetih-~|Garip~|Gazi Muhtarpaşa@|Gazi Muhtarpaşa_2~|Gelibolu~|Gençosman~|Girne~|Gökalp~|Göçerler~|Gülbahar~|Gülşen~|Güneş-~|Harman~|Harran~|Hilal~|Hitit~|Hürriyet~|Hüsrev~|Ihlamur~|Işıklar~|Kafkas~|Karacabey~|Karagöz~|Karagöz_2~|Karavan~|Karavan_2~|Kavala~|Kaymakçı~|Kemer~|Kervan Saray~|Kervan~|Kiraz~|Kocasinan~|Kooperatif@|Kumlubaş~|Kumlubel~|Kurşunlu~|Kutlu~|Köklü-~|Köknar~|Kömüşören@|Kültür~|Kılavuz~|Kırgız~|Kırlangıç~|Kısmet~|Kızdere~|Lalezar~|Leylak_1.~|Malazgirt~|Malazgırt_2~|Mansur~|Mecidiye~|Mehmet Çiçek%|Melikşah~|Melodi~|Mesir~|Mevlana_1@|Modern~|Namık Kemal_1@|Neslihan~|Neşeli~|Nur~|Nurşah~|Ordu@|Orhan Gazi-~|Orta~|Palamut~|Palas~|Papatya-~|Pembe~|Plevne@|Pırpır-~|Rana~|Revani~|Reyhan~|Rodos~|Rüya~|Rüzgarlı~|Sakin-~|Saray-~|Sungur~|Sülün_1~|Sıvas@|Taşkent~|Tohumcuk~|Tohumluk~|Tohumluk_2~|Toki 1.@|Toki 2.@|Toki 3.@|Toki 4. Polis Lojmanları@|Toki 5.@|Toki 6.@|Toki 7.@|Toki Evleri=|Tortum~|Trablus@|Truva~|Turgut Reis@|Tuğba-~|Töre-~|Ulu~|Uludağ~|Umur~|Unutmaz~|Vahdet~|Vatan_1~|Vatansever~|Vural _1~|Yakut~|Yamuklar@|Yavuz Selim@|Yediler~|Yeni Su~|Yerköy 100. Yıl Sanayi Sitesi@|Yozgat Asfaltı%|Yozgat Asfaltı_2~|Yusufeli~|Zambak-~|Zeybek-~|Ziya Gökalp@|Zübeydehanım@|Zıya Gökalp_2~|Çakıl~|Çaldıran~|Çamlı~|Çamlı_2~|Çardak~|Çekirge~|Çiftlik/2~|Çiftlik/3~|Çiftlik/4~|Çiftlik_1@|Çiftlik_2~|Ülker-~|Ülker..~|Üsküp@|İclal Gökçen~|İnci_1~|İpek~|İzmir@|İğde~|Şafak-~|Şamil~|Şehit Asteğmen Süleyman Şahingöz@|Şehit Emin Uyar/7~|Şehit Ferhat Gökdemir~|Şehit Hayrettin Arslan~|Şehit Süleyman Çelik~|Şehit Süleyman Şahingöz/2~|Şehit Süleyman Şahingöz/3~|Şehit Süleyman Şahingöz/4~|Şehit Süleyman Şahingöz/5~|Şehitler~|Şenlik~|Şimşir~|Şimşir_2~
+89455	Akpınar Köyü	 Köy$
+89456	Akpınar Köyü, Kızıl Gedik Fabrika Sahası Mevkii	 Köy$
+80915	Ali Galip Gençoğlu Mah.	Adil~|Akasya~|Anıl~|Bacılı@|Bacılı/2~|Bacılı/3~|Bacılı/4~|Bacılı/6~|Bacılı/7~|Bacılı/8~|Burcu~|Dostluk~|Erzurum~|Esin~|Esin_2~|Fidan~|Fıdan_2~|Gonca_1~|Gülseven~|Hüyük_1~|Mola@|Mustafa Bey@|Narin~|Odabaşı~|Taşlı~|Yeşil~|Yılmaz~|Zincirli~|Öztürk~|Şht.cihan Karadavut@
+80924	Altmış Evler Mah.	19 Mayıs_1@|Ahi~|Ahmet Çelebi~|Aksu~|Akın~|Aslan_1~|Atmaca~|Ağıl~|Bacanak~|Bakü@|Bekir Bozdağ%|Dereler~|Dinar~|Doğru-~|Evren~|Farabi~|Gazi_1~|Göksu~|Güngören@|Gürler~|Hatip~|Hisar~|Hüyük~|Kamelya@|Kamelya_2~|Karacabey_1~|Kumrulu@|Melis_1~|Mete-~|Parlar~|Pilot-~|Pulur~|Sakarya@|Salmanlı@|Sarıca~|Sefa 1~|Sefa~|Serap 1~|Serap~|Sultan~|Söğüt-~|Tekke~|Tuna~|Tuncal@|Tuğhan~|Çam~|Çimen~|Çiğdem@|Çöl~|Üzümlü~|İbrahim Bodur%|Şahin_1~|Şehit Cevdet Yeşilay@|Şehit Sefa Arslan@|Şehıt Cevdet Yeşılay_2~
+89457	Arifeoğlu Köyü	 Köy$
+89494	Arslanhacılı Köyü	 Köy$
+89495	Arslanhacılı Köyü, Yaylaevleri Yayla Evleri	 Köy$
+80912	Ayanoğlu Mah.	1.san.sit.@|10.san.sit.@|11.san.sit.@|12.san.sit.@|2.san.sit.@|3.san.sit.@|4.san.sit.@|5.san.sit.@|6.san.sit.@|7.san.sit.-@|8.san.sit.@|9.san.sit.@|Atatürk%|Atatürk/5~|Başak~|Bedri Aydın@|Cömert~|Deneme@|Gürses~|Kamer@|Kanal@|Kazım Koçer@|Köşk~|Kırşehir@|Meşale~|Mirkelam@|Nergis_1~|Papatya~|Petek~|Selçuk~|Yerköy Sanayi Sıtesi~|Çiftlik@|Çopraşık~|Özerdem@|Şehit Muzaffer Tufaner@|Şehit Soner Selim Şener_2~|Şehit Vedat Özayar_2~|Şehit Ziya Bener~|Şehıt Şaban Karadoğan_2~|Şht. Muammer Nacakoğlu~|Şht.abdullah Karaca@|Şht.vedat Özayar@|Şht.çelebi Doğan@|Şht.şaban Karadoğan@|Şirin Yurt~
+89460	Aydıngün Köyü	 Köy$
+89459	Aşağıelmahacılı Köyü	 Köy$
+89458	Aşağıeğerci Köyü	 Köy$
+80913	Bağlarbaşı Mah.	Akar/2~|Akar_1~|Alpaslan@|Alpaslan_1~|Ardıç~|Aslan~|Atik~|Atmaca_1~|Cumhuriyet@|Dilek@|Dinç~|Dinç_2~|Efe@|Ergin~|Fevzi Paşa@|Fevzipaşa_2~|Kendirli~|Kendirli_2~|Kum~|Köseli@|Kızılırmak~|Lojmanlar@|Lojmanlar/2~|Lojmanlar/3~|Lojmanlar/4~|Lojmanlar_2~|Mimar Sinan@|Ofıs@|Pekşen~|Solmaz~|Yıldırım~|Yılmaz_2~|İstiklal_1~|Şehit@|Şehit Kamil Çelikkaya@|Şehit Necati Yalçın~|Şht. Necati Yalçın@
+89461	Belkavak Köyü	 Köy$
+89496	Beserek Köyü	 Köy$
+89462	Bicikler Köyü	 Köy$
+89463	Buruncuk Köyü	 Köy$
+89464	Cakcak Köyü	 Köy$
+89465	Cakcak Köyü, Durak Mevkii	 Köy$
+89467	Delice Köyü	 Köy$
+89468	Delice Köyü, Abdallar Mevkii	 Köy$
+89502	Derebağı Köyü	 Köy$
+89469	Derecik Köyü	 Köy$
+80914	Erzurum Mah.	Aksoy@|Aktaş~|Akçınar~|Alp@|Alp_2~|Arda~|Arzu~|Aylin~|Aynur~|Aysu~|Ayten~|Ağrı~|Bahadır~|Barış~|Barış_2~|Bilge~|Billur~|Bulamaçlı@|Bülbül_1~|Bıldırcın~|Ceylan@|Dadaş~|Delice~|Demiryolu@|Donatım~|Dumlupınar~|Erzurum~|Esin_2~|Kanal@|Kanal_2~|Koyunbaşoğlu~|Melis~|Nafız Faruk Erbaş@|Nafız Faruk Erbaş/2~|Nafız Faruk Erbaş_2~|Seda~|Tercan~|Yılmaz_1~|Çetin~|Çeşme~|Çiğdem_1~|İbrahim Bodur_1%|İbrahım Bodur Gültepe _2~|İbrahım Bodur Gültepe/2~|İbrahım Bodur Gültepe/3~|İbrahım Bodur Gültepe_2~|İstiklal@|İstiklal_2~|Şehit Emin Uyar@|Şehit Emin Uyar/2~|Şehit Emin Uyar/3~|Şehit Emin Uyar/4~|Şehit Emin Uyar/6~|Şehit Emin Uyar/7~|Şehit Ercan Uygun~|Şehit Ercan Uygun_2~|Şehit Saldıray Altuntaş@|Şehit Saldıray Altıntaş/8~
+89470	Göçerli Köyü	 Köy$
+80916	Gültepe Mah.	1.doğu~|Akırmak~|Akırmak._2~|Akırmak_1@|Anadolu@|Anafartalar@|Atatürk%|Bulamaçlı@|Bulamaçlı/3~|Bütün~|Cem~|Deniz~|Derya~|Dicle~|Doğu~|Emek~|Emine~|Ercan-~|Ergüven~|Erkan-~|Ersoy~|Esin-~|Eti~|Fulya~|Genç~|Gonca~|Gül~|Gülhan~|Güneş_1~|Kanal@|Kara~|Kayhan~|Koçsoy~|Necip Altınok@|Necip Altınok_2~|Sağlam~|Yayla@|Yayla_2~|Çelik~|Çevik~|Ünal~|Ünal-1~|İbrahim Bodur_1%|İbrahım Bodur Gültepe_2~|Şehit Saldıray Altuntaş@|Şehit Saldıray Altıntaş/2~|Şehit Serkan Göker@|Şehit Soner Selim Şener~|Şehit Soner Selim Şener_2~|Şehit Uzm. Çvş. Erhan Ar~
+89471	Gündoğdu Köyü	 Köy$
+89473	Hacılı Köyü	 Köy$
+89474	Hacımusalı Köyü	 Köy$
+89503	Hacıosmanlı Köyü	 Köy$
+89475	Hacıuşağı Köyü	 Köy$
+89472	Hacıçeşmesi Köyü	 Köy$
+196861	Hargaşan Köyü	Harkaşan~
+89477	Hatip Köyü	 Köy$
+80922	Haşim Kılıç Mah.	Ahmet Kılıç~|Atatürk%|Atatürk1~|Atatürk2~|Atatürk3~|Atatürk4~|Atatürk_2~|Aydınlık~|Bedri Aydın@|Bedrı Aydın1~|Bedrı Aydın2~|Belediye@|Beledıye_2~|Bünyamin Gayretli@|Demokrasi Ve Şehitler Myd.|Hükümet@|Hükümet1~|Kanal-@|Kırşehir@|Nafız Faruk Erbaş@|Nafız Faruk Erbaş1~|Nafız Faruk Erbaş2~|Ofıs@|Sabır~|Vatan@|Vatan1~|Yozgat@|Yıldız~|Şehit Osman Pekşen_2@|Şehit Süleyman Şahingöz_2~|Şehıt Mürsel Ocak1~|Şeker~|Şerif Arzık@|Şht.abdulkadir Tuğ@|Şht.bedri Şahin@|Şht.coşkun Acer@|Şht.coşkun Acer_1~|Şht.erdal Aytaç-@|Şht.h.ismailoğlu~|Şht.hasan Demirel~|Şht.hayati Erciyes~|Şht.ibrahim Karakoç@|Şht.idris Aydoğdu@|Şht.ihsan Güler~|Şht.mürsel Ocak@|Şht.mürsel Özdemir@|Şht.osman Pekşen@|Şht.sefa Osman Altınkuyu@|Şht.süleyman Şahingöz~|Şht.vedat Özayar@|Şht.zafer Aslan~|Şht.şaban Karadoğan@
+80917	Hüyük Mah.	19 Mayıs@|23 Nisan@|Altay~|Bahar@|Bayraktar~|Bekir Bozdağ%|Bekir Bozdağ/3~|Bilal Şahin@|Buket~|Cihan~|Devran~|Dilek@|Dolunay~|Emir Sultan@|Emre Coşkun~|Gelin~|Gelincik~|Giray~|Giray_2~|Gök@|Güneş~|Höyük 5~|Hüyük 1~|Hüyük 2~|Hüyük 3~|Hüyük 4~|Işık~|Mevlana@|Nadir Camii@|Saray~|Sağlık Ocağı@|Selvi@|Serin-~|Sevinç~|Timur@|Tımur_2~|Ulubatlı@|Yazan~|Yemen~|Yurt@|Çiğdem_2~|Özgül~|Şafak~|Şair~|Şefik~|Şehit Cevdet Yeşilay@|Şehit Cevdet Yeşilay_2~|Şehit Murat Bek@|Şehit Ramazan Bilecen@|Şehit Sefa Arslan@|Şeker_1~
+89479	Kahyaköy Köyü	 Köy$
+80918	Kale Mah.	Akar~|Akar_2~|Beyoğlu@|Beyoğlu-~|Beyoğlu/2~|Beyoğlu/3~|Beyoğlu/4~|Beyoğlu/5~|Beyoğlu_2~|Cami_2~|Camii~|Cengiz Topel@|Dilek_1~|Galip Gençoğlu@|Galıp Gençoğlu_2~|Halil~|Kale@|Kamacı~|Karabekir@|Karabekır/2~|Karabekır/3~|Karabekır_2~|Karabel~|Karabel_2~|Karatay~|Kartal~|Kartal/2~|Kartal/3~|Kartal_2~|Katip~|Katip/2~|Katip_2~|Kaya~|Keklik~|Kerem~|Koç~|Koç/2~|Kubilay~|Kubılay/2~|Kubılay/3~|Kubılay_2~|Köroğlu~|Kızılcık~|Kızılcık_2~|Lale~|Leylak_1~|Limon_1~|Okul~|Okul/2~|Okul/3~|Okul/4~|Okul_2~|Tipi~|Vural~|Yellice~|Çamlık~|Şehit Emin Uyar@|Şehit Emin Uyar/5~|Şehit Necip Öztel@|Şehit Necip Öztel_2~
+89481	Karacaahmetli Köyü	 Köy$
+89480	Karacaağaç Köyü	 Köy$
+80919	Karacaşar Mah.	1.mercan~|2.mercan~|Avcıoğlu~|Bahar@|Bahar_1~|Bahar_2~|Başakçı~|Bekir Bozdağ%|Ekin~|Emek_1~|Eski Postane~|Gazi@|Güçlü~|Huzur~|Işık~|Kaplıca@|Kaplıca_2~|Kevser~|Kılıç_1~|Leylak~|Manolya~|Mantı~|Mantı_2~|Melek~|Meriç~|Mermer~|Metin~|Murat~|Mutlu~|Nar~|Narin_1~|Nazik~|Nil~|Nilüfer~|Ovacık@|Oğuz~|Park~|Rüzgar~|Selvi@|Sevgi~|Sinan Demirok~|Sinan Demirok_2~|Zafer_1~|Çınar~|Özgül~|İbrahim Bodur%|İnci~|İnkilap~|Şafak~|Şehit Cevdet Yeşilay@|Şehit İbrahim Yıldız~|Şehıt Cevdet Yeşılay_2~|Şht.cihan Karadavut@
+89482	Karaosmanoğlu Köyü	 Köy$
+89504	Karlı Köyü	 Köy$
+89493	Kayadibi Köyü	 Köy$
+89483	Kocaoğlu Köyü	 Köy$
+89487	Kumluca Köyü	 Köy$
+89484	Kömüşören Köyü	 Köy$
+89485	Kördeve Köyü	 Köy$
+89486	Köycü Köyü	 Köy$
+89488	Küçüknefes Köyü	 Köy$
+89505	Küçükçalıklı Köyü	 Köy$
+89506	Orhan Köyü	 Köy$
+89507	Poyraz Köyü	 Köy$
+89508	Salihli Köyü	 Köy$
+80925	Saray Köyü, Cumhuriyet Mevkii	Aslan~|Atatürk~|Bağlar~|Bülbül~|Er~|Ergenekon~|Fettahlar~|Göçmenler~|Gül~|Gülabiözü~|Gülistan~|Karanfil~|Kooparatif~|Körpınar~|Lale~|Madımak~|Mevlana~|Nergis~|Papatya~|Türkmen~|Yasemin~|Yavuz Sultan Selim~|Yibitaş Bulvarı~|Yunus Emre~|Zambak~|Çapanoğlu Camii~|Çağlayan~|Çiloğlan~|Şahinler~|Şehit Osman Altunkuyu~|Şehit Üsteğmen Hulki Beydilli~
+80926	Saray Köyü, Fatih Mevkii	Akasya~|Atatürk~|Ay~|Bahar~|Belediye~|Bozok~|Enver Efendi Değirmeni~|Gurdinin Deresi~|Güneş~|Harmanyeri~|Hayrettin Uçatsu~|Hilal~|Kartal~|Köse~|Melez~|Mezarlık~|Nur~|Reyhan~|Sağlık Ocağı~|Selçuk~|Serçe~|Susam~|Tunç~|Yasin~|Yağmur~|Yibitaş~|Yiğitler~|Yıldız~|Zangıllar~|Çay~|Çicek~|Çiloğlan~|Çiğdem~|Ülkü~|İnci~|Şehit Abdulkadir Tuğ~|Şehit Osman Altunkuyu~
+80927	Saray Köyü, Organize Sanayi Bölgesi Mevkii	1.cadde~|1.sokak~|2.cadde~|2.sokak~|3.cadde~|3.sokak~|4.cadde~|4.sokak~|5.cadde~|5.sokak~|6.sokak~|Ankara-sivas~
+89489	Sarıyaprak Köyü	 Köy$
+89509	Sedir Köyü	 Köy$
+80929	Sekili Köyü, Sağlık Mevkii	Sağlık Küme Evleri~|Sağlık~
+80928	Sekili Köyü, Varlık Mevkii	Eski Sekili~|Varlık~
+80920	Selçuk Mah.	Cumhuriyet@|Dr. Remzi Kaleli@|Ersan~|Ersan_2~|Fen~|Hastane@|Namık Kemal@|Nergis~|Ofıs@|Sümbül~|Tarkan~|Tuna_1~|Tunç~|Turan~|Tınaz~|Çiftlik@|Şafak_1~|Şahin~|Şehit Mehmet Tez~|Şen~|Şener~|Şht.şaban Karadoğan@|Şimşek-~|Şule~
+89510	Susuz Köyü	 Köy$
+89511	Süleymanlı Köyü	 Köy$
+89512	Terzili Köyü	 Köy$
+89513	Topaç Köyü	 Köy$
+80911	Vefi Pandır Mah.	Barbaros@|Cumhuriyet@|Dr. Remzi Kaleli@|Fatih@|Fen~|Fevzi Paşa@|Korkmaz~|Mimar Sinan@|Saha~|Saydam~|Sema~|Sülün~|Toros~|Ulusoy~|Yıldırım~|Yılmaz_2~|Zafer~|Zümrüt~|Çiftlik@|Ülker~|Şehit@|Şehit Yücel Yılmaz~|Şht. Necati Yalçın@
+89514	Yakuplu Köyü	 Köy$
+89490	Yerköy Köyü	 Köy$
+89492	Yukarıelmahacılı Köyü	 Köy$
+89491	Yukarıeğerci Köyü	 Köy$
+89515	Yukarıihsangazili Köyü	 Köy$
+89516	Zencir Köyü	 Köy$
+89497	Çakırhacılı Köyü	 Köy$
+89466	Çakırlar Köyü	 Köy$
+89498	Çalıklı Köyü	 Köy$
+89499	Çamdibi Köyü	 Köy$
+89500	Çamlıbel Köyü	 Köy$
+89501	Çayköy Köyü	 Köy$
+196863	İğdecik Köyü	Çorakyolu~|İğdecik~
+80921	Şentepe Mah.	Beyazıt@|Bulamaçlı@|Bulamaçlı/2~|Bulamaçlı/3~|Bulamaçlı/4~|Bulamaçlı_2~|Cengiz Topel@|Ergene~|Göçmenler@|Kaplan~|Keskin~|Keskin_2~|Kuğu~|Kılıç~|Latin~|Limon~|İbrahım Bodur Gültepe_2~|Şehit Saldıray Altuntaş-@

@@ -1,0 +1,13 @@
+10646	Akkum Mah.	Akköy~|Akköy1~|Fabrika@|Hamzaboğazı=|Karaağaç@|Kiraz~|Kıran~|Sakarya~|Çay~|Şeremet~
+15824	Akköy Köyü	Akköy Köy Sokağı=
+10647	Güner Orbay Mah.	Acar~|Adalar=|Atatürk@|Ağa~|Aşağıbucak~|Bahçeli~|Bayram~|Bayırlı~|Camili~|Ciritlik~|Cumhuriyet Myd.|Curabey~|Ertuğrulgazi@|Fatih~|Hisar~|Kirazlı~|Uygun~|Uğurlu~|Yeni~|Zübeyde Hanım@
+15826	Harmanköy Köyü	Harmanköy Köy Sokağı=
+15827	Hisarcık Köyü	Hisarcık Köy Sokak=
+10648	Karaağaç Mah.	Akkum@|Aşağıbük@|Cami~|Dolapçı~|Ergün~|Karşıyaka~|Yıldırım~
+15828	Koyunlu Köyü	Koyunlu Köy Sokağı=|İnhisar Söğüt Yolu@
+15829	Muratça Köyü	Muratça Köy Sokağı=
+15830	Samrı Köyü	Samrı Köy Sokağı=|İnhisar Söğüt Yolu@
+10650	Tarpak Köyü, Merkez Mevkii	Adalar~|Akar~|Bayrak~|Bağ Evi~|Cami~|Cumhuriyet/2~|Dere/1~|Dibek~|Eskişehir/1~|Fatih/1~|Halıbükü~|Huzur~|Karanfil~|Kaymak~|Kocaman~|Koyunlar~|Koç~|Mihalgazi~|Nar~|Osmanlı/1~|Saka~|Sakızlık~|Sağır~|Söğüt~|Sümbül~|Turan~|Türbe~|Uçar~|Yavaş~|Yüzer~|Yıldız/1~|Yılmaz~|Çam~|Çiğdem~|Çotak~|Öngel~|Ören~|Özen~|İncir~|İpek~|İstiklal~|İşler~|Şeker~
+15831	Tozman Köyü	Tozman Köy Sokağı=
+10649	Zafer Mah.	Atatürk@|Aydın~|Badem~|Balcı~|Bayırlı~|Bozdağ~|Bük=|Cumhuriyet Myd.|Dere~|Edebali~|Erenler~|Ertuğrulgazi@|Fabrika@|Fatih~|Gümüş~|Hisar~|Konak~|Koyundere~|Kıyaş=|Lale~|Nar~|Osmangazi@|Sakızbeli=|Sefa~|Uygun~|Zübeyde Hanım@|Çiçek~|İnönü@|İnönü1-%
+15825	Çayköy Köyü	Mihalgazi İnhisar Yolu@|Çayköy Köy Sokağı=

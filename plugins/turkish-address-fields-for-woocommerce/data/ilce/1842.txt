@@ -1,0 +1,30 @@
+157095	Akçiriş Mah.	Akçiriş=|Akçiriş1=|Katip Veysel Usta=|Yeni Mevki=|Çıtlaklı Merkez=
+157093	Ağırtaş Mah.	Ağırtaş=|Fidanbaşı 1=|Güdün Keserlik=|Kirazlı=|Su Gören=|Şahintepesi=
+80144	Dereköy Mah.	Ara~|Ağırtaş=|Dereköy=|Köprü~|Merdivenli~|Milletvekili Mustafa Demir@|Tepebaşı@|Yeni Köprü Başı%|Yokuş~|Şht.ahmet Çalık@|Şht.erol Durmuş@|Şht.osman Kurtkaya@
+157105	Dorukkiriş Mah.	Avutlu Mezrası=|Doğancı=|Fındıcak=|Gölkıyı=|Kasımağzı=|Toyfa=
+157103	Doğancı Mah.	Doğancı=|Doğancı1=|Gölkıyı=|Kıroğlan=|Toyfa=|Çamlıca Karaçoban=|Çamlıca=
+157107	Düzköy Mah.	Düzköy=|Karabektaş Mevki=|Karşıyaka Mevki=|Kasımağzı=|Turali Uşağı=
+157109	Fidanbaşı Mah.	Ağırtaş=|Fidanbaşı 1=|Fidanbaşı=|Sisdağı=|Soğanlıtaş=|Çetrik 1=
+157091	Geyikli Mah.	Adem Bilmez=|Bacak=|Başkan Ahmet Nuri Beldüz@|Belen=|Daşdibi Avuzbaşı=|Erkeksu Obası=|Eskioba=|Geyikli Kıran=|Güney=|Hacı Asım Bayraktar@|Hacı Şevket Gülay@|Hafız Hasan Türkmen 1~|Hafız Hasan Türkmen@|Hanyanı=|Irsakköy=|Kabalak=|Karahüseyin Çanakçıbaşı=|Kavacık=|Keleşli=|Kesellik=|Kireçhane=|Kürürlük=|Lügütlü 1=|Lügütlü=|Muhtar Ali Demirbaş@|Osmanoğlu Karaağaç=|Pazaryeri=|Simenli=|Uzunevi=|Uzunevi Üst=|Vatan@|Yumurcaktaş=|Şehit Er Halil Karagöz@|Şehit Er Murat Göce@|Şehit Komiser Yardımcısı Tolga Özer@|Şehit Tabip Üsteğmen Asım Bayraktar@
+157111	Gökçeköy Mah.	Alacapazarı Yayla=|Alitaş Yayla=|Asakdibi=|Düzyatak=|Güdün Yayla=|Hanyanı=|Kabaktepe Yayla=|Karadere=|Karaçam Yayla=|Kireçhane=|Kovanlık=|Kuzuluk=|Kürürlük=|Kıranyurt Yayla=|Kızılkaya Yayla=|Merekmenli=|Nevruz Yayla=|Savaş Yayla=|Sinlice=|Tatlıçukur=|Uzunkıran Yayla=|Yalakyurt Yaylası=|Çukur Boztepe Eşmelik=|Çöknak Yayla=
+157113	Gölkiriş Mah.	Alt 1=|Alt=|Beldekli=|Gölkiriş 4=|Gölkiriş=|Gölkiriş Merkez=|Karakaya=|Kıran=|Meredibi Mezra=
+157115	Güdün Mah.	Güdün Keserlik=|Güdün=|Keserlik=|Tepeağzı=
+157117	Kabasakal Mah.	Ağırtaş=|Dereköy=|Güdün Keserlik=|Kabasakal=|Tepeağzı=
+80143	Kalecik Mah.	Kalecik=|Kozluca=|Muhtar İsmail Gürman~
+157119	Karakaya Mah.	Karakaya 1=|Karakaya=|Kozluca=
+157121	Kasımağzı Mah.	Avutlu Mezrası=|Düzköy=|Kasımağzı=|Kasımağzı1=
+80145	Kireç Mah.	1.çıkmaz~|100.yıl~|2.çıkmaz~|Albay Kazım Çillioğlu@|Atatürk@|Cami~|Cumhuriyet@|Gazi M. Korhan Yamaç~|Goguroğlu=|Hastane@|Helimağa 1~|Helimağa=|Hürriyet Meydanı Myd.|Kadırga~|Kalecik=|Kanuni Sultan Süleyman~|Kemeraltı~|Kireç=|Kooperatif~|Köprü~|Lise~|Opr. Dr. Mustafa Kemal Çabuk~|Saray Bosna=|Yeni Köprü Başı%|Çok Maksatlı Lise=|Şht.mustafa Yanık@
+157123	Kuzuluk Mah.	Alitaş Yayla=|Cingışlu=|Kacaman=|Kuzuluk=|Kuzuluk Orman Yolu=|Kızılkaya Yayla=|Merekmenli=|Merkez=|Sinlice=|Sırıncak=|Tezderesi=|Uzunkıran Yayla=|Yalakyurt Yaylası=
+157125	Pelitçik Mah.	Erkeksu Obası=|Güdün=|Kütüklük=|Lügütlü=|Pelitçik=|Sisdağı=|Çamanlı=|Şahintepesi=
+157127	Sayvançatak Mah.	Karakısrak=|Karaluğu=|Kayadibi=|Sayvançatak Karaçoban=|Sayvançatak=|Sinlice=|Toksar=|Çukur Boztepe Eşmelik=
+157129	Simenli Mah.	Kesellik=|Kireçhane=|Kürürlük=|Simenli=|Simenli1=
+157131	Sinlice Mah.	Kacaman=|Kalınçam=|Karakısrak=|Katıağzı=|Katıağzı1=|Ken=|Kürürlük=|Sinlice=|Sinlice Çamanlı=|Tıkmanu Yatak Yeri=|Çorakoba Yayla=
+80146	Sugören Mah.	Ağakonağı=|Kireç=|Saray Bosna=|Su Gören=|Su Gören1=|Su Gören2=
+157133	Sütpınar Mah.	Alaca=|Kürürlük=|Simenli=|Sinlice=|Sütpınar 1=|Sütpınar=|Çukur Boztepe Eşmelik=
+157135	Tepeağzı Mah.	Dereköy=|Güdün=|Kabasakal=|Keserlik=|Tepeağzı=
+80147	Turalıuşağı Mah.	Karşıyaka Mevki=|Mezra=|Turali Uşağı=
+80142	Çamkiriş Mah.	Büyük Mustafa Karabayır@|Yoluklu Mevki=|Çam Kiriş=
+157097	Çamlıca Mah.	Kıroğlan=|Çamlıca Karaçoban 1=|Çamlıca Karaçoban=|Çamlıca=
+157099	Çarlaklı Mah.	Akçiriş1=|Kıran=|Yeni Mevki=|Çarlaklı 1=|Çarlaklı=|İmam Şevki Özkan~
+157101	Çetrik Mah.	Çetrik 1=|Çetrik 2=|Çetrik=
+157137	Üzümözü Mah.	Ağakonağı=|Karaışık=|Karaışık1=|Karibdere=|Kırçavu=|Saniç=|Sarahmatlı=|Tevekli=|Yenicami Merkez=|Üzümözü Cami=|Şehit Er Alper Al=|Şehit Er Necaettin Güner=|Şehit Polis Şenel Çakır=

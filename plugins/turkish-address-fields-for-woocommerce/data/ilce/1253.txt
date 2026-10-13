@@ -1,0 +1,100 @@
+192381	Aktepe Mah.	Aktepe=
+192379	Akçomak Mah.	Akçomak=|Diyarbakır%
+192493	Alabaş Mah.	Alabaş=
+192383	Alancık Mah.	Alancık=
+192385	Altınakar Mah.	Akyapı=|Altınakar=|Gelensu=|Mardin%|Tavşantepe=
+192387	Arafat Mah.	Arafat=
+192391	Avdalı Mah.	Avdalı=
+192495	Ayveri Mah.	Ayveri=|Kurik=
+192377	Ağaçsever Mah.	Adaçsever=|Mamakıl-=
+192489	Aşağı Mollaali Mah.	Aşadı Mollaali=
+192389	Aşağıkonak Mah.	Aşadıkonak=|Demirölçek/1=|Diyarbakır%
+192395	Ballıbaba Mah.	Aşadı Ortaviran=|Ballıbaba=|Murat=
+192497	Bayırkonağı Mah.	Bayırkonadı=
+192393	Bağacık Mah.	Badacık=
+192397	Başaklı Mah.	Başaklı=|Diyarbakır Batman .çşb@|Hamitodlu=|Sarılar=
+192555	Başalan Mah.	Başalan=
+192399	Belenli Mah.	Acıkuyu=|Aktar=|Belenli=|Çaybaşı=
+192401	Bellitaş Mah.	Bellitaş=
+192499	Beneklitaş Mah.	Beneklitaş=
+192403	Beşpınar Mah.	Beşpınar=|Diyarbakır Batman .çşb@|Karagöz=|Mardin%|Murattaşı=|Peyman=
+192405	Bilmece Mah.	Bilmece=
+192537	Bira Mehmet Ağa Mah.	Bira Mehmet Ada=
+192407	Bozçalı Mah.	Beşpınar=|Bozçalı=|Mardin%|Selman=
+192549	Boğazören Mah.	Bodazören 1=|Bodazören=|Şakşak Mezrası=
+192409	Bulutçeker Mah.	Bulutçeker=
+21058	Cumhuriyet Mah.	Adpar~|Akpınar@|Anafartalar@|Atatürk%|Bad~|Badem@|Bayır~|Bınevş~|Cuma~|Darıstan~|Delal~|Delal-~|Dere 1.~|Dere~|Derman@|Doda~|Editim~|Ekinveren@|Ekinveren/1~|Esentepe~|G.osman Paşa@|Göktepe@|Gözelşed~|Göçmen~|Kanal~|Karacadad~|Kardelen~|Karşıyaka~|Karşıyaka/1~|Kizbajar~|Kooperatif~|Koopertif@|Kuyu~|Mahabad@|Mardin%|Menekşe~|Metina@|Nizam~|Ofis@|Perverde~|Pırareş~|Sadlık~|Serhat~|Seyrangeh~|Su Deposu@|Toşhana~|Tuncer~|Turgut Özal%|Turgut Özal/1~|Yay~|Zambak~|Zana~|Zencefil~|Çam~|Çavkani~|Çiftlik~|Çıkmaz=|Şilan~
+192419	Demirölçek Mah.	Demirölçek=|Diyarbakır%
+192421	Dikmencik Mah.	Dikmencik=
+192505	Dişlibaşak Mah.	Dişli Başak 1~|Dişli Başak 2.=|Dişlibaşak=|Yeşildere=
+192423	Düzova Mah.	Düzova=|Güneşli Fatih=
+199707	Düğrük Mah.	Düdrük=|Suçıkan=
+192425	Ekinveren Mah.	Diyarbakır%|Ekin Veren=|İkizoluk=
+21059	Eski Mah.	19 Mayıs@|Ali Fuat Paşa~|Ali Fuat Paşa/1~|Ali Fuat Paşa/2~|Azizodlu@|Dar~|Dar/1~|Dar/2~|Ercan~|Filiz~|Gelincik~|Gülşen~|Gürsel~|Kani~|Karaamid~|Karabekir~|Kervan~|Kurdodlu@|Kurdoğlu/1~|Kurdoğlu/2~|Kılıç Ali~|Mardin%|Mem~|Meydan~|Pamuk~|Rauf Orbay~|Rıfat Paşa~|Turgut Özal%|Turgut Özal/2~|Turgut Özal/3~|Turgut Özal/4~|Zin~|Ziraat@|Ziraat/1~|Ziraat/2~|Ziya Gökalp@|Çardak~|Çeşme~|Çilek-~|Çiçek~|Çoban~|Çırav~|Üçgen~|Şan~|Şıdre~
+21060	Fatih Mah.	Akpınar@|Akı~|Badem@|Bender~|Beybun~|Bolayır~|Conbayırı@|Defne~|Derya~|Diyarbakır%|Dumlupınar~|Ekinveren@|Fener~|Fidan~|G.osman Paşa@|Gap~|Göksu~|Gül~|Kocatepe~|Kuş Gözel~|Kısmet~|Mazi~|Musa Anter~|Nefel~|Pale~|Papatya~|Sanayi~|Sanayi/1~|Sancak~|Seher~|Serhat~|Sosın~|Tarım.çşb~|Tepe~|Tuncer~|Turgut Özal%|Turgut Özal/5~|Vadi~|Vadi/1~|Velikend-~|Yılmaz Güney@|Zahireciler@|Çakmak~|Çalı~|İdde~|Şentürk~
+192427	Filizören Mah.	Filizören=
+21061	Gazi Mah.	19 Mayıs@|Adliye~|Atatürk%|Aydın~|Banka~|Barış~|Fani~|Fani/1~|Hükümet@|Kayak~|Kule~|Lale~|Lise@|Lise....../1~|Lise/1~|Mezarlık~|Mezarlık/1~|Ofis@|Okul~|Stad@|Susam~|Sümbül~|Turgut Özal%|Yaradanakul~|Ziraat@
+192429	Göktepe Mah.	Gök Tepe=
+192533	Görece Mah.	Görece=
+192507	Gümüştaş Mah.	Gümüştaş=
+192431	Gürses Mah.	Gürses=
+192433	Halkapınar Mah.	Ardantepe=|Halkapınar=
+192509	Halıören Mah.	Halıören=|Zurniyan=
+192511	Harabe Mah.	Harabe=
+192435	Hasköy Mah.	Acıkuyu Dbb@|Hasköy=
+192437	Höyükdibi Mah.	Höyükdibi=
+192441	Karababa Mah.	Karababa=
+192443	Karabudak Mah.	Gözenek=|Karabudak=
+192445	Karalar Mah.	Diyarbakır Batman .çşb@|Karalar=
+192517	Karasungur Mah.	Adaçlı=|Gırerezan=|Harabe=|Kadorgo=|Karader=|Karasungur=|Karatepe-=|Töhür=|Yeşilli-=|Çatmadal=|Çınarır=|Şargo=
+192515	Karaçevre Mah.	Karaçevre=
+192447	Kazıktepe Mah.	Bilinmeyen 5@|Kazıktepe=
+192451	Kubacık Mah.	Kubacık=
+192453	Kuruyazı Mah.	Kuruyazı=|Yöndemli=
+192455	Kutluk Mah.	Acıkuyu Dbb@|Kutluk=
+192521	Kuyuluhöyük Mah.	Kuyuluhöyük=
+192449	Köksalan Mah.	Köksalan=
+192457	Kürekli Mah.	Kürekli=
+192519	Kılıçkaya Mah.	Alavuz=|Dodanlar=|Hacı Sinan=|Kör Osman=|Kılıçkaya=|Yodunluk=
+192559	Kırkağaç Mah.	Kırkadaç=
+192523	Leblebitaş Mah.	Dişli Başak 2.=|Leblebitaş=
+192459	Meydanköy Mah.	Meydanköy=|Çınar1~
+192561	Muratcık Mah.	Muratcık=
+192545	Ortaşar Mah.	Gırzebeş=|Ortataş - 1=|Ortaşar -2-=|Ortaşar=|Şeytancık=
+192491	Ovabağ Mah.	Gülen=|Ovabad=
+192557	Pembeviran Mah.	Pembeviran=
+192465	Selyazı Mah.	Selyazı=
+192525	Sevindik Mah.	Sevindik=
+192467	Solmaz Mah.	Solmaz=
+192535	Soğansuyu Mah.	Sodansuyu=
+192469	Sürendal Mah.	Hızırbey=|Sürendal=
+192527	Sırımkeser Mah.	Sırımkeser=
+192543	Taşhelvası Mah.	Taşhelvası=|Taşhelvası-1=
+192551	Tekkaynak Mah.	Diyarbakır Batman .çşb@|Tekkaynak=
+192477	Tilver Mah.	Tilver=
+192547	Toraman Mah.	Toraman=
+192481	Yaprakbaşı Mah.	Yaprakbaşı=
+192529	Yarımkaş Mah.	Yarımkaş=
+192483	Yazçiçeği Mah.	Yazçiçedi=
+21062	Yeni Mah.	19 Mayıs@|Abdi İpekçi@|Aktepe 1@|Armut~|Asma~|Asmin~|Aşiti~|Buket~|Bülbül@|Bırati~|Dedirmen@|Deste~|Devran~|Diyarbakır%|Elmas~|Emek~|Gündüz~|Güzelses~|Has~|Jiyan~|Karaçay~|Kiraz~|Kurdodlu@|Kırıkçı~|Oba~|Petrol@|Selahaddini Eyyubi@|Serdar~|Turgut Reis~|Turgut Özal%|Umut~|Yayla~|Yonca~|Yunus Emre~|Yıldız~|Zerzevan@|Zeytin~|Zümrüt@|Çay~|Çay/1.~|Çimen~|İnönü@|Şen~|Şengal@|Şukefta Heci Kale/1.~|Şukefta Heci Kalê@
+21063	Yeşil Mah.	19 Mayıs@|Aboriş-2.~|Ali Emiri@|Ali Emiri/1~|Ali Emiri/2~|Ceylan~|Dicle~|Diyar~|Güvercin~|Harman-~|Karaca~|Karanfil~|Kurdodlu@|Köprübaşı~|Leylak~|Mevlana~|Namık Kemal~|Orkide~|Pınar~|Reyhan~|Serçe~|Ziya Gökalp@
+192539	Yeşilbağ Mah.	Yeşilbad=
+192541	Yeşiltaş Mah.	Yeşiltaş=
+192485	Yukarıortaören Mah.	Yukarıortaören=
+192487	Yuvacık Mah.	Diyarbakır Batman .çşb@|Yolaltı=|Yolüstü=|Yuvacık=|Zorevler=
+192531	Yıllarca Mah.	Harik=|Kalık=|Yıllarca=
+192411	Çakırkaya Mah.	Keysani=|Çakırkaya=
+192553	Çakırtutmaz Mah.	Çakırtutmaz=
+192413	Çataltarla Mah.	Çataltarla=
+192501	Çeltikaltı Mah.	Çeltikaltı=
+192417	Çukurbaşı Mah.	Hasırlı=|Çukurbaşı=
+192503	Çömçeli Mah.	Bellek=|Bürüsk=|Hiçan=|Çömçeli=
+192415	Çınarköy Mah.	Danışır=|Karaçbelik=|Çınarköy=
+192461	Öncülü Mah.	Öncülü=
+192479	Özgider Mah.	Özgider=
+192463	Özyar Mah.	Özyar=
+192513	İnanöz Mah.	Dişli Başak 2.=|Kizinder=|İnanöz=
+192439	İncirtepe Mah.	Salihli=|Taşönü=|İncirtepe=
+192471	Şekerören Mah.	Aboriş-1=|Şekerören=
+192473	Şeyhçoban Mah.	Şeyhçoban=
+192475	Şükürlü Mah.	Diyarbakır Batman .çşb@|Kınalı Tarla=|Mardin%|Şükürlü=

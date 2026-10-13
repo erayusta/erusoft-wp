@@ -1,0 +1,79 @@
+159313	Akbulut Mah.	Akbulut=
+159411	Akdoğu Mah.	Akdoğu=|Atabinen=
+80647	Akpınar Mah.	Akpınar Taslak 3~|Akpınar Taslak 4~|Akpınar Taslak 6~|Akpınar Taslak 9~|Akpınar Taslak/100~|Akpınar Taslak/200~|Akpınar Taslak/700~|Bahçivan~|Bahçivan1~|Devlet Yolu@|Değirmenler@|Ferado665~|Hükümet@|Karakol@|Karakol/10~|Mecit Donat 1~|Mecit Donat 2~|Mecit Donat@|Mecit Donat/14~|Milli Egemenlik@|Nil~|Yeniyol/17~|Şehit Burhan Kılıç~
+159315	Alnıak Mah.	Alnıak=|Giyimli=|Yurtbaşı=
+159373	Arındı Mah.	Arındı=|Düzgören=
+80649	Aşağıkaymaz Mah.	Arkboyu@|Arkboyu/1~|Arkboyu/2~|Arkboyu/3~|Arkboyu/4~|Aşağıkaymaz Bılınmeyen 1~|Aşağıkaymaz Taslak 2~|Aşağıkaymaz Taslak 3~|Aşağıkaymaz Taslak 4~|Aşağıkaymaz Taslak 6~|Aşağıkaymaz Taslak 8~|Aşağıkaymaz Taslak 9~|Beyarkı/2@|Cami~|Dere~|Devlet Yolu /10~|Devlet Yolu /3~|Devlet Yolu /5~|Devlet Yolu /6~|Devlet Yolu /7~|Devlet Yolu /8~|Devlet Yolu /9~|Devlet Yolu@|Devlet Yolu/2~|Devlet Yolu/400~|Devlet Yolu1~|Mezarlık~|Mezarlık/1~|Nur~|Okul@|Çayır~
+159375	Bağrıyanık Mah.	Bağrıyanık=|Kuşdağı=|Kırkgeçit B.m=
+159435	Beşbudak Mah.	Beşbudak=
+159317	Bozyiğit Mah.	Bozyiğit=
+159377	Bölmeçalı Mah.	Bölmeçalı=|Dağcık=
+159379	Bükeç Mah.	Bağlıdere=|Bükeç=
+159319	Cevizalan Mah.	Cevizalan=|Mustafabey=|Çörekli=
+80645	Cumhuriyet Mah.	Aydın~|Cezaevi~|Cezaevi/1~|Cezaevi/10~|Cezaevi/2~|Cezaevi/3~|Cezaevi/4~|Cezaevi/5~|Cezaevi/6~|Cezaevi/7~|Cezaevi/8~|Cezaevi/9~|Cumhuriyet@|Cumhuriyet/1~|Cumhuriyet/2~|Deniz~|Deniz/1~|Deniz/2~|Devlet Yolu@|Devlet Yolu/300~|Diyanet~|Emniyet~|Emniyet/1~|Eski Belediye~|Eski Belediye/1~|Güneş~|Güneş/1~|Hükümet@|Hükümet/1~|Hükümet/2~|Hükümet/3~|Konak~|Konak/1~|Milli Egemenlik@|Müftü M.emin Karabıyık~|Müftü M.emin Karabıyık/1~|Sanayi~|Susam~|Yonca~|Yonca/1~|Çiçek~
+159383	Dağseven Mah.	Dağseven=|Dokuzbaşak=|Kapıdağ=|Yaşlıdal=
+80646	Değirmendüzü Mah.	Arkboyu/1~|Devlet Yolu /1~|Devlet Yolu@|Devlet Yolu/12~|Devlet Yolu/3~|Devlet Yolu/300~|Devlet Yolu/301~|Değirmenler 1~|Değirmenler@|Değirmenler/1~|Değirmenler/2~|Değirmenler/3~|Değirmenler/4~|Değirmenler/6~|Pınar~|Susam~|Yonca~|Çayır~|Şamran~|Şamran/1~|Şamran/2~
+159415	Dikbıyık Mah.	Arkaç=|Baltutan=|Bağlıdere=|Biban=|Dikbıyık=|Mor=|Pirdelon=
+159385	Dolaylı Mah.	Binektaş=|Dolaylı=|Yeşilyurt=|İlgi=
+159387	Doluçıkın Mah.	Doluçıkın=
+159323	Elaçmaz Mah.	2.küme/bağrıaçık=|Elaçmaz=
+159297	Erkaldı Mah.	Erkaldı=
+159417	Geziyurt Mah.	Geziyurt=
+159389	Geçerli Mah.	Geçerli=|Kapıdağ=
+159325	Giyimli Mah.	Giyimli=|Yurtbaşı=
+159327	Gölardı Mah.	Gölardı=
+159391	Güleçler Mah.	Güleçler=
+159329	Günbaşı Mah.	Günbaşı=
+159331	Hacıköy Mah.	Hacıköy=
+159333	Hamurkesen Mah.	Hamurkesen=
+159311	Hoşab Mah.	Başkale Yolu=|Bey=|Kale İçi=|Kalegir=|Murataldı=|Tepegören/1=|Çekiciler=|Şehitler=
+159335	Işıkpınar Mah.	Işıkpınar=
+159419	Kalkanlı Mah.	Kalkanlı=
+159393	Kapçık Mah.	Dolaylı=|Kapçık=
+159337	Karakoç Mah.	Abdalı Sincan=|Karakoç=
+80648	Koyunyatağı Mah.	Akpınar Taslak 6~|Devlet Yolu@|Devlet Yolu/1~|Koyunyatağı/1~|Koyunyatağı/2~|Yeni Yol / 22~|Yeni Yol/20~|Yeni Yol/21~|Yeni Yol/23~|Yeniyol@|Yeniyol/1~|Yeniyol/10~|Yeniyol/11~|Yeniyol/12~|Yeniyol/13~|Yeniyol/15~|Yeniyol/16~|Yeniyol/17~|Yeniyol/18~|Yeniyol/19~|Yeniyol/2~|Yeniyol/20~|Yeniyol/21~|Yeniyol/23~|Yeniyol/24~|Yeniyol/25~|Yeniyol/26~|Yeniyol/29~|Yeniyol/3~|Yeniyol/30~|Yeniyol/4~|Yeniyol/6~|Yeniyol/7~|Yeniyol/8~|Yeniyol/9~
+159395	Koçgüden Mah.	Koçgüden=
+159299	Kuşdağı Mah.	Kuşdağı=
+159421	Kılıçtutan Mah.	Aşağı Alıç=|Kılıçtutan=|Kırkçömlek=|Yukarı Alıç=
+159371	Kırkgeçit Mah.	Kırkgeçit B.m=
+159339	Mollahüseyin Mah.	Mollahüseyin=|Murataldı=
+159341	Murataldı Mah.	Doluçıkın=|Murataldı=
+159343	Ongun Mah.	Ongun=
+159301	Ortaköy Mah.	Hasan Koç=|Ortaköy=
+80651	Otbiçer Mah.	Gül=|Güzel=|Hükümet@|Otbiçer/1~|Özgün=
+159423	Oğuldamı Mah.	Geziyurt=|Oğuldamı=|Taşnacak=
+159303	Parmakkapı Mah.	Hükümet/3~|Kuşdağı=|Parmakkapı=
+159305	Sakalar Mah.	Sakalar=
+159401	Sapakonak Mah.	Sapakonak=
+159347	Savacık Mah.	Ongun=|Savacık=
+159349	Sevindik Mah.	Bahçelievler~|Bahçelievler/1~|Bahçelievler/2~|Başkale Yolu=|Gölesirni~|Sevindik~|Sevindik.1~|Sevindik.10~|Sevindik.11~|Sevindik.12~|Sevindik.13~|Sevindik.14~|Sevindik.15~|Sevindik.16~|Sevindik.18~|Sevindik.2~|Sevindik.20~|Sevindik.22~|Sevindik.24~|Sevindik.26~|Sevindik.28~|Sevindik.3~|Sevindik.30~|Sevindik.32~|Sevindik.34~|Sevindik.36~|Sevindik.38~|Sevindik.4~|Sevindik.5~|Sevindik.6~|Sevindik.7~|Sevindik.8~|Sevindik.9~|Tepegören=|Toygun~|Toygun/1~|Toygun/2~|Toygun/3~|Yüzbaşıoğlu~|Yüzbaşıoğlu/1~|Çakır~
+159351	Sütlüce Mah.	Sütlüce=|Yukarısütlüce=
+159425	Sıcaksu Mah.	Sıcaksu=
+159353	Taşdöndüren Mah.	Taşdöndüren=|Yurtbaşı=
+159403	Taşlıyazı Mah.	Bükeç=|Taşlıyazı=
+159355	Tepegören Mah.	Albenek=|Sevindik~|Tepegören=
+159357	Topsakal Mah.	Süngübayır=|Topsakal=
+159429	Topyıldız Mah.	Gümüşpala=|Kalkanlı=|Koşumlu=|Küçükburç=|Topyıldız=|Yukarıeyerli=
+159427	Topçudeğirmeni Mah.	Bükülmez=|Topçudeğirmeni=|Yolduran=
+159431	Tutak Mah.	Tutak=
+159359	Tutmaç Mah.	Tutmaç=
+159361	Umut Mah.	Umut=|Özengi=|Şehitlik=
+159363	Uzungedik Mah.	Ağıldere=|Uzungedik=|Çılgı=
+159409	Yalınca Mah.	Sıcaksu=|Yalınca B.m=
+159367	Yaramış Mah.	Abdalı Sincan=|Karakoç=|Sado=|Yaramış=
+159307	Yatağan Mah.	Yatağan=
+159405	Yedisalkım Mah.	Dikenli=|Güleçler=|Yedisalkım=
+159309	Yolaşan Mah.	Bedir~|Bedir/1~|Bedir/2~|Yolaşan~|Yolaşan/1~|Yolaşan/10~|Yolaşan/11~|Yolaşan/12~|Yolaşan/13~|Yolaşan/15~|Yolaşan/16~|Yolaşan/17~|Yolaşan/18~|Yolaşan/19~|Yolaşan/2~|Yolaşan/20~|Yolaşan/21~|Yolaşan/22~|Yolaşan/23~|Yolaşan/24~|Yolaşan/25~|Yolaşan/3~|Yolaşan/4~|Yolaşan/5~|Yolaşan/6~|Yolaşan/7~|Yolaşan/9~|Yolaşan/bilinmeyen~
+159407	Yoldüştü Mah.	Güdümlü=|Sarı Yaprak=|Yoldüştü=
+80650	Yukarıkaymaz Mah.	Başbulak@|Başbulak/1~|Başbulak/2~|Başbulak/4~|Başbulak/5~|Başbulak/6~|Başbulak/8~|Başbulak/9=|Beyarkı@|Beyarkı/1~|Beyarkı/10~|Beyarkı/11~|Beyarkı/12~|Beyarkı/13~|Beyarkı/14~|Beyarkı/15~|Beyarkı/16~|Beyarkı/5~|Beyarkı/6~|Beyarkı/7~|Beyarkı/8~|Beyarkı/9~|Beyarkı_2~|Köprü~|Köprü/1~|Köprü/2~|Köprü/3~|Köprü/4~|Köprü/5~|Sakalar=|Yaprak~|Yaprak/1~|Yaprak/2~|Yaprak/3~|Yaprak/4~|Yaprak/5~|Yaprak/6~|Çiftlik~|Çiftlik/1~|Çiftlik/2~|Çiftlik/3~
+159369	Yurtbaşı Mah.	Yurtbaşı=
+159293	Çakınlı Mah.	Yatağan=|Çakınlı=
+159381	Çatakdibi Mah.	Aşağı Beşparmak~|Aşağı Beşparmak/1~|Aşağı Beşparmak1~|Döveciler~|Döveciler/1~|Kalıntaş~|Kalıntaş/1~|Kaymaklı~|Kaymaklı1~|Merkez.1~|Merkez_1~|Çatakdibi~|Çatakdibi/2~|Çatakdibi/3~|Çatakdibi/4~|Çatakdibi/5~|Çatakdibi/6~
+159295	Çavuştepe Mah.	Yolaşan/21~|Çavuştepe=
+159413	Çepkenli Mah.	Aşağı Beşparmak/1~|Aşağı Kızgınkaya~|Gayridere~|Kayrakdere~|Tarıncı~|Tarıncı1~|Yalaztepe~|Yaya~|Yukarı Beşparmak~|Yukarı Beşparmak/1~|Çepkenli~|Çepkenli/1~|Çepkenli/2~|Çepkenli/3~|Çepkenli/4~|Çepkenli1~|Çepkenli2~|Çepkenli3~|Üçdoğan=
+159321	Çörekli Mah.	Kalegir=|Kırağı=|Merkez=|Mustafabey=|Tepegören/1=|Yaramış=|Çörekli=
+159397	Örmeli Mah.	Elemeği=|Karakaş=|Örmeli=
+159345	Öveçli Mah.	Karakoç=|Sevindik~|Yelekli=|Öveçli=
+159399	Özlüce Mah.	Geziyurt=|Özlüce=
+159433	Üçdoğan Mah.	Bükülmez=|Evinli=|Üçdoğan=
+159365	Üçgen Mah.	Üçgen=

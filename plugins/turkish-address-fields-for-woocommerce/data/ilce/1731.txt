@@ -1,0 +1,146 @@
+78008	Akkoca Köyü	 Köy$
+78009	Akpınar Köyü	 Köy$
+78010	Akpınarbeleni Köyü	 Köy$
+78006	Akçakale Köyü	 Köy$
+78007	Akçalı Köyü	 Köy$
+77970	Akören Köyü	 Köy$
+77925	Alaca Köyü	 Köy$
+77971	Altınoluk Köyü	 Köy$
+77972	Arslandoğmuş Köyü	 Köy$
+77927	Avcıpınarı Köyü	 Köy$
+78011	Aşağıekecik Köyü	 Köy$
+77926	Aşağıçakmak Köyü	 Köy$
+77928	Bakırcıoğlu Köyü	 Köy$
+77973	Banaz Köyü	 Köy$
+77929	Bayat Köyü	 Köy$
+78013	Başköy Köyü	 Köy$
+77985	Bedel Köyü	 Köy$
+78014	Belcik Köyü	 Köy$
+77931	Buğdayören Köyü	 Köy$
+77930	Buğdayören Köyü, Erikli Mezrası	 Köy$
+77986	Büyükakören Köyü	 Köy$
+70503	Camii Mah.	Akça~|Cumhuriyet@|Dere~|Diktepe=|Ergenekon=|Hamam~|Kağnı~|Kemenkeş Kara Mustafa Paşa@|Kemenkeş Kara Mustafa Paşa~|Kesik~|Mustafa Arda~|Nal Döken~|Ulus~|Ziya Gökalp~
+77932	Cizözü Köyü	 Köy$
+78031	Cumhuriyet Köyü	 Köy$
+70504	Cumhuriyet Mah.	Anadolu~|Ara~|Atatürk@|Badem~|Dede Korkut~|Eti~|Fatih Sultan Mehmet@|Geçit~|Kızılcık~|Sümbül~|Taşlı~
+77935	Danaören Köyü	 Köy$
+77974	Danişment Köyü	 Köy$
+78018	Davulalan Köyü	 Köy$
+78019	Delikkaya Köyü	 Köy$
+77988	Demircilik Köyü	 Köy$
+77989	Demiroluk Köyü	 Köy$
+77975	Demirözü Köyü	 Köy$
+77990	Dereköy Köyü	 Köy$
+78020	Dikilitaş Köyü	 Köy$
+77984	Direkli Köyü	 Köy$
+78002	Direkli Sarıkaya Köyü	 Köy$
+77976	Doğanlı Köyü	 Köy$
+77991	Emirler Köyü	 Köy$
+77936	Erenler Köyü	 Köy$
+77977	Esençay Köyü	 Köy$
+78021	Eşmebaşı Köyü	 Köy$
+70506	Fatihsultanmehmet Mah.	Cemal Çevik@|Cumhuriyet@|Nazmi Yaraş@|Sıtkı Gülüm~|Şehit Kadir Ateşoğlu~|Şehit Nadir Bekar~|Şehit İsmail Akay~
+70507	Fevzi Çakmak Mah.	Abdüllatif Şener@|Bekir Kahyalar Ağılı=|Cumhuriyet@|Ezvacılar=|Kanuni Sultan Süleyman~|Mehmet Yağmur~|Nazmi Yaraş@|Selim Koçeker~|Taşbaşlar Ağılı=|Yavuz Sultan Selim~
+78022	Fındıcak Köyü	 Köy$
+77978	Geynik Köyü	 Köy$
+77979	Gökkaya Köyü	 Köy$
+77992	Gökçeli Köyü	 Köy$
+70519	Güneykaya Beldesi, Aydın Mah.	Adnan Menderes@|Armutlu~|Atatürk@|Ayyıldız~|Bayram Pehlivan~|Dere~|Garipler~|Gazi~|Gökdere~|Gül~|Güneş~|Killik~|Korelik~|Lale~|Meclün~|Mehmet Akif Ersoy~|Menekşe~|Polat~|Selvi~|Yusufoğlan Köy Yolu~|Ülkü~
+140635	Güneykaya Beldesi, Kargın Mah.	15 Temmuz@|Bahçelievler~|Cami~|Devlet Bahçeli@|Ertuğrul Gazi~|Eski Cami~|Fatih Sultan Mehmet@|Hilal~|Hürkuş~|Kargın Yeni Yol 12~|Kargın Yeni Yol 13~|Kargın Yeni Yol 2~|Kargın Yeni Yol 24~|Kargın Yeni Yol 25~|Kargın Yeni Yol 34~|Kargın Yeni Yol 35~|Kargın Yeni Yol 36~|Kargın Yeni Yol1~|Karşıyaka~|Kayalar~|Medrese~|Metehan~|Molla Hüsrev~|Osman Gazi~|Oğuz Kağan~|Recep Tayip Erdoğan@|Sancak~|Selçuklu~|Sultan Abdülhamit~|Sümbül~|Yavuz Sultan Selim~|Yıldırım Beyazid~|Çay~|Çayırlar~|Çiçek~|İstiklal~
+70520	Güneykaya Beldesi, Yenicamii Mah.	Adnan Menderes@|Ahmet Yesevi~|Albayrak~|Alparslan~|Anadolu~|Atatürk@|Bozkır~|Cumhuriyet~|Değirmen~|Elmalı~|Garipler~|Göktürk~|Güney~|Karanfil~|Kepez~|Killik-~|Korelik~|Meydan~|Polat-~|Rençber~|Sarıyar Güneykaya Yolu~|Tepe~|Yenicamii Yeniyol13~|Yenicamii Yeniyol14~|Yenicamii Yeniyol8~|Yeşilyurt Yeniyol16~|Yeşilyurt Yeniyol17~|Yunus Emre~|Yusufoğlan Köy Yolu~|Yıldız~|Şehit Fethi Sekin~|Şehit Ömer Halisdemir~
+70521	Güneykaya Beldesi, Yeşilyurt Mah.	Abdulkadir~|Aktaş~|Atatürk@|Ayazma~|Lale~|Mehmet Akif Ersoy~|Mevlana~|Molla~|Nene Hatun~|Polat~|Pınar~|Selvi~|Vişne~|Vişne1~|Yeşiltaş~|Yeşilyurt Yeniyol1~|Yeşilyurt Yeniyol7~|Çeşme~
+78024	Halkaçayır Köyü	 Köy$
+77937	Hamzaşeyh Köyü	 Köy$
+77938	Ilıca Köyü	 Köy$
+78025	Kadıköy Köyü	 Köy$
+77943	Kadılı Köyü	 Köy$
+77993	Kaleköy Köyü	 Köy$
+70522	Kalın Köyü, Camii Mevkii	1.~|10.~|11.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Mevlana~|Osman Çavuş~|Yunus Emre~
+70525	Kalın Köyü, Termal Mevkii	1.~|2.~|4.~|5.~|6.~|7.~|Abdulhamit~|Ankara Asfaltı~|Demokrasi~|Gazi Mustafa Kemal~
+70524	Kalın Köyü, Zafer Mevkii	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16~|17~|2.~|3.~|4.~|5.~|6.~|7.~|75.yıl~|8.~|9.~|Kaşın Başı~|Mevlana~|Tatlısu~
+70523	Kalın Köyü, Şehitosman Mevkii	1.~|10.~|2.~|3.~|4.~|5.~|6.~|7.~|75.yıl~|8.~|9.~|Deveciler~|Kalkan Pınarı~|Kayaardı~|Kuzucular~|Okul~|Osman Çavuş~
+77944	Kaman Köyü	 Köy$
+77994	Kapaklıkaya Köyü	 Köy$
+78026	Kapı Köyü	 Köy$
+77945	Karacaören Köyü	 Köy$
+78027	Karakaya Köyü	 Köy$
+77995	Karakoç Köyü	 Köy$
+78028	Karalar Köyü	 Köy$
+78029	Karaleylek Köyü	 Köy$
+70508	Karşıyaka Mah.	Abdüllatif Şener@|Ahmetler-musa Efendi=|Akşemsettin~|Genç Osman~|Hasan Ağa Ağılı=|Mehmet Ceylan@|Mevlana~|Nazmi Yaraş@|Nuri Çamlıbel~|Ulubatlı Hasan~|Çağlayanlar Ağılı=|Şehit Mustafa Karapınar~
+70513	Kavak Köyü, Fatih Mevkii	Aydoğan~|Aydınlık~|Belediye~|Değirmen~|Göktürk~|Küme Evler~|Lojman~|Mevlana~|Çay~|Çiğdem~
+70514	Kavak Köyü, Mehmetakifersoy Mevkii	Atatürk~|Danışık~|Göktürk~|Huzur~
+70515	Kavak Köyü, Şehitnadirbekar Mevkii	Alparslan Türkeş~|Göktürk~|Hasancık~|Lale~|Menekşe~|Navruz~
+77996	Kavakdere Köyü	 Köy$
+77997	Kayalıpınar Köyü	 Köy$
+77946	Kerimmümin Köyü	 Köy$
+78032	Killik Köyü	 Köy$
+77949	Kiremitli Köyü	 Köy$
+77950	Konaközü Köyü	 Köy$
+70516	Kümbet Köyü, Cumhuriyet Mevkii	Atatürk~|Camii~|Evliya~|Gültepe~|Kardelen~|Lale~|Sümbül~
+70518	Kümbet Köyü, Fatih Mevkii	Atatürk~|Bülbül~|Demet~|Evliya~|Gül~|Kanarya~|Menekşe~|Taşlı~|Zümrüt~|Çamlı~
+70517	Kümbet Köyü, Kale Mevkii	Atatürk~|Evliya~|Gülistan~|Kırlangıç~|Papatya~|Selvi~|Türkmen~|Yıldız~|Çıkmaz~
+78033	Küçükakören Köyü	 Köy$
+77947	Kıldır Köyü	 Köy$
+77998	Kırkpınar Köyü	 Köy$
+77999	Kıvşak Köyü	 Köy$
+77948	Kızılköy Köyü	 Köy$
+70509	Mehmetakifersoy Mah.	4.murat~|Cumhuriyet@|Ertuğrul Gazi~|Muzaffer Büke~|Necmi Yaraş~|Osman Bey~|Söğütlü~|Uzun~|Yunus Emre~|Yıldırım Beyazıt~|Şehit Cahit Kaya~
+77952	Menteşe Köyü	 Köy$
+77951	Menteşe Köyü, Tahtaköprü Mezrası	 Köy$
+77959	Merkez Sarıkaya Köyü	 Köy$
+77953	Merkezyeniköy Köyü	 Köy$
+77954	Mumcuçiftliği Köyü	 Köy$
+78034	Nallı Köyü	 Köy$
+78001	Nevruz Köyü	 Köy$
+78000	Nevruz Köyü, Aşağı Navruz Mezrası	 Köy$
+77955	Nevruzyaylası Köyü	 Köy$
+77957	Ortaklar Köyü	 Köy$
+77956	Ortaçakmak Köyü	 Köy$
+70510	Reşadiye Mah.	Alparslan~|Atatürk@|Cumhuriyet@|Değirmen~|Fatih Sultan Mehmet@|Hamam~|Karanfil~|Kumru~|Kırgız~|Sarı Gül Küme Evler=|Taşlı~|Uygar~|İskit~
+70511	Salihiye Mah.	Aksu~|Atatürk@|Badem~|Cengiz Topel~|Eyüp Aygül Ağılı=|Fatih Sultan Mehmet@|Göktepe=|Kızılcık~|Laleli~|Menekşe~|Pınar~|Seyfettin Bey=|Sökünler Ağılı=|Tatarlar Ağılı=|Yıldız~|Çeşme~|Çıtırlar Ağılı=|Ömer Sağlam Ağılı=
+196885	Sandal Köyü	Sandal~
+77981	Sarıyar Köyü	=
+78035	Sarıçal Köyü	 Köy$
+70512	Selamet Mah.	Selamet Kümeevler=
+77960	Seren Köyü	 Köy$
+77962	Subaşı Köyü	 Köy$
+77961	Söğütpınar Köyü	 Köy$
+78003	Tatköy Köyü	 Köy$
+78037	Tayalan Köyü	 Köy$
+77963	Topulyurdu Köyü	 Köy$
+77964	Töngel Köyü	 Köy$
+78004	Yakacıkçavuşlu Köyü	 Köy$
+77982	Yakupköy Köyü	 Köy$
+78041	Yassıkara Köyü	 Köy$
+70526	Yavu Köyü, Camii Mevkii	1.~|2.~|3.~|4.~|5.~|6.~|Dağıstan~|Şehit Erdal Kavallı~
+70527	Yavu Köyü, Fatihsultanmehmet Mevkii	1.~|10.~|11.~|13.~|14.~|15.~|16.~|17.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Mehmet Habip Soluk~
+70528	Yavu Köyü, Yeni Mevkii	1.~|2.~|3.~|4.~|5.~|6.~|Fahrettin Arar~
+78042	Yaylagöze Köyü	 Köy$
+78040	Yağlıdere Köyü	 Köy$
+77965	Yeniyapan Köyü	 Köy$
+78030	Yeşilalan Köyü	 Köy$
+77967	Yiğitler Köyü	 Köy$
+78043	Yolkaya Köyü	 Köy$
+78044	Yukarıekecik Köyü	 Köy$
+77968	Yukarıçakmak Köyü	 Köy$
+77983	Yusufoğlan Köyü	 Köy$
+78045	Yuvalıçayır Köyü	 Köy$
+78005	Yücebaca Köyü	 Köy$
+77966	Yılanlıkaya Köyü	 Köy$
+70505	Çamlıbel Mah.	Abdurrahman Ağılı=|Aşuhbekirlerin Ağılı=|Benlilerin Ağılı=|Haksızların Ağılı=|Haydarların Ağılı=|Karaahmetler Ağılı=|Keleş Ve Budala Ağılı=|Nufların Ağılı=|Pişticioğlu=|Sürütlerin Ağılı=
+77933	Çağlayan Köyü	 Köy$
+77934	Çobansaray Köyü	 Köy$
+77987	Çubuk Köyü	 Köy$
+78017	Çukursaray Köyü	 Köy$
+78016	Çöte Köyü	 Köy$
+77969	Çırçır Köyü	 Köy$
+78038	Üyük Köyü	 Köy$
+78039	Üyükyaylası Köyü	 Köy$
+77941	İncetaş Köyü	 Köy$
+77942	İslim Köyü	 Köy$
+77939	İğdecikler Köyü	 Köy$
+77940	İğnebey Köyü	 Köy$
+70529	Şeyhhalil Köyü, Fatih Mevkii	1.~|2.~|3.~|4.~|5.~|6~|7.~|8.~|9.~|Kale~|Pr.dr.necmettin Erbakan~|Tayyip~
+70530	Şeyhhalil Köyü, Selçuklu Mevkii	1.~|1.çıkmaz~|10.~|11.~|12.~|14.~|2.~|4.~|6.~|7.~|8.~|9.~|Abdullatif Şener~|Okul~|Pr.dr Necmettin Erbakan~|R.tayyip Erdoğan~|İstiklal~
+70531	Şeyhhalil Köyü, Şehitler Mevkii	1.~|2.çıkmaz~|3.~|4.~|5.~|Abdullatif Şener~|Atatürk~|Camii~|Okul~|Pr.dr Necmettin Erbakan~|Yahya-i Hacip~|Yavuz Sultan Selim~

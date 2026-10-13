@@ -1,0 +1,110 @@
+153401	Akkocalı Mah.	Akkocalı~
+153379	Akselendi Mah.	1 Nolu=|1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.~|30.~|31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|39~|4.~|40~|41~|5.~|6.~|7.~|8.~|9.~
+153397	Akçaalan Mah.	Akçaalan~
+153399	Akçeşme Mah.	Akçeşme~|Fırınlı~|Şıngırdaklı~
+153543	Arabacıbozköy Mah.	Arabacıbozköy~|Dere~|Yapılı Kırı~
+52148	Atatürk Mah.	160.~|161.~|161/1.~|161/2.~|162.~|163.~|164.(şehit Süreyya Atlıhan)@|165.~|166.~|167.(şehit Murat Öztürk)@|185.~|186.~|186/1.~|196.~|197.~|336.~|338.~|339.~|340.~|341.~|342.~|343~|344.~|345.~|346.~|347.~|348.~|349.~|350.~|351.~|352.~|353.~|353/1.~|354.~|355.~|356.~|357.~|357/1.~|357/2.~|358.~|358/1.~|359.~|510.~|511.~|513~|514.~|515.~|517.~|518.~|519.~|520.~|521.~|522.~|523.~|524.~|526~|527.~|529.~|533.~|535~|536~|537~|538.~|540.~|541.~|542.~|543.~|544.~|545.~|547.~|549.~|550.~|551.~|555.~|556.~|557.~|558~|559~|561.~|562.~|564.~|565.~|566.~|569.~|570~|572.~|Atatürk~|Şehit Ahmet Tezcan~
+153403	Aşağıdolma Mah.	Aşağıdolma~
+153395	Ballıca Mah.	1.~|10 Sokak Sonu Serpme Evler=|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24~|3.~|4.~|5.~|6.~|6/1~|7.~|8.~|9.~|Ahmet Çalışı=|Atatürk@|Gazi@|Muratlar Kuyu Küme Evler=
+153405	Başlamış Mah.	Başlamış~
+153407	Bekirler Mah.	Bekirler~
+153381	Beyoba Mah.	1.~|10.~|100.~|101~|102~|103.~|104~|105~|106~|107~|108~|109~|11.~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|12.~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|13.~|130~|131~|132~|133~|134~|135.~|136~|137.~|138~|139~|14.~|15.~|16.~|17.~|18~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|26/1.~|27.~|28.~|28/1.~|29.~|3.~|30.~|31.~|32.~|32/1.~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|4.~|40.~|41.~|42.~|43.~|44.~|45~|46~|47~|48~|49~|5.~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6.~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7.~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|8.~|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|9.~|90~|91~|92~|93~|94~|95~|96~|97~|98~|99~|Atatürk@|Atatürk Mahallesi Küme Evleri=|Atatürk Çevre Yolu@|Cemal Gündüz@|Cırlık Tepe=|Fevzi Çakmak@|Gündüzbey Çevre Yolu@|Hürriyet Çevre Yolu@|Kazım Karabekir@|Kemal Göral@|Manisa@|Mazlum Atlan@|Mitatpaşa@|Yaşar Ahmet Çetin@|Ziya Bey@|Zübeyde Hanım@|Çayaltı@|Ünlü@|İnönü@
+153409	Boyalılar Mah.	Boyalılar~|Konak~|Yağlılar~
+153545	Büknüş Mah.	Büknüş~
+153547	Bünyanosmaniye Mah.	Bünyanosmaniye~
+52149	Cumhuriyet Mah.	136.~|251.~|251/1.~|254.~|255.~|255/1.~|255/2.~|256.~|256/1.~|256/2.~|256/3.~|256/4.~|257.~|258.~|258/1.~|259.~|259/1.~|260.~|260/1.~|261.~|262.~|263.~|263/1.~|263/2.~|263/3.~|264.~|265.~|265/1.~|266.~|268.~|269.~|269/1.~|Şehit Serdar Denizer~
+153421	Dayıoğlu Mah.	Dayıoğlu~|Yıkık Köprü~|Çınarsaya~
+153383	Dağdere Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.~|30.~|31.~|32.~|33.~|34.~|35.~|4.~|5.~|6.~|7.~|8.~|9.~|Adnan Menderes@|Atatürk%|Cevizlidere=|Cumhuriyet Myd.|Fatih Sultan Mehmet@|Karagöz=|Karşıyaka=|Kazım Karabekir@|Mehmet Akif Ersoy@|Namazla@|Oruçalan=|Salıdere=|Süleyman Demirel@|Yarentepe=|Zafer@|İnebey@
+153549	Dereköy Mah.	Dereköy~
+153423	Dingiller Mah.	Dingiller~|Çaybaşı~|Çayönü~
+153429	Dolmadeğirmen Mah.	Dolmadeğirmen~
+153425	Doğankaya Mah.	Alan~|Doğankaya~|Hancılar~
+153427	Doğuca Mah.	Doğuca~
+153431	Durasıl Mah.	Durasıl~|Hüseyincikler~|Kerim Çavuş~
+52150	Efendi Mah.	136.~|199.~|264.~|267/1.~|267/2.~|267/3.~|267/4.~|269.~|270.~|270/1.~|270/2.~|271.~|272.~|272/1.~|272/2.~|272/3.~|272/4.~|273.~|274.~|275.~|276.~|276/1.~|277.~|277/1.~|278.~|279.~|279/1.~|279/2.~|279/3.~|279/4.~|279/5.~|280.~|280.kuzeyi Serpmeevler=|36.~|381.~|382.~|382.kuzeyi Serpmeevler=|382/1.~|382/2.~|55.~|56.~|57.~|59.~|59/1.~|60.~|61.~|62.~|63.~|64.~|65.~|66.~|68.~|69.~|70.~|71.~|72.~|73.~|77~|84.~|85.~|86.~|95.~|96.~|Şehit Serdar Denizer~
+153551	Erdelli Mah.	Erdelli~
+153433	Eroğlu Mah.	Eroğlu~
+153553	Evkafteke Mah.	Evkafteke~
+153435	Göcek Mah.	Göcek~
+153437	Gökçeahmet Mah.	Gökçeahmet~
+153439	Gökçeler Mah.	Gökçeler~|Kuruçay~
+52151	Hacı İshak Mah.	130.~|131.~|139.~|140.~|141.~|142.~|142/1.~|143.~|144.(mustafa Kirazoğlu)@|144/1.~|144/2.~|146.~|147.~|148.~|148/2.~|148/3.~|149.~|15.(şehit Polis Cemal Ilgaz)@|150~|201.~|202.~|203.~|204.~|240.~|240/1.~|241.~|241/1.~|242.~|242/1.~|242/2.~|243.~|243/1.~|243/2.~|243/3.~|243/4.~|244.~|245.~|246.~|247.~|247/1.~|247/2.~|247/3.~|247/4.~|247/5.~|247/6.~|247/7.~|247/8.~|248.~|248/1.~|249.(şehit Kudret Toydemir)@|249/1.~|249/2.~|249/3.~|249/4.~|249/5.~|249/6.~|249/8.~|250.~|251.~|252.~|253.~|Nuri Giyik Sanayi Sitesi 10.blok=|Nuri Giyik Sanayi Sitesi 11.blok=|Nuri Giyik Sanayi Sitesi 12. Blok=|Nuri Giyik Sanayi Sitesi 13.blok=|Nuri Giyik Sanayi Sitesi 14.blok=|Nuri Giyik Sanayi Sitesi 15.blok=|Nuri Giyik Sanayi Sitesi 16.blok=|Nuri Giyik Sanayi Sitesi 17.blok=|Nuri Giyik Sanayi Sitesi 18.blok=|Nuri Giyik Sanayi Sitesi 19.blok=|Nuri Giyik Sanayi Sitesi 2.blok=|Nuri Giyik Sanayi Sitesi 20.blok=|Nuri Giyik Sanayi Sitesi 21.blok=|Nuri Giyik Sanayi Sitesi 22.blok=|Nuri Giyik Sanayi Sitesi 23.blok=|Nuri Giyik Sanayi Sitesi 24.blok=|Nuri Giyik Sanayi Sitesi 25.blok=|Nuri Giyik Sanayi Sitesi 26. Blok=|Nuri Giyik Sanayi Sitesi 27.blok=|Nuri Giyik Sanayi Sitesi 28.blok=|Nuri Giyik Sanayi Sitesi 29.blok=|Nuri Giyik Sanayi Sitesi 3.blok=|Nuri Giyik Sanayi Sitesi 30.blok=|Nuri Giyik Sanayi Sitesi 31.blok=|Nuri Giyik Sanayi Sitesi 32.blok=|Nuri Giyik Sanayi Sitesi 33..blok=|Nuri Giyik Sanayi Sitesi 34.blok=|Nuri Giyik Sanayi Sitesi 36 Blok=|Nuri Giyik Sanayi Sitesi 37.blok=|Nuri Giyik Sanayi Sitesi 4.blok=|Nuri Giyik Sanayi Sitesi 40. Blok=|Nuri Giyik Sanayi Sitesi 44.blok=|Nuri Giyik Sanayi Sitesi 46.blok=|Nuri Giyik Sanayi Sitesi 5.blok=|Nuri Giyik Sanayi Sitesi 50. Blok=|Nuri Giyik Sanayi Sitesi 51.blok=|Nuri Giyik Sanayi Sitesi 56. Blok=|Nuri Giyik Sanayi Sitesi 6.blok=|Nuri Giyik Sanayi Sitesi 7.blok=|Nuri Giyik Sanayi Sitesi 8.blok=|Nuri Giyik Sanayi Sitesi 9.blok=|Nuri Giyik Sanayi Sitesi35.blok=|Nuri Giyik Sanayii Sitesi 45.blok=|Yeni Sanayi Sitesi .1.blok=|Yeni Sanayi Sitesi 10.blok=|Yeni Sanayi Sitesi 11. Blok=|Yeni Sanayi Sitesi 14. Blok~|Yeni Sanayi Sitesi 15. Blok~|Yeni Sanayi Sitesi 17. Blok=|Yeni Sanayi Sitesi 18. Blok~|Yeni Sanayi Sitesi 19.blok~|Yeni Sanayi Sitesi 2.blok=|Yeni Sanayi Sitesi 21. Blok=|Yeni Sanayi Sitesi 22.blok=|Yeni Sanayi Sitesi 24.blok~|Yeni Sanayi Sitesi 25.blok~|Yeni Sanayi Sitesi 26.blok~|Yeni Sanayi Sitesi 27.blok~|Yeni Sanayi Sitesi 28. Blok~|Yeni Sanayi Sitesi 29.blok~|Yeni Sanayi Sitesi 30.blok~|Yeni Sanayi Sitesi 31.blok~|Yeni Sanayi Sitesi 32.blok=|Yeni Sanayi Sitesi 33. Blok~|Yeni Sanayi Sitesi 34.blok=|Yeni Sanayi Sitesi 4.blok=|Yeni Sanayi Sitesi 5.blok~|Yeni Sanayi Sitesi 6.blok~|Yeni Sanayi Sitesi 7.blok~|Yeni Sanayi Sitesi 9. Blok=|Yeni Sanayi Sitesi~|Yeni Sanayi Sitesi.13.blok~|Yeni Sanayi Sitesi2.blok=|Yeni Sanayii Sitesi 12.blok~|Yeni Sanayii Sitesi 15blok=|Yeni Sanayii Sitesi=
+153441	Hacıibrahimler Mah.	Hacıibrahimler~
+153443	Hacıosmanlar Mah.	Dere~|Hacıosmanlar~|Hacıoğulları~
+153445	Hamidiye Mah.	Hamidiye~
+153447	Hamitköy Mah.	Hamitköy~
+153449	Hanpaşa Mah.	Akköy~|Aşağı Kışla~|Hanpaşa~|Karalık~|Serkele~
+153451	Harmandalı Mah.	Harmandalı~
+52152	Has Hoca Mah.	1.(tireli İsmail Bahribey)@|10.~|100.~|101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|116.~|117.~|118.~|122.~|124.~|127.~|128.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|136.~|137.~|14.(şehit Teğmen Tahir Ün)@|142.~|143.~|144.(mustafa Kirazoğlu)@|19.(mustafa Abut)@|2.~|4.~|5.~|50.(haşim Haşimoğlu)@|67.~|7.~|91.~|93.~
+153453	Hasköy Mah.	Hasköy~|Küçük Hasköy~
+52153	Hürriyet Mah.	123 Sokak Sanayi Sitesi Küçük Marangozlar Bölümü%|123.~|123/1~|123/2~|123/4~|123/5~|15.(şehit Polis Cemal Ilgaz)@|15/1~|151 Sokak (galericiler Sitesi M.blok%|151.(hilaliye)@|159.~|16.~|205.~|206.~|207.~|208.~|209.~|210.~|211.(şehit Hakan Acarkanlı)@|212.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|220.~|221.~|222.~|223.~|224.(şehit Murat İlerigelen)@|394.~|395.~|396.~|397.~|400.~|401.~|402.~|403~|404.~|405.~|407.~|408~|409.~|410.~|411.~|412.~|413.~|414.~|415.~|416.~|417.~|418.~|419.~|420.~|421.~|422.~|423.~|424.~|425.~|426.~|427.~|428.~|429.~|430.~|431~|432.~|433.~|434.~|435.~|436.~|437~|438.~|439.~|440.~|441.~|442.~|443.~|444.~|445.~|446.~|447.~|448.~|449.~|450.~|451.~|452.~|453.~|454.~|455.~|456.~|457.~|458.~|460.~|461.~|462.~|463.~|485.~|486~|488.~|489.~|490.~|491.~|492.~|493.~|494~|495.~|496.~|498.~|499~|500~|Galericiler Sitesi D Blok~|Gıda Çarşısı@|Küçük San. Marangozlar Sitesi (a-blok)=|Küçük San. Marangozlar Sitesi (b-blok)=
+153555	Işıkköy Mah.	Işıkköy~
+153457	Kabaağaçkıran Mah.	Kabaağaçkıran~
+153459	Kadıdağı Mah.	Kadıdağı~
+153461	Kapaklı Mah.	Kapaklı~|Manisayolu-kaynak~|Tütünleryeri~
+153463	Karabörklü Mah.	Gerenlik~|Kanalaltı~|Karabörklü~|Çimentepe~|Şirinevler~
+153465	Karaköy Mah.	Karaköy~|Üçyol Boyalık~|Üçyol Karadutlu~
+153467	Karayağcı Mah.	Karayağcı~
+153469	Kavakalan Mah.	Kavakalan~
+153385	Kayalıoğlu Mah.	1.@|10.@|101~|102~|104~|106~|108~|110~|12.@|14.@|16.@|18.@|2.@|3.@|4.@|5.@|6.@|8.@|Anuk Çıkmazı~|Avcı Çıkmazı~|Aziz Çıkmaz~|Balkar Çıkmazı~|Barbaros~|Bağlarbaşı (cumhuriyet)~|Bağlarbaşı~|Başar Çıkmaz~|Bozkurt~|Cami~|Cihan~|Dedebaşı~|Derya~|Dilek~|Dutlu~|Ferah~|Gürdük~|Hafız Mümin~|Hilal~|Hisar~|Irmak~|Karanfil~|Mehtap~|Okul~|Osman Ahmet Uz~|Ova Evleri=|Ozan~|Pınarbaşı~|Selvi~|Serdar~|Seyit Yusuf Karagözoğlu@|Süslü~|Ufuk~|Yeşil~|Yeşil Yunus~|Yeşildere~|Yıldız~|Zafer@|Zambak~|Zeytinli~|Çamlık~|Çarşı Çıkmazı~|Özgür~|Özlem~|Öztürk~|İstiklal@|Şükrü Şahin~
+153471	Kayganlı Mah.	Kayganlı~
+52155	Kethüda Mah.	177.~|181.~|182.~|183.~|188.(şehit Hasan Acar)~|190.~|193.~|194.~|195.~|21.(orhan İlker)@|22.~|22/1.~|23.~|26.~|281~|33.~|34.~|35.~|37.~|373.~|373/2.~|374.~|375.~|376.~|377.~|38.~|39.~|40.~|41.~|42.~|43.~|44.~|45.~|47.~|613.~
+153475	Kobaşdere Mah.	Akçakavak~|Kobaşdere~|Yaylaevleri~
+153477	Kocakağan Mah.	Eldizen~|Kapaklı~|Karapınar~|Kocakağan~|Kovalca~|Pınarcık~|Yellice~|İslamiye~
+153481	Kulaksızlar Mah.	Kulaksızlar~
+153483	Kurtulmuş Mah.	Kabaçaltı~|Kurtulmuş~
+153479	Kömürcü Mah.	Dereiçi~|Dübekalan~|Kömürcü~
+153473	Kızlaralanı Mah.	Kızlaralanı~
+153387	Mecidiye Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Atatürk@
+153389	Medar Mah.	1.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25~|26~|27~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Akhisar@|Akkın~|Akyarsitesi=|Danaormanı=|Dayıoğlu Yolu~|Değirmen~|Eroğlu Yolu~|Eğitim~|Fantasya Sitesi=|Fatih~|Filiz~|Gül~|Gündoğdu Çıkmazı~|Hacılar~|Kadıdağyolu@|Lale~|Marangozlar Sitesi=|Mersin~|Mezarlık Yolu@|Murat~|Sarılar~|Selim~|Süleymanlı Asfaltı@|Sındırgılı~|Zeytinli~|Çay Yolu~|Çiftlikyolu~|Çiçek~|Çınar~|İlkokul@|İstiklal@|Şirinköy=
+153485	Moralılar Mah.	Moralılar~
+153487	Musaca Mah.	Musaca~
+153489	Musalar Mah.	Musalar~|Pınarbaşı~
+153491	Muştullar Mah.	Deliler~|Muştullar~|Çay~
+52156	Paşa Mah.	1.(tireli İsmail Bahribey)@|10.~|11.(kamil Şahinoğlu)~|117.~|12.~|121.~|125.~|126.~|13.~|14.(şehit Teğmen Tahir Ün)@|145.~|15.(şehit Polis Cemal Ilgaz)@|19.(mustafa Abut)@|2.~|24.~|26.~|27.~|28.~|29.~|3.~|30.~|32.~|33.~|34.~|4.~|5.~|50.(haşim Haşimoğlu)@|6.~|7.~|8.(dr.mehmet Kiper)~|9.~
+153493	Pekmezci Mah.	Dağdibi~|Kocagedik~|Pekmezci~|Çınarcık~
+153495	Pınarcık Mah.	Pınarcık~
+52157	Ragıp Bey Mah.	1.(tireli İsmail Bahribey)@|14.(şehit Teğmen Tahir Ün)@|15.(şehit Polis Cemal Ilgaz)@|151. (hilaliye )@|155.~|156.~|156/1~|158.~|16.~|16/1.~|16/2.~|17.~|18.~|19.(mustafa Abut)@|20.~|21.(orhan İlker)@|22.~|26.~|43.~
+153497	Rahmiye Mah.	Rahmiye~
+52158	Reşat Bey Mah.	167.(şehit Murat Öztürk)@|167.sk.sonu Serpmeevler=|167/1.~|168.~|169.~|170.~|171.~|172.~|173.~|174.~|175.~|176.~|188.(şehit Hasan Acar)~|189.~|190.~|191.~|192.~|286.~|287.~|288.~|289.~|291.~|292.~|293.~|294.~|295.~|296.~|316.(rumeli)@|316.sk.sonu Serpme Evler=|317.~|318.~|319.~|320.~|321.~|322.~|323.~|324.~|325.~|326.~|327.~|328.~|329.~|329/1.~|329/2.~|330.~|331.~|332.~|333.~|334.~|335.~|360.~|361.~|361/1.~|362.~|363.~|364.~|365.~|366~|580.~|581.~|583.~|585.~|586.~|587.~|589.~|590/1.~|591~|592~|594.~|595.~|597.~|598.~|600.~|601.~|602.~|603.~|604.~|605.~|606.~|607.~|608.~|609.~|610.~|611.~|612~|613.~|614.~|615.~|617.~|618.~|618/1.~|619.~|620.~|621.~|622.~|622/1.~|623.~|625.~|626.~|627.~|628.~|629.~|630.~|631.~|632.~|633.~|634.~|636.~|637.~|638.~|640.~|641.~|642.~|643.~|648.~|649.~|650.~|651.~|652.~|656~|657~|658~|662~|Biriketciler Sitesi~|Mozaikciler~|Oduncular Sitesi~|Tekstilciler Ve Gıdacılar Çarşısı~
+153557	Sabancılar Mah.	Sabancılar~
+153559	Sakarkaya Mah.	Sakarkaya~
+153505	Sarnıçköy Mah.	Eski Sarnıç~|Sarnıçköy~|Yeni~
+153503	Sarılar Mah.	Sarılar~
+153501	Sarıçalı Mah.	Sarıçalı~
+153507	Sazoba Mah.	Sazoba~
+153499	Sağrakçı Mah.	Aruz~|Karaçeşme~|Koca Harman~|Sağrakçı~
+153513	Selvili Mah.	Selvili~
+153511	Selçikli Mah.	Selçikli~
+52159	Seyit Ahmet Mah.	192=|192 Sk. Yeni Zeytinciler Sitesi (b.blok)=|192 Sk.yeni Zeytinciler Sitesi A-blok=|192.~|298.~|299.~|300.~|301.~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|310.~|311.~|312.~|313.~|314.~|315.~|315/1~|316.(rumeli)@|316/1.~|374~|374.kuzey Serpmeevler=|613.~|615.~|618/1.~|621.~|623~|638.~|641.~|643.~|673~|685~|699.~|703~|703.~|704.~|705.~|706.~|710.~|711.~|716~|717.~|720.~|721.~|722~|723~|724.~|726.~|727.~|729.~|731.~|742.~|743.~|744~|745.~|746.~|747.~|748.~|749.~|750.~|751.~|752.~|753.~|754.~|755.~|756.~|757.~|758.~|775.~|777.~|778.~|779.~|780.~|781.~|782.~|783~|784~|785.~|786.~|787.~|788.~|789.~|790.~|790batısı Serpme Evler~|Rumeli Cad. Sonu Serpmeevler=|Serpme Evler~
+153509	Seğirdim Mah.	Semerkaya~|Seğirdim~|Yeni~|Çaltılıçukur~
+153563	Sindelli Mah.	Sindelli~
+153515	Söğütlü Mah.	Söğütlü~
+153565	Süleymanköy Mah.	Süleymanköy~
+153391	Süleymanlı Mah.	5 Eylül (fevzi Paşa)@|5 Eylül@|Ahmet Tokay~|Avukat Mesut Ertman~|Bahri Yazgan%|Bağlar~|Burhanettin Aydur~|Cami~|Cengiz Topel@|Dereli~|Dumlupınar~|Ekrem Bağgül~|Fatih~|G.o.paşa@|G.osman Paşa@|Gül~|Gülçıkmazı~|Habil Hafız~|Hacı Süleyman Ağa@|Hacı Tahir~|Hürriyet@|Karapınar~|Kardelen~|Kavracı~|Kazım Karabekir~|Koçanalı~|Küçük Mehmet~|Lale~|Maarif~|Mahmut Ağa~|Mehmet Akif~|Mehmet Emin Karaduman~|Menderes~|Meşrutiyet@|Mithatpaşa@|Mürsel Paşa@|Namık Kemal~|Niyazi Yazıcı~|Okul~|Ordu@|Ortanca~|Park~|Paşalı~|Pehlivanoğlu~|Petrol~|Rasim Sargın~|Reşat Bey@|Reşatbey@|Sakarya@|Salih Hoca~|Tütün~|Yasemin~|Yavuz Selim~|Yeni Cami~|Yunus Emre~|Yıldırım Beyazıt~|Yıldız~|Yılmaz Aral~|Zambak~|Zeytinlik~|Zübeyde Hanım~|Çavuş~|Çiçek~|İmamoğlu~|Şerifağa~
+198013	Süleymanlı Osb Mah.	Hasan Paşalı@|Prina~|Yaprak~|Zeytin~
+153517	Sünnetçiler Mah.	Sünnetçiler~
+153561	Sırtköy Mah.	Sırtköy~
+153521	Taşçılar Mah.	Taşçılar~
+153523	Topluca Mah.	Topluca~
+153525	Tütenli Mah.	Tütenli~
+52161	Ulu Camii Mah.	178.~|179.~|180.~|181.~|182.~|198.~|26.~|280=|280.~|281.~|282.~|282/1.~|282/2.~|282/3.~|282/4.~|283.~|284.~|285.~|30.~|31.~|32.~|33.~|367.~|368.~|369.~|370.~|371.~|372.~|373.~|373/1.~|373/2.~|374.~|374.kuzeyi Serpmeevler=|376.~|377.~|378.~|379.~|380.~|383.~|383.kuzeyi Serpmeevler=|384.~|385.~|386.~|387~|388.~|389.~|390~|391.~|393.~|398.~|399.~|44.~|44/1.~|45.~|464.~|465.~|466.~|467.~|468.~|469.~|47.~|470.~|471.~|472.~|473.~|474.~|475.~|476.~|478.~|479.~|48.~|480.~|481~|481/1~|484.~|487.~|49.~|50.(haşim Haşimoğlu)@|51.~|52.~|53.~|54.~|55.~|57.~|58.~|Kuzeyi Serpmeevler=
+153527	Ulupınar Mah.	Demirtaş~|Karaveliler~|Ulupınar~
+153529	Yatağan Mah.	Yatağan~
+153531	Yayakırıldık Mah.	Mestanlar~|Söğütlü~|Yayakırıldık~
+153533	Yaykın Mah.	Bulgurcu~|Kocaöldüğü~|Yaykın~
+153537	Yenice Mah.	Beyler~|Naldöken~|Yenice~|Yeşilli~
+153539	Yenidoğan Mah.	Ebekayası~|Hacıahmetler~|Koca Mehmetler~|Yenidoğan~|Şaklıbaşı~
+153535	Yeğenoba Mah.	Bekirler~|Davutlar Çakın~|Uzunalan~|Yeğenoba~
+153541	Zeytinlibağ Mah.	Zeytinlibağ~
+153393	Zeytinliova Mah.	Aktaş~|Alpaslan~|Alperen~|Atılgan~|Aydın~|Bahar~|Bahri Gürgen~|Bayhan~|Başkurt~|Bozkurt~|Can~|Cumhur Sevinç Özer~|Cumhuriyet@|Denkbasan~|Dinç Çıkmazı~|Dinçer~|Dolaşık~|Dündar~|Efe~|Elmas~|Ersoy~|Eser~|Fatih~|Ferah~|Fidan~|Filiz~|Garip~|Gazi~|Genç Çıkmaz~|Girgin~|Güde~|Gül~|Güler~|Gümüş~|Gürsel@|Gürsu~|Güven~|Harlak=|Hasan Hüseyin Ersoy~|Hilal~|Işık~|Kadir Hıdıroğlu Çıkmaz~|Kamalı Çıkmaz~|Karanfil~|Kayserili~|Kenar~|Kiremitçi~|Konak@|Koşay~|Kurtuluş@|Köse~|Köşk~|Lale~|Mehmet Akif Ersoy@|Mehmet Öztürk@|Okul~|Oral~|Palavuz~|Parıldar Çıkmaz~|Petana=|Rıfat Güreşen~|Sait Özkaya~|Solmaz~|Tamer~|Taşörer~|Topaçoğlu~|Topuz~|Tuncer~|Turan~|Türkmen~|Ufuk~|Ulakçı~|Ulus@|Uslu~|Uygun~|Uğur~|Vatan@|Yaman~|Yenice~|Yumukoğlu~|Yıldız@|Zeki Çötelli~|Zeytin Diyarı=|Zeytinli@|Zeytinlik~|Çetin Çıkmaz~|Önder~|Örnek~|Özdemir@|Özkale~|Ülkü~|Ünal~|Şefik Yur@|Şen~
+153411	Çamönü Mah.	Kazankaya~|Mezarlık~|Narlıdere~|Çamönü~
+153413	Çanakçı Mah.	Çanakçı~
+153417	Çobanhasan Mah.	Çobanhasan~
+153419	Çoruk Mah.	Tepe~|Çoruk~
+153415	Çıtak Mah.	Hasana Damları~|Çıtak~
+153567	Üçavlu Mah.	Üçavlu~
+52154	İnönü Mah.	1.(tireli İsmail Bahribey)@|138.~|138/1.~|144.(mustafa Kirazoğlu)@|15.(şehit Polis Cemal Ilgaz)@|150.~|152.~|153.~|154.~|154/1.~|157.~|224.(şehit Murat İlerigelen)@|225.~|225/1.~|226.~|227.~|227/1.~|228.~|229.~|230.~|231.~|232.~|233.~|234.~|235.~|236.~|237.~|238.~|239.~|8.(dr.mehmet Kiper)~|Nuri Giyik Sanayi Sites 3.bloki~|Nuri Giyik Sanayi Sitesi 1.blok=|Nuri Giyik Sanayi Sitesi.4 Blok~
+153455	İsaca Mah.	İsaca~
+153519	Şehitler Mah.	Akçeşme~|Çınarlı~|Şehitler~
+52160	Şeyhisa Mah.	115.~|118.~|119.~|120.~|122.~|136.~|144. (mustafa Kirazoğlu)@|25.~|46.~|50.(haşim Haşimoğlu)@|55.~|68.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|80.~|81.~|82.~|83.~|86.~|87.~|88.~|89.~|90.~|91.~|92.~|94.~|95.~|96.~|97.~|98.~|99.~

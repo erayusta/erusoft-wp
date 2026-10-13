@@ -1,0 +1,45 @@
+150193	Aktaş Mah.	Aktaş~
+150195	Alacaoğlu Mah.	Alacaoğlu~
+150197	Alandız Mah.	Alandız~
+150199	Beyler Mah.	Beyler~
+150203	Bostanyeri Mah.	Bostanyeri~
+150205	Bozalan Mah.	Bozalan~
+150201	Boğazçiftlik Mah.	Boğazçiftlik~
+20709	Bursa Mah.	39~|457~|Dağınık Evler=|Dere~|Eski Dımbazlar Yolu~|Külehalan~|Sabuncu Düzü~|Tekke Bağları Mev.=|Yonatça~
+150207	Bölmekaya Mah.	Bölmekaya~
+20710	Cumhuriyet Mah.	1.sanayi Dük. A-blok~|1.sanayi Dük.b-blok~|1.sanayi Dük.c-blok~|1.sanayi Dük.d-blok~|1.sanayi Dük.e-blok~|1.sanayi Dük.f-blok~|1.sanayi Dük.g-blok~|1.sanayi Dük.h-blok~|1.sanayi Dük.j-blok~|1.sanayi Dük.k-blok~|1.sanayi Dük.l-blok~|1.sanayi Dük.ı-blok~|187@|2. Sanayi Dük. E - Blok~|2. Sanayi Dük. F - Blok~|2. Sanayi Dük.d - Blok~|2.sanayi Dük.a-blok~|2.sanayi Dük.b-blok~|2.sanayi Dük.c-blok~|312~|314~|34~|35~|36~|37~|70~|705~|796~|80~|806~|808~|81~|82~|823~|83.~|839~|84~|841~|842~|85@|86~|862~|866~|869~|87~|914~|922.sokak~|945~|A. Cevat Buldanlıoğlu@|Adnan Menderes%|Akın~|Alanyazı Myd.|Ali Haydar Akın@|Alpengin~|Cabaroğlu~|Celal Bayar 2.çıkmaz~|Celal Bayar@|Celalbayar 3.çıkmaz~|Cumhuriyet Cad 1.çıkmaz~|Cumhuriyet@|Fevzi Kuyumcu@|Gönül@|Gönül Çıkmazı~|Güngör@|Güngör Çıkmazı~|Hacı İlyas Damları=|Hilmi Kuruoğlu@|Hürriyet~|Kalaycı~|Kayran~|Konak@|Merkez Efendi@|Orman~|Osman Zeki Avralıoğlu~|Pazar@|Sanayi@|Sarayköy Asfaltı@|Sarayköy Asfaltı Çıkmaz~|Sağlam@|Tokkaya~|İsmet Paşa@|İtfaiye@|Ş.eşref Cad. Çıkmaz~|Şair Eşref@
+150213	Derbent Mah.	Atatürk (derbent)@|Derbent~
+150217	Doğan Mah.	Doğan~
+20713	Dört Eylül Mah.	14 Mayıs@|22~|23~|4 Eylül@|4 Eylül Çıkmazı~|Adnan Menderes%|Adnanmenderes 1.çıkmaz~|Akçeşme~|Atatürk@|Bağlayan~|Cami~|Demirci~|Dr.behçet Uz@|Erensoy~|Nazım Çelebi@|Ondörtmayıs 3.çıkmaz~|Ondörtmayıs 4.çıkmaz~|Ondörtmayıs 5.çıkmaz~|Ondörtmayıs1.çıkmaz~|Ondörtmayıs2.çıkmaz~|Ragıp Bey~|Tezcan~
+20714	Düzalan Mah.	Aydın Cd 1.çıkmazı~|Dr.behçet Uz@|Havlu~|Payam Harımı~|Yaka Yolu@
+150215	Dımbazlar Mah.	Dımbazlar~
+20715	Girne Mah.	518~|584~|Beytoluk=|Dağderesi Dağınık Evler=|Dağderesi~|Eski Yayla Yolu~|Girne@|Girnekaşı~|Kesikbaş~|Saltık~|Yakayolu@|Yarim~|Yayla~|Yazıcıoğlu~|İğdelikaşı@
+20716	Gölbaşı Mah.	122.~|123.~|125~|126.~|151~|152~|31~|32~|421~|450~|451~|474~|55~|557.~|56~|693~|694~|695~|734~|735~|739~|776~|779~|899~|90~|900~|901~|Badem~|Bayraktar Ali İhsan~|Dağınık Evler~|Demirciler~|Ervar~|Gökçe~|Gölkaşı~|Hacılar~|Karadere Kanalyolu=|Karadere~|Kaya~|M.kundak~|Mehmet Baştürk Arası~|Nalbant~|Okka Deresi@|Okkaderesi 1.çıkmaz~|Okkaderesi 2.çıkmaz~|Sadık~|Sarayköy Asfaltı@|Sekiyurt Cd 1.çıkmaz~|Sekiyurt Cd 2.çıkmaz~|Sekiyurt Cd 3.çıkmaz~|Sekiyurt@|Serdarlar~|Çakır Ali Çıkmazı~|Ülküler@|İçme Cd 2.çıkmaz~|İçme Cd 8.çıkmaz~|İçme@
+150219	Gülalan Mah.	Gülalan~
+20717	Güroluk Mah.	Beyler~|Eryiğit~|Keskin~|Kulehalan~|Kuruoğlu~|Seyirçam~|Tavacı~|Tokel~|Yılancı~|Zorlu~|Çarşı~|İğdeli Kaşı~
+150221	Hasanbeyler Mah.	Hasanbeyler~
+20718	Helvacılar Mah.	19.~|Aycılar~|Bayrak Tepe~|Eski Yayla Yolu~|Helvacıoluk~|Kesikbaş~|Keskin~|Seyirçam~|Topdamı~|Tozan~|Uluçınar~|Yayla~|Yazıcıoğlu~|Zoroğlu~|Üslükçü~|İpek=|İşlemeci~
+150223	Kadıköy Mah.	Kadıköy~
+150225	Karaköy Mah.	Karaköy~
+20719	Karşıyaka Mah.	11~|12~|14~|15.~|Ahmet Yesevi@|Açıkgöz~|Bağbaşı~|Bağbaşı Çıkmazı~|Kerimoğlu~|Merkez Efendi Yolu~|S.tamer Çimencioğlu@|Sarıçalı~|Seyrek~|Çamlık Cd 2.çıkmaz~|Çamlık Cd 3.çıkmaz~|Çamlık Cd 4.çıkmaz~|Çamlık Cd 5.çıkmaz~|Çamlık Cd 6.çıkmaz~|Çamlık Cd 7.çıkmaz~|Çamlık@|Çaykaşı Cd 4.çıkmaz~|Çaykaşı Cd 5.çıkmaz~|Çaykaşı@|İçme Cd 1.çıkmaz~|İçme Cd 5.çıkmaz~|İçme Cd 7.çıkmaz~|İçme@|Ş.tamer Çimenci Cd.çıkmaz~
+150227	Kaşıkcı Mah.	Kaşıkcı~
+150231	Kovanoluk Mah.	Kovanoluk~
+20720	Kurtuluş Mah.	14 Mayıs@|3.çıkmaz~|Atatürk Cad.1.çıkmaz~|Atatürk@|Bahar~|Bağlayan~|Dr.behçet Uz@|Gönül@|Haliller~|Mekik 2.çıkmaz~|Mekik@|Pasaj İçi=|Çarşı@|İsmet Paşa@|Şevket Cerit~|Şeyh Tevfik Gür@|Şükür Camii Myd.|Şükür Camii Çıkmazı~
+150233	Kurudere Mah.	Kurudere~
+150229	Kırandamı Mah.	Kırandamı~
+150235	Mahmutlu Mah.	Mahmutlu~
+150237	Oğuz Mah.	Oğuz~
+150239	Sarımahmutlu Mah.	Sarımahmutlu~
+150241	Süleymanlı Mah.	Süleymanlı~
+20721	Turan Mah.	10.~|Ahmet Yesevi@|Bağbaşı~|Cami~|Hastane~|Hastane Sk. Çıkmazı~|Haydar@|Kumralı@|Çamlık@|Çamlık Cd. 5.çıkmaz~|Çamlık Cd. 6.çıkmaz~|Çaykaşı Cad. 1.çıkmaz~|Çaykaşı@|Çaykaşı Cd. 2.çıkmaz~|Çaykaşı Cd. 4.çıkmaz~|Çaykaşı Cd.3.çıkmaz~|Şener~
+150243	Türlübey Mah.	Türlübey~
+20722	Yalçınkaya Mah.	Düzalan~|Kayalar~|Tarakçı~|Terziler Kaşı~|Yalçın~|Zehrenti~
+150245	Yayla Mah.	Yayla~
+20723	Yeni Mah.	226~|357~|41~|417~|42~|43~|44~|45~|46~|47~|49.~|50~|60.~|760~|Alperen~|Balcı 1.çıkmaz~|Balcı 2.çıkmaz~|Balcı 3.çıkmaz~|Balcı 4.çıkmaz~|Balcı~|Balhoca Hafız@|Bürümcük~|Celal Bayar@|Cumhuriyet@|Efeoğlu~|Ethem Tümbay~|Gönül@|Güngör~|Haliller~|Köfündede~|Mehmetçik~|Mekik Cd 5.çıkmazı~|Mekik@|Mekik Cd. 4.çıkmazı~|Rüştü Akın@|Sabuncu Düzü~|Sanayi@|Serezli~|Tümbay@|Türe~|Türkeli@|Ulus~|Yaran Gümeli~|Yarangümeli 1.çıkmaz~|Yarangümeli 2.çıkmaz~|Yarangümeli 3.çıkmaz~|Yarangümeli 4.çıkmaz~|Yarangümeli İmar Yolu~|Yonatça~|Çağış Mevkii Dağınık Evler=|Üçyol Orman Deposu=|İsmet Paşa@|İsmetpaşa 1.çıkmaz~|Şahanlar~
+150191	Yenicekent Mah.	101~|10182~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|142=|165~|305~|343~|4 Eylül@|Akasya~|Araplar~|Atatürk Yenicekent@|Badem~|Bahçeli~|Bayram~|Bağlar@|Cami Üstü~|Darçın~|Dervişağa@|Engin~|Esentepe~|Fatih~|Feslihan~|Gazveliler=|Göl~|Gül~|Gündoğdu~|Hacılar Yenicekent@|Halil Turan~|Hisar~|Ilıcalar@|Kale=|Karanfil~|Kaya~|Lale~|Menderes@|Menekşe~|Muzaffer Arıcı%|Narlı@|Orkide~|Pamuk~|Papatya~|Pazar Üstü~|Sümbül~|Tarhan Toker~|Yasemin~|Yeşil~|Zakkum~|Zambak~|Çakırlar~|Çay~|Çaykaşı Regulatör=|Çevre Yolu~|Çiçek~|Çiğdem~|Özen~|Üçgen@|İnönü@|İğdeli~|Şehit Hicri Gümüş@
+150247	Yeniçam Mah.	Yeniçam~
+20724	Yeşil Dere Mah.	Beyler~|Dokuma Pazarı@|Dokuma.paz.cd.çıkmaz~|Düzalan~|Söğüt Dibi@|Söğütlü Pınar~|Tarakçı~|Tavacı~|Terziler Karşı@|İğdeli Kaşı@|Şeyh Tevfik Gür@
+150209	Çamköy Mah.	Çamköy~
+20711	Çarşı Mah.	Bahadır~|Beyler~|Derbent~|Derbent Çıkmazı~|Dere~|Dokuma Pazarı@|Fetciler~|Mekik@|Mekik Cd. 3.çıkmaz~|Mekik Cd.1.çıkmaz~|Park@|Sabuncu Düzü~|Semerci~|Tengiz~|Türkmenoğlu~|Zafer Okulu~|Çarşı@|Şeyh Tevfik Gür@|Şükrü Camii Myd.
+150211	Çatak Mah.	Çatak~
+20712	Çaybaşı Mah.	200.~|3.çıkmaz=|4 Eylül@|599~|626~|627~|644~|Akyar Tatil Sitesi~|Bakacak Mevkii=|Bağbaşı~|Bağbaşı Çıkmazı~|Bulak~|Bulak Çıkmazı~|Dr. Behçet Uz 1.çıkmaz~|Dr. Behçet Uz 2.çıkmaz~|Dr.behçet Uz@|Düzalan~|Elmalı Mevkii=|Gedik~|Haydar@|Haydar Çıkmazı~|Kayalar~|Kepsel Mevkii=|Kestane Deresi Mesire Çıkmaz=|Ragıp Bey~|Tarakçı~|Vakıf Alan Ve Çevresi=|Çatak Yolu~|Şeyh Tevfik Gür@

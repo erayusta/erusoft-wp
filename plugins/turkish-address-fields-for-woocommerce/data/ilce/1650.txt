@@ -1,0 +1,131 @@
+77757	Abdallı Köyü	 Köy$
+77758	Ahmetli Köyü	 Köy$
+70492	Akçakışla Köyü, Karşıyaka Mevkii	1. Küme~|1.çıkmaz~|2.küme~|3.küme~|Atatürk~|Değirmen~|Sivas~|Şehit Yıldırım Kuzucular~
+70493	Akçakışla Köyü, Menderes Mevkii	1.~|2.~|3.~|4.~|Atatürk~|Bağdat~|Birinci~|Cami~|Celepoğlu~
+70491	Akçakışla Köyü, İsmetpaşa Mevkii	1.~|2.~|3.~|Atatürk~|Bağdat~|Küme~|Salih Ağa~
+77826	Akçasu Köyü	 Köy$
+77827	Alaman Köyü	Nedim Mutlu~
+77852	Alaçayır Köyü	 Köy$
+77759	Alıkören Köyü	 Köy$
+77760	Arıklar Köyü	 Köy$
+77762	Bahçealan Köyü	 Köy$
+77761	Bahçealan Köyü, Adamkaya Mezrası	 Köy$
+77763	Baltalar Köyü	 Köy$
+77828	Bağlararası Köyü	 Köy$
+77853	Başağaç Köyü	 Köy$
+77764	Başören Köyü	 Köy$
+77829	Benlihasan Köyü	 Köy$
+77854	Beyyurdu Köyü	 Köy$
+77830	Bozkurt Köyü	 Köy$
+77765	Burnukara Köyü	 Köy$
+77766	Büyüktopaç Köyü	 Köy$
+77767	Büyükyüreğil Köyü	 Köy$
+77836	Canabdal Köyü	 Köy$
+77835	Canabdal Köyü, Güdül Mezrası	 Köy$
+70482	Cemel Beldesi, Bahçelievler Mah.	Bahçelievler Bilinmeyen 3~|Bahçelievler Fatih~|Bahçelievler Yeni Yol1~|Bahçelievler Yeni Yol2~|Bahçelievler Yeni Yol3~|Bahçelievler Yeniyol 1~|Bahçelievler Yeniyol 23~|Bahçelievler Yeniyol 4~|Bahçelievler Yeniyol 5~|Bahçelievler Yeniyol4~|Bilinmeyen Yeniyol 2~|Camii~|Cumhuriyet@|Damla 1~|Damla~|Doğu~|Eren~|Fatih -~|Kapaklaca~|Kapaklaca Yeni Yol 1~|Mevlana@|Nevruz@|Okul@|Okul_1~|Radar@|Yeniyol 3 Bahçelievler~|Yeniyol Bahçelievler 28~|Yeniyol Bahçelievler 29~|Yeniyol Bahçelievler 30~|Yeniyol Bahçelievler 31~|Yeniyol Bahçelievler 32~|Yeniyol Bahçelievler 33~|Yeniyol Bahçelievler26~|Yeniyol4 Bahçelievler~|Yeniyol6 Bahçelievler~|Yeniyol8 Bahçelievler~|Yeniyol9 Bahçelievler~|Çiğdem~|İnce~
+70483	Cemel Beldesi, Karşıyaka Mah.	Cumhuriyet@|Dar~|Fatih@|Karşıyaka Yeni Yol1~|Karşıyaka Yeni Yol2~|Karşıyaka Yeni Yol3~|Karşıyaka Yeni Yol4~|Karşıyaka Yeni Yol5~|Küçük~|Sümbül~|Tck Devlet Yolu@|Yıldırım~|Çıkmaz~|Öğlegeçen~|Şık~
+70484	Cemel Beldesi, Yeni Mah.	Belde~|Camii 1~|Camii~|Cumhuriyet-@|Demirci~|Dere~|Fatih@|Kenar~|Kıvrım~|Tck Devlet Yolu@|Tck İl Yolu@|Yeni Cumhuriyet@|Yeni Yeni Yol 1~|Yeni Yeni Yol 10~|Yeni Yeni Yol 11~|Yeni Yeni Yol 12~|Yeni Yeni Yol 13~|Yeni Yeni Yol 14~|Yeni Yeni Yol 15~|Yeni Yeni Yol 16~|Yeni Yeni Yol 17~|Yeni Yeni Yol 18~|Yeni Yeni Yol 19~|Yeni Yeni Yol 2~|Yeni Yeni Yol 20~|Yeni Yeni Yol 21~|Yeni Yeni Yol 22~|Yeni Yeni Yol 23~|Yeni Yeni Yol 24~|Yeni Yeni Yol 25~|Yeni Yeni Yol 27~|Yeni Yeni Yol 28~|Yeni Yeni Yol 29~|Yeni Yeni Yol 3~|Yeni Yeni Yol 30~|Yeni Yeni Yol 31~|Yeni Yeni Yol 32~|Yeni Yeni Yol 34~|Yeni Yeni Yol 35~|Yeni Yeni Yol 36~|Yeni Yeni Yol 37~|Yeni Yeni Yol 38~|Yeni Yeni Yol 39~|Yeni Yeni Yol 4~|Yeni Yeni Yol 40~|Yeni Yeni Yol 41~|Yeni Yeni Yol 5~|Yeni Yeni Yol 6~|Yeni Yeni Yol 7~|Yeni Yeni Yol 8~|Yeni Yeni Yol 9~|Yeni Yeni Yol 93~|Yeni Yeni Yol 94~|Yeni Yeni Yol4~|Yenı Yenı Yol 33~|Yenı Yenı Yol 5~|Çiçek~
+70469	Damlaca Mah.	1.~|2.~|3.~|4.~|5.~|6.~|Acısu Kenarı~|Aytaç~|Badem~|Bayındır~|Camii~|Ddy Lojmanları~|Eren~|Hicret~|Karakavak~|Karaman~|Kaymak Yolu~|Kaşgarlı Mahmud~|Kosova~|Kürkçü~|Kısım Şefliği~|Leylak~|Osmanlı~|Sazak~|Seher~|Selenay~|Sevim~|Sivas Çevre Yolu@|Tuğra~|Yener~|Yıldız~|Yılmaz~|Zambak~|Zümrüt~|Çelebi~|Çınar~|Özlem~|Ümit~|İriç~|İstasyon@|Şehit Doğan Kaya~|Şehit Yıldırım Kuzucular@
+77770	Demirboğa Köyü	 Köy$
+77800	Demirköprü Köyü	 Köy$
+77771	Dikili Köyü	 Köy$
+77773	Dökmetaş Köyü, Aşağı Mevkii	 Köy$
+77772	Dökmetaş Köyü, Yukarı Mevkii	 Köy$
+77774	Döllük Köyü	 Köy$
+77776	Elmalı Köyü	 Köy$
+77840	Emlakkaracaören Köyü	Köyün Kendisi Köy$
+70470	Esentepe Mah.	10.~|11.~|3.~|4.~|5.~|8.~|9.~|Acar~|Ahu~|Akkuş~|Aksu~|Alparslan~|Alperen~|Altun~|Alıcı~|Asena~|Baraj Yanı~|Baraj Yolu~|Başbağlar~|Bostancı~|Boylu~|Cahar Dudayev~|Canpolat~|Ceylan~|Cihangir~|Dikilitaş~|Diriliş~|Dr.sadık Ahmet@|Ekin~|Erbay~|Ersoy~|Ertuğrul Gazi~|Garipler~|Gümüş~|Güray~|Kabristan Yanı~|Karaağaç~|Karabağ~|Karaca~|Kepenek~|Kevioğlu~|Kum Ocağı Yolu=|Kuthan~|Köprü Başı~|Kümbet Önü~|Kılıç@|Kınalı~|Kızılırmak~|Kışla~|Milli İrade~|Nur~|Onbaşı~|Osman Fazıl Polat@|Ozan Sultan Arduç~|Papatya~|Pelit~|Pınar~|Pınarbaşı Yolu@|Sade~|Safiye~|Samur~|Sarıca~|Sebat~|Seval~|Seyit~|Sivas-kayseri Yolu=|Sürmeli~|Tuna~|Türkmeneli~|Yapaltın Yolu~|Yelkenli~|Yeni Sanayi 1.~|Yeni Sanayi 2.~|Yeni Sanayi 3.~|Yeni Sanayi 4.~|Yeni Sanayi 5.~|Yeni Sanayi 6.~|Yeni Sanayi 7.~|Yeni Sanayi Sosyal Tesisleri~|Yerli~|Yonca~|Zeytin Dalı~|Çakmak~|Çağlayan~|Çelik~|Çetinalp~|Çisem~|Ömer Seyfettin~|Özkul~|Şahin~|Şehit Oğuz Balıkçı~|Şehit Oğuz Yorulmaz~|Şehit Rıfat Çelik@|Şehit Tuncer Çeliker~|Şehit Yıldırım Kuzucular~|Şehitler Parkı~|Şener~
+77777	Fakılı Köyü	 Köy$
+77833	Faraşderesi Köyü	 Köy$|Faraşderesi~
+77834	Gaziköy Köyü	 Köy$
+77778	Gücük Köyü	 Köy$
+70471	Gültekin Mah.	1.~|Aşık Ruhsati~|Aşık Sefil Selimi~|Aşık Şevki Esen~|Barbaros~|Bayır~|Bereket~|Cahit Tuncer~|Celal Bayar~|Cevher~|Efraim Efendi~|Fatih~|Gölbaşı@|Hacı Himmetli~|Hafız Ömer~|Kale Yüzü~|Karasoku~|Kürşad~|Madımak~|Mimar Sinan~|Muhsin Yazıcıoğlu%|Murat Camii~|Mustafa Alp~|Plevne~|Sancak~|Su Deposu 1.~|Su Deposu 3.~|Su Deposu2.~|Su Kuyusu Yolu=|Yunus Emre~|Ötüken~|İbrahim Göker@|Şehit Başar Doğan~|Şehit Mustafa Bedirhan Karakaya~
+77856	Gülören Köyü	 Köy$
+77779	Gümüştepe Köyü, Muhacir Mevkii	 Köy$
+77780	Gümüştepe Köyü, Yerli Mevkii	 Köy$
+70486	Gürçayır Beldesi, Doğu Mah.	Fatih Mehmet~|Fevzi Paşa@|Güler~|Gülmez~|Kızılca Kışla@|Muhsin Yazıcıoğlu@|Sivas-kayseri@|Yapaltın Yolu~|Yeniyol1 Doğu~|Yeniyol11 Doğu~|Yeniyol13 Doğu~|Yeniyol15 Doğu~|Yeniyol16 Doğu~|Yeniyol17 Doğu~|Yeniyol18 Doğu~|Yeniyol2 Doğu~|Yeniyol21 Doğu~|Yeniyol32 Doğu~
+70487	Gürçayır Beldesi, Yeni Mah.	1.~|2.~|3.~|4.~|5.~|Ali İhsan Paşa~|Barbaros Hayrettin Paşa~|Belediye~|Cumhuriyet@|Esenler~|Fevzi Paşa@|Gültepe~|Kaleler Çıkmazı~|Karanfil~|Kazım Paşa~|Kemal Paşa~|Kızılca Kışla@|Menekşe~|Rıfat Paşa~|Sivas-kayseri@|Yeni Yol 32~|Yeni Yol 34~|Yeni Yol 35~|Yenice~|Yeniyol 2 Çiçekli~|Yeniyol 3 Yeni~|Yeniyol12 Yeni~|Yeniyol13 Yeni~|Yeniyol15 Yeni~|Yeniyol16 Yeni~|Yeniyol17 Yeni~|Yeniyol18 Yeni~|Yeniyol2 Yeni~|Yeniyol20 Yeni~|Yeniyol21~|Yeniyol23 Yeni~|Yeniyol25 Yeni~|Yeniyol26 Yeni~|Yeniyol3~|Yeniyol34 Yeni~|Yeniyol35 Yeni~|Yıldırım Beyazıt~|Yıldız~|İmaryolu 1~|İmaryolu 2~|İmaryolu 3~|İmaryolu 4~|İmaryolu 5~|İmaryolu 6~
+70485	Gürçayır Beldesi, Çiçekli Mah.	Ali İhsan Paşa~|Fidanlık~|Güleryüz~|Kazım Paşa~|Kurtulş~|Menderes~|Muhsin Yazıcıoğlu@|Osman Paşa@|Sivas-kayseri@|Tck İl Yolu@|Yeni Yol 30 Çiçekli~|Yeniyol 4 Çiçekli~|Yeniyol 5 Çiçekli~|Yeniyol1 Çiçekli~|Yeniyol13 Çiçekli~|Yeniyol14 Çiçekli~|Yeniyol2 Çiçekli~|Yeniyol21 Çiçekli~|Yeniyol22 Çiçekli~|Yeniyol26 Çiçekli~|Yeniyol27 Çiçekli~|Yeniyol29 Çiçekli~|Yeniyol3 Çiçekli~|Yeniyol30 Çiçekli~|Yeniyol31 Çiçekli~|Yeniyol32 Çiçekli~|Yeniyol33 Çiçekli~|Yeniyol34 Çiçekli~|Yeniyol8 Çiçekli~|Yeniyol9 Çiçekli~|İstiklal@|İstiklal1~
+77857	Hardal Köyü	 Köy$
+77781	Harunköy Köyü	 Köy$
+77837	Hocabey Köyü	 Köy$
+77858	Hüyükköy Köyü	 Köy$
+77785	Kahvepınar Köyü	 Köy$
+70473	Kale Mah.	Ahmet Yesevi~|Ahırlar=|Arı~|Aşık Ahmet Aydın~|Bulut~|Dolayı Camii~|Emek~|Er~|Eski T.o.k.i~|Gök~|Güneş~|Güven~|Habib Soluk%|Hastane Arkası~|Hastane@|Holduroğlu~|Kale Cami~|Kayıkçı~|Kurudere~|Köse~|Kızılyazı~|Menekşe~|Osman Bey~|Poyraz~|Pınarbaşı~|Rıfat Öçten~|Sivas Çevre Yolu@|Son~|Sultan~|Uluğbey~|Uğur~|Yağmur~|Yıldırım~|Çıkmaz~|Öztoprak~|Öğrenci~|İtimat~|Şadi Tekmen@|Şehit Aydın Çelik~|Şehit Engin Bıyık~|Şehit Muharrem Özkan~|Şehit Ramazan Ergin~|Şehit Sadettin Doğan~|Şehit Zeynel Kavun~|Şehit İhsan Bağcivan~|Şenol~
+77786	Kalecik Köyü	 Köy$
+77839	Kaleköy Köyü	 Köy$
+70474	Kandemir Mah.	Altay~|Arslantürk~|Beşpınar~|Bozyer~|Cahit Koca~|Demir~|Demirciler~|Elmalı~|Gazeteci Burak Erdoğmuş@|Gokay~|Hafız Ahmet~|Hastane@|Huzur~|Karakuş~|Kızılyazı~|Lise Arkası~|Mehter~|Sivas Çevre Yolu@|Sivas Çevre Yolu~|Ulu Camii@|Çınarlar~|Öztürkler~|İmam Hatip~|İstasyon@|Şehit Sadettin Doğan~|Şehit Şemsettin Köşkeroğlu~
+77787	Kapaklıpınar Köyü	 Köy$
+77788	Karacaören Köyü	 Köy$
+77789	Karakuz Köyü	 Köy$
+77790	Karakuz Köyü, Küçük Karakuz Mezrası	 Köy$
+77841	Kavak Köyü	 Köy$
+70475	Kayalıyokuş Mah.	Ağırman~|Aşık Sefil Selimi~|Belediye Pasajı=|Cumhuriyet@|Esen~|Gölbaşı@|Hal@|Hamdi Tekmen~|Kavaklı Pınar~|Köşkeroğlu~|Kıvrım~|Mehmetçik~|Mevlana~|Osman Fazıl Polat@|Pınarbaşı~|Sebze Hali~|Sönmez~|Tevfik Çilek~|Yeni Gül~|Zafer~|Çimen~|Özdal~|İbrahim Göker@|İstasyon@
+77791	Kayapınar Köyü	 Köy$
+77792	Kayapınar Köyü, Göçmen Mevkii	 Köy$
+77793	Kaymak Köyü	 Köy$
+77796	Kazancık Köyü	 Köy$
+77794	Kazancık Köyü, Alıçlı Mezrası	 Köy$
+77795	Kazancık Köyü, Zihni Mezrası	 Köy$
+77797	Kevenlik Köyü	 Köy$
+77801	Konakyazı Köyü	 Köy$
+77802	Konalga Köyü	 Köy$
+77803	Kömürkaya Köyü	 Köy$
+77842	Kümbet Köyü	 Köy$
+77804	Küçüktopaç Köyü	 Köy$
+77805	Küçükyüreğil Köyü	 Köy$
+77798	Kılıççı Köyü	 Köy$
+70488	Kızılcakışla Köyü, Fatih Mevkii	Agaçlı~|Atatürk~|Ceylan~|Cumhuriyet~|Pınar~|Türbe~|Yavuzlar~
+70490	Kızılcakışla Köyü, Kadılı Mevkii	Can~|Karaağaç~
+70489	Kızılcakışla Köyü, Osmanfazılpolat Mevkii	1.~|3.~|Ahmet Ağa~|Akşemseddin~|Atatürk~|Ağaçlı~|Bakü~|Bayır~|Botaş~|Bulut~|Cumhuriyet~|Fevzi Çakmak~|Haydarlı~|Kardelen~|Mezarlık~|Muhammed İkbal~|Sağlık~|Ömer Ağa~
+77799	Kışlaköy Köyü	 Köy$
+77806	Maksutlu Köyü	 Köy$
+77807	Mengensofular Köyü	 Köy$
+77808	Mengensofular Köyü, Çaykara Mezrası	 Köy$
+77860	Mescitli Köyü	 Köy$
+77843	Mezraa Köyü	 Köy$
+77809	Oluktaş Köyü	 Köy$
+77851	Ortaköy Köyü	 Köy$
+77810	Ortatopaç Köyü	 Köy$
+77811	Osmanpınarı Köyü	 Köy$
+77844	Otluk Köyü	 Köy$
+77812	Polatpaşa Köyü	 Köy$
+70476	Pınarönü Mah.	15 Temmuz~|2.~|3.~|4.~|Ahmet İmamgiller~|Avcı~|Bahçe~|Bakırcılar~|Bayraktar~|Bağ-kur Dükkanları~|Bizim~|Bozkurt~|Can~|Cihan Eyiol~|Coşkun~|Cumhuriyet@|Dar Çarşı~|Değirmen~|Değirmenciler~|Dr. Sadık Ahmet@|Eski Hamam~|Fevzi Paşa@|Hafız Ahmet~|Hamzaoğlu~|Kader~|Kalkan~|Kanak Kenarı~|Karabulut~|Köseoğlu~|Kızılay~|Ladin~|Laçin~|Makber~|Malazgirt~|Mehmet Akif~|Nalbantlar~|Niyazi Kılıçkaya~|Sanayi Cami@|Sedef~|Seymenler~|Sultan~|Ulu Camii@|Yeşil Fırın~|Yiğitler~|Yolcu~|İbni Sina~|İmam~|İstasyon@
+77815	Samankaya Köyü	 Köy$
+77814	Samankaya Köyü, Bağlama Mezrası	 Köy$
+77813	Samankaya Köyü, Köseli Beli Mezrası	 Köy$
+77816	Saraç Köyü	 Köy$
+77819	Sarıkavak Köyü	 Köy$
+77861	Sarıkaya Köyü	 Köy$
+77846	Sarıtekke Köyü	 Köy$
+77817	Sarıçiçek Köyü, Aşağı Mevkii	 Köy$
+77818	Sarıçiçek Köyü, Yukarı Mevkii	 Köy$
+70477	Sağır Mah.	Küme=|Organize Sanayi=
+70481	Sağırosb Mah.	1.@|1.cadde 1.~|2@|3@|3. Cadde 1.~|4.@|5.@|Osbgiriş@
+77862	Sivrialan Köyü	 Köy$
+77820	Sultan Köyü	 Köy$
+77821	Tavladere Köyü	 Köy$
+77863	Temecik Köyü	 Köy$
+77822	Uçuk Köyü	 Köy$
+77848	Yahyalı Köyü	 Köy$
+77847	Yahyalı Köyü, Akkaya Mezrası	 Köy$
+77849	Yalanı Köyü	 Köy$
+77823	Yapracık Köyü	 Köy$
+70478	Yeni Mah.	Beşpınar~|Bozyer~|Değirmen~|Elif~|Gazeteci Burak Erdoğmuş@|Hakkı Efendi~|Hamzaoğlu~|Kaya~|Kuyumcular~|Sivas Çevre Yolu~|Timurkaynak~|Topaç~|Ulu Camii@|İrşadi~
+77824	Yeniyapan Köyü	 Köy$
+70480	Yukarı Mah.	2.~|3.~|4.~|5.~|6.~|Berberler~|Beyza~|Beşikkale Önü~|Dertlioğlu~|Elvan~|Esen~|Gazi~|Gülşen~|Hastane@|Hastane Önü~|Hilal~|Holduroğlu~|Kaleyüzü 1.~|Kaleyüzü 2.~|Kaleyüzü 3.~|Kaleyüzü 4.~|Kaleyüzü 5.~|Kaleyüzü 6.~|Kızılyazı~|Merve~|Osman Bey~|Pınarbaşı~|Safa~|Sedef~|Serdari~|Seven~|Seyran~|Sinan Aydın~|Sönmez~|Tepe~|Tevfik Çilek~|Uygur~|Özdal~|İsmail Gaspıralı~|İstasyon@|Şehit Aydın Çelik~|Şehit Muammer Akman~|Şehit Ünal Canbek~|Şeker~|Şimşek~
+77825	Yunusören Köyü	 Köy$
+77850	Yükselen Köyü	 Köy$
+70479	Yıldırım Mah.	1.~|2.~|3~|4~|5~|6~|7~|A Bloklar~|Abdurehim Heyit~|Alper Tunga@|Aydınlık~|Azim~|Aşık Hüroğlu~|B Bloklar~|Belkent@|Boztoprak~|C Bloklar~|D Bloklar~|Döllük Yolu=|E Bloklar~|Emircan~|Ersin~|F Bloklar~|G Bloklar~|Gaye~|Gençlik@|Göktürk~|Habib Soluk%|Hüyük Yolu=|Karanfil~|Kültür~|Kılıçarslan~|Maden Şehitleri~|Mehmet Gönen~|Metehan~|Mezarlık Yanı~|Muhsin Yazıcıoğlu%|Mustafa Pehlivanoğlu~|Osman Gazi~|Park~|Ravza~|Salih Akkuş@|Stadyum~|Vatan@|Villalar~|Yıldırım Tepesi~|Özdemir~|Öztürk~|Öğretmen Remziye Özen~|Ülkü~|İbrahim Göker@|İsmail Ağırman~|İstiklal@|Şehit A.turan Torun~|Şehit Baki Teke~|Şehit Bekir Taştan~|Şehit Davut Toy~|Şehit Duran Sayan~|Şehit Erdoğan Tamer~|Şehit Muhsin Canpolat~|Şehit Süleyman Solak~|Şehit Ömer Güvenç~|Şehit İskender Öztürk~
+77831	Çamlıca Köyü	 Köy$
+77832	Çanakçı Köyü	 Köy$
+77768	Çatalyol Köyü	 Köy$
+77769	Çekem Köyü	 Köy$
+77855	Çiçekliyurt Köyü	 Köy$
+77845	Örtülü Köyü	 Köy$
+77782	Üyük Köyü	 Köy$
+77859	İlyashacı Köyü	 Köy$
+70472	İstiklal Mah.	1.=|2.=|Alemdar~|Altan~|Arz~|Bahar~|Berkler~|Camii Arkası~|Demet~|Derya~|Enes~|Eski Sağır Yolu~|Gurbet~|Gül~|Güner~|Hazar~|Kalender~|Kevser~|Lale~|Menekşe~|Polat~|Sağır Yolu@|Sema~|Sıla~|Topuk Yolu~|Yavuz~|Yurt~|Çevre Yolu~|Çiğdem~|Çoban Mehmet Can@|İlbey~|Şehit Adem Uzundal~|Şehit Erdal Erdoğmuş~|Şehit Köksal Sis~|Şemseddin Sivasi~
+77838	İğdecik Köyü	 Köy$
+77783	İğdeliören Köyü	 Köy$
+77784	İğecik Köyü	 Köy$

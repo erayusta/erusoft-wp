@@ -1,0 +1,44 @@
+150921	Akpınar Mah.	Ahmetli=|Armutçalağı=|Atatürk@|Atmacabeki=|Avlugeriş=|Boğmalık=|Büyükdüz=|Cami@|Cumhuriyet Myd.|Düzmeşe=|Elicek=|Eminli=|Eroğlu@|Fındıklıdüz=|Göçler=|Gültepe=|Hamzalı=|Haramidibi=|Karabaltauşağı=|Karlıtepe=|Kesimli=|Kirazlıbacak=|Konak@|Köseğel=|Kızılçukur=|Mehteruşağı=|Ortaköy=|Sarpdere@|Sağlık~|Tahmazlı=|Taşağıl=|Töngelyanı=|Uğurlar Çukuru=|Yeniköy Eminuşağı=|Yeniköy Gökmenkırığı=|Yeniköy Gücükdüzü=|Yeniköy Karaağaç Tepesi=|Yeniköy Keluşağı=|Yeniköy Minatlı=|Çatmapınar=|Çaybaşı@|Çelikdüzü=|Ömer Bey@|Örmece=|Öğretmen Mustafa Çam@|Şirinevler=
+199007	Alan Mah.	Aşuşağı~|Böğür~|Büyükalan~|Hanyanı~|Hüvelles~|Kevgür~|Yanık Samanlık~|Yıkılgan~|Çamlıgeriş~|Çerezler~
+150929	Ambargürgen Mah.	Ali Kahya~|Bayramlar~|Düz Pelitlik~|Emirli~|Gındıralıgöl~|Kehliuşağı~|Kertil~|Köy Yeri~|Maden Kamburu~|Parukça~|Yağfinen~|Yusuflu~|Çonuşağı~
+150931	Ceyhanlı Mah.	Bolatuşağı~|Dışkaya~|Güdürgen~|Kotran Fırını~|Koyuneğreği~|Sülümanlı~|Topçam~|Şenalan~
+150943	Damyeri Mah.	Acısu~|Derebağ~|Kanlı Irmak~|Merkez~|Tösger~|Çekiç Obası~
+150941	Dağyolu Mah.	Abdallı~|Akdana~|Boruklu 1~|Boruklu~|Gökmenli~|Hacıgil Düz Tarla~|Hacıgil~|Köseuşağı 1~|Köseuşağı Meşeli~|Köseuşağı~|Süleymangürgeni~|Torun Uşağı Köy Yeri~|Torun Uşağı~|Çorak~|İmam Sarı Uşağı~|İğnebel~
+150945	Düğencili Mah.	Alogil~|Bektaşlı~|Huğyeri~|Kör Hüseyinli~|Köseler~|Olukluyazı~|Pehlivanlı~|Tepe~|Türkmenli~|Yeraltı~|Yokuşbaşı~|Ötegeçe~
+150947	Esentepe Mah.	Beceloğlu~|Bekiroğlu~|Dumantepe~|Eyüpoğlu~|Kerpiçlik~|Merkez~|Osman Usta~|Çorakdere~|İmamoğlu~
+150949	Gedikli Mah.	Aşağı Alaor~|Eşemez~|Höben~|Kalaycık~|Melder~|Paşael~|Yukarı Alaor~|Çöntülü~
+150951	Gökçebayır Mah.	Abazalı~|Aşçılı~|Demircili~|Elma Bükü~|Erkeşli~|Göztalan~|Höben~|Höcek~|Kurcalı~|Mortlu~|Tifi Düzü~|İncüvez~
+150953	Gürgenliyatak Mah.	Elifler~|Elmadibi~|Fındıklıyatak~|Gücükucu~|Halilöldü~|Karaağaçlı~|Kerteşbacağı~|Kocanın Ev Yanı~|Merkez~|Çelebikuzu~|Çetliyatak~
+150955	Haliluşağı Mah.	Avcıuşağı~|Avlugeriş~|Bektaşlı~|Fındıklıgeriş~|Gani Boğmalığı~|Gücükdüzü Üçyol~|Güneyyatak~|Hüseyinbaşağı~|Irmakiçi~|Köyyanı~|Küçükkiremce~|Musullar~|Nasuhlar~|Taşlıtarla~|Yeni~|Çakıruşağı~|Çöpoğlu Merkez~|Öteyüz~
+150957	Karaçal Mah.	Alan~|Cebecili~|Dilkicek~|Eğlenceli~|Gayacık~|Hacılı~|Hatipli~|Hüseyin Ahmetler~|Irmakkıyısı~|Karaağaç Tepesi~|Karaçal~|Kepekli~|Kurt Köyü~|Mortlu~|İskenderli~
+150959	Kargı Mah.	Karaağaç Düzü~|Kargı~|Kavak Boynu~|Kuz~|Könezli~|Körpınar~|Sağıruşağı~|Tahtalık~|Çolaklı~
+150961	Kemikgeriş Mah.	Bektaşlı~|Buyduruk~|Değirmen Yanı~|Eğrice~|Hacı Hüseyin~|Hacıgil~|Sarıoğulları~
+150963	Ketendere Mah.	Gavra~|Guccamağı~|Kalenderli~|Küçükgöl~|Sazak Güneyi~|Sevindikli~|İnyanı~
+150965	Koçcuvaz Mah.	Bestahlı~|Dumantepe~|Göçyeri~|Gündurağı~|Güney~|Karadere~|Karamancık~|Kaya Boynu~|Merkez~|Sivri Tepe~|Tepe~
+150967	Kurtboğaz Mah.	Asakboyu~|Boztepe~|Böğürtlen Çukuru~|Eğri Tarla~|Köyiçi~|Merkez~|Tamculu~|Çerkezgil~
+150969	Kuşçulu Mah.	Bağderesi~|Bekiroğlu~|Esebeleği~|Kıran~|Kıran Yanı~|Merkez~|Takas Boyun~|Çamçukuru~|Çontulu~|Şevkili~
+150971	Külekçili Mah.	Aşağı Kışla~|Aşağı~|Yukarı Kışla~|Yukarı Merkez~|Çavdar Ağzı~
+150927	Kızılelma Mah.	Acurlu=|Alçak=|Atatürk@|Aşağı Kışla=|Cambaşı=|Dumanlar=|Eserli=|Halil İbrahim Elmas@|Hatipler=|Höceleyan=|Kahyalar=|Kayaaltı=|Kuyumcular=|Pazaraltı=|Polatlı=|Taşpınar=|Topçular=|Tömekli=|Yukarı Kışla=|Çetleğen=|Çukur=|Şeytanlı=|Şıhmır=
+60846	Merkez Mah.	Atatürk@|Dr.h.rıza Çakır~|Gedikli@|Konak~|Lise~|Menekşe~|Meydan~|Park~|Sevindik~|İnönü@|İstiklal@
+150973	Meyvalı Mah.	Bulanıklı~|Değirmen Yanı~|Esköy~|Irmakçatı~|Karahasan~|Kiremitlik~|Pusaklı~|Yombacak~|Çoğnu~|İspenli~
+150975	Muratlı Mah.	Boğukluk~|Dumantepe~|Kuyumculu~
+150977	Ormancık Mah.	Bayramlı~|Düzkaya~|Düzyanı~|Erikbelen~|Evlös~|Günaz~|Kuz~|Maha~|Olucak~|Tenteli~|İsköves~
+199009	Ortabölme Mah.	Balcılı~|Bekirli~|Ferdelek~|Karayar~|Ormanlı~|Pazaryeri~|Pınar Çukuru~|Tırıllı~|Yeniköy~|Çömezli~|Çırgın~|Şelevedin~
+150923	Salman Mah.	Ayıdağ=|Biçin Kümesi=|Cami~|Cami Yanı=|Dudu Mehmetler=|Elmalık=|Eşmelik=|Gökler=|Güveluşağı=|Karadaş=|Kemetli=|Kuşakkaya=|Köyyeri (merkez)=|Köyyeri@|Kıranyol@|Mıhcılar=|Otlugeriş=|Pazar~|Peldağ=|Sakallı Uşağı@|Sakallı Uşağı Kümesi=|Salman@|Taşlıyatak=|Taşoluk@|Yardibi~|Yemişgenbeleği=|Yokuşköy=|Çakırlar=|Çamalan (merkez)@|Çamalan=|Çeşme~|Özdemirler=|İlköğretim~|İmize=|İşletme~
+150925	Seferli Mah.	Aliimamlar=|Belediye Kümesi=|Boğmalık=|Düzçamı=|Göktepe=|Göğmele=|Kayabaşı=|Okul Kümesi=|Susamlı=|Tahtacı=|Taştekne=|Tepe=|Çaltı=|İncegeriş=|İsketi=
+60847	Subaşı Mah.	Argan~|Arganaltı~|Atatürk@|Dağyazı~|Gedikli~|Konak~|Konaküstü~|Merdiven~|Taşlıdere~|İstiklal@
+150981	Tuzakköy Mah.	Adiloğlu~|Aşağı Oymak~|Aşağı Tamalan~|Kayaaltı Aşağı~|Kayaaltı Dere~|Kayaaltı Yukarı~|Merkez~|Orta Çüre~|Yukarı Tamalan~|Çal~
+60848	Yazlıkbelen Mah.	Atatürk@|Dik~|Dr.h.rıza Çakır~|Göğüs~|Kooperatif@|Tekke@|Viraj~|Çiftlik@|İstiklal@
+60849	Yeni Mah.	Dr.h.rıza Çakır~|Gedikli@|Kışla~|Oruç@|Sağlık~|Çaldere@|İnönü@
+150983	Yeşilgüneycik Mah.	Damyeri~|Genişyatak~|Horubaşı~|Kaykusuz~|Kerme~|Kuluçtaşı~|Kökler~|Merkez~|Pınaralan~|Çardak~
+150985	Yeşilköy Mah.	Ahmetli~|Bayramlı~|Güney~|Pazaryeri~|Öksüz Uşağı~
+150987	Yolbaşı Mah.	Durmuşlu~|Düdükçü~|Emürlü~|Kayımlı~|Merkez~|Sağurlu~|Taştekne~|Tepedam~
+150989	Yukarıdüğencili Mah.	Ekizoğlu~|Gıriplikgil~|Karaoğlan Kırığı~|Kurtoğlu~|Kılcanlı~|Tombaş~
+99706	Çaldere Mah.	Cüceyüzü~|Güney~|Hoplu~|Menteşe~|Serçek~
+99859	Çamalan Mah.	Aşurdun~|Gücükburnu~|Kayguslu~|Kirazlık~|Sogulcak~|Veliagil~|Çamalan~|Çamçukuru~
+150933	Çamlıca Mah.	Merkez~|Samanlık~|Çakıllı~|İtkeser~
+150935	Çavdar Mah.	Ahmatlı~|Aşakı~|Göllez~|Mehdellü~|Orta Mah 1~|Orta Mah 2~|Osmangil~|Çöntüllü~
+150919	Çayıralan Mah.	1.~|Aralıcak=|Aşağı Güney=|Aşağı Yazıkıyısı=|Aşutlu=|Belalan=|Eskiköy=|Karamacası=|Kesmelik=|Keçeler=|Kocallıgiller=|Koy=|Kozluk=|Merkez-1@|Sağlık~|Yayla-guruluk Dağı=|Yazıbaşı=|Yukarı Güney=|Yukarı Yazıkıyısı=|Çayıralan=|Şehit Polis Ali Köse@
+150939	Çukurköy Mah.	Cami Yanı~|Cıngıllı~|Hayat Yanı~|Kiren~|Köse Kahya~|Küçükgöl~|Mocuklu~|Onbaşıgil~|Salıkgil~|Çavuşgil~
+150937	Çökek Mah.	Azim~|Emirli~|Gökmenli~|Haytalı~|Kabalı~|Kebişli~|Merkez~|Yoğungeriş~
+150979	Şahinköy Mah.	Aşağıkol~|Irmak Yarısı~|Kaya Dibi~|Muslum Çukuru~|Mısırcıoğlu~|Purşa~|Ustaoğlu~|Çetinkayalar~

@@ -1,0 +1,51 @@
+179803	Akşahap Mah.	Akşahap=
+179897	Alaçeşme Mah.	Alaçeşme=
+179901	Aşağıaşıklar Mah.	Aşağıaşıklar=
+179735	Bademli Mah.	Albayrak~|Aydoğdu~|Bağarası~|Camii~|Cumhuriyet (fatih)@|Cumhuriyet@|Dar~|Dere~|Erdoğan~|Fatih@|Kademe~|Kaşıkçı~|Kuyu~|Küme=|Lale~|Mehmet Akif@|Menderes~|Muharrem Dağdelen (fatih)@|Muharrem Dağdelen@|Namık Kemal@|Okul~|Söylemez~|Terzi~|Tuğsuz~|Yaka~|Yayla (fatih)@|Yayla@|Yıldız~|Çakmak~|Çam Bayırı~|Çiğdem~|Özen~
+179813	Belenalan Mah.	Belenalan=
+2486	Boğaz Mah.	1 Nolu~|2 Nolu~|A.gani Sınık@|Aşağı Çenger=|Beyçukuru=|Bozyer Mevkii=|Boğaz Yurt=|Delioğlanlı=|Emrullah~|Garip Hoca~|Hacı Ali~|Halkalı Yazı=|Kalaycı~|Kalkantaş=|Kovacıoğlu~|Kızıl İniş=|Rasih Kaplan@|Sarı Ömerli=|Sülek Gölü=|Tarakçılar=|Uzun Hacılar~|Yeni Su=|Yukarı Çenger=
+179817	Bucakalan Mah.	Bucakalan=
+179819	Bucakkışla Mah.	Bucakkışla=
+179823	Büyükalan Mah.	Büyükalan=
+179861	Ceceler Mah.	Ceceler=
+179905	Cemerler Mah.	Cemerler=|Süfla=
+179909	Cendeve Mah.	Cendeve=
+179707	Cevizli Mah.	Akdeniz@|Bağlar~|Ceviz~|Dibekönü~|Erenler~|Evliya Bacı~|Fatih Sultan Mehmet@|Gağras@|Germeyen~|Güllü~|Hanardı~|Hisar~|Iklan~|Karataş~|Kazım Karabekir~|M.akif Ersoy@|Menekşe~|Mercimek~|Mevlana@|Musa Çetin@|Nergiz~|Ortaalan~|Prof.dr.metin Sözen~|Purenli~|Sarnıçönü~|Sarı Şeyh Hüseyin~|Sazak (fevzi Çakmak)~|Sazak~|Suluyer~|Türkmenler (fevzi Çakmak)@|Türkmenler@|Yediler~|Yonca~|Yunus Emre@|Yıldızlı~|Zambak~|Çayırlık~|İbni Sina@|Şht.kerim Güleryüz~
+2487	Demirciler Mah.	1 Nolu~|1.nolu Sanayi Çarşısı~|1.çıkmaz~|2 Nolu~|3 Nolu~|A.gani Sınık@|Atatürk@|Aşağı Çarşı@|Demirciler~|Deveyolu~|Hükümet@|Mustafa Duruk@|Okul~|Ömer Duruk@|İnönü@|İstiklal@|Şehit J.er Hüseyin Özçelik@
+179869	Değirmenlik Mah.	Değirmenlik=
+179831	Dikmen Mah.	Dikmen=
+179835	Dutluca Mah.	Dutluca=
+179839	Emiraşıklar Mah.	Emiraşıklar=
+179913	Erenyaka Mah.	Erenyaka=
+2488	Fakılar Mah.	1.çıkmaz~|2.çıkmaz~|Abbaslı~|Bayraktar@|General İlhan Özcan@|Kumlu~|Külahçıoğlu@|Rasih Kaplan@
+179893	Geriş Mah.	Geriş B.m=
+179873	Gümüşdamla Mah.	Gümüşdamla=
+179917	Güneykaya Mah.	Aşağı=|Yukarı=
+179877	Günyaka Mah.	Günyaka=
+179941	Güzelsu Mah.	Güzelsu B.m=
+179789	Güçlüköy Mah.	1 Nolu Çıkmaz~|Ali Erdem@|Atatürk%|Büyükceviz~|Cumhuriyet@|Eskiköy Küme Evler=|Gençlik@|Kervan Yolu@|Kör Yusuf@|Meşe@|Muhtarlar 2. Çıkmaz@|Muhtarlar Cad.(büyük Ceviz Sok)@|Muhtarlar@|Rasih Kaplan@|Suyungözü Küme Evler=|Tıngalısı@|Çengerbaşı@|İnönü (özgürlük)@|İnönü@
+2489	Hacı İlyas Mah.	Atatürk@|Bayraktar@|Eşe Yokuşu~|Güllü~|Harman Yeri~|Hastahane~|Külahçıoğlu@|Medrese@|Nebi Yokuşu~|Rasih Kaplan@|Yeğen Mehmet Paşa@|Ömer Duruk@
+179921	Hocaköy Mah.	Hocaköy=
+179843	Hüsamettinköy Mah.	Hüsamettinköy=
+179881	Karakışla Mah.	Karakışla=
+179923	Kepez Mah.	Kepez=
+179929	Kepezbeleni Mah.	Kepezbeleni=|Mudusbeli=|Çaltı=
+179755	Kuyucak Mah.	Akşemseddin~|Aşık Veysel~|Barbaros~|Gazi Osman Paşa~|Mevlana (fatih)@|Mevlana@|Namık Kemal~|Orhan Gazi~|Orman İşl. Deposu=|Turgut Özal@|Yavuz Sultan Selim~|Yıldırım Beyazıt~
+179933	Mahmutlu Mah.	Mahmutlu=
+179847	Menteşbey Mah.	Menteşbey=
+179853	Minareli Mah.	Minareli=
+179947	Pınarbaşı Mah.	Pınarbaşı=
+179937	Sadıklar Mah.	Sadıklar=
+179885	Salihler Mah.	Salihler=
+179855	Sarıhacılar Mah.	Mehmet Uysal@|Sarıhacılar=
+179859	Sarıhaliller Mah.	Sarıhaliller=
+179939	Sinanhoca Mah.	Sinanhoca=
+179889	Susuzşahap Mah.	Susuzşahap=
+179767	Süleymaniye Mah.	Abdi Durmuş@|Ahmet Demirel@|Atatürk (saray)@|Atatürk@|Camii~|Değirmen~|Elmalı=|Fevzi Çakmak (saray)@|Fevzi Çakmak@|Gonca~|Gökkaya=|Gül~|Gülhane~|Gümüştepe (saray)~|Gümüştepe~|Hadım=|Hafız İbrahim~|Hasanlar~|Herse=|Kervan (saray)@|Kervan@|Küçük Yayla Mevkii=|M.akif Ersoy (saray)@|M.akif Ersoy@|Medrese~|Mescit~|Molla~|Odaönü~|Okul (saray)~|Okul~|Piynar~|Postane (saray)~|Postane~|Pınarbaşı (saray)@|Pınarbaşı@|Seydişehir@|Taşlı~|Uzunyol~|Yeniyol~|Yonca~|İmam~
+179949	Taşlıca Mah.	Merkez=|Murtiçi=|Yazlık=
+179699	Yarpuz Mah.	Ayı Kuyusu=|Balcıoğlu~|Beyler (fatih)@|Beyler@|Camii~|Cumhuriyet (fatih) Myd.|Cumhuriyet Myd.|Durak~|Eğitmen Ali Kaya~|Fatih (fatih)@|Fatih@|Güneş~|Gür~|Hacı Ömer~|Halil Ağa~|Hekimoğlu~|Kaklıktaş=|Kara İmam@|Karaboğaz@|Kardelen~|Kasapoğlu@|Kayağıl=|Korkmaz~|Molla Mahmut@|Molla Mustafa Yaylacı@|Molla Osman~|Okul~|Söbüce Koyak=|Sütçüiçi=|Türbe@|Yusufi Dede~|Yıldız~|Zomana=|Çiğdem~|İdris Güllüce@
+179943	Çaltılıçukur Mah.	Çaltılıçukur=
+179825	Çanakpınar Mah.	Çanakpınar=
+179829	Çimiköy Mah.	Çimiköy=
+179945	Çukurköy Mah.	Çukurköy=
+179865	Çınardibi Mah.	Çınardibi=

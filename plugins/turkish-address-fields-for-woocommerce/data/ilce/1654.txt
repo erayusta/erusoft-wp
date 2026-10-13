@@ -1,0 +1,137 @@
+36391	Ahurcuk Köyü, Merkez Mevkii	 Köy$
+36392	Ahurcuk Köyü, Velioğlu Mevkii	 Köy$
+30875	Akbudak Mah.	201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|Karancılar@|Çay.@
+36505	Akviran Köyü	 Köy$
+36393	Alişar Köyü, Kapaklı Mevkii	 Köy$
+36394	Alişar Köyü, Kestane Mevkii	 Köy$
+36395	Alişar Köyü, Killik Mevkii	 Köy$
+36397	Altınçevre Köyü, Merkez Mevkii	 Köy$
+36396	Altınçevre Köyü, Tabanlı Mevkii	 Köy$
+36403	Arslanşah Köyü, Bağdere Mevkii	 Köy$
+36401	Arslanşah Köyü, Kamberli Mevkii	 Köy$
+36400	Arslanşah Köyü, Merkez Mevkii	 Köy$
+36402	Arslanşah Köyü, Taş Mevkii	 Köy$
+36405	Arslanşah Köyü, Tingilli Mevkii	 Köy$
+36404	Arslanşah Köyü, Torluk Mevkii	 Köy$
+98277	Asarcık Köyü	 Köy$
+30876	Avutmuş Mah.	308~|Arzumanlı~|Avarlar~|Aşıklı 1~|Aşıklı~|Bağlar@|Demircik~|Hacımahmutlu~|Hancıoğlu~|Karanlık~|Karşıyaka~|Köprübaşı~|Kürtoğulları 1.~|Kürtoğulları 2.~|Kürtoğulları 3.~|Kürtoğulları 4.~|Kürtoğulları~|Sayderesi=|Turunçlar 1~|Turunçlar~|Ulaşlı~|Yılancıoğlu=|Çatallı 1.~|Çatallı~|İlipınar~|İmamlar~|İmanlı~|Şabanlı.~|Şahnazarlı 1.~|Şahnazlar 2~
+36399	Balcana Köyü, Kısık Mevkii	 Köy$
+36398	Balcana Köyü, Merkez Mevkii	 Köy$
+36406	Baltaşı Köyü, Merkez Mevkii	 Köy$
+36407	Baltaşı Köyü, Sucak Mevkii	 Köy$
+36409	Bayhasan Köyü, Elmaağaç Mevkii	 Köy$
+36410	Bayhasan Köyü, Kızık Mevkii	 Köy$
+36408	Bayhasan Köyü, Merkez Mevkii	 Köy$
+36411	Bayramköy Köyü	 Köy$
+30877	Biroğul Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|113~|114~|115~|116~|117~|118~|119~|120~|Ali Molla.@|Camii.@|Değirmen.@|Haçapur~|Kadıoğlu@|Kurtlu@|Köprü.@|Çırçır@
+36413	Buzkeçi Köyü, Karlı Mevkii	 Köy$
+36412	Buzkeçi Köyü, Merkez Mevkii	 Köy$
+30878	Bülbül Mah.	404~|406~|407~|409~|410~|411~|413~|414~|415~|419~|422~|423~|424~|425~|427~|428~|429~|430~|431~|432~|433~|434~|435~|Ahmet Cavit@|Ali Özdemir@|Ara Güler@|Atatürk@|Azerbaycan Myd.|Bahçeli Evler 2.~|Bahçelievler 1.~|Bahçelievler 3.~|Bahçelievler~|Cumhuriyet~|Devedüzü@|Dikmen~|Fatih@|Giresun@|Hacı Kamil~|Halil Rıfat Paşa@|Hamamaralığı~|Hanımevliyası@|Hastane(şht.selahattin Karaman)~|Kadir Aydoğan~|Kanuni~|Karaboğa~|Kazım Karabekir@|Konuk 1@|Konuk 2@|Konuk@|Küpeli Sokak(439)~|Mehmet Emin Ertem@|Mehmet Emin Yurdakul@|Mehmet Soygür~|Okul@|Ptt@|Saraçlar 1.~|Saraçlar 2.~|Saraçlar 3.~|Saraçlar~|Sebahattin Okutan~|Semerciler Çarşısı~|Suriri Bey@|Vamık Tekin~|Yeni Bloklar~|Yeni Çarşı 1.@|Yeni Çarşı 2.@|Yıldız 4.~|Yıldız 5.~|Yıldız 6.~|Yıldız 7.~|Yıldız 8.~|Yıldız~|Zahireciler~|Zeyitoğlu 1.~|Zeyitoğlu 2.~|Zeyitoğlu 3.~|Zeyitoğlu 4.~|Zeyitoğlu 5.~|Zübeydehanım@|Çamlık 1.(şht.ord.er.ramazan Yeşil)~|Çamlık 2.(şht.j.er.şenel Taşçı)~|Çamlık~|Çeşme.~|İdil Biret@|İnönü@|Şehit Er Mustafa Gedik~|Şehit Er Sabit Durmuş Özer~|Şehit Er Selehattin Yılmaz~|Şht.dz.er.hakan Koç(yıldız2.)~|Şht.j.onb.ceyhun Bayraktar(436)~|Şht.p.er.erol Karaoğlu (yıldız3.)~|Şht.p.er.oktay Yeşil(yıldız 1.)~
+36422	Dereköy Köyü, Karaoğul Mevkii	 Köy$
+36421	Dereköy Köyü, Merkez Mevkii	 Köy$
+36423	Dereköy Köyü, Subak Mevkii	 Köy$
+36424	Diler Köyü, Merkez Mevkii	 Köy$
+36426	Diler Köyü, Meykel Mevkii	 Köy$
+36427	Doğanyuva Köyü	 Köy$
+36430	Duman Köyü, Lapa Mevkii	 Köy$
+36429	Duman Köyü, Merkez Mevkii	 Köy$
+36428	Dönençay Köyü	 Köy$
+36432	Ekecek Köyü, Busait Mevkii	 Köy$
+36431	Ekecek Köyü, Merkez Mevkii	 Köy$
+36441	Esentepe Köyü	 Köy$
+36438	Evcili Köyü, Aluç Mevkii	 Köy$
+36436	Evcili Köyü, Batı Hacıköy Mevkii	 Köy$
+36437	Evcili Köyü, Doğu Hacıköy Mevkii	 Köy$
+36435	Evcili Köyü, Merkez Mevkii	 Köy$
+36439	Evcili Köyü, Yenice Mevkii	 Köy$
+30880	Fatih Mah.	601~|602~|603@|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|617~|618~|619~|620~|621~|623~|Giresun@|Konuk@|Küpcüler~|Medrese~|Mezbahane~|Sanayi@|Sanayi Sit.a-blk.~|Sanayi Sit.b-blk.~|Sanayi Sit.c-blk.~|Sanayi Sit.d-blk.~|Sanayi Sit.e-blk.~|Sanayi Sit.f-blk.~|Sanayi Sit.g-blk.~|Sanayi Sit.h-blk.~|Sanayi Sitesi 1.blok~|Sebze Hali 1~|Sebze Hali 2~|Seyrantepe@|Taşhanlar 1~|Taşhanlar 2~|Çeken~|İnşaat Mühendisi İhsan Ekmekçi~|İskelebaşı~|Şeyhler@|Şht.j.er Selim Sucu~
+36440	Gökçetaş Köyü	 Köy$
+36443	Güneygören Köyü, Bulduklu Mevkii	 Köy$
+36442	Güneygören Köyü, Merkez Mevkii	 Köy$
+36444	Gürpınar Köyü	 Köy$
+36445	Güvercinlik Köyü, Merkez Mevkii	 Köy$
+36446	Güvercinlik Köyü, Tepelce Mevkii	 Köy$
+36506	Güzelyurt Köyü, Merkez Mevkii	 Köy$
+36507	Güzelyurt Köyü, Pazarönü Mevkii	 Köy$
+36448	Hacıömer Köyü, Dervişoğlu Mevkii	 Köy$
+36447	Hacıömer Köyü, Merkez Mevkii	 Köy$
+36449	Hasanşeyh Köyü, Merkez Mevkii	 Köy$
+36451	Hasanşeyh Köyü, Soğulcak Mevkii	 Köy$
+36450	Hasanşeyh Köyü, Söğüteli Mevkii	 Köy$
+36452	Hocaoğlu Köyü	Hocaoglu=
+98279	Karaağaç Köyü, Ağcaimam Mevkii	 Köy$
+98278	Karaağaç Köyü, Merkez Mevkii	 Köy$
+98803	Karacaören Köyü	Karacaören=
+36425	Karacaören Köyü, Karacaören Merkez Mevkii	 Köy$
+30882	Kavaklar Mah.	801~|802~|803~|804~|805~|806~|807~|808~|809~|810~|811~|812~|813~|814~|815~|816~|817~|818~|819~|820~|821~|822~|Ahmet Dede@|Bağlar@|Karşı Bahçe@|Kıraçlar@|Tepebağ@|Yeni~
+36453	Kayalı Köyü	 Köy$
+36458	Konak Köyü, Han Mevkii	 Köy$
+36457	Konak Köyü, Merkez Mevkii	 Köy$
+36434	Kule Köyü, Küçük Mevkii	 Köy$
+36433	Kule Köyü, Merkez Mevkii	 Köy$
+30885	Kütküt Mah.	1101~|1102~|1103~|1104~|1105~|1106~|1108~|Alucra@|Bağlar@|Camii.@|Giresun@|Hasarı Değirmeni.@|Hışır Köprü@|Mesut Bayırı@|Yedi Dutlar(1107)~|Çiğitpınarı@
+36456	Kınık Köyü, Merkez Mevkii	 Köy$
+36454	Kınık Köyü, Orta Mevkii	 Köy$
+36455	Kınık Köyü, Yalnıztam Mevkii	 Köy$
+30883	Kırkgöz Mah.	901~|902~|903~|904~|905~|906~|907~|908~|909~|910~|911~|912~|913~|914~|915~|916~|917~|918~|919~|920~|921~|Bağlar@|Cağcağ~|Fevzi Kıraç@|Gülmezler@|Kadıoğlu@|Kıraçlar@|Nalçacıoğlu@|Oynargöl@|Şehit Temel Yetimova@
+30884	Kızılca Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|Ahmet Cavit@|Cumhuriyet.~|Dikmen~|Fevzi Çakmak@|Guguklar~|Kafaflar~|Semerciler~|Uğurluoglu~|Yiğit Er~
+30886	Müftü Mah.	1201~|1202~|1204~|1205~|1206~|1207~|1210~|1211~|1212~|1213~|1215~|1216~|1217~|1219~|1220~|1221~|1222~|1223~|1224~|1229~|1653 Köy$|Busait Köy$|Dikmen~|Halil Rıfat Paşa@|Karahüsnü~|Kerimefendi~|Köy Hizmetleri~|Kızıloğlu~|Yukarıbahçe@
+36459	Ocaktaşı Köyü	 Köy$
+36462	Ovacık Köyü, Aşağı Armutlu Mevkii	 Köy$
+36460	Ovacık Köyü, Etir Mevkii	 Köy$
+36461	Ovacık Köyü, Merkez Mevkii	 Köy$
+36463	Ovacık Köyü, Yukarı Armutlu Mevkii	 Köy$
+36465	Ozanlı Köyü, Aşağı Mevkii	 Köy$
+36464	Ozanlı Köyü, Yukarı Mevkii	 Köy$
+36467	Saraycık Köyü	 Köy$
+36469	Sarıyer Köyü, Hahavla Mevkii	 Köy$
+36468	Sarıyer Köyü, Kayadibi Mevkii	 Köy$
+36471	Sipahi Köyü, Merkez Mevkii	 Köy$
+36470	Sipahi Köyü, Tenemeli Mevkii	 Köy$
+36472	Suboyu Köyü	 Köy$
+36473	Sultankonağı Köyü	 Köy$
+30887	Tamzara Mah.	1300~|1301~|1302~|1303~|1304~|1305~|1306~|1307~|1308~|1309~|1310~|1312~|1313~|1314~|1315~|1316~|1317~|1318~|1319~|1320~|1321~|1322~|1323~|1324~|1325~|1326~|Ahmet Pınarı=|Demircilik@|Değirmen~|Giresun@|Irmak~|Prof.dr.muharrem Özsan@|Yedipınar@|Şakir İşcan (1311)~
+30888	Taş Mah.	1401~|1402~|1403~|1404~|1405~|1406~|1407~|1408~|1409~|1410~|1411~|1412~|1413~|Aşağı Bahçe~|Aşağıbahçe 1.~|Delibekir~|Demirciler~|Gürünlü~|Kalaycılar~|Kale~|Kurşunlu Camii~|Orta Bahçe~|Ortabahçe 1.~|Pastacı Koç Hüseyin~|Saip Efendi~|Terlemez~
+36478	Taşcılı Köyü	 Köy$
+36479	Tekkaya Köyü, Cüş Mevkii	 Köy$
+36480	Tekkaya Köyü, Laz Mevkii	 Köy$
+36481	Tekkaya Köyü, Merkez Mevkii	 Köy$
+36482	Tepeltepe Köyü	 Köy$
+36483	Tokluağıl Köyü	 Köy$
+99342	Tokluağıl Köyü, Leylek Mevkii	
+36487	Toplukonak Köyü, Burseyit Mevkii	 Köy$
+36484	Toplukonak Köyü, Doruklu Mevkii	 Köy$
+36488	Toplukonak Köyü, Hozana Mevkii	 Köy$
+36486	Toplukonak Köyü, Merkez Mevkii	 Köy$
+36489	Toplukonak Köyü, Toramanlı Mevkii	 Köy$
+36485	Toplukonak Köyü, Yeteroğlu Mevkii	 Köy$
+36490	Turpçu Köyü	 Köy$
+36491	Uğurca Köyü	 Köy$
+36493	Yakınca Köyü, Görene Mevkii	 Köy$
+36492	Yakınca Köyü, Merkez Mevkii	 Köy$
+107436	Yavuz Selim Mah.	1601~|1602~|1604~|1606~|1607~|1608~|1609~|1610~|1611~|1612~|1613~|1614~|1615~|1616~|1617~|1618~|1619~|1620~|1621~|1622~|1623~|1624~|1625~|1626~|1627~|1628~|1629~|1630~|1631~|1632~|1633~|1635~|1637~|1639~|1640~|1641~|1643~|1645~|1647~|1652~|1653~|1654~|1655~|1658~|1659~|1663~|1665~|1666~|1667~|1668~|Aspasa@|Halil Rıfat Paşa@|Köroğlu@|Teknikevler@|Çarıkcı Mustafa Gürsoy~|Öğretmen Hüseyin Hüsnü Tekışık~
+36495	Yaycı Köyü, Kozluca Mevkii	 Köy$
+36494	Yaycı Köyü, Merkez Mevkii	 Köy$
+36496	Yedikardeş Köyü, Hamzalı Mevkii	 Köy$
+36497	Yedikardeş Köyü, Uluyazı Mevkii	 Köy$
+36500	Yeniyol Köyü, Kavaklı Mevkii	 Köy$
+36499	Yeniyol Köyü, Orta Mevkii	 Köy$
+36498	Yeniyol Köyü, Pınarönü Mevkii	 Köy$
+36501	Yeşilyayla Köyü	 Köy$
+36502	Yeşilyurt Köyü	 Köy$
+36504	Yumurcaktaş Köyü	 Köy$
+36503	Yıltarıç Köyü	 Köy$
+36419	Çakır Köyü, Dedeli Mevkii	 Köy$
+36418	Çakır Köyü, Merkez Mevkii	 Köy$
+36416	Çakır Köyü, Yedipınar Mevkii	 Köy$
+36417	Çakır Köyü, Çileder Mevkii	 Köy$
+36415	Çakır Köyü, Çoğlu Mevkii	 Köy$
+36420	Çamlıbel Köyü	 Köy$
+36414	Çağlayan Köyü	 Köy$
+30879	Çiftlik Mah.	501~|502~|503~|504~|505~|506~|507~|Alucra@|Aşağı.~|Merkez@|Yukarı.~
+36466	Örencik Köyü	 Köy$
+30881	İkioğul Mah.	701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|714~|715~|716~|717~|718.~|719~|720.~|721~|Aşurlar~|Bağlar@|Değirmen@|Kayıkçılar@|Mutafoğlu.@|Nalçacıoğlu@|Tepebaşı@|Tokatlıoğlu@|Yiğen Şerif~|Çalgan@|Çarıkcılar@|Çirişoğlu@|Şekeroğlu@
+36474	Şahinler Köyü	 Köy$
+36475	Şaplıca Köyü, Licese Mevkii	 Köy$
+36477	Şaplıca Köyü, Merkez Mevkii	 Köy$
+36476	Şaplıca Köyü, Sayderesi Mevkii	 Köy$

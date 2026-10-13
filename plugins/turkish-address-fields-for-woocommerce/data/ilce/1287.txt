@@ -1,0 +1,151 @@
+1227	Abdigör Mah.	1002~|1004~|1004a~|1007~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1020~|1021~|1022~|1025~|1026~|1027~|1027a~|1028~|1030~|1043~|Bahçe~|Bahçelievler@|Bilinmeyen 23~|Bilinmeyen 605~|Bilinmeyen 682~|Birdal~|Birlik~|Dağdelen~|Harman ( 1022 )~|Harman~|Koçkıran@|Makber~|Meryemana@|Seher~|Sınem~|Yediveren~|Yukarı Bayazıt=|Çiçek Ülçen Mezrası=|Şehit Fikret Adıtatar~|Şelale~
+1228	Ahmedihani Mah.	1 Nolu Meteoroloji(1350)~|1303~|1304~|1305~|1306~|1311~|1313a~|1320~|1321~|1324~|1326~|1330~|1334~|1337~|1339~|1340~|1341~|1347~|1354~|1368~|1370~|1371~|1381~|1387~|1388~|1389~|1391~|Abdulbari Goozel@|Abdurrezak Aladağ@|Adem~|Akbaba~|Alçın~|Ayhan Aracı~|Ağrı@|Bilinmeyen 102~|Bilinmeyen 1035~|Bilinmeyen 1036~|Bilinmeyen 1038~|Bilinmeyen 1039~|Bilinmeyen 1040~|Bilinmeyen 1041~|Bilinmeyen 1042~|Bilinmeyen 1043~|Bilinmeyen 1045~|Bilinmeyen 1047~|Bilinmeyen 1084~|Bilinmeyen 109~|Bilinmeyen 115~|Bilinmeyen 39~|Bilinmeyen 57~|Birgül(1349)~|Bulut~|Burhan Dumlu@|Cemre~|Cesur~|Demet~|Dere~|Derman~|Derya~|Dolunay~|Doğan~|Fener~|Ferman~|Fırat~|Gamze~|Güler~|Güneş~|Has Karanfil~|Kartal(1385)~|Kaya~|Kule~|Menekşe~|Merkez~|Mert~|Meteoroloji 1352~|Murat~|Olgun~|Salman~|Sarıhan~|Star~|Suat~|Sönmez ( 1322 )~|Taşkın Dere~|Umut~|Uygar~|Uysal~|Yalçın~|Yunus(1376)~|Yıldız~|Çakır~|Çember 1313~|Çember~|Çevre Yolu%|Çiçek~|Ömür ( 1360 )~|Önder ( 1307 )~|Şenlik~
+5833	Aktarla Köyü	Aktarla=
+5834	Aktuğlu Köyü	Aktuğlu=
+5723	Alıntepe Köyü	Alıntepe=
+5725	Atabakan Köyü	Atabakan=|Ağrı Doğubayazıt@
+5726	Atabakan Köyü, Yeniköy Mezrası	Yeniköy=
+5727	Ayrancı Köyü	Ayrancı=
+5728	Ayrancı Köyü, Arpalı Mezrası	Arpalı=
+5724	Aşağıtavla Köyü	Ağrı Doğubayazıt@|Aşağıtavla=|Buyuretti=
+5729	Bardaklı Köyü	Ağrı Iğdır@|Bardaklı=
+181224	Bardaklı Köyü, Bedir Mevkii	Ağrı Iğdır@|Bedir=
+5730	Barındı Köyü	Ağrı Doğubayazıt@|Barındı=
+1237	Barış Mah.	703~|704~|705~|708~|710@|712~|717~|718~|719~|719-~|720~|721~|723~|725~|730~|731~|733~|735~|737~|739~|740~|741~|742~|743~|744~|745~|746~|751~|Atmaca~|Bilinmeyen 10~|Bilinmeyen 11~|Bilinmeyen 9~|Bülbül~|Destan@|Eleman~|Erzurum@|Jıyan~|Keklik~|Kılıç~|Kızıldıze@|Melisa~|Palamut~|Salkım~|Selman~|Sema~|Yakın~|Yazgülü~|Yukuş~|Yulaf~|Yüce~|Çavdar~|Çevre Yolu%|Çiftlik~|Özbay~|Özgür~|Özlü~
+5731	Başköy Köyü	Başköy=
+5732	Bereket Köyü	Bereket=
+5733	Besler Köyü	Besler=
+5835	Bezirhane Köyü	Bezirhane=
+5836	Bezirhane Köyü, Samanlı Mezrası	Samanlı=
+5734	Binkaya Köyü	Binkaya=
+5735	Bozkurt Köyü	Ağrı Iğdır@|Bozkurt=
+5736	Bozyayla Köyü	Bozyayla=
+5738	Bulakbaşı Köyü	Ağrı Doğubayazıt@|Bulakbaşı=
+5740	Bulakbaşı Köyü, Demir Kılıç Mezrası	Ağrı Doğubayazıt@|Demir Kılıç=
+5739	Bulakbaşı Köyü, Kesme Taş Mezrası	Ağrı Doğubayazıt@|Kesme Taş=
+5741	Buyuretti Köyü	Ağrı Doğubayazıt@|Aşağıtavla=|Buyuretti=
+5737	Bölücek Köyü	Bölücek=
+1229	Büyük Ağrı Mah.	10~|11~|12~|13~|14~|16~|17~|18~|19~|2~|20~|21~|3~|4~|402a~|405~|409~|411~|413~|415~|417~|421~|429~|435~|436~|437~|438~|439~|440~|441~|442~|443~|444~|445=|446~|447~|448~|453~|455~|456~|457~|459~|460~|461~|465~|470~|471~|472~|473~|474~|475~|476~|477~|478~|479~|480~|482-~|493~|5~|6~|7~|8~|9~|Akkuş~|Alkış ( 454 )~|Anıt ( 401 )~|Ardıç ( 463 )~|Atlas~|Aylin~|Bilinmeyen 350~|Bilinmeyen 92~|Botaş ( 459 )~|Cansu~|Cemal~|Dalbudak~|Deniz~|Dicle~|Dinçer~|Durmuş~|Ferhat~|Festival@|Funda~|Gazi~|Gözlem~|Gülazer~|Gümüşdere~|Günebakan~|Gürbulak~|Havin~|Hüsnü M. Özyeğin@|Kalender~|Kalus@|Kalus Mezrası~|Karagöz~|Karahan~|Kardeş~|Keskin~|Koran~|Kıraç ( 403 )~|Lorin~|Mehmet Eraslan@|Meltem~|Nargele~|Negrican~|Okçu~|Pamuk~|Seda~|Serhat~|Sevda~|Temekora Mezrası=|Tırpan ( 402 )~|Ufuk~|Yeşilkent~|Çevre Yolu%|Çeşme~|Çilek ( 434 )~|Çukur~|Özdilek ( 466 )~|Özlem~|Özmen~|İtmiş~|Şafak ( 407 )~|Şamdan ( 428 )~|Şehit Hüsnü Taşkıran~|Şöhret~
+5840	Dalbahçe Köyü	Dalbahçe=
+5748	Dağdelen Köyü	Dağdelen=
+5749	Demirtepe Köyü	Demirtepe=
+5750	Dolaklı Köyü	Dolaklı=
+5751	Dostali Köyü	Dostali=
+5841	Eskisu Köyü	Eskisu=
+5752	Esnemez Köyü	Esnemez=
+5753	Esnemez Köyü, Darık Mezrası	Darık=
+5754	Gökçekaynak Köyü	Gökcekaynak=
+5755	Göller Köyü	Göller=
+5756	Gölyüzü Köyü	Gölyüzü=
+100229	Gölyüzü Köyü, Bekirağıl Mevkii	Bekirağıl=
+5758	Gölyüzü Köyü, Elle Mezrası	Elle=
+100199	Gölyüzü Köyü, Mirağıl Mevkii	Mirağıl=
+5757	Gölyüzü Köyü, Çevirme Mezrası	Çevirme=
+5759	Gözükara Köyü	Gözükara=
+5842	Güllüce Köyü	Güllüce=
+5760	Gültepe Köyü	Ağrı Iğdır@|Gültepe=
+5761	Güngören Köyü	Güngören=
+5762	Güngören Köyü, Aşağı Güngören Mevkii	Aşağı Göngören=
+5763	Güngören Köyü, Gır Mevkii	Gır=
+5764	Güngören Köyü, Kalhasan Mezrası	Kalhasan=
+5765	Güngören Köyü, Yakacık Mezrası	Yakacık=
+5766	Günyolu Köyü	Günyolu=
+5769	Günyolu Köyü, Altun Tepe Mezrası	Altuntepe=
+5768	Günyolu Köyü, Duryan Mezrası	Duryan=
+5770	Günyolu Köyü, Kale Mezrası	Kale=
+5767	Günyolu Köyü, Körük Mezrası	Körük=
+5771	Gürbulak Köyü	Ağrı Doğubayazıt@|Gürbulak=
+5772	Halaç Köyü	Halaç=
+1239	Hasankeyf Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|1107~|1109~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|138~|139~|140~|141~|142~|143~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|154~|155~|156~|157~|158~|159~|160~|161~|162~|163~|164~|165~|166~|167~|168~|169~|170~|171~|172~|173~|174~|175~|176~|177~|178~|179~|180~|181~|182~|183~|184~|185~|186~|187~|189~|190~|191~|192~|193~|194~|195~|196~|197~|198~|199~|Akay~|Aktaş~|Alkanat~|Ardin~|Asya~|Avzem~|Azat~|Aşan~|Baran~|Batur~|Berat~|Berfin~|Berçem~|Bilinmeyenn 1~|Bilinmeyenn 10~|Bilinmeyenn 11~|Bilinmeyenn 12~|Bilinmeyenn 13~|Bilinmeyenn 14~|Bilinmeyenn 15~|Bilinmeyenn 16~|Bilinmeyenn 17~|Bilinmeyenn 18~|Bilinmeyenn 19~|Bilinmeyenn 2~|Bilinmeyenn 20~|Bilinmeyenn 21~|Bilinmeyenn 22~|Bilinmeyenn 23~|Bilinmeyenn 24~|Bilinmeyenn 25~|Bilinmeyenn 26~|Bilinmeyenn 27~|Bilinmeyenn 28~|Bilinmeyenn 29~|Bilinmeyenn 3~|Bilinmeyenn 30~|Bilinmeyenn 31~|Bilinmeyenn 32~|Bilinmeyenn 34~|Bilinmeyenn 35~|Bilinmeyenn 36~|Bilinmeyenn 37~|Bilinmeyenn 38~|Bilinmeyenn 39~|Bilinmeyenn 4~|Bilinmeyenn 41~|Bilinmeyenn 42~|Bilinmeyenn 43~|Bilinmeyenn 44~|Bilinmeyenn 45~|Bilinmeyenn 46~|Bilinmeyenn 47~|Bilinmeyenn 48~|Bilinmeyenn 49~|Bilinmeyenn 5~|Bilinmeyenn 50~|Bilinmeyenn 51~|Bilinmeyenn 52~|Bilinmeyenn 53~|Bilinmeyenn 54~|Bilinmeyenn 55~|Bilinmeyenn 56~|Bilinmeyenn 57~|Bilinmeyenn 58~|Bilinmeyenn 59~|Bilinmeyenn 6~|Bilinmeyenn 60~|Bilinmeyenn 61~|Bilinmeyenn 62~|Bilinmeyenn 63~|Bilinmeyenn 64~|Bilinmeyenn 65~|Bilinmeyenn 66~|Bilinmeyenn 67~|Bilinmeyenn 68~|Bilinmeyenn 69~|Bilinmeyenn 7~|Bilinmeyenn 70~|Bilinmeyenn 71~|Bilinmeyenn 72~|Bilinmeyenn 73~|Bilinmeyenn 74~|Bilinmeyenn 75~|Bilinmeyenn 76~|Bilinmeyenn 77~|Bilinmeyenn 79~|Bilinmeyenn 8~|Bilinmeyenn 80~|Bilinmeyenn 81~|Bilinmeyenn 82~|Bilinmeyenn 83~|Bilinmeyenn 84~|Bilinmeyenn 85~|Bilinmeyenn 86~|Bilinmeyenn 87~|Bilinmeyenn 89~|Bilinmeyenn 9~|Bilinmeyenn 90~|Caner~|Ceren~|Cmt~|Damla~|Defne~|Delal~|Demirci~|Dersim~|Dilan~|Döşeme@|Elif~|Erenler~|Ertaş~|Esra~|Eğitim~|Filiz~|Gündüz~|Harun~|Has~|Kalkan~|Karataş~|Karayel~|Keklik~|Kınalı~|M.e.k~|Menderes~|Minanur~|Munzur~|Narin~|Nazlı~|Nehir~|Nusret~|Onur~|Peron~|Rohat~|Rojbin~|Ronya~|Rubar~|Samet~|Savaş~|Sedanur~|Sedat~|Sercan~|Sude~|Sürmeli~|Tavşan~|Tayfur~|Tendurek~|Teoman~|Teyfur~|Tokar~|Ulaş~|Uğur~|Yavuz~|Yazgil~|Zahir~|Zana~|Zerin~|Zin~|Zozan~|Çağlar~|Çevre Yolu%|Öncü~|Özer~|Şehriban~|Şen~|Şenlenen~|Şeval~|Şiar~
+1231	Hürriyet Mah.	314~|315~|316~|319~|320~|322~|324~|326~|327~|328~|330~|332~|334~|335~|336~|337~|338~|339~|340~|342~|344~|345~|346~|347~|348~|349~|350~|354~|355~|356~|357~|358~|359~|360~|363~|364~|365~|367~|368~|369~|370~|375~|376~|377~|378~|379~|380~|381~|382~|383~|384~|385~|386~|387~|388~|389~|390~|391~|392~|393~|394.1~|394.2~|Adlin~|Altıntaş ( 312 )~|Aydın ( 310 )~|Açelya~|Bermal~|Bilinmeyenn 132~|Bilinmeyenn 133~|Bilinmeyenn 134~|Bilinmeyenn 135~|Bilinmeyenn 136~|Bilinmeyenn 137~|Bilinmeyenn 138~|Bilinmeyenn 139~|Bilinmeyenn 141~|Bilinmeyenn 142~|Bilinmeyenn 143~|Bilinmeyenn 144~|Bilinmeyenn 145~|Bilinmeyenn 146~|Bilinmeyenn 147~|Bilinmeyenn 148~|Bilinmeyenn 149~|Bilinmeyenn 150~|Bilinmeyenn 151~|Bilinmeyenn 152~|Bilinmeyenn 153~|Bilinmeyenn 154~|Bilinmeyenn 155~|Bilinmeyenn 156~|Bilinmeyenn 157~|Bilinmeyenn 158~|Bilinmeyenn 159~|Bilinmeyenn 161~|Bilinmeyenn 162~|Bilinmeyenn 163~|Bilinmeyenn 164~|Bilinmeyenn 165~|Bilinmeyenn 166~|Bilinmeyenn 167~|Bilinmeyenn 168~|Bilinmeyenn 169~|Bilinmeyenn 170~|Bilinmeyenn 171~|Bilinmeyenn 172~|Bilinmeyenn 173~|Bilinmeyenn 174~|Bilinmeyenn 175~|Bilinmeyenn 176~|Bilinmeyenn 177~|Bilinmeyenn 178~|Bilinmeyenn 179~|Bilinmeyenn 180~|Bilinmeyenn 181~|Bilinmeyenn 182~|Bilinmeyenn 183~|Bilinmeyenn 184~|Bilinmeyenn 185~|Bilinmeyenn 186~|Bilinmeyenn 187~|Bilinmeyenn 188~|Bilinmeyenn 189~|Bilinmeyenn 190~|Bilinmeyenn 191~|Bilinmeyenn 192~|Bilinmeyenn 193~|Bilinmeyenn 194~|Bilinmeyenn 195~|Bilinmeyenn 196~|Bilinmeyenn 197~|Bilinmeyenn 198~|Bilinmeyenn 199~|Bilinmeyenn 200~|Bilinmeyenn 201~|Bilinmeyenn 202~|Bilinmeyenn 203~|Bilinmeyenn 204~|Bilinmeyenn 205~|Bilinmeyenn 206~|Bilinmeyenn 207~|Bilinmeyenn 208~|Bilinmeyenn 209~|Bilinmeyenn 210~|Bilinmeyenn 211~|Bilinmeyenn 212~|Bilinmeyenn 213~|Bilinmeyenn 214~|Bilinmeyenn 215~|Bilinmeyenn 216~|Fidan~|Gizemnur ( 329 )~|Gülbahar ( 307 )~|Güldeste ( 305 )~|Hasır ( 325 )~|Hediye~|Hilal ( 311 )~|Hür~|Hüsnü M. Özyeğin@|Kantar ( 343 )~|Karaca ( 303 )~|Karaca Mezrası=|Kartal 317~|Kervan ( 308 )~|Küme Evler=|Maşuk ( 323 )~|Mihriban~|Romani ( 331 )~|Rüzgarlı ( 304 )~|Sazlık~|Selbi~|Sultan~|Süzgün~|Tunç~|Vadi ( 341 )~|Yaprak ( 306 )~|Yerlikaya~|Yıldırım~|Çevre Yolu%|Çobanali ( 333 )~|Öznuran~|İrem ( 321 )~|Şehit Ahmet Yıldız~|Şehit Kaymakam Muhammet Fatih Safitürk@|Şerafettin Eryılmaz1@|Şirin ( 309 )~
+5843	Kalecik Köyü	Kalecik=
+5774	Karabulak Köyü	Ağrı Iğdır@|Karabulak=
+5775	Karaburun Köyü	Ağrı Doğubayazıt@|Karaburun=
+5776	Karaburun Köyü, Ortaca Mezrası	Ortaca=
+5777	Karaca Köyü	Ağrı Iğdır@|Karaca=
+5778	Karakent Köyü	Karakent=
+5844	Karaşeyh Köyü	Karaşeyh=
+5845	Karaşeyh Köyü, Yolüstü Mezrası	Yolüstü=
+5846	Karaşeyh Köyü, Ömerbey Mezrası	Ömerbey=
+5779	Kargakonmaz Köyü	Ağrı Doğubayazıt@|Kargakonmaz=
+5780	Kazan Köyü	Kazan=
+1233	Koçkıran Mah.	902~|903~|905~|909~|914~|915~|915a~|916~|917~|919~|921~|922~|923~|924~|925~|926~|927~|928~|929~|930~|931~|932~|933~|934~|935~|936~|940~|943~|Akbulak Mezrası=|Akbulak~|Andiç~|Bahçelievler@|Başak~|Bilinmeyen 293~|Bilinmeyen 6~|Bilinmeyen 682~|Evren~|Gonca@|Harman ( 1022 )~|Harman~|Kara Ağaç~|Karakurt~|Karaköse~|Karanfil~|Koçkıran@|Meryemana@|Papatya~|Seher~|Susam~|Timur~|Uçar~|Yediveren~|Çayır~|Çiftçi~|İsa Geçit@|Şehit Fikret Adıtatar~|Şelale~
+5847	Kucak Köyü	Kucak=
+5848	Kutlubulak Köyü	Kutlubulak=
+5781	Kızılkaya Köyü	Kızılkaya=
+5782	Melikşah Köyü	Melikşah=
+5783	Melikşah Köyü, Yukarı Melikşah Mezrası	Yukarı Melikşah=
+5849	Mescitköy Köyü	Mescitköy=
+5850	Mescitköy Köyü, Uğrak Mezrası	Uğrak=
+5784	Ortadirek Köyü	Ortadirek=
+5785	Ortadirek Köyü, Aydoğan Mezrası	Aydoğan=
+5786	Ortaköy Köyü	Ortaköy=
+5788	Pullutarla Köyü	Pullutarla=
+1238	Sanayi Mah.	501~|502~|509~|5101~|5102~|5103~|5104~|5105~|5106~|5107~|5108~|5109~|511~|5110~|5111~|5120~|5121~|5122~|5123~|5124~|5125~|5126~|5127~|5128~|5129~|513~|5130~|5131~|5132~|5133~|5134~|5135~|5136~|5137~|5138~|5140~|5141~|5142~|5143~|5144~|5145~|5146~|515~|516~|517~|518~|519~|520~|521~|522~|523~|524~|525~|530~|531~|532~|534~|535~|536~|537~|538~|539~|540~|541~|542~|543a~|544~|545~|545a~|546~|547~|548~|549~|551~|552~|553~|554~|555~|556~|557~|557a~|558~|559~|560~|561~|562~|563~|564~|564a~|565~|566~|567~|568~|569~|570~|571~|572~|573~|574~|575~|576~|577~|578~|579~|580~|582~|584~|586~|588~|590~|591~|592~|593~|594~|594a~|595~|596~|597~|598~|599~|599-~|Acar~|Alaca~|Ayaz~|Aydoğdu~|Bağcan~|Bereket~|Beyaztaş~|Beşik~|Demir~|Dost~|Duman~|Erdal~|Erkan~|Ermeç~|Esma~|Esnemez~|Fatma~|Gündoğdu~|Hardal~|Kamil~|Karatay~|Kaçar~|Koşan~|Kızıldere~|Lıder~|Mehmet Eraslan@|Oruç~|Rahman~|Sırma~|Toprak~|Tuna~|Yasemin~|Yeşilay~|Zambak~|Zelal~|Çengel~|Çetin~|Çevre Yolu%|İlgin~|İpek~|İstek~|Şehit Battal Tanrıkulu~
+5854	Sarıbıyık Köyü	Sarıbıyık=
+1240	Sarıgül Mah.	1502~|1505~|1507~|1507/1~|1508~|1514~|1516~|1519~|1520~|1521~|1522~|1523~|1524~|1525~|1527~|1528~|1530~|1532~|Aksoy~|Ağrı@|Bager~|Bilinmeyen 120~|Bilinmeyen 122~|Bilinmeyen 124~|Bilinmeyen 126~|Bilinmeyen 129~|Bilinmeyen 130~|Bilinmeyen 131~|Bilinmeyen 26~|Bilinmeyen 320~|Bilinmeyen 348~|Bilinmeyen 392~|Bilinmeyen 419~|Bilinmeyen 571~|Bilinmeyen 572~|Bilinmeyen 629~|Bilinmeyen 756~|Bilinmeyen 792~|Blinmeyen 427~|Buzkan~|Dr.agit~|Kara Dere~|Kayaburun Mezrası=|Mazlum~|Mehdi~|Mir Cihangir~|Morgül ( 1504 )~|Morgül~|Nılüfer~|Rıfkı Başkaya@|Serkan~|Tahir~|Çevre Yolu%|Özgürlük ( 1512 )~|İshak Paşa@|Şehit Jandarma Uzman Çavuş Göksel Koç@|Şehit Savcı Hakan Kılıç@|Şimşek~|Şura~|Şımşek~
+5793	Sarıçavuş Köyü	Sarıçavuş=
+5794	Sazoba Köyü	Sazoba=
+5789	Sağdıç Köyü	Sağdıç=|Çevre Yolu%
+5790	Sağlıksuyu Köyü	Sağlıksuyu=
+5792	Sağlıksuyu Köyü, Küplü Mezrası	Küplü=
+5791	Sağlıksuyu Köyü, Ziyaret Mezrası	Ziyaret=
+5795	Seslitaş Köyü	Ağrı Doğubayazıt@|Seslitaş=
+5798	Seslitaş Köyü, Haso Mezrası	Ağrı Doğubayazıt@|Haso=
+5799	Seslitaş Köyü, Konutlar Mezrası	Konutlar=
+5797	Seslitaş Köyü, Tımır Mezrası	Ağrı Doğubayazıt@|Tımır=
+5796	Seslitaş Köyü, Tımır Ve Haso Mezrası	Ağrı Doğubayazıt@|Tımır Ve Haso=
+5800	Somkaya Köyü	Somkaya=
+5801	Subeşiği Köyü	Subeşiği=
+5832	Suluçem Köyü	185=
+5802	Tanıktepe Köyü	Ağrı Doğubayazıt@|Tanıktepe=
+5804	Tanıktepe Köyü, Kurutepe Mezrası	Kurutepe=
+5803	Tanıktepe Köyü, Künütepe Mezrası	Ağrı Doğubayazıt@|Künütepe=
+5805	Telçeker Köyü	Ağrı Doğubayazıt@|Konut-~|Telçeker=
+5806	Topçatan Köyü	Ağrı Doğubayazıt@|Topçatan=
+5856	Tutak Köyü	Tutak=
+5855	Tutumlu Köyü	Tulumlu=
+1234	Uluyol Mah.	801~|806~|809~|813~|817~|825~|828~|829~|830~|831~|832~|834~|835~|837~|840~|842~|843~|844~|845~|848~|849~|850~|853~|854~|855~|856~|858~|862~|863~|940~|Akasya ( 802 )~|Ararat ( 803 )~|Ağrı@|Badem~|Başak~|Bilinmeyen 105~|Bilinmeyen 106~|Bilinmeyen 107~|Bilinmeyen 155.~|Bilinmeyen 18~|Bilinmeyen 428~|Bilinmeyen 454~|Bilinmeyen 458~|Bilinmeyen 851~|Bilinmeyen93~|Bilinmeyen96~|Bilinmeyen97~|Bilinmeyen98~|Büyük Ağrı@|Fatih Cami ( 810 )~|Gelincik~|Gonca@|Gonca/1~|Gülçin ( 805 )~|Hacı Alihan Can~|Karanfil ( 822 )~|Koçkıran@|Küçük Ağrı~|Leylak ( 818 )~|Mehmet Özer~|Ortadoğu ( 804 )~|Palamut~|Seyyid Mahmut Arvasi~|Susam1~|Yılmaz~|Çayır ( 814 )~|Çimen~|Çınar ( 816 )~|Şehit Mehmet Kosta~
+5807	Uzunyazı Köyü	Ağrı Doğubayazıt@|Uzunyazı=
+5808	Uzunyazı Köyü, Küçük Uzun Yazı Mezrası	Küçük Uzun Yazı=
+1235	Vatan Mah.	568~|602~|615~|615a~|617~|619~|621~|622~|623~|625-~|627~|629~|630~|631~|632~|633~|635~|636~|638~|642~|644~|645~|646~|659~|Buket~|Ceylan~|Cumhuriyet@|Dumlupınar~|Erzurum@|Fatih~|Fidanlık~|Güvercin~|Hüsnü M. Özyeğin@|Kadife~|Kaktüs~|Kanarya~|Kocatepe~|Kurtuluş~|Kuru Çeşme~|Manolya~|Meram~|Sarmaşık~|Sarıkaya~|Serdar~|Suna~|Sümbül ( 614 )~|Yolüstü~|Zafer~|Çevre Yolu%|İrfan~|Şahin~|Şehit Mehmet Cemil Özgül~
+5817	Yalınsaz Köyü	Yalınsaz=
+5818	Yalınsaz Köyü, Tab Mezrası	Tab=
+5819	Yanoba Köyü	Yanoba=
+5820	Yanoba Köyü, Akçukur Mezrası	Akçukur=
+5821	Yaygınyurt Köyü	Yaygınyurt=
+5823	Yaygınyurt Köyü, Demir Kapı Mezrası	Demir Kapı=
+5825	Yaygınyurt Köyü, Güzel Mezrası	Güzel=
+5824	Yaygınyurt Köyü, Sütcü Mezrası	Sütçü=
+5822	Yaygınyurt Köyü, Çatkıran Mezrası	Çatkıran=
+5814	Yağmurdüşen Köyü	Yağmurdüşen=|Şevket=
+5816	Yağmurdüşen Köyü, Konut Mezrası	Konut=
+5815	Yağmurdüşen Köyü, Şevket Mezrası	Şevket=
+1236	Yeni Mah.	203~|205~|211~|216~|217~|219~|221~|222~|227~|233~|234~|237~|239~|240~|241~|243~|244-~|245~|246~|247~|249~|250-~|253~|254~|255~|256~|265~|266~|267~|268~|269~|277~|Abdulbari Goozel@|Barış ( 209 )~|Bayram ( 231 )~|Behlül Paşa ( 229 )~|Bilinmeyenn 100~|Bilinmeyenn 101~|Bilinmeyenn 102~|Bilinmeyenn 103~|Bilinmeyenn 104~|Bilinmeyenn 105~|Bilinmeyenn 106~|Bilinmeyenn 108~|Bilinmeyenn 109~|Bilinmeyenn 110~|Bilinmeyenn 111~|Bilinmeyenn 112~|Bilinmeyenn 113~|Bilinmeyenn 114~|Bilinmeyenn 115~|Bilinmeyenn 116~|Bilinmeyenn 117~|Bilinmeyenn 118~|Bilinmeyenn 119~|Bilinmeyenn 120~|Bilinmeyenn 121~|Bilinmeyenn 122~|Bilinmeyenn 123~|Bilinmeyenn 124~|Bilinmeyenn 125~|Bilinmeyenn 126~|Bilinmeyenn 127~|Bilinmeyenn 128~|Bilinmeyenn 129~|Bilinmeyenn 130~|Bilinmeyenn 92~|Bilinmeyenn 93~|Bilinmeyenn 95~|Bilinmeyenn 96~|Bilinmeyenn 97~|Bilinmeyenn 98~|Bilinmeyenn 99~|Burak~|Cerav~|Cihan ( 223 )~|Divan ( 230 )~|Durak ( 214 )~|Dursun~|Döşeme@|Döşeme Mezrası=|Esen ( 226 )~|Evin~|Güzel~|Karataş ( 251 )-~|Karataş 251~|Kümbet ( 206 )~|Kümeevler=|Mehtap ( 228 )~|Merve ( 232 )~|Minanur~|Orkide ( 201 )~|Pınar ( 207 )~|Sarısu ( 224 )~|Serap ( 238 )~|Taşkın ( 202 )~|Teymur~|Tomurcuk ( 210 )~|Tufan ( 204 )~|Yayla~|Yolgeçmez ( 236 )~|Zümrüt ( 225 )~|Çamlık ( 218 )~|Çevre Yolu%|İltezer~|Şah ( 235 )~|Şirin ( 213 )~
+5826	Yeniharman Köyü	Yeniharman=
+5830	Yiğityatağı Köyü	Yiğityatağı=
+5831	Yukarıtavla Köyü	Yukarı Tavla=
+5829	Yılanlı Köyü, Aş.küçük Yılanlı Mezrası	Aş.küçük Yılanlı=
+5828	Yılanlı Köyü, Küçük Yılanlı Mezrası	Ağrı Doğubayazıt@|Küçük Yılanlı=|Çevre Yolu%
+5827	Yığınçal Köyü	Yığınçal=
+5837	Çalıköy Köyü	Çalıköy=
+5839	Çalıköy Köyü, Taşlı Mezrası	Taşlı=
+5838	Çalıköy Köyü, Tepeli Mezrası	Tepeli=
+5742	Çetenli Köyü	Çetenli=
+5743	Çetenli Köyü, Gökçebulak Mezrası	Gökçebulak=
+1230	Çiftepınar Mah.	1101~|1102~|1103~|1104~|1108~|1116~|1118~|1120~|1122~|1127~|1128~|1130~|1131~|1132~|1133~|1134~|1135~|14 Nisan@|Abdullah Baydar@|Ararat ( 803 )~|Ağrı@|Bahçe~|Bahçelievler@|Belediye@|Bilinmeyen 425~|Bilinmeyen 98~|Birdal~|Büyük Ağrı@|Eski Sebze Halı(1105)~|Ezgi ( 1106 )~|Kale ( 1111 )~|Lale~|M.mustafa Alpdoğan@|Meryemana@|Nil~|Ogar~|Rıfkı Başkaya@|Taşdemir~|Temtek~|Uzm.onb.abdulkadir Bahçe~|Ziraat~|İnegöl@|İsa Geçit@|Ş.mehmet Özer@|Ş.nesim Kaçar~
+5744	Çiftlik Köyü	Çiftlik=
+5746	Çiftlik Köyü, Cebekümbet Mezrası	Cebekümbet=
+5745	Çiftlik Köyü, Türkmen Mezrası	Türkmen=
+5747	Çömçeli Köyü	Çömçeli=
+5851	Örmeli Köyü	Örmeli=
+5852	Örmeli Köyü, Göksügüzel Mezrası	Göksugüzel=
+5853	Örmeli Köyü, Çayır Mezrası	Çayır=
+5787	Örtülü Köyü	Örtülü=
+5812	Üzengili Köyü	Üzengili=
+5813	Üzengili Köyü, Rızde Mezrası	Rızde=
+5809	Üçgöze Köyü	Ağrı Doğubayazıt@|Üçgöze=
+5810	Üçgöze Köyü, Ağa Mezrası	Ağa=
+5811	Üçmurat Köyü	Üçmurat=
+5773	İncesu Köyü	İncesu=
+1232	İshakpaşa Mah.	1201~|1209~|1209a~|1211~|1226~|1227~|1232~|1233~|1234~|1236~|1239~|23~|Altıntaş ( 1216 )~|Aydın ( 1214 )~|Ağrı@|Bakırcı~|Burkan~|Cem~|Demirtürk~|Demokrasi~|Dilara~|Gül~|Gülseren~|Gültepe~|Gülveren~|Hüsnü M. Özyeğin@|Kahraman~|Kardelen ( 1210 )~|Kırlangıç ( 1212 )~|Mevlana@|Ozan~|Selvi~|Sevgi~|Söğüt~|Yeni 10~|Yeni 11~|Yeniyol~|Çayır ( 1230 )~|Çevre Yolu%|Ş.ahmet Salman~|Şehit Ali Çelik~|Şehit Mehmet Göneş~|Şerafettin Eryılmaz@

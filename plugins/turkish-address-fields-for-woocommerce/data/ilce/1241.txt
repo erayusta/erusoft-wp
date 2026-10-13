@@ -1,0 +1,314 @@
+68168	Abdullahhoca Köyü, Eyupoğlu Mevkii	Eyüpoğlu=
+68165	Abdullahhoca Köyü, Karali Ve Güneştepe Mevkii	Karali Ve Güneştepe=
+68169	Abdullahhoca Köyü, Kömürcüler Ve Aptiefendiler Mevkii	Kömürcüler Ve Aptiefendiler=
+68166	Abdullahhoca Köyü, Okumuş Çay Mevkii	Okumuş Çay=
+68167	Abdullahhoca Köyü, Çil Mevkii	Çiller=
+61368	Adalar Mah.	Adalar=
+68302	Armutlu Köyü, Merkez Mevkii	Merkez=
+68304	Armutlu Köyü, Morgüller Mevkii	Morgüller=
+68305	Armutlu Köyü, Pehlivanlı Mevkii	Pehlivanlı=
+68306	Armutlu Köyü, Tepe Mevkii	- Köy$
+68303	Armutlu Köyü, Yıldırımlar Mevkii	Yıldırımlar=
+68173	Aşıklar Köyü, Aşağı Mevkii	Aşağı=
+68172	Aşıklar Köyü, Merkez Mevkii	Merkez=
+68170	Aşıklar Köyü, Orta Mevkii	Orta=
+68171	Aşıklar Köyü, Sırt Mevkii	Merkez=|Sırt=
+68384	Başköy Köyü, Alt Mevkii	Alt=
+68386	Başköy Köyü, Başköy Mevkii	Başköy=
+68385	Başköy Köyü, Orta Mevkii	Orta=
+68177	Beyazsu Köyü, Alıcanlar Mevkii	Alicanlar=
+68181	Beyazsu Köyü, Bekiroğlu Mevkii	Bekiroğlu=
+68174	Beyazsu Köyü, Darboğaz Mevkii	Darboğaz=
+68182	Beyazsu Köyü, Dere Mevkii	Dere=
+68175	Beyazsu Köyü, Enesoğlu Mevkii	Enesoğlu=
+68178	Beyazsu Köyü, Köseler Mevkii	Köseler=
+68180	Beyazsu Köyü, Merkez Mevkii	Merkez=
+68183	Beyazsu Köyü, Orta Mevkii	Orta=
+68179	Beyazsu Köyü, Paşana Mevkii	Paşana=
+68176	Beyazsu Köyü, İrfanoğulları Mevkii	İrfanoğulları=
+68308	Beşikçiler Köyü, Hoşarlı Mevkii	Hoşarlı=
+68307	Beşikçiler Köyü, Kakşili Mevkii	Kakşili=
+68310	Beşikçiler Köyü, Leventli Mevkii	Leventli=
+68309	Beşikçiler Köyü, Merkez Kakşioğlu Mevkii	Merkez Kakşioğlu=
+68311	Beşikçiler Köyü, Tohumluk Mevkii	Tohumluk=
+68313	Beşikçiler Köyü, Yayla Evleri (hoşaroğlu Ve Kakşioğlu) Mevkii	
+68312	Beşikçiler Köyü, Yayla Evleri (tohumluk) Mevkii	
+68389	Buzlupınar Köyü, Gümüşpınar Mevkii	Gümüşpınar=
+68388	Buzlupınar Köyü, Yalçınlar Mevkii	Yalçınlar=
+68390	Buzlupınar Köyü, İstaponoz Mevkii	İstaponoz=
+68387	Buzlupınar Köyü, Şimşirli Mevkii	Şimşirli=
+61369	Büyükcaferpaşa Mah.	Büyükcaferpaşa=|Prof. Dr. Yaser Muşdal@|Çayeli Karadeniz Sahil Yolu@
+61391	Büyükköy Beldesi, Altıntaş Mah.	Küme1=
+61392	Büyükköy Beldesi, Arkadere Mah.	Küme2=
+61394	Büyükköy Beldesi, Demirciler Mah.	Erdal Ata@|Küme1=|Küme3=|Küme5=|Küme6=
+61395	Büyükköy Beldesi, Gümüştaş Mah.	Erdal Ata@|Küme5=|Küme6=|Küme7=
+61389	Büyükköy Beldesi, Merkez Mah.	Atatürk 1~|Atatürk 2~|Atatürk@|Erdal Ata@|Küme4=|Küme7=|Şehit Resul Morgül@|Şehit Vedat Dilmaç 3~|Şehit Vedat Dilmaç 4~|Şehit Vedat Dilmaç 5~|Şehit Vedat Dilmaç@|Şehit Vedat Dilmaç1~
+61396	Büyükköy Beldesi, Soğuksu Mah.	Küme4=|Küme8=
+61393	Büyükköy Beldesi, Çavuşlu Mah.	Küme1=|Küme3=|Küme5=
+61390	Büyükköy Beldesi, Çaycılar Mah.	Atatürk 1~|Atatürk@|Küme4=|Küme7=|Küme8=|Şehit Resul Morgül@|Şehit Vedat Dilmaç@
+61370	Büyüktaşhane Mah.	Amiral Hasan Sarıoğlu@|Büyüktaşhane=|Çataklıhoca=|Çayeli Karadeniz Sahil Yolu@
+68190	Demirhisar Köyü, Camialtı Mevkii	Camialtı=|Gölcük=
+68189	Demirhisar Köyü, Gölcük Mevkii	Gölcük=
+68194	Demirhisar Köyü, Kodana Mevkii	Kodana=
+68192	Demirhisar Köyü, Kurtuluş Mevkii	Kurtuluş=|Türkgeldi=
+68193	Demirhisar Köyü, Taşlık Mevkii	Taşlık=
+68191	Demirhisar Köyü, Türkgeldi Mevkii	Türkgeldi=
+68327	Derecik Köyü, Arıcılar Mevkii	Arıcılar=
+68330	Derecik Köyü, Balcılar Mevkii	Balcılar=
+68332	Derecik Köyü, Güneşli Mevkii	Güneşli=
+68329	Derecik Köyü, Hanlar Mevkii	Hanlar=
+68328	Derecik Köyü, Hüşütler Mevkii	Hüşütler=
+68334	Derecik Köyü, Kirazlı Mevkii	Kirazlı=
+68331	Derecik Köyü, Müreli Mevkii	Müreli=
+68333	Derecik Köyü, Tepe Mevkii	Tepe=
+68195	Düzgeçit Köyü	Düzgeçit=
+68196	Erdemli Köyü	Erdemli=
+68199	Erenler Köyü, Bucak Mevkii	Bucak=
+68197	Erenler Köyü, Merkez Mevkii	Merkez=
+68198	Erenler Köyü, Sırt Mevkii	Sırt=
+68200	Esendağ Köyü	Esendağ=
+61364	Eskipazar Mah.	9 Mart@|Abdullah Hoca~|Ahmet Hamdi İshakoğlu%|Ahmet Karahan Myd.|Ahmet Keçeli~|Alparslan Türkeş%|Cumhuriyet@|Deniz Çıkmazı~|Eskipazar=|Fehmi Ozan@|Gazi Hüseyin Köse~|Gazi Mustafa Memduh Özaktaş Myd.|Gazi Salih Çiftçi~|Gazi İsmail Aydın~|Hacı Hafız Osman Kazmaz~|Hacı Mahmut Yılancı~|Hasan Yılmaz@|Hatip~|Hüseyin Şahinkaya~|Karadeniz Sahil Yolu 4~|Kayadibi~|Kazım Karabekir@|Liman~|Maksut Ketenci~|Mustafa Sandıkçıoğlu~|Necati Morgül~|Rüştü Altunbaş~|Sadrazam Mehmet Ali Paşa@|Salih Kuru~|Selahattin Baltacı@|Selahattin Ozan~|Sinan Özen~|Tahsin Hoca~|Terzi Ahmet Bozkurt~|Yusuf Ziya Gümüş~|Yusuf Ziya Kurçenli@|Zengin Ahmet~|Çayeli Karadeniz Sahil Yolu@|Şehit Ali Hikmet Kaşıkçı~|Şehit Muhammet Yüce~|Şehit Muhammet Çakıl@|Şehit Mustafa Köse~|Şehit İdris Demirbaş~|Şehit Şemsettin Kamil~
+98805	Gemiciler Köyü	Gemiciler=
+68345	Gürgenli Köyü, Aydınlar Mevkii	Aydınlar=
+68335	Gürgenli Köyü, Bekiroğlu Mevkii	Bekiroğlu=
+68342	Gürgenli Köyü, Cumhuriyet Mevkii	Cumhuriyet=
+68339	Gürgenli Köyü, Dikilitaş Mevkii	Dikilitaş=
+68340	Gürgenli Köyü, Ehkartepe Mevkii	Ehkartepe=
+68343	Gürgenli Köyü, Güneşli Mevkii	Güneşli=
+68346	Gürgenli Köyü, Güneştepe Mevkii	Güneştepe=
+68336	Gürgenli Köyü, Kalyoncular Mevkii	Kalyonculargürgenli=
+68338	Gürgenli Köyü, Merkez Mevkii	Merkez=
+68337	Gürgenli Köyü, Topaloğlu Mevkii	Topaloğlu=
+68344	Gürgenli Köyü, Yeni Mevkii	Yeni=
+68341	Gürgenli Köyü, İstiklal Mevkii	İstiklal=
+68406	Gürpınar Köyü, Ayvalık Mevkii	Ayvalık=
+68405	Gürpınar Köyü, Kolağası Mevkii	Kolağası=
+68403	Gürpınar Köyü, Kuyubaşı Mevkii	Kuyubaşı=
+68407	Gürpınar Köyü, Merkez Mevkii	Merkez=
+68404	Gürpınar Köyü, Veritağ Mevkii	Veritağ=
+68207	Güzeltepe Köyü, Bayraktarlar Mevkii	Bayraktarlar=
+68201	Güzeltepe Köyü, Dereiçi Mevkii	Dereiçi=
+68203	Güzeltepe Köyü, Hanifli Mevkii	Hanifli=
+68206	Güzeltepe Köyü, Kuremeli Mevkii	Kuremeli=
+68205	Güzeltepe Köyü, Maloza Mevkii	Maloza=
+68209	Güzeltepe Köyü, Maşalar Mevkii	Maşalar=
+68208	Güzeltepe Köyü, Mergolar Mevkii	Mergolar=
+68204	Güzeltepe Köyü, Perikoma Mevkii	Perikoma=
+68202	Güzeltepe Köyü, Çolaklı Mevkii	Çolaklı=
+68210	Güzeltepe Köyü, İnceler Mevkii	İnceler=
+68214	Haremtepe Köyü, Altveis Mevkii	Altveis=
+68217	Haremtepe Köyü, Aykırı Filiztepe Mevkii	Aykırı Filiztepe=
+68212	Haremtepe Köyü, Aşağı Cordanlar Mevkii	Aşağı Cordanlar=
+68219	Haremtepe Köyü, Kestanelik Mevkii	Kestanelik=
+68221	Haremtepe Köyü, Merkez Mevkii	Merkez Mevkii=
+68213	Haremtepe Köyü, Mutidüzü Mevkii	Mutidüzü=
+68216	Haremtepe Köyü, Taş Mevkii	Taş=
+68220	Haremtepe Köyü, Yukarı Cordanlar Mevkii	Yukarı Cordanlar=
+68215	Haremtepe Köyü, Üstveis Mevkii	Üstveis=
+68218	Haremtepe Köyü, Şalambarlı Mevkii	Şalambarlı=
+61380	Hassadıklar Mah.	Hassadıklar=|Küçükcaferpaşa=
+68374	Kaptanpaşa Köyü, Başaran Mevkii	Başaran=
+68378	Kaptanpaşa Köyü, Bozkurtlar Mevkii	Bozkurtlar=
+68376	Kaptanpaşa Köyü, Boztepe Mevkii	Boztepe=
+68375	Kaptanpaşa Köyü, Canıbeyaz Mevkii	Canıbeyaz=
+68382	Kaptanpaşa Köyü, Düz Mevkii	Düz=
+68380	Kaptanpaşa Köyü, Gagauzlar Mevkii	Gagauz=
+68370	Kaptanpaşa Köyü, Gelincik 1 Mevkii	Gelincik 1=
+68371	Kaptanpaşa Köyü, Gelincik 2 Mevkii	Gelincik 2=
+68379	Kaptanpaşa Köyü, Gümüşler Mevkii	Gümüşler=
+68383	Kaptanpaşa Köyü, Karaloğlu Mevkii	Karaloğlu=
+68372	Kaptanpaşa Köyü, Merkez Mevkii	Merkez=
+68381	Kaptanpaşa Köyü, Orta Mevkii	Orta=
+68377	Kaptanpaşa Köyü, Yükselen Mevkii	Yükselen=
+68373	Kaptanpaşa Köyü, Şen Mevkii	Şen=
+68361	Karaağaç Köyü, Aloğlu Mevkii	Aloğlu=
+68352	Karaağaç Köyü, Aşağı Sırt Mevkii	Aşağı Sırt=
+68362	Karaağaç Köyü, Bozurmerli Mevkii	
+68360	Karaağaç Köyü, Boğazlar Mevkii	Boğazlar=
+68356	Karaağaç Köyü, Dalaklı Mevkii	Dalaklı=
+68347	Karaağaç Köyü, Demirciler Mevkii	Demirciler=
+68353	Karaağaç Köyü, Merkez Mevkii	Merkez=
+68350	Karaağaç Köyü, Milok Mevkii	Milok=
+68351	Karaağaç Köyü, Momişli Mevkii	Momişli=
+68354	Karaağaç Köyü, Topçular Mevkii	Topçular=
+68359	Karaağaç Köyü, Veripos Mevkii	Veripos=
+68355	Karaağaç Köyü, Çaydahor Mevkii	Çaydahor=
+68349	Karaağaç Köyü, Öksüzler Mevkii	Öksüzler=
+68358	Karaağaç Köyü, İmrut Mevkii	İmrut=
+68357	Karaağaç Köyü, İniş Mevkii	İniş=
+68348	Karaağaç Köyü, Şehit Muhammet Yüce Mevkii	Şehit Muhammet Yüce=
+68225	Kaçkar Köyü, Dere Mevkii	Dere=
+68226	Kaçkar Köyü, Kurular Mevkii	Kurular=
+68224	Kaçkar Köyü, Köprübaşı Mevkii	Köprübaşı=
+68223	Kaçkar Köyü, Songurler Mevkii	Songurler=
+68239	Kemerköy Köyü, Aşağı Mevkii	Aşağı=
+68234	Kemerköy Köyü, Caferoğlu Mevkii	Caferoğlu=
+68241	Kemerköy Köyü, Dere Mevkii	Dere=
+68240	Kemerköy Köyü, Kadıoğlu Mevkii	Kadıoğlu=
+68232	Kemerköy Köyü, Kasapoğlu Mevkii	Kasapoğlu=
+68235	Kemerköy Köyü, Katılya Mevkii	Katilya=
+68231	Kemerköy Köyü, Kayna Mevkii	Kayna=
+68233	Kemerköy Köyü, Maden Mevkii	Maden=
+68238	Kemerköy Köyü, Merkez Mevkii	Merkez=
+68236	Kemerköy Köyü, Meydanlı Mevkii	Meydanlı=
+68228	Kemerköy Köyü, Orta Mevkii	Orta=
+68237	Kemerköy Köyü, Sarılar Mevkii	Sarılar=
+68230	Kemerköy Köyü, Tepe Mevkii	Tepe=
+68227	Kemerköy Köyü, Yılmayanlar Mevkii	Yılmayanlar=
+68229	Kemerköy Köyü, Çahçuri Mevkii	Çahçuri=
+61379	Kesmetaş Mah.	Amiral Hasan Sarıoğlu@|Kesmetaş=|Çayeli Karadeniz Sahil Yolu@
+68244	Kestanelik Köyü, Cami Mevkii	Cami=
+68243	Kestanelik Köyü, Karşı Mevkii	Karşı=
+68242	Kestanelik Köyü, Merkez Mevkii	Merkez=
+68246	Köprübaşı Köyü, Alt Mevkii	Alt=
+68247	Köprübaşı Köyü, Kamiloğlu Mevkii	Kamiloğlu=
+68248	Köprübaşı Köyü, Siranlık Mevkii	Siranlık=
+68245	Köprübaşı Köyü, Üst Mevkii	Üst=
+61373	Küçükcaferpaşa Mah.	Büyükköy@|Hassadıklar=|Küçükcaferpaşa=
+61378	Küçüktaşhane Mah.	Amiral Hasan Sarıoğlu@|Küçütaşhane=|Taşhane=|Çayeli Karadeniz Sahil Yolu@
+68249	Latifli Köyü, Alt Mevkii	Alt=
+68251	Latifli Köyü, Suiçmezler Mevkii	Suıçmezler=
+139613	Latifli Köyü, Tepeler Mevkii	Tepeler=
+68250	Latifli Köyü, Çelikler Ve Sandıkçılar Mevkii	Çelikler Ve Sandıkçılar=
+61377	Limanköy Mah.	Limanköy=|Yenicami=|Çayeli Karadeniz Sahil Yolu@
+61383	Madenli Beldesi, Aloğlu Mah.	Aloğlu=|Seyrantepe=
+140851	Madenli Beldesi, Gürçam Mah.	Gürçam 1~|Gürçam 10~|Gürçam 11~|Gürçam 2~|Gürçam 3~|Gürçam 5~|Gürçam 6~|Gürçam 7~|Gürçam 8~|Gürçam 9~|Gürçam~
+61388	Madenli Beldesi, Habiboğlu Mah.	Habiboğlu=|Merkez=
+61387	Madenli Beldesi, Kazancılar Mah.	Kazancılar=
+61386	Madenli Beldesi, Maden Mah.	Kazancılar=|Maden=
+61381	Madenli Beldesi, Merkez Mah.	Ahmet Tüylüoğlu~|Kadir Çalışkan~|Merkez=|Nazım Bostancı~|Yeni Mahalle=|İstiklal@
+61382	Madenli Beldesi, Topkaya Mah.	Merkez=|Topkaya=|Yazıcılar=
+61385	Madenli Beldesi, Yazıcılar Mah.	Yazıcılar=|Yeni Mahalle=
+100426	Madenli Beldesi, Yeni Mah.	Merkez=|Yeni Mahalle=|Çeremenli=
+61384	Madenli Beldesi, Çamlıca Mah.	Aloğlu=|Çamlıca=
+68254	Maltepe Köyü, Karşıyaka Mevkii	Karşıyaka=
+68255	Maltepe Köyü, Kireçhane Mevkii	Kireçhane=
+68252	Maltepe Köyü, Merkez Mevkii	Merkez=
+68253	Maltepe Köyü, Çevre Mevkii	Çevre=
+68257	Musadağı Köyü	Musadağı=
+68412	Ormancık Köyü, Mahmutoğlu Mevkii	Mahmutoğlu=
+68410	Ormancık Köyü, Merkez Mevkii	Merkez=
+68411	Ormancık Köyü, Ulaş Mevkii	Ulaş=
+68259	Ortaköy Köyü, Makraş Mevkii	Makraş=
+68260	Ortaköy Köyü, Soğuksu Mevkii	Soğuksu=
+68258	Ortaköy Köyü, Voyna Mevkii	Voyna=
+61365	Sabuncular Mah.	Burhan Ketenci~|Eskipazar=|Küçük Sanayi 1~|Küçük Sanayi 2~|Küçük Sanayi 3~|Küçük Sanayi 4~|Küçük Sanayi 5~|Küçük Sanayi 6~|Muhtar Yavuz İsmail@|Sabuncular=|Sadrazam Mehmet Ali Paşa@|Ustalar@|Zanaat@|Örnek Sanayi~|Şehtitlik~
+68263	Sarısu Köyü, Mehelle Mevkii	Mehelle=
+68261	Sarısu Köyü, Sarıahmetler Mevkii	Sarıahmetler=
+68265	Sarısu Köyü, Sazlıklar Mevkii	Sazlıklar=
+68266	Sarısu Köyü, Suiçmezler Mevkii	Suiçmezler=
+68267	Sarısu Köyü, Tepeler Mevkii	Tepeler=
+68262	Sarısu Köyü, Çakıroğlu Mevkii	Çakıroğlu=
+68269	Sefalı Köyü, Kısırlar Mevkii	Kısırlar=
+68270	Sefalı Köyü, Merkez 1 Mevkii	Merkez1=
+68271	Sefalı Köyü, Merkez 2 Mevkii	Merkez2=
+68272	Sefalı Köyü, Orta Mevkii	Orta=
+68268	Sefalı Köyü, Özdemirler Mevkii	Özdemirler=
+68275	Selimiye Köyü, Ayanı Mevkii	Ayanı=
+68276	Selimiye Köyü, Gülova Mevkii	Gülova=
+68274	Selimiye Köyü, Kavala Mevkii	Kavala=
+68273	Selimiye Köyü, Tepeboyu Mevkii	Tepeboyu=
+68419	Seslidere Köyü, Boşnaklı Mevkii	Boşnaklı=
+68414	Seslidere Köyü, Haşafı Mevkii	Haşafı=
+68415	Seslidere Köyü, Merkez Mevkii	Merkez.=
+68418	Seslidere Köyü, Orta Mevkii	Orta=
+68413	Seslidere Köyü, Sarbeni Mevkii	Sarbeni=
+68416	Seslidere Köyü, Sastan Mevkii	Sastan=
+68417	Seslidere Köyü, Veripos Mevkii	Veripos=
+68421	Seslidere Köyü, Verüt Mevkii	Verüt=
+68420	Seslidere Köyü, Üst Mevkii	Üst=
+68278	Sırtköy Köyü, Hürremli Mevkii	Hürremli=
+68277	Sırtköy Köyü, Kamilli Mevkii	Kamilli=
+68279	Sırtköy Köyü, Saralı Mevkii	Saralı=
+61372	Taşhane Mah.	Amiral Hasan Sarıoğlu@|Küçütaşhane=|Taşhane=|Çayeli Karadeniz Sahil Yolu@
+68425	Uzundere Köyü, Alt Mevkii	Alt=
+68427	Uzundere Köyü, Büyüğün Ev Ve Çobanlar Mevkii	Büyüğün Ev Ve Çobanlar=
+68426	Uzundere Köyü, Cağak Mevkii	Cağak=
+68428	Uzundere Köyü, Gobocit Mevkii	Gobocit=
+68430	Uzundere Köyü, Korkapos Mevkii	Korkapos=
+68429	Uzundere Köyü, Köse Mevkii	Köse=
+68422	Uzundere Köyü, Orta Mevkii	Orta=
+68424	Uzundere Köyü, Tepeli Mevkii	Tepeli=
+68423	Uzundere Köyü, Üst Mevkii	Üst=
+61376	Yaka Mah.	Büyükdere@|Büyükköy@|Hacıoğlu~|Okul~|Prof. Dr. Yaser Muşdal@|Yaka=|Çayeli Karadeniz Sahil Yolu@|Şehit Hüseyin Akyüz~
+61366	Yalı Mah.	Amiral Hasan Sarıoğlu@|Cafer Çomoğlu@|Yalı=|Çayeli Karadeniz Sahil Yolu@
+68281	Yamaç Köyü, Cami Yanı Mevkii	Camiyanı=
+68286	Yamaç Köyü, Hasançavuş Mevkii	Hasançavuş=
+68285	Yamaç Köyü, Kalenderli Mevkii	Kalenderli=
+68284	Yamaç Köyü, Küçükmustafalı Mevkii	Küçükmustafalı=
+68282	Yamaç Köyü, Merkez Mevkii	Merkez=
+68283	Yamaç Köyü, Orta Mevkii	Orta=
+68293	Yanıkdağ Köyü, Fenaçi Mevkii	Fenaiçi=
+68288	Yanıkdağ Köyü, Hervenik Mevkii	Hervenik=
+68292	Yanıkdağ Köyü, Karanlık Mevkii	Karanlık=
+68291	Yanıkdağ Köyü, Köseoğlu Mevkii	Köseoğlu=
+68290	Yanıkdağ Köyü, Mesavli Mevkii	Mesavli=
+68289	Yanıkdağ Köyü, Puşuli Mevkii	Puşuli=
+68287	Yanıkdağ Köyü, Taşdemirler Mevkii	Taşdemirler=
+68294	Yavuzlar Köyü	Yavuzlar=
+61375	Yenicami Mah.	Yenicami=
+68433	Yenice Köyü, Cumhuriyet Mevkii	Cumhuriyet=
+68431	Yenice Köyü, Geyikli Mevkii	Geyikli=
+68432	Yenice Köyü, Ortasırt Mevkii	Ortasırt=
+68434	Yenice Köyü, Sırt Mevkii	Sırt=
+68295	Yenihisar Köyü	Gemiciler=|Köyün Kendisi=
+61367	Yenipazar Mah.	15 Temmuz Şehitler Myd.|9 Mart@|Adliye~|Ali Okumuş@|Alparslan Türkeş%|Alper Enisoğlu~|Belediyeciler~|Bereket~|Cengiz Topel@|Cumhuriyet@|Deniz~|Dursun Sarıçam~|Ecz. Naci Bilgin~|Erez~|Fahri Kasırga@|Fikri Okur~|Gazateci Memiş Saklı~|Gazi Hamit Çolak~|Gazi Hüseyin Atabay~|Gazi Hüseyin Ümit~|Gazi Muzaffer Balcı~|Gazi Nedim Kısır~|Gazi Nurhan Kibar~|Gazi Sadık Tüysüz~|Gazi Salih Çolak~|Gazi Selahattin Şark~|Hakim Mehmet Yavuz~|Halil İbrahim Tüysüz Paşa@|Hastahane~|Hayati Yazıcı Myd.|Kaptanoğlu@|Kardelen~|Kazım Ayvaz~|Keçeli~|M. Akif Ersoy Myd.|Mehmet Kutlu~|Mustafa Kaşıkçı@|Muzaffer Çakır~|Niyazi Çavuşoğlu@|Op. Dr. M. Haldun Çoban~|Orhan Sözer~|Prof. Dr. Burhan Pişkin~|Prof.dr.yılmaz Tanyaş@|Recep Topal~|Recep Ülker~|S. Sabit İshakoğlu@|Sabri Bayraktar@|Sabri Sözer~|Sinan Kutlu%|Tahsin Hoca~|Terzi Ahmet Bozkurt~|Tüysüzler~|Yaşar Yılmaz@|Yenipazar=|Yeşil Yalı~|Çayeli Karadeniz Sahil Yolu@|İzzet Akçal@|Şehit Bekir Altunbaş~|Şehit Mesut Yıldız~|Şehit Mustafa Yazıcı~|Şehit Nedim Küçük~
+68297	Yenitepe Köyü, Tepe Mevkii	Tepe=
+68296	Yenitepe Köyü, Çakırlı Mevkii	Çakırlı=
+68363	Yeşilköy Köyü, Merkez Mevkii	Merkez=
+68364	Yeşilköy Köyü, Seyrantepe Mevkii	Seyrantepe=
+68436	Yeşiltepe Köyü, Alt Mevkii	Alt=
+68442	Yeşiltepe Köyü, Balıkçı Mevkii	Balıkçı=
+68440	Yeşiltepe Köyü, Balıkçıoğlu Mevkii	Balıkçıoğlu=
+68441	Yeşiltepe Köyü, Bilginler Mevkii	Bilginler=
+68443	Yeşiltepe Köyü, Bilginler Mezra Mevkii	Bilginler Mezra=
+68444	Yeşiltepe Köyü, Boğaziçi Mevkii	Boğaziçi=
+68435	Yeşiltepe Köyü, Cemak Mevkii	Cemak=
+68438	Yeşiltepe Köyü, Güneli Mevkii	Güneli=
+68437	Yeşiltepe Köyü, Mezra Mevkii	Mezra=
+68439	Yeşiltepe Köyü, Orta Mevkii	Orta=
+68298	Yeşilırmak Köyü	Yeşilırmak=
+68366	Yıldızeli Köyü, Bekirli Mevkii	Bekirli=
+68368	Yıldızeli Köyü, Dere Mevkii	Dere=
+68365	Yıldızeli Köyü, Kalyoncular Mevkii	Kalyoncular=
+68367	Yıldızeli Köyü, Muhli Mevkii	Muhli=
+68369	Yıldızeli Köyü, Serinırmak Mevkii	Serinırmak=
+68299	Zafer Köyü, Alt Mevkii	Alt=
+68301	Zafer Köyü, Cami Mevkii	Cami=
+68300	Zafer Köyü, Sırt Mevkii	Sırt=
+61374	Çataklıhoca Mah.	Çataklıhoca=
+68395	Çataldere Köyü, Aydınlar Mevkii	Aydınlar=
+68396	Çataldere Köyü, Azarlı Mevkii	Azarlı=
+68397	Çataldere Köyü, Cevitli Mevkii	Cevitli=
+68392	Çataldere Köyü, Karakaşlı Mevkii	Karakaşlı=
+68398	Çataldere Köyü, Kaymaklı Mevkii	Kaymaklı=
+68391	Çataldere Köyü, Merkez Mevkii	Merkez=
+68394	Çataldere Köyü, Reyhanlı Mevkii	Reyhanlı=
+68393	Çataldere Köyü, Sırt Mevkii	Sırt=
+68316	Çeşmeli Köyü, Balcıoğlu Mevkii	Balcıoğlu=
+68314	Çeşmeli Köyü, Hastaş Mevkii	Hastaş=
+68325	Çeşmeli Köyü, Karaoğlu Mevkii	Karaoğlu=
+68324	Çeşmeli Köyü, Kayadibi Mevkii	Kayadibi=
+68326	Çeşmeli Köyü, Malipos Mevkii	Malipos=
+68317	Çeşmeli Köyü, Merkez Mevkii	Çeşmeli=
+68320	Çeşmeli Köyü, Okullar Mevkii	Okullar=
+68318	Çeşmeli Köyü, Orta Mevkii	Orta=
+68322	Çeşmeli Köyü, Ortaköy Mevkii	Ortaköy=
+68319	Çeşmeli Köyü, Saladop Mevkii	Saladop=
+68321	Çeşmeli Köyü, Tepeler Mevkii	Tepeler=
+68323	Çeşmeli Köyü, Tepeli Mevkii	Tepeli=
+68315	Çeşmeli Köyü, Çukurlu Mevkii	Çukurlu=
+68187	Çilingir Köyü, Demirciler Mevkii	Demirciler=
+68188	Çilingir Köyü, Mezra Mevkii	Mezra=
+68186	Çilingir Köyü, Orta Mevkii	Orta=
+68185	Çilingir Köyü, Sırt Mevkii	Sırt=
+68402	Çukurluhoca Köyü, Arekner Mevkii	Areknar=
+68400	Çukurluhoca Köyü, Aydoğdu Mevkii	Aydoğdu=
+68401	Çukurluhoca Köyü, Ayışığı Mevkii	Ayışığı=
+68399	Çukurluhoca Köyü, Merkez Mevkii	Merkez=
+68184	Çınartepe Köyü	Çınartepe=
+68408	İncesu Köyü	İncesu=
+68409	İncesu Köyü, Cimoroç Mevkii	Cimoroç=
+68222	İncesırt Köyü	İncesırt=
+61371	Şairler Mah.	Fehmi Ozan 1~|Fehmi Ozan@|Ferhat Karakaş~|Osman Dayı~|Oğuzlar~|Rıza Albayrak~|Yenipazar=|Yusuf Ziya Kurçenli@|Şairler=
+68280	Şirinköy Köyü	Şirinköy=

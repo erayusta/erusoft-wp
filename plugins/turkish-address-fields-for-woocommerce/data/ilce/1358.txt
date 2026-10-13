@@ -1,0 +1,30 @@
+197867	Ahmetli Mah.	Esenli~|Güneypınar~|Kayalı~|Kermece~|Köybaşı~|Kütlez~|Merkez~|Topallı~|Yomrudüzü~
+151233	Akçalı Mah.	Beştam~|Camiyanı~|Gandazevyanı~|Güney~|Köseoğlu~|Kıran~|Omaryeri~|Ortaköy~|Tevekkel~|Öteyüz~
+151195	Alanyurt Mah.	Beyoğlu@|Fakirler=|Gölköy@|Gündoğdu~|Güney=|Hekimoğlu=|Kayabaşı~|Kayadibi~|Kaş Dibi~|Kol Ağası@|Kozaklı~|Mahmutoğlu=|Mimar Sinan@|Mustafa Kemal Paşa@|Mustafaoğlu@|Müftüoğlu~|Taraklık=|Tecirler~|Topaloğlu~|Tufanlar~|Ustaoğlu@|Yetim Salih@
+151197	Aydoğan Mah.	Aydoğan Yaylası=|Birlik@|Burunalan=|Esenler@|Göbüloğlu~|Gökçebel@|Güney=|Gürkan Daşkın~|Kumdibi~|Mehmet Akif Ersoy~|Sarıcaoğlu=|Taşcıoğlu~|Şehit Necati Çiçek~
+151239	Bayıralan Mah.	Avcılar~|Aşağıköy~|Hacıbayram~|Hülür~|Kadıoğlu~|Kaşaldak~|Nuhoğlu@
+151243	Bulut Mah.	Eyseri~|Merkez~|Yakuplu~|Çavuşoğlu~
+151247	Cihadiye Mah.	Elmaalan~|Kındıra~|Manastır~
+151199	Damarlı Mah.	Cami~|Derekol=|Değirmenyanı=|Fatih Sultan Mehmet@|Hacıvat=|Kabayalak Taşdemir=|Karaman Kurttepesi=|Kıran=|Menekşe (yeşilyurt)~|Menekşe~|Mustafa Kemalpaşa (yeşilyurt)@|Mustafa Kemalpaşa@|Otluk=|Yunus Emre@|Zeyve Tepe=|Şahinoğlu Bitmez Konak=|Şehit Bilgin Çelenk@|Şükrü Çakır (yeşilyurt)@|Şükrü Çakır@
+151227	Direkli Mah.	Fatih@|Fatsa@|Gültepe=|Hasanoğlu=|Irmak@|Keller Yanı=|Okçabel=|Sülük Gölü=|Tazvara=|Taş Arası=|Yeniköy=|Çayır Boğazı=|İlyasoğlu=
+151203	Düzyayla Mah.	Alacageriş~|Aybastı@|Birlik@|Cuhadaroğlu~|Ekşioğlu@|Elmagüneyi~|Eselioğlu~|Gölköy@|Güney@|Karaağaç Yukuşu=|Kozalan@|Kıran=|Meryem~|Reşadiye@|Tanyeri=|Tepe Alan=|Tepe=|Yaralı@|Yavuz Selim@|Yukarıhatipgil=|Çıkrık Akat@|Çıkrık Gökarat@|Üçköprü=
+151259	Emirler Mah.	Abuçoğlu~|Aliağa~|Kendirıslahı~|Killik~|Köleoğlu~|Kıran~|Meryemana~|Saklı~|Zaimkadıoğlu~
+61010	Gölköy Mah.	Abdi İpekçi~|Anduz=|Aybastı@|Aşağı Oba=|Bicincik=|Dere Bükü=|Dipköy=|Dımışlı=|Fevzi Çakmak~|Garaj~|Genç~|Göktürk~|Hase~|Hatalı@|Hürriyet~|Karacaoğlan~|Kaya Dibi=|Kirazlık=|Konak Altı~|Konak~|Köm Yanı=|Körküt=|Kıran Oba=|Madul=|Merdivenli~|Mevlana~|Mustafa Kemal Paşa@|Necip Fazıl~|Nuhlu=|Nuhoğlu~|Piri Reis~|Ulubatlı Hasan~|Yavuz Sultan Selim~|Yemişken=|Yunus Emre~|Ömer Hayyam~|İbni Sina~|İsmet Paşa@|İstiklal~|Şehit Ömer Halisdemir@|Şerife Boz~
+151263	Güzelyayla Mah.	Merkez~|Tamalan~
+151211	Güzelyurt Mah.	Atatürk%|Aybastı@|Bedirli=|Cumhuriyet Myd.|Ecemli=|Gölköy@|Gündoğan=|Gürpınar=|Hamzalı=|Kalaycı=|Kazım Karabekir (özyurt)@|Kazım Karabekir@|Kaş Altı=|Kaş Başı=|Kıran=|Kırıklar=|Mahmutlar@|Memiş Şentürk@|Mimar Sinan@|Orta Mahalle=|Sağlık@|Toygunoğlu=|Yavuz Selim@|Çayıralan=|Özyurt@|İnönü%
+151265	Haruniye Mah.	Cinnazoğlu~|Merkez~
+151267	Hürriyet Mah.	Kocaman~|Çatalarmut~|İbrahimustaoğlu~
+151271	Kale Mah.	Kahyaçayırı~|Kaledibi~|Kaledüzü~|Meydan~|Pınargözü~|Terelik~|Yayla~|Ömerarpası~
+61011	Karagöz Mah.	Karagöz=|Kaya Boynu=
+151219	Karahasan Mah.	Aleykin=|Ali Osmanlar=|Araplı=|Asar Kale=|Ayık Ayası=|Ağacaoğlu=|Aşağıköy=|Dağkırık=|Demircioğlu=|Dikyol=|Düzkırık=|Ekizoğlu=|Enişdibi=|Erdemler=|Fındıcak=|Güney=|Hatip Güney=|Karaağaç=|Kezalan=|Köseli=|Köseli Obası=|Merkez=|Meşet Balan=|Otluk Beli=|Pangıloğlu=|Porsuk=|Sağbekiroğlu=|Topçular=|Uğurluoğlu=|Yıldızlar=|Yılmazlar=
+151273	Konak Mah.	Karagözsalağı~|Kızıldere~|Yahyaören~|Yeniköy~
+151275	Kozören Mah.	Balçık~|Büyükkozören~|Camiyanı~|Guleçukuru~|Göktiken~|Hayvaparası~|Küçükkozören~|Saraycık~|Subatağı~|Tahtasayvan Yaylası=|Tesbilih~|Yeniköy~|Öküztamı~
+61012	Kuşluvan Mah.	Akasya~|Akşemsettin~|Anadolu~|Ayıkayası=|Barbaros Toki@|Büyük Töngel=|Camii~|Cengiz Topel~|Cumhuriyet@|Cumhuriyet Myd.|Darahta=|Fatih~|Gülcüvez=|Hal~|Irmak~|Kar Yatağı=|Karanfil~|Kaya Başı=|Kazım Karabekir~|Kocatepe@|Küçük Göl=|Küçük Töngel=|Mantarlık=|Mehmet Akif Ersoy~|Menekşe~|Mimar Sinan@|Mustafa Kemal Paşa@|Osmanoğlu@|Oymak=|Sakarya~|Seyit=|Tahtalık=|Taş Başı=|Tevfik Fikret~|Vatan~|Veysel Karani~|Yılmaz~|Ömür~|Şıktamı=
+61013	Paşapınar Mah.	Kökdere=|Paşapınar=
+61014	Sarıca Mah.	15 Temmuz Sanayi Sitesi@|Armutluk=|Irmak~|Pernecik=
+151279	Süleymaniye Mah.	Alan~|Ağalık~|Değirmenyakası~|Karamöller~|Merkez~|Meşealan~|Yıkılgan~
+151283	Yuvapınar Mah.	Merkez~|Okul Yanı Aşağı~|Yukarı~
+151251	Çatak Mah.	Irmak~|Kayalı~|Merkez~|Ortaköy~|Somuncuoğlu~|Yusuflu~
+151255	Çetilli Mah.	A.aşıkoğlu-yeni~|Alimolla-çapkınoğlu~|Feseleklioğlu~|Güney~|Keleşoğlu-yukarıaşıkoğlu-recepoğlu~|Köyiçi~|Merkezcamiyanı~|Müezzinoğlu-hüseyinçavuş~|Takaloğlu-bedaloğlu~
+151277	Özlü Mah.	Altmercan~|Arpaköy~|Dere~|Değirmenbükü~|Maden~|Taşköprü~|Tepe~|Üstmercan~
+151269	İçyaka Mah.	Deretam~|Değirmenbükü~|Kavaslar~|Tepealan~

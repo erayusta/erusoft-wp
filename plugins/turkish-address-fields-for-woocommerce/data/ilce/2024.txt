@@ -1,0 +1,61 @@
+96916	Ağcakent Köyü	Ağcakent=
+96917	Aşağıbademli Köyü	Aşağıbademli=
+96918	Aşağıbademli Köyü, Gövceli Mezrası	Gövceli=
+96919	Aşağıkalecik Köyü	Aşağıkalecik=
+96920	Balıklı Köyü	Balıklı=
+96921	Belentepe Köyü	Belentepe=
+96922	Bozkaya Köyü	Bozkaya=
+91020	Cumhuriyet Mah.	Atatürk%|Aybüke~|Aytekin~|Barış~|Bağpınarı~|Beyza~|Erdem~|Ertugrul~|Ertugrul1~|Fatih Sultan Mehmet@|Fatih Sultan Mehmet~|Fevzi Çakmak%|Karanfil~|Kardelen~|Kurt~|Kırlangıç~|Lale~|Lavanta~|Mehmet Demir@|Meydan~|Mimar Sinan@|Papatya~|Park~|Recep Tayyip Erdoğan@|Saçaklı~|Sekiz Evler@|Sevgi~|Seyir~|Sosyal Konutlar=|Yavuz Sultan Selim@|Yedi Aralık~|Yusuf Gül Ali@|Yusuf Gül Ali1@|Yüzbaşı Pınar~|Yıldırım Beyazıt@|Yıldırım@|Yıldırım1@|Yıldırım3@|Yılmaz@|Zambak~|Ölmez~|Ölmez1~|Ömer Halisdemir@|Ömer Halisdemir1@|Özdemir@|Üçpınar=|İlk Yardım~
+96925	Dorucak Köyü	Bogazkirim=|Dorucak=
+96926	Dorucak Köyü, Bogazkirim Mezrası	Bogazkirim=|Doğanlar İnşaat Taş Ocağı~
+96927	Dutluca Köyü	Dutluca=
+96928	Fericek Köyü	Fericek=
+96929	Fericek Köyü, Tat Gemrigi Mezrası	Tat Gemrigi=
+96931	Fırlaklı Köyü	Fırlaklı=
+96930	Fırlaklı Köyü, Seydolar Mezrası	Seydolar=
+96932	Geçitboyu Köyü	Geçitboyu=
+96933	Gökmusa Köyü	Gökmusa=
+96934	Gözlüce Köyü	Gözlüce=
+96935	Gündeğer Köyü	Gündeğer=
+96936	Gündeğer Köyü, Yatağan Mezrası	Yatağan=
+96937	Hacılar Köyü	Hacılar=
+96939	Hasancalı Köyü	Hasancalı=
+96938	Hasancalı Köyü, Üçevler Mezrası	Hasancalı=|Üçevler=
+96940	Haydarlar Köyü	Haydarlar=
+96941	Hüseyinoğlu Köyü	Hüseyinoğlu=
+96942	Karadut Köyü	Karadut=
+96943	Karbeyaz Köyü	Karbeyaz=
+96944	Kayapınar Köyü	Kayapınar=
+96945	Kaynaklı Köyü	Kaynaklı=
+96950	Kolpınar Köyü	Kolpınar=
+96951	Kozlubağ Köyü	Kozlubağ=
+96949	Koçcağız Köyü	Koçcağız=
+96955	Kurtaran Köyü	Kurtaran=
+96953	Körahmethüyüğü Köyü	Körahmethüyüğü=
+96954	Körahmethüyüğü Köyü, Kocalar Mezrası	Kocalar=
+96952	Körahmethüyüğü Köyü, Çakmak Mezrası	Çakmak=
+96956	Kürtüncü Köyü	Kürtüncü=
+96946	Kızılkent Köyü	Kızılkent=
+96947	Kızılkent Köyü, Ortaoba Mevkii	Ortaoba=
+96948	Kızılkent Köyü, Ötekioba Mevkii	Ötekioba=
+96957	Madenyolu Köyü	Madenyolu=
+96958	Madenyolu Köyü, Yukarı Madenyolu Mevkii	Yukarı Madenyolu=
+91021	Murathüyüğü Mah.	Alparslan@|Atatürk%|Demirciler@|Demirciler2~|Fatih Sultan Mehmet@|Göçerler~|Göçerler1~|Yalçınlar~|Yıldırım Beyazıt@|Yıldırım Beyazıt1@|Yıldırım1@|Yıldırım2@|Yıldırım3@|Yıldırım4@
+91022	Pınar Mah.	Alay~|Atatürk -%|Atmaca~|Aybüke~|Belediye~|Demirciler@|Demirciler1@|Doğuş~|Fatih Sultan Mehmet~|Fatih Sultan Mehmet1~|Fevzi Çakmak%|Fevzi Çakmak1%|Gül Ali~|Gültekin~|Hacı Ahmet~|Hacılar1~|Karanfil~|Mehmet Demir@|Meydan~|Nergis~|Nilüfer~|Okul Yolu~|Orkide~|Su Dedposu~|Sümbül~|Yılmaz@|Zambak~|Ziyaret~|Ziyaret1~|Özdemir@|Şehit Fethi Sekin~|Şehit Fethi Sekin1~
+96959	Sabanlı Köyü	Sabanlı=
+96961	Tahtalıkaradut Köyü	Tahtalı Karadut=
+96962	Tokaçgemriği Köyü	Tokaçgemriği=
+96963	Topallar Köyü	Topallar=
+96964	Uğurtepe Köyü	Ugurca=|Uğurtepe=
+96965	Uğurtepe Köyü, Ugurca Mezrası	Ugurca=|Uğurtepe=
+96967	Yastıca Köyü	Yastıca=
+96968	Yedigöz Köyü	Yedigöz=|Üçevler=
+96969	Yeşiloba Köyü	Yeşiloba=
+96970	Yukarıbademli Köyü	Yukarıbademli=
+96971	Yukarıkalecik Köyü	Yukarıkalecik=
+96972	Yuvabaşı Köyü	Yuvabaşı=
+96973	Zeytinbağı Köyü	Zeytinbağı=
+96923	Çayıraltı Köyü	Çayıraltı=
+96924	Çınarköy Köyü	Çınarköy=
+96966	Üçpınar Köyü	Üçpınar=
+96960	Şenlikçe Köyü	Şenlikçe=

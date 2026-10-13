@@ -1,0 +1,31 @@
+100403	Abalar Köyü, Abalar Merkez Mevkii	Abalar Merkez=
+27512	Abalar Köyü, Abalar Mücavir Mevkii	Abalar Mücavir=
+27530	Arpaç Köyü	Arpaç=
+27513	Azatlı Köyü	Azatlı=
+27514	Bakışlar Köyü	Bakışlar=
+27515	Bostanlı Köyü	Bostanlı=
+21192	Cumhuriyet Mah.	Ali Güven@|Ali Pehlivan~|Ali Özden@|Arif~|Arslan~|Arı~|Ay~|Ayazma~|Bahar~|Bahçe~|Balkan~|Barbaros~|Belediyeciler~|Berber~|Camii~|Değer~|Dikme~|Doğu~|Duman~|Dut~|E 5 Karayolu@|Ekemen~|Engin~|Erenler~|Esen~|Fatih@|Festival=|Fidan~|Gediz~|Gelincik~|Gençlik~|Güngör~|Hal~|Hamdibey~|Hanımeli~|Hasan Pehlivan@|Huzur~|Hünkar~|Ihlamur~|Kale~|Kalender~|Kanarya~|Karanfil~|Kartal~|Kavakdere~|Kaynakçı~|Kaşe~|Konuk~|Kule~|Kurtdere=|Kurudere=|Kurular~|Kuzey~|Kuşburnu~|Köseler~|Küçük Sanayi Sitesi=|Kılıç~|Kırcaali~|Kısmet~|Lalpınarı=|Manav~|Mehmet Özçetin~|Mehtap~|Melahat Kilimci@|Menekşe~|Mermer~|Mert~|Mimar~|Mutlu~|Nergiz~|Ordu~|Orman~|Paker~|Patunya~|Pazaryeri~|Paşalar~|Polat~|Postacı~|Pınar~|Pınarlar~|Rasim Arda@|Reyhan~|Sabır~|Sait Köyatası~|Sakin~|Sanayi~|Serin~|Serçe~|Sinit Gölü=|Su Deposu~|Sümbül~|Sümbüllü~|Tacettin Serdaroğlu@|Tekbaşlı~|Tomruk~|Torun~|Ufuk~|Uzungöl~|Yakut~|Yalı~|Yavuz~|Çağrı~|Çete~|Çilek~|Çimen~|Çiçek~|Çırpılı~|Çırpılıdere=|Ömür~|Özen~|Özgün~|Özgür~|Şafak~|Şallı~|Şehit Engin Şahin@|Şehit Ruşit Akıncı~|Şerafettin Sain@|Şimşir~|Şirin~
+27531	Habiller Köyü	Habiller=
+21193	Hacıgazi Mah.	23 Kasım@|Akkaş~|Ali Molla~|Avcı~|Ağıldere~|Barış~|Bağlık~|Beşir~|Cabi~|Cami Yolu~|Cem Kasapoğlu~|Defne~|Dereboyu~|Dik~|Diyadin~|Efe~|Eker~|Esinti~|Fazilet~|Fil~|Gazi@|Genç~|Geyik~|Gökşen~|Gül~|Güler~|Gümüş~|Güven~|Güvercin~|Hafız Adem~|Karaca~|Karakaya~|Kemer~|Kervan~|Koç~|Kubbe~|Kızılcık~|Leylak~|Macirler~|Mercan~|Mormenekşe~|Nevzat Yıldırım~|Nur~|Pazaryeri~|Pazaryeri-~|Poslu~|Raif Çavuş~|Seda~|Sülüklü~|Sülüklü Çeşme~|Tarım~|Taşlı~|Tezcan~|Tilki Dere~|Tuna~|Umut~|Uğur~|Yamaç~|Yılmaz~|Çalım~|Çarıkçı~|Çavuş~|Çayırlık~|Çağla~|Çekirge~|Çolak Sabri~|Çıkrık~|Çırçır~|Çığla~|Özden~|Özsoy~|İbrahim Seyhan~|Şayka~|Şefik~|Şehit Mehmet Birol~|Şen~
+21194	Hacıisa Mah.	23 Kasım@|Aydınlık~|Cambaz~|Eser~|Eski Edirne@|Fatih@|Gacal~|Karagöz~|Köprübaşı~|Leyla~|Mehmet Girgin~|Milli Egemenlik@|Mimar Sinan@|Nalbant~|Taç~|Uzunköprü@|Çatak~|Çukurçeşme~
+27529	Hasköy Köyü	Hasköy=
+21195	Helvacı Mah.	23 Kasım@|Akıncılar~|Aydoğdu~|Barış~|Efendi~|Eski Edirne@|Festival=|Güneş~|Hafız Adem~|Helvacı~|Kavaklaraltı~|Kurtbey@|Limon~|Mecgel~|Menekşe~|Mescit~|Mimar Sinan@|Orkide~|Pazaryeri~|Sokollu Mehmet Paşa~|Sokullu~|Soğuk Çeşme~|Susam~|Tunca~|Yayla@|Yeni Sanayi Çarşısı@|Yıldız~|Zambak~|Çiftlik~|Şehit Mehmet Birol~
+27517	Kabaağaç Köyü	Kabaağaç=
+27519	Kulubalık Köyü	Kulubalık=
+27520	Kuzucu Köyü	Kuzucu=
+27518	Köseömer Köyü	Köseömer=
+27532	Musulca Köyü	Musulça=
+27521	Naipyusuf Köyü	Naipyusuf=
+27522	Necatiye Köyü	Necatiye=
+27524	Osmanlı Köyü	Osmanlı=
+27523	Oğulpaşa Köyü	Oğulpaşa=
+100049	Oğulpaşa Köyü, Oğulpaşa Mücavir Mevkii	Oğulpaşa Mücavir=
+98486	Oğulpaşa Köyü, Reşadiye Mücavir Mevkii	Küçük Müsellim-=
+27533	Söğütlüdere Köyü	Söğütlüdere=
+27526	Tahal Köyü	Tahal=
+27527	Taptık Köyü	Taptık=
+21196	Varoş Mah.	Ada~|Akar~|Altın~|Arabacılar~|Arda Ok~|Ardiye~|Ardıç~|Atmaca~|Aydınlık~|Ayhan~|Babaoğlu~|Bağlar~|Bağlardere~|Boncuklu~|Cafer Tayyar Paşa~|Dar~|Dede~|Dekran~|Deli Gavur=|Demir~|Değirmen~|Domurcuk~|Düdükçü~|E 5 Karayolu@|E5 Karayolu=|Elmacılar~|Eski Bağlar Yolu Mevkii=|Fatih@|Gebze~|Gedik~|Göl~|Güllü~|Güney~|Hacı Kambur~|Hal~|Halil Efendi~|Han~|Hayat~|Hizar~|Karabağ@|Karagöz~|Karlatlı~|Kavşak~|Kaya~|Kocakasap~|Köknar~|Kısa~|Ladin~|Manyas~|Meşe~|Milli Egemenlik@|Muhtar~|Olmaz~|Onur~|Ova Yolu~|Pancar~|Papatya~|Salih Hoca~|Sergi~|Taflan~|Taşkın~|Telleraltı=|Trafo Yolu@|Uzungöl~|Uzunköprü@|Yaren~|Yetiş~|Yörük~|Çaykara~|Çağdaş~|Çevre Yolu~|Çim~|Özlem~|Şehit Ayhan Orak~|Şehit Kubilay@|Şehit Tacettin Sobacı~|Şeker~|Şimşir~
+21197	Yeni Mah.	Akasya~|Ali Koşullu~|Aydınlık~|Aşkın~|Barış~|Bayrak~|Bağcılar~|Bağlar Dere=|Cafer Tayyar Paşa-~|Doğan~|E 5 Karayolu@|Eski Edirne@|Fatih@|Gülbahar~|Hasbahçe~|Itır~|Keklik~|Kelebek~|Kurtbey@|Kütüphane~|Kırlangıç~|Lale~|Limon-~|Mazlum~|Milli Egemenlik@|Muhtaroğlu~|Nergis~|Okul~|Onur~|Orkide~|Ortaokul~|Sancak~|Sağlık Ocağı~|Selin~|Selvi~|Sepetçiler~|Servis Yolu~|Sokullu~|Taşkın~|Toy Bokluğu=|Tunca~|Yayla@|Yeni Sanayi Çarşısı@|Yeşil~|Yolageldili Kasım Bey~|Yonca~|Çayır~|Çağlar~|Çağlayan~|Çevre Yolu~|Çiğdem~|Çukur~|Özdoğan~|Şahin~|Şehit Engin Gavak~|Şehit Kubilay@|Şehit Mehmet Birol~
+27528	Yolageldi Köyü	Yolageldi=
+27516	Çukurköy Köyü	Çukurköy=
+27525	Şerbettar Köyü	Şerbettar=

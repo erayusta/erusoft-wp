@@ -1,0 +1,36 @@
+140793	Asarçay Mah.	Asarçayı~|Hayatpınarı~|Kızıltepe~|Kızılırmak~|Sahil Yolu@|Tuzlayolu~|Şahinler~|Şehit Jandarma Uzman Çavuş Zekeriya Şahin Caddesi~
+24701	Ağaççamı Köyü, Aşırlık Mevkii	 Köy$
+24705	Ağaççamı Köyü, Gafurlar Mevkii	 Köy$
+24707	Ağaççamı Köyü, Karaya Mezrası	 Köy$
+24698	Ağaççamı Köyü, Kasımlar Mevkii	 Köy$
+24706	Ağaççamı Köyü, Kavakdağ Mezrası	 Köy$
+24708	Ağaççamı Köyü, Kayadibi Mezrası	 Köy$
+24703	Ağaççamı Köyü, Keloğlanlar Mevkii	 Köy$
+24704	Ağaççamı Köyü, Kötelekler Mevkii	 Köy$
+24696	Ağaççamı Köyü, Merkez Mevkii	 Köy$
+24697	Ağaççamı Köyü, Sordoğlu Mevkii	 Köy$
+24702	Ağaççamı Köyü, Yoğunpelit Mevkii	 Köy$
+24699	Ağaççamı Köyü, Çaparahmetler Mevkii	 Köy$
+24700	Ağaççamı Köyü, Çemal Mevkii	 Köy$
+20449	Birtatlı Mah.	Atatürk@|Dağ Yolu~|Hasan Özoğlu@|Kavaklı~|Kiraz~|Kızılırmak@|Madanoğlu~|Mamaderesi~|Okul Yolu@|Selvi~|Sivrikaya~|Topraklık~|Yavuz~|Çelik~|Çoban~|Şehit Er Murat Keleş@|Şehitjandarma Uzman Çavuş Zekeriya Şahin@|Şht Jandarma Astsubay Çavuş Bekir Eren Deniz@
+24713	Cevizli Köyü, Körpaşalar Mevkii	 Köy$
+24710	Cevizli Köyü, Kızıkcıköy Yayla Evleri	 Köy$
+24712	Cevizli Köyü, Kışlı İçi Mevki Yayla Evleri	 Köy$
+24711	Cevizli Köyü, Yamaç Mevkii	 Köy$
+24714	Cevizli Köyü, Çiğdemlik Mevkii	 Köy$
+24715	Cevizli Köyü, Ömerler Mevkii	 Köy$
+24717	Derinöz Köyü, Kamburlar Mevkii	 Köy$
+24716	Derinöz Köyü, Köseler Mevkii	 Köy$
+24718	Derinöz Köyü, Tekkeşinler Mevkii	 Köy$
+24719	Erenler Köyü, Karaboyalık Mevkii	 Köy$
+24720	Erenler Köyü, Merkez Mevkii	 Köy$
+20452	Gölbaşı Mah.	Acar~|Ahmet Çörekci~|Atatürk@|Avcu~|Bademli~|Bahçeli~|Barbaros~|Camii~|Evrensel@|Fındıkkıran@|Hasan Özoğlu@|Jandarma~|Kasaplar~|Kirenci~|Koçyiğit~|Kızıltepe@|Mehmet Yıldırım@|Sanayiciler~|Seher Çıkmaz~|Sevgi~|Tepecik~|Tuzla~|Ulugör~|Yüksel~|Zübeyde Hanım@|Çavdarlar~|İstiklal~|Şehit Astsubay Ömer Halisdemir@|Şehit Jnd. Astsubay Cavuş Bekir Eren Deniz@|Şehit Pilot Bülent Sarıkaya@
+20453	Karadonlu Mah.	Akgül Çıkmaz~|Arak@|Aslan Adnan Türkoğlu@|Cevizli~|Cumhuriyet Myd.|Emirhan~|Evrensel@|Gelincik~|Gökçukur@|Gül~|Güzel~|Hasan Hüseyin Akkuş@|Kızılırmak@|Lale Çıkmaz~|Menekşe~|Meydan~|Saray~|Sağlık Ocağı~|Ufuk~|Yağmurderesi~|Şehit Er Hüseyin Damar@
+24723	Kayı Köyü, Göleçük Mevkii	 Köy$
+24724	Kayı Köyü, Merkez Mevkii	 Köy$
+24722	Kayı Köyü, Mezarlık Yanı Mevkii	 Köy$
+24721	Kayı Köyü, Onbeş Evler Mevkii	 Köy$
+20454	Kızılcapelit Mah.	Akseki@|Aslan Adnan Türkoğlu@|Demirci~|Pınarderesi~|Çeşme~|Şimşek~
+20450	Çarşı Mah.	Aslan Adnan Türkoğlu@|Beşçamlar~|Cumhuriyet Myd.|Dere~|Değirmen~|Erencik~|Gökdere~|Gümüş~|Hantal~|Karanfil~|Kazım Karabekir@|Keçili~|Kulpar@|Kırtıncak~|Kızılırmak@|Mevsim~|Muzaffer Külcü@|Nergiz~|Tekkelik~|Tevfik~|Uluçamlar~|Uluçayır~|Yaykıl~|Çal~|Çarkbaşı~|İsayeri~|Şehit Er Hüseyin Damar@|Şelbi~
+20451	Çeşme Mah.	Ahmet Çörekci~|Atatürk@|Bodur~|Evrensel@|Hasan Özoğlu@|Kardelen~|Kızılırmak@|Mutlu~|Papatya~|Pazaryeri Myd.|Sakarya@|Selen Çıkmaz~|Sümbül~|Topraklık~|Yavuz~|Zafer~|Çiğdem~|Şanlı~|Şehit Er Murat Keleş@|Şehit Jandarma Astsubay Çavuş Bekir Eren Deniz@
+24725	Şaphane Köyü	 Köy$

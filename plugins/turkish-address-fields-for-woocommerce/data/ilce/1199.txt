@@ -1,0 +1,355 @@
+17610	Afşar Köyü, Fakılar Mevkii	Akçalar Mahalle Yolu=|Anadolu Otoyolu@|Ankara Bolu Yolu@|Fakılar Mahalle Yolu=
+17613	Afşar Köyü, Fakılar Yaylası Yayla Evleri	Fakılar Yayla Yolu=
+17609	Afşar Köyü, Gidiriş Mevkii	Anadolu Otoyolu@|Gidiriş Mahalle Yolu=
+17611	Afşar Köyü, Gidiriş Yaylası Yayla Evleri	Gidiriş Yayla Yolu=
+17608	Afşar Köyü, Merkez Mevkii	Afşar Köy Yolu=|Ankara Bolu Yolu@
+17612	Afşar Köyü, Merkez Yaylası Yayla Evleri	Afşar Merkez Yayla Yolu=
+17620	Ahmetler Köyü, Merkez Mevkii	Ahmetler Merkez Köy Yolu=|Ankara Bolu Yolu@|Küme Evler=
+10874	Akpınar Mah.	Aslahaddin~|Asude~|Ertan~|Gerede@|Menekşe~|Mumcuoğlu~|Narin~|Postacılar~|Sönmez~|Sütçüoğlu~|Tevfik Bey@|Yayla~|Çarıkçıoğlu~|Çeşme~|Üçyol_1~|İzzet Baysal@|Şehit Abdülkadir~|Şehit Muhtar@|Şehit Nevzat Batmaz~
+10875	Aktaş Mah.	3213~|3214~|3216~|3217~|3218~|3219~|3220~|3225~|3235~|3236~|3240~|3241~|3243~|3245~|3248~|3249~|3250~|3261~|3262~|3263~|3264~|3265~|3267~|3268~|3269~|3271~|3272~|3273~|3274~|3279~|3280~|3288~|3289.~|3297~|3298~|3300~|3302~|3303~|3304~|Aktaş~|Aköğretmen~|Akıncı~|Aldemir~|Aslan~|Biçer~|Büyüksu~|Derviş~|Doruk~|Doğan~|Doğuş~|Dr.zihni Ülgen~|Edalı~|Emin~|Evliya~|Fakı Cemil~|Filiz~|Göktaş~|Gölcük%|Gölcük_1~|Hacı Yusuf Yar@|Hasret~|Kahraman~|Kaplan~|Kocabey~|Kutucuoğlu~|Köroğlu~|Kızık~|Kışla~|Mezbaha~|Murat Canbaş@|Nazlı~|Olimpiyat~|Rüzgarlı~|Saraçhane~|Saygı~|Serkan~|Seval~|Seyit Efendi~|Spor~|Süreyya~|Tabakhane~|Taşhancılar@|Tunç~|Turna~|Ulema~|Ustaoğlu~|Uğurlu~|Volkan~|Yalçın~|Yılmaz~|Çamlıca~|Çelik~|Öney~|İhtiyaroğlu~|İzzet Baysal@|Şehit Cemil Korkmaz~|Şehit Güven Keskin@|Şehit Osman Çatana~|Şehit Saffet Okumuş~|Şehit Sami Akbıyık~|Şehit Selen Paşa@
+17621	Akçaalan Köyü, Merkez Mevkii	Akçaalan=|Aşağı Akçaalan=|Yukarı Akçaalan=
+99424	Alpağut Mah.	137~|172~|173~|174~|175~|176~|2@|200~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|228~|229~|230~|231~|232~|233~|234~|235~|236~|237~|238~|239~|240~|241~|242~|243~|244~|245~|246~|247~|248~|249~|250~|251~|252~|253~|254~|255~|256~|257~|258~|259~|260~|261~|262~|263~|264~|265~|266~|267~|268~|269~|270~|271~|272~|273~|274~|275~|276~|277~|280~|281~|282~|283~|284~|285~|286~|287~|288~|289~|290~|291~|292~|293~|294~|295~|296~|297~|298~|299~|3@|4@|Alpağut@|Dr.akın Çakmakçı%|Dr.aykut Barka%|Orhan Gazi@|Osman Gazi@|Çorak~|İzzet Baysal Devlet Hastanesi%
+10876	Alpağutbey Mah.	200~|30@|31@|4001~|4010~|4011~|4012~|4013~|4014~|4015~|4016~|4017~|4018~|4019~|4020~|4021~|4022~|4023~|4024~|4025~|4028~|4031~|4032~|4033~|4034~|4035~|4036~|4038~|4039~|4041~|4042~|4043~|4044~|4048~|4049~|4050~|4051~|4052~|4053~|4055~|4061~|4062~|4063~|4064~|4069~|4070~|4071~|4072~|4073~|4074~|4075~|4076~|4077~|4078~|4079~|4080~|4081~|4082~|901~|Akçam~|Alpağut@|Alper~|Alptuğ~|Aslı~|Batuhan~|Begonya~|Bigem Çubukçuoğlu~|Bulatlar~|Candan~|Değer~|Emre~|Emrin~|Ertuğrul Gazi@|Hilal~|Hızır Reis~|Kadife~|Keskin~|Kısmet~|Mücahit~|Orhan Gazi@|Osman Gazi@|Otağ~|Ressam Orhan Ersoy~|Sazak~|Seyrani~|Sipahi~|Süvari~|Sınır~|Tarih~|Tuğra~|Uyumlu~|Yeniçeri~|Zerdali~|Çakmaklar@|Çorak~|Ülkü~|İsmail Özer@|Şener~
+17624	Alıçören Köyü, Alıçören Merkez Mevkii	Alıçören=|Alıçören Yayla=|Çaydurt Alıçören=
+17635	Avdan Köyü, Merkez Mevkii	Avdan Köy Yolu=
+17636	Aydıncık Köyü, Aşağı Mevkii	Aydıncık Aşağı Mahalle Yolu=
+17639	Aydıncık Köyü, Aşağı Yaylası Yayla Evleri	Aydıncık Aşağı Yayla Yolu=
+17637	Aydıncık Köyü, Yukarı Mevkii	Aydıncık Yukarı Mahalle Yolu=
+17638	Aydıncık Köyü, Yukarı Yaylası Yayla Evleri	Aydıncık Yukarı Yayla Yolu=
+17614	Ağaçcılar Köyü, Merkez Mevkii	2 Sokak=|3 Sokak=|4602~|4603~|4604~|4605~|4606~|4607~|4608~|4609~|4610~|4611~|4613~|4614~|4615~|4617~|Ağaççılar-1.=|Aşağı Mahalle~|Muhsin Yazıcıoğlu_1~|Yukarı Mahalle~|İzzetbaysal Devlet Hastanesi~
+17634	Aşağıkuzören Köyü, Aşağıkuzören Yaylası Yayla Evleri	Aşağıkuzören Yayla Yolu=
+17633	Aşağıkuzören Köyü, Gölcük Mevkii	Gölcük Mahalle Yolu=
+17632	Aşağıkuzören Köyü, Merkez Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Aşağıkuzören Köy Yolu=
+10877	Aşağısoku Mah.	4301~|4302~|4303~|4304~|4306~|4307~|4310~|4313~|4314~|4315~|4316~|4317~|4320~|4322~|4323~|4324~|4325~|4326~|4327~|4328~|4330~|4331~|4333~|4334~|4335~|4336~|4337~|4340~|4341~|4342~|4344~|4345~|4346~|4349~|4351~|4352~|4353~|4354~|4355~|4358~|4359~|4360~|4361~|4362~|4364~|4366~|4367~|4368~|4369~|4370~|4371~|4372~|4373~|4374~|4376~|4377~|4378~|4381~|4383~|4389~|4391~|4392~|4394~|4395~|4396~|4397~|4400~|4401~|4402~|4403~|4404~|4405~|4406~|4408~|4409~|4412~|4413~|4414~|4415~|4416~|4417~|4418~|4424~|4425~|4426~|4427~|4428~|4429~|4430~|Ahmet Altun~|Balcıoğlu~|Bekirler~|Bostan~|Burgaz~|Cemil Özbilen~|Cihan~|D-100 Karayolu_1@|Dede Yanı~|Dervişler~|Dibekli~|Dutlar~|Emek Küçük Sanayi Sitesi~|Emek~|Emektar~|Endüstri~|Fuzuli~|Galericiler~|Güngör~|Haydarlar~|Kadirler~|Karadere@|Karamazakoğlu~|Karlık~|Kavaklar~|Kesen~|Kilitçi~|Köprübaşı~|Köseler~|Kınacı~|Mehmet Zekai Konrapa%|Mert~|Meydan~|Mobilyacılar~|Nebi~|Park~|Sadıklar~|Sakalar~|Sanayi Sitesi~|Sera~|Sert~|Taş~|Toptancı Hal Pazarı~|Yakup Kadri Karaosmanoğlu~|Yayla Yolu~|Yedi Göller~|Yıldırım Beyazıt@|Çataklı~|Çay~|Çelikbaşoğlu@|Çevik~|Çulluk~|Ökmen~|Ürün~|İmamlar~|İrfanlar~|İğnesi@|Şair Dertli@|Şair Şinasi~
+17631	Aşağıçamlı Köyü, Aşağıçamlı Yaylası Yayla Evleri	Aşağıçamlı Yayla Yolu=
+17630	Aşağıçamlı Köyü, Merkez Mevkii	Aşağıçamlı Köy Yolu=|Tarakçı Köy Yolu=|Çatakören Köy Yolu=
+17646	Bahçeköy Köyü, Bahçeköy Mezrası Mezrası	Bahçeköy Mezrası Yolu=
+17644	Bahçeköy Köyü, Bahçeköy Yaylası Yayla Evleri	Bahçeköy Yayla Yolu=
+17643	Bahçeköy Köyü, Kâhyalar Mevkii	Anadolu Otoyolu@|Apalar Mahalle Yolu=|Bahçeköy Köy Yolu=|Kahyalar Mahalle Yolu=|Tatlar Köy Yolu=
+17645	Bahçeköy Köyü, Merkez Mevkii	Bahçeköy Köy Yolu=|Kahyalar Mahalle Yolu=|Yazıören Köy Yolu=
+10878	Bahçelievler Mah.	Alemdar~|Atatürk%|Aycan~|Bandakcıoğlu~|D-100 Karayolu_2@|Duygu~|Gamze~|Gazi Aktağ~|Gizem~|Hürriyet@|Karakol~|Karanfil~|Konak~|Konuralp@|Kızılay~|Lale~|Leylak~|Mazhar Murtezaoğlu@|Muzaffer Işın@|Nergiz~|Sümbül~|Türkan Saylan@|Vardallı~|Yaman~|Yasemin~|Yunus Emre_2~|Yümnüoğlu~|Çiğdem~|Şemsi Ahmet Paşa@
+139782	Bakırlı Köyü, Bakırlı Mevkii	Bakırlı Yayla Yolu=|Bakırlı Yolu=
+17647	Bakırlı Köyü, Merkez Mevkii	Bakırlı~|Bakırlı-1.~|Bakırlı-2.~|Yedi Köyler Yolu Mevkii~
+17652	Baltalı Köyü, Baltalı Yaylası Yayla Evleri	Baltalı Yayla Yolu=
+17650	Baltalı Köyü, Bozcaarmut Mevkii	Bozcaarmut Mahalle Yolu=
+17649	Baltalı Köyü, Kütükçüler Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Kütükçüler Mahalle Yolu=|Şeremetler Mahalle Yolu=
+17648	Baltalı Köyü, Merkez Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Baltalı Köy Yolu=
+17651	Baltalı Köyü, Yukarı Mevkii	Baltalı Yukarı Mahalle Yolu=|Şeremetler Mahalle Yolu=
+17656	Banaz Köyü, Aşağı Çandır Mevkii	Aşağı Çandır Mahalle Yolu=
+17653	Banaz Köyü, Merkez Mevkii	Banaz Köy Yolu=|Banaz Yayla Yolu=|Banaz Yaylası Yolu=
+17655	Banaz Köyü, Yukarı Mevkii	Yukarı Mahalle Yolu=
+17654	Banaz Köyü, İmamlar Mevkii	Aşağı Çandır Mahalle Yolu=|İmamlar Mahalle Yolu=
+17641	Bağışlar Köyü, Bayramlar Mevkii	Bayramlar Mahalle Yolu=
+17642	Bağışlar Köyü, Kadılar Mevkii	Dağdelen Mahalle Yolu=|Kadılar Mahalle Yolu=
+17640	Bağışlar Köyü, Merkez Mevkii	Bayramlar Mahalle Yolu=|Bağışlar Kadıköy Yayla Yolu=|Bağışlar Köy Yolu=
+99899	Belkaraağaç Köyü	1=|2=|3=|4=|5=|Bolu Bilecik Yolu@
+99965	Berk Köyü, Merkez Mah.	Berk 1.~|Berk-2.~|Camii Mah~|Demircan~|Fabrika~|Hacı Yakuplar~|Hacıosmanoğlu~|Kaplıca Yolu~|Karadeniz-1~|Karışlar Mah~|Kocameşe~|Okul-3.~|Çiğdem-1.~
+10879	Beşkavaklar Mah.	100.yıl~|115~|15 Evler~|4500~|4501~|4502~|4503~|4504~|4505~|4506~|4507~|4508~|4509~|4510~|4514~|4515~|4516~|4517~|4518~|Abant~|Alaca Köşk~|Atıcılar Sitesi~|Atılım~|Aydınkent Sitesi=|Aydınlık~|Azim~|Barış~|Bayram~|Behiye Baysal@|Candaş~|Coşkun~|D-100 Karayolu_8@|Damgacıoğlu~|Deniz~|Dereboyu~|Derya~|Durak~|Ece~|Emirgan~|Ender~|Ensar~|Ferah~|Gazi Mustafa Kemal%|Güneş Evler~|Horasan~|Huzur~|Işık~|Işıl~|Kent~|Korkmaz~|Kıbrıs~|Malazgirt~|Melis~|Mızrak~|Necdet Gören@|Nefes~|Nisa~|Perçin~|Safir~|Sarıçam~|Sırma~|Ulubatlı~|Zanaat~|Zerdali~|Çakmaklar@|Çamlıbel~|Öksüz Tekke~|İdil~|İhsan Dirgine~|İkiz Konaklar~|İskender~|İzzet Baysal Devlet Hastanesi%|Şehit Hasan Durmuşoğlu~|Şehit Kemal Işıldak~|Şehit Murat Paçal~|Şehit İsmet Özata~|Şenay~
+10880	Borazanlar Mah.	401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|418~|419~|420~|421~|422~|423~|424~|425~|426~|427~|428~|429~|430~|431~|432~|433~|434~|435~|436~|437~|438~|439~|440~|441~|442~|Adem Yaman~|Ahmet Baysal%|Akdemir~|Akik~|Akşemseddin@|Alperen~|Ara~|Atakan~|Ayvaz~|Aşıklar@|Banu~|Bozkurt~|Cihangir~|D_100 Karayolu@|Demirci~|Değerli~|Dumlupınar~|Efes~|Erbay~|Erman~|Esinti~|Fevzibey@|Gelincik~|Gonca~|Gönül~|Gül~|Gülseven~|Güven~|Güvercin~|Güz~|Hasan Toker~|Hattat Emin Barın@|Hayrat~|Hürriyet@|Kocatepe~|Kıymet~|Lale~|Martı~|Mehmet Akif Ersoy%|Mutluer~|Nazif Onbaşı~|Nisan~|Nuri Sert~|Okyay~|Pırlanta~|Rüzgar~|Sarmaşık~|Susam~|Sümbül~|Tuncer~|Turgut Özal%|Tuğba~|Türkan Saylan@|Türkmen~|Vardallı~|Yudum~|Zambak~|Ösenek~|Özbaş~|Şemsi Ahmet Paşa@|Şeyh Şamil~
+17669	Bozarmut Köyü, Merkez Mevkii	Bozarmut Köy Yolu=|Bozarmut Yayla Yolu=|Yenipelitçik Köy Yolu=
+17670	Bünüş Köyü, Merkez Mevkii	Bünüş Köy Yolu=
+17671	Bürnük Köyü, Bürnük Merkez Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Bürnük Merkez Köy Yolu=
+17673	Bürnük Köyü, Bürnük Yaylası Yayla Evleri	Bürnük Yayla Yolu=
+17672	Bürnük Köyü, Zahmanlar Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Kındıra Köy Yolu=|Zahmanlar Mahalle Yolu=
+17674	Bürnük Köyü, Zahmanlar Yaylası Yayla Evleri	Zahmanlar Yayla Yolu=
+10881	Büyükcami Mah.	Bakırcılar~|Baysal~|Boyacılar~|Büyük Camii~|Dik~|Ferit Talay@|Fevzi Paşa@|Helvacılar~|Kutlular~|Pamukçular~|Parti~|Stadyum@|Tatlı Kardeşim~|Yemeniciler~|Ziraat Bankası~|Çilingirler~|İsmet Paşa@|İzzet Baysal@|Şehit Ahmet Yümnioğlu~|Şehit Nazım Bey~|Şehit İhsan Bey~|Şerbetçiler~
+10897	Dağkent Mah.	10. Ada~|11. Ada~|12. Ada~|13. Ada~|14. Ada~|15. Ada~|16. Ada~|18. Ada~|19. Ada~|2. Ada~|2.etap Toki Konutları=|20. Ada~|21. Ada~|22. Ada~|23. Ada~|24. Ada~|25. Ada~|26. Ada~|27. Ada~|28. Ada~|29. Ada~|3. Ada~|30. Ada~|31. Ada~|32. Ada~|33. Ada~|34. Ada~|35. Ada~|36. Ada~|37. Ada~|38. Ada~|39. Ada~|4. Ada~|40. Ada~|41. Ada~|42. Ada~|44. Ada~|45. Ada~|46. Ada~|47. Ada~|48. Ada~|49. Ada~|5. Ada~|50. Ada~|51. Ada~|52. Ada~|53. Ada~|54. Ada~|55. Ada~|56. Ada~|57. Ada~|6. Ada~|7. Ada~|8. Ada~|9. Ada~|Civekler Mevki Toki Konutları=|D-100 Karayolu@|Vali Celal Kaya Can@|Vatan@|İstiklal@
+17720	Demirciler Köyü, Demirciler Yaylası Yayla Evleri	Demirciler Yayla Yolu=
+17719	Demirciler Köyü, Merkez Mevkii	Demirciler Köy Yolu=|Değirmenözü Mahalle Yolu=|Vakıf Geçitveren Merkez=|Yenigeçitveren Merkez=|Çamyayla Köy Yolu=
+17721	Dereceören Köyü, Merkez Mevkii	Dereceören Merkez=
+17714	Değirmenbeli Köyü, Arap Mevkii	Arap Mahalle Yolu=
+17715	Değirmenbeli Köyü, Elmacık Mevkii	Elmacık Mahalle Yolu=
+17713	Değirmenbeli Köyü, Merkez Mevkii	Değirmenbeli Köy Yolu=|Semerciler Köy Yolu=
+17716	Değirmenbeli Köyü, Çilingirler Mevkii	Arap Mahalle Yolu=|Çilingirler Mahalle Yolu=
+17718	Değirmenderesi Köyü, Evril Mevkii	Evril Mahalle Yolu=
+17717	Değirmenderesi Köyü, Merkez Mevkii	Değirmenderesi Köy Yolu=
+99428	Dodurga Mah.	12@|1201~|1202~|1203~|1204~|1205~|1206~|1207~|1208~|1209~|1210~|1211~|1212~|1213~|1214~|1215~|1216~|1217~|1218~|1219~|1220~|1221~|1222~|1223~|1224~|1225~|1226~|1229~|1230~|1231~|1232~|1235~|1236~|1237~|1238~|1240~|1241~|Dağıstanlı~|Dibekbaşı@|Dodurga@|Halı Hisarı~|Çömlekçiler@
+100316	Doğancı Köyü, Merkez Mah.	2 Çıkmaz~|3.çıkmaz~|Cami-2.~|Dere-2.~|Derya-1.~|Değirmen~|Doğancı-3.~|Döner-1.~|Emiroğlu~|Kanal~|Keresteciler~|Mudurnu Yolu~|Okul-4.~|Seka~|Yaşar Çelik_1~|Yeni-1.~|Yılmaz-1.~|Çıkmaz 1.~
+180924	Elmalık Köyü, Elmalık Mevkii	Anadolu Otoyolu@|Elmalık Mahalle Yolu=
+17725	Elmalık Köyü, Elmalık Mücavir Mevkii	Elmalık=|Elmalık Mevki=|Ömertepe=
+17729	Ericek Köyü, Aşağı Mevkii	Ankara Bolu Yolu@|Aşağı Mahalle Yolu=|Kuzörendağlı Köy Yolu=
+17730	Ericek Köyü, Karacalar Mevkii	Karacalar Mahalle Yolu=
+17727	Ericek Köyü, Merkez Mevkii	Ericek Köy Yolu=|Karacalar Mahalle Yolu=
+17732	Ericek Köyü, Saraç Mevkii	Saraç Mahalle Yolu=
+17728	Ericek Köyü, Yeni Mevkii	Ericek Köy Yolu=|Yeni Mahalle Yolu=
+17731	Ericek Köyü, Çıtaklar Mevkii	Çıtaklar Mahalle Yolu=
+17733	Fasıl Köyü, Merkez Mevkii	Bakırlı-1.~|Bakırlı/1c~|Bakırlı/1e~|Fasıl Köy Yolu=
+17735	Fasıl Köyü, Uran Mevkii	Uran Mahalle Yolu=
+17734	Fasıl Köyü, Yayla Yayla Evleri	Fasıl Yayla Yolu=
+17738	Gökpınar Köyü, Gökpınar Yaylası Yayla Evleri	Gökpınar Yayla Yolu=
+17736	Gökpınar Köyü, Merkez Mevkii	Gökpınar Köy Yolu=|Kındıra Köy Yolu=
+17737	Gökpınar Köyü, Sinir Mevkii	Ecirler Mahalle Yolu=|Sinir Mahalle Yolu=|Susuzkınık Köy Sokağı=
+17739	Gölcük Köyü, Merkez Mevkii	Gölcük Merkez Köy Yolu=|Gölcük Yayla Yolu=|Sarıahmetler Mahalle Yolu=|Yukarı Mahalle Yolu=|İmamlar Mahalle Yolu=
+17741	Gölköy Köyü, Hamidiye Mh Mevkii	
+17740	Gölköy Köyü, Merkez Mevkii	Avdan Yolu~|Gölköy~|Gölköy-1.~|Gölköy-2.~|Gölköy-3.~|Hamidiye@|Hamidiye-1.~|Hamidiye-2.~
+10883	Gölyüzü Mah.	4700~|Akyol~|Ali Haydar~|Aytuğlu~|Bahar~|Baysal~|Buğdaylı~|Canpolat~|D.100 Karayolu_2@|Dalkılıç~|Gerede@|Hisaraltı~|Karaaslan~|Kırım~|Sevil~|Tahir Hoca~|Tavil Mehmet Paşa@|Uğur~|Çayırpınar~|İlhan~|İzzet Baysal@|Şehit Kani@|Şehit Mehmet Kaya~|Şehit Seyit Ali Özkaya~|Şehit İhsan Bey~
+17751	Gövem Köyü, Camilibölük Mevkii	Bolu Bilecik Yolu@|Camilibölük Mahalle Yolu=
+17752	Gövem Köyü, Güvem Yaylası Yayla Evleri	Güvem Yayla Yolu=
+17748	Gövem Köyü, Merkez Mevkii	Gövem Köy Yolu=
+17750	Gövem Köyü, Mustafa Vehbi Koç Mevkii	Mustafa Vehbi Koç Mahalle Yolu=
+17749	Gövem Köyü, Tatarlar Mevkii	Akçaalan=|Tatarlar Mahalle Yolu=
+17745	Güneyfelekettin Köyü, Aşağı Mevkii	Bolu Bilecik Yolu@|Güneyfelafettin Aşağı Mahalle Yolu=
+17747	Güneyfelekettin Köyü, Değirmenyanı Mevkii	Bolu Bilecik Yolu@|Değirmenyanı Mahalle Yolu=
+17742	Güneyfelekettin Köyü, Merkez Mevkii	Bolu Bilecik Yolu@|Ferüz Köy Yolu=|Güney Yayla Yolu=|Güneyfelakettin Köy Yolu=
+17746	Güneyfelekettin Köyü, Muslar Mevkii	Bolu Bilecik Yolu@|Muslar Mahalle Yolu=
+17744	Güneyfelekettin Köyü, Nakıblar Mevkii	Nakıblar Mahalle Yolu=
+17743	Güneyfelekettin Köyü, İmamlar Mevkii	Bolu Bilecik Yolu@|İmamlar Mahalle Yolu=
+17754	Hamzabey Köyü, Aşağı Mevkii	4~|Aşağı Mahalle Yolu=|Çeleyolu 2~
+17756	Hamzabey Köyü, Aşağı Yaylası Yayla Evleri	Hamzabey Aşağı Yayla Yolu=
+17753	Hamzabey Köyü, Yukarı Mevkii	4~|Karşıyaka Mahalle Yolu=|Yukarı Mahalle Yolu=
+17755	Hamzabey Köyü, Yukarı Yaylası Yayla Evleri	Hamzabey Yukarı Yayla Yolu=
+17759	Hıdırşeyhler Köyü, Hıdırşeyhler Güzleme Yayla Evleri	Hıdırşeyhler Güzleme Yolu=
+17757	Hıdırşeyhler Köyü, Hıdırşeyhler Merkez Mevkii	
+17758	Hıdırşeyhler Köyü, Hıdırşeyhler Mevkii	Bolu Kıbrıscık Yolu2@|Hıdırşeyhler Köy Yolu=|Hıdırşeyhler Yaylası Yolu=|Taşoluk Merkez Yolu=|Çampınar Mevkii=
+17763	Ilıcakınık Köyü, Merkez Mevkii	Aşağı Ilıcakınık=|Ilıcakınık-1.~|Kavaklı=|Mezarlık~|Yukarı Ilıcakınık=
+17764	Işıklar Köyü, Merkez Mevkii	Bozarmut Köy Yolu=|Işıklar Köy Yolu=|Işıklar Yayla Yolu=
+17765	Kandamış Köyü, Merkez Mevkii	Aşçılar Mahalle Yolu=|Kandamış Köy Yolu=|Kayı Mahalle Yolu=|Yayladınlar Köy Yolu=
+99841	Karacaağaç Mah.	Akgül~|Avşarlar~|Birol Çavuşoğlu~|Boyacılar-1.~|Cesur-1.~|D-100 Karayolu_6@|Hacılar~|Karalar~|Kazım Karabekir Paşa~|Konak-1~|Oflu~|Pınar-1.~|Uluyol~
+10899	Karacasu Beldesi, Karacasu Fatih Mah.	Akasya~|Akdede~|Aladağ~|Aydın~|Ağalan Yaylası=|Bahçeli Mahallesi~|Barbaros~|Billur~|Camii~|Cumhuriyet@|Derici~|Eflatun~|Elguvan~|Gölcük@|Gül~|Güneş~|Güvercin~|Hilal~|Ihlamur~|Işık~|Kalyoncu~|Kaplıca@|Kaplıca Yolu~|Karacasu Fatih Yaylası=|Karanfil~|Kökez~|Köroğlu~|Lale~|Meltem~|Menekşe~|Meram~|Mesciler Mevkii=|Mevlana 1~|Mevlana~|Mevlana/2~|Mevlana/3~|Mimar Sinan~|Murat~|Nergis~|Nergis/1~|Okul 1~|Okul 2~|Okul 3~|Okul~|Orüs@|Sakarya~|Seben@|Seben/1@|Selçuk~|Tuna 1~|Tuna~|Ufuk 1~|Ufuk~|Ufuk/1~|Yarenler=|Yavuz~|Yeşilırmak~|Yukarı Ilıcakınık=|Yunus Emre~|Yunus Emre/1~|Yılmaz~|Zümrüt~|Çayır 1~|Çayır~|Çeşme~|Çifte Köprüler~|Çiğdem~|İzzet Baysal@|Şafak 1~|Şafak~|Şehit Fethi Sekin~|Şehıtler~
+140471	Karaköy Mah.	15 Temmuz Demokrasi%|D100 Karayolu_2@|Göl@|Gölköy@|Karaköy@|Karaköy- 2.~|Karaköy-1.~|Karaköy-3.~|Kuzudağı~|Mehmed Şemseddin~|Spor Yolu~|Yaşar Çelik@|Yukarı Karaköy 1.~|Yukarı Karaköy 2.~|Çayır~|Şehit Ozan Özen@
+17772	Karamanlar Köyü, Merkez Mevkii	Kandamış Köy Yolu=|Karamanlar Köy Yolu=|Yukarıçamlı Köy Yolu=
+17773	Karamanlar Köyü, Yaka Mevkii	Kandamış Köy Yolu=|Yaka Mahalle Yolu=
+10887	Karamanlı Mah.	Arap Abdullah~|Asadarlar~|Atatürk%|Bayır~|D-100 Karayolu_7@|Dibekbaşı_1~|Esen~|Ferit Talay@|Gövem~|Güler~|Irmak~|Işıklı~|Konuralp@|Kısa~|Mavi~|Mazhar Murtezaoğlu@|Mutlu~|Parkalan~|Refah~|Stadyum@|Yeni~|Yeşil~|Yunus Emre_2~|Çağlar~|İsfendiyaroğlu~|İsmet Paşa@|Şehit Erol Mühürcüoğlu~|Şemsi Ahmet Paşa@|Şen~
+10886	Karaçayır Mah.	2900~|2901~|2902~|2904~|2907~|2909~|2910~|2911~|2913~|2914~|2915~|2917~|2921~|2922~|2923~|2931~|2938~|Ali Rıza Tekemen@|Aydın~|Ceren~|Cevher~|Eflatun~|Eren~|Fuar~|Gülez~|Has~|Haznedarlar~|Hitit~|Hoca Ahmet Yesevi~|Hulisi Tüzmen@|Karaçayır~|Kocabey~|Kurtuluş~|Kutucular~|Mescit~|Murat Canbaş@|Nadir~|Necip Fazıl Kısakürek%|P.t.t@|Sade~|Sağlam~|Ulus~|Villa~|Yılmaz~|Çizmecioğlu~|Çığırtkanlar@|Özen~|İzzet Baysal@|Şehit Necip Emre~|Şehit Selen Paşa@|Şehit İsmail Şeremet~|Şirin~
+17775	Karca Köyü, Kıran Mevkii	Kıran Mahalle Yolu=
+17774	Karca Köyü, Merkez Mevkii	Karca Köy Yolu=
+17776	Karca Köyü, Örencik Mevkii	Örencik Mahalle Yolu=
+99430	Kasaplar Mah.	15 Temmuz Demokrasi%|Ahmet Baysal_1%|Aydınlık -1~|Aydınlık 1.~|Aşağı Mah~|Aşağı Mahalle 1.~|Aşağı Mahalle 2.~|Aşağı Mahalle 3.~|Aşağı Mahalle 4.~|Aşağı Mahalle 5.~|Aşağı Mahalle 6.~|Aşağı Mahalle 7.~|D-100 Karayolu_5@|E-5@|E.5 -1~|E.5 -2~|E.5 -3~|E.5 -4~|E.5 -5~|E.5 -6~|Gücükdere~|Poliköy Evleri~|Yukarı Mah~|Yukarı Mah. 1~
+17783	Ketenler Köyü, Merkez Mevkii	Ketenler Köy Yolu=
+17803	Kolköy Köyü, Kolköy Yaylası Yayla Evleri	Kolköy Yayla Yolu=
+17802	Kolköy Köyü, Merkez Mevkii	Kolköy Köy Yolu=|Rüzgarlar Köy Yolu=
+17806	Kozlu Köyü, Hallar Mevkii	Hallar Mahalle Yolu=|Orta Mahalle Yolu=
+17805	Kozlu Köyü, Orta Mevkii	Hallar Mahalle Yolu=|Orta Mahalle Yolu=|İmamlar Mahalle Yolu=
+17804	Kozlu Köyü, İmamlar Mevkii	Bakırlı Yolu=|İmamlar Mahalle Yolu=
+10898	Kuruçay Mah.	40@|4911~|4912~|4913~|4914~|4915~|4916~|4917~|4918~|4920~|4921~|4922~|4923~|4924~|4925~|4927~|4928~|4929~|Bıldırcın~|Cemil Özbilen~|D.100 Karayolu_4@|Gülbahçe~|Güldeste~|Kadir Kocaeli~|Petrol~|Sülün~|Tunalı Hilmi@|Yılmazlar~|Zuhuri Danışman~|İhsan Alpman~|Şakayık~|Şebboy~|Şehit Ümit Çetingöz~
+17809	Kuzfındık Köyü, Kuzfındık Yaylası Yayla Evleri	Kuzfındık Yayla Yolu=
+17808	Kuzfındık Köyü, Merkez Mevkii	Kuzfındık Merkez Köy Yolu=
+17811	Kuzörendağlı Köyü, Akçalar Mevkii	Akçalar Mahalle Yolu=|Anadolu Otoyolu@|Ankara Bolu Yolu@
+17812	Kuzörendağlı Köyü, Kolca Mevkii	Kolca Mahalle Yolu=
+17813	Kuzörendağlı Köyü, Kuzörendağlı Yaylası Yayla Evleri	Kuzörendağlı Yayla Yolu=
+17810	Kuzörendağlı Köyü, Merkez Mevkii	Akçalar Mahalle Yolu=|Anadolu Otoyolu@|Ankara Bolu Yolu@|Kuzörendağlı Köy Yolu=
+17818	Kuzörenemirler Köyü, Kartallar Mevkii	Anadolu Otoyolu@|Aşağıkuzören Köy Yolu=|Kartallar Mahalle Yolu=
+17820	Kuzörenemirler Köyü, Kuzörenemirler Yaylası Yayla Evleri	Kuzörenemirler Yayla Yolu=
+17819	Kuzörenemirler Köyü, Köroğlu Mevkii	Ankara Bolu Yolu@|Aşağı Mahalle Yolu=|Köroğlu Mahalle Yolu=
+17815	Kuzörenemirler Köyü, Merkez Mevkii	Kuzörenemirler Köy Yolu=
+17816	Kuzörenemirler Köyü, Musa Mevkii	Musa Mahalle Yolu=
+17817	Kuzörenemirler Köyü, Yuvalca Mevkii	Yuvalca Mahalle Yolu=
+17807	Köprücüler Köyü, Merkez Mevkii	2 Sk~|3 Sk~|4 Sk~|Ana Cd-1.~|Köprücüler-yaman~|Kümesler~|Son Sk~|İlk Sk~
+10888	Köroğlu Mah.	Akar~|Akdağ~|Aksoy~|Alpaslan~|Arkat~|Arı~|Atölye~|Avcı~|Aydınlar~|Ağaç~|Bahadır~|Balıklı~|Berrak~|Beyazıt~|Bora~|Bulut~|Can~|Canyolaç~|Ceylan~|D.100 Karayolu_1@|Derman~|Dindar~|Doğa~|Eseryel~|Fırat~|Gelgör~|Gerede@|Gürkan~|Hakan~|Harun~|Karacaoğlan~|Karga Tepesi~|Koşar~|Kundakcıoğlu~|Kuğu~|Kümbet~|Papatya~|Ruşen Ali~|Samur~|Sevgi~|Sevil~|Seyis Yusuf~|Sezgin~|Sultan~|Tevfik Bey@|Uzman~|Yamaç~|Yağmur~|Yetiş~|Yunak~|Yunus~|Yıldırım~|Çalışkan~|Çamlık~|Çelebi~|Çıkınlar@|Özşen~|Üstad~|İkmal~|İslam~|İzzet Baysal@|Şafak~|Şehit Erol Erdoğan~|Şehit Sinan Demirbaş~|Şimşir~
+10889	Kültür Mah.	30.evler~|4121~|4123~|4125~|4129~|4130~|4131~|4138~|4139~|4142~|4144~|4150~|4151~|4156~|4163~|4165~|4168~|4170~|4171~|4174~|4175~|4176~|4179~|4181~|4182~|4188~|4191~|4192~|4195~|4197~|4199~|4200~|4201~|4203~|4204~|Akkaya~|Aktuğ~|Alp~|Ardıç~|Atilla~|Aşık Veysel~|Bahriye~|Barbaros~|Cahit Dinçtürk~|Cahit Sıtkı~|Cangül~|Cem Sultan@|Cengiz~|Ceviz~|D-100 Karayolu@|Dikmen~|Dr. Tevfik Atay~|Dr.suat Umay~|Efsane~|Emin Aldemir~|Enes~|Eğitim~|Fatih~|Fidan~|Genç Osman~|Göktepe~|Göktuğ~|Göktürk~|Gülay~|Hacı Arif Bey~|Halı Hisarı~|Harman Pınarı~|Himayeoğulları~|Höyük~|Kanuni~|Karasu~|Kartal~|Kemal Tahir~|Kubbe~|Kuleli~|Mimar Sinan~|Muallim Cevdet~|Namık Kemal@|Peyami Safa~|Pınar~|Salıbeyler@|Sarp~|Sarıcalar@|Selim~|Sur~|Tepe~|Tevfik Fikret~|Timur~|Tokgöz~|Toros~|Turgut Reis~|Tuğrulbey~|Tüfekçi~|Vali Utku Acun~|Vişne~|Yahya Kemal~|Yavuz~|Yeşiltepe~|Zerdali~|Zirve~|Çakmaklar@|Öksüz Tekke~|Ömer Seyfettin~|Öğretmenler~|Şahin Tepe~|Şair Nedim~|Şair~|Şehit Hakan Yıldırım~|Şehitler@|Şenlik~|Şirinevler~
+17824	Küplüce Köyü, Merkez Mevkii	Küplüce Merkez Köy Yolu=|Mengen Yolu@|Taşcami Mahalle Yolu=|Yayladınlar Köy Yolu=
+140473	Kürkçüler Mah.	1305~|Erenler Mevki=|Kürkçüler@|Kürkçüler-1.~|Kürkçüler-2.~|Kürkçüler-3.~|Kürkçüler-4.~|Kürkçüler-5.~|Kürkçüler-6.~|Mandıra Evleri~|Yunus Emre_1@
+99432	Küçükberk Mah.	502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|516~|517~|518~|519~|520~|521~|522~|523~|524~|525~|526~|527~|528~|529~|530~|531~|532~|533~|534~|535~|536~|537~|538~|539~|540~|541~|542~|543~|544~|545~|546~|6@|Kaplıca@|Murat Canbaş@|Çığırtkanlar@
+99431	Kılıçarslan Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|130~|132~|133~|134~|135~|136~|138~|139~|140~|141~|142~|144~|145~|146~|148~|149~|150~|151~|152~|153~|154~|155~|156~|157~|158~|159~|160~|162~|163~|164~|165~|166~|168~|169~|170~|171~|4601~|Aydınlık~|Dr.akın Çakmakçı%|Emine Bulut~|Muhsin Yazıcıoğlu%|Münevver Karabulut~|Orhan Gazi@|Safir~|Yunus Emre%|Zerdali~|Özgecan Aslan@|İzzet Baysal Devlet Hastanesi%
+17790	Kındıra Köyü, Arıklar Mevkii	Arıklar Mahalle Yolu=|Kolköy Köy Yolu=
+17793	Kındıra Köyü, Ecirler Mevkii	Ecirler Mahalle Yolu=|Zahmanlar Mahalle Yolu=
+17795	Kındıra Köyü, Ercek Mevkii	Arıklar Mahalle Yolu=|Ercek Mahalle Yolu=|Kartalkaya Yolu2@|Kolköy Köy Yolu=|Kındıra Güzleme Yolu=|Kındıra Teperce Yayla Yolu=
+17794	Kındıra Köyü, Güdükler Mevkii	Arıklar Mahalle Yolu=|Ercek Mahalle Yolu=|Güdükler Mahalle Yolu=
+17792	Kındıra Köyü, Kındıra Yaylası Mevkii	Kındıra Yayla Yolu=
+17791	Kındıra Köyü, Merkez Mevkii	Kındıra Köy Yolu=
+17797	Kırha Köyü, Kırha Yaylası Yayla Evleri	Kırha Yayla Yolu=
+17796	Kırha Köyü, Merkez Mevkii	Anadolu Otoyolu@|Kırha Köy Yolu=|Şeremetler Mahalle Yolu=
+17800	Kızılağıl Köyü, Karamanlar Mevkii	Karamanlar Mahalle Yolu=|Kirazaltı=
+17801	Kızılağıl Köyü, Karamanlar Çatak Yayla Evleri	Ağaççılar Yayla Yolu=|Karamanlar Çatak Yayla Yolu=
+17798	Kızılağıl Köyü, Merkez Mevkii	Kızılağıl Köy Yolu=
+17799	Kızılağıl Köyü, Çatak Mevkii	Pirahmetler Yayla Yolu=|Çatak Mahalle Yolu=
+17828	Merkeşler Köyü, Dere Mevkii	Dere Mahalle Yolu=|Mengen Yolu@
+17830	Merkeşler Köyü, Dumanoğlu Mevkii	Dumanoğlu Mahalle Yolu=
+17832	Merkeşler Köyü, Hacılar Mevkii	Hacılar Mahalle Yolu=
+17831	Merkeşler Köyü, Han Mevkii	Han Mahalle Yolu=
+17829	Merkeşler Köyü, Kalenderoğlu Mevkii	Kalenderoğlu Mahalle Yolu=
+17834	Merkeşler Köyü, Merkeşler Yaylası Yayla Evleri	Merkeşler Yayla Yolu=
+17833	Merkeşler Köyü, Tataroğlu Mevkii	Tataroğlu Mahalle Yolu=
+17827	Merkeşler Köyü, Çakıldere Mevkii	Dere Mahalle Yolu=|Mengen Yolu@|Çakıldere Mahalle Yolu=
+17826	Merkeşler Köyü, İzeler Mevkii	Hacılar Mahalle Yolu=|Semerciler Köy Yolu=|İzeler Mahalle Yolu=
+17835	Mesciler Köyü, Emen Mevkii	Emen Mevkii=|Seben@
+17836	Mesciler Köyü, Mesciler Mevkii	Mesciler Mevkii=|Mesciler Yaylası Yolu=|Mevlana/2~|Mevlana/3~|Okul~|Çamyayla Köy Yolu=
+17837	Mesciçele Köyü, Göklemezler Mevkii	Göklemezler Mahalle Yolu=|Mesciçele Göklemezler Yayla Yolu=|Mesciçele Çukur Yayla Yolu=
+17838	Mesciçele Köyü, Sadıklar Mevkii	Göklemezler Mahalle Yolu=|Sadıklar Mahalle Yolu=
+17840	Muratlar Köyü, Ediller Mevkii	Ediller Mahalle Yolu=|Ulumescit Merkez Köy Yolu=
+17839	Muratlar Köyü, Merkez Mevkii	Muratlar Merkez Köy Yolu=
+17841	Muratlar Köyü, Tilkicek Mevkii	Tilkicek Mahalle Yolu=
+17847	Musluklar Köyü, Fındıcak Mevkii	Fındıcak Mahalle Yolu=|Çukurören Merkez Köy Yolu=
+17844	Musluklar Köyü, Karakaya Yaylası Yayla Evleri	Karakaya Yayla Yolu=
+17846	Musluklar Köyü, Karşıyaka Mevkii	Anadolu Otoyolu@|Apalar Mahalle Yolu=|Karşıyaka Mahalle Yolu=
+17845	Musluklar Köyü, Kırık Yaylası Yayla Evleri	Kırık Yayla Yolu=
+17842	Musluklar Köyü, Merkez Mevkii	Anadolu Otoyolu@|Musluklar Köy Yolu=
+17843	Musluklar Köyü, Üçküner Mevkii Mevkii	Üçküner Yayla Yolu=
+17848	Müstakimler Köyü, Merkez Mevkii	Mengen Yolu@|Müstakimler Merkez Köy Yolu=|Çatakören Köy Yolu=
+17849	Nuhlar Köyü, Merkez Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Kuzörendağlı Köy Yolu=|Meşeci Mahalle Yolu=|Nuhlar Merkez Köy Yolu=
+17850	Nuhlar Köyü, Meşeci Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Kartallar Mahalle Yolu=|Meşeci Mahalle Yolu=
+17851	Nuhlar Köyü, Nuhlar Yaylası Yayla Evleri	Nuhlar Yayla Yolu=
+17854	Okçular Köyü, Merkez Mevkii	10.~|5000~|5001~|5002~|5003~|5004~|5005~|5006~|5007~|5008~|5009~|5010~|5011~|5012~|5013~|5014~|5015~|5016~|5017~|5018~|5019~|5020~|5021~|5022~|5023~|5024~|8~|9.~|Gökdemir~|Gölcük%|Haliller~|Kaplıca@|Okçular-1.~|Orta Mahalle 1.~|Suat Çelen~|Virane~|Örencik~|İslamlar~
+99433	Ovadüzü Mah.	301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|Ovadüzü@
+17852	Oğulduruk Köyü, Oğulduruk Merkez Mevkii	D100 Karayolu@|Karaçalı Mevkii~|Oğulduruk=|Oğulduruk Yaylası=
+197975	Oğulduruk Köyü, Oğulduruk Mevkii	Ahmetler Merkez Köy Yolu=|Oğulduruk Yolu=
+99434	Paşaköy Mah.	1305~|2201~|2202~|2203~|2204~|2205~|2206~|2207~|2208~|2209~|2210~|2211~|2212~|2214~|2215~|2216~|2217~|2218~|2219~|2220~|2221~|2222~|2223~|2224~|2225~|2226~|2227~|2228~|2229~|2230~|2231~|2232~|2233~|2234~|2235~|2236~|2237~|2238~|2239~|2240~|2241~|2242~|2243~|2244~|2245~|2246~|2247~|2248~|2249~|2250~|2251~|2252~|2253~|2254~|2255~|2256~|2257~|2258~|2259~|2260~|2261~|2262~|2263~|2264~|2265~|2266~|2267~|2268~|2269~|2270~|2271~|2272~|2273~|2274~|2275~|2276~|2277~|2278~|2279~|2280~|2281~|2282~|2283~|2284~|2285~|2286~|2287~|2288~|2289~|2301~|2302~|2303~|2304~|2305~|2306~|2307~|2308~|2309~|2310~|2311~|2312~|2313~|2314~|2315~|2316~|2317~|2318~|2319~|2320~|2321~|2322~|2323~|2324~|2325~|2326~|2327~|2328~|2329~|2330~|2331~|2332~|2334~|2335~|2336~|2337~|2340~|2341~|2342~|2343~|2344~|2345~|2346~|2347~|2348~|2349~|2710~|32@|33@|34@|35@|36@|D100 Karayolu_1@|Elif~|Eski İstanbul@|Şeyh Şamil~
+17880	Pelitcik Köyü, Ardıç Yaylası Yayla Evleri	Ardıç Yayla Yolu=
+17874	Pelitcik Köyü, Karabozlar Mevkii	1=|Karabozlar Mahalle Yolu=
+17876	Pelitcik Köyü, Karagözler Mevkii	Karagözler Mahalle Yolu=
+17877	Pelitcik Köyü, Karamanyaka Mevkii	Bolu Bilecik Yolu@|Karamanyaka Mahalle Yolu=
+17879	Pelitcik Köyü, Pelitçik Yaylası Yayla Evleri	Pelitçik Yayla Yolu=
+17878	Pelitcik Köyü, Türkmenler Mevkii	Türkmenler Mahalle Yolu=
+17875	Pelitcik Köyü, Şabanlar Mevkii	Karabozlar Mahalle Yolu=|Şabanlar Mahalle Yolu=
+140166	Pirahmetler Köyü, Demirciler Mevkii	Alpağut Pirahmetler Yayla Yolu=|Alpağut Sincan Yayla Yolu=|Alpağut Yayla Yolu=|Demirciler Mahalle Yolu=|Demirciler Yayla Yolu=|Pirahmetler Yayla Yolu=|Çatak Mahalle Yolu=
+17881	Pirahmetler Köyü, Merkez Mevkii	Demirciler-1~|Demirciler-3.~|Merkez~|Pirahmetler-2.~|Pirahmetler-4.~|Çamlık Kümeevleri~
+17883	Piroğlu Köyü, Merkez Mevkii	Piroğlu Köy Yolu=|Yenisefa Köy Yolu=
+17886	Piroğlu Köyü, Piroğlu Yaylası Yayla Evleri	- Köy$
+17885	Piroğlu Köyü, Softalar Mevkii	Mustafa Vehbi Koç Mahalle Yolu=|Softalar Mahalle Yolu=|Tatarlar Mahalle Yolu=
+17884	Piroğlu Köyü, Tekeler Mevkii	Tekeler Mahalle Yolu=|Yenisefa Köy Yolu=
+17882	Piroğlu Köyü, Çukur Mevkii	Gövem Köy Yolu=|Tatarlar Mahalle Yolu=|Çukur Köy Yolu=
+17887	Rüzgarlar Köyü, Merkez Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Baltalı Yukarı Mahalle Yolu=|Rüzgarlar Köy Yolu=
+17889	Rüzgarlar Köyü, Orta Mevkii	Ankara Bolu Yolu@|Orta Mahalle Yolu=
+17888	Rüzgarlar Köyü, Rüzgarlar Yaylası Yayla Evleri	Rüzgarlar Yayla Yolu=
+17890	Rüzgarlar Köyü, Şeremetler Mevkii	Anadolu Otoyolu@|Ankara Bolu Yolu@|Şeremetler Mahalle Yolu=
+99435	Salıbeyler Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1023~|1024~|1025~|1026~|1027~|1028~|1029~|1030~|1031~|1032~|1033~|1034~|1035~|1036~|1037~|1038~|1039~|1040~|1041~|1042~|1043~|1044~|1045~|1046~|1047~|1048~|1050~|1051~|1052~|1053~|1054~|1055~|1056~|1057~|1058~|1124~|1129~|1130~|8.@|Salıbeyler@|Sınır~|Yaylalar@|Zerdali~
+99843	Sandallar Mah.	2710~|Ahmet Baysal%|D-100 Karayolu_3@|Elif~|Gücükdere~|Kanal Yolu~|Kanal Üstü~|Sandallar-1.~|Sandallar-2.~|Sandallar-3.~|Sandallar-4.~|Sandallar-5.~|Sandallar-6.~
+17896	Saraycık Köyü, Merkez Mevkii	Saraycık Köy Yolu=|Susuzkınık Köy Sokağı=
+140200	Saraycık Köyü, Saraycık Mücavir Mevkii	Saraycık=
+17898	Saraycık Köyü, Saraycık Yaylası Yayla Evleri	Saraycık Yayla Yolu=
+17897	Saraycık Köyü, Yukarı Mevkii	Saraycık Yukarı Mahalle Yolu=|Sinir Mahalle Yolu=
+99438	Sarıcalar Mah.	1101~|1102~|1103~|1104~|1105~|1106~|1107~|1108~|1109~|1110~|1111~|1112~|1113~|1114~|1115~|1116~|1117~|1118~|1119~|1120~|1121~|1122~|1123~|1124~|1125~|1126~|1127~|1128~|1129~|1130~|1131~|1132~|1133~|1134~|1135~|1137~|1138~|1139~|1140~|1141~|1142~|1143~|1144~|1145~|1146~|1147~|12@|1204~|1230-~|Dibekbaşı@|Halı Hisarı~|Himayeoğulları~|Sarıcalar@
+17901	Sazakkınık Köyü, Aşçılar Mevkii	Aşçılar Mahalle Yolu=|Kayı Mahalle Yolu=
+17900	Sazakkınık Köyü, Karagözler Mevkii	Karagözler Mahalle Yolu=
+17902	Sazakkınık Köyü, Sazakkınık Yaylası Yayla Evleri	- Köy$
+200691	Sazakşeyhler Köyü, Merkez Mevkii	Merkez=|Sazakşeyhler Yayla Yolu=|Çanakçılar Köy Yolu=
+17904	Sazakşeyhler Köyü, Sazakşeyhler Yaylası Yayla Evleri	- Köy$
+17903	Sazakşeyhler Köyü, Yukarı Mevkii	Merkez=|Sazakşeyhler Yukarı Mahalle Yolu=|Çanakçılar Köy Yolu=
+17892	Saççılar Köyü, Iğdır Mevkii	Iğdır Mahalle Yolu=
+17891	Saççılar Köyü, Merkez Mevkii	Saççılar Köy Yolu=
+17893	Saççılar Köyü, Saçcılar Yaylası Yayla Evleri	Saçcılar Yayla Yolu=
+10890	Sağlık Mah.	1401~|1402~|1403~|1404~|1405~|1406~|1407~|1408~|1409~|1410~|1411~|1412~|1413~|1414~|1415~|1416~|1417~|1418~|1419~|1420~|1421~|1422~|1423~|1424~|1425~|1426~|1427~|1428~|1429~|1430~|1431~|1432~|1433~|1434~|1435~|1436~|1437~|1438~|1439~|1440~|1441~|1442~|1443~|1444~|1445~|1446~|1447~|1448~|1449~|1450~|1451~|1452~|1453~|1454~|1455~|1456~|1457~|1458~|1459~|1460~|1461~|1462~|1463~|1464~|1465~|1466~|1467~|1468~|1469~|1470~|1471~|1472~|1473~|1474~|1475~|1476~|1477~|1478~|1479~|1480~|1481~|1482~|1483~|1484~|1485~|1486~|1487~|1488~|1489~|1490~|1491~|1492~|1493~|1494~|1495~|1496~|1497~|1498~|1499~|1500~|1501~|1502~|1503~|1504~|710~|Acun~|Akarsu~|Akca~|Aksu~|Aktepe~|Aktif~|Alagöz~|Alan~|Asalet~|Asma~|Atak~|Atalay~|Atmaca~|Avşar~|Ay~|Ayça~|Aziz~|Aşçılar~|Babayiğit~|Baran~|Batı~|Başak~|Behice~|Belde~|Bereket~|Birsen~|Biçim~|Bolluk~|Boran~|Burcu~|Cami Yanı~|Camili~|Canan~|Cefakar~|Cengaver~|Ceyda~|Ceyhan~|Cuma~|D_100 Karayolu_1@|Damla~|Darende~|Dağıstanlı~|Demet~|Demirkapı~|Detay~|Deva~|Dilek~|Divan~|Dodurga@|Doğu~|Dr.ilhami İka~|Dönmez~|Dündar~|Ebruli~|Eda~|Egemen~|Eker~|Elmas~|Emir~|Endam~|Engin~|Enginar~|Esat~|Esentepe~|Esra~|Etkin~|Fedakar~|Garip~|Gazi Mehmet Türe~|Genç~|Gökceağaç~|Gökkaya~|Göksu~|Görkem~|Gözde~|Gözlem~|Güleç~|Gülnar~|Gültepe~|Gümüş~|Günaldın~|Güney~|Güneykaya~|Gürgen~|Gürol~|Gürsoy~|Güvenlik~|Güzide~|Güçlü~|Halı Hisarı~|Harman~|Hasat~|Haşmet~|Hekim~|Hülya~|Karadere@|Karasu~|Karşıkonak~|Keklik~|Kentsel~|Kevser~|Koray~|Korkut~|Koza~|Kozlu~|Koçyiğit~|Kutay~|Küplüce~|Kıble~|Kıbrıscık~|Kırsal~|Kısa Yol~|Ladin~|Lezzet~|Maltaş~|Maral~|Mazlum~|Mehmet Zekai Konrapa%|Melih~|Mevlana~|Meşhur~|Mimoza~|Miray~|Murat~|Nafiz~|Neslihan~|Nizam~|Okur~|Orkide~|Poyraz~|Rahmet~|Rasim~|Reşat~|Sabah~|Sabahattin Öztürk~|Sabır~|Sakarya~|Salih İnceler~|Samanyolu~|Sancak~|Sancaktar~|Sağlık~|Sebil~|Seda~|Sedef~|Seher~|Sempati~|Serap~|Sercan~|Serdar~|Sevda~|Sigorta~|Sinan~|Songül~|Sırat~|Tadım~|Tanyeri~|Tatlı~|Tayfur~|Tepealtı~|Tolgahan~|Tufan~|Tuna~|Tuğrul~|Tınaz~|Ufuk~|Usta~|Uçar~|Vefa~|Veysel Saygılı~|Yaren~|Yazma~|Yelki~|Yetenekli~|Yeşil Yayla~|Yeşim~|Yiğit~|Yolçatı~|Yıldız~|Zorlu~|Çakır~|Çavdar~|Çelen~|Çeliktepe~|Çetin~|Çimen~|Çimento~|Çömlekçiler@|Özge~|Özgür~|Öğretmen Evi~|Ünal~|Ünlü~|Üçgen~|İhlas~|İkram~|İlkay~|İlknur~|İnanç~|İskilip~|İtimat~|İyigün~|Şahin Tepe~|Şanlıtepe~|Şaşmaz~|Şehit Ali Erdoğan~|Şehit Ali Özdemir~|Şehit Mithat Baytekin~|Şehit Nusret Akar~|Şehit Ramazan Gel~|Şehit Sabahattin Barut~|Şehit Süleyman Tombak~|Şehit Tevfik Dursun~|Şehit Turgut Duman~|Şehit İbrahim Ayhan~|Şehit İsmail Konuk~|Şehitler@|Şenevler Küme=|Şenevler~|Şengül~|Şöhret~
+17906	Sebenardı Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=
+17908	Sebenardı Köyü, Aşağı Yayla Yayla Evleri	Sebenardı Aşağı Yayla Yolu=
+17905	Sebenardı Köyü, Merkez Mevkii	Sebenardı Köy Yolu=
+17907	Sebenardı Köyü, Merkez Yayla Yayla Evleri	Sebenardı Merkez Yayla Yolu=
+17910	Semerciler Köyü, Kovalaklar Mevkii	Kovalaklar Mahalle Yolu=
+17909	Semerciler Köyü, Merkez Mevkii	Mengen Yolu@|Semerciler Köy Yolu=
+10891	Semerkant Mah.	Akman~|Akıncı~|Alibey~|Bakkalbaşı~|Baylan~|Biçer~|Bostancı~|Dumanoğlu~|Erbayram~|Ergin~|Gezek~|Hacı Hamdi~|Kalyoncuoğlu~|Karabacakoğlu~|Köroğlu~|Küpeli~|Mürteza Bey~|Onur~|Oğuz~|Saraç~|Semerkant@|Servet Şamlıoğlu~|Utku~|Yorday~|Özay~|Üçyol~|İhtiyaroğlu~|İmaret~|İnce~|İnkılap~|İpekli~|İsmail Kemal@|İzzet Baysal@|Şehit Muhtar@
+99439	Seyit Mah.	12 Kasım Evleri~|Afşar~|Ana~|Aydınlık 1.~|Aşağı Mahalle 2.~|Cami-1.~|Dere-1.~|Ferah-1.~|Gücükdere~|Hilal-1.~|Huzur-1.~|Karca~|Mudurnu@|Okul-2.~|İnce Köprü~
+139537	Sultan Köyü, Aşağı Mevkii	2~|4.oca~|Aşağı Mahalle Yolu=
+17915	Sultan Köyü, Merkez Mevkii	Akyel~|Ana@|Dere Sultan=|Konak Sultan=|Nazifler~|Sultan-2.~|Sultan-3.~|Sultan-yaman~
+17914	Sultanbey Köyü, Merkez Mevkii	2~|3~|4~|Sultanbey-1.~|Sultanbey-2.~
+17919	Susuzkınık Köyü, Merkez Mevkii	Kabakçı Kırı=|Sinir Mahalle Yolu=|Susuzkınık Köy Sokağı=|Çaygökpınar Köy Yolu=
+17920	Susuzkınık Köyü, Susuzkınık Yaylası Yayla Evleri	Susuzkınık Yayla Yolu=
+17921	Susuzkınık Köyü, Susuzkınıkosb Mevkii	1@|10@|11@|12~|2@|3@|4@|5@|6@|7~|8~|9@|Ankara Bolu Yolu@|Küme Evler=|Saraycık Köy Yolu=|Saraycık=|Susuzkınık Köy Sokağı=
+10892	Sümer Mah.	2797~|2806~|2819~|2823~|2824~|2825~|2834~|2837~|2838~|2843~|2850~|2852~|2862~|2864~|2871~|2872~|2876~|2878~|2879~|2880~|2881~|2884~|2885~|2886~|2887~|2888~|546~|Ahmet Baysal%|Akasya~|Akçay~|Alaca~|Arda~|Ayhan~|Badem~|Beşevler~|Bilgin~|Botanik~|Cihangir~|Cumhuriyet@|Demir~|Döner~|Ebru~|Efe~|Emniyet~|Erdem~|Ergün~|Funda~|Gelibolu~|Gündüz~|Gürpınar~|Hasan Bülbül~|Hasan Tahsin@|Hat~|Hattat Emin Barın@|Hurma~|Kabak~|Karaca~|Koçak~|Köknar~|Manolya~|Mehtap~|Meriç~|Mısra~|Nazar~|Necip Fazıl Kısakürek%|Olgun~|Palmiye~|Sahra~|Saka~|Saroz~|Sedir~|Selvi~|Sema~|Serhat~|Serçe~|Seyhan~|Solmaz~|Songüller~|Tayfun~|Yücel~|Zeki~|Çağlayan~|Çilek~|Çınar~|Çığırtkanlar@|Önder~|Örnek~|Özer~|Özçelik~|İlim~|İmren~|Şehit Barbaros Yalçın~|Şehit Dursun Değirmencioğlu~|Şehit Hüseyin Karakaya~|Şehit Kadir Memiş~|Şehit Kemal Çıtak~|Şehit Kenan Özdemir~|Şehit Murat Menteş~|Şerefli~
+10893	Tabaklar Mah.	Acar~|Adalet~|Akbaba~|Albay~|Ali Rıza Tekemen@|Anadolu~|Atatürk%|Börekçiler~|Cumhuriyet@|Dar~|Eflatun~|Emniyet~|Eren~|Ferit Talay@|Gövem~|Güneş~|Güzey~|Hattat Emin Barın@|Haznedarlar~|Hitit~|Hürriyet@|Karakoç~|Kutucular~|Kıraç~|Mazhar Murtezaoğlu@|Muhsin Karamanoğlu~|Necip Fazıl Kısakürek_1%|Ovabaşlı~|Reşat Aker~|Salim Gündoğan@|Seymen~|Tayyar~|Taşman~|Tekel~|Ulaş~|Uygur~|Vaysal~|Çam~|Çavuşlar~|Çığırtkanlar@|Özek~|İbni Sina@|İkizler~|İzzet Baysal@|Şahin~|Şehit Yusuf Seyhan~|Şenel~|Şeref~
+17923	Tarakçı Köyü, Ferdinler Mevkii	Aşağıçamlı Köy Yolu=|Ferdinler Mahalle Yolu=|Merkez=
+17924	Tarakçı Köyü, Ferdinler Yaylası Yayla Evleri	- Köy$
+17925	Tarakçı Köyü, Güçömerler Mevkii	Ferdinler Mahalle Yolu=|Güçömerler Mahalle Yolu=
+17922	Tarakçı Köyü, Merkez Mevkii	Aşağıçamlı Köy Yolu=|Ferdinler Mahalle Yolu=|Güçömerler Mahalle Yolu=|Tarakçı Köy Yolu=|Yukarıçamlı Köy Yolu=
+17926	Tarakçı Köyü, Tarakçı Yaylası Yayla Evleri	Tarakçı Yayla Yolu=
+17934	Tatlar Köyü, Hümmetler Mevkii	Anadolu Otoyolu@|Hümmetler Mahalle Yolu=
+17932	Tatlar Köyü, Merkez Mevkii	Anadolu Otoyolu@|Bahçeköy Mezrası Yolu=|Tatlar Köy Yolu=
+17935	Tatlar Köyü, Ocuklar Mevkii	Anadolu Otoyolu@|Ocuklar Mahalle Yolu=|Tatlar Köy Yolu=
+17936	Tatlar Köyü, Ocuklar Yaylası Yayla Evleri	Ocuklar Yayla Yolu=
+17933	Tatlar Köyü, Tatlar Yaylası Yayla Evleri	Tatlar Yayla Yolu=
+17931	Taşoluk Köyü, Ağalan Yayla Evleri	Çayır 2=
+17929	Taşoluk Köyü, Taşoluk Merkez Mevkii	Taşoluk Yayla Yolu=
+17930	Taşoluk Köyü, Taşoluk Mevkii	Ana Cd/3~|Berk 3~|Hıdırşeyhler Köy Yolu=|Taşoluk Merkez Yolu=
+17928	Taşçılar Köyü, Merkez Mevkii	Arap Mahalle Yolu=|Mengen Yolu@|Taşçılar Merkez Köy Yolu=
+17927	Taşçılar Köyü, Siyamoğlu Mevkii	Mengen Yolu@|Semerciler Köy Yolu=|Siyamoğlu Mahalle Yolu=
+17938	Tekkedere Köyü, Devren Mevkii	Devren Mahalle Yolu=
+17937	Tekkedere Köyü, Merkez Mevkii	Tekkedere Köy Yolu=|Tekkedere Yayla Yolu=
+10894	Tepecik Mah.	26@|2604~|2605~|2607~|2609~|2610~|2611~|2614~|2615~|2616~|2617~|2618~|2619~|27@|2701~|2702~|2703~|2704~|2707~|2708~|2709~|2710~|2711~|2712~|2715~|2716~|2717~|2718~|2719~|2721~|2723~|2730~|2741~|2744~|2751~|2753~|2754~|2755~|2756~|2757~|2759~|2761~|2762~|2764~|2765~|2771~|2772~|2773~|2777~|2778~|2786~|2796~|2797~|2798~|Ahlat~|Ahmet Baysal%|Ahu~|Alıç~|Aras~|Beşevler~|Böğürtlen~|Büşra~|Cumhuriyet@|Demirtepe~|Dicle~|Elif~|Emrah~|Esenlik~|Ferhat~|Fındık~|Girne~|Gücükdere~|Gülpınar~|Güneş Tepe~|Güzelbahçe~|Hasan Tahsin@|Hayat~|Kanarya~|Karaca~|Karadeniz~|Karakaya~|Kardelen~|Kaya~|Kelebek~|Kestane~|Kiraz~|Kumru~|Köşk~|Kübra~|Kızılcık~|Latif~|Lefkoşa~|Limon~|Mavili~|Mehtap~|Mercan~|Mor Menekşe~|Müftülük~|Nar~|Neşem~|Ruşen~|Salih~|Selen~|Seyit Köyü Yolu~|Seyrantepe~|Tomurcuk~|Ulvi~|Yasa~|Yeşil Çimen~|Yonca~|Yüksel Ceylan%|Zeytin~|Çayır Köyü Yolu~|Çağlayan~|Çiçek~|Şehit Aydın Çetin~|Şehit Mehmet Diri~|Şehit Metin Uyanık~|Şehit Mustafa Değercan~|Şehit Necdet Fidan~|Şehit Nihat Eren~|Şehit Yalçın Sönmezer~|Şehit Şenol Gül~|Şifa~
+17941	Tetemeçele Köyü, Dağdelen Mevkii	Dağdelen Mahalle Yolu=|Kadılar Mahalle Yolu=|Karaseferler Mahalle Yolu=
+17940	Tetemeçele Köyü, Horbacı Mevkii	Horbacı Mahalle Yolu=
+17942	Tetemeçele Köyü, Karaseferler Mevkii	Karaseferler Mahalle Yolu=
+17939	Tetemeçele Köyü, Merkez Mevkii	Horbacı Mahalle Yolu=|Tetemeçele Köy Yolu=
+18021	Tokmaklar Köyü, Merkez Mevkii	Kadılar Mahalle Yolu=|Tokmaklar Merkez Köy Yolu=
+17948	Topardıç Köyü, Aydınlar Mevkii	Aydınlar Mahalle Yolu=
+17946	Topardıç Köyü, Cami Yanı Mevkii	Cami Yanı Mahalle Yolu=
+17943	Topardıç Köyü, Depo Sanayi Mevkii	Bolu Bilecik Yolu@|Depo Sanayi Mahalle Yolu=
+17947	Topardıç Köyü, Hasan Köyü Mevkii	Hasan Köyü Mahalle Yolu=|Hüseyinpaşalar Mahalle Yolu=|Yazılar Yaylası Yolu=
+17945	Topardıç Köyü, Hasanlar Mevkii	Hasanlar Mahalle Yolu=
+17944	Topardıç Köyü, Yanıklar Mevkii	Yanıklar Mahalle Yolu=
+17951	Ulumescit Köyü, Aftallar Mevkii	Aftallar Mahalle Yolu=|Aftallar Yaylası Yolu=
+17953	Ulumescit Köyü, Hacılar Mevkii	Hacılar Mahalle Yolu=
+17949	Ulumescit Köyü, Merkez Mevkii	Orta Mahalle Yolu=|Ulumescit Merkez Köy Yolu=
+17954	Ulumescit Köyü, Orta Mevkii	Orta Mahalle Yolu=
+17950	Ulumescit Köyü, Poyrazlar Mevkii	Poyrazlar Mahalle Yolu=|Poyrazlar Yaylası Yolu=|Yayladınlar Köy Yolu=
+17952	Ulumescit Köyü, Sığındı Mevkii	Sığındı Mahalle Yolu=
+10895	Umutkent Mah.	Ada 20~|Ada 21~|Ada 22/1~|Ada 22/2~|Ada 23~|Ada 4~|Ada 8~|Dr.akın Çakmakçı%|Muhsin Yazıcıoğlu%|İzzet Baysal Devlet Hastanesi%
+139677	Vakıfgeçitveren Köyü, Derekarşı Mevkii	Ankara Bolu Yolu@|Derekarşı Mahalle Yolu=|Toyluk=|Vakıfgeçitveren Kadılar Yayla Yolu=
+17955	Vakıfgeçitveren Köyü, Vakıfgeçitveren Merkez Mevkii	Ballı Yeri=|D 100 Karayolu@|Dere Karşı=|Kabakçı Kırı=|Kadılar=|Kavak Yazısı=|Kuzuluk=|Oğulcan=|Toyluk=|Vakıf Geçitveren Merkez=|Vakıfgeçitveren Gözleme Yaylası=|Virane Yaylası=|İzzet Baysal Küçük Sanayi Sitesi~
+17969	Yakabayat Köyü, Apalar Mevkii	Anadolu Otoyolu@|Apalar Mahalle Yolu=|Kahyalar Mahalle Yolu=|Karşıyaka Mahalle Yolu=
+17967	Yakabayat Köyü, Bayat Mevkii	Bayat Mahalle Yolu=
+17968	Yakabayat Köyü, Bulutlar Mevkii	Bayat Mahalle Yolu=|Bulutlar Mahalle Yolu=
+17970	Yakuplar Köyü, Merkez Mevkii	Koyunpınar~|Mezarlık Altı=|Yakuplar Yayla Yolu~|Yakuplar-1.~|Yakuplar-3.~|Yakuplar-4.~|Yakuplar-5.~|Çeleyolu~
+17971	Yayladınlar Köyü, Merkez Mevkii	Ediller Mahalle Yolu=|Ulumescit Merkez Köy Yolu=|Yayladınlar Köy Yolu=
+17972	Yayladınlar Köyü, Yayladınlar Yaylası Yayla Evleri	Yayladınlar Yayla Yolu=
+17973	Yazıören Köyü, Merkez Mevkii	Bahçeköy Köy Yolu=|Karşıyaka Mahalle Yolu=|Vakıf=|Yazıören Köy Yolu=
+17974	Yazıören Köyü, Yazıören Yayla Evleri	Yazıören Yayla Yolu=
+10896	Yaşamkent Mah.	Ada 10~|Ada 101~|Ada 102~|Ada 103~|Ada 14~|Ada 15~|Ada 17~|Ada 18~|Ada 19/1~|Ada 19/2~|Ada 24~|Ada 25~|Ada 26~|Ada 27~|Ada 28~|Ada 29~|Ada 5~|Ada 6~|Ada 7~|Ada 9~|Ada.13~|Dr.akın Çakmakçı%|Dr.aykut Barka%|Koray Aydın%|İzzet Baysal Devlet Hastanesi%
+17975	Yeniakçakavak Köyü, Yeniakçakavak Merkez Mevkii	Büyük Sanayi Sitesi@|Sarıalan Yaylası=|Taşbaşı=|Vakıf=|Yeni Akçakavak=
+17978	Yenicepınar Köyü, Merkez Mevkii	D100 Karayolu_5@|Harman Yeri~|Kanal Boyu-1.~|Kavakpınar~|Stad~|Yenicepınar Yayla Yolu~|Yurtyeri~|Çorak Yenicepınar=
+17980	Yenigeçitveren Köyü, Yenigeçitveren Merkez Mevkii	Basmacı Yaylası=|Gözleme Yaylası=|Karaalıç=|Kayacık=|Yenigeçitveren Merkez=
+17986	Yenigüney Köyü, Kayı Mevkii	Aşçılar Mahalle Yolu=|Kayı Mahalle Yolu=
+17985	Yenigüney Köyü, Merkez Mevkii	Ankara Bolu Yolu@|Yenigüney Köy Yolu=
+17987	Yenigüney Köyü, Yenigüney Yaylası Yayla Evleri	Yenigüney Yayla Yolu=
+17988	Yeniköy Köyü, Merkez Mevkii	Dumantepe~|Yeniköy-1.~|Yeniköy-2.~|Yeniköy-3.~|Yeniköy-4.~
+139498	Yeniköy Köyü, Yeniköy Mevkii	4~|Yedi Köyler Yolu Mevkii~
+140481	Yenimahalle Mah.	2000~|2001~|2002~|2003~|2004~|2005~|2006~|2007~|2008~|2009~|2010~|2011~|2012~|2013~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022~|2023~|2024~|2025~|2026~|2027~|2028~|2029~|2030~|2031~|2032~|Kaplıca@|Kocameşe~
+17991	Yenipelitcik Köyü, Fırınlık Mevkii	Fırınlık Mahalle Yolu=
+17990	Yenipelitcik Köyü, Merkez Mevkii	Bozarmut Köy Yolu=|Yenipelitçik Fırınlık Yayla Yolu=|Yenipelitçik Köy Yolu=|Yenipelitçik Yayla Yolu=
+17993	Yenisefa Köyü, Aşağı Mevkii	Bolu Bilecik Yolu@|Yenisefa Aşağı Mahalle Yolu=
+17995	Yenisefa Köyü, Eseler Mevkii	Eseler Mahalle Yolu=
+17992	Yenisefa Köyü, Merkez Mevkii	Bolu Bilecik Yolu@|Yenisefa Köy Yolu=
+17997	Yenisefa Köyü, Yayla Evleri Yayla Evleri	Yenisefa Yayla Yolu=
+17994	Yenisefa Köyü, Yukarı Mevkii	Yenisefa Yukarı Mahalle Yolu=
+17996	Yenisefa Köyü, Çatak Mevkii	Çatak Mahalle Yolu=
+98273	Yeniçaydurt Köyü, Yeniçaydurt Merkez Mevkii	Yeni Çaydurt Merkez=
+18000	Yeşilköy Köyü, Merkez Mevkii	Cami-4.~|D-100 Kenarı@|Hasan Bey~|Otel~|Yeni~|Yeşilköy-1.~|Yeşilköy-2.~
+17998	Yeşilçele Köyü, Merkez Mevkii	Sarıahmetler Mahalle Yolu=|Yeşilçele Köy Yolu=
+17999	Yeşilçele Köyü, Yeşilçele Yaylası Yayla Evleri	Yeşilçele Akçaağaç Yayla Yolu=|Yeşilçele Yayla Yolu=
+18001	Yolçatı Köyü, Merkez Mevkii	Abant Yolu Üzeri~|Okul-5.~|Yolcatı=|Yolçatı-1.~|Yolçatı-2.~
+99440	Yukarısoku Mah.	701~|702~|703~|704~|705~|706~|707~|708~|709~|711~|712~|713~|714~|715~|716~|717~|718~|719~|720~|721~|722~|723~|724~|725~|726~|727~|728~|729~|730~|731~|732~|733~|734~|735~|736~|738~|739~|740~|741~|742~|743~|744~|745~|746~|747~|748~|749~|750~|751~|752~|753~|754~|755~|756~|757~|758~|759~|760~|761~|762~|763~|764~|765~|766~|767~|768~|769~|770~|771~|772~|773~|774~|775~|776~|777~|778~|779~|780~|781~|782~|783~|784~|785~|786~|787~|789~|790~|791~|792~|793~|794~|795~|796~|798~|799~|801~|802~|803~|804~|805~|806~|807~|808~|809~|810~|811~|812~|813~|814~|815~|816~|817~|818~|819~|820~|821~|822~|823~|824~|825~|826~|827~|828~|829~|830~|831~|833~|834~|835~|836~|837~|838~|839~|840~|841~|842~|843~|844~|845~|846~|847~|848~|849~|850~|851~|852~|853~|854~|855~|856~|857~|858~|859~|860~|861~|862~|863~|864~|865~|866~|867~|868~|869~|870~|871~|872~|873~|874~|875~|876~|877~|878~|879~|880~|881~|882~|883~|884~|885~|886~|887~|889~|890~|891~|892~|Arçelik~|Genç~|Hamzabey@|Karadere@|Yedigöller@|Yelki~|Çele@|İğnesi@
+18003	Yukarıçamlı Köyü, Merkez Mevkii	Aşağıçamlı Köy Yolu=|Ferdinler Mahalle Yolu=|Güçömerler Mahalle Yolu=|Karamanlar Köy Yolu=|Mengen Yolu@|Tarakçı Köy Yolu=|Yukarıçamlı Köy Yolu=|Yukarıçamlı Tarakçı Çepni Yaylası Yolu=
+18005	Yukarıçamlı Köyü, Yukarıçamlı Yaylası Yayla Evleri	Yukarıçamlı Yaylası Yolu=
+18004	Yukarıçamlı Köyü, Çengeller Mevkii	Mengen Yolu@|Çengeller Mahalle Yolu=
+115436	Yumrukaya Köyü, Merkez Mevkii	Anadolu Otoyolu@|Soğuk Çeşme Mevkii=
+18010	Yumrukaya Köyü, Merkez Mücavir Mevkii	Karşı~|Kirazaltı=|Orta~|Yeni-yumrukaya~|Yumrukaya-2.~|Çukur~|Şose~
+139561	Yuva Köyü, Yuva Aşağı Mevkii	Yuva Aşağı Mahalle Yolu=
+18014	Yuva Köyü, Yuva Merkez (mücavir) Mevkii	Kütükçüler=|Merkez Yuva Köy=|Yuva Aşağı Mücavir=|Yuva Çaydurt=|Çaydurt Evleri=|Çimento Fabrikası Yanı=
+139562	Yuva Köyü, Yuva Merkez Mevkii	Ferdinler Mahalle Yolu=|Mengen Yolu@|Yuva Merkez Mahalle Yolu=|Yuva Yaylası=
+99427	Çakmaklar Mah.	1041~|13.@|8.@|901~|902~|903~|904~|905~|906~|907~|908~|910~|911~|912~|913~|914~|915~|916~|917~|918~|919~|921~|925~|926~|927~|928~|929~|930~|931~|932~|933~|934~|935~|936~|937~|938~|939~|940~|941~|942~|943~|944~|945~|946~|947~|948~|949~|950~|951~|952~|953~|954~|955~|956~|957~|958~|959~|960~|961~|962~|963~|964~|965~|966~|967~|968~|969~|970~|971~|972~|973~|974~|975~|976~|977~|Hacı Ahmet Çatladıoğlu@|Çakmaklar@|İsmail Özer@
+17677	Çampınar Köyü, Çampınar Güzleme Yayla Evleri	Çampınar Güzleme Yayla Yolu=
+17676	Çampınar Köyü, Çampınar Merkez Mevkii	Aşağı Mahalle Yolu=|Sultan-3.~|Çampınar Merkez Mevkii=
+17678	Çampınar Köyü, Çampınar Mevkii	Ana Cd-1.~|Ana Cd/3~|Çampınar Mevkii=|Çampınar Yayla Yolu=
+17680	Çamyayla Köyü, Değirmenözü Mevkii	Değirmenözü Mahalle Yolu=
+17682	Çamyayla Köyü, Değirmenözü Yaylası Yayla Evleri	Değirmenözü Yayla Yolu=
+17679	Çamyayla Köyü, Merkez Mevkii	Demirciler Köy Yolu=|Değirmenözü Mahalle Yolu=|Mesciler Mevkii=|Çamyayla Köy Yolu=|Çamyayla=|Çamyayla Örencik Güzleme Yolu=
+140147	Çamyayla Köyü, Çamyayla Mücavir Mevkii	Çamyayla=
+17681	Çamyayla Köyü, Çamyayla Yaylası Yayla Evleri	Çamyayla Yayla Yolu=
+17683	Çanakçılar Köyü, Merkez Mevkii	Kütükçüler=|Kırha Köy Yolu=|Merkez Yuva Köy=|Çanakçılar Köy Yolu=|Çanakçılar Yayla Yolu=
+17684	Çatakören Köyü, Merkez Mevkii	Alıçören=|Aşağıçamlı Köy Yolu=|Ferdinler Mahalle Yolu=|Mengen Yolu@|Çatakören Köy Yolu=
+17685	Çatakören Köyü, Çatakören Yaylası Yayla Evleri	Çatakören Yayla Yolu=
+17687	Çaygökpınar Köyü, Düvenlik Mevkii	Düvenlik Mahalle Yolu=
+17690	Çaygökpınar Köyü, Karalar Mevkii	Karalar Mahalle Yolu=|Çaygökpınar Köy Yolu=
+17692	Çaygökpınar Köyü, Karalar Yaylası Yayla Evleri	Karalar Yayla Yolu=
+17686	Çaygökpınar Köyü, Merkez Mevkii	Rıfatlar Mahalle Yolu=|Susuzkınık Köy Sokağı=|Toyluk=|Çaygökpınar Köy Yolu=
+17689	Çaygökpınar Köyü, Rıfatlar Mevkii	Rıfatlar Mahalle Yolu=
+17688	Çaygökpınar Köyü, Tekneler Mevkii	Tekneler Mahalle Yolu=
+17691	Çaygökpınar Köyü, Çaygökpınar Yaylası Yayla Evleri	Kartalkaya Yolu2@|Çaygökpınar Düvenlik Yayla Yolu=|Çaygökpınar Yayla Yolu=
+17694	Çayırköy Köyü, Merkez Mevkii	1sk~|2 Sk~|Karakiraz~|Çayır-3.~
+17697	Çepni Köyü, Alagözler Mevkii	Alagözler Mahalle Yolu=
+17699	Çepni Köyü, Aşağı Mevkii	Bolu Bilecik Yolu@|Köseler Mahalle Yolu=|Çepni Aşağı Mahalle Yolu=
+17701	Çepni Köyü, Bayramlar Mevkii	Alagözler Mahalle Yolu=|Bayramlar Mahalle Yolu=
+17696	Çepni Köyü, Göl Mevkii	2~|Alagözler Mahalle Yolu=|Göl Mahalle Yolu=
+17698	Çepni Köyü, Hacılar Mevkii	Bolu Bilecik Yolu@|Hacılar Mahalle Yolu=
+17700	Çepni Köyü, Kendigelenler Mevkii	Kendigelenler Mahalle Yolu=
+17695	Çepni Köyü, Köseler Mevkii	Bolu Bilecik Yolu@|Hacılar Mahalle Yolu=|Köseler Mahalle Yolu=
+17702	Çepni Köyü, Çepni Yaylası Yayla Evleri	Çepni Yayla Yolu=
+99426	Çivril Mah.	1301~|1302~|1303~|1304~|1305~|1306~|1307~|1308~|1309~|1310~|1311~|1312~|1314~|2568~|D.100 Karayolu@
+17705	Çobankaya Köyü, Kayseller Mevkii	Kayseller Mahalle Yolu=|Çobankaya Göknarlı Yayla Yolu=|Çobankaya Pelitler Yayla Yolu=|Çobankaya Yeşilçele Yayla Yolu=
+17707	Çobankaya Köyü, Sarıahmetler Mevkii	Sarıahmetler Mahalle Yolu=
+17706	Çobankaya Köyü, Vayıslar Mevkii	Vayıslar Mahalle Yolu=
+17712	Çukurören Köyü, Merkez Mevkii	Çukurören Merkez Köy Yolu=
+17708	Çömlekçiler Köyü, Merkez Mevkii	Doğu Çömlekçiler=|Otoban@|Çömlekçiler 1.~|Çömlekçiler-2.=
+10882	Çıkınlar Mah.	20@|21@|308~|3600~|3604~|3605~|3609~|3610~|3613~|3617~|3618~|3619~|3621~|3622~|3627~|3628~|3629~|3630~|3631~|3632~|3634~|3635~|3636~|3639~|3640~|3641~|3643~|3645~|3648~|3652~|3653~|3654~|3657~|3658~|3659~|3660~|3664~|3679~|3681~|3682~|3685~|3686~|3691~|3693~|3694~|3695~|3696~|3697~|3698~|3699~|3700~|3701~|3702~|3703~|3704~|3705~|3706~|3707~|3708~|3709~|3710~|3711~|3712~|3713~|3714~|3715~|3716~|3717~|3719~|3720~|3722~|3723~|3725~|3726~|3727~|3731~|3732~|3734~|3735~|3736~|3737~|3738~|3739~|3740~|3741~|3744~|3745~|3746~|3748~|3749~|3753~|3755~|3756~|3757~|3759~|3760~|3762~|3763~|3764~|3765~|3767~|3768~|3770~|3772~|3773~|3775~|3776~|3777~|3779~|3780~|3781~|3782~|3783~|3784~|3785~|3787~|3788~|3790~|3791~|3792~|3793~|3794~|3795~|3796~|3797~|3800~|3801~|3802~|3803~|3804~|3805~|Ali Fuat Paşa~|Alim~|Arzu~|Aydınlar~|Azmi Bey~|Açelya~|Beyaz Gül~|Birgül~|Birlik~|Biçer~|Cenk~|Cesur~|Coşku~|D-100 Karayolu_4@|Dadıç Yolu~|Destan~|Devran~|Dirlik~|Dr.sadık Ahmet@|Duru~|Döngel~|Düzen~|Düzgün~|Elma~|Elvan~|Erol~|Gediz~|Gurbet~|Gökhan~|Gölcük%|Gülbahar~|Hüsmenler~|Kamelya~|Karagöz~|Karakaş~|Kasımpatı~|Kazım Karabekir Paşa~|Kocabekir~|Kumlu~|Köroğlu~|Kümbet~|Kırmızı Gül~|Kırçiçeği~|Levent~|Metin~|Mimar~|Müjde~|Namdar~|Nasip~|Nilüfer~|Okul~|Ovadüzü@|Pehlivan~|Reşat Nuri Güntekin~|Sakin~|Sancar~|Sapmaz~|Sardunya~|Sebat~|Sefa~|Serhan~|Servet Şamlıoğlu~|Sevim~|Sevinç~|Sıla~|Talih~|Temiz~|Turan~|Uyar~|Uzay~|Yadigar~|Yaldız~|Yamaklar~|Yücetürk~|Zafer~|Zengin~|Zinde~|Ziya Paşa~|Çavuş~|Çıkınlar@|Özgüven~|Üzüm~|İkmal~|İzzet Ağa~|İğnesil~|Şehit Muhtar@|Şehit Murat Demir~|Şehit İsmail Coşkun~|Şimşek~
+17866	Ömerler Köyü, Ömerler Merkez Mevkii	Petro Clup~|Ömerler=
+17867	Örencik Köyü, Merkez (mücavir) Mevkii	3 Sk~|4 Sk~|Ana 1~|Cami-3.~|Düğenciler~|Örencik-1.~|Örencik-2.~|Örencik-mutlu~
+139547	Örencik Köyü, Merkez Mevkii	3 Sk~|3 Sk/2~|316~|Örencik Kurtçular Yayla Yolu=|Örencik Tepe Yayla Yolu=|Örencik Yayla Yolu=
+10884	İhsaniye Mah.	19 Mayıs~|Ada~|Ahçıoğlu~|Akkanat~|Aralık~|Ağdacı~|D.100 Karayolu_3@|Dere~|Ertuğrul~|Gözen~|Hal Pazarı~|Hal~|Konuralp@|Koç~|Kuzey~|Kır~|Neyzen Teyfik~|Stadyum@|Tavil Mehmet Paşa@|Tekin~|Yunus Emre_2~|Çetek~|Çeşmeli~|Çukur Çeşme~|Özlem~|İsmet Paşa@|Şehit Kani@
+10885	İzzet Baysal Mah.	1700~|1701~|1702~|1703~|1704~|1705~|1706~|1707~|1708~|1709~|1711~|1714~|1715~|1716~|1717~|1718~|4170~|Alev~|Avunduk~|Behiye Baysal@|Bilge~|Cansu~|Cemal Türkan~|Defne~|Desen~|Dinç~|Dostlar~|Erguvani~|Ertürk~|Eser~|Esin~|Gazi Mustafa Kemal%|Gökkuşağı~|Gülhan~|Gülistan~|Güzel~|Kale~|Karsu~|Kural~|Mine~|Namık Kemal@|Nehir~|Oba~|Pınaraltı~|Pınarbaşı~|Sevgim~|Sevilen~|Soğuksu~|Subaşı~|Tezcan~|Varlık~|Yeniyurt~|Zarif~|Zerdali~|Çakmaklar@|Çağdaş~|Çağla~|Özayan~|Özcan~|Özlenir~|İpek~|İsmail Özer@|Şehit Saffet Güven~|Şelale~

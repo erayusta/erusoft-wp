@@ -524,12 +524,12 @@
     "name": "Order JSON Export for WooCommerce",
     "type": "plugin",
     "category": "Fatura & Muhasebe",
-    "tagline_tr": "Siparişleri KDV kırılımlı JSON dosyası olarak zamanlanmış dışa aktarır.",
-    "tagline_en": "Exports orders as JSON files with VAT breakdown on a schedule.",
+    "tagline_tr": "Siparişleri belgelenmiş şemayla JSON olarak dışa aktarır: toplu işlem, tarih aralığı ve yetkili REST uç noktası.",
+    "tagline_en": "Exports orders as JSON with a documented schema: bulk action, date range and an authenticated REST endpoint.",
     "features_tr": [
-      "5-30 dakikalık otomatik dışa aktarma",
+      "Toplu işlem ve tarih aralığıyla JSON dışa aktarma",
       "KDV kırılımlı sipariş satırları",
-      "Dosya yöneticisi ve otomatik temizlik"
+      "İzinli meta alanları ve yetkili REST uç noktası"
     ],
     "requires": {
       "wp": "6.5",
@@ -537,11 +537,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/order-json-export-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/order-json-export-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -604,9 +606,9 @@
     "tagline_tr": "Sipariş verenleri e-posta, telefon, IP veya adrese göre kara listeye alır.",
     "tagline_en": "Blocks orders by e-mail, phone, IP or address using blocklists.",
     "features_tr": [
-      "Dört tür kara liste",
-      "Eşleşmede IP'yi otomatik ekleme",
-      "Yönetim arayüzü"
+      "Dört tür kara liste (e-posta, telefon, IP, adres)",
+      "Engellenen denemelerin kısa günlüğü",
+      "Kişisel veri araçlarıyla uyumlu"
     ],
     "requires": {
       "wp": "6.5",
@@ -614,11 +616,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/order-blacklist-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/order-blacklist-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -639,11 +643,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/click-collect-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/click-collect-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -656,7 +662,8 @@
     "features_tr": [
       "Durum geçişine bağlı SMS kuralları",
       "Teslimat kodu üretme ve doğrulama",
-      "Sipariş ekranında SMS kutusu"
+      "Sipariş ekranında SMS kutusu ve gönderim kaydı",
+      "Test modu: göndermeden kaydet"
     ],
     "requires": {
       "wp": "6.5",
@@ -666,11 +673,16 @@
     "integrations": [
       "İleti Merkezi"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/order-sms-delivery-codes-for-ileti-merkezi",
+    "screenshots": [
+      "docs/screenshots/order-sms-delivery-codes-for-ileti-merkezi/1.png",
+      "docs/screenshots/order-sms-delivery-codes-for-ileti-merkezi/2.png",
+      "docs/screenshots/order-sms-delivery-codes-for-ileti-merkezi/3.png",
+      "docs/screenshots/order-sms-delivery-codes-for-ileti-merkezi/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -691,11 +703,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/same-day-delivery-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/same-day-delivery-for-woocommerce/1.png",
+      "docs/screenshots/same-day-delivery-for-woocommerce/2.png",
+      "docs/screenshots/same-day-delivery-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -743,11 +759,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/abandoned-checkout-call-list-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/abandoned-checkout-call-list-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -758,9 +776,9 @@
     "tagline_tr": "Kullanıcı rollerine özel ürün fiyatları tanımlayın.",
     "tagline_en": "Define product prices per user role.",
     "features_tr": [
-      "Birden çok özel rol",
-      "Rol başına ürün fiyatı",
-      "Fiyat gösterimini otomatik uyarlama"
+      "Ayarlardan seçilen roller için ürün/varyasyon fiyatı",
+      "Birden çok rolde en düşük fiyat",
+      "Role göre önbelleklenen varyasyon fiyat aralığı"
     ],
     "requires": {
       "wp": "6.5",
@@ -768,11 +786,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/role-based-prices-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/role-based-prices-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -780,12 +800,12 @@
     "name": "Wholesale Inquiry Box for WooCommerce",
     "type": "plugin",
     "category": "Müşteri & B2B",
-    "tagline_tr": "Ürün sayfasına WhatsApp veya e-posta ile toptan fiyat sorma kutusu ekler.",
-    "tagline_en": "Adds a wholesale inquiry box with WhatsApp or e-mail to product pages.",
+    "tagline_tr": "Ürün sayfasına toplu alım teklif formu ekler.",
+    "tagline_en": "Adds a bulk-quote request form to product pages.",
     "features_tr": [
-      "Ürün adı, SKU ve bağlantı şablonları",
-      "WhatsApp ve e-posta bağlantısı",
-      "Kategoriye göre gösterim"
+      "Ürün sayfasında katlanır teklif formu",
+      "E-postayla talep, nonce ve honeypot koruması",
+      "İsteğe bağlı WhatsApp düğmesi"
     ],
     "requires": {
       "wp": "6.5",
@@ -795,11 +815,15 @@
     "integrations": [
       "WhatsApp"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/wholesale-inquiry-box-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/wholesale-inquiry-box-for-woocommerce/1.png",
+      "docs/screenshots/wholesale-inquiry-box-for-woocommerce/2.png",
+      "docs/screenshots/wholesale-inquiry-box-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -810,9 +834,9 @@
     "tagline_tr": "Birlikte alınan ürünlere sepette otomatik indirim uygular.",
     "tagline_en": "Applies automatic discounts when products are bought together.",
     "features_tr": [
-      "Ürün ve kategori bazlı eşleşme",
-      "Ürün sayfasında teklif bloğu",
-      "Sepette otomatik indirim"
+      "Ürün ve varyasyon setleri",
+      "Ürün sayfasında \"Hepsini sepete ekle\" bloğu",
+      "Set tamamlanınca sepette otomatik indirim"
     ],
     "requires": {
       "wp": "6.5",
@@ -820,11 +844,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/bought-together-discounts-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/bought-together-discounts-for-woocommerce/1.png",
+      "docs/screenshots/bought-together-discounts-for-woocommerce/2.png",
+      "docs/screenshots/bought-together-discounts-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -835,22 +863,25 @@
     "tagline_tr": "Kampanyaları arşiv sayfası ve aktif/yaklaşan/bitmiş durumlarıyla yayınlar.",
     "tagline_en": "Publishes campaigns with an archive and active, upcoming and ended states.",
     "features_tr": [
-      "Kampanya içerik türü ve arşivi",
-      "Aktif, yaklaşan ve bitmiş durumları",
-      "Elementor dinamik etiketleri"
+      "Tarih aralıklı kampanya içerik türü ve arşivi",
+      "Biten kampanyalar kendiliğinden gizlenir",
+      "[eru_campaigns] kısa kodu ve ürün/kategori bağlantısı"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
-    "integrations": [
-      "Elementor"
-    ],
-    "status": "coming-soon",
+    "integrations": [],
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/campaign-pages-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/campaign-pages-for-wordpress/1.png",
+      "docs/screenshots/campaign-pages-for-wordpress/2.png",
+      "docs/screenshots/campaign-pages-for-wordpress/3.png",
+      "docs/screenshots/campaign-pages-for-wordpress/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -858,12 +889,12 @@
     "name": "Cart Campaigns for WooCommerce",
     "type": "plugin",
     "category": "Pazarlama & Kampanya",
-    "tagline_tr": "Sepet tutarı eşiklerine bağlı kampanyaları kural olarak tanımlayın.",
+    "tagline_tr": "Sepet tutarı kademelerine bağlı kampanyalar ve ilerleme mesajı.",
     "tagline_en": "Define campaigns triggered by cart total thresholds.",
     "features_tr": [
-      "Kural yönetimi",
-      "Sepet senkronu",
-      "Kupon etiket ve hata mesajı özelleştirme"
+      "Sepet tutarı kademeleri",
+      "Sepet ve mini sepette ilerleme mesajı",
+      "Düzenlenebilir mesaj metinleri"
     ],
     "requires": {
       "wp": "6.5",
@@ -871,11 +902,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/cart-campaigns-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/cart-campaigns-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -935,12 +968,13 @@
     "name": "Exit-Intent Coupons for WooCommerce",
     "type": "plugin",
     "category": "Pazarlama & Kampanya",
-    "tagline_tr": "Sayfadan ayrılmak üzere olan ziyaretçiye bütçe sınırlı kupon sunar.",
-    "tagline_en": "Offers a budget-capped coupon to visitors about to leave.",
+    "tagline_tr": "Sayfadan ayrılmak üzere olan ziyaretçiye sabit veya kişiye özel kupon sunar.",
+    "tagline_en": "Offers a fixed or per-visitor single-use coupon to visitors about to leave.",
     "features_tr": [
-      "Çıkış niyeti tetikleyicisi",
-      "Bütçe takibi",
-      "Hız sınırlama"
+      "Masaüstü ve mobil çıkış niyeti tetikleyicisi",
+      "Sabit kod veya kişiye özel tek kullanımlık kupon",
+      "Günlük bütçe ve IP başına hız sınırı",
+      "Ziyaretçi başına bir kez gösterim"
     ],
     "requires": {
       "wp": "6.5",
@@ -948,11 +982,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/exit-intent-coupons-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/exit-intent-coupons-for-woocommerce/1.png",
+      "docs/screenshots/exit-intent-coupons-for-woocommerce/2.png",
+      "docs/screenshots/exit-intent-coupons-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -963,9 +1001,9 @@
     "tagline_tr": "Koşula bağlı hediye ürünü sepete otomatik ekler.",
     "tagline_en": "Automatically adds a gift product to the cart when conditions are met.",
     "features_tr": [
-      "Toplu kural ekleme ve kaldırma",
-      "Hediye için yüzde yüz indirim",
-      "Bire bir sepet koruması"
+      "Sepet tutarı, ürün veya kategori koşulu",
+      "Hediye ürün 0 TL ile otomatik eklenir",
+      "Koşul bozulunca hediye çıkar, adet kilitli"
     ],
     "requires": {
       "wp": "6.5",
@@ -973,11 +1011,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/gift-product-rules-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/gift-product-rules-for-woocommerce/1.png",
+      "docs/screenshots/gift-product-rules-for-woocommerce/2.png",
+      "docs/screenshots/gift-product-rules-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1015,20 +1057,22 @@
     "tagline_tr": "Yüklenen görselleri sunucuda WebP'ye çevirir; orijinallere dokunmaz.",
     "tagline_en": "Converts uploaded images to WebP on your own server, keeping originals.",
     "features_tr": [
-      "Yüklemede WebP üretimi",
-      "Tüm görsel boyutları",
-      "Orijinal dosyalar korunur"
+      "Yüklemede ve toplu olarak yerel WebP üretimi",
+      "<picture> ile sunum; orijinallere dokunmaz",
+      "GD veya Imagick, harici servis yok"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/local-webp-generator-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/local-webp-generator-for-wordpress/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1088,12 +1132,12 @@
     "name": "Shipping Method Report for WooCommerce",
     "type": "plugin",
     "category": "Raporlama & Analitik",
-    "tagline_tr": "Kargo yöntemine göre siparişleri haftalık e-posta raporu olarak gönderir.",
-    "tagline_en": "E-mails a weekly order report grouped by shipping method.",
+    "tagline_tr": "Tarih aralığında kargo yöntemi ve teslim noktası başına sipariş raporu; CSV dışa aktarma.",
+    "tagline_en": "Per-shipping-method (and pickup location) order report for a date range, with CSV export.",
     "features_tr": [
-      "Haftalık otomatik rapor",
-      "Tarih aralığıyla elle rapor",
-      "Alıcı listesi ayarı"
+      "Kargo yöntemi başına sipariş, adet ve kargo tutarı",
+      "Teslim noktası kırılımı",
+      "CSV dışa aktarma"
     ],
     "requires": {
       "wp": "6.5",
@@ -1101,11 +1145,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/shipping-method-report-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/shipping-method-report-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1138,12 +1184,12 @@
     "name": "Primary Category for WooCommerce",
     "type": "plugin",
     "category": "SEO",
-    "tagline_tr": "Ürüne birincil kategori seçtirir; kırıntı ve şemada kullanılır.",
-    "tagline_en": "Lets you choose a primary category per product for breadcrumbs and schema.",
+    "tagline_tr": "Ürüne birincil kategori seçtirir; adres ve kırıntıda kullanılır.",
+    "tagline_en": "Lets you choose a primary category per product for permalinks and breadcrumbs.",
     "features_tr": [
       "Birincil kategori seçici",
-      "SEO eklentisi kırıntı ve şema uyumu",
-      "CSV dışa aktarım"
+      "Adres (%product_cat%) ve kırıntıda kullanım",
+      "Yoast SEO / Rank Math birincil kategorisini yalnızca okur"
     ],
     "requires": {
       "wp": "6.5",
@@ -1151,13 +1197,16 @@
       "php": "8.0"
     },
     "integrations": [
+      "Yoast SEO",
       "Rank Math"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/primary-category-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/primary-category-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1165,12 +1214,13 @@
     "name": "Catalog Mode & WhatsApp Orders for WooCommerce",
     "type": "plugin",
     "category": "Sepet & Ödeme Akışı",
-    "tagline_tr": "Fiyat ve satın almayı gizleyip talepleri WhatsApp veya e-posta ile toplar.",
-    "tagline_en": "Hides prices and buying, collecting requests via WhatsApp or e-mail.",
+    "tagline_tr": "Katalog modu ve ürün bilgisiyle dolu WhatsApp sipariş düğmesi.",
+    "tagline_en": "Catalog mode and a prefilled WhatsApp order button.",
     "features_tr": [
-      "Fiyat ve satın al gizleme",
-      "Hafif talep listesi",
-      "WhatsApp veya e-posta ile gönderim"
+      "Fiyatları ve/veya sepeti gizleme",
+      "Ürün adı ve bağlantısıyla hazır WhatsApp mesajı",
+      "Numara normalleştirme (0555… → 90555…)",
+      "Varyasyon seçimi mesaja eklenir"
     ],
     "requires": {
       "wp": "6.5",
@@ -1180,11 +1230,15 @@
     "integrations": [
       "WhatsApp"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/catalog-mode-whatsapp-orders-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/catalog-mode-whatsapp-orders-for-woocommerce/1.png",
+      "docs/screenshots/catalog-mode-whatsapp-orders-for-woocommerce/2.png",
+      "docs/screenshots/catalog-mode-whatsapp-orders-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1192,11 +1246,12 @@
     "name": "High-Value Cart Offer for WooCommerce",
     "type": "plugin",
     "category": "Sepet & Ödeme Akışı",
-    "tagline_tr": "Yüksek tutarlı sepetlere özel teklif bandı ve WhatsApp butonu gösterir.",
-    "tagline_en": "Shows an offer banner and a WhatsApp button for high-value carts.",
+    "tagline_tr": "Yüksek tutarlı sepetlerde sepet özetiyle WhatsApp sohbeti açan teklif kutusu.",
+    "tagline_en": "Offer box that opens WhatsApp with the cart summary for high-value carts.",
     "features_tr": [
-      "Yüzen WhatsApp butonu",
-      "Tutar eşikli teklif bandı"
+      "Tutar eşikli teklif kutusu",
+      "Sepet özetiyle açılan WhatsApp bağlantısı",
+      "Numara ve metinler ayarlardan"
     ],
     "requires": {
       "wp": "6.5",
@@ -1206,11 +1261,13 @@
     "integrations": [
       "WhatsApp"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/high-value-cart-offer-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/high-value-cart-offer-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1221,9 +1278,9 @@
     "tagline_tr": "Ödeme yöntemine göre indirim veya ek ücret uygular.",
     "tagline_en": "Applies discounts or fees depending on the payment method.",
     "features_tr": [
-      "Yöntem bazlı kural arayüzü",
-      "İndirim veya ek ücret",
-      "Alt kategorileri hariç tutma"
+      "Ödeme yöntemi başına yüzde/sabit indirim veya ek ücret",
+      "Asgari sepet tutarı ve kategori hariç tutma",
+      "Ödeme yöntemi değişince anında yeniden hesaplama"
     ],
     "requires": {
       "wp": "6.5",
@@ -1231,11 +1288,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/payment-method-discounts-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/payment-method-discounts-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1246,9 +1305,9 @@
     "tagline_tr": "Seçili kategorilerdeki ürünlerde belirli ödeme yöntemlerini kapatır.",
     "tagline_en": "Disables chosen payment methods for products in selected categories.",
     "features_tr": [
-      "Kategori ve ödeme yöntemi seçici",
+      "Kategori/etiket seçici ve gizlenecek ödeme yöntemleri",
       "Ödeme yöntemi filtreleme",
-      "Sepet ve ödeme sayfasında uyarı"
+      "Sepet, ödeme ve ürün sayfasında bilgi notu"
     ],
     "requires": {
       "wp": "6.5",
@@ -1256,11 +1315,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/payment-restrictions-by-category-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/payment-restrictions-by-category-for-woocommerce/1.png",
+      "docs/screenshots/payment-restrictions-by-category-for-woocommerce/2.png",
+      "docs/screenshots/payment-restrictions-by-category-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1268,12 +1331,12 @@
     "name": "Purchase Limits for WooCommerce",
     "type": "plugin",
     "category": "Sepet & Ödeme Akışı",
-    "tagline_tr": "Kategori gruplarına ve müşteri türüne göre satın alma limitleri koyar.",
-    "tagline_en": "Sets purchase limits by category group and customer type.",
+    "tagline_tr": "Ürün, kategori ve sipariş bazında adet limiti ile müşteri başına dönemlik limit koyar.",
+    "tagline_en": "Sets min/max quantities per product, category and order, plus per-customer limits over a period.",
     "features_tr": [
-      "Kategori grubu limitleri",
-      "Misafir ve rol bazlı kitle kuralları",
-      "Kullanıcı, e-posta ve telefon eşleştirme"
+      "Ürün, kategori ve sipariş bazlı asgari/azami adet",
+      "Müşteri başına dönemlik limit (hesap veya e-posta)",
+      "Ayarlanabilir mesajlar"
     ],
     "requires": {
       "wp": "6.5",
@@ -1281,11 +1344,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/purchase-limits-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/purchase-limits-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1293,13 +1358,14 @@
     "name": "Turkish Address Fields for WooCommerce",
     "type": "plugin",
     "category": "Sepet & Ödeme Akışı",
-    "tagline_tr": "İl, ilçe, mahalle ve sokak seçimli Türkiye adres alanları ve adres doğrulaması.",
-    "tagline_en": "Turkish address fields with province, district, neighbourhood and street pickers plus validation.",
+    "tagline_tr": "Klasik ödeme sayfasında il, ilçe, mahalle ve sokak seçimi; paketli adres verisi ve kapı numarası kontrolü.",
+    "tagline_en": "Province, district, neighbourhood and street pickers for the classic checkout with bundled data and door-number checks.",
     "features_tr": [
       "İl, ilçe, mahalle, sokak seçimi",
       "Paketli adres verisi, harici API gerekmez",
-      "Adres normalizasyonu ve kapı numarası kontrolü",
-      "Telefon normalizasyonu"
+      "Adres düzenleme ve kapı numarası kontrolü",
+      "Seçimlerden oluşan sipariş adresi",
+      "Telefon doğrulama (isteğe bağlı)"
     ],
     "requires": {
       "wp": "6.5",
@@ -1307,11 +1373,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/turkish-address-fields-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/turkish-address-fields-for-woocommerce/1.png",
+      "docs/screenshots/turkish-address-fields-for-woocommerce/2.png",
+      "docs/screenshots/turkish-address-fields-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1322,9 +1392,9 @@
     "tagline_tr": "Marka arşivindeki ürünleri sürükle-bırak ile sıralayın.",
     "tagline_en": "Reorder products in brand archives by drag and drop.",
     "features_tr": [
-      "Marka seçip ürünleri sürükleme",
-      "Ayrı tabloda sıralama",
-      "Marka arşivinde uygulama"
+      "Marka veya kategori seçip ürünleri sürükleme",
+      "Terim başına saklanan sıra",
+      "Arşivin ana sorgusunda uygulama"
     ],
     "requires": {
       "wp": "6.5",
@@ -1332,11 +1402,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/brand-product-sorting-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/brand-product-sorting-for-woocommerce/1.png",
+      "docs/screenshots/brand-product-sorting-for-woocommerce/2.png",
+      "docs/screenshots/brand-product-sorting-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1347,9 +1421,9 @@
     "tagline_tr": "Ürünlerin görünürlüğünü kategoriye göre toplu veya tek tek yönetin.",
     "tagline_en": "Manage product visibility in bulk or individually by category.",
     "features_tr": [
-      "Kategoriye göre ürün yükleme",
-      "Tekil ve toplu görünürlük",
-      "Ajax ile hızlı işlem"
+      "Kategori, stok ve fiyata göre filtre",
+      "Uygulamadan önce önizleme sayısı",
+      "Gruplar halinde AJAX ile uygulama"
     ],
     "requires": {
       "wp": "6.5",
@@ -1357,11 +1431,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/bulk-product-visibility-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/bulk-product-visibility-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1372,9 +1448,10 @@
     "tagline_tr": "Kategori sayfalarına cihaza göre ayrı görselli slider ekler.",
     "tagline_en": "Adds per-category sliders with separate images for each device.",
     "features_tr": [
-      "Kategori başına slaytlar",
-      "Cihaza göre ayrı görsel",
-      "Slayt yoksa banner'a dönüş"
+      "Kategori başına sıralı slaytlar",
+      "Masaüstü / tablet / mobil için ayrı görsel",
+      "Konum ayarı ve [eru_category_slider] kısa kodu",
+      "Bağımlılıksız hafif JS"
     ],
     "requires": {
       "wp": "6.5",
@@ -1382,11 +1459,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/category-banner-slider-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/category-banner-slider-for-woocommerce/1.png",
+      "docs/screenshots/category-banner-slider-for-woocommerce/2.png",
+      "docs/screenshots/category-banner-slider-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1397,8 +1478,8 @@
     "tagline_tr": "Ürünü 'yakında' olarak işaretler; fiyat yerine mesaj gösterir ve satışı kapatır.",
     "tagline_en": "Marks products as coming soon, showing a message instead of price and blocking purchase.",
     "features_tr": [
-      "Ürün başına onay kutusu",
-      "Fiyat yerine özel mesaj",
+      "Ürün başına onay kutusu, mesaj ve çıkış tarihi",
+      "Fiyat yerine rozet ve mesaj",
       "Satın alma engeli"
     ],
     "requires": {
@@ -1407,11 +1488,16 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/coming-soon-products-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/coming-soon-products-for-woocommerce/1.png",
+      "docs/screenshots/coming-soon-products-for-woocommerce/2.png",
+      "docs/screenshots/coming-soon-products-for-woocommerce/3.png",
+      "docs/screenshots/coming-soon-products-for-woocommerce/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1419,11 +1505,12 @@
     "name": "Hide Categories for WooCommerce",
     "type": "plugin",
     "category": "Ürün & Katalog",
-    "tagline_tr": "Seçili kategorileri bileşenlerde ve listelerde gizler.",
+    "tagline_tr": "Seçili kategorileri listelerden, bileşenlerden ve aramadan gizler.",
     "tagline_en": "Hides selected categories from widgets and lists.",
     "features_tr": [
-      "Kategori seçimi",
-      "Bileşen ve listelerde gizleme"
+      "Kategori ve alt kategorileri gizleme",
+      "Mağaza, bileşen, liste ve aramada gizleme",
+      "İsteğe bağlı doğrudan erişimde 404"
     ],
     "requires": {
       "wp": "6.5",
@@ -1431,11 +1518,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/hide-categories-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/hide-categories-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1446,9 +1535,9 @@
     "tagline_tr": "Stokta olmayan ürünleri arşivlerde listenin sonuna taşır.",
     "tagline_en": "Moves out-of-stock products to the end of archives.",
     "features_tr": [
-      "Kategori, marka ve mağaza arşivleri",
-      "Mevcut sıralamayı korur",
-      "Sonsuz kaydırma desteği"
+      "Mağaza, kategori, marka ve arama sayfaları",
+      "Seçilen sıralamayı korur",
+      "Ayarlardan açılıp kapatılır"
     ],
     "requires": {
       "wp": "6.5",
@@ -1456,11 +1545,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/out-of-stock-last-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/out-of-stock-last-for-woocommerce/1.png",
+      "docs/screenshots/out-of-stock-last-for-woocommerce/2.png",
+      "docs/screenshots/out-of-stock-last-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1468,12 +1561,14 @@
     "name": "PDF Product Catalog for WooCommerce",
     "type": "plugin",
     "category": "Ürün & Katalog",
-    "tagline_tr": "Ürün kataloğunuzu kategori gruplu, şablonlu PDF olarak üretir.",
-    "tagline_en": "Generates your product catalogue as a templated PDF grouped by category.",
+    "tagline_tr": "Kategorilerden kapaklı, yazdırmaya hazır ürün kataloğu üretir; PDF olarak kaydedilir.",
+    "tagline_en": "Generates a print-ready product catalogue; save it as PDF from the browser.",
     "features_tr": [
-      "Kategori gruplu katalog",
-      "Kapak, başlık ve altlık şablonları",
-      "Yönetim ve ön yüzden tetikleme"
+      "Kategori gruplu katalog ve kapak sayfası",
+      "Logo (site simgesi), başlık, not, altlık",
+      "Görsel / stok kodu / fiyat seçenekleri",
+      "Yazdırmaya hazır A4 çıktı; tarayıcıdan PDF olarak kaydet",
+      "İsteğe bağlı ön yüz kısa kodu"
     ],
     "requires": {
       "wp": "6.5",
@@ -1481,11 +1576,15 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/pdf-product-catalog-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/pdf-product-catalog-for-woocommerce/1.png",
+      "docs/screenshots/pdf-product-catalog-for-woocommerce/2.png",
+      "docs/screenshots/pdf-product-catalog-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1493,12 +1592,13 @@
     "name": "Product Status Notifications for WooCommerce",
     "type": "plugin",
     "category": "Ürün & Katalog",
-    "tagline_tr": "Ürün durumu değişince belirlenen alıcılara e-posta gönderir.",
-    "tagline_en": "E-mails chosen recipients when a product's status changes.",
+    "tagline_tr": "Ürün durumu, stok veya fiyat değişince e-posta bildirimi gönderir.",
+    "tagline_en": "E-mail alerts when products change status, stock or price.",
     "features_tr": [
-      "Durum geçişi kuralları",
-      "SKU ve marka bilgili e-posta",
-      "Alıcı listesi ayarı"
+      "Durum geçişi, stok bitti, fiyat değişti olayları",
+      "Alıcı listesi ve kategori/marka kuralları",
+      "Hariç tutulan kategoriler",
+      "Varsayılanda hiçbir olay açık değildir"
     ],
     "requires": {
       "wp": "6.5",
@@ -1506,11 +1606,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/product-status-notifications-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/product-status-notifications-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1518,12 +1620,13 @@
     "name": "Smart Product Search for WooCommerce",
     "type": "plugin",
     "category": "Ürün & Katalog",
-    "tagline_tr": "Puanlamalı sıralama ve marka-kategori önerileriyle akıllı ürün araması.",
-    "tagline_en": "Smart product search with scored ranking and brand and category suggestions.",
+    "tagline_tr": "Türkçe karakterden bağımsız ürün arama ve canlı öneri listesi.",
+    "tagline_en": "Turkish-aware product search with live suggestions.",
     "features_tr": [
-      "Puanlamalı sonuç sıralaması",
-      "Marka ve kategori önerileri",
-      "Anlık arama"
+      "ı/i, ş/s, ğ/g, ç/c, ö/o, ü/u eşleştirmesi (SQL tarafında)",
+      "Stok koduna göre arama ve alaka sıralaması",
+      "Canlı öneri listesi (REST, IP başına sınır)",
+      "Eş anlamlılar kutusu"
     ],
     "requires": {
       "wp": "6.5",
@@ -1531,11 +1634,16 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/smart-product-search-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/smart-product-search-for-woocommerce/1.png",
+      "docs/screenshots/smart-product-search-for-woocommerce/2.png",
+      "docs/screenshots/smart-product-search-for-woocommerce/3.png",
+      "docs/screenshots/smart-product-search-for-woocommerce/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1546,9 +1654,9 @@
     "tagline_tr": "Ürünleri USD fiyatlandırıp TL fiyatı güncel kurla otomatik hesaplar.",
     "tagline_en": "Prices products in USD and converts to TRY at the current exchange rate.",
     "features_tr": [
-      "Ürün bazlı USD fiyat",
-      "TCMB kuruyla otomatik güncelleme",
-      "Kargo atlama seçeneği"
+      "Ürün ve varyasyon bazlı USD fiyat",
+      "Elle kur veya TCMB günlük kuru (isteğe bağlı)",
+      "Kur payı ve dolar karşılığını gösterme"
     ],
     "requires": {
       "wp": "6.5",
@@ -1558,11 +1666,15 @@
     "integrations": [
       "TCMB"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/usd-pricing-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/usd-pricing-for-woocommerce/1.png",
+      "docs/screenshots/usd-pricing-for-woocommerce/2.png",
+      "docs/screenshots/usd-pricing-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1570,26 +1682,28 @@
     "name": "AI Post Generator for WordPress",
     "type": "plugin",
     "category": "İçerik & AI",
-    "tagline_tr": "Yapay zekâyla taslak yazı üretir ve kapak görseli ekler.",
-    "tagline_en": "Generates draft posts with AI and adds a featured image.",
+    "tagline_tr": "OpenAI, Anthropic veya Perplexity ile kendi anahtarınızla yazı taslağı üretir.",
+    "tagline_en": "Generate post drafts with OpenAI, Anthropic or Perplexity using your own key.",
     "features_tr": [
-      "Perplexity ile yazı üretimi",
-      "İsteğe bağlı insanlaştırma adımı",
-      "Unsplash görseli"
+      "Üç sağlayıcı, düzenlenebilir model",
+      "Yalnızca taslak; anahtar yoksa istek yok",
+      "Token ve günlük istek sınırı"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [
-      "Perplexity",
-      "Unsplash"
+      "Perplexity"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/ai-post-generator-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/ai-post-generator-for-wordpress/1.png",
+      "docs/screenshots/ai-post-generator-for-wordpress/2.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1600,20 +1714,25 @@
     "tagline_tr": "Sürüklenebilir sıkça sorulan sorular ve erişilebilir akordeon kısa kodu.",
     "tagline_en": "Sortable FAQs with an accessible accordion shortcode.",
     "features_tr": [
-      "Sürükle-bırak SSS yönetimi",
-      "Erişilebilir akordeon",
-      "Kısa kod"
+      "Gruplu, sürükle-bırak SSS yönetimi",
+      "Erişilebilir <details> akordeon ve [eru_faq] kısa kodu",
+      "İsteğe bağlı FAQPage şeması"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/faq-accordion-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/faq-accordion-for-wordpress/1.png",
+      "docs/screenshots/faq-accordion-for-wordpress/2.png",
+      "docs/screenshots/faq-accordion-for-wordpress/3.png",
+      "docs/screenshots/faq-accordion-for-wordpress/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1624,20 +1743,24 @@
     "tagline_tr": "Uzun yazıları H2 başlıklarına göre sayfalara böler.",
     "tagline_en": "Splits long posts into pages at H2 headings.",
     "features_tr": [
-      "H2 bazlı bölme",
-      "Ajax ile sayfa yükleme",
-      "İlgili içerik kutusu"
+      "Başlık düzeyinde sayfalara bölme",
+      "İçindekiler ve önceki/sonraki",
+      "Yetersiz içeriğe dokunmaz"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/heading-pagination-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/heading-pagination-for-wordpress/1.png",
+      "docs/screenshots/heading-pagination-for-wordpress/2.png",
+      "docs/screenshots/heading-pagination-for-wordpress/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1672,24 +1795,38 @@
     "name": "Turkish Shipping Carriers for WooCommerce",
     "type": "plugin",
     "category": "Kargo & Teslimat",
-    "tagline_tr": "Birden çok kargo firması için etiket, takip ve kural motoru sunar.",
-    "tagline_en": "Labels, tracking and a rule engine for multiple Turkish carriers.",
+    "tagline_tr": "Türkiye kargo firmaları için firma bazlı kargo ücretleri ve siparişte takip bağlantısı.",
+    "tagline_en": "Per-carrier shipping rates for Turkish cargo carriers and a tracking link on the order.",
     "features_tr": [
-      "Yedi kargo adaptörü",
-      "Etiket basımı ve takip",
-      "Kural motoru ve iadeler"
+      "Yurtiçi, Aras, MNG, PTT, Sürat, HepsiJET, Trendyol Express, Sendeo",
+      "Sabit, desi başına veya eşik üstü ücretsiz",
+      "Takip numarası ve e-postada takip bağlantısı"
     ],
     "requires": {
       "wp": "6.5",
       "wc": "9.0",
       "php": "8.0"
     },
-    "integrations": [],
-    "status": "coming-soon",
+    "integrations": [
+      "Yurtiçi Kargo",
+      "Aras Kargo",
+      "MNG Kargo",
+      "PTT Kargo",
+      "Sürat Kargo",
+      "HepsiJET",
+      "Trendyol Express",
+      "Sendeo"
+    ],
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/turkish-shipping-carriers-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/turkish-shipping-carriers-for-woocommerce/1.png",
+      "docs/screenshots/turkish-shipping-carriers-for-woocommerce/2.png",
+      "docs/screenshots/turkish-shipping-carriers-for-woocommerce/3.png",
+      "docs/screenshots/turkish-shipping-carriers-for-woocommerce/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1697,12 +1834,12 @@
     "name": "B2B Customer Pricing for WooCommerce",
     "type": "plugin",
     "category": "Müşteri & B2B",
-    "tagline_tr": "Müşteri segmentlerine göre B2B fiyat grupları ve otomatik üyelik.",
-    "tagline_en": "B2B price groups by customer segment with automatic membership.",
+    "tagline_tr": "Müşteriye ve müşteri grubuna özel fiyat ve iskonto kuralları.",
+    "tagline_en": "Customer-specific and customer-group prices and discount rules.",
     "features_tr": [
-      "Segment ve fiyat grupları",
-      "Alan adıyla otomatik üyelik",
-      "Kurumsal müşteri yönetimi"
+      "Müşteriye ve müşteri grubuna özel sabit fiyat veya yüzde iskonto",
+      "Ürün, kategori veya tüm katalog kuralları",
+      "Özel fiyat etiketi"
     ],
     "requires": {
       "wp": "6.5",
@@ -1710,11 +1847,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/b2b-customer-pricing-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/b2b-customer-pricing-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2036,22 +2175,28 @@
     "name": "Welcome Note for WordPress",
     "type": "plugin",
     "category": "Geliştirici Araçları",
-    "tagline_tr": "Panoya kullanıcıyı ve site adını anan kısa bir karşılama notu ekler.",
-    "tagline_en": "Adds a short welcome note to the dashboard with the user and site name.",
+    "tagline_tr": "Rollere yönetim panelinde, isterseniz ziyaretçilere sitede kapatılabilir not gösterir.",
+    "tagline_en": "A dismissible note for chosen roles in admin, optionally a front-end bar.",
     "features_tr": [
-      "Pano bileşeni",
-      "Kullanıcı ve site adıyla selamlama"
+      "Rol bazlı yönetim paneli notu",
+      "İsteğe bağlı duyuru çubuğu",
+      "Kullanıcı bazlı kapatma"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/welcome-note-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/welcome-note-for-wordpress/1.png",
+      "docs/screenshots/welcome-note-for-wordpress/2.png",
+      "docs/screenshots/welcome-note-for-wordpress/3.png",
+      "docs/screenshots/welcome-note-for-wordpress/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2059,12 +2204,12 @@
     "name": "Price Lists for WooCommerce",
     "type": "plugin",
     "category": "Müşteri & B2B",
-    "tagline_tr": "Kullanıcı rollerine göre fiyat listeleri tanımlayın.",
-    "tagline_en": "Define price lists per user role.",
+    "tagline_tr": "Fiyat listeleri tanımlayıp role veya kişiye atayın.",
+    "tagline_en": "Define price lists and assign them to roles or users.",
     "features_tr": [
-      "Rol başına fiyat listesi",
-      "Ürün ve sepet fiyatlarına uygulama",
-      "Yönetim arayüzü"
+      "Adlandırılmış fiyat listeleri",
+      "Yüzde, kategori yüzdesi ve sabit fiyat kuralları",
+      "Role veya kişiye atama"
     ],
     "requires": {
       "wp": "6.5",
@@ -2072,11 +2217,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/price-lists-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/price-lists-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2087,9 +2234,9 @@
     "tagline_tr": "Kupon gerektirmeyen ürün, kategori ve sepet bazlı otomatik indirimler.",
     "tagline_en": "Coupon-free automatic discounts by product, category or cart.",
     "features_tr": [
-      "Ürün, kategori ve sepet bazlı indirim",
-      "Minimum tutar ve adet koşulu",
-      "Tarih aralığı"
+      "Sepet tutarı veya kategoriden alınan adede göre kuponsuz indirim",
+      "Tarih aralığı, öncelik ve \"dur\" seçeneği",
+      "Yüzde veya sabit tutar"
     ],
     "requires": {
       "wp": "6.5",
@@ -2097,11 +2244,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/automatic-discounts-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/automatic-discounts-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2109,12 +2258,12 @@
     "name": "Gift Line Guard for WooCommerce",
     "type": "mu-plugin",
     "category": "Pazarlama & Kampanya",
-    "tagline_tr": "Hediye satırlarının adedini ve silinmesini otomatik denetler.",
-    "tagline_en": "Keeps gift lines in sync with their parent item and locks quantity.",
+    "tagline_tr": "Hediye satırlarının adedini kilitler ve fiyatını sıfırda tutar.",
+    "tagline_en": "Locks the quantity of gift lines and keeps them at zero price.",
     "features_tr": [
-      "Bire bir koruma",
-      "Adet kilidi",
-      "Hediyeyi otomatik kaldırma"
+      "Hediye satırında adet kilidi",
+      "Fiyatı 0 tutar, siparişte de ücretsiz",
+      "Gift Product Rules ve filtreyle diğer eklentiler"
     ],
     "requires": {
       "wp": "6.5",
@@ -2122,10 +2271,10 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
+    "path": "mu-plugins/gift-line-guard-for-woocommerce",
     "screenshots": [],
     "version": "1.0.0"
   },
@@ -2236,11 +2385,14 @@
     "name": "Bundle Stock Sync for WooCommerce",
     "type": "plugin",
     "category": "Ürün & Katalog",
-    "tagline_tr": "Paket ürünlerin stok durumunu bileşen değişimlerinde tutarlı tutar.",
-    "tagline_en": "Keeps bundle stock consistent when component stock changes.",
+    "tagline_tr": "Paket ürünlerin stoğunu bileşen SKU ve adetlerinden hesaplar, satış ve iadelerle senkron tutar.",
+    "tagline_en": "Calculates bundle stock from component SKUs and quantities and keeps it in sync with sales and refunds.",
     "features_tr": [
-      "Bileşen değişiminde paket kontrolü",
-      "Yönetici bildirimi"
+      "Bileşen SKU + adet ile paket tanımı",
+      "Paket stoğu = en küçük (stok ÷ adet)",
+      "Paket satışında bileşenleri düşürme",
+      "İptal/iadede geri yükleme",
+      "Özyineleme ve iç içe paket koruması"
     ],
     "requires": {
       "wp": "6.5",
@@ -2248,11 +2400,14 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/bundle-stock-sync-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/bundle-stock-sync-for-woocommerce/1.png",
+      "docs/screenshots/bundle-stock-sync-for-woocommerce/2.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2286,12 +2441,14 @@
     "name": "Supplier XML Importer for WooCommerce",
     "type": "plugin",
     "category": "Ürün & Katalog",
-    "tagline_tr": "Tedarikçi XML'lerinden ürün ve stok içe aktarır; fiyat kuralları uygular.",
-    "tagline_en": "Imports products and stock from supplier XML feeds with pricing rules.",
+    "tagline_tr": "Tedarikçi XML beslemelerinden ürün ve stok içe aktarır; eşleme, fiyat kuralları ve kuru çalıştırma.",
+    "tagline_en": "Imports products and stock from supplier XML feeds with field mapping, price rules and a dry run.",
     "features_tr": [
-      "Tedarikçi XML ayrıştırıcıları",
-      "Fiyat kuralları ve döviz kuru",
-      "Zamanlanmış stok güncelleme"
+      "Alan eşleme ve eşleme yardımcısı",
+      "Fiyat kuralları (kur, marj, ,90 yuvarlama)",
+      "Kuru çalıştırma önizlemesi",
+      "Action Scheduler ile zamanlanmış, gruplu çalıştırma",
+      "Güvenli akış tabanlı XML ayrıştırma"
     ],
     "requires": {
       "wp": "6.5",
@@ -2299,11 +2456,13 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/supplier-xml-importer-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/supplier-xml-importer-for-woocommerce/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2338,26 +2497,27 @@
     "name": "Content Automation for WordPress",
     "type": "plugin",
     "category": "İçerik & AI",
-    "tagline_tr": "Kategori ve anahtar kelimelerden bölümlü yapay zekâ içeriği üretir.",
-    "tagline_en": "Generates sectioned AI content from categories and keywords.",
+    "tagline_tr": "Konu kuyruğunu zamanlanmış olarak yapay zekâ taslaklarına dönüştürür.",
+    "tagline_en": "Turns a topic queue into AI drafts on a WP-Cron schedule.",
     "features_tr": [
-      "Kategori ve anahtar kelime tabloları",
-      "Perplexity ile bölüm üretimi",
-      "Unsplash görselleri"
+      "Konu kuyruğu ve WP-Cron hattı",
+      "Taslak, zamanlı veya yayın kuralı",
+      "Çakışma kilidi ve günlük sınır"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [
-      "Perplexity",
-      "Unsplash"
+      "Perplexity"
     ],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/content-automation-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/content-automation-for-wordpress/1.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2365,23 +2525,27 @@
     "name": "Notice Boxes for WordPress",
     "type": "plugin",
     "category": "İçerik & AI",
-    "tagline_tr": "Bilgi, uyarı, başarı ve hata kutuları için kısa kod ve blok.",
-    "tagline_en": "Info, warning, success and error boxes via shortcode and block.",
+    "tagline_tr": "Bilgi, uyarı, başarı ve hata kutuları; kısa kod ve blok olarak.",
+    "tagline_en": "Info, warning, success and error boxes as a shortcode and a block.",
     "features_tr": [
-      "Kısa kod ve Gutenberg bloğu",
-      "Varsayılan stil seçenekleri",
-      "Varsayılan mesaj ayarı"
+      "4 tür × 3 görünüm",
+      "Kısa kod ve Gutenberg bloğu (derleme gerektirmez)",
+      "Koyu mod uyumlu"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 2,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/notice-boxes-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/notice-boxes-for-wordpress/1.png",
+      "docs/screenshots/notice-boxes-for-wordpress/2.png",
+      "docs/screenshots/notice-boxes-for-wordpress/3.png"
+    ],
     "version": "1.0.0"
   },
   {

@@ -1,0 +1,184 @@
+93675	Acar Köyü	Acar=
+93677	Acar Köyü, Güneşli Mezra Mezrası	Güneşli Mezra=
+93678	Acar Köyü, Hasanlar Mezra Mezrası	Hasanlar Mezra=
+93676	Acar Köyü, Çadırkent Mezrası	Çadırkent=
+93679	Altındere Köyü	Altındere=
+90538	Aykut Ozan Mah.	301~|302~|303~|304~|305~|306~|308~|309~|310~|312~|Cumhuriyet@|Lise@
+90537	Aşağı Mah.	2 Nolu=|201~|202~|203~|204~|205~|206~|207~|208~|209~|209-~|210~|418~|Batman%|Cumhuriyet@|Emniyet~|Hastane Cad.-@|Hastane~|Köy Yolu@|Tekel@|Yücebağ@|Üniversite~
+93807	Balbaşı Köyü	Balbaşı=
+93808	Balbaşı Köyü, Pazarcık Mezra Mezrası	Pazarcık=
+93809	Balbaşı Köyü, Tahtika Mezra Mezrası	Tahtika=
+93689	Bayramlar Köyü, Aykonak Mevkii	Aykonak=
+93690	Bayramlar Köyü, Dikmetaş Mevkii	Dikmetaş=
+93688	Bayramlar Köyü, Köyün Kendisi Mevkii	Bayramlar=
+99506	Beşevler Mah.	20.@|2604~|2701~|2702~|2703~|2704=|Batman Yolu@|Hatip@|Meydan=
+180956	Boğazkapı Köyü	Boğazkapı=
+93791	Cevizli Köyü	Cevizli=
+93790	Cevizli Köyü, Gölbaşı Mezrası	Gölbaşı=
+93792	Cevizli Köyü, Hasanbey Mezrası	Hasanbey=
+93789	Cevizli Köyü, Kayadibi Mezrası	Kayadibi=
+93698	Dağçatı Köyü	Dağçatı=
+93697	Dağçatı Köyü, Suarkı Mezrası	Suarkı=
+99503	Demetevler Mah.	1901~|1902~|1903~|1904~|1905~|1906~|Küme Evler=
+93699	Dereiçi Köyü	Dereiçi=
+93700	Dereköy Köyü	Dereköy=
+93702	Dereköy Köyü, Göşek Mezra Mezrası	Göşek=
+93703	Dereköy Köyü, Şahinli Mezra Mezrası	Şahinli=
+93704	Derince Köyü	Derince=
+93708	Derince Köyü, Ahkar Mezra Mezrası	Ahkar=
+93707	Derince Köyü, Yoncalı Mezra Mezrası	Yoncalı=
+93706	Derince Köyü, Çakmaklı Mezra Mezrası	Çakmaklı=
+93705	Derince Köyü, Özlüce Mezra Mezrası	Özlüce=
+93710	Dikbayır Köyü	Dikbayır=
+90559	Dumlupınar Mah.	12 Nolu=|1201~|1202~|1203~|1204~|Oyaca~|Yücebağ@
+93711	Dörtbölük Köyü	Dörtbölük=
+93715	Dörtbölük Köyü, Ambarlı Mezra Mezrası	Ambarlı=
+93712	Dörtbölük Köyü, Ağakünük Mevkii	Ağakünük=
+93717	Dörtbölük Köyü, Bozdoğan Mezra Mezrası	Bozdoğan=
+93718	Dörtbölük Köyü, Dibek Mevkii	Dibek=
+93714	Dörtbölük Köyü, Goman Mezra Mezrası	Goman=
+93713	Dörtbölük Köyü, Şengirik Mezra Mezrası	Şengirik=
+93716	Dörtbölük Köyü, Şilfo Mezra Mezrası	Şilfo=
+93782	Ekinlik Köyü, Ekinlik Mezra Mezrası	Akyemiş=|Ekinlik=
+90539	Emek Mah.	801~|802~|803~|804~|805~|806~|807~|809~|811~|813~|815~|817~|902~|Haluk İmga@|Sağlık@|Tekinler@|Tekinler-@
+90540	Erdemli Mah.	13 Nolu=|1301~|1302~|1303~|1304~|2401~|Sason Yolu~
+93719	Ergünü Köyü	Ergünü=
+93721	Ergünü Köyü, Yukarı Ergünü Mevkii	Yukarı Ergünü=
+93720	Ergünü Köyü, Çemeşeşo Mezra Mezrası	Çemeşeşo=
+93794	Erikli Köyü	Erikli=
+180936	Gençler Köyü	Gençler=
+93722	Geçitli Köyü	Geçitli=
+93723	Gürgenli Köyü	Gürgenli=
+93726	Gürgenli Köyü, Güvenç Mezra Mezrası	Güvenç=
+90541	Gürpınar Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|511~|Bedo~|Cumhuriyet@
+93728	Güvercinlik Köyü	Güvercinlik=
+90542	Haydar Mah.	14 Nolu=|1401~|1402~|1404~|1407~|1408~|1409~|Okul@
+93822	Heybeli Köyü	Heybeli=|Çağlı=
+93820	Heybeli Köyü, Akbelen Mezrası	Akbelen=
+93819	Heybeli Köyü, Bergazi Mezrası	Bergazi=
+93821	Heybeli Köyü, Gölbaşı Mevkii	Gölbaşı=
+93818	Heybeli Köyü, Güneşli Mezrası	Güneşli=
+93817	Heybeli Köyü, Yeniyurt Mevkii	Yeniyurt=
+93729	Kaleyolu Köyü	Kaleyolu=
+93733	Kaleyolu Köyü, Giribani Mezra Mezrası	Giribani=
+93731	Kaleyolu Köyü, Sarigan Mezra Mezrası	Sarigan Mezra=
+93732	Kaleyolu Köyü, Yamanlı Mezra Mezrası	Yamanlı=
+93730	Kaleyolu Köyü, Şehan Mezra Mevkii	Şehan=
+93736	Karameşe Köyü	Karameşe=|Tire=
+93734	Karameşe Köyü, Tire Mezrası	Tire=
+93735	Karameşe Köyü, Çemeşevke Mezrası	Çemeşevke=
+93762	Karayün Köyü, Karaağaç Mevkii	Karaağaç=
+93761	Karayün Köyü, Merkez Mevkii	Karayün=
+90543	Karşıyaka Mah.	1201~|1202~|15 Nolu=|1501~|1502~|2101~
+93737	Kavaklı Köyü	Kavaklı=
+93738	Kavaklı Köyü, Kocanlar Mezra Mezrası	Kocanlar=
+93739	Kavaklı Köyü, Tepecik Mezra Mezrası	Tepecik=
+90544	Kayabaşı Mah.	14 Nolu=|16 N0lu=|1601~|1602~|1603~|1603. 1~|Bilinmeyen 1~|Koram@|Koram. 1~|Okul@
+93742	Kayadüzü Köyü	Ergünü=|Kayadüzü=
+93740	Kayadüzü Köyü, Yukarı Ergünü Mevkii	Yukarı Ergünü=
+93823	Kaşyayla Köyü	Kaşyayla=
+93827	Kaşyayla Köyü, Elmapınar Mezra Mezrası	Elmapınar=
+93828	Kaşyayla Köyü, Günyecik Mezra Mezrası	Güneycik=
+93824	Kaşyayla Köyü, Taşyuva Mezrası	Taşyuva=
+93825	Kaşyayla Köyü, Yayarlı Mevkii	Yayarlı=
+93826	Kaşyayla Köyü, Şımdank Mevkii	Şımdank=
+93743	Kelhasan Köyü	Kelhasan=
+93745	Kelhasan Köyü, Binöni Mezra Mezrası	Binöni=
+93744	Kelhasan Köyü, Sinemerg Mezra Mezrası	Sinemerg=
+93746	Kilimli Köyü, Yoncadüzü Mezrası	Yoncadüzü=
+182276	Kilis Köyü	Kilis=
+93696	Kulaksız Köyü, Köyün Kendisi Mezrası	Kulaksız=
+90545	Kurtuluş Mah.	22 Nolu=|2401~|2402~|2403~|Batman%
+98199	Köprübaşı Köyü	Köprübaşı=
+98198	Kınalı Köyü	Kınalı=
+90546	Mehmet Akif Mah.	17 Nolu=|1701~|1702~|1703~|1705~|20 Nolu=|2004~|2304~|Tekinler@
+93751	Meşeli Köyü	Meşeli=
+93750	Meşeli Köyü, Güleç Mezrası	Güleç=
+93749	Meşeli Köyü, Pivank Mezrası	Pivank=|Pivank Mezr.-~
+90547	Orta Mah.	601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611 Nolu~|612 Nolu~|613 Nolu~|614~|615~|616~|617~|618~|619~|620~|621~|622~|Cumhuriyet@|Haluk İmga@|Köy Yolu@|Lise@|Sağlık@|Tekinler@|Tekinler-@
+90548	Pınarbaşı Mah.	1010~|501-~|502@|503~|505~|506~|510~|511~|701~|704-~|708~
+93764	Sarıyayla Köyü	Sarıyayla=
+93760	Sarıyayla Köyü, Elagöz Mezrası	Elagöz=
+93767	Sarıyayla Köyü, Hılınsur Mevkii	Hılınsur=
+93763	Sarıyayla Köyü, Yelek Mez Mezrası	Yelekmez=
+93766	Sarıyayla Köyü, Yollaç Mezrası	Yollaç=
+93768	Sarıyayla Köyü, Yıldızkaya Mezrası	Yıldızkaya=
+93765	Sarıyayla Köyü, Üçevler Mezrası	Üçevler=
+139620	Sevek Mah.	1002~|1003~|1005~|2301~|2302~|2303~|2304~|2304-~|2305-~|502-~|702~|806~|901~|905~|Koram@|Tekinler@
+93799	Soğanlı Köyü	Soğanlı=
+93797	Soğanlı Köyü, Beypsiye Mezrası	Beypsiye=
+93798	Soğanlı Köyü, Kısrak Mezrası	Kısrak=
+93773	Taşyuva Köyü	Taşyuva=
+93770	Taşyuva Köyü, Gortir Mezra Mezrası	Gortir=
+93771	Taşyuva Köyü, Hazzank Mevkii	Hazzank=
+93772	Taşyuva Köyü, Hopir Mezra Mezrası	Hopir=
+93769	Taşyuva Köyü, Zornik Mezra Mezrası	Zornik=
+90558	Tekevler Mah.	1 Nolu=|1304~|1801~|1802~|1803~|Batman Yolu@|Hatip@|Meydan=|Sason Yolu~
+90549	Tekinler Mah.	1001-~|1005~|11 Nolu=|1103~|1104~|1106~|1107~|1108~|1109~|1110~|1111~|1112~|415~|416~|Boğazkapı=|Koram@|Köy Yolu@|Ray Yolu@|Tekinler@
+183020	Topluca Köyü, Köyün Kendisi Mevkii	Topluca=
+182274	Turnalı Köyü	Turnalı=
+93748	Turnalı Köyü, Taşburun Mevkii	Taşburun=
+93778	Umurlu Köyü	Umurlu=
+93774	Umurlu Köyü, Haydar Mezrası	Haydar=
+93776	Umurlu Köyü, Merge Mezrası	Merge=
+93777	Umurlu Köyü, Soğe Mezrası	Soğe=
+98422	Yakabağ Köyü	Yakabağ=
+98420	Yakabağ Köyü, Arkök Mezrası	Arkök=
+98419	Yakabağ Köyü, Bakihisar Mezrası	Bakihisar=
+98421	Yakabağ Köyü, Kaman Mezrası	Kaman=
+90550	Yaylatepe Mah.	501~|502@|503~|505~|700~|701~|702~|703~|704~|704.~|705~|706~|708~|709~|710~|806~|Bedo~|Cumhuriyet@|Mesken=|Sağlık@
+90551	Yeni Mah.	1001~|1002~|1003~|1004~|1006~|1007~|1008~|1009~|1010~|501-~|510~|511~|701~|Koram@
+93795	Yeniköy Köyü	Yeniköy=
+99507	Yeşilevler Mah.	2601~|2602~|2603~|2604~|2605~|511~|Meydan=
+90552	Yeşiller Mah.	20 Nolu=|2001~|2002~|2003~|2004~|2005~|Okul@
+90553	Yeşilova Mah.	802~|901~|902~|903~|904~|905~|906~|Koram@|Tekinler@
+90554	Yeşiltepe Mah.	19 Nolu=|22 Nolu 1=|22 Nolu=|2201~|2202~|2203~|2204~|2206~|Cumhuriyet@
+93779	Yiğitler Köyü	Yiğitler=
+93780	Yiğitler Köyü, Yiğitli Mezra Mezrası	Yiğitli=
+93781	Yolüstü Köyü	Yolüstü=
+90556	Yukarı Mah.	15 Nolu=|21 Nolu=|2101~|2102- Köy$|2103-~
+93788	Yuvalar Köyü	Yuvalar=
+93784	Yuvalar Köyü, Keçeli Mevkii	Keçeli=
+93785	Yuvalar Köyü, Kurt Mezrası	Kurt=
+93787	Yuvalar Köyü, Sarıkız Mezrası	Sarıkız=
+93786	Yuvalar Köyü, Üçdirek Mezrası	Üçdirek=
+93725	Yuvalıçay Köyü, Köyün Kendisi Mezrası	Köyün Kendisi=
+140719	Yücebağ Beldesi, Aydınlık Mah.	Anta~|Aydınlık~|Aydınlık. 1~|Aydınlık.2~|Gonamuso~|Gonamuso. 1~|Göçbeyli~|Göçbeyli. 2~|Havlik~|Havlik. 1~|Ketta~|Ketta.1~|Yeni Çakmak~|Yeni Çakmak. 1~|Yeni Çakmak. 2~|Yeni Çakmak. 3~|Yeni Çakmak. 4~
+90560	Yücebağ Beldesi, Barış Mah.	301=|303=|305=|Ana@
+140721	Yücebağ Beldesi, Binekli Mah.	Binekli~|Yumurca~|Yumurca. 1~
+140723	Yücebağ Beldesi, Günlüce Mah.	Günlüce~
+90561	Yücebağ Beldesi, Karşıyaka Mah.	402~|402.1~|402.2~|404=|Ana@
+140725	Yücebağ Beldesi, Koçkaya Mah.	Koçkaya~|Koçkaya. 1~|Koçkaya. 2~|Ormancık~|Ormancık. 1~|Tatlıca Mezra~|Tatlıca Mezra. 1~|Uluagaç Mezra. 1~|Uluagaç Mezra. 2~|Uluagaç Mezra. 3~|Uluağaç Mezra~|Yürekli~|Yürekli. 1~
+90562	Yücebağ Beldesi, Tepe Mah.	102=|104=|106=|108=|110=|110.1=|112=|Ana@|Ana.2~
+90563	Yücebağ Beldesi, Yıldız Mah.	202=|Ana@|Ana. 1=
+93796	Yürekli Köyü	Yürekli=
+90555	Yıldız Mah.	1 Nolu_1=|401~|402~|403~|404~|405~|406~|407~|408~|410~|412~|413~|415~|416~|417~|418~|418-~|Batman Yolu-~|Köy Yolu@|Lise@
+90557	Zafer Mah.	1303~|22 Nolu=|23 Nolu=|2501~|2502~|2503~|2504~|2505~|2506~|2507~|2508~|2509~|Batman%|Oyaca~|Tabur Yolu-~
+93775	Ziyaret Köyü, Köyün Kendisi Mezrası	Ziyaret=
+93680	Çakırpınar Köyü	Çakırpınar=
+93683	Çakırpınar Köyü, Arpacık Mezra Mezrası	Arpacık=
+93686	Çakırpınar Köyü, Dağlıca Mezra Mezrası	Dağlıca=
+93681	Çakırpınar Köyü, Deliktaş Mezra Mezrası	Delktaş=
+93687	Çakırpınar Köyü, Ellibren Mezrası	Ellibren=
+93685	Çakırpınar Köyü, Görtil Mezrası	Gortil=
+93684	Çakırpınar Köyü, Konaklı Mezra Mezrası	Konaklı Mezra=
+93682	Çakırpınar Köyü, Osmanik Mezrası	Osmanik=
+93793	Çalışırlar Köyü	Çalışırlar=
+93691	Çayırlı Köyü	Çayırlı=
+93692	Çayırlı Köyü, Aşağı Çayırlı Mezrası	Aşağı Çayırlı=
+93694	Çayırlı Köyü, Girasur Mezrası	Girasur=
+93812	Çağlı Köyü	Çağlı=
+93813	Çağlı Köyü, Gündoğdu Mezra Mezrası	Gündoğdu=|Kuzkoncuk=
+93814	Çağlı Köyü, Kuzkoncuk Mezrası	Kuzkoncuk=
+93815	Çağlı Köyü, Ordu Mezra Mezrası	Ordu=
+93695	Çınarlı Köyü	Çınarlı=
+93759	Örenağıl Köyü	Örenağıl=
+93756	Örenağıl Köyü, Kayadibi Mezrası	Kayadibi=
+93753	Örenağıl Köyü, Keçiler Mevkii	Keçiler=
+93752	Örenağıl Köyü, Kömürdür Mezrası	Kömürdür=
+93758	Örenağıl Köyü, Pıjunik Mezrası	Pıjunik=
+93757	Örenağıl Köyü, Taşlıca Mezrası	Taşlıca=
+93755	Örenağıl Köyü, Yedigöz Mezrası	Yedigöz=
+93754	Örenağıl Köyü, Çukurca Mevkii	Çukurca=
+93727	İncesu Köyü, Köyün Kendisi Mevkii	İncesu=
+99505	Şirinevler Mah.	2801~|Küme Evler=

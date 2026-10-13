@@ -1,0 +1,25 @@
+193823	Adaküre Mah.	Adnan Menderes@|Başarı=|Darı Ovacığı=|Kaynak=
+41391	Aktepe Mah.	80.yıl@|Afacan~|Aydın~|Baraj Çevre Yolu~|Hacı Kırlı@|Hasan Çavuş@|Hürriyet@|Köprübaşı Mevkii~|Kırlı~|Mehmet Emin Balcı~|Palamut 1~|Palamut~|Stadyum Yolu~|Çatal~|Ödemiş Yolu~
+193827	Alakeçili Mah.	Başak=|Emek=
+41392	Atatürk Mah.	50.yıl@|Arıtürk~|Atatürk@|Atatürk Kültür@|Ayan~|Aydoğdu~|Balcı~|Banka~|Barış~|Beydağ Lozan Myd.|Bülbül~|Cami~|Cengiz~|Cevizli Kuyu~|Ceylan~|Ceylanoğlu~|Dönmez~|Eşme~|Ferah~|Garaj~|Gençlik~|Güler~|Kalender~|Kaymakam Yusuf Doğan@|Korgalı~|Kıbrıs~|Leylak~|Lozan~|Maarif~|Nazilli@|Posta~|Pulcu~|Sağlık~|Selvi~|Soğukkuyu=|Stadyum Yolu~|Turp~|Ulus Myd.|Uzun~|Yüksel~|Yıldız~|Zeybek~|Çamurcu~|Ödemiş@|Özgür~|Öğretmen Mestan Yapıcı@|İstiklal@|Şehit Osman Sarı@|Şehit Raşit Başoğlu@|Şentürk~
+193831	Bakırköy Mah.	Demirciler=|Kullar=|Mevsim=|Tuna=
+41393	Beyköy Mah.	Aygan~|Beyköy Yolu~|Beyler~|Cevizli Kuyu~|Hüdaverdi Aygün~|Kalender~|Kuvayi Milliye Yolu~|Saadet~|Sucubaşı~|Tepe Mevkii~|Yeniyurt Yolu~|Çarkbaşı~|İşçi Lojmanları=
+41394	Cumhuriyet Mah.	2 Eylül Kurtuluş Parkı~|75.yıl@|Adaküre Yolu~|Adnan Menderes@|Akdağ~|Alaçayır Mevkii~|Arif~|Atatürk@|Aşıcı~|Bahriye Üçok@|Baş~|Beydağ Lozan Myd.|Cumhuriyet Kültür@|Demirci~|Elma~|Emniyet~|Eren~|Eşsiz~|Gül~|Gündüz~|Han~|Kader~|Kadı~|Kaleardı~|Karanfil~|Karaosmanoğlu~|Kavakyolu~|Kemal Ünlü@|Lale~|Maden~|Mareşal F.çakmak@|Menekşe~|Mercan~|Molla Ömer=|Nergis~|Park~|Pazaraltı Mevkii~|Sanayii Sitesi A Blok=|Sanayii Sitesi B Blok=|Sanayii Sitesi C Blok=|Sanayii Sitesi D Blok=|Sanayii Sitesi E Blok=|Sanayii Sitesi F Blok=|Sanayii Sitesi G Blok=|Sanayii Sitesi H Blok=|Sanayii Sitesi Yanı=|Sebze Pazarı~|Selek~|Sümbül~|Topçu~|Ulus Myd.|Yeni~|Yurtseven~|Yılmaz~|Zambak~|Zeytinlik 2~|Zeytinlik1~|Çakır~|Çarşı~|Çay~|Çayağzı~|Çelik~|Çukur~|Çıngırak~|Ödemiş@|Özlem~|Özlü~|İnönü@|İpek~|İstiklal@|Şehit Raşit Başoğlu@
+193849	Erikli Mah.	Avcılar=|Sedef=|Yayla Evleri=
+193845	Eğridere Mah.	Abaç Yatağı=|Buse=|Bölükler=|Derin=|Kokarca=|Çamcılar=|Çamlı Burun=|Örenler=
+193853	Halıköy Mah.	Bağlık Deresi=|Damla=|Nehir=|Ovacık=|Ovacık Yaylası=
+193857	Karaoba Mah.	Gonca=|Kullar=|Ova=|Çifte Kuyular=
+193861	Kurudere Mah.	Davulcular=|Doğa=|Kavak Deresi=|Kokarca=|Seher=|İçmece=
+193863	Menderes Mah.	Menderes=
+193865	Mutaflar Mah.	Değirmen=|Süleymanlar=|Yukarı=|Yörükler=
+193869	Palamutçuk Mah.	Cevizdibi=|Çağlar=
+193871	Sarıkaya Mah.	Dere=|Uygar=
+193873	Tabaklar Mah.	Nazilli@|Tabaklar=
+193877	Yağcılar Mah.	Bağlık Deresi=|Güven=|Rüzgar=|Yasemin=|Yayla=
+193881	Yeniyurt Mah.	Kuyu=|Nazilli@|Zafer=
+193883	Yeşiltepe Mah.	Derin=|Hacıaliler=|Yonuç=
+193885	Yukarıaktepe Mah.	Alakaya=|Dut Dibi=|Ekin=|Hacıaliler=|Koca Ev Yanı=|Mimoza=|Palamutçuk=|Çamlıca~|Çitlembik=
+193891	Yukarıtosunlar Mah.	Güven=|Hacı İsa=|Ödemiş Beydağ Yolu@
+193835	Çamlık Mah.	Boncuk=|Yonca=
+193837	Çiftlikköy Mah.	Kaptan=|Mandıras=|Nilüfer=
+193841	Çomaklar Mah.	Çomaklar=

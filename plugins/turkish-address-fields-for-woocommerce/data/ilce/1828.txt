@@ -1,0 +1,20 @@
+12201	Akantaş Köyü	Akantaş=
+12202	Ardıçlı Köyü	Ardıçlı=
+12205	Başköy Köyü, A.balaban Mevkii	A.balaban=
+12206	Başköy Köyü, Arslanlı Mevkii	Aslanlı=
+12204	Başköy Köyü, Gönüllü Mevkii	Gönüllü=
+12208	Başköy Köyü, Karşıyaka Mevkii	Karşıyaka=
+12203	Başköy Köyü, Merkez Mevkii	Merkez=
+12207	Başköy Köyü, Y.balaban Mevkii	Y.balaban=
+10014	Damar Köyü, Damar Çarşı Mevkii	72 Evler~|72 Evler1~|Atatürk~|Atatürk1~|Atatürk2~|Atatürk3~|Belediye Meydanı~|Cami~|Damar 1=|Eski~|Göktaş~|Göktaş1~|Göktaş2~|Gül~|Güneşli~|Haydar Osmançavuşoğlu~|Haydar Osmançavuşoğlu-~|Huzur~|Kabaca~|Mehmet Altunel~|Meyveli~|Okul~|Okul1~|Yeni 1~|Yeni~|Yeni2~|Yeni3~|Yüzbaşı~|Yüzbaşı1~|Yıldırım~|Çarkbaşı~|Çarkbaşı1~|Çimen~|Çıkmaz~|İşletme~
+12209	Erenköy Köyü	Erenköy=
+12212	Kabaca Köyü, Budiyet Mevkii	Budiyet=
+12213	Kabaca Köyü, Eğri Su Yaylası Yayla Evleri	Eğri Su Yaylası=
+12211	Kabaca Köyü, Kuruçay Mevkii	Kuruçay=
+12210	Kabaca Köyü, Salkaya Mevkii	Salkaya=
+12214	Korucular Köyü	Korucular=
+12215	Küre Köyü	Küre 1=
+10010	Küre Mah.	1 Nolu Lojman~|2 Nolu Lojman~|3 Nolu Lojman~|Anıt@|Bademli~|Balcı~|Basköy@|Başköy Dere Mevkii~|Belediye~|Bilinmeyen1~|Bilinmeyen4~|Bilinmeyen6~|Borçka@|Cami@|Cengizler~|Dalgıç@|Dalgıç1~|Damar@|Dr. Tuncay Yıldırım~|Emin Görmüş@|Fabrika@|Görmüşler~|Güneyler 1~|Güneyler~|Hastane@|Hilal~|Huzur~|Karşıyol 1@|Karşıyol@|Küre@|Ortaokul~|Park@|Sağlık~|Soğuksu@|Soğuksu1~|Soğuksu2~|Stadyum~|Tepecik~|Uzun~|Yavuzlar~|Zafer~|Zahit Temeltaş~|Çimenli@|İsrafil Kışla@|İstiklal~|İstiklal1~|Şehit Er Usta Ali Oğlu Ali~|Şirin~
+12216	Osmanlı Köyü	Özmal=
+12217	Petek Köyü	Petek=
+12218	Çimenli Köyü	Çimenli=

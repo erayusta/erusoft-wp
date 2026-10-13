@@ -1,0 +1,46 @@
+189845	Alabalık Mah.	Alabalık=
+189847	Alacayar Mah.	60 Evler~|60 Evler/1~|60 Evler/10~|60 Evler/2~|60 Evler/3~|60 Evler/4~|60 Evler/5~|60 Evler/6~|60 Evler/7~|60 Evler/8~|60 Evler/9~|Alacayar Merkez=|Bilinmeyen57~
+189851	Araköy Mah.	Araköy Merkez=|Araköy Merkez/1~|Araköy Merkez/11~|Araköy Merkez/2~|Araköy Merkez/4~|Araköy Merkez/5~|Bilinmeyen58~|Kuruçalı=|Necipbey Çifliği~
+189855	Aşağıyayla Mah.	Aşağıyayla=|Sülüklü/4~
+189859	Başkale Mah.	Başkale=
+189861	Beyler Mah.	Beyler Merkez=|Beyler Merkez/1~|Beyler Merkez/2~|Beyler Merkez/3~|Bulutlu~|Kamışözü~
+189865	Boğakale Mah.	Boğakale=
+30028	Camiikebir Mah.	40 Evler Şehitler~|Arif Ağa~|Arif Ağa/1~|Arslan~|Aslan Paşa~|Aslan Paşa/1~|Avni Feyzioğlu@|Avni Feyzioğlu/1~|Bahçeli~|Bilinmeyen73~|Devehan Dere~|Devehan Dere/1~|Devehan Dere/2~|Devehan Dere/3~|Erzurum 1~|Erzurum@|Erzurum/2~|Erzurum/3~|Ethem~|Ethem/1~|Ethem/2~|Ethem/3~|Gazhane~|Kadı~|Kamışözü~|Kara Osman~|Kara Osman/1~|Kışla~|Kışla/4~|Müftü Efendi/1~|Müftü Efendi/2~|Müftü Efendi/3~|Müftü Efendi/4~|Park~|Park/1~|Park/2~|Park/3~|Park/4~|Park/5~|Park/6~|Park/7~|Park/8~|Ressam Halil Akkurt@|Selami Altınok@|Yayla=|Yeni2@|Yıldız~|Yıldız/1~|Yıldız/2~|Şehit Engin Düzavcı@|Şehit Mustafa Özbek~
+30029	Camiisağır Mah.	1/1~|101 Evler 10 Nolu~|101 Evler 10 Nolu/1~|101 Evler 10 Nolu/2~|101 Evler 10 Nolu/3~|101 Evler 4 Nolu~|101 Evler 5 Nolu~|101 Evler 6 Nolu~|101 Evler 7 Nolu/1~|101 Evler 8 Nolu~|101 Evler 9 Nolu~|Arap~|Atatürk 1/1~|Atatürk@|Avni Feyzioğlu@|Bilinmeyen3~|Bilinmeyen31~|Bilinmeyen57~|Bilinmeyen58~|Bilinmeyen76~|Burhanettin Eser@|Burhanettin Eser/1~|Cumhuriyet@|Dede Hoca~|Dede Hoca/1~|Ekin~|Ethem Baba~|Ethem Baba/1~|Hacı Vakkas@|Hacı Vakkas/1~|Kışla~|Kışla/5~|Kışla/6~|Mahmut Altay@|Mahmutçavuş=|Muhtar Mahmut Özcan~|Okumuş~|Recep Akyol~|Recep Akyol/1~|Recep Akyol/2~|Salih Zeki Dilek@|Salih Zeki Dilek/1~|Salih Zeki Dilek/2~|Salih Zeki Dilek/3~|Salih Zeki Dilek/4~|Sümmani@|Ufuk~|Umut@|Umut/1~|Yatılı İlköğretim Okulu=|Yeni1@|Yeni1/1~|Yeni1/2~|Yenii1/1~|Çaybaşı 1 Nolu~|Çaybaşı 1 Nolu/1~|Çaybaşı 1 Nolu/2~|Çaybaşı 1 Nolu/3~|Çağlayan~|İhsan Erdem@|İhsan Erdem/1~|Şehit Fahri Demir@
+189871	Dağyolu Mah.	Dağyolu=
+189877	Demirdağ Mah.	Demirdağ=|Karapınar=
+189881	Ergazi Mah.	Ergazi=
+189883	Gökdağ Mah.	Gökdağ~|Gökdağ/1~|Gökdağ/10~|Gökdağ/2~|Gökdağ/3~|Gökdağ/4~|Gökdağ/5~|Gökdağ/6~|Gökdağ/7~|Gökdağ/8~|Gökdağ/9~
+189887	Göllü Mah.	Göllü~|Göllü/1~|Göllü/10~|Göllü/11~|Göllü/12~|Göllü/13~|Göllü/14~|Göllü/15~|Göllü/16~|Göllü/17~|Göllü/18~|Göllü/19~|Göllü/2~|Göllü/20~|Göllü/21~|Göllü/22~|Göllü/23~|Göllü/24~|Göllü/3~|Göllü/4~|Göllü/5~|Göllü/6~|Göllü/7~|Göllü/8~|Göllü/9~
+189943	Güllüdağ Mah.	Güllüdağ~
+189947	Güvenlik Mah.	Güvenlik Merkez=|Yayla Evi=
+189889	Kamışözü Mah.	Kamışözü~|Kamışözü/1~|Kamışözü/10~|Kamışözü/11~|Kamışözü/12~|Kamışözü/13~|Kamışözü/2~|Kamışözü/3~|Kamışözü/4~|Kamışözü/5~|Kamışözü/6~|Kamışözü/7~|Kamışözü/8~|Kamışözü/9~|Sülüklü/4~|Yatılı İlköğretim Okulu=
+189893	Karadağ Mah.	Kamışözü~|Karadağ=|Karadağ/1~|Karadağ/2~|Karadağ/3~
+189895	Karapınar Mah.	Karapınar=
+189949	Kilimli Mah.	Kilimli=
+189901	Koyunören Mah.	Koyunören=|Koyunören/10~|Koyunören/12~|Koyunören/13~|Koyunören/14~|Koyunören/15~|Koyunören/2~|Koyunören/3~|Koyunören/4~|Koyunören/5~|Koyunören/6~|Koyunören/7~|Koyunören/8~|Koyunören/9~
+189897	Koçkaya Mah.	Araköy Merkez=|Koçkaya=|Kuruçalı=
+189905	Kuruçalı Mah.	Kuruçalı=
+189941	Kışlaköy Mah.	Kışla -~|Kışla/10~|Kışla/11~|Kışla/12~|Kışla/13~|Kışla/14~|Kışla/2~|Kışla/7~|Kışla/8~|Kışla/9~|Kışla1/1=|Kışlaköy Merkez=
+189907	Mahmutçavuş Mah.	Mahmutçavuş=|Mahmutçavuş/1~|Mahmutçavuş/2~|Mahmutçavuş/3~|Mahmutçavuş/4~|Mahmutçavuş/5~
+189909	Mercimekli Mah.	Mercimekli=
+198201	Otlutepe Mah.	Otlutepe=|Otlutepe/1~|Otlutepe/10~|Otlutepe/11~|Otlutepe/2~|Otlutepe/3~|Otlutepe/4~|Otlutepe/5~|Otlutepe/6~|Otlutepe/7~|Otlutepe/8~|Otlutepe/9~
+189953	Pınaryolu Mah.	Pınaryolu~|Pınaryolu/1~|Pınaryolu/2~|Pınaryolu/3~|Pınaryolu/4~|Pınaryolu/5~|Pınaryolu/6~|Pınaryolu/7~|Pınaryolu/8~|Pınaryolu/9~
+189911	Samikale Mah.	Samikale=
+189913	Sapanlı Mah.	Sapanlı=
+189915	Savaşçılar Mah.	Aşağıyayla=|Savaşçılar=
+189955	Serinsu Mah.	Serinsu=|Serinsu/1~|Serinsu/2~
+189929	Seyyid Ali Baba Mah.	Tuztaşı=
+189919	Sülüklü Mah.	Sülüklü=|Sülüklü/1~|Sülüklü/2~|Sülüklü/3~|Sülüklü/4~
+189957	Sütpınar Mah.	Sütpınar=|Sütpınar/1~|Sütpınar/10~|Sütpınar/2~|Sütpınar/3~|Sütpınar/4~|Sütpınar/5~|Sütpınar/6~|Sütpınar/7~|Sütpınar/8~|Sütpınar/9~
+189961	Taşburun Mah.	Taşburun~|Taşburun/1~|Taşburun/10~|Taşburun/11~|Taşburun/12~|Taşburun/2~|Taşburun/3~|Taşburun/4~|Taşburun/5~|Taşburun/6~|Taşburun/7~|Taşburun/8~|Taşburun9~
+189923	Telli Mah.	Ergazi=|Telli=
+189925	Toygarlı Mah.	Toygarlı=
+30030	Tuzla Mah.	Ark~|Atatürk 1/4~|Atatürk@|Bilinmeyen101~|Bilinmeyen14~|Bilinmeyen16~|Bilinmeyen42~|Bilinmeyen74~|Bilinmeyen78~|Camii~|Camii/1~|Cumhuriyet@|Demirci~|Demirci/1~|Devehan Dere~|Erzurum@|Galata~|Galata/1~|Himmet~|Himmet/1~|Himmet/2~|Işıklı Pehlivan~|Işıklı Pehlivan/1~|Işıklı Pehlivan/2~|Kerimoğlu~|Mahmut Çavuş@|Mahmutçavuş=|Mehmet Çil@|Molla Ahmet~|Orhan Deligöz@|Sümmani@|Tuzla1~|Tuzla1/1~|Tuzla1/2~|Tuzla1/3~|Tuzla1/4~|Yücel Ahmet İşleyen@|Zeki Kınalı@|Çeşme~|Çeşme/1~|Çeşme/2~|Çeşme/3~|Çiftlik~|Üniversite/1~|Üniversite/10~|Üniversite/11~|Üniversite/12~|Üniversite/13~|Üniversite/14~|Üniversite/15~|Üniversite/3~|Üniversite/5~|Üniversite/7~|Üniversite/8~|Üniversite/9~
+189933	Yanıktaş Mah.	Yanıktaş=
+189935	Yoldere Mah.	Yoldere=
+189937	Yukarıyayla Mah.	Yukarıyayla=
+189875	Çamlıyayla Mah.	Çamlıyayla=
+189869	Çimenli Mah.	Ağaçlı~|Ağaçlı/1~|Ağaçlı/2~|Ağaçlı/3~|Ağaçlı/4~|Ağaçlı/5~|Ağaçlı/6~|Ağaçlı5~|Toygarlı=|Çimenli Merkez~|Çimenli Merkez/1~|Çimenli Merkez/2~|Çimenli Merkez/3~|Çimenli Merkez/4~|Çimenli Merkez/5~|Çimenli Merkez/6~|Çimenli Merkez/7~
+189921	Şehitler Mah.	Şehitler=
+189837	Şekerli Mah.	1.~|10.~|100.-@|101.~|101./1~|101./10~|101./11~|101./12~|101./13~|101./14~|101./15~|101./16~|101./17~|101./18~|101./19~|101./2~|101./20~|101./21~|101./22~|101./3~|101./4~|101./5~|101./6~|101./7~|101./8~|102.~|102./1~|102./2~|102./3~|102./4~|102./5~|102./6~|11.~|12.~|13.~|14.~|15.~|150.-@|151.-@|16.~|2.~|3.~|4.~|5.~|50.-@|6.~|7.~|8.~|9.~|Bilinmeyen49~|Bilinmeyen50~|Bilinmeyen51~|Bilinmeyen53~|Bilinmeyen54~|Bilinmeyen55~|Bilinmeyen56~|Bilinmeyen62~|Bılınmeyen52~|Sütpınar=|Şekerli=

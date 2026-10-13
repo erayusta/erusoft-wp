@@ -1,0 +1,12 @@
+.eru-sxi .form-table th { width: 220px; }
+.eru-sxi-counts { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.eru-sxi-chip { background: #f0f0f1; border: 1px solid #dcdcde; border-radius: 3px; padding: 4px 10px; }
+.eru-sxi-chip.eru-sxi-create, .eru-sxi-tag.eru-sxi-create { background: #e7f5ea; border-color: #b8dfc1; }
+.eru-sxi-chip.eru-sxi-update, .eru-sxi-tag.eru-sxi-update { background: #e8f0fb; border-color: #bcd1ef; }
+.eru-sxi-chip.eru-sxi-error, .eru-sxi-tag.eru-sxi-error { background: #fbeaea; border-color: #efbcbc; }
+.eru-sxi-tag { display: inline-block; padding: 1px 8px; border: 1px solid #dcdcde; border-radius: 3px; background: #f6f7f7; font-size: 12px; }
+.eru-sxi-preview { margin-top: 8px; }
+#eru-sxi-progress progress { width: 280px; vertical-align: middle; }
+#eru-sxi-sample-out table { max-width: 640px; margin: 8px 0; }
+@media (max-width: 782px) { .eru-sxi .form-table th { width: auto; } }
+.eru-sxi [hidden] { display: none !important; }

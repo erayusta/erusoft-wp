@@ -1,0 +1,4 @@
+.eru-bpv #eru-bpv-out { margin: 12px 0; max-width: 640px; }
+.eru-bpv #eru-bpv-out.is-error { color: #b32d2e; }
+.eru-bpv #eru-bpv-bar { max-width: 640px; height: 8px; background: #dcdcde; border-radius: 4px; overflow: hidden; }
+.eru-bpv #eru-bpv-bar span { display: block; height: 100%; width: 0; background: #2271b1; transition: width .2s; }

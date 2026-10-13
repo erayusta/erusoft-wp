@@ -1,0 +1,11 @@
+90251	Başköy Mah.	Bahçe~|Barbaros@|Bulut~|Cumhuriyet@|Değirmen~|Fatih@|Gerce Bahşiş=|Göktaş~|Gül~|Kanlıca=|Karaca~|Karaca Çıkmazı~|Karahasan Gediği=|Lale~|Pazar Yeri=|Topçular~|Topçular Çıkmazı~|Yalnız~|Yayla~|Çegirge~|Çeşme~
+92912	Bozyaka Köyü	Bozyaka=
+92913	Büyükkarapınar Köyü	Büyükkarapınar=
+90252	Göztepe Mah.	Barbaros@|Cumhuriyet@|Dibekli=|Gerce Bahşiş=|Kışla Yaylası=|Pazar Yeri=|Türbe@|Çakıllı~
+90253	Kirazlıyayla Mah.	Beyazıt~|Camii~|Cumhuriyet@|Güney~|Hacı Efendi@|Kışlaköy=|Mekan~|Semerci~|Türbe@|Yavuz~|Yıldırım~
+92914	Kışlaköy Köyü	Harmanbağı=|Kışlaköy=
+92915	Kışlaköy Köyü, Yenice Mevkii	Yenice=
+90255	Yenimahalle Mah.	Aydınlık~|Barbaros@|Kale~|Pınar~|Tatar~|Türbe@
+92916	Üzümlü Köyü	Üzümlü=
+92917	Üzümlü Köyü, Söğütlü Mevkii	Söğütlü=
+90254	Şirindere Mah.	Atatürk@|Barbaros@|Cumhuriyet@|Toki~|Çicek~|Çınarlı~

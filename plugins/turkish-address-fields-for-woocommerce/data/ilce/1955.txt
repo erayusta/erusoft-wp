@@ -1,0 +1,14 @@
+185223	Ahmediye Mah.	Ahmediye~
+61701	Ahmetler Mah.	Ara~|Atak~|Açmalar~|Bahçıvan~|Başlar~|Cihangir~|Doruk~|Eren~|Eylek~|Gülen~|Karaca~|Karanfil~|Kiremitçi~|Manas Köy$|Marmara@|Okul~|Pirenli~|Sever~|Sofular~|Tekmen Köy$|Yazılı~|Yeniyol~|Yönet Köy$|Yıldız Köy$|Zeytin~|Şehit Mustafa Geyve@
+61702	Cumhuriyet Mah.	Ak~|Akıncı~|Al~|Altıntaş~|Arabacı~|Avcılar~|Babalı~|Bahar~|Bahçe~|Banmaz~|Ceylan~|Coşkun~|Defne~|Derya~|Düğlen~|Garipler~|Gedik~|Hacı Mahmut~|Halı Saha~|Hanımeli~|Harmanlı~|Hilal~|Huzur~|Hürriyet@|Işık~|Kanal~|Kanarya~|Küçük~|Marmara@|Menekşe~|Mimar Sinan~|Mutlu~|Müftülük~|Papatya~|Sakarya@|Soner@|Söğütlü~|Süleymaniye~|Topçular~|Villa~|Yavuz~|Yeşil~|Yıldırım~|Çakırlar~|Çamurlubayır~|Çelik~|Özçakır~|İpek~|Şehit Mustafa Çelik~|Şifalı~
+61706	Hocaköy Mah.	Ada@|Akın~|Bağdat~|Dere~|Değirmen~|Güler~|Kanlıçay@|Karapürçek@|Konakçı~|Koçakır~|Çiftlik~|Çolaklar~
+185227	Kanlıçay Mah.	Merkez~|Tepe~
+185229	Küçükkarapürçek Mah.	Küçükkarapürçek~
+185225	Kızılbayır Mah.	Kızılbayır~
+185231	Mecidiye Mah.	Mecidiye~
+185233	Mesudiye Mah.	Mesudiye~
+185235	Meşepınarı Mah.	Meşepınarı~
+61705	Yazılıgürgen Mah.	Bülbül~|Dalgıç~|Fabrikalar@|Hasan Çavuş~|Karabeyler~|Kardelen~|Mezarlık~|Tepe~|Şehit Mustafa Geyve@
+61704	Yüksel Mah.	Ada@|Adapazarı@|Aksoy~|Akın~|Boyalar~|Cennet~|Göçmen~|Karadağ~|Karapürçek@|Kavalcılar~|Kılıçlar~|Yılmaz~|Öztürk~
+185237	Çeşmebaşı Mah.	Çeşmebaşı~
+61703	İnönü Mah.	Ahmet Günal~|Akçe~|Arslan~|Belde~|Ciritçi~|Doğan~|Gül~|Gülyapı~|Kaya~|Marmara@|Mecidiye@|Mehmet Akif Ersoy~|Menekşe~|Meydan~|Nalbant~|Osmanlı@|Serçe~|Soner@|Ulu~|Uludere~|Uğur~|Yağmur~|Çimen~|Çoruhlu~|Çıracılar~|İstiklal@|Şahin~

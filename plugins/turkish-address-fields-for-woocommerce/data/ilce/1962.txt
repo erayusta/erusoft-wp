@@ -1,0 +1,22 @@
+193123	Ambar Mah.	Ambar=|Kanidiskan=|Koyunini=
+193125	Arkbaşı Mah.	Arkbaşı=|Yaşalar=
+193127	Boyunlu Mah.	Boyunlu=|Varlı=
+193131	Bozbağlar Mah.	Bozbağlar=|Heyderekan=|Yılmazlar=
+193133	Bozyer Mah.	201@|205@|Bozyer=|Yedi Kardeş=
+21117	Eyüpler Mah.	Eyüpler=
+193147	Gökçen Mah.	Diyarbakır Bingöl@|Gökçen=
+193119	Gözebaşı Mah.	Eldeğmez=|Gözebaşı=|Karşıyaka=|Çamdalı=
+193137	Günalan Mah.	200@|Ateşler=|Günalan=
+21118	Hacı Reşit Mah.	Diyarbakır Bingöl@|Hacı Reşit-1.=|Hacı Reşit-2.=
+21119	Kaya Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17@|18~|19~|2~|20~|21@|22@|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|4~|5~|51~|58@|6~|7~|8~|9~|Arcud@|Arduc=|Cami~|Cumhuriyet@|Demircan~|Diyarbakır Bingöl@|Duman@|Filiz~|Gül~|Güvercin~|Hacı Musaoğulları=|Harem=|Hastane@|Kokulupınar@|Kılıç~|Okul~|Sevik@|Yazıköy@|Zınar@|Çam~|İso Diyarı@|Şehit Polis Memuru Kuddusi Demli@|Şehit Uzman Çavuş Hatip Çağlar@|Şirin~
+21120	Kokulupınar Mah.	Diyarbakır Bingöl@|Kokulupınar-1.=|Kokulupınar-2.=|Yıldız@
+193139	Suçıktı Mah.	Geyiksırtı=|Gültarla=|Suçıktı=|Yalçınkaya=
+193143	Tepecik Mah.	Akdiken=|Akçagöz=|Diyarbakır Bingöl@|Işıklar=|Tepecik=|Şahintepe=
+193145	Yazıköy Mah.	Diyarbakır Bingöl@|Yazıköy=
+21123	Yenişehir Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|75@|Ambar@|Aslanlar=|Bilinmeten 7610~|Bilinmeyen 7611~|Burkanlar=|Bızi~|Cumhuriyet@|Elbey~|Eğitim@|Goma Hacı Yusuf=|Hastane@|Kokulupınar@|Koza@|Nedim~|Peletekan@|Tektaş~|Zabok@|İso Diyarı@|Şirin~
+21115	Çakmaklı Mah.	70@|75@|Çakmaklı-1.=|Çakmaklı-2.=
+193135	Çaytepe Mah.	200@|201@|202~|Diyarbakır Bingöl@|Hüseynik=|Toypınar=|Çaytepe=|Çaytepe-1.=|Çaytepe-2.=|Çaytepe5656=
+21116	Çayırlı Mah.	Çay~|Çayırlı=
+193141	Şaklat Mah.	Şaklat=
+21122	Şerifoğulları Mah.	201@|203~|204@|205@|Kocaköy Cad.@|Şerifoğulları=
+21121	Şeyh Şerafettin Mah.	51~|52~|53~|54~|55~|56~|57~|58@|59~|60~|61~|62~|63~|64~|65~|66@|67@|68~|69~|70@|71@|72@|75@|Ambar@|Demi@|Efe~|Eğitim@|Kaya~|Kıjıka@|Lise@|Mezarlık@|Paşa~|Ptt~|Rahim@|Rahman@|Trt~|Ulu Camii@|Zübeyde Hanım@

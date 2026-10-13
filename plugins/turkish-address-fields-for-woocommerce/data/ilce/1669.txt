@@ -1,0 +1,123 @@
+17509	Adabağ Köyü, 2.km Mevkii	2 Km=
+17511	Adabağ Köyü, Beştaş Mezrası	Beştaş Yolu=
+17510	Adabağ Köyü, Mevkii	Adabağ Köy Yolu=
+17538	Alacabük Köyü, Aksoğan Mezrası	300/32@|Aksoğan Yolu=
+17537	Alacabük Köyü, Mevkii	300/32@|Alacabük Köy Yolu=|Budaklı Köy Yolu=|Doluca Yolu=
+17540	Anadere Köyü, Direkli Mezrası	Direkli Yolu=
+17541	Anadere Köyü, Külbastı Mezrası	Külbastı Yolu=
+17539	Anadere Köyü, Mevkii	Anadere Köy Yolu=
+10852	Aydınlar Mah.	Abdullah Kocakaplan@|Akşemsettin~|Bulut~|Cumhuriyet%|Cumhuriyet1~|Gazi@|Kasım Paşa@|Levent1@|Lise@|Taşlı Tepe@|Ufuk@|Yıldız~|Zırai Donatım1@|İstasyon@|İstiklal1@
+10853	Bahçelievler Mah.	Altın~|Barış~|Burhan Cenkçi~|Burhan Cenkçi1~|Cemal Taşar@|Demir Yolu Altı 1=|Dolu~|Doğa~|Elmas~|Erdoğdu~|Eser~|Gümüş~|Güneş~|Hatun~|Kemal Dernek1~|Lalezar~|Mekineddin Aydın@|Mekinnedin Aydın1~|Nilüfer~|Nizam~|Papatya~|Seher~|Sevgi~|Sümbül~|Uğur Kılıç~|Yakut~|Yaz~|Yağmur~|Zambak~|Zümrüt~|Çağdaş~|Ümit~|İlkbahar~|İnci~|İrem~|Şafak~
+17512	Benekli Köyü, Mevkii	Benekli Köy Yolu=|Karşıyaka Yeni Yol 9~
+17542	Bolalan Köyü, Mevkii	300/32@|Bolalan Köy Yolu=
+17543	Bolalan Köyü, Çataltaş Mezrası	Küme Evler=|Çataltaş Yolu=
+17544	Bolalan Köyü, İncekaya Mezrası	İncekaya Yolu=
+17546	Budaklı Köyü, Doluca Mezrası	Doluca Yolu=
+17545	Budaklı Köyü, Mevkii	Budaklı Köy Yolu=
+17547	Budaklı Köyü, Ustabaşı Mezrası	300/32@|Ustabaşı Yolu=
+10854	Cumhuriyet Mah.	2201~|2202~|2206~|2208~|2208/1~|2208/2~|2208/3~|2208/4~|2208/5~|2208/6~|2208/7~|2208/8~|2208/9~|2221@|2223~|2225~|2227~|2229~|2233~|2235~|2237~|2239~|2251~|Ayyıldız~|Büyük Konutlar 1.~|Büyük Konutlar 11.~|Büyük Konutlar 12.~|Büyük Konutlar 13.~|Büyük Konutlar 2.~|Büyük Konutlar 3.~|Büyük Konutlar 4.~|Büyük Konutlar 5.~|Büyük Konutlar 7.~|Büyük Konutlar 9.~|Havaalanı@|Havaalanı.2@|Havaalanı.3~|Kalkan~|Küçük Konutlar 1~|Küçük Konutlar 2~|Küçük Konutlar 3.~|Küçük Konutlar 4~|Küçük Konutlar 5.~|Küçük Konutlar 6~|Küçük Konutlar 7~|Küçük Konutlar 8~|Küçük Konutlar 9.~|Yeni Konutlar 13.~|Yeni Konutlar 15.~|Yeni Konutlar 17.~|Zafer@|Çevre Yolu 1.29~|Çevre Yolu@|İmar Yolu 1~|İmar Yolu 10~|İmar Yolu 11~|İmar Yolu 12~|İmar Yolu 14~|İmar Yolu 15~|İmar Yolu 16~|İmar Yolu 18~|İmar Yolu 19~|İmar Yolu 20~|İmar Yolu 22~|İmar Yolu 23~|İmar Yolu 24~|İmar Yolu 25~|İmar Yolu 26~|İmar Yolu 28~|İmar Yolu 29~|İmar Yolu 3~|İmar Yolu 30~|İmar Yolu 31~|İmar Yolu 32~|İmar Yolu 33~|İmar Yolu 34~|İmar Yolu 4~|İmar Yolu 5~|İmar Yolu 6~|İmar Yolu 7~|İmar Yolu 8~|İmar Yolu 9~|İmar Yolu~|İmar Yolu13~
+17513	Dalda Köyü, Mevkii	Dalda Köy Yolu=
+17554	Dağdibi Köyü, Mevkii	Dağdibi Köy Yolu=
+17524	Dibekli Köyü, Arılı Mezrası	Arılı Yolu=
+17523	Dibekli Köyü, Mevkii	300/32@|Dibekli Köy Yolu=
+10856	Dumlupınar Mah.	Abidin İnan@|Aşitan~|Bahar~|Bağlar~|Beden-~|Belen~|Beşiktaş~|Cemre~|Cihan~|Dumlupınar1~|Duygu~|Efsane~|Elif~|Eşref~|Fatih@|Fatih2~|Gazi@|Hilal~|Kehribar~|Kireç Ocakları~|Nurettin Kara@|Yavuz Selim@|Yıldırım~
+17556	Dönertaş Köyü, Aktoprak Mezrası	Aktoprak Yolu=
+17557	Dönertaş Köyü, Gölgele Mezrası	Gölgele Yolu=
+17555	Dönertaş Köyü, Mevkii	Dönertaş Köy Yolu=
+17558	Düzcealan Köyü, Mevkii	Düzcealan Köy Yolu=
+17559	Düzcealan Köyü, Çamaltı Mezrası	Çamaltı Yolu=
+10857	Esentepe Mah.	Bilinmeyen~|Cumhuriyet%|Demet~|Emin~|Esentepe 1~|Kazım Oto@|Mayıs~|Mehmet Akif@|Metin~|Okul@|Portakal~|Samanlı~|Sebil~|Sefa~|Selam~|Selma~|Suna~|Sıla@|Sıra~|Tatvan Bitlis Yolu-@|Umman~|Umut~|Uğur@|Çevre Yolu@|Çiğdem~|Ömür~|Özgür@|Şeker~|Şirin~
+17525	Eğritaş Köyü, Mevkii	Eğritaş Köy Yolu=
+17527	Eğritaş Köyü, Taştop Mezrası	Taştop Yolu=
+17526	Eğritaş Köyü, Top Mezrası	Top Yolu=
+10858	Fatih Mah.	104~|105~|106~|107~|108~|116~|118~|125~|131~|132~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|154~|Ahmet Eren~|Alparslan@|Asya~|Battalgazi~|Bağlar~|Belediye@|Beyazıt@|Bitlis 1.1~|Bitlis 1.2~|Bitlis@|Cumhuriyet%|Eyüp@|Fatih@|Fatih Gazi~|Fenerbahçe~|Galatasaray@|Orhan Gazi~|Osman Gazi@|Pınar@|Sanayi@|Sanayi.1~|Sanayi.2~|Sanayi.3~|Sanayi.4~|Sanayi.5~|Sanayi.6~|Sanayi.7~|Sultan@|Tatvan 1~|Tatvan 2~|Tekin~|Ulubatlı~|Yavuz Selim@|Yıldırım~|Çelebi@|Örenlik Köy Yolu.1~|Örenlik Köy Yolu.2~|Örenlik Köy Yolu.3~|Örenlik Köy Yolu.4~|Örenlik Köy Yolu.5~|Örenlik Köy Yolu.6~|Örenlik Köyü Yolu@|Özdilek~|Şehit İzzettin Baldır~
+10859	Fuar Mah.	Ada~|Akasya~|Bayır~|Bülbül~|Ceylan~|Cumhuriyet%|Deniz~|Devrim@|Doğan~|Fidan~|Fuar Çalı~|Güzeldere@|Haziran~|Huzur~|Karaca~|Kartal~|Kumru~|Sarmaşık~|Sedir~|Selvi~|Site~|Vali Köksal@|Yamaç~|Yeni~|Yunus Emre~|Çalıkuşu~|Çelik~|Şehit M.lami Karaağaç@
+17560	Göllü Köyü, Mevkii	Göllü Köy Yolu=
+17562	Göllü Köyü, Tuzluca Mezrası	Tuzluca Yolu=
+17561	Göllü Köyü, Yayıklı Mezrası	Yayıklı Yolu=
+17563	Güntepe Köyü, Mevkii	300/32@|Güntepe Köy Yolu=
+98200	Güreşçi Köyü, Mevkii	300/32@|Güreşçi Köy Yolu=
+98201	Güreşçi Köyü, Taşdemir Mezrası	300/32@|Taşdemir Yolu=
+17528	Hanelmalı Köyü, Mevkii	Hanelmalı Köy Yolu=
+17564	Harmanlı Köyü, Mevkii	Harmanlı Köy Yolu=
+10860	Hidayet Mah.	Ergezen~|Gaydalı@|Hükümet@|Kanarya~|Kasım Paşa@|Lise@|Mutlu~|Oral~|Pınarbaşı 2~|Pınarbaşı@|Süleyman Kara@|Taç~|Tutkun~|Çevik~|İstiklal1@
+10862	Kale Mah.	2102~|2103~|2104~|2105~|2107~|2108~|2109~|2110~|2111~|2113~|2114~|2115~|2116~|2117~|2118~|2119~|2121~|2123~|2125~|2127~|2129~|2130~|2131~|2132~|2133~|2134~|2135~|2136~|2137~|2138~|2139~|2140~|2141~|2142~|2143~|2145~|2146~|2147~|Ahlat Yolu 5~|Cemal Taşar@|Hünkar~|Işık~|Kale 1~|Kale 2~|Kale~|Karşıyaka Mez. Üstü-=|Melih@|Menekşe@|Nane~|Narin~|Nehir~|Sarı~|Tuna~|Yaprak~|Yayla@|Çevre Yolu 1.~|Çevre Yolu 1.29~|Çevre Yolu 1.3.2~|Çevre Yolu 2~|Çevre Yolu 4.~|Çevre Yolu 5.~|Çevre Yolu 6~|Çevre Yolu@|İmar Yolu 100~|İmar Yolu 101~|İmar Yolu 102~|İmar Yolu 103~|İmar Yolu 104~|İmar Yolu 105~|İmar Yolu 106~|İmar Yolu 107~|İmar Yolu 108~|İmar Yolu 109~|İmar Yolu 111~|İmar Yolu 112~|İmar Yolu 113~|İmar Yolu 114~|İmar Yolu 115~|İmar Yolu 116~|İmar Yolu 117~|İmar Yolu 95~|İmar Yolu 97~|İmar Yolu 98~|İmar Yolu 99~|İncirli~|Şehit Hakan 1~|Şehit Hakan~|Şehit Karaçullu~|Şehit Mehmet Cengiz~|Şehit Mustafa Uğur@|Şehit Mustafa Çinik~|Şehit Necdi Şentürk~|Şehit Necdi Şentürk.1~|Şehit Osman Kirik~|Şehit Sami Bayram@|Şehit Sami Bayram.1~|Şehit Yılmaz Gencer@|Şehit Çetin Taşkın~
+10863	Karataş Mah.	Akpınar~|Cumhuriyet%|Dağ~|Devrim@|Fikret~|Genç~|Karataş Yeşil@|Levent2@|Mazi@|Mehmet Onbaşı@|Orak~|Orman@|Taşlı~|Yeni~|Zirai Donatım2@|İstiklal2@
+10864	Karşıyaka Mah.	1~|2~|2003~|2004~|2005~|2006~|2007~|2008~|2009~|2013~|2013.1~|2013.1.1~|2015~|2015.1~|2016~|2017~|2017.1~|2018~|2018a~|2019~|2020~|2021~|2022~|2024~|2026~|2027~|2031~|2031.1~|2032~|2033~|2034-~|2035~|2036~|2037~|2038~|2039~|2051~|2054~|2055~|2056~|2057~|2058~|2059~|2061~|2063~|2064~|2064.1~|2066~|2068~|2070~|2071~|2072~|2072.1~|2072.2~|2081~|2082~|2083~|2084~|2090~|221@|222@|222.1~|223@|Ahmet Eren1%|Aycan~|Aydın~|Balkın~|Balkın1~|Bayındır@|Bayındır.1~|Bayındır.2~|Bedüüzzaman Külliye~|Beşminare 4~|Bilinmeyen 1@|Bitlis@|Bitlis Tatvan Eski Yolu@|Bitlis Tatvan Eski Yolu.1~|Bitlis Tatvan Eski Yolu.2~|Bitlis Tatvan Eski Yolu.3~|Bitlis.1~|Bitlis.3~|Cemal Taşar@|Cezaevi~|Gürgen@|Hastane@|Karanfil@|Karşıyaka 42~|Karşıyaka 47~|Karşıyaka Yeni Yol 10~|Karşıyaka Yeni Yol 11~|Karşıyaka Yeni Yol 12~|Karşıyaka Yeni Yol 6~|Karşıyaka Yeni Yol 7~|Karşıyaka Yeni Yol 8~|Karşıyaka Yeni Yol 9~|Kekik~|Kiraz~|Köroğlu@|Leylak 1~|Leylak~|Menekşe@|Muş%|Nane 1~|Nemrut@|Nemrut.2~|Nemrut.3~|Nemrut.4~|Sağlam~|Tatvan.4~|Tatvan.5~|Yumurtatepe Yolu@|Çevre Yolu 2.~|Çevre Yolu 2.1~|Çevre Yolu 3.~|Çevre Yolu@|Çevre Yolu.1~|Çevre Yolu.2~|Özgür1@|İmar Yolu 35~|İmar Yolu 36~|İmar Yolu 37~|İmar Yolu 38~|İmar Yolu 39~|İmar Yolu 40~|İmar Yolu 41~|İmar Yolu 43~|İmar Yolu 44~|İmar Yolu 45~|İmar Yolu 46~|İmar Yolu 49~|İmar Yolu 50~|İmar Yolu 51~|İmar Yolu 52~|İmar Yolu 53~|İmar Yolu 54~|İmar Yolu 55~|İmar Yolu 56~|İmar Yolu 58~|İmar Yolu 59~|İmar Yolu 60~|İmar Yolu 61~|İmar Yolu 62~|İmar Yolu 63~|İmar Yolu 64~|İmar Yolu 65~|İmar Yolu 66~|İmar Yolu 67~|İmar Yolu 68~|İmar Yolu 69~|İmar Yolu 70~|İmar Yolu 71~|İmar Yolu 72~|İmar Yolu 73~|İmar Yolu 74~|İmar Yolu 75~|İmar Yolu 76~|İmar Yolu 77~|İmar Yolu 78~|İmar Yolu 79~|İmar Yolu 80~|İmar Yolu 81~|İmar Yolu 82~|İmar Yolu 83~|İmar Yolu 84~|İmar Yolu 85~|İmar Yolu 86~|İmar Yolu 87~|İmar Yolu 88~|İmar Yolu 89~|İmar Yolu 90~|İmar Yolu 91~|İmar Yolu 92~|İmar Yolu 93~|İmar Yolu 94~|İnan~|Şahin~|Şehit Cemal Ateş@|Şehit Cemal Tepeli~|Şehit Fethi Sekin~|Şehit Ramazan~|Şehit Ramazan.1~|Şifa@
+17567	Kaynarca Köyü, Mevkii	300/32@|Kaynarca Köy Yolu=
+17565	Kağanlı Köyü, Mevkii	300/32@|Kağanlı Köy Yolu=
+17566	Kağanlı Köyü, Yapraklı Mezrası	300/32@|Yapraklı Yolu=
+17585	Kolbaşı Köyü, Mevkii	Kolbaşı Yolu=
+17571	Koruklu Köyü, Beşparmak Mezrası	300/32@|Beşparmak Yolu=
+17570	Koruklu Köyü, Mevkii	300/32@|Koruklu Köy Yolu=
+17572	Koruklu Köyü, Yenitoprak Mezrası	300/32@|Yenitoprak Yolu=
+17573	Koyluca Köyü, Mevkii	300/32@|Koyluca Köy Yolu=
+17530	Koyunpınarı Köyü, Mevkii	Koyunpınarı Köy Yolu=
+17531	Koyunpınarı Köyü, Ortaklar Mezrası	Ortaklar Yolu=
+17578	Kuruyaka Köyü, Mevkii	Kuruyaka Köy Yolu=
+17581	Kuşluca Köyü, Karaçalı Mezrası	Karaçalı Yolu=
+17579	Kuşluca Köyü, Mevkii	Kuşluca Köy Yolu=
+17580	Kuşluca Köyü, Üçtepe Mezrası	Üçtepe Yolu=
+17577	Köprücük Köyü, Emek Mezrası	Emek Yolu=
+17575	Köprücük Köyü, Mevkii	300/32@|Köprücük Köy Yolu=
+17576	Köprücük Köyü, Pekmezli Mezrası	Pertekli Yolu=
+17574	Köprücük Köyü, Sandıklı Mezrası	300/32@|Sandıklı Yolu=
+10865	Kültür Mah.	Abdulkerim Çevik@|Ali Destan~|Ali İmran~|Atlas~|Ayhan~|Açelya~|Ağustos~|Cemal Taşar@|Cumhuriyet%|Efil~|Elif Ada~|Elmas~|Gül~|Hızır Öztürk~|Kemal Dernek~|Kemal Dernek1~|Kocakaplan@|Lale~|Mahmut Karaman~|Mekineddin Aydın@|Nihat Barut~|Nisa~|Saka~|Serçe~|Sevgi~|Susam~|Talha~|Tavlaşoğlu~|Tekin Özdemir~|Vali Gökhan Aydıner@|Vefa~|Volkan~|Yakup~|Yakut~|Yalı~|Yediveren~|Yonca~|Çerkez Barut@|Çeşme~|Şehit Mehmet Işık@|Şehmuz Zırhlı@|Şevval~
+17520	Küçüksu Köyü, Mevkii	300/32@|Küçüksu Köy Yolu=
+17529	Kırkbulak Köyü, Mevkii	Kırkbulak Köy Yolu=
+17569	Kısıklı Köyü, Kepenek Mezrası	Kepenek Yolu=
+17568	Kısıklı Köyü, Mevkii	Kısıklı Köy Yolu=
+17514	Kıyıdüzü Köyü, Mevkii	Kıyıdüzü Köy Yolu=
+17582	Nohutlu Köyü, Mevkii	300/32@|Nohutlu Köy Yolu=
+17532	Obuz Köyü, Mevkii	300/32@|Obuz Köy Yolu=
+17583	Odabaşı Köyü, Mevkii	Odabaşı Köy Yolu=
+17584	Odabaşı Köyü, Sugurlu Mezrası	Sungurlu Yolu=
+10866	Pınarbaşı Mah.	Aras~|Dicle~|Doğu~|Dr. Yalçın Eyigün~|Ekim~|Emir~|Fırat~|Gaydalı@|Harman~|Hidayet@|Köşk~|Lise@|Mahir~|Meriç~|Nabey Deresi Yolu~|Nil~|Nurettin Kara@|Pınarbaşı@|Süleyman Kara@|Tutkun~|Yeni Cami~|Yusuf~
+10867	Sahil Mah.	Arif Önsoy~|Banka@|Behiç Çelik~|Cumhuriyet%|Faki Hüseyin Sağnıç@|Göl2@|Göl2.1~|Hayri Sandıkçı~|Kazım Paşa@|Ofis@|Orduevi@|P.t.t.@|Sahil@|Sakarya@|Yeni Çarşı@|İşletme@
+17586	Sallıca Köyü, Mevkii	Sallıca Köy Yolu=|Teknecik Köy Yolu=
+17587	Sallıca Köyü, Özekli Mezrası	
+10868	Saray Mah.	Cemal Taşar@|Ceyhan~|Cumhuriyet%|Faki Hüseyin Sağnıç@|Göl1@|Güzelyalı@|Hal-@|Kazım Paşa@|Maşallah Dayı~|Miray~|Orduevi@|Sahil@|Seyhan~|Şehit Hayrullah Polat~
+17588	Sarıdal Köyü, Mevkii	Sarıdal Köy Yolu=|Sarıdal Köyü Yolu=
+17590	Sarıdal Köyü, Uçankuş Mezrası	Uçankuş Yolu=|Yorgalar Yolu=
+17591	Sarıdal Köyü, Yorgalar Mezrası	Yorgalar Yolu=
+17589	Sarıdal Köyü, Çörekli Mezrası	Yorgalar Yolu=|Çörekli Yolu=
+17517	Sarıkum Köyü, Mevkii	Sarıkum Köy Yolu=
+10869	Sosyal Mah.	Abidin İnan@|Bağlar~|Cemre~|Cihan~|Divan~|Dolunay~|Doğu~|Düden~|Elif~|Emek~|Erdem~|Fatih@|Gazi@|Kasım Paşa@|Mavi~|Melek~|Nabey Deresi Yolu~|Nurettin Kara@|Nurettin Kara. 2~|Poyraz~|Taşlı Tepe@|Yavuz Selim@|Üzüm~|İstiklal1@
+17594	Suboyu Köyü, Dirlik Mezrası	Dirlik Yolu=
+17593	Suboyu Köyü, Mevkii	Suboyu Köy Yolu=
+17592	Söğütlü Köyü, Mevkii	Söğütlü Köy Yolu=
+17597	Teknecik Köyü, Beşikli Mezrası	Beşikli Yolu=
+17596	Teknecik Köyü, Kömürlü Mezrası	Kömürlü Yolu=
+17595	Teknecik Köyü, Mevkii	Teknecik Köy Yolu=
+17534	Tokaçlı Köyü, Mevkii	Tokaçlı Köy Yolu=
+17533	Tokaçlı Köyü, Paşaelmalı Mezrası	Paşelmalı Yolu=
+98202	Topraklı Köyü, Mevkii	Topraklı Köy Yolu=
+17598	Tosunlu Köyü, Mevkii	300/32@|Tosunlu Köy Yolu=
+10871	Tuğ Mah.	1-=|Cumhuriyet%|Devrim@|Eski Belediye~|Filistin Pasajı@|Hükümet@|Kardelen~|Levent2@|Lise@|Orman@|Pınarbaşı@|Tepebaşı@|Tepebaşı.1~|Tuğ 1~|Tuğ 10.~|Tuğ 3.~|Tuğ 4.~|Tuğ 5.~|Tuğ 6.~|Tuğ 8.~|Zirai Donatım2@|İstiklal2@
+17600	Ulusoy Köyü, Ekindüzü Mezrası	300/32@|Ekindüzü Yolu=
+17599	Ulusoy Köyü, Mevkii	300/32@|Ekindüzü Köy Yolu=
+17607	Uncular Köyü, Güvenli Mezrası	300/32@|Güvenli Yolu=
+17606	Uncular Köyü, Mevkii	300/32@|Uncular Köy Yolu=
+17601	Uslu Köyü, Mevkii	Uslu Köy Yolu=
+17602	Yassıca Köyü, Mevkii	300/32@|Yassıca Köy Yolu=
+17603	Yediveren Köyü, Mevkii	300/32@|Yediveren Köy Yolu=
+17604	Yediveren Köyü, Pınarlı Mezrası	300/32@|Pınarlı Yolu=
+17536	Yelkenli Köyü, Mevkii	300/32@|Yelkenli Köy Yolu=
+10872	Yeni Mah.	Devrim@|Harman~|Mezarlık Yolu~|Meşe~|Pınarbaşı@|Yağız~|Yeni Cami~|Çam~
+10873	Yeşilmezra Mah.	Aralık~|Ayaz~|Bal~|Beyaz~|Camii=|Cumhuriyet%|Efe~|Ferah~|Han Elmalıköy Yolu@|Hira@|Kahraman~|Kaya~|Kurtuluş~|Mezbahane@|Mezbahane.1~|Mezra=|Nas~|Neşe~|Nur~|Sağlık~|Yeşil=|Yeşil Mezra 1~|Yeşil Mezra 2~|Yeşilpınar~|İhlas~|İncir~
+17535	Yoncabaşı Köyü, Mevkii	300/32@|Yoncabaşı Köy Yolu=
+17605	Yumrukaya Köyü, Mevkii	Yumrukaya Köy Yolu=
+17519	Yumurtatepe Köyü, Mevkii	Yumurtatepe Köy Yolu=
+17521	Çalıdüzü Köyü, Mevkii	Çalıdüzü Köy Yolu=
+17550	Çanakdüzü Köyü, Bağmeşesi Mezrası	Bağmeşesi Yolu=
+17548	Çanakdüzü Köyü, Mevkii	Çanakdüzü Köy Yolu=
+17551	Çanakdüzü Köyü, Yalınağaç Mezrası	
+17549	Çanakdüzü Köyü, Yaygılı Mezrası	Yaygılı Yolu=
+17552	Çavuşlar Köyü, Mevkii	Çavuşlar Köy Yolu=
+17553	Çavuşlar Köyü, Üzümlü Mezrası	Üzümlü Yolu=
+10855	Çağlayan Mah.	Ay~|Bayır~|Cumhuriyet%|Dalda Yolu@|Devrim@|Eskin~|Eğitim@|Güzeldere@|Ilgın~|Kader~|Kavaklık~|Mevlana~|Mezbahane.1~|Mülk~|Utku~|Yelken~|Yeşilova~|Çamlık~|Çağlayan Camii~|Çağlayan@|Çağlayan Çalı~
+17518	Çekmece Köyü, Mevkii	Çekmece Yolu=
+17522	Çevre Köyü, Mevkii	300/32@|Çevre Köy Yolu=
+17516	Örenlik Köyü, Mevkii	Örenlik Köy Yolu=
+10861	İşletme Mah.	1303~|1304~|1305/2~|1306~|Cumhuriyet%|Faki Hüseyin Sağnıç@|Göl2@|Hal@|Hayat~|Hayri Sandıkçı~|Ilgaz~|Kazım Paşa@|Lojman~|Ofis@|Sahil@|Temmuz~|Turgut~|İskele@|İşletme@
+10870	Şirinevler Mah.	Ahlat Yolu 1~|Ahlat Yolu 2~|Ahlat Yolu 3~|Ahlat Yolu 4~|Ahlat Yolu 5~|Cemal Taşar@|Cengiz@|Cengiz1~|Demir~|Demir2~|Duman~|Erdoğdu~|Esmer~|Güney~|Güven~|Halı Saha~|Işıl~|Karanfil@|Karanfil1~|Meryem~|Meydan~|Pamuk~|Sönmez~|Zümrüt~|Çakıl~

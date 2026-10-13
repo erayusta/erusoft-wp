@@ -1,0 +1,25 @@
+71058	100. Yıl Mah.	Alparslan Türkeş%|Atatürk%|Bulvar=|Büklüm~|Camii Kebir~|Darıcılar=|Duran Ablak~|Esen~|Fatih%|Fırat~|Gazipaşa@|Hacı Hüsnü Şahin@|Hakimiyet@|Lale@|M. Halis Şener@|Menderes@|Menekşe~|Nar~|Recep Tayyip Erdoğan%|Torunoğlu@|Tuna~|Türkmenevleri=|Uzman Çavuş Ali Üstünel=|Yonca~|Çiçek~|Şehit Cengiz Topel@|Şehit Sefa Fındık@|Şehit İdris Kurt=|Şemsettin Bey@|Şht. Rafet Sever@|Şht. Yusuf Parlak@|Şht.ali Gülhan~
+78012	Bahçebaşı Köyü	 Köy$
+79653	Büğet Köyü	 Köy$
+79655	Damlalı Köyü	 Köy$
+79657	Doğlacık Köyü	 Köy$
+79658	Ekinli Köyü	 Köy$
+71056	Gaziosmanpaşa Mah.	Atatürk%|Beşevler=|Davut Duran~|Devlet Bahçeli%|Duran Ablak~|Emre~|Gazipaşa@|Girne@|Gıdımanın Dere=|Kaymakam Mehmet Sarıcan@|Köprülü~|Mahmut Aydoğan~|Yavuz~|Yeşil~|Yunus~|Yıldırım~|Şehit Cengiz Topel@|Şehit Sefa Fındık@|Şemsettin Bey@
+78023	Gündoğan Köyü	 Köy$
+79659	Karacaören Köyü	 Köy$
+79661	Karagözgöllüalan Köyü	 Köy$
+79660	Karagözgöllüalan Köyü, Karadere Mezrası	 Köy$
+79662	Karaoluk Köyü	 Köy$
+79663	Kavunluk Köyü	 Köy$
+71062	Kuşçu Köyü, Karşıyaka Mevkii	Cevizli~|Dere~|Fatih~|Fırın~|Hoca Ahmet Yesevi~|Karakaya~|Körçeşme~|Kızılkaya~|Yamaç~|Yavuz Selim~|Yunus Emre~|İnci~|Şahtepe~
+71064	Kuşçu Köyü, Yeni Mevkii	Fatih~|Harman~|Hoca Ahmet Yesevi~|Karaman~|Mehmet Akif Ersoy~|Menekşe~|Mevlana~|Okul~|Sezer~|Yavuz Selim~|Çatalyol~|Çukur~|Çırdak Yolu~|Şeker~
+71063	Kuşçu Köyü, Şehitler Mevkii	Cami~|Cevizli~|Dere~|Esenyol~|Fatih~|Geçit~|Körçeşme~|Mehmet Akif Ersoy~|Pala~|Yeni Mezar~|Şen~|Şeyh Nakşibendi~
+79664	Sekücek Köyü	 Köy$
+79665	Sivri Köyü	 Köy$
+71055	Türkmenler Mah.	1.~|2.~|3.~|4.~|5.~|6.~|Erikli Dere@|Hakimiyet@|Konak~|Şahinkar@
+79666	Yağmur Köyü	 Köy$
+79667	Yeniköy Köyü	 Köy$
+79656	Çerkez Danişment Köyü	 Köy$
+183842	Çıkrık Mah.	Acıderesi~|Adnan Menderes~|Alpaslan~|Cami Kebir~|Camii Kebir~|Malazgirt~|Maraşal Fevzi Çakmak~|Plevne~|Sıra Söğütler~|Türbe~|Yayla~|Yunus Emre~
+183844	Çırdak Mah.	Çırdak~
+71057	Şehitler Mah.	Şehitler=

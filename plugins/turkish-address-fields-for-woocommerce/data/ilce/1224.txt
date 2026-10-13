@@ -1,0 +1,34 @@
+150249	Akkent Mah.	Acar~|Akar~|Akay@|Akkaya~|Akıltepesi~|Apalar Sarnıcı@|Arif Altıntaş~|Atatürk%|Atik~|Aydın@|Babatepesi@|Bahar@|Barış@|Bayrak~|Bağcı~|Boztoprak=|Canbaz~|Cihan Altıntaş@|Civil~|Cona~|Coştan~|Dedeler~|Demokrasi@|Değirmen~|Duran~|Eker~|Ekizler~|Ekrem Çıkmazı~|Fidan~|Fırın~|Guburlar~|Gölbaşı@|Güneş@|Güzel~|Hakan~|Hamza Okut@|Hamzaokut@|Hatipler@|Hoca Ahmet Yesevi (zeyve)@|Hoca Ahmet Yesevi@|Kalem~|Karacakaya Çıkmazı~|Kayalar~|Kaynak~|Kerimoğlu~|Kocagöl~|Kokulu~|Koru@|Kültür~|Mehmet Taşlı~|Mescit~|Mezarlık Yolu=|Mimar Sinan@|Nalbant~|Nebi Çolak~|Neşeli~|Okul@|Osman Nuri Filiz%|Oturak~|Park~|Pazar~|Pehlivan@|Pilot~|Poslu~|Pınar~|Sanayi@|Sancak~|Saray~|Sarıcalar~|Sağlık@|Sönmez~|Top Can~|Ufuk@|Vatan@|Vedat~|Yapıcı~|Yetkin~|Zengin~|Çamlık@|Çevre Yolu@|Çimenli~|Çiçek@|Çolak~|Özcan Çıkmazı~|Özer~|Özerler~|İbrahim Akduman@|İnan~|İnce~|İnci~|İslamoğlu@|İsmail Duman~|İsmet Ekici@|Şirin~
+150265	Alfaklar Mah.	Alfaklar~
+150267	Aşağıseyit Mah.	Aşağıseyit~
+150269	Bahadınlar Mah.	Bahadınlar~
+150271	Baklançakırlar Mah.	Baklançakırlar~
+150273	Bayıralan Mah.	1 Nolu Küme Evler=|Bayıralan~
+150251	Belevi Mah.	Atatürk@|Aşiyan~|Aşıklar~|Bahçe~|Eflatun~|Erdal İnönü@|Erenler~|Fabrikalar=|Fener~|Gül~|Halil İbrahim Topuz@|Karanfil~|Lale~|Lojmanlar=|Manolya~|Menekşe~|Raşit Çavuş@|Saray~|Sevgi~|Sümbül~|Taşocakları=|Uşak@|Yusuf Başkaya@|İsmet Paşa@|Şehit Piyade Er Bilal Arslan@
+150281	Dayılar Mah.	Dayılar~
+150279	Dağmarmara Mah.	Dağmarmara~
+150253	Denizler Mah.	1.kuyucak@|2.kuyucak@|Arslanlar~|Atatürk@|Baklanlar~|Cumhuriyet%|Denizli@|Dere~|Doğanlar~|Egemenlik@|Fatih@|Gazi%|Hacılar~|Halk@|Hürriyet@|Kahramanlar~|Karaoğlanoğlu@|Kayalar~|Kaymakçılar~|Mezarlık~|Namık Kemal@|Okul (denizler)@|Okul~|Organize Sanayi@|Pazar Yeri Myd.|Sabahlar~|Sağlık~|Yeşilçınar~|Yılmazlar~|Özen~|İnönü@
+150283	Develler Mah.	Develler~
+150285	Gelinören Mah.	Gelinören~
+150255	Hançalar Mah.	1~|2~|3~|4~|5~|Akkent@|Atatürk@|Avşarlar~|Bağcılar=|Belediye (güney) Myd.|Belediye@|Boyacılar~|Ceritlar~|Coşarlar~|Cumhuriyet@|Demirciler@|Eskiakkent@|Gülsevenler~|Hacımemişler~|Hallaçlar~|Helvacılar~|Kilterler~|Kirişler~|Koca~|Kurankursu~|Kuşcular@|Köyaltı@|Köşgerler~|Kıymazlar~|Leblebiciler@|Marangozlar~|Mercanlar~|Nalbantlar=|Ortaköy (kuzey)@|Ortaköy@|Ortaokul@|Sakalar~|Sakızlar~|Sanayi@|Sağlık Ocağı@|Soğuk Hava@|Süller Yolu@|Uzundere@|Yavaşlar~|Yıldızlar~|Çakmaklar~|Çal (kuzey)@|Çal@|Çengeller~|Çulhalar~|Çıraklar~|Ömerler~|Ören~|Örenyolu~|Üşükler~|İlkokul@|İlyaslar~|İmamlar~
+20729	Hüseyinler Mah.	1 Nolu~|3 Nolu~|Alpaslanlar@|Avdan=|Aşağı Cami Geçidi~|Aşağı Camii@|Bağlar@|Camii~|Cumhuriyet İlkokulu@|Denizli@|Durmazlar Geçidi~|Erdemir Çıkmazı~|Garaj@|Hatipler~|Hükümet Geçidi~|Karagöz~|Karayazılı@|Kızılay@|Kızılay Geçidi~|Muammer Güler@|Ortaokul@|Pazar@|Pazar Geçidi~|Sanayi@|Sanayi Geçidi@|Savran Zade Cami@|Stat@|Sürmeli~|Tokatlı~|Zeybek~|Ziraat Yolu@|Çarşı İçi@|Çelikler~|Çivril Caddesi@|İlle Pınar@|Şehit Ali Erdemir@
+150287	Kabalar Mah.	Kabalar~
+150289	Kaplanlar Mah.	Kaplanlar~
+150291	Karakaya Mah.	Karakaya~
+150293	Karapınar Mah.	Karapınar~
+150295	Kocaköy Mah.	Kocaköy~
+150297	Mahmutgazi Mah.	Mahmutgazi~
+150259	Ortaköy Mah.	Akıncılar~|Avyeri~|Bağlar~|Bilenoğlu~|Boyacılar~|Celaller~|Dibekli~|Dr.vali Hasan Canpolat@|Erol Akıncılar@|Gökçeler~|Güney@|Hekimler~|Hüseyin Aydıner@|Kelleciler~|Meteler~|Muhterem Orhan@|Okul@|Omurlar~|Sayalar=|Yağcılar~|Çelikler~|Şehit Jandarma Er Metin Henkoğlu~|Şehit Kemal Kalaycı@
+150299	Peynirciler Mah.	Peynirciler~
+150301	Sakızcılar Mah.	Sakızcılar~
+150303	Sazak Mah.	Sazak~
+150261	Selcen Mah.	1 Nolu=|2 Nolu=|Aktaş~|Altıntaş~|Arslan~|Bahri Bilge@|Balaban Çıkmazı~|Berberler Çıkmazı~|Borhan~|Demokrasi Myd.|Değirmenciler Çıkmazı~|Dikmen~|Elvan~|Eminefendi~|Erdem~|Evran~|Eğitmen Çıkmazı~|Felek Çıkmazı~|Gazi Meydanı Myd.|General Ali Dikmen@|Hacivat~|Hamzalar~|Hüseyin Kocaefe~|Kara Oğlan~|Karaağaçlı~|Karaduman~|Köleler Çıkmazı~|Leblebiciler~|Muallim Büyük Aycan@|Muallim Habip Selcen@|Muallim Hüseyin Aytekin@|Narcı~|Prof. Ahmet Bilge@|Pınar~|Saraylar~|Saraçlar~|Seven~|Tartarlar~|Taşlı~|Uzun~|Çobanlar~|Öğr.ahmet Sağlık Çıkmazı~|Üşürler~|Şahinler~
+150263	Süller Mah.	Abdullah Etli~|Ahmet Özgül~|Altaylar~|Ara~|Atalar~|Atatürk@|Avcılar~|Aşağı Çamlık@|Bahçeli Evler@|Barış@|Bayındır (toprak)@|Bayındır@|Bekilli Yolu (toprak)@|Bekilli Yolu@|Boyacılar~|Boşnaklar@|Camlılar~|Celepoğlu~|Ceritler~|Conk Bayırı@|Cumhuriyet (toprak) Myd.|Cumhuriyet@|Cıranlar (toprak)@|Cıranlar@|Dam Arkası@|Danabayırı@|Deligöz~|Demirini@|Demokrasi@|Değirmen Yolu@|Değirmen Önü~|Doldurmalar~|Gedik~|Geçit~|Göl@|Gölcüler@|Gümüş~|Güneşler~|Güzeller~|Hacı Ahmetler~|Hamzalar~|Hasan Ağalar~|Hasan Hüseyin Kısa~|Haşaşlar~|Hocalar@|Huzur@|Ilgın~|Ilıklar~|Irmak@|Kadılar~|Karakol~|Keskinler~|Kevser~|Kirişler~|Kocabağlar~|Kocapınar@|Kocayol@|Konak@|Köseler@|Mekkeliler@|Menekşe~|Mere Yolu~|Mescitler@|Meydan (toprak)~|Meydan~|Molla Aliler~|Mudanya~|Mutlu~|Müftü Ahmet İzzet Çalgüner@|Müftüler~|Osmanlı@|Park@|Pazar Alanı Myd.|Sarıkaya Mevkii Kümesi=|Sarıkaya~|Savran~|Semerciler@|Soğuk Hava (toprak)@|Soğuk Hava@|Sümbül~|Taylak Oğlu@|Taşkale 1@|Taşkale 2@|Taşlıçalı@|Taşocağı@|Tekeciler~|Tuzluk~|Vatan@|Yağmur@|Yonca@|Yurt@|Yükseller~|Yıldız~|Yılmaz~|Zübeyde Hanım (toprak)@|Zübeyde Hanım@|Zümrüt~|Çamlık@|Çamurluk Mevkii=|Çay@|Çivril@|Çıtlıkalanı@|İbrahim Aytaç@|İmam Hatip~|İnci~|İstiklal@|Ş.j. Astğm. M. Tayyar Temizel@|Ş.j. Komando Çvş. İbrahim Turan~|Şirin@
+150307	Yazır Mah.	Yazır~
+20731	Yeşilyurt Mah.	Dürnük@|Gökyer@|Gökyer Geçidi~|Okul@|Yeşilyurt@|Çamlık Geçidi@|Çarşı@
+150309	Yukarıseyit Mah.	Yukarıseyit~
+150277	Çalkuyucak Mah.	Çalkuyucak~
+150275	Çalçakırlar Mah.	Çalçakırlar~
+150257	İsabey Mah.	Akbaş~|Altay~|Arap~|Arif Ahmet (mozalar)@|Arif Ahmet@|Arka~|Aslan~|Atatürk@|Atmaca~|Avcı~|Ayan~|Bahçe~|Batal~|Bilgin~|Bulut@|Böceli~|Cin~|Cumhuriyet (serdarlar)@|Cumhuriyet Myd.|Demirhan@|Denizli@|Derviş~|Efe~|Eksele~|Emir~|Ermiş~|Gazi Hasan Çelik@|Guz~|Gümüş~|Gümüş Çay@|Hacı Nebi~|Hacı Osman@|Hacı Ömer~|Işık@|Kabakcı~|Kafes~|Kanarya~|Kantar~|Kaplan~|Karagöz~|Karaoğlan@|Kocayusuf~|Koç~|Koşal~|Kuran~|Kuyu Deresi~|Kılıç~|Kıymaz~|Mumcu~|Namık Kemal@|Nizam~|Onur~|Orta Okul@|Pazar~|Pınar~|Sanat@|Saraç~|Sarıçay~|Sağlık~|Selçuk~|Sepetci~|Sert~|Sicim~|Stadyum@|Ulus@|Vatan@|Yayla~|Yazır~|Yeni~|Yeşil~|Yüksel~|Yıldırım~|Yıldız@|Yılmaz~|Çakır~|Çal@|Çalhan~|Çamlık~|Çay~|Çelebi~|Çelik~|Çulha~|Özcan~|Özdemir~|Özden~|Öztürk~|İbiş~|Şahin~|Şehit Ali Selçuk@|Şirin~
+20730	İsmailler Mah.	Akterlik~|Başer~|Cankorur Paşa@|Cumhuriyet@|Cumhuriyet İlkokulu@|Denizli@|Doğan~|Eğrekler=|Gazi İlkokulu@|Halil Oğuz@|Hamam@|Hoşkadem@|Kapalı Çarşı@|Karabudak@|Karabudak Geçidi~|Karanfil~|Koç~|Kumluk=|Kültür@|Kışla@|Ptt@|Sağlık@|Sağlık Geçidi@|Selahattin Pınar@|Stad@|Tantan~|Yeni Mahalle@|Yeşil Saha@|Çamlık@|Çarşı İçi@|Öğretmenlerevi=|İbrahim Çallı@|İlle Pınar@|İstiklal@
+150305	Şapcılar Mah.	Şapcılar~

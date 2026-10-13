@@ -1,0 +1,94 @@
+95307	Akballı Köyü	Akballı=
+95309	Akballı Köyü, Günbatan Üzeri-urema Yayla Evleri	Günbatan Üzeri/urema=
+95308	Akballı Köyü, Kışla Yaylası Yayla Evleri	Kışla Yaylası=
+95310	Alabalık Köyü	Alabalık=
+95311	Alköy Köyü	Alköy=
+95364	Armutveren Köyü	Armutveren=
+95365	Armutveren Köyü, Armutveren Köy Yaylası Yayla Evleri	Armutveren Yayla Evleri=
+95366	Armutveren Köyü, Yayla Evleri Yayla Evleri	- Köy$
+95312	Arılı Köyü	Arılı=
+95313	Arılı Köyü, Marzolat Mevkii	Marzolat=
+95315	Asmakonak Köyü	Asmakonak=
+95314	Asmakonak Köyü, Asmakonak Yaylası Yayla Evleri	
+95318	Aşıkzülali Köyü	Aşıkzülali=
+95319	Aşıkzülali Köyü, Yayla Yayla Evleri	Aşıkzülali Yayla Evleri=
+95316	Aşıküzeyir Köyü	Aşıküzeyir=
+95317	Aşıküzeyir Köyü, Aşıküzeyir Köy Yaylaları Yayla Evleri	Aşıküzeyir=
+95367	Balgözü Köyü	Balgözü=
+95321	Baykent Köyü, Cumatel Mevkii	Baykent=|Cumatel=
+95320	Baykent Köyü, Merkez Mevkii	Baykent=
+95323	Baykent Köyü, Yayla Evi Yayla Evleri	Baykent=|Cumatel=|Yayla Yolu=
+95322	Baykent Köyü, Yukarı Mevkii	Baykent=|Yukarı Baykent=
+95361	Binbaşıeminbey Köyü	Binbaşıeminbey Köyü=
+95363	Binbaşıeminbey Köyü, Binbaşıeminbey Köyü Yayla Evleri Yayla Evleri	Binbaşıeminbey Yayla Evleri=
+95362	Binbaşıeminbey Köyü, Derinsu Mevkii	Derinsu=
+95328	Demirdöver Köyü, Aşağı Mevkii	Aşağı=
+95326	Demirdöver Köyü, Hurgeşen Mevkii	Hurgeşen=
+95329	Demirdöver Köyü, Tikas Mevkii	Tükas=
+95327	Demirdöver Köyü, Yukarı Mevkii	Yukarı=
+95371	Derindere Köyü	Balgöze Yayla Evleri=|Derindere=
+95370	Derindere Köyü, Derindere Yaylası Yayla Evleri	Derindere Yaylası=
+95372	Derindere Köyü, Yayla Evleri Yayla Evleri	Derindere Yayla Evleri=
+184530	Doğrular Mah.	Merkez=|Orta-~
+95373	Erim Köyü	Erim=
+95374	Gönülaçan Köyü	Gönülaçan=
+95375	Gönülaçan Köyü, Gönülaçan Köyü Yaylası Yayla Evleri	Gönülaçan Yayla Evleri=
+95376	Gümüşkavak Köyü	Gümüşkavak=
+95377	Gümüşkavak Köyü, Yayla Yayla Evleri	Yayla=
+95332	Günbatan Köyü	Günbatan=|Gürarmut Yayla Evleri=
+95334	Günlüce Köyü, Aşağı Mevkii	Aşağı=
+95335	Günlüce Köyü, Cadeze Mevkii	Cadeze=
+95333	Günlüce Köyü, Yukarı Mevkii	Yukarı=
+95336	Gürarmut Köyü	Gürarmut=
+95337	Gürarmut Köyü, Kapan Mevkii	Kapan=|Kopuzlu=
+95338	Kaleönü Köyü	Kaleönü=
+95339	Kaleönü Köyü, Kaleönü Köyü Yaylaları Yayla Evleri	Kaleönü=|Kaleönü Yayla Evleri=
+95380	Kalkankaya Köyü	Kalkankaya=
+95381	Kayınlı Köyü	Kayınlı=
+95346	Kolköy Köyü, Cami Mevkii	Cami=
+95347	Kolköy Köyü, Kayadibi Mevkii	Kayadibi=
+95343	Kolköy Köyü, Kısa Mevkii	Kısa=|Sekene=
+95342	Kolköy Köyü, Orta Mevkii	Orta=
+95344	Kolköy Köyü, Sekene Mevkii	Sekene=
+95345	Kolköy Köyü, Yayla Evleri Yayla Evleri	Yayla=
+95348	Kopuzlu Köyü	Kopuzlu=
+95349	Kopuzlu Köyü, Yayla Evleri Yayla Evleri	Kopuzlu Yayla Evleri=
+95382	Kumlukoz Köyü	Kumlukoz=
+95384	Kumlukoz Köyü, Kumlukoz Yayla Evleri	
+95383	Kumlukoz Köyü, Yayla Yayla Evleri	Kumlukoz Yayla Evleri=
+95350	Kurşunçavuş Köyü	Kurşunçavuş=
+95351	Kurşunçavuş Köyü, Yayla Evleri Yayla Evleri	Yayla Evleri=
+95340	Kırköy Köyü, Damala Mevkii	Damala=
+95341	Kırköy Köyü, Kır Mevkii	Kır=
+90758	Merkez Mah.	1.çermik 1~|1.çermik~|15 Temmuz Şehitler Yolu@|2.çermik 1~|2.çermik~|3.çermik~|Alparslan@|Ardahan@|Ardahan/1@|Atatürk 1@|Atatürk@|Aşık Müdami~|Aşıkzülali~|Barış Pınarı Harekatı~|Binbaşı Eminbey Yolu 1=|Binbaşı Eminbey Yolu=|Cumhuriyet@|Cumhuriyet Sok.~|Değirmendere Yolu@|Enerji~|Gençlik~|Hamam~|Kars@|Kars Sok.~|Kartal~|Kırmızı Elma~|Mandıra~|Milli Egemenlik@|Milli Egemenlik1 Sokağı~|Mustafa Bozyiğit~|Müderris İbrahim Yüksel~|Nenekaya Yolu@|Nuri Demirci~|Osman Nuri Atalay~|Rabat Sokak~|Rabat Sokak1~|Rabat Sokak2~|Söğütlüdere@|Türkgözü@|Türkgözü Sokağı~|Ucun Tepesi=|Vehbi Bayraktar~|Yayla Yolu 1~|Yayla Yolu 2~|Yayla Yolu 3~|Yayla Yolu 4~|Yayla Yolu~|Yayla Yolu1~|Yaylaevleri=|Çay~|Şair Hükümdar Ricaloğlu~|Şehit Er Seçkin Yılmaz@|Şehit Teğmen Şenol Şentürk~|Şehit Uzman Çavuş Toygun Aydemir~
+95386	Sarıdarı Köyü	Sarıdarı=
+95385	Sarıçiçek Köyü	Sarıçiçek=|Türkgözü Yayla Evleri=
+95387	Savaşır Köyü	Savaşır=
+95388	Savaşır Köyü, Yayla Evleri Yayla Evleri	Savaşır Köyü Yayla Evleri=
+95353	Söğütlükaya Köyü	Söğütlükaya=
+95354	Söğütlükaya Köyü, Söğütlükaya Köyü Yaylaları Yayla Evleri	Söğütlükaya Yayla Evleri=
+95389	Süngülü Köyü	Süngülü=
+95390	Süngülü Köyü, Yayla Evleri Yayla Evleri	Süngülü Köyü Yayla Evleri=
+95391	Sütoluk Köyü	Sütoluk=
+95392	Sütoluk Köyü, Sütoluk Yayla Evleri Yayla Evleri	Sütoluk Yayla Evleri=
+95393	Taşkıran Köyü	Taşkıran=
+95394	Taşkıran Köyü, Yayla Evleri Yayla Evleri	Taşkıran Yayla Evleri=
+95395	Türgözü Köyü	Köyün Kendisi=
+95396	Türgözü Köyü, Türkgözü Mevkii	Türkgözü=
+95357	Uluçam Köyü	Uluçam=
+95355	Uğurca Köyü	Uğurca=
+95356	Uğurca Köyü, Uğurca Köy Yaylaları Yayla Evleri	Uğurca Köy Yaylaları=
+95398	Yaylaaltı Köyü	Yaylaaltı=
+95397	Yaylaaltı Köyü, Yayla Yayla Evleri	Yaylaaltı Yayla Evleri=
+95399	Yeniköy Köyü	Yeniköy=
+95359	Yolağzı Köyü	Yolağzı=
+95358	Yolağzı Köyü, Yayla Yayla Evleri	Yolağzı Yayla Evleri=
+95360	Yurtbaşı Köyü	Yurtbaşı=
+95400	Yurtbekler Köyü	Yurtbekler=
+95324	Çakırkoç Köyü	Çakırkoç=
+95368	Çambeli Köyü	Çambeli=
+95325	Çamyazı Köyü	Çamyazı=
+95369	Çayırçimen Köyü	Çayırçimen=
+95352	Özbaşı Köyü	Özbaşı=
+95379	İncedere Köyü	İncedere=
+95378	İncedere Köyü, Yayla Yayla Evleri	İncedere Yayla Evleri=

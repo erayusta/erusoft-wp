@@ -1,0 +1,71 @@
+190599	Aktaş Mah.	Aktaş=
+190545	Akşar Mah.	A Küme Evler=|Akşar B.m~|Akşar@|Akşar1~|B Küme Evler=|Koyiçi~|Tahtköy=
+190627	Alıcık Mah.	100.kümeevler=|Alıcık=
+190547	Atyolu Mah.	Atyolu=|Çamlıalan 1=
+190549	Aydoğdu Mah.	Aydoğdu=|Aydoğdu1@|Aydoğdu2=
+30072	Aşağı Mah.	Atatürk@|Bardız Yolu 1~|Bardız Yolu~|Başbağlar=|Başpınar 1~|Başpınar~|Değirmenler Başı~|Dik~|Fetoğlu~|Gençlik Yolu~|Hamamönü Yolu~|Hamişoğlu~|Kurtuluş 1~|Kurtuluş@|Köycü 1~|Köycü@|Ok 1~|Ok@|Park~|Rüzgarlı~|Sanayi Yolu~|Soger 1~|Soger~|Sümbül~|Tarım 1~|Tarım@|Taşbaşı~|Topçu 1~|Topçu 2~|Topçu~|Vatan@|Yoncalık=|Yükseliş Cemiyeti~|Yükseliş-@|Çakmak@|Çarşı 1~|Çarşı~|Çiftçi Yolu~|Şelale~
+190629	Aşağıbakraçlı Mah.	1.kümeevler=|Aşağıbakraçlı=|Dağdibi=|Merkez=|Yukarıbakraçlı=
+190631	Balkaya Mah.	Balkaya 1=|Balkaya=
+190601	Bereketli Mah.	Bereketli=
+190633	Beykaynak Mah.	Beykaynak=|Kaban=
+190551	Beşpınarlar Mah.	Beşpınarlar=
+190635	Deliktaş Mah.	Deliktaş=
+190555	Değirmenlidere Mah.	Değirmenlidere@|Değirmenlidere Merkez=|Değirmenlidere Merkez1=|Değirmenlidere Merkez2=|Değirmenlidere Merkez3=|Değirmenlidere1~|Değirmenlidere2~|Karınca Düzü=
+190557	Dokuzelma Mah.	Dokuzelma=
+190637	Dolunay Mah.	Dolunay=|Gülveren=
+190523	Doğanköy Mah.	Doğanköy=
+190605	Dörtyol Mah.	Dörtyol=
+190559	Esence Mah.	Esence=|Köroğlu=|Pager~
+190607	Esenyurt Mah.	Harmanlı=|Kilise~|Kilise1~|Kilise2~|Kilise3~|Kilise4~|Merkez/1=
+190639	Evbakan Mah.	Balkaya 1=|Bılınmeyen15~|Bılınmeyen16~|Evbakan=|Merkez/7=
+190597	Gaziler Mah.	Gaziler B.m=|Çatalelma=
+190525	Gezenek Mah.	Gezenek=
+190625	Göllet Mah.	Balkaya 1=|Balkaya=|Göllet B.m=|Uğurlu=
+190609	Göreşken Mah.	Göreşken=
+190641	Gözalan Mah.	Gözalan 1~|Gözalan 2.~|Gözalan 3~|Gözalan@|Merkez=
+190611	Gözebaşı Mah.	Gözebaşı=
+190561	Gülveren Mah.	Atyolu=|Gülveren=
+190563	Hoşköy Mah.	Aşağı Hoş=|Hoşköy@|Yukarı Hoş=
+190567	Kayalısu Mah.	Kayalısu=|Merkez/9=
+190615	Kaynak Mah.	Merkez-~|Merkez/3=|Yayla=|Şenpınar=
+190617	Kireçli Mah.	Merkez/4=|Tazeköy=|Çardaklı~
+190569	Köroğlu Mah.	Köroğlu=
+190571	Köşkköy Mah.	Aşağı Köşk=|Merkez.=
+190529	Kürkçü Mah.	Kürkçü=
+190573	Nişantaşı Mah.	Bağlar-~|Dolunay=|Gülveren=|Kevenk 1~|Kevenk 2~|Kevenk 3~|Kevenk~|Küme Evler=|Merkez/9=|Nişantaşı@|Nişantaşı Kümeevler=|Nişantaşı Tetirkoç=|Sarıkayalar1@
+190575	Ormanlı Mah.	Alıcık=|Ormanlı=
+190619	Oyuktaş Mah.	Merkez/1=|Oyuktaş=
+190521	Paşalı Mah.	1.kümeevler=|100.kümeevler=|200.kümeevler=|Balkaya-@|Merkez=
+190579	Penek Mah.	Penek=|Penek1=|Yünören1@
+190581	Sarıkayalar Mah.	Sarıkayalar=|Sarıkayalar1@
+190645	Sarıyar Mah.	Sarıyar~|Sarıyar1~|Sarıyar2~|Sarıyar3~|Sarıyar4~
+190647	Susuz Mah.	Balkaya=|Susuz=
+190583	Söğütler Mah.	Söğütler=
+190531	Sındıran Mah.	Doğanköy=|Sındıran=|İkizpınar 1=
+190585	Tahtköy Mah.	Akşar@|Tahtköy=|Teketaş=
+190623	Tazeköy Mah.	Tazeköy=
+190533	Teketaş Mah.	Teketaş=
+190535	Timurkışla Mah.	Kop~|Kop1~|Kop2~|Merkez-~|Merkez/11~|Merkez/6 1~|Merkez/6 2~|Merkez/6 3~|Merkez/6 4~|Merkez/6 5~|Merkez/6~|Teketaş=|Venk 1~|Venk~|Venk2~|Venk3~
+190537	Turnalı Mah.	Merkez/10=|Yukarıbakraçlı=|Çevirme-~
+190539	Tütenocak Mah.	Tütenocak=
+190649	Uğurlu Mah.	Balkaya=|Uğurlu=|İnceçay=
+190651	Yanıkkaval Mah.	Aşağı Yanıkkaval 1~|Aşağı Yanıkkaval 2~|Aşağı Yanıkkaval 3~|Aşağı Yanıkkaval 4~|Aşağı Yanıkkaval 5~|Aşağı Yanıkkaval~|Balkaya 1=|Deliktaş=|Merkez/7=
+190653	Yaymeşe Mah.	Yaymeşe=
+190587	Yazılı Mah.	Yazılı=|Yazılı1=
+190589	Yelkıran Mah.	Ormanlı=|Yelkıran=
+190591	Yeşildemet Mah.	Sarıkayalar1@|Yeşildemet=
+190541	Yeşilkaya Mah.	Kışla-~|Merkez/8=
+190655	Yoğurtçular Mah.	Gülveren=|Küme Evler=|Yoğurtçular=
+30073	Yukarı Mah.	Atatürk@|Atatürk1~|Bağlarbaşı-=|Başbağlar=|Başpınar~|Bılınmeyen1~|Bılınmeyen2~|Bılınmeyen3~|Bılınmeyen4~|Bılınmeyen5=|Camii~|Cevizli-=|Doğanköy-~|Doğanköy/1~|Doğanköy/11~|Emniyet@|Kale Yolu~|Karanfil~|Karanfil1~|Kars Yolu@|Kars Yolu1~|Kars Yolu11~|Kars Yolu2~|Kars Yolu3~|Karşıyaka=|Kayalı~|Kaynak Yolu~|Köycü@|Okul Yolu@|Panayır Yolu~|Park~|Saltunbaşı=|Taşbaşı~|Teketaş=|Uğur Yolu@|Yedi Nisan Yolu@|Çakmak@|Çatalkom=|İkizpınar=
+190657	Yukarıbakraçlı Mah.	Merkez=|Yukarıbakraçlı=
+190593	Yünören Mah.	Akşar@|Teketaş=|Yünören=|Yünören1@
+190595	Yürekli Mah.	Beşpınarlar=|Köroğlu=|Yürekli=
+190543	Zümrüt Mah.	Zümrüt=
+190553	Çamlıalan Mah.	Aşağı Köşk=|Gülveren=|Merkez.=|Çamlıalan 1=|Çamlıalan=
+190603	Çatalelma Mah.	Çatalelma=
+190577	Özyurt Mah.	Gülveren=|Özyurt=
+190527	İkizpınar Mah.	Sındıran=|Teketaş=|İkizpınar 1=|İkizpınar=
+190643	İnceçay Mah.	Beykaynak=|İnceçay=
+190613	İçmesu Mah.	Gözebaşı=|Çatalelma=|İçmesu=
+190565	İğdeli Mah.	İğdeli=
+190621	Şenpınar Mah.	Şenpınar=

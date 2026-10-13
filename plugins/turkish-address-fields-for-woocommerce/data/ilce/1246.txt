@@ -1,0 +1,65 @@
+4389	Aksu Köyü	Aksu=
+4390	Aksu Köyü, Deveboynu Mezrası	Deveboynu=
+4391	Altıntaş Köyü	Altıntaş=
+4400	Askerhan Köyü	Askerhan=
+4401	Askerhan Köyü, Yaylaevleri Yayla Evleri	Yaylaevleri=
+515	Bahçeli Evler Mah.	700.~|701.~|702.~|Bahçe Saray~|Bakış=|Başpınar@|Saray~|Seyran Tepe~|Vatan@|Yasemın~|Yeşıl~|Yıldırım Beyazıt@
+509	Başpınar Mah.	800.~|801.~|802.~|803.~|Atmaca=|Başpınar@|Nılüfer~|Saray@|Valı Halıl Işık@|Yeşıl11=
+4393	Bozgedik Köyü	Bozgedik=
+4392	Bozgedik Köyü, Düzağaç Mezrası	Düzağaç=
+510	Cami Mah.	500.~|501.~|502.~|503.~|504.~|Başpınar@|Cami=|Hürrıyet~|Melıkşah@|Mımar Sınan~|Valı Halıl Işık@|Yavuz Sultan Selım~|Yeşıl~|Zafer~
+516	Cumhuriyet Mah.	208.~|301.~|302.~|Başak~|Başpınar@|Caglayan22~|Cumhurıyet~|Fatıh~|Hükümet@|Merkez=|Orman2@|Selahaddın Eyyübı~|Teke=|Yıldırım Beyazıt@|Çağlayan~
+98186	Fatih Köyü	Fatih=
+517	Fatih Mah.	600.~|601.~|602.~|603.~|700.~|Akdağ~|Bahcelievler22~|Başpınar@|Cami=|Kutlu=|Küçükbahçe=|Merkez=|Mımar Sınan~|Nılüfer~|Saray@|Valı Halıl Işık@|Yıldırım Beyazıt@
+4397	Gölbağı Köyü	Gölbağı=
+4398	Gölbağı Köyü, Aligür Mezrası	Aligür=
+4399	Gölbağı Köyü, Koyuncular Mezrası	Koyuncular=
+4402	Kalecik Köyü	Kalecik=
+4403	Kalecik Köyü, Cemolar Mezrası	Cemolar=
+4405	Karagöl Köyü	Karagöl=
+4404	Karaçayır Köyü	Karaçayır=
+4406	Korucak Köyü	Korucak=
+4407	Korucak Köyü, Soğukpınar Mezrası	Soğukpınar=
+4408	Köseuşağı Köyü	Köseuşağı=
+4410	Köseuşağı Köyü, Hamik Mezrası	Hamik=
+4409	Köseuşağı Köyü, Yağmurlu Mezrası	Yağmurlu=
+512	Mahmut Nedim Ökmen Mah.	1.~|10.~|11.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Afet Evler 2~|Afet Evler 3~|Afet Evler 4~|Afet Evler5~|Afetevler6~|Afetevlerı7~|Baraj~|Bedıüzzaman%|Bora=|Hasan Gündoğar@|Kavaklı@|Mahmut Sahın2@|Melıkşah@|Pınarbaşı@|Şişman=
+513	Merkez Mah.	400.~|401.~|Akdağ~|Başpınar@|Cumhurıyet~|Merkez=|Mımar Sınan~|Selahaddın Eyyübı~|Teke=|Yıldırım Beyazıt@
+4418	Mutlu Köyü, Alisaha Kümesi Mevkii	Alisaha Kümesi=
+4414	Mutlu Köyü, Bahçe Kümesi Mevkii	Bahçe Kümesi=
+4417	Mutlu Köyü, Dere Yaylası Yayla Evleri	Dere Yaylası=
+99553	Mutlu Köyü, Harman Mevkii	
+4419	Mutlu Köyü, Hovirge Yaylası Yayla Evleri	Hovirge Yaylası=
+4411	Mutlu Köyü, Karşı Küme Evleri Mevkii	Karşı Küme Evleri=
+4416	Mutlu Köyü, Kışıkan Yaylası Yayla Evleri	Kışıkan Yaylası=
+4413	Mutlu Köyü, Merkez Kümesi Mevkii	Merkez Kümesi=
+4415	Mutlu Köyü, Tozik Yaylası Yayla Evleri	Tozik Yaylası=
+518	Pınarbaşı Beldesi, Aktaş Mah.	Aktaş=
+519	Pınarbaşı Beldesi, Balıkburun Mah.	Dede=|Kalender=|Karşı Evler=|Kooperatif=|Meşe=|Şirin=
+520	Pınarbaşı Beldesi, Cami Mah.	105~|106~|107~|108~|36~|37~|38~|39~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|50~|51~|52~|53~|54~|55~|56~|57~|62~|Affet=|Ahmet Kaya@|Atatürk%|Belediye=|Beledıye@|Cami=|Geller@|Hamo Dede@|Harabe=|Kandil=|Mezarlık=|Zerban=|Zerbıan@|Çopur 2~
+522	Pınarbaşı Beldesi, Hacılar Mah.	1~|10~|100~|101~|102~|109~|11~|110~|12~|13.~|14~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|3~|4~|5~|6~|7~|8~|9~|Atatürk%|Eski Hacılar=|Güzel Dede@|Harabe=|Kandil=|Kültür@
+524	Pınarbaşı Beldesi, Kaya Mah.	46~|58~|59~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|Affet=|Beledıye@|Ceviz Deresi=|Ceviz Pınarı=|Hacılar Ovası=|Hamo Dede@|Zerban=|Zerbıan@|Çopur 2~|Çopur 3@|Çopur@
+525	Pınarbaşı Beldesi, Kurudere Mah.	103~|104~|111~|26~|27~|28~|29~|30~|31~|32~|33~|34~|35~|Atatürk%|Eski Hacılar=|Güzel Dede@|Kurudere@|Okul=|Orman=|Pınar=
+521	Pınarbaşı Beldesi, Çamlıyayla Mah.	Aligüle=|Ariorte=|Cevher Kuyusu=|Davul=|Kaskaska=|Sarmısak=|Teksöğüt=|Çöpür=
+523	Pınarbaşı Beldesi, İnönü Mah.	Affet=|Aktaş=|Çalğan=
+4420	Recep Köyü	Recep=
+4422	Recep Köyü, Eskiköy Mezrası	Eskiköy=
+4424	Recep Köyü, Şahverdi Eskiköy Yayla Evleri	- Köy$
+4421	Recep Köyü, Şahverdi Mezrası	Şahverdi=
+4423	Recep Köyü, Şahverdi Yaylaevleri Yayla Evleri	Şahverdi Yaylaevleri=
+4429	Yağızatlı Köyü	Yağızatlı=
+99985	Yeşilova Köyü, Köyün Kendisi Mevkii	Elmalı=
+4432	Yeşiltepe Köyü	Yeşiltepe=
+4431	Yeşiltepe Köyü, Kale Mezrası	Kale=
+4433	Yeşilyayla Köyü	Yeşilyayla=
+4434	Yeşilyayla Köyü, Eskiköy Mezrası	Eskiköy=
+511	Yunus Emre Mah.	100.~|101.~|102.~|103.~|Baraj~|Bayındır~|Bora=|Emnıyet~|Hoca Ahmet Yesevı@|Hükümet@|M Akıf Ersoy@|Mahmut Sahın2@|Malatya@|Melıkşah@|Orman@|Yenı~|Yunus Emre2~|Yıldırım Beyazıt2@|Zübeyde Hanım~|Zümrüt~|Şişman=
+514	Zafer Mah.	200.~|201.~|202.~|203.~|204.~|205.~|206.~|207.~|Bayındır~|Bora=|Caglayan2~|Cami=|Cami~|Cumhurıyet2~|Emek~|Hükümet@|Mahmut Şahın@|Mehmet Akıf Ersoy@|Melıkşah@|Oduncu=|Orman@|Ptt~|Teke=|Valı Halıl Işık@|Yıldırım Beyazıt2@
+4396	Çampınar Köyü	Çampınar=
+4394	Çampınar Köyü, Değirmen Başı Mezrası	Değirmen Başı=
+4395	Çampınar Köyü, Yayla Evleri Yayla Evleri	Yaylaevleri=
+197897	İncirli Köyü	İncirli=
+4425	Şerefhan Köyü	Şerefhan=
+4427	Şerefhan Köyü, Esenli Mezrası	Esenli=
+185024	Şerefhan Köyü, Havuzbaşı Mevkii	
+4426	Şerefhan Köyü, Çat Mezrası	Çat=

@@ -1,0 +1,23 @@
+19417	Aşağıyumrutaş Köyü	Antalya Isparta@|Aşağıyumrutaş Köy Köy$
+10985	Bala Mah.	Atasoy~|Barbaros@|Bulut~|Burdur 1.@|Burdur@|Cumhuriyet 1.~|Cumhuriyet@|Dağlar~|Düzenci 1.~|Düzenci~|Eski Saray~|Fidan~|Gündüz~|Gürlek@|Kapılı Harım 1.~|Kapılı Harım~|Kütük~|Mezarlık~|Mimar Sinan@|Mimar Sinan Çıkmazı@|Mustafa Yeşil@|Poçulu~|Samancı~|Sipahiler~|Taşlıyer~|Topçular~|Turgut Özal@|Varol~|Varol Çıkmazı 2.~|Varol Çıkmazı~|Yukarı~|Çayiçi~|Çayır 1.~|Çayır~|Çukuriçi 1.~|Çukuriçi~|Çukuriçi Çıkmazı~|İstiklal@
+19423	Dereköy Köyü	Dereköy Köy Köy$
+10986	Hamam Mah.	Akdoğan~|Antalya Yolu%|Burdur@|Candan~|Cumhuriyet@|Fatih@|Gündüz~|Hazine~|Kemer Köprü 1-~|Köçek Harım 1.~|Köçek Harım~|Mera 1~|Mera 1.~|Mera~|Mustafa Yeşil@|Samsun@|Vatan@|Yeşil~|Yıldırım Beyazıt@
+19424	Hisar Köyü	Hisar Köy$
+19425	Kiprit Köyü	Kiprit Köy$
+10988	Kum Mah.	Anafartalar@|Antalya~|Antalya Yolu 1.~|Antalya Yolu 2.~|Antalya Yolu 3.~|Antalya Yolu 4.~|Antalya Yolu 5.~|Antalya Yolu 6.~|Antalya Yolu 7.~|Antalya Yolu 8.~|Antalya Yolu 9.~|Antalya Yolu%|Aslan~|Ayazmana=|Bayar~|Burdur@|Dam Yokuşu~|Deniz~|Denız 1.~|Dilek~|Hanay İçi=|Karaca~|Köçek Harım~|Mehmet Akif Ersoy@|Samsun 1.~|Samsun@|Yarar~|Yıldırım Beyazıt 1.~|Yıldırım Beyazıt 2.~|Yıldırım Beyazıt@|Çanaklı Yolu~
+10987	Kıraç Mah.	Ballıca Yolu~|Barbaros 1.~|Barbaros@|Dumlupınar@|Eski Saray~|Mehmetcik 1.~|Pınar 1.~|Pınar~|Sorkun=|Yaylakent 1. Sk~|Yaylakent 2. Sk~|Yaylakent 3. Sk~|Yaylakent 4. Sk~|Yaylakent 5. Sk~|Yaylakent 6. Sk~|Çanakkale 1.~|Çanakkale@
+10990	Mamak Köyü, Fatih Mevkii	Altın~|Ağlasun~|Bayır~|Bedir~|Bucak~|Dere~|Dibektaş 1.~|Dibektaş~|Dolay~|Ece~|Hilal~|Hisarköy~|Kır~|Nayır 1.~|Nayır~|Yaka~|Çay~|Çağlar~|İmamlar~|İstiklal 2.~|İstiklal~|Şahin~|Şehit Mithat Akça 1.~|Şehit Mithat Akça 2.~|Şehit Mithat Akça~
+10991	Mamak Köyü, Yavuz Mevkii	Fidan~|Fırın~|Gül Çıkmazı~|Huzur~|Kerpiç~|Okul~|Sedir~|Testi~|Tomsuyer~|Yüksel Çıkmazı~|Ziraat~|Şehit Mithat Akça~
+10989	Sakarca Mah.	Abdil~|Akyamaç~|Altınok~|Ağalar Cami~|Ağalar~|Bayka~|Bağarası~|Beder~|Bilgiç~|Bülbül~|Deveci~|Doğan~|Duman~|Dumlupınar@|Ercan~|Fevzi Çakmak@|Gazi@|Giritli~|Gülcü~|Isparta Yolu 1.~|Isparta Yolu 2.~|Isparta Yolu%|Kaplan 1.~|Kaplan~|Kazım Karabekir@|Konozu=|Korkmaz 1.~|Korkmaz~|Kurtuluş~|Malazgirt@|Manasır=|Mehmetcik 1.~|Mehmetcik@|Mülazim Çıkmazı~|Pişkin~|Preveze@|Susaklı@|Toprak~|Uludoğan 1~|Yayla Yolu~|Yeşil Vadi 1.~|Yorgancı~|Yukarı 1~|Çayboyu~|Özen~|Ünlü~|İnci~|İnönü@|Şen~
+19426	Yazır Köyü	Yazır Köy Köy$
+19427	Yazır Köyü, Sakarlar Mezrası	Sakarlar Köy$
+10992	Yeşilbaşköy Köyü, Deregözü Mevkii	Atatürk~|Burdur~|Cengiz Topel~|Delikli Taş~|Değirmen~|Dumlupınar~|Fevzi Çakmak~|Kervan~|Menderes~|Sumaklı~|İkizler~
+10993	Yeşilbaşköy Köyü, Eynazlı Mevkii	51-~|Atatürk~|Avla~|Burdur~|Delikli Taş~|Eynazlı~|Fatih~|Gövez~|Gül~|Kum~|Mehter~|Meme Yeri~|Menderes~|Süpürgelik~|Sırma~|Yenicebaşı~|Çatak~
+19429	Yumrutaş Köyü, Bakırlı Mevkii	Bakırlı Köy$
+19428	Yumrutaş Köyü, Çamova Mevkii	Çamova Köy$
+19418	Çamlıdere Köyü	Çamlıdere Köy$
+19420	Çamlıdere Köyü, Gökbel Mezrası	Antalya Isparta@|Gökbel Köy$
+19422	Çamlıdere Köyü, Harmancık Mezrası	Harmancık Köy$
+19419	Çamlıdere Köyü, Karagöl Mezrası	Antalya Isparta@|Karagöl Köy$
+19421	Çamlıdere Köyü, Sakızlık Mezrası	Antalya Isparta@|Sakızlık Köy$
+98488	Çınar Mah.	Akdoğan~|Antalya Yolu%|Atatürk 1.~|Atatürk 2.~|Atatürk@|Burdur@|Cemal Gürsel@|Cumhuriyet@|Fatih@|Fevzi Çakmak 1.~|Fevzi Çakmak@|Hayta~|Hazine~|Isparta@|Isparta Yolu%|Kasaplar 1.~|Kasaplar~|Kemer Köprü~|Kurnaz~|Mehmetcik 1.~|Mehmetcik@|Mustafa Yeşil@|Ptt 1.~|Ptt 2.~|Ptt~|Uludoğan~|Vatan 1.~|Vatan@|Vehbi Koç%|İnönü@

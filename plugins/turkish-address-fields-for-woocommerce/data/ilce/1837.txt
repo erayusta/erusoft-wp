@@ -1,0 +1,60 @@
+36345	Akçay Köyü	Akçay=
+36346	Alidede Köyü	 Köy$
+36347	Armutçukuru Köyü	 Köy$
+30862	Aydere Mah.	Mendehur=|Sırçaoğulları=|Uzunoğulları~|İnçoğulları Mevkii=
+36350	Balçıklı Köyü, Hapanca Yolu Mevkii	 Köy$
+36355	Balçıklı Köyü, Hekimoğlu Mevkii	 Köy$
+36354	Balçıklı Köyü, Kuzyaka Mevkii	 Köy$
+36351	Balçıklı Köyü, Kıran Mevkii	 Köy$
+36348	Balçıklı Köyü, Merkez Mevkii	 Köy$
+36353	Balçıklı Köyü, Petbaşı Mevkii	 Köy$
+36352	Balçıklı Köyü, Sevdanlı Mevkii	 Köy$
+36349	Balçıklı Köyü, Tepe Mevkii	 Köy$
+30871	Bozat Köyü, Bitene Mevkii	Gölbucağı=|Kıran=|Kırantepe=|Mektep Yanı=|Molladüzü=|Okul=|Çalandere=
+30872	Bozat Köyü, Bozat Mevkii	Değirmenyanı=|Düzdere=|Konaklı=|Köprübaşı=|Külçukuru=|Tepecik=|Yeni Camii=|Yıldız=|İlköğretim=|Şerefli=
+30873	Bozat Köyü, Göldüzü Mevkii	Güzeren=|Hartamacılı=|Toramanlı=|Yeniköy=
+36356	Bülbüllü Köyü	 Köy$
+36383	Deregözü Köyü, Alameşe Mevkii	 Köy$
+36382	Deregözü Köyü, Deregözü Mevkii	Bektaş Köy$|Dereyanı Köy$
+30863	Eren Mah.	1 Nolu~|101 Nolu~|102 Nolu~|103 Nolu~|104 Nolu~|105 Nolu~|106 Nolu~|107 Nolu~|108 Nolu~|109 Nolu~|11 Nolu~|110 Nolu~|111 Nolu~|112 Nolu -~|13 Nolu~|15 Nolu~|17 Nolu~|200 Nolu~|235 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|7 Nolu~|9 Nolu~|Camii Arkası~|Camii Arkası/1~|Camii Arkası/2~|Camii~|Cavit Tirali~|Değirmen@|Emir Yücel@|Emir Yücel/1~|Eren Giresun /2~|Eren Giresun/1~|Fabrika@|Giresun@|Kadılar Semti=|Liman~|Mezbaha Yolu-~|Okul~|Ordu@|Ordu/1~|Ordu/3~|Stadyum@|Stadyum/1~|Tirali~|Uzunoğulları~|Uzunoğulları/4~|İbrahim Bey~
+36361	Esentepe Köyü, Dere Mevkii	 Köy$
+36359	Esentepe Köyü, Kaleyanı Mevkii	 Köy$
+36362	Esentepe Köyü, Kavrazlı Mevkii	 Köy$
+36363	Esentepe Köyü, Kıran Mevkii	 Köy$
+36360	Esentepe Köyü, Merkez Mevkii	 Köy$
+30864	Etlikkıran Mah.	Civooğulları=|Haralioğulları=|Şehidris 5~|Şehidris@|Şehidris1~|Şehidris2~|Şehidris4~|Şehidris6~|Şehidris7~
+36368	Gökçeali Köyü, Akelma Mevkii	 Köy$
+36364	Gökçeali Köyü, Bayramşah Mevkii	 Köy$
+36367	Gökçeali Köyü, Gökçeali Mevkii	 Köy$
+36366	Gökçeali Köyü, Kayabaşı Mevkii	 Köy$
+36365	Gökçeali Köyü, Taflancık Mevkii	 Köy$
+36369	Güneyköy Köyü	 Köy$
+198875	Güzelköy Köyü	Güzeltepe=|Kuzçukuru=|Çardak=
+36370	Hasanşeyh Köyü	 Köy$
+30865	Kaleyanı Mah.	230 Nolu~|Bekiroğulları Mevkii=|Camidüzü Mevkii=|Takıroğlu=|Uzunoğulları~|Çatalahmetoğulları Mevkii=|İnçoğulları Mevkii=
+30866	Kargı Mah.	Boştepe Mevkii=|Geleer Mevkii=|Mağara Yanı=|Mecekkıranı Mevkii=|Tulumoğlu Mevkii=|Çobanoğlu Mevkii=
+36371	Kılıçlı Köyü	 Köy$
+30867	Maden Mah.	2001 Nolu@|2002 Nolu@|328 Nolu~|401 Nolu-~|402 Nolu-~|403 Nolu~|404 Nolu~|405 Nolu~|406 Nolu~|407 Nolu~|408 Nolu~|409 Nolu~|410 Nolu~|411 Nolu~|412 Nolu~|413 Nolu~|414 Nolu~|415 Nolu~|416 Nolu~|417 Nolu~|418 Nolu~|419 Nolu~|420 Nolu~|421 Nolu~|422 Nolu~|422/1~|423 Nolu~|424 Nolu~|425 Nolu~|426 Nolu~|427 Nolu~|428 Nolu~|429 Nolu~|430 Nolu~|431 Nolu~|432 Nolu-~|433 Nolu-~|434 Nolu~|435 Nolu~|436 Nolu~|437 Nolu~|438 Nolu~|439 Nolu~|440 Nolu~|441 Nolu~|442 Nolu~|443 Nolu~|444 Nolu~|445 Nolu~|446 Nolu~|447 Nolu~|448 Nolu~|449 Nolu~|450 Nolu~|451 Nolu~|452 Nolu~|453 Nolu~|454 Nolu~|455 Nolu~|456 Nolu~|457 Nolu~|458 Nolu~|459 Nolu~|460 Nolu~|461 Nolu~|462 Nolu~|463 Nolu~|464 Nolu~|465 Nolu~|466 Nolu~|467 Nolu~|468 Nolu~|469 Nolu~|470 Nolu~|471 Nolu~|472 Nolu~|473 Nolu~|474 Nolu~|475 Nolu~|476 Nolu~|477 Nolu~|478 Nolu~|479 Nolu~|480 Nolu~|481 Nolu~|482 Nolu~|483 Nolu~|484 Nolu~|485 Nolu-~|486 Nolu~|487 Nolu~|488 Nolu-~|489 Nolu~|490 Nolu~|491 Nolu~|492 Nolu~|493 Nolu~|494 Nolu~|495 Nolu~|496 Nolu~|497 Nolu~|498 Nolu~|498/1~|499 Nolu~|Altın Tepe~|Altın Tepe/1~|Arslanlar~|Arslanlar/1~|Atatürk@|Atatürk/1~|Atatürk/2~|Atatürk/3~|Atatürk/4~|Atatürk/5~|Atatürk/6~|Atatürk/7~|Atatürk/8~|Aydın~|Boştepe Mevkii=|Defne~|Enderek~|Eski Giresun@|Fener~|Güney@|Hoştepe@|Kanarya~|Konak Yanı@|Konak Yanı/1~|Küçük Ev~|Lale~|Maden Semti=|Melikoğlu~|Pınar~|Pınar/1~|Susam~|Villa~|Yalı~|Yalı/1~|Yasemin~
+181246	Medrese Köyü, Aktaş Mevkii	 Köy$
+36377	Medrese Köyü, Medrese Mevkii	 Köy$
+36378	Medrese Köyü, Şahintepe Mevkii	 Köy$|Hatipli=
+36372	Narlık Köyü, Aşağı Mevkii	 Köy$
+36373	Narlık Köyü, Yukarı Mevkii	 Köy$
+36375	Nefsi Piraziz Köyü	 Köy$
+36384	Tepeköy Köyü, Alt Mevkii	 Köy$
+36387	Tepeköy Köyü, Bakacak Mevkii	 Köy$|Paşalı Bükü=
+36386	Tepeköy Köyü, Kendirçukuru Mevkii	 Köy$
+36385	Tepeköy Köyü, Orta Mevkii	 Köy$
+36388	Tepeköy Köyü, Yavrutamı Mevkii	 Köy$
+30870	Yeni Mah.	1001 Nolu@|1002 Nolu@|1003 Nolu@|1004 Nolu@|200 Nolu~|201 Nolu~|202 Nolu~|203 Nolu~|204 Nolu~|205 Nolu~|206 Nolu~|207 Nolu~|208 Nolu~|209 Nolu~|210 Nolu~|211 Nolu~|212 Nolu~|213 Nolu~|214 Nolu~|215 Nolu~|216 Nolu~|217 Nolu~|218 Nolu~|219 Nolu~|220 Nolu~|221 Nolu~|222 Nolu~|223 Nolu~|224 Nolu~|225 Nolu~|226 Nolu~|227 Nolu~|228 Nolu~|229 Nolu~|230 Nolu~|231 Nolu~|232 Nolu~|233 Nolu~|234 Nolu~|235 Nolu~|236 Nolu~|237 Nolu-~|238 Nolu~|239 Nolu~|240 Nolu~|241 Nolu~|242 Nolu~|243 Nolu~|244 Nolu~|245 Nolu~|246 Nolu-~|247 Nolu-~|248 Nolu~|249 Nolu~|250 Nolu~|251 Nolu~|252 Nolu~|253 Nolu~|254 Nolu~|255 Nolu~|256 Nolu~|257 Nolu~|258 Nolu~|301 Nolu~|301 Nolu/1~|302 Nolu~|303 Nolu~|304 Nolu~|305 Nolu~|306 Nolu~|307 Nolu~|308 Nolu~|309 Nolu~|310 Nolu~|311 Nolu~|312 Nolu~|313 Nolu~|314 Nolu~|315 Nolu~|316 Nolu~|317 Nolu~|318 Nolu~|319 Nolu~|320 Nolu~|321 Nolu~|322 Nolu~|323 Nolu~|324 Nolu~|325 Nolu~|325 Nolu/1~|325 Nolu/2~|326 Nolu~|327 Nolu~|328 Nolu~|329 Nolu~|330 Nolu~|331 Nolu~|332 Nolu~|333 Nolu~|334 Nolu~|335 Nolu~|336 Nolu~|337 Nolu~|338 Nolu~|339 Nolu~|340 Nolu~|341 Nolu~|342 Nolu~|343 Nolu~|344 Nolu~|345 Nolu~|346 Nolu~|347 Nolu~|348 Nolu~|349 Nolu~|350 Nolu~|351 Nolu~|352 Nolu~|353 Nolu~|353 Nolu/1~|354 Nolu~|355 Nolu~|356 Nolu~|357 Nolu~|358 Nolu~|359 Nolu~|360 Nolu~|360 Nolu/1~|361 Nolu~|362 Nolu~|363 Nolu~|364 Nolu~|365 Nolu~|366 Nolu~|367 Nolu~|368 Nolu~|369 Nolu~|370 Nolu~|371 Nolu~|372 Nolu~|372 Nolu/1~|Akasya~|Ara~|Ara/1~|Aydın~|Aydın/3~|Bahtiyar Aydın Paşa%|Bahtiyar Aydın Paşa/1~|Bahtiyar Aydın Paşa/2~|Bahçelievler@|Baldüzü~|Balkan~|Düz~|Emir Yücel@|Eren@|Fakülte~|Filiz~|Gazi~|Geleer Mevkii=|Giresun@|Giresun/1~|Giresun/2~|Giresun/3~|Giresun/4~|Giresun/6~|Hoştepe@|Hükümet@|Karapınar=|Kurtharmanı~|Lise@|Lise/1~|Lise/2~|Lise/4~|Lise/5~|Manolya~|Osman Öztürk Emniyet@|Papatya~|Papatya/1~|Papatya/2~|Papatya/3~|Papatya/4.~|Papatya/5~|Sabri Çatal@|Uzun~|Uzunoğulları~|Çatalahmetoğulları Mevkii=|Çayırağzı-=|Şahin~|Şht.polis Necmi Akçay 1~|Şht.polis Necmi Akçay@
+36389	Yunusemre Köyü, Armutdüzü Mevkii	Armutdüzü=
+36390	Yunusemre Köyü, Merkez Mevkii	Merkez=
+36358	Çayırköy Köyü	 Köy$
+36357	Çağlandere Köyü	 Köy$
+36374	Örnekköy Köyü	 Köy$
+36380	Şerefli Köyü, Bektaş Mevkii	
+36379	Şerefli Köyü, Dereyanı Mevkii	
+36376	Şerefli Köyü, Merkez Mevkii	 Köy$|Deregözü Köy$
+36381	Şerefli Köyü, Pınarçukuru Mevkii	 Köy$
+30868	Şeyhli Mah.	Ali Ustaoğulları Mevkii=|Ayızoğulları Mevkii=|Başoğulları Semti=|Devletlioğulları Mevkii=|Hacı Cemal Hekim@|Hasancaoğulları-turan Güneş Semtii=|Hocaoğulları Mevkii=|Kaşdibi Mevkii=|Osmanoğulları Mevkii=|Panoğulları Mevkii=|Sağlık~|Sırçaoğulları=|Tekkeyanı Mevkii=|Yirmibeşoğuları Mevkii=|Ömer Hekim Mevkii=|Şehit Öner Güner=|Şen Kıran@
+30869	Şıhkıran Mah.	Anaçlı Mevkii=|Mehtili Mevkii=|Mollahasanoğlu Mevkii=|Pirçeşeyh Mevkii=

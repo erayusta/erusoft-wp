@@ -1,0 +1,84 @@
+98840	8 Mart Mah.	Ada~|Ahvaz~|Akrep~|Alan~|Aram~|Arjin~|Asur~|Asya~|Avrupa~|Ayten~|Bahtiyar~|Bilge~|Cihan~|Defne~|Delil~|Demet~|Destan~|Dicle@|Diyar~|Dılgeş~|Emek~|Fabrika Mercan~|Filiz~|Gülşilan~|Güvercin~|Hastane@|Ihlamur~|Kardeş~|Kartal~|Kore Şehidi Mahmut Aydın~|Mardinyolu@|Medya~|Mezitli~|Mezopotamya~|Midyat Yolu@|Nar~|Nevruz%|Neyzen Tevfik~|Nilüfer~|Nuroj~|Nurşen~|Orkide~|Ozan~|Pelin~|Rengin~|Rojin~|Sedir~|Seyithan~|Sinem~|Sipan~|Tandoğan@|Yalı~|Yayla~|Yonca~|Zafer~|Zozan~|Çağlar1~|Çevre Yolu@|Özgür~|Özlem~|İpek Yolu@|İris~|İğde~|Şen~|Şimal~|Şimşek~|Şiyar~
+60013	Abdulkadirpaşa Mah.	Acar~|Arı~|Azizler~|Büyükkayaçıkmazı~|Dağ~|Demir~|Güler~|Kanarya1~|Karaçam~|Kardelen~|Kartopu~|Kartopu1~|Kılıç~|Saray~|Sağlık~|Sağlık2~|Sidar~|Tekin~|Tuğba~|Umut@|Yakut~|Yağmur-~|Yunus Emre~|Çağ Çağ%|İnönü~|Şirin%
+158179	Akarsu Mah.	Adalı Çıkmazı~|Akasya~|Ay~|Baba~|Bahçe~|Barış~|Bağlar~|Cami~|Cami Çıkmazı~|Cumhuriyet@|Demir~|Deniz~|Değirmen~|Fevzi Paşa~|Gül~|Hastahane~|Hürriyet~|Kale~|Kale Çıkmazı~|Karakol~|Karanfil Çıkmazı~|Kardelen Çıkmazı~|Kıble~|Lale~|Manolya~|Mektep~|Menekşe~|Nar~|Nergiz~|Nusaybin@|Park~|Patika~|Paşa~|Sümbül~|Trafo~|Yeni~|Yıldız (mercan)~|Yıldız@|Çelik~
+158185	Akağıl Mah.	Akağıl=
+158187	Akçatarla Mah.	Akçatarla=|Nizamettinoğlu Çiftliği=
+158209	Açıkköy Mah.	Açıkköy=
+158183	Açıkyol Mah.	Açıkyol=
+158189	Bahçebaşı Mah.	Bahçebaşı=|Trafo=
+158257	Bakacık Mah.	Bakacık=|Sapanlı=|İpek Yolu4@
+158259	Balaban Mah.	Balaban=|İpek Yolu4@
+98841	Barış Mah.	Adar~|Atilla~|Avrupa~|Bahar12~|Bayram~|Defne~|Demet~|Dicle~|Dilşad~|Gap~|Gazi~|Gelin~|Gülşah~|Kule~|Mardinyolu@|Midyat Yolu@|Nehir~|Nergiz~|Onur~|Ozan~|Sarıgül~|Sevgi~|Seyithan~|Sinan~|Susam~|Tandoğan@|Türkmen~|Yayla~|Yeşil~|Çevre Yolu@|Özgen~|Özgür~|İnce Küme~|Şimal~
+158191	Beylik Mah.	Beylik=|Coşan~|Erik~|İpek Yolu@
+158211	Büyükkardeş Mah.	Büyükkardeş=
+158217	Dallıağaç Mah.	Dallıağaç=
+158265	Dağiçi Mah.	Dağiçi=|Yelekli=
+158197	Demirtepe Mah.	Demirtepe=|İpek Yolu@
+98843	Devrim Mah.	Ahvaz~|Akarsu~|Aydınlar~|Bagok~|Barbaros~|Barış Çıkmazı~|Batun~|Ceviz~|Değirmen~|Dicle@|Dicle2@|Duruca~|Evliya Çelebi~|Evrim~|Fırat@|Gamze~|Gümüş~|Güney~|Güneş~|Gürdoğan~|Huzur~|Hınıs@|Jiyan~|Katip Çelebi~|Kaya~|Kenge~|Köprü~|Kültür~|Kızılcık~|Malabadi~|Midyat Yolu@|Mizgin~|Nazan~|Nevruz%|Nil~|Nuh~|Oral~|Pelin~|Roj~|Seher~|Sibel~|Sosin~|Turgut Reis~|Vadi~|Yaprak~|Yaşam~|Yurt~|Yurtsever~|Yurttaş~|Zambak~|Zana~|Zana2~|Çetin~|Özal~|Özmen~|Üzüm~|İpek Yolu@|İsmailırmak%
+158267	Değirmencik Mah.	Değirmencik=
+158269	Dibek Mah.	Dibek=
+98844	Dicle Mah.	Adak~|Akvaryum~|Akın~|Akın1~|Alamet~|Altın~|Anıt~|Avize~|Aydın~|Aygün~|Aysun~|Baran~|Bezirgan~|Bilim~|Can~|Ceyhan-~|Cizre@|Cudı@|Dal~|Evin~|Fidan~|Fidan1~|Gençlik-~|Güleç~|Gültepe~|Kavak~|Kestane~|Koru~|Menekşe~|Merih~|Metin~|Mirza~|Moris@|Müjde~|Mısra~|Pelda~|Sahra~|Sincar~|Songül~|Sunal~|Tepe~|Tunç@|Uçar~|Yakamoz~|Yamaç~|Yasemin~|Yol~|Zakkum~|Ziyan~|Çakır~|Çam~|Çavuşoğlu~|Çağ Çağ%|Çetiner~|Özgürlük~|İpek Yolu@|Şahin~|Şark~|Şeker~|Şelale~|Şırnak@
+158219	Dirim Mah.	Dirim=
+158221	Doğanlı Mah.	Doğanlı=
+158223	Doğuş Mah.	Doğuş=
+158225	Durakbaşı Mah.	Durakbaşı=|İpek Yolu2@
+158177	Duruca Mah.	1.cadde@|1.cıkmaz~|2. Sk~|2.cadde@|2.çıkmaz~|3.çıkmaz~|4. Çıkmaz~|Ahkölk~|Ahmet Kaya~|Ana Cd@|Anadolu~|Aslan~|Aydın~|Bahçe~|Barış~|Can~|Ceylan~|Doğu~|E.24 Karayolu@|Eren~|Ersin~|Evin~|Fidan~|Gül~|Gül1~|Gülveren~|Güney~|Güneş~|Işık~|Kızıl~|Mezarlık~|Meşe~|Nergiz~|Sanayi~|Sorgül~|Susam~|Sümbül~|T Özal~|Çilek~|Çiçek~|Özcan~|Özgür~|İpek~|İpekyolu=|Şahin~
+158199	Düzce Mah.	Düzce=
+158271	Eskihisar Mah.	Eskihisar=
+158227	Eskimağara Mah.	Eskimağara=
+158229	Eskiyol Mah.	Eskiyol=|İpek Yolu2@
+98845	Fırat Mah.	Akay~|Akdeniz~|Ala~|Aslan~|Başak~|Başyurt~|Bekir Durak~|Bülbül~|Dilek~|Dilmen~|Erdem~|Gonca~|Gonca1~|Göknar~|Kanarya~|Kani~|Kardelen1~|Kordon~|Mart~|Mayıs~|Medeni~|Mert~|Muş~|Nefel~|Nisan@|Parıltı~|Rıhtım~|Sakin~|Saray1~|Solin~|Terminal~|Tuğba~|Van~|Veysik~|Yılmaz~|Çakmak~|Çağ Çağ%|Çağdaş~|Ülker~|İpek Yolu@|Şirin%
+158181	Girmeli Mah.	Akıncı~|Bahçelievler@|Bahçelievler1~|Başyurt~|Belediye@|Bilgin~|Bilgin1~|Bülent Pekdemir@|Deniz~|Derya~|Doğan Myd.|Doğan1~|Doğu Küme=|E-24 Karayolu@|Girmeli~|Gölbaşı~|Kanalyolu@|Kanalyolu1~|Kanalyolu2~|Kanalyolu3~|Karanfil~|Keklik~|Kordon@|Köprübaşı~|Köprübaşı1~|Köprübaşı2~|Kızılırmak~|Kızılırmak1~|Meltem~|Meltem1~|Mert~|Mevlana~|Nergiz~|Nezir Devrimci@|Nezirhan Tesisleri=|Saray~|Sağlık@|Seher~|Tandoğan@|Tepe~|Vatan~|Yıldırım~|Zambak~|Çayır~|Çiğdem~|Öner~|Özçelik~|İnce-~|İstiklal@|İstiklal1@|İstiklal2@|Şehit Fatih Duru~
+158231	Görentepe Mah.	Görentepe=
+158233	Günebakan Mah.	Günebakan=
+158273	Güneli Mah.	Güneli=
+158275	Günyurdu Mah.	Günyurdu=|İpek Yolu4@
+158201	Gürün Mah.	Gürün=
+158235	Güvenli Mah.	Güvenli=
+98842	Gırnavas Mah.	Arin~|Arıca~|Baraj Yolu@|Berivan~|Beylik@|Bostan~|Deniz~|Doğa~|Eren~|Eylül~|Gelincik~|Gırnavas1~|Kanal~|Mir~|Mutlu~|Nuskent=|Nuskent1~|Nuskent2~|Nuskent3~|Nuskent4~|Nuskent5~|Nuskent6~|Ocak~|Sanayi Sitesi~|Sanayi Sitesi1.~|Sanayi Sitesi2.~|Sanayi Sitesi3.~|Sanayi Sitesi4.~|Sanayi Sitesi5.~|Sanayi Sitesi6.~|Sanayi Sitesi7.~|Simge~|Temmuz~|Vişne~|İmişçi~|İpek Yolu@|Şubat~
+158279	Hasantepe Mah.	Hasantepe=|Hasantepe1=|Sınırtepe Yolu=|İpek Yolu4@
+158237	Heybeli Mah.	Heybeli=
+158203	Kalecik Mah.	Kalecik=
+158283	Kaleli Mah.	Kaleli~
+158285	Kantar Mah.	Kantar=
+158241	Karaca Mah.	Karaca=
+158287	Kayadibi Mah.	Kayadibi=
+158289	Kocadağ Mah.	Kocadağ=
+158243	Kuruköy Mah.	Kuruköy=|Yayla Evleri=
+158245	Kuyular Mah.	Kuyular=
+158247	Küçükkardeş Mah.	Küçükkardeş=
+60015	Kışla Mah.	Adar~|Azat~|Açelya~|Beyazsu~|Beyazsu1~|Bostancı~|Cesur Çıkmazı~|Cumhuriyet@|Cumhuriyet2~|Devran~|Esiroğlu~|Gökçe~|Günaydın~|Hakkı~|Hamidiye Şehitliği~|Hayat~|Hekim~|Hikmet~|Kalecik~|Kalecik1~|Kaplan~|Kışla Küme=|Kışla Çıkmazı~|M.akif~|Manolya~|Manolya1~|Mardinyolu@|Meltem~|Midyat Yolu@|Nazım~|Palamut~|Petek~|Piri Reis~|Pınar~|Pınar1~|Rezan~|Rüzgar~|Sarıgül~|Sınır~|Tomruk~|Vatan~|Yeni~|Zeytin~|Zümrüt~|Zınar~|Önder@|Şehitler~|Şehitler1~
+60014	Mor-yakup Mah.	Banka~|Cansu~|Cengiztopel~|Cumhuriyet Myd.|Eski Hal~|Hudut~|Karagöz~|Kent~|Kubilay~|Lozan@|Mareşal Fevzi Çakmak~|Mezarlık~|Mor - Yakup~|Mor Efrem~|Namık Kemal@|Narin~|Sakarya@|Sümer~|Sınır@|Timur~|Uluğbey~|Yaşardoğu~|Zeynelabidin~|Ziyagökalp~|Şairbaki~
+158205	Nergizli Mah.	Nergizli=
+158291	Odabaşı Mah.	Gedikhane=|Odabaşı=|Sınırtepe=|İpek Yolu4@
+158293	Pazar Mah.	Pazar=
+98838	Selahaddin Eyyubi Mah.	Akasya~|Akasya Çıkmazı~|Aktaş~|Anafartalar~|Azizoğlu~|Baraj@|Baraj~|Canan~|Ceylan~|Cumhuriyet@|Dere Küme~|Dere~|Elmas~|Eser~|Güven~|Işık Çıkmaz~|Karaağaç~|Karanfil~|Karaçalı~|Kiraz~|Kımız~|Lozan@|Mazi~|Mehmetçik~|Mektep@|Meşe~|Midyat Yolu@|Nesrin~|Palmiye~|Papatya~|Petrol~|Posta~|Sakarya@|Seher~|Soran~|Sülün~|Şeh Raşit~
+158297	Söğütlü Mah.	Ocaklı=|Sayar=|Söğütlü=|İpek Yolu4@
+158295	Sınırtepe Mah.	Sınırtepe=
+158299	Taşköy Mah.	Taşköy=|Yakınca=
+158301	Tekağaç Mah.	Tekağaç=
+158303	Tepealtı Mah.	Tepealtı=|Topaçlı=|İpekyolu3@
+158249	Tepeören Mah.	Dursun=|Tepeören=
+158305	Tepeüstü Mah.	Tepeüstü=|İpekyolu3@
+158307	Turgutköy Mah.	Servan=|Turgutlu=|İpek Yolu4@
+158251	Yandere Mah.	Kuşkaya=|Yandere=
+158253	Yavruköy Mah.	Yavruköy=
+158277	Yazyurdu Mah.	Yazyurdu=|Çamurlu=|İpek Yolu4@
+60017	Yenituran Mah.	Akasya~|Azizoğlu~|Bahar~|Bahar Çıkmazı~|Bahçe~|Cami Çıkmaz~|Canan~|Derya~|Değirmen~|Değirmen Çıkmazı~|Elmas~|Farabi~|Fırat~|Gaziler~|Geyik~|Gül~|Hacı Fetvar~|Hamam~|Kamil~|Karaağaç~|Karaçalı~|Kervan~|Lale~|Lozan@|Mehmetçik~|Mevlana~|Mithat Paşa~|Mithat Paşa Çıkmazı~|Mürsel Paşa~|Nemrut~|Pir~|Poyraz~|Sakarya@|Sarıçam~|Sefer~|Seher~|Selvi~|Tanyeli~|Uğur Çıkmazı~|Yeni Hal~|Yıldızlı~|Zeybek1~|Çağlan Cad.2.çıkmazı~|Çağlayan Cad.1,çıkmazı~|Çağlayan@|Çağçağ~|Çınar~|İpekçi~|İstiklal~|Şenlik~
+60016	Yenişehir Mah.	Adalet~|Adalet1~|Akvaryum~|Asmin~|Belediye~|Bermal~|Bezirgan~|Birlik~|Burç~|Cemre~|Cemre1~|Cizre@|Cudi@|Dersim~|Doğan~|Doğu~|Dsi@|Evin-~|Eylem~|Gültepe~|Gündem~|Ilıca~|Ilıca1~|Kanat~|Karacaoğlan~|Kelebek~|Kemer~|Lise~|Metoroloji~|Meşrutiyet~|Munzur~|Neşe~|Ofis~|Ofis1~|Paşa~|Reyhan~|Serbest~|Sunal~|Süvari~|Tabur~|Tabur Yolu~|Tepe~|Tuna~|Tunç@|Yarar~|Yasemin~|Yavuz Selim~|Zümre~|Çam-~|Çağ Çağ%|İdil~|İlke~|İlke1~|İmaj~|İmaj1~|İmaj2~|İncir~|Şahin~|Şark~|Şengül~|Şırnak@
+158313	Yerköy Mah.	Yerköy=
+60018	Yeşilkent Mah.	Alibey~|Altan~|Beyazgül~|Bulun~|Dem~|Elçi~|Funda~|Gar~|Kalyoz~|Kanal13~|Kanal22~|Kanal25~|Kuşkonmaz~|Leylak~|Lozan@|Mekan~|Santral@|Santral1~|Sümbül~|Zeybek~|Çiğdem~|İnce~|İstasyon@
+158207	Yolbilen Mah.	Kasrık=|Yolbilen=|İpekyolu3@
+158255	Yolindi Mah.	Yolindi=
+60020	Zeynelabidin Mah.	Ay~|Banka~|Bostancı~|Divanyolu~|Kazımkarabekir~|Lozan@|Mareşal Fevzi Çakmak~|Mezarlık~|Mor - Yakup~|Namık Kemal@|Petek~|Petek1~|Selmanipak~|Timur~|Yıldırım~|Yıldız~|Zeynelabidin~|Ziyapaşa~|Çankaya~|Çilek~|Önder@|Şair Nedim~|Şair Şinasi~
+158213	Çalı Mah.	Pınarbaşı=|Çalı=
+158195	Çatalözü Mah.	2601~|2602~|2603~|2604~|2605~|2606~|2607~|2608~|2609~|2610~|2611~|2612~|2613~|2614~|2615~|2616~|2617~|2618~|2619~|2620~|2621~|2622~|2623~|2624~|Midyat Yolu@|Midyat Yolu1~|Çatalözü~|Çağrı~
+158193	Çağlar Mah.	2616~|Martı~|Midyat Yolu@|Çağlar=
+158263	Çilesiz Mah.	Çilesiz=
+158261	Çiğdem Mah.	Çiğdem=
+158215	Çölova Mah.	Çölova=|İpek Yolu2@
+158309	Üçköy Mah.	Güzelsu=|Üçköy=
+158311	Üçyol Mah.	Üçyol=
+158281	İkiztepe Mah.	Tekir=|İkiztepe=
+158239	İlkadım Mah.	İlkadım=
+98839	İpekyolu Mah.	Ali Paşa~|Armut~|Atlas~|Badem~|Bodur~|Dalin~|Kibar~|Kıvrım~|Midyat Yolu@|Midyat Yolu1~|Nizamettinoğlu Çiftliği=|Oba~|Oya~|Stad~|Stad1~|Yürek~|Çatalözü~|Çiftlik Küme~|Çiftlik1~|İpek Yolu@

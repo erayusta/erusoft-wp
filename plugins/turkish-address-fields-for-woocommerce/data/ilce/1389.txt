@@ -1,0 +1,31 @@
+193053	Ağartı Mah.	Ağartı=|Üçbağ=
+21108	Bahçe Mah.	Beyler~|Cindi 1~|Cindi~|Dergah~|Kırlangıç~|Merani~|Seribahçe 1~|Seribahçe~|Taş~|Tepe 1~|Tepe 2.~|Tepe 3~|Tepe 4~|Tepe~|Yıldız 1.~|Yıldız~
+193059	Bayırdüzü Mah.	Bayırdüzü=|Uzunark=
+193055	Bağyurdu Mah.	Bağyurdu=|Goma Hacı Cabbar=|Tavşantepe=
+21109	Cami Mah.	Atatürk@|Bedesten~|Bilge~|Cemil Meriç~|Cumhuriyet Myd.|Defne~|Fevzi Çakmak@|Hocalar~|Kaş~|Kubbe~|Lale~|Lise@|Milli Egemenlik@|Necip Fazıl Kısakürek~|Nur~|Orman~|Tercıl~|Ulu Cami~|Yamaç~|Yenişehir@|Zambak~|Zirve~|Ziyaret~|Şehitlik@|Şehzade~
+193063	Dadaş Mah.	Aşağı=|Bayram=|Cami=|Dadaşağılı=|Kaş=|Nebi=|Çaybaşı=
+21111	Elhuvan Mah.	Beyler~|Dergah~|Eski Ptt@|Fevzi Çakmak@|Harman Yolu~|Karanfil~|Merani~|Piri Reis~|Taş~|Tercıl~|Zıya Gökalp~|Çay~
+193115	Gedikalan Mah.	Gedikalan=|Yerhisar=
+193069	Gözlü Mah.	Biçimli=|Gözlü=|Karşıyaka=|Kireçli=|Sürenbağ=|Teknebaşı=
+21112	Hürriyet Mah.	Bağcılar~|Bağlar 1~|Bağlar~|Değirmen~|Emniyet@|Güneş~|Kadife~|Kahraman~|Mevlana~|Milli Egemenlik 1~|Milli Egemenlik 2~|Milli Egemenlik 3~|Milli Egemenlik@|Yenişehir 1~|Yenişehir 2~|Yenişehir@|Zerguz~|Çağdaş~|Çınar~|Üzümlü~|İbni Sina~|Şehit Astsubay Şerafettin Şengören@|Şehitlik@
+193075	Kavaklıboğaz Mah.	Kavaklıboğaz=|Teknebaşı=
+193085	Koçbaba Mah.	Baterh=|Koçbaba=
+193087	Kulaçtepe Mah.	Dadaşağılı=|Kulaçtepe=
+193077	Kırkkaşık Mah.	Aşağıavlak=|Banekir=|Ceylancı=|Kartallı=|Köprübaşı=|Kırıkkaşık=|Maligir=|Yukarıavlak=|Çaylarbaşı=
+193081	Kırmataş Mah.	Bazılba=|Gültepe=|Köşk=|Kırmataş=
+193089	Meşebağları Mah.	Meşebağları=
+193093	Mutluca Mah.	Mutluca=
+193095	Ormankaya Mah.	Kıraathane=|Ormankaya=|Şahgeldi=
+193065	Reşik Mah.	Gürlek=|Reşik=
+193101	Sarıerik Mah.	Kani Mehmet=|Sarıerik=|Şemo Çeşmesi=
+193099	Sarıçanak Mah.	Düzevler=|Hamzaoğlu=|Sarıçanak=|Varınca=
+193113	Terdöken Mah.	Tekevler=|Terdöken 1=|Terdöken=|Yerigüzel=|Yılgeçti=
+21114	Topalan Mah.	Eminbey~|Eski Ptt@|Hastahane@|Kapalı~|Lise@|Menekşe~|Zirve~|Zübeyde Hanım@|Zıya Gökalp~|Çarşı~|Çay~|İncır~
+193103	Uzunargıt Mah.	Uzunargıt=
+193107	Varınca Mah.	Evincik=|Uzunçay=|Varınca=|İncekavak=
+193111	Yazgı Mah.	Avcı=|Erkonağı=|Kemaliye=|Yazgı=
+193061	Çitlibahçe Mah.	Gözdamı=|Yeni=|Çitlibahçe=
+21110	Çökeksu Mah.	Işık=|Çökeksu=
+193105	Ülgen Mah.	Hinarok=|Hodik=|Kani Büşkül=|Kaniya Kuça=|Korhan=|Koçbaba=|Ülgen=
+193073	İncekavak Mah.	Kuşdamı=|İncekavak=
+21113	İşkar Mah.	Ali Kuşçu~|Cahit Sıtkı Tarancı~|Gül~|Hacılar~|Harman Yolu~|Madenciler~|Sarmaşık~|Zübeyde Hanım@|Çiçek~|Şeyhefendi~

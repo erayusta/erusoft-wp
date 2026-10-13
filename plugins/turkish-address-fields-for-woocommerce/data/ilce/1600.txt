@@ -1,0 +1,35 @@
+155237	Afşar Mah.	Bahçearası~|Değirmendere~|Merkez~|Yeni~
+155239	Ahmetağa Mah.	Alt~|Yeni~|Yukarı~
+155241	Alemşahlı Mah.	Aşağı~|Eselli~|Hisar~|Kemelli~|Orta~|Yukarı~|Çamlık~|Çöldere~
+52368	Ayan Mah.	4 Eylül@|Akgün~|Akın~|Akşehir~|Altın~|Altınay~|Ayankuyu~|Aydın~|Ayçiçek~|Açelya~|Bahçe~|Barbaros~|Begonya~|Bostancı~|Bursalı~|Ceritler~|Demirciler~|Dinç~|Dumanlı~|Dırdaban~|Ekin~|Ergovan~|Eryılmaz~|Fesleğen~|Garaj~|Gelincik~|Gencer~|Gölbaşı~|Güler~|Hacıisalar~|Hamam~|Hamitağa~|Hancılar~|Hanlı~|Hilal~|Ihlamur~|Kaktüs~|Kalkan~|Kamelya~|Kardelen@|Kavak~|Kavakkırı@|Koca~|Kocaimam~|Kumyolu@|Kurmay~|Kuru Çeşme~|Lale~|Manolya~|Mehmetcik@|Mimoza~|Muslu~|Nergis~|Orkide~|Ortanca~|Papatya~|Pazarcami~|Paşa~|Savaş~|Savran~|Sağlık~|Tan~|Tunus~|Tüfekciler~|Tırazlar@|Uzunkuyu~|Yan~|Yokuşbaşı@|Yokuşbaşı~|Yıkkın~|Öz~|Özeren~|İlter~|İnci~|İrfan~|İstiklal@|Şehit Mustafa Karınca@|Şükran~
+52367	Aşağı Koçaklar Mah.	~|Akasya~|Aktaş~|Ali İnan~|Alim~|Aymaz~|Bahçe Arası~|Balcı~|Bayrak~|Başak~|Ceylan~|Dereboyu~|Duru~|Emcelli@|Gülgen~|Gürgen~|Gürler~|Irak~|Laik~|Meltem~|Mersin~|Mevsim~|Namık Kemal@|Narlı~|Onur~|Ormancı~|Ormancı Sol~|Peker~|Sarıkuyu~|Sepil~|Simge~|Söğüt~|Tarım~|Taşkın~|Tekin~|Temel~|Türkmen~|Türkol~|Tıkıroğlu~|Ulu~|Ulus~|Uygun~|Uyum~|Vakıf~|Varlık~|Vatan~|Yaka~|Yavaşlar~|Yeşim~|Yudum~|Yörük~|Çelik~|Çınarlı~|Ömür~|Övgü~|Özge~|Ülgen~|Üstün~|İğdeci~|Ş.ali Suya Batmaz@
+155243	Bahadırlar Mah.	Bağarası~|Buzyaka~|Cumhuriyet@|Demirci@|Dere~|Göl~|Gül~|Güllü~|Güneydamları~|Günyaka (merkez)=|Günyaka~|Kanalyolu~|Meydan~|Mezarlık~|Okularkası~|Sudeposu=|Zeytindalı~|Çamlı~|Çay~|Çeşme~|Çimen~|Çimenli~
+155245	Baharlar Mah.	Baharlar~
+155255	Bağlıca Mah.	Atatürk~|Cumhuriyet~|Konak~|Zafer~
+155247	Bereketli Mah.	Kacar~|Merkez~|Ünlübostan~
+155249	Beyharmanı Mah.	Aşağıdere~|Bedelderesi~|Kıran~|Merkez~|Payamtarla~
+52369	Cumhuriyet Mah.	Adalet~|Albayrak~|Anafartalar@|Anayurt@|Anıl~|Ata~|Atatürk@|Aytekin~|Aşağı Koçaklar@|Bardakçılar@|Bilen~|Bilgi~|Burç~|Defne~|Derin~|Devrim~|Değirmen~|Emek~|Erdoğan@|Eroğlu~|Esen~|Esentepe~|Ezgi~|Funda~|Gökmen~|Göktuğ~|Günay~|Güngör~|Güntürkün~|Hükümet%|Hürriyet~|Kumcu~|Kültür~|Mavi~|Necatibey@|Oba~|Olgun~|Ortam~|Ova~|Park~|Poyraz~|Refik Paşa Çıkmazı~|Reyhan~|Rüzgar~|Sakarya@|Sakarya Çık.~|Sardunya~|Seher~|Selçuk~|Serin~|Sevgi~|Sevinç~|Seyran~|Seçkin~|Solmaz~|Sümbül~|Tatar~|Taşkın~|Taşlı~|Titiz~|Topuzlu@|Turan~|Umay~|Uğur~|Volkan@|Yalın~|Yaren~|Yavuz~|Yayla~|Yeşil~|Yorum~|Yunus Emre@|Yurt~|Zeytin~|Ziraat~|Çakmak~|Çamlı~|Çağ~|Çağdaş~|Çağrı~|Çimen~|Öncü~|Öykü~|Özen~|Özgür~|Öztürk~|Ülkü~|Üzüm~|İstiklal@|Şanlı~
+155275	Dadağlı Mah.	Ağalar~|Esentepe~|Işıklar~|Kuşular~|Medrese~|Yayla Evleri~|Çakallar~
+155283	Dindarlı Mah.	Aşağı~|Gürebaşı~|Kaklık~|Uruflar~|Yukarı~|Çonbak~
+155293	Doğuşlar Mah.	Doğuşlar~
+155299	Emcelli Mah.	Akasya~|Atatürk~|Aşağı Koçaklar Yolu~|Baçe Arası Kümesi~|Cumhuriyet~|Eski Emcelli Yolu~|Güneş~|Hacı Mustafa Özdemir~|Helvacılar~|Karanfil~|Korkmazlar~|Köroğlu~|Nergiz~|Okul=|Polis Kamil Hasırcı~|Yeşildere~|Yıldırım~|Şehit Esin Akay~|Şen~
+155311	Güneydamları Mah.	Deprem Evleri~|Kıllılar~|Merkez~|Tekeliler~
+155319	Günyaka Mah.	Dede~|Kurtdede~|Köyiçi~|Pabuçcu~|Sarıpınar~|Taşdibi~
+155325	Kahramanlar Mah.	Hacıbekirler~|Merkez~|Ömerler~
+155335	Karacaali Mah.	Kavacık~|Merkez~
+52370	Konak Mah.	Arı~|Asri~|Atatürk%|Aydede~|Aydoğdu~|Aşağı Koçaklar@|Başeğmez~|Baştürk~|Bektaşağa~|Biriketçiler~|Cihan~|Demirciler~|Dereboyu@|Doğa~|Eken~|Enerji~|Ethem Hoca@|Fulya~|Gerdan~|Gül~|Güralp~|Güçlü~|Hak~|Halis Selçuk@|Hayat~|Hedef~|Hisar~|Hocazade~|Hükümet Bulvarı%|Kahramanlar@|Karaca~|Karamolla@|Karanfil~|Kaya~|Kilit~|Kurtuluş~|Köroğlu~|Kılıç~|Kısa~|Mesir~|Narin~|Netice~|Okumuş~|Ortak~|Pala~|Pazar~|Pazar Yeri~|Polat~|Pulluk~|Saban~|Sabır~|Salih Çavuş~|Saraç~|Sezen~|Sezgi~|Sığırtmaç~|Teknik~|Terzi Ali~|Terzi~|Tüfekçiler~|Tırazlar@|Uslu~|Uzay~|Yokuşbaşı@|Yukarıkoçaklar@|Yılmaz~|Çakmakçılar~|Çal~|Çallı~|Çamkıran~|Çayır~|Çilingir~|Çiçek~|Çiğdem~|Çırçır~|Örnek~|Özcan~|Özyıldız~|İlke~|Şehit Esin Akay@|Şengün~|Şerifağa~
+155343	Kızılçukur Mah.	Beyler~|Deprem~|Keskin~|Mezarlık~|Orta~|Süleymanlı~|Yağcı Gıran~|Yılancılar~
+52371	Mimar Sinan Mah.	Anafartalar@|Aslan~|Ayaz~|Balıkçıl~|Barış~|Bozdağ~|Bozkurt~|Bülbül~|Erciyes~|Fidan~|Filiz~|Girne@|Göktürk~|Göçmen~|Günbatı~|Güneş~|Gürol~|Işık~|Kaplan~|Karcı~|Kardeş~|Kartal~|Kumru~|Kırlangıç~|Metin~|Mimar Sinan@|Muratpaşa~|Ordu~|Oğuz~|Saka~|Sakarya@|Selvi~|Su Deposu~|Söylemez@|Toros~|Varol~|Yankı~|Yağmur~|Yelkovan~|Yıldız~|Çamlı~|Çetin~|İstiklal@
+155359	Selimiye Mah.	Arnavutlar~|Dutlu Kuyu~|Merkez~|Sazlı Kuyu~
+52372	Siteler Mah.	1 Nolu~|5 Nolu~|7 Nolu~|9 Nolu~|Abonoz~|Akbaba~|Akik~|Alperen~|Anafartalar@|Aras~|Arnavutlar@|Atmaca~|Baba~|Bafra~|Bahar~|Bağ~|Bilim~|Birlik~|Botanik~|Bozkır~|Bıldırcın~|Cula~|Denizli Yolu@|Derya~|Dolamanlık@|Doğan~|Dsi~|Durgun~|Elmas~|Erik~|Eski Çanakçıyolu~|Eğitim~|Fatih@|Filor~|Fırat~|Fırtına~|Genç~|Girne@|Gonca~|Gürel~|Güven~|Güvercin~|Kanarya~|Karakol~|Karakuş~|Keklik~|Kelebek~|Kervan~|Keskin~|Kubilay@|Kuğu~|Köknar~|Leylek~|Martı~|Mehmetcik@|Menekşe~|Meriç~|Meşe~|Muratpaşa~|Nilüfer~|Papağan~|Pelikan~|Penguen~|Petrol~|Pırlanta~|Refik Arıkan@|Saksağan~|Samsun@|Sedef~|Site~|Su Deposu~|Sığırcık~|Tavus~|Taş~|Tiris~|Turna~|Tuğra~|Töre~|Tül~|Tütün~|Vurgun~|Yakut~|Yaşam~|Yaşar Doğu@|Yenice~|Yeşilok~|Yonca~|Yıkkın~|Çalıkuşu~|Çalışkan~|Çavuşlu~|Çaylak~|Çulluk~|Ördek~|İskete~|İspinoz~|İstiklal@|Şahin~|Şahin Tepesi@
+155367	Sığırtmaçlı Mah.	Sığırtmaçlı~
+155379	Tırazlar Mah.	Etem Hoca@|Halil Eralp@|Merkez~
+155383	Yeniköy Mah.	Merkez~
+155389	Yeşiltepe Mah.	Yeşiltepe~
+155393	Yukarıkoçaklar Mah.	Yukarıkoçaklar~
+155399	Ziyanlar Mah.	Ziyanlar~
+155261	Çanakçı Mah.	Hüseyin Cenk Eryılmaz@|Konak~|Refik Cengiz@|Yeni~|Çayaltı~
+155263	Çavuşlar Mah.	Atatürk~|Cumhuriyet~|Zeytinlik~
+155267	Çimentepe Mah.	Beşevler~|Dede~|Ekinlik~|Mercan~|Minik~|Sarıgöl Yolu~|Sevgi~|Son Durak~|Vadi~|Yayla~|Yıldırım~|Çamlı~|Şakir~
+155355	Özpınar Mah.	Özpınar~
+155371	Şeyhdavutlar Mah.	Demirciler~|Eldiremler~|Kemikli~|Merkez~|Namazgah~|Tekeller~

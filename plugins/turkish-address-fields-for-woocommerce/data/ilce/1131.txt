@@ -1,0 +1,48 @@
+149343	Akamber Mah.	Akamber=
+149345	Akdarı Mah.	Akdarı~|Berdiye Mevki~
+149347	Alakent Mah.	Alakent~
+149335	Altınkaya Mah.	1.paşa Çıkmazı~|2.paşa Çıkmazı~|3.paşa Çıkmazı~|Ayvalık~|Açıkgözler Çıkmazı~|Bademli Çıkmazı~|Bademlik~|Bahçeli~|Belediye@|Bozkelle~|Bülbül Çıkmazı~|Cami~|Cami Çıkmazı~|Cengizhan@|Elmalık~|Fatih Sultan Mehmet (paslıkaya)@|Fatih Sultan Mehmet@|Fatmaebe Çıkmazı~|Gökalp~|Hacı Ahmet Çıkmazı~|Hacı Ali~|Hacı İlham Çıkmazı~|Hüseyinyurtsever Çıkmazı~|Kabataş Mevkii~|Kanarya~|Karanfil~|Menekşe~|Molla Necip~|Molla İsmail~|Muhtar Ziya~|Murtluca Mevkii~|Nergiz~|Nizam~|Okul~|Pazar~|Paşalar~|Pehlivan Çıkmazı~|Saadet Abdullah Tazearslan Çıkmazı~|Sarp~|Sarıgül Mevkii~|Selimkara~|Sevil~|Yavuz Sultan Selim@|Yayla~|Yeni Cami~|Yeni~|Yıldırımlar~|Zeyni Mevkii~|Çirkin Çıkmazı~|Çınar~|Özkan Çıkmazı~|Şehit Muhittin~|Şehitmuhittin-1~|Şeyh Hasan~
+149349	Atayurdu Mah.	Atayurdu~
+149351	Avuttepe Mah.	Avuttepe~|Karbeyaz Yolu Üzeri~
+149387	Babatorun Mah.	Babatorun B.m~
+149353	Boynuyoğun Mah.	Boynuyoğun~|Hamzabey Çiftliği~
+149355	Büyükburç Mah.	Büyükburç~
+149403	Dokuzdal Mah.	Dokuzdal~
+149357	Enek Mah.	Altınözü Enek Tdi Osb~|Antakya-altınözü@|Enek~
+149405	Erbaşı Mah.	Erbaşı~
+31145	Fatikli Mah.	1,~|1. Dere~|1. Tepe~|2. Dere~|2. Tepe~|3. Dere~|4. Dere~|Adliye~|Atakan~|Aysın~|Bahar~|Barış~|Bayır~|Bağlantı~|Burcu~|Cami~|Ceren~|Damla~|Derin@|Değirmen~|Emin~|Emir~|Fidan~|Firdevs~|Fulya~|Furkan~|Fırat~|Gülnaz~|Halil İbrahim@|Harman~|Hastahane@|Hazal~|Heşmiye~|Hidayet~|Huzur~|Işık~|Kader~|Kazıkçı~|Kovan~|Kuş~|Kübra~|Kırlangıç~|Kısa~|Lema~|M.cavid Alkan@|Martı~|Mehmet Gürkan@|Merve~|Meryem~|Mihriban@|Mustafa Aşık@|Nazar~|Nur~|Orta~|Osmanlı%|Panda~|Papatya~|Petek~|Pınar~|Rampa~|Rüzgar~|Sara~|Sarmaşık~|Serintepe Küme Evleri=|Seyfettin~|Seymen@|Sibel Hanım@|Silivye~|Sümeyra~|Tacettin Sürmeli@|Tepe(fatikli)~|Teras~|Yay~|Yayık~|Yağmur~|Zehra~|Zirve~|Çeşme~|Çiçek~|Çıkmaz~|Çınar (fatikli)~|Özge~|Ümit@|İlker~|İstiklal@|Şafak@|Şehit Galip~|Şehit Mustafa Ragıp~|Şevval~|Şifa@
+149407	Gözecik Mah.	Gözecik~
+149409	Günvuran Mah.	Günvuran~
+149337	Hacıpaşa Mah.	1.~|10.~|11.~|12.~|13.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23 Temmuz@|23.~|24.~|25. (hürriyet)~|25.~|26.~|27.~|28.~|29.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Atatürk (hürriyet)@|Atatürk@|Cumhuriyet@|Fatih@|Fevzi Çakmak@|Hürriyet (hürriyet)@|Hürriyet@|Kurtuluş@|Kuseyr@|Zafer@|İnönü (hürriyet)@|İnönü@|İstiklal@|Şht.bülent Bilger@|Şht.irfan Fansa@|Şht.m.teysir İpek@|Şht.orhan Alev@
+149331	Hanyolu Mah.	Hanyolu~|Merkez~|Çiftlik~
+149359	Kamberli Mah.	Kamberli~|Sofular-kamberli Çevre Yolu@
+149391	Kansu Mah.	Kansu~
+149339	Karbeyaz Mah.	Albaş Çıkmaz~|Alkan~|Arı Çıkmaz~|Atatürk (kurtuluş)@|Atatürk@|Bahçeli~|Bataklık~|Bayar Çıkmaz~|Bağrıyanık Çıkmaz~|Camii~|Cengiz Topel@|Cesur Çıkmaz~|Coşkun~|Dönmez Çıkmaz~|Esen Çıkmaz~|Fatih@|Fevzi Çakmak (kurtuluş)@|Fevzi Çakmak@|Gül Çıkmaz~|Hacı Salih~|Harmanbaşı~|Hürriyet@|Kader Çıkmaz~|Kale~|Kartal Çıkmaz~|Kastal~|Keleş Çıkmaz~|Kerem~|Köprü Çıkmaz~|Lale Çıkmaz~|Mezarlık~|Mustafa Kemal Atatürk Myd.|Pınarbaşı~|Raşediye Çıkmazı~|Sarıbük@|Tepe~|Ulus~|Uysal Çıkmaz~|Uğur Mumcu@|Yavuzlar~|Yeşil~|Çatık~|Çetin Çıkmaz~|Çeşme~|Çınar~|Özdemirler Çıkmaz~|İskenderbağı=
+149361	Karsu Mah.	Karsu~
+149363	Kazancık Mah.	Kazancık~
+149393	Keskincik Mah.	Keskincik~|Tüleyciye Çiftliği~
+149413	Kolcular Mah.	Kolcular~
+149367	Kozkalesi Mah.	Kozkalesi~
+149369	Kurtmezraası Mah.	Kurtmezraası~
+149411	Kılıçtutan Mah.	Aşağı Meriç~|Kılıçtutan~|Meriç Çiftliği~|Yukarı Meriç~
+149365	Kıyıgören Mah.	Kıyıgören~
+149395	Mayadalı Mah.	Demirköprü Yolu Üzeri~|Mayadalı~
+149397	Oymaklı Mah.	Oymaklı~
+149415	Sarıbük Mah.	Beydün Çiftliği~|Fırre Çiftliği~|Hırbe Çiftliği~|Nalçabasmaz Çiftliği=|Sarıbük~|Şahvaro Çiftliği~
+31146	Sarılar Mah.	Ara~|Arı~|Ay~|Badem~|Bahçe~|Bayrak~|Bulut~|Dağ~|Dere~|Doğa~|Edi~|Ekin~|Gelincik~|Gül~|Gündüz@|Güneş~|Havuz~|Hükümet@|Kamışlık~|Kastal~|Kemer~|Kilise~|Kuyu~|Köprü~|Lale~|Martı~|Meydan~|Nehir~|Okul~|Onur~|Salkım~|Seymen@|Tacettin Sürmeli@|Vatan@|Yaprak~|Yokuş~|Yuva~|Yıldız~|Ziyaret@|Çam~|Çağla~|Çengel~|Çift~|İnönü@
+149417	Seferli Mah.	Seferli~
+149419	Sivrikavak Mah.	Sivrikavak~
+149333	Sofular Mah.	Ağgöl~|Aşağı~|Batız~|Bozyazı~|Esenler~|Esentepe~|Eski Köy~|Harmanlar~|Havuzlar~|Kurtuluş~|Köyiçi Myd.|Modernevler~|Sofular-kamberli Çevre Yolu@|Telli Tepe~|Türkmen Çıkmazı~|Türkmenoğlu~|Yamaç~|Yelenken~
+149371	Tepehan Mah.	Tepehan~
+149373	Tokaçlı Mah.	Kalınsanmevkii~|Köprübaşı~|Tokaçlı~
+149375	Tokdemir Mah.	Tokdemir~
+149377	Toprakhisar Mah.	Karşıyaka~|Toprakhisar~
+149399	Türkmenmezraası Mah.	Türkmenmezraası~
+149421	Yanıkpınar Mah.	Yanıkpınar=
+149379	Yarseli Mah.	Yarseli~
+149385	Yenihisar Mah.	Yenihisar~
+31147	Yenişehir Mah.	1.sanayi~|2.sanayi~|3.sanayi~|Abbas~|Akasya~|Akın~|Atatürk@|Aydınlık~|Açelya~|Belediye@|Berrak~|Böğürtlen~|Cemil Kocaoğlu~|Ceylan~|Defne~|Demet~|Dilek@|Dr.edip Kızıldağ~|Ege~|Emniyet~|Fatih@|Gülistan~|Güven~|Havuz~|Hilal~|Hükümet@|Hızarlar~|Kalfa~|Kanatlı~|Karanfil~|Karınca~|Kaya~|Kevser~|Konak@|Kunduz~|Kuseyri~|Köşk~|M.cavid Alkan@|Mehmet Dönmez@|Melek~|Menekşe(yenişehir)~|Milli Egemenlik@|Mithatpaşa@|Nadi~|Nizamettin Dönmez@|Osmanlı%|Pazar@|Remzi~|Reşit~|Rüya~|Sabahattin Dönmez@|Sedef~|Selahattin Evsen~|Susam~|Sümbül~|Tandır~|Tekel@|Teoman~|Usta~|Vadi~|Vefa~|Yeni@|Yeşil~|Yılmaz~|Zambak~|Zeytin~|Zümre Çiftliği=|Çay~|Çağ~|Çağlayan~|İnönü@|İrem~|Şadi~
+149401	Yolağzı Mah.	Yolağzı~
+149381	Yunushanı Mah.	Yunushanı~
+149383	Ziyaret Mah.	Ziyaret~|Şahvaro Çiftliği~
+149389	Çetenli Mah.	Çetenli~

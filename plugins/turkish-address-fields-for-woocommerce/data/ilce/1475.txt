@@ -1,0 +1,61 @@
+16635	Alagöz Köyü	Alagöz=
+16636	Alagöz Köyü, Melekan Mezrası	Melekan=
+16629	Açıkgüney Köyü	Açıkgüney=
+16631	Açıkgüney Köyü, Samantepe Mezrası	Samantepe=
+16633	Açıkgüney Köyü, Sığırtmaç Mezrası	Sığırtmaç=
+16630	Açıkgüney Köyü, Yoncalı Mezrası	Yoncalı=
+16632	Açıkgüney Köyü, Örük Mezrası	Örük=
+16634	Ağaçöven Köyü	Ağaçöven=
+100437	Baklalı Köyü, Köyün Kendisi Mevkii	Baklalı=
+16637	Billice Köyü	Eyüp Dılürü=
+16644	Billice Köyü, Akçalı Mezrası	Akçalı=
+16640	Billice Köyü, Altındiş Mezrası	Altındiş=
+16641	Billice Köyü, Düzağaç Mezrası	Düzağaç=
+16638	Billice Köyü, Gedikli Mezrası	Gedikli=
+16639	Billice Köyü, Kara Kamu Mezrası	Kara Kamu=
+16647	Billice Köyü, Karınca Mezrası	Karınca=
+16642	Billice Köyü, Kurşunlu Mezrası	Kurşunlu=
+16643	Billice Köyü, Kuşluca Mezrası	Kuşluca=
+16648	Billice Köyü, Solmaz Mezrası	Solmaz=
+16646	Billice Köyü, Taşağıl Mezrası	Taşağıl=
+16645	Billice Köyü, Uzundal Mezrası	Uzundal=
+16652	Dallıca Köyü	Dallıca=
+16653	Dallıca Köyü, Baklalı Mezrası	
+16654	Darköprü Köyü, Kılıcan Mevkii	Kılıcan=
+16655	Darköprü Köyü, Taşbaşı Mezrası	Taşbaşı=
+16656	Demirdöş Köyü	Demirdöş=
+16657	Demirkanat Köyü	Demirkanat=
+16658	Duranlar Köyü	Duranlar=
+16659	Eskikavak Köyü	Eskikavak=
+16660	Eskikavak Köyü, Arik Mezrası	Arık=
+16661	Eskikavak Köyü, Hacikoğlu Mezrası	Hacikoğlu=
+16663	Eskikavak Köyü, Köprübaşı Mezrası	Köprübaşı=
+16662	Eskikavak Köyü, Selenk Mevkii	Selenk=
+10726	Eskişehir Mah.	Abar=|Abar/1=|Ahmet Yıldız~|Ahmet Yıldız/2~|Ahmet Yıldız1~|Alişan Engin~|Atatürk@|Atatürk/1~|Güllübağ Çukurbağ=|Güllübağ Çukurbağ/2=|Güllübağ Çukurbağ1~|Kaleli~|Kaleli/1~|Kaleli/2~|Kaleli/3~|Kaleli/4~|Kaleli/5~|Kaleli/6~|Kaleli/7~|Uğur Mumcu@|Uğur Mumcu/3~|Şükrü Altan~|Şükrü Altan/1~
+16664	Eşme Köyü	Eşme=
+16665	Güneyağıl Köyü	Güneyağıl=
+16666	Güneyağıl Köyü, Fındıklı Mezrası	Fındıklı=
+16668	Kadıköy Köyü	Kadıköy=|Kadıköy/1~|Kadıköy/2~|Kadıköy/3~|Kadıköy/4~|Kadıköy/5~|Kadıköy/6~|Kadıköy/7~
+16670	Kadıköy Köyü, Devetaşı Mezrası	Devetaşı=
+16669	Kadıköy Köyü, Halmek Mezrası	Halmek=
+16671	Kutluca Köyü	Kutluca=
+16203	Kuşçimeni Köyü	Kuşçimeni=
+16672	Nacaklı Köyü	Nacaklı=
+16674	Nacaklı Köyü, Alican Mezrası	Alican=
+16673	Nacaklı Köyü, Dikenli Mezrası	Dikenli=
+16675	Nacaklı Köyü, İncesu Mezrası	İncesu=
+16676	Sabırtaşı Köyü	Sabırtası=
+16677	Sırmaçek Köyü	Sırmaçek=
+180934	Tekbaş Köyü, Köyün Kendisi Mevkii	Tekbas=
+16678	Yazgünü Köyü	Yazgünü=
+16679	Yazgünü Köyü, Balıklı Mezrası	Yazgünü K=
+16682	Yazgünü Köyü, Karataş Mezrası	Karataş=
+16681	Yazgünü Köyü, Payamlı Mezrası	Yenı=
+16680	Yazgünü Köyü, Sütlüce Mezrası	Köy=
+10727	Yenişehir Mah.	Adliye Üstü~|Adliye Üstü/1~|Adliye Üstü/2~|Adliye Üstü/3~|Benzinlik Yol Altı=|Benzinlik Yol Altı/1=|Benzinlik Yol Altı/2~|Benzinlik Yol Altı4~|Benzinlik Yol Üstü~|Benzinlik Yol Üstü/1~|Benzinlik Yol Üstü/2~|Benzinlik Yol Üstü/3~|Benzinlik Yol Üstü/4~|Benzinlik Yol Üstü/5~|Benzinlik Yol Üstü/6~|Cumhuriyet@|Cumhuriyet/1~|Cumhuriyet/2~|Enver Güven Arka~|Enver Güven@|Enver Güven/1~|Esentepe~|Esentepe/1~|Esentepe/2~|Esentepe/3~|Esentepe/4~|Esentepe/5~|Esentepe/6~|Esentepe/7~|Esentepe/8~|Gazi Paşa@|Gazi Paşa/1~|Gazipaşa/3~|Halilbişoğlu~|Halilbişoğlu/1~|Köm.sinik.derindere~|Köm.sinik.derindere/2~|Köm.sinik.derindere/3~|M. Peker/2~|M. Peker/3~|M. Peker/4~|M.peker~|M.peker/1~|M.peker/5~|M.peker/6~|Mazhar Budak~|Meydancık/1=|Necatibey@|Necatibey/1@|Necatibey/2@|Necatibey/3@|Necatibey/4@|Necatibey/5@|Okul~|Okul/1~|Uğur Mumcu@|Uğur Mumcu/1@|Y.i.b Okulu~|İlbey Köyü~|İlbey Köyü/1~|İlbey Köyü/2~|İlbey Köyü/3~|İlbey Köyü/4~|İlbey Köyü/5~|İlbey Köyü/6~|İlbey Köyü/7~|İlbey Köyü/8~|İnönü@|İnönü/1~|İnönü/2~
+10728	Yeşilyurt Mah.	Kurttepesi=|Meydancık=|Selenk=
+16683	Yukarıserinyer Köyü	Test 1=|Yukarıserinyer=
+16649	Çanakçı Köyü	Çanakçı=
+16650	Çiçektepe Köyü	Çiçektepe=|Çiçektepe/1~|Çiçektepe/10~|Çiçektepe/11~|Çiçektepe/2~|Çiçektepe/3~|Çiçektepe/4~|Çiçektepe/5~|Çiçektepe/6~|Çiçektepe/7~|Çiçektepe/8~|Çiçektepe/9~
+16651	Çiçektepe Köyü, Mezra Mevkii	Mezra=
+16667	İlbeyi Köyü, Zengok Mevkii	Zengok=

@@ -1,0 +1,44 @@
+93044	Akçakavak Köyü	Akçakavak=
+93046	Aydınşıh Köyü	Aydınşıh=
+93045	Aşağıkarakısık Köyü	Aşağıkarakısık=
+90359	Ballı Mah.	Bilinmeyen 111~|Bilinmeyen 112~|Bilinmeyen 113~|Bilinmeyen 114~|Bilinmeyen 115~|Bilinmeyen 116~|Bilinmeyen 117~|Bilinmeyen 118~|Bilinmeyen 119~|Bilinmeyen 122~|Bilinmeyen 123~|Bilinmeyen 124~|Bilinmeyen 125~|Bilinmeyen101~|Bilinmeyen102~|Bilinmeyen103~|Bilinmeyen104~|Bilinmeyen105~|Bilinmeyen106~|Bilinmeyen107~|Bilinmeyen108~|Bilinmeyen109~|Bilinmeyen110~|Bilinmeyen120~|Bilinmeyen121~|Bilinmeyen131~|Bilinmeyen140~|Bilinmeyen141~|Bilinmeyen142~|Bilinmeyen143~|Bilinmeyen144~|Bilinmeyen145~|Bilinmeyen146~|Bilinmeyen147~|Bilinmeyen148~|Bilinmeyen157~|Bilinmeyen171~|Bilinmeyen172~|Bilinmeyen61~|Bilinmeyen67~|Bilinmeyen68~|Bilinmeyen70~|Bilinmeyen71~|Bilinmeyen72~|Bilinmeyen73~|Bilinmeyen75~|Bilinmeyen77~|Bilinmeyen79~|Bilinmeyen80~|Bilinmeyen90~|Bilinmeyen91~|Bilinmeyen92~|Karadonlu 4~|Karadonlu Caddesi 14~|Karadonlu@|Karadonlu1~|Karadonlu10~|Karadonlu11~|Karadonlu12~|Karadonlu13~|Karadonlu14~|Karadonlu15~|Karadonlu16~|Karadonlu2~|Karadonlu3~|Karadonlu4~|Karadonlu5~|Karadonlu6~|Karadonlu7~|Karadonlu8~|Karadonlu9~|Sulakyurt 1@|Sulakyurt 1~|Sulakyurt@
+93047	Battaloba Köyü	Balışeyh Sulakyurt Yolu@|Battaloba=
+93049	Beyobası Köyü	Beyobası=
+93050	Beyobası Köyü, Eldelek Mezrası	Eldelek=
+93048	Beşbıçak Köyü	Beşbıçak=
+93051	Bıyıkaydın Köyü	Bıyıkaydın=
+93052	Dikmen Köyü	Dikmen=
+93053	Eldelek Köyü	Eldelek=
+93055	Hüseyinoba Köyü	Hüseyinoba=
+93054	Hıdırşıh Köyü	Hıdırşıh=
+93056	Işıklar Köyü	Işıklar=
+93059	Karalı Köyü	Karalı=
+93060	Kargın Köyü	Kargın=
+93061	Kenanoba Köyü	Kenanoba=|Yassıbağ=
+93062	Kenanoba Köyü, Ayvaderesi Mezrası	Ayvaderesi=
+93063	Kenanoba Köyü, Azgın Yaylası Mezrası	Azgın Yaylası=
+93064	Kenanoba Köyü, Yassıbağ Mezrası	Kenanoba=|Yassıbağ=
+90363	Koçubaba Köyü, Bahçelievler Mevkii	Coşkun~|Karababa~|Karababa/2~|Kuzucanlı~|Memetaga~|Nalcıoğlu~|Okul-~|Tekke Üst Kısmı-~|Türkan Saylan~|Umut~|Uğur Mumcu~|Yalcın~|Ziyaret~|İnönü~
+90362	Koçubaba Köyü, Bağlarbaşı Mevkii	-~|Alirza-%|Aslan~|Atatürk~|Atatürk/2~|Atatürk/4~|Aşık Mahsunu~|Bekter~|Bünyamin Ulusoy~|Gülbittioğlu~|Güneş-~|Habib~|Karaca~|Metin Kılıç~|Miçali~|Talat~|Toplal~|Uğur Mumcu~|Uğur Mumcu/1~|Yıldız-~|Ziyaret~|Özkan~
+90364	Koçubaba Köyü, Dostlar Mevkii	Atatürk~|Atatürk/2~|Atatürk/4~|Aşık Mahsunu~|Güneş~|Hüseyinağa~|Karababa~|Karaca~|Kurnaz~|Miçali~|Nalcıoğlu~|Tekke~|Türkan Saylan~|Ulusoy~|Uğur Mumcu~|Uğur Mumcu/3~|Yalcın~|Şirin~
+90365	Kulaksız Köyü, Fatih Mevkii	12~|13-~|14-~|15~|15/1~|16~|16/1~|17~|18~|19~|19/1~|20~|21-~|22-~|23~|23/1~|24~|25-~|26~|31~|Atatürk Bul.~|Atatürk/5~|Atatürk/8~|Gölpınar~|Hürriyet~|Kalenderoğlu 1~|Kalenderoğlu~|Kalenderoğlu/2~|Kalenderoğlu/3~|Rauf Denktaş~
+90366	Kulaksız Köyü, Gazi Mevkii	24~|26~|27~|28~|29~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|Atatürk Bul.~|Hürriyet~|Kazım Karabekir~|Rauf Denktaş~|İstiklal~
+90367	Kulaksız Köyü, Ufuk Mevkii	1~|10-~|11~|11/1~|14~|2~|2/1~|3~|4~|5~|6~|6/1~|7~|8~|9-~|Atatürk Bul.~|Cengiz Topel~|Kulaksız~|Kulaksız/1~|Kıbrıs~|M.akif Ersoy~|M.akif Ersoy/1~|Süleyman Demirel~|Süleyman Demirel/1~|Yavuz Selim~|Yeni~
+93068	Kösedurak Köyü	Kösedurak=
+93065	Kılevli Köyü	Kılevli=
+93066	Kılevli Köyü, Karahocalı Mevkii	Karahocalı=
+93067	Kırlangıç Köyü	Kırlangıç=
+93069	Mehmetbeyobası Köyü	Mehmetbeyobası=
+93070	Mehmetbeyobası Köyü, Esentepe Mezrası	Esentepe=
+93071	Mehmetbeyobası Köyü, Kuşburnu Mezrası	Kuşburnu=
+90360	Oba Mah.	Akcakavak Yolu Küme Evleri=|Bilinmeyen/oba/1~|Bilinmeyen/oba/11~|Bilinmeyen/oba/13~|Bilinmeyen/oba/14~|Bilinmeyen/oba/15~|Bilinmeyen/oba/17~|Bilinmeyen/oba/18~|Bilinmeyen/oba/19~|Bilinmeyen/oba/2~|Bilinmeyen/oba/20~|Bilinmeyen/oba/21~|Bilinmeyen/oba/22~|Bilinmeyen/oba/23~|Bilinmeyen/oba/25~|Bilinmeyen/oba/26~|Bilinmeyen/oba/3=|Bilinmeyen/oba/4~|Bilinmeyen/oba/5~|Bilinmeyen/oba/6~|Bilinmeyen/oba/7~|Bilinmeyen/oba/8~|Bilinmeyen/oba/9~|Bilinmeyen164~|Bilinmeyen167~|Bilinmeyen59~|Bilinmeyen64~|Bilinmeyen96~|Bilinmeyen99~|Cengiz Topel 1@|Cengiz Topel 2@|Cengiz Topel 3~|Cengiz Topel 4~|Cengiz Topel@|Elmalık=|Kılevli Yolu=|Namık Kemal 10~|Namık Kemal 11~|Namık Kemal 12~|Namık Kemal 13~|Namık Kemal 14~|Namık Kemal 15~|Namık Kemal 16~|Namık Kemal 17~|Namık Kemal 2~|Namık Kemal 3~|Namık Kemal 4~|Namık Kemal 5~|Namık Kemal 6~|Namık Kemal 7~|Namık Kemal 8~|Namık Kemal 9~|Namık Kemal~|Samsun@|Saygılı=|Su Köprüsü 1=|Su Köprüsü 2=|Su Köprüsü=|Yem Sanayi=|Özbek 2=|Özbek=|Özbek Küme Evlerı=|Özbek_1=|İnönü@
+93072	Selamlı Köyü	Selamlı=
+99638	Toki Mah.	Bilinmeyen 154~|Bilinmeyen 155~|Bilinmeyen 156~|Bilinmeyen 157~|Bilinmeyen 158~|Bilinmeyen 159~|Bilinmeyen 161~|Bilinmeyen 162~|Bilinmeyen 163~|Bilinmeyen 164~|Bilinmeyen 165~|Bilinmeyen 166~|Bilinmeyen 171~|Bilinmeyen 172~|Bilinmeyen 173~|Bilinmeyen 174~|Bilinmeyen 175~|Bilinmeyen 176~|Bilinmeyen 177~|Bilinmeyen152~|Bilinmeyen153~|Bilinmeyen157~|Bilinmeyen160~|Bld~|Samsun@|Şehir J.uzm.çvş. Ayhan Şahin 1@|Şehit J.uzm.çvş Ayhan Şahin 1@|Şehit J.uzm.çvş. Ayhan Şahin 1@|Şehit J.uzm.çvş. Ayhan Şahin 2@|Şehit J.uzm.çvş. Ayhan Şahin 3@|Şehit J.uzm.çvş. Ayhan Şahin 4@|Şehit J.uzm.çvş. Ayhan Şahin 5@|Şehit J.uzm.çvş. Ayhan Şahin 6@|Şehit J.uzm.çvş. Ayhan Şahin 7@|Şehit Jandarma Uzman Çvş.ayhan Şahin@
+93073	Ulaklı Köyü	Ulaklı=
+93077	Uzunlar Köyü	Uzunlar=
+90361	Yeni Mah.	2~|2 Sokak 1~|2 Sokak 10~|2 Sokak 11~|2 Sokak 3~|2 Sokak 4~|2 Sokak 5~|2 Sokak 6~|2 Sokak 7~|2 Sokak 8~|2 Sokak 9~|2 Sokak~|Akcakavak Yolu Küme Evleri=|Ali İhsan 3~|Ali İhsan Kalmaz@|Ali İhsan Kalmaz.2~|Atatürk@|Bilinmeyen112~|Bilinmeyen113~|Bilinmeyen155~|Bilinmeyen22~|Bilinmeyen23~|Bilinmeyen24~|Bilinmeyen25~|Bilinmeyen28~|Bilinmeyen3~|Bilinmeyen30~|Bilinmeyen31~|Bilinmeyen39~|Bilinmeyen4~|Bilinmeyen40~|Bilinmeyen5~|Bilinmeyen6~|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen83~|Bilinmeyen84~|Bilinmeyen85~|Emniyet 1~|Emniyet 2~|Emniyet~|Karadonlu@|Menekşe 1~|Menekşe 2~|Menekşe 3~|Menekşe~|Mezarlık 1~|Mezarlık 2~|Mezarlık 3~|Mezarlık 4~|Mezarlık 5~|Mezarlık 6~|Mezarlık 7~|Mezarlık~|Pazar Yeri 1~|Pazar Yerı 1~|Pazaryeri~|Pazaryerı 2~|Pazaryerı 3~|Samsun@|Su Deposu 3~|Su Deposu 4~|Su Deposu 6~|Su Deposu Sokak 4~|Sulakyurt 2~|Sulakyurt Caddesı 5~|Sulakyurt@|Sulakyurt1~|Sulakyurt4~
+93074	Yenice Köyü	Yenice=
+93075	Yenilli Köyü	Yenilli=
+93076	Yukarıkarakısık Köyü	Yukarıkarakısık=
+93057	İzzettin Köyü	İzzettin=
+93058	İzzettin Köyü, Mevki Mevkii	Mevki=

@@ -1,0 +1,109 @@
+24102	Ahacık Köyü, Enaltı Çayı Mezrası	 Köy$
+24093	Ahacık Köyü, Fındıcak Mevkii	 Köy$
+24092	Ahacık Köyü, Hacıayvat Mevkii	 Köy$
+24097	Ahacık Köyü, Karabalçık Mevkii	 Köy$
+24098	Ahacık Köyü, Karşıköy Mevkii	 Köy$
+24096	Ahacık Köyü, Kızılpelit Mevkii	 Köy$
+24101	Ahacık Köyü, Nasıflar Mevkii	 Köy$
+24094	Ahacık Köyü, Nazpınar Mevkii	 Köy$
+24095	Ahacık Köyü, Soyuk Mevkii	 Köy$
+24099	Ahacık Köyü, Taytak Yayla Evleri	 Köy$
+24100	Ahacık Köyü, Yüceardı Mevkii	 Köy$
+180724	Akseki Köyü	~|Hacılar~|Yazlık~
+24104	Ayvalıca Köyü	 Köy$
+24103	Aşağı Emirhalil Köyü	 Köy$
+24105	Barak Köyü	 Köy$
+24106	Bayan Köyü, Merkez Mevkii	 Köy$
+24109	Beydili Köyü, Asma Mevkii	 Köy$
+24110	Beydili Köyü, Merkez Mevkii	 Köy$
+24111	Cevizli Köyü	 Köy$
+24125	Demirciler Köyü, Dangazlar Mevkii	 Köy$
+24123	Demirciler Köyü, Hacılar Mevkii	 Köy$
+24121	Demirciler Köyü, Kayabaşı Mevkii	 Köy$
+24122	Demirciler Köyü, Keskinler Mevkii	 Köy$
+24124	Demirciler Köyü, Yenicami Mevkii	 Köy$
+20370	Dere Mah.	Aslan~|Bayramoğlu~|Değirmenciler~|Kayalık~|Kovadere~|Kılıç~|Meşeli~|Namık Kemal@|Ziya Gökalp@|Özalp@
+24128	Derekutuğun Köyü	 Köy$
+24127	Derekutuğun Köyü, Boyalık Mezrası	 Köy$
+24126	Derekutuğun Köyü, Haydar Mezrası	 Köy$
+24129	Dorukseki Köyü	 Köy$
+24130	Emirhalil Köyü, Merkez Mevkii	 Köy$
+24131	Emirhalil Köyü, Mezarlık Mevki Mevkii	 Köy$
+24132	Emirşah Köyü	 Köy$
+20377	Eskialibey Köyü, Alibey Mevkii	Avşar~|Aydınlar~|Hoca Ahmet Yesevi~|Meşrutiyet~|Ufuk~|Çelebiler~
+20378	Eskialibey Köyü, Gazi Mevkii	Aydınlar~|Daşdelen~|Dostlar~|Doğangün~|Göze~|Kaşören~|Kurtuluş~|Mutlu~|Yılmazlar~|Çorum~
+20379	Eskialibey Köyü, Karşıyaka Mevkii	Atatürk~|Bahçeler~|Hacı Veli Çıkmazı~|Paşalar~|Çankırı~|Çorum~|Şehitler~
+20380	Eskialibey Köyü, Yeni Mevkii	Cumhuriyet~|Güneş~|Karabekir~|Kuruçay~|Kutaylar~|Meşrutiyet~|Çankırı~
+24134	Evci Köyü, Kirenle Mezrası	 Köy$
+24137	Evci Köyü, Merkez Mevkii	 Köy$
+24135	Evci Köyü, Taşlık Mevkii	 Köy$
+24133	Evci Köyü, Yukarı Taşlık Mezrası	 Köy$
+24136	Evci Köyü, İmamoğlu Mevkii	 Köy$
+98318	Falı Köyü, Merkez Mevkii	 Köy$
+24139	Hacıbayram Köyü, Bağ Arkası Mevkii	 Köy$
+24138	Hacıbayram Köyü, Kurugöl Mevkii	 Köy$
+24141	Hacıbayram Köyü, Merkez Mevkii	 Köy$
+24140	Hacıbayram Köyü, Osmanyeri Mevkii	 Köy$
+24150	Kalınpelit Köyü, Geriş Mevkii	 Köy$
+24151	Kalınpelit Köyü, Kürtali Damı Mevkii	 Köy$
+24148	Kalınpelit Köyü, Merkez Mevkii	 Köy$
+24149	Kalınpelit Köyü, Yeşilyurt Mevkii	 Köy$
+24147	Kalınpelit Köyü, Ürgüpler Mevkii	 Köy$
+24152	Karakaya Köyü	 Köy$
+24153	Karakaya Köyü, Kömür Ocağı-1 Mevkii	 Köy$
+24154	Karakaya Köyü, Kömür Ocağı-2 Mevkii	 Köy$
+20371	Kayabaşı Mah.	Bostancı=|Ceylan~|Ilıca~|Kamil Karaman@|Kamiller=|Kayardı@|Körük~|Sarılar~|Tosya@|Yağcılar~|Yıldırım~|Ziya Gökalp@|Çelebi~|Çıkmaz~|Ölmez~|Şimşekler~
+24158	Kubbedin Köyü	 Köy$
+20381	Kunduzlu Köyü, Fatih Mevkii	Fatih~|Kendirci~|Kılıç~
+20382	Kunduzlu Köyü, Kozdere Mevkii	Kozdere~
+20383	Kunduzlu Köyü, Yazlık Mevkii	Ay~|Bozkurt~|Dikmen~|Göl~|Kabaarmut~|Kıbrıs~|Lale~|Yazlık Mevkisi Küme Evleri~|Yıldız~|Yılmaz~|Çiçek~
+20384	Kunduzlu Köyü, Yeni Mevkii	Balcılar~|Değirmen~|Emirler~|Fatih Sultan Mehmet~|Gaziler~|Kanuni Sultan Süleyman~|Orman~|Yeşiller~|Yeşilyayla~|Çavuş~
+24159	Kuruçay Köyü	 Köy$
+24161	Kuruçay Köyü, Bağözü Mezrası	 Köy$
+24160	Kuruçay Köyü, Çalı Sökü Yayla Evleri	 Köy$
+24157	Köpüklü Köyü, Kavakkırı Mevkii	 Köy$
+24155	Köpüklü Köyü, Merkez Mevkii	 Köy$
+24156	Köpüklü Köyü, Çebiş Gediği Mezrası	 Köy$
+200877	Lapa Köyü, Köyün Kendisi Mevkii	Aşağı Köy$|Orta Köy$|Yazıçam Köy$
+140400	Pancarlık Köyü	Aşağı Pancarlık~|Orta Pançarlık~|Pancarlık Kümesi~|Yukarı Pancarlık~
+24163	Saray Köyü, Akkaya Mevkii	 Köy$
+24164	Saray Köyü, Ankara Yolu Mevkii	 Köy$
+24165	Saray Köyü, Merkez Mevkii	 Köy$
+24162	Sağpazar Köyü, Merkez Mevkii	 Köy$
+20372	Tepebayat Mah.	Ahmet Yesevi@|Alparslan~|Asma~|Enver~|Ertuğrul Gazi~|Fatih@|Hacılar~|Hatipoğlu~|Kurtuluş@|Okul~|Tunahan~|Uysallar~|Yedi Evler~|Yeni Camii~|Yeni~|Yeni Çıkmazı~|Yokuş Yolu~|Çakırlar~|Çeşme~|Ömer Mülazım@|Ünlü~|İsmet Ünlü~|İğdeli~|Şahinler~
+24166	Tepekutuğun Köyü	 Köy$
+24168	Tepekutuğun Köyü, Köm Mezrası	 Köy$
+24167	Tepekutuğun Köyü, Semer Deresi Mezrası	 Köy$
+24172	Tevekli Köyü, Büyük Mevkii	 Köy$
+24170	Tevekli Köyü, Göynük Harman Altı Mevkii	 Köy$
+24169	Tevekli Köyü, Havdan Mevkii	 Köy$
+24171	Tevekli Köyü, Orta Mevkii	 Köy$
+24173	Toyhane Köyü	 Köy$|Kavakkırı~
+20373	Yatukcu Mah.	15 Temmuz Demokrasi Şehitleri~|15 Temmuz Şehidi Osman Arslan@|15 Temmuz Şehidi Yakup Kozan~|Akyüzler~|Ali Efendi~|Alparslan@|Bahçeli~|Camii~|Ceyhan~|Gümüş~|Hatıpler~|Kadir Efendi~|Kaymakam Ceyhan Demir@|Mehmet Atıf Hoca~|Memişoğlu~|Mevlana~|Muharem Uysal@|Okumuş~|Osman Yıldırım@|Pehlivan~|Recep Tayyip Erdoğan%|Semerciler~|Tuzla~|Yoncalı Çiftliği=|Yunus Emre~|Zafer@|Üçler Çiftliği=|Şehit Mehmet Bostancı@|Şen~|Şeyh Şamil~
+20374	Yeni Mah.	1 Ci Hacı Bayram~|1.ci Şehit Cemal Ünlü~|2.ci Hacı Bayram~|2.ci Şehit Cemal Ünlü~|3.cü Hacı Bayram~|3.cü Şehit Cemal Ünlü~|4.cü Şehit Cemal Ünlü~|Ahmet Yesevi@|Ak~|Altuncu~|Atıf Hoca@|Barbaros@|Belören~|Beyazıt@|Cami~|Ceylan~|Cumhuriyet Myd.|Efe~|Esnaf Sitesi~|Gazi~|Gün Sazak@|Güreş~|Hacı Bayram~|Hilal~|Kaledibi~|Karakoca~|Kayadibi~|Kaynak~|Keskinler~|Kızıl Bayır~|Menzil~|Mevlana~|Mezarlık=|Mimar Sinan~|Osman Gazi~|Sadık Ahmet~|Tefekli~|Yavuz@|Ziya Gökalp@|Zübeyde Hanım@|Çankırı@|Çavuş~|Çay Başı~|Çorum@|Ören~|Öğretmen Hasan Ünlü~|Ülkü~|Şehit Cemal Ünlü@|Şehit Nevzat Elgün@
+24186	Yeniköy Köyü	 Köy$
+24174	Yenişıhlar Köyü, Merkez Mevkii	 Köy$
+24177	Yeşilçat Köyü, Aşağı Yeşilçat Mevkii	 Köy$
+24175	Yeşilçat Köyü, Gazi Mevkii	 Köy$
+24176	Yeşilçat Köyü, Kaytazlar Mevkii	 Köy$
+24182	Yoncalı Köyü, Güleç Mevkii	 Köy$
+24185	Yoncalı Köyü, Köm Mevkii	 Köy$
+24184	Yoncalı Köyü, Köyyeri Mevkii	 Köy$
+24179	Yoncalı Köyü, Sungur Mevkii	
+24181	Yoncalı Köyü, Yukarı Mevkii	 Köy$
+24183	Yoncalı Köyü, Çağıl Mevkii	 Köy$
+24112	Çamlıgüney Köyü	 Köy$
+24114	Çayköy Köyü, Aşağı Mevkii	 Köy$
+24113	Çayköy Köyü, Yukarı Mevkii	 Köy$
+24115	Çerkeş Köyü	 Köy$
+24118	Çerkeş Köyü, Güllevük Mevkii	 Köy$
+24116	Çerkeş Köyü, Güzel Bağlar Mezrası	 Köy$
+24117	Çerkeş Köyü, Çay Kavuştu Mevkii	 Köy$
+24120	Çukuröz Köyü	 Köy$
+24119	Çukuröz Köyü, Merkez Mevkii	 Köy$
+99818	Çukuröz Köyü, Satınınsamanlığı Mevkii	
+24142	İleği Köyü, Horozlar Mezrası	 Köy$
+24144	İleği Köyü, Kom Mevkii	 Köy$
+24143	İleği Köyü, Merkez Mevkii	 Köy$
+24145	İleği Köyü, Oba Mevkii	 Köy$
+24146	İshaklı Köyü, Merkez Mevkii	 Köy$

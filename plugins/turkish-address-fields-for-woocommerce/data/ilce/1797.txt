@@ -1,0 +1,23 @@
+61037	Akmescit Mah.	Cami Yanı=|Garaj~|Hamdi Yılmaz@|Hümmetlioğlu=|Işık~|Karakol~|Kırcaklar=|Sultan~|Uygar~|Yılmaz~|İmamlar=|Şen~
+61039	Akyurt Mah.	23 Nisan@|Araptamı=|Arı Alıcak=|Atatürk@|Başalan=|Cumhuriyet@|Evren~|Fatsa@|Güneş~|Hamdi Yılmaz@|Karakol~|Kurtuluş@|Sancak~|Sağlık~|Tepe~|Yazlık Gerisi=|Yel Kırığı=|Öldü=|İnönü@
+61038	Akören Mah.	Avren=|Ayı Bükü=|Dört Kardeşler~|Fatsa@|Kale=|Karaören=|Kardeşler~|Kuş Yuvası=|Kışla@|Meşelik=|Milli Egemenlik@|Okul Yanı=|Ordu@|Sancak~|Zefiloğulları=|Şehit Er Fatih Kaplan@|Şıhmantam Yanı=
+151355	Alaseher Mah.	Alaseher~
+61036	Ağızlar Mah.	1 Nolu~|2 Nolu~|3 Nolu~|Ali Çavuş@|Atatürk@|Boğmalık=|Cami~|Cami Yanı=|Demirci~|Fatih@|Güler~|Gündoğdu~|Kaba Gürgen=|Kadife~|Kirazlık=|Kıran Tam=|Lale~|Menekşe~|Ptt~|Sakarya@|Sivas@|Tarçın~|Teberli=|Çetin~|Şahin~|Şıhman=
+151357	Bahtiyarlar Mah.	Bahtiyarlar~
+99336	Cumhuriyet Mah.	Alataş=|Aşağı Köy=|Geriş=|Ortaköy=|Yeğköy=|Yukarı Köy=
+61040	Döşek Mah.	Bezirgan=|Cami Yanı=|Cırgıllı=|Eğribel=|Gürgentepe 15 Temmuz Demokrasi Myd.|Karşıköy=|Kırlı~|Portoloz=|Sivas@|Öteyüz=
+151317	Eskiköy Mah.	Akasya~|Ali Öztürk@|Ambartepesi~|Aslantaşlar~|Atatürk@|Avcı~|Bahçe~|Barbaros@|Belediye Myd.|Cami~|Cumhuriyet@|Gazi@|Genceloğlu@|Hızır~|Irmak~|Kaya~|Kurtuluş@|Mehmet Şen@|Nur~|Ordu@|Selvi~|Serin~|Sivas@|Sıla~|Tepe~|Ulus~|Yeşil~|Çağlayan~|Çeşmebaşı~|Çimen~|Çınar~|İdris~|Şafak~|Şen~
+61041	Göller Mah.	Atatürk@|Cami~|Dar~|Demet~|Döner~|Ezeltere=|Karanfil~|Lise@|Ordu@|Petrolyanı=
+151363	Gülbelen Mah.	Gülbelen~
+151367	Gültepe Mah.	Gültepe~
+151371	Hasancık Mah.	Hasancık~
+151341	Işıktepe Mah.	Ahmet Yesevi~|Aşağı Söğmelik=|Bulutlar~|Camii@|Dereköy=|Dolu Düzü=|Dışkaya=|Egemenlik@|Gençler=|Göçler=|Karacakaya~|Necipler@|Sağlık Ocağı~|Sivas@|Stadyum~|Tepe~|Yukarı Söğmelik=|Yurt Yeri=|İkiz Ağılı=|İncebel=
+198577	Kirazgüneyi Mah.	19 Mayıs~|Akasya~|Anıt~|Arı~|Ayhan Karaca@|Barış@|Bayrak~|Deniz~|Dumlupınar~|Fatih~|Fatsa@|Fındık~|Fırat~|Gül~|Güneş~|Hacılar~|Harmanyanı~|Hürriyet~|Karabalta@|Kayın~|Sakarya@|Sancak~|Sezgin Karaca@|Tuna~|Umut~|Vatan@|Yavuz Selim@|Yeşilırmak~|Çamlıca~|İstiklal~
+61042	Muratçık Mah.	Dereyol=|Eynoğlu=|Kaya Boynu=|Kurtoğlu=
+61043	Okçabel Mah.	Araptamı=|Aşağı Köy=|Böğürtlübel=|Kocatamdüzü=|Kıran=|Tepe Ağıl=|Yapraklık=|Çaysin Deresi=
+151375	Tepeköy Mah.	Tepeköy~
+151361	Tikenlice Mah.	Aşağı~|Kuzgunkaya~|Küllük~|Mağara~|Orta~|Tikenlice~|Yeni~
+151379	Tuzla Mah.	Tuzla~
+198569	Yurtseven Mah.	Akgeriş=|Akçukur=|Ağtepe=|Bahçelik=|Dereli=|Devret=|Kepçelik=|Muz Çukur=|Ortaköy=|Tamyeri=|Tepe Tarla=|Tömen Deresi=|Çayır=|Çukur=
+198541	Çatalağaç Mah.	Aşağı Oymak=|Okcul=|Sivas@|Sulu Çukur=|Yukarı Oymak=
+151373	Şirinköy Mah.	Yeni~|Şirinköy~

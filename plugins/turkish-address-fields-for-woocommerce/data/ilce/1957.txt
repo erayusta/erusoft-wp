@@ -1,0 +1,23 @@
+144117	Abak Mah.	Dibabak~|Mutaflar~|Orta~|İmamlar~
+144119	Akçaabat Mah.	Aşağı~|Yukarı~|Ören~
+10160	Bayraktepe Mah.	19.çıkmaz~|37.~|38.~|39.~|40.~|41.~|42.~|43.~|44.~|Atatürk@|Atilla~|Cumhuriyet@|Gölbaşı~|Gül~|Kardelen~|Mehmet Yavaş@|Menekşe~|Namık Kemal~|Oğuz Çataloğlu@|Sarmaşık~|Selkırı~|Şantiye~
+144121	Cumalar Mah.	Cumalar~
+144125	Ektirli Mah.	Dutağacı~|Kacasu~|Merkez~
+144127	Gölcük Mah.	Kışla~|Merkez~|Tepeköy~
+144129	Güney Mah.	Güney~|Çörtlen~
+144131	Hatıpkışla Mah.	Hatıpkışla~|Çamköy Yaylası~
+144155	Işıklar Mah.	Alimdost~|Işıklar~
+144133	Koğuk Mah.	Koğuk~
+144135	Meriçler Mah.	Meriçler~
+144137	Mutluca Mah.	Atatürk~|Merkez~
+10161	Orta Mah.	10.~|11.~|12.~|13.~|14.~|19 Mayıs@|21.~|6.~|7.~|8.~|9.~|Alinda@|Hürriyet@|Menderes~|Mithatpaşa~|Şanlı~
+144139	Ovapınarı Mah.	Arapkırı~|Boğagediği~|Dalibaltı~|Kuşçamı~|Mezra~|Ova~|Yenimahalle~
+144145	Tekeler Mah.	Aşağı~|Kuzan Yayla~|Telli Yayla~|Yayla~|Yeni~|Yukarı~|Çavdarcık~
+10162	Tütünlük Mah.	1.~|2.~|3.~|4.~|48.~|49.~|5.~|50.~|Akasya~|Hürriyet@|Kuzdere=|Milas@|Mithat Paşa~
+144147	Ulukonak Mah.	Ulukonak~
+144151	Umcular Mah.	Duraslar Yaylası~|Umcular~|Yayla~
+144153	Yağşılar Mah.	Atatürk~|Cumhuriyet~|Yayla~
+10163	Yeni Mah.	16.~|17.~|18.~|19 Mayıs@|19.~|20.~|21.~|22.~|23.çıkmaz~|24.çıkmaz~|25.~|26.~|27.~|28.~|29.~|30.~|31.~|32.~|33.~|34.~|45.~|46.~|47.~|Aydın~|Barbaros@|Barış~|Cengiz Topel~|Cumhuriyet@|Fatih~|Fevzi Çakmak@|Halide Edip Adıvar~|Karanfil~|Kazım Karabekir~|Kösekuyu~|Mehmet Akif Ersoy~|Milas@|Oğuz Çataloğlu@|Sarısaltuk~|Sağlık~|Yıldız~|Şeh.j.eri Talip Bulut@
+144123	Çobanisa Mah.	Aşağı~|Yukarı~
+144141	Ömerler Mah.	Ömerler~
+144143	Şenköy Mah.	Karabelen~|Merkez~

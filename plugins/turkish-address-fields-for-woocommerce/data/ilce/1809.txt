@@ -1,0 +1,39 @@
+1028	Alanyurt Köyü, Atatürk Mevkii	Afyon~|Akgün~|Arslan~|Demirci~|Karaman~|Karanfil~|Ordu~|Sağlık Ocağı~|Türkmen~|Çakmak~
+1029	Alanyurt Köyü, Cumhuriyet Mevkii	Afyon-5=|Analık~|Esen~|Tepe~|Çiçek~|Çıkmaz~|İscehisar~
+1031	Alanyurt Köyü, Hürriyet Mevkii	Afyon-5=|Kefeli~|Koreli~|Pazar Yeri~|Sağlık Ocağı~|Sağlık~|Çakır~|İscehisar~
+1032	Alanyurt Köyü, Selimiye Mevkii	Afyon-1~|Can~|Efe~|Yeşil~|Yıldız~|Çıkmaz~|Şahin~
+1030	Alanyurt Köyü, Çakmak Mevkii	Barış~|Kurtuluş~|Sevgi~
+5320	Bahçecik Köyü	 Köy$
+5321	Cevizli Köyü	 Köy$
+575811	Cumhuriyet Mah.	190.~|197@|198.~
+5327	Doğanlar Köyü	 Köy$
+5328	Doğlat Köyü	Doğlat=
+1018	Esentepe Mah.	151.~|152.~|153.~|154.~|155.~|156.~|170.~|171~|171.~|172.~|180.~|190.~|191.~|192.~|194.@|195.@|196.@|Alparslan~|Ateş~|Camii~|Cengiz Topel@|Dinç~|Dursunlar~|Esenler~|Göktürk@|Göler~|Gül~|Kovanlık Mezarlığı Arkası Kümesi=|Kurtuluş~|M.akif Ersoy~|Milli Birlik~|Namık Kemal~|Sargın~|Teke Deresi=|Tükenmez~|Umutlu~|Yıldırım Kemal~|İsmi Kuyusu@|İstiklal@
+1019	Eski Hamam Mah.	400.@|401.~|403.~|501.~|Acıkuyu~|Afyon@|Ankara-afyon Karayolu@|Aydın~|Aşkınlar@|Bağlar@|Berberoğlu~|Bosna~|Dikmen~|Eski Şose@|Göktaş~|Güntaş~|Huzur~|Höyüklükaş@|Kalkan~|Karaağaç~|Kartal~|Nebioğlu~|Sağlık@|Sağlık Küme Evleri=|Sağlık Ocağı@|Selçuklu~|Seyit~|Sinanoğlu~|Taburoğlu~|Tekeloğlu~|Tuzla~|Veznedar~|Zafertepe~|Çalışlar Yolu@|Çavuş~|Çavuşoğlu~
+1025	Fatih Mah.	700.~|701.~|702.~|Afyon@|Akyar~|Aliyer~|Ankara-afyon Karayolu@|Azeri~|Belen~|Dere~|Donbaycı~|Gölyolu@|Göral~|Gündoğdu~|Hocaoğlu~|Karadeniz@|Karakol Arkası~|Karakol~|Kooperatif=|Mescit-1~|Çukuryer~
+5329	Karaağaç Köyü	 Köy$
+5331	Karakaya Köyü, Kavruklar Mevkii	 Köy$
+5332	Karakaya Köyü, Keserler Mevkii	 Köy$
+5330	Karakaya Köyü, Merkez Mevkii	 Köy$
+5333	Karakaya Köyü, Veliler Mevkii	 Köy$
+1020	Kavak Mah.	600.~|Abahan~|Arapoğlu~|Bektaşoğlu~|Budak~|Duysak~|Gölgesiz~|Gönül~|Hacı Musaoğlu~|Hocaoğlu-1~|Karabulut~|Kavak@|Kostak~|Kırkkavak@|Orhan Gazi~|Park Civarı~|Sarıkaya~|Sobacı Bayırı~|Yıldırım@|İnce Mehmet Çıkmazı~|İzmirlioğlu~
+5335	Konarı Köyü, Karakaya Mevkii	 Köy$
+5334	Konarı Köyü, Merkez Mevkii	 Köy$
+859918	Kurtuluş Mah.	1071@
+1021	Medrese Mah.	Abahanoğlu~|Battaloğlu~|Battaloğlu Çıkmazı=|Bayram Hasan~|Cellat~|Doktor~|Hacı Bilal~|Hacı Musaoğlu-1~|Hakan~|Kantaroğlu~|Konyalı~|Mercanoğlu~|Molla Ali@|Mollaoğlu~|Orhangazi~|Sırçalık@|Toto~|Turgut Reis~
+1027	Mermer Osb Mah.	1@|2@|3@|4a@|4b@|5@|6a@|6b@|7@
+5336	Olukpınar Köyü, Merkez Mevkii	 Köy$
+5337	Olukpınar Köyü, Yanıklar Mevkii	 Köy$
+5338	Olukpınar Köyü, Öldümler Mevkii	 Köy$
+1026	Selçuklu Mah.	200.~|202.@|203.@|211.~|214@|214.@|243.~|300.@|301.~|302.~|500.~|Bağlar Kümeevler=|Beyazıt Kümeevler=|Eski Şose@|Eskikaraağaç Yolu=|Günsel~|Höyüklükaş@|Karaağaç~|Katilkuyu=|Orhan Veli~|Sağlık Ocağı@|Tomurcuk~
+1033	Seydiler Beldesi, Cumhuriyet Mah.	Afyon@|Avcı~|Balıkla~|Hanyakası~|Hisar~|Hisarardı~|Karapınar~|Türbe~|Uydu~|Yanarlar~|Çeşme~
+1034	Seydiler Beldesi, Hasan Basri Mah.	Afyon@|Atatürk@|Avcı~|Avşar~|H.basri~|Koru@|Köprübaşı@|Kümeevler=|Sağlık Sokak 1~|Sağlık Sokak 2~|Çeşme~|Çiğdem~|Çıkmaz~
+1022	Tepecik Mah.	100.~|101.~|900.~|Ankara@|Ankara-afyon Karayolu@|Bahçecik Yolu@|Bayram~|Dangış@|Dangış Mevkii=|Efe@|Erenler~|Kaldırım Yolu@|Kocatepe@|Kooperatif=|Köseler~|M.çakmak Anadolu Lisesi@|Sönmez~|Temel Eğitim~|Tepecik Cami~|Tetik@|Zübeyde Hanım@|Çakmak@|Çimen Yolu~|İkilüleli~|Şahin~
+1023	Zeybek Mah.	Ankara@|Dere~|Hacı Abdiloğlu~|Hacı Bilal - 1~|Zeybek~|Çalkan@|İnci~
+5322	Çalışlar Köyü	Çalışlar Yolu@
+5326	Çatağıl Köyü, Ağzıkara Mevkii	 Köy$
+5325	Çatağıl Köyü, Duraklar Mevkii	 Köy$
+5324	Çatağıl Köyü, Kürtyurdu Mevkii	Kürtyurdu=
+5323	Çatağıl Köyü, Merkez Mevkii	Merkez=
+1017	Çukur Mah.	193.@|Abbas~|Barbaros~|Barlak~|Cumhuriyet Myd.|Fatih@|Gardiyan~|Kadirler~|Karaağaç~|Karaböget@|Karakaya~|Karakuyu~|Karanfil~|Karanfil3~|Koçak~|Kıran=|Mescit~|Ozan~|Semerci~|Sevgi Yolu@|Somuncuoğlu~|Sırçalık~|Ulu Cami@|Özsarılar~|Ünal~|İdareler~|Şerömer~
+1024	Şirinevler Mah.	1@|100.~|101.~|102.~|103.~|104.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|117.~|118.~|121.~|130.~|131.~|132.@|133.~|140.~|150.~|Ankara-afyon Karayolu@|Avşar Deresi@|Ayyıldız~|Gaziosman~|Kalkınma Kooperatifi=|Kayman~|Küçük Sanayi Kümesi=|Mozaikler=|Sümbül~|Teke Deresi=|Ulubatlı Hasan~|Zaimoğlu~|Çakmak@|Çiçek~|İsmi Kuyusu@|Şahin@

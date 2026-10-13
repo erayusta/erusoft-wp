@@ -1,0 +1,6 @@
+.eru-bss-table { width: 96%; margin: 12px 2%; }
+.eru-bss-table input { width: 100%; max-width: 160px; }
+.eru-bss-status { color: #50575e; }
+.eru-bss-bad { color: #b32d2e; font-weight: 600; }
+.eru-bss-del { color: #b32d2e; font-size: 20px; line-height: 1; text-decoration: none; cursor: pointer; }
+.eru-bss-avail { padding: 0 12px 12px; }

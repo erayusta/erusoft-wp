@@ -1,0 +1,41 @@
+159233	Abalı Mah.	Abalı Bilinmeyen~|Abalı=|Kızıltaş=
+159235	Aladüz Mah.	Aladüz=|İpekyolu@
+159237	Altınsaç Mah.	Altınsaç=
+159239	Anaköy Mah.	Anaköy 1~|Anaköy 2~|Anaköy 3~|Anaköy~|Anaköy/1~|Beşadım 1~|Beşadım~|Dövecik~|Evbark~|Görenek~|Tatlıca~|Çığır~
+159241	Atalan Mah.	Aladüz=|Andaç Bilinmeyen.~|Atalan Bilinmeyen 1~|Atalan Bilinmeyen 10~|Atalan Bilinmeyen 11~|Atalan Bilinmeyen 12~|Atalan Bilinmeyen 13~|Atalan Bilinmeyen 14~|Atalan Bilinmeyen 16~|Atalan Bilinmeyen 17~|Atalan Bilinmeyen 18~|Atalan Bilinmeyen 19.~|Atalan Bilinmeyen 28~|Atalan Bilinmeyen 30~|Atalan Bilinmeyen 6~|Atalan Bilinmeyen 7~|Atalan Bilinmeyen 8~|Atalan Bilinmeyen 9~|Atalan Bilinmeyen.~|Atalan Bilinmeyen/100~|Atalan~|Baran~|Bilinmeyen 2/atalan~|Bilinmeyen 6/atalan~|Bilinmeyenortak1~|Karataş~|İpekyolu@
+159243	Aydınocak Mah.	Aydınocak=|İpekyolu@
+80635	Bahçelievler Mah.	Afet 1.~|Afet 2.~|Afet 3.~|Afet 4.~|Akdamar~|Aksular~|Akşak~|Ali İhsan 1~|Ali İhsan~|Arslanlar~|Aslı Hatun@|Aslıhatun@|Atatürk@|Ayazlar~|Aziz Hoca~|Bahçelievler Bilinmeyen 15~|Bahçelievler Bilinmeyen 16~|Bahçelievler Bilinmeyen 17~|Baybure~|Bayrak~|Baş Yeşil~|Başkale~|Canavar~|Cumhuriyet@|Değirmen~|Deşt~|Duranlılar~|Emniyet~|Enginsu~|Erdem~|Ergençler 2.~|Fırat~|Görentaşlar~|Güneş~|Hamam~|Kooperatif~|Kömürcüler~|Kılıç~|Kırkçeşme 1.~|Kırkçeşme 2.~|Mehmet Emin Düzce~|Mehmetçik~|Mezbaha~|Mihrali 1.~|Mihrali~|Muslih Görentaş%|Noter~|Okullar~|Parlaklar~|Rahmi Demir@|Sadullah Çiftçi~|Selçuklu~|Sezerler~|Urartu~|Uzun Çayır 1.~|Uzun Çayır 2.~|Vizontele~|Yavuzlar~|Yeni Yol~|Yeşil Göz@|Çalımlı~|Çay~|Çoban~|Üstün~|İpekyolu@|İskender@|Şahin Bilbent~|Şehit Osman Çavuş@
+185546	Barışık Mah.	Barışık Bilinmeyen 1~|Barışık Bilinmeyen 2~|Barışık Bilinmeyen 3~|Barışık~|Barışık/1~|Yoldöndü Bilinmeyen 15~|Yoldöndü Bilinmeyen 4~|İpekyolu@
+159245	Bağlama Mah.	Bağlama=
+159249	Daldere Mah.	Daldere 1~|Daldere 2~|Daldere~|Daldere/1~|Daldere/2~|Doruklu~|Doruklutaslak1~|Gölgelik~|Gölgelik/1~|Kardeşler~|Pullupınar~|Sütlüce~
+159247	Dağyöre Mah.	Dağyöre=
+184768	Dereağzı Mah.	Aygün~|Burç 1.~|Burç~|Dereağzı Bilinmeyen 11~|Dereağzı Bilinmeyen 12~|Dereağzı Bilinmeyen 14~|Dereağzı Bilinmeyen 15~|Dereağzı Bilinmeyen 16~|Dereağzı Bilinmeyen 17~|Dereağzı Bilinmeyen 2~|Dereağzı Bilinmeyen 4~|Dereağzı Bilinmeyen 6~|Dereağzı Bilinmeyen 7~|Dereağzı Bilinmeyen 8~|Dereağzı Bilinmeyen 9~|Dereağzı Bilinmeyen/2~|Dereağzı Bilinmeyen/3~|Dereağzı Bilinmeyen/5.~|Dereağzı@|Dereağzı1~|Dereağzı2~|Dereağzı3~|Hacı Osman@|Lise 1.~|Lise 2.~|Lise@|Lise İskele@|Sahil~|Tayfur~|Tayfur1~|Tepe~|Teran~|Van İpekyolu İskele@|Ziyaret~|Çeşme 1~|Çeşme~|Öner~|İpekyolu@|İskele@
+159251	Değirmitaş Mah.	Bağlama=|Değirmitaş 1~|Değirmitaş 3~|Değirmitaş 4~|Değirmitaş 5~|Değirmitaş 6~|Değirmitaş 7~|Değirmitaş 8~|Değirmitaş~|Düvecik 1~|Düvecik 2~|Düvecik 3~|Düvecik~|İpekyolu@
+159253	Dilmetaş Mah.	Dilmetaş=
+159255	Dokuzağaç Mah.	Ahtamara~|Dokuzağaç=|Sahil~|İpekyolu 1~|İpekyolu 2~|İpekyolu@
+80636	Elmalı Mah.	Acarlar~|Ağkuş~|Bayarlar-~|Bektaş~|Berberoğlu~|Bilinmeyene6~|Bilinmeyene7~|Buzkan~|Derik~|Genceri~|Gözegir~|Güngörmüş~|Hizarlı~|Karşıyaka Bilinmeyen 11~|Kör Ömer-~|Meşeler 1~|Meşeler 2~|Meşeler~|Mustafa Canerli~|Osman Gazi~|Salihoğlu~|Sedir~|Sofuoğlu~|Toktan~|Uçar~|Vadim~|Vatan@|Yamaç~|Yağız~|Ömer Har~|Ömer Har-~|İlbaba@|İpekyolu@|İstiklal@|Şahinler~
+159257	Göründü Mah.	Göründü=|Hasbey Bilinmeyen/1~|İpekyolu@
+159259	Gündoğan Mah.	Gündoğan=|Sakalar~
+184770	Güzelkonak Mah.	1316.~|Belediye@|Dere~|Dilmetaş=|Dokuzağaç=|Güzelkonak 2.~|Güzelkonak 3.~|Güzelkonak 4.~|Güzelkonak 5.~|Güzelkonak 6~|Güzelkonak 7.~|Güzelkonak@|Güzelkonak1.~|Onbaşı~|Van İpekyolu-@|Yanıkçay1@|Yibo~|İkizler 1.~|İkizler~|İpekyolu@
+159261	Hasbey Mah.	Göründü=|Hasbey Bilinmeyen/1~|Hasbey=|İpekyolu@
+182044	Hişet Mah.	1310.~|Altındağ~|Arvaslar~|Atatürk@|Bahçelievler Bilinmeyen 33~|Bilinmeyen 33~|Bilinmeyen 34~|Emin~|Ergezen~|Ergezen/1~|Halime Hatun@|Hişet 1~|Hişet 2~|Hişet 3~|Hişet Bilinmeyen 1~|Hişet Bilinmeyen 18~|Hişet Bilinmeyen 20~|Hişet Bilinmeyen 22~|Hişet Bilinmeyen 23~|Hişet Bilinmeyen 24~|Hişet Bilinmeyen 25~|Hişet Bilinmeyen 26~|Hişet Bilinmeyen 28~|Hişet Bilinmeyen 30~|Hişet Bilinmeyen 31~|Hişet Bilinmeyen 32~|Hişet Bilinmeyen 35~|Hişet Bilinmeyen/1~|Hişet~|Hupyar~|Karakaya~|Karşıyaka Bilinmeyen 21~|Müsran~|Remzi Salim~|Selvi~|Tikerler~|Tuğaylar~|Üstün~|İpekyolu@|İskender@|İzettin Şir@
+80637	Karşıyaka Mah.	Bademler~|Bm~|Danışlar~|Deli Emin 1~|Deli Emin~|Gençlik~|Gözde~|Güneşler@|Halime Hatun@|Hupyar~|Kaplanlar~|Karşıyaka Bilinmeyen 11~|Karşıyaka Bilinmeyen 17~|Mehmet Akif~|Mezbaha~|Meşeler 2~|Muslih Görentaş%|Mustafa Güneş~|Parlak Güneş~|Tarhan~|Vestan Myd.|Yeşil Göz@|Yüksek Okul~|Yıldız~|Çiftçiler~|Çiçek~|Ömer Har~|Ömer Har-~|Özkaylar~|İpekyolu@|İstiklal@|Şelülan~
+159267	Kayalar Mah.	Kayalar=
+159269	Kazanç Mah.	Kazanç=|Kazanç1~
+159273	Koçak Mah.	Koçak=
+159275	Kurultu Mah.	Kurultu=|Kurultu1~
+159277	Kuşluk Mah.	Balaban 1~|Balaban 2~|Balaban 3~|Balaban~|Dövecik~|Düvecik~|Karşıgeçit 1~|Karşıgeçit 2~|Karşıgeçit 4~|Karşıgeçit~|Kuşluk=|İpekyolu@
+159271	Kızıltaş Mah.	Dönemeç~|Kızıltaş=
+80638	Orta Mah.	Abdurrezzak Ayas~|Adil Can~|Ahmet Can~|Ahmet Taşar~|Ahmet Çiftçi~|Ali İhsan 1~|Ali İhsan~|Aslı Hatun 1~|Aslıhatun@|Atatürk@|Ayaslar~|Ayazlar~|Bekir Sıtkı Dağ~|Bilinmeyenorta1~|Cami~|Ceylan~|Coşkunlar~|Cumhuriyet@|Ergençler~|Erinçler~|Faruk Arslan~|Feyzi Altaş~|Gazi~|Güllüler 1~|Güllüler~|Halil Emre~|Halit Deveci@|Hamdi Türkeş~|Hüsrev Yıldız@|Kahramanlar~|Kuşçiler~|Mehmet Akif~|Mehmet Şahin~|Muslih Görentaş%|Mustafa Bektaş~|Mustafa Çiftçi~|Nazif Oral~|Nazmi Oral~|Okullar~|Orta Bilinmeyen 16~|Ortablinmeyen~|Pazar~|Sakarya@|Sayan~|Sebze Hali~|Seyfettin Keser~|Vatan@|Vestan Myd.|Yusuf Ok~|Yüce~|Çağdaş~|Çiftçiler~|Ökçünler~|İnönü@|İstiklal@
+80639	Pınarbaşı Mah.	Ada~|Ağkuş~|Canlı~|Dereboyu 1~|Dereboyu~|Dsi~|Göl~|Gülmehmet~|Karadut~|Kardelen~|Keretaş~|Kızılay~|Liman~|Nergis~|Pınarbaşı 1.~|Pınarbaşı 2.~|Pınarbaşı Bilinmeyen 1~|Pınarbaşı Bilinmeyen 2~|Rez~|Sahil 1~|Sahil~|Sardunya~|Sarıkamış~|Sümbül~|Sümerler~|Vatan@|Çam~|Ödükler~|İpekyolu@
+80640	Selimiye Mah.	75. Yıl~|75.yıl.1.~|75.yıl.2.~|Aksular~|Akşaklar-~|Akşit~|Alimler 1.~|Alimler 2.~|Alkışlar~|Artos~|Atalan-~|Azbağ~|Azbağlar~|Baburlar~|Bahçebeyi~|Baran~|Baranlar 1.~|Baranlar 2.~|Başkale~|Beyler~|Bilinmeyen 1/selimiye~|Bilinmeyenortak1~|Bilinmeyess1~|Ceza Evi~|Cumhuriyet@|Dalkılıç~|Dalkılıç1~|Denizler~|Dere~|Dokuz Kapı 1.~|Dokuz Kapı 2.~|Ekrem Alkan~|Fuat Demir~|Gevas~|Gökler 1.~|Gökler 2.~|Gökler~|Güz~|Kalkan~|Karataş 1.~|Karataş~|Kavarsit~|Kaçmaz~|Kömürcüler~|Melikşah@|Mihrali 1.~|Mihrali~|Nur 1.~|Nur~|Nurşin@|Okul~|Orhanlar~|Sağol~|Selimiye Bilinmeyen 59~|Sikal~|Tonka~|Turiç~|Yağmur~|Yel~|Yel/1~|Yıldız 3.~|Çelebiler~|Çemberlitaş~|Öner~|Özvanlar~|Üreyler~|İbrahim İlhan~|İpek~|İpekyolu@|Şaligöl 2.~|Şaligöl 3.~|Şaligöl 4.~|Şaligöl 5.~|Şaligöl 6.~|Şalıgöl~|Şalıgöl-=|Şalıgöl1~
+159279	Timar Mah.	Timar=
+159281	Töreli Mah.	Bağlama=|Töreli=
+184772	Uysal Mah.	Araşan~|Belediye@|Bilinmeyenu/2~|Bilinmeyenu6~|Bilinmeyenu7~|Bilinmeyenu8~|Dereağzı~|Hamide Hatun~|Işıklar@|Kayalar1~|Mezarlık~|Uysal Bilinmeyen 7~|Van İpekyolu Işıklar@|Yanıkçay1@|İpekyolu@
+159283	Uğurveren Mah.	Andaç Ty 15~|Uğurveren=
+159285	Yanıkçay Mah.	Yanıkçay=
+159287	Yemişlik Mah.	Kurultu=|Kurultu1~|Yemişlik=
+159289	Yoldöndü Mah.	Yoldöndü 1~|Yoldöndü 2~|Yoldöndü 3~|Yoldöndü 5~|Yoldöndü 6~|Yoldöndü 7~|Yoldöndü 8~|Yoldöndü 9~|Yoldöndü Bilinmeyen 4~|Yoldöndü~|Yoldöndü10~|Yoldöndübilinmeyen/7~
+159291	Yuva Mah.	Yuva Bilinmeyen1~|Yuva=|İpekyolu@
+159263	İkizler Mah.	İkizler=|İkizler1~
+159265	İnköy Mah.	İnköy=

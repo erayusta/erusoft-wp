@@ -1,0 +1,172 @@
+38386	Adaklı Köyü	Adaklı=
+38387	Akalın Köyü	Akalın=|İnanlı=
+38389	Akocak Köyü	Köyün Kendısı=
+38392	Akocak Köyü, A.olukbaşı Mezrası	A.olukbası=
+38390	Akocak Köyü, Köşk Mezrası	Kösk=
+38391	Akocak Köyü, Sülük Mezrası	Sülük=
+38527	Akpınar Köyü	Köyün Kendısı=
+38531	Akpınar Köyü, Altınbaşak Mezrası	Altınbasak=
+38528	Akpınar Köyü, Beşevler Mezrası	Besevler=
+98920	Akpınar Köyü, Dereiçi (birdik) Mevkii	Dereıcı=
+38530	Akpınar Köyü, Duranlar Mezrası	Duranlar=
+38529	Akpınar Köyü, Ovaiçi Mezrası	Ovaıçı=
+38492	Aksu Köyü	Köyün Kendısı=
+38388	Akçalı Köyü	Akçalı=
+38393	Altınoluk Köyü	Altınoluk=
+38394	Armutdüzü Köyü	Köyün Kendısı=
+38399	Armutdüzü Köyü, Aktoprak Mezrası	Aktoprak=|Yuvalı=
+38396	Armutdüzü Köyü, Arpalı Mezrası	Arpalı=
+38395	Armutdüzü Köyü, Damlacık Mezrası	Damlacık=
+38401	Armutdüzü Köyü, Kornak Mezrası	Kornak=
+38397	Armutdüzü Köyü, Tepebaşı Mezrası	Tepebası=
+38400	Armutdüzü Köyü, Yuvalı Mezrası	Yuvalı=
+38398	Armutdüzü Köyü, Şahince Mezrası	Sahınce=
+98283	Aşağıuluyol Köyü	Köyün Kendısı=
+98284	Aşağıuluyol Köyü, Y.uluyol Mezrası	Y.uluyol=
+98285	Aşağıuluyol Köyü, Yeniköy Mezrası	Yeniköy=
+38495	Bataklık Köyü	Bataklık=|Gürdere=
+38403	Bağdaş Köyü	Köyün Kendısı=
+38405	Bağdaş Köyü, Ericik Mezrası	Erıcık=
+38402	Bağdaş Köyü, Gedikli Mezrası	Gedıkli=
+38407	Bağdaş Köyü, Kalakonak Mezrası	Kalakonak=
+38406	Bağdaş Köyü, Kayakonak Mezrası	Kayakonak=|Tatlıcak=
+38408	Bağdaş Köyü, Tatlıcak Mezrası	Tatlıcak=
+38409	Beşatlı Köyü	Beşalı Köy You=
+38410	Beşatlı Köyü, Çakmak Mezrası	Çakmak=
+38411	Beşatlı Köyü, Çakırkay Mezrası	
+38412	Beşatlı Köyü, Çakırkaya Mezrası	Çakırkaya=
+181338	Beşbulak Köyü	Köyün Kendisi=
+38501	Bostancık Köyü	Bostancık=|Cevizlik=
+38493	Bulaklı Köyü	Bulaklı=
+38416	Bölük Köyü, Dilimli Mezrası	Dılımlı=
+38415	Bölük Köyü, Köyün Kendisi Mevkii	Keçili=|Köyün Kendısı=
+38414	Bölük Köyü, Çatalkaya Mezrası	Dılımlı=|Güçlü=|Çatalkaya=
+31042	Büyükçiftlik Beldesi, Kerem Zeydan Mah.	Zeydan=
+31041	Büyükçiftlik Beldesi, Merkez Mah.	1~|Akasya@|Cumhurıyet@|Cumhurıyet1~|Dere@|Gazı@|Gazı1~|Merkez_1@|Mezra=|Ulus@|Vatan@|Vatan1~|Yayla1~|Yayla2~|Yayla3~|Yayla4~|Yayla8@|Yesılova=|Zeydan=
+31043	Büyükçiftlik Beldesi, Yeşilova Mah.	Bilinmeyen Yol~|Kamp=|Kandıllı=|Yayla=|Yesılova=|Zeynep=
+31037	Cumhuriyet Mah.	702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|714~|715~|716~|717~|718~|719~|720~|721~|722~|723~|724~|725~|726~|727~|728~|729~|730~|731~|732~|733~|734~|736~|737~|738~|739~|740~|741~|742-~|743~|744~|745~|746~|747~|748~|749-~|750~|751~|752~|801~|802~|803~|804~|804/1~|805~|806~|806/1~|807~|808~|808/1~|809~|810~|811~|812~|813~|814~|814-~|815~|816~|817~|818~|818/1~|819~|820~|821~|822~|823~|Bilinmeyen 2~|Bilinmeyen 3~|Gençlık@|Güçlü=|Imaryolu1~|Imaryolu2~|Imaryolu3~|Isımsız 10~|Isımsız 11~|Kanihaydar-@|Kanı Haydar@|Kuruköy@|Su Deposu@|Taslak 1~|Taslak 2@|Taslakyol 2~|Taslakyol000~|Taslakyol71~|Taslakyol72~|Taslakyol89~|Taslakyol93~|Taslakyol94~|Taslakyol95~|Tslk~|Tslk2~|Tslkyol11~|Tslkyol94~|Tslkyol95~|Tslkyol96~|İmar 2~|İmar 20~|İmar2~|İmar30~|İmaryolu4~|İsimsiz 12~|İsimsiz 16~|İsimsiz 17~|İsimsiz 20~|İsimsiz 21~|İsimsiz 23~|İsimsiz 25~|İsimsiz 31~|İsimsiz 36~
+38498	Dağlıca Köyü, Akar Mevkii	Akar=
+38500	Dağlıca Köyü, Daglıca Mevkii	Daglıca=
+38499	Dağlıca Köyü, İncirlik Mezrası	Incırlık=
+38419	Dedeler Köyü	Köyün Kendısı=
+38426	Demirkonak Köyü	Köyün Kendısı=
+38425	Demirkonak Köyü, Duraklı Mezrası	Duraklı=
+38427	Demirkonak Köyü, Yumrutaş Mezrası	Yumrutas=
+38420	Değerli Köyü	Degerlı=
+38423	Değerli Köyü, A.ölçek Mezrası	A.ölçek=
+38422	Değerli Köyü, Dişli Mezrası	Dışlı=
+38424	Değerli Köyü, Köycük Mezrası	Koycuk=
+38421	Değerli Köyü, Y.ölçek Mezrası	Y.ölçek=
+38429	Dibekli Köyü	Dibekli=
+38431	Dibekli Köyü, Dalice Mezrası	Dalıce=
+38430	Dibekli Köyü, Odabaşı Mezrası	Odabaşı=
+38502	Dilekli Köyü	Dilekli=
+38503	Dilekli Köyü, Dilekli Kampı Mevkii	
+38432	Dilektaşı Köyü	Dilektaşı=
+38433	Dilektaşı Köyü, Dereiçi Mezrası	Dereiçi=
+38434	Dilektaşı Köyü, Çalımlı Mezrası	Çalımlı=
+31027	Dize Mah.	301~|302.alaattın Kesıcı~|303~|304~|305~|306~|307~|309~|310~|311~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|325~|327~|329~|331~|402~|404~|415~|Anadolu@|Cengız Topel@|Degırmen@|Hamıt Kesıcı@|Isımsız 9~|Kısla1~|Nedım Zeydan@|Santral@|Taslak Yol 28~|Taslak Yol 30~|Taslak Yol 33~|Taslak Yol 34~|Taslak Yol 36~|Taslak Yol 38~|Taslak Yol19~|Taslak Yol21~|Taslak Yol23~|Taslak Yol24~|Taslakyol 50~|Taslakyol0~|Taslakyol100~|Taslakyol15~|Taslakyol20~|Taslakyol25~|Taslakyol26~|Taslakyol28~|Taslakyol55~|Yesıldere@|İsimsiz 26~|İsimsiz 32~
+38496	Doğanlı Köyü	Doganlı=
+31036	Esen Yurt Mah.	1.bölge 1.etap Tokı Konutları=|1202~|1203~|1204~|1205~|1206~|1207~|1208~|1209~|1210~|1211~|1212~|1213~|1214~|1215~|1216~|1217~|1218~|1219~|1220@|1221~|1222~|1223~|1225~|1226~|1227~|1228~|1229~|1230~|1231~|1313~|1316(sınır)-~|1318~|3.bölge Tokı Konutları~|Ipek Yolu@|Kayacan Cadd@|Onay Cadd@|Su Deposu Cadd@|Tasalk Yol 65~|Taslak Yol 19~|Taslak Yol 32~|Taslak Yol 35~|Taslak Yol 47~|Taslak Yol 52~|Taslak Yol 55~|Taslak Yol 56~|Taslak Yol 68~|Taslak Yol 69~|Taslak Yol 70~|Taslak Yol25~|Taslak Yol35~|Taslak Yol40~|Taslak Yol55~|Taslak111~|Taslak112~|Tslkyol92~|Tslkyol93~|Yese Cadd@|İsimsiz 3~
+31044	Esendere Beldesi, Güvenli Mah.	Kamber=|Nerman=|Pagenk=|Sah=|Yedıveren=
+31047	Esendere Beldesi, Merkez Mah.	Akçadam=|Asagı Sarıyıldız=|Esendere=|Gümrük=|Konuklu=
+31046	Esendere Beldesi, Sarıyıldız Mah.	Asagı Sarıyıldız=|Yukarı Sarıyıldız=
+31045	Esendere Beldesi, Yılmaz Mah.	Güzlüce=|Morı=|Soganlı=|Yamaç=
+31033	Esentepe Mah.	1302~|1303~|1304~|1305~|1306~|1307~|1308~|1309~|1310~|1311~|1312~|1313~|1315~|1316~|1318~|1319~|1320~|2.bölge 1.etap=|Bilinmeyen/4~|Ipek Yolu@|Kayacan Cadd@|Su Deposu Cadd@|Taslak Yol 19~|Taslak Yol 62~|Taslak Yol 72~|Taslak Yol 73~|Taslok Yol25~|Tslkyol97~|İsimsiz 3~
+31035	Eski Kışla Mah.	401~|402~|403~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|417~|417-~|417/2~|418~|419~|420~|422~|426~|428~|501~|502~|503~|504~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515~|516~|517~|518~|519~|520~|522~|523~|Cengız Topel@|Degırmen@|Gençlık@|Isımsız 6~|Kocatepe@|Kısla@|Kısla1~|Orman@|Taslak Yol12~|Taslak Yol15~|Taslak Yol16~|Taslak Yol17~|Taslak Yol18~|Taslak Yol2~|Taslak Yol20~|Taslak Yol22~|Taslak Yol4~|Taslak Yol7~|Taslak Yol8~|Taslakyol32~|Taslakyol33~|İsimsiz 14~|İsimsiz 15~|İsimsiz 18~|İsimsiz 19~|İsimsiz 22~|İsimsiz 244~|İsimsiz 27~|İsimsiz 28~|İsimsiz 29~|İsimsiz 30~|İsimsiz 33~|İsimsiz 34~
+38435	Gökyurt Köyü	Gökyurt=
+38436	Gökyurt Köyü, Yeşildere Mezrası	Yesildere=
+38532	Güldalı Köyü	Guldalı=
+38413	Güllüce Köyü	Köyün Kendısı=
+38417	Güllüce Köyü, Bulgurlu Mezrası	Bulgurlu=
+31029	Güngör Mah.	1 -~|1002~|1003~|1004~|1004/1~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1012/1~|1013~|1015~|1016~|1017~|1017/1-~|1018~|1019~|1020~|1021~|1022~|1023~|1023/1~|1025~|1025/1~|1025/2~|1027~|1028~|1029~|1030~|1031~|1032~|1033~|1036~|23 Nısan 1~|23 Nısan 2~|23 Nısan@|902~|904~|905~|906 Ibrahım Uzunköprü .sk~|906/1~|907~|908~|908/1~|908/2~|909~|910~|911~|912~|913~|914~|915~|915/1~|916~|917~|917/1~|918~|919~|919/5~|920~|921~|922~|923~|924~|925~|926~|927~|928~|928/1~|929~|930~|931~|931/1~|932~|933~|934~|935~|936~|936/1~|937~|938~|938/1~|939~|940~|941~|942~|943~|944~|Akasya Sk~|Anafartalar@|Av. Hıkmet Güngör 1~|Av.hıkmet Güngör@|Cengız Topel@|Güngör 1~|Güngör@|Isımsız 1~|Kont 1~|Kont~|Kuruköy 1~|Kuruköy 2~|Kuruköy 3~|Kuruköy 4~|Kuruköy 5~|Kuruköy@|Kültür Sanat 1~|Kültür Sanat 2~|Kültür Sanat 3~|Kültür Sanat 4~|Kültür Sanat 5~|Kültür Sanat@|Onaylar Cad@|Taslak 100~|Taslak 101~|Taslak 102~|Taslak 103~|Taslak 104~|Taslak 105~|Taslak 110~|Taslak 111~|Taslak 112~|Taslak 113~|Taslak 114~|Taslak 115~|Taslak 116~|Taslak 20~|Taslak 21~|Taslak 22~|Taslak 23~|Taslak 24~|Taslak 25~|Taslak 27~|Taslak 29~|Taslak 31~|Taslak 32~|Taslak 34~|Taslak 37~|Taslak 38~|Taslak 39~|Taslak 40~|Taslak 41~|Taslak 42~|Taslak 43~|Taslak 45~|Taslak 46~|Taslak 47~|Taslak 48~|Taslak 55~|Taslak 57~|Taslak 58~|Taslak 59~|Taslak 61~|Taslak 62~|Taslak 64~|Taslak 65~|Taslak 67~|Taslak 68~|Taslak 69~|Taslak 70~|Taslak 71~|Taslak 72~|Taslak 73~|Taslak 74~|Taslak 75~|Taslak 76~|Taslak 77~|Taslak 78~|Taslak 79~|Taslak 80~|Taslak 81~|Taslak 85~|Taslak 86~|Taslak 87~|Taslak 88~|Taslak 89~|Taslak 90~|Taslak 91~|Taslak 92~|Taslak 93~|Taslak 95~|Taslak 96~|Taslak 99~|Taslak Yol 1~|Taslak Yol 2~|Taslak Yol 3~|Taslak Yol 4~|Taslak Yol 5~|Taslak Yol 6~|Taslak Yol 7~|Taslak Yol 8~|Taslak Yol 9~|Taslak106~|Taslak107~|Taslak108~|Taslak109~|Taslak15~|Taslak18~|Taslak6~|Taslakb1~|Taslakk~|Taslakyol~|Taslakyol İmar~|Taslakyol İmar1~|Taslakyol00~|Taslakyol90~|Tasslak~|Tslyol91~|Tsy1~|Yenıyol@|Çevre Yolu@
+38494	Gürdere Köyü	Gürdere=
+185020	Gürdere Köyü, Mezran Mevkii	
+38504	Gürkavak Köyü, Cevizlik Mezrası	Cevizlik=
+38505	Gürkavak Köyü, Gove Mezrası	Gove=
+38508	Gürkavak Köyü, Tokağaç Mezrası	Tokağaç=
+38506	Gürkavak Köyü, Yeşildere Mezrası	Yeşildere=
+38507	Gürkavak Köyü, İkizler Mezrası	İkizler=
+38437	Güçlü Köyü	Güçlü=
+38438	Güçlü Köyü, Duraklı Mezrası	Duraklı=
+38439	Kadıköy Köyü	Kalemli=
+38441	Kadıköy Köyü, Kalemli Mezrası	Kalemli 1=
+38440	Kadıköy Köyü, Mamak Mezrası	Mamak=
+38497	Kamışlı Köyü	Köyün Kendisi=
+38442	Karabey Köyü	Köyün Kendisi=
+38443	Karlı Köyü	Köyün Kendisi=
+38446	Karlı Köyü, Beşpınar Mezrası	Beşpınar=
+38448	Karlı Köyü, Karabağ Mezrası	Karabağ=
+38447	Karlı Köyü, Kilimli Mezrası	Kılımlı=
+38445	Karlı Köyü, Çimenli Mezrası	Çimenli=
+38444	Karlı Köyü, Çiçeközü Mezrası	Çiçeközü=
+119436	Kazan Köyü	Kazan=
+38449	Keçili Köyü	Keçili=
+38456	Kolbaşı Köyü	Köyün Kendisi=|Yuvalı=
+38457	Kolbaşı Köyü, Ormanarası Mezrası	Ormanarası=
+38458	Köprücek Köyü	Köprücek=
+38510	Köşkönü Köyü	Köşkönü=
+38512	Köşkönü Köyü, Dağdibi Mezrası	Dağdibi=|Erbaş=
+38513	Köşkönü Köyü, Erbaş Mezrası	Erbaş=
+38511	Köşkönü Köyü, Kurucak Mezrası	Kurucak=
+38453	Kısıklı Köyü	Kısıklı=
+38451	Kısıklı Köyü, A.güveç Mezrası	A.guveç=
+38455	Kısıklı Köyü, Pirbılan Mezrası	Pirbılan=
+38454	Kısıklı Köyü, Sualtı Mezrası	Köyün Kendısı=|Sualtı=
+31038	Mezarlık Mah.	601~|602~|603~|605~|606~|607~|608~|609~|614~|617~|618~|626~|Gazı@|Gençlık@|Orman@|Taslakyol 6~|Taslakyol 7~|Taslakyol1~|Taslakyol101~|Taslakyol11~|Taslakyol12~|Taslakyol2~|Taslakyol3~|Taslakyol4~|Taslakyol56~|Taslakyol9~
+38459	Onbaşılar Köyü	Köyün Kendısı=
+38467	Onbaşılar Köyü, Armutlu Mezrası	Armutlu=
+38466	Onbaşılar Köyü, Ağaçlık Mezrası	Agaçlık=
+38460	Onbaşılar Köyü, Ağılcık Mezrası	Agılcık=
+38462	Onbaşılar Köyü, Daraiçi Mezrası	
+38464	Onbaşılar Köyü, Dereiçi Mezrası	Dereıçı=
+38465	Onbaşılar Köyü, Sarıkaya Mezrası	Köyün Kendısı=|Sarıkaya=
+38461	Onbaşılar Köyü, Çamdalı Mezrası	Çamdalı=
+38463	Onbaşılar Köyü, Çobanpınar Mezrası	Çobanpınar=
+38469	Ortaç Köyü	Köyün Kendısı=
+38470	Ortaç Köyü, Gümüşlü Mezrası	Gümüslü=|Konak=
+38472	Ortaç Köyü, Kapılı Mezrası	Kapılı=
+38474	Ortaç Köyü, Kargılı Mezrası	Kargılı=
+38471	Ortaç Köyü, Konak Mezrası	Konak=
+38473	Ortaç Köyü, Pirinceyin Mezrası	Pırınceyın=
+38514	Pınargözü Köyü	Köyün Kendısı=
+38515	Pınargözü Köyü, Kışlacık Mezrası	Kıslacık=
+38517	Pınargözü Köyü, Yeşilce Mezrası	Yeşildere=
+38516	Pınargözü Köyü, İnceyol Mezrası	Inceyol=
+38475	Salkımlı Köyü	Salkımlı=
+38477	Salkımlı Köyü, Gürkaynak Mezrası	Gürkaynak=
+38479	Salkımlı Köyü, Köprübaşı Mezrası	Köprübası=
+38476	Salkımlı Köyü, Reşadiye Mezrası	Resadıye=
+38478	Salkımlı Köyü, Şimte Mezrası	Sımte=
+181574	Sarıtaş Köyü	Köyün Kendısı=
+38452	Sarıtaş Köyü, Yemişli Mevkii	Yemıslı=
+98225	Serindere Köyü	Köyün Kendısı=
+98226	Serindere Köyü, Miranava Mezrası	Mıranava=
+98227	Serindere Köyü, Y.güveç Mezrası	Y.güveç=
+38480	Suüstü Köyü	Suüstü=
+38518	Sürekli Köyü	Köyün Kendısı=
+38519	Sürekli Köyü, Kaşyazı Mezrası	
+38520	Sürekli Köyü, Tarlacık Mezrası	Tarlacık=
+38521	Sürekli Köyü, Taşyazı Mezrası	-=
+38481	Tatlı Köyü	Köyün Kendısı=
+38522	Tuğlu Köyü	Köyün Kendisi=
+38524	Tuğlu Köyü, Karataş Mezrası	Karataş=
+38523	Tuğlu Köyü, Çayır Mezrası	Çayır=
+38482	Vezirli Köyü	Dıbecık Kampı~|Dıleklı Kampı 1160 Sk~|Dıleklı Kampı 1163 Sk~|Köyün Kendısı=
+38525	Yazılı Köyü, Yazılı Mezrası	1 Yol.cad-@
+31030	Yeni Mah.	1101~|1102~|1103~|1104~|1105~|1106~|1107.h.ahmet Koca~|1108~|1109~|1110~|1111~|1112~|1113~|1114~|1115~|1116~|1117~|1118~|1136~|1139~|1151 Sk Yazılı Kampı~|1152 Sk Yazılı Kampı~|1157 Yazılı Kampı~|1401~|1402~|1403~|1404~|1405~|1406~|1407~|1408~|1409~|1410~|1411~|1412~|1413~|1414~|1415~|1416~|1417~|1418~|1419~|1420~|1421~|1422~|1423~|1424~|1425~|1426 Sk~|1427~|1428~|1429~|1432~|1434~|1435~|1436~|1437~|1439~|1440~|1441~|1442~|1443~|1444~|1445~|1446~|1447~|1448~|1459-~|1501~|1502~|1503~|1504~|1505~|1506~|1507~|1508~|1509~|1510~|1510/1~|1511~|1512~|1513~|1515~|1516-~|1517-~|1518-~|1519~|1520 1~|1520~|1523~|1541~|1542~|Cengız Topel@|Daglıca Yazılı~|Daglıca Yolu@|Dağlıca-@|Dilekli Kampı 1163 Sk-~|Dilekli Kampı 1164 Sk-~|Dıbecık Kampı 1167 Sk~|Dıbecık Kampı 2~|Dıbecık Kampı~|Dıbecık Kampı1=|Dıleklı Kampı 1160 Sk~|Dıleklı Kampı 1161 Sk~|Dıleklı Kampı 1163 Sk~|Dıleklı Kampı 1168 Sk~|Dıleklı Kampı=|Güngör@|Hal~|Havalımanı@|Ipek Yolu@|Isımsız 4~|Mıllı Egemenlık@|Taslak 11~|Taslak 14~|Taslak 26~|Taslak 28~|Taslak 30~|Taslak 36~|Taslak 5~|Taslak 50~|Taslak 51~|Taslak 52~|Taslak 53~|Taslak Yoll~|Taslak1~|Taslak1.~|Taslak10~|Taslak1000@|Taslak1001~|Taslak11~|Taslak11.~|Taslak12~|Taslak12.~|Taslak1212~|Taslak13~|Taslak14.~|Taslak15.~|Taslak16~|Taslak19.~|Taslak2~|Taslak20~|Taslak22~|Taslak22.~|Taslak24~|Taslak25~|Taslak29~|Taslak3.~|Taslak31~|Taslak32~|Taslak322~|Taslak33~|Taslak34~|Taslak36~|Taslak37~|Taslak39~|Taslak4.~|Taslak5~|Taslakk12~|Taslakkk~|Taslakkyoll~|Taslakyl10~|Taslakyl12~|Taslakyol 334~|Taslakyol 4~|Taslakyoll1~|Taslakyoll2~|Tassllaak~|Tslaaaakk~|Tslk14~|Tslkyl15~|Yazılı Kampı 1=|Yeniyol~|Yenı Hastane@|Çevre Yolu@|İsimsiz 5~
+38487	Yeniışık Köyü	Köyün Kendısı=
+38484	Yeniışık Köyü, Alacık Mezrası	Alacık=
+38486	Yeniışık Köyü, Basamak Mezrası	Basamak=
+38485	Yeniışık Köyü, Mezra Mezrası	Mezra=
+38483	Yeniışık Köyü, Yukarı Ulukbaşı Mezrası	Yukarı Ulukbası=
+31031	Yeşildere Mah.	101~|2.cad@|201~|202~|203~|204~|205~|206~|208~|210~|211~|212~|213~|214~|216~|218~|Anadolu@|Cengız Topel@|Nedım Zeydan@|Taslak Yol 12~|Taslak Yol 17~|Taslak Yol1~|Taslak Yol10~|Taslak Yol11~|Taslak Yol13~|Taslak Yol14~|Taslak Yol3~|Taslak Yol5~|Taslak Yol6~|Taslak Yol9~|Taslakyol13~|Taslakyol15~|Taslakyol16~|Taslakyol6~|Taslakyol7~|Yesıldere@|İsimsiz2@|İsimsiz3@
+38526	Yeşiltaş Köyü	Köyün Kendisi=
+38489	Yoncalık Köyü	Köyün Kendısı=
+38490	Yoncalık Köyü, Çevreli Mezrası	Çevrelı=
+38491	Yürekli Köyü	Yürekli=
+38418	Çatma Köyü	Çatma=
+197893	Çukurca Köyü	Köyün Kendısı=
+38468	Örnekköy Köyü	Köyün Kendisi=
+38509	İnanlı Köyü	İnanlı=
+31028	İpek Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121 Zafer Sk~|122 Ömer Özatlı~|124~|126~|128~|130~|1302~|132~|134~|136~|138~|140-~|142~|143~|150~|151~|206~|5.etap Tokı Konutları=|Anadolu@|Cengız Topel@|H.ömer Sabancı@|Ipek Yolu@|Isımsız 8~|Taslak7~|Taslakyol 1~|Taslakyol 10~|Taslakyol 12~|Taslakyol 13~|Taslakyol 14~|Taslakyol 15~|Taslakyol 17~|Taslakyol 18~|Taslakyol 19~|Taslakyol 20~|Taslakyol 21~|Taslakyol 22~|Taslakyol 23~|Taslakyol 24~|Taslakyol 25~|Taslakyol 26~|Taslakyol 27~|Taslakyol 333~|Taslakyol 5~|Taslakyol 8~|Taslakyol 9~|Taslakyol15~|Taslayol 2~|Taslk8~|Tslk5~|Tslk6~|Tslkyol~|Tslkyol7~|Ty1~|Ty2~|Ty3~|Ty4~

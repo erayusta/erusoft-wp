@@ -1,0 +1,16 @@
+19430	Asmabağ Köyü, Merkez Mevkii	Merkez Köy$
+19435	Ballık Köyü, Arpacık Mevkii	Arpacık Köy$
+19432	Ballık Köyü, Bel Mevkii	Bel Köy$
+19433	Ballık Köyü, Kaymakcı Mevkii	Kaymakcı Köy$
+19431	Ballık Köyü, Merkez Mevkii	Merkez Köy$
+19436	Ballık Köyü, Söben Mevkii	Söben Köy$
+19434	Ballık Köyü, Süpürgelik Mevkii	Süpürgelik Köy$
+19437	Ballık Köyü, Çukurkavak Mevkii	Çukurkavak Köy$
+10994	Gülpınar Mah.	Bektaş~|Burçak~|Dersaneyanı~|Değirmenler~|Egemen~|Erikçiler~|Gülpınar@|Gırcılı~|Haydarlar~|Hızır~|Kadir Türen~|Karaağaçlı~|Kavcarlar~|Kepenekler~|Kocabekir~|Kızılyaka@|Meşeli~|Nalbant~|Nasuhefendi~|Semercik~|Sorkuncuk~|Tepe~|Tireli~|Çavuşlar~|Çelik~|Özdemir~|Şahin~|Şehit Fevzi Türen~
+10995	Heybeli Mah.	Acil~|Ahatlı~|Aliçavuşlar~|Atatürk@|Aşıkpınarı~|Bademlik~|Bahçe~|Bağaltı~|Bağlık~|Başaran~|Belediye@|Bozyaka~|Cami~|Cumhuriyet Myd.|Dirmilcik=|Ekiz~|Emin Demirayak~|Esmerpınarı~|Göverler~|Gül~|Gülistan~|Güney~|Güzle~|Hacı Muhiddin~|Hacı Sadeddin~|Hüşler~|Karaca~|Karanfil~|Karasinir~|Karayel~|Kaya~|Killik Mevki=|Koca Çayır~|Koçaş~|Köy Yakası=|Meryemgırı~|Okunak~|Osalar~|Pürenlik~|Sadettin Yücel@|Sanayi~|Sarıpınar~|Selvi~|Serdümen~|Severler~|Suludere~|Tekin~|Tuğcu~|Ustahabibler~|Yurt~|Yörükler~|Zeybek~|Zeytinler 1.~|Zeytinler~|Çevreyolu@|Önder~|Öz~|Üniversite~|Şehit Kadir Eraslan@|Şirin~
+19441	Kızılyaka Köyü, Merkez Mevkii	Kızılyaka@|Merkez Köy$
+10996	Taşyaka Mah.	1.kümeevler=|Atatürk@|Bayır~|Cumhuriyet Myd.|Curalar~|Demirciler~|Değirmenler~|Durasılar~|Efekli~|Fethiye@|Gülden~|Gülpınar@|Gümüş~|Hamamönü~|Hıdırlar~|Kamilefendi~|Kanarya~|Kantin~|Karapınar~|Köşkönü~|Lale~|Mescit~|Nuralısı~|Orman~|Poyraz~|Pıynarlık~|Sağlık@|Serttaş~|Sezer~|Taşlı~|Tekeli~|Tuğrul~|Uluküner~|Zambak~|Çevreyolu@|Çöğürlük~|Çınar~|Öztürk~|Üçmeşe~|İbişefendi~|İlme~|İşletme~|Şafak~|Şht.hamza Atakul~|Şimşek~
+10997	Yeni Mah.	Aygülü~|Bartlıca~|Cumhuriyet Myd.|Dereli~|Göçerler~|Gülpınar@|Karaoğlan~|Karataş~|Kavak~|Leylak~|Menekşe~|Muhtar Ümmügülsüm~|Sümbül~|Tokatlık~|Umut~|Yılmaz~|Ölçekler~|Ören~|İnceler~|Şehit Kadir Eraslan@
+19438	Çatak Köyü, Merkez Mevkii	Merkez Köy$
+19440	Çörten Köyü, Kavakpınarı Mevkii	Kavakpınarı Köy$
+19439	Çörten Köyü, Merkez Mevkii	Merkez Köy$

@@ -1,0 +1,58 @@
+80996	19 Mayıs Mah.	Akarsu~|Aksu@|Akçay~|Altındere~|Amasya~|Ata~|Atatürk@|Ayasofya~|Bayır~|Boğaziçi~|Ceyhan~|Dalaman~|Deva~|Dik~|Duman~|Efes~|Elma Dağı~|Erciyes~|Ergene~|Eski Ereğli Yolu@|Eski Pazar Yeri~|Fethiye~|Fırat~|Gazi~|Göktürk~|Gönen~|Güllük~|Gülsüm~|Gündoğdu~|Günnur~|Harran~|Karadeniz@|Kartalkaya~|Kasapgil~|Kaçkar~|Kağızman@|Kuşadası~|Köyceğiz~|Kültepe~|Kızılırmak~|Manyas~|Marmaris~|Meram~|Pırlanta~|Sade~|Sağlık~|Seyhan~|Silifke~|Sultandağı~|Sütun~|Tarla~|Tavşan Ahmet~|Terzi~|Tuna~|Tunahan~|Uludağ~|X Şahin~|Xşehit Yusuf Yelkenci@|Yasa~|Yavuz~|Yaşar~|Yeniyol~|Çamardı~|Çardak~|Çevik~|Çiçek Dağı~|İnönü@|İstasyon@|Şahin@|Şehit Burhanettin Şen~|Şehit Polis Ramazan Tavşancı@|Şehit Yusuf Yelkenci@
+89632	Akşeyh Köyü, Karşı Mevkii	Karşı=
+89631	Akşeyh Köyü, Merkez Mevkii	Merkez=
+89633	Akşeyh Köyü, Yukarı Mevkii	Yukarı=
+89634	Aşağıçayır Köyü	Aşağıçayır Merkez=
+89635	Balçıklı Köyü	Balçıklı Merkez=
+89636	Bozca Köyü, Katırlı Mevkii	Katırlı=
+89637	Bozca Köyü, Merkez Mevkii	Merkez=
+89641	Dağköy Köyü	Dağköy=|Dağlıca=
+89643	Dereköy Köyü, Hasanbaşoğlu Mevkii	Hasanbaşoğlu=
+89642	Dereköy Köyü, Muratlar Mevkii	Muratlar=
+89644	Ebegümeci Köyü, Merkez Mevkii	Merkez=
+89645	Ebegümeci Köyü, Yaylacık Mevkii	Yaylacık=
+89647	Enseköy Köyü, Manaşlar Mevkii	Manaşlar=
+89646	Enseköy Köyü, Merkez Mevkii	Merkez=
+196377	Esenköy Mah.	Abaz@|Akgül~|Ardınç~|Bahçe~|Baran~|Batuhan~|Bedirhan-~|Can~|Dağyolu~|Demırkan~|Elaçmaz~|Ereğli Yolu@|Esentepe~|Fakülte@|Hasat~|Havadar-~|Ilgın~|Ilıksu@|Kabaarmut~|Karagül~|Kavaklı~|Rüzgarlı~|Sarıgül~|Toprak~|Yıldız-~|Çay~|Çiftlik~|Ünal-~|İskele~|Şifa~
+80990	Fatih Mah.	40 Evler~|A.kutay@|Adnan Taneri~|Altınoluk~|Asya~|Behramkale~|Bilgi~|Caner~|Devran~|Ereğli Yolu@|Eski Ereğli Yolu@|Foça~|Haşmet İmga~|Hülyalı~|Kemer~|Körfez~|Manavgat~|Mustafa Kösterit@|Mustafa Şimşek~|Okul~|Pamukkale@|Park~|Safranbolu~|Taşucu~|Vatan@|Yıldızevler~|Çengel~|Çinili~|Çırağan~|İ.ergene@|İnan~|İrem~|İznik~|Şehit Efgan Odabaşı@|Şehit Gökhan Avcı~|Şehit Kamil Adakoğlu~|Şehit Muhammet Maden~
+89650	Futa Köyü	Futa Merkez=
+89651	Gücek Köyü, Ceyüp Mevkii	Ceyüp=
+89652	Gücek Köyü, Merkez Mevkii	Merkez=
+80991	Güney Mah.	Akasya~|Asude~|Açelya~|Bahar~|Barış@|Begonya~|Cihan~|Damla~|Defne~|Dere~|Değerli~|Elmas~|Emek 46 Evler~|Evrensel@|Filiz~|Fulya~|Funda@|Genç~|Gülümser~|Gümüş~|Güvercin@|Hanımeli~|Hür~|Hürriyet 2@|Hürriyet@|Işık~|Karanfil~|Kardelen~|Kasımpatı~|Leylak~|Manolya~|Menekşe~|Mercan~|Mert~|Meşe@|Muhabbet~|Mutlu~|Nar~|Nergiz~|Neşe~|Nilüfer~|Orkide~|Saadet~|Sanayi~|Seda~|Sefa~|Sempati~|Sevda~|Sevimli~|Söğüt~|Sümbül~|Uğur~|Vefa~|X Zonguldak Yolu~|Yaprak@|Yasemin~|Yeşim~|Yonca~|Zonguldak Yolu@|Zümrüt~|Çağlar~|Çimen~|Çiğdem~|Çınar~|İnci~|Şehit Cengiz Akpınar@|Şehit Madenciler@
+89654	Kargalar Köyü, Demirciler Mevkii	Demirciler=
+89653	Kargalar Köyü, Merkez Mevkii	Merkez=
+89658	Kozluköy Köyü, Merkez Mevkii	Merkez=
+89657	Kozluköy Köyü, Yukarı İhsaniye Mevkii	Yukarı İhsaniye=
+89660	Köserecik Köyü, Ilıcakyüzü Mevkii	Ilıcakyüzü=
+89659	Köserecik Köyü, Merkez Mevkii	Merkez=
+80993	Kılıç Mah.	6 Aralık@|Akik~|Aksu@|Armoni@|Atasu~|Bağcı@|Bağlama~|Begüm~|Beste@|Boncuk~|Buselik@|Canan@|Durağan~|Elvan@|Ezgi@|Gazel~|Güfte~|Gülizar~|Gündüz~|Harman@|Kağızman@|Keman~|Kır~|Mahur~|Melodi~|Muhayyer~|Murabba~|Musa Bekar~|Musiki~|Mühendıs Alım Değırmencı@|Müsemmen~|Müzik~|Nakış~|Nota~|Onku~|Sanat~|Segah~|Sofyan~|Sultan~|Tunç~|Türkü~|Volkan~|Yuva~|Zarif~|Zülüf~|Çamlıca~|Öykü~|Şaheser~|Şarkı~|Şen~
+89655	Kızılcakese Köyü, Merkez Mevkii	Merkez=
+89656	Kızılcakese Köyü, Toptaşı Mevkii	Toptaşı=
+80994	Merkez Mah.	Abdi İpekçi~|Akça~|Akın~|Altındağ~|Altınkum~|Atatürk@|Avanos~|Ayasofya~|Aydınlık~|Ayvalık~|Badem~|Bahriye Üçok@|Beyaz~|Bilgin~|Bordo~|Cami~|Cumhuriyet@|Dantel~|Datça~|Demirciler~|Deniz~|Dernek~|Didim~|Doğuş@|Dr.halim Tanyeri@|Dumlupınar~|Ege~|Elif@|Elma~|Endam~|Erdem~|Ereğli Yolu@|Erman~|Ertan Şahin Bulvarı%|Eski Ereğli Yolu@|Eski Pazar Yeri~|Fanus~|Fevzi Çakmak@|Florya~|Gerçek~|Gri~|Gökova~|Gölcük~|Gölge~|Gülce~|Güldeste~|Gürgentepe~|Hercai~|Işıldar~|Kadife~|Kahraman~|Kale~|Kano~|Kanyon~|Karaelmas@|Karamanlar~|Kasapgil~|Kaya~|Kaş~|Kekova~|Kordonboyu~|Kula~|Kumburgaz~|Kumsal~|Kırmızı~|Kızılkum~|Lal~|Lapiska~|Liman~|Mavi~|Memleket@|Meriç@|Mimoza~|Mithat Akif@|Müstesna~|Nadide~|Nargile~|Ocak@|Opel~|Payidar~|Pembe~|Pırlanta~|Renkli~|Reva~|Rüya~|Sadık~|Safir~|Saray~|Sardunya~|Sarı~|Saten~|Selin~|Sema~|Serin~|Solmaz~|Sütun~|Taşlı Dere~|Temiz~|Temizkent~|Truva~|Turuncu~|Tutku~|Tuğba~|Töngel~|Türk Gülü~|Uğur Mumcu@|Veysel Atasoy@|Vişne~|Yakup Tekcan~|Yeni Kışla~|Yeşil~|Yüksel~|Yılmaz Birinci~|Çetin Emeç@|Çeşme~|Çilek~|Çömlek~|Övünç~|Özkent~|İlker~|Şans~|Şebnem~|Şehit Asker Tunahan Kartal~|Şehit Polis Hasan Bilgin~|Şehit Recep Erarslan@|Şelale@
+89663	Sakaköy Köyü, Ardınç Mevkii	Ardıç=
+89665	Sakaköy Köyü, Hamyon Mevkii	Hamyon=
+89666	Sakaköy Köyü, Ilıksu Mevkii	Köy=
+89664	Sakaköy Köyü, Merkez Mevkii	Merkez=
+89667	Sakaköy Köyü, Çengelli Mevkii	Çengelli=
+89670	Seyfetler Köyü, Değirmen Çayı Mevkii	Değirmen Çayı=
+89669	Seyfetler Köyü, Merkez Mevkii	Merkez=
+89668	Seyfetler Köyü, Tepe Mevkii	Tepe=
+81003	Sivriler Köyü, Merkez Mevkii	Aşağı Kurca=|Dere=|Güvercinlik=|Işıldar=|Okullar=|Paşalıoğlu=|Çıkmaz=|İnönü=
+80995	Taşbaca Mah.	Aheste~|Ahududu~|Arzu~|Aydın~|Ayyıldız~|Bahar~|Bereket~|Billur~|Birlik~|Burcu~|Doğa@|Egemen@|Eser~|Esin~|Fazilet~|Fidan~|Firuze~|Funda@|Gelincik~|Gökkuşağı~|Gülistan~|Günaydın~|Güneşli~|Güvenlik@|Güvercin@|Güzel~|Hayat~|Hazan_1~|Ihlamur~|Kamelya~|Kardeş~|Kiraz~|Meşe 2@|Meşe@|Muhtar Naci Döner~|Nadir~|Nur~|Olgun~|Tepe~|Yakamoz~|Yakut~|Yalın~|Yaprak@|Yeni~|Zümrüt~|Çiçek~|Özlem~|İlke~|İstikbal~|Şirin~
+89671	Uzungüney Köyü, Aşağı Mevkii	Aşağı=
+89674	Uzungüney Köyü, Hemdüller Mevkii	Hemdüller=
+89673	Uzungüney Köyü, Kahyalar Mevkii	Kahyalar=
+89676	Uzungüney Köyü, Kayadibi Mevkii	Kayadibi=
+89675	Uzungüney Köyü, Orta Mevkii	Orta=
+89672	Uzungüney Köyü, Yukarı Mevkii	Yukarı=
+196379	Yahma Mah.	Başak~|Burçak~|Değirmenağzı@|Ereğli Yolu@|Gemiciler~|Gökdeniz~|Hazan~|Kaptan-~|Kömürcüler~|Kürekçi~|Maden~|Meltem~|Orman~|Palamar~|Taka~|Umman~|Yahma~|Yapraklı~|Yelkenci~|Çayır~|Çiçekli~
+196827	Çamköy Köyü	Cami=|Halil Başoğlu=|Harmançayı-karaahmetoğlu=|Okul-cami=|Okul-geriş=|Recep Erarslan=|Topyanı=|Çamköy~|Çampınarı-boğma=
+196829	Çardaş Köyü	Gabaçakıl-türbeyanı=|Gücükgüney=|Okul=|Seyrantepe-cami=
+89638	Çırgan Köyü, Makalar Mevkii	Makalar=
+89639	Çırgan Köyü, Merkez Mevkii	Merkez=
+89640	Çırgan Köyü, Yukarı Mevkii	Yukarı=
+89661	Örencik Köyü, Merkez Mevkii	Merkez=
+89662	Örencik Köyü, Yeni Mevkii	Yeni=
+89678	Üçköy Köyü, Abacıoğlu Mevkii	Abacıoğlu=
+89677	Üçköy Köyü, Merkez Mevkii	Merkez=
+80992	İhsaniye Mah.	Albatros~|Atmaca~|Buket~|Bulut~|Bülbül~|Ceylan@|Demet~|Derya~|Deste~|Didem~|Dilek~|Doğan@|Dünya@|Ebru~|Emel~|Eyvan~|Funda@|Gamze~|Gizem~|Güneş~|Hilal~|Kamer~|Kanarya~|Kanat~|Karaca~|Keklik@|Kelebek~|Kumru~|Kuğu~|Kırlangıç@|Maral~|Martı@|Nehir~|Neva~|Parlayan~|Pars~|Pelikan~|Samanyolu@|Serçe~|Turna~|Uzay~|X Bülbül~|X Kırlangıç~|X Yazıt~|Xparlayan-~|Yayla@|Yazıt~|Yelken~|Yontu~|Yumak~|Yurt@|Yıldırım~|Zeytindalı~|Çağlayan~|Üveyik~|Şeker~|Şenocak~|Şimşek~

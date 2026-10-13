@@ -1,0 +1,100 @@
+189191	Ahlatlı Mah.	Ahlatlı Merkez=
+189045	Akgüney Mah.	Akgüney Merkez=|Çaydere=
+189259	Akpınar Mah.	Akpınar=
+189263	Akseki Mah.	Akseki=
+189195	Aksu Mah.	Birick=|Dereağzı=|Kadıbağı=|Kuşdili=|Köklüce-~|Mezra/11=|Otluca=|Yıldıztepe=|Çakmaklı Merkez=|Şentepe=
+189047	Aktaş Mah.	Aktaş=|Aktaş1=|Bostancı=|Gündoğdu2~
+189265	Alacabük Mah.	Alacabük Merkez=|Güney B.m=|Kazancık=|Yenı=|Zeyrek=
+189199	Araköy Mah.	Araköy Merkez=|Araköy Merkez1=|Araköy Merkez2=|Araköy Merkez3=|Araköy Merkez4=
+189201	Ardıçlı Mah.	Ardıçlı=
+189051	Armutlu Mah.	Armutlu=
+189273	Atürküten Mah.	Atürküten Merkez=
+189277	Avcıköy Mah.	Avcıköy=
+189055	Aşağı Fındıklı Mah.	Aşağı Fındıklı=
+29990	Aşağı Özbağ Mah.	Aşağı Özbağ Merkez /3~|Aşağı Özbağ Merkez /4~|Aşağı Özbağ Merkez /6~|Aşağı Özbağ Merkez 5~|Aşağı Özbağ Merkez 8~|Aşağı Özbağ Merkez@|Aşağı Özbağ Merkez/1=|Aşağı Özbağ Merkez/7~|Bağlarbaşı=|Bağlarbaşı/1~|Bağlarbaşı/2~|Bağlarbaşı/3~|Gaziler=|Gaziler/1~|Köprübaşı=|Yeniyol=
+189057	Bademli Mah.	Bademli=
+189061	Bahçeli Mah.	Bahçeli=|Yedigöze~
+189067	Başköy Mah.	Bahçeli=|Ballı=|Baş=|Gültepe=|Kaşıklı=|Orta2=|Sütlüce=|Yeleser=|Çermik=|Çiçekli1=
+189073	Başpınar Mah.	Başpınar=|Cankurtaran=
+189063	Başçeşme Mah.	Başçeşme=|Soğuksu=
+189077	Bostancı Mah.	Aktaş=|Bostancı=
+189281	Bozan Mah.	Bozan=
+189079	Cankurtaran Mah.	Cankurtaran=
+189283	Cibali Mah.	Cibali=
+189207	Demirbilek Mah.	Demirbilek=
+189095	Demirkaya Mah.	Demirkaya=|Taşbaşı Merkez=
+189211	Devedağı Mah.	Araköy Merkez2=|Araköy Merkez3=|Araköy Merkez4=|Devedağı Merkez=|Mezra=
+189289	Değirmendere Mah.	Değirmendere=
+189091	Değirmenli Mah.	Armutlu=|Değirmenli=|Öztoprak=
+189097	Duruköy Mah.	Duruköy=
+189099	Düzköy Mah.	Düzköy=
+197765	Elmalı Mah.	Afet Evler/1~|Afet Evler/10~|Afet Evler/11~|Afet Evler/12~|Afet Evler/14~|Afet Evler/2~|Afet Evler/3~|Afet Evler/4~|Afet Evler/7~|Afet Evler/8~|Afet Evler/9~|Afet Evleri-=|Bağlar=|Elmalı=|Elmalı.@|Elmalı/1~|Elmalı/2~|Elmalı/3~|Elmalı/4~|Elmalı/5~|Elmalı/6~|Elmalı/7~|Ulubel Merkez=|Üzümlük~
+29993	Gaziler Mah.	Gaziler=|Gaziler Merkez@|Gaziler/1~|Gaziler1~|Gaziler2~|Gaziler3~|Gaziler4~
+189213	Geçitağzı Mah.	Geçitağzı=|Geçitağzı Merkez=|Karşı~|Yukarı=
+189293	Gölyurt Mah.	Gölyurt=
+189219	Göçköy Mah.	Göç Bağları=|Göç Merkez=|Kadıbağı=
+29994	Gülhas Mah.	Gaziler=|Gülhas=|Gülhas Merkez@|Gülhas/2~|Gülhas/3~|Gülhas/4~|Gülhas/5~|Gülhas/6~|Gülhas/7~|Gülhas/8~|Gülhas/9~
+29995	Güllübağ Mah.	Güllübağ=
+189103	Gündoğdu Mah.	Gündoğdu~|Gündoğdu1~|Gündoğdu2~|Gündoğdu3~|Gündoğdu4~
+189257	Güney Mah.	Güney B.m=|Mülkköy=
+189107	Halilpaşa Mah.	Halilpaşa=|Pınarlı 4~|Pınarlı~
+189111	Irmakköy Mah.	Armutlu=|Değirmenli=|Irmak Merkez=|Tosunlu=
+189301	Karahan Mah.	Karahan=
+189223	Karakale Mah.	Baglık=|Karakale Merkez=
+189225	Karakamış Mah.	Karakamış=|Sarıçay=
+189303	Karakaya Mah.	Karakaya=
+189307	Karaseydi Mah.	Karaseydi=
+29997	Karşıyaka Mah.	25şubat@|Ahırlar Bölgesi=|Atatürk@|Bilinmeyen=|Bilinmeyen/1~|Bilinmeyen/2=|Bilinmeyen/4~|Bilinmeyen3=|Cami~|Cumhuriyet@|Fatih@|Fatih-@|Fatih/1~|Güllübağ=|Hükümet@|Kadıoğlu~|Kale~|Kale/1~|Kale/2~|Kavaklı1=|Kümbet-~|Mustafaçavuş@|Müftübaşkapan@|Sögütlüdere~|Yukarı1 Köy$|Ziyapaşa@|Ziyapaşa/1~|Çamlıca=|Çiçekli=|İnayetinosman@|İnayetinosman/1~|İnayetinosman/2~|İnönü@|İnönü-@|İnönü/1~|İzmitli~|İzmitli/1~|İzmitli/2~|Şehitabdulkerim@|Şehitabdulkerim/1~|Şehitabdulkerim/2~|Şehitabdulkerim/3~
+189117	Kavaklı Mah.	Halilpaşa=|Kavaklı 2=|Kavaklı1=|Çamlıca=
+189121	Kaynakbaşı Mah.	Kaynakbaşı=
+189123	Kirazlı Mah.	Kirazlı=|Kirazlı/1=|Kirazlı/2=
+189125	Koç Mah.	Armutlu=|Gündoğdu2~|Gündoğdu4~|Koç=|Tosunlu=
+189127	Köprüköy Mah.	Aşağı Özbağ Merkez/1=|Dere-~|Dere1=|Elmadere=|Eskiköy=|Karşı/1=|Kavaklı1=|Kuyular=|Köprüköy Köy$|Samışlık=|Çamlıca=
+189135	Kümetaş Mah.	Kümetaş=|Pınarlı~
+189309	Kırık Mah.	Kırık=
+189311	Kızılhasan Mah.	Kızılhasan=
+189313	Leylekköy Mah.	Leylekköy=
+189037	Madenköprübaşı Mah.	Bahçecik=|Bayburt@|Cevizli=|Kağarik=|Kuzuluk=|Maden=|Maden/1~|Madenköprübaşı Köy$|Meydanlı=|Selahattin Topuz-=|Yeni=|Yeni1=|Çatak=|Çaydere=|İspir@|İspir/1~|İspir/2~
+189317	Mescitli Mah.	Mescitli=
+189137	Moryayla Mah.	Moryayla=
+189319	Mülkköy Mah.	Mülkköy=
+189139	Numanpaşa Mah.	Akkoyun=|Godlar=|Numanpaşa=
+189143	Ortaköy Mah.	Ortaköy=
+189321	Ortaören Mah.	Ortaören=
+189151	Petekli Mah.	Bilinmeyen1~|Petekli=
+189155	Pınarlı Mah.	Aktaş1=|Pınarlı 1~|Pınarlı 2~|Pınarlı 4~|Pınarlı~
+189157	Sandıklı Mah.	Sandıklı Merkez=
+189159	Soğuksu Mah.	Soğuksu=
+189229	Sırakonak Mah.	Akbaş~|Altıntaş=|Araki~|Balcı-~|Cebrunkas-~|Cevizli-~|Cücebağı~|Dallıca~|Güneşli~|Karakale Merkez=|Kisar-~|Köy-~|Masuras=|Masurus-~|Ocaklı~|Soğucak=|Soğucak/1=|Sungurlu~|Taşbaşı=|Yoncalı~|Yumurca=|Yumurca-~|Çavuşlar1~|Üçkardeş~|İncili~
+189163	Taşbaşı Mah.	Ortaköy=|Taşbaşı Merkez=
+189241	Taşlıca Mah.	Merkezz=|Taşlıca=
+189167	Tekpınar Mah.	Akkoyun=|Tekpınar Merkez=|Öztoprak=
+189171	Tepecik Mah.	Tepecik=
+189173	Ulubel Mah.	Karor-~|Ulubel Merkez=
+189177	Ulutaş Mah.	Ulutaş=|Ulutaş-~
+189325	Yaylacık Mah.	Yaylacık=|Yağlı=
+189323	Yağlı Mah.	Cankurtaran=|Yağlı=
+189249	Yedigöl Mah.	Yedigöl Merkez=|Yolbilen=
+189181	Yedigöze Mah.	Yedigöze~|Yedigöze/1~|Yedigöze/2~|Yedigöze/3~|Yedigöze/4~|Yedigöze/5~
+189329	Yeşiltepe Mah.	Yeşiltepe=
+189185	Yeşilyurt Mah.	Bağlar/1=|Kuşlu=|Yeşilyurt Merkez=
+189189	Yukarı Fındıklı Mah.	Yukarı Fındıklı=
+29998	Yukarı Mah.	25şubat@|25şubat/1~|25şubat/1.~|25şubat/2.~|Aydın~|Berber~|Bilinmeyen/3~|Cumhuriyet@|Esentepe~|Esentepe/1~|Esentepe/2~|Esentepe/3~|Esentepe/4~|Fatih@|Güllübağ=|Halitpaşa~|Hastane@|Hastane.1~|Hastane/1~|Hastane1@|Hastane3~|Hastane4~|Hastane5~|Kale~|Kavaklı~|Kavaklı/1~|Kavaklı/2~|Kavaklı/3~|Kırmızıbayır~|Kırmızıbayır/1~|Maltepe~|Okullar~|Okullar/3.~|Okullar/4.~|Okullar2~|Orta1~|Yukarı1 Köy$|Çarşıbaşı~|Çoruh~|Çoruh/1~|Şehitlik@|Şehitlik/1~|Şehitlik/2~
+29999	Yukarı Özbağ Mah.	Aşağı Özbağ Merkez@|Bağlarbaşı=|Bağlarbaşı/3~|Gaziler=|Hasbağ=|Hasbağ/1~|Merkez=|Merkez/1~|Merkez/2~|Yukarı Özbağ@
+189331	Yunusköy Mah.	Yunusköy=
+189253	Yıldıztepe Mah.	Kuşdili=|Yıldıztepe=
+189333	Zeyrek Mah.	Zeyrek=
+189083	Çakmaklı Mah.	Bağlar-~|Çakmaklı Merkez=|Çakmaklı/1=
+29991	Çamlıca Mah.	Çamlıca=
+189039	Çamlıkaya Mah.	Arablı Yolu=|Araplı-=|Ağagil-=|Ağap-=|Aşağı (merkez)=|Aşağı=|Aşgik-=|Balıklı-=|Bayraktar=|Bilinmeyen 2=|Bilinmeyen 3=|Bilinmeyen 5=|Bilinmeyen 7=|Bilinmeyen2=|Camii Boynu=|Cebecili=|Coş-=|Dabaklı=|Dere-=|Emineli-=|Ense Sırt-=|Erahmut=|Eresel-=|Eski Köy-=|Eskivan-=|Eşiğin Sırt-=|Gaans-=|Gahnut-=|Gates-=|Gaç=|Göç Merkez=|Gürcülü-=|Gürcüoğlu=|Gürcüoğlu-=|Halver-=|Hanzar=|Hanzarlı-=|Horosko-=|Hınzırat-=|Işkınlının Mangut=|Karzer-=|Kaçgeç-=|Kuz-=|Merkez (yavuzlar)=|Merkezz=|Mutigil-=|Orta=|Ortasırt-=|Paloşlu=|Petekli-=|Pıçakçı=|Savaklı-=|Soluklu-=|Sostanlı~|Tauns-=|Telligilin Mangut=|Tosgor-=|Vank=|Zıngik-=|Çamlıkaya=|Çamlıkaya1=|Çavuşlar=|Çermans=|Öte Mangut-=|İmamgil-=|Şavlak-=
+189205	Çatakkaya Mah.	Dayihisar-~|Zorni~|Çatakkaya Merkez~
+189287	Çayırbaşı Mah.	Çayırbaşı=
+189087	Çayırözü Mah.	Ulutaş=|Çayırözü=
+29992	Çiçekli Mah.	Armutlu=|Halilpaşa=|Çiçekli=
+189145	Özlüce Mah.	Özlüce=
+189147	Öztoprak Mah.	Akkoyun=|Tekpınar Merkez=|Öztoprak=
+189243	Üzümbağı Mah.	Seyranbağı=|Sivri Altı=|Verenbağı=|Çamlık=|Çamlık-~|Çıldır=|Üzümbağı Merkez=
+29996	İkisu Mah.	Gülhas=|İkisu=
+189297	İncesu Mah.	İncesu=
+189115	İyidere Mah.	İyidere=
+189239	Şenköy Mah.	Şenköy=

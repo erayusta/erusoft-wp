@@ -1,0 +1,42 @@
+76539	Abdurrahman Köyü	 Köy$
+70322	Altıntepe Mah.	Altın Tepe=
+76542	Avşar Köyü	 Köy$
+76540	Aşağıyeniköy Köyü	 Köy$
+76541	Aşağıyeniköy Köyü, Haremuşağı Mezrası	 Köy$
+76548	Ballıdere Köyü	 Köy$
+76546	Ballıdere Köyü, Ağıl Mezrası	
+76547	Ballıdere Köyü, Bulak Mezrası	 Köy$
+76545	Ballıdere Köyü, Tırçik Mezrası	 Köy$
+76543	Balçık Köyü	 Köy$
+76544	Balçık Köyü, Çörengeç Mezrası	 Köy$
+70323	Cumhuriyet Mah.	Cumhuriyet@|Duman~|Fikret Tekin@|Gökmen Çiçek@|Gümüşhane~|Hal Meydanı Myd.|Haspınar~|Hoca Ahmet Yesevi@|Kahramanlar~|Meydan~|Yakut~|Yeşilyurt~|Şahinler~
+76550	Derecik Köyü	 Köy$
+76551	Doğantepe Köyü	 Köy$
+76552	Dündar Köyü	 Köy$
+76553	Ekenek Köyü	 Köy$
+76554	Elibüyük Köyü	 Köy$
+76555	Eskibağ Köyü	 Köy$
+76556	Geyikpınar Köyü	 Köy$
+76557	Göllüce Köyü	 Köy$
+70324	Gönen Mah.	1.~|2.~|3.~|5.~|7.~|Arslanlar=|Binali Yıldırım@|Coşkun~|Erdemler=|Fikret Tekin@|Keleş~|Kiraz~|Kuzu=|Kıraç Köy=|Menekşe~|Papatya~|Şehit Jandarma Uzman Çavuş Onur Alkan@
+76560	Kavak Köyü	 Köy$
+76561	Kayı Köyü	 Köy$
+76562	Kılıç Köyü	 Köy$
+76563	Onarı Köyü	 Köy$
+76564	Ortaköy Köyü	 Köy$
+76565	Sapanlı Köyü	 Köy$
+76566	Sevindik Köyü	 Köy$
+76567	Sıyrındı Köyü	 Köy$
+76569	Uğrunca Köyü	 Köy$
+70325	Yayla Mah.	1001~|1002~|1003~|1004~|1005~|Ahmet Yılmaz@|Ardıç~|Aziz Ağa~|Bütün~|Camii@|Can~|Dik~|Güngör Çıkmazı~|Kılıç~|Ocak~|Sümbül~|Özen~
+76571	Yağlıçayır Köyü	 Köy$
+70326	Yeni Mah.	Camii~|Cumhuriyet@|Değirmen~|Fikret Tekin@|Kutlu~|Selvi~|Veysel Çavuş~|İsmet Yılmaz@|Şehit Jandarma Uzman Çavuş Onur Alkan@|Şen~
+70327	Yeşilyazı Mah.	Ahmet Yılmaz@|Cevizli~|Dik~|Fidan~|Kızılay~|Noyan~|Ocak~|Okul~|Sözcü~|Çiftçi~|Çınar~|Özen~|Şehit Astsubaykıdemli Başçavuş Ömer Halisdemir@
+70328	Yukarı Mah.	Albayrak~|Fikret Tekin@|Hatipoğlu~|Kiraz~|Mutlu~|Sarıyar~|Yeni Şehir~|İzmir~
+76572	Yukarısarıca Köyü	 Köy$
+76573	Yusufşeyh Köyü	 Köy$
+76574	Yünlüce Köyü	 Köy$
+76549	Çiçekli Köyü	 Köy$
+76570	Üzengi Köyü	 Köy$
+183786	İkizyurt Mah.	Aziz Köy$|İkizyurt Köy$
+76568	Şenbağlar Köyü	 Köy$

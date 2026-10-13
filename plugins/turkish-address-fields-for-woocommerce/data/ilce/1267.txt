@@ -1,0 +1,24 @@
+5074	Akarca Köyü	 Köy$
+5075	Arıköy Köyü	 Köy$
+5076	Aşağıyenice Köyü	Aşağıyenice=
+881	Barbaros Mah.	41~|42~|43~|44~|45~|46~|47~|48~|49~|50~|51~|52~|53~|Cihat Kora Myd.|Haydar Eren@|Şahap Paşa@|Şht.er Süleyman Özalp@
+5077	Bozan Köyü	Bozan=
+5079	Darıcılar Köyü	 Köy$
+883	Esentepe Mah.	71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|84~|97~|98~|Aşağıyenice=|Fabrika@|Zübeyde Hanım@|Şht.asb Tuncay Doğan-1@
+5080	Hasandede Köyü	 Köy$
+5081	Hisaralan Köyü	 Köy$
+5083	Karaağaçkuyusu Köyü	 Köy$
+884	Kurtuluş Mah.	21~|22~|23~|24~|Cemal Diker~|Cumhuriyet Meydanı Myd.|Halil Atalan-1@|Haydar Eren@|Hükümet@|Kemal Şenocak@|Mimar Sinan@|Şht.asb Tuncay Doğan@
+5084	Kızılören Köyü	 Köy$
+5086	Sarıkavak Köyü	 Köy$
+887	Vehbi Koç Sanayi Bölgesi Mah.	81~|84. Sokak~|85 . Sokak~|86. Sokak~|87. Sokak~|88. Sokak~|89. Sokak~|90~|91.sokak~|92. Sokak~|93~|94.sokak~|95. Sokak~|96. Sokak~|Mehmet Akif Ersoy%
+5087	Yaylaköy Köyü	 Köy$
+885	Yeniyol Mah.	11~|12~|13~|14~|15~|16~|17~|18~|19~|Cihat Kora Myd.|Cumhuriyet@|Cumhuriyet Meydanı Myd.|Cumhuriyet Myd.|Kardelen~|Kemal Şenocak@|Lütfü Sönmez@|Menderes@|Zübeyde Hanım@|Şht Netret Tükekçi@|Şht.asb Tuncay Doğan@
+886	Yeşilyurt Mah.	61~|62~|63~|64~|65~|66~|67~|68 Nolu~|69~|70~|Menderes@|Vedad Kora Cad İstdasyan Yolu@|İstasyon Küme=
+5088	Yukarıyenice Köyü	 Köy$
+888	Yüreğil Köyü, Demirel Mevkii	Ağalar~|Bayram Yeri~|Binnur~|Demirciler~|Durular~|Elmas~|Gül~|Hatipler~|Hilal~|Huzur~|Hızır~|Karanfil~|Menekşe~|Mercan~|Millet~|Mimar Sinan~|Okul~|Orhun~|Orkide~|Osman Gazi~|Sakarya~|Vatan~|Yıldız~|Zambak~|Zümrüt~|Çovancılar~|İnci~|İstasyon~|İstiklal~
+889	Yüreğil Köyü, Fatih Mevkii	Avcılar~|Açelya~|Baden~|Bahçe~|Bağlar~|Cami Bucak~|Cami~|Cumhuriyet~|Deniz~|Derya~|Doğramacılar~|Dumlupınar~|Erginler~|Erguvan~|Göl~|Gün~|Kardelen~|Kurtlar~|Lokman Hekim~|M.fevzi Çakmak~|Manolya~|Mevlana~|Nergis~|Okul~|Osman Gazi~|Papatya~|Pınar~|Sağlık~|Sümbül~|Terziler~|Yasemin~|Yavuz~|Yunus Emre~|Zekiler~|Çamlık~|Çağlayan~|Çiftlik~|İbni Sina~|İstasyon~
+882	Çamlık Mah.	31~|32~|33~|34~|35~|36~|37~|38~|39~|Fabrika@|Halil Atalan@|Mimar Sinan@|Mimarsinan@|Şahap Paşa 1=
+5078	Çiftlik Köyü	 Köy$
+5085	Örtülü Köyü	 Köy$
+5082	İdris Köyü	 Köy$

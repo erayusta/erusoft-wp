@@ -1,0 +1,31 @@
+79349	Ballıca Köyü	 Köy$
+79347	Bağlarbaşı Köyü, Merkez Mevkii	 Köy$
+79348	Bağlarbaşı Köyü, Çaylak Mevkii	 Köy$
+79350	Beşevler Köyü	 Köy$
+70927	Dereköy Köyü, Merkez Mevkii	Atatürk~|Bahçe~|Cami~|Ergenekon~|Fatih 1.çıkmaz~|Fatih~|G.o.p. 1.çıkmaz~|G.o.p. 2.çıkmaz~|G.o.paşa~|Gazi~|Karababa~|Mehmet Akif 1.çıkmaz~|Mehmet Akif Ersoy~|Menekşe~|Menekşe1.geçit~|Mevlana 1.çıkmaz~|Mevlana~|Mrş.fevzi Çakmak~|Pelitdede~|Plevne~|Sağlık~|Yavuz~|Yunus Emre~|Şht.adnan Biçer~
+79353	Dereçaylı Köyü	 Köy$
+79354	Doğancalı Köyü	 Köy$
+70921	Erkilet Mah.	5.geçit=|6.geçit~|Artova (pazar)@|Dereevler=|Erkilet 1.geçit~|Erkilet 2.geçit~|Erkilet 3.geçit~|Erkilet 4.geçit~|Erkilet@|Erkilet Yolu~|Kanal Üstü Geçit~|Çevreyolu@
+70922	Esentepe Mah.	17.geçit~|Ada Yolu~|Atatürk@|Esentepe 1.geçit~|Esentepe 10.geçit~|Esentepe 11.geçit~|Esentepe 12. Geçit~|Esentepe 13. Geçit~|Esentepe 14. Geçit~|Esentepe 15. Geçit~|Esentepe 16. Geçit~|Esentepe 2.geçit~|Esentepe 3.geçit~|Esentepe 4.geçit~|Esentepe 5.geçit~|Esentepe 6.geçit~|Esentepe 7.geçit~|Esentepe 8.geçit~|Esentepe 9.geçit~|Kanalyolu@|Köprübaşı@|Küme=|Çevreyolu@
+79355	Kaledere Köyü	 Köy$
+79356	Kaledere Köyü, Manastır Mevkii	 Köy$
+79357	Menteşe Köyü	 Köy$
+70923	Merkez Mah.	15. Geçit~|Adayolu~|Atatürk@|Erkilet@|Kanal Üstü~|Merkez 1.geçit~|Merkez 10.geçit~|Merkez 11.geçit~|Merkez 12.geçit~|Merkez 13. Geçit~|Merkez 14.geçit~|Merkez 2.geçit~|Merkez 3.geçit~|Merkez 4.geçit~|Merkez 5.geçit~|Merkez 6.geçit~|Merkez 7.geçit~|Merkez 8.geçit~|Merkez 9.geçit~|Sanayi~|Çay Alt Kısım~|Çay~|Çevreyolu(tokat Yönü)~
+79358	Ocaklı Köyü	 Köy$
+79359	Ovacık Köyü	 Köy$
+79360	Ovayurt Köyü	 Köy$
+70924	Seyitali Mah.	10.geçit~|Ballıca~|Cumhuriyet@|Dürdane=|Gül~|Halil Bey~|Lale~|Seyit Ali 1.geçit~|Seyit Ali 2.geçit~|Seyit Ali 3.geçit~|Seyit Ali 4.geçit~|Seyit Ali 5.geçit~|Seyit Ali 6.geçit~|Seyit Ali 7.geçit~|Seyit Ali 8.geçit~|Seyit Ali 9.geçit~|Seyitali~|Zile@|Çay@|Çiçek~|Ünal~
+70925	Sinanpaşa Mah.	Bayındır=|Beyobası~|Cumhuriyet (zileyolu)@|Cumhuriyet@|Hal@|Hamamaralığı~|Jandarma Yolu~|Sinan Paşa~|Sinanpaşa 1.geçit~|Sinanpaşa 2.geçit~|Yeniçeşme~|Zile@|Çay~|Çevreyolu 1.geçit~|Çevreyolu 2. Geçit~|Çevreyolu@
+79362	Tatarköy Köyü	 Köy$
+79361	Taşlık Köyü	 Köy$
+70926	Tekke Mah.	Artova@|Hacı Ahmet~|Meydanyolu~|Tekke 1.geçit~|Tekke 2.geçit~|Tekke~|Çay~|Çevreyolu@
+79363	Tepeçaylı Köyü	 Köy$
+79364	Tepeçaylı Köyü, Yukarı Mevkii	 Köy$
+79351	Çayköy Köyü	 Köy$
+79352	Çiftlikköy Köyü	 Köy$
+99168	Üzümören Beldesi, Fatih Mah.	Artova Yolu~|Atatürk@|Ağaoğlu~|Fıratyolu~|Küplüce~|Menekşe~|Nergiz~|Tepecik~|Yavuz Sultan Selim@|Yunus Emre~|İbni Kemal@|İskan~|İstimlak@|Şehit Astsubay Ömer Halisdemir@
+70928	Üzümören Beldesi, Gazi Osman Paşa Mah.	Aziz Efendi~|Azizefendi 1.geçit~|Azizefendi 2.geçit~|Azizefendi@|Esentepe~|Fatih@|Göçmen~|Gül 1.geçit~|Gül 2.geçit~|Gül 3.geçit~|Gül~|Hasan Serin@|Müezzinoğlu~|Pınarbaşı~|Yakabağlar~|Çınar~
+70929	Üzümören Beldesi, Kazova Mah.	Ayandede~|Belediye Myd.|Evliya Çelebi Geçidi~|Güler Çıkmazı~|H.ahmet~|Hamam Geçidi~|Hatipzade@|Kadiroğlu~|Muid Ahmet Kazabadi@|Sönmez~|Yorulmaz Geçiti~|Çeşmeyolu~|Çiçek~|İncirlik=|Şakkulu=|Şakkulu~
+99167	Üzümören Beldesi, Mehmet Akif Ersoy Mah.	Fatih@|Gül~|Kovayolu@|Mevlana Celaleddin Rumi~|Mimar Sinan~|Pazar@|Pazaryolu~|Pekmez Hoca 1.geçit~|Pekmez Hoca~|Sebze Hali=|Turhal@
+70930	Üzümören Beldesi, Mrş.fevzi Çakmak Mah.	Alpuran~|Artova Yolu~|Atatürk@|Ağaoğlu~|Bahçeli Evler~|Celal~|Rahatderesi=|Tepecik~|İbni Kemal@|İskan~|İstimlak@
+70931	Üzümören Beldesi, Yeşildere Mah.	Ahmet Ağa~|Cumhuriyet@|Gümüşoğlu~|Mehmet Akif Ersoy@|Sarıbayır~|Velibaba~|Çavuşoğlu~|Çermik Bağları=

@@ -1,0 +1,105 @@
+34873	Aktepe Köyü, Aliuşağı Mevkii	 Köy$
+34869	Aktepe Köyü, Belançayır Mevkii	 Köy$
+34874	Aktepe Köyü, Hapanbele Mevkii	 Köy$
+34879	Aktepe Köyü, Karagöz Mevkii	 Köy$
+34872	Aktepe Köyü, Kayadibi Mevkii	 Köy$
+34876	Aktepe Köyü, Kilise Pınarı Mevkii	 Köy$
+34877	Aktepe Köyü, Kışla Mevkii	 Köy$
+34871	Aktepe Köyü, Saraçlı Mevkii	 Köy$
+34870	Aktepe Köyü, Seferli Mevkii	 Köy$
+34875	Aktepe Köyü, Seyyidhan Mevkii	 Köy$
+34868	Aktepe Köyü, Yeni Mevkii	 Köy$
+34878	Aktepe Köyü, Şahanlı Mevkii	 Köy$
+34867	Akçiçek Köyü	 Köy$
+34880	Arda Köyü	 Köy$
+34881	Arduç Köyü	 Köy$
+34882	Armutlu Köyü	 Köy$
+34883	Aydınyayla Köyü	 Köy$
+30737	Babapınar Mah.	Mahalle İçi=
+34884	Bereketli Köyü	 Köy$
+34885	Beylerce Köyü	 Köy$
+34891	Boyluca Köyü, Bekirli Mevkii	 Köy$
+34888	Boyluca Köyü, Değirmice Mevkii	 Köy$
+34895	Boyluca Köyü, Ekizli Mevkii	 Köy$
+34893	Boyluca Köyü, Gevezeli Mevkii	 Köy$
+34887	Boyluca Köyü, Kılıçlar Mevkii	 Köy$
+34889	Boyluca Köyü, Müseel Mevkii	 Köy$
+34892	Boyluca Köyü, Tefilli Mevkii	 Köy$
+34890	Boyluca Köyü, Tepe Mevkii	 Köy$
+34894	Boyluca Köyü, Uncuoğlu Mevkii	 Köy$
+34886	Boyluca Köyü, Şıhlı Mevkii	 Köy$
+34916	Demirözü Köyü, Akpınar Mevkii	 Köy$
+34915	Demirözü Köyü, Dere Mevkii	 Köy$
+34917	Demirözü Köyü, Kamışlık Mevkii	 Köy$
+34913	Demirözü Köyü, Karayazı Mevkii	 Köy$
+34912	Demirözü Köyü, Kirazdibi Mevkii	 Köy$
+34914	Demirözü Köyü, Kurucaali Mevkii	 Köy$
+34910	Demirözü Köyü, Merkez Mevkii	 Köy$
+34911	Demirözü Köyü, Sık Mevkii	 Köy$
+34918	Demirözü Köyü, Çığrıkalan Mevkii	 Köy$
+34919	Dereçiftlik Köyü	 Köy$
+34920	Doludere Köyü	 Köy$
+34921	Elmacık Köyü, Alantarla Mevkii	 Köy$
+34924	Elmacık Köyü, Avluk Ağzı Mezrası	 Köy$
+34923	Elmacık Köyü, Camı Yanı Mevkii	 Köy$
+34922	Elmacık Köyü, Paravarlı Mevkii	 Köy$
+34925	Elmacık Köyü, Çoşkur Mezrası	 Köy$
+34900	Fevzi Çakmak Köyü, Akyatak Yayla Evleri	 Köy$
+34899	Fevzi Çakmak Köyü, Fatih Mevkii	 Köy$
+34898	Fevzi Çakmak Köyü, Solaklı Mevkii	 Köy$
+34897	Fevzi Çakmak Köyü, Suiçti Mevkii	 Köy$
+34896	Fevzi Çakmak Köyü, Tepe Mevkii	 Köy$
+34926	Gökçebel Köyü	 Köy$
+34927	Günügüzel Köyü	 Köy$
+34930	Gürbulak Köyü, Dere Mevkii	 Köy$
+34928	Gürbulak Köyü, Merkez Mevkii	 Köy$
+34929	Gürbulak Köyü, Örnek Mevkii	 Köy$
+34935	Hacıhasan Köyü, Ahmetli Mevkii	 Köy$
+34933	Hacıhasan Köyü, Habibli Mevkii	 Köy$
+34934	Hacıhasan Köyü, Kanlıoğlu Mevkii	 Köy$
+34932	Hacıhasan Köyü, Kımıllı Mevkii	 Köy$
+34936	Hacıhasan Köyü, Veyselli Mevkii	 Köy$
+34931	Hacıhasan Köyü, Yoğurdugara Mevkii	 Köy$
+34937	Hacılı Köyü	 Köy$
+34939	Kabaktepe Köyü	 Köy$
+34940	Kaledibi Köyü	 Köy$
+34941	Kamışlı Köyü	 Köy$
+30739	Karaağaç Mah.	Mahalle İçi=
+34944	Karabörk Köyü, Kumluk Mevkii	 Köy$
+34943	Karabörk Köyü, Mezra Mevkii	 Köy$
+34942	Karabörk Köyü, Çukur Mevkii	 Köy$
+34945	Kavaklıdere Köyü	 Köy$
+30740	Kemallı Mah.	Mahalle İçi=
+34946	Koman Köyü	 Köy$
+34948	Konaklı Köyü, Gelinkaya Mevkii	 Köy$
+34947	Konaklı Köyü, Orta Mevkii	 Köy$
+34950	Köklüce Köyü, Küçük Mevkii	 Köy$
+34949	Köklüce Köyü, Merkez Mevkii	 Köy$
+30735	Mesudiye Mah.	Camii Kebir@|Depo 2~|Fevzi Paşa@|Hürriyet@|Kamışlı@|Kanuni Okul~|Karakol~|Okul~|Sakarya~|Siteler~|Topçam@|Topçam Çıkmazı~|Çıkmaz (hürriyet Cd.)~|Çıkmaz~|Şirin~
+34951	Pirili Köyü	 Köy$
+34952	Subaşı Köyü	 Köy$
+34953	Suyurdu Köyü	 Köy$
+34960	Tepeköy Köyü, Alamacan Mevkii	 Köy$
+34957	Tepeköy Köyü, Andırlı Mevkii	 Köy$
+34954	Tepeköy Köyü, Armutalağı Mevkii	 Köy$
+34955	Tepeköy Köyü, Eskiköy Mevkii	 Köy$
+34958	Tepeköy Köyü, Güvenbükü Mevkii	 Köy$
+34956	Tepeköy Köyü, Kuruçay Mevkii	 Köy$
+34959	Tepeköy Köyü, Mutaflı Mevkii	 Köy$
+34961	Tohumluk Köyü	 Köy$|Bahçecik=
+30738	Topçam Mah.	Mahalle İçi=
+34962	Yeşilyurt Köyü	 Köy$|Hüsnü Vurguncu Köy$
+30736	Yunus Emre Mah.	Babapınar@|Depo 1~|Değirmen@|Değirmen Çıkmazı~|Hacı Ahmet Yesevi~|Hürriyet@|Karaağaç@|Karaçayır@|Kemallı@|Sanayii~|Teknik Lise~|Teknik Lise Sok~|İğdecik@
+34964	Yükselen Köyü, Aktepe Mevkii	 Köy$
+34963	Yükselen Köyü, Merkez Mevkii	 Köy$
+34965	Yükselen Köyü, Taştamir Mevkii	 Köy$
+34904	Çakrak Köyü, Batu Mevkii	 Köy$
+34906	Çakrak Köyü, Kılıçlı Mevkii	 Köy$
+34903	Çakrak Köyü, Macara Mevkii	 Köy$
+34905	Çakrak Köyü, Merkez Mevkii	 Köy$
+34902	Çakrak Köyü, Turnalı Mevkii	 Köy$
+34901	Çakrak Köyü, Yeniköy Mevkii	 Köy$
+34907	Çalgan Köyü	 Köy$
+34908	Çamlıyayla Köyü, Merkez Mevkii	 Köy$
+34909	Çamlıyayla Köyü, Üst Mevkii	 Köy$
+34938	İğdecik Köyü	 Köy$

@@ -1,0 +1,73 @@
+21621	Adaçay Mah.	Adaçay=
+188967	Ahırcık Mah.	Ahırcık=
+188969	Akdağ Mah.	Akdağ=
+188971	Akyazı Mah.	Akyazı=|Aşağı=
+188929	Alaca Mah.	Alaca=|Atlıkonak=|E 80%
+29969	Alaybeyi Mah.	Alaybeyi=
+188931	Atlıkonak Mah.	Atlıkonak=
+188975	Aynalıkale Mah.	Aynalıkale=
+188961	Ağcakent Mah.	Ağcakent=|Rizekent=
+29968	Ağören Mah.	Ağören=|Ağören1~|Ağören2~|Ağören3~|Ağören4~|Ağören5~|Ömertepe=
+21623	Aşağı Yenice Mah.	Yenice=
+188973	Aşağıcanören Mah.	Aşağıcanören=
+188977	Başkent Mah.	Başkent=
+188979	Başkurtdere Mah.	Başkurtdere=
+188981	Başovacık Mah.	Başovacık=
+188933	Başçakmak Mah.	Başçakmak=|Eski=|Gelinkaya 2=
+29970	Beypınarı Mah.	Beypınarı=|Çevre Yolu%
+188983	Bingöze Mah.	Bingöze=
+188937	Dağdagül Mah.	Dağdagül=
+29971	Demirgeçit Mah.	Demirgeçit=
+29972	Düztoprak Mah.	Düztoprak=
+188997	Elmalı Mah.	Elmalı=
+188941	Emrecik Mah.	Emrecik=|Emrecik1~|Emrecik2~|Paşayurdu=
+188943	Eskipolat Mah.	Eskipolat=|Sorkunlu=
+188939	Eğerti Mah.	Eğerti=|Sorkunlu=
+188999	Eşkinkaya Mah.	Eşkinkaya=
+188947	Gelinkaya Mah.	Başçakmak=|E 80%|Gelinkaya 2=|Gelinkaya=
+189001	Geyik Mah.	Geyik=|Taşpınar=
+21627	Gez Köyüosb Mah.	1.~|1. Yönetim~|1.sanayi@|2.~|2.sanayi@|3.~|3.sanayi@|4.sanayi~|5.sanayi~|6.sanayi~|Ek Osb=|Ek Osb/1~|Organize Camii~|Yönetim@
+189003	Güllüce Mah.	Güllüce=
+189005	Halilkaya Mah.	Halilkaya=|Han=
+140429	Ilıca Mah.	11 Mart~|12 Mart~|18 Mart~|2.nene Hatun~|2.nene Hatun/1~|2.nene Hatun/10~|2.nene Hatun/11~|2.nene Hatun/2~|2.nene Hatun/4~|2.nene Hatun/5~|2.nene Hatun/6~|2.nene Hatun/7~|2.nene Hatun/9~|201 Evler~|30 Ağustos~|Agah Hoca (yazıcı)~|Alvarlı Muhammet Lütfü Efendi@|Aziziye@|Aziziyeliler~|Aşık Reyhani~|Aşık Sümmani~|Bayrak~|Beypınar 2.~|Cami 2~|Cami 3-~|Cevdet Dursunoğlu-=|Cevdet Ilıcalı~|Cevizli~|Cihat Güngör~|Dağlar~|Dere~|Değirmen~|Dumlupınar~|E 80%|Emin-~|Ertuğrul Gazi~|Erzurumlu Emrah~|Esmani Bey~|Evliya Çelebi@|Fatih Sultan Mehmet~|Ferah Cami~|Gar~|Gül~|Gülistan-~|Gümüş~|Hoca Ahmet Yesevi@|Hoca Ahmet Yesevi/1~|Ilıca4~|Kahraman~|Karanfil~|Karazlı Hakkı Bey-~|Kavaklı~|Kazım Karabekir@|Kemal Mühürdaroğlu~|Kurban-~|Kıbrıs~|Kılıç~|Kıyı~|Kıyı/1~|Lale~|Malazgirt~|Mehmet Akif Ersoy~|Mehter~|Meltem~|Menekşe~|Mensur Hoca (coşkun)~|Mesire 1-~|Mesire~|Mezar Arkalı Mevlüt~|Murtaza Hoca~|Nafiz Bey@|Nafiz Kotan~|Nazif Kuran~|Necati Yıldırgan~|Necip Fazıl Kısakürek~|Nihat Gemalmaz~|Nihat Kabanlı~|Okul Yolu~|Orhan Bey~|Osman Gazi 2@|Osmanlı~|Palandöken~|Pirali Baba~|Pulur Çayı~|Reşit Karabacak~|Salih Alak-~|Sanayi@|Sancak-1~|Sedef~|Selami Karakelle~|Solakzade~|Söğüt~|Tabya~|Termal@|Trafo~|Tren Yolu 1-~|Tren Yolu~|Tuğra~|Yavuz Selim@|Yeniyol100~|Yeniyol101~|Yeniyol103~|Yeniyol104~|Yeniyol105~|Yeniyol106~|Yeniyol107~|Yeniyol108~|Yeniyol109~|Yeniyol110~|Yeniyol111~|Yeniyol112~|Yeniyol113@|Yenıyol/12@|Yeşil Cami~|Yunus Emre~|Ziya Paşa~|Zümrüt~|Çanakkale~|Çay~|Çayır~|Çelebi 2.~|Çevre Yolu%|Çimen~|Çiğdem~|Ömer Nasuhi Bilmen@|İsmail Gürcan~|Şair Nefi~|Şehit Jandarma Er Ahmet Kundakçı-~|Şehit Jandarma Er Hanefi Aydın~|Şehit Jandarma Er Kurban Hatun-~|Şehit Jandarma Komando Er İbrahim Aşıkoğlu~|Şehit Jandarma Kıdemli Üsteğmen Erol Karadağ@|Şehit Piyade Komando Er Mustafa Mutlu~|Şehit Piyade Komando Er Rüstem Koç~|Şehit Piyade Çavuş Serhat Önder~|Şehit Polis Ercan Yılmaz~|Şehit Çavuş Tamer Alak~|Şeyh Edebali~
+189007	Kabaktepe Mah.	Kabaktepe=
+29973	Kahramanlar Mah.	Kahramanlar=|Çevre Yolu%
+189011	Kapulu Mah.	Kapulu=
+189013	Karakale Mah.	Karakale=|Rizekent=|Toprakkale=|Üçköşe B.m=
+188949	Kavaklıdere Mah.	Kavaklıdere=
+29974	Kayapa Mah.	E 80%|Kayapa=|Çevre Yolu%
+29976	Kumluyazı Mah.	Kumluyazı=
+189017	Kuzgun Mah.	Kuzgun=
+189019	Kuzuluk Mah.	Kuzuluk=
+29975	Kuşçu Mah.	Kuşçu=|Çevre Yolu%
+189015	Kızılkale Mah.	Başkurtdere=|Kızılkale=
+188951	Ocak Mah.	Ocak=
+188953	Paşayurdu Mah.	E 80%|Paşayurdu 1.=|Paşayurdu=|Paşayurdu1~|Paşayurdu2~|Paşayurdu3~|Paşayurdu4~|Paşayurdu5~|Paşayurdu6~
+189021	Rizekent Mah.	Rizekent=
+21620	Sakalıkesik Mah.	Sakal=
+140427	Saltuklu Mah.	1. Cami~|1. Gez Sanayi~|1. Gez Sanayi/1~|1. Gez Sanayi/2~|1. Gez Sanayi/3~|1. Gez Sanayi/4~|1. Gez Sanayi5~|18.~|19.-~|2. Gez Sanayi~|2. Gez Sanayi/1~|2. Gez Sanayi/10~|2. Gez Sanayi/11~|2. Gez Sanayi/2~|2. Gez Sanayi/3~|2. Gez Sanayi/4~|2. Gez Sanayi/5~|2. Gez Sanayi/6~|2. Gez Sanayi/7~|2. Gez Sanayi/8~|2. Gez Sanayi/9~|2.harman-~|26.~|27.~|3. Selim@|3.sanayi@|30.~|34.~|35.~|4. Murat@|9.@|Adnan Menderes@|Akabe~|Akar~|Akın~|Aliya İzzet Begoviç@|Alptekin~|Alsancak~|Atalay@|Atatürk@|Ayyıldız@|Babür@|Bahar~|Bahtiyar~|Bilge~|Cahar Dudayev@|Dadaş@|E 80%|Ebubekir Efendi~|Efe~|Emirşeyh@|Erenler~|Esma~|Ethembaba@|Fecir~|Furkan~|Gazi Ahmet Abdulkerim Ağgön~|Gazi Halil Elmalı~|Gazi Lütfü Soner~|Gazi Mücahit Akarsu~|Gazi Sadrettin Özcan~|Gez Köy=|Gez Sanayi 3.~|Gez Sanayi 3./1~|Gez Sanayi 3./2~|Gez Sanayi 3./3~|Gündoğdu~|Güzelbahçe~|Habipbaba@|Hacı Hüseyin Efendi@|Haktan~|Hatuniye~|Hurdacılar~|Kayı~|Küme Evler-~|Levent~|Mamahatun~|Mareşal Fevzi Çakmak@|Mazi~|Melek~|Melikşah~|Milli Egemenlik@|Nakliyeciler~|Nenehatun@|Nur~|Okumuş~|Orkide~|Rıza~|Sakarya@|Saltukbey~|Sancak@|Sağlık~|Serince~|Sümbül~|Transit-~|Veysel Karani@|Yakut~|Yasemin~|Yeni Sebze Hali@|Yeniyol1~|Yeniyol119=|Yeniyol131~|Yunus~|Yıldırım~|Zafer~|Çakabey~|İbrahim Hakkı@|İkbal~|İstiklal@|Şehit Astsubay Ömer Halis Demir@|Şehit Onbaşı Ömer Budak@|Şehit Polis Fethi Sekin@|Şehit Uzman Çavuş Şener Aldemir~|Şehit Üsteğmen Erol Karadağ~
+29980	Sarıyayla Mah.	Sarıyayla=
+140425	Selçuklu Mah.	10.~|11.~|12.~|13.~|14.~|15 Temmuz Şehitler@|15.~|24.~|25.~|70.yıl@|70.yıl1~|8.~|9.@|Akasya~|Artukbey~|Aydemir@|Bahadır~|Bakaç~|Başak~|Belediye~|Bilal~|Bilinmeyen/3~|Buhara~|Burak@|Cahar Dudayev@|Cemil Kırımoğlu~|Dadaş@|Deniz@|Deniz Feneri@|Derya~|Diyanet~|E 80%|E 80-%|Emirşeyh@|Eser~|Ethembaba@|Fazilet~|Gamze~|Gazi Ahmet Alpağuz~|Gazi Ferit Işık~|Gazi Fuat Akgül~|Gülyakut~|Gülüm~|Güney~|Güvenlik Arkası~|Habipbaba@|Hacı Mevlüt Baba~|Hacı Mustafa Bakan~|Hikmet~|Hilal~|Ihlamur~|Kanarya@|Menzil~|Milli Egemenlik@|Olimpiyat@|Osmangazi@|Oğuz~|Pınar~|Sancak@|Seher~|Semerkant~|Sevgi Evler~|Somunoğlu-@|Sultan Murat@|Susam~|Tarımsal Araştırma-~|Tavlaşoğlu~|Taşkent~|Taşkesenli~|Ufuk~|Usve~|Vatan@|Yavi~|Yeniyol2~|Yiğitler~|Yıldırım Beyazıt@|Çelebi@|Çiftlik1~|Çiftlik2~|Önder~|İsa Yusuf Alptekin@|İstiklal@|Şehit Başçavuş Tahsin Yorgun~|Şehit Er Osman Erhan~|Şehit Er Teymur Tarı~|Şehit Eren Bülbül@|Şehit Fikret Söğütler@|Şehit Fikret Söğütler1~|Şehit Mevlüt Gençoğlu~|Şehit Onbaşı Gültekin Şenol@|Şehit Onbaşı Ömer Budak@|Şehit Piyade Uzman Onbaşı Pehlül Oruk~|Şehit Recep Bağcı@|Şehit Uzman Çavuş Kadir Kayveni@|Şehit Çavuş Ekrem Özmen~|Şehit Çavuş Nejdet Diler~|Şehit Çavuş İlhami Topçu~
+188955	Sorkunlu Mah.	Sorkunlu=
+189025	Söğütlü (ovacık) Mah.	Ovacık Söğütlü=
+29979	Söğütlü Mah.	Sakal=|Söğütlü=|Ömertepe=
+189023	Sırlı Mah.	Sırlı=
+189027	Taşpınar Mah.	Geyik=|Taşpınar=
+29981	Tebrizcik Mah.	Tebrizcik=
+189029	Toprakkale Mah.	Toprakkale=
+21625	Tınazlı Mah.	Tınazlı=
+21626	Yarımca Mah.	16.~|17.~|18.~|20.~|21.~|23.~|28.~|29.~|3. Selim@|4. Murat@|Atalay@|Ayyıldız@|Bilinmeyen/1~|Bilinmeyen/10~|Bilinmeyen/11~|Bilinmeyen/2~|Bilinmeyen/4~|Buğrahan~|Cimcime Hatun~|Dilimli=|Emirşeyh-@|Furkan~|Kardelen~|Nenehatun@|Orhangazi~|Papatya~|Selçuklu-@|Vatan@|Yarımca=|Yenilyol1~|Yeniyol131~|Çamlıca Evler~|İbrahim Hakkı@
+189031	Yeşilova Mah.	Yeşilova=
+188963	Yeşilvadi Mah.	Yeşilvadi=
+188957	Yoncalık Mah.	Yoncalık=
+189033	Yukarıcanören Mah.	Susuzlar=|Yukarıcanören=
+188985	Çamlıca Mah.	Kuzgun=|Çamlıca=
+188987	Çatak Mah.	Çatak=
+188989	Çavdarlı Mah.	Halilkaya=|Çavdarlı=|Çavdarlı/1=
+188993	Çavuşoğlu Mah.	Ovacık Söğütlü=|Çavuşoğlu=
+188935	Çiğdemli Mah.	E 80%|Çiğdemli=|Çiğdemli1~|Çiğdemli2~|Çiğdemli3~|Çiğdemli4~|Çiğdemli5~
+188995	Çıkrıklı Mah.	Çıkrıklı=
+29977	Ömertepe Mah.	Dilimli=|Ilıca4~|Ömertepe=
+21622	Özbek Mah.	Yukarı=|Özbek=
+29978	Özbilen Mah.	Kahramanlar=|Sarıyayla=|Özbilen=
+188959	Üçköşe Mah.	Üçköşe B.m=

@@ -1,0 +1,15 @@
+191109	Akdere Mah.	Akdere=
+191111	Akhisar Mah.	Akhisar=|Kale=
+191107	Ağlarca Mah.	Ağlarca=
+191113	Başara Mah.	Başara=
+30273	Erten Mah.	Asar~|Bahar~|Sivrihisar@
+191115	Gökçekuyu Mah.	Gökçekuyu=
+191117	Gökçeyayla Mah.	Gökçeyayla=
+30274	Hacılar Mah.	Atatürk@|Ağlarca~|Bağdat@|Cincir~|Kaldırım@|Kuzveran@|Lale~|Sütlü~|Taşlıbayır@|Yıldız Tepe@|Çeltik~|Çifteler@
+191119	Hankaraağaç Mah.	Hankaraağaç=
+30275	Hüsrevpaşa Mah.	Afyon@|Atatürk@|Aydın~|Baras~|Bağdat@|Başara@|Cumhuriyet Myd.|Davut~|Emirdağ@|Kaldırım@|Karanfil~|Kayalı~|Kepir~|Manastır@|Nergiz~|Yumaklıca=|Yıldız Tepe@|İstiklal~|Şafak~
+191123	Kayı Mah.	Kayı=
+191125	Peçene Mah.	Peçene=
+30276	Tepeköy Mah.	Ağsak@|Bilezikli@|Çetin~
+191127	Yazılı Mah.	Yazılı=
+191121	İskankuyu Mah.	İskankuyu=

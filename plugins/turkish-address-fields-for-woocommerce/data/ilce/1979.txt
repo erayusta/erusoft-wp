@@ -1,0 +1,18 @@
+51578	Adnanmenderes Mah.	Adnan Menderes Ziraat 1=|Adnan Menderes Ziraat 3=|Adnan Menderes Ziraat 4=|Adnan Menderes Ziraat 5=|Adnan Menderes Ziraat 6=|Adnan Menderes Ziraat=|Adnan Menderes Ziraat2=|Aşağıpınar~|Bağardı@|Belediye 1~|Belediye 3~|Belediye 4~|Belediye 5~|Belediye 6~|Belediye 7~|Belediye 8~|Belediye 9~|Belediye@|Belediye2~|Ergün 1~|Ergün 2~|Ergün 3~|Ergün~|Gençlik-~|Hafız Halil Bayram@|Kanal 1~|Kanal~|Kuyupınar@|Kuyupınar Çıkmazı~|Mehmet Akif@|Pınar~|Selendi 2~|Selendi 3=|Selendi@|Şahin 1~|Şahin 2~|Şahin~
+55329	Akşinik Köyü	Akşinik=
+51579	Atatürk Mah.	Atatürk Ziraat 1=|Atatürk Ziraat=|Aydın~|Aşağıpınar~|Barış~|Bayram~|Bağardı@|Belediye@|Cumhuriyet 6~|Cumhuriyet_1@|Cumhuriyet_2 Myd.|Cumhuriyett 1=|Fatih@|Gazi~|Gençlik~|Hafız Halil Bayram@|Kardeş~|Kiraz 1~|Kiraz@|Kuyupınar@|Mehmet Akif@|Mimar Sinan-@|Mustafa Karakaş@|Mustafa Karakaş1~|Osmanlı 1~|Osmanlı@|Ova=|Park 1~|Park@|Selendi 1~|Selendi 3=|Selendi 4~|Selendi 5=|Selendi@|Umut~|Zafer~|Şehitler -%
+51580	Ayvalı Mah.	Ayvalı=
+51581	Fatih Mah.	Adnan Menderes Ziraat=|Belediye 2~|Belediye@|Cami 1~|Cami~|Fatih Ziraat=|Kışla~|Maraşal Fevzi Çakmak 1~|Maraşal Fevzi Çakmak@|Nurullah Ertaş 1~|Nurullah Ertaş@|Orhan Gazi@|Sümbül 1~|Sümbül 2~|Sümbül~|Ziraat Evleri 1=|Ziraat Evleri 2=|Ziraat Evleri=|İnönü 1~|İnönü 2~|İnönü 3~|İnönü@|Şahma 1@|Şahma@
+51582	Hocaahmetyesevi Mah.	Akkayalar 1~|Akkayalar 2~|Akkayalar@|Altınkaya 1~|Altınkaya 2~|Altınkaya 3~|Altınkaya@|Altıntaş 1~|Altıntaş 2~|Altıntaş 3~|Altıntaş 4~|Altıntaş@|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet 3~|Cumhuriyet 4~|Cumhuriyet 5~|Cumhuriyet_1@|Cumhuriyet_2 Myd.|Hikmetoluğu@|Hikmetoğlu 1~|Hikmetoğlu 2~|Hikmetoğlu~|Hoca Ahmet Yesevi Ziraat=|Karahan 1~|Karahan 2~|Karahan@|Karanfil 1~|Karanfil 2~|Karanfil~|Kaynar 1~|Kaynar 2~|Kaynar 3~|Kaynar@|Pr.dr.güner Önce-%|Simav 1=|Simav@|Toki~|Ziraat 1=|Ziraat=
+55330	Orhanlar Köyü	Orhanlar=
+55333	Sarayköy Köyü	Sarayköy=
+51584	Sofular Köyü, Atatürk Mevkii	Ay~|Cumhuriyet~|Dereboyu=|Gün~|Kanarya 1~|Kanarya~|Kepez~|Kepez/1~|Kocapınar~|Kum~|Kum1~|Kıbrıs~|Kıbrıs/1~|Kıbrıs/2~|Nur~|Serap~|Sibel~|Yapak~|Çam~|Çelebi~|Örey~|Şehit Tekin~
+51585	Sofular Köyü, Kepez Mevkii	Diraz 1~|Dıraz~|Hasanlar~|Kepez 1=
+51586	Sofular Köyü, Menderes Mevkii	Afet 1~|Afet~|Azerbaycan=|Hasanlar~|Kepez~|Papatya~|Semavi~|Sirgeli~|Örey-~|Şehit Tekin~
+55334	Tepeköy Köyü	Tepeköy=
+51583	Turgut Özal Mah.	Bağlar 1~|Bağlar@|Belediye@|Cumhuriyet_2 Myd.|Fazilet@|Güney 1~|Güney 2~|Güney@|Güney Çıkmazı=|Güneş 1~|Güneş~|Hamam 1~|Hamam 2~|Hamam 3~|Hamam@|Kaya 1~|Kaya 2~|Kaya 3~|Kaya~|Mithat Paşa 1~|Mithat Paşa 2~|Mithat Paşa@|Orhan Gazi 1~|Orhan Gazi 2~|Orhan Gazi 3~|Orhan Gazi 4~|Orhan Gazi 5~|Orhan Gazi@|Pr.dr.güner Önce-%|Sağlık~|Simav 1=|Simav 2~|Simav 3~|Simav 4~|Simav 5~|Simav@|Simav Çıkmazı~|Turgut Özal Ziraat 1=|Turgut Özal Ziraat 2=|Turgut Özal Ziraat 3=|Turgut Özal Ziraat=|Çimen 1~|Çimen 2~|Çimen~|Şehitler-%
+51587	Yakuplar Atatürk Mah.	Aktaş 1~|Aktaş 2~|Aktaş~|Asmaaltı 1~|Asmaaltı@|Asmaaltı Çıkmazı~|Cami_1~|Cumhuriyet@|Dal~|Demir~|Doğu@|Güneş.~|Kakaç@|Kayışoğlu 1~|Kayışoğlu~|Necatibey@|Okul 1~|Okul@|Pazarlar@|Pazarlar-@|Pınar_1~|Selendi1@|Selendi_1@|Söğüt~|Tepecik@
+51588	Yakuplar Fatih Mah.	Altıntaş_1~|Asmalıçam 1~|Asmalıçam@|Aydoğan~|Bağardı. 1~|Bağardı.@|Budak~|Cami1~|Cami_1~|Deprem 1~|Deprem@|Esentepe~|Gündüz~|Güney 3~|Güney 4~|Güney.@|Kakaç 1~|Kakaç@|Körüklük 1~|Körüklük@|Pazarlar@|Poyraz~|Selendi1@|Yenice@
+55335	Yenice Köyü	Yenice=
+55331	Örey Köyü	Örey=
+55332	Örey Köyü, Yapak Mevkii	Yapak=

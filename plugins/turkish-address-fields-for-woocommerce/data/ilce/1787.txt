@@ -1,0 +1,41 @@
+157423	Akyol Mah.	Akyol=|Sarp=|Uluçınar=
+157421	Akçaköy Mah.	Akçaköy=
+157425	Alayunt Mah.	Küme Evler 1=|Küme Evler 2=
+157427	Altınoluk Mah.	Akbelen=|Altınoluk=
+157429	Altıyol Mah.	Altıyol=|Keremli=|Kıraç=
+59941	Bahçebaşı Mah.	1 Mayıs%|101~|106~|107(dilan Sk)~|108 (barış)~|11.c@|111~|112~|113~|114~|115 (dilan-kuzey)~|116 (dilan)~|117 (dilan)~|118 (dilan)~|119 (kuzey)~|120 (kuzey)~|121~|122~|124(a.gaffar Okan Sk)~|125(hukuk Sk)~|126(kumdere)~|127~|128~|129(9 Sk)~|130~|131~|132~|133-~|134~|135(murat Cami Sk)~|136(murat Cami Sk)~|137(sumer Sk)~|138(arıkan Sk)~|140 (sümer)~|141(lise Sk)~|15@|150~|151(yılmaz Güney)~|152(ateş+8.sk)~|153~|164 (kavak)~|170~|171~|172 (1 Mayıs Cad.)~|173~|174~|175~|176~|177~|178~|179~|180~|181~|182~|183~|184~|Abdulgafar Okan~|Ahmet Kaya@|Akasya~|Aslan~|Ateş~|Bahar~|Barış%|Basın~|Berivan~|Beyaz~|Cebeli Tarık~|Cennet~|Ceylan~|Deniz~|Dibekli Köyü Yolu~|Diyarbakır~|Evin~|Firdevs~|Fırat~|Gündem~|Hukuk@|Ilısu@|Işık~|Karanfil~|Kerkük~|Kiraz~|Kumdere~|Kısmetli@|Kızılırmak~|Lale~|Lise~|Mehmet Uzun@|Mermer~|Mimar Sinan@|Murat Camii~|Nefel~|Nehir~|Okyanus~|Onur 1(110)~|Onur~|Orhan Pamuk~|Papatya~|Paris~|Saman Yol~|Saray~|Selahattin Eyyubi@|Sevgi~|Seyit Ahmet~|Seyitler~|Sümer@|Taş~|Turan~|Turgut Özal@|Ulus~|Yeni Şehir~|Yeşil~|Yıldız~|Yılmaz Güney~|Çam~|Çevre Yolu@|İnönü~|Şht.coşkun Nazilli (baysun)~|Şht.halil İbrahim Aksoy@|Şht.mehmet Uğurtay~
+157433	Batur Mah.	Batur=
+157435	Baysun Mah.	Baysun=
+157431	Bağözü Mah.	Bağözü=|Konaklı=
+157439	Belen Mah.	Belen=
+157437	Beğendi Mah.	Beğendi=
+157441	Bostanlı Mah.	Bostanlı=
+157453	Değerli Mah.	Değerli=
+157455	Gürgen Mah.	Gürgen=
+157457	Gürışık Mah.	Ayrancı=|Gürışık=|Keklik_1=|Zeytinli=|Çat-bahçe=
+157459	Ilısu Mah.	1.~|10.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Bilinmeyen.1=|Ilısu_1=
+157461	Karabayır Mah.	Karabayır=
+157463	Kartalkaya Mah.	Kartalkaya=
+157467	Korucu Mah.	Aşağı=|Kuyubaşı=|Yukarı=
+157469	Kumdere Mah.	Kumdere_1=
+157471	Kuşluca Mah.	Kuşluca=
+157417	Kılavuz Mah.	1~|10~|11~|2~|3~|4~|4/1~|5~|6~|7~|8~|8/1~|9~|Belediye@|Belediye/1@|Belediye/2~|Kılavuz/1~|Kılavuz/2~|Sağlık=|Şeyh Halil@|Şeyh Halil/1~|Şeyh Mümine@|Şeyh Mümine/1@|Şeyh Mümine/2@
+157465	Kısmetli Mah.	Kısmetli_1=
+157473	Ormaniçi Mah.	Dilek=|Ormaniçi=
+59942	Safa Mah.	18~|21~|301~|302~|305 (ılısu)~|306 (filiz)~|308~|309~|309/1~|310~|311~|312~|313 (demokrasi)~|314~|315~|316~|317~|318 (balkan)~|321~|325 (2.sk)~|329 (dicle)~|330 (kışla)~|331~|332~|Balkan~|Balkan-~|Bilal-ı Habeş~|Camii~|Demokrasi~|Dicle~|Dicle-~|Ezgi@|Fidan~|Fidan2~|Filiz~|Gezici~|Gönül~|Gönül-~|Gülistan~|Güneş~|Güneş1~|Haci Hasan~|Ilısu@|Ilısu1~|Ilısu2~|Mardin%|Medya~|Menderes~|Safa~|Seyhan~|Sosın~|Tepe~|Toprak~|Vural 2~|Vural@|Yılmaz Erdoğan~|Zana~|Şafak~|Şelale~|Şevleabdiko=|Şeyh İbrahim~|Şeyh İbrahim1~|Şht.üstğm.emrah Şahin (kışla)@
+59943	Saray Mah.	403 (kılıç)~|404 (gül)~|407 (14.sk.)~|408 (kılavız)~|409 (güvercin)~|410~|411~|412~|413 (kılavuz)~|427~|428~|430~|431~|433~|435~|436 (4.sk.)~|437~|437_1~|438~|439~|440~|442~|443 (20.sk)~|Ahmet Kılıç~|Akdeniz~|Ayva~|Bulut~|Bulvar~|Cumhuriyet~|Emek~|Erkul~|Eğitim~|Fatih~|Gül~|Güvercin~|Haseoğulları~|Hürriyet~|Kartal~|Keklik~|Kilise~|Kılavuz@|Kılıç~|Kısmetli@|Mardin%|Mehmet Uzun@|Mevsim~|Mezarlık~|Mezopotamya@|Mir~|Nur~|Safa~|Sanat~|Serhat~|Sezer~|Vatan~|Yasemin~|Üstüner@|İdil~|Şht.üstğm.emrah Şahin (kışla)@
+157475	Suçatı Mah.	Korkmaz=|Suçatı=|Uluçınar=
+157419	Sümer Mah.	Altıncı~|Ayaz~|Aygün~|Ağırman@|Batergiz@|Batergiz1~|Batergiz2@|Belediye1~|Belediye_1@|Beşinci~|Birinci~|Birinci1~|Dokuzuncu~|Dördüncü~|Onuncu~|Onuncu1~|Onuncu2~|Onuncu3~|Sekizinci~|Yedinci~|Yedinci1~|Yedinci2~|Çevre Yolu@|Üçüncü~|İkinci~
+157477	Tanyeri Mah.	Bakırcı=|Tanyeri=
+157479	Tavşanlı Mah.	Tavşanlı=|Ünlüce=
+157481	Temelli Mah.	Kayapınar=|Temelli=
+59944	Tepebaşı Mah.	220 (dilan)~|221 (ılısu)~|222 (dilan)~|223 (acar )~|224 (acar)~|225 (acar)~|226 (ahmet Kaya 1)~|227 (zambak)~|228 (t.özal)~|229 (şalker)~|230 (seydaoğlu)~|231~|232~|233~|234~|235~|236~|Acar~|Adalet~|Ahmet Kaya@|Akar~|Altun~|Barış%|Cudi~|Dilan~|Fener~|Ilısu@|Kaya~|Kilise~|Kuzey~|Kısmetli@|Mezopotamya@|Midyat@|Midyat/2@|Nergiz~|Orhan Gazi~|Safa~|Seher~|Seydaoğlu~|Seyit Ahmet~|Tepe~|Turgut Özal@|Umut~|Yılmaz~|Zambak~|Çeşme~|Üstüner@|Şalker~|Şalker1~
+157483	Ulaş Mah.	Ulaş=
+157485	Yanılmaz Mah.	Yanılmaz=
+157489	Yoncalı Mah.	Yoncalı=
+157487	Yılmaz Mah.	Yılmaz_1=
+157443	Çatalan Mah.	Çatalan=
+157445	Çatalçam Mah.	Çatalçam=
+157447	Çavuşlu Mah.	Çavuşlu=
+157449	Çelikköy Mah.	Umutlu=|Çelikköy=
+157451	Çukurdere Mah.	Çukurdere=

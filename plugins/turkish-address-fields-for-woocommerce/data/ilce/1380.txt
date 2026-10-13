@@ -1,0 +1,45 @@
+90751	Alaçam Mah.	47~|48~|49~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|Alaçam25~|Alaçam26~|Beşevler~|Camii~|Gazi~|Halitpaşa@|Hürriyet_1@|Karahüseyin~|Okul~|Orman_1~|Tepebaşı~|Şehit Serhat Yılmaz_1~|Şehit Çavuş Kadir Demirel~
+95272	Altınemek Köyü	Altın Emek=
+140412	Arıkonak Köyü	-~|Balcı=|İsmet Paşa=
+90749	Atalar Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|4~|5~|6~|7-~|8~|9~|Arıcılar~|Atatürk@|Aşık Mazlumi~|Doğu~|Duvar Ören~|Gaziler~|Güney~|Hilal~|Hürriyet@|Meydan~|Selamverdi1~|Ufuk~|Ustalar~|Vatan@|Yayla~|Yeni Yol1~|İnci~|Şht.hikmet Bilgin~
+90752	Avcılar Mah.	1~|29~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|40~|41~|42~|43~|44~|45~|46-~|Aslı~|Cihan Çendik~|Dar~|Değirmen_1~|Karahan~|Kıvrak~|Orman~|Vatan@|Yamaç~|Yeşim~|Yokuş1~|Çayır~
+95273	Aşağıaydere Köyü	Aşağıaydere=|Yukarıaydere Yayla Evleri=|Çavdarlı Yayla Evleri=
+95274	Baştoklu Köyü	Baştoklu=
+95275	Binbaşak Köyü	Binbaşak=
+95276	Börk Köyü	Börk=
+140408	Dilekdere Köyü	-~|Cami=|Daracık=|Evren Paşa=|Okul=|Yeniyol=
+140410	Geç Köyü	-~|Aras=|Arazi=|Cumhuriyet=
+95288	Güneşgören Köyü	Güneşgören=
+95289	Güneşgören Köyü, Yayla Evleri Yayla Evleri	Güneşgören Yayla Evleri=
+181390	Hürriyet Mah.	10~|70~|73~|74~|75-~|77-~|78~|Atatürk@|Başak~|Cumhuriyet@|Dere~|Dumlupınar~|Dursun Efendi~|Gaziler2~|Gençlik~|Güven~|Hayrettin Karaca~|Kazım Karabekir Paşa@|Konuk~|Mehtap~|Murat Tosunoğlu~|Petrol~|Sakarya~|Terminal~|Yaşar Doğu~|İnegöl@|İnönü@|Şehit Er Engin Demirci~|Şehit Jandarma Asteğmen Ergin Kaya~|Şehit Piyade Uz.çvş.caner Çelik~|Şehit Özkan Çakmak~
+95292	Karakale Köyü	Karakale=
+95293	Koyunpınarı Köyü	Koyunpınarı=
+95294	Koyunpınarı Köyü, Kireçhane Mevkii	Kireçhane=
+95295	Koyunpınarı Köyü, Kırkpınar Mevkii	Kırkpınar=
+90753	Ortakent Merkez Mah.	Arazi~|Atatürk_1@|Cami_1~|Daracık~|Dere_1~|Dumlupınar2~|Dumlupınar_1~|Evren~|Fevzi Çakmak@|Fevzi Çakmak1~|Hilal_1~|Kazım Karabekir@|Küme Evler=|Mezarlık~|Nenehatun~|Okul_1~|Ordu~|Ortakent 1~|Ortakent 10~|Ortakent 12~|Ortakent 13~|Ortakent 14~|Ortakent 15~|Ortakent 16~|Ortakent 17~|Ortakent 18~|Ortakent 19~|Ortakent 2~|Ortakent 20~|Ortakent 21~|Ortakent 3~|Ortakent 4~|Ortakent 5~|Ortakent 6~|Ortakent 7~|Ortakent 8~|Ortakent 9~|Ortakent11~|Ortakent23~|Ortakent24~|Ortakent25~|Ortakent27~|Pehlivan~|Trafo~|Zübeyde Hanım~|Çeşme~|Çıkmaz~|İnönü_1@|Şair~
+140414	Oğuzyolu Köyü	-~|Gül=|Kemal Paşa=|Çimen=
+95296	Sazlıçayır Köyü	Sazlıçayır=
+90750	Selam Verdi Mah.	10~|78~|Atatürk@|Aydınlar~|Aşık Müdami~|Aşık Şenlik~|Cami~|Cihan~|Cumhuriyet@|Değirmen~|Dikmen~|Dursun Efendi~|Garaj~|Gençlik~|Gül~|Kamer~|Karanfil~|Kars@|Kazım Karabekir Paşa@|Nalbantlar~|Nergiz~|Pınar~|Seher~|Selamverdi 26~|Selamverdi1~|Selamverdi10~|Selamverdi12~|Selamverdi13~|Selamverdi14~|Selamverdi15~|Selamverdi17~|Selamverdi2~|Selamverdi20~|Selamverdi21~|Selamverdi22~|Selamverdi23~|Selamverdi24~|Selamverdi25~|Selamverdi26~|Selamverdi3~|Selamverdi4~|Selamverdi5~|Selamverdi6~|Selamverdi7~|Selamverdi8~|Selamverdi9~|Söğütlü~|Yenice~|Yonca~|Çayır_1~|Çıkmaz_1~|Çınar~|İnegöl@|İnönü@|İstiklal@|Şehit Piyade Uz.çvş Caner Çelik-~|Şehit Serhat Yılmaz~|Şirin~
+95297	Serinkuyu Köyü	Serinkuyu=
+95298	Serinkuyu Köyü, Serinkuyu Yaylası Yayla Evleri	Serinkuyu Yayla Evleri=
+95299	Sevimli Köyü	Sevimli=
+95300	Sevimli Köyü, Sevimli Yayla Evleri Yayla Evleri	Sevimli Yayla Evleri=
+95301	Sulakçayır Köyü	Sulakçayır=
+95302	Yamaçyolu Köyü	Ata Yayla Evleri=|Avcılar Yayla Evleri=|Orta Hanak Yayla Evleri=|Ortakent Yayla Evleri=|Selam Verdi Yayla Evleri=|Yamaçyolu=|Çataldere Yayla Evleri=
+95303	Yamaçyolu Köyü, Yayla Evleri	Yamaçyolu Yayla Evleri=
+95304	Yamçılı Köyü	Yamçılı=
+95305	Yukarıaydere Köyü	Yukarıaydere=
+95306	Yünbüken Köyü	Yünbüken=
+95277	Çatköy Köyü, Aşağı Çat Mevkii	Yeni Çat=
+95279	Çatköy Köyü, Yayla Evleri Yayla Evleri	Yayla Evleri=
+95278	Çatköy Köyü, Yukarı Çat Mevkii	Yukarı Çat=
+95280	Çavdarlı Köyü	Çavdarlı=
+95281	Çayağzı Köyü	Çayağzı=
+95282	Çayağzı Köyü, Yayla Yayla Evleri	Çayağzı Yayla Evleri=
+95285	Çimliçayır Köyü	Çimliçayır=
+95286	Çimliçayır Köyü, Karşı Mevkii	Karşı=
+95287	Çimliçayır Köyü, Yayla Evleri Yayla Evleri	Çimliçayır Yayla Evleri=
+95284	Çiçeklidağ Köyü	Çiçeklidağ=
+95283	Çiçeklidağ Köyü, Yayla Yayla Evleri	Çiçeklidağ Yayla Evleri=
+95290	İncedere Köyü	İncedere=|İncedere Yayla Evleri=
+95291	İncedere Köyü, Yayla Yayla Evleri	Koyunpınarı Yayla Evleri=|İncedere Yayla Evleri=

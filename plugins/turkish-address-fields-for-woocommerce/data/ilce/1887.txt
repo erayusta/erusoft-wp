@@ -1,0 +1,19 @@
+149515	Atik Mah.	1~|10~|11~|2~|3~|4~|5~|6~|68~|7~|8~|9~|Atatürk@|Bahçe~|Ergenekon~|Güllü~|Tepe~|Çakmak~
+31155	Bakras Mah.	Ali Güllü~|Ardıç~|Bozkurt~|Damlacık~|Dar~|Dağ~|Depo~|Dere~|Elçibey~|Gök~|Güngör~|Hendek~|Hoca Ahmet Yesevi~|Kavaklı~|Köprü~|Maraşal Çakmak@|Mehmet Okur~|Mesken~|Sümbültepe~|Tepe~|Yalı~|Yavuz Sultan Selim@|Yazı~|Çamlıca~|Çatak=|İbrahim Dönmez~|Şevket Çalışkan@|Şükrü Çatak%
+149495	Benlidere Mah.	Benlidere~|Yapraklı~
+31160	Cumhuriyet Mah.	14~|50.~|Adnan Menderes@|Akşemsettin~|Ali Güllü~|Ceylan~|Diler~|Fatih@|Hacı Yusuf~|Kayadibi~|Kırlangıç~|Maraşal Çakmak@|Menekşe~|Pazaryeri~|Seyranlık~|Yeni Camii~|Yunus~|Yıldırım Beyazıt@|Çamdede~|Çatal~|Ötüken~|Şehit Üsteğmen Mehmet Başar~|Şevket Çalışkan@
+31156	Derebahçe Mah.	17~|Akasya~|Ayyıldız~|Badem~|Cemil Yılmazlar~|Dingil~|Durur~|Girne@|Güzel~|Güzelyayla~|Papatya~|Pehlivan~|Saray~|Türkmen~|Yılmazlar~|Çardak~|Özden~|Ş.uz.çvş.mustafa Mercanoğlu~
+31162	Fatih Mah.	24~|25~|26~|27~|28~|29~|30~|51~|55~|57~|62~|Azerbaycan@|Gülevler~|Güney~|Kanuni Sultan Süleyman@|Müftüler~|Sokullu Mehmet Paşa@
+31157	Halilbey Mah.	12~|13.~|Almıza~|Atik@|Avşar~|Aytunga~|Battalgazi~|Bulut~|Buzlu~|Bülbül~|Dilek~|Enişdibi~|Gazi~|Girne~|Halilbey@|Hilal~|Kanuni~|Karlı~|Kağan~|Kelebek~|Kürşat~|Mehmet Aslan@|Narlı~|Oğuz~|Oğuzhan~|Radar~|Rüzgar Enerji İstasyon Mevki=|Rüzgarlı~|Sağlık~|Serin~|Taşkın~|Yavuz~|Çimen~|İskan~|Şamil~|Şehit Jandarma Kd.çvş.mehmet Tutuş@
+149507	Kömürçukuru Mah.	13/1.~|Kömürçukuru~
+149505	Kıcı Mah.	50~|67~|Kıcı~
+31158	Muhlisali Mah.	15~|16~|Cevizli~|Dönmez~|Ferah~|Gedik~|Havran Özden~|Kanatlı~|Kayalık~|Kurtuluş@|Maraşal Çakmak@|Mustafa Seydi Evren~|Nergiz~|Nural~|Çalışkan~|Ş.uz.ç.mevlüt Küçük~
+149509	Müftüler Mah.	Müftüler~
+31159	Sarımazı Mah.	18~|19~|20~|21~|22~|60~|61~|Aslanlı~|Ayrık~|Bahçeli~|Bağdatlı~|Dallı~|Dudlu~|Ekakon~|Emre~|Girne@|Gökten~|Göktürk~|Ilıca~|Kandilli~|Köşk~|Laleli~|Meşe~|Selvi~|Seyran~|Site~|Spor~|Tuna~|Vurmay~|Yücelen~|Yıldırım~|Zafer@|Çamlı~|Çetin~|Çiğdem~|Şahin~|Şehit Mahmut Açıl@|Şengül~
+149501	Soğukoluk Mah.	Güzelyayla~
+149497	Çakallı Mah.	1 Nolu Myd.|2701~|Antakya Organize Sanayi Bölgesi 1.@|Antakya Organize Sanayi Bölgesi 1/1.~|Antakya Organize Sanayi Bölgesi 10.@|Antakya Organize Sanayi Bölgesi 11.@|Antakya Organize Sanayi Bölgesi 12.~|Antakya Organize Sanayi Bölgesi 13.@|Antakya Organize Sanayi Bölgesi 14.@|Antakya Organize Sanayi Bölgesi 3.@|Antakya Organize Sanayi Bölgesi 3/1.~|Antakya Organize Sanayi Bölgesi 4.@|Antakya Organize Sanayi Bölgesi 7.@|Antakya Organize Sanayi Bölgesi 8.@|Antakya Organize Sanayi Bölgesi 9.@|Aydınlı~|Yalmanlar~|Çakallı~
+149499	Çerçikaya Mah.	13/4~|13/5~|Çerçikaya~
+149511	Ötençay Mah.	E5 Karayolu@|Sebze Hali~|Ötençay~
+31161	İssume Mah.	31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.@|39.@|40.@|41.@|41/1~|42.~|43.~|44~|45.~|46.~|47.~|48.~|49.~|58~|59~|Sokulu Mehmet Paşa@
+149503	Şekere Mah.	63~|64~|65~|Atatürk@|Cengiz Topel@|Fatih@|Güven~|Çetin~|İnce~
+149513	Şenbük Mah.	1 Nolu Myd.|2721~|2722~|Antakya Organize Sanayi Bölgesi 1/1.~|Antakya Organize Sanayi Bölgesi 10.@|Antakya Organize Sanayi Bölgesi 2.@|Antakya Organize Sanayi Bölgesi 4.@|Antakya Organize Sanayi Bölgesi 5.@|Antakya Organize Sanayi Bölgesi 6.@|Antakya Organize Sanayi Bölgesi 6/1.@|Kanlıdere Yaylası~|Karnıkara Yaylası~|Sebze Hali~|Soğancı Yaylası~|Şenbük~

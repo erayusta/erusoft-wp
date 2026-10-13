@@ -1,0 +1,58 @@
+89407	Akcami Köyü	 Köy$
+89408	Akçakoyunlu Köyü	 Köy$
+89409	Alifakılı Köyü	 Köy$
+89410	Arife Köyü	 Köy$
+89411	Armağan Köyü	 Köy$
+80886	Bahçelievler Mah.	Alpaslan@|Atatürk%|Atatürk- Myd.|Bahar~|Barbaros@|Belediye@|Beton~|Derya~|Destan~|Destan/1~|Dilek~|Dumlupınar@|Döner~|Filiz~|Hacı Bayram Karabulut@|Hacı Bayram Karabulut/1~|Irmak@|Kadıoğlu@|Kamer 1~|Kamer~|Karanlık Dere@|Karasu~|Kooperatif@|Kooperatif/1~|Kumru~|Köprülü~|Kıvrak~|Laleli~|M.akif@|Malazgirt@|Mehmet Akıf/1~|Mehtap~|Müftülük~|Nadir~|Nasrettin Hoca~|Sade~|Serin~|Sofiler~|Tarımcılar@|Turgut Reis@|Turgut Reis/1~|Uzay~|Yozgat@|Yunus Emre_1~|Çaldıran~|Çevik~|Çıkmaz~
+80885	Bağlarbaşı Mah.	Ara~|Aras~|Ceyhan~|Dadaloğlu_1~|Davut Paşa (1)~|Dede Korkut@|Delice~|Derya~|Dicle~|Dörtlü~|Fevzi Çakmak@|Fırat~|Kanije~|Karanlık Dere@|Kartal~|Mahmut Paşa~|Meriç~|Muradiye@|Ofis~|Ofis/1~|Petek~|Piri Reis@|Reyhan~|Turgut Reis@|Türkmen~|Yahya Kemal@|Yarasa~|Z.gökalp@|Zembilli~|Ziya Gökalp~|Şahin~
+89413	Başköy Köyü	 Köy$
+89414	Caferli Köyü	 Köy$
+89415	Cankılı Köyü	 Köy$
+80893	Cumhuriyet Mah.	Belediye@|Demet~|Demiryolu~|Demiryolu/1~|Direk~|Enerji~|Fatih@|Fener~|Gök~|Gümüş~|Güneş~|Harman~|Harman/1~|Hasanpaşa@|Hat~|Karanfil~|Karasu~|Kazlıuşağı=|Ladin~|Manolya~|Pınar~|Sümbül~|Venüs~|Yalçınkaya~|Yasemin~|Yavuz Sltan Selim~|Yıldız~|Yıldız/1~|Zaman~|Çiğdem@|Çımrıklı 1~|Çımrıklı~|Çımrıklı_2=|Şeh.uzm.çav.ercan Alkaya@|Şimşek~
+89416	Cıcıklar Köyü	 Köy$
+89418	Dedeli Köyü	 Köy$
+89420	Ekinciuşağı Köyü	 Köy$
+80892	Fatih Mah.	100-~|102.~|25.sokak~|Alpaslan@|Başak~|Berrak~|Billur~|Ergenekon~|Fevzi Çakmak@|Kocatepe@|Kocatepe/2~|Kocatepe/3~|Kocatepe1~|Kubilay~|Köroğlu@|Köroğlu/1~|Köroğlu1~|Köroğlu2~|Köroğlu3~|Namık Kemal@|Namık Kemal1~|Sakarya@|Sanayi Sitesi 1~|Sanayi Sitesi 11~|Sanayi Sitesi 13~|Sanayi Sitesi 15~|Sanayi Sitesi 17~|Sanayi Sitesi 18~|Sanayi Sitesi 19~|Sanayi Sitesi 20~|Sanayi Sitesi 21~|Sanayi Sitesi 23~|Sanayi Sitesi 24~|Sanayi Sitesi 3~|Sanayi Sitesi 5~|Sanayi Sitesi 7~|Sanayi Sitesi 9~|Selvi~|Söğüt~|Yozgat@|Yozgat1~|Yozgat2~|Zerdali~|Çağlayan~|Çilek~|İmam Hatip@|İmam Hatip/1~
+89424	Gözelli Köyü	 Köy$
+89422	Gülistan Köyü	 Köy$
+89423	Gülpınar Köyü	 Köy$
+80887	H.bayram Karabulut Mah.	Ataç-~|Ateş~|Barbaros Hayrettin Paşa@|Barbaros Hayrettin Paşa/1~|Bedia@|Beste~|Burak~|Dadaloğlu@|Evliya Çelebi@|Fazilet@|Göktürk@|Gülen~|Halide Edip Adıvar@|Halide Edip Adıvar/1~|Halit Ziya@|Hızır@|Kader~|Karaca Oğlan@|Kirman~|Minnet~|Necip Fazıl@|Necip Fazıl/1~|Necip Fazıl/2~|Necip Fazıl/3~|Onur~|Otağ~|Ozan~|Reva~|Reşat Nuri@|Reşat Nuri/1~|Tabur~|Tongar~|Topuz~|Tuğra~|Türkmen~|Umut~|Uygar~|Yahya Kemal@|Yamaç~|Yankı~|Yozgat@|Yunus Emre@|Yunus Emre/1~|Yunus Emre/2~|Yunus Emre/3~|Yunus Emre/4~|Yunus Emre/5~|Çapanoğlu@|Çile~|Çınaraltı@|Çınaraltı/1~|Çınaraltı1@|İlyas@|Şenlik~|Şht.aladdin Karadağ@|Şht.aladdin Karadağ/1~|Şht.aladdin Karadağ/2@
+89425	Halaçlı Köyü	 Köy$
+89426	Hamzalı Köyü	 Köy$
+89427	Hüyükkışla Köyü	 Köy$
+89429	Kabacaoğlu Köyü	 Köy$
+89430	Kabakini Köyü	 Köy$
+80889	Kale Mah.	Alpaslan@|Arı~|Cengiz Topel@|Davut Paşa (2)~|Davut Paşa (3)~|Dede Korkut@|Fevzi Çakmak@|Hasan Tahsin@|Kanije~|Kara İbrahimoğlu~|Karanlık Dere@|Kosova~|Kosova/2~|Kosova/3~|Kosova/4~|Kılıç Bey~|Lefke~|Mahmut Paşa~|Muradiye@|Muradiye/1~|Namık Kemal@|Namık Kemal/2~|Sefa~|Sefa/1~|Sümer~|Yahya Kemal@|Yozgat@|İmam Hatip@
+89431	Karakaya Köyü	 Köy$
+183878	Karalar Mah.	Karalar~|Karalar/1~|Karalar/10~|Karalar/11~|Karalar/12~|Karalar/13~|Karalar/14~|Karalar/15~|Karalar/16~|Karalar/17~|Karalar/18~|Karalar/19~|Karalar/2~|Karalar/20~|Karalar/3~|Karalar/4~|Karalar/5~|Karalar/6~|Karalar/7~|Karalar/8~|Karalar/9~
+89433	Kaykılı Köyü	 Köy$
+89434	Kazlıuşağı Köyü	 Köy$
+183876	Konaklı Mah.	Konaklı~|Konaklı/1~|Konaklı/10~|Konaklı/2~|Konaklı/3~|Konaklı/4~|Konaklı/5~|Konaklı/6~|Konaklı/7~|Konaklı/8~|Konaklı/9~
+89437	Koçköy Köyü	 Köy$
+89439	Kumkuyu Köyü	 Köy$
+80894	Kuzayca Köyü, Bahçelievler Mevkii	Fatih~|Halıcılar~|Mevlana~|P.t.t~|Özcan~|Şehit Cafer Yaşar~|Şehit Can Güzel~|Şıhali~
+80895	Kuzayca Köyü, Cumhuriyet Mevkii	Atatürk~|Bahşi~|Başky Yolu - 2~|Başköy Yolu~|Belediye~|Merkez~|Şehit Suat Altundaş~|Şen~
+80896	Kuzayca Köyü, Savaştepe Mevkii	Atatürk~|Koca Yokuş~|Merkez Camii~|Su Deosu~|Su Deposu~|Çiftlik Yolu~
+89440	Küçükincirli Köyü	 Köy$
+89435	Kızılkoca Köyü	 Köy$
+89436	Kızılyar Köyü	 Köy$
+89419	Osmanlı Köyü	 Köy$
+80897	Paşaköy Köyü, Bahçelievler Mevkii	Fidan~|Gülseven~|Hızır~|Koçyiğit~|Kıbrıs~|Yozgat~|Çiğdem~|Şahin~|Şehit Taner Özbay~
+80899	Paşaköy Köyü, Hasanpaşa Mevkii	Bağdat~|Belediye~|Beylerbeyi~|Erciyes~|Kayseri~|Çamdelen~
+80898	Paşaköy Köyü, Yenicami Mevkii	Fatih~|Kıbrıs~|Pınar~|Sinema~|Yozgat~|Şakılar~
+89412	Rızvan Köyü	 Köy$
+89441	Saatli Köyü	 Köy$
+80900	Sarıkent Köyü, Altındağ Mevkii	Camiönü~|Hakimiyet~|Kayseri~|Meşrutiyet~|Tepe~|İstiklal~
+80901	Sarıkent Köyü, Cumhuriyet Mevkii	Asma~|Badem~|Camialtı~|Cihan~|Fatih~|Harman 1~|Harman 2~|Harman 3~|Harman 4~|Mezbaha~|Sakarya~|Sarmaşık~|Ulus~
+80902	Sarıkent Köyü, İstasyon Mevkii	Atatürk~|Cami~|Gül~|Hat Boyu~|Hürriyet~|Karanfil~|Kayseri~|Ofis~|Salkım~|Umut~|Vatan~|Yıldız~|Çiğdem~
+89442	Saçlı Köyü	 Köy$
+89447	Seydiyar Köyü	 Köy$|Köy~
+89444	Tahiroğlu Köyü	 Köy$
+89445	Temlik Köyü	 Köy$
+89446	Türüdüler Köyü	 Köy$
+80890	Yaylapınar Mah.	Ayvalı~|Bademli~|Demiryolu~|Dere~|Derya~|Dutlu~|Fatih@|Hacı Bayram Karabulut@|Hacı Bayram Karabulut/2~|Hasanpaşa@|Kalıç~|Karasu~|Mimar Sinan~|Ofis~|Ofis/1~|Oğuz~|Pınar~|Sokullu~|Tepeüstü~|Tırpan~|Yamaç_1~|Yavuz~|Yayla_1~|Çelebi~|Çetin~
+80891	Yeni Mah.	1.sokak~|10.sokak~|11.sokak~|12.sokak~|13.sokak~|2.sokak~|3.sokak~|4.sokak~|5.sokak~|6.sokak~|7.sokak~|8.sokak~|9.sokak~|Atatürk%|Bahçeli~|Belediye@|Beşevler~|Blokevler~|Blokevler/1~|Cezaevi~|Dağdelen~|Demetevler~|Depolu~|Esenler@|Gazi Osman Paşa@|Genç Osman 1~|Genç Osman 2~|Güvercin~|Hastane~|Hükümet@|Kanarya~|Kanuni@|Kanuni/1~|Kanuni/7~|Kanuni/8~|Karakol~|Karasu~|Malazgirt@|Mehmet Akif@|Mevcut~|Plevne~|Saka~|Sağlık~|Sağlık/1~|Sağlık/2~|Villalı~|Üçevler~|Üçevler/1~|İkizevler~|İncievler~|İtfaiye@
+89417	Çaydoğan Köyü	 Köy$
+89428	İbrahimhacılı Köyü	 Köy$
+80888	İnceşehir Mah.	101~|102.~|Aksu~|Alev~|Alpaslan@|Alpaslan/1~|Alpaslan/2~|Alpaslan/3~|Alpaslan/4~|Ardıç~|Ataç~|Ataç/1~|Gençlik-@|Hacı Ömer Deresi~|Kafkas@|Kamer_1~|Kazım Karabekir@|Kazım Karabekir/1~|Kelebek~|Kocatepe@|Kocatepe/1~|Kocatepe/4~|Kocatepe/5~|Kubbe~|Köknar-~|Murat Reis@|Mızrak~|Salkım-~|Sipahi~|Stadyum~|Tuğlu~|Tırtıl~|Ulubatlı~|Ulubatlı/1~|Yayla~|Yayla/2~|Çamlıca~|Çağlayan~|Çemberli~|Çınar~|İnce~
+89443	Şerefoğlu Köyü	 Köy$

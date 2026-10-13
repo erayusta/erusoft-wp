@@ -1,0 +1,70 @@
+158875	Akbaşak Mah.	Akbaşak=
+158877	Alakaya Mah.	Alakaya~|Alakaya/1~|Alakaya/10~|Alakaya/11~|Alakaya/11.1~|Alakaya/12~|Alakaya/13~|Alakaya/14~|Alakaya/15~|Alakaya/16~|Alakaya/17~|Alakaya/18~|Alakaya/19~|Alakaya/2~|Alakaya/20~|Alakaya/21~|Alakaya/3~|Alakaya/5~|Alakaya/6~|Alakaya/7~|Alakaya/8~|Alakaya/9~|Toprakseven=|Van Doğubayazıt.@
+158879	Alikelle Mah.	Alikelle/1~|Aşağı Küme/alikelle=|Yaykılıç=|Yeniyaka=|Yukarı Küme/alikelle~|Yukarı Küme/alikelle/1~|Yukarı Küme/alikelle/10~|Yukarı Küme/alikelle/11~|Yukarı Küme/alikelle/12~|Yukarı Küme/alikelle/13~|Yukarı Küme/alikelle/14~|Yukarı Küme/alikelle/15~|Yukarı Küme/alikelle/16~|Yukarı Küme/alikelle/17~|Yukarı Küme/alikelle/2~|Yukarı Küme/alikelle/3~|Yukarı Küme/alikelle/4~|Yukarı Küme/alikelle/5~|Yukarı Küme/alikelle/6~|Yukarı Küme/alikelle/7~|Yukarı Küme/alikelle/8~|Yukarı Küme/alikelle/9~
+158881	Altıyol Mah.	Altıyol=
+158895	Avcıbaşı Mah.	Avcıbaşı~|Avcıbaşı/2~|Avcıbaşı/3~|Avcıbaşı/4~|Avcıbaşı/5~|Avcıbaşı/6~|Avcıbaşı/7~|Avcıbaşı/8~|Sellik=|Suveren1~
+158897	Ayrancılar Mah.	Dere~|Dere/1~|Eski Köy=|Eski Köy/1~|Eski Köy/2~|Eski Köy/222=|Eski Köy/3~|Eski Köy/4~|Topya~|Topya/1~|Topya/10~|Topya/2~|Topya/3~|Topya/4~|Topya/5~|Van Doğubeyazıt@|Van Doğubeyazıt/100~|Yeni Köy=
+158885	Aşağıdikme Mah.	Aşağıdikme~|Aşağıdikme/1~|Aşağıdikme/10~|Aşağıdikme/11~|Aşağıdikme/12~|Aşağıdikme/2~|Aşağıdikme/3~|Aşağıdikme/4~|Aşağıdikme/5~|Aşağıdikme/6~|Aşağıdikme/7~|Aşağıdikme/8~|Aşağıdikme/9~|Emek~|Emek/1~|Gülyolu=|Yaykılıç=
+158887	Aşağıgülderen Mah.	Aşağıgülderen~|Aşağıgüldüren/1~|Aşağıgüldüren/10~|Aşağıgüldüren/11~|Aşağıgüldüren/12~|Aşağıgüldüren/2~|Aşağıgüldüren/3~|Aşağıgüldüren/4~|Aşağıgüldüren/5~|Aşağıgüldüren/6~|Aşağıgüldüren/7~|Aşağıgüldüren/8~|Aşağıgüldüren/9~|Dayanç~|Dayanç/1~|Dayanç/2~|Dayanç/3~|Dayanç/4~|Orta Mahalle=|Temrenli2~
+158889	Aşağıkuyucak Mah.	Büyük=|Küçük=|Van Doğubayazıt.@
+158891	Aşağımutlu Mah.	Aşağımutlu~|Aşağımutlu/1~|Aşağımutlu/2~|Aşağımutlu/3~|Aşağımutlu/4~|Aşağımutlu/5~|Aşağımutlu/6~
+158893	Aşağıyanıktaş Mah.	Aşağı Küme=|Kılavuz=|Yayla~|Yekekümbet~|Yukarı Küme~|Yukarı Küme/1~|Yukarı Küme/2~|Yukarı Küme/3~|Yukarı Küme/4~
+158883	Aşağıçanak Mah.	1.küme/aşağıçanak~|1.küme/aşağıçanak/1~|1.küme/aşağıçanak/2~|1.küme/aşağıçanak/3~|1.küme/aşağıçanak/4~|1.küme/aşağıçanak/5~|1.küme/aşağıçanak/6~|1.küme/aşağıçanak/7~|2.küme/aşağıçanak~|2.küme/aşağıçanak/1~|2.küme/aşağıçanak/2~
+158899	Başeğmez Mah.	1.küme/burçakalan1~|Alakaya/1~|Başeğmez=|Van Doğubayazıt.@
+80596	Beyazıt Mah.	120-~|131.~|132.~|133~|134.~|135.~|136.~|137.~|137./1~|137./2~|138.~|139.~|140.~|140./1~|141~|142.~|142./1~|142./2~|143.~|143./1~|144.~|144./1~|145.~|146.~|147~|148.~|149.~|Anıt Tepe=|Atatürk@|Atatürk/1~|Azerbaycan@|Azerbaycan-@|Açık Pazar@|Beyazıt/1~|Beyazıt/10~|Beyazıt/11~|Beyazıt/12~|Beyazıt/13~|Beyazıt/2~|Beyazıt/3~|Beyazıt/4~|Beyazıt/5~|Beyazıt/6~|Beyazıt/7~|Beyazıt/8~|Beyazıt/9~|Bilinmeyen 86~|Eski Çaldıran@|Esnaflar@|Fatih@|Fatih./1~|Ferit Melen@|Ferit Melen/1~|Hürriyet@|Karagöz@|Karakol@|Karakol/1~|Lise@|Lise/1~|Menderes@|Mithat Paşa@|Nahsen Badeli@|Tabya=|Tabya/1~|Tabya/2~|Vatan@|Çayır=|İlk Okul@|İnönü@|İsveç@
+158901	Beydoğan Mah.	Beydoğan~|Beydoğan/1~|Beydoğan/10~|Beydoğan/11~|Beydoğan/12~|Beydoğan/13~|Beydoğan/14~|Beydoğan/15~|Beydoğan/16~|Beydoğan/17~|Beydoğan/18~|Beydoğan/19~|Beydoğan/2~|Beydoğan/2/1~|Beydoğan/20~|Beydoğan/21~|Beydoğan/22~|Beydoğan/23~|Beydoğan/24~|Beydoğan/3~|Beydoğan/4~|Beydoğan/5~|Beydoğan/6~|Beydoğan/8~
+158903	Bezirhane Mah.	Altıyol/100~|Bezirhane=
+158907	Burçakalan Mah.	1.küme/burçakalan=|1.küme/burçakalan1~|2.küme/ Burçakalan=|3.küme/burçakalan=|3.küme/burçakalan/1~|3.küme/burçakalan/2~|Van Doğubayazıt.@
+158905	Buğulukaynak Mah.	Aşağı/kilimli=|Buğulukaynak=
+80597	Cumhuriyet Mah.	100.~|101~|102~|102/1~|103~|103/1~|103/2~|104~|104/1~|105~|105/1~|105/2~|105/3~|106~|106/3~|106/4~|106/5~|106/6~|107~|107/1~|108~|108/1~|108/2~|108/3~|108/4~|108/5~|109~|109/1~|109/2~|109/3~|109/4~|Azerbaycan@|Cumhuriyet/2~|Turgut Özal@|Van/1~|İlk Okul@
+158913	Demircik Mah.	1.küme/burçakalan=|Demircik=|Kum Ocağı=|Kum Ocağı1~|Van Doğubayazıt.@
+158915	Direkli Mah.	Birinci=|Tescilsiz1~|Üçüncü=|İkinci=
+158917	Doyumalan Mah.	Doyumalan=|İncealan~
+158919	Erginler Mah.	Erginler~|Erginler/1~|Erginler/10~|Erginler/11~|Erginler/12~|Erginler/13~|Erginler/14~|Erginler/15~|Erginler/16~|Erginler/17~|Erginler/18~|Erginler/19~|Erginler/2~|Erginler/20~|Erginler/3~|Erginler/4~|Erginler/5~|Erginler/6~|Erginler/7~|Erginler/8~|Erginler/9~
+158921	Evciler Mah.	Evciler~|Evciler/1~|Evciler/10~|Evciler/11~|Evciler/12~|Evciler/13~|Evciler/14~|Evciler/15~|Evciler/16~|Evciler/2~|Evciler/3~|Evciler/4~|Evciler/5~|Evciler/6~|Evciler/7~|Evciler/8~|Evciler/9~
+80598	Fatih Sultan Mehmet Mah.	106~|106/1~|106/2~|107~|107/1~|107/2~|110.~|111.~|112.~|113~|114~|115~|116~|116/1~|117~|118~|118/1~|119~|119/1~|119/2~|119/3~|119/4~|119/5~|119/6~|142./1~|Ahmet İpek@|Ahmet İpek/1~|Azerbaycan@|Azerbaycan-@|Düzedere~|Düzedere/1~|Düzedere/2~|Düzedere/3~|Düzedere/4~|Fatih@|Fatih Sultan Mehmet/1~|Fatih./1~|Fatıh Sultan Mehmet/1~|Tabya/2~|Turgut Özal@|Yıldırım@|İlk Okul@
+158923	Gülyolu Mah.	Aşağıdikme/1~|Gülyolu=|Yücelen=
+158925	Güngören Mah.	Güngören~|Güngören/1~|Güngören/10~|Güngören/11~|Güngören/12~|Güngören/13~|Güngören/2~|Güngören/3~|Güngören/4~|Güngören/4.1~|Güngören/5~|Güngören/6~|Güngören/7~|Güngören/8~|Güngören/9~|Zülfibulak/9~|Çay~|Çay/1~|Çay/2~|Çay/3~|Çay/4~
+158927	Hangediği Mah.	Afet Evleri~|Afet Evleri/1~|Afet Evleri/2~|Afet Evleri/3~|Afet Evleri/6~|Atilla İlhan=|Atilla İlhan/1~|Atilla İlhan/10~|Atilla İlhan/11~|Atilla İlhan/12~|Atilla İlhan/2~|Atilla İlhan/3~|Atilla İlhan/4~|Atilla İlhan/5~|Atilla İlhan/6~|Atilla İlhan/7~|Atilla İlhan/8~|Atilla İlhan/9~|Yukarı=|Öğretmenler=|Öğretmenler1~
+158929	Hanköy Mah.	Hanköy~|Hanköy/1~|Hanköy/10~|Hanköy/11~|Hanköy/12~|Hanköy/13~|Hanköy/14~|Hanköy/15~|Hanköy/16~|Hanköy/17~|Hanköy/18~|Hanköy/19~|Hanköy/2~|Hanköy/20~|Hanköy/21~|Hanköy/3~|Hanköy/4~|Hanköy/5~|Hanköy/6~|Hanköy/7~|Hanköy/8~|Hanköy/9~|Oruçlu~|Van Doğubayazıt.@
+158935	Kalkandelen Mah.	Hanköy~|Kalkandelen~|Kalkandelen/1~|Kalkandelen/1.1~|Kalkandelen/10~|Kalkandelen/11~|Kalkandelen/12~|Kalkandelen/2~|Kalkandelen/3~|Kalkandelen/4~|Kalkandelen/5~|Kalkandelen/6~|Kalkandelen/7~|Kalkandelen/8~|Kalkandelen/9~|Oruçlu~|Oruçlu/1~|Oruçlu/10~|Oruçlu/11~|Oruçlu/12~|Oruçlu/2~|Oruçlu/3~|Oruçlu/4~|Oruçlu/5~|Oruçlu/6~|Oruçlu/7~|Oruçlu/8~|Oruçlu/9~|Van Doğubayazıt.@|Van Doğubayazıt/1=
+158937	Karadulda Mah.	Karadulda~|Karadulda/1~|Karadulda/10~|Karadulda/11~|Karadulda/12~|Karadulda/13~|Karadulda/14~|Karadulda/15~|Karadulda/16~|Karadulda/17~|Karadulda/18~|Karadulda/19~|Karadulda/2~|Karadulda/20~|Karadulda/21~|Karadulda/3~|Karadulda/4~|Karadulda/5~|Karadulda/6~|Karadulda/7~|Karadulda/8~|Karadulda/9~|Tekesuyu~|Tekesuyu/1~|Tekesuyu/2~|Tekesuyu/3~|Tekesuyu/4~|Tekesuyu/5~|Tekesuyu/6~|Tekesuyu/7~|Yaykılıç=
+158939	Kaşım Mah.	1.küme.=|2.küme.=|Dayanç~|Temrenli1~|Temrenli11~
+158943	Kilimli Mah.	Aşağı/kilimli=|Yukarı/kilimli=
+158945	Koçovası Mah.	Altıyol=|Koçovası~|Koçovası/1~|Koçovası/10~|Koçovası/2~|Koçovası/3~|Koçovası/4~|Koçovası/5~|Koçovası/6~|Koçovası/7~|Koçovası/8~|Koçovası/9~
+158947	Kurtoğlan Mah.	Avcıbaşı/3~|Kurtoğlan=|Suveren=|Suveren1~
+158949	Kuskunkıran Mah.	Kavutlu~|Kavutlu/1~|Kavutlu/2~|Kavutlu/3~|Kavutlu/4~|Kavutlu/5~|Kavutlu/6~|Kavutlu/7~|Kuskunkıran~|Kuskunkıran/1~|Kuskunkıran/10~|Kuskunkıran/11~|Kuskunkıran/12~|Kuskunkıran/13~|Kuskunkıran/2~|Kuskunkıran/3~|Kuskunkıran/4~|Kuskunkıran/5~|Kuskunkıran/6~|Kuskunkıran/7~|Kuskunkıran/8~|Kuskunkıran/9~|Seyitova~|Seyitova/1~|Seyitova/2~|Yatırlı=
+158941	Kılavuz Mah.	Kılavuz=
+158951	Osmanlı Mah.	Atyuran=|Osmanlı~|Osmanlı/1~|Osmanlı/10~|Osmanlı/11~|Osmanlı/12~|Osmanlı/13~|Osmanlı/14~|Osmanlı/15~|Osmanlı/16~|Osmanlı/17~|Osmanlı/18~|Osmanlı/19~|Osmanlı/2~|Osmanlı/20~|Osmanlı/21~|Osmanlı/3~|Osmanlı/4~|Osmanlı/5~|Osmanlı/6~|Osmanlı/7~|Osmanlı/8~|Osmanlı/9~
+105436	Recep Tayyip Erdoğan Mah.	120~|Abdulvahap Arvas@|Abdülbakiyıldırım@|Abdülbakiyıldırım/1~|Abdülbakiyıldırım/2~|Ahmedi Hani@|Ahmet Altunbaş@|Ahmet Haşimi@|Azerbaycan@|Azerbaycan-@|Bilinmeyen 46~|Burhan Kayatürk@|Burhan Kayatürk/1~|Burhan Kayatürk/2~|Burhan Kayatürk/3~|Burhan Kayatürk/6~|Burhan Kayatürk/7~|Burhan Kayatürk/8~|Burhan Kayatürk1~|Burhan Kayatürk3~|Bülent Ecevit@|Bülent Ecevit/1~|Cafer Sarılı@|Doç.dr.hüseyin Çelik@|Doç.dr.hüseyin Çelik/1~|Doğubeyazıt/1~|Doğubeyazıt/2~|Doğubeyazıt/3~|Doğubeyazıt/4~|Doğubeyazıt/5~|Doğubeyazıt/6~|Esat Yıldırım@|Esat Yıldırım/1~|Fatih Çiftçi@|Ferman@|Ferman/1~|Ferman/2~|Ferman/3~|Fesih Tamince@|Fesih Tamince/1~|Gülşen Orhan@|Haydaryıldırım@|Haydaryıldırım/1~|Huri Kayatürk~|Huri Kayatürk/1~|Huri Kayatürk/2~|Kalkandelen / 23~|Kalkandelen~|Kazım Karabekir@|Kazım Karabekir-@|Kazım Karabekir/recep Tayyip Erdoğan Mahallesi/2~|Kerem Altun~|Kerem Altun/1~|M.faruk Binici@|Mecit Aladağ@|Mecit Aladağ/1~|Mecit Aladağ/2~|Muhtar Nizamettin Taş@|Muhtar İbrahim Koç@|Mustafa Bilici@|Muzaffer Yıldırım@|Muzaffer Yıldırım/1~|Muzaffer Yıldırım/2~|Muzaffer Yıldırım/5~|Muzaffer Yıldırım/6~|Nevzat Göksü@|O.şefik Güldibi@|Orhan Gazi~|Osman Gazi~|Otogar@|Rte Blnmyn 2~|Rte Blnmyn 6~|Rte Blnmyn 8~|Rıdvan Aydın@|Sellik /6~|Sellik Bilinmeyen 85~|Sellik Bilinmeyen 86~|Taslak//14~|Taslak//15~|Taslak//16~|Taslak//17~|Taslak/13~|Tendürek~|Türkmenoğlu~|Van Doğubayazıt.@|Van/recep Tayyip Erdoğa/3~|Van/recep Tayyip Erdoğan/1~|Van/recep Tayyip Erdoğan/2~|Van/recep Tayyip Erdoğan/3~|Van/recep Tayyip Erdoğan/3.~|Van/recep Tayyip Erdoğan/3/1~|Van/recep Tayyip Erdoğan/5.~|Van/recep Tayyip Erdoğan/5./1~|Vedat Gül@|Yemen Bayrak@|Yemen Bayrak/1~|Yıldırım Beyazıt~|Yıldırım Beyazıt/2~|Yıldırım Beyazıt/3~|Ünal Çaycı@|İbrahim Dündar@|İdris Ayaz@
+158953	Salahane Mah.	Salahane~|Salahane/1~|Salahane/10~|Salahane/11~|Salahane/12~|Salahane/13~|Salahane/14~|Salahane/15~|Salahane/16~|Salahane/17~|Salahane/18~|Salahane/19~|Salahane/2~|Salahane/20~|Salahane/21~|Salahane/3~|Salahane/4~|Salahane/5~|Salahane/6~|Salahane/7~|Salahane/8~|Salahane/9~
+158957	Sarıharman Mah.	Cemalettin=|Sarıharman=
+158955	Sarıçimen Mah.	Aşağı=|Osmanlı~|Yukarı=|Yukarı/1~|Yukarı/2~|Yukarı/3~|Yukarı/4~|Yukarı/5~|Yukarı/6~|Yukarı/7~|Yukarı/8~
+158959	Sellik Mah.	Sellik=
+158961	Serpmetaş Mah.	Serpmetaş=
+158963	Soğuksu Mah.	Gülizar=|Gülizar1=|Soğuksu=|Uzunyol=|Uzunyol1=|Uzunyol2~|Uzunyol3~|Van Doğubayazıt.@
+158965	Sungur Mah.	Sungur=
+158967	Tekindere Mah.	Aşağı Küme/2=|Kandil=|Tescilsiz=|Yukarı Küme/9=
+158969	Temrenli Mah.	Temrenli=|Temrenli1~|Temrenli11~|Temrenli2~
+158971	Toprakseven Mah.	Toprakseven=
+158973	Umuttepe Mah.	Umuttepe=|Umuttepe1=|Umuttepe12~|Umuttepe2~|Umuttepe3~
+158977	Yassıtepe Mah.	Yassıtepe=
+80600	Yavuz Selim Mah.	Anıt Tepe=|Anıt Tepe/1~|Anıt Tepe/2~|Beyazıt/13~|Beyazıt/8~|Eski Çaldıran@|Taşlık=|Taşlık/1~|Taşlık/2~|Yılan Çeşmesi=|Çayır=
+158979	Yaykılıç Mah.	Yaykılıç=
+158975	Yağıbasan Mah.	Altıyol=|Altıyol/100~|Yağıbasan=
+158981	Yeniyaka Mah.	Alikelle/1~|Yeniyaka=|Yukarı Küme/alikelle/3~|Zülfibulak~
+158985	Yukarıdikme Mah.	Beydoğan/24~|Yukarıdikme=
+158987	Yukarıgülderen Mah.	1.küme/ismailbaba/1~|Aşağı Mahalle=|Gül Mahallesi=|Orta Mahalle=|Sungur=|Yukarı Mahalle=|Yukarı Mahalle1~|Yukarıdikme=
+158989	Yukarıkuyucak Mah.	Atyuran=|Umuttepe3~|Yukarıkuyucak=
+158991	Yukarımutlu Mah.	Yukarımutlu=
+158993	Yukarısağmallı Mah.	Eski=|Yeni/yukarısağmallı=|Yukarısağmallı=|Yukarısağmallı/1=|Yukarısağmallı/2~
+158995	Yukarıyanıktaş Mah.	1.küme=|2.küme=|Aşağı.=|Göl=|Hıtırmeteş Gölü=|Kavutlu~|Kuskunkıran~|Yatırlı=|Yukarı.=
+158983	Yukarıçanak Mah.	Sarıharman=|Yukarıçanak=
+158997	Yuvacık Mah.	Yuvacık~|Yuvacık/1~|Yuvacık/10~|Yuvacık/11~|Yuvacık/2~|Yuvacık/4~|Yuvacık/5~|Yuvacık/6~|Yuvacık/7~|Yuvacık/8~|Yuvacık/9~
+158999	Yücelen Mah.	Afat Evleri=|Afat Evleri Yk.çilli=|Beydoğan/24~|Eski Köy Yk.çilli=|Eski Köy.=|Yeni=|Yücelen=|Üç Evler=
+159001	Zülfibulak Mah.	Zülfibulak~|Zülfibulak/1~|Zülfibulak/10~|Zülfibulak/11~|Zülfibulak/12~|Zülfibulak/13~|Zülfibulak/14~|Zülfibulak/15~|Zülfibulak/16~|Zülfibulak/17~|Zülfibulak/18~|Zülfibulak/19~|Zülfibulak/2~|Zülfibulak/20~|Zülfibulak/21~|Zülfibulak/22~|Zülfibulak/23~|Zülfibulak/24~|Zülfibulak/25~|Zülfibulak/27~|Zülfibulak/3~|Zülfibulak/4~|Zülfibulak/5~|Zülfibulak/6~|Zülfibulak/7~|Zülfibulak/8~|Zülfibulak/9~
+158909	Çayırköy Mah.	1.küme/ Çayırköy=|2.küme/çayırköy=|3.küme/çayırköy=|4.küme/çayırköy=
+158911	Çubuklu Mah.	Aşağı/çubuklu=|Aşağı/çubuklu/1~|Aşağı/çubuklu/11~|Aşağı/çubuklu/12~|Aşağı/çubuklu/2~|Aşağı/çubuklu/3~|Aşağı/çubuklu/4~|Aşağı/çubuklu/5~|Aşağı/çubuklu/7~|Aşağı/çubuklu/9~|Eski/çubuklu=|Eski/çubuklu/1~|Eski/çubuklu/2~|Eski/çubuklu/3~|Eski/çubuklu/4~|Eski/çubuklu/5~|Güngören~|Güngören/2~|Sungur=|Temrenli1~|Yol Altı=|Yol Üstü-=|Yukarı/çubuklu=
+158931	İncealan Mah.	1.küme/aşağıçanak/6~|İncealan~|İncealan/1~|İncealan/10~|İncealan/11~|İncealan/12~|İncealan/13~|İncealan/14~|İncealan/15~|İncealan/16~|İncealan/17~|İncealan/18~|İncealan/3~|İncealan/4~|İncealan/5~|İncealan/6~|İncealan/7~|İncealan/8~|İncealan/9~
+158933	İsmailbaba Mah.	1.küme/ismailbaba=|1.küme/ismailbaba/1~|2.küme/ismailbaba=
+80599	Şehit Jandarma Binbaşı Kıvanç Cesur Mah.	Azerbaycan@|Doğu Bayazıt Yolu 1.km=|Doğubeyazıt/1001~|Doğubeyazıt/1002~|Doğubeyazıt/1003~|Eryıldırım~|Eryıldırım/1~|Eryıldırım/10~|Eryıldırım/11~|Eryıldırım/12~|Eryıldırım/13~|Eryıldırım/14~|Eryıldırım/15~|Eryıldırım/16~|Eryıldırım/17~|Eryıldırım/18~|Eryıldırım/19~|Eryıldırım/2~|Eryıldırım/3~|Eryıldırım/4~|Eryıldırım/5~|Eryıldırım/6~|Eryıldırım/7~|Eryıldırım/8~|Eryıldırım/9~|Eski Yerleşim=|Eski Yerleşim/1~|Eski Çaldıran@|Eski Çaldıran/1~|Eski Çaldıran/2~|Eski Çaldıran/2001~|Taşlık=|Vali Münir Karaloğlu@|Vali Münir Karaloğlu/1~|Van Doğubayazıt 1.@|Yibo Doğu Bayazıt Yolu 3. Km/1~|Yibo Doğu Bayazıt Yolu 3. Km/2~|Yibo Doğu Bayazıt Yolu 3. Km/3~|Yibo Doğu Bayazıt Yolu 3. Km/4~|Yibo Doğu Bayazıt Yolu 3. Km/5~|Yibo Doğu Bayazıt Yolu 3. Km/6~|Yibo Doğu Bayazıt Yolu 3. Km/7~|Yibo Doğu Bayazıt Yolu 3. Km/8~|Yibo Doğu Bayazıt Yolu 3. Km/9~|Yumurta Tepe=|Yumurta Tepe/1~|Yılan Çeşmesi=|İlçe Tabur=

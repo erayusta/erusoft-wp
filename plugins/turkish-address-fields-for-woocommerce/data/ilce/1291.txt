@@ -1,0 +1,111 @@
+147481	Adaören Mah.	Karadayı Çiftliği~|Merkez~
+147483	Akbaşlar Mah.	Akbaşlar~|Dursunbey Osb 1 Nolu~|Dursunbey Osb 2 Nolu~|Dursunbey Osb 3 Nolu~|Dursunbey Osb 4 Nolu~|Dursunbey Osb 5 Nolu~
+147485	Akyayla Mah.	Akyayla~
+147667	Akçagüney Mah.	Akçagüney~
+147595	Alagüney Mah.	Alagüney~
+147487	Alaçam Mah.	Alaçam~
+147489	Arıklar Mah.	Arıklar~
+147607	Ayvacık Mah.	Karacaağaç~|Kayacık~|Köşeyeri~|Kılca~
+147495	Aziziye Mah.	Aziziye~
+147491	Aşağımusalar Mah.	Aşağımusalar~
+147493	Aşağıyağcılar Mah.	Beyel Deresi~|Merkez~
+147497	Bayıryüzügüney Mah.	Bayıryüzügüney~
+147637	Beyce Mah.	Beyce~
+147499	Beyel Mah.	Derdemanlar~|Merkez~
+147501	Boyalıca Mah.	Boyalıca~
+10444	Bozyokuş Mah.	Akın~|Asım Yücel~|Ayvazağa~|Bahar~|Bahçeli Evler@|Bal~|Balıkesir@|Barana~|Başaran~|Boncukçu Çıkmazı~|Cebiroğlu~|Cenk~|Cevizli~|Cumhuriyet@|Eminbey@|Ergün~|Genç Ağa~|Güven~|Hacı Alibey~|Hacı İlyas~|Hal~|Halhalı~|Haznedar Çıkmazı~|Hilal~|Hürriyet~|Kalaycı Çıkmazı~|Kandemir~|Keçeci~|Kocataş~|Korkmaz~|Mehmet Ekinci~|Nevzat Karaer~|Orman~|Portakal~|Raif Eriş@|Sami Ustabaş~|Sivri Saz~|Sosyal Meskenler~|Tabak~|Tamirhaneler~|Tekeli~|Yabacı Çıkmazı~|Zihni Özger@|Zübeyde Hanım@|Çetlemik Çakılı~|İkbal~|İnceoğlu~|İsmail Dayı@|İzmirli~|İzmirli Çıkmazı~|Şekerci Çıkmazı~
+147503	Büyükakçaalan Mah.	Girencik~|Hastabaşlar~|Karaçaltı~|Merkez~|Rasimler~|Yumruklu~
+10445	Cebeci Mah.	Ahmet Refik Paşa~|Baloğlu Çıkmazı~|Bardak Hane~|Başoğlu Çıkmazı~|Dede~|Eminoğlu Çıkmazı~|F.rüştü Zorlu@|Güngörmez~|Kayserili Çıkmazı~|Kemal Kıymaz~|Kocaeli Çıkmazı~|Kökten~|M.akif Ersoy~|Meleşoğlu~|Molla~|Namık Kemal~|Panayır~|Park~|Pınar~|Sanayiciler~|Santral~|Sarmaşık~|Saz Kanal~|Saz~|Seçal~|Sipahi~|Subaşı@|Suçıktı%|Tahir Tural@|Taşköprü Yolu@|Taşkıran~|Yaren~|Yemen~|Yeni Çarşı@|Yeni Çarşı Myd.|Çarşı@|Çağlayan~|Şekerağa~
+147669	Dada Mah.	Büyük~|Küçük~|İstasyon~
+147517	Delice Mah.	Alanyayla~|Fıran~|Kiraz~|Merkez~
+147601	Demirciler Mah.	Demirciler~
+147603	Dereköy Mah.	Dereköy~
+147515	Değirmenciler Mah.	Değirmenciler~
+147605	Doğancılar Mah.	Doğancılar~
+147519	Durabeyler Mah.	Durabeyler~
+147641	Ericek Mah.	Ericek~
+10448	Ferah Mah.	Adil Özer~|Adnan Menderes%|Aslantaş~|Bademli~|Balatlı~|Bağlarbaşı~|Başak~|Bekçitaşı~|Burmalı Pınar~|Destan~|Durgut~|Elif~|Emre~|Ergenç~|Esen~|F.rüştü Zorlu@|Ferahevler@|Gonca~|Güneş~|Güvercinli~|Hacı Sıkıcı~|Hafız Ahmet~|Hasan Polatkan@|Hayat~|Huzur~|Ilgaz~|Kabakçı~|Kalem~|Kalender~|Karaveli~|Karıncalı~|Kekik~|Koca Hasan~|Kocadağ~|Kuyucu~|Körükçü~|Kılıç~|Kırlangıç~|Kızılöz Yolu~|Lale~|Mehrioğlu~|Meltem~|Mevlana~|Molla Tahir~|Muharrem Hayır~|Nergis~|Saraç~|Sarı Hoca~|Suçıktı%|Tarım~|Taşpazar~|Tepecik~|Toki~|Tomurcuk~|Tütün~|Ufuk~|Yemişli~|Yunus Emre~|Yıldız~|Zambak~|Çalışkan~|Çardaklı~|Çağla~|Çevre Yolu@|Çiğdem~|Çınar~|Üzümlü~|Şeref~
+147521	Gazellidere Mah.	Gazellidere~
+147523	Göbül Mah.	Davudlar~|Merkez~
+147593	Gökçedağ Mah.	Akçalar~|Kaynarca~|Merkez~
+147525	Gökçepınar Mah.	Gökçepınar~
+147643	Gölcük Mah.	Gölcük~
+147671	Gürleyen Mah.	Gürleyen~
+147527	Güğü Mah.	Güğü~
+147529	Hacıahmetpınarı Mah.	Hacıahmetpınarı~
+147531	Hacılar Mah.	Merkez~|İskan~
+147533	Hacıömerler Mah.	Kayaoğlu Yol Şantiyesi~|Merkez~
+147645	Hamzacık Mah.	Hamzacık~
+147535	Hasanlar Mah.	Küçük~|Merkez~
+147609	Hindikler Mah.	Hindikler~
+147537	Hondular Mah.	Hondular~|Kiraz Köy~|Sivri Tuzla~|Çam Tarla~
+147611	Hopanlar Mah.	Hopanlar~
+147539	Işıklar Mah.	Işıklar~
+147613	Karagöz Mah.	Karagöz~
+147647	Karakaya Mah.	Karakaya~
+147545	Karamanlar Mah.	Karamanlar~
+147547	Karapınar Mah.	Karapınar~
+147615	Kardeşler Mah.	Camialan~|Merkez~
+147549	Karyağmaz Mah.	Karyağmaz~
+147635	Kavacık Mah.	Kavacık B.m~
+147551	Kavakköy Mah.	Kavakköy~
+147617	Kazimiye Mah.	Kocaalan~|Merkez~|Tortuman~
+147665	Kireç Mah.	Kireç B.m~
+147673	Kumlu Mah.	Kumlu~
+147557	Kurtlar Mah.	Kurtlar~
+147619	Kuzköy Mah.	Kuzköy~
+147621	Küçükakçaalan Mah.	Küçükakçaalan~
+147675	Küçükler Mah.	Aktepe~|Karşı~|Orta~|Yukarı~|İstasyon~
+147553	Kızılcadere Mah.	Mahallar~|Merkez~
+147555	Kızılöz Mah.	Kızılöz~
+147649	Mahmudiye Mah.	Mahmudiye~
+147623	Mahmutça Mah.	Mahmutça~
+147651	Meydançayırı Mah.	Karşıyaka~|Merkez~
+10450	Mollaoğlu Mah.	Ahmet Acar~|Akdağ~|Bakır~|Balıkesir@|Bağlar Aralığı~|Bağlarbaşı~|Bulut~|Ceyhan~|Dikyol~|Eczalı~|Ferah Evler@|Gülmez~|Helvacılar~|Kireç~|Kolukısa~|Köseler Çıkmazı~|Kösten~|Kızpınar~|Kızılöz Yolu~|Leylak~|Menekşe~|Molla~|Tavşanlı~|Topatılan~|Tosun~|Zahit Ongun~|Zorlu~|Zübeyde Hanım@|Çevre Yolu@|İmam Hatip@|İpekçi~
+147653	Mıcırlar Mah.	Mıcırlar~
+147677	Naipler Mah.	Eski Köy~|Merkez~
+147655	Odaköy Mah.	Alanbaşı~|Maden Ocağı~|Merkez~
+147559	Osmaniye Mah.	Osmaniye~
+147627	Poyracık Mah.	Poyracık~
+147561	Ramazanlar Mah.	Aşağı~|Yukarı~
+147563	Resüller Mah.	Resüller~
+147565	Reşadiye Mah.	Reşadiye~
+147571	Sakızköy Mah.	Sakızköy~
+147679	Sarnıçköy Mah.	Sarnıçköy~
+147629	Sarısipahiler Mah.	Sarısipahiler~
+147567	Saçayak Mah.	Alibeyler~|Karayörük~|Merkez~
+147569	Sağırlar Mah.	Akçaalan~|Aşağı~|Gonarı~|Koca Konduk~|Yukarı~|Öteyaka~
+147681	Sebiller Mah.	Sebiller~
+147573	Selimağa Mah.	Baharkaya~|Küçük Asarlık~|Merkez~|İstasyon~
+147575	Sinderler Mah.	Balca~|Kocamezar~|Kırbaşharman~|Merkez~|İstasyon~
+147657	Süleler Mah.	Maden Ocağı~|Süleler~
+147579	Tafak Mah.	Kılıklar~|Merkez~|Yumuşaklar~
+147581	Taşkesiği Mah.	Hangedik~|Kızılorman~|Orta~|Çakmaklı Kümesi~|Ümmet Çiftliği~|İskan~
+147683	Taşpınar Mah.	Taşpınar~
+147583	Tepeköy Mah.	Tepeköy~
+147631	Tezlik Mah.	Kazankuzu~|Merkez~
+147585	Turnacık Mah.	Turnacık~
+147661	Umurlar Mah.	Umurlar~
+10452	Vakıf Mah.	Ahmet Ağa~|Alacatlı Rasim~|Alipaşa~|Bahçeli Evler@|Ersoy~|Filiz~|Kiraz~|Kuyumcu Tahir Ağa~|Odabaşı~|Papatya Çıkmazı~|Raif Eriş@|Sanayi@|Yonca~|Şahinoğlu~|Şakşak~
+147663	Veliler Mah.	Veliler~
+147587	Yassıören Mah.	Yassıören~
+147589	Yukarımusalar Mah.	Gölcük~|Hayvan Barınakları~|Karşıyaka~|Mezar~|Yukarı~
+147591	Yukarıyağcılar Mah.	Gölcük~|Merkez~
+147633	Yunuslar Mah.	Yunuslar~
+10446	Çakmak Mah.	1 Nolu~|10 Nolu~|11 Nolu~|12 Nolu~|13 Nolu~|14 Nolu~|15 Nolu~|16 Nolu~|17 Nolu~|18 Nolu~|19 Nolu~|2 Nolu~|20 Nolu~|21 Nolu~|22 Nolu~|23 Nolu~|24~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|9 Nolu~|Ali Osman Efe~|Bahçeler~|Baltacı~|Bayban Mevkii Kümesi=|Bayoğlu Geçidi~|Bayoğlu~|Biltekin~|Bozyer=|Bulgurcu Çıkmazı~|Dar~|Demirciler@|Eski Hükümet@|Hacı Yusuf Yarma~|Hal~|Halil Sincan~|Kahvecioğlu~|Karapınar~|Keskinoğlu~|Kılıçoğlu~|Kızıltepe=|Mehmet Elmacı~|Nezli Mevkii Kümesi=|Nuri Özer~|Pazar Yeri Myd.|Raif Eriş@|Sevincelik Mevkii Kümesi=|Sevincelik~|Sülmen~|Yağcı Çıkmazı~|Çamcı Çıkmazı~|Çeviren~|Özer~
+147639	Çakırca Mah.	Maden Ocağı~|Çakırca~
+147597	Çaltıcak Mah.	Çaltıcak~
+147599	Çamharman Mah.	Çamharman~
+147505	Çamköy Mah.	Çamköy~
+147507	Çanakçı Mah.	Adayakası~|Değirmendere~|Merkez~|Pelçik~
+147509	Çatalçam Mah.	Çatalçam~
+147511	Çelikler Mah.	Çelikler~|Örülütaş~
+10447	Çiftçi Mah.	Bahçeler Aralığı~|Değirmenler~|Ferizler Ütkür=|Güneyli Çıkmazı~|Hasan Paşa~|Kanar~|Karanfil~|Kaya~|Keresteciler@|Keskin~|Meleşoğlu~|Mezar Aralığı 1~|Mezar Aralığı 2~|Meşe Kent=|Su Çıktı Kuyu Alanı=|Subaşı@|Suçıktı Küme Evleri=|Tektepe~|Çiftçiler~|Çınarlı Pınar Kal=|İnci Çıkmazı~
+147513	Çınarköy Mah.	Merkez~|Sağırlar~|Çerkezler~
+147625	Örenköy Mah.	Örenköy~
+10451	Üçeylül Mah.	Ahmet Yarma~|Ateşbahar~|Avcı~|B.kesir Yolu Yeşil Kent Kümesi=|Balıkesir@|Başak~|Başaran~|Budak~|Bülbül~|Cevher~|Dayı~|Dilaver~|Elmas~|Esentepe=|Fatih~|Fuat Ardıç~|Gül~|Güçlü@|Hacı Sadullah~|Hafız Faik~|Işık~|Karaca~|Kasım~|Katıtaş~|Kaymak~|Kayın~|Konyalı~|Koparan~|Küçükler~|Kızpınar~|Kızılöz Yolu~|Mehmet Kalkmaz~|Meşe~|Muharrem Avcı~|Mutlu~|Onat~|Oral~|Poyraz~|Rahmi Efe~|Sabahattin Göndür~|Sarıgül~|Savur~|Sedirkent Sitesi=|Seçkin~|Sümbül~|Tıngıroğlu~|Yahya Çavuş~|Yakut~|Yandere~|Zümrüt~|Çaltıcak~|Çalıköy=|Çalım~|Çayır~|Çevre Yolu@|Çukurharman=|Özdemir~|Ütkür~|İbrahim Efendi~|İmamhatip@
+147541	İrfaniye Mah.	İrfaniye~
+147543	İsmailler Mah.	Aşağı~|Merkez~|Çukurköy~
+10449	İstasyon Mah.	Arif~|Cingöz~|Dursunbey İstasyon@|Fidanlık~|Gafur Mıcırlar~|Güllü~|Kovanlık=|Köprü~|Küçük~|Mericek=|Mezarlık~|Palamut~|Selvi~|Su Deposu~|Tekedere Yolu~|Tepe~|Çam~|İlker~
+147659	Şabanlar Mah.	Şabanlar~
+147577	Şenköy Mah.	Şenköy~

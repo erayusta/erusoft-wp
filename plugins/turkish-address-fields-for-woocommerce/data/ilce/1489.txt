@@ -1,0 +1,60 @@
+52315	4 Eylül Mah.	233.~|234.~|235.~|236.~|237.~|238.~|239.~|240.~|241.~|242~|244~|246.~|247~|250.~|251.~|252.~|253.~|254.~|255.~|256.~|257~|258.~|259.~|260~|261.~|262.~|263.~|265.~|266.~|267.~|268.~|270.~|274.~|275.~|276.~|277.~|278.~|279.~|280.~|281.~|283.~|284.~|286.~|287.~|288.~|291.~|294.~|295.~|296.~|297.~|298.~|299.~|300.~|301.~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|310.~|311.~|312.~|313.~|317.~|318.~|319.~|320.~|321.~|322.~|323.~|324.~|325.~|326.~|327.~|328.~|329.~|330.~|331.~|332.~|333.~|334.~|335.~|336.~|337.~|338.~|339.~|340.~|341.~|342.~|343.~|344.~|345.~|346.~|347.~|348.~|349.~|Adil Burşuk Efe@|Ahi Evran@|Akasya~|Alo Efe~|Atatürk%|Avaroğlu~|Barbaros@|Cumhuriyet@|Damla~|Derya~|Dr.nafiz Körez@|Dr.sadık Ahmet@|Ethem Tanburacı~|Gonca~|Gül~|Halil Hafız~|Hoca Seyfettin@|Huzur~|Işık~|Kazım Karabekir@|Kurtuluş@|Leylak~|M.akif Ersoy@|Mahmut Dede@|Manolya~|Mehmet Halıcı~|Mehmet Hotalı~|Mehmet Keleşoğlu~|Mehmet Şevket Palanduz~|Mehtap~|Menekşe~|Menteşe Kuyu@|Mercan~|Mevlana@|Nalçacı Dede~|Nergiz~|Osman Gazi@|Oğuzhan@|Papatya~|Salkım~|Selver Hatun~|Sümbül~|Tabduk Emre@|Turgut Özal%|Y.sultan Selim@|Yabaayak@|Yaren~|Yunus Emre@|Zambak~|Zümrüt~|Çiğdem~|İsmail Şadan@|Şah Süleyman@|Şehit Yaşar Öz~|Şehitler@|Şht.ahmet Akdeniz@|Şht.durmuş Güçlü@|Şht.mehmet Ali Karaduman@|Şht.mehmet Sarı@|Şht.mehmet Topçuoğlu@
+154683	Ahmetli Mah.	Hacımahmutlu~|Merkez~
+52309	Akgün Mah.	152.~|27.~|35~|47.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|61.~|62.~|63~|64~|65.~|66.~|67.~|68~|69~|70.~|71.~|72.~|73.~|74.~|75.~|76.~|77.~|78.~|79.~|80.~|81.~|82.~|83.~|84.~|85.~|86.~|87.~|90.~|92.~|94.~|95.~|96.~|97.~|Abdurrahim Özer~|Adnan Menderes Myd.|Ahmet Atay~|Billur~|Defne~|Divlit@|Essanoğlu@|F.sultan Mehmet@|Fevzi Çakmak@|K.sultan Süleyman@|Karataş~|Mustafa Sapçı~|Nine Hatun@|Piri Reis@|Tuna~|Yunus Emre@|Yörükhasanların Halilağa~|Yıldırım Beyazıt@|Zafer~
+154689	Aktaş Mah.	Aktaş~|Havut Deresi~
+154693	Ayazören Mah.	Ayazören~
+154867	Ayvatlar Mah.	Ayvatlar~
+154697	Balıbey Mah.	Merkez~|Çolaklar~
+154707	Battalmustafa Mah.	Balcılar~|Pehlivanlar~
+154871	Bayramşah Mah.	Altıkapı~|Merkez~
+154703	Başıbüyük Mah.	Acemler~|Merkez~
+154713	Bebekli Mah.	Merkez~|Sarıaliler~
+52311	Bey Mah.	1.~|10.~|11.~|12.~|13~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|27.~|28.~|29.~|3.~|30.~|31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|39~|4.~|40.~|41.~|42.~|43.~|44.~|45.~|46.~|47.~|48.~|49.~|5.~|50.~|51.~|52.~|53.~|6.~|60.~|61.~|7.~|8.~|9.~|Acısu@|Adnan Menderes Myd.|Aşağıkuyu~|Emir Kaplıca@|Evliya Çelebi@|Genç Osman@|Hafız Ahmet~|Hamdullah@|Lale~|Nine Hatun@|Piri Reis@|Turgut Özal%|Yonca~|Yunus Emre@|Yörükhasanların Halilağa~|Şht.ahmet Akdeniz@|Şht.mehmet Topçuoğlu@|Şht.raşit Uzun@
+154719	Börtlüce Mah.	Merkez~
+52310	Camii Cedit Mah.	153.~|154.~|155~|156.~|157.~|158.~|168.~|170.~|172.~|173.~|174.~|175.~|176.~|177.~|178.~|179.~|181.~|182.~|183~|184~|185.~|186.~|Beş Ulalı~|Demirciler@|Ethem Polat~|F.sultan Mehmet@|Yunus Emre@|İsmail Tosun~|Şehitler@|Şehitrefik Aksoy@
+154737	Dereköy Mah.	Manaklar~|Merkez~|Yeni~
+154877	Emre Mah.	Emre~
+154743	Encekler Mah.	Encekler~
+154883	Erenbağı Mah.	Erenbağı~
+154745	Eroğlu Mah.	Aşağıcokkallar~|Kayraklı~|Kopanlı~|Merkez~|Orta~|Seylanlar~|Tepe~
+154887	Esenyazı Mah.	Asar~|Esenyazı~
+154751	Evciler Mah.	Karakeçili~|Karıkoca~|Merkez~
+154757	Gökdere Mah.	Karabıyıklar~|Merkez~|Yayla~
+154645	Gökçeören Mah.	Abdülhamit~|Ahmet Yesevi~|Atatürk@|Atilla~|Barbaros@|Bayrak~|Cennetler~|Cumhuriyet Myd.|Dereçeşme~|Doğan~|Dumlupınar@|Fatih@|Fatih Sultan Mehmet~|Gülpınar~|Gündüz~|Hisar Çıkmazı~|Hürriyet@|Kanuni Sultan Süleyman@|Karaali Myd.|Kazım Karabekir~|Kemer~|Malazgirt~|Mareşal Fevzi Çakmak~|Mesir Çıkmazı=|Mevlana~|Mimar Sinan@|Mithat Paşa@|Mustafa Kemal Paşa~|Namık Kemal@|Necip Fazıl Kısakürek~|Okul~|Orhan Gazi~|Park@|Pınar@|Sarılar~|Sağlık~|Tekelioğlu=|Topallar=|Yaren@|Yavuz Sultan Selim@|Yunus Emre@|Yörükler~|Yıldırım Beyazıt@|Zafer~|Çakır~|Çamdibi@|Çankaya@|Çiğdem~|Çınar~|Ören@|İkiçeşmeler~|İn Deresi=|İrfan Çıkmazı=|İstasyon~|İstiklal@|Şafak~|Şht.cengiz Güngör Myd.
+154761	Gölbaşı Mah.	Ahatlar~|Gölbaşı~
+154765	Güvercinlik Mah.	Burgaz~|Merkez~|Sabitağa~
+154771	Hacıtufan Mah.	Hacıtufan~
+154775	Hamidiye Mah.	Hamidiye~
+154891	Hayalli Mah.	Hayalli~
+154787	Kalınharman Mah.	Kalınharman~
+154893	Karaoba Mah.	Karaoba~
+154793	Kavacık Mah.	Kavacık~
+154897	Kenger Mah.	Kenger~
+154797	Konurca Mah.	Hacıhurşitler~|Hacıümmetler~|Merkez~|Yayla~|İsmailbeyler~
+154803	Körez Mah.	Merkez~|Piralan~
+52312	Kızılkaya Mah.	126.~|155.~|157.~|158.~|159.~|160.~|161.~|162.~|163.~|164.~|165.~|166.~|Fatih Sultan Mehmet@|Gümüş~|Çağlar~|Şehit Refik Aksoy@
+154805	Narıncalıpıtrak Mah.	Narıncalıpıtrak~
+154809	Narıncalısüleyman Mah.	Narıncalısüleyman~
+154813	Ortaköy Mah.	Arapkepir~|Eskimalak~|Merkez~
+154817	Papuçlu Mah.	Papuçlu~
+154633	Sandal Mah.	1.çıkmaz~|Atatürk@|Balcı~|Barbaros~|Cumhuriyet Myd.|F.sultan Mehmet@|Sarnıç~|Yunus Emre@|İstiklal~
+154819	Saraçlar Mah.	Saraçlar~
+154821	Sarnıç Mah.	Sarnıç~
+52313	Seyitali Mah.	158.~|165.~|166.~|167~|181.~|182.~|183.~|184.~|185.~|186.~|187.~|188.~|189.~|190~|191.~|192.~|193.~|194.~|195.~|196.~|197.~|198~|199~|200.~|201.~|202~|203.~|204.~|205.~|206.~|207.~|208.~|209.~|210.~|211.~|212.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|220.~|221.~|222.~|223.~|224.~|225.~|226.~|227.~|228.~|229.~|230.~|231.~|232.~|233.~|386~|Aydın~|Bakacak@|Barış~|Buket~|Dr.nafiz Körez@|Ethem Polat~|Fulya~|Gargar=|Gülmezlerin Süleymanağa~|Irmak~|Kilistepe=|Mahmut Dede@|Mithat Paşa@|Muhsin Yazıcıoğlu@|Pamuk~|Plevne@|Pınar~|Sabuncu Kuyu=|Sazlık=|Selvi~|Yaprak~|Yunus Emre@|Çayır~|Çağlayan~|Şehitler@|Şht.refik Aksoy@
+154855	Söğütdere Mah.	Söğütdere~
+154835	Tatlıçeşme Mah.	Bektaşlar~|Cüceler~|Merkez~
+154913	Topuzdamları Mah.	Topuzdamları~
+154909	Yağbastı Mah.	Yağbastı~
+154841	Yeniköy Mah.	Yeniköy~
+154859	Yeşilyayla Mah.	Alakavak~|Hacıosmanlar~|Merkez~|Öksüzler~
+154849	Yurtbaşı Mah.	Yurtbaşı~
+52314	Zaferiye Mah.	100.~|101.~|102.~|103.~|104.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|117.~|118.~|119~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|136.~|137.~|138.~|139~|141.~|142.~|143.~|144.~|145.~|146.~|147.~|148.~|149.~|150.~|151.~|152.~|350.~|351.~|352.~|353.~|354.~|355~|356.~|357.~|358.~|359.~|360.~|361.~|362.~|363.~|364.~|365.~|366.~|367.~|368.~|369.~|370.~|371.~|372.~|373.~|374.~|375.~|376.~|377.~|378.~|379.~|380.~|381.~|382.~|383.~|384.~|385.~|388~|4 Eylül@|405~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|74.~|97.~|98.~|99.~|Abdurrahim Özer~|Akşemsettin@|Alparslan@|Ata~|Avukat Veli Bey~|Bahar~|Bedesten~|Beyler~|Burçakovası=|Dede Efendi~|Divlit@|Ertuğrul Gazi Myd.|Essanoğlu@|F.sultan Mehmet@|Gülistan~|Hacı Bayram Veli@|Karanfil~|Kayrak=|Kısmet~|Mimar Sinan@|Mustafa Sapçı~|Orkide~|Söğütçayı=|Sıla~|Zirve~|Çevik~|Çimen~|Çukurbağ~|İbni Sina@|İnci~|Şht.mehmet Sancar@|Şht.yüzbaşı Salih~
+154721	Çarıkballı Mah.	A.hacımehmetler~|Alihocalar~|Ballar~|Geyikdere~|Köseler~|Pamucak~|Saflar~|Taşkurak~|Y.hacımehmetler~|İkiçeşme~
+154727	Çarıkmahmutlu Mah.	Çarıkmahmutlu~
+154733	Çiftçiibrahim Mah.	Çiftçiibrahim~
+154779	İbrahimağa Mah.	İbrahimağa~
+154783	İncesu Mah.	İncesu~
+154823	Şehitlioğlu Mah.	Altıntaş~|Ataylar~|Hacıbekirler~|Hacırepli~|Merkez~|Çakırca~|Şehitler~
+154827	Şeremet Mah.	Buruşukahmetler~|Karakoca~|Kavaklı~|Merkez~
+154831	Şeritli Mah.	Bakacak~|Merkez~
+154901	Şıhlı Mah.	Hacıçalık~|Orta~|Yetimağa~

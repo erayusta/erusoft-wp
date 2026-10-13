@@ -1,0 +1,77 @@
+22921	Akköy Köyü	Akköy=
+22920	Akçakeçili Köyü	Akçakeçili=
+98745	Akçakeçili Köyü, Akçakeçili Mücavir Mevkii	Altın Güneş Sitesi=|Sahil 1.~|Sahil Yolu=
+22922	Aladağ Köyü	Aladağ=
+22923	Aladağ Köyü, Kiremitoba Mevkii	Kiremitoba=
+22924	Alemşah Köyü	Alemşah=
+98744	Alemşah Köyü, Alemşah Mücavir Mevkii	Alemşah@|Alemşah Mücavir 2.~|Alemşah Mücavir~|Gümrük~|Site 2.~|Siteler~|Özyar 1~|Özyar 2~|Özyar 3~
+22925	Arasanlı Köyü	Arasanlı=
+22926	Bahçeli Köyü	Bahçeli=|Karayol@
+22927	Balıklı Köyü	1.sokak-~|2.sokak-~|3.sokak-~|4.sokak-~|Ali Saim Kayaalp%|Balıklı=|Kızılköy=
+98742	Balıklı Köyü, Balıklı Mücavir Mevkii	Ali Saim Kayaalp 1.~|Ali Saim Kayaalp%|Ali Saim Kayaalp Bulvarı%|Balıklı Mücavir 1.~|Sanayi/1~|Sanayi/2~|Sanayi/3~|Sanayi/4~|Sanayi/5~|Sanayi/6~|Sanayi/7~
+22928	Belen Köyü	Belen=
+22971	Bozalan Köyü	Bozalan=
+22929	Bozeli Köyü	Bozeli=|Karayol=
+183016	Bozköy Köyü	15 Ocak~|Anaytepe~|Anaytepe/1~|Arif Şahin~|Asuman~|Bedi Kuyu-@|Efe~|Ertürk~|Geyikli@|Güven~|Güzide-~|Hamam~|Hüseyin Çavuş~|Hüseyin Çavuş/1~|Karayolu 3@|Koşuyolu@|Kuyu~|Mezarlık~|Mezarlık/1~|Sakıp Sabancı~|Sevgi~|Sezer~|Çamoba-@|İstiklal~
+20152	Camikebir Mah.	1. Değirmen~|1. Türbe~|18 Mart@|2. Değirmen~|2. Türbe~|Abdurrahman Bey 1.~|Abdurrahman Bey 10.~|Abdurrahman Bey 11.~|Abdurrahman Bey 2.~|Abdurrahman Bey 3.~|Abdurrahman Bey 4.~|Abdurrahman Bey 5.~|Abdurrahman Bey 6.~|Abdurrahman Bey 7.~|Abdurrahman Bey 8.~|Abdurrahmanbey@|Adnan Menderes -@|Aksungur~|Ali Saim Kayaalp 1.~|Ali Saim Kayaalp%|Ali Saim Kayaalp4.~|Alibey Geçidi~|Alibey~|Altınpark~|Altınpark1.~|Anıl~|Arasta Geçidi~|Arasta~|Arı~|Aslan~|Asmalı~|Atatürk@|Atlas~|Atmaca~|Ayaz~|Aytaç~|Ayvacık@|Ayvalı~|Badem~|Bahar~|Bahçeli Evler 1.~|Bahçeli Evler 2.~|Bal 1.~|Bal~|Balcı~|Baransel@|Bayramiç Asfaltı~|Bayır~|Bağlar~|Başak~|Berrak~|Beyazıt@|Beyazıt Cd. Geçidi~|Beyazıt1.@|Bilinmeyen101~|Bilinmeyen11~|Bilnmeyen16~|Birgül~|Boyacı Geçidi~|Boyacı~|Bozcaada%|Burcu~|Burmalı Pınar~|Bülbül~|Bülent Ecevit@|Canan~|Cumhuriyet@|Demet~|Deniz~|Derinkuyu~|Derinkuyu1.~|Derya~|Dost~|Doğan~|Dr.fatma Maide Suhindol@|Durgun~|Dut~|Ender~|Engin~|Erenler~|Esentepe 1.~|Esentepe@|Eğitim~|Fabrika~|Fatih~|Fener~|Fenercigil@|Fevzi Çakmak@|Fevzi Çakmak1.~|Fevzi Çakmak2.~|Fidan~|Filiz~|Fulya~|Fırat~|Gazhane Geçidi~|Genç~|Gökçeşme~|Gölcük~|Güllüce@|Güneş~|Güneş Sk. Geçidi~|Gürgen~|Hacı Şevki@|Hacı Şevki Cd. Geçidi~|Hakim~|Hatipler~|Hatipler Sk. Geçidi~|Huri Sapan~|Hür~|Hürriyet@|Ihlamur~|Işık~|Işıldak Önü Geçidi~|Kanarya~|Kartal~|Katrancı~|Kavak~|Kayacık~|Kazdağı~|Kazım Karabekir@|Keklik~|Koçal 1.~|Koçal~|Kumru~|Kuyu~|Küme Evleri-=|Kırlangıç~|Kırmızıgül~|Ladin~|Lodos~|Mandıra@|Mavi~|Mehmet Kiper~|Mektep Sk Geçidi~|Mektep Sk Geçidi1.~|Mektep~|Memioğlu Çıkmazı~|Meriç~|Meriç-~|Mezarlık Önü~|Meşe Geçidi~|Meşe~|Mimar Sinan@|Mor~|Murat Başaran~|Mülayim~|Nilüfer~|Nilüfer Sk.geçidi~|Nilüfer Sk.geçidi1.~|Onur~|Ova~|Panayır Yeri 1.~|Panayır Yeri 2.~|Panayır Yeri 3.~|Panayır Yeri 4.~|Poyraz~|Pınar~|Rüzgar~|Salkım Söğüt~|Saraçoğlu~|Sarı~|Sarıgül~|Sedir~|Seferşah-@|Seher~|Sel~|Selçuk~|Selçuk Sk. Geçidi~|Serin~|Serçe~|Sevgi~|Sevinç 1.@|Sevinç@|Sevinç Cd. Geçidi~|Spor Alanı~|Spor~|Söğüt~|Tariş~|Tayfun~|Taşköprü~|Tepecik~|Trafo@|Turkuaz~|Turna~|Turuncu~|Türbe Geçidi~|Türbe Myd.|Ufuk 1.~|Ufuk~|Ulu Cami Kısığı~|Ulu Cami Kısığı-~|Ulus~|Umut~|Unpazarı Geçidi~|Unpazarı Geçidi-~|Unpazarı Geçidi1.~|Yalova~|Yalova-~|Yayla~|Yayla Sk. Geçidi~|Yayla Sk. Geçidi-~|Yağlı Tohumlar Geçidi~|Yağlı Tohumlar~|Yağmur~|Yeşil~|Yunus~|Ziraat~|Çakır~|Çam~|Çanakkale İzmir Asfaltı-=|Çay 1.~|Çerkez~|Çimenlik~|Çoşkun~|Çınar~|Üçtaş~|Üçtaş Sk. Geçidi~|İncirli~|İstiklal@|İğdeli~|Şimşek~|Şükrü Köseoğlu@
+20153	Cumhuriyet Mah.	19 Mayıs@|22 Eylül 3.~|22 Eylül 5.~|22 Eylül 7.~|22 Eylül 9.~|22 Eylül@|Adnan Menderes@|Akçin 1.~|Akçin~|Anafarta Geçidi~|Anafarta~|Anafarta Çıkmazı~|Barbaros@|Barbaros1.~|Bilinmeyen/102~|Bilinmeyen9~|Bozcaada%|Camgöz~|Dede~|Ece~|Elmalı~|Eren~|Erenler Altı~|Gürbüz~|Güzel Bahçe~|Hastahane@|Kilim~|Kocaküllük Geçidi~|Kocaküllük~|Kocaküllük Çıkmazı~|Küçük Çayiçi~|Lavanta~|Nahit Şenoğul Cadde Geçidi~|Org.nahit Şenoğul@|Stadyum 1.@|Stadyum@|Tanışman~|Uzun Sk Çıkmazı~|Uzun~|Vatan~|Yeşil Bahçe~|Zafer 1.~|Zafer~|Zeytinli~|Çeşme~|Üst~|İnce Minare-~|İntepe~
+22973	Dalyan Köyü, Köy İçi Mevkii	22 Eylül@|Abide~|Adaüstü 1~|Adaüstü@|Ahmet Kuşçu~|Ahu~|Ali Saim Kayaalp@|Ali Saim Kayaalp Geçidi~|Altın Kemer~|Anafarta@|Ardıç~|Arı~|Aslan~|Aslıhan Bey@|Asma~|Asmalı~|Atatürk@|Aydede~|Ağaç~|Bademli~|Bahçeçik@|Balık~|Balıkçı~|Beyazıt@|Biberiye~|Buğday~|Bögürtlen~|Büyük İskender@|Cevizli~|Cumhuriyet@|Defne~|Dilek~|Dost~|Dumlupınar~|Ela~|Elmalı~|Eren~|Erenler~|Ergenekon~|Erler~|Ezineli Yahya Çavuş@|Fatih Han@|Fener~|Ferda~|Fidan~|Gül~|Güllük~|Gülsu~|Gün~|Gürgen~|Hacıvat~|Hakimiyet@|Han~|Hürriyet_1@|Ihlamur~|Ihlamurlu~|Kabristan~|Kaktüs~|Kalpli Göl~|Kanarya_1~|Karagöz~|Karagül~|Karanfil~|Karanlık~|Kartal~|Kasımpatı~|Kavak~|Kaymak~|Kent~|Kiraz_1~|Kirazlı~|Kirazlık~|Kumluca~|Kurtuluş@|Lale~|Limon~|Mantar~|Meltem~|Menekşe~|Mescit~|Meşe~|Naik~|Nar~|Narlı_1~|Nergiz~|Nil~|Okul~|Orkide~|Orman~|Ormanlı~|Ortanca~|Osmanlı~|Papatya~|Park~|Paşa@|Pembe~|Piri Reis@|Rusumat Myd.|Sahil_1@|Sarıgül~|Sarıkaya~|Sina~|Sümer~|Talat Çelikbaş@|Tavşanlı~|Taşlıca_1~|Tepe~|Turgut Reis@|Tümülüs@|Tümülüs~|Tünel~|Vişne~|Yalı@|Yavuz Han~|Yonca~|Yıldırım_1~|Zambak~|Zeytin_1~|Zeytinli_1~|Zihni Paşa~|Çalılık~|Çam_1~|Çamlıca~|Çilek_1~|Çimen_1~|Çitlenbik~|Çiçek~|Çiğdem_1~|Üzüm~|İbrahim Bodur@|İğdelik~|Şahin~|Şehit Hüseyin Ay@|Şehit Necdet Yılmaz@|Şüheda~
+20154	Danişment Mah.	1. Kocataş Geçidi~|1. Kocataş~|2.kocataş~|3. Kocataş Geçidi~|3. Kocataş~|Arat~|Arif~|Cami@|Cami Geçidi~|Eski Üsküfcü@|Geyikli Cad 1.~|Geyikli Caddesi@|Geyikli Geçidi~|Geyikli=|Kaya~|Kaya-~|Küçük Çayiçi~|Tepe 1.sk~|Tepe 2.sk.~|Tepe 3.sk.~|Tepe~|Yahya Kurt~|Çavuş Çeşme Geçidi~|Çavuş Çeşme Geçidi-~|Çavuş Çeşme~|Çimen Geçidi~|Çimen~
+22939	Derbentbaşı Köyü	Derbentbaşı=|İzmir Çanakkale@
+22938	Derbentbaşı Köyü, Araplar Boğazı Mevkii	Araplar Boğazı=|Derbentbaşı=|Kanarya Sırtı Mevki=
+22937	Derbentbaşı Köyü, Kanarya Sırtı Mevkii	Kanarya Sırtı Mevki=
+22936	Derbentbaşı Köyü, Taş Oba Mevkii	Taş Oba=
+20155	Gazi Mah.	Adnan Menderes@|Ali Saim Kayaalp 2.~|Ali Saim Kayaalp 3.~|Ali Saim Kayaalp%|Emin Onbaşı Çıkmazı~|Garnizon@|Hastahane@|Helvacı Çıkmazı~|Kardelen~|Kocaküllük~|Köprübaşı~|Küçük Mescit~|Küçük Mescit Çıkmazı~|Kışla~|Kışla Çıkmazı~|Nizamiye@|Orman~|Tanışman~|Utku~|Uzun~|Çamköy~|İnce Minare Geçidi~|İnce Minare~|İntepe~|Şafak~|Şehit Fatih Duru@|Şube~
+20157	Geyikli Beldesi, Cumhuriyet Mah.	12 Evler Sitesi=|12 Evler~|13 Evler Sitesi=|13 Evler Sitesi Küme Evleri~|2. Onur~|3. Onur~|4. Onur~|Ahenk~|Akasya~|Aksu@|Akyol~|Akın~|Alageyik~|Alan~|Alay 1~|Alay@|Altunser Sitesi=|Anıt~|Armutlu~|Aslı~|Bademli Kuyu@|Bahar~|Barbaros Hayrettin@|Başak~|Billur~|Birinci~|Bora~|Bozköy@|Bülbül~|Cennet~|Cennetköy@|Cennetköy Sitesi=|Ceylan~|Dalgıç~|Darıköy@|Defne~|Derman~|Derya~|Değirmen~|Doğuş~|Duygu Sitesi=|Duygu~|Dördüncü~|Ece 1~|Ege~|Ege Villa Sitesi=|Ekin~|Emir Çeşme 1~|Emir Çeşme@|Erguvan~|Ezine@|Fil~|Fulya~|Garaj~|Garnizon@|Gençlik@|Geyikli@|Gizli Çiçek~|Gölbayırı~|Güneş~|Güzelbahçe Sitesi=|Hacetdede~|Hanımeli~|Harman~|Hayat~|Hilal~|Hitit Sitesi=|Hürriyet@|Hızır Reis 1~|Hızır Reis@|Ihlamur_1~|Kanal@|Kanarya 1~|Kaya~|Kervan~|Köprübaşı@|Körfez Sitesi=|Körfez~|Köşk~|Kırcak~|Lale Geçidi~|Lale~|Leylak~|Lojman~|Manolya~|Marmara@|Medeniyet~|Mehtap~|Menekşe_1~|Meneviş~|Meriç~|Merve~|Mimar Sinan@|Mimoza~|Mine~|Misket~|Modüler~|Modülerkent Sitesi=|Nergis~|Nilay~|Nisan~|Okul 1~|Okul@|Okul Geçidi~|Onay 2~|Onay Iı Sitesi=|Onur@|Onurkent Sitesi=|Orkide~|Ortanca_1~|Palmiye Sitesi=|Papatya~|Piri Reis_1@|Pınar~|Sahil@|Sahil Kent Sitesi=|Sanayi~|Sarmaşık~|Sarıgül Sitesi=|Sarıgül~|Sarıçiçek Sitesi=|Sarıçiçek~|Selvi~|Serçe~|Sevgi Sitesi=|Sevgi~|Site~|Soğandede~|Spor~|Su Deposu@|Sülün~|Sırma~|Tarım@|Topçu~|Truva Sitesi=|Truva~|Turna@|Tuğba~|Vatan Gecidi~|Vatan~|Vilkon Sitesi=|Yakut~|Yavru~|Yavuz Sultan@|Yelken~|Yeni İskele@|Yeni İskele Mevki=|Yeni İskele Yolu=|Yeşim~|Yonca_1~|Yıldız~|Zafer~|Zakkum~|Zeytinli Bahçe Sitesi=|Zeytinli Geçidi~|Zeytinli~|Çamoba@|Çanakkale@|Çatalkuyu~|Çağlar~|Çetin~|Çevre Yolu@|Çicek~|Ömür~|Özcanlar Sitesi=|Özgür~|Özlem~|Özlem Tatil Sitesi=|Öğretmenler Sitesi=|Ülkü~|Üçüncü~|İkbal~|İkinci~|İlk Ev Sitesi=|İlk Ev~|İmar Dışı Mevkii=|İnce~|İrem~|İstasyon@
+20158	Geyikli Beldesi, Hürriyet Mah.	1. Zeytinlik~|18 Mart Emek Sitesi=|19 Mayıs 1.~|19 Mayıs@|2. Zeytinlik~|3. Zeytinlik~|4. Zeytinlik~|5. Zeytinlik~|6 Evler Sitesi=|6. Zeytinlik~|7. Zeytinlik~|Akarsu~|Aktifkent Sitesi=|Aliağa~|Anafartalar 1.@|Ardıç~|Armağan~|Asma~|Atatürk@|Ateş~|Ay~|Açelya~|Bagımsızlar~|Bahçe~|Barış~|Bayır~|Bağlar Geçidi~|Bağlar~|Bağımsızlar 1.~|Bağımsızlar@|Başpınar@|Belli Sitesi=|Bizim Evler Sitesi~|Bulut~|Cami Geçidi~|Cami~|Candar~|Ceylan 1.~|Damla~|Dar~|Dede Geçidi~|Dede~|Deniz Kent Sitesi=|Deniz~|Dere~|Derebağ~|Derin~|Dilek_1~|Ece~|Emek~|Erdal~|Erenler Fidan~|Erenler Geçidi~|Erenler_1~|Esen~|Eski Dostlar Sitesi=|Ezine@|Fabrika~|Fidan_1~|Full~|Fırat~|Gaye~|Gelincik~|Geyik~|Geyikbaba@|Gökkuşağı~|Göksu~|Gül Geçidi~|Gül~|Güneştepe~|Güven~|Güzel Bahçe~|Hacıbey~|Hale~|Hantepe@|Hantepe Sitesi=|Hazımbey Çiftliği=|Hilal 1~|Işık~|Kadir Çiftliği=|Kanal@|Kanarya@|Karanfil~|Kayatepe~|Kaynar~|Kemallı@|Kemer~|Kestanbol@|Kestanbol Sitesi=|Kiraz~|Kurtuluş_1~|Kutlu~|Kutu~|Kuşdili~|Kültür@|Ladin~|Lise@|Manolya Sitesi=|Martı~|Mavikent@|Mavikent Geçidi~|Mavikent Sitesi=|Menekşe Evleri Sitesi=|Mercan~|Motel~|Mumcu~|Mumcu Çıkmazı~|Mustafa Baş@|Nacak Alanı@|Narin~|Narlı~|Nur~|Odunluk İskelesi@|Odunluk İskelesi=|Okul@|Onay 1 Sitesi=|Orkide 1~|Ormanköy@|Ormanköy Sitesi=|Ova~|Park_1~|Pazar~|Riyet~|Sahil@|Samur~|Sağlık~|Serhat~|Serin~|Servi~|Soylu~|Susam~|Sümbül~|Taşlıca~|Tosun~|Truva 1~|Tuna Geçidi~|Tuna~|Türe~|Ulumeşe~|Umut 1~|Umut@|Umut Sitesi=|Uygar~|Yakamoz@|Yaprak~|Yasemin~|Yayla Çayı Sitesi=|Yağmur~|Yeni~|Yeni İskele Yolu=|Yeşil Palamutluk Sitesi_1=|Yüksel@|Yıldırım@|Yıldız 1~|Zambak_1~|Zeytin~|Zeytinlik Sitesi=|Zümrüt 1~|Zümrüt@|Zümrüt Sitesi=|Çam~|Çamlı~|Çayır~|Çağdaş~|Çelebi~|Çevre Yolu@|Çiftlik Yolu@|Çilek~|Çimen~|Çimento~|Çiğdem~|Çınarlı~|Ömür 1~|Özkent Sitesi~|Öztürk~|İmar Dışı Mevkii=|İnönü 1.~|İnönü@|İpek@|İskele@|Şafak~|Şimşek~|Şirin~
+22940	Gökçebayır Köyü	Gökçebayır=
+22941	Güllüce Köyü	Güllüce=
+22942	Hisaralan Köyü	Hisaralan=|Karayolu@
+22943	Karadağ Köyü	Karadağ=
+22944	Karagömlek Köyü, Hacı Eyüpler Mevkii	Hacı Eyüpler=
+22946	Karagömlek Köyü, Hacı Garipler Mevkii	Hacı Garipler=|Orta=
+22945	Karagömlek Köyü, Orta Mevkii	Orta=
+22947	Kayacık Köyü	Kayacık=
+22948	Kemallı Köyü	Kemallı=
+98743	Kemallı Köyü, Kemallı Mücavir Mevkii	301.~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|Kemallı Mücavir=
+22975	Kumburun Köyü	Kumburun=|Taşkapı=
+22978	Kumburun Köyü, Beşike Eserevler Sitesi Mevkii	- Köy$|200.~|201.~|209.~|210.~|211.~|212.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|Eserevler@
+22979	Kumburun Köyü, Taşkapı Çamlık Mevkii	Taşkapı Çamlık Sitesi=
+22976	Kumburun Köyü, İnlimanı Mevkii	220.~|221.~|222.~|223.~|224.~|225.~|226.~|227.~|228.~|229.~|230.~|Köy Yolu=|İnlimanı1=
+22952	Köprübaşı Köyü	Ahlatlı=|Köprübaşı=
+22953	Köprübaşı Köyü, Ahlatlı Mevkii	Ahlatlı=|İzmir Çanakkale@
+22954	Köprübaşı Köyü, Kozova Mevkii	Kozova=
+22955	Körüktaşı Köyü	Körüktaşı=|Uluköy=
+22956	Körüktaşı Köyü, Kestanbol Kaplıcası Mevkii	Kestanbol Kaplıcası=
+22957	Köseler Köyü	Köseler=|Yaylacık=
+22949	Kızılköy Köyü	Karayolu@|Kızılköy=|Çetmi=
+22950	Kızıltepe Köyü	Kızıltepe=
+20159	Mahmudiye Köyü, Atatürk Mevkii	18 Mart~|Abdi İpekçi~|Atatürk~|Birinci~|Deniz~|Dördüncü~|Egemenlik~|Emekçiler~|Esentepe~|Gazi~|Geyikli~|Geyikli/1~|Geyikli/11~|Geyikli/12~|Geyikli/13~|Geyikli/2~|Geyikli/3~|Geyikli/5~|Geyikli/6~|Gül~|Gül1~|Harmanlık~|Harmanlık/1~|Harmanlık/10~|Harmanlık/101~|Harmanlık/102~|Harmanlık/11~|Harmanlık/12~|Harmanlık/13~|Harmanlık/14~|Harmanlık/15~|Harmanlık/16~|Harmanlık/17~|Harmanlık/18~|Harmanlık/19~|Harmanlık/2~|Harmanlık/20~|Harmanlık/21~|Harmanlık/22~|Harmanlık/23~|Harmanlık/24~|Harmanlık/25~|Harmanlık/26~|Harmanlık/27~|Harmanlık/28~|Harmanlık/29~|Harmanlık/3~|Harmanlık/4~|Harmanlık/5~|Harmanlık/6~|Harmanlık/7~|Harmanlık/8~|Harmanlık/9~|Kurtuluş~|Lojman~|Menderes~|Menekşe~|Okul~|Park~|Serhat~|Serhat/1~|Serhat/3~|Serhat/4~|Serhat/44~|Spor~|Yedi Haziran~|Yedi Haziran/1~|Yedi Haziran/3~|Yedi Haziran/4~|Yedi Haziran/5~|Yedi Haziran/6~|Çamlık~|Çamlık/1~|Çamlık/4~|Çanakkale~|Üçüncü~|İkinci~|İkinci Çıkmaz~|İnönü~
+20160	Mahmudiye Köyü, Hürriyet Mevkii	1.~|18 Evler~|2.~|3.~|8.~|Akçansa Çimento Fabrikası~|Atatürk~|Bilinmeyen3 Köy$|Bilinmeyen4~|Bilinmeyen6~|Bozalan1=|Dumlupınar~|Dumlupınar/1~|Gazi Bulvarı 1. Çıkmaz~|Gazi~|Harmanlık/27~|Hoca Ahmet Yesevi~|Hoca Ahmet Yesevi/1~|Kantin~|Karanfil~|Kocatepe~|Pınarbaşı=|Yedi Haziran~|Yedi Haziran/1~|Çanakkale~|Çanakkale/1~|Çanakkale/2~|Çanakkale/3~|Çanakkale/5~|Çanakkale/6~|İbrahim Çavuş / Fabrika~|İbrahim Çavuş~
+22980	Mecidiye Köyü	Mecidiye=
+22958	Pazarköy Köyü	Pazarköy=
+22981	Pınarbaşı Köyü	Pınarbaşı=
+22960	Sarpdere Köyü	Bozeli=|Sarpdere=
+22959	Sarısöğüt Köyü	Karayolu@|Sarısöğüt=
+20156	Seferşah Mah.	18 Evler 2.~|18 Evler 3.~|18 Evler 4.~|18 Evler 5.~|Adnan Menderes@|Akköy 1.~|Akköy Geçidi~|Akköy~|Ali Saim Kayaalp%|Atatürk@|Ayça~|Bahçe Saray~|Bahçelievler@|Baransel@|Bayraktar~|Bağlar 1.~|Bilinmeyen/tali~|Bostancı~|Bozoba~|Cahit Özdemir Sk Geçidi~|Cahit Özdemir~|Dikilitaş~|Ertuğrul Gazi@|Etiler~|Garaj Arkası 1.~|Garaj Arkası~|Gazhane Geçidi~|Gelincik~|Gül~|Güllüce 1=|Güllüce Cd Geçidi~|Güllüce@|Gümüşçay~|Gündüz~|Güney~|Hacı Zafer~|Hamam~|Hanife Hatun Çeşme~|Hanife Hatun Çeşme Sk. Geçidi~|Hitit~|Karanfil Sk Geçidi~|Karanfil~|Kervan Saray~|Kocahendek 6.~|Kocahendek~|Lale~|Manolya~|Menekşe~|Mimar Sinan@|Muzaffer~|Orkide~|Ortanca~|Osman Gazi@|Otogar Geçidi~|Palmiye~|Papatya~|Sakarya~|Sanayi~|Saray~|Sardunya~|Seferşah@|Tabakhane 1.@|Tabakhane@|Yahya Çavuş 1. Çıkmaz Geçidi~|Yahya Çavuş 1. Çıkmaz~|Yahya Çavuş 2.~|Yahya Çavuş 3.~|Yahya Çavuş 4.~|Yahya Çavuş 5.~|Yahya Çavuş@|Yahşibey 2.~|Yahşibey 4.~|Yahşibey@|Yiğit~|Yıldırım~|Zambak~|Zübeyde Hanım Myd.|Çay Sk Geçidi~|Çay Sk Geçidi-~|Çay~|Çağlar~|Çağlayan~|Çelebi~|Çiğdem~
+22963	Tavaklı Köyü	Tavaklı=
+22964	Tavaklı Köyü, Tavaklı İskelesi Mevkii	101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|135./1~|136.~|137.~|138.~|139.~|140.~|141.~|142.~|143.~|144.~|145.~|146.~|147.~|148.~|149.~|150.~|151.~|152.~|153.~|154.~|155.~|156.~|157.~|158.~|160.~|160./1~|161.~|163.~|163.1~|164.~|165.~|166.~|167.~|168.~|169.~|170.~|171.~|172.~|173.~|174.~|175.~|176.~|177.~|178.~|179.~|180.~|182~|183~|184~|185~|186~|Bilinmeyen1~|Köy@|Köy Yolu (uavt)=|İskele~
+22962	Taştepe Köyü	Taştepe=|İzmir Çanakkale@
+22965	Uluköy Köyü	Uluköy=
+98746	Uluköy Köyü, Uluköy Mücavir Mevkii	Uluköy1=
+22951	Yahyaçavuş Köyü	Yahyaçavuş=|Yavaşlar=
+22967	Yavaşlar Köyü	Yavaşlar=
+22968	Yaylacık Köyü	Yaylacık=
+22983	Yeniköy Köyü	Yeniköy=
+22969	Yenioba Köyü	Hacı Hüseyinler=|Yenioba=
+22970	Yenioba Köyü, Hacı Hüseyinler Mevkii	Hacı Hüseyinler=
+22930	Çamköy Köyü	Çamköy=|İzmir Çanakkale@
+22931	Çamlıca Köyü	Derbentbaşı=|Çamlıca=
+22972	Çamoba Köyü	Çamoba=
+22932	Çarıksız Köyü	Karayolu@|Çarıksız=
+22933	Çarıksız Köyü, Kayalı Mevkii	Karayolu@|Kayalı=
+22934	Çetmi Köyü	Çetmi=
+22935	Çınarköy Köyü	10-~|3.sokak-~|4.sokak-~|5.sokak-~|6.sokak-~|7.sokak-~|8.sokak-~|9.sokak-~|Ali Saim Kayaalp%|Çınarköy=
+22966	Üsküfçü Köyü	Üsküfçü=
+22982	Üvecik Köyü	Üvecik=
+22961	Şapköy Köyü	Karayolu@|Şapköy=

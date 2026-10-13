@@ -1,0 +1,367 @@
+34545	Akköy Köyü, Aralıcak Mevkii	 Köy$
+34543	Akköy Köyü, Camiyanı Mevkii	 Köy$
+34544	Akköy Köyü, Karaosmanoğlu Mevkii	 Köy$
+34547	Akköy Köyü, Topçuoğlu Mevkii	 Köy$
+34546	Akköy Köyü, Ulupelit Mevkii	 Köy$
+34542	Akköy Köyü, Ustalı Mevkii	 Köy$
+30701	Aksu Mah.	10 Nolu~|12 Nolu~|14 Nolu~|16 Nolu~|18 Nolu~|20 Nolu~|22 Nolu~|24 Nolu~|26 Nolu~|28 Nolu~|30 Nolu~|32 Nolu~|35 Nolu~|36 Nolu~|37 Nolu~|38 Nolu~|39 Nolu~|4 Nolu~|40 Nolu~|41 Nolu~|42 Nolu~|43 Nolu~|44 Nolu~|45 Nolu~|46 Nolu~|47 Nolu~|48 Nolu~|49 Nolu~|50 Nolu~|51 Nolu~|52 Nolu~|53 Nolu~|8 Nolu~|Adatepe~|Aksu@|Anıl~|Asım Erkan~|Ayvalık~|Bahar~|Başak~|Boğacıkderesi~|Buğse~|Caner~|Cem~|Ceren~|Dicle~|Didem~|Eren~|Erman~|Feyyan~|Firuze~|Fırat~|Gazi Mustafa Kemal%|Gül Hanım~|Hande~|Konakyanı~|Kübra~|Mehmet İzmen@|Mevlana~|Nehir~|Pazar@|Selin~|Sinem~|Suat Kostakoğlu~|Tuğba~|Yağız~|Zembil~|Çerkez~|İlker~|Şenlik~|Şht.ali Akbulut~|Şht.ast.sby.kıdemli Bşçvş.hakan Gemici~|Şht.jan.özgün Özdemir~
+34535	Akçalı Köyü, Kuyu Tepesi Mevkii	 Köy$
+34537	Akçalı Köyü, Taş Başı Mevkii	 Köy$
+34536	Akçalı Köyü, Çortyol Mevkii	 Köy$
+34538	Akçalı Köyü, Çukur Mevkii	 Köy$
+34534	Akçalı Köyü, Ören Mevkii	 Köy$
+34541	Akıncı Köyü, Güney Mevkii	 Köy$
+34539	Akıncı Köyü, Kuz Mevkii	 Köy$
+34540	Akıncı Köyü, Üst Mevkii	 Köy$
+98591	Alınca Köyü, Batlama Mevkii	Alınca=
+34555	Alınca Köyü, Camiyanı Mevkii	 Köy$
+34551	Alınca Köyü, Cınarak Mevkii	 Köy$
+34548	Alınca Köyü, Darıbükü Mevkii	 Köy$
+34550	Alınca Köyü, Hacı Emin Mevkii	 Köy$
+34554	Alınca Köyü, Küçüksanayi Mevkii	 Köy$
+34549	Alınca Köyü, Sakallıdağ Mevkii	 Köy$
+34552	Alınca Köyü, Tozlu Mevkii	 Köy$
+34553	Alınca Köyü, Yeniyol Mevkii	 Köy$
+34559	Anbaralan Köyü, Dallıkıran Mevkii	 Köy$
+34557	Anbaralan Köyü, Duman Mevkii	 Köy$
+34558	Anbaralan Köyü, Düz Mevkii	 Köy$
+34561	Anbaralan Köyü, Karaoyrak Mevkii	 Köy$
+34560	Anbaralan Köyü, Mehmet Yusufoğlu Mevkii	 Köy$
+34556	Anbaralan Köyü, Merkez Cami Yanı Mevkii	 Köy$
+30723	Aydınlar Mah.	76 Nolu~|77 Nolu~|80 Nolu~|Gazi Mustafa Kemal%|Kargın~|Sivas@|Şht.emre Mert~
+34571	Barça Köyü, Akçayoğlu Mevkii	 Köy$
+34570	Barça Köyü, Bekirli Mevkii	 Köy$
+34572	Barça Köyü, Camii Yanı Mevkii	 Köy$
+34562	Barça Köyü, Civelekoğlu Mevkii	 Köy$
+34568	Barça Köyü, Dervişoğlu Mevkii	 Köy$
+34565	Barça Köyü, Esenbük Mevkii	Esenbük=
+34567	Barça Köyü, Gönep Mevkii	 Köy$
+34577	Barça Köyü, Kale Mevkii	 Köy$
+34575	Barça Köyü, Kayışoğlu Mevkii	 Köy$
+34564	Barça Köyü, Lefkoşe Mevkii	 Köy$
+34569	Barça Köyü, Macaroğlu Mevkii	 Köy$
+34579	Barça Köyü, Posluoğlu Mevkii	 Köy$
+34574	Barça Köyü, Türkmenoğlu Mevkii	 Köy$
+34566	Barça Köyü, Usta Ali Oğlu Mevkii	 Köy$
+34573	Barça Köyü, Yeniçağ Mevkii	 Köy$
+34580	Barça Köyü, Çinko Deresi Mevkii	 Köy$
+34563	Barça Köyü, Çobanlı Mevkii	 Köy$
+34576	Barça Köyü, Çonukoğlu Mevkii	Çonukoğlu Köy$
+34578	Barça Köyü, İmam Torunoğlu Mevkii	 Köy$
+34584	Barçaçakırlı Köyü, Barçaçakırlı Mevkii	 Köy$
+34581	Barçaçakırlı Köyü, Bük Mevkii	 Köy$
+34583	Barçaçakırlı Köyü, Tekiroğlu Mevkii	 Köy$
+34582	Barçaçakırlı Köyü, Şıhlı Mevkii	 Köy$
+34587	Bayazıt Köyü, Camiyanı Mevkii	 Köy$
+34586	Bayazıt Köyü, Kuz Mevkii	 Köy$
+34585	Bayazıt Köyü, Üst Mevkii	 Köy$
+34592	Boztekke Köyü, Ayaroğlu Mevkii	 Köy$
+34588	Boztekke Köyü, Camiyanı Mevkii	 Köy$
+34589	Boztekke Köyü, Kaleyanı Mevkii	 Köy$
+34591	Boztekke Köyü, Koloğlu Mevkii	 Köy$
+34590	Boztekke Köyü, Kumaşoğlu Mevkii	 Köy$
+34593	Boztekke Köyü, Çataltepe Mevkii	 Köy$
+34594	Burhaniye Köyü, Camiyanı Mevkii	 Köy$
+34597	Burhaniye Köyü, Kıran Mevkii	 Köy$
+34596	Burhaniye Köyü, Örencik Mevkii	 Köy$
+34595	Burhaniye Köyü, İndibi Mevkii	 Köy$
+34599	Camili Köyü, Barganu Mevkii	 Köy$
+34604	Camili Köyü, Camiyanı Mevkii	 Köy$
+34598	Camili Köyü, Kozoğlu Mevkii	 Köy$
+34601	Camili Köyü, Kıran Mevkii	 Köy$
+34602	Camili Köyü, Orta Mevkii	 Köy$
+34600	Camili Köyü, Yılancıoğlu Mevkii	 Köy$
+34603	Camili Köyü, Üst Mevkii	 Köy$
+140819	Cumhuriyet Mah.	Ali Usta@|Gazi Hacı~|Hamzalı~|Pakize Çınar@|Ramadanlı~|Ulus~|Yücel~|Yılmaz~|Çalış@|Çıngalı~|Özcan~
+34643	Darıköy Köyü, Alibaşoğlu Mevkii	 Köy$
+34646	Darıköy Köyü, Aydın Mevkii	 Köy$
+34641	Darıköy Köyü, Cımanoğlu Mevkii	 Köy$
+34640	Darıköy Köyü, Gıran Mevkii	 Köy$
+34645	Darıköy Köyü, Kargaoğlu Mevkii	 Köy$
+34642	Darıköy Köyü, Ustaoğlu Mevkii	 Köy$
+34644	Darıköy Köyü, Yumrutaş Mevkii	 Köy$
+139788	Darıköy Köyü, Üzümlük Mevkii	 Köy$
+99833	Duroğlu Beldesi, Demirci Mah.	Kayadibi~|Kolça~|Pelitli Gıran~|Seki~|Sırganlı~|Yeşil~|Yusuf Kılıçaslan@|Çeğel~
+30733	Duroğlu Beldesi, Homurlu Mah.	Cami Yanı-çeğel=|Göldamı=|Hasanlı=|Kuzgun~|Kıranbaşı=|Mollamahmutoğlu~|Sütlaçoğlu@|Yavşan@
+30734	Duroğlu Beldesi, Konacık Mah.	Aksu~|Alınca=|Cumhuriyet@|Fatih Sultan Mehmet~|Gazi Abdullah Çavuş@|Gezköy=|Kanuni~|Köroğlu~|Meşeli~|Mustafa Efendi@|Paya=|Ömer Aksu~|Şakir Çevik~
+99468	Duroğlu Beldesi, Tekke Mah.	Dikmenekestanesi~|Guraba~|Karaeyüp~|Karaçukur~|Kıran~|Mutlu Tekin~|Okul Mahlesi~|Türbe~|Yalıkahve~|Çeteler~|Çukur~|Üzüm Çukuru~|İbri~
+140823	Duroğlu Beldesi, Çağlayan Mah.	Düz Tepe~|Karakaya~|Orta~|Çukur~
+34655	Ergence Köyü, Bekiroğlu Mevkii	 Köy$
+34657	Ergence Köyü, Hambarca Mevkii	 Köy$
+34658	Ergence Köyü, Kaynarca Mevkii	 Köy$
+34661	Ergence Köyü, Musacoğlu Mevkii	 Köy$
+34659	Ergence Köyü, Müezzinoğlu Mevkii	 Köy$
+34660	Ergence Köyü, Zuvalı Mevkii	 Köy$
+34656	Ergence Köyü, İmamoğlu Alt Mevkii	 Köy$
+34654	Ergence Köyü, İmamoğlu Üst Mevkii	 Köy$
+30724	Erikliman Mah.	162 Nolu~|166 Nolu~|169 Nolu~|171 Nolu~|174 Nolu~|175 Nolu~|176 Nolu~|201 Nolu~|Atatürk%|Devret@|Dikmen~|Gül~|Kültür~|Manolya~|Mehmet Işık@|Sahil~|Yaylaoğlu~|Çeçelioğlu@
+34667	Eriklimanı Köyü, Dereiçi Mevkii	 Köy$
+34668	Eriklimanı Köyü, Gaziler Tepesi Alt Mevkii	 Köy$
+34665	Eriklimanı Köyü, Gaziler Tepesi Üst Mevkii	 Köy$
+139502	Eriklimanı Köyü, Çirişli Mevkii	 Köy$
+34676	Esentepe Köyü, Aşağı Yaraş Mevkii	 Köy$
+34670	Esentepe Köyü, Cürgüllü Mevkii	 Köy$
+34675	Esentepe Köyü, Düz Mevkii	 Köy$
+34672	Esentepe Köyü, Gerdencik Mevkii	 Köy$
+34673	Esentepe Köyü, Halil Ağa Mevkii	 Köy$
+34671	Esentepe Köyü, Kıran Mevkii	 Köy$
+34674	Esentepe Köyü, Molla Mustafa Mevkii	 Köy$
+34669	Esentepe Köyü, Paşalı Mevkii	 Köy$
+34680	Evrenköy Köyü, Geçicioğlu Mevkii	 Köy$
+34678	Evrenköy Köyü, Külcüoğlu Mevkii	 Köy$
+34677	Evrenköy Köyü, Kıran Mevkii	 Köy$
+34679	Evrenköy Köyü, Seydimal Mevkii	 Köy$
+30704	Fevzi Çakmak Mah.	185 Nolu~|Akasya~|Birlik~|Bozbağ@|Cinahmet~|Deniz~|Gökçe~|Gündoğdu~|Güneş~|Işık~|Kartopu~|Okul~|Orhan Yılmaz@|Orçun~|Reisoğlu~|Taş~|Uğurlu~|Yayla~|Özgür~|Şen~|Şht.er.rasim Köse~|Şht.necmettin Atik~
+30705	Gaziler Mah.	159 Nolu~|160 Nolu~|161 Nolu~|162 Nolu~|163 Nolu~|164 Nolu~|165 Nolu~|166 Nolu~|167 Nolu~|170 Nolu~|171 Nolu~|175 Nolu~|176 Nolu~|Ahmet Başkan~|Atatürk%|Mehmet Işık@|Prof.ahmet Taner Kışlalı@|Soma~|Turgay Kara~|İspir Suyu~
+30706	Gedikkaya Mah.	1 Nolu~|101 Nolu~|102 Nolu~|103 Nolu~|104 Nolu~|105 Nolu~|106 Nolu~|11 Nolu~|13 Nolu~|15 Nolu~|17 Nolu~|19 Nolu~|2 Nolu~|21 Nolu~|23 Nolu~|25 Nolu~|27 Nolu~|29 Nolu~|3 Nolu~|33 Nolu~|34 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|9 Nolu~|94 Nolu~|95 Nolu~|96 Nolu~|97 Nolu~|98 Nolu~|99 Nolu~|Abdurrahman Erkan~|Ada~|Ali Usta@|Annakkaya~|Bahtiyar Gürel@|Ertürk~|Gazi Mustafa Kemal%|Gedikkaya@|Kardelen~|Kaya Ekmekci~|Kazım Karabekir@|Mercan~|Naci Koloğlu~|Nihat Bey@|Romancı Güzide Sabri~|Sardunya~|Ufuk~|Zülüf~|Çağla~|Çırakderesi~|Şht.isa Yüksel~|Şht.onb.muammer Dur~
+180992	Gedikli Köyü	Derekol=|Eğlence=|Gül=|Hayatoğlu=|Kavak=|Korucu=|Taşbaşı=|Topcu=|Çamlık=|Çaşak=
+197985	Gedikli Köyü, Derekol Mevkii	 Köy$
+197991	Gedikli Köyü, Eylence Mevkii	 Köy$
+197989	Gedikli Köyü, Kavak Mevkii	 Köy$
+197987	Gedikli Köyü, Çaşak Mevkii	 Köy$
+30707	Gemilerçekeği Mah.	Afacan~|Bakican~|Dikişci~|Ecem~|Funda~|Gazi@|Gazi Mustafa Kemal%|Gedikkaya@|General Nuri Erkan@|Gürbüz~|Gürpınar~|Huzur~|Kazım Karabekir@|Kümbet~|Patan~|Sagae@|Seda~|Selen~|Sümbüllük~|Tozlu~|Ulaş~|Çakmak~|Çakrak~|Çilesiz~|Çırakderesi~|Öztürk~|İlknur~|İzel~
+34687	Güney Köyü, Armuttepe Mevkii	 Köy$
+34683	Güney Köyü, Camii Yanı Mevkii	 Köy$
+34681	Güney Köyü, Diyelcik Mevkii	 Köy$
+34686	Güney Köyü, Elma Tepesi Mevkii	 Köy$
+34684	Güney Köyü, Kuz Çukuru Mevkii	 Köy$
+34685	Güney Köyü, Kuşçulu Mevkii	 Köy$
+34688	Güney Köyü, Okul Yanı Mevkii	 Köy$
+34682	Güney Köyü, Zehiroğlu Mevkii	 Köy$
+30708	Güre Mah.	152 Nolu~|Arı~|Atatürk%|Bağcılar~|İspir Suyu~|Şht.p.asb.kd.bçvş.ömer Halisdemir@
+34689	Gürköy Köyü, Daşdibi Mevkii	 Köy$
+34690	Gürköy Köyü, Gürleğen Mevkii	 Köy$
+34691	Gürköy Köyü, Kavlaklı Mevkii	 Köy$
+34692	Gürköy Köyü, Orta Mevkii	 Köy$
+34699	Güveç Köyü, Karakestane Mevkii	 Köy$
+34695	Güveç Köyü, Kemallı Mevkii	 Köy$
+34698	Güveç Köyü, Köyiçi Mevkii	 Köy$
+34700	Güveç Köyü, Kıran Mevkii	 Köy$
+34697	Güveç Köyü, Mahmutcalı Mevkii	 Köy$
+34696	Güveç Köyü, Mollaali Mevkii	 Köy$
+34694	Güveç Köyü, Yeni Mevkii	 Köy$
+30709	Hacı Hüseyin Mah.	Akalın~|Aydın~|Açık~|Beyazıt_1~|Bıçakcı~|Cömert~|Dikişci~|Düz~|Esen~|Fevzi Paşa@|Fındıkcı~|Gazi@|Gazi Mustafa Kemal%|General Nuri Erkan@|Gülsoy~|Gümüş~|Güngör~|Hamam~|Kalyoncu~|Küçük Hüseyin~|Poyraz~|Sebahattin Dizdar~|Sokakbaşı@|Sözen~|Tezcan~|Yavuz~|Yazıcı~|Yeşil~|Yüzbaşı~|Çoban~|İsmail Çamur~|Şht.polis Ferit Ömer Beyoğlu~|Şirin~
+30710	Hacımiktat Mah.	Alpaslan@|Anafor~|Arzu~|Atatürk%|Barış Güngör~|Bilim~|Cemal Gürsel@|Dervişoğlu~|Fatih@|Gazi@|Gülcan~|Hayat~|Kemer~|Köşem-~|Mustafa Kemal Çilesiz~|Orhan Yılmaz@|Saadet~|Sanat~|Satım~|Suat Akgün~|Tabaklar~|Tuna~|Uğur~|Veisoğlu~|Yaylı~|Yağcı~|Özden~|Özen~|İncedayı~|Şemsettin Turgutalp~
+30711	Hacısiyam Mah.	72 Evler~|Akasya~|Albay Ahmet Gürsoy~|Alicanoğlu~|Atatürk%|Begonya~|Bozbağ@|Can~|Cemal Gürsel@|Fatih@|Hurşit Ağa~|Kabacakuz~|Kanuni~|Karanfil~|Kule~|Kurudere~|Kuşkonmaz~|Külünk~|Küçük~|Kına~|Kısa~|Lale~|Leylak~|Mehmet Larçın@|Menekşe~|Mine~|Nergiz~|Okumuşsoy~|Petunya~|Reisoğlu~|Saraypatı~|Sazgeçidi~|Sağlık~|Susam~|Tabaklar~|Taş~|Tokatlı~|Yalı~|Yol Vermez~|Zambak~|Çeşmeli~|Öz~|İnönü@|Şebboy~|Şht.er Ali Osman Kaya~|Şht.er Ferhat Çopur~|Şht.er Nezih Erdem~
+34702	Hamidiye Köyü, Camiyanı Mevkii	 Köy$
+34701	Hamidiye Köyü, Karga Tarlası Mevkii	 Köy$
+34704	Hamidiye Köyü, Kovanacık Mevkii	 Köy$
+34703	Hamidiye Köyü, Ustalı Mevkii	 Köy$
+34711	Hisargeriş Köyü, Dağ Bahçe Mevkii	 Köy$
+34705	Hisargeriş Köyü, Gedik Çukuru Mevkii	 Köy$
+34706	Hisargeriş Köyü, Güney Mevkii	 Köy$
+34710	Hisargeriş Köyü, Hacı İlyas Mevkii	 Köy$
+34709	Hisargeriş Köyü, Küçüklü Mevkii	 Köy$
+34707	Hisargeriş Köyü, Kıran Mevkii	 Köy$
+34708	Hisargeriş Köyü, Mındız Mevkii	 Köy$
+30712	Kale Mah.	184 Nolu~|Arif Bey@|Erenel~|Eşref Dizdar@|Gazi Mustafa Kemal%|Hasan Ali Yücel@|Kalebayırı~|Kazancılar~|Kufalı Kuyu~|Pastırmacı~|Çıtır~|Özgürlük Yolu~|Şehitler@
+30713	Kapu Mah.	Ali Yazıcı~|Açelya~|Başöğretmen Ali Osman Sönmez~|Bekir Paşa@|Dr.baki Gürkan~|Eskiokul~|Eşref Dizdar@|Fevzi Paşa@|Gazi@|Hasan Akbulut~|Osman Fikret Topallı~|Saatci~|Seyyit Vakkas~|Tepe~|Çayır Boğazı~|Şensoy~|Şht. Er Tekin Çınar~
+34721	Karaali Köyü, Başdüz Mevkii	 Köy$
+34725	Karaali Köyü, Büyük Karaali Mevkii	 Köy$
+34722	Karaali Köyü, Küçük Karaali Mevkii	 Köy$
+34724	Karaali Köyü, Sükük Narlı Mevkii	 Köy$
+34723	Karaali Köyü, Tömen Tarla Mevkii	 Köy$
+30714	Kavaklar Mah.	107 Nolu~|108 Nolu~|109 Nolu~|110 Nolu~|111 Nolu~|112 Nolu~|113 Nolu~|114 Nolu~|Akyar~|Akçay~|Aran~|Ceylan~|Esentepe~|Fatih_1~|Gazi@|Gedikkaya@|Gözde~|Güllünine~|Gülnaz~|Hasan Vehbi~|Kamberli~|Kavaklar@|Kiraz~|Kuloğlu~|Kır~|Mecidiye~|Mumcu~|Semavi~|Soner~|Sündüz~|Sütlaç~|Sıraselviler@|Tutkun~|Yeşil Tepe@|Yokuş~|Yüzbaşı Suyu@|Yıldızlar~|Şht.ismail Bay~|Şht.toraman Uzun~
+30715	Kayadibi Mah.	111 Nolu_1~|172 Nolu~|173 Nolu~|177 Nolu~|178 Nolu~|179 Nolu~|180 Nolu~|181 Nolu~|182 Nolu~|Ali Usta@|Dağdibi~|Dede Sivri~|Emirli~|Hacı Işık~|Kayadibi@|Kaşbaşı~|Kıran~|Papatya~|Sazlık~|Vakıf~|İnce Mehmet~|Şht.ışık@
+34733	Kemaliye Köyü, Ayınca Mevkii	 Köy$
+34736	Kemaliye Köyü, Başkonak Mevkii	 Köy$
+34728	Kemaliye Köyü, Boğuntu Mevkii	 Köy$
+34726	Kemaliye Köyü, Camiyanı Mevkii	 Köy$
+34735	Kemaliye Köyü, Hacıbahar Mevkii	 Köy$
+34730	Kemaliye Köyü, Kavacık Mevkii	 Köy$
+181386	Kemaliye Köyü, Köyün Kendisi Mevkii	 Köy$|Güney Köy$|Molla Köy$|Çöllen Köy$
+34732	Kemaliye Köyü, Kıran Mevkii	 Köy$
+34734	Kemaliye Köyü, Uzunoğlu Mevkii	 Köy$
+99283	Küçükköy Mah.	80 Nolu~|81 Nolu~|82 Nolu~|83 Nolu~|84 Nolu~|85 Nolu~|86 Nolu~|87 Nolu~|88 Nolu~|89 Nolu~|90 Nolu~|91 Nolu~|Sivas@
+34740	Lapa Köyü, Cami Mevkii	 Köy$
+34741	Lapa Köyü, Deregözü Mevkii	 Köy$
+34742	Lapa Köyü, Hüseyindağ Mevkii	 Köy$
+34743	Lapa Köyü, Kamuzlu Mevkii	 Köy$
+180990	Melikli Köyü	Ağdaş=|Hacıferah=|Hacıoğlu=|Han=|Harman Yanı=|Karahıdır=|Köspınarı=|Kıran=|Medrese=|Mescit=|Töngel=|Uluköy=|Çay=|Çelebi=|Çeşmeyanı=|Üstmahalle=|İncirli=
+197969	Melikli Köyü, Gıran Mevkii	 Köy$
+197973	Melikli Köyü, Karahıdır Mevkii	 Köy$
+197971	Melikli Köyü, İncirli Mevkii	 Köy$
+139773	Mesudiye Köyü, Damçukuru Mevkii	 Köy$
+139774	Mesudiye Köyü, Haliloğlu Mevkii	 Köy$
+34747	Mesudiye Köyü, Kestane Deresi Mevkii	 Köy$
+34745	Mesudiye Köyü, Orta Mevkii	 Köy$
+34746	Mesudiye Köyü, Taşhan Mevkii	 Köy$
+34744	Mesudiye Köyü, Çatak Mevkii	 Köy$
+139772	Mesudiye Köyü, Özgürlük Mevkii	 Köy$
+30716	Nizamiye Mah.	Albayrak~|Anafor~|Arzu~|Atlet Mustafa~|Av.bilal Demir~|Bayraktar~|Birlik~|Dar~|Gazi@|Gazi Paşa~|Göksüz~|Kalpakcı~|Karakaya~|Karaman~|Körfez~|Köymen~|Laçin~|Mumcular~|Orhan Yılmaz@|Orçun~|Sanat~|Suat Akgün~|Türkan~|Veisoğlu~|Yaylı~|Yazar~|Yolasığmaz~|Yüzbaşı Suyu@|Özen~
+34749	Okçu Köyü, Haliloğlu Mevkii	 Köy$
+34751	Okçu Köyü, Karatepe Mevkii	 Köy$
+34748	Okçu Köyü, Orta Mevkii	 Köy$
+34750	Okçu Köyü, Sindel Mevkii	 Köy$
+98511	Organize Sanayi Bölgesi Mah.	1.cadde@|2.cadde@|3.cadde@|4.cadde@|Ali Usta@|Esma Serhat Hanım@
+34756	Orhaniye Köyü, Balçıklı Mevkii	 Köy$
+34757	Orhaniye Köyü, Darıbükü Mevkii	 Köy$
+34753	Orhaniye Köyü, Dağtarla Mevkii	 Köy$
+34752	Orhaniye Köyü, Duzak Mevkii	 Köy$
+34755	Orhaniye Köyü, Kabaköse Mevkii	 Köy$
+99509	Orhaniye Köyü, Kuz Mevkii	
+34754	Orhaniye Köyü, Kıran Mevkii	 Köy$
+34760	Ortaköy Köyü, Dikmendibi Mevkii	 Köy$
+34758	Ortaköy Köyü, Hacıoğlu Mevkii	 Köy$
+34761	Ortaköy Köyü, Macaro Mevkii	 Köy$
+34759	Ortaköy Köyü, İmamoğlu Mevkii	 Köy$
+30717	Osmaniye Mah.	Acar~|Altıyaprak~|Ateş~|Duman~|Dönemeçli~|Gazi@|Hasan Vehbi~|Hastane~|Kulakkaya~|Orhan Yılmaz@|Sesli~|Sinema@|Sündüz~|Toprak~|Tunavelioğlu~|Yeşil Tepe@|Yokuş~|Yüzbaşı Suyu@|Çakır~|Şehit Astğm.nizamettin Şensoy~
+34766	Pınarçukuru Köyü, Colar Mevkii	 Köy$
+34763	Pınarçukuru Köyü, Demirci Ağzı Mevkii	 Köy$
+34767	Pınarçukuru Köyü, Merkez Mevkii	 Köy$
+34765	Pınarçukuru Köyü, Nuri Seyit Alioğlu Mevkii	 Köy$
+34762	Pınarçukuru Köyü, Şehit Oral Demiral Mevkii	 Köy$
+34764	Pınarçukuru Köyü, Şehit Zafer Konak Mevkii	 Köy$
+30718	Samanlıkkıranı Mah.	Dostluk~|Kamberli~|Samanlıkkıranı@|Tuzluk~|İnce Mehmet~|Şht.ismail Bay~
+34768	Sarvan Köyü, Ağalı Mevkii	 Köy$
+34773	Sarvan Köyü, Camiyanı Mevkii	 Köy$
+34769	Sarvan Köyü, Kale Mevkii	 Köy$
+34771	Sarvan Köyü, Kemaloğlu Mevkii	 Köy$
+34772	Sarvan Köyü, Kertboğaz Mevkii	 Köy$
+34770	Sarvan Köyü, İmamlı Mevkii	 Köy$
+34783	Sayca Köyü, Camii Yanı Mevkii	 Köy$
+34778	Sayca Köyü, Güney Mevkii	 Köy$
+34774	Sayca Köyü, Hatipoğlu Mevkii	 Köy$
+34780	Sayca Köyü, Kalafatlı Mevkii	 Köy$
+34782	Sayca Köyü, Kavaklı Mevkii	 Köy$
+34785	Sayca Köyü, Keçemenli Mevkii	 Köy$
+34779	Sayca Köyü, Kıran Mevkii	 Köy$
+34776	Sayca Köyü, Nebioğlu Mevkii	 Köy$
+34777	Sayca Köyü, Türkmenli Mevkii	 Köy$
+34781	Sayca Köyü, Velioğlu Mevkii	 Köy$
+34775	Sayca Köyü, Çavuşoğlu Mevkii	 Köy$
+34787	Sayca Köyü, Çayırağzı Mevkii	 Köy$
+34786	Sayca Köyü, İmamlı Mevkii	 Köy$
+34784	Sayca Köyü, Şabanlı Mevkii	 Köy$
+30719	Seldeğirmeni Mah.	154 Nolu~|155 Nolu~|185 Nolu~|186 Nolu~|Albay Ahmet Gürsoy~|Atatürk%|Ersin~|Güner~|Hasan Tepesi~|Işkın~|Kabacakuz~|Okul~|Saffet Beyazıtoğlu~|Yayla~|Yükselen~|Özgür_1~|İnönü@|Şht.ufuk Bingöl~
+34789	Seyitköy Köyü, Camiyanı Mevkii	 Köy$
+34791	Seyitköy Köyü, Eselo Mevkii	 Köy$
+34795	Seyitköy Köyü, Karaağaç Mevkii	 Köy$
+34794	Seyitköy Köyü, Köroğlu Mevkii	 Köy$
+34790	Seyitköy Köyü, Oluk Mevkii	 Köy$
+34792	Seyitköy Köyü, Üst Mevkii	 Köy$
+34793	Seyitköy Köyü, İkisu Mevkii	 Köy$
+30720	Sultan Selim Mah.	Arif Bey@|Bekir Paşa@|Büklüm~|Eski Yağcılar~|Gazi@|Gazi Mustafa Kemal%|Kazancılar~|Köprülühan~|Okay~|Osman Fikret Topallı~|Osmanağa@|Sarıalemdar~|Taşbaşı~|Çapulacılararastası~|Şaircan~
+180996	Sultaniye Köyü	Aydın=|Batlama=|Kalaycı=|Karabalçık=|Şehit İsmet Aydın=
+99670	Sultaniye Köyü, Alikahyaoğlu Mevkii	Batlama=|Kertil=|Şibaş=
+182202	Sultaniye Köyü, Aydınoğlu Mevkii	 Köy$
+182196	Sultaniye Köyü, Karabalçık Mevkii	 Köy$
+182198	Sultaniye Köyü, Karadağ Mevkii	 Köy$
+182200	Sultaniye Köyü, Şişbaş Mevkii	 Köy$
+34796	Sıvacı Köyü, Bıçakcı Mevkii	 Köy$
+34799	Sıvacı Köyü, Dilber Mevkii	 Köy$
+34800	Sıvacı Köyü, Karayakup Mevkii	 Köy$
+34797	Sıvacı Köyü, Sıvacı Mevkii	 Köy$
+34798	Sıvacı Köyü, Taşhan Mevkii	 Köy$
+30722	Teyyaredüzü Mah.	140 Nolu~|141 Nolu~|142 Nolu~|143 Nolu~|144 Nolu~|145 Nolu~|146 Nolu~|147 Nolu~|148 Nolu~|149 Nolu~|150 Nolu~|153 Nolu~|191 Nolu~|192 Nolu~|193 Nolu~|194 Nolu~|195 Nolu~|196 Nolu~|197 Nolu~|198 Nolu~|199 Nolu~|Akis~|Aksen Sema Küçük~|Akyüz~|Altın Yunus@|Alınca_1~|Aslan~|Atatürk%|Ay~|Aydınlar~|Batlama Sanayi@|Boztekke@|Demir~|Fehmi Pamuk~|Fındık~|Güven~|Hamit Naci(özdeş)efendi~|Hasan Dede~|Hasan Dizdar-~|Hasret~|Karabekir~|Kent~|Kısmet~|Makaracı~|Mollaoğlu~|Saman Yolu@|Serkan~|Serpil Uzuner~|Sunta~|Tarım~|Tekin~|Tenekeci Hasan Usta~|Umut~|Virandere~|Yeşil Kent~|Yeşim~|Yurt~|Yüksel~|Yıldız~|Zümrüt~|Çotanak~|Önder~|Ünsal~|Şht.adnan Zıvalıoğlu~|Şht.er Ali Kandemir~|Şht.hasan Dizdar~|Şht.tuğ.gen.bahtiyar Aydın@|Şht.yzb.temel Kuğuoğlu~|Şht.yılmaz Mındız~
+34816	Uzgur Köyü, Alt Mevkii	 Köy$
+34817	Uzgur Köyü, Batlama Mevkii	 Köy$
+98630	Uzgur Köyü, Beyazıt Mevkii	
+34814	Uzgur Köyü, Orta Mevkii	 Köy$
+34815	Uzgur Köyü, Üst Mevkii	 Köy$
+34823	Uzkara Köyü, Dağ Mevkii	 Köy$
+34820	Uzkara Köyü, Devecioğlu Mevkii	 Köy$
+34819	Uzkara Köyü, Dillioğlu Mevkii	 Köy$
+34822	Uzkara Köyü, Ezirkancı Mevkii	 Köy$
+34824	Uzkara Köyü, Fellahoğlu Mevkii	 Köy$
+34821	Uzkara Köyü, Katmecioğlu Mevkii	 Köy$
+34818	Uzkara Köyü, Orta Mevkii	 Köy$
+140821	Yalı Mah.	Aralıcak~|Atatürk%|Defne~|Değirmen~|Gelincik~|Lavanta~|Mimoza~|Orkide-~|Taflan~
+34845	Yaykınlık Köyü, Alioğulları Mevkii	 Köy$
+34847	Yaykınlık Köyü, Ayaroğlu Mevkii	 Köy$
+34846	Yaykınlık Köyü, Orta Mevkii	 Köy$
+34851	Yazlık Köyü, Aligara Mevkii	 Köy$
+34852	Yazlık Köyü, Camiyanı Mevkii	 Köy$
+34849	Yazlık Köyü, Meşeli Mevkii	 Köy$
+34853	Yazlık Köyü, Yaylalı Mevkii	 Köy$
+34848	Yazlık Köyü, Çardakyanı Mevkii	 Köy$
+34850	Yazlık Köyü, Ömerli Mevkii	 Köy$
+34838	Yağmurca Köyü, Akseki Mevkii	 Köy$
+34837	Yağmurca Köyü, Damdüzü Mevkii	 Köy$
+34840	Yağmurca Köyü, Delemaddu Mevkii	 Köy$
+34836	Yağmurca Köyü, Esenyurt Mevkii	 Köy$
+34843	Yağmurca Köyü, Gamaro Mevkii	 Köy$
+34844	Yağmurca Köyü, Karabacakoğlu Mevkii	 Köy$
+34841	Yağmurca Köyü, Kürtünlü Mevkii	 Köy$
+34842	Yağmurca Köyü, Maden Mevkii	 Köy$
+34839	Yağmurca Köyü, Yağmurca Mevkii	 Köy$
+34858	Yenicehisar Köyü, Aşağı Mevkii	 Köy$
+34860	Yenicehisar Köyü, Camiyanı Ustalar Mevkii	 Köy$
+34863	Yenicehisar Köyü, Gıran Mevkii	 Köy$
+34862	Yenicehisar Köyü, Halac Mevkii	 Köy$
+34854	Yenicehisar Köyü, Kömürce Mevkii	 Köy$
+34857	Yenicehisar Köyü, Manar Mevkii	 Köy$
+34856	Yenicehisar Köyü, Saka Mevkii	 Köy$
+34859	Yenicehisar Köyü, Yazlık Mevkii	 Köy$
+34855	Yenicehisar Köyü, Yeni Mevkii	 Köy$
+34861	Yenicehisar Köyü, Çağlanbaşı Mevkii	 Köy$
+34866	Yukarıalınlı Köyü, Boztepe Mevkii	 Köy$
+34865	Yukarıalınlı Köyü, Uzunoğlu Mevkii	 Köy$
+34864	Yukarıalınlı Köyü, İndibi Mevkii	 Köy$
+30725	Çaldağ Köyü, Fatih Mevkii	Batlama=|Duran=|Esenler=|Karacakaya=|Osmanlı=|Turanlar=
+182246	Çaldağ Köyü, Kadıoğlu Mevkii	 Köy$
+182244	Çaldağ Köyü, Macir Mevkii	
+30728	Çaldağ Köyü, Osmaniye Mevkii	Aktaş=|Ambarlı=|Aratepe=|Ayvazlar=|Aşıklar=|Doğabaşı=|Ismailoğulları=|Kadıoğlu=|Recep=|Yurt=|Özbayramlar=|İmamlar=|Ş.üst.teğ.a.bahat=
+182238	Çaldağ Köyü, Topaloğlu Mevkii	 Köy$
+30729	Çaldağ Köyü, Yahyalı Mevkii	Aliefendioğulları=|Aygıtlı=|Batlama=|Cinhacıoğlu=|Erimez=|Haticedağ=|Muhacir=|Yılmazlar=|İsmailoğulları=| Köy$
+182242	Çaldağ Köyü, Ören Mevkii	 Köy$
+34613	Çamlık Köyü, Aşağı Mevkii	 Köy$
+34612	Çamlık Köyü, Kavalcıoğlu Dere Mevkii	 Köy$
+34615	Çamlık Köyü, Mağdalu Mevkii	 Köy$
+34614	Çamlık Köyü, Orta Mevkii	 Köy$
+34618	Çamlık Köyü, Yazlık Mevkii	 Köy$
+34617	Çamlık Köyü, Çoraklık Mevkii	 Köy$
+34616	Çamlık Köyü, Ören Mevkii	 Köy$
+34622	Çandır Köyü, Dikmen Mevkii	Merkez Köy$
+34620	Çandır Köyü, Güre Mevkii	 Köy$
+34623	Çandır Köyü, Kuz Mevkii	 Köy$
+34619	Çandır Köyü, Kıran Mevkii	 Köy$
+34621	Çandır Köyü, Çukur Mevkii	 Köy$
+34629	Çavuşoğlu Köyü, Demiroluk Mevkii	 Köy$
+34630	Çavuşoğlu Köyü, Dereiçi Mevkii	 Köy$
+34627	Çavuşoğlu Köyü, Himmetoğlu Mevkii	 Köy$
+34625	Çavuşoğlu Köyü, Kiltik Kıran Mevkii	 Köy$
+34626	Çavuşoğlu Köyü, Osmanağa Mevkii	 Köy$
+34628	Çavuşoğlu Köyü, Sakaoğlu Mevkii	 Köy$
+34631	Çavuşoğlu Köyü, Yukarı Çavuşoğlu Mevkii	 Köy$
+34624	Çavuşoğlu Köyü, İmamlı Mevkii	 Köy$
+99280	Çaykara Mah.	172 Nolu~|173 Nolu~|58 Nolu~|59 Nolu~|60 Nolu~|61 Nolu~|62 Nolu~|63 Nolu~|64 Nolu~|65 Nolu~|66 Nolu~|67 Nolu~|68 Nolu~|69 Nolu~|70 Nolu~|Ali Usta@|Konakyanı~|Mehmet İzmen@
+180994	Çimşir Köyü	Çimşir=
+99699	Çimşir Köyü, Ağsak Mevkii	Aksak=
+182266	Çimşir Köyü, Sultaniye Mevkii	 Köy$
+34635	Çiçekli Köyü, Camiyanı Mevkii	 Köy$
+34634	Çiçekli Köyü, Killik Mevkii	 Köy$
+34636	Çiçekli Köyü, Topçuali Mevkii	 Köy$
+34633	Çiçekli Köyü, Çınarlar Mevkii	 Köy$
+34638	Çukurköy Köyü, Alt Mevkii	 Köy$
+34639	Çukurköy Köyü, Yahyalı Mevkii	 Köy$
+34637	Çukurköy Köyü, Üst Mevkii	 Köy$
+30702	Çınarlar Mah.	Ali Yazıcı~|Açelya~|Barutçu~|Celal Önbayrak~|Dik~|Dr.baki Gürkan~|Erkut~|Fevzi Paşa@|Gazi@|Gazi Mustafa Kemal%|Gaziler~|Hasan Akbulut~|Jandarma Okulu~|Kale Bayırı~|Kaymak~|Kurtuluş~|Kuyulu~|Menteşeoğlu~|Merdivenli~|Okar~|Ressam Hasan Demirel~|Sokakbaşı@|Temizlik~|Tepe~|Zeytinlik~|Çınar~|Özdemir~|İdilli~|İniş~|Şehitler@|Şht. Er Tekin Çınar~|Şht.süleyman Selçuk~
+30703	Çıtlakkale Mah.	115 Nolu~|116 Nolu~|117 Nolu~|118 Nolu~|119 Nolu~|120 Nolu~|121 Nolu~|122 Nolu~|123 Nolu~|124 Nolu~|125 Nolu~|127 Nolu~|128 Nolu~|129 Nolu~|130 Nolu~|131 Nolu~|132 Nolu~|133 Nolu~|134 Nolu~|135 Nolu~|136 Nolu~|137 Nolu~|138 Nolu~|139 Nolu~|Ak~|Akgün~|Akın~|Atatürk%|Avize~|Avukat Ahmet Ersöz~|Batlama@|Gün~|Hanımeli~|Keskin~|Koser~|Onur~|Petek~|Saffet Beyazıtoğlu~|Sarmaşık~|Seyhan~|Seyit Hoca~|Stadyum~|Sönmez@|Sümbül~|Yaprak~|Yasemin~|Yükselen~|Çizmeci~|Çiçek~|Çıtlak~|Ürün~|İnan~|İnönü@|Şht.er Halil Doboğlu~|Şht.er Mustafa Gedik~|Şht.er.remzi Aydın~|Şht.pyd.çvş.basri Apaydın~
+34834	Ülper Köyü, Bük Mevkii	 Köy$
+34828	Ülper Köyü, Divan Mevkii	 Köy$
+34827	Ülper Köyü, Gündoğdu Mevkii	 Köy$
+34829	Ülper Köyü, Koçmar Mevkii	 Köy$
+34833	Ülper Köyü, Külüoğlu Mevkii	 Köy$
+34835	Ülper Köyü, Kıran Mevkii	 Köy$
+34825	Ülper Köyü, Molo Mahmut Mevkii	 Köy$
+34830	Ülper Köyü, Çakıroğlu Mevkii	 Köy$
+34832	Ülper Köyü, Çerkezli Mevkii	 Köy$
+34831	Ülper Köyü, Çıngılı Mevkii	 Köy$
+34826	Ülper Köyü, İncirli Mevkii	 Köy$
+34712	İncegeriş Köyü, Aşşa Mevkii	 Köy$
+34713	İncegeriş Köyü, Cami Yanı Mevkii	 Köy$
+34720	İncegeriş Köyü, Doruk Mevkii	 Köy$
+34715	İncegeriş Köyü, Kavakboğazı Mevkii	 Köy$
+34719	İncegeriş Köyü, Küperoğlu Mevkii	 Köy$
+34716	İncegeriş Köyü, Piriler Mevkii	 Köy$
+34714	İncegeriş Köyü, Tepe Mevkii	 Köy$
+34717	İncegeriş Köyü, Ulumeşe Mevkii	 Köy$
+34718	İncegeriş Köyü, İbiloğlu Mevkii	 Köy$
+182222	İnişdibi Köyü, Hacıömer Mevkii	 Köy$
+182226	İnişdibi Köyü, Hocaoğlu Mevkii	 Köy$
+99669	İnişdibi Köyü, Mehmetağa Mevkii	Büyükdüz=|Ezenli Sohu=|Fatih=|İmam Kayası=
+30731	İnişdibi Köyü, Merkez Mevkii	Arduçlu=|Batlama=|Fatih=|Hocaoğlu=|Keçilik=|Turizm Yolu Çığdibi=
+182220	İnişdibi Köyü, Yavşuluk Mevkii	 Köy$
+182218	İnişdibi Köyü, Çığdibi Mevkii	 Köy$
+30721	Şeyhkeramettin Mah.	Albay İsmail Özker~|Anafor~|Cemal Gürsel@|Dar~|Fatih@|Gazi@|Gazi Paşa~|Göksu~|Gönül~|Hafız Avni Öğütcü~|Hayat~|Laçin~|Sarı~|Suat Akgün~|Topcu~|Uğur~|İncedayı~

@@ -1,0 +1,29 @@
+24216	Akkaya Köyü	 Köy$
+20400	Alpagut Köyü, Camii Mevkii	Can~|Coşkun~|Hapullar~|Koçak~|Menekşe~|Tozlu~|Yusuflar~|Zafer~|Çetinler~|İmam Ahmet~|İndibi~|Şahin~
+20401	Alpagut Köyü, Cumhuriyet Mevkii	Ak~|Badem~|Bağlar~|Berberler~|Dr.sadık Ahmet~|Esentepe~|Fidan~|Filiz~|Gazi Osman~|Gazi~|Gökyer~|Karalar~|Maden~|Muslu~|Yeni Okul~|Çiftçi~|Özgür~|Şantiye~|Şht.murat Alıcı~
+20402	Alpagut Köyü, Yeniokul Mevkii	Akgül~|Avşar~|Bahçelievler~|Başar~|Bülbül~|Güçlü~|Hürriyet~|Karaburun~|Kirenlik~|Sergen~|Söğutoluğu~|Uludere~|Yeniokul~|Yıldız~|Çal~|Özerler~
+20403	Alpagut Köyü, Yukarı Mevkii	Avcı~|Dal~|Erenler~|Koçak~|Kuzpınar~|Menekşe~|Pınaroğlu~|Yusuflar~|Yüceller~|Zafer~|Çay~|Çınar~|İstiklal~
+24200	Ayvaköy Köyü, Kirenpınarı Mevkii	 Köy$
+24201	Ayvaköy Köyü, Merkez Mevkii	 Köy$
+24199	Ayvaköy Köyü, Tokuş Mevkii	 Köy$
+24198	Ayvaköy Köyü, Yusuflar Mevkii	 Köy$
+24202	Berkköy Köyü, Merkez Mevkii	 Köy$
+24205	Dikenli Köyü, Kabakdere Mevkii	 Köy$
+24207	Dikenli Köyü, Köyün Kendisi Mevkii	 Köy$
+24206	Dikenli Köyü, Soğukeşme Mevkii	 Köy$
+24204	Dikenli Köyü, Şehit Ali Şirin Mevkii	 Köy$
+20396	Doğu Mah.	Akman~|Atatürk@|Bağlar~|Buhara@|Cumhuriyet Myd.|Garipler~|Gazi~|Hacılar~|Harman~|Karamolla~|Kooparatif~|Polat~|Saydam~|Türkoğlu~|Yüzbaşı~|Çakıcı~|Çay~|Özcan~
+20397	Esentepe Mah.	Altmış Evler~|Atatürk@|Beyazıt~|Beşevler~|Celal Bayar@|Dr.sadık Ahmet@|Duman~|Elvan Uğur~|Ertuğrul Gazi~|Esenyurt@|Eser~|Evliya Çelebi~|Fuzili@|Güzey~|Hilal~|Hürriyet@|Kurtuluş~|Kızılırmak@|Lale~|Madenciler@|Mehmet Akif@|Mimar Sinan@|Necip Fazıl~|Orhan Gazi~|Osman Gazi~|Pazar Yeri~|Ramazan Çatar~|Sancak~|Sevim Memiş~|Turgut Özal@|Ufuk~|Uçar~|Vahdet~|Yavuz Sultan Selim@|Yeni Çarşı@|Yunus Emre%|Yüzüncüyıl@|Zafer~|Zübeyde Hanım@|Çamlık~|Çatar Sokutaşı Soğla Yayla Evleri=|Çorum@|İhlas~|İnönü@|İstiklal~|Şafak~|Şahin~|Şht.murat Çatar~
+180806	Fatih Mah.	Adnan Menderes@|Ahmet Yesevi@|Ardıçlık~|Ata@|Barboros~|Berber~|Fatih@|Güreel~|Karanfil~|Lise@|Maden@|Mevlana~|Park~|Samanyolu~|Sazak~|Tuna~|Turgut Reis~|Turgut Özal@|Uysal~|Yeni Mahalle Yayla Evleri=|Yüz Evler@|Yıldız~|Çakır Dede@|İncirlik~
+24215	Kirenci Köyü	 Köy$
+24208	Kuyucak Köyü	 Köy$
+24209	Mehmetdedeobruğu Köyü	 Köy$
+24210	Mehmetdedetekkesi Köyü	 Köy$
+20398	Okul Mah.	Ahmet Erol~|Akgül~|Albayrak~|Buhara@|Güven~|Kaya Pınar~|Maden@|Okul~|Yalçın~|Ömer Tatar@|Ünal~
+24212	Tutuş Köyü	 Köy$
+24211	Tutuş Köyü, Yayla Evleri Yayla Evleri	 Köy$
+20399	Ulucami Mah.	Aydın~|Buhara@|Değirmen~|Garipler~|Guzyaka Yayla Evleri=|Kaya~|Kayapınar~|Türk Oğlu~|Özkan~|Şeyh Habib~
+24214	Yeniköy Köyü, Köyün Kendisi Mevkii	 Köy$
+24213	Yeniköy Köyü, Tırıklar Mevkii	 Köy$
+20395	Çatar Mah.	Çatar=
+24203	Çiftlikköy Köyü	 Köy$

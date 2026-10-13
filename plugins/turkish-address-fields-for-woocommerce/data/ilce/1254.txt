@@ -1,0 +1,77 @@
+53106	Acıköy Köyü	Acıköy=
+53107	Akbıyıklı Köyü	Akbıyıklı=
+53108	Alahacılı Köyü	Alahacılı=
+53109	Alanköy Köyü	Alanköy=
+53110	Alanköy Köyü, B Grubu Mevkii	B Grubu=
+53111	Alimpınar Köyü	Alimpınar=
+53112	Alimpınar Köyü, B Grubu Mevkii	B Grubu=
+53113	Armutlu Köyü, Karakızalanı Mevkii	Karakızalanı=
+53114	Armutlu Köyü, Köyün Kendisi Mezrası	Armutlu=
+53115	Aşağıhacıahmetli Köyü	Aşağıhacıahmetli=
+53118	Aşağıhacıahmetli Köyü, Karakuyu Kümesi Mezrası	Karakuyu Kümesi=
+53116	Aşağıhacıahmetli Köyü, Küme 2 Mevkii	Küme 2=
+53117	Aşağıhacıahmetli Köyü, Küme 3 Mezrası	Küme 3=
+53119	Bahçepınar Köyü	Bahçepınar=
+53120	Baraklı Köyü	Baraklı=
+50067	Bağlarbaşı Mah.	Atatürk@|Bağlar Küme Evleri=|Küme=|Şehit Polis Bekir Ferhat Kaya@
+53121	Beşikli Köyü	Beşikli=
+53123	Beşikli Köyü, Camili Kümesi Mezrası	Camili Kümesi=
+53122	Beşikli Köyü, Işıklar Kümesi Mezrası	Işıklar Kümesi=
+53124	Beşikli Köyü, Karaosman Kümesi Mezrası	Karaosman Kümesi=
+50068	Boyalık Mah.	Necip Bey@|Tarkan~|Tolga~|Turan~|Tuçe~|Tuğrul~|Türbe~|Türker~|Şehit Polis Bekir Ferhat Kaya@
+53125	Bozlar Köyü	Bozlar=
+53126	Bozlar Köyü, Bozlarevci Mevkii	Bozlarevi=
+50074	Boğazevci Köyü, Bağlarbaşı Mevkii	Akgül~|Atatürk~|Bağbaşı~|Fatih~|Mezarlık~|Saydam~|Tuna~|Zafer~|Çeşme~
+50077	Boğazevci Köyü, Güzeltepe Mevkii	Badem~|Cumhuriyet~|Fatih~|Gurbetçiler~|Karanfil~|Kurtuluş~|Lale~|Pamukdöleği~|Sümbül~|Vatan~|Yayla~
+50075	Boğazevci Köyü, Kaletepe Mevkii	101~|Atatürk~|Buzlu~|Kiraz~|Kışla~|Millet~|Orman~|Seyitağa~|Zafer~|Çağlayan~|Çiğdem~
+50076	Boğazevci Köyü, Yeni Mevkii	Alibey~|Atatürk~|Bağbaşı~|Cumhuriyet~|Demirci~|Dere~|Devlet~|Doganay~|Fatih~|Fevzi Çakmak~|Funda~|Gurbetçiler~|Gül99~|Kiraz~|Lale~|Mezarlık~|Muratlar~|Vatan~|Yayla~|Yıldız~|Zafer~|Çeşme~|Çiçek~
+53127	Büyükteflek Köyü	Büyükteflek=|Küçükteflek=
+53133	Demirli Köyü	Demirli=
+53134	Doğankaş Köyü	Doğankaş=
+50069	Fatih Mah.	Bulamaclı Kaplıcası=|Cacabey~|Cemre~|Cengizhan~|Cenk~|Ceren~|Ceyhun~|Cihan~|Cihangir~|Cihat~|Cumhur~|Kaplıca=|Ulubatlı Hasan@|Çağatay~|Çağla~|Çağrı~
+50070	Fevzi Çakmak Mah.	Alparslan Türkeş%|Bahadır~|Bahar~|Baki~|Bayraktar~|Baysal~|Bayçamoğlu~|Bayındır~|Bedir~|Bereket~|Bilge~|Bilgin~|Bozkurt~|Boğachan~|Burak~|Burcak~|Burcu~|Buğra~|Büşra~|Camii=|General Hasan Cemil Erdem~|Mehmet Akif Ersoy@|Ortaokul=|Osmangazi@|Y.s.selim@|Şükrü Şahin@
+53135	Gölcük Köyü	B Grubu=|Bozlar=|Bozlarevi=|Gölcük=
+53136	Gölcük Köyü, B Grubu Mevkii	B Grubu=
+53137	Hacıduraklı Köyü	Hacıduraklı=|Harmanpınar=
+53138	Hacıhasanlı Köyü, A Grubu Mevkii	A Grubu=
+53139	Hacıhasanlı Köyü, B Grubu Mevkii	B Grubu=
+53142	Hacıhasanlı Köyü, Cenderözü Mezrası	Cenderözü=
+53140	Hacıhasanlı Köyü, Hüseyinli Çiftliği Mezrası	Hüseyinli Çiftliği=
+53141	Hacıhasanlı Köyü, İğdeliöz Mezrası	İbikli=|İğdeliöz=
+53143	Hacıoğlu Köyü	Hacıoğlu=
+53144	Halaçlı Köyü	Halaçlı=|Küme Evler=
+53145	Harmanpınar Köyü	Alimpınar=|Harmanpınar=|Çepni=
+53146	Haydarlı Köyü	Haydarlı=
+53148	Kabaklı Köyü	Kabaklı=
+53149	Kaleevci Köyü	Kaleevci=
+53150	Kavaklıöz Köyü	Kavaklıöz=
+53153	Konurkale Köyü	Konurkale=
+50078	Köseli Beldesi, Bahçelievler Mah.	Adnan Menderes@|Ahmet Ahlatçı@|Alperen-1=|Armağan@|Arıcılar@|Asım Aslan~|Atatürk@|Atmaca~|Bahar@|Bahçeli~|Bahçelievler4~|Bahçelievler5~|Ekrem Gençaslan@|Eren~|Eren1~|Eren2~|Esin Demir~|Fevzi Çakmak1~|Fırat Çakıroğlu~|Gazel~|Göktürk~|Gözde~|Hüzün~|Hüzün1~|Hüzün2~|Merve~|Meşrutiyet@|Narin~|Selanik@|Selanik1~|Vatan@|Yıldız=|Zeytın Dalı~|Şehit Kamil Çelikkaya@|Şehit Kamil Çelikkaya_1@
+50079	Köseli Beldesi, Cumhuriyet Mah.	Ahu~|Alev~|Alev3~|Alev4~|Alev5~|Alperen-1=|Alperen-2=|Bağcılar~|Dadaloğlu~|Dalyan=|Elem~|Elem1~|Işıl~|Işıl1~|Işıl2~|Zübeyde Hanım~|Ülkü~|İlci_1=|Şehit Kamil Çelikkaya_1@|Şht.abdulkadir Karaca@|Şht.abdulkadir Karaca1~
+50082	Köseli Beldesi, Devreceli Mah.	Ahi Evran Kümeevleri 1=|Güzelyurt-1=|Güzelyurt-2=|Yamuklar@|Üzümlü@|İşler~|İşler1~
+50081	Köseli Beldesi, Çiftlik Mah.	Akgül@|Akgül1~|Arifiye Erol Kaya@|Arifiye Erol Kaya2~|Arı~|Barış Pınarı~|Bayrak@|Bayrak1~|Belediye~|Beşevler=|Bostancıoğlu@|Ceylan~|Damla~|Dikili~|Dilek~|Doğu~|Enes@|Fahri Korutürk@|Güler~|Gümüş~|Gümüş1~|Güneş~|Güven@|Havuz Torun~|Havuz Torun-~|Havuz Torun1~|Havuz Torun3~|Havuz Torun_1~|Huzur~|Karanfil~|Kardelen@|Mithatpaşa@|Mithatpaşa/1~|Mithatpaşa5~|Nedim~|Park@|Pınar~|Pınar1~|Pınar6~|Sakarya@|Sağlık~|Sedef~|Seval@|Taş~|Taş1~|Toprak~|Turgut Özal@|Yamuklar@|Yaprak@|Yaprak1~|Yaprak2~|Yaren~|Çakıllı Dere~|Çiğdem~|Ümit~|İlci -=|İnci~|İnönü@|İnönü1~|Şahin=|Şahinoğlu~|Şehit@|Şehit Serkan Göker~|Şehit İbrahim Yıldız~|Şht.abdulkadir Karaca@
+50080	Köseli Beldesi, Çiçek Mah.	Alev~|Alparslan~|Arifiye Erol Kaya@|Arifiye Erol Kaya1~|Bal~|Barbaros Hayrettin Paşa@|Başak~|Beşevler=|Bilinmeyen3~|Bilinmeyen4~|Bilinmeyen7~|Bilinmeyen8~|Cem=|Cumhuriyet/1~|Cumhuriyet/11~|Cumhuriyet/15~|Cumhuriyet/2~|Cumhuriyet/20~|Cumhuriyet/21~|Cumhuriyet/26~|Cumhuriyet/29~|Cumhuriyet/33~|Cumhuriyet/50~|Cumhuriyet/51~|Cumhuriyet/61~|Cumhuriyet/70~|Cumhuriyet/80~|Cumhuriyet/90~|Cumhuriyet/92~|Cumhuriyet/98~|Cumhuriyet/99~|Demirli Kavak=|Fahri Korutürk@|Fevzi Çakmak1~|Fırtına~|Gazi~|Görkem~|Hüzün~|Hüzün1~|Hüzün3~|Kaya~|Kazım Çağlayan@|Kozalak~|Lalezar~|Orkide=|Papatya~|Papatya/1~|Sinem~|Söğüt~|Sümbül~|Tuna~|Yamuklar@|Yavuz-~|Yörükoğlu~|Yücel Avcı~|Çamlık~|Çatal~|Önder~|Özlem~|Özlem1~|Üzümlü@|Üzümlü1~|İlci=|Şehit Kamil Çelikkaya@|Şehit Kamil Çelikkaya_1@|Şehit Yüzbaşı Mustafa Erdal@|Şht.abdulkadir Karaca@
+53154	Küçükteflek Köyü	Küçükteflek=|Tatbekirli=|Çepni=
+53151	Kırdök Köyü	Kırdök=|Topalali=|Yukarıhacıahmetli=
+53152	Kızılcalı Köyü	Kızılcalı=
+53155	Mahmutlu Köyü	Mahmutlu=
+53156	Mahmutlu Köyü, Mezra Mezrası	Mahmutlu=
+53157	Ortahacıahmetli Köyü	Ortahacıahmetli=|Yukarıhacıahmetli=
+50071	Osman Şevki Mah.	Atatürk@|Bülbül~|Gül~|Güneş~|Huzur~|Kanarya~|Karanfil~|Kardelen~|Lale~|Menekşe~|Mezarlık=|Papatya~|Reşat Akyon@|Sarmaşık~|Susam~|Yıldız~|Çiçek~|Çiğdem~|Şehit Piyade Çavuş Muhammet Can@|Şehit Polis Bekir Ferhat Kaya@
+53158	Pöhrenk Köyü	Pöhrenk=
+53159	Safalı Köyü	Safalı=
+53161	Tatbekirli Köyü	Tatbekirli=
+53162	Tatbekirli Köyü, Çiftlik İşletmesi Mevkii	Küçükteflek=|Çiftlik İşletmesi=
+53163	Tepecik Köyü	Tepecik=
+53164	Topalali Köyü	Topalali=
+53165	Yalnızağaç Köyü	Yalnızağaç=
+50072	Yeni Mah.	Afşin~|Alpago~|Alparslan Türkeş%|Alper~|Altay~|Amine~|Asena~|Asilay~|Aslıhan~|Atabey~|Atatürk@|Aybala~|Aybars~|Aybike~|Aytuğ~|Ayzıt~|Ayşin~|Azer~|Esentepe=|Göktürk=|Günbey~|Müftü Hayrullah Efendi@|Namık Kemal@|Villa=|Yıldırım Beyazıt@|Ziya Gökalp@|İsmet Paşa@|Şht. Jan. Er İsmail Yakup Ünsaldı@|Şht.yüz.hasan Gök~
+50073	Yenişehir Mah.	Ali Galip Gençoğlu~|Alparslan Türkeş%|Atatürk@|Koray~|Korhan~|Korkut Ata~|Kürşat~|Mezarlık_1=|Şehit Polis Bekir Ferhat Kaya@
+53166	Yukarıhacıahmetli Köyü	Yukarıhacıahmetli=
+53128	Çanakpınar Köyü	Çanakpınar=
+53129	Çepni Köyü	Küçükteflek=|Çepni=
+53130	Çiçekli Köyü	Çiçekli=
+53131	Çopraşık Köyü	Çopraşık=
+53132	Çubuktarla Köyü	A Grubu=|Yukarıhacıahmetli=|Çubuktarla=
+53147	İbikli Köyü	İbikli=
+53160	Şahinoğlu Köyü	Akbıyıklı=|Şahinoğlu=

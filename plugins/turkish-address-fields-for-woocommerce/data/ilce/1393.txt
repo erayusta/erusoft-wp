@@ -1,0 +1,70 @@
+174653	Akçakebir Mah.	Akçakebir=
+174593	Akçaören Mah.	Akçaören=|Bingöl=|Geçitağzı=|Kurkutlu=|Nasrettin=
+174595	Alpı Mah.	Alpı=|Geyikören=
+174979	Arabuk Mah.	Tutumlu=
+174599	Arpalı Mah.	Arpalı=
+174597	Arıca Mah.	Arıca=|Dindek=
+174655	Arınık Mah.	Arınık=|Kaymaz=|Kıyıbaşı=|Üstüntaş=
+174657	Aslanlı Mah.	Aslanlı=|Aylaç=|Dalıca=|Ekinlik=|Hıdırveren Küme Evleri=|Yüksek Okul@
+174691	Aydınlı Mah.	Aydınlı=
+174591	Ağveren Mah.	Ağveren=
+174669	Ağılmus Mah.	Ağılmus=
+174711	Aşağıekece Mah.	Aşağıekece=|Bardaklı=|Ertuğrul=
+174603	Aşağıkamış Mah.	Aşağıkamış=|Yukarıkamış=
+174687	Aşağıkülünçe Mah.	Aşağıkülünçe=|Kubbeli=|Kışla=|Sumaklı=|Tilki=|Yıldız=|Şahabettin=
+174601	Aşağıçatak Mah.	Aşağıçatak=|Yukarı Çatak=|Yüksek Okul@
+174607	Bahçecik Mah.	Bahçecik=|Yüceler=|Şahpeli=
+80396	Bahçelievler Mah.	201~|202~|203~|204~|205~|206~|207~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|228~|229~|230~|231~|235~|236~|237~|238~|239~|240~|241~|242~|243~|244~|245~|246~|247~|248~|250~|251~|253~|254~|255~|256~|258~|259~|260~|261~|262~|263~|264~|265~|266~|267~|268~|269~|270~|271~|272~|273~|274~|275~|276~|277~|278~|279~|280~|281~|282~|283~|284~|285~|295~|300~|303~|350~|398~|399~|400~|Diyarbakır@|Faruk Bayrak@|Küme Evleri=|Müftüoğlu@|Sanayi 1@|Sanayi 2@|Sanayi 3@|Sanayi 4@|Sanayi 5~|İzollu Bozan Bey@
+174609	Balkı Mah.	Balkı=
+174611	Barğaç Mah.	Barğaç=|Yenidoğan=
+80395	Bağlar Mah.	15 Temmuz Demokrasi@|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|714~|715~|716~|717~|718~|719~|721~|722~|723~|724~|725~|726~|727~|728~|729~|730~|731~|731/1~|732-~|733~|734~|735~|737~|738~|739~|740-~|741~|742~|743~|744~|745~|746~|747~|748~|749~|750~|751~|752~|753~|754~|755~|756~|757~|758~|759~|760~|761~|762~|763~|764~|765~|766~|767~|768~|769~|770~|771~|772~|773~|774~|775~|777~|778~|779~|780~|781~|782~|784~|785~|786~|787~|788~|789~|790~|791~|792~|793~|794~|795~|796~|797~|798~|799~|800~|801~|802~|803~|804~|805~|806~|807~|809~|810~|812~|813~|814~|815~|816~|817~|818~|819~|820~|821~|822~|823~|824~|825~|826~|827~|829~|830~|831~|834~|835~|836~|837~|838~|839~|840~|841~|842~|843~|845~|846~|848~|849~|850~|851~|852~|853~|854~|855~|856~|857~|858~|859~|860~|861~|862~|863~|864~|865~|866~|867~|868~|871~|874~|880~|881~|888~|896~|900~|901~|902~|903~|904~|905~|906~|907~|908~|909~|910~|911~|912~|913~|914~|915~|916~|917~|918~|919~|920~|921~|922~|923~|924~|925~|926~|927~|928~|929~|930~|931~|932~|933~|934~|935~|Abdullah Gül@|Abuzer Erkan@|Bağlar Küme Evleri=|Diyarbakır@|Eyyüp Cenap Gülpınar@|Gölcük@|M.sedat Aban@|İsa Tektaş@|İzollu Bozan Bey@|Ş.s.a.demirtaş~
+174613	Buğur Mah.	Başçıl=|Buğur=|Erkolu=|Yeşilköy=|Yüksek Okul@|Şeftali=
+174659	Bölükbaşı Mah.	Balık=|Bölükbaşı=|Çöte=|Ülkü=
+174663	Doğrular Mah.	Ballıca=|Doğrular=|Güllice=|Çaltepe=
+174615	Faik Mah.	Aşağı Gökçeören=|Faik=|Gökçeören=|Kuşluhan=|Çağla=
+174697	Gelenek Mah.	Gelenek=|Yukarı Ekece=
+174617	Göktepe Mah.	Göktepe=|Külaplı=|Yüksek Okul@
+174651	Gölcük Mah.	Akbaş=|Gölcük 1=|Gölcük Karayolu=
+174677	Gölebakan Mah.	Gölebakan=
+174715	Gülaldı Mah.	Gülaldı=
+174685	Güluşağı Mah.	Angaç=|Bahçeli=|Paşa=|Yeni Kocabey=
+174649	Gürgür Mah.	Gürgür=
+174619	Hanmağara Mah.	Hanmağara=
+174713	Hayrat Mah.	Hayrat=
+174639	Hoşin Mah.	Altaş=|Gülcihan Küme Evler=|Uluyazı=|Uğra=|Yıldızlı=
+174621	Kadıkent Mah.	Kadıkent=
+174623	Karaburç Mah.	Karaburç=
+80393	Karacurun Mah.	1~|10~|1001~|101~|102~|103~|104~|105~|106~|107~|108~|109~|11~|110~|111~|112~|113~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|4~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|5~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|8~|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|9~|90~|91~|92~|93~|94~|95~|96~|97~|98~|99~|Bağ=|Diyarbakır@|Eski Çarşı@|Faruk Bayrak@|Karacurun/1~|Kepir Hisar@|Müftüoğlu@|Veysi Bayık@|İzollu Bozan Bey@|Şehit İsmail Alıcı~
+174605	Karakucak Mah.	Aşağıkucak=|Demoğlu=
+174665	Karapınar Mah.	Bozhöyük=|Karapınar=
+174699	Kavalık Mah.	Gazibey=|Hayrat=|Kavalık=
+174625	Kepirhisar Mah.	Hanmağara=|Kepirhisar=|Malören=
+174667	Kepirkucak Mah.	Kepirkucak=
+174629	Korgun Mah.	Korgun=
+174701	Kovancı Mah.	Esenler=|Kovancı=
+174671	Kuskunlu Mah.	Akıncak=|Arcabulak=|Gökdirek=|Kuskunlu=|Otluca=|Susamlı=|Yeniköy=
+174679	Küçükgölcük Mah.	Küçükgölcük=
+174627	Kırbaşı Mah.	Düzyol=|Kırbaşı=|Ulaç=|Yalgın=|Yukarı Külünçe=|Yüksek Okul@
+174631	Malören Mah.	Alyele=|Malören=
+174673	Mantarlı Mah.	Aşağı Eşkaya=|Mantarlı=|Yukarı Eşkaya=
+174689	Orgız Mah.	Atamer=|Aşağı Çaylı=|Yeni Anbar=|Yukarı Çayırlı=
+174683	Ovacık Mah.	Ovacık=
+174703	Oymaağaç Mah.	Kızılkaya=|Mağarcık=|Oymaağaç=|Oymaağaç/1=|Sürek=|Sındırgı=|Yeni Narince=
+174637	Saluca Mah.	Saluca=
+174681	Sucuhan Mah.	Sucuhan=
+174705	Söğütlü Mah.	Hayrat=|Söğütlü=
+174641	Ustahasan Mah.	Ustahasan=|Çekören=
+174643	Uzuncuk Mah.	Tepecik=|Uzuncuk=
+174707	Yakınyurt Mah.	Akçamescit=|Yakınyurt=
+80397	Yeni Mah.	15 Temmuz Demokrasi@|403-~|404~|406~|407~|408~|409~|411~|412~|414~|415~|416~|417~|418~|419~|420~|421~|422~|423~|425~|427~|428~|429~|430~|431~|432~|433~|434~|435~|436~|437~|438~|439~|440~|442~|443~|444~|445~|446~|447~|448~|449~|452~|453~|454~|456~|458~|459~|460~|461~|462~|464~|465~|467~|468~|469~|470~|471~|472~|473~|474~|475~|476~|477~|478~|479~|480~|481~|482~|484~|485~|486~|487~|488~|489~|490~|491~|492~|493~|494~|495~|496~|497~|498~|500~|501~|503~|504~|507~|508~|509~|510~|511~|512~|513~|514~|515~|516~|517~|518~|519~|520~|521~|522~|523~|526~|527~|528~|529~|530~|531~|532~|533~|534~|535~|536~|537~|539~|540~|541~|542~|543~|544~|545~|546~|547~|548~|549~|550~|551~|552~|553-~|554-~|559~|560~|561~|562~|563~|564~|565~|566~|567~|568~|569~|570~|572~|573~|574~|575~|576~|577~|578~|579~|580~|581~|582~|583~|584~|585~|586~|587~|588~|589~|590~|591~|592~|593~|594~|595~|596~|597~|598~|599~|600~|601~|602~|603~|604~|605~|606~|622~|623~|630~|632~|634~|75.yıl@|Celal Paydaş@|Cengiz Topel@|Diyarbakır@|Emin Güner@|Gölcük@|Haci Maksut Demiryeri@|Kamelya~|Konak@|Korcık=|M.sedat Aban@|Subatan=|Yeni Yol/1~|Yeni/1~|Yeni/2~|Yeni/3~|Yeni/4~|Yeni/5~|Yeni/6~|Yeni1~|İzollu Bozan Bey@|Ş.ihsan Yılmaz~
+174709	Yeşerdi Mah.	Güluşağı=|Yeşerdi=
+174647	Yuvacalı Mah.	Yuvacalı=|Çakır=
+174693	Çakmak Mah.	Çakmak=
+174695	Çat Mah.	Çat=
+174661	Çağıllı Mah.	Karpuzlu=|Çamurlu=|Çağıllı=
+80394	Çimdeli Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1023~|1024~|1025~|1026~|1026/1~|1027~|1028~|1029~|1030~|1031~|Beyazıt@|Mustafa Kılıç 1=|Mustafa Kılıç@|Çimdeli=|Çimdeli/1=|Çimdeli/2~|Çimdeli/3~|Çimdeli/4~|Çimdeli1~
+174633	Ömerli Mah.	Ömerli=
+174635	Özbaş Mah.	Külli=|Özbaş=
+174675	Özveren Mah.	Özveren=
+174645	Üçüzler Mah.	Yüksek Okul@|Üçüzler=
+174717	İncirli Mah.	Aşağı İncirli=|Yukarı İncirli=

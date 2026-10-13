@@ -1,0 +1,52 @@
+11055	Armutlu Mah.	150~|155~|160~|165~|170~|175~|180~|185~|190~|193~|193/1~|195~|204~|206~|207~|208~|208/1~|209~|211~|212~|213~|214~|216~|217~|218~|219~|221~|222~|223~|224~|231~|232~|232/1~|233~|234~|236~|237~|238~|239~|241~|242~|243~|244~|245~|246~|247~|248~|249~|250~|251~|252~|253~|254~|255~|256~|257~|260~|261~|Abdulhamit Han@|Adnan Menderes@|Cumhuriyet@|M.erkal@|Mandıra@|Merkez İlkokul@|Çameli 1.~|Çameli@|İnönü 1.~|İnönü 2.~|İnönü@
+19534	Asmalı Köyü	Asmalı Köy$
+19554	Elmalıyurt Köyü, Balcılar Mevkii	Balcılar Köy$
+19544	Elmalıyurt Köyü, Bayramlar Mevkii	Bayramlar Köy$
+19543	Elmalıyurt Köyü, Başpınar Mevkii	Başpınar Köy$
+19550	Elmalıyurt Köyü, Damarası Mevkii	Damarası Köy$
+19547	Elmalıyurt Köyü, Delicin Mevkii	Delicin Köy$
+19556	Elmalıyurt Köyü, Divre Mevkii	Divre Köy$
+19548	Elmalıyurt Köyü, Doğanlar Mevkii	Doğanlar Köy$
+19553	Elmalıyurt Köyü, Göçekiçi Mevkii	Göçekiçi Köy$
+19541	Elmalıyurt Köyü, Hanyanı Mevkii	Hanyanı Köy$
+19537	Elmalıyurt Köyü, Karataş Mevkii	Karataş Köy$
+19546	Elmalıyurt Köyü, Kelaliler Mevkii	Kelaliler Köy$
+19551	Elmalıyurt Köyü, Künüklü Mevkii	Künüklü Köy$
+19538	Elmalıyurt Köyü, Kürtlüyamaç Mevkii	Kürtlüyamaç Köy$
+19539	Elmalıyurt Köyü, Merkez Mevkii	Merkez Köy$
+19542	Elmalıyurt Köyü, Orta Mevkii	Orta Köy$
+19552	Elmalıyurt Köyü, Pazar Yeri Mevkii	Pazar Yeri Köy$
+19555	Elmalıyurt Köyü, Selmanlar Mevkii	Selmanlar Köy$
+19549	Elmalıyurt Köyü, Tekeliler Mevkii	Tekeliler Köy$
+19557	Elmalıyurt Köyü, Turanlar Mevkii	Turanlar Köy$
+19540	Elmalıyurt Köyü, Yılanlı Mevkii	Yılanlı Köy$
+19545	Elmalıyurt Köyü, Çamiçi Mevkii	Çamiçi Köy$
+19536	Elmalıyurt Köyü, Çayiçi Mevkii	Çayiçi Köy$
+19558	Evciler Köyü, Deprem Evleri Mevkii	Depremevleri Köy$
+19559	Evciler Köyü, Merkez Mevkii	Merkez Köy$
+11058	Fatih Mah.	110~|115~|120~|125~|130~|135~|140~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|153/1~|154~|156~|158~|159~|161~|171~|172~|173~|174~|176~|177~|178~|178/1~|179~|181~|182~|183~|184~|186~|187~|188~|189~|191~|192~|193~|194~|196~|197~|198~|199~|199/1~|201~|202~|202/1~|203~|207~|Abdulhamit Han 1.~|Abdulhamit Han@|Adnan Menderes@|Cumhuriyet@|Kumluk@|Osman Doğan 2.~|Osman Doğan 3.~|Osman Doğan@|Turgut Özal@
+19561	Hisarardı Köyü, Kocatarla Mevkii	Kocatarla Köy$
+19560	Hisarardı Köyü, Merkez Mevkii	Merkez Köy$
+11059	Horzum Mah.	504~|515~|520~|525~|533~|534~|536~|541~|542~|553~|557~|558~|559~|561~|562~|571~|706~|711~|712~|713~|714~|715~|716~|717~|718~|719~|720~|721~|722~|723~|724~|726~|727~|728~|729~|731~|731/1~|731/2~|731/3~|731/4~|733~|751~|752~|753~|754~|756~|757 /1~|757~|758~|759~|Belen 1.~|Belen 2.~|Belen@|Demokrasi@|Eski Burdur Yolu@|Gürkanlar@|Hamdi Yazır@|Kazım Karabekir@|Leylek@|Madanzade@|Mehmet Akif Ersoy%|Uzun 1.~|Uzun@|Zambak@|Ziya Gökalp@|Şehit M.ali Özer@
+19562	Karapınar Köyü, Kuşdili Mevkii Mevkii	Kuşdili Köy$
+19563	Karapınar Köyü, Merkez Mevkii	Merkez Köy$
+19564	Kargalı Köyü, Merkez Mevkii	Merkez Köy$
+19565	Kargalı Köyü, Yağpınarı Mevkii	Yağpınarı Köy$
+11060	Konak Mah.	520~|525~|530~|535~|540~|543~|544~|545~|546~|550~|551~|552~|553~|554~|555~|560~|563~|564~|565~|566~|567~|568~|569~|570~|571~|572~|573~|573/1~|574~|575~|576~|577~|580~|585~|590~|595~|670~|670/1~|725~|730~|733~|735~|740~|741~|742~|743~|744~|745~|746~|747~|748~|749~|750~|755~|757~|759~|760~|761~|762~|763~|765~|770~|771~|772~|773~|774~|775~|776~|777~|778~|780~|781~|782~|783~|784~|785~|786~|787~|788~|789~|790~|791~|792~|793~|794~|796~|797~|798~|799~|800~|801~|802~|803~|804~|805~|806~|807~|808~|809~|810~|811~|812~|813~|814~|815~|816~|817~|818~|819~|820~|821~|822~|825~|830~|832~|833~|834~|835~|836~|837~|838~|839~|840~|845~|Belen@|Demokrasi@|Değirmen@|Eski Burdur Yolu@|Gürkanlar@|Kazım Karabekir@|Leylek 1.~|Leylek 2.~|Leylek@|Madanzade 1.~|Madanzade@|Mehmet Akif Ersoy 1.~|Mehmet Akif Ersoy%|Uzun@|Ziya Gökalp@|Şehit M.ali Özer@|Şehit Zeki Erol 1.~|Şehit Zeki Erol 2.~|Şehit Zeki Erol@
+11061	Merkez Camii Mah.	370~|375~|375/1~|380~|385~|385/1~|390~|395~|395/1~|400~|404~|405~|410~|414~|414/1~|415~|416~|417~|418~|419~|420~|421~|422~|423~|424~|425~|426~|427~|428~|429~|430~|431~|432~|433~|434~|436~|437~|438~|439~|440~|441~|442~|443~|444~|446~|447~|448~|449~|451~|452~|453~|454~|456~|457~|458~|459~|466~|467~|468~|469~|470~|471~|472~|473~|474~|475~|476~|477~|478~|Atatürk 1.~|Atatürk 2.~|Atatürk 3.~|Atatürk@|Burdur@|Cumhuriyet@|Fethiye@|Hamdi Yazır@|Kümbet 1.~|Kümbet@|M.erkal@|Mehmet Akif Ersoy%|Recep Tayyip Erdoğan@
+11062	Pazar Mah.	350~|351~|351/1~|352~|353~|354~|355~|356~|357~|360~|361~|362~|362/1~|363~|364~|365~|366~|367~|367/1~|368~|369~|371~|372~|373~|374~|376~|377~|377/1~|378~|379~|381~|382~|383~|383/1~|384~|386~|387~|388~|389~|391~|392~|393~|393/1~|394~|396~|397~|398~|399~|401~|402~|403~|406~|407~|408~|409~|411~|412~|413~|445~|500~|501~|502~|503~|504~|505~|505/1~|506~|507~|508~|509~|510~|516~|517~|518~|519~|521~|522~|523~|524~|525~|526~|527~|528~|529~|531~|532~|533~|534~|536~|537~|538~|542~|Atatürk@|Av. Hüseyin Aslan@|Burdur@|Cumhuriyet@|Cumhuriyet. Myd.|Demokrasi@|Hal@|Hamdi Yazır@|Kazım Karabekir@|Leylek@|Madanzade@|Mehmet Akif Ersoy 2.~|Mehmet Akif Ersoy%|Recep Tayyip Erdoğan@|Selanik@|Turgut Özal@|Zambak@
+19566	Sorkun Köyü	Sorkun Köy$
+11063	Ulucamii Mah.	195~|200~|200/2~|205~|210~|215~|220~|225~|230~|245~|246~|261~|262~|263~|264~|265~|266~|267~|267/1~|267/2~|268~|269~|270~|271~|272~|273~|274~|275~|276~|277~|278~|278/1~|279~|280~|281~|282~|283~|284~|285~|286~|287~|288~|289~|290~|290/1~|291~|292~|293~|294~|295~|296~|297~|298~|299~|300~|301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|435~|440~|472~|Fethiye 1.~|Fethiye 2.~|Fethiye 3.~|Fethiye 4.~|Fethiye 5.~|Fethiye@|M.erkal@|Mandıra 1.~|Mandıra 2.~|Mandıra@|Çameli 1.~|Çameli 2.~|Çameli 3.~|Çameli 4.~|Çameli 5.~|Çameli@
+19567	Uylupınar Köyü, Merkez Mevkii	Merkez Köy$
+19568	Uylupınar Köyü, Yukarı Mevkii	Yukarı Köy$
+19569	Yamadı Köyü	Yamadı Köy$
+19571	Yeşildere Köyü, Gökçe Pınar Mevkii	Gökçe Pınar Köy$
+19570	Yeşildere Köyü, Merkez Mevkii	Merkez Köy$
+19572	Yeşildere Köyü, Üçoluk Mevkii	Üçoluk Köy$
+140893	Yusufça Beldesi, Yusufça Mevkii	1090~|1100~|1101~|1102~|1103~|1104~|1105~|1106~|1107~|1108~|1109~|1110~|1111~|1112~|1113~|1114~|1115~|1116~|1117~|1118~|1119~|1120~|1121~|1122~|1123~|1124~|1125~|1126~|1127~|1128~|1129~|1130~|1135~|1140~|1141~|1141/1~|1142~|1143~|1144~|1145~|1146~|1147~|1148~|1149~|1150~|1151~|1151/1~|1152~|1153~|1154~|1155~|1156~|1156/1~|1156/2~|1157~|1158~|1159~|1160~|1161~|1162~|1163~|1164~|1165 1.~|1165~|1167~|1168~|1169~|1170~|1171~|1172~|1173~|1173-~|1174~|1175~|1176~|1178~|1179~|1180 /1~|1180~|1181~|1181/1~|1182~|1183~|1184~|1185~|1186~|1187~|1188~|1189~|1191~|1192~|1193~|1194~|1196~|1197~|1198~|1199~|1201~|1300~|1301~|1302~|1303~|1304~|1305~|1306~|1307~|1308~|1309~|1310~|1311~|1312~|1314~|1315~|1316~|1317~|1318~|1319~|1320~|1321~|1323~|1324~|1325~|1326~|1327~|1328~|1329~|1330~|1332~|1333~|1335~|1340~|1345~|1350~|1355~|1360~|1365~|1370~|1375~|1380~|1385~|1385/1~|1390~|1395~|Akasya 1.~|Akasya@|Ardıçlı Musluk 1.~|Ardıçlı Musluk 2.~|Ardıçlı Musluk@|Dere@|Fatih Sultan Mehmet 1.~|Fatih Sultan Mehmet@|Gazi Mehmet Çavuş 1.~|Gazi Mehmet Çavuş@|Gazi Çolak Halil Onbaşı 1.@|Gazi Çolak Halil Onbaşı@|Gültepe 1.~|Gültepe@|Hacı Emin Efendi@|Huzur~|Karaahmetoğlu@|Kumbeleni 1.~|Kumbeleni@|Kurtuluş 1.~|Kurtuluş 2.~|Kurtuluş 3.~|Kurtuluş@|Mahmut Dede@|Malazgirt 1.~|Malazgirt 2.~|Malazgirt@|Mehmet Akif Ersoy 3.~|Mehmet Akif Ersoy%|Yusuf Efe@|İbrahim Efendi@|İsmail Ural@|İstiklal 2.~|İstiklal@
+11056	Çakmak Mah.	Çakmak@
+19535	Çamköy Köyü	Denizli Antalya@|Çamköy Köy$
+11057	Çeşme Mah.	100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|112/1~|113~|114~|116~|117~|118~|119~|121~|121/1~|122~|123~|123/1~|124~|126~|127~|128~|129~|131~|133~|133/1~|133/2~|141~|142~|143~|144~|147~|153~|154~|157~|158~|158/1~|700~|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|Adnan Menderes@|Cumhuriyet@|Cumhuriyet. Myd.|Demokrasi@|Hürriyet@|Kbrya@|Kumluk@|Orman Fidanlığı=|Osman Doğan 1.~|Osman Doğan@|Turgut Özal@|Zambak@|Ziya Gökalp@
+11064	İbecik Köyü, Yapraklı Mevkii	Arılık 1.~|Arılık~|Atatürk 1.~|Atatürk 2.~|Atatürk 3.~|Atatürk~|Cumhuriyet 1~|Cumhuriyet~|Değirmenbaşı 1.~|Değirmenbaşı~|Eren~|Gölbaşı~|Hürriyet~|Karşıyaka~|Pehlivan~|Pınar~|Türkmenler~|Şamlılar~
+11066	İbecik Köyü, Yeni Mevkii	Arıkaya Yolu~|Bilaller~|Cumhuriyet 1~|Cumhuriyet 3~|Cumhuriyet~|Elmayanı~|Gölhisar Yolu~|Hürriyet~|Koca Arıkbaşı~|Lale~|Menekşe~|Ovacıklılar~
+11065	İbecik Köyü, Çamlık Mevkii	Aktepe 1.~|Aktepe 2.~|Aktepe~|Aslan~|Cumhuriyet~|Cumhuriyett~|Deregözü~|Hacılar~|Kayalı~|Nergis~|Sümbül~|Türkmenler~|İstiklal~|Şamlılar~

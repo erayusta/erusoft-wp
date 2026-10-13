@@ -1,0 +1,45 @@
+185305	Akbaşlı Mah.	Akbaşlı~
+185307	Arifağa Mah.	Eskiokul~|Eğreltibayır~|Karaboğaz~|Tepe~
+185309	Başoğlu Mah.	14.cadde@|15.cadde@|2.cadde@|6.cadde@|7.cadde@|Aşağı Körük~|Falih Rıfkı Atay@|Körük~|Kızılcıklı Burun~|Merkez~
+185311	Birlik Mah.	Karabacak~|Karpuzlar~|Keşkekler~
+185313	Büyükyanık Mah.	Yeni~|Yeniköy~|Zıngılkışla~
+185315	Cebek Mah.	Cebek~
+185317	Duduköy Mah.	Hacı Oğlu~|Pahadır~|Zıngıllar~
+185319	Eğrioğlu Mah.	Odacılar~|Tömekler~
+185321	Gaziler Mah.	Dedeler~|Mollaahmetler~|İnanlar~
+185323	Gölce Mah.	Gölce~
+185325	Gürpınar Mah.	Dokuzoluk~|Gırgırlar~|Kabaköy~
+185327	Güven Mah.	Balcılar~|Durmuşlar~|Hasanbey~|Kadıköy~|Kitler~|Reisler~
+61727	Hatipler Mah.	Acar~|Adliye~|Bostan~|Ekin~|Emek@|Ferit Saner@|Gül~|Hacıköy@|Hasanbey~|Hatipoğlu~|Kandıra@|Karaboğaz@|Karakaş~|Karanfil~|Karayel~|Karşıyaka~|Kuzu~|Lale~|Manolya~|Menekşe~|Narçiçeği~|Nergiz~|Nilüfer~|Papatya~|Park~|Saner~|Sağlam~|Sedir~|Söğüt~|Tekiner~|Tezcan~|Tezer~|Yaprak~|Yeni Bahar~|Çakallar~|Çelebi~|Çevik~|Çınar~|Özer~|Özlem@|Özçelik~|Şeker~|Şht.ercan Karadağ@|Şht.hamit Yayla@
+185333	Kalburcu Mah.	Davutlar~|Kalburcu~|Sarıoğlu~
+185337	Karamanlar Mah.	Aşağısarıköy~|Hayaller~|Kabaklar~|Karamanlar~|Manavlar~|Sarıköy~
+185335	Karaçalı Mah.	Aşağıkaraçalı~|Güven~|Kocadağ~|Kova~|Kuzuluk~|Manav~|Merkez~|Soğuksu~|Yamak~|Çakaldağı~|Çetin~|Şaşkınlar~|Şehit Ercan Karadağ~
+185339	Kayacık Mah.	Bezirciler~|Cinler~|Hacımustafalar~|Topçu~|Yeni~|Çoroğlu~
+185341	Kertil Mah.	Hacıköy~|Hayeller~|Ihlamur~|Kertil~|Muratlar~|Çakallar~|Şemenler~
+61728	Konak Mah.	1 Nolu~|15 Temmuz@|Acıbadem~|Akarsu~|Akıncı@|Aldemir@|Aydın~|Aziz Duran@|Baltaoğlu~|Başak~|Beyaz~|Biçer~|Boztepe~|Cumhuriyet@|Dar~|Defne~|Dere~|Doğan~|Dr. Hasan Akgün%|Edippaşa@|Ercan~|Güler~|Güzide~|Hamamcılar~|Harmanaltı~|Hürriyet@|Işıl~|Kadiroğlu~|Kandemir~|Kardelen~|Kaya~|Kuyudibi~|Köse~|Kızmaz~|Meşe Bayır~|Meşebayırı@|Nalbantlar~|Narlı~|Nehir~|Okan~|Rıfatbey Çıkmaz~|Salkım~|Savaş~|Sağlık~|Seyfettin Selim@|Solmaz~|Soysal~|Vedat Yazgan@|Yakut~|Yeni Mahalle 1~|Yeni Mahalle 2~|Yeni Mahalle 3~|Yeni Mahalle 4~|Yeni Mahalle 5~|Yeni Mahalle~|Yeni Pınar@|Çarşıiçi Myd.|Çelik~|Çukurkuyu~|Özbay~|Özgür~|Özlem 1~|Özlem~|Öztürk~|İklim~|Şekerciler@|Şentürk~|Şht. Ömer Akkuş@|Şht.gürkan Türk@
+185347	Kulaklı Mah.	Cimşitler~|Kulaklı~|Potlar~|Yeni Kışla~
+185349	Küçükkaynarca Mah.	Küçükkaynarca~
+185351	Küçükkışla Mah.	Merkez~|Yazlıkpınar~
+185343	Kırktepe Mah.	Kuloğlu~|Kırktepe~
+185345	Kızılcaali Mah.	Ahmetler~|Hatipler~|Merkez~
+61729	Merkez Mah.	1 Nolu~|10 Nolu~|11 Nolu~|12 Nolu~|13 Nolu~|14 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|9 Nolu~|Asmalı~|Badem~|Balkaya~|Balözü~|Begonya~|Bektaş~|Burak~|Camii~|Donatım~|Dr.hasan Akgün%|Fehmi Kanyılmaz@|Gebeş~|Gelincik~|Girgin~|Göktaş~|Gündoğdu~|Hüsnü Aydın@|Kahvecioğlu~|Kuyu~|Molla Mustafa~|Necatibey@|Organize~|Saka~|Sanayi 1~|Sanayi 2~|Sanayi 3~|Sanayi Ara~|Sanayi~|Sarıca 2~|Sarıca~|Sarıöz~|Seyfettin Selim@|Stat 3~|Stat@|Yaka~|Yonca 1.~|Yonca 2.~|Yonca@|Yüksekokul 1.~|Yüksekokul~|Yılmaz Vural@|Zambak~|Çağlayan~|İsmail Efendi~|Şafak~|Şht.fahrettin Azak@|Şht.yılmaz Vural@
+185353	Müezzinler Mah.	Gicikli~|Müezzinler~|Yeni~|Şaştılar~
+185355	Okçular Mah.	Okçular~
+61730	Orta Mah.	Akasya~|Akmeşe~|Aksoy~|Aksu~|Akın~|Ali Nur Gebeş@|Alsancak@|Ardıç~|Ayan~|Açelya~|Bahar~|Bülbül~|Dr.alaattin Duran@|Dr.hasan Akgün%|Esen~|Esinti~|Fehmi Kanyılmaz@|Filiz~|Gonca~|Goncagül~|Gökırmak@|Göçere~|Gümüş~|Gündüz~|Güniz~|Güzelyurt~|Hafız Nurettin~|Halit Molla@|Hocaoğlu~|Hüsnü Aydın@|Itır~|Kadir Koç@|Kanarya~|Kumru@|Kurtoğlu~|Kültür~|Murat~|Mürteza Yüksel@|Nezih~|Nur~|Orkide~|Sedef~|Selvi~|Serçe~|Susam~|Yel~|Yerlikaya~|Yurt~|Yuvacık~|Yıldız 1~|Yıldız 2~|Yıldız 3~|Yıldız~|Çiçek~|Özel Kent@|Özkurt~|Şht.ercan Karadağ@|Şht.gökhan Ayder@|Şht.gürkan Türk 1~|Şht.gürkan Türk@
+185357	Ortaköy Mah.	Ortaköy~
+185359	Osmanlı Mah.	Arabacılar~|Tekneler~
+185363	Sabırlı Mah.	Emirler~|Karaagaç~|Keçilli~|Çengelli~|Çubuklu~|İmamlar~
+185365	Sarıbeyli Mah.	Mehter~|Sarıbeyli~
+185369	Taşoluk Mah.	Alefli~|Kadıköy~|Sucaflı~|Taşoluk~
+185371	Topçu Mah.	Büyük Kaynarca~|Dağ Ağzı~|Dağ Yeniköy~|Dırmandılar~|Eskiciler~|Hunlar~|Kurudere~|Mevcutlar~
+185373	Turnalı Mah.	Belendağ~|Merkez~|Sülükgölü~|İnekçikışlası~
+185385	Uzakkışla Mah.	Uzakkışla~
+185377	Uzunalan Mah.	Uzunalan~
+185375	Uğurlu Mah.	Alabaşlar~|Asarlı~|Aşağınevrin~|Kıstafan~|Kızılelma~|Nevrin~
+185379	Yeniçam Mah.	Yeniçam~|Çelebiler~
+185381	Yeşilova Mah.	Merkez~|Ordulular~|Sazlıdere~
+185383	Ziahmet Mah.	Abdurrahmanlar~|Merkez~|İstiklal~
+185361	Ömerağa Mah.	Hacı Muharremler~|Lazlar~|Ömerağa~
+185329	İmamlar Mah.	İmamlar~
+185331	İşaret Mah.	Merkez~|Çiftlik~
+185367	Şeyhtımarı Mah.	Bayramoğlu~|Eyüpler~|Gökçeler~|Kayaklar~|Konak~|Muharremler~|Yakupkalfalar~|Zadeler~|Çelikler~

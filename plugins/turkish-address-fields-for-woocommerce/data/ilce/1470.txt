@@ -1,0 +1,47 @@
+154541	Alacalar Mah.	Alacalar~
+154543	Alifakı Mah.	Alifakı~
+154517	Bademli Mah.	Bademli~
+154425	Bakır Mah.	1.~|10-1~|10.~|11.~|12.~|13.~|15.~|16.~|17.~|18 (saçlı Efe)~|19-1.~|19.~|20.~|21.~|22-1~|23.~|24.~|25-1.~|25-2.~|25.~|26.~|26/1~|27-1.~|27.~|27/2~|28.~|29.~|3.~|30-1.~|30-2.~|30-3.~|30-4.~|30.~|31.~|32-1~|32.~|33.~|34.~|35.~|36.~|37-1.~|37-2~|37-3.~|37.~|38.~|39.~|4.~|40~|41~|42~|5.~|6.~|7.~|9-1~|9.~|Akhisar@|Bakır /akhisar@|Bağarası=|Cumhuriyet Myd.|Habipler=|Hafız Osman Sokagı~|Harta=|Kamalı Efe Sokagı~|Kasapoğlu Sokagı~|Mehmet Akçay@|Tahir Uslu@|Ömerler=|Şefik Paksoy@|Şehit Muhsin Keskin~
+52278	Boduroğlu Mah.	26~|28~|31~|32~|34~|37~|38~|40~|43~|47~|48~|51~|53~
+154545	Bostancı Mah.	Başpınar~|Bostancı~
+52279	Cinosman Mah.	12~|2~|20~|21~|217~|22~|26~|27~|27a~|28~|29~|2a~|2b~|2c~|2d~|31~|47~|6~|6-c.~|6-d~|6-e~
+154551	Demirtaş Mah.	Büyükpınar~|Dağdere~|Demirtaş~|Karpuzluk~|Kavak~|Küçük Ova~|Taşpınar~|Yeni~|Çınarcık~
+154557	Dualar Mah.	Ardıçlı~|Dazlankıran=|Dere~|Orta~|Sayalar~
+154567	Fırdanlar Mah.	Fırdanlar~|Taşpınar~
+154575	Gebeler Mah.	Gebeler~
+154501	Gelenbe Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15-1.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23~|24~|25~|26~|27~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Atatürk@|Menderes@|Vatan@|Şht.tahir Aymaz@
+154577	Gökçukur Mah.	Gökçukur~
+154579	Güvendik Mah.	Güvendik~|Karşı~
+154583	Hacet Mah.	Armutçuk~|Hacet~|Karaçoban~
+52280	Hacıhimmet Mah.	12~|17 B~|17~|17d~|23~|27~|28~|31~|31-b.~|31a~|34~|48~
+154587	Halkahavlu Mah.	Halkahavlu~
+154593	Hamidiye Mah.	Hamidiye~
+154599	Hamitli Mah.	Hamitli~
+52281	Hıdırağa Mah.	10~|12(yeni )~|12-a.~|12.~|124(yeni)~|124.~|151 (yeni)~|151.~|155(yeni)~|155.~|19.~|2 ( Yeni )~|2.~|21.~|256~|5~|6-a.~|6-b.~|6.~|8 ( Yeni )~|8.~
+154603	Işıklar Mah.	Işıklar~
+52282	Kadriye Mah.	2-e.~|2-g~|2.~|34.(celal İçöz)~|6-g.~|6.~|69.~|73.~|79.~|81~|85.~
+52283	Karaali Mah.	1~|10~|10-a.~|100.~|102~|11~|12~|15~|155~|17~|17-a~|18~|28~|3~|30~|34 Celal İçöz~|56.~
+154479	Karakurt Mah.	Alemdar@|Aliağa~|Atatürk@|Bedel Ahmet~|Berber İsmail~|Cafer Hoca~|Demirci~|Değirmen Tepe~|Durmazlar~|Eminağa~|Galipağa~|Garip Hasan~|Göçmenler~|Güngörler~|Hacı Beytullah~|Hacı Musaoğlu~|Hatipler~|Hazergırat@|Hüseyin Uyar~|Kemal Hoca~|Kocaşıh~|Korkmazlar~|Kule Yanı~|Kuran Kursu~|Kurtuluş~|Kör Ali~|Küçüktepe~|Molla Bekir~|Okul~|Paşa Hüseyin Korkmaz~|Remzi Hoca~|Sağlık Ocağı~|Sütçüler~|Tasmalı Şuayip~|Uzun Naim~|Vahdet Camii~|Yavaş Ahmet Güner~|Yaylalı Ahmet~|Yetim Ahmet~|Yılancık Mevkii=|Zeybekkaya~|Çiftlik~|İbrahimağa~|Şabanağa~|Şaika~
+52284	Kayadibi Mah.	104.~|106.~|108.~|110.~|133.~|135.~|137.~|139.~|141.~|143.~|Atatürk(56)@
+154613	Kocaiskan Mah.	Darderesi~|Kocaiskan~|Yaylacık~|Çayır Yeri~
+52285	Kocamehmetağa Mah.	22.~|24.~|34 (celal İçöz)~|34-a.~|47.~|53.~|57~|57-a.~|59-a.~|59.~|6~|63~
+154617	Kuyucak Mah.	Kuyucak~
+154525	Küçükyaya Mah.	Küçükyaya~
+154609	Kınık Mah.	Kınık~
+52286	Memiş Mah.	1.~|11~|117~|119~|121~|123~|125.~|127~|13~|131.~|138~|140.~|153~|17-c~|17.~|31.~|33~|34 Celal İçöz~|35 Saçlı Efe~|37.~|48~|50.(yaşar Çığ)~|52~|54~|66~|72.~|9~|90~|92~|94.~|96~|98~|Atatürk 56@
+154527	Musahoca Mah.	Musahoca~
+52287	Musalar Mah.	2 D~|2 E~|2 F~|2~|4 A~|4~|47~|49~|59~|6 F~|6~|61~|69~
+154619	Sakarlı Mah.	Sakarlı~
+52288	Sarıağa Mah.	14~|34 Celal İçöz~|36-a.~|36.~|42.~|44.~|69 C~|69~|71 A~|71 Albay Fahir Işık~|75.~|77~|79 Edipbayat~|79-b.~|79-c.~|83~|83/a (şehit Rıdvan Kopan)~|85 A~|85 B~|85 C~|85.~|95-a.~|95.~|Atatürk 56@|Atatürk Caddesi (56 Sokak) 6. Jandarma Komando Eğitim Alay Komutanlığı=|Seyrangah Çamlığı=
+154535	Siledik Mah.	Siledik~
+154623	Söğütalan Mah.	Söğütalan~
+52290	Tevfikiye Mah.	113~|115~|117~|132~|142~|144~|146.~|148~|150~|17~|186~|195~|197~|199~|201~|210~|212~|218~|220~|222.~|35~|37.~|39~|41.~|43.~|45~|48.~|51.~|53 Yeni~|53.~|54.~|64~|68~|7~|72~|74~|78~|80~|82~|84.~|88~|94.~|Atatürk (56)~|İlyaslar Yolu=
+154539	Yağmurlu Mah.	Yağmurlu~
+52291	Yeni Mah.	38.~|40~|44~|46~|53~|55~|57~|59~|65 Kaymakam Atilla Yasa~|67~|69~|Albay Fahir Işık@|Atatürk 56@|Celaliçöz@
+52292	Zorağa Mah.	129~|129-a~|16~|24~|24-a~|34~|34-b~|34-d~|34-g~|59~|59-b~|6~|6-h.~|63~|69~|69-a~|69-b~|79 Edipbayat~|79-a.~
+154547	Çaltıcak Mah.	Helimler~|Çaltıcak~
+154521	Çiftlik Mah.	Çiftlik~
+154549	Çobanlar Mah.	Çobanlar~
+154531	Öveçli Mah.	Süleyman Boğaz~|Öğeçli~
+154463	İlyaslar Mah.	12.~|13.~|15.~|2.~|3.~|6.~|9.~|Ast.gürcan Karagöz~|Emin Aydın~|Gazi Molla Mustafa Önemli~|M.fevzi Çakmak@|Muhtar Aziz Bozkurt~|Muhtar Emin Gürer~|Muhtar Esat Sümen~|Muhtar Mehmet Bayram~|Muhtar Mehmet Demir~|Muhtar Mehmet Özdemir~|Muhtar Yusuf Koruyucu~|Muhtar Yusuf Tasar~|Muhtar İbrahim Karakaya~|Oyuklutepe Mevki=|Sakarya@|Vatan@|İsmet İnönü@|Şair Eşref@
+52289	Şair Eşref Mah.	101.~|103.~|105.~|107.~|109.~|111.~|112~|114~|116.~|118.~|120.~|122.~|126~|128~|130.~|134.~|136.~|145.~|147.~|149~|152~|154~|156~|158~|159~|161~|162~|167~|177~|178~|200~|203~|204.~|207~|235~|53.~|53/a~|58.~|60~|62.~|72~|74.~|76~|78.~|79~|80.~|82.~|85.~|86~|87.~|88.~|89.~|91.~|93.~|97.~|99 (yeni)~|99.~|Albay Fahir Işık@|Atatürk(56)@|Halit Kayadipli@|Çevre Yolu@

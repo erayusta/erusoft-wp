@@ -1,0 +1,96 @@
+94626	Acarlar Köyü, Beşirler Mevkii	Beşirler Köy$
+94625	Acarlar Köyü, Kecinler Mevkii	Kecinler Köy$
+94624	Acarlar Köyü, Merkez Mevkii	Merkez Köy$
+94627	Ahatlar Köyü, Aşağı Mevkii	Aşağı Köy$
+94628	Ahatlar Köyü, Yukarı Mevkii	Yukarı Köy$
+94629	Akkonak Köyü	Akkonak Köy$
+94631	Aliobası Köyü, Göynük Mevkii	Göynük Köy$
+94630	Aliobası Köyü, Merkez Mevkii	Merkez Köy$
+94632	Bostanlar Köyü	Bostanlar Köy$
+90696	Boztepe Mah.	Fener~|Nöbethane 1~|Nöbethane 2~|Nöbethane~|Uç Palamar~|Yama~|Yassıkaya 1.~|Yassıkaya~
+94634	Cumayanı Köyü, Doğancı Mevkii	Doğancı Köy$
+94635	Cumayanı Köyü, Konaklar Mevkii	Konaklar Köy$
+94633	Cumayanı Köyü, Merkez Mevkii	Merkez Köy$
+94651	Esenler Köyü, Dada Mevkii	Dada Köy$
+94652	Esenler Köyü, Fer Mevkii	Fer Köy$
+94650	Esenler Köyü, Merkez Mevkii	Esenler Köy$
+90697	Fatih Mah.	A.t.i.sitesi 1~|A.t.i.sitesi 2~|A.t.i.sitesi~|Akasya~|Büyüktepe~|Gül~|Ihlamur~|Küçüktepe~|Söğütlü~|Yıldız~|Zeytin~|Zübeyde Hanım 4~|Zübeyde Hanım 5~|Zübeyde Hanım 6~|Zübeyde Hanım 7~|Zübeyde Hanım@
+94661	Gömü Köyü, Aşağı Meydan Mevkii	Aşağı Meydan Köy$
+94665	Gömü Köyü, Cavcav Mevkii	Cavcav Köy$
+94658	Gömü Köyü, Eskiler Mevkii	Eskiler Köy$
+94664	Gömü Köyü, Kayran Başı Mevkii	Kayranbaşı Köy$
+94659	Gömü Köyü, Köy Ortası Mevkii	Köy Ortası Köy$
+94660	Gömü Köyü, Yukarı Mevkii	Yukarı Köy$
+94663	Gömü Köyü, Çapak Mevkii Mevkii	Çapak Mevkii Köy$
+94662	Gömü Köyü, Çınar Yolu Mevkii	Çınar Yolu Köy$
+94653	Göçkün Köyü, Ağ Mevkii	Ağ Köy$
+94654	Göçkün Köyü, Merkez Mevkii	Merkez Köy$
+94657	Göçkündemirci Köyü, Baldıran Mevkii	Baldıran Köy$
+94656	Göçkündemirci Köyü, Dede Mevkii	Dede Köy$
+94655	Göçkündemirci Köyü, Merkez Mevkii	Merkez Köy$
+94667	Hatipler Köyü, Dindar Mevkii	Dindar Köy$
+94666	Hatipler Köyü, Merkez Mevkii	Mekrez Köy$
+94675	Kalaycı Köyü, Kadı Mevkii	Kadı Köy$
+94674	Kalaycı Köyü, Merkez Mevkii	Merkez Köy$
+90698	Kaleiçi Mah.	Baruthane~|Camiönü~|Kemere 1~|Kemere~|Kuledibi~|Kurşuna 1~|Kurşuna 2~|Kurşuna 3~|Kurşuna 4~|Kurşuna~|Necdet Sakaoğlu~|Topyanı~|Yalıkapı 1~|Yalıkapı 2~|Yalıkapı~
+90699	Kaleşah Mah.	Bülent Ecevit@|Cide Yolu 1.~|Cide Yolu 2.@|Cide Yolu 3.@|Cide Yolu@|Gazi Mehmet Mezgel~|Meydan 1~|Meydan 2~|Meydan 3~|Meydan~|Çeşmi Cihan 1~|Çeşmi Cihan 2~|Çeşmi Cihan 3~|Çeşmi Cihan~|Çıkmaz~|İsimsiz51~|İsmet İnönü 1@|İsmet İnönü@
+94677	Karakaçak Köyü, Konuklar Mevkii	Konuklar Köy$
+94676	Karakaçak Köyü, Merkez Mevkii	Merkez Köy$
+94678	Karakaçak Köyü, Ovacık Mevkii	Ovacık Köy$
+94680	Kazpınarı Köyü, Demirciler Mevkii	Demirciler Köy$
+94682	Kazpınarı Köyü, Kara Yusuflar Mevkii	Kara Yusuflar Köy$
+94679	Kazpınarı Köyü, Merkez Mevkii	Merkez Köy$
+94681	Kazpınarı Köyü, Sarı Ahmetler Mevkii	Sarı Ahmetler Köy$
+94684	Kocaköy Köyü, Aferen Mevkii	Aferen 1=|Aferen Köy$
+94685	Kocaköy Köyü, Deredibi Mevkii	Deredibi Köy$
+94686	Kocaköy Köyü, Deremescit Mevkii	Deremescit Köy$
+94683	Kocaköy Köyü, Merkez Mevkii	Merkez 1=|Merkez=|Merkez2~
+94644	Kocaköy Köyü, Meydan Mevkii	Meydan Köy$
+94649	Kocaköy Köyü, Meydan2 Mevkii	Meydan2 Köy$
+94687	Kocaköy Köyü, Yesirler Mevkii	Yesirler Köy$
+90700	Kum Mah.	Amiral Celal Eyiceoğlu 1~|Amiral Celal Eyiceoğlu@|Amiral Celal Eyiceoğlu2~|Barış 1~|Barış~|Cumhuriyet@|Dereyanı 1~|Dereyanı 2~|Dereyanı 3~|Dereyanı 4~|Dereyanı~|Dizinler~|Fikret Uysal~|General Mithat Ceylan 1@|General Mithat Ceylan 2@|General Mithat Ceylan@|Genç Plinius 1~|Genç Plinius 2~|Genç Plinius@|Güray Karakaş~|Hamam~|Hoşgörü~|Karaevler 1~|Karaevler~|Kum Tabya~|Kuyulu~|Küçük Liman@|Menekşe~|Mustafa Cengiz@|Orkide~|Prof.dr.semavi Eyice~|Selahattin Eyüce@|Seymenler~|Suphi Kalafatoğlu~|Tahir Hoca@|Taşocağı Mevkii=|Tepe 1~|Tepe~|Topyanı~|Turgut Işık@|Zeki Çakan 1@|Zeki Çakan@|Zeytin Tepe~|Zübeyde Hanım 1~|Zübeyde Hanım 2~|Zübeyde Hanım 3~|Zübeyde Hanım 4~|Zübeyde Hanım@|Çekiciler~|Özdemirhan~
+94692	Makaracı Köyü, Abbas Mevkii	Abbas Köy$
+94693	Makaracı Köyü, Düz Mevkii	Düz Köy$
+94690	Makaracı Köyü, Kökyol Mevkii	Kökyol Köy$
+94689	Makaracı Köyü, Merkez Mevkii	Merkez Köy$
+94691	Makaracı Köyü, Serenli Mevkii	Serenli Köy$
+94694	Saraydüzü Köyü, Aşağı Mevkii	Aşağı Köy$
+94699	Saraydüzü Köyü, Kökyol Mevkii	Kökyol Köy$
+94695	Saraydüzü Köyü, Köy Ortası Mevkii	Köy Ortası Köy$
+94697	Saraydüzü Köyü, Taşlık Mevkii	Taşlık Köy$
+94696	Saraydüzü Köyü, Yukarı Mevkii	Yukarı Köy$
+94698	Saraydüzü Köyü, Öteköy Mevkii	Öteköy Köy$
+94705	Tarlaağzı Köyü	Tarlaağzı Köy$
+94707	Topallar Köyü, Küçükören Mevkii	Küçükören Köy$
+94706	Topallar Köyü, Merkez Mevkii	Merkez Köy$
+94708	Topderesi Köyü	Topderesi Köy$
+94709	Yahyayazıcılar Köyü, Merkez Mevkii	Merkez Köy$
+94711	Yahyayazıcılar Köyü, Yörükler Mevkii	Merkez Köy$|Yörükler Köy$
+94710	Yahyayazıcılar Köyü, Zica Mevkii	Zica Köy$
+94712	Yahyayazıcılar Köyü, Çamcı Mevkii	Çamcı Köy$
+94715	Yukarısal Köyü, Dağ Mevkii	Dağ Köy$
+94714	Yukarısal Köyü, Demirciler Mevkii	Demirciler Köy$
+94713	Yukarısal Köyü, Merkez Mevkii	Merkez Köy$
+94637	Çakrazboz Köyü, Kuyupınar Mevkii	Kuyupınar Köy$
+94636	Çakrazboz Köyü, Merkez Mevkii	Merkez Köy$
+94638	Çakrazova Köyü, Merkez Mevkii	Merkez Köy$
+94639	Çakrazova Köyü, Yerköy Mevkii	Yerköy Köy$
+94642	Çakrazşeyhler Köyü, Merkez Mevkii	Merkez Köy$
+94641	Çakrazşeyhler Köyü, Okullar Mevkii	Okullar Köy$
+94640	Çakrazşeyhler Köyü, Orta Mevkii	Orta Köy$
+94648	Çanakçılar Köyü, Ahmetler Mevkii	Ahmetler Köy$
+94647	Çanakçılar Köyü, Ankular Mevkii	Ankular Köy$
+94645	Çanakçılar Köyü, Kestanelik Mevkii	Kestanelik Köy$
+94643	Çanakçılar Köyü, Merkez Mevkii	Merkez Köy$
+94646	Çanakçılar Köyü, Meşeli Mevkii	Meşeli Köy$
+94672	İnciğez Köyü, Azimler Mevkii	Azimler Köy$
+94668	İnciğez Köyü, Cami Önü Mevkii	Cami Önü Köy$
+94669	İnciğez Köyü, Meydan Mevkii	Meydan Köy$
+94670	İnciğez Köyü, Orta Köyü Mevkii	Orta Köyü Köy$
+94671	İnciğez Köyü, Sazaklar Mevkii	Sazaklar Köy$
+94673	İnpiri Köyü	İnpiri Köy$
+94702	Şenyurt Köyü, Karşı Mevkii	Karşı Köy$
+94700	Şenyurt Köyü, Köprübaşı Mevkii	Köprübaşı Köy$
+94703	Şenyurt Köyü, Orta Mevkii	Orta Köy$
+94701	Şenyurt Köyü, Yukarı Mevkii	Yukarı Köy$
+94704	Şükürler Köyü	Şükürler Köy$

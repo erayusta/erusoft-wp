@@ -1,0 +1,111 @@
+55236	Abide Köyü	Abide=
+55237	Abide Köyü, Çiftlik Mezrası	Çiftlik Mezrası=
+99482	Abide Köyü, İncesu Mevkii	1.sokak~
+55238	Akkaya Köyü	Akkaya=|Yeşilova Köyü=
+55239	Akkaya Köyü, İncikler Mevkii	İncikler=
+55242	Aksaklar Köyü, Aksaklar Mevkii	Aksaklar=
+55240	Aksaklar Köyü, Ova Mevkii	Ova=
+55241	Aksaklar Köyü, İkipınar Mevkii	İkipınar=
+55243	Aliağa Köyü	Aliağa=
+55244	Alikahya Köyü	Alikahya=
+51529	Altınkent Köyü, Fatih Mevkii	10./2~|14.~|15.~|16.~|16./1~|16./2~|16./3~|16./7~|17.~|18.~|18./1~|18./2~|18./3~|19~|19/1~|19/2~|20.~|21.~|21./1~|21./2~|21./3~|21./4~|21./6~|Cumhuriyet~|Fatih=|Mehmet Öztürk 1~|Mehmet Öztürk 2~|Mehmet Öztürk~
+51530	Altınkent Köyü, Özyurt Mevkii	1.~|10.~|10./1~|10./2~|10./3~|11.~|11./1~|11./2~|12.~|13.~|14.~|15.~|16.~|16./1~|16./2~|16./3~|16./4~|16./5~|16./6~|16./7~|2.~|21./6~|3.~|4.~|4./1~|4./2~|4./3~|5.~|5./1~|5./2~|5./3~|6.~|7.~|7./1~|7./2~|8.~|9.~|Atatürk~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet~|Fatih=|Özyurt=
+55246	Arıca Köyü, Deliağa Mevkii	Arıcabilinmeyen~|Deliağa=
+55247	Arıca Köyü, Dere Mevkii	Dere=
+55249	Arıca Köyü, Orta Mevkii	Dere=|Orta=
+55248	Arıca Köyü, Yukarıarıca Mevkii	Yukarıarıca=
+55250	Aşıkpaşa Köyü	Aşıkpaşa=
+51531	Cebrail Köyü, Fatih Mevkii	1.~|10.~|11.~|13.~|15.~|17.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Atatürk 1~|Atatürk 2~|Atatürk 3~|Atatürk~|Atatürk/2.~|Atatürk/3.~|Bilinmeyen 1~|Bilinmeyen 2~|Bilinmeyen 3~|Bilinmeyen 4~|Bilinmeyen 5~|Bilinmeyen 6~|Bilinmeyen 7~|Bilinmeyen~|Cebrail 1~|Cebrail 2~|Cebrail 3~|Cebrail=|Cumhuriyet~|Kocadağlar-~|Menderes 1~|Menderes~|Pınarbaşı~|Pınarcı 1~|Pınarcı 2~|Pınarcı~|İstiklal~
+51515	Dayınlar Mah.	179~|181~|283~|776~|777~|778~|779~|780~|781~|782~|783~|784~|785~|786~|787~|788~|789~|790~|791~|792~|793~|794~|795~|796~|797~|798~|799~|800~|801~|802~|Eski Dayınlar=|Fuat Azmioğlu@|Halil Erdoğan Gürel@|Mehmet Emin Alanyalı@|Uşak Kütahya Yol Altı=
+55256	Dedeköy Köyü	Dedeköy=
+55269	Dereköy Köyü	Dereköy=
+55257	Değirmenköy Köyü	Değirmenköy=|Saz=
+55258	Dörtdeğirmen Köyü	Dörtdeğirmen=|Dörtdeğirmen1~|Dörtdeğirmen2~|Dörtdeğirmen3~|Dörtdeğirmen4~|Dörtdeğirmen5~|Dörtdeğirmen6~
+55259	Ece Köyü	Ece=
+51539	Erdoğmuş Köyü, Ergenekon Mevkii	1.~|2.~|3.~|4.~|4/1.~|Arıca~|Bahçe~|Bardakçı~|Bardakçı1~|Cami~|Cami1~|Cami2~|Cami3~|Cami4~|Cami5~|Cemal Temel~|Cemal Temel1~|Cemal Temel2~|Cemal Temel3~|Cemal Temel4~|Cumhuriyet~|Cumhuriyet2~|Hacı Pehlivan~|Hacı Pehlivan1~|Hacı Pehlivan2~|Hacı Pehlivan3~|Keklik~|Keklik1~|Kır İbrahim~|Kır İbrahim1~|Kır İbrahim2~|Kır İbrahim3~|Kır İbrahim4~|Kır İbrahim5~|Kır İbrahim6~|Okul~|Okul1~|Tuzla~|Çınar~|Şehit Ramazan Demirci~|Şehit Ramazan Demirci1~|Şehit Ramazan Demirci2~
+51540	Erdoğmuş Köyü, Ülkü Mevkii	Arıca~|Arıca1~|Arıcabilinmeyen~|Asmalık~|Asmalık1~|Asmalık2~|Asmalık3~|Asmalık4~|Asmalık5~|Bardakçı~|Bozkurt~|Bozkurt1~|Bozkurt2~|Cumhuriyet~|Cumhuriyet1~|Dar~|Deliağa=|Değirmen~|Fatih~|Fatih1~|Fatih2~|Fatih3~|Fatih4~|Fatih5~|Koru~|Koru1~|Mazak~|Müderris Hoca~|Okul~|Okul1~|Okul2~|Okul3~|Yavuz~|Ülkü~|Ülkü1~|Ülkü2~|Ülkü3~
+51516	Ergenekon Mah.	4 Nolu@|404~|411~|414~|415~|416~|417~|418~|419~|420~|421~|422~|423~|424~|425~|426~|427~|428~|429~|430~|431~|432~|433~|434~|435~|436~|437~|438~|439~|440~|441~|442~|443~|444~|445~|446~|447~|448~|449~|450~|451~|452~|453~|454~|455~|456~|457~|458~|459~|460~|461~|462~|463~|481~|482~|483~|Ahmet Ekici@|Ahmet İhsan Gürsoy@|Hoca Ahmet Yesevi@|Kamil Yoşumaz@|Nizamettin Çoban@|Şehit Hüseyin Gürlekli@
+140903	Eskigediz Beldesi, Akçaalan Mah.	28 Mart~|Ada~|Akın@|Alan~|Ara~|Barış~|Bayır~|Belediye@|Bozbağlar@|Büyükküme~|Cami Yayla~|Cihangazi~|Cumhuriyet 1@|Dere~|Derince~|Doğan~|Doğrugazi@|Doğrugazi-@|Dr Soner Aksoy@|Dr Soner Aksoy/2~|Emet 1@|Emet/2~|Fabrika 1~|Fabrika@|Fabrika Yolu~|Fabrika/1~|Gazi Mustafa Engür~|Gediz Çavdarhisar~|Gediz Çavdarhisar/1~|Gündoğdu~|Güney~|Huzur~|Hürriyet@|Hıdır~|Işık~|Kerim~|Kredi~|Kurtuluş~|Küçük Küme~|Küçük Küme/1~|Kıran 1~|Meydan~|Meyis~|Park 1@|Pasaj~|Pirimehmet@|Poyraz~|Sanayi1~|Sanayii 1@|Sanayii@|Sağız Yayla Yolu=|Sağız Yolu Yayla~|Sağız Yolu-~|Sevindik@|Tarlabası3~|Tarlabaşı~|Tarlabaşı1~|Tarlabaşı2~|Tuzla~|Ufuk~|Ufuk1~|Yaren~|Yayla~|Yayla1~|Yeni 1~|Yeşil Saha~|Zambak~|Çarşı~|Çarşı Yayla~|Çukur 1~|İlkokul@|Şehit Güven Köse~|Şehit Mehmet Aslan~|Şehit Mehmet Karaboğa~|Şehit Süleyman Uçar~|Şht.mehmet Akyar~
+51533	Eskigediz Beldesi, Camikebir Mah.	Afyon@|Afyon/1~|Bahçelievler 2.~|Bahçelievler 3.~|Bahçelievler 4.~|Bahçelievler 5.~|Bahçelievler 6.~|Bahçelievler 7.~|Bahçelievler 8.~|Bahçelievler 9.~|Bilinmeyen 1~|Bodur~|Cumhuriyet@|Değirmen@|Doç.dr.seydi Karakuş 3@|Doç.dr.seydi Karakuş@|Gülkılık~|Gümüş~|Hisar@|Kaya~|Kemer@|Kemer Geçiti~|Kemer1~|Salur/1~|İzmir@|İç 1~|İç 2~|İç Sk Geçiti~|İç~
+51534	Eskigediz Beldesi, Hisar Mah.	Afyon@|Afyon/3~|Aslan~|Bahçelievler 5.~|Bahçelievler 8.~|Bilinmeyen 1~|Bilinmeyen 100~|Bilinmeyen 4~|Dübekönü~|Dübekönü/1~|Göcük~|Gürlek~|Karayiğit~|Karayiğit/1~|Karayiğit/2~|Karayiğit/3~|Kavakaltı~|Kayabaşı~|Kayabaşı/1~|Koz~|Kıran 2~|Kıran~|Kıran/1~|Salur@|Salur/1~|Salur/2~|Salur/4~|Soylu@|Soylu/1~|Soylu2~|Soylu3~|Yol1/hisar~|Çiğdem~|Çiğdem/1~|Çukur~
+51536	Eskigediz Beldesi, Kurtuluş Mah.	Cami~|Doç.dr.seydi Karakuş@|Genç~|Genç/1~|Kasaphali~|Kasaphali/1~|Kemer@|Kemer1~|Kocabahçe~|Kocabahçe/1~|Kocabey~|Kurşunlu@|Kurşunlu/1@|Kurşunlu/2~|Kurşunlu/3~|Kurşunlu/4~|Kütahya@|Merkez Cumhuriyet@|Murat Fakih~|Murat Fakih/1~|Sarol~|Yeni~|Çukur~|Çukur/1~|Çukur/2~|Çukur/3~
+51537	Eskigediz Beldesi, Park Mah.	Akçaalan@|Baş~|Bılınmeyen Kumeevler=|Demirciler~|Demirciler/1~|Demirciler/2~|Demirciler/3~|Demirciler/5~|Demirciler/7~|Doç.dr.seydi Karakuş@|Er~|Er/2~|Kavaklı 1~|Kavaklı@|Kavaklı Geçidi~|Kavaklı Geçidi/1~|Kavaklı Geçidi/2~|Kavaklı Geçidi/3~|Kavaklı Geçidi/4~|Kavaklı Geçiti 1~|Kavaklı/4~|Kavaklı/5~|Kayacık~|Kayacık/2~|Kaynak@|Kaynak/2@|Künkbaşı~|Kütahya 1~|Kütahya@|Kızıltepe@|Kızıltepe Meydanı~|Mutlu~|Mutlu/1~|Park 2~|Park 3~|Park 4~|Park@|Park Geçiti~|Park/1~|Park/5~|Park/6~|Rüştiye@|Rüştiye Geçiti~|Rüştiye2@|Sanayi Çarşısı~|Serdar~|Serdar/2~|Yol/1 Park~
+51538	Eskigediz Beldesi, Sabırgazi Mah.	Akçaalan 1~|Akçaalan 2~|Akçaalan 3~|Akçaalan@|Emet@|Emet/1~|Gediz Çavdarhisar~|Okul@|Okul/1~|Okul/2~|Orman Lojmanları@|Savakbaşı~|Soylu@|Soylu/1~|Soylu3~|Yol/3 Sabırgazi~|Çukur~
+51535	Eskigediz Beldesi, İsmetpaşa Mah.	Afyon/2~|Bilinmeyen 1~|Cumhuriyet@|Demirciler~|Demirciler Çarşısı~|Demirciler/5~|Doç.dr.seydi Karakuş@|Ece/1=|Garaj 2~|Garaj 3~|Garaj@|Garaj/1~|Güneş~|Kasaphali-~|Kasaphali/1~|Kureyş~|Murat Fakih~|Sağlık Merkezi@|Sağlık Merkezi1~|Sağlık Merkezi2~|Tekmen@|Tekmen/1~|Tekmen/2~|Tekmen/3~|Tekmen/4~|Tuz Pazarı~|Tuz Pazarı/1~|Yonca~|Yonca/1~|Zafer@|Zafer/1~|Çavdar~|İsmet~|İsmetpaşa Geçiti~|İtfaiye@|İtfaiye/1@|İtfaiye/2@|İtfaiye/4~|İzmir@
+51541	Fırdan Köyü, Çamlık Mevkii	1.~|1./1~|Alan~|Alan1~|Alan2~|Alan3~|Alan4~|Alan5~|Alan6~|Alan7~|Atatürk~|Atatürk1~|Atatürk2~|Atatürk3~|Atatürk4~|Atatürk6~|Atatürk7~|Fatih~|Fatih1~|Fatih2~|Fatih9~|Fevzi Çakmak~|Medinoz~|Medinoz1.~|Medinoz10~|Medinoz12~|Medinoz13~|Medinoz14~|Medinoz15~|Medinoz16~|Medinoz2~|Medinoz20~|Medinoz3~|Medinoz4~|Medinoz5~|Medinoz6~|Medinoz7~|Medinoz8~|Medinoz9~|Uşak Kütahya Yol Altı=
+51542	Fırdan Köyü, Çandır Mevkii	2.~|3.~|3./1~|3./2~|4~|5.~|Atatürk~|Atatürk5~|Barbaros~|Barbaros1~|Fatih~|Fatih9~|Fevzi Çakmak~|M.akif Ersoy~|M.akif Ersoy1~|Piri Reis~|Piri Reis1~|Piri Reis2~|Turgut Özal~|Turgut Özal1~|Turgut Özal2~|Y.sultan Selim~|Y.sultan Selim/2~|Y.sultan Selim1~
+51517	Gazikemal Mah.	230~|231~|232~|233~|234~|235~|236~|237~|238~|239~|240~|241~|242~|243~|244~|245~|246~|247~|248~|249~|250~|251~|252~|253~|254~|255~|256~|257~|258~|259~|260~|261~|262~|263~|264~|265~|266~|267~|268~|269~|270~|271~|272~|273-~|274~|275~|276~|277~|278~|279~|280~|Atatürk@|Gazi@|Kumtaş@|Kıbrıs@|Saygılar@|Zafer@
+51526	Gedizosb Mah.	101@|102@|103@|104@|105@|Erguvan~|Karanfil~|Manolya~|Menekşe~|Organize Sanayi%|Yasemin~|Çiğdem~
+51543	Gökler Beldesi, Güney Mah.	Bağlar 1~|Bağlar 2~|Bağlar 3~|Bağlar~|Bilinmeyen Yayla Yolu=|Gediz 1~|Gediz 10~|Gediz 11~|Gediz 12~|Gediz 13~|Gediz 14~|Gediz 15~|Gediz 16~|Gediz 17~|Gediz 18~|Gediz 19~|Gediz 2~|Gediz 3~|Gediz 4~|Gediz 5~|Gediz 6~|Gediz 7~|Gediz 8~|Gediz 9~|Gediz@|Topraklık 1~|Topraklık@|Yayla 1~|Yayla 2~|Yayla 3~|Yayla 4~|Yayla 5~|Yayla 6~|Yayla 7~|Yayla 8~|Yayla 9~|Yayla~|Çınar 1~|Çınar 2~|Çınar 3~|Çınar~|İmamoğlu 1~|İmamoğlu 2~|İmamoğlu 4~|İmamoğlu 5~|İmamoğlu 6~|İmamoğlu 7~|İmamoğlu 8~|İmamoğlu~
+51544	Gökler Beldesi, Kuzey Mah.	Anafartalar 1~|Anafartalar 3~|Anafartalar 4~|Anafartalar 5~|Anafartalar 6~|Anafartalar~|Belediye 1~|Belediye 2~|Belediye@|Bilinmeyen Yayla Yolu=|Gediz 1~|Gediz 2~|Gediz@|Gediz Madencilik=|Gökler Bükköy Madencilik=|Gökler Kireç San.=|Kemeraltı 1~|Kemeraltı 2~|Kemeraltı 3~|Kemeraltı~|Kömür İşletmeleri=|Ozan Özemek=|Topraklık 1~|Topraklık 2~|Topraklık 3~|Topraklık 4~|Topraklık 5~|Topraklık@|Yayla 1~|Yayla 9~|Yayla~|Çoban Atillal Pınar Madencilik=|Çoban Barış Madencilik=|Çoban Karaelmas Madencilik=|Çoban Yeni Ocak Vahdet Madencilik=|Şht.ali Kazankaya 1~|Şht.ali Kazankaya 2~|Şht.ali Kazankaya 3~|Şht.ali Kazankaya 4~|Şht.ali Kazankaya 5~|Şht.ali Kazankaya 6~|Şht.ali Kazankaya 7~|Şht.ali Kazankaya@
+55263	Göynük Köyü	Göynük=
+55264	Göynükören Köyü	Göynükören=|Şehit Ramazan Can~
+55266	Göynükören Köyü, Gençler Mevkii	Gençler=
+51546	Gümele Köyü, Fatih Mevkii	Arık 1~|Arık 2~|Arık 3~|Arık~|Atatürk~|Cumhuriyet-~|Dede 1~|Dede 2~|Dede 3~|Dede 4~|Dede 5~|Dede~|Gümüşlü1=|Hacı Ahmet~|Hacıahmet 1~|Hacıahmet 2~|Hacıahmet 3~|Konak~|Kurşunluk~|Mezarlık~|Nergiz 1~|Nergiz~|Sümbül~|Tepe~|Tepe1~|Çamlık 1~|Çamlık 2~|Çamlık~|Çıkmaz~|Şehit Mustafa Avlan 1~|Şehit Mustafa Avlan 2~|Şehit Mustafa Avlan 3~|Şehit Mustafa Avlan 4~|Şehit Mustafa Avlan~
+51547	Gümele Köyü, Yavuz Mevkii	Albay~|Arık 4~|Aslancıbarı~|Bektaş~|Gümele=|Gümüşlü1=|On Başı~|On Başı/1~|Sofu Ahmet=|Söğütlü~|Söğütlü/1~|Yaren 1~|Yaren 2~|Yaren 3~|Yaren~|Yörük 1~|Yörük~|Çay-~|İkizler~|Şehit Mustafa Avlan 4~|Şehit Mustafa Avlan~
+55267	Gümüşlü Köyü	Gümüşlü1=
+51549	Gürlek Köyü, Gürsu Mevkii	Aliefendi~|Atatürk 1~|Atatürk~|Cumhuriyet~|Demirciler 1~|Demirciler~|Demirciler1~|Erdem~|Eski Bağlar~|Eskipınar~|Eskipınar1~|Gediz~|Gediz1~|Gesiz 2~|Hasanpaşa~|Hasanpaşa1~|Hasanpaşa2~|Hasanpaşa3~|Hasanpaşa4~|Hasanpaşa5~|Hasanpaşa6~|Kalfalar~|Kayalar1~|Sarıyer~|Uşak~|Uşak1~|Yenievler 1~|Yenievler 2~|Yenievler~|Çetinler~|Çetinler1~|Şaphane~
+51548	Gürlek Köyü, Çimentepe Mevkii	Aliefendi~|Avcılar 1~|Avcılar~|Demirciler~|Esk Bağlar 1~|Eski Bağlar~|Eskipınar~|Fethi Bey1~|Fethibey~|Garipler~|Garipler1~|Hacı Efendi~|Kayalar~|Kayalar1~|Kayalar2~|Keskinler~|Uluoymak~|Uluoymak1~|Uşak 4~|Uşak~|Uşak1~|Uşak2~|Uşak3~|Çimen~|Şaphane 1~|Şaphane 2~|Şaphane~|Şaphane3~|Şaphane4~
+55268	Güzüngülü Köyü	Güzüngülü=
+196449	Hacıbaba Mah.	Fabrikalar Üstü=|Hacıbaba=
+55271	Ilıcasu Köyü	Ilıcasu=
+55272	Işıklar Köyü	Işıklar=
+55273	Karaağaç Köyü	Karaağaç=
+55274	Karabacaklar Köyü, Hanifecikler Mevkii	Hanifecikler=
+55276	Karabacaklar Köyü, Karabacaklar Köyü Mevkii	Karabacaklar=
+55275	Karabacaklar Köyü, Köy Mevkii	Köy=
+55277	Kayacık Köyü	Kayacık=
+51550	Kayaköy Köyü, Atatürk Mevkii	1.~|2.~|3..~|4..~|5..~|6..~|8.~|8./1~|8./2~|Abdullah Efendi~|Bilinmeyen 6~|Bilinmeyen 9~|Bilinmeyen7~|Menderes~|Şht.ilhan İnan~
+51551	Kayaköy Köyü, Fatih Sultan Mehmet Mevkii	3..~|4..~|5..~|6..~|7.~|Abdullah Efendi~|Bilinmeyen 1~|Bilinmeyen 2~|Bilinmeyen 3~|Bilinmeyen 5~|Bilinmeyen 8~|Cumhuriyet~|Menderes~|Şht.ilhan İnan~
+51519	Kumtaş Mah.	183~|184~|237~|238~|281~|282~|284~|285~|287~|288~|289~|290~|291~|292~|293~|294~|295~|296~|297~|298~|299~|300~|301~|302~|303~|304~|305~|306~|Atatürk@|Fuat Azmioğlu@|Kumtaş@
+55282	Kurtçam Köyü, Hacı Zeybekler Mevkii	Hacızeybekler=
+55283	Kurtçam Köyü, Kurtçam Köyü Mevkii	Kurtçam=
+100170	Kurtçam Köyü, Yenimahalle Mevkii	- Köy$
+55281	Köpenez Köyü	Köpenez=
+55279	Kıran Köyü, Kaya Düzü Mevkii	Değirmenköy=|Kayadüzü=|Saz=
+55280	Kıran Köyü, Kıran Köy Mevkii	Kıran=
+55278	Kıran Köyü, Saz Mevkii	Saz=
+51518	Kızıltepe Mah.	238~|297~|298~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|328~|329~|330~|331~|332~|333~|334~|335~|336~|337~|338~|339~|340~|341~|343~|344~|345~|346~|347~|348~|349~|350~|351~|5 Nolu@|Hidayet Dönmez@|Kumtaş@|Su Deposu=|Zafer@
+51520	Muhipler Mah.	124~|132~|20 Nolu@|21 Nolu@|25 Nolu@|4 Nolu@|446~|447~|484~|485~|486~|487~|488~|489~|490~|491~|492~|493~|494~|495~|496~|497~|498~|499~|5 Nolu-@|500~|501~|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515~|516~|517~|518~|519~|520~|521~|522~|523~|524~|525~|526~|527~|528~|529~|530~|531~|532~|533~|534~|535~|536~|537~|539~|540~|541~|542~|543~|544~|545~|546~|547~|548~|549~|550~|551~|552~|553~|554~|555~|556~|557~|558~|559~|560~|561~|562~|563~|564~|565~|566~|567~|568~|569~|570~|571~|572~|573~|574~|575~|576~|577~|578~|579~|580~|581~|582~|583~|584~|585~|586~|587~|588~|589~|590~|6 Nolu@|7 Nolu@|9 Nolu@|9 Nolu Yanı~|Eski Muhipler=|Kamil Yoşumaz@|Mehmet Ersoy@|Nizamettin Çoban@|Şerafettin Genç@
+55285	Pulat Köyü	Pulat=
+55284	Pınarbaşı Köyü	Pınarbaşı=
+51522	Salur Mah.	268~|280~|327~|333~|334~|352~|353~|354~|355~|356~|357~|358~|359~|360~|361~|362~|363~|364~|365~|366~|367~|368~|369~|371~|372~|373~|374~|375~|376~|377~|378~|379~|380~|381~|382~|383~|384~|385~|386~|387~|388~|389~|390~|391~|393~|394~|395~|396~|397~|398~|399~|404~|405~|406~|407~|408~|409~|410~|457~|461~|5 Nolu@|Ahmet Ekici@|Hidayet Dönmez@|Hoca Ahmet Yesevi@|Kıbrıs@|Su Deposu=|Şehit Cavit Kaçmaz@|Şehit Hüseyin Gürlekli@
+55286	Samralar Köyü	Samralar=
+55287	Sandıklı Köyü	Sandıklı=
+55288	Saruhanlar Köyü	Saruhanlar=
+51523	Saygılar Mah.	1 Eylül@|206~|207~|208~|209~|210~|211~|212~|213~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|228~|229~|Gazi@|Mustafa Bağdatlı@|Saygılar@|Soner Aksoy@|Özyurt@
+55289	Saz Köyü	Saz=
+55290	Sazak Köyü	Sazak=
+55291	Soğuksu Köyü	Soğuksu=
+55292	Sumaklı Köyü	Sumaklı=
+55293	Tepepınar Köyü	Tepepınar=
+51524	Uluoymak Mah.	1 Eylül@|1~|10~|100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|11~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|12~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|13~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|14~|140~|141~|142~|15~|16~|17~|18~|19~|2~|20~|202~|203~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|4~|40~|41~|414~|415~|42~|43~|44~|45~|46~|47~|48~|49~|5~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|8-=|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|9~|90~|91~|92~|93~|94~|95~|96~|97~|98~|99~|Ahmet İhsan Gürsoy@|Gazi@|Hoca Ahmet Yesevi@|Kamil Yoşumaz@|Mehmet Ersoy@|Mustafa Bağdatlı@|Nakipoğlu@|Soner Aksoy@|Uluoymak@|İbrahim Efe@|Şehit Hüseyin Gürlekli@
+51525	Umurbey Mah.	10 Nolu@|13 Nolu@|14 Nolu@|27 Nolu@|28 Nolu@|574~|574-~|591~|592~|593~|594~|595~|596~|597~|598~|599~|600~|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|617~|618~|619~|620~|621~|622~|623~|624~|625~|626~|627~|628~|629~|630~|631~|632~|633~|634~|635~|636~|637~|638~|639~|640~|641~|642~|643~|644~|645~|646~|647~|648~|649~|650~|651~|652~|653~|654~|655~|656~|657~|658~|662~|663~|664~|665~|666~|667~|668~|669~|670~|671~|672~|673~|674~|675~|676~|677~|678~|679~|680~|681~|682~|683~|684~|685~|686~|687~|688~|689~|690~|691~|692~|693~|694~|695~|696~|697~|698~|699~|7 Nolu@|700~|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|714~|715~|716~|717~|718~|719~|720~|721~|722~|723~|724~|725~|726~|727~|728~|729~|730~|731~|732~|733~|734~|735~|736~|737~|738~|739~|740~|741~|742~|743~|744~|745~|746~|747~|748~|749~|759~|760~|761~|762~|763~|764~|765~|766~|767~|768~|769~|770~|771~|772~|773~|774~|775~|8 Nolu@|9 Nolu Yanı~|Ahmet Dizman@|Fahrettin Altay@|Mehmet Ersoy@|Uşak Kütahya Yolu Şose Kenarı=|Şerafettin Genç@
+55294	Uğurluca Köyü	Uğurluca=
+55295	Vakıf Köyü	Vakıf=
+55297	Yaylaköy Köyü	Yaylaköy=
+55296	Yağmurlar Köyü	Yağmurlar=
+55299	Yelki Köyü	Yelki=
+55300	Yenigüney Köyü	Yenigüney=|Yukarısusuz=
+99698	Yenikent Beldesi, Gölcük Mah.	1 Göktürk Sk.~|1 Kocahüseyinler Sk.~|1. Ağaoğlu Sk.~|1. Cicikara Sk.~|1. Hacıhasanlar Sk.~|1. Hasan Çavuş Sk.~|1. Kısık~|1. Milli Eğitim Sk.~|1. Yunus Emre Sk.~|1. Çay Yolu Sk~|2. Ağaoğlu Sk.~|2. Cicikara Sk.~|2. Göktürk Sk.~|2. Hasan Çavuş Sk.~|2. Kocahüseyinler Sk.~|2. Kısık~|2. Milli Eğitim Sk.~|2. Çayyolu Sk.~|3. Göktürk Sk.~|3. Kocahüseyinler Sk.~|4. Göktürk Sk.~|5. Göktürk Sk.~|6. Göktürk Sk.~|7. Göktürk Sk.~|Acemoğlu@|Ay~|Ağaoğlu@|Göktürk Cd.@|Güneş~|Hacıhasanlar~|Harman~|Hasan Çavuş Cad.@|Karacalar@|Karanfil~|Kocahüseyinler Cd.@|Kısık~|Milli Eğitim@|Muhsin Yazıcıoğlu@|Orhangazi Sk.~|Yayla@|Yaşar Ağırman@|Yunus Emre@|Çay Yolu@
+51555	Yenikent Beldesi, Hamzabey Mah.	1. Aslan Sk.~|1. Türkmenler Sk.~|2. Aslan Sk.~|2. Türkmenler Sk.~|3. Türkmenler Sk.~|4. Türkmenler Sk.~|5. Türkmenler Sk.~|Hamzabey@|Hamzabey1~|Türkmenler@
+51556	Yenikent Beldesi, Yeni Mah.	1. Demirel Sk.~|1. Menderes Sk.~|1. Umurbey Sk.~|1. Yaşar Gültekin Sk.~|1. İzmir Sk.~|10.~|2. Demirel Sk.~|2. Menderes Sk.~|2. Yaşar Gültekin Sk.~|3. Demirel Sk.~|7.~|8.~|9.~|Atatürk@|Belediye Sk.~|Cumhuriyet@|Demirel@|Eski İlkokul@|Fatih@|Fevzi Çakmak@|Kiraz~|Menderes@|Okul Sk.~|Orhangazi Sk.~|Sağlık~|Umurbey~|Yaşar Gültekin@|Ziraat~|İzmir@|Şahin~
+51557	Yenikent Beldesi, İbrahimkahya Mah.	1~|1. Ayranpazarı Sk.@|1. İbrahimkahya Sk.~|2~|2. İbrahimkahya Sk.~|3.~|3. İbrahimkahya Sk.~|4.~|4. İbrahimkahya Sk.~|5.~|6,~|Ayranpazarı@|Cinyusuflar@|Sobacılar@|Çalca@|İbrahimkahya@|İzmir@|İzmir1~|Şaphaneliler@
+55298	Yeğinler Köyü	Yeğinler=
+55301	Yeşilova Köyü, Mandıra Mevkii	Mandıra=
+55303	Yeşilova Köyü, Yeşilova Köyü Mevkii	Yeşilova Köyü=
+51559	Yeşilçay Köyü, Yeni Mevkii	Atatürk~|Gediz~|Gediz/4~|Gediz/6~|Gül~|Kanun~|Kasap~|Menderes~|Menderes/2~|Menderes1.~|Menderes2.~|Menekşe~|Okul~|Sağlık~|Yavuz Selim~|Çimen~
+51558	Yeşilçay Köyü, Çay Mevkii	Atatürk~|Cami~|Cumhuriyet~|Dar~|Dar/1~|Gediz~|Gediz/1~|Gediz/2~|Gediz/3~|Gediz/4~|Gediz/5~|Hacılar~|Kanun~|Kasap~|Kayaköy Elk.santrali~|Kılıç~|Menderes~|Menderes/1~|Menderes/2~|Menderes/3~|Mercan~|Okul~|Sağlık~|Süslü~|Yavuz Selim~|Yusuf Çetin~|Çay~|Çevre~|Çeşme~
+196897	Yukarısusuz Köyü	12.~|14.~|16.~|18.~|19.~|20.~|21.~|22.-~|23.~|23.1~|25~|27~|29.~|31.~|Yukarısusuz Bilinmeyen1~|Yukarısusuz=
+55304	Yumrutaş Köyü	Yumrutaş=
+51560	Yunuslar Köyü, Fatih Mevkii	1~|1/1~|10.~|11.~|11./1~|12.~|2,~|3.~|3./1~|3./2~|4,~|5,~|6.~|6./1~|6./2~|6./3~|7,~|8,~|9,~|Adnan Menderes1~|Bahçelievler/19~|Bahçelievler/20~|Bahçelievler/23~|Cumhuriyet~|Cumhuriyet/1~|Fatih Sultan Mehmet~|Fatih Sultan Mehmet/1~|Gazi Salih Mehmet~|Gazi Salih Mehmet/1~|Gazi Salih Mehmet/2~|M.akif Ersoy~|M.akif Ersoy/1~|Çayır~
+51561	Yunuslar Köyü, Yunusemre Mevkii	1~|1/1~|12.~|13.~|14~|15.~|17.~|18~|19.~|20.~|21.~|22.~|22./1~|23~|24.~|25~|26.~|Adnan Menderes /1~|Adnan Menderes /2~|Adnan Menderes /3~|Adnan Menderes /4~|Adnan Menderes~|Adnan Menderes/1~|Adnan Menderes1~|Adnan Menderes2~|Bahçeli Evler~|Bahçelievler 1~|Bahçelievler 10~|Bahçelievler 11~|Bahçelievler 12~|Bahçelievler 13~|Bahçelievler 14~|Bahçelievler 15~|Bahçelievler 16~|Bahçelievler 17~|Bahçelievler 18~|Bahçelievler 2~|Bahçelievler 3~|Bahçelievler 4~|Bahçelievler 5~|Bahçelievler 6~|Bahçelievler 7~|Bahçelievler 8~|Bahçelievler 9~|Bahçelievler/19~|Bahçelievler/19/1~|Bahçelievler/20~|Bahçelievler/21~|Bahçelievler/22~|Bahçelievler/23~|Cumhuriyet~|Fatih Sultan Mehmet~|Fatih Sultan Mehmet/6~|Gerali~|Merkez~|Yayla~|Yıldız 1~|Yıldız 2~|Yıldız 3~|Yıldız~|Yıldız4~|Yıldız5~|Çayır~
+55252	Çeltikçi Köyü, Eski Mevkii	Eski=
+55253	Çeltikçi Köyü, Ova Mezrası	Ova=|Yeni=
+55251	Çeltikçi Köyü, Yeni Mevkii	Yeni 1~|Yeni 2~|Yeni 3~|Yeni 4~|Yeni 5~|Yeni 6~|Yeni 7~|Yeni=
+55254	Çomaklar Köyü	Çomaklar=
+55255	Çukurören Köyü	Çukurören=
+51521	Özyurt Mah.	143~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|154~|155~|156~|157~|158~|159~|160~|161~|162~|163~|164~|165~|166~|167~|168~|169~|170~|171~|172~|173~|174~|175~|176~|177~|178~|179~|183~|184~|185~|186~|187~|188~|189~|190~|191~|192~|193~|194~|195~|196~|197~|198~|199~|200~|201~|202~|203~|204~|205~|281~|Atatürk@|Belediye@|Cumhuriyet@|Demirel@|Dokuzçam Yaylası=|Erez@|Fuat Azmioğlu@|Gökoluk=|Hamam Bölgesi=|Ilıca Bölgesi=|Ilıca Desan=|Ilıca=|Ilıca Moteller=|Kirazlı=|Kıcıroğlu Yaylası=|Mehmet Emin Alanyalı@|Mehmet Ersoy@|Muratdağı Yeni Yayla=|Mustafa Bağdatlı@|Mustafa Necip Alayeli@|Mükerrem Sarol~|Nakipoğlu@|Ocakoğlu Yaylası=|Orman İşletmesi Eğitim Tesisi=|Soner Aksoy@|Uşak Kütahya Yolu Şose Kenarı=|Özyurt@|İdari Bölge=
+51552	Üzümlü Köyü, Fatih Mevkii	18~|19.~|Bilinmeyen/1~|Değirmenci Ali/1~|Değirmenci Ali/2~|Kara Mustafalar=|Karacalar=|Çiftlik~|Çiftlik1~|Üzümlü~|Üzümlü/1~|Üzümlü/2~|Üzümlü/3~|Üzümlü/4~
+51554	Üzümlü Köyü, Yeni Mevkii	11.~|11./1~|12.~|13.~|14.~|15.~|16.~|17.~|9/1~|Atatürk~|Bilinmeyen~|Bilinmeyen/1~|Cumhuriyet 1.~|Cumhuriyet-~|Cumhuriyet/2~|Cumhuriyet3~|Depmenler~|Saracık~|Yağcılar/1~|Yağcılar/2~|Yağcılar/3~|Üzümlü/5~|Üzümlü/6~|Üzümlü/7~|Üzümlü/9~
+51553	Üzümlü Köyü, Özyurt Mevkii	1.~|10.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Atatürk~|Cumhuriyet 1.~|Cumhuriyet~|Cumhuriyet/4~|Depmenler-~|Değirmenci Ali~|Saracık~|Yağcılar~|Üzümlü/3~|Üzümlü/8~

@@ -1,0 +1,37 @@
+92882	Akpınar Köyü	Akpınar=
+92883	Akpınar Köyü, Andıkara Mevkii	Andıkara=|Çatköy=
+92884	Ambar Köyü	Ambar=
+92881	Ağızboğaz Köyü	Ayrancı Ereğli@|Ağızboğaz=
+92885	Berendi Köyü	Berendi=|Keşir=
+92887	Berendi Köyü, Akoluk Mevkii	Akoluk=|Berendi=
+98959	Berendi Köyü, Alibağlı Mevkii	
+92889	Berendi Köyü, Aşağı Kıramanoğlu Mevkii	Aşagı Kıramanoğlu=|Kıramanoğlu=
+92886	Berendi Köyü, Keşir Mevkii	Keşir=
+92888	Berendi Köyü, Kıramanoğlu Mevkii	Kıraman=|Kıramanoğlu=
+98960	Berendi Köyü, Sarıkaya Mevkii	Sarıkaya=
+92892	Buğdaylı Köyü	Buğdaylı=
+92890	Böğecik Köyü	Böğecik=
+92891	Böğecik Köyü, Savran Mevkii	Savran=
+92893	Büyükkoraş Köyü	Büyükkoraş=
+90247	Dede Mah.	1002~|Arif Kayalı~|Atatürk@|Ayran Dede~|Ayrancı Erdemli@|Ayrancı Ereğli@|Baraj@|Bağlar~|Bülent Ecevit~|Demet~|Demirel~|Durgut Sevimli~|Ferit Baş~|Gazi~|Haluk Ündeğer~|Hasan Hüseyin Harman@|Hidayet Sevimli~|Hüyükburun=|Kerim Kalkan@|Kiraz Dağı~|Lalezar~|Mimar Sinan@|Musa Avsever@|Müftülük~|Osmaniye~|Recep Tayip Erdoğan~|Sakinler~|Sevgi~|Tahir Gezgin~|Türbe~|Uluer~|Ziya Efendi~|Çukur=|İdil Günay~|İnönü@|İsmet Set@|İstasyon@|İğdeli~|Şehit Ali Uyanık@|Şehit Alpay Gürsoy@|Şehit Batuhan Tank~|Şehit Bayram Ali Cansu~|Şehit Fuat Sezer~|Şehit Hüdaverdi Tülüoğlu~|Şehit Polis İbrahim Okçü~|Şehit Raşit Ermenek~
+92909	Divle Köyü	Divle=
+92910	Divle Köyü, Güneydağı Mevkii	Divle=|Güneydağı=
+92895	Dokuzyol Köyü	Dokuzyol=
+92896	Hüyükburun Köyü	Hüyükburun=
+92897	Kaleköy Köyü	Kaleköy=
+92898	Karaağaç Köyü	Karaağaç=|Karaağaç1~|Karaağaç2~|Karaağaç3~|Karaağaç4~|Karaağaç5~|Karaağaç6~|Karaağaç7~|Karaağaç8~|Karaağaç9~
+92899	Kavaközü Köyü	Başçayır=|Kavaközü 1~|Kavaközü 2~|Kavaközü 3~|Kavaközü 4~|Kavaközü 7~|Kavaközü=
+92900	Kavaközü Köyü, Başçayır Yayla Evleri	Başçayır=|Kavaközü=
+92901	Kavaközü Köyü, Elfetin Yayla Evleri	Elfettin=
+92902	Kavuklar Köyü	Kavuklar=
+92903	Kayaönü Köyü	Kayaönü=
+92905	Küçükkoraş Köyü	Küçükkoraş=
+92904	Kıraman Köyü	Divle=|Kıraman=
+92906	Melikli Köyü	Melikli=
+90248	Musa Mah.	Ayrancı Erdemli@|Ayrancı Ereğli@|Baraj@|Divle@|Elvan~|Fidanlık~|Güneydağı=|Kiraz Dağı~|Musa 1@|Musa=|Sarı~|Taşçı~|Yurt~|Çukur=|Ötüken=|Şehit Adem Akın~|Şehit Akif Akçadağ~|Şehit Ali Turgut~|Şehit Bayram Olgun~|Şehit Enes Kaya~|Şehit Fatih Kara~|Şehit Hasan Hüseyın Özdemir~|Şehit Mehmet Muhammed Akay~|Şehit Muhammet Ali Özer~|Şehit Muharrem Öğütçü~|Şehit Mustafa Bayrakdar~|Şehit Selman Cankara~|Şehit Süleyman Şahin~|Şehit Tolga Can Yılmaz~|Şehit Veysel Günay~
+92907	Pınarkaya Köyü	Pınarkaya=
+92908	Sarayköy Köyü	Hüyükburun=|Sarayköy=
+90249	Ulu Mah.	Akdeniz~|Ayran Dede~|Cami~|Erden~|Hacı İbrahim Ekin=|Kiraz Dağı~|Saatçiler~|Sağdıçlar~|Ulu1=|Yakışıklı~|İncedal~|Şehit Ali Uyanık@|Şehit Armağan Akman~|Şehit Kadir Tuncer~|Şehit Mustafa Muhammed Ak~|Şehit Ragip Soylu Coşkun~
+92911	Yarıkkuyu Köyü	Yarıkkuyu=
+90250	Yeni Mah.	Akasya~|Arif~|Atatürk@|Bahçeli Evler~|Bolkar~|Bulut~|Bülent Kayalı~|Celal Set~|Dede~|Dokuzyolu@|Eğitim~|Faruk Ekiz~|Gedik~|Göçmenler~|Gündüz~|Güneysu~|Hasan Hüseyin Harman/1~|Hilmi Dede~|Hüyükburun=|Jandarma~|Kafiryazısı=|Karanfil~|Kıprıs~|Kırım~|Mevlana~|Meydan~|Mezarlık~|Mimar Sinan@|Musa Avsever@|Onur Kanat~|Palamut~|Papatya~|Ramazan Öztürk~|Salkım~|Stad~|Sümbül~|Veli Bettemir@|Yenibağlar@|Yunus Emre~|Yıldız~|Zambak~|Çağlar~|Çelikel~|Üzümlü~|İnönü@|İstasyon@|Şehit Ahmet Alpaslan~|Şehit Ahmet Saygılı~|Şehit Ali Taşöz~|Şehit Asker Ali Rıza İnceer~|Şehit Birhan Er~|Şehit Cuma Bağtur~|Şehit Emre Baysal~|Şehit Eyüp Gülaştı~|Şehit Güven Kurtulmuş~|Şehit Halil Çankaya~|Şehit Halıl İbrahim Akkaya~|Şehit Mehmet Orhan~|Şehit Muhammed Yılmaz~|Şehit Nihat Kara~|Şehit Recep Bekir~|Şehit Selim Nergiz~|Şehit Tayfun Pekel~|Şehit Turgay Usta@|Şehit Turgut Burkay Korkmaz~
+92894	Çatköy Köyü	Çatköy=

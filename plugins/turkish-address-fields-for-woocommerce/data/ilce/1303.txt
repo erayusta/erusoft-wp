@@ -1,0 +1,60 @@
+180471	Afşar Mah.	Afşar=
+180465	Ahatlı Mah.	Ahatlı Köy İçi=|Dutyaka=|Döğüş=
+180467	Akçaeniş Mah.	Akçaeniş Kesikkapı=|Akçaeniş Kumyolu=|Akçaeniş Pazaryolu=|Akçaeniş İlkokul=
+180401	Akçay Mah.	1.park~|2.park~|3.park~|4.park~|5.park~|Ahatlı (olukbaşı)@|Ahatlı@|Akyol (pamukluk)~|Akyol~|Armutlu (pamukluk)@|Armutlu@|Atatürk (olukbaşı)@|Atatürk@|Avşar (olukbaşı)@|Avşar@|Bekirler~|Elmalı@|Garipler~|Hacı Efendiler (pamukluk)~|Hacı Efendiler~|Hasan Toptaş~|Hidayet Usta Çıkmazı~|Karakol~|Koyuncu~|Kızılbelen Ara~|Kızılbelen~|Mezarlık~|Ortaokul@|Sinanlar Çıkmazı~|Tangazlar~|Çerler=|İlkokul (pamukluk)@|İlkokul@|Şafaklar~
+180469	Armutlu Mah.	Armutlu Köy İçi=|Armutlu Yörükler=
+180405	Bayralar Mah.	Bayralar=
+180403	Bayındır Mah.	Bayındır=
+180407	Beyler Mah.	Beyler=
+180409	Bozhüyük Mah.	Bozhüyük=
+180411	Büyüksöğle Mah.	Bozyer=|Büyüksöyle=
+2576	Camiatik Mah.	200~|210~|Arıkbaşı~|Bülbüller Geçidi~|Callak~|Dar~|Eski Cezaevi~|Eğrekler Geçidi~|Eğrekler~|Hanönü@|Hıdırlık~|Kasaplar Çıkmazı=|Kuşakçılar~|Müftülük Çıkmazı~|Selahattin Topçu@|Sinan Ümmi~|Sinanümmi 1.~|Sinanümmi Geçidi~|Topdağı Geçidi~|Topdağı~|Uzun Köprü@|Veyseller Çıkmazı~|Yenimahalle~|Ömer Ağalar~|Öğrt.rauf Bey~
+2577	Camicedit Mah.	Baltası Gedik~|Bağdat~|Cemile Pınarı~|Pınarbaşı@|Tatlılar Geçidi~|Tatlılar~|Yumrutaş Geçiti~|Yumrutaş~|İshakdede~|Şehit Salih Tepe~
+180413	Dereköy Mah.	Dereköy=
+180415	Düden Mah.	Düden=
+180417	Eskihisar Mah.	Eskihisar Köy İçi=|Kınalı=
+180419	Eymir Mah.	Eymir=
+180421	Geçit Mah.	Geçit=
+180423	Geçmen Mah.	Geçmen=
+180425	Gökpınar Mah.	100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|154~|155~|156~|157~|158~|159~|160~|161~|162~|9300~|Elmalılı Muhammed Hamdi Yazır%|Eren Tepe@|Gökpınar Mücavir~|Gökpınar~|Güzelyurt~|Milli Egemenlik~|Tuğrul Bey~|Yeşil Yayla~|Çağrı Bey~
+180485	Gölova Mah.	Gölova Köy İçi=|Kasaba=
+180427	Göltarla Mah.	Göltarla=
+180493	Gümüşyaka Mah.	Gümüşyaka=
+2578	Gündoğan Mah.	1. Urkiyeler Dere~|1.göçmen~|2. Urkiyeler Dere~|2.göçmen~|Adliye 1~|Adliye@|Alparslan Türkeş@|Avdanlar~|Ayoğlu@|Baki Gül~|Bayram Ağa~|Bağkur Evler@|Buhar~|Buharalı 1~|Buharalı 2~|Buharalı Tepe~|Demetevler Koop.~|Demirel%|Dr.ferruh Niyazi~|Emin Türkiş@|Gül~|Gündoğan~|Güne Bakan@|Hastane@|Karşıyaka-1~|Karşıyaka-2~|Mevlana@|Musa Dede~|Ormancılar@|Osman Nuri Çınar~|Recep Gürbüz@|Su İşleri Kooperatif~|Tepe Geçidi-1~|Tepe Geçidi-2~|Tepe Geçidi-3~|Tepe Geçidi-4~|Tepe Geçidi-5~|Urkiyeler Tepe Çıkmazı~|Yunus Emre@|Çamlık Askeri Kışla@|Çamlık Belediye Evleri@|Çınarlı Çevre~|Özyurt Kooperatif Evleri~|İbrahim Elmalı@
+180429	Hacımusalar Mah.	Hacımusalar=
+180431	Hacıyusuflar Mah.	Hacıyusuflar=
+2580	Kapmescit Mah.	5010~|5020~|Araplar Dere~|Avdanlılar~|Bağdat@|Dr.ömer Efendi~|Hanedanlar~|Meheroğlu~|Süleyman Türkiş~|Tatlılar Geçidi~|Tatlılar~|İshak Dede~|İzlokum Hoca~
+180495	Karaköy Mah.	Karaköy=
+180435	Karamık Mah.	Karamık=
+2581	Karyağdı Mah.	200~|210~|220~|230~|240~|36.daireler~|6000~|6010~|6020~|6030~|6040~|6050~|6060~|6070~|6080~|6090~|6100~|6110~|6120~|6130~|6140~|6150~|6160~|6170~|6180~|6181~|6190~|6200~|6210~|6220~|6230~|6240~|6250~|6260~|6270~|6280~|6290~|6300~|6310~|6320~|6330~|6340~|6350~|6360~|6370~|6380~|6390~|6400~|6410~|6420~|6430~|6440~|6450~|6460~|6470~|6480~|6490~|6500~|6510~|6520~|6530~|6540~|6550~|6560~|6570~|6580~|6590~|6600~|6610~|6620~|6630~|6640~|6650~|6660~|6670~|6680~|6690~|6700~|6710~|6720~|6730~|6740~|6750~|6760~|6770~|6780~|6790~|6800~|6810~|6820~|6830~|6840~|Antik Yol~|Atatürk(karyağdı)@|Ay~|Aydınlık~|Bahçeli Cami~|Bahçeli Evler@|Beydeğirmen Pompaj~|Beydeğirmeni Pompaj 1.~|Beydeğirmeni Pompaj 2.~|Beydeğirmeni Pompaj 3.~|Bulut~|Callak~|Demirel%|Dr.necdet Gür@|Dr.özer Yazıcı~|Eski Cezaevi~|Eski Finike 1.~|Eski Finike@|Günay@|Güneş 1~|Gürbüz~|Karanlık Çıkmaz 1~|Karanlık Çıkmaz 2~|Kaşlılar~|Kaşlılar Tepe~|Kemer~|Kızılbel Geçidi~|Kızıltemeller@|Kızıltemeller Odunluk-1~|Kızıltemeller Odunluk-2~|Kızıltemeller Odunluk-3~|Kızıltemeller Odunluk-4~|Kızıltemeller Odunluk-5~|Kızıltemeller Odunluk-6~|Kızıltemeller Odunluk-7~|Kızıltemeller Odunluk-8~|Kızıltemeller Odunluk-9~|Likya~|Likya Sokak~|Mehmet Akif Ersoy@|Meteoroloji~|Mezarlık Geçidi 1.~|Mezarlık Geçidi~|Mezarlık Tepe Geçidi~|Mezarlık Çıkmaz~|Millizade Salih Efendi 1~|Millizade Salih Efendi@|Müze 1.~|Otogar~|Pir Abdal Musa@|Prof. Dr. İbrahim Baktır@|Rasık Yılmaz~|Sanayi Kemer Geçidi~|Sanayi Sitesi@|Selahattin Tekeli@|Selahattin Topçu@|Sevgi~|Tekebağları Evleri=|Terminal 1.~|Terminal 2.~|Topçu Okulu 1.~|Topçu Okulu~|Topçular Bağ Geçidi~|Yıldız~|Zincirlikuyu 1.~|Zincirlikuyu 2.~|Zincirlikuyu 3.~|Zincirlikuyu Çıkmazı~|Çukur Değirmen 1~|Çukurdeğirmen@|Ünal Özgödek@|Üniversite 1.~|İsmail-turan Balaban@|Şakir Akça~|Şehit Gece Bekçisi Yakup Bozdağ@
+180439	Kocapınar Mah.	Kocapınar 1=
+180441	Kuzköy Mah.	Kuzköy=
+180443	Küçüksöğle Mah.	Bozyer=|Küçüksöyle=
+180477	Kızılca Mah.	Kızılca=
+180437	Kışla Mah.	Kışla=
+180445	Macun Mah.	Macun=
+180447	Mursal Mah.	Mursal=
+180497	Ovacık Mah.	Ovacık=
+180449	Pirhasanlar Mah.	Pirhasanlar=
+180451	Salur Mah.	Salur=
+180479	Sarılar Mah.	Sarılar=
+2582	Tahtamescit Mah.	Arseven~|Aydınlar~|Baltası Gedik~|Callak~|Cemile Pınarı~|Hacı Haliller~|Mescid Önü~|Mescit~|Pınarbaşı 1~|Pınarbaşı@|Semiha Hanım~
+180453	Tavullar Mah.	Tavullar=
+180481	Tekke Mah.	Tekke=
+2583	Toklular Mah.	8000~|Abdullah Ekiz Çıkmaz=|Ahmet Atılgan~|Alamescid Geçidi~|Değirmenönü Geçidi~|Hacıhaliller~|Hıdırlık~|Külahcılar~|Külahçılar Geçidi~|Pınarbaşı 1~|Pınarbaşı@|Vahabümmi Geçidi~|Yağcılar~
+180455	Yakaçiftlikköyü Mah.	Yakaçiftlikköyü=
+180457	Yalnızdam Mah.	Yanlızdam=
+180459	Yapraklı Mah.	Yapraklı=
+2584	Yeni Mah.	119~|80 Evler 1.~|80 Evler 2.~|80 Evler 3.~|80 Evler 4.~|80 Evler Tepe 1.~|80 Evler Tepe 2.~|9000~|9010~|9011~|9020~|9030~|9031~|9032~|9033~|9040~|9050~|9060~|9070 Çıkmaz~|9080~|9090~|9100~|9110~|9120~|9130~|9140~|9150~|9160~|9170~|9180~|9190~|9200~|9210~|9220~|9230~|9240~|9250~|9260~|9270~|9280~|9290~|9310~|9318~|9319~|9320~|9321~|9322~|9323~|9324~|9325~|9330~|9340~|9350~|9360~|9370~|9380~|9390~|9400~|9410~|9420~|9430~|9440~|9450~|9460~|9470~|9480~|9490~|9500~|9510~|9520~|9530~|9540~|9550~|9560~|9570~|9580~|9590~|9600~|9610~|9620@|9630~|9640~|Abdullah Ay~|Adatepe Evleri=|Ahmet Hamdi Altıntepe@|Akkulak@|Akkulak Tepe@|Alparslan Türkeş@|Ataeren 1~|Ataeren 10~|Ataeren 11~|Ataeren 12~|Ataeren 13~|Ataeren 14~|Ataeren 15~|Ataeren 16~|Ataeren 2~|Ataeren 3~|Ataeren 4~|Ataeren 5@|Ataeren 6~|Ataeren 7~|Ataeren 8~|Ataeren 9~|Ataeren@|Ataeren Dağı 1.~|Ataeren Dağı 10.~|Ataeren Dağı 11.~|Ataeren Dağı 2.~|Ataeren Dağı 3.~|Ataeren Dağı 4.~|Ataeren Dağı 5.~|Ataeren Dağı 6.~|Ataeren Dağı 7.~|Ataeren Dağı 8.~|Ataeren Dağı 9.~|Ataeren Dağı~|Atatürk%|Bayar~|Bağkur Evler@|Bağkur Evleri 1~|Başak Evleri~|Beydeğirmeni 1.~|Beydeğirmeni 2.~|Beydeğirmeni 3.~|Beydeğirmeni~|Bülent Ecevit@|Cumhuriyet@|Darboğaz 1.~|Darboğaz 10.~|Darboğaz 11.~|Darboğaz 12.~|Darboğaz 13.~|Darboğaz 14.~|Darboğaz 15.~|Darboğaz 16.~|Darboğaz 17.~|Darboğaz 18.~|Darboğaz 2.~|Darboğaz 3.~|Darboğaz 4.~|Darboğaz 5.~|Darboğaz 6.~|Darboğaz 7.~|Darboğaz 8.~|Darboğaz 9.~|Darboğaz~|Dağdibi~|Demirel%|Dua Yokuşu~|Düdenbaşı~|Elmalılı Muhammed Hamdi Yazır%|Eski Finike 2.~|Eski Finike@|Güneş@|Hal~|Hasan Subaşı@|Huzur~|Hürriyet@|Kamuran~|Kavakdibi 1.~|Kavakdibi Orta~|Kavakdibi~|Kirazlı 1.~|Kirazlı 10.~|Kirazlı 11.~|Kirazlı 12.~|Kirazlı 13.~|Kirazlı 14.~|Kirazlı 15.~|Kirazlı 16.~|Kirazlı 17.~|Kirazlı 2.~|Kirazlı 3.~|Kirazlı 4.~|Kirazlı 5.~|Kirazlı 6.~|Kirazlı 7.~|Kirazlı 8.~|Kirazlı 9.~|Kirazlı~|Kocapınar@|Kocapınar Tepe~|Kule Bağları~|Kültür~|Mehmet Akif Ersoy@|Muhammet Hamdi Yazır@|Orman Evler Kooperatifi 1~|Orman Evler Kooperatifi 2~|Orman Evler Kooperatifi 3~|Pir Abdal Musa@|Recep Gürbüz@|Selahattin Tekeli@|Stadyum@|Toptancı Hal@|Vatan@|Villa@|Yeni Dar~|Çamlık Askeri Kışla~|İsmail-turan Balaban@|İstiklal@|Şinarlık 1~|Şinarlık 2.~|Şinarlık 3.~
+180399	Yuva Mah.	Adnan Menderes~|Akpınar Deresi~|Ali Akman (yeni)@|Ali Akman(inönü)@|Ali Akman(çaybaşı)@|Aytarlar~|Ballık~|Bayram Kavağı~|Bedir~|Belediye (ortaköy)@|Belediye(inönü)@|Buhara~|Burak~|Certler~|Ceylan~|Dibekbaşı~|Dikbaşlar~|Dumlupınar~|Eren Ardıcı~|Eren~|Ertuğrul Gazi~|Ese Efendiler~|Fatih~|Fetih~|Filiz~|Gazi Osman Paşa~|Gazi~|Godeşler~|Gülistan~|Günay~|Güneş~|Hacıbekir~|Hacımavuşlar (yeni)~|Hacımavuşlar~|Kanuni~|Karacalar Çıkmazı~|Karakaya~|Karakuyu@|Karatepe (ortaköy)~|Karatepe~|Kardelen~|Kaçan~|Keller (ortaköy)~|Keller~|Kilimler (yeni)~|Kilimler~|Kocain~|Köleler~|Mahmutlar~|Malazgirt~|Mehmet Akif Ersoy (ortaköy)@|Mehmet Akif Ersoy@|Mehmet Kurubaş@|Mezarlık~|Mithatpaşa~|Mutaflar (yeni)~|Mutaflar~|Oruç Reis~|Piri Reis~|Sarmaşık~|Sarıtaş~|Semerkant~|Sepetçi~|Taşkent~|Tombul~|Topeşler (ortaköy)~|Topeşler~|Turgut Reis~|Yavuz Sultan Selim~|Yayla Küme Evleri=|Yayla~|Yeşilkuş~|Yusuf Songur(yeni)@|Yusuf Songur(çaybaşı)@|Zambak~|Zulfan~|Çakırlar~|Çoban~|Çömezler~|Çınar~|İnönü~|İrfanlar~
+180463	Yörenler Mah.	Yörenler=
+180461	Yılmazlı Mah.	Yılmazlı=
+180483	Zümrütova Mah.	Zümrütova=
+180473	Çaybaşı Mah.	Değirmen~|Eseler~|Yavu~
+180489	Çobanisa Mah.	Çobanisa=
+180491	Çukurelma Mah.	Çukurelma=
+180499	Özdemir Mah.	Özdemir=
+180487	İlyağı Mah.	Kızılpınar=|Çalpınar Köy İçi=
+180433	İmircik Mah.	İmircik=
+2579	İplik Pazarı Mah.	Arseven~|Atatürk(iplikpazarı)@|Avdanlar~|Ağalar Ve Kütük Camii@|Baharlar Dere~|Baharlar Geçidi~|Baharlar~|Bağdat 1~|Bağdat@|Bey Hamamı@|Dikiciler@|Emin Türkiş@|Fahri İyican~|Girne Okulu~|Hacı Hasan Efendi~|Hacı Şakirler~|Hal Ve Demirciler@|Hal Üstü Meydan~|Hanedanlar~|Haydarbaba~|Helvacılık@|Mehmet Bilgen@|Semiha Hanım~|Serdarlar~|Süleyman Türkiş~|Tatlılar~|Yoncalık@|Ömer Sivrikaş~|İbrahim Elmalılı@|Şube Geçidi~
+180475	İslamlar Mah.	İslamlar=

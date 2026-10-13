@@ -1,0 +1,41 @@
+158407	Akyürek Mah.	Akyürek=
+158409	Armutalan Mah.	Armutalan=
+158457	Bağyaka Mah.	Bağyaka=
+158411	Başağaç Mah.	Başağaç=
+158413	Başkavak Mah.	1.~|10.~|11.~|12=|2.~|3.~|4.~|5.~|6.~|7.~|8.=|9.~
+158415	Bengisu Mah.	Bengisu=
+158417	Dereiçi Mah.	Dereiçi=
+158419	Durusu Mah.	Durusu=
+158421	Erkuran Mah.	Erkuran=
+158423	Gölbaşı Mah.	Gölbaşı=
+158425	Harmantepe Mah.	Harmantepe=
+158427	Hisarkaya Mah.	Hisarkaya=
+60034	Kaplan Mah.	301.~|302~|303~|304~|305~|306~|307~|308~|309~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|328~|329~|342~|343~|344~|Aynune Mevkii=|Beşevler=|Bilinmeyen/1~|Gülten Erdem~|H Bahattin Erdem@|H.bahri Yavuz@|H.kasım Aydemir~|M.rıza Erdem@|Mardin@|Şehit Kanansapancı 310~
+158463	Karaköy Mah.	Karaköy=
+158431	Kayacıklar Mah.	Haci Ali Mezrası=|Kayacıklar=
+158433	Kayatepe Mah.	Kayatepe=
+158467	Kocahüyük Mah.	Kocahüyük=
+158435	Koşuyolu Mah.	Koşuyolu=
+158437	Köprülü Mah.	Köprülü=
+158455	Kırbalı Mah.	Kırbalı=
+158465	Kırkdirek Mah.	Kırkdirek=
+158439	Ormancık Mah.	Ormancık=
+158401	Pınardere Mah.	101(sınır) (yenişehir)~|101(sınır)~|102_2~|103_3~|104_2~|105_1~|106~|107_1~|108_1~|109_1~|110_3~|111_1~|112_2~|115~|116_2~|117_1~|118~|119_2~|120_3~|121_1~|122_1~|123~|125~|126~|127~|129_1~|130_1~|131_1~|132_1~|133_1~|202_1~|203-~|204_2~|207_1~|208_1~|209_1~|210_2~|213_1~|216_1~|217~|219~|221_2~|222_1~|223_1~|224_1~|225_1~|226_1~|227~|229_1~|230~|233~|Bilinmeyen/11~|Bilinmeyen/12~|Bilinmeyen/13~|Bilinmeyen/21~|Bilinmeyen/6~|Bilinmeyen/7~|Bilinmeyen/8~|Dut.@|Hürriyet@|Karakol~|Kaya.@|Mardin_1@|Savur.@|Tepe.@|Ulus (yenişehir)@|Ulus@|Vatan@|İstiklal@
+60032	Safa Mah.	101~|102~|103~|104~|105~|106a~|107~|109~|110~|111~|112~|113~|114~|116~|117~|118_1~|119_3~|120~|121_2~|122~|123_1~|124~|125/1~|125_1~|126 1.geçit~|126_1~|127_1~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|139~|141~|143~|145~|147~|148~|149~|151~|153~|155~|157~|159~|160~|161~|162~|163~|167~|201d~|302d~|Bilinmeyen3=|Dut=|Emine Perviz Erdem@|Gengiye=|Gökhan Erdem~|H.bahri Yavuz@|Harap Hırbe=|Lise@|M.nezih Erdem@|M.rıza Erdem@|M.sait Erdem@|Muhummed Fatih Erdem~|Veysi Erdem@|Z.abidin Erdem@|Zeynep Berrin Erdem~
+158441	Sancaklı Mah.	Sancaklı=
+158443	Serenli Mah.	Serenli=
+60033	Seydin Mah.	201~|202~|203~|204~|205~|206~|207_2~|208~|209~|210~|211~|212~|212a~|213~|302e~|Emine Perviz Erdem@|Karşıyaka Mevkii=|Rasulharf=
+158469	Soylu Mah.	Soylu=
+158403	Sürgücü Mah.	103_2~|104-~|104/a~|105_2~|106_1~|107/a~|107/a-~|107_3~|108_2~|109_3~|110_1~|111_2~|113_2~|114_2~|115_1~|117_3~|118_2~|119_1~|120 (tepe)~|120_1~|121~|122 (tepe)~|122_2~|203_2~|204_1@|205_2~|206_1~|207_3~|208_2~|210_1~|211_2~|216~|218~|219 Karşıyaka-~|220~|221~|222~|223~|224~|225~|226~|227._2~|227_1~|228~|229~|Bahçelievler@|Bayaka@|Bilinmeyen 118~|Bilinmeyen/17~|Bilinmeyen/5/104.sk~|Bilinmeyen/51~|Bilinmeyen/52~|Bilinmeyen/53~|Karşıyaka@|Köşk (tepe)@|Köşk@|Lale (tepe)@|Lale@|Taş Uren@|Tepe@|Yunus Emre@
+158473	Taşlık Mah.	Taşlık=|Yazır=
+158445	Tokluca Mah.	Mantara=|Tokluca=
+158451	Yaylayanı Mah.	Yaylayanı=
+158475	Yazır Mah.	Yazır=
+158453	Yenilmez Mah.	Yenilmez=
+158405	Yeşilalan Mah.	102_1~|103_1~|104_1~|105_3~|106_2~|107_2~|108~|109_2~|110_2~|111_3~|112_1~|113_1~|114_1~|115_2~|116_1~|117_2~|118_3~|119~|120_2~|121_3~|203_1~|204_3~|205_1~|207~|208_3~|209_2~|211_1~|212_1~|213_2~|214~|215~|216_2~|217_1~|218_1~|219_1~|220_1~|221_1~|Barman (yeni)@|Barman@|Belediye@|Bilinmeyen/14~|Bilinmeyen/4~|Bilinmeyen/5~|Gülfidan@|Çeşme@
+158459	Çınarönü Mah.	Çınarönü=
+158447	Üçerli Mah.	Üçerli=
+158449	Üçkavak Mah.	Üçkavak=
+158429	İçören Mah.	İçören=
+158461	İşgören Mah.	İşgören=
+158471	Şenocak Mah.	Şenocak=

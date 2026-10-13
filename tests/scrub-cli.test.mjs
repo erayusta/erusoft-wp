@@ -5,7 +5,9 @@ import { tmpdir } from 'node:os';
 import { join, resolve, dirname } from 'node:path';
 import { spawnSync, execFileSync } from 'node:child_process';
 import { deflateSync, crc32 } from 'node:zlib';
+import { createHash } from 'node:crypto';
 import { termHash } from '../tools/lib/scrub-core.mjs';
+import { canonicalManifest } from '../tools/lib/scrub-manifest.mjs';
 
 const CLI = resolve('tools/scrub.mjs');
 const tmp = () => mkdtempSync(join(tmpdir(), 'scrub-'));
@@ -18,7 +20,7 @@ function hashFile(...terms) {
 function run(args, { cwd = process.cwd(), env = {} } = {}) {
   return spawnSync('node', [CLI, ...args], {
     cwd, encoding: 'utf8',
-    env: { ...process.env, SCRUB_TERMS_FILE: join(tmpdir(), 'no-such-terms.txt'), SCRUB_ALLOW_IDENTITY: '', ...env },
+    env: { ...process.env, SCRUB_TERMS_FILE: join(tmpdir(), 'no-such-terms.txt'), SCRUB_DATA_MANIFEST: join(tmpdir(), 'no-such-manifest.json'), SCRUB_ALLOW_IDENTITY: '', ...env },
   });
 }
 function pngChunk(type, data) {
@@ -169,4 +171,117 @@ test('--exclude skips a relative directory in --dir mode only', () => {
   writeFileSync(join(dir, 'bad.txt'), 'Acme Gida');
   assert.equal(run(['--dir', dir, '--exclude', 'downloads'], { env }).status, 1);
   assert.equal(run(['--exclude', 'downloads'], { env }).status, 2);
+});
+
+// ---- content-pinned data (tools/scrub-data-manifest.json) ----
+const sha = s => createHash('sha256').update(s).digest('hex');
+const DATA_PATH = 'plugins/demo-plugin/data/ilce/1.txt';
+function pinnedSetup(pinnedContent, actualContent = pinnedContent, layout = DATA_PATH) {
+  const dir = tmp();
+  mkdirSync(join(dir, dirname(layout)), { recursive: true });
+  writeFileSync(join(dir, layout), actualContent);
+  const mf = join(tmp(), 'manifest.json');
+  writeFileSync(mf, canonicalManifest([{ path: DATA_PATH, sha256: sha(pinnedContent) }]));
+  return { dir, env: { SCRUB_HASHES_FILE: hashFile('Acme Gida'), SCRUB_DATA_MANIFEST: mf } };
+}
+const STREETS = '40001\tDemo Mah.\tAcme Gida~|Örnek~\n';
+
+test('pinned data: client term in an unchanged pinned file is not reported', () => {
+  const { dir, env } = pinnedSetup(STREETS);
+  const r = run(['--dir', dir], { env });
+  assert.equal(r.status, 0, r.stdout);
+});
+
+test('pinned data: same path with changed content is fully scanned', () => {
+  const { dir, env } = pinnedSetup(STREETS, STREETS + '40002\tYeni Mah.\t\n');
+  const r = run(['--dir', dir], { env });
+  assert.equal(r.status, 1);
+  assert.match(r.stdout, /1\.txt:1 client-term/);
+});
+
+test('pinned data: pattern rules (e-mail, IBAN) still run on a pinned file', () => {
+  const iban = 'T' + 'R12 0006 2000 0000 0000 0000 00';
+  const content = STREETS + JANE + '\n' + iban + '\n';
+  const { dir, env } = pinnedSetup(content);
+  const r = run(['--dir', dir], { env });
+  assert.equal(r.status, 1);
+  assert.match(r.stdout, /1\.txt:2 email/);
+  assert.match(r.stdout, /1\.txt:3 iban/);
+  assert.doesNotMatch(r.stdout, /client-term/);
+});
+
+test('pinned data: same content at an unpinned path is reported', () => {
+  const { dir, env } = pinnedSetup(STREETS, STREETS, 'plugins/demo-plugin/data/other/1.txt');
+  const r = run(['--dir', dir], { env });
+  assert.equal(r.status, 1);
+  assert.match(r.stdout, /client-term/);
+});
+
+test('pinned data: extracted ZIP layout matches by plugin-relative suffix + hash', () => {
+  const { dir, env } = pinnedSetup(STREETS, STREETS, 'demo-plugin/demo-plugin/data/ilce/1.txt');
+  assert.equal(run(['--dir', dir], { env }).status, 0);
+  const changed = pinnedSetup(STREETS, STREETS + 'x\n', 'demo-plugin/demo-plugin/data/ilce/1.txt');
+  assert.equal(run(['--dir', changed.dir], { env: changed.env }).status, 1);
+});
+
+test('pinned data: manifest may only skip the client-term rule', () => {
+  const { dir, env } = pinnedSetup(STREETS);
+  writeFileSync(env.SCRUB_DATA_MANIFEST, JSON.stringify({ files: [{ path: DATA_PATH, sha256: sha(STREETS) }], rules_skipped: ['client-term', 'email'] }));
+  assert.equal(run(['--dir', dir], { env }).status, 2);
+});
+
+test('manifest: duplicate keys (smuggled entry) are rejected and pin nothing', () => {
+  const { dir, env } = pinnedSetup(STREETS);
+  const canon = canonicalManifest([{ path: DATA_PATH, sha256: sha(STREETS) }]);
+  // A reviewer sees an empty list; JSON.parse keeps the second "files" key.
+  writeFileSync(env.SCRUB_DATA_MANIFEST, canon.replace('{\n "files": [', '{\n "files": [],\n "files": ['));
+  const r = run(['--dir', dir], { env });
+  assert.equal(r.status, 1);
+  assert.match(r.stdout, /manifest-invalid/);
+  assert.match(r.stdout, /1\.txt:1 client-term/);
+});
+
+test('manifest: extra text or whitespace is rejected; canonical form is accepted', () => {
+  const { dir, env } = pinnedSetup(STREETS);
+  const canon = canonicalManifest([{ path: DATA_PATH, sha256: sha(STREETS) }]);
+  writeFileSync(env.SCRUB_DATA_MANIFEST, canon + '\n');
+  assert.match(run(['--dir', dir], { env }).stdout, /manifest-invalid/);
+  writeFileSync(env.SCRUB_DATA_MANIFEST, canon.replace('"files"', '"files" '));
+  assert.match(run(['--dir', dir], { env }).stdout, /manifest-invalid/);
+  writeFileSync(env.SCRUB_DATA_MANIFEST, canon);
+  assert.equal(run(['--dir', dir], { env }).status, 0);
+});
+
+test('manifest: only plugins/<slug>/data/… paths may be pinned', () => {
+  const { dir, env } = pinnedSetup(STREETS);
+  writeFileSync(env.SCRUB_DATA_MANIFEST, canonicalManifest([{ path: 'tools/notes.txt', sha256: sha(STREETS) }]));
+  const r = run(['--dir', dir], { env });
+  assert.equal(r.status, 2);
+  assert.match(r.stderr, /not pinnable/);
+});
+
+test('pinned data: ZIP suffix matching is not used in default (repository) mode', () => {
+  const repo = tmp();
+  execFileSync('git', ['init', '-q'], { cwd: repo });
+  mkdirSync(join(repo, 'demo-plugin/data/ilce'), { recursive: true });
+  writeFileSync(join(repo, 'demo-plugin/data/ilce/1.txt'), STREETS);
+  const mf = join(tmp(), 'manifest.json');
+  writeFileSync(mf, canonicalManifest([{ path: DATA_PATH, sha256: sha(STREETS) }]));
+  const r = run([], { cwd: repo, env: { SCRUB_HASHES_FILE: hashFile('Acme Gida'), SCRUB_DATA_MANIFEST: mf } });
+  assert.equal(r.status, 1);
+  assert.match(r.stdout, /demo-plugin\/data\/ilce\/1\.txt:1 client-term/);
+});
+
+test('manifest: an entry whose path is not a repository file is reported (repository mode)', () => {
+  const repo = tmp();
+  execFileSync('git', ['init', '-q'], { cwd: repo });
+  mkdirSync(join(repo, dirname(DATA_PATH)), { recursive: true });
+  writeFileSync(join(repo, DATA_PATH), STREETS);
+  const gone = 'plugins/demo-plugin/data/ilce/2.txt';
+  const mf = join(tmp(), 'manifest.json');
+  writeFileSync(mf, canonicalManifest([{ path: DATA_PATH, sha256: sha(STREETS) }, { path: gone, sha256: sha('x') }]));
+  const r = run([], { cwd: repo, env: { SCRUB_HASHES_FILE: hashFile('Acme Gida'), SCRUB_DATA_MANIFEST: mf } });
+  assert.equal(r.status, 1);
+  assert.match(r.stdout, /manifest-stale.*2\.txt/);
+  assert.doesNotMatch(r.stdout, /1\.txt.*manifest-stale/);
 });

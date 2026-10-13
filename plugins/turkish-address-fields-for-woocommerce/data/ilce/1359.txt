@@ -1,0 +1,70 @@
+15761	Aktaş Köyü	Aktaş Köy Sokağı=|Bolu Bilecik@|Org. Hüseyin Kıvrıkoğlu@
+15760	Akçakavak Köyü	Akçakavak Köy Sokağı=
+15762	Alıç Köyü	Alıç Köy Sokağı=
+15764	Alıç Köyü, Akçaöküz Mezrası	Akçaöküz Köy Sokağı=
+15763	Alıç Köyü, Elmümin Mezrası	Elmümin Köy Sokağı=
+15766	Armutçuk Köyü	Armutçuk Köy Sokağı=
+15765	Arıcaklar Köyü	Arıcaklar Köy Sokağı=|Bolu Bilecik@
+10641	Bahçelievler Mah.	22~|27@|29~|30~|33~|39~|Ankara@|Arslan~|Açelya~|Ezgi~|Mehmet Akif Ersoy@|Çımışkı Köyü Yolu Küme Evler=|Özgürlük~|İlyas Ünal@|İnceler~
+15767	Baltalı Köyü	Baltalı Köy Sokağı=
+15768	Bayat Köyü	Bayat Köy Sokağı=
+15822	Bedi Köyü	Bedi Köy Sokağı=
+15769	Bolatlı Köyü	Bolatlı Köy Sokağı=
+15770	Büyükbelen Köyü	Büyükbelen Köy Sokağı=
+15771	Büyüksusuz Köyü	Büyüksusuz Köy Sokağı=
+15772	Büyüksürmeli Köyü	Büyüksürmeli Köy Sokağı=
+15777	Demirhanlar Köyü	Demirhanlar Köy Sokağı=
+15778	Demirhanlar Köyü, Gemici Mezrası	Gemici Köy Sokağı=
+15779	Derecikören Köyü	Derecikören Köy Sokağı=
+15780	Dereli Köyü	Bolu Bilecik@|Dereli Köy Sokağı=
+15781	Dereli Köyü, Dereli Damları Mezrası	- Köy$
+15783	Dokuz Köyü	Dokuz Köy Sokağı=
+15784	Dokuz Köyü, Yağcı Mezrası	Yağcı Köy Sokağı=
+15782	Doğancılar Köyü	Bolu Bilecik@|Doğancılar Köy Sokağı=
+15785	Gökçeler Köyü	Gökçeler Köy Sokağı=|Gölpazarı Yenipazar@
+15823	Gökçeözü Köyü	Gökçeözü Köy Sokağı=
+15786	Göldağı Köyü	Göldağı Köy Sokağı=
+15787	Gözaçanlar Köyü	Gözaçanlar Köy Sokağı=
+15788	Hacıköy Köyü	Hacıköy Köy Sokağı=
+15789	Hamidiye Köyü	Hamidiye Köy Sokak=
+15793	Karaahmetler Köyü	Bolu Bilecik@|Karaahmetler Köy Sokağı=
+15792	Karaağaç Köyü	Bolu Bilecik@|Karaağaç Köy Sokak=
+15794	Karacalar Köyü	Karacalar Köy Sokağı=
+15795	Kasımlar Köyü	Kasımlar Köy Sokağı=
+15797	Kavak Köyü, Bağışlar Mevkii	Bağışlar Köy Sokağı=
+15796	Kavak Köyü, Muratlar Mevkii	Muratlar Köy Sokağı=
+15800	Kavak Köyü, Ormancılar Mevkii	Ormancılar Köy Sokağı=
+15798	Kavak Köyü, Yağcılar Mevkii	Yağcılar Köy Sokağı=
+15799	Kavak Köyü, Şıhlar Mevkii	Şıhlar Köy Sokağı=
+15801	Keskin Köyü	Keskin Köy Sokağı=
+15804	Kurşunlu Köyü	Bolu Bilecik@|Gölpazarı Yenipazar@|Kurşunlu Köy Sokağı=
+15805	Kuşçuören Köyü	Kuşçuören Köy Sokağı=
+15802	Köprücek Köyü, Hacıdurmuşlar Mevkii	Hacıdurmuşlar Köy Sokağı=
+15803	Köprücek Köyü, Köprücek Mezrası	Köprücek Köy Sokağı=
+15808	Kümbet Köyü	Gölpazarı Yenipazar@|Kümbet Köy Sokağı=
+15809	Kümbet Köyü, Dumanlar Mezrası	Dumanlar Köy Sokağı=
+15806	Küçüksusuz Köyü	Bolu Bilecik@|Küçüksusuz Köy Sokağı=
+15807	Küçükyenice Köyü	Bolu Bilecik@|Küçükyenice Köy Sokağı=
+10644	Orta Mah.	17~|18~|19 Mayıs@|19~|20~|21~|22~|23~|24~|25~|26~|27@|28~|29 Ekim Myd.|29~|30~|31~|32~|34@|35~|36~|37~|38~|48~|61~|Ankara@|Ara~|Arslan~|Açelya~|Bakan Fatih Dönmez@|Bağlar@|Cengiz Topel~|Demokrasi@|Dereli Damları=|Ezgi~|Fehmi Yücel~|Fevzi Çakmak@|Geyve@|Gül~|Gürses~|Güvercin~|Hamza~|Hürriyet~|Hüyük~|Kaplan~|Karasu~|Kocakova=|Kışla~|Kışla/2~|Lale~|Limon~|Mehmet Akif Ersoy@|Mektep~|Menekşe~|Murat~|Nilüfer~|Okul~|Oran~|Orhangazi~|Orkide~|Osman Kadı~|Sakarya~|Serçe~|Suavi Altay~|Turna~|Uray~|Velipaşa@|Yunus Emre~|Zakkum~|Zübeydehanım@|Çağlayan~|Çeşme~|Çimen@|Özgürlük~|Üveyik~|İlyas Ünal@|Şehit Aydın Topçu~|Şehit Fethi Bey~|Şeyh Edebali~
+10645	Reşadiye Mah.	1~|2~|3~|4~|5~|55~|56~|57~|58~|6~|60~|Arapdere@|Atatürk@|Bahar~|Defne~|Doğan~|Engin~|Fevzi Çakmak@|Hoca Ahmet Yesevi@|Ihlamur~|Işık~|Kuşkonmaz~|Lavanta~|Org. Hüseyin Kıvrıkoğlu@|Osmangazi@|Pınar~|Sardunya~|Selvi~|Sevgi~|Trafo~|Tuna~|Tunalı~|Yavuz~|Yeniköy~|Zirai Donatım~|Çınar~|İmya~|Şehit Ayhan Öztürk@
+15810	Sarıhacılar Köyü	Sarıhacılar Köy Sokağı=|Ulucak Köy Sokağı=
+15811	Sarıhacılar Köyü, Cansızlar Mezrası	Cansızlar Köy Sokağı=
+15812	Softalar Köyü	Softalar Köy Sokağı=
+15813	Softalar Köyü, Neçinler Mezrası	Neçinler Köy Sokağı=
+15814	Söğütcük Köyü	Söğütçük Köy Sokağı=
+15816	Taşçıahiler Köyü, Seyfiler Mevkii	Seyfiler Köy Sokağı=
+15817	Taşçıahiler Köyü, Taşçıahiler Mevkii	Taşçıahiler Köy Sokağı=
+15818	Tongurlar Köyü	Geyve@|Tongurlar Köy Sokağı=
+15819	Tongurlar Köyü, Urgancılar Mezrası	Urgancılar Köy Sokağı=
+15820	Türkmen Köyü	Gölpazarı Yenipazar@|Türkmen Köy Sokağı=
+15773	Çengeller Köyü	Gölpazarı Yenipazar@|Çengeller Köy Sokağı=
+15775	Çiftlik Köyü	Bolu Bilecik@|Çiftlik Köy Sokak=
+15776	Çukurören Köyü	Çukurören Köy Sokak=
+15774	Çımışkı Köyü	Çımışkı Köy Sokağı=
+99481	Çımışkı Köyü, Bahçelievler Mevkii	Bahçelievler Köy Sokağı=
+15821	Üyük Köyü	Bolu Bilecik@|Üyük Köy Sokağı=
+15790	İncirli Köyü	İncirli Köy Sokağı=
+15791	İncirli Köyü, Bostancılar Mezrası	Bostancılar Köy Sokağı=
+10642	İsmetpaşa Mah.	111~|40~|41~|42~|43~|44~|45~|48~|49~|51~|52~|53~|54~|Arapdere@|Badem~|Bayrak~|Bağlar@|Belen~|Bülbül~|Coşkun Irvalı~|Depo~|Elma~|Eren~|Ergün~|Ertuğrulgazi@|Esen~|Geyve@|Güneş~|Hamza~|Hasan Ali Yücel@|Kaktüs~|Kanarya~|Kartal~|Kaya~|Keskin~|Kiraz~|Lise/1~|Lise/2~|Martı~|Mektep~|Okul~|Vatan~|Yasemın~|Yıldırım~|Şahin/1~|Şahin/2~|Şeftali~|Şehit Aydın Topçu~|Şehit Kemal Ay~|Şehit Murat Merlan~
+10643	İstiklal Mah.	11~|12~|13~|14~|15~|16~|4~|46~|47~|50~|59~|8~|Akasya~|Akkaya~|Akıncı~|Alageyik~|Arapdere@|Atatürk@|Bağlar@|Begonya~|Cumhuriyet@|Dursun Fakıh~|Dönmez~|Emniyet~|Fatih~|Fevzi Çakmak@|Fulya~|Gazi Paşa Myd.|Gazi~|Gazimihal~|Güven~|Hanımeli~|Hoca Ahmet Yesevi@|Kanarya 1~|Kanarya~|Karanfil~|Leylak~|Mehmet Öner~|Millet~|Nergis~|Orman~|Osmangazi@|Papatya~|Portakal~|Sağlık~|Sultan Selim@|Sümbül~|Türkmen~|Ulus~|Uğur Mumcu@|Velipaşa@|Yavuz~|Zambak~|Çayır~|Çimen@|Çiğdem~|İmya~|İsmail Çetin~|Şehit Ayhan Öztürk@|Şen~|Şener~
+15815	Şahinler Köyü	Şahinler Köy Sokağı=

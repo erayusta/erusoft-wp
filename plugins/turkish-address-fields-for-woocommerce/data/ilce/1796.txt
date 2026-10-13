@@ -1,0 +1,59 @@
+61417	Adacami Mah.	Adacami 1~|Adacami 10~|Adacami 11~|Adacami 2~|Adacami 3~|Adacami 4~|Adacami 5~|Adacami 6~|Adacami@|Adacamı 7~|Ak~|Akademı~|Akademı1~|Bırtek~|Cumhuriyet 1~|Cumhuriyet@|Dağ Yolu 1~|Dağ Yolu~|Güneşli 1~|Güneşli 2~|Güneşli~|Huzur 1~|Huzur 2~|Huzur~|Karanfil~|Karanfıl~|Mercan 2~|Mercan 3~|Mercan~|Pekmezli 1~|Pekmezli~|Pekmezli3~|Pekmezlı 2~|Sanayi 1~|Sanayi@|Taşpınar 1~|Taşpınar~|Yeşil İrmak 1~|Yeşil İrmak 2~|Yeşil İrmak 3~|Yeşil İrmak 4~|Yeşil İrmak 5~|Yeşil İrmak@|Yeşılırmak 3~|Yüzüncü Yıl~
+68565	Asmalıırmak Köyü	Asmalıırmak=
+61416	Aşağı Kiremit Mah.	Aslan 1~|Aslan 2~|Aslan~|Aşağı Kiremit@|Aşağıkiremit 1~|Dağyolu-~|Fosa~|Hamitler~|Mandika 1~|Mandika~|Maşalacı 1~|Maşalacı~|Maşalacılar~|Mehmet Akif Ersoy 1~|Mehmet Akif Ersoy 2~|Mehmet Akif Ersoy@|Mehmet Mesut Kara~|Şelale@
+68567	Ballıdere Köyü	Köyün Kendisi=
+68568	Ballıdere Köyü, Orta Meşe Mevkii	Orta Meşe=
+68566	Ballıdere Köyü, Tatlısu Mevkii	Tatlısu=
+200637	Başaran Mah.	Atmaca 1~|Atmaca~|Başahmetler 1~|Başahmetler~|Dağyolu 1~|Dağyolu~|Dereüstü 1~|Dereüstü 2~|Dereüstü~|Gencer~|Günay-~|Güneş~|Haci Nurettin~|Haci Osman~|Haci Ömer~|Halil İbrahim~|Havuloğlu~|Kanbur~|Kardeşler~|Keleşler~|Kerim~|Köseler~|Lojman~|Medet~|Medine~|Menderes~|Merkez 1~|Merkez 2~|Merkez 3~|Merkez 4~|Merkez 5~|Merkez 6~|Merkez_1~|Mollalar~|Vezirler~|Zavendikli Mustafa Hoca 1~|Zavendikli Mustafa Hoca 2~|Zavendikli Mustafa Hoca 3~|Zavendikli Mustafa Hoca 4~|Zavendikli Mustafa Hoca~|Zekiye Hatun~|Çeşme~|Çiçek~|Özkanlar~|Özçelikler 1~|Özçelikler~|İba Hoca~|İbrahim~|Şahintesi~|Şehit Aziz Yıldız~
+68575	Başköy Köyü, Altınkaya 1 Mevkii	Altınkaya 1=
+68574	Başköy Köyü, Altınkaya Mevkii	Altınkaya=
+68577	Başköy Köyü, Merkez Mevkii	Merkez=
+68576	Başköy Köyü, Yıldız Mevkii	Yıldız=
+98660	Birlik Mah.	Adacami 7~|Adacami 8~|Adacami 9~|Adacami@|Adacamı 7~|Ak~|Anca 1~|Anca@|Bahar~|Dizdaroğlu~|Gençlik 2~|Kanburlu@|Kanbursırt 1~|Kanbursırt 2~|Kanbursırt 3~|Kanbursırt 4~|Kanbursırt~|Karanfıl~|Kumbasar~|Kumbasarlar~|Kızılay1~|Lale~|Merkez_1~|Sahil 1~|Sahil@|Temel~|Yıldız~|Çelebi 1~|Çelebi~|Ömerler 1~|Ömerler~|İba Hoca 1~|İba Hoca~|Şehit Aziz Yıldız 1~|Şehit Aziz Yıldız~
+68614	Bulutlu Köyü	Bulutlu=
+68581	Dumankaya Köyü	Dumankaya=
+61412	Eskicami Mah.	Değirmen~|Değırmen~|Eski Camii@|Fevzi Çakmak@|Kıbrıs 1~|Kıbrıs 2~|Kıbrıs 3~|Kıbrıs 4~|Kıbrıs@|Olgunlar~|Sakoğlu~|Tepe 1~|Tepe 2~|Tepe 3~|Tepe~|Yarımada=|Çıkmaz~
+68582	Güneli Köyü	Güneli=
+68588	Gürgen Köyü, Alicik (1) Mevkii	Alicik 1=
+68589	Gürgen Köyü, Alicik (2) Mevkii	Alicik 2=
+68585	Gürgen Köyü, Halkolim Mevkii	Halkolim=
+68587	Gürgen Köyü, Kangeldibi Mevkii	Kangeldibi=
+68584	Gürgen Köyü, Kireçli Mevkii	Kireçli=
+68583	Gürgen Köyü, Yeşilyaprak Mevkii	Yeşilyaprak=
+68586	Gürgen Köyü, Çamlık Mevkii	Çamlık=
+68599	Kiremit Köyü	Kiremit=
+61413	Küçükcamii Mah.	Akçal@|Atlas 1~|Atlas 2~|Atlas~|Camii Kebir 1~|Camii Kebir 2~|Camii Kebir 3~|Camii Kebir 4~|Camii Kebir@|Dere~|Derya 1~|Derya~|Doğu~|Elmalı 1~|Elmalı~|Engin~|Ertuğrul Gazi@|Eski Camii@|Fevzi Çakmak@|Gençlik@|Kanburlu@|Küçük Camii 1~|Küçük Camii 2~|Küçük Camii 3~|Küçük Camii@|Kıbrıs@|Narin~|Osman Gazi@|Sultan Murat~|Yemişlik 1~|Yemişlik~|Yıldırım~|Çıkmaz~
+68596	Kıbledağı Köyü, Kırlangıç Mevkii	Kırlangıç=
+68593	Kıbledağı Köyü, Merkez Mevkii	Merkez=
+68597	Kıbledağı Köyü, Mısırlı Mevkii	Mısırlı=
+68598	Kıbledağı Köyü, Sırt Mevkii	Sırt=
+68594	Kıbledağı Köyü, Yenimescit Mevkii	Ortaköy=|Yenimescit=
+68595	Kıbledağı Köyü, Yusuf Hoca Mevkii	Yusufhoca=
+61414	Merkez Mah.	Adnan Menderes 1~|Adnan Menderes@|Akçal@|Atasay~|Atatürk@|Ayan~|Ayane~|Aydınlık 1~|Aydınlık~|Dağınık=|Dik~|Doruk 1~|Doruk 5~|Doruk 6~|Doruk~|Estergon 1~|Estergon 2~|Estergon 3~|Estergon 4~|Estergon 5~|Estergon@|Fatih Sultan 2~|Fatih Sultan@|Ferah 1~|Ferah 2~|Ferah 3~|Ferah 4~|Ferah 6~|Ferah 7~|Ferah@|Fosa~|Hafız Ahmet Gür 1~|Hafız Ahmet Gür~|Hafız Kamil 1~|Hafız Kamil 2~|Hafız Kamil@|Harmanlar=|Kaldırım 1~|Kaldırım~|Malazgirt~|Maşalacı 1~|Müderrisler 1~|Müderrisler~|Okul~|Orta 1~|Orta 2~|Orta 3~|Orta 4~|Orta~|Recep Tayyip Erdoğan@|Sağlık 1~|Sağlık@|Seyfettin Yılmaz 1~|Seyfettin Yılmaz~|Yeşil Çay 1~|Yeşil Çay~|Yusuf Hoca 1~|Yusuf Hoca@|İki Mart~
+68600	Ortaköy Köyü	Ortaköy=
+68602	Selamet Köyü	Selamet=
+68603	Selamet Köyü, Mağara Mevki Mevkii	Mağara Mevki=
+98773	Selamet Köyü, Topçular Mevkii	Kanburlu@|Kızılay~|Kızılay1~
+68604	Selamet Köyü, Tuğla Mevki Mevkii	Tuğla Mevki=
+68601	Selamet Köyü, Örnek Mevkii Mevkii	Örnek Mevkii=
+68605	Tepebaşı Köyü	Tepebaşı=
+61415	Ulucamii Mah.	1453 -~|1453~|Adacami@|Ahmet Yesevi@|Akademı~|Akgün~|Anıbal~|Atatürk 1~|Atatürk 2~|Atatürk 3~|Atatürk@|Ayan 1~|Ayan 2~|Ayan 3~|Ayan 4~|Ayan~|Bayrak~|Bayraktar~|Dağbaşı~|Döner~|Emek~|Ihlamur 1~|Ihlamur 2~|Ihlamur 3~|Ihlamur~|Muhittin Kenanoğlu 1~|Muhittin Kenanoğlu 2~|Muhittin Kenanoğlu~|Yamaç~|Zafer 1~|Zafer 2~|Zafer 3~|Zafer 4~|Zafer 5~|Zafer@|Özer~|İstiklal 1~|İstiklal 2~|İstiklal 3~|İstiklal 4~|İstiklal 5~|İstiklal 6~|İstiklal@
+68606	Yarımada Köyü	Yarımada=
+68607	Yenicami Köyü	Yenicami=
+68609	Yenicami Köyü, Esentepe Mevkii	Esentepe=
+68608	Yenicami Köyü, Merkez Mevkii	Denız~|Esentepe=|Merkez=|Zavendikli Mustafa Hoca~|İba Hoca~
+68610	Yeniköy Köyü	Yeniköy=
+68611	Yeşilköy Köyü	Yeşilköy=
+126439	Yeşilköy Köyü, Omereva Mevkii	Omereva=
+68612	Yeşilyurt Köyü	Yeşilyurt=
+68615	Yukarıislahiye Köyü	Yukarıislahiye=
+68617	Yukarıislahiye Köyü, Derebaşı Mevkii	Derebaşı=
+68618	Yukarıislahiye Köyü, Esentepe Mevkii	Esentepe=
+68616	Yukarıislahiye Köyü, Küçükdere Mevkii	
+68613	Yüksekköy Köyü	Yüksekköy=
+68578	Çamlıca Köyü	Çamlıca=
+68580	Çamlıca Köyü, Alikica Mevkii Mevkii	Alikica Mevkii=
+68579	Çamlıca Köyü, Ilıca Mevkii	Ilıca=
+68590	İslahiye Köyü	İslahiye=
+68592	İslahiye Köyü, Ada Mevkii	Ada=
+68591	İslahiye Köyü, Taşköprü Mevkii Mevkii	Taşköprü Mevkii=

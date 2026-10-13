@@ -1,0 +1,43 @@
+50045	Alipaşa Mah.	100.yıl@|12.@|21@|23@|25.@|65~|66~|68~|71~|72~|73~|74~|75~|84~|85~|86~|Ankara Asfaltı%|Bağyolu@|Belediye@|Eğri Söğüt~|Eğrisöğüt Yaylası=|Gedemen=|Kör Kuyu@|Kızılay@|Ofis 2.~|Ofis 3.~|Ofis-1.~|Sanayi@|Yeni Bahçe@|Ömer Akpınar@
+53062	Alişar Köyü	Alişar=
+53061	Alişar Köyü, Büyük Dere Mezrası Mezrası	Büyük Dere Mezrası=
+53060	Alişar Köyü, Yayla Mazrası Mezrası	Yayla Mazrası=
+50051	Aşağıhomurlu Köyü, Cumhuriyet Mevkii	Ahi~|Gül~|Hürriyet~|Şehit Osman Savran~
+50052	Aşağıhomurlu Köyü, Seymenli Mevkii	Ceviz~|Lale~|Okullar~|Papatya~|Yükselen~|Çiğdem~
+50053	Aşağıhomurlu Köyü, Ulukışla Mevkii	Gül~|Menekşe99~|Yükselen~|Şehit Osman Savran~
+53063	Boyalık Köyü	Boyalık=
+50054	Büyükabdiuşağı Köyü, Bahçelievler Mevkii	Gökdere~|Gül 1~|Gül~|Lale~|Millet~|Sakarya 2~
+50055	Büyükabdiuşağı Köyü, Fatih Mevkii	Atatürk~|Eda~|Hürriyet~|Kale~|Karanfil~|Meltem~|Millet~|Tuna~|Çiçek~
+50056	Büyükabdiuşağı Köyü, Şehitler Mevkii	Atatürk~|Hürriyet~|Karanfil~|Millet~|Sakarya~|Sümbül~|Çiğdem99~|Çınar~
+50046	Cumhuriyet Mah.	100.yıl@|12.@|14@|15@|16@|19@|20@|39~|40~|41~|42~|48~|49~|50~|58~|59~|Bağyolu@|Belediye@|Cumhuriyet Myd.|Kör Kuyu@|Köşker@|Kızılay@|Pamuktepe~|Sadi Erdem@|Sanayi@|Tarım~|Yeni Bahçe@|Şht.astsb.atilla Kandemir@
+53072	Demirci Köyü	Demirci=
+53073	Deveci Köyü	Deveci=
+53074	Durmuşlu Köyü	Durmuşlu=
+53075	Eldeleklidemirel Köyü	Eldeleklidemirel=
+53076	Eldelekliortaoba Köyü	Eldelekliortaoba=
+53077	Eşrefli Köyü	Eşrefli=
+53078	Gülveren Köyü	Gülveren=
+50047	Hacı Hüseyin Efendi Mah.	100~|102~|103~|104~|105~|172~|22~|30@|31@|32@|87~|88~|89~|90~|91~|92~|93~|95~|96~|97~|98~|99~|Demirdoğan=|Doğu@|Gülpınar@|Hacı Abdurrahman@|Harman~|Harman Yeri@|Kemal Doğan=|Mehmet Avşar@|Mezbaha~|Pınar@|Sadi Erdem@|Yenidoğan@|Yıldız@|Örenler@|Örenler~
+53080	Hacımirza Köyü, Doğancı 2 Mevkii	Doğancı 2=
+53079	Hacımirza Köyü, Doğancı Mevkii	Doğancı=
+53081	Hacıselimli Köyü	Hacıselimli=
+53082	Hanyerisarıkaya Köyü	Hanyerisarıkaya=
+53083	Hanyerisarıkaya Köyü, Berecik Mezrası	Berecik=
+53084	Himmetuşağı Köyü	Himmetuşağı=
+50048	Kaleyazı Mah.	1@|10@|11@|160~|161~|162~|163~|17~|170@|24~|26~|27~|28~|29~|3@|38@|5@|62~|7@|9@|Ankara Asfaltı%|Cabir Köremezli%|Esen~|Fatih@|Hacımirza Yolu@|Kale@|Lise@|Mehmet Avşar@|Çanakyolu@|İğdeli~|Şehit Osman Savran@|Şehit Recep Yıldırım@|Şht.doğan Yılmaz@
+53085	Karaova Köyü	Karaova=
+53086	Kelismailuşağı Köyü	Kelismailuşağı=
+50057	Köşker Köyü, Kızılay Mevkii	Cihan~|Meltem~|Çiğdem~
+50058	Köşker Köyü, Yeni Mevkii	Cihan~|Cumhuriyet~|Gül~|Lale~|Menekşe~|Plevne~|Tepebaşı~
+50059	Köşker Köyü, Yüzbaşıoğlu Mevkii	Cihan~|Karanfil99~|Meltem~|Menekşe~|Plevne~
+53087	Pekmezci Köyü	Pekmezci=
+53088	Sofrazlı Köyü	Sofrazlı=
+50050	Yenidoğan Mah.	12~|13~|164~|165~|166~|167~|168~|169~|2~|4~|6~|8~|Ankara Asfaltı%|Cabir Köremezli%|Kızılay@|Sağlık@|Ömer Akpınar@|İsa Tekinarslan@
+53064	Çalıburnu Köyü	Çalıburnu=
+53065	Çayözü Köyü, Kırdök Mevkii	Kırdök=
+53067	Çayözü Köyü, Çayözü Mevkii	Çayözü=
+53068	Çebişler Köyü	Çebişler=
+53069	Çelebiuşağı Köyü	Çelebiuşağı=
+53070	Çiftlikmehmetağa Köyü	Çiftlikmehmetağa=
+53071	Çiftliksarıkaya Köyü	Çiftliksarıkaya=
+50049	Şirinevler Mah.	11@|110~|111~|115~|116~|117~|118~|119~|120~|122~|126~|127~|133~|138~|142~|144~|145~|146~|148~|149~|171@|173~|35.@|36@|37@|38.@|46@|Abdullah Ersan@|Ankara Asfaltı%|Aydede~|Boztepe~|Doğancıyolu@|Esen~|Kaman Yolu@|Mezarardı@|Null~|Sıradaş@|Turgutlar=|Çanakyolu@|Çirçir=|Öteyüz Yaylası=|Şehit Osman Savran@|Şehit Recep Yıldırım@

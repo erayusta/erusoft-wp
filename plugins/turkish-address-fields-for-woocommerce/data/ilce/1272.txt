@@ -1,0 +1,266 @@
+35305	Akkaya Köyü, Akkaya Mevkii	 Köy$
+35309	Akkaya Köyü, Aytepesi-gavur Hendeği Yayla Evleri	 Köy$
+35312	Akkaya Köyü, Baş Yayla Yayla Evleri	 Köy$
+35306	Akkaya Köyü, Camiyanı Mevkii	 Köy$
+35307	Akkaya Köyü, Yazlık Mevkii	 Köy$
+35304	Akkaya Köyü, Yeşilyurt Mevkii	 Köy$|Yeşilyurt=
+35310	Akkaya Köyü, Ziyaret Obası Yayla Evleri	 Köy$
+35303	Akkaya Köyü, Çatak Mevkii	 Köy$
+35308	Akkaya Köyü, Çağman-ağa Kaya Yayla Evleri	 Köy$
+35311	Akkaya Köyü, Çağman-gavraz Yayla Evleri	 Köy$
+35523	Aksu Köyü, Ağgözlü Mevkii	 Köy$
+35526	Aksu Köyü, Cami Mevkii	 Köy$|Eğrikaya Obası=|Göloabası=
+35521	Aksu Köyü, Fişekli Mevkii	 Köy$
+35522	Aksu Köyü, Güvelen Mevkii	 Köy$
+35525	Aksu Köyü, Holunlu Mevkii	 Köy$
+35524	Aksu Köyü, Kapıkaya Mevkii	 Köy$
+35527	Aksu Köyü, Yukarı Mevkii	 Köy$
+35321	Alancık Köyü, Aşağı Mevkii	 Köy$
+35316	Alancık Köyü, Dağ Güzleği Mezrası	 Köy$
+35322	Alancık Köyü, Dağlıağaç Mevkii	 Köy$|Bakacak Obası=
+35314	Alancık Köyü, Koyunalan Yayla Evleri	 Köy$
+35315	Alancık Köyü, Koz Köyü Mezrası	 Köy$
+35317	Alancık Köyü, Koçtepe Yayla Evleri	 Köy$
+35320	Alancık Köyü, Kuzalan Mevkii	 Köy$
+35319	Alancık Köyü, Süngütlü Mevkii	 Köy$
+35318	Alancık Köyü, Tesbi Mevkii	 Köy$
+30778	Bahçeli Mah.	Bahçeli Mevkii(1)=|Köybaşı Mevkii(2)=
+30779	Dereli Mah.	75.yıl/1~|Alibey Karakayalı-~|Cemal Müdür@|Cumhuriyet@|Dereli-~|Eldirek Mevkii 2=|Hacı Hafız Yüksel~|Haşim Özdemir-~|Kızılot Mevkii 3=|Lütfullah Yusuf Ağaoğlu@|Mehmet Yumak~|Mustafa Şirin Çıkmazı~|Sarı Yer Mevkii=|Şht. Adnan Türker-@
+35366	Eğrianbar Köyü, Ada Mevkii	 Köy$
+35364	Eğrianbar Köyü, Aralcak Mevkii	 Köy$|Kabakkaya Yaylası=|Karatepe Yaylası=
+35359	Eğrianbar Köyü, Ayılıyatak Mevkii	 Köy$
+35368	Eğrianbar Köyü, Düzyatak Mevkii	 Köy$
+35360	Eğrianbar Köyü, Falcılı Mevkii	 Köy$
+35358	Eğrianbar Köyü, Kirazören Mevkii	 Köy$
+35362	Eğrianbar Köyü, Kıran Mevkii	 Köy$
+35365	Eğrianbar Köyü, Mor Mevkii	 Köy$
+35369	Eğrianbar Köyü, Çamlıcı Mevkii	 Köy$
+35361	Eğrianbar Köyü, Özül Mevkii	 Köy$
+35363	Eğrianbar Köyü, Üst Mevkii	 Köy$
+35367	Eğrianbar Köyü, İskender Mevkii	 Köy$
+139632	Fatih Mah.	Bük~|Bük1~|Koç~|Koç1~|Koç3~|Petrol~|İsmail Naycı@|Şht.basri Apaydın~
+35376	Güdül Köyü, Camiyanı Mevkii	 Köy$
+35373	Güdül Köyü, Cevizlik Mevkii	 Köy$
+35374	Güdül Köyü, Güdüldibi Mevkii	 Köy$
+35370	Güdül Köyü, Karaçukur Mevkii	 Köy$
+35377	Güdül Köyü, Meryemana Mevkii	 Köy$
+139511	Güdül Köyü, Okulyanı Mevkii	 Köy$
+35372	Güdül Köyü, Pıtırak Mevkii	 Köy$
+35371	Güdül Köyü, Umutlu Mevkii	 Köy$
+139510	Güdül Köyü, Çobanlı Mevkii	 Köy$
+35375	Güdül Köyü, Şimşirlik Mevkii	 Köy$
+35396	Güzelköy Köyü, Ağut Mevkii	 Köy$
+35394	Güzelköy Köyü, Camiyanı Mevkii	 Köy$
+35392	Güzelköy Köyü, Emir Alioğlu Mevkii	 Köy$
+35398	Güzelköy Köyü, Faikoğlu Mevkii	 Köy$
+35389	Güzelköy Köyü, Hanto Mevkii	 Köy$
+35399	Güzelköy Köyü, Kaptancı Mevkii	 Köy$
+35395	Güzelköy Köyü, Orta Mevkii	 Köy$
+35397	Güzelköy Köyü, Tekkelioğlu Mevkii	 Köy$
+35391	Güzelköy Köyü, Tokaç Kıranı Mevkii	 Köy$
+35393	Güzelköy Köyü, Yangıncı Mevkii	 Köy$
+35390	Güzelköy Köyü, İnçeşme Mevkii	 Köy$
+35380	Heydere Köyü, Aliçavuşlu Mevkii	 Köy$
+35384	Heydere Köyü, Cinahmetli Mevkii	 Köy$
+35382	Heydere Köyü, Hacıyeri Mevkii	 Köy$
+35385	Heydere Köyü, Hıdımlı Mevkii	 Köy$
+35383	Heydere Köyü, Kozdere Mevkii	 Köy$
+35386	Heydere Köyü, Kışla Mevkii	 Köy$
+35378	Heydere Köyü, Nefesli Mevkii	 Köy$
+35379	Heydere Köyü, Türüdülü Mevkii	 Köy$
+35381	Heydere Köyü, Çamurboğazı Mevkii	 Köy$
+35388	Hisarköy Köyü, Aşağı Mevkii	 Köy$
+35387	Hisarköy Köyü, Yukarı Mevkii	 Köy$
+35540	Konuklu Köyü, Bektaş Yayla Evleri	 Köy$
+35549	Konuklu Köyü, Bektaş Yaylası(oba) Yayla Evleri	 Köy$
+35543	Konuklu Köyü, Derecik Mevkii	 Köy$
+35547	Konuklu Köyü, Doğuca Mevkii	 Köy$
+35548	Konuklu Köyü, Göblü Mevkii	 Köy$
+35541	Konuklu Köyü, Karakoç Mevkii	 Köy$
+35542	Konuklu Köyü, Kayaaltı Mevkii	 Köy$
+35544	Konuklu Köyü, Kösehasan Mevkii	 Köy$
+35545	Konuklu Köyü, Melense Mevkii	 Köy$
+35546	Konuklu Köyü, Namlu Mevkii	 Köy$
+35416	Kurtulmuş Köyü, Asarbelen Mevkii	 Köy$
+35415	Kurtulmuş Köyü, Bakacak Mevkii	 Köy$
+35418	Kurtulmuş Köyü, Baltamı Mevkii	 Köy$
+35412	Kurtulmuş Köyü, Budağağzı Mevkii	 Köy$
+35413	Kurtulmuş Köyü, Bük Mevkii	 Köy$
+35417	Kurtulmuş Köyü, Gökçebel Mevkii	 Köy$
+35414	Kurtulmuş Köyü, Köyiçi Mevkii	 Köy$
+35420	Kurtulmuş Köyü, Maskara Mevkii	 Köy$
+35419	Kurtulmuş Köyü, Çıraktamı Mevkii	 Köy$
+35421	Kurtulmuş Köyü, Ören Mevkii	 Köy$
+30781	Kuzca Mah.	Kuzca Mevkii(1)=|Köyceğiz Mevkii(2)=
+30780	Kuşluhan Mah.	Haşimağa~|Haşimağa/2~|Kart Ali Oğlu~|Kazım Karabekir~|Kuşluhan Mevkii 1=|Köyceğiz Mevkii 2=|Lütfullah Yusuf Ağaoğlu@|Orduluoğlu~|Osman Çiftçi~
+35406	Küknarlı Köyü, Ahmetli Mevkii	 Köy$
+35407	Küknarlı Köyü, Gemidireği Mevkii	 Köy$
+35403	Küknarlı Köyü, Karaveli Mevkii	 Köy$
+35411	Küknarlı Köyü, Karaşlı Kıran Mevkii	 Köy$
+35404	Küknarlı Köyü, Keleşkıran Mevkii	 Köy$
+35410	Küknarlı Köyü, Kışla Mevkii	 Köy$
+35405	Küknarlı Köyü, Mollakıran Mevkii	 Köy$
+35408	Küknarlı Köyü, Musalı Mevkii	 Köy$
+35409	Küknarlı Köyü, Sakarlı Mevkii	 Köy$
+35445	Kümbet Köyü, Alipaşa Yayla Evleri	 Köy$|Armutluk Yaylası=|Döllek Oba=|Eskioba=|Güllenobası=|Karaburun Obası=|Suludüz Obası=|Yassıalan Obası=|Yazlak Obası=|Çorakoba=
+35432	Kümbet Köyü, Armutalanı Mevkii	 Köy$
+35449	Kümbet Köyü, Cal Mevkii	 Köy$|Yassıalan Obası=|İkizler Obası=
+35446	Kümbet Köyü, Geyrez Yayla Evleri	 Köy$
+35450	Kümbet Köyü, Göbel 2 Mevkii	 Köy$
+35438	Kümbet Köyü, Göbel Yayla Evleri	 Köy$
+35439	Kümbet Köyü, Hacıderesi Yayla Evleri	 Köy$
+35442	Kümbet Köyü, Hamurlu Yayla Evleri	 Köy$
+35431	Kümbet Köyü, Keşoğlu Mevkii	 Köy$
+35440	Kümbet Köyü, Koçkayası Yayla Evleri	 Köy$|Sindalobası=
+35441	Kümbet Köyü, Kümbet Mevkii	 Köy$
+35434	Kümbet Köyü, Merkez Mevkii	 Köy$
+35430	Kümbet Köyü, Salonçayırı Mevkii	 Köy$
+35447	Kümbet Köyü, Taşbaşı Yayla Evleri	 Köy$|Sırganlı Obası=|Yenioba Köy$|İkizler Obası Köy$
+35448	Kümbet Köyü, Tekke Yayla Evleri	 Köy$
+35443	Kümbet Köyü, Yağmurca Yayla Evleri	 Köy$
+35437	Kümbet Köyü, Çayırlı Yayla Evleri	 Köy$
+35433	Kümbet Köyü, Çiftçioğlu Mevkii	 Köy$
+35444	Kümbet Köyü, Çomakkonağı Yayla Evleri	 Köy$|Kümbet Obası=
+35435	Kümbet Köyü, Çorukoğlu Mevkii	 Köy$
+35436	Kümbet Köyü, Şıh Yayla Evleri	 Köy$|Gürcel Obası=
+35423	Küçükahmet Köyü, Alt Mevkii	 Köy$
+35424	Küçükahmet Köyü, Camiyanı Mevkii	 Köy$
+35426	Küçükahmet Köyü, Eğme Mevkii	 Köy$
+35429	Küçükahmet Köyü, Eğmedağ Mevkii	 Köy$
+35428	Küçükahmet Köyü, Keşoğlu Mevkii	 Köy$
+35422	Küçükahmet Köyü, Köprübaşı Mevkii	 Köy$
+35425	Küçükahmet Köyü, Üst Mevkii	 Köy$
+35427	Küçükahmet Köyü, Şeker Mevkii	 Köy$
+35539	Kızıltaş Köyü, Aşağı Mevkii	 Köy$|Aşlama Obası=
+35538	Kızıltaş Köyü, Hacıköy Mevkii	 Köy$|Baybahan=|Kalın Ağıl Köy$|Karayaka Obası=|Sarıçiçek Obası=|Sıradur Obası=|Yukarı Belen=|Çukurtarla=
+135439	Kızıltaş Köyü, Kabaklı Mevkii	 Köy$
+35537	Kızıltaş Köyü, Yukarı Mevkii	 Köy$
+35451	Maden Köyü, Maden Mevkii	 Köy$|Bal Ormanı=
+35455	Meşeliyatak Köyü, Kadıgil Mevkii	 Köy$
+35456	Meşeliyatak Köyü, Maden Mevkii	 Köy$
+35457	Meşeliyatak Köyü, Satırgil Mevkii	 Köy$
+35453	Meşeliyatak Köyü, Sıylık Mevkii	 Köy$
+35452	Meşeliyatak Köyü, Ucumengil Mevkii	 Köy$
+35454	Meşeliyatak Köyü, Çanakçı Mevkii	 Köy$
+35553	Pınarlar Köyü, Başlak Mevkii	 Köy$
+35554	Pınarlar Köyü, Gücese Mevkii	 Köy$|Uzunalan Yaylası=
+35552	Pınarlar Köyü, Kürtün Mevkii	 Köy$
+35556	Sarıyakup Köyü, Merkez Mevkii	 Köy$
+35555	Sarıyakup Köyü, Çatalan Mevkii	 Köy$
+30782	Sütlüce Mah.	1.~|15 Temmuz Şehitler@|75.yıl@|75.yıl/1~|Halil Bektaşoğlu@|Hulusi Sayın@|Hulusi Sayın/2~|Osman Çiftçi~|Sütlüce1=|Tahsildar Abdullah Efendi~|Zırhlıhan Mevkii 2=|Şht.yüzbaşı Öztopal~
+35563	Tamdere Köyü, Efelioğlu Yayla Evleri	 Köy$
+35560	Tamdere Köyü, Karınca Mevkii	 Köy$
+35558	Tamdere Köyü, Merkez Mevkii	 Köy$|Derelioabası Köy$|Egribel Yeni Oba=|Eğriçarık (inekbastı) Obası=|Güzeller Obası=|Karat Yaylası=|Karataş Yaylası=|Kırkpınar Obası=|Teknecik=|Yapraklıobası Köy$
+35557	Tamdere Köyü, Tamdere Yaylası Yayla Evleri	 Köy$
+35559	Tamdere Köyü, Çamağzı Yayla Evleri	 Köy$
+35561	Tamdere Köyü, İkisu Mevkii	 Köy$
+35460	Taşlıca Köyü, Angutlu Mevkii	 Köy$
+35461	Taşlıca Köyü, Aşağı Mevkii	 Köy$
+35462	Taşlıca Köyü, Yukarı Mevkii	 Köy$
+98214	Tepeköy Köyü, Darakcı Mevkii	 Köy$
+98213	Tepeköy Köyü, Güney Mevkii	 Köy$
+35465	Tepeküknarlı Köyü, Bük Mevkii	 Köy$
+35466	Tepeküknarlı Köyü, Köselioğlu Mevkii	 Köy$
+35463	Tepeküknarlı Köyü, Merkez Mevkii	 Köy$
+35464	Tepeküknarlı Köyü, Pınarçukuru Mevkii	 Köy$
+35475	Uzundere Köyü, Aymaç Mevkii	 Köy$
+35474	Uzundere Köyü, Aşağı Mevkii	 Köy$
+35473	Uzundere Köyü, Bayramlı Mevkii	 Köy$
+35471	Uzundere Köyü, Başçatak Yayla Evleri	 Köy$
+35482	Uzundere Köyü, Elemeği Yayla Evleri	 Köy$
+35483	Uzundere Köyü, Erikderesi Yayla Evleri	 Köy$
+35470	Uzundere Köyü, Karakoççayırı Yayla Evleri	 Köy$
+35479	Uzundere Köyü, Köyyeri Mevkii	 Köy$
+35477	Uzundere Köyü, Kümbet Mevkii	 Köy$
+35468	Uzundere Köyü, Sarımsak Yayla Evleri	 Köy$
+35467	Uzundere Köyü, Susuz Mevkii	 Köy$
+35480	Uzundere Köyü, Sırganlı Mevkii	 Köy$
+35472	Uzundere Köyü, Titirik Yayla Evleri	 Köy$
+35478	Uzundere Köyü, Tonar Mevkii	 Köy$
+35481	Uzundere Köyü, Yaslıbel Yayla Evleri	 Köy$
+35476	Uzundere Köyü, Yukarı Mevkii	 Köy$
+35469	Uzundere Köyü, Yılanlıca Yayla Evleri	 Köy$
+140809	Yavuzkemal Beldesi, Güzyurdu Mah.	Alabaşoğlu~|Alabaşoğlu1~|Alabaşoğlu2~|Himmetli~|Himmetli1~|Himmetli2~|Himmetli3~|Himmetli4~|Himmetli5~|Himmetli6~|Keller~|Keller1~|Keller10~|Keller11~|Keller12~|Keller13~|Keller14~|Keller15~|Keller16~|Keller17~|Keller18~|Keller19~|Keller2~|Keller20~|Keller21~|Keller22~|Keller23~|Keller24~|Keller25~|Keller26~|Keller27~|Keller28~|Keller29~|Keller3~|Keller30~|Keller31~|Keller32~|Keller33~|Keller34~|Keller35~|Keller36~|Keller4~|Keller5~|Keller6~|Keller7~|Keller8~|Keller9~|Medrese Önü -=|Memülü~|Memülü1~|Memülü2~|Merkez~|Merkez1~|Merkez2~|Merkez3~|Merkez4~|Merkez5~|Merkez6~|Merkez7~|Merkez8~|Merkez9~|Sünnahlı~|Sünnahlı1~|Sünnahlı10~|Sünnahlı2~|Sünnahlı3~|Sünnahlı4~|Sünnahlı5~|Sünnahlı6~|Sünnahlı7~|Sünnahlı8~|Sünnahlı9~|Toplakgil~|Toplakgil1~|Toplakgil2~|Toplakgil3~|Tıkıllar~|Tıkıllar1~|Tıkıllar10~|Tıkıllar11~|Tıkıllar2~|Tıkıllar3~|Tıkıllar4~|Tıkıllar5~|Tıkıllar6~|Tıkıllar7~|Tıkıllar8~|Tıkıllar9~|Yuvarlaklı~|Yuvarlaklı1~|Yuvarlaklı10~|Yuvarlaklı11~|Yuvarlaklı12~|Yuvarlaklı13~|Yuvarlaklı14~|Yuvarlaklı2~|Yuvarlaklı3~|Yuvarlaklı4~|Yuvarlaklı5~|Yuvarlaklı6~|Yuvarlaklı7~|Yuvarlaklı8~|Yuvarlaklı9~
+30783	Yavuzkemal Beldesi, Hapan Mah.	Demirtaş Mevkii=|Düzhapan Mevkii=|Eşeren Mevkii=|Hergele Mevkii=|Kabaktepe Mevkii=|Kartalan Mevkii=
+30784	Yavuzkemal Beldesi, Kulakkaya Mah.	Ahmetalan Mevkii=|Bayramdanışman Mevkii=|Fındıklı Mevkii=|Ispahalar Mevkii=|Karadanışman Mevkii=|Kulakkaya Mevkii=|Kömler Mevkii=|Köseli Mevkii=|Melikliobası Mevkii=|Mence Mevkii=|Söğütönü Ve Ahmetalan Yayla Mevkii=|Süllü Mevkii=|Yabani Mevkii=|Yatmış Mevkii=|Şılat Mevkii=
+107437	Yavuzkemal Beldesi, Yeni Mah.	Doğandüzü=|Kayaalan=
+140811	Yavuzkemal Beldesi, Yuva Mah.	Camışlı~|Hırızlı 1~|Hırızlı 11~|Hırızlı 2~|Hırızlı 3~|Hırızlı 4~|Hırızlı~|Karallı 1~|Karallı~|Kazaskerli~|Kaşkıran 1~|Kaşkıran 2~|Kaşkıran 3~|Kaşkıran 4~|Kaşkıran~|Köy Yayla Evleri 1~|Köy Yayla Evleri 10~|Köy Yayla Evleri 11~|Köy Yayla Evleri 2~|Köy Yayla Evleri 3~|Köy Yayla Evleri 4~|Köy Yayla Evleri 5~|Köy Yayla Evleri 6~|Köy Yayla Evleri 7~|Köy Yayla Evleri 8~|Köy Yayla Evleri 9~|Köy Yayla Evleri~|Palavarlı 1~|Palavarlı 10~|Palavarlı 11~|Palavarlı 2~|Palavarlı 3~|Palavarlı 4~|Palavarlı 5~|Palavarlı 6~|Palavarlı 7~|Palavarlı 8~|Palavarlı 9~|Palavarlı~|Soğukpınar 1~|Soğukpınar 2~|Soğukpınar 3~|Soğukpınar 4~|Soğukpınar~|Topallar 1~|Topallar 2~|Topallar 3~|Topallar 4~|Topallar 5~|Topallar 6~|Topallar~|İnayet 1~|İnayet 2~|İnayet~
+30785	Yavuzkemal Beldesi, Şıhlar Mah.	Bodar Mevkii=|Düzköy Mevkii=|Kavaktamı Mevkii=|Susuz Mevkii=|Teristamı Mevkii=|Çeşnir Mevkii=|Şehit Emrah Eker Mevkii=
+35484	Yaylacık Köyü, Merkez Mevkii	 Köy$
+35486	Yeşilkaya Köyü, Bidiko Mevkii	 Köy$
+35489	Yeşilkaya Köyü, Hatipli Mevkii	 Köy$
+35487	Yeşilkaya Köyü, Koçdere Mevkii	 Köy$|Kızılcasu Obası=
+35485	Yeşilkaya Köyü, Suüstü Mevkii	 Köy$|Karadağ Yaylası Köy$
+35488	Yeşilkaya Köyü, Çatak Mevkii	 Köy$
+35490	Yeşilkaya Köyü, Çıtlak Mevkii	 Köy$
+35494	Yeşiltepe Köyü, Dalino Mevkii	 Köy$
+35491	Yeşiltepe Köyü, Gücükburun Mevkii	 Köy$
+35493	Yeşiltepe Köyü, Kıran Mevkii	 Köy$
+35492	Yeşiltepe Köyü, Kırık Mevkii	 Köy$
+35495	Yeşiltepe Köyü, Çilingir Mevkii	 Köy$
+100242	Yeşilvadi Köyü, Köyün Kendisi (boncuk) Mevkii	Boncuk Mahallesi=|Ufacukayağı Köy$
+35313	Yeşilvadi Köyü, Sürmen Mevkii	 Köy$|Garuk Obası=|Koyunalan=|Kıranoba Köy$|Ufacukayağı Köy$
+35562	Yeşilvadi Köyü, Çambelen Mevkii	 Köy$
+35516	Yüce Köyü, Adıbeş Mevkii	 Köy$
+35515	Yüce Köyü, Başalan Mevkii	 Köy$
+35509	Yüce Köyü, Cablı Mevkii	 Köy$|Cımbırtlık=|Sindal=
+35510	Yüce Köyü, Değinmenarkası Mevkii	 Köy$
+35511	Yüce Köyü, Evliyadüzü Mevkii	 Köy$|Koyuanlan Köy$
+35506	Yüce Köyü, Fındıklı Mevkii	 Köy$
+35507	Yüce Köyü, Keymana Mevkii	 Köy$|Koçkaya Obası=|Kuzugölü=|Sindal Obası=
+35519	Yüce Köyü, Köprübaşı Mevkii	 Köy$
+35514	Yüce Köyü, Kıranyatak Mevkii	 Köy$
+35508	Yüce Köyü, Melikalan Mevkii	 Köy$
+35518	Yüce Köyü, Merkez Mevkii	 Köy$
+35512	Yüce Köyü, Saraycık Mevkii	 Köy$
+35517	Yüce Köyü, Çobanlı Mevkii	 Köy$
+35513	Yüce Köyü, Çorakalan Mevkii	 Köy$
+35520	Yüce Köyü, Çubuk Mevkii	 Köy$
+35498	Yıldız Köyü, Camiyanı Mevkii	 Köy$
+35497	Yıldız Köyü, Emingil Mevkii	 Köy$
+35501	Yıldız Köyü, Eskışla Mevkii	 Köy$
+35505	Yıldız Köyü, Güney Mevkii	 Köy$
+35503	Yıldız Köyü, Hacıoğlu Mevkii	 Köy$
+35502	Yıldız Köyü, Hancıyanı Mevkii	 Köy$
+35499	Yıldız Köyü, Kayadibi Mevkii	 Köy$
+35504	Yıldız Köyü, Sandıkkaya Mevkii	 Köy$
+35500	Yıldız Köyü, Çıtlaklı Mevkii	 Köy$
+35496	Yıldız Köyü, Şirinler Mevkii	 Köy$
+35329	Çalca Köyü, Alageriş Mevkii	 Köy$
+35327	Çalca Köyü, Cami Mevkii	 Köy$
+35324	Çalca Köyü, Gökseki Mevkii	 Köy$
+35323	Çalca Köyü, Hanyanı Mevkii	 Köy$
+35328	Çalca Köyü, Harmanbaşı Mevkii	 Köy$
+35325	Çalca Köyü, Karakışla Mevkii	 Köy$
+35330	Çalca Köyü, Kıran Mevkii	 Köy$
+35326	Çalca Köyü, Ustalı Mevkii	 Köy$
+35333	Çalköy Köyü, Ayıyatağı Mevkii	 Köy$
+35342	Çalköy Köyü, Batı Mevkii	 Köy$
+35331	Çalköy Köyü, Garipli Mevkii	 Köy$
+35334	Çalköy Köyü, Göçek Mevkii	 Köy$
+35336	Çalköy Köyü, Hıdırellez Mevkii	 Köy$
+35341	Çalköy Köyü, Kavuzoğlu Mevkii	 Köy$
+35332	Çalköy Köyü, Kendirlik Mevkii	 Köy$
+35335	Çalköy Köyü, Kuzca Mevkii	 Köy$
+35337	Çalköy Köyü, Suüstü Mevkii	 Köy$
+35339	Çalköy Köyü, Yavaşcadere Mevkii	 Köy$
+35340	Çalköy Köyü, İnişdibi Mevkii	 Köy$
+35338	Çalköy Köyü, Şıhlar Mevkii	 Köy$
+35347	Çamlı Köyü, Arpaçukuru Mevkii	 Köy$
+35344	Çamlı Köyü, Ayno Mevkii	 Köy$
+35346	Çamlı Köyü, Dayıpoğlu Mevkii	 Köy$
+35349	Çamlı Köyü, Düzçayır Mevkii	 Köy$
+35348	Çamlı Köyü, Emürağa Mevkii	 Köy$
+35352	Çamlı Köyü, Eseli Mevkii	 Köy$
+35345	Çamlı Köyü, Köyiçi Mevkii	 Köy$|Koyunalan Obası=
+35350	Çamlı Köyü, Kızılot Mevkii	 Köy$
+35343	Çamlı Köyü, Saltuk Mevkii	 Köy$
+35351	Çamlı Köyü, Töngel Mevkii	 Köy$
+35356	Çengelköy Köyü, Akmazgöl Mevkii	 Köy$
+35357	Çengelköy Köyü, Bekirler Mevkii	 Köy$
+35355	Çengelköy Köyü, Kertil Mevkii	 Köy$
+35353	Çengelköy Köyü, Molla Ahmet Mevkii	 Köy$
+35354	Çengelköy Köyü, Üst Mevkii	 Köy$
+35401	İçmesu Köyü, Ardıçlı Mevkii	 Köy$
+35402	İçmesu Köyü, Camiyanı Mevkii	 Köy$
+35400	İçmesu Köyü, Güney Mevkii	 Köy$

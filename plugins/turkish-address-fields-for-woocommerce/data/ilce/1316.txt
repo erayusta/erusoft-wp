@@ -1,0 +1,91 @@
+90256	Akcamescit Mah.	Akça~|Arpacılar~|Cumhuriyet@|Deveci~|Doğancılar~|Kaledibi~|Kartal~|Kesiktaşı~|Kovanlık Mevkii=|Kırlangıç~|Kızkayası~|Tutluca~|Yörük~|Yıldırım~|Zambak~|İnli~
+92964	Ardıçkaya Köyü, Değirmen Mevkii	Değirmen=
+92966	Ardıçkaya Köyü, Dut Ağacı Mevkii	Dut Ağacı=
+92967	Ardıçkaya Köyü, Yukarı Mevkii	Değirmen=|Yukarı=
+92965	Ardıçkaya Köyü, İslamlı Mevkii	İslamlı=
+92918	Ağaççatı Köyü	Ağaççatı=
+92921	Aşağıçağlar Köyü	Aşağıçağlar=
+92920	Aşağıçağlar Köyü, Güney Mevkii	Aşağıçağlar=|Güney=|Harmanbağı=
+92919	Aşağıçağlar Köyü, Harmanbağı Mevkii	Aşağıçağlar=|Harmanbağ=|Harmanbağı=
+92922	Balkusan Köyü	Balkusan=
+90257	Başpınar Mah.	Baş~|Boyacı~|Cumhuriyet@|Gubuşlar~|Kanarya~|Sabuncular~|Yanbastı~|Çilingir~|Çınarlı~
+92923	Boyalık Köyü	Boyalık=
+90259	Değirmenlik Mah.	Abdullah Özbey~|Ahmet Esin~|Atatürk@|Bağarası Mevkii=|Değirmenler~|Dr.mehmet Sönmez~|Elmalıbahçe~|Fikret Ünlü@|Gaziler~|Güvenönü=|Hüseyin Fehmi Sönmez~|Kavaklıbahçe~|Maden Şehitleri Sokak~|Menekşe@|Mustafa Ertaş~|Okul~|Oymak~|Pirpınarı~|Prof.dr. Hüseyin Gürsoy@|Yoncalı~|Çeşme~|Şht.kom.er Murat Başçı@
+92932	Elmayurdu Köyü, Bozyaka Mevkii	Bozyaka=
+92931	Elmayurdu Köyü, Hatilla Mevkii	Hatilla=|Taştekne=
+92930	Elmayurdu Köyü, Kumyaka Mevkii	Kumyaka=
+92929	Elmayurdu Köyü, Yolçatı Mevkii	Tepebaşı=|Yolçatı=
+92933	Eskice Köyü	Eskice=
+92934	Evsin Köyü	Evsin=
+92935	Evsin Köyü, Avcılar Mevkii	Avcılar=
+92936	Gökceseki Köyü	Gökceseki=
+92937	Gökceseki Köyü, Belen Mevkii	Belen=
+92938	Gökceseki Köyü, Kızılalan Mevkii	Kızılalan=
+92971	Gökçekent Köyü	Gökçekent=
+92970	Gökçekent Köyü, Bağarası Mevkii	Bağarası=
+92972	Gökçekent Köyü, Fide Mevkii	Fide=
+92948	Görmeli Köyü, Göbette Mevkii	Göbette=
+92947	Görmeli Köyü, Köprübaşı Mevkii	Köprübaşı=|Çatalarmut=
+92943	Görmeli Köyü, Köyyakası Mevkii	Göbette=|Köyyakası=
+92939	Görmeli Köyü, Kışla Mevkii	Kışla=|Kışla1~|Kışla2~|Kışla3~|Kışla4~|Kışla5~|Kışla6~|Kışla7~
+92941	Görmeli Köyü, Mezarlıalan Mevkii	Kışla=|Mezarlıalan=
+92945	Görmeli Köyü, Nisa Mevkii	Köprübaşı=|Nisa=
+92944	Görmeli Köyü, Tekke Mevkii	Köprübaşı=|Kışla=|Nisa=|Tekke=
+92946	Görmeli Köyü, Çarıklı Mevkii	Köprübaşı=|Tekke=|Çarıklı=|Çatalarmut=
+92942	Görmeli Köyü, Çatalarmut Mevkii	Çatalarmut=
+92940	Görmeli Köyü, Çayırlıalan Mevkii	Çayıralan=
+90260	Güllük Mah.	Ali Keskin~|Atatürk@|Bademli~|Emniyet~|Fikret Ünlü@|Güllük~|Güvenönü=|Hasan Pınar Mevkii=|Keşillik=|Koray Yapı Kooparatif~|Mercan~|Müst. Yrd. Lütfi Elvan@|Pınar~|Sümbül~|Sütpınarı=|Çınarlı Koop.evleri~|Şht.kom.er Murat Başçı@
+90261	Gülpazar Mah.	Bakırcılar~|Darçın~|Dezkaya~|Gubuşlar~|Gül~|Sabuncular~|Taşlıçeşme~|Yanbastı~
+90272	Güneyyurt Beldesi, Aralık Mah.	Akpınar~|Ayvacı~|Bahçeci~|Bozdemir~|Bozlar~|Camii~|Fikret Ünlü@|Gülüç~|Karamanoğlu Mehmet Bey@|Karanfil~|Keleş~|Köşk~|Nergis~|Pamuklu=|Saray~|Yirik~|Çingiller~|Çitlik~
+90273	Güneyyurt Beldesi, Cami Mah.	Akçapa@|Belediye~|Civiller~|Fikret Ünlü@|Gölderesi Çıkmazı~|Güney~|Karamanoğlu Mehmet Bey@|Karanfil~|Lütfi Doğan~|Pazar~|Selverler~|Yayla~|Çiğdem~|Örenler~|İmamlar~|Şehit Mehmet Kızılca~
+90274	Güneyyurt Beldesi, Habib Mah.	Ali Akpınar~|Barı~|Ergin~|Göndübire~|Hurşit Akpınar@|Karamanoğlu Mehmet Bey@|Karapınar~|Koç~|Künk~|Mutlu~|Pınar Gözü~|Turgut Güney@|Uyarlar~|Çakır~|Çobanlar~|İkizini~
+90275	Güneyyurt Beldesi, Kışlacık Mah.	Akçapa@|Bardakçı~|Büber~|Fersiz~|Tepecik~|Tuzla~|Çömlekçi~|Şehit Muharrem Akça~
+90276	Güneyyurt Beldesi, Oda Mah.	Akçaburun~|Ali Akpınar~|Arı~|Belediye~|Bendek~|Cumhuriyet@|Fikret Ünlü@|Hastane~|Hurşit Akpınar@|Karamanoğlu Mehmet Bey@|Menekşe~|Pazar~|Pınar Gözü~|Çeşme~|Özkan~
+90277	Güneyyurt Beldesi, Orta Mah.	Akçapa@|Bahçeci~|Dingiller~|Gizirler~|Gülerler~
+90278	Güneyyurt Beldesi, Pınargözü Mah.	Akan~|Akçaburun~|Erdoğan~|Gedik~|Hacı Vahablar~|Hurşit Akpınar@|Konur~|Künk~|Pınar Gözü~|Söğütlü~|Turgut Güney@|Yüksel~|Çobanlar~|Özkan~
+90279	Güneyyurt Beldesi, Yenimahalle Mah.	Aktaş~|Akyün~|Akçay~|Akıncı~|Altıntaş~|Ayaz~|Aydın~|Bekir Fakı~|Cumhuriyet@|Dağ~|Demirel~|Dikmen~|Ergül~|Eser~|Güroluk~|Karaltı~|Karşıyaka~|Kaya~|Koruk~|Kınay~|Lale~|Oda~|Okul~|Sayın~|Stadyum~|Turgut Güney@|Uray~|Yağız~|Yılmaz~|Çalışkan~|Çıkrık~|Öndür~
+90262	Karalar Mah.	Güvenönü=|Karalar=|Keşillik=|Sütpınarı=
+92949	Katranlı Köyü	Katranlı=
+92950	Kayaönü Köyü	Kayaönü=
+92951	Kayaönü Köyü, Köprübaşı Mevkii	Köprübaşı=
+90280	Kazancı Beldesi, Bucak Mah.	3054~|5001~|5002~|Atatürk@|Şht.yusuf Baysal~|Şht.yusuf Bozdemir~
+90281	Kazancı Beldesi, Gökceler Mah.	1000~|1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1023~|1024~|1025~|1026~|1027~|1028~|1029~|1030~|2021~
+90282	Kazancı Beldesi, Merkez Mah.	2000~|2023~|3000~|3001~|3002~|3003~|3004~|3005~|3006~|3007~|3008~|3009~|3010~|3011~|3012~|3013~|3014~|3015~|3016~|3017~|3018~|3019~|3020~|3021~|3022~|3023~|3024~|3025~|3026~|3027~|3028~|3029~|3030~|3031~|3032~|3033~|3034~|3035~|3036~|3037~|3038~|3039~|3040~|3041~|3042~|3043~|3044~|3045~|3046~|3047~|3048~|3049~|3050~|3051~|3052~|3053~|3054~|3055~|3056~|3057~|3058~|3059~|3060~|3061~|3062~|3063~|3064~|3065~|3066~|3067~|3068~|3069~|3070~|3071~|3072~|3073~|3075~|3076~|3077~|3078~|3079~|3080~|3081~|3082~|3083~|3084~|3085~|3086~|3087~|3088~|3089~|3090~|3091~|3093~|3094~|3095~|3096~|3097~|3098~|3099~|3100~|Anamur@|Atatürk@|Bahçe~|Cami~|Cevizli~|Ceylan~|Demokrasi@|Erden~|Eğitim~|Fırın~|Gül~|Hacı Muhtar@|Köyönü~|Kızılburun~|Mehmet Ali Güzel~|Oda~|Oğuzlar~|Polatlar~|Sanayi~|Takavitler~|Yavuz~|Yayla~|Çakıllı~|Çeşme~|İnci~|İnönü@|Şen~|Şht.yusuf Baysal~
+90283	Kazancı Beldesi, Tepecik Mah.	1000~|1001~|1008~|2000~|2001~|2002~|2003~|2004~|2005~|2006~|2007~|2008~|2009~|2010~|2011~|2012~|2013~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022~|2023~|2024~|3000~|3001~|Bünyamin Erdoğan~
+90284	Kazancı Beldesi, Türbeseki Mah.	2023~|3042~|3054~|7000~|7001~|7002~|7003~|7004~|7005~|7006~|7007~|Türbe~
+90285	Kazancı Beldesi, Uluköy Mah.	3054~|6001~|6002~|6003~|6004~|6005~|6006~|6007~|6008~|6009~|6010~|6011~|6012~|6013~|7000~|7006~|Atatürk@|Şht.yusuf Baysal~
+90286	Kazancı Beldesi, Yukarı Mah.	3001~|3021~|3023~|4001~|4002~|4003~|4004~|Altun~|Anamur@|Atatürk@|Aybaham~|Bahçe~|Değirmen~|Dumbul~|Fırın~|Hacı Muhtar@|Mescit~|Pamuk~|Yayla~|Çakıllı~|Çelebiler~|Şht.ast.erdal Şen~
+99704	Kazancı Beldesi, Çatalbadem Mah.	8001~|8002~|8003~|8004~|8005~|8006~|8009~|Akgedik~|Akmanlar~|Alan~|Aşıktaşı~|Bayır~|Beliçekkoz=|Beyler~|Cumhuriyet@|Gelemalanı~|Gültekin~|Gümüş~|Havuz Merkez=|Işıkbağı~|Kavaklı~|Kemal Paşa@|Mülazimler~|Mıdıklar~|Okul~|Çamlıtepe~|Çatalarmut~|Çelik~|İlhanlar~
+90263	Kebendibi Mah.	Cumhuriyet@|Gazi Ast.ali Ünlü~|Kanarya~|Keben~|Manav~|Türkmen~|Çilingir~
+90264	Keçipazar Mah.	Altuntaş~|Bakırcılar~|Börekçiler~|Davutlar~|Demirciler~|Feslihan~|Kalaycı~|Kartal~|Kayaönü~|Kiraz~|Nane~|Piralar~|Sarılar~|Semerciler~|Serçe~|Yalçınkaya~|Yeniçeşme~|Yörük~|Zambak~|Çiftçiler~
+90265	Keşillik Mah.	Ahat=|Keşillik=
+90266	Meydan Mah.	Altuntaş~|Bandırma~|Bülbül~|Bıldırcın~|Camii~|Cevizli~|Cumhuriyet@|Deveci~|E.yaşar Alıçlı~|Evciler~|Eğrim~|Gedikağzı=|Halil Akbulut@|Hasan Kalan@|Havluiçi~|Havuzlu~|Kalaycı~|Kamelya~|Kartal~|Kirseönü=|Kırlangıç~|Kızkayası~|Meydan~|Mustafa Adnan Göksu~|Nergis~|Palize~|Pancarcı Mevkii=|Prof.dr.ibrahim Ceylan@|Sağlık~|Toki@|Tolmedrese@|Tutluca~|Çeşme Boğazı=|Çıldırgı=|Örtme~|İnli~|Şehit Pilot Ayfer Gök Sokak=|Şht.er Nuri Başpınar~|Şht.kom.er Murat Başçı@
+92952	Olukpınar Köyü	Olukpınar=
+90267	Orta Mah.	Börekçiler~|Ceylan~|Cumhuriyet@|Dikmen~|Dülgerler~|Hamam~|Kocayokuş~|Kuyumcular~|Mustafa Can~|Taşlıçeşme~|Çiftçiler~|Çilingir~|Çobanlar~
+92953	Pamuklu Köyü	Pamuklu=
+92954	Pamuklu Köyü, Ülüğer Mevkii	Ülüğer=
+92955	Pınarönü Köyü	Pınarönü=
+90268	Sandıklı Mah.	Akpınar=|Akşemsettin~|Bademli~|Balcı~|Cumhuriyet@|Diktaş~|Fatma Kadın~|Geveler Mevkii=|Keben~|Koray Yapı Kooparatif~|Korubeleni=|Kovanlık Mevkii=|Latifağa~|Sultanalanı Mevkii=|Taşarası~|Terziler~|Yağlısu Mevkii=|Yumru Tepe Mevkii=|Şht.ast.erdal Şen~|Şht.er Kadir Hancı~
+92975	Sarıvadi Köyü, Aşağı Mevkii	Aşağı=
+92976	Sarıvadi Köyü, Yukarı Mevkii	Yukarı=
+90269	Seyran Mah.	15 Temmuz Demokrasi Şehitleri@|Adliye~|Afrin Şehidi Şükrü Ünlü@|Ahmet Keleşoğlu@|Ahmet Tufan Şentürk@|Akbınar~|Akpınar=|Atatürk@|Bezciler Mevkii=|Deliklikaya@|Emniyet~|Fatih~|Fincantepesi~|Hakkı Polat~|Halit Bardakçı~|Harman~|Hasan Baysal Mesire Yeri=|Hastane~|Karamanoğlu Mehmet Bey@|Kınalı~|Kızılalan~|Mehmet Çakır~|Mehmet Çınarlı~|Muzaffer Tutar@|Müst. Yrd. Lütfi Elvan@|Prof. Dr. Salim Cöhce~|Sanat~|Seyran Kaya~|Seyran Kent~|Seyran~|Sultanalanı Mevkii=|Tahsin Kesici~|Tepearası Mevkii=|Yağlısu Mevkii=|Yokuş~|Çiğdem~|Çınarlı Koop.evleri~|Üniversite~|Şht. P. Er Duran Dallıgül~|Şht.er Ahmet Demirtaş~|Şht.er Ali Avcı~|Şht.kom.er Murat Başçı@|Şht.pyd.uzman Çvş. Yunus Berber~
+90270	Susaklı Mah.	Atatürk@|Basmacı~|Cumhuriyet@|Dere~|Fikret Ünlü@|Küncü~|Latifağa~|Menekşe@|Okul~|Servi~|Şht.ali Aksoy~|Şht.er Kadir Hancı~
+90271	Taşbaşı Mah.	Atatürk@|Avcılar~|Bağarası Mevkii=|Cumhuriyet@|Dr.mehmet Sönmez~|Emin Hamibey@|Gaziler~|Gedikağzı Mevkii=|Halil Akbulut@|Hasan Kalan@|Havuzlu~|Hüseyin Fehmi Sönmez~|Melike Öztaş~|Mustafa Adnan Göksu~|Taşçeşme~|Tolmedrese@|Tuhafiyeciler~|Yanıksaray~|Çavdı Mevkii=|Çeşme~|İnönü~|İğdedibi~|Şht.kom.er Murat Başçı@
+92956	Tepebaşı Köyü	Tepebaşı=|Yolçatı=
+92957	Tepebaşı Köyü, Taştekne Mevkii	Taştekne=
+92960	Yalındal Köyü, Belen Mevkii	Belen=|Çayıralan=
+92958	Yalındal Köyü, Güneri Mevkii	Güneri=
+92959	Yalındal Köyü, İğdeyakası Mevkii	İğdeyakası=
+92977	Yaylapazarı Köyü	Yaylapazarı=
+92961	Yerbağ Köyü	Yerbağ=
+92962	Yerbağ Köyü, Şahinler Mevkii	Şahinler=
+92978	Yeşilköy Köyü	Yeşilköy=
+92963	Yukarıçağlar Köyü	Yukarıçağlar=
+92924	Çamlıca Köyü	Çamlıca=
+92925	Çavuş Köyü	Çavuş=|Çavuş1~|Çavuş10~|Çavuş11~|Çavuş12~|Çavuş13~|Çavuş14~|Çavuş2~|Çavuş3~|Çavuş4~|Çavuş5~|Çavuş6~|Çavuş7~|Çavuş8~|Çavuş9~
+92926	Çavuş Köyü, Bağarası Mevkii	
+92928	Çavuş Köyü, Edil Alanı Mevkii	
+92927	Çavuş Köyü, Çatalarmutbükü Mevkii	
+90258	Çınarlısu Mah.	Belediye@|Cumhuriyet@|Dikmen~|Dumlupınar~|Emin Hamibey@|Evciler~|Kalaycı~|Karanfil~|Kiraz~|Kocayokuş~|Köklüce~|Lale~|Mustafa Adnan Göksu~|Nergis~|Sakarya@|Sami Soylu~|Tenekeciler~|Tolmedrese@|Yeniçeşme~|Çiftçiler~|Şadırvan~
+92973	İkizçınar Köyü, Beliçekkoz Mevkii	Beliçekkoz=
+92974	İkizçınar Köyü, Havuz Merkez Mevkii	Cumhuriyet@|Havuz Merkez=

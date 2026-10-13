@@ -1,0 +1,26 @@
+5274	Akçadere Köyü	 Köy$
+5275	Akçadere Köyü, Yukarı Mezrası	 Köy$
+5276	Avgancık Köyü	 Köy$
+5280	Davulga Köyü	 Köy$
+5281	Devlethan Köyü	 Köy$
+5282	Güre Köyü	 Köy$
+5283	Güre Köyü, Aşağı Mezrası	 Köy$
+5284	Güre Köyü, Devrant Mezrası	 Köy$
+981	Hürriyet Mah.	Bahçe~|Ceylan~|Karanfil~|Kaya~|Korkmaz~|Körfez~|Köy Önü=|Kültür~|Küçük Ada=|Küçük Ada~|Menekşe~|Paşa~|Rüzgar~|Sandıklı@|Sümbül~|Tepe~|Çavuş~|Çay~|Çevre Yolu%|Şehit Ahmet Sarıtaş@|Şehit Tekin Özkan@
+5286	Kocagöl Köyü	 Köy$
+5287	Kozluca Köyü	 Köy$
+5288	Kozluca Köyü, Aşağı Mezrası	 Köy$
+5291	Uluköy Köyü	 Köy$
+5292	Yağcı Köyü	 Köy$
+983	Yeni Mah.	Alparslan~|Alperen~|Beyrek=|Beyrekk~|Bulut~|Can~|Cumhuriyet@|Duman~|Egemenlik~|Engin~|Ergin~|Evliya~|Fatih~|Gazi~|Gebze~|Gül~|Güler~|Hilal~|Huzur~|Karakoç@|Koru~|Lale~|Malazgirt~|Mevlana~|Meydan~|Meşe~|Mimar Sinan@|Okul~|Omurça~|Sarıtaş~|Uşak@|Viraj~|Yavuz~|Yazıcı~|Yıldırım@|Zafer~|Zümrüt~|Çakmak~|Çay~|Çevre Yolu%|Şahin~|Şehit Ahmet Sarıtaş@|Şehit Hasan Yalın@|Şehit Tekin Özkan@|Şehit Yusuf Yıldırım@|Şeref@|Şifa~
+984	Yeşilhisar Köyü, Cumhuriyet Mevkii	Abbaslar~|Alper~|Barbaros~|Başaran~|Cengiz Topel~|Cihan~|Doğa~|Esentepe~|Filiz~|Harman~|Kanuni~|Kuzey~|Lale~|Mimar Sinan~|Plevne~|Ulupınar~|Yıldırım~|Yıldız~|Çakırkızı~|Şafak~|Şehit Bünyamin Ertürk~|Şht.ali Karakuzu~
+985	Yeşilhisar Köyü, Fatih Mevkii	Atatürk=|Eyvazoğlu~|Ismahanoglu~|Kadıoğlu~|Tavşanlar~|Çolak Abdi~|İnci~|Şehirlioğlu~|Şht.ali Karakuzu~
+986	Yeşilhisar Köyü, Hisar Mevkii	Atatürk=|Bahar~|Ergenekon~|Evren~|Fazilet~|Fevzi Çakmak~|Gürçeşme~|Hataplar Çıkmazı~|Hilal~|Kemaller Çıkmazı~|Kocagöz~|Mezarlık~|Mimar Sinan~|Sağlık~|Topallar~|Ulupınar~|Yaka~|Yalnız Köprü~|Yaren~|Yavuz Sultan Selim~
+987	Yeşilhisar Köyü, Yeni Mevkii	Banaz~|Ergenekon~|Sandıklı~|Y.sultan Selim~|Çiğdem~
+5277	Çalça Köyü	Çalça=
+5279	Çepni Köyü	Çepni=
+5278	Çepni Köyü, Eldizan Mezrası	 Köy$
+5289	Örencik Köyü	 Köy$
+5290	Örtülü Köyü	 Köy$
+5285	İhsaniye Köyü	 Köy$
+982	Şafak Mah.	Avcı~|Cumhuriyet@|Elvan~|Filiz~|Gündoğdu~|Hayat~|Karanfil~|Keskin~|Mehmetçik@|Menekşe~|Sinan~|Turan~|Türker~|Viran~|Yılmaz~|Çıkmaz~|Çınar~|Özkan~|Şehit Hasan Yalın@|Şehit Mehmet Öztürk@|Şehit Murat Korkmaz@

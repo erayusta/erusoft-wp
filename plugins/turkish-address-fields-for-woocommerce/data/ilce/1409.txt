@@ -1,0 +1,31 @@
+42231	Bahçelievler Mah.	5378~|Adana Yolu=|Atatürk%|Barbaros~|Başak~|Bucak~|Cemal Gürsel@|Cumhuriyet%|Demir~|Fatih~|Garipsu İşyerleri=|Güllü~|Hızır Reis~|Mehmet Akif@|Mimarsinan~|Mithatpaşa~|Murat~|Namık Kemal~|Osman Paşa@|Osmangazi@|Tevfik Fikret~|Turgut Reis~|Töredi~|Çamtepe~|Çelebi Geçidi~|Özgen Paşa@|İstasyon@
+106436	Bahçesaray Mah.	Buğday~|Gönenir~|Kanuni~|Kara Mustafa Paşa%|Kumbağı=|Kuzgun~|Mehmet Akif@|Memleket~|Menekşe~|Murat Kuytak~|Papatya~|Toki 1. Etap=|Toki 2.=|Çay@
+42232	Bulgurcu Mah.	Alemdar Geçidi~|Alemdar~|Ağa~|Bayır Birinci~|Bulgurcu@|Dere 1. Çıkmaz~|Dere~|Karabel~|Yeni Camii@|Ziya~|İstiklal@
+42243	Dokuzpınar Mah.	Ada Çıkmaz~|Ateşler~|Bayraktarlar~|Organize Sanayi@|Topçular Çıkmaz~|Çelebi~
+42233	Fırınönü Mah.	5344.~|Ada~|Aksu Bağları=|Alparslan@|Arı~|Baharat~|Bal~|Farabi~|Fırınönü Geçidi~|Kayabaşı~|Sebahattin Çakmakoğlu@|Uzunbekir~|Şıra~
+42245	Garipçe Mah.	15 Temmuz Şehitleri~|5482.~|Asmalı~|Avanos Yolu=|Bülbül~|Dereboyu~|Devret~|Garipçe=|Gedik 1.~|Güney~|Harman 1.~|Kahraman@|Kahraman Geçidi~|Kahraman Çıkmaz~|Kale~|Kandil~|Kemer~|Köşe~|Meydan@|Pınar~|Yeni~|Şanlı~
+42234	Gönenkent Mah.	5181~|Arpa~|Badem~|Bağcılar~|Buğday~|Ceylan~|Erciyes~|Fuzuli~|Gazali~|Gönenir~|Hicaz~|Kanuni~|Kara Mustafa Paşa%|Kuzgun~|Kızılırmak~|Mehmet Akif@|Memleket~|Murat Kuytak~|Papatya~|Stad~|Çay@
+181093	Hamurcu Mah.	Hamurcu=|Üzüm~
+181095	Karahüyük Mah.	Karahüyük=
+42236	Karakoyunlu Mah.	Aksubağları=|Arı~|Baharat~|Bakır~|Cami Geçidi~|Derbent Geçidi~|Derbent~|Farabi~|Fırınönü Geçidi~|Hacı Ali~|Kayabaşı~|Kekik~|Keten~|Mazinler~|Mehmet Şahlıoğlu@|Mülazım~|Okulönü@|Rüzgar~|Sebahattin Çakmakoğlu@|Setenönü~|Sülüklü Geçidi~|Sülüklü~|Süslü Ali~|Uzunbekir~|Zümrüt~|Çay 1.~|Öğretmen Cevat Demiral@|İnci~|İstiklal 1. Geçidi~|İstiklal@
+42237	Karamustafapaşa Mah.	5375.~|Ardıç~|Atatürk%|Aydınlar~|Aşağı Çarşı~|Bulgurcu@|Can~|Damardı~|Dere~|Efe~|Elmas~|Etyemez~|Gül@|Kara Mustafa Paşa%|Kuzgun~|Mete~|Müftülük~|Pekmez~|Petek~|Sinema~|Stad~|Toki 3.=|Yıldırım 1.~|Çay@|Öğretmen Cevat Demiral@|Ümit~|İstiklal@
+181097	Küllü Mah.	4851.~|4852.~|4853.~|4854.~|4855.@|4856.~|4857.~|4858.~|4859.~|4860.~|4861.~|4862.~|4863.~|4864.~|4865.~|4866.~|4867.~|4868.~|4869.~|4870.~|4871.~|4872.~|4873.~|4875.~|4876.~|4877.~|4878.~|4879.~|4880.~|4881.~|4882.~|4883.~|4884.~
+42247	Kızılören Aşağı Mah.	5665.~|Asker~|Aslı~|Ata~|Ballı~|Barış~|Bekdaşlı~|Bilgin~|Burak~|Burak Çıkmaz~|Cesur~|Cumhuriyet 1.@|Dere 1.~|Devlet~|Erim~|Fevzi Çakmak 1.@|Funda~|Gölbaşı@|Gönen~|Hürriyet@|Kaldırım~|Kaynak~|Kerem@|Yayla@|Yayla Mevkii=|Yeşil Camii~|Çamlıbel~|Çetin~|Çınar 1.~|İmar~|İstiklal 2.~|Şehitler@
+42252	Kızılören Tabaklı Mah.	5740.~|Atatürk 1.@|Avşar@|Barış~|Cesur~|Cumhuriyet 1.@|Dilek~|Dinç~|Dinç Çıkmaz~|Edebali~|Edebali Çıkmaz~|Elmalı Geçidi~|Elmalı~|Emek~|Ferah~|Gedik~|Hürriyet@|Kaya~|Kaynak~|Kepez~|Lale Çıkmaz~|Lider~|Meşe~|Tabaklı~|Taş~|Yalımkaya Çıkmaz~|Yapraklı@|Çeşme~|Çora@|Çınar~|İlkokul Geçidi~|İlkokul~|İlkokul Çıkmaz~|Şehitler@|Şht. Rüştü Bayram@
+42251	Kızılören Ötebatan Mah.	5640.~|Asker~|Bayer~|Beylik~|Cumhuriyet 1.@|Kazım Uçar@|Kudret Geçidi~|Kudret~|Onur~|Onur Çıkmaz~|Santır~|Sağırkaya~|Vatan@|İkizler~|İpek~
+140547	Saraycık Mah.	5050.~|5051.~|5052.~|5053.~|5054.~|5055.~|5056.~|5057.~|5058.~|Saraycık Orman Köyü~|Üzüm~
+42241	Sarıkürklü Mah.	5621.~|5623.~|5641.~|Bucak 1.~|Cami~|Harman 2.~|Organize@|Süleyman Deresi~|Çeşme~|Çora@
+42238	Semerkent Mah.	5347.~|5348.~|Ahmet Kızılışık~|Akasya 1.~|Alparslan@|Anafartalar~|Ateşler Geçidi~|Bölükler=|Dal~|Göknar@|Harman@|Karanfil~|Menderes@|Mustafa Özkan@|Okul@|Sebahattin Çakmakoğlu@|Yaprak~|Yasemin~|Şeyhoğlu~
+181099	Subaşı Mah.	Subaşı=|Sürtme=
+42246	Sultansazı Osb Mah.	Osb1.@|Osb10.@|Osb11.@|Osb12.@|Osb13.@|Osb2.@|Osb3.@|Osb4.@|Osb5.@|Osb6.@|Osb7.@|Osb8.@|Osb9.@|S1~|S2~|S3~|S4~|S5~|S6~|S7~|S8~
+42253	Süksün Cumhuriyet Mah.	5575.~|Akasya~|Akbayır~|Asırlı Çıkmaz~|Atatürk 2.@|Ayçiçek Çıkmaz~|Bağlar@|Belde@|Ceyda Çıkmaz~|Ferda~|Feyza Çıkmaz~|Hamam Pınarı=|Kayalar~|Kayıhan~|Ladin~|Lalehan~|Nurlu~|Sebil Çıkmaz~|Sedef%|Serhat Çıkmaz~|Seten@|Yanıktaş~|Çıtak@|Özgür~|İnönü@|Şanlı Çıkmaz~
+42254	Süksün Hürriyet Mah.	5515.~|Akbayır~|Belediye@|Boztepe~|Cumhur Çıkmaz~|Değirmen@|Erikli@|Mescit~|Seten@|Taşlık~|Yayla 1.~|Çim Geçidi~|İnönü@
+42255	Süksün Zafer Mah.	5553.~|5554.~|5555.~|5556.~|5557.~|5570.~|Afşin Geçidi~|Ahsen Geçidi~|Aksu@|Atatürk 2.@|Ataç Çıkmaz~|Aytuğ Çıkmaz~|Belde@|Belediye@|Belen~|Burç~|Burçak~|Damla@|Defne~|Değirmen@|Dolunay~|Erenler~|Gökkuşağı@|Gökova~|Güven~|Han~|Ilgaz~|Karamuklu@|Karasu Çıkmaz~|Karlık Çıkmaz~|Kumlu~|Lodos~|Mehmet Akif Ersoy@|Nur~|Poyraz~|Sağlık~|Sedef%|Turkuvaz@|Tınaz~|Yaren~|Yücebaş~|Çiçek~|Ömür~|Şht. Ali Kıvanç@
+181103	Tahirinli Mah.	Tahirinli=
+42235	Vali İhsan Aras Mah.	38 Evler~|Afetevleri~|Alparslan@|Atatürk%|Bağlar 1.~|Beyazıt~|Ceviz~|Demirel@|Dumlupınar~|Fevzi Çakmak@|Göknar@|Hacettepe~|Hastane~|Kazım Karabekir~|Malazgirt~|Menderes@|Menderes Geçidi~|Mustafa Özkan@|Mısır~|Okul@|Sakarya~|Sebahattin Çakmakoğlu@|Çakmakoğlu Geçidi~|Çanakkale~|İmam Hatip~|Şafak~
+42239	Yarım Mah.	Bayır Birinci Geçidi~|Bayır İkinci Geçidi~|Değirmen 1.~|Hacı Ali~|Kilise Geçidi~|Mehmet Şahlıoğlu@|Mıstıklı~|Sebahattin Çakmakoğlu@|Yarım Geçidi~|Çay 1.~|Öğretmen Cevat Demiral@|İmam Hatip~
+42240	Yeni Camii Mah.	Bayır~|Dere~|Kilise Çıkmaz~|Meydan 1.~|Meydanönü~|Yeni Camii 1. Çıkmaz~|Yeni Camii@|Yiğittepesi~|Öğretmen Cevat Demiral@|İstiklal 1. Geçidi~|İstiklal 1. Çıkmaz~|İstiklal@
+42244	Çardaklı Mah.	Dilek~|Eren~|Hisartepe=|Ihlamur~|Isbalı=|Kayabaşı 1.~|Organize@|Süleyman Deresi~|Çamtepe~|İsmet Oktay@
+42242	Örenşehir Mah.	5506.~|Akik~|Altun~|Apaydın~|Bayrak@|Bilgiç@|Bostan~|Demir 1.~|Göl~|Göreme~|Gül 1.@|Hamurcu 1.~|Hamurcu Yolu=|Hilal~|Işık~|Kadim~|Kavuklu Çıkmaz~|Kehribar~|Keskin~|Kökçöl Geçidi~|Kızıl~|Melek~|Mesken~|Misvak~|Mustafa Kemal Paşa@|Salkım~|Tatlı~|Yahyalı~|Yakut~|Yalçın~|Yunus~|Yıldırım~|Yılmaz~|Örenşehir=|Örnek~|Üzüm~|İnanlar~|Şimşek~
+181105	Üçkuyu Mah.	Üçkuyu=
+181101	Şeyhşaban Mah.	Şeyhşaban=

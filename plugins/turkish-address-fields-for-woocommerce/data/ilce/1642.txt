@@ -1,0 +1,140 @@
+24875	Akdere Köyü	 Köy$
+24876	Akpınar Köyü	 Köy$
+197751	Akçakent Mah.	8081~|8082~|8083~|8084~|8085~|8086~|8087~|8088~|8089~|8090~|8091~|8092~|8093~|8094~|8095~|8096~|8097~|8098~|8099~|8100~|8101~|8102~|8103~|8104~|8105~|8106~|8107~|8108~|8109~|8110~|8111~|8112~|8113~|Recep Tayyip Erdoğan@|Şehit Ertuğrul Kocaer@
+24873	Akçakoyunlu Köyü	 Köy$
+24874	Akçalı Köyü	 Köy$
+20484	Akçay Mah.	12.@|2@|3@|4.@|5@|8000~|8001~|8002~|8003~|8004~|8005~|8006~|8007~|8008~|8009~|8010~|8011~|8012~|8013~|8014~|8015~|8016~|8017~|8018~|8019~|8020~|8021~|8022~|8023~|8024~|8025~|8026~|8027~|8028~|8029~|8030~|8031~|8032~|8033~|8034~|8035~|8036~|8037~|8038~|8039~|8040~|8041~|8042~|8043~|8044~|8045~|8046~|8047~|8048~|8049~|8050~|8051~|8052~|8053~|8054~|8055~|8056~|8057~|8058~|8059~|8060~|8061~|8062~|8063~|8064~|8065~|8066~|8067~|8068~|8069~|8070~|8071~|8072~|8073~|8074~|8076~|8077~|8078~|8079~|8080~|8114~|8115~|Recep Tayyip Erdoğan@|Şehit Cihan Bayık~|Şehit Ertuğrul Kocaer@
+24877	Alembeyli Köyü	 Köy$
+24878	Arabaçayı Köyü	 Köy$
+20498	Arifegazili Köyü, Ata Mevkii	Battal~|Başak~|Buğday~|Cevizli~|Cumhuriyet~|Eyüp Sultan~|Gökkuşağı~|Kazım Kara Bekir~|Kültür~|Menderes~|Mimar Sinan~|Nezaket~|Osmanlı~|Zafer~|Çakmak~|İnci~
+20499	Arifegazili Köyü, Gazi Mevkii	Aktepe~|Asri~|Elmalı~|Ezgi~|Gazi Küme Evleri=|Göktepe~|Gürünü~|Kanuni~|Kara Osman@|Karanfil~|Karaçay~|Kartal~|Kemal Paşa~|Mehmet Akif Ersoy~|Mehtap~|Narin~|Nine Hatun~|Onbaşı~|Osman Gazi~|Palamut~|Piri Reis~|Sarıtepe~|Selimiye~|Sokullu~|Sülüklü~|Tepebaşı~|Ticaret~|Turgut Reis~|Ufuk~|Uygarlık~|Yayla~|İnönü~|İstiklal~|Şafak~|Şehit Bayram~|Şentepe~|Şirin~
+20501	Arifegazili Köyü, Yeni Mevkii	Ankara~|Arif Gazi~|Asmalı~|Aydede~|Bahçeli~|Barbaros~|Belediye~|Beyyurdu~|Beşevler~|Bilim~|Doğu~|Emirhan~|Esen~|Esengül~|Gümüş~|Güney~|Gürcan~|Hamidiye~|Hisar~|Huzur~|Hürriyet~|Kale~|Karabağ~|Karacaoğlan~|Kardelen~|Kilim~|Kule~|Kültür~|Lalegül~|Maden~|Manolya~|Mehmet Akif Ersoy~|Meltem~|Nazar~|Nisan~|Osmangazi~|Pamuk~|Saadet~|Sadakat~|Sakin~|Sarmaşık~|Selçuklu~|Sevilay~|Süleymaniye~|Tepebaşı~|Ticaret~|Vahdet~|Vatan~|Yenihayat~|Yunus Emre 1~|Yunus Emre~|Yıldız~|Zakkum~|Çayır~|Çilek~|Özge~|Üzüm~|İkram~|İstiklal~
+20500	Arifegazili Köyü, Şahlı Mevkii	Akasya~|Akşemsettin~|Albayrak~|Atlas~|Aşık Veysel~|Battal~|Bayrak~|Başak~|Boztepe~|Bülbül~|Cumhuriyet~|Destegül~|Ensar~|Eyüp Sultan~|Hoca Ahmet Yesevi~|Hoşgörü~|Kadife~|Karatepe~|Kocatepe~|Kuzey~|Köroğlu~|Kırlangıç~|Mehmet Akif Ersoy~|Menekşe~|Nisan~|Okul~|Osmanlı~|Papatya~|Sevgi~|Sümbül~|Vahdet~|Yediveren~|Yeşilvadi~|Yunus Emre~|Yülseltepe~|Zafer~|Çamlıca~|Çiğdem~|Çınar~|Özge~|İğdeli~|Şükür~
+24879	Arıcı Köyü	 Köy$
+24930	Asayiş Köyü	 Köy$
+24882	Ayağıbüyük Köyü	 Köy$
+24883	Aydoğan Köyü	 Köy$
+24880	Aşağıbeşpınar Köyü	 Köy$
+24881	Aşağıfındıklı Köyü	 Köy$
+20485	Bahçelievler Mah.	2000~|2001~|2002~|2003~|2004~|2005~|2006~|2007~|2008~|2010~|2011~|2012~|2013~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022~|2023~|2024~|2025~|2026~|2028~|2029~|2030~|2031~|2032~|2033~|2034~|2035~|2036~|2037~|2038~|2039~|2040~|2041~|2042~|2043~|2044~|2045~|2046~|2047~|2048~|2049~|2050~|2051~|2052~|2053~|2054~|2055~|2056~|2057~|2058~|2060~|2061~|2062~|2063~|2064~|2065~|2066~|2067~|2068~|2069~|2070~|2071~|2072~|2073~|2074~|2075~|2076~|2077~|2078~|2079~|2080~|2081~|2082~|2083~|2084~|2085~|2086~|2087~|2088~|2089~|2090~|2091~|2092~|2093~|2094~|2095~|2096~|2097~|2098~|2099~|2100~|2101~|2102~|2103~|2104~|2105~|2106~|2107~|2108~|2109~|2110~|2111~|2112~|2113~|2114~|2115~|2116~|2117~|2118~|2119~|2120~|2121~|2122~|2123~|2124~|2125~|2126~|2127~|2128~|2129~|2130~|2131~|2132~|2133~|2134~|2135~|2136~|2137~|2138~|2139~|2140~|2141~|2142~|2143~|2144~|2145~|2146~|2147~|2148~|2149~|2150~|2151~|2152~|2153~|2154~|2155~|2156~|2157~|2158~|2159~|2160~|2161~|2162~|2163~|2165~|2166~|2167~|2168~|2169~|2170~|2171~|2172~|2173~|2174~|2175~|2176~|2177~|2178~|2179~|2180~|2181~|2182~|2183~|2184~|2185~|2186~|2187~|2188~|2189~|2190~|2191~|2192~|8.@|Ankara Samsun@|Fatih Sultan Mehmet@|Mimar Sinan@|Yıldırım Beyazıt@|Şehit Bülent Yollu~|Şehit Yasin Keyvanoğlu@|Şehit İlhan Çaylan@|Şehit İlker Sabancılar~
+24886	Bahşılı Köyü	 Köy$
+24888	Balkaya Köyü, Aşağıbalkaya Mevkii	 Köy$
+24887	Balkaya Köyü, Merkez Mevkii	 Köy$
+24884	Bağcılı Köyü	 Köy$
+24885	Bağdatlı Köyü	 Köy$
+20486	Başpınar Mah.	1@|24~|6000~|6001~|6002~|6003~|6004~|6005~|6007~|6008~|6009~|6010~|6011~|6012~|6013~|6014~|6015~|6016~|6017~|6018~|6019~|6020~|İlhan Sarıaltun@|Şehit Nuri Bayav@|Şehit Uğur Yaldıran@
+24891	Beylice Köyü	 Köy$
+24892	Beyyurdu Köyü	 Köy$
+24889	Beşdam Köyü	 Köy$
+24890	Beşkız Köyü	 Köy$
+99816	Beşkız Köyü, Yukarı Beşkız Mevkii	
+24893	Boztepe Köyü	 Köy$
+24894	Bozyayla Köyü	 Köy$
+24895	Bunalan Köyü	 Köy$
+24897	Büyükincesu Köyü	 Köy$
+24896	Büyükpolatlı Köyü	 Köy$
+199501	Cevheri Mah.	15100~|15101~|15102~|15103~|15104~|15105~|15106~|15107~|15108~|15109~|15110~|15111~|15112~|15113~|15114~|15115~|15116~|15117~|15118~|15119~|15120~|15121~|Ankara Samsun@|Cevheri~|Demirşeyh@|Ziya Ergişi@
+24910	Dayıncık Köyü	 Köy$
+20502	Demirşeyh Köyü, Fatih Mevkii	Ahmet Yesevi~|Ali Bağ~|Filoğlu~|Hacı Bey~|Hacı İmam~|Hıdır~|Kale~|Kara Aytu~|Köprü~|Lale~|Lütfi Bey~|Menteş~|Mimar Sinan~|Piri~|Sarı Taş~|Sungurlu~|Süleyman Bey~|Tekke~|Ömer Bey~|Şakir Bey Çıkmazı~|Şehit Ulş.uzm.çvş Beytullah Gedik~|Şht.abbas Kızılarslan~|Şht.jan.kom.irahim Ekri~
+20503	Demirşeyh Köyü, Kültür Mevkii	Bahceli~|Belediye~|Gazi~|Güllü~|Karkan~|Mehmetcik~|Mimar Sinan~|Sungurlu~|Suğla~|Yavuz~|Yüzbaşı~|Yıldırım~|Çelebi~|İğdeli~|Şahin~|Şht.jan.er Mehmet Kakız~
+20504	Demirşeyh Köyü, Paşa Mevkii	Ahmet Yesevi~|Arap~|Avukat~|Belediye~|Eşme Çayı~|Gazi~|Gülpınar~|Hocalar~|Karaca~|Karakuş~|Kuyu~|Memiş Bey~|Merdan~|Meyit~|Mimar Sinan~|Muttalip~|Namık Bey~|Orbay~|Pınar~|Sağlık~|Sungurlu~|Vahapbey~|Yüzbaşı~|Yıldırım~|İğdeli~|Şehit Ulş.uzm.çvş Beytullah Gedik~|Şht.kom.er İbrahim Ekpi~
+24911	Denizli Köyü	 Köy$
+24912	Derekışla Köyü	 Köy$
+24913	Dertli Köyü	 Köy$
+24914	Ekmekçi Köyü	 Köy$
+99817	Ekmekçi Köyü, Aşağı Ekmekçi Mevkii	
+24915	Eşme Köyü	 Köy$
+99193	Eşme Köyü, Çayırova Mevkii	
+20496	Fatih Mah.	11083~|11085~|11087~|3000~|3001~|3003~|3005~|3007~|3008~|3010~|3011~|3012~|3013~|3014~|3015~|3016~|3017~|3018~|3019~|3020~|3021~|3022~|3023~|3024~|3025~|3026~|3027~|3028~|3029~|3030~|3031~|3032~|3033~|3034~|3035~|3036~|3037~|7.@|Ankara Samsun@|Muhsin Yazıcıoğlu@|Yavuz Sultan Selim@|Şehit Adem Perdal~|Şehit Adil Yıldız@|Şehit Jandarma Er İbrahim Ekri~|Şehit Muammer Çakır@|Şehit Polis Adem Tut~|Şehit Teğmen Ömer Azak~
+20487	Fevzi Paşa Mah.	10@|5001~|5002~|5003~|5004~|5005~|5006~|5007~|5008~|5009~|5010~|5011~|5012~|Mehmet Akif@|Muhsin Yazıcıoğlu@|Mustafa Cemiloğlu@|Yediler~|İlhan Sarıaltun@|Şehit Hasan Ünal@
+24916	Gafurlu Köyü	 Köy$
+24917	Gökçam Köyü	 Köy$
+24918	Gökçeköy Köyü	 Köy$
+24919	Göller Köyü	 Köy$
+180964	Gülderesi Köyü	Gazi Ömer~|Haske~|Sait Kıyak~|Şehit Ahmet Çavuş~|Şehit Halil Çavuş~|Şehit Osman Çavuş~|Şehit İbrahim Çavuş~
+180966	Güloluk Köyü	~|Alparslan~|Alperen~|Dursun Önkuzu~|Sarıkamış~|İsa Yusuf Alptekin~|Şht.sıdkı İlter~
+20488	Gürpınar Mah.	10023~|10030~|10031~|5012~|8054~|9000~|9001~|9002~|9003~|9004~|9006~|9007~|9008~|9009~|9010~|9011~|9012~|9013~|9014~|9015~|9016~|9017~|9018~|9019~|9020~|9021~|9022~|9023~|9024~|9025~|9026~|9027~|9028~|9029~|9030~|9031~|9032~|9033~|9034~|9035~|9037~|9038~|9039~|9040~|9041~|9042~|9043~|9044~|9045~|9046~|9047~|9048~|9049~|Bülent Ecevit@|İlhan Sarıaltun@|Şehit Durak Açıkgöz~|Şehit Muammer Çakır@|Şehit Yusuf Güvenbaş~
+24920	Güvendik Köyü	 Köy$
+20489	Hacettepe Mah.	11000~|11001~|11002~|11004~|11006~|11009~|11010~|11011~|11012~|11013~|11014~|11015~|11016~|11017~|11019~|11020~|11021~|11022~|11023~|11024~|11025~|11026~|11027~|11028~|11029~|11030~|11031~|11032~|11033~|11034~|11035~|11036~|11037~|11038~|11039~|11040~|11041~|11042~|11043~|11044~|11045~|11046~|11047~|11048~|11049~|11050~|11051~|11052~|11053~|11054~|11055~|11056~|11057~|11058~|11059~|11061~|11063~|11064~|11065~|11066~|11067~|11068~|11069~|11070~|11071~|11072~|11073~|11074~|11075~|11076~|11077~|11078~|11079~|11080~|11081~|11082~|11083~|11084~|11085~|11086~|11087~|11088~|11089~|11090~|11091~|11092~|11093~|11094~|11095~|11096~|11097~|11099~|11100~|11101~|11102~|11103~|11104~|11105~|11106~|11107~|11108~|11109~|11110~|11111~|11112~|11113~|11114~|11115~|12012~|12074~|12075~|3037~|9.@|Ankara Samsun@|Şehit Adil Yıldız@|Şehit Akif Kapaklı@|Şehit Beyhan Köse@|Şehit Celal Turan~|Şehit Emrah Karama~|Şehit Erdoğan Gürgil~|Şehit Fazlı Kesekler~|Şehit Kalender Yaralı~|Şehit Mehmet Kakız~|Şehit Muammer Çakır@|Şehit Satılmış Görkem~|Şehit Zeki Kuzuoluk~
+24921	Hacıosman Köyü	 Köy$
+24922	Hilallı Köyü	 Köy$
+20505	Kaledere Köyü, Aydın Mevkii	Camii~|Dalamaca~|Dağyolu~|Kocaerler~|Lalegül~|Menekşe~|Nergiz~|Papatya~|Sungurlu~|Tepe~|Çeşme~|Şht.satılmış Görkem~
+20507	Kaledere Köyü, Zafer Mevkii	Belediye~|Dağyolu~|Kayaerler~|Şirindere~
+20506	Kaledere Köyü, Şen Mevkii	Dalmaca~|Değirmen~|Mezarlık~|Sungurlu~|Yıldız~|Şht.fazlı Kesekler~|Şirindede~
+24926	Kalenderoğlu Köyü	 Köy$
+24927	Kamışlı Köyü	 Köy$
+24928	Karacabey Köyü	 Köy$
+24931	Karakaya Köyü	 Köy$
+24932	Karakocalı Köyü	 Köy$
+24933	Karaoğlu Köyü	 Köy$
+24929	Karaçay Köyü	 Köy$
+20510	Kavşut Köyü, Köyün Kendisi Mevkii	Adalet~|Ahmet Yesevi~|Bayındır~|Başak~|Buket~|Buraközü Çayı~|Devlet Bahçeli~|Ertuğrul Gazi~|Fevzi Çakmak~|Hisar~|Kanuni~|Köyün Kendisi Köy$|Mevlana~|Pehlevi~|Çaldıran~|Çamlık~|Şht.gazi Korkut~|Şht.kerem Beksiz~
+24934	Kemalli Köyü	 Köy$
+24935	Kertme Köyü	 Köy$
+24939	Kula Köyü	 Köy$
+24940	Kurbağlı Köyü	 Köy$
+24942	Kuzucak Köyü	 Köy$
+24941	Kuşçalı Köyü	 Köy$
+24938	Körkü Köyü	 Köy$
+24944	Küçükincesu Köyü	 Köy$
+24943	Küçükpolatlı Köyü	 Köy$
+24936	Kırankışla Köyü	 Köy$
+180968	Kızılcakışla Köyü	~|Avkan~|Avşar~|Ayastan~|Aybek~|Aydemir~|Murathan~|Oğuzhan~
+24937	Kışlaköy Köyü	 Köy$
+24945	Mahmatlı Köyü	 Köy$
+24946	Mehmetaliçiftliği Köyü	 Köy$
+24947	Mehmetbeyli Köyü	 Köy$
+24948	Muratkolu Köyü	 Köy$
+24951	Ortaköy Köyü	 Köy$
+24950	Ortakışla Köyü	 Köy$
+24952	Oyaca Köyü	 Köy$
+24949	Oğlaközü Köyü	 Köy$
+24953	Salmanköy Köyü	 Köy$
+24954	Saraycık Köyü	 Köy$
+24955	Sarıcalar Köyü	 Köy$
+24956	Sarıkaya Köyü	 Köy$
+20491	Sunguroğlu Mah.	1@|1.~|10.~|11~|12.~|13.~|14~|15~|16~|17~|18~|19~|2@|2.~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3.~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|4.~|40~|41~|42~|43~|44~|45~|46.~|47~|48~|49~|5@|5.~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|84~|85~|9~|Alparslan Türkeş@|Ankara Samsun@|Cengiz Topel@|Dr.ali Rıza Yıldız Myd.|Eski Hal Myd.|Güngör Myd.|Muhsin Yazıcıoğlu@|Prof.dr.necmettin Erbakan@|Recep Tayyip Erdoğan@|Yeni Hal Myd.|İlhan Sarıaltun@|Şehit Ertuğrul Kocaer@|Şehit Nuri Bayav@
+24958	Tatlı Köyü	 Köy$
+24960	Terzili Köyü	 Köy$
+24959	Tirkeş Köyü	 Köy$
+24961	Tokullu Köyü	 Köy$
+24962	Topuz Köyü	 Köy$
+20493	Turan Mah.	2@|24~|3@|7001~|7003~|7004~|7005~|7006~|7008~|7009~|7010~|7011~|7012~|7013~|7014~|7015~|7016~|7017~|7018~|7019~|7020~|Masatlı~|İlhan Sarıaltun@|Şehit Nuri Bayav@|Şehit Uğur Yaldıran@
+24964	Turgutlu Köyü	 Köy$
+24963	Tuğcu Köyü	 Köy$
+20512	Tuğlu Köyü, Bahçelievler Mevkii	Canayır~|Cumhuriyet~|Doğan 1.~|Doğan 2.~|Dr.devlet Bahçeli 1.~|Dr.devlet Bahçeli~|Gül~|Menekşe~|Mezarlık~|Tuğlubey 1.~|Tuğlubey 2.~|Tuğlubey~|Çankırı~
+20513	Tuğlu Köyü, Karşıyaka Mevkii	Alparslan Türkeş~|Belediye~|Camii~|Cumhuriyet~|Demirel~|Türkmenler~
+20514	Tuğlu Köyü, Yeni Mevkii	Cumhuriyet~|Demirel~|Elifoğlu~|Esen~|Kartal Tepe~|Kiraz 1.~|Kiraz 2.~|Köroğlu~|Lale 1.~|Lale~|Zambak~|Şht.kamil~
+24965	Türkhacılarhanı Köyü	 Köy$
+24967	Yarımsöğüt Köyü	 Köy$
+20494	Yenidoğan Mah.	Küme Evleri=
+24968	Yenihacılarhanı Köyü	 Köy$
+20495	Yenihayat Mah.	11037~|11038~|11039~|11064~|11065~|11074~|11106~|12000~|12001~|12003~|12004~|12005~|12006~|12007~|12008~|12010~|12011~|12012~|12013~|12014~|12015~|12016~|12017~|12018~|12019~|12020~|12021~|12022~|12023~|12024~|12025~|12026~|12027~|12028~|12038~|12039~|12040~|12041~|12042~|12043~|12044~|12045~|12046~|12047~|12048~|12049~|12050~|12051~|12052~|12053~|12054~|12055~|12056~|12057~|12058~|12059~|12060~|12061~|12062~|12063~|12064~|12065~|12066~|12067~|12068~|12074~|12075~|12076~|12077~|12078~|12079~|12080~|12081~|12082~|12083~|12084~|12085~|12086~|12087~|12088~|12089~|12090~|12091~|12092~|12093~|12094~|12095~|12096~|12097~|12098~|12099~|12100~|9.@|Ankara-samsun@|Sanayi 1.@|Sanayi 10.@|Sanayi 11.@|Sanayi 2.@|Sanayi 3.@|Sanayi 4.@|Sanayi 5.@|Sanayi 6.@|Sanayi 7.@|Sanayi 8.@|Sanayi 9.@|Şehit Adil Yıdız@|Şehit Beyhan Köse@|Şehit Mahmut Peşmen~
+24969	Yeşilova Köyü	 Köy$
+24970	Yeşilyurt Köyü	 Köy$
+24971	Yirce Köyü	 Köy$
+24972	Yorgalı Köyü	 Köy$
+100110	Yorgalı Köyü, Organize Sanayi Bölgesi Mevkii	1~|2~|3~|4~|5~|6~|7~|7/1~|8~
+24973	Yukarıbeşpınar Köyü	 Köy$
+20515	Yörüklü Köyü, Ergülübaba Mevkii	Ahmet Yesevi~|Bağlar~|Cengizhan~|Fevzi Çakmak~|Mimar Sinan~|Sungurlu~|Türbe~|Çaldıran~|İmamoğlu~
+20518	Yörüklü Köyü, Yavuz Sultan Selim Mevkii	Ahmet Yesevi~|Bayraktar~|Bağlar~|Cengizhan~|Doğan Baloğlu~|Güven~|Kanuni~|Mezarlık~|Sancaktar~|Selanik~|Selvi~|Sezgin~|Sungurlu~|Yunus Emre~|İmamoğlu~|İstiklal~|Şehit Er Mesut Bağıröz~|Şehit Teğmen Ömer Azak~
+180970	Çadırhüyük Köyü	Alparslan Türkeş~|Camii~|Delice~|Irmak~|Köprülü~|Mezarlık~|Çankırı~|Çıkmaz~
+24899	Çamoluk Köyü	 Köy$
+24901	Çavuşköy Köyü	 Köy$
+24900	Çavuşçu Köyü	 Köy$
+24902	Çayan Köyü	 Köy$
+24903	Çayyaka Köyü	 Köy$
+24906	Çiftlikköy Köyü	 Köy$
+24907	Çingiller Köyü	 Köy$
+24904	Çiçekli Köyü	 Köy$
+24905	Çiçeklikeller Köyü	 Köy$
+24908	Çukurlu Köyü	 Köy$
+24909	Çulhalı Köyü	 Köy$
+20497	Örnekevler Mah.	1000~|1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1023~|1024~|1025~|1026~|1027~|1028~|1029~|1030~|1031~|1032~|1033~|1034~|1035~|1036~|1037~|1038~|1039~|1040~|1041~|1042~|1043~|1044~|1045~|1046~|1047~|1048~|1049~|1050~|1051~|1052~|1053~|1054~|1055~|1056~|1057~|1058~|1059~|1060~|1061~|1062~|1063~|1064~|1065~|1066~|1067~|1068~|1069~|1070~|1071~|1072~|1073~|1074~|1075~|1076~|1077~|1078~|1079~|1080~|1081~|1082~|2000~|2001~|2028~|Ankara Samsun@|Şehit Yasin Keyvanoğlu@
+24966	Üçoluk Köyü	 Köy$
+24923	İkizli Köyü	 Köy$
+24924	İmirli Köyü	 Köy$
+24925	İnegazili Köyü	 Köy$
+20490	İsmetpaşa Mah.	10@|10000~|10001~|10002~|10003~|10004~|10005~|10006~|10007~|10008~|10009~|10010~|10011~|10012~|10013~|10014~|10015~|10016~|10019~|10020~|10021~|10022~|10023~|10024~|10025~|10026~|10027~|10028~|10029~|10030~|10031~|4002~|5012~|Mustafa Cemiloğlu@|Şehit Muammer Çakır@|Şehit Polis Mehmet Zengin~|Şehit Polis Ümit Araman~
+24957	Şekerhacılı Köyü	 Köy$
+20492	Şekerpınar Mah.	10@|4000~|4001~|4002~|4003~|4004~|4005~|4006~|4007~|4008~|4009~|4010~|4011~|5001~|Mehmet Akif@|Muhsin Yazıcıoğlu@|Mustafa Cemiloğlu@|Şehit Hasan Ünal@

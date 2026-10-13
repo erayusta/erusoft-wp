@@ -1,0 +1,95 @@
+22608	Ahmetçeli Köyü	Ahmetçeli=
+22609	Akpınar Köyü	Akpınar=
+22610	Alakeçi Köyü	Alakeçi=
+22611	Alakeçi Köyü, Dombaylar Mevkii	Dombaylar=
+22612	Alikabaklar Köyü	Alikabaklar=
+22607	Ağaçköy Köyü	Ağaçköy=|Ağaçköy Mücavir=|Karayolu@
+22669	Aşağışapcı Köyü	Aşağısapçı=
+22670	Aşağışevik Köyü	Aşağışevik=
+22671	Bekirler Köyü	Bekirler=
+22672	Bezirganlar Köyü	Bezirganlar=|Karayolu@|Yanıklar=
+22654	Beşik Köyü	Beşik=
+22613	Bıyıklı Köyü	Bıyıklı=
+20118	Camicedit Mah.	1. Göçmen~|2. Göçmen~|3. Göçmen~|4. Göçmen~|5. Göçmen~|Abdülkadir Maral~|Ahmet Baydar~|Ahmet Cevdet Küçükserim@|Ali Esen~|Atatürk@|Atmaca~|Ağaç~|Ağaçköy@|Aşık Veysel~|Bahçeli~|Barbaros~|Barış~|Bağlı~|Başak~|Cami~|Cevizli~|Deniz~|Dere~|Doğan~|Dr. Muammer Kurulay~|Dr.ilhan Dağdeviren@|Dumanlı@|Elveda~|Emek@|Esentepe~|Evren~|Fenerciler~|Filiz~|Fulya~|Garaj~|Gazi~|Göksu~|Göktürk~|Gözde~|Göçmen~|Güven~|Güvercin~|Hadımoğlu~|Hal@|Halil Nahit Varol@|Hamam~|Harita~|Hasan Tahsin~|Haşmet~|Hilal~|Hizmet~|Huzur~|Huzurevi~|Hürriyet@|Kahramanlar~|Kalender~|Kamil Toker@|Kanal~|Kardelen~|Karşıyaka~|Kazdağ~|Kocatepe~|Koru~|Koyuncu~|Kozluk~|Küçük~|Kıbrıs@|Kırlangıç~|Kızılay~|Kızılcık~|Kızılyar@|Kışla~|Mandıra~|Martı~|Mehmet İmrak~|Mehmetçik~|Merih~|Meriç~|Meslek~|Mevlana~|Mimar Sinan@|Miralay~|Musannif~|Mustafa Karagözoğlu~|Namık Kemal@|Necati Yılmaz~|Nuri Güney~|Orkide~|Pazaryeri~|Piri Reis~|Reşat Nuri Güntekin~|Samanyolu~|Selvi~|Sonsuz~|Su Deposu~|Tahtalı~|Tatlı~|Taşköprü~|Tepecik Kanal Yolu=|Terzi Tepe~|Truva@|Tuna~|Uğur Mumcu~|Vatan@|Yahya Çavuş~|Yamaç~|Yayla~|Yaşar Doğu~|Yeni Sanayi 1~|Yeni Sanayi 2~|Yeni Sanayi 3~|Yeni~|Yeşil~|Yunus Emre~|Yüksek~|Yıldırım Beyazıt~|Yılmaz Güven~|Zeki Şimşek~|Zeytinli~|Ziraat~|Zübeyde Hanım~|Çay~|Çağlayan~|Çetin Emeç~|Çevreyolu~|Çimenlik~|İda~|İlim@|İlkadım~|İstiklal~|Şair Mehmet Akif Ersoy~|Şehit Abdulkerim Uruk~|Şehit Halil Karataş~|Şehit Halil Yılmaz~|Şehıt Teğmen Lütfı Efendi@|Şelale~|Şirin~|Şıkevler~
+20119	Camikebir Mah.	Ahi Hızır~|Akasya~|Ankara@|Arslan~|Atatürk@|Ayazma~|Aydınlık-~|Baliğ~|Baraj~|Büyük Cami~|Camikebir 1.~|Dallık~|Defne~|Dumlupınar~|Eski Kabristanlık~|Eski Sanayi 1~|Eski Sanayi 2~|Eski Sanayi 3~|Eski Sanayi 4~|Fatih~|Fırın~|Gençlik~|Gümüş~|Gündoğan~|Gündoğdu-~|Halide Edip Adıvar~|Halis~|Hamamaltı 1.~|Hamamaltı~|Hamza~|Harman~|Hatip~|Helvacı~|Horoz Çeşme~|Işık~|Karagöz~|Kavaklı~|Kazım Karabekir~|Lale~|Lonca~|Mahkeme~|Malazgirt~|Menderes Köprü~|Menderes Köprü Çıkmazı~|Mengene~|Merdivenli~|Meydan~|Musannif~|Ortanca~|Pekmezci~|Ruhi Yalçın@|Saray~|Ulus@|Yanıkkule~|Yağcılar~|Yaşam~|Yüksel Yörükoğlu~|Çiftlik~|Çiftçi~|Çilek~|İnönü@|İpek~|Şanlı~
+22673	Cazgirler Köyü	Cazgirler=
+22619	Daloba Köyü	Daloba=
+22618	Dağahmetçe Köyü	Dağahmetçe=
+22657	Dağoba Köyü	Dağoba=
+22620	Doğancı Köyü	Doğancı=
+22621	Doğancı Köyü, Asmalı Mevkii	Asmalı=
+22652	Evciler Köyü, Ayazma Yolu Üzeri Mevkii	Ayazma Yolu Üzeri=
+22650	Evciler Köyü, Aşağı Mevkii	Aşağı=
+22651	Evciler Köyü, Yukarı Mevkii	Yukarı=
+22649	Evciler Köyü, Çaltılık Mevkii	Çaltılık=
+22658	Gedik Köyü	Gedik=|Karayolu@
+22676	Gökçeiçi Köyü	Gökçeiçi=
+22623	Güzeltepe Köyü	Güzeltepe=
+22677	Hacıbekirler Köyü	Hacıbekirler=|Karayolu@
+22678	Hacıdervişler Köyü	Hacıdervişler=
+22679	Hacıköy Köyü	Hacıköy=
+22680	Işıkeli Köyü	Işıkeli=
+22681	Karaibrahimler Köyü	Karaibrahimler=
+22659	Karaköy Köyü	Karaköy=|Söğütalan=
+22682	Karıncalık Köyü	Karıncalık=
+22624	Kaykılar Köyü	Kaykılar=
+22683	Korucak Köyü	Korucak=
+22625	Koşuburnutürkmenleri Köyü	Koşuburnu Türkmenleri=
+22626	Kurşunlu Köyü	Kurşunlu=
+22627	Kutluoba Köyü	Kutluoba=|Kutluoba Mücavir- Köy$
+22685	Kuşçayır Köyü	Kuşçayır=
+22660	Köseler Köyü	Köseler=
+22684	Köylü Köyü	Karayolu@|Köylü=
+22661	Külcüler Köyü	Külcüler=
+20120	Menderes Mah.	1. İnönü~|1.kader~|2. Kader~|2. İnönü~|3. Kader~|Abdi İpekçi~|Altın Elma~|Ardıç~|Arıburnu~|Asmalı~|Aydoğdu~|Aydın~|Bahadır~|Bahar~|Bahçeler~|Bahçelerarası 1.~|Bahçelerarası 2.~|Bahçelerarası~|Bayrak~|Beşevler=|Bilgi~|Bosna~|Burcu~|Bülbül~|Damla~|Demet~|Dikmen~|Duygu~|Ekinci~|Elmalı~|Elmas~|Fidan~|Gelincik~|Gonca~|Göknar~|Gönül~|Halil İbrahim Bodur@|Hatmi~|Hercai~|Hikmet Gökhan~|Ilgaz~|Ilgın~|Kanarya~|Karayel~|Kartal~|Kavakçı~|Kursaklı Çayı Mevkii=|Kurtuluş~|Kuşkonmaz~|Köy~|Köşk~|Kırçiçeği~|Leylak~|Lodos~|Maslak~|Mazı~|Mehtap~|Melek~|Melek-1-~|Menderes Kanal Yolu=|Menderes Kasaba Civarı-=|Mercan~|Merve~|Nar~|Nar Çiçeği~|Nergis-~|Onsekiz Mart~|Onur~|Pınar~|Pırlanta~|Salkım~|Sedir~|Sefa~|Serin~|Servi~|Serçe~|Simge~|Sipahi~|Sultan~|Söğütlü~|Sülün~|Sümer~|Tomurcuk~|Tülüler-@|Umut~|Uzca Sanayi~|Vişne~|Yavuz~|Yenigün~|Yonca~|Zambak~|Zeytin~|Zümrüt~|Çayır~|Çiçek~|Örnek~|Özde~|Özgür-~|İbrahim Gökhan~|İnci~|Ş.üstteğmen Ahmet Altın@|Şaheser~|Şehit Astsubay Şerafettin Şengören~|Şehit Osman Özkan~|Şen~
+22662	Mollahasanlar Köyü	Mollahasanlar=
+22686	Muratlar Köyü	Karayolu@|Muratlar=
+22687	Muratlar Köyü, Tepeköy Mevkii	Tepeköy=
+22688	Muratlar Köyü, Yeniköy Mevkii	Yeniköy=
+22628	Nebiler Köyü	Alikabaklar=|Nebiler=
+22629	Nebiler Köyü, Tütüler Mevkii	Tütüler=
+22689	Osmaniye Köyü	Osmaniye=
+22632	Palamutoba Köyü	Palamutoba=
+22631	Palamutoba Köyü, Yukarıpalamut Mevkii	Yukarıpalamut=
+22633	Pınarbaşı Köyü	Karayolu@|Pınarbaşı=
+22634	Pıtıreli Köyü	Pıtıreli=
+22635	Pıtıreli Köyü, Işıklar Mevkii	Işıklar=
+22637	Saraycık Köyü	Saraycık=
+22638	Sarıdüz Köyü	Sarıdüz=
+22663	Sarıot Köyü	Karayolu@|Sarıot=
+22636	Saçaklı Köyü	Saçaklı=
+22664	Serhat Köyü	Serhat=
+22690	Söğütgediği Köyü	Söğütgediği=
+20121	Tepecik Mah.	1. Cirit~|2. Cirit~|Akman~|Ali Rıza Yıldız~|Anafartalar~|Anıt~|Arslan~|Ata~|Atatürk@|Ayrancı~|Ayva~|Bademli~|Bayır~|Bağlararası~|Beste~|Demirci~|Değirmen~|Doğu~|Dutluk~|Erenler~|Erenler-=|Feza~|Fırın~|Gül~|Gülüm~|Güney~|Güneş~|Güvemcik~|Hacı Bektaşi Veli~|Hakimiyet~|Halis~|Hamamaltı~|Havuzlu~|Hoca Ahmet Yesevi~|Horoz Çeşme~|Huzur~|Ihlamur~|Kale~|Karacaoğlan~|Karanfil~|Kayalı~|Kelebek~|Kirazlı~|Kubilay~|Kum~|Kuyu~|Kızılyar@|Lalezar~|Menderes~|Menekşe~|Nilüfer~|Nur~|Papatya 1-~|Papatya~|Ruhi Yalçın@|Rumeli~|Sakarya~|Sakız~|Sarmaşık~|Sarıkız~|Sağlık~|Sisam~|Subaşı~|Sümbül~|Tatlı~|Tepe~|Tepe Türkmenleri=|Tepecik Kanal Yolu=|Tepecik~|Ulus@|Uğur~|Viranlı~|Yağcılar~|Yokuş~|Yıldız~|Yılmaz~|Çalışkan@|Çam~|Çamlık=|Çelebi~|Çimen~|Çiğdem~|Çoban~|Çınar~|Örgün=|Özer~|Üzümlü~|İğde~|Şahin~
+22665	Toluklar Köyü	Toluklar=
+22666	Tongurlu Köyü	Tongurlu Karayolu@|Tongurlu=
+22639	Tülüler Köyü	Tülüler=
+22640	Türkmenli Köyü	Karayolu@|Macır=|Mescit=|Türkmenli=|Türkmenli Mücavir=
+22641	Türkmenli Köyü, Macır Mevkii	Macır=
+22643	Türkmenli Köyü, Mescit Mevkii	Mescit=|Nizam=|Türkmenli=
+22642	Türkmenli Köyü, Nizam Mevkii	Nizam=
+22645	Yahşieli Köyü	Karayolu@|Yahşieli=
+22692	Yanıklar Köyü	Yanıklar=|Yaylacık=
+22646	Yassıbağ Köyü	Yassıbağ=
+22693	Yaylacık Köyü	Yaylacık=
+22694	Yeniceköy Köyü	Karayolu@|Yeniceköy=
+22695	Yeniköy Köyü	Karayolu@|Yeniköy=
+22667	Yeşilköy Köyü	Yeşilköy=
+22668	Yiğitaliler Köyü	Yiğitaliler=
+22696	Yukarışapçı Köyü	Yukarışapçı=
+22697	Yukarışevik Köyü	Yukarışevik=
+22647	Zerdalilik Köyü	Zerdalilik=
+22648	Zeytinli Köyü	Zeytinli=
+22615	Çalıdağı Köyü, Karşıoba Mevkii	Karşıoba=
+22616	Çalıdağı Köyü, Köseler Mevkii	Köseler=
+22614	Çalıdağı Köyü, Merkez Mevkii	Çalıdağı=
+22653	Çalıobaakçakıl Köyü	Çalıobaakçakıl=
+22674	Çatalçam Köyü	Çatalçam=
+22617	Çavuşköy Köyü	Karayolu@|Karayolu/100~|Çavuşköy=
+22655	Çavuşlu Köyü	Çavuşlu=
+22675	Çiftlik Köyü	Karayolu@|Çiftlik=
+22656	Çırpılar Köyü	Çırpılar=
+22630	Örenli Köyü	Kutluoba=|Örenli=
+22622	Örenli Köyü, Güvemcik Mevkii	Güvemcik=
+22644	Üzümlü Köyü	Üzümlü=
+22691	Üçyol Köyü	Üçyol=

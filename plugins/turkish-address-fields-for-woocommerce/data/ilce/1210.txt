@@ -1,0 +1,69 @@
+10633	4 Eylül Mah.	4eylül İmaryolu1~|801.~|802.~|803.~|804.~|805.~|806.~|808.~|809.~|810.~|811.~|812.~|813.~|814.~|815.~|816.~|817.~|818.~|819.~|820~|821~|822.~|851.~|852.~|853.~|854.~|855.~|856~|857.~|858.~|859.~|860.~|861.~|862.~|863.~|864.~|865~|866.~|867.~|868.~|869.~|870.~|871.~|872.~|873.~|874~|875~|876~|877.~|878.~|879.~|880~|881~|882~|883~|884~|885.~|886~|887~|888~|889~|890~|891~|892.~|893~|894~|895~|896~|897~|898~|899~|900.~|901~|902~|903~|950.~|952.~|953.~|954~|955.~|956.~|957.~|958.~|959.~|960.~|961.~|962.~|963.~|964.~|965.~|966.~|967.~|968~|969~|970~|971~|972~|Ahmet Haşim@|Akenerji Yolu~|Artema Arkası=|Arıklar@|Bedri Rahmi@|Cezmi Or@|Düzdağ Yolu 1@|Düzdağ Yolu 2~|Düzdağ Yolu 3@|Gençlik@|Halide Edip Adıvar@|Kayacık@|Laz Ahmet@|Muammer Aksoy@|Necmi Soylu@|Osman Rusçuk@|Sanayi@|Tevfik Fikret@|Tütengil@|Yaşar Doğu@|Yaşar Kemal@|Yeşilkent@|Yunus Nadi@|İsmet İnönü@
+140773	Akpınar Mah.	Akpınar Mücavir Dışı=|Akpınar~|Akpınar İmaryolu1@|Akpınar İmaryolu2~
+15713	Aksutekke Köyü	Aksutekke Köy Sokağı=|Bursa Eskişehir@
+15711	Akçapınar Köyü	Akçapınar Köy Sokağı=
+15714	Alibeydüzü Köyü	Alibeydüzü Köy Sokağı=|Bozüyük Söğüt Yolu@
+15715	Aşağıarmutlu Köyü	Aşağıarmutlu Köy Sokağı=|Bursa Eskişehir@
+15716	Bozalan Köyü	Bozalan=
+139753	Bozalan Köyü, Bozalan Mücavir Dışı Mevkii	Bozalan Mücavir Dışı Köy Sokağı=|Kütahya Bozüyük Yolu@
+15746	Camiliyayla Köyü	Camiliyayla Köy Sokağı=
+10638	Cihangazi Köyü, Merkez Mevkii	Ahmet Yesevi~|Atatürk/1~|Bozüyük~|Bozüyük-~|Cumhuriyet/1~|Dede~|Dere~|Eskişehir~|Eskişehir1~|Evren~|Güllük~|Kahveciler~|Kanalboyu~|Lojman~|Mimar Sinan~|Soğukpınar~|Yeşil/1~|Yıldız Tepe~|Çelebi~
+15719	Darıdere Köyü	Darıdere Köy Sokağı=|Kütahya Bozüyük Yolu@
+15720	Delielmacık Köyü	Bursa Eskişehir@|Delielmacık Köy Sokağı=
+10634	Dodurga Beldesi, Mehmet Akif Mah.	201~|202~|Acar~|Cumhuriyet Myd.|Erikli@|Gürcan~|Hacıahmet Çıkmazı~|Hamam~|Karaağaç Mevkii=|Kayacık~|Sofu~|Uzun~|Yörüközü Mevkii=|Üzmez~
+10635	Dodurga Beldesi, Mithatpaşa Mah.	401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412@|413~|414~|415~|416~|417~|Aydın~|Ayvalı Mevki=|Bozüyük@|Cami~|Camili Mevkii=|Cumhuriyet Myd.|Derepınar Mevki=|Değirmen~|Dsi Lojmanları Baraj=|Ertaş~|Hacı Ahmet~|Hacı Reis~|Kabaali@|Karanfil~|Köroğlu~|Kütahya Bozüyük@|Kütahya@|Kışçı~|Mandıra Gece Kondu Önleme=|Mandıra~|Salihçik Mevkii=|Sümbül~|Çağılarası=|Çiğdem~|Çorak Çiftlik Kuluçkahane@|Önder~
+10636	Dodurga Beldesi, Namık Kemal Mah.	101~|102~|103~|Arda~|Cumhuriyet Myd.|Erikli@|Köymen~|Mandıra~|Taşbaşı@|Çukur~
+10637	Dodurga Beldesi, Ziya Gökalp Mah.	301~|302~|303~|401~|Acar~|Ardıçaltı Mevkii=|Banka~|Bayıraltı Mevkii=|Büker~|Gürcan~|Gürcü Dede~|Kütahya@|Okul~|Uzun~|Vişnelik~|Çıkmaz 1~|Çıkmaz 2~
+15748	Dombayçayırı Köyü	Dombayçayırı Köy Sokağı=
+15745	Dübekli Köyü	Dübekli=
+100365	Dübekli Köyü, Mücavir Dışı Mevkii	Mücavir Dışı Köy Sokağı=
+15749	Düzağaç Köyü	Düzağaç Köy Sokağı=
+15721	Düzdağ Köyü	Düzdağ Köy Sokağı=
+15722	Düzdağ Köyü, Nanedere Mezrası	Nandere Köy Sokağı=
+15750	Eceköy Köyü	Eceköy Köy Sokağı=
+15751	Erikli Köyü	Erikli Köy Sokağı=
+15752	Gökçeli Köyü	Gökçeli Köy Sokağı=
+15753	Göynücek Köyü	Göynücek Köy Sokağı=
+15723	Günyarık Köyü	Bozüyük Söğüt Yolu@|Günyarık Köy Sokağı=
+15724	Hamidiye Köyü	Hamidiye Köy Sokağı=
+15725	Kandilli Köyü	Kandilli=
+139754	Kandilli Köyü, Kandilli Mücavir Dışı Mevkii	Kandilli Mücavir Dışı Köy Sokağı=
+15726	Kapanalan Köyü	Kapanalan Köy Sokağı=
+15727	Kapanalan Köyü, Kapanalan Ky Mevkii	
+15729	Kapanalan Köyü, Kapanalan-2 Mevkii	- Köy$
+15728	Kapanalan Köyü, Mevki Mevkii	
+15730	Karaağaç Köyü	Karaağaç Köy Sokağı=|Karaağaç=|Kütahya Bozüyük Yolu%
+15731	Karabayır Köyü	Karabayır Köy Sokağı=
+15754	Karaçayır Köyü	Karaçayır Köy Sokağı=
+10629	Kasımpaşa Mah.	101~|102~|103~|104~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112~|113~|114.~|115.~|116-1~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|4 Eylül@|A.hamdi Ünal~|Ahçılar~|Ali Ağa~|Ali Usta~|Atatürk@|Ateşler~|Ayaz~|Aytaç~|Ağalar~|Bahar~|Balcılar~|Bağlar Çıkmazı~|Bektaşlar~|Berberler~|Bozkaya Çıkmazı~|Cami@|Celiloğlu_1~|Demirdöküm@|Demirkol Çıkmazı~|Dikilitaş@|Dr.ismail Bakkalcıoğlu@|Duralioğlu@|Eczacıbaşı%|Ekici~|Eminağa@|Ferhatlar~|Fıçıcı Çıkmazı~|Gazi Hoca~|Gazidervişler~|Gençlik~|Gülpınar~|Hacı Ali Ağa~|Hacı Bölük~|Hacı İbrahim~|Hamam~|Hoca Hüsnü~|Hükümet@|Kadıahmet~|Kahriağa~|Kalıpçılar~|Kavcı~|Keşşaf~|Köteşliler@|Kıvrıklar~|Maden Fabrika~|Mescit~|Meydan~|Munise Kadı~|Nalbantlar~|Necatibey@|Nesip Hoca~|Org.hüseyin Kıvrıkoğlu@|Pamuk Çıkmazı~|Salim Hoca Çıkmazı~|Saraycık@|Seramik@|Stad@|Söğüt@|Sünetçi Niyazi~|Tavukçu Nefer Çıkmazı~|Terakki@|Terminal@|Toros~|Turfanda~|Uyar Çıkmazı~|Yeşil~|Zaim Usta Çıkmazı~|Zübeyde Hanım@|Çakırlar~|Çakırçavuş~|Çay~|Çayır~|Çolakibrahim Bey@|Çomalar~|Ömer Ağa Çıkmaz~|Ömerağa~|Örgülü~|Üyük Çıkmazı~|Üyükaltı~|İmar Yolu~|İnci Çıkmazı~|İpek~|İsmet İnönü@|Şenkal@
+15755	Ketenlik Köyü	Ketenlik Köy Sokağı=
+15734	Kovalıca Köyü	Kovalıca=
+139755	Kovalıca Köyü, Kovalıca Mücavir Dışı Mevkii	Kovalıca Mücavir Dışı Köy Sokağı=
+15735	Kozpınar Köyü	Bursa Eskişehir@|Kozpınar Köy Sokağı=
+15736	Kuyupınar Köyü	Kuyupınar Köy Sokağı=
+15732	Kızılcapınar Köyü	Bursa Eskişehir@|Kızılcapınar Köy Sokağı=
+15733	Kızıltepe Köyü	Kızıltepe Köy Sokağı=
+15737	Metristepe Köyü	Metristepe Köy Sokağı=
+15738	Muratdere Köyü	Bursa Eskişehir@|Muratdere Köy Sokağı=
+15739	Ormangüzle Köyü	Ormangüzle Köy Sokağı=
+15756	Osmaniye Köyü	Osmaniye Köy Sokağı=
+15740	Poyra Köyü	Poyra=
+139756	Poyra Köyü, Poyra Mücavir Dışı Mevkii	Bursa Eskişehir@|Poyra Mücavir Dışı Köy Sokağı=
+15741	Poyra Köyü, Poyraosb Mevkii	1.@|10.@|11.@|12.@|13.@|14.@|15.=|16.=|17.=|18=|19=|2.@|20.@|3.@|4.@|5.@|6.@|7.@|8.@|9.@|Akpınar~|Metristepe~|İntikamtepe~
+15742	Revnak Köyü	Revnak Köy Sokağı=
+15743	Saraycık Köyü	Kütahya Bozüyük Yolu%|Saraycık Köy Sokağı=|Saraycık=
+10630	Tekke Mah.	100.yıl~|Adilağa~|Akasya~|Ali Çavuş~|Ateş Ahmet~|Avcı Çıkmazı~|Baloğlu Çıkmazı~|Bayır~|Bayırbaşı~|Can~|Dalkıran~|Davulcu Çıkmazı~|Deli Ahmet~|Dik~|Dispanser~|Engin~|Eriş~|Fidanlı~|Gacallar~|Gazi Hoca~|Göztepe~|Güneş_1~|Hacı Ali Ağa~|Hacı Hafız~|Halithoca~|Havza~|Hoca Mustafa~|Hüsmenağa~|Işıklarlı~|Kalaycı Ömer Çıkmazı~|Kalkan~|Kara Ahmet~|Kara Salih~|Kara İbrahim~|Kumluk Çıkmazı~|Köprülü~|Küçük Ahmet Çıkmazı~|Kınalı~|Kıranlı~|Lale~|Lise@|Makascılar~|Mescit~|Mine~|Mukadder~|Nazifbey@|Org.hüseyin Kıvrıkoğlu@|Papatya~|Pelit~|Raşitağa~|Sağıroğlu~|Sefer~|Sel~|Sertdemir~|Solaklar~|Songül~|Su Deposu Üstü~|Söğüt@|Sınır~|Sınır Sk. Sonu=|Tekeli~|Tepe~|Tepebaşı~|Tepebaşı Çıkmaz~|Topal Selim~|Türbe~|Uçar~|Yahya Arık~|Yeni~|Yeni Söğüt@|Yetimler~|Zaim Usta Çıkmazı~|Çiğdem~|Üyük~|Üyükaltı~|İzzet Usta~
+10631	Yediler Mah.	501~|502~|503.~|504.~|505~|506.~|507~|508.~|509.~|510.~|511.~|512.~|513.~|514.~|515.~|516~|517.~|518.~|519.~|520.~|521.~|522.~|523.~|524.~|525.~|526.~|527~|528.~|529.~|530.~|531~|532~|533~|534.~|535.~|536~|537~|538~|539~|540~|541~|542~|544.~|546.~|547.~|548~|549 Sok.devamı=|549.~|550.~|551~|552.~|553.~|554.~|555~|556.~|557.~|558.~|559~|560.~|561.~|562.~|563~|564.~|565.~|566.~|567.~|568.~|569.~|570.~|571.~|572.~|573.~|574.~|575~|576.~|577.~|578.~|579.~|580.~|581.~|582.~|583.~|584.~|585~|586.~|587~|588.~|589.~|590.~|591~|592.~|593.~|594~|595.~|596.~|597~|598.~|599.~|600.~|601.~|602.~|603.~|604.~|605.~|606.~|607.~|608.~|609~|610.~|611.~|612.~|613.~|614.~|615.~|616.~|617.~|701.~|702.~|703.~|704.~|705.~|706.~|707.~|708.~|709.~|710.~|711.~|712.~|713.~|714.~|715~|716.~|717.~|718.~|719.~|720.~|721~|722.~|723~|724~|725.~|726.~|727.~|728.~|729~|730.~|731.~|732.~|733~|734~|735~|736~|737~|738~|739~|740~|Ertuğrul@|Kanarya@|Kanarya~|Kumraldede@|Manişar Devamı=|Mermerli Caddesi Devamı Kümeevler=|Mermerli@|Osmancık@|Saraycık@|Selçuk@|Serçe~|Zafer@|İçköy=|Şahin~|Şehit Ünal Demir@|Şirinevler@
+10632	Yeni Mah.	123.~|950.~|Abdullah~|Abdürrahimavar~|Akkaya~|Aksulu~|Akın~|Alanönü~|Arnavut Hüseyin Ağa~|Arıklar@|Atalay@|Atmaca~|Ay~|Aziz Usta~|Bahar~|Baltacı~|Balıkcıl~|Bağlar Yolu~|Başak~|Bedri Mumcu~|Beyazıt~|Boztepe~|Boğazkesen~|Bülbül~|Cami@|Cami.~|Cemre~|Cengiz~|Cerrahlar~|Ceylan~|Cırbın~|Demirsu~|Dere~|Dilek~|Dispanser~|Doğan~|Doğuş~|Dr.ismail Bakkalcıoğlu@|Duru~|Düztepe~|Erdem~|Erdoğan~|Eriş~|Ertekin~|Ertur~|Evren~|Eğri~|Fahri Korutürk@|Fayser~|Fazıl Usta~|Gazeteci~|Gelişim~|Gonca~|Gül~|Gümüş~|Güner~|Güney~|Güneş@|Güneş~|Güvercin~|Hacı Ali Ağa~|Hacı Hafız~|Hacı Rıfat~|Hafız Eyüp~|Hafız Necmettin~|Hanımeli~|Hasan Hüseyin Ağa~|Hasan Kahya~|Hatip Lütfü~|Hisar~|Kabakderesi~|Karaca~|Karakaş~|Karanfil~|Kardelen~|Karlıdağ@|Kartal~|Katiphüseyin~|Keklik~|Kireççi~|Kumru~|Kurtoğlu~|Kurul~|Kuğu~|Köfteci~|Kırlangıç~|Kırtaş~|Kısa~|Laz Ahmet~|Levent~|Leylek~|Limoncu Çıkmazı~|Martı~|Mektep@|Menekşe~|Mercan~|Meslek Lisesi@|Mete Çıkmazı~|Meteoroloji@|Mollayusuf~|Monter~|Mustafa Süer~|Nizam~|Numan Ağa~|Nurettin Sayar@|Okul~|Okulaltı~|Oral~|Oğuz~|Papağan~|Pehlivan~|Pekel~|Pelikan~|Portakal Çıkmazı~|Ravsalı~|Reşit~|Rıza Baysal~|Salim~|Sanayi@|Sarıbaş~|Sazlı~|Selçuk_1~|Seramik@|Serdar~|Serçe~|Seymen~|Söğüt@|Süleymanbey@|Sümbül~|Sümer~|Sığırcık~|Telekom~|Temel~|Timur~|Trafo~|Turan~|Tüfekçi Yusuf~|Ulucami~|Vakur~|Yan~|Yavuz~|Yeni Yol~|Yenikent~|Yokuş~|Yunus~|Yücel~|Yüksel~|Yıldız@|Yıldız_1~|Yıllar~|Yılmaz~|Zülfü Ağa~|Çerençeli~|Çeşmeci~|Çeşmeci Çıkmazı~|Çim~|Çiçek~|Çolakibrahim Bey@|Ömerağa~|Özgül~|Özgün~|Özlem~|Öztop~|İbişler~|İbrahim Hoca~|İdemen~|İlim~|İskender~|İsmet İnönü@|Şahin_1~|Şekerci~|Şenkal@|Şevket Usta~
+15757	Yenidodurga Köyü	Yenidodurga Köy Sokağı=
+180762	Yenidoğan Mah.	301.~|302.~|303~|304.~|305.~|306.~|307.~|308.~|309.~|310.~|311.~|312.~|313~|314.~|315.~|316.~|317.~|318 .~|319.~|320.~|321.~|322.~|323.~|324.~|325.~|326.~|327.~|328.~|329.~|330.~|331.~|332.~|333.~|334.~|335.~|336.~|337.~|338.~|339.~|340.~|341.~|342.~|343.~|344.~|345.~|346.~|347.~|348.~|349.~|350.~|351.~|352.~|353.~|353/1.~|354.~|355.~|356~|357.~|358.~|359.~|360.~|361.~|362.~|363.~|364.~|365.~|366.~|367.~|368.~|369.~|370.~|371.~|372.~|373.~|374.~|374/1.~|375.~|376.~|377.~|378.~|379.~|401.~|402~|403.~|404.~|405.~|406.~|407.~|408.~|409.~|410.~|411.~|412.~|413.~|414.~|415.~|416.~|417.~|418.~|419.~|420.~|421.~|422~|423~|424~|Bursa Yolu 2=|Celiloğlu Cad. Devamı=|Doğan Kozu@|Karasu Boyu=|Kırbındüzü@|Mal Hatun@|Manişar@|Manişar Devamı=|Manişar Küme Evler~|Poyraözü@|Saraycık Cad. Devamı=|Saraycık@|Sümbül Dede 1=|Sümbül Dede 2=|Sümbüldede 3=|Yenidoğan@|Yenidoğan İmar Yolu 1~|Zümbül Dede@
+15744	Yeniçepni Köyü	Poyra=|Yeniçepni=
+183574	Yeniçepni Köyü, Mücavir Dışı Mevkii	Mücavır Dışı=|Yeniçepni=
+15758	Yeniüreğil Köyü	Yeniüreğil Köy Sokağı=
+99366	Yeşilkent Mah.	1000~|1001~|1002~|1003~|1004~|1006~|1007~|1008~|1009~|1018~|1019.~|1020~|1021~|1022~|1023~|1024~|1025~|1026~|1027~|1028.~|1029~|1030.~|1031~|1032~|1033~|1035~|1036.~|1037~|1038~|1039~|1040~|1041~|1044~|1046~|1047~|1051~|1052~|1053~|1054~|733~|740~|741.~|742.~|743~|744.~|745.~|746.~|747~|748~|749.~|750.~|751.~|752~|753~|754~|755.~|756~|757~|758~|759.~|760.~|761~|762~|763~|764.~|765.~|766.~|767.~|822.~|Kumraldede@|Metin Tavman@|Musapınarı@|Osman Rusçuk@|Osmancık@|Sanayi@|Yesilkent@|Yeşilkent 1=|Yeşilkent%|Yeşilkent3=|Yeşilkent4=|İmaryolu2~|İsmet İnönü@|Şehit Abdülhamit Bilgen@|Şehit Burak Özkan@|Şehit Cengiz Ünlü@|Şehit Cezmi Kaya@|Şehit Davut Halıcı@|Şehit Ekrem Pehlivan@|Şehit Fayik Alkan@|Şehit Fikret Son@|Şehit Hakan Elmas@|Şehit Hasan Şahin@|Şehit Hüseyin Horasan@|Şehit Mithat Çolak@|Şehit Murat Tuzsuz@|Şehit Osman Kışçı@|Şehit Servet Aydın@|Şehit Vahit Elmas@|Şehit Vedat Dur@|Şehit Zafer İpek@
+15759	Yeşilçukurca Köyü	Yeşilçukur Köy Sokağı=
+15717	Çamyayla Köyü	Çamyayla Köy Sokağı=
+10628	Çarşı Mah.	201.~|202.~|203.~|204.~|205.~|206~|207.~|208.~|209.~|210~|211.~|212.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|220.~|221.~|222.~|223.~|224.~|225.~|226.~|227.~|228.~|Alt Sarıtoprak~|Altınay~|Atatürk@|Ayvalı İstasyonu Küme Evler=|Baharözü 1=|Baharözü 2=|Balcılar~|Bayraktar~|Bağ~|Bağlar Çıkmazı~|Bursa Yolu 1=|Bursa Yolu 2=|Cami Çıkmazı~|Cami_1~|Can~|Celiloğlu@|Cengiz.~|Davutlar~|Delil~|Deniz~|Dilsiz Çıkmazı~|Doğan~|Emre~|Ertuğrul Bey~|Fabrika@|Fırın Çık~|Gamsız Çık.~|Gazozcu Akif@|Göçmen~|Hacı Bölük~|Halil Ağa~|Hazar~|Ihlamur~|Ilgınlı=|Kanal@|Kara Mehmet~|Karagöz Çık.~|Karanfil Çık.~|Karasu Boyu=|Karayolları Arkası=|Kaya Çıkmazı~|Kaşif Hoca~|Kiremitçi~|Kocapınar~|Körşaban~|Köy Hizmetleri Arkası=|Kıbrıs~|Kızılcık~|Meram~|Mümin Usta~|Osmarlı Çıkmazı~|Poyraz~|Poyraz Çıkmazı~|Pınar~|Rahim Ağa~|Raif~|Remzi Çolak~|Sanayii~|Saraycık@|Sarı Ali Çıkmazı~|Sarıtoprak~|Selvi~|Soğukpınar~|Subaşı Çıkmazı~|Sucu Çıkmazı~|Tepebaşı Çık.~|Terlemez Çıkmazı~|Topel~|Tornacı~|Uçar~|Varnalılar~|Yaz~|Yeni Söğüt@|Yunusemre@|Yılmaz Çıkmazı~|Zambak Çıkmazı~|Çakmaklı@|Çalı~|Çarıkçı~|Çağ~|Çevreyolu@|Çivici~|Çıkmaz~|Çınar Çık.~|Ürgenpaşa@|Üstdemiryolu@|Üyük~|İmar Yolu 1~|İmar Yolu 13~|İmaryolu-1~|İmaryolu12~|İğde~|Şerif Paşa~
+15718	Çaydere Köyü	Çaydere Köy Sokağı=
+15747	Çokçapınar Köyü	Çokçapınar Köy Sokağı=
+184808	İçköy Mah.	Manişar Devamı=|İçköy=

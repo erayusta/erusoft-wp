@@ -1,0 +1,33 @@
+190937	Aktepe Mah.	Aktepe=
+190939	Alapınar Mah.	Alapınar=
+190941	Arıkaya Mah.	Arıkaya=|Karakuş=
+190935	Ağaçhisar Mah.	Ağaçhisar=
+190943	Bahçecik Mah.	Bahçecik=
+190945	Başören Mah.	Başören=|Sarıçiçek=
+190947	Belkese Mah.	Belkese=
+190931	Bozan Mah.	1~|2~|Ankara Demiryolu Altı=|Ara~|Ayaz~|Bahar~|Buket~|Burma~|Cami~|Cengiz~|Coşar~|Cumhuriyet Myd.|Dar~|Depo~|Dere~|Değirmen~|Doğan~|Engin~|Esen~|Eser~|Fatih@|Gül~|Güvercinlik~|Harman~|Işır~|Kabir~|Kale~|Kaya~|Kenar~|Kurtuluş@|Köprü~|Köşe~|Kültür@|Kısa~|Lale~|Menderes@|Mezarlık(bozan)@|Meşrutiyet@|Mihalıcçık@|Negiz~|Nizam~|Papatya~|Pazaryeri=|Pınar~|Sanayi Bölgesi=|Sarp~|Sağlık~|Sel~|Set~|Sungur~|Sığır Yolu=|Taşra~|Tekke~|Tepe~|Umut~|Uğrak~|Vatan@|Yonca~|Yunak~|Yunusemre~|Yıldırım~|Yıldız~|Yılma~|Çam~|Çardakbaşı@|Çatal~|Çay~|Çengel~|Çeşme~|Ömerağa~|Önder~|Ören~|Özen~|Öztürk@
+190949	Büğdüz Mah.	Büğdüz=
+190955	Dereköy Mah.	Dereköy=|Yenidereköy=
+190957	Esence Mah.	Esence=
+30245	Fatih Mah.	Altın~|Bahçe~|Bahçeler~|Başak~|Bereket~|Bilge~|Billur~|Cihan~|Civan~|Damla~|Dere~|Durak~|Esenler~|Florya~|Gönül~|Gün~|Güneş~|Huzur~|Keser~|Keskin~|Kurtuluş@|Mercan~|Mert~|Mertcan~|Meydan~|Mihalıcçık@|Murat@|Orman~|Serdar~|Sevim~|Vatan~|Yavuz~|Yıldız~|Ziraat~|Zümrüt~|Çatal~|Çayır~|Çiftçi~|İlhan~|Şehit Selami Göceci@
+30246	Fevzi Paşa Mah.	Acar~|Akar~|Akın~|Alem~|Altan~|Araç~|Atış~|Aydın~|Aziz~|Açık~|Demir~|Demirci~|Demirciler~|Dinç~|Efe~|Esen~|Fulya~|Kavuş~|Kumtepe~|Kurtuluş@|Nergis~|Nizam~|Tarım~|Tepe~|Tuna~|Turan~|Tınaz~|Yaldız~|Zübeyde Hanım@|Çınar~|İstasyon@|Şafak~|Şht.p.uzman Çvş. Enis Yücel~|Şht.selim Ercan@|Şirin~
+190959	Fevziye Mah.	Fevziye=
+190961	Gökçekaya Mah.	Gökçekaya=
+190963	Gökçeoğlu Mah.	Gökçeoğlu=
+190967	Güroluk Mah.	Güroluk=
+190969	Işıkören Mah.	Işıkören=
+190971	Karacaören Mah.	Gümele=|Karacaören=|Kuyupınar=
+190973	Karakamış Mah.	Karakamış=
+30247	Kemalpaşa Mah.	Adak~|Aday~|Alan~|Ali Baba~|Avcılar~|Ayaz~|Bademlik~|Bahar~|Bozyer=|Bulut~|Buğday~|Dere~|Doğan~|Elmalık~|Fidan~|Hayat~|Işıklar~|Kurtuluş@|Mezarlık~|Mihalıççık@|Nezih~|Poyraz~|Sanayi Sitesi~|Sanayi~|Sever~|Sevim~|Uğrak~|Varlık~|Yaman~|Zeytin~|Çakan~|Çakmaz~|Çiftçi~|Ömür~|Şht.burhan Yıldız@
+190985	Koşmat Mah.	Yayıklı=
+190965	Mamure Mah.	Güneli=
+190933	Osmaniye Mah.	Acar~|Arslangöz~|Ataseven~|Atatürk@|Ay~|Aydın~|Baykara~|Bağlar@|Bulut~|Burak~|Cami~|Cebeci~|Cumhuriyet (yenikent)=|Cumhuriyet=|Demirci~|Dere (yenikent)~|Dere~|Ebru~|Ertuğrul Gazi@|Fatih@|Gezer~|Gülbeşer~|Gülüm~|Güney@|Güneş~|Güven~|Karanfil~|Kasaplar~|Kurtuluş@|Kuzey@|Lale~|Melek~|Menekşe~|Mete~|Mine~|Okullar@|Sait Bey~|Selim Hoca~|Sevgi~|Sönmez@|Tarkan~|Tepe~|Vatan@|Yağmur~|Yunus Emre@|Yüksel~|Yıldırım~|Yıldız~|Yılmazer~|Zafer@|Ziraat@|Çiftçi~|Çiçek~|Özgür~|Öztürk~|İmren~|İnci (yenikent)~|İnci~|İstiklal@|Şht.adnan Çiftçi (yenikent)@|Şht.adnan Çiftçi@|Şirin~
+190977	Sakarıkaracaören Mah.	Sakarıkaracaören=|İşletme Evleri=
+190979	Sarıkavak Mah.	Sarıkavak=
+190981	Söğütçük Mah.	Söğütçük=
+190983	Uyuzhamamköyü Mah.	Uyuzhamamköyü=
+190987	Yeşildon Mah.	Yeşildon=
+30244	Yunusemre Mah.	Cami~|Cami Çıkmazı~|Canan~|Cevher~|Dayı~|Donatım~|Fidanlık@|Kurtuluş@|Okul~|Porsuk~|Ulaş~|Ulaşım~|Umut~|Çelik~|Çevik~|Çeşme~|Çilek~|Çimen~|Çiçek~|Ülker~|Ülkü~|Ümit~|Ünlem~|Ürün~|Şht.hüseyin Şentürk@|Şht.selim Ercan@
+190951	Çardakbaşı Mah.	Çardakbaşı=
+190953	Çerkez Çukurhisar Mah.	Çukurhisar=
+190975	Özdenk Mah.	Özdenk=

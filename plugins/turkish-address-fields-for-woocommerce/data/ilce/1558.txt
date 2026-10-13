@@ -1,0 +1,154 @@
+24746	Akören Köyü, Hacı Hasan Mevkii	 Köy$
+24745	Akören Köyü, Merkez Mevkii	 Köy$
+24747	Akören Köyü, Yayla Evleri Mevkii	 Köy$
+24835	Alibey Köyü	 Köy$
+24748	Ardıç Köyü, Merkez Mevkii	 Köy$
+24749	Ardıç Köyü, Çeneler Mevkii	 Köy$
+24842	Avlağı Köyü, Araplı Mevkii	 Köy$
+24841	Avlağı Köyü, Merkez Mevkii	 Köy$
+24843	Avlağı Köyü, Mezra Mezrası	 Köy$
+24844	Aydın Köyü, Merkez Mevkii	 Köy$
+24845	Aydın Köyü, Seki Mevkii	 Köy$
+24741	Ağıroğlan Köyü	 Köy$
+24836	Aşağızeytin Köyü	 Köy$
+24837	Aşağızeytin Köyü, Kavacık Mezrası	 Köy$
+24839	Aşıkbükü Köyü, Esenli Mevkii	 Köy$
+24838	Aşıkbükü Köyü, Merkez Mevkii	 Köy$
+24840	Aşıkbükü Köyü, İsaklı Mevkii	 Köy$
+24752	Baldıran Köyü, Kalinse Mevkii	 Köy$
+24751	Baldıran Köyü, Kumbel Mevkii	 Köy$
+24750	Baldıran Köyü, Merkez Mevkii	İstanbul Yolu~
+24753	Baldıran Köyü, Saralle Mevkii	 Köy$
+24759	Baltacımehmetpaşa Köyü, Ayvalık Mevkii	 Köy$
+24758	Baltacımehmetpaşa Köyü, Bekirçavuş Mevkii	 Köy$
+24760	Baltacımehmetpaşa Köyü, Göcükbaşı Mevkii	 Köy$
+24761	Baltacımehmetpaşa Köyü, Güney Mevkii	 Köy$
+24762	Baltacımehmetpaşa Köyü, Hayrat Mevkii	 Köy$
+24755	Baltacımehmetpaşa Köyü, Kuz Mevkii	 Köy$
+24757	Baltacımehmetpaşa Köyü, Sarıyar Mevkii	 Köy$
+24754	Baltacımehmetpaşa Köyü, Yanankışla Mevkii	 Köy$
+24756	Baltacımehmetpaşa Köyü, Yeni Mevkii	 Köy$
+20480	Başpınar Köyü, Seyitgazi Mevkii	Aksoy~|Avcilar Çıkmazı~|Bahar~|Bulut Çıkmazı~|Hastane~|Kara Harman~|Kuzbağı~|Mareşal Fevzi Çakmak~|Seyitgani~|Tavli Çıkmazı~|Tenha~|Çöl Çıkmazı~|Şanal~
+20481	Başpınar Köyü, Ulucamii Mevkii	1 Nci~|Arpalıklar~|Bağlar~|Belediye~|Biçer~|Camii~|Cumhuriyet~|Değirmen~|Doğan~|Doğu~|Fatih~|Güngör Çıkmazı~|M. Fevzi Çakmak~|Osmancık~|Park~|Patika~|Tatlı~|Çakmaklı~|Çamlık~|İncesu~
+20482	Başpınar Köyü, Yenicamii Mevkii	Aydın~|Becen Çıkmazı~|Duman~|Elmalı~|Göcen~|Hastane~|Hürriyet~|M.fevzi Çakmak~|Sağlık Ocağı~|Seyitgani~|Uçakçı~|Şahin~
+20483	Başpınar Köyü, Yeşildere Mevkii	Belediye~|Fatih~|Fidan~|Güdenler~|Karalar Çıkmazı~|M.fevzi Çakmak~|Parlar~|Say Hasan~|Çamlık~|Çelik~
+24763	Belkavak Köyü	 Köy$
+20462	Cumhuriyet Mah.	1.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|Ahmet Rasim~|Akşehir~|Atatürk@|Barbaros@|Barbaros~|Battal Gazi@|Beyşehir~|Cumhuriyet Çıkmazı~|Evliya Çelebi~|Göktürk~|Gültekin Gazi~|Hasan Paşa~|Hastane@|Karayolları@|Karayolları Çıkmazı 1.~|Karayolları Çıkmazı 2.~|Kazım Karabekir~|Köroğlu~|Lise Çıkmazı~|Lojmanlar~|Mehmet Şahin~|Melik Gazi~|Mevlana~|Namık Kemal@|Necdet Yaşar~|Sapanca~|Sümbül~|Sıtkı Solak~|Topalosman~|Ulubatlı Hasan~|Uygur~|Uzm. Çvş. Şehit Soner Özdemir@|Çorum@|Ömer Derindere%|Ömer Seyfettin~|İstanbul Yolu Çıkmazı~|Şair Kadriya~|Şeyh Şamil~|Şht.osman Eliağır~
+24770	Danişment Köyü	 Köy$
+24771	Deller Köyü	 Köy$
+24772	Doğan Köyü	 Köy$
+24773	Durucasu Köyü	 Köy$
+20465	Esentepe Mah.	1.ertuğrul Gazi~|101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|2.ertuğrul Gazi~|3.ertuğrul Gazi~|4.ertuğrul Gazi~|5.ertuğrul Gazi~|6.ertuğrul Gazi~|7.ertuğrul Gazi~|8.ertuğrul Gazi~|9.ertuğrul Gazi~|Baltacı Mehmet Paşa~|Danişment Gazi@|Deniz~|Derya~|Destan~|Duran Ceylan@|Efsane~|Esentepe=|Evliyalar~|Fatih@|Fetih~|Gökcebacı~|Gültepe~|Manas~|Menderes@|Nenehatun~|Sadri Turan@|Salihler~|Sengüller~|Ulus@|Ziya Gökalp@|Çiğdem~|Ömer Derindere%|Şirinevler~
+24774	Evlik Köyü	 Köy$
+20466	Eymir Mah.	1.@|2.@|3.@|4.@|5.@|6.@|Anka~|Ardıç~|Aşağı Eymür=|Bayrak@|Başak~|Burcu~|Burhan Uludağ@|Cuma~|Damla~|Demet~|Deva~|Elmas~|Evliya~|Fidan~|Gonca~|Gurur~|Göbeloğlu=|Karanfil@|Kırlangıç~|Mevsim~|İnal~
+24775	Fındıcak Köyü	 Köy$
+24778	Fındık Köyü, Alan Mevkii	 Köy$
+24777	Fındık Köyü, Ballıpınar Mevkii	 Köy$
+24779	Fındık Köyü, Kepçeli Mevkii	 Köy$
+24776	Fındık Köyü, Merkez Mevkii	 Köy$
+24744	Gecek Köyü, Ahıbaba Mevkii	 Köy$
+24743	Gecek Köyü, Ağızsuyu Mevkii	 Köy$|Gecek~
+20467	Gemici Mah.	1.nolu Mantık Dede~|1.tekeli~|2.nolu Mantık Dede~|2.tekeli~|Armağan~|Beyazıt@|Dede Korkut~|Demirci~|Derviş~|Dr.cihat Aytaç@|Dr.sadık Ahmet~|Ergenekon@|Genç~|Halaç Oğlu~|Hasan Tahsin~|Hastahane~|Irmak Çıkmazı~|Kazaklar~|Kıble~|Kırgız~|Kışla Çıkmazı~|Meriç~|Necip Fazıl~|Oğuz~|Sahil~|Sahil Yolu@|Sultan Hamit@|Süleyman Şah~|Tekel~|Tuğrul Bey~|Yılmaz~|İrem~|Şht.pol.bekir Bacak~
+24780	Girinoğlan Köyü	 Köy$
+24781	Gökdere Köyü, Kızılkaya Mevkii	 Köy$
+24784	Gökdere Köyü, Merkez Mevkii	 Köy$
+24782	Gökdere Köyü, Pamukoğlu Mevkii	 Köy$
+24783	Gökdere Köyü, İğdeyiçal Mevkii	 Köy$
+20468	Güney Mah.	1. Kanal~|1.nolu Okul~|2. Kanal~|2.nolu Okul~|Ada~|Akdeniz~|Akşemseddin@|Atatürk@|Barış~|Duygu~|Efe~|Ferhat~|Fırat~|Garaj İçi=|Kanıkızı~|Karadeniz~|Karasu~|Koca Mehmet Paşa~|Leyla~|Marmara~|Müstahsil~|Ozan~|Sebze Pazarı=|Stadyum~|Sönmez~|Turfan~|Turna~|Uludağ~|Vahdettin Okutan~|Yücek~|Çorum@|Ömer Derindere%|İmaret~|İpciler~|Şht.osman Eliağır@
+24785	Güneşören Köyü	 Köy$
+20469	Gürleyik Mah.	Abdi Oral~|Afşinbey~|Akasya~|Akbaş~|Av.özdemir Başaran~|Bayat~|Cemal Ertuğran~|Ceylan~|Cihan Hatun~|Defne~|Doğan~|Dr.cihat Aytaç@|Dr.dursun Uğan~|Dursun Otuzbir@|Döğer~|Elif~|Ergenekon@|Gülbaba~|Gülşen Hatun~|Güniz~|Gürleyik~|Gürleyik Çıkmazı~|Güzelyalı~|Harmancık~|Huzur~|Kafkas~|Kandiber~|Karaçaylar~|Kayacı~|Kemal Erdem~|Kibar~|Kirazlı~|Kumru~|Kurupınar Uzunkavak=|Kıbrıscık~|Kızılcık~|Mehmet Çetin~|Osman Baba~|Sahil Yolu@|Sarı Saltuk~|Sultan Hamit@|Sultan Hamit~|Sürmeli~|Talat Paşa~|Tascıbaba~|Umman~|Yakutlar~|Yemen~|Çataloğlu~|Çatlar~|Öğt.muharrem Meral~|İnegöl~|Şeyh Dede~
+24786	Güvercinlik Köyü	 Köy$
+24847	Hanefi Köyü, Gökçeli Mevkii	 Köy$
+24846	Hanefi Köyü, Merkez Mevkii	 Köy$
+20470	Hıdırlık Mah.	Gazi Cemal Erturan@|Hıdırlık~|Kuşdereci Dede~|Okul~|Org.ahmet Çörekci@|Sabuncu~|Yeşilçatma~|Zerat Zeytinli@|Çatma~|Şerbetcioğlu@
+140141	Kamil Köyü, Karapınar Mevkii	 Köy$
+24834	Kamil Köyü, Merkez Mevkii	 Köy$
+24833	Kamil Köyü, Çaylı Mevkii	 Köy$
+24790	Karaköy Köyü	 Köy$
+24850	Karalargüney Köyü, Ahatlı Mevkii	 Köy$
+24849	Karalargüney Köyü, Güney Mevkii	 Köy$
+24851	Karalargüney Köyü, Karacakaya 1 Yayla Evleri	 Köy$
+24848	Karalargüney Köyü, Karacakaya Mevkii	 Köy$
+20471	Karapınar Mah.	Anbar Çiftliği=|Karapınar=|Ören=
+24789	Karaçay Köyü	 Köy$
+24791	Kargı Köyü	 Köy$
+24852	Konaca Köyü, Kıyıköy Mevkii	 Köy$
+24854	Konaca Köyü, Merkez Mevkii	 Köy$
+24853	Konaca Köyü, Poydorlı Mevkii	 Köy$
+24856	Konaca Köyü, Savaştepe Mevkii	 Köy$
+24857	Konaca Köyü, Yer Alçağı Mevkii	 Köy$
+24855	Konaca Köyü, Yıldız Mevkii	 Köy$
+24858	Konaca Köyü, Çerçili Mevkii	 Köy$
+20473	Koyunbaba Mah.	Ahu~|Akcakoca~|Altın~|Arafat Çıkmazı~|Atmaca~|Aşık Ali Açık@|B.hayrettin Paşa@|Badem~|Bakır~|Baltacı Mehmet Paşa@|Burhan Uludağ@|Büğdüz~|Can~|Cem Sultan~|Cengiz Han~|Cihangir~|Davut Paşa~|Durhan Ceylan@|Emine Deresi=|Ender~|Fatih@|Hacı Ali~|Hoca Sadettin Efendi~|Horasan~|Hürrem Sultan~|Hüseyin Helva~|Kadızade Rumi~|Kaleli Hoca~|Kara Mustafa Paşa~|Karaağaç~|Karaca Paşa~|Kardeş~|Karkın~|Karluk~|Ketenciler~|Kijiler~|Kimek~|Konuralp~|Koyunbaba@|Kuman~|Köprülü Mehmet Paşa~|Kıpçak~|Kızık~|Kızıllar~|Melihşah~|Mihri Hatun~|Molla Gürani~|Narin~|Nazlı~|Nuh Yılmaz~|Ocak~|Oruç Reis~|Oğur~|Pertev Paşa~|Peçenek~|Pir Sultan Abdal@|Piri Reis~|Piyale Paşa~|Sabar~|Sadri Turan@|Saka~|Sakız Ağacı@|Sefa~|Sokullu Mehme Paşa@|Subaşı~|Sultan Murat~|Sıtkı Geylani~|Turgut Reis~|Türgiş~|Türkmenler~|Uysal~|Vatan@|Yangıncılar@|Yaparlı~|Yasemin~|Yazır~|Yunus Emre~|Yıldırım Beyazıt~|Yıldız~|Çamlık~|Çimen~|Ömer Derindere%|Üreğir~|İbrahim Paşa~|İskender Bey~|Şafak~|Şair Kadir~|Şair Sırrı Çağlar~|Şelale~|Şht.er Ahmet Balcı~|Şht.er Nihat Turfan~|Şht.er İsmail Demir~|Şht.er İsmail Çalışkaner~|Şht.hazım Çalışkan~|Şht.pol.mehmet Ünver~
+24793	Kumbaba Köyü	 Köy$
+24862	Kuz Köyü, Elmacık Mevkii	 Köy$
+24860	Kuz Köyü, Göcük Yaylası Yayla Evleri	 Köy$
+24861	Kuz Köyü, Göletcik Yaylası Yayla Evleri	 Köy$
+24859	Kuz Köyü, Merkez Mevkii	 Köy$
+24863	Kuzhayat Köyü	 Köy$
+24792	Kızıltepe Köyü	 Köy$
+20472	Kızılırmak Mah.	Abdulkadir Güney~|Adnan Menderes@|Bahçeler~|Gazi Cemal Ertuğran~|Hacı Hasan~|Kanal Çıkmazı~|Kızılırmak~|Mezbahane~|Sahil~|Sahil Yolu@|Sahil Çıkmazı 1.~|Sahil Çıkmazı 2.~|Sahil Çıkmazı 4.~|Sahil Çıkmazı 5.~|Sanat~|Tevfik Efendi Çıkmazı~|Şerbetcioğlu@
+24798	Ovacıksuyu Köyü, Eski Köy Mezrası	 Köy$
+24795	Ovacıksuyu Köyü, Kabala Mevkii	 Köy$
+24794	Ovacıksuyu Köyü, Merkez Mevkii	 Köy$
+24797	Ovacıksuyu Köyü, Sarıyar Mezrası	 Köy$
+24796	Ovacıksuyu Köyü, Yoldere Mevkii	 Köy$
+24864	Pelitçik Köyü	 Köy$
+24802	Sarpunkavak Köyü, Merkez Mevkii	 Köy$
+24801	Sarpunkavak Köyü, Sarpun Mevkii	 Köy$
+24868	Sarıalan Köyü, Aşağısaltuk Mevkii	 Köy$
+24866	Sarıalan Köyü, Merkez Mevkii	 Köy$
+24869	Sarıalan Köyü, Söğütlü Bahçe Mevkii	 Köy$
+24867	Sarıalan Köyü, Zeyneller Mevkii	 Köy$
+24865	Sarıalan Köyü, Çaldibi Mevkii	 Köy$
+24804	Seki Köyü, Elmalı Mevkii	 Köy$
+24803	Seki Köyü, Merkez Mevkii	 Köy$
+24805	Sekibağı Köyü	 Köy$
+24806	Sütlüce Köyü	 Köy$
+24808	Tekmen Köyü, Karataş Mevkii	 Köy$
+24810	Tekmen Köyü, Merkez Mevkii	 Köy$
+24809	Tekmen Köyü, Saltık Mevkii	 Köy$
+24807	Tekmen Köyü, Tekmen Bağları Mevkii	 Köy$
+20475	Temençe Mah.	Temence=|Ömer Derindere%
+24815	Tepeyolaltı Köyü, Batak Mevkii	 Köy$
+24812	Tepeyolaltı Köyü, Karşı Mevkii	 Köy$
+24813	Tepeyolaltı Köyü, Merkez Mevkii	 Köy$
+24811	Tepeyolaltı Köyü, Yayla Yayla Evleri	 Köy$
+24814	Tepeyolaltı Köyü, Yürük Mevkii	 Köy$
+20476	Ulucamii Mah.	Adnan Menderes@|Gazi Cemal Erturan~|Kepceli~|M.akif Ersoy@|Mutaflar~|Org.ahmet Çörekci@|Rahmi Efendi~|Sultan Beyazıt~|Ulucamii~|Yavuz Selim~|Yeşilçatma~|Şerbetcioğlu@|Şht.sebahattin Üremiş@
+24816	Umaç Köyü	 Köy$
+24829	Yaylabaşı Köyü	 Köy$
+20477	Yazı Mah.	Akşemsettin@|Akşemsettin~|Atatürk@|Gafiloğlu~|Halil Efendi~|Kunduz~|Lebedler~|M.akif Ersoy@|Nogaylar~|Org.a.çörekci@|Sadri Turan@|Yeni Çeşme~|Çerkezoğlu~|Şht.sebahattin Öremiş@
+24825	Yağsiyan Köyü, Ahatlı Mevkii	 Köy$
+24828	Yağsiyan Köyü, Ahırçayı Mevkii	 Köy$
+24818	Yağsiyan Köyü, Alacakışla Mevkii	 Köy$
+24827	Yağsiyan Köyü, Dilimhisar Mevkii	 Köy$
+24826	Yağsiyan Köyü, Haliller Mevkii	 Köy$
+24819	Yağsiyan Köyü, Hamitler Mevkii	 Köy$
+24822	Yağsiyan Köyü, Hasançavuşlar Mevkii	 Köy$
+24817	Yağsiyan Köyü, Havdan Mevkii	 Köy$
+24823	Yağsiyan Köyü, Kayalıdere Mevkii	 Köy$
+24820	Yağsiyan Köyü, Süleymandemir Mevkii	 Köy$
+24821	Yağsiyan Köyü, Yanankışla Mevkii	 Köy$
+24824	Yağsiyan Köyü, Yedioluk Mevkii	 Köy$
+20478	Yeni Mah.	Adliye~|Arafat~|Atatürk@|Hastane@|Karakalpaklar~|Namık Kemal@|Org.ahmet Çörekci@|Rüzgarlı~|Sadri Turan@|Tekke Çıkmazı~|Tekke Çıkmazı Sokak~|Ulu Mezarlık~|Yeni Cami~|Zerat Zeytinli@|Zonguldak~|Ömer Derindere%|Şehit Ahmet Balcı~
+24831	Yenidanişment Köyü, Kınalıtaş Mevkii	 Köy$
+24832	Yenidanişment Köyü, Merkez Mevkii	 Köy$
+24830	Yenidanişment Köyü, Soruk Mevkii	 Köy$
+20479	Yeşilçatma Mah.	2.kale Çıkmazı~|Adnan Menderes@|Arafat~|Aslı~|Berat~|Burhan Uludağ@|Bülbül~|Cemre~|Coşkun~|Demir~|Ekin~|Enes~|Garipler~|Gürsoylar~|Hacı Bektaşı Veli~|Harmanlar~|Hıdırlık~|Kader~|Kafkas~|Kaktüs~|Kale Çıkmazı 1.~|Kanarya~|Kayaaltı~|Kayı~|Kazanlar~|Manolya~|Mezbahane~|Tan~|Tekke~|Yağmur~|Yedi Kızlar=|Yeşilçatma~|Yunus~|Zerat Zeytinli@|Çeltikciler~|Ömer Derindere%|İkizler~|Şebetcioğlu@|Şehzade~
+24871	Yukarızeytin Köyü, Fındıklı Mevkii	 Köy$
+24870	Yukarızeytin Köyü, Merkez Mevkii	 Köy$
+24872	Yukarızeytin Köyü, Yanalak Mevkii	 Köy$
+24765	Çampınar Köyü, Eskiköy Mevkii	 Köy$
+24766	Çampınar Köyü, Merkez Mevkii	 Köy$
+24764	Çampınar Köyü, Pelitpınarı Mevkii	 Köy$
+24767	Çatak Köyü	 Köy$
+20463	Çay Mah.	Adatepe~|Armutcuk~|Asalet~|Azariler~|Başkırtlar~|Beyazıt@|Binatlı~|Bolluk~|Bozkurt~|Ceyhan~|Dilek~|Dodurga@|Elmalı~|Erciyes~|Erikli~|Eşrefoğlu~|Gagavuzlar~|Gurbet~|Gölyazı~|Gömeç~|Gülbahar~|Gümüş~|Güneş~|Ihlamur~|Kabalak Tepe=|Karacaoğlan~|Karahanlılar~|Karaman~|Kavaközü~|Metehan~|Mutlu~|Orhan Bey~|Orhan Ertekin~|Oğuzhan~|Sabır~|Selçuklu~|Seyhan~|Seyrani~|Tataroğlu~|Tekeli 3.~|Telengitler~|Tuna~|Yahya Kemal~|Yasemin~|Yeşilova~|Yonca~|Çınar~|Özbekler~|İlim~|İskilip@|Şahin~|Şht.pol.erol Keskin~
+24769	Çayır Köyü, Merkez Mevkii	 Köy$
+24768	Çayır Köyü, Yeşiltepe Mevkii	 Köy$
+20464	Çiftlikler Mah.	Aliağanın Tepe=|Belkavak=|Damatoğlu=|Gökbel Bağları=|Hamidin Kavak~|Hasandeği=|Küçük Sanayi Sitesi=|Toprak Sanayii=|Yücek~|Çarkıeteği=|Çengele-akyokuş=|Ömer Derindere%
+24800	Öbektaş Köyü, Germeç Mevkii	 Köy$
+24799	Öbektaş Köyü, Merkez Mevkii	 Köy$
+24787	İnal Köyü	 Köy$
+24788	İncesu Köyü	 Köy$
+20474	Şenyurt Mah.	10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|20.~|21.~|22.~|23.~|24.~|25.@|26.~|27.~|28.~|29.~|30.~|31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|40.~|41.~|42.~|43.~|9.@|Abdullah Derindere~|Abdullah Özçelik~|Ahmet Ulusoy~|Alayundlu~|Alkaevli~|Anıl~|Atlas~|Avar~|Ayvalı~|Aşıklar~|Beltirler~|Beydili~|Bilge Kaan@|Billur~|Bulut~|Cesur~|Danışment Gazi@|Dereboğazı=|Dolunay~|Faruk Güçlü~|Fevzi Çakmak~|Gelincik~|Gelişim@|Gül~|Hanımeli~|Hazar~|Hüseyin Arslan~|Ilgaz~|Kamil Kaplan~|Karagaslar~|Kardelen~|Katip Çelebi~|Kaçlar~|Kemeroğlu~|Kerem~|Kiraz~|Kopçalı Dere=|Koybalar~|Koza~|Kumandılar~|Kumuklar~|Kurtuluş~|Körosman Deresi=|Kınık~|Kırım~|Kısmet~|Lale~|M.asım Okutan~|Malazgirt@|Malkarlar~|Menekşe~|Meşale~|Nasrettin Hoca~|Nergis~|Okyanus@|Osman Gazi@|Osmanlı~|Papatya~|Petek~|Regaip~|Sagaylar~|Salur~|Sarmaşık~|Selin~|Susam~|Teleütler~|Tillim Çayı@|Tubalar~|Tuzla~|Uzlar~|Yeni Evler~|Yıva~|Zambak~|Zübeyde Hanım@|Çavuldur~|Çepni~|Ömer Derindere%|İpek~|İrtiş~|İğdir~|Şah Hüseyin@|Şht.bayram Kamsız~|Şht.er Fuat Düşünceli~|Şht.er Murat Alıcı~|Şht.er Yaşar Arslaner~|Şht.hasan Bahçevan~|Şht.hurşit Şeker~|Şht.kamil Tak~|Şht.mehmet Akdağ~|Şht.nuri Yıldız~|Şht.pol.ömer Aydın~|Şorlar~

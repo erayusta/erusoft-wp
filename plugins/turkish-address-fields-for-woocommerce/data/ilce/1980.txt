@@ -1,0 +1,27 @@
+80668	Atatürk Mah.	3 Nisan 1~|3 Nisan 11~|3 Nisan 2~|3 Nisan 3~|3 Nisan 4~|3 Nisan 5~|3 Nisan 6~|3 Nisan 7~|3 Nisan 8~|3 Nisan9~|3 Nısan@|Atatürk B1~|Aydınlar Mezarsı~|Bılınmeyen3~|Bılınmeyen4~|Bılınmeyen5~|Cemal Gürsel 3~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhurıyet_1~|Kazım Karabekir 1~|Kazım Karabekir 2~|Kazım Karabekir@|Okul~|Okul1~|Okul2~|Okul3~|Sırın Bılmez~|Van Saray Yolu 2~|Van Saray Yolu 3~|Van Saray Yolu 4~|Van Saray Yolu 5~|Van Saray Yolu@|Van Saray Yolu1~
+159625	Bakışık Mah.	1315.~|Asagı Küme Evler~|Aşağıtulgalı=|Bakışık Bilinmeyen15~|Bilinmeyen 5~|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen12~|Bilinmeyen13~|Bilinmeyen14~|Bilinmeyen16~|Bilinmeyen17~|Bilinmeyen2~|Bilinmeyen3~|Bilinmeyen4~|Bilinmeyen6~|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen9~|Güzeldere~|Güzeldere1~|Güzeldere11~|Güzeldere12~|Güzeldere2~|Güzeldere3~|Güzeldere4~|Güzeldere5~|Güzeldere8~|Güzeldere9~|Okul Bilinmeyen1~|Okul Bilinmeyen4~|Okul Yanı 10~|Okul Yanı 11~|Okul Yanı 4~|Okul Yanı 5~|Okul Yanı~|Okul Yanı2~|Okul Yanı3~|Okul Yanı7~|Okul Yanı8~|Okul Yanı9~
+159627	Baltepe Mah.	Baltepe=|Islamköy=
+159629	Beyarslan Mah.	Beyarslan 19~|Beyarslan 20~|Beyarslan 21~|Beyarslan 22~|Beyarslan 23~|Beyarslan~|Beyarslan Taslak 1~|Beyarslan Taslak 11~|Beyarslan Taslak 12~|Beyarslan Taslak 14~|Beyarslan Taslak 15~|Beyarslan Taslak 16~|Beyarslan Taslak 17~|Beyarslan Taslak 18~|Beyarslan Taslak 19~|Beyarslan Taslak 21~|Beyarslan Taslak 4~|Beyarslan Taslak 5~|Beyarslan Taslak 6~|Beyarslan Taslak 7~|Beyarslan Taslak 9~|Beyarslan Taslak Yol 21=|Mezarlık Alanı=|Van Saray Yolu@|Yamaç Altı~|Yenı Açılan Arsalar=|Yol 66~|Yol 67~|Yol Altı~|Yol Üstü (beyarslan)~|Yol Üstü~
+159637	Değirmigöl Mah.	Aşağı Mahalle=|Dolutaş Bilinmeyen 1~|Van Saray Yolu@|Yukarı Mahalle_1=
+159639	Dolutaş Mah.	Dolutas=|Dolutaş Bilinmeyen 1~
+80665	Feritmelen Mah.	3 Nısan@|Atatürk B1~|Cemal Gürsel 1~|Cemal Gürsel 2~|Cemal Gürsel 3~|Cemal Gürsel 4~|Cemal Gürsel=|Cumhurıyet@|Erdal Inönü=|Fevzı Çakmak=
+159641	Kapıköy Mah.	Bilinmeyen/1~|Kapıkoy Blnmynn2~|Kapıköy Blnmyn1~|Kapıköy=|Kapıköy Sınır Kapısı=|Van Saray Yolu@|Yamanyurt=
+159643	Karahisar Mah.	Karahisar Bilinmeyen1~|Karahisar Bilnmeyen 2~|Karahisar Yukarı Küme Evler1~|Karahisar2~|Karahısar Asagı Küme Evler~|Karahısar=|Karahısar Yukarı Küme Evler~
+159645	Kargalı Mah.	Asagı Mahalle=|Yukarı Mahalle=
+159647	Kazlıgöl Mah.	Kazlıgöl=|Kazlıgöl/1~|Kazlıgöl/2~|Kazlıgöl/3~|Kazlıgöl/4~|Kazlıgöl/5~|Van Saray Yolu@
+80666	Kazımpaşa Mah.	3 Nisan/1~|3 Nısan@|Halıl Çulhaoglu~|Hastahane 1~|Hastahane@|Milli Müdafa /1~|Milli Müdafa /2~|Milli Müdafa /3~|Milli Müdafa /4~|Milli Müdafa /5~|Milli Müdafa 2~|Milli Müdafa 5~|Milli Müdafa 6~|Mıllı Müdafa~|Okul /1~|Okul~|Sırın Bılmez~|Van Saray Yolu@|Çavus~|Çavuş 1~|Çavuş 2~|Çavuş 3~|Çavuş 4~|Çavuş 5~|Çavuş 6~|Çavuş 7~|Çavuş 9~|Şirin Bilmez /2~|Şirin Bilmez/1~
+159651	Kekikdüzü Mah.	Kekıkdüzü=
+159653	Kepir Mah.	Asagı Kepır=|Yukarı Kepır=
+159649	Keçikayası Mah.	Keçıkayası=|Van Saray Yolu@
+159655	Koçbaşı Mah.	Bilinmeyen/1~|Koçbası=
+159657	Kurucan Mah.	Kurucan=|Yenı Yol=
+80667	Mahmudiye Mah.	3 Nisan5~|Cumhuriyet1~|Cumhuriyet2~|Cumhurıyet@|Kazım Karabekir 3~|Kazım Karabekir@|Kazım Karabekir_1@|Kazımkarabekir 1~|Mehmetalan=|Van Saray Yolu 1~|Van Saray Yolu@|Van Saray Yolu2~|Çankaya=
+159661	Sırımlı Mah.	Dere (mezarlık Altı)~|Dere Mezarlık Altı 1~|Dere Mezarlık Altı 2~|Dere Mezarlık Altı 3~|Dere Mezarlık Altı 4~|Dere Mezarlık Altı 5~|Dere Mezarlık Altı 6~|Dere Mezarlık Altı 7~|Dere Mezarlık Altı 8~|Dere Mezarlık Altı 9~|Güzeldere11~|Güzeldere12~|Mezarlık Üstü 1~|Mezarlık Üstü 2~|Mezarlık Üstü 3~|Mezarlık Üstü 4~|Mezarlık Üstü~|Okul Yolu Altı 2~|Okul Yolu Altı 3~|Okul Yolu Altı 4~|Okul Yolu Altı 5~|Okul Yolu Altı~|Okul Yolu Üstü 10~|Okul Yolu Üstü 4~|Okul Yolu Üstü 5~|Okul Yolu Üstü 6~|Okul Yolu Üstü 7~|Okul Yolu Üstü 8~|Okul Yolu Üstü 9~|Okul Yolu Üstü~|Okul Yolu Üstü/1~|Okul Yolu Üstü/2~|Sırımlı/bilinmeyen 1~
+159663	Turanköy Mah.	Asagı=|Yukarı=
+159665	Yamanyurt Mah.	Van Saray Yolu@|Yamanyurt=|Yamanyurt1~
+159667	Yeşilağaç Mah.	Yesılagaç=|Yol Altı_1~
+159669	Zincirkıran Mah.	Yol Üstü_1~|Yolaltı~|Zincirkıran Bilinmeyen 1~|Zincirkıran Bilinmeyen 9~|Zıncırkıran=|Çartak=
+159631	Çakmakköy Mah.	Yukarı Mahalle=|Çakmakköy=
+159633	Çartak Mah.	Çartak=
+159635	Çaybağı Mah.	Asagı Çaybagı~|Bilinmeyen Caybağı~|Yolaltı 1~|Yolaltı 10~|Yolaltı 11~|Yolaltı 12~|Yolaltı 13~|Yolaltı 14~|Yolaltı 15~|Yolaltı 2~|Yolaltı 3~|Yolaltı 4~|Yolaltı 5~|Yolaltı 6~|Yolaltı 7~|Yolaltı 8~|Yolaltı 9~|Yolaltı~|Zincirkıran Bilinmeyen 9~|Çaybagı=|Çaybağı Bilinmeyen 12~
+159659	Örenburç Mah.	Keçıkayası=|Örenburç=

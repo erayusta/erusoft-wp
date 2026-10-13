@@ -1,0 +1,16 @@
+80903	Altındağ Mah.	Altındağ@|Altındağ/1~|Badem~|Camii~|Deniz~|Dere~|Gazi~|Kayapınar@|Kozaklı@|Kozaklı/1~|Kozaklı/2~|Kozaklı/3~|Kozaklı/4~|Muhtar~|Sırt~|Tepe~|Yağlı~|Çeşme~|Çınar~
+89448	Başpınar Köyü	 Köy$
+80907	Bektaşlı Köyü, Başağa Mevkii	Camii~|Mustafa Kemal~|Sıddık~
+80908	Bektaşlı Köyü, Camikebir Mevkii	Bina~|Cumhuriyet~|Dere~|Mustafa Kemal~|Sıddık~|Şose Altı~
+80909	Bektaşlı Köyü, Yenicamii Mevkii	1.~|2.~|Camii~|Kahya~|Sıddık~
+80910	Bektaşlı Köyü, Zafer Mevkii	1.nolu~|2.~|Sıddık~|Ulubatlı Hasan~|Zafer~|İğdecik~
+80904	Cankurtaran Mah.	Adem Karacabay@|Altındağ@|Altındağ/1~|Camii~|Ceylan~|Cihangir~|Cumhuriyet@|Fatih@|Garip~|Güvercin~|Kartal~|Katip~|Kazan~|Kaşaltı@|Kaşaltı/1~|Kaşaltı/2~|Kozaklı@|Kozaklı_1@|Lale~|Maraşal@|Mefkure~|Namık Kemal@|Nur~|Ruhi~|Sazak~|Sümbül~|Yakup Güler@|Yakup Güler/1~|Yavuz Selim@|Yavuz Selım/1~|Yıldız~|Öğretmen Cafer Arslan@|Öğretmen Cafer Arslan/1~|Öğretmen Cafer Arslan/2~|Şahin~|Şehit P.onb. Savaş Gümüş@|Şeyh Şamil-~|Şeyh Şamıl~
+89450	Eskiören Köyü	 Köy$
+89451	Fehimli Köyü	 Köy$
+100158	Mehmet Akif Ersoy Mah.	Arı~|Atı~|Avcı~|Avcı/1~|Barbaros@|Can~|Gökalp@|Horoz~|Horoz/1~|Kale~|Kayapınar@|Konutlar@|Konutlar/1~|Kozaklı_1@|Sanayi@|Tepe~|Uyar~|Çam~|Çıkmaz~|İlim~|Şehit J.onb. Mevlüt Gökdemir@|Şehit J.onb.mevlüt Gökdemir/3~|Şehit P.çvş. Alper Koca@|Şehıt P. Çvş. Alper Koca/1~|Şehıt P. Çvş. Alper Koca/2~
+80905	Yazlak Mah.	Abara~|Araba/1~|Beyazgül~|Han~|Hanım~|Hanım/1~|Hastane@|Hastane/1~|Karanfil~|Kazım Karabekir@|Kaşaltı@|Kaşaltı/1~|Kozaklı_1@|Mustafa Kemal@|Sümbül_1~|Turgut Özal%|Yamaçlı@|Yamaçlı/1~|Yamaçlı/2~|Yamaçlı_1~|Yazlak/1~|Çay@|Çiğdem~|Şehit J.kd.üçvş. Halim Bulut@|Şehit P.onb. Savaş Gümüş@|Şehit P.çvş. Alper Koca@
+80906	Yeni Mah.	Adem Karacabay@|Ata~|Bahar~|Bal~|Bankalar@|Barbaros@|Belediye Dükkanları~|Camii~|Can~|Dönence~|Fen~|Gökalp@|Kadı~|Kozaklı_1@|Lise@|Lojman~|Muhsin Yazıcıoğlu@|Nur~|Oyun~|Taş~|Uzay~|Yakup Güler@|Yalçın~|Yazar~|Yağmur~|Yelken~|Çalışkan~|Çarşı@|Ümit~|İlim~|İmam~|İnci-~|İncı~|Şehit J.onb. Mevlüt Gökdemir@|Şehit Uzm.çvş.cuma Karadavut~
+89454	Yiğitler Köyü	 Köy$
+89449	Çöplüçiftliği Köyü	 Köy$
+89452	Üçobalar Köyü	 Köy$
+89453	Üçobalar Köyü, Ekizce Mezrası	

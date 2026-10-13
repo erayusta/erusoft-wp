@@ -1,0 +1,16 @@
+140352	Abdullah Efendi Mah.	Ada@|Bağlar~|Dr. Mehmet Murat%|Kışla@|Ortayol~|Toki Evleri=|Çayır@
+80755	Atatürk Mah.	Atatürk@|Beyce@|Depo@|Erdoğan~|Eren@|Fevzi Çakmak@|Hal@|Kuyucak@|Lıse@|Uğurr~|Vatan@|Yeni/1~|Çankaya@|Özsu~|İğdelı Yoluu=|Şehıt Yıldırım Yılmaz@|Şht. Halım Altay@
+80756	Bahçelievler Mah.	Değırmen~|Değırmenbaşı@|Dr. Mehmet Murat%|Elmalı~|Esmer~|Gül@|Harman@|Kanal@|Mera@|Sarıoğlu~|Sepetçi~|Tekevler~
+80757	Barboros Mah.	Akpınar@|Atatürk@|Bozkurt@|Dr. Mehmet Murat%|Döner~|Erdem~|Kanal.@|Kışla@|Pınar~|Yakut~|Yavuz~|Öztürk~|Şehıt Yıldırım Yılmaz@
+80763	Büyükkışla Köyü, Karşıyaka Mevkii	Bahar~|Karaşıh Yolu~|Koçlar~|Lale~|Mezarlık~|Pınar~|Sakin~|İlkokul~|İpek~|Şht. Ramis Şahin~|Şht.bnbş.mahmut Şahin~
+80764	Büyükkışla Köyü, Tandoğan Mevkii	Bağyolu~|Bozkurt~|Dar~|Kozan Yolu~|Köroğlu~|Reyhan~|Şafak~|Şht.nevzat Demircan~
+80765	Büyükkışla Köyü, Zafer Mevkii	Ahmet Yesevi~|Cumhuriyet~|Girne~|Karaca~|Yörükler~|Şahin~|Şht. Nevzat Demircan~
+80758	Cumhuriyet Mah.	Atatürk@|Dr. Mehmet Murat%|Ersan~|Etı@|Gümüş~|Hal@|Kuyucak@|Okul~|Pazar~|Sağlık@|Çekırdek~|Şehıt Yıldırım Yılmaz@|Şht. Halım Altay@
+80762	Eşrefpaşa Mah.	Açelya~|Beyce@|Bulut~|Dr. Mehmet Murat%|Esim@|Fatih@|Fevzi Çakmak@|Kadife~|Kazım Karabekir@|Kuyucak@|Menekşe~|Oğuz~|Ulus-@|Zafer@|Çiğdem~|İstiklal@
+89166	Gülpınar Köyü	 Köy$
+89168	Kozan Köyü	 Köy$
+80759	Kılıçlar Mah.	Akçalı@|Atatürk@|Depo@|Gevencık@|Güvercın@|Hasan Tahsın@|Lojman~|Lıse@|Meydan~|Okul/1@|Çadırkent=|Ötüken~|Şehıt Yıldırım Yılmaz@
+80760	Nabioğlu Mah.	Akpınar@|Bal Pınar@|Başerler~|Biçer~|Cengız Topel@|Dar~|Dr. Mehmet Murat%|Eroğlu@|Esen@|Gül@|Güven@|Kanal@|Karaoğlan@|Yeni~|Yurt@|Yığıtler@|Şehıt Yıldırım Yılmaz@
+80761	Yenimeydan Mah.	Bayırlı~|Bozkurt@|Camı~|Dr. Mehmet Murat%|Duruçay~|Karalık@|Köprülü~|Kışla@|Mete~|Selçuk~|Seymen@|Çorak~
+89167	İğdeli Köyü	 Köy$
+140354	Şah Sultan Mah.	Alıbey@|Bent@|Dr. Mehmet Murat%|Kümbet~|Kışla@|Seymen@|Uslu~|Çadırkent-=|Şahın~

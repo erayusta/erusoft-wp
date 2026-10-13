@@ -1,0 +1,39 @@
+93195	Akkuyu Köyü	Akkuyu=
+93196	Alişeyhli Köyü	Alişeyhli=
+93197	Ambardere Köyü	Ambardere=
+93198	Ayvatlı Köyü	Ayvatlı=
+93194	Ağaylı Köyü	Ağaylı=
+90426	Cumhuriyet Mah.	11.~|12.~|13.~|14.~|14/1~|14/1.~|14/2~|14/3~|Bilinmeyen159~|Bilinmeyen40~|Bilinmeyen41~|Bilinmeyen42~|Bilinmeyen59~|Bilinmeyen64~|Bilinmeyen74~|Bilinmeyen79~|Bilinmeyen80~|Güneş Evler/1~|Güneşler~|Köprübaşı/3~|Köprübaşı/4~|Mustafa Kemal@|Mustafa Kemal/1~|Mustafa Kemal/2~|Mustafa Kemal/3~|Mustafa Kemal/4~|Sadettin Saran@|Sadettin Saran/1~|Sadettin Saran/2~|Sürüllah Lisan@|Tarım~|Tarım/1~
+93201	Danacı Köyü	- Köy$|Danacı=
+93202	Deredüzü Köyü	Deredüzü=
+93203	Esenpınar Köyü	Esenpınar=
+93204	Faraşlı Köyü	Faraşlı=
+90431	Güzelyurt Köyü, Fatih Mevkii	Cumhuriyet~|Cumhuriyet/5~|Cumhuriyet/9~|Gül~|Mustafa Kemal~|Namık Kemal~|Papatya~|Yayla~
+90432	Güzelyurt Köyü, Kurtuluş Mevkii	Cumhuriyet~|Cumhuriyet/28~|Güney~|Menderes~|Çağla~
+90433	Güzelyurt Köyü, Mevlana Mevkii	Cumhuriyet~|Cumhuriyet/28~|Cumhuriyet/63~|Esen Nur~|Menderes~|Menekşe~
+90434	Güzelyurt Köyü, Yunus Emre Mevkii	Cumhuriyet~|Fevzi Çakmak~|Karanfil~|Karanfil/8~|Kazım Karabekir~|Lale~|Mustafa Kemal~|Namık Kemal~
+90435	Hamzalı Köyü, Barış Mevkii	13~|14~|15.~|Atatürk~|Atatürk/4~|Başak-~|Başak/1~|Bilinmeyen/2~|Cem~|Cem/1~|Cumhuriyet~|Gazi~|Gençlik~|Geçit~|Hacı Bektaş~|Hacı Bektaş/1~|Hünkar~|Irmak~|Karanfil~|Kardelen~|Kızılırmak~|Menekşe~|Veziroğlu~|Çağdaş~|Çukurova~|Çukurova/1~|İnönü~|İnönü/1~
+90436	Hamzalı Köyü, Cumhuriyet Mevkii	1.~|10.-~|11.~|12.-~|2.~|3.~|4.~|5.-~|6.-~|7.~|8.-~|9.~|Altınok~|Bahriye Üçok~|Bilinmeyen1~|Bilinmeyen18~|Bilinmeyen3~|Bilinmeyen4~|Bilinmeyen5~|Bilinmeyen6~|Erenler~|Gazi~|Gelinçik~|Hacı Bektaş~|Harman~|Karanfil~|Karanfil/1~|Kızılırmak~|Menekşe~|Sulakyurt~|Uğur Mumcu~|Uğur Mumcu/1~|Yusuf Ağa~|Çağdaş~|Çukurova~|Çınar~|Çınar/1~|İnönü~|İstiklal~|Şehitler~
+90437	Hamzalı Köyü, Hürriyet Mevkii	Atatürk~|Aşık Veysel~|Başak~|Başak/1~|Gençlik-~|Geçit~|Hasanbaba~|Irmak~|Kardelen~|Kundura~|Kızılırmak~|Lale~|Lale Çıkmazı~|Pınar~|Veziroğlu~|Yunus Emre~|İnönü~
+93206	Kalekışla Köyü	Kalekışla=
+93209	Koruköy Köyü	Koruköy=
+93207	Kıyıhalilinceli Köyü	Kıyıhalilinceli=
+93208	Kıyıkavurgalı Köyü	Kıyıkavurgalı=
+93210	Ortaköy Köyü	Ortaköy=
+93211	Sarıkızlı Köyü	Sarıkızlı=
+93212	Sarımbey Köyü	Sarımbey=
+93214	Sofularçiftliği Köyü	Sofularçiftliği=
+93213	Sofularçiftliği Köyü, Körkuyu Mezrası	Körkuyu=
+90424	Yayla Mah.	Arılığın~|Bilinmeyen38~|Bilinmeyen39~|Bilinmeyen63~|Bilinmeyen65~|Bilinmeyen67~|Göçmen Evler~|Göçmen Evler/1~|Göçmen Evler/2~|Göçmen Evler/3~|Kozalak~|Kozalak/1~|Kozalak/2~|Kozalak/3~|Mustafa Kemal@|Su Deposu=|Yunus Emre 1~|Yunus Emre 2.~|Yunus Emre 3.~|Yunus Emre 4.~|Yunus Emre 5.~|Yunus Emre@|Şehit Çağdaş Tamkoç@
+93215	Yağbasan Köyü	Yağbasan=
+90425	Yeni Mah.	Arılığın~|Arılığın/1~|Berket~|Berket/1~|Berket/2~|Berket/3~|Bilinmeyen40~|Bilinmeyen42~|Bilinmeyen50~|Bilinmeyen68~|Bilinmeyen74~|Bilinmeyen76~|Bilinmeyen77~|Güneş Evler~|Konak~|Konak/1~|Konak/2~|Koru@|Koru/1~|Koru/2~|Koru/3~|Koru/4~|Koru/5~|Mustafa Kemal@|Mustafa Kemal/5~|Mustafa Kemal/6~|Mustafa Kemal/7~|Okul~|Orta~|Orta/1~|Sağlık~|Sağlık/1~|Sağlık/2~|Sağlık/3~|Sağlık/4~|Tepe 1~|Tepe~|Tepe/2~|Şehit Çağdaş Tamkoç@|Şehit Çağdaş Tamkoç/2~|Şehit Çağdaş Tamkoç/3~|Şehit Çağdaş Tamkoç/4~
+93216	Yeniceli Köyü	Yeniceli=
+90430	Yenihayat Mah.	5,~|5/1~|5/2~|5/3~|Ardiye~|Camii@|Fatih@|Çeşme~
+93217	Yeşilli Köyü	Yeşilli=
+93218	Yeşilyazı Köyü	Yeşilyazı=
+90427	Yeşilyurt Mah.	Bilinmeyen41~|Bilinmeyen79~|Bilinmeyen82~|Cami/1~|Cami/2~|Camii@|Değirmen~|Değirmen/1~|Değirmen/2~|Değirmen/3~|Fatih@|Fatih/1~|Fatih/2~|Fatih/3~|Fatih/4~|Köprü Başı=|Köprübaşı/1~|Köprübaşı/2~|Lisan~|Medrese~|Menderes/4~|Meryem Kadın~|Mustafa Kemal@|Sanayii=|Şirin~
+90429	Yükselen Mah.	10~|4,~|4/1.~|4/2.~|4/3.~|4/4.~|9.~|Bilinmeyen111~|Bilinmeyen112~|Bilinmeyen113~|Bilinmeyen39~|Bilinmeyen45~|Bilinmeyen86~|Bilinmeyen87~|Bilinmeyen88~|Bilinmeyen89~|Bilinmeyen90~|Fatih 1.~|Fatih@|Konur@|Menderes@|Menderes/1~|Menderes/2~|Mustafa Kemal@|Seki Harman~|Seki Harman/1~|Seki Harman/2~|Seki Harman/3~|Yunus Emre@|Yunus Emre/1~|Yunus Emre/2~|Yunus Emre/3~
+90428	Yıldız Mah.	1,~|1/1~|1/2~|2,~|3,~|3/1.~|3/2~|Azerbaycan Hoca Ali@|Camii@|Fatih@|Konur@|Mustafa Kemal@|Çeşme~
+93199	Çayoba Köyü	Çayoba=
+93200	Çevrimli Köyü	Çevrimli=
+93205	İmamoğluçeşmesi Köyü	İmamoğluçeşmesi=

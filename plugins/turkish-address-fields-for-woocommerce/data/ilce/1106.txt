@@ -1,0 +1,52 @@
+17112	Akyazı Köyü	Akyazı Köy Yolu=
+17111	Akçıra Köyü, Gölbaşı Mevkii	Gölbaşı M. Yolu=|Gölbaşı M. Yolu/1=
+17110	Akçıra Köyü, Mevkii	Aaa~|Köyiçi Yolu=|Zincirlitaş-~
+10767	Alacaatlı Mah.	520~|6=|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|617~|618~|619~|619/1~|619/2~|620~|621~|622~|623~|624~|625~|626~|627~|627/1~|627/2~|627/3~|627/4~|628~|629~|630~|631~|632~|633~|634~|634/1~|634/2~|634/3~|635~|636~|637~|638~|639~|640~|641~|641/1~|642~|643~|644~|644/1~|644/2~|645~|646~|647~|647/1~|648~|649~|650~|650/1~|651~|651/1~|652~|652/1~|652/2~|653~|654~|655~|655/1~|656~|657~|658~|659~|659/1~|660~|661~|662~|663~|701~|Abdurrahman Dede@|Adil Cevaz Ahlat%|Adilcevaz Ahlat 1@|Adilcevaz Ahlat 2~|Baraj@|Cumhuriyet 2~|Cumhuriyet@|Malazgirt@|Pir Garyip 3~|Pir Gayip Baba@|Sanayi@|Sapantaşı@|Seltaşı@|Toki@|Üniversite@|Şıhvank Baba@
+10768	Atatürk Mah.	7=|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|715~|716~|717~|718~|719~|720~|720/1~|721~|722~|723~|724~|725~|726~|727~|728~|729~|730~|731~|732~|733~|734~|735~|736~|737~|738~|739~|740~|741~|742~|743~|744~|745~|746~|747~|748~|749~|749.1~|750~|751~|752~|753~|754~|755~|756~|757~|758~|801~|802~|860~|861~|Abdurrahman Dede@|Abdurrahman Dede.1~|Adil Cevaz Ahlat%|Adilcevaz Ahlat 1@|Cumhuriyet@|Hastane@|Hastane.5~|Hastane/4~|Karaveli@|Malazgirt@|Sapantaşı@
+10775	Aydınlar Beldesi, Atatürk Mah.	102 No.lu=|Gazi@|Gül~|Güllüce~|Tunus@|Tunus2~|Tunus3~|Turgut Özal@|Turgut Özal1~|Turgut Özal2~|Turgut Özal3~|Turgut Özal4~|Zafer~
+10776	Aydınlar Beldesi, Budaklı Mah.	201 No.lu=|2022 No.lu=|Bilinmeyen1=|Pınar 2 Nolu Küme=|Pınar 3 Nolu Küme=|Pınar 4 Nolu Küme Evler=|Pınar 5 Nolu Küme Evler=|Pınar 6 Nolu Küme Evler=|Pınar 6 Nolu Küme Evler/1=|Pınar@|Pınar_1=
+10777	Aydınlar Beldesi, Esentepe Mah.	301 No.lu=|302 No.lu=|Papatya@|Papatya3~|Radar@|Radar_1=
+10778	Aydınlar Beldesi, Gültepe Mah.	401 No.lu=|402 No.lu=|Bilinmeyen/2~|Bilinmeyen/3~|Kömürlü@|Kömürlü_1=
+10780	Aydınlar Beldesi, Kışkılı Mah.	601 No.lu=|602 No.lu=|603 1nolu Küme Evler=|Kızdağı@
+10781	Aydınlar Beldesi, Menderes Mah.	701 No.lu=|703 1 Nolu Küme=|Gazi@|Gazi_1=|Göçmenler@|Papatya@|Papatya2~|Sarı Su@|Sarı Su/1~|Turgut Özal@|Turgut Özal_1=
+10779	Aydınlar Beldesi, İsmet Paşa Mah.	501 No.lu~|502 No.lu~|503 1nolu Küme Evler~|Lale@|Lale1~|Lale_1=|Radar@|Tunus@|Turgut Özal@
+17088	Aygırgölü Köyü	Aygırgölü Köyü Yolu=
+17087	Aşağısüphan Köyü	Asvalt Üstü Yolu=|Aşağısüphan Köy Yolu=|Değirmen Mevkisi Yolu=|Köy Çıvarı Yolu=
+17089	Bahçedere Köyü	Bahçedere Köy Yolu 2=|Bahçedere Köyü Yolu=|Düz Yolu=|Gedik Ve Mezarlık Arkası Yolu=|Göl Kenarı Yolu=|Hamurkesin Yolu=|Kara Kum~|Kargaçay=|Köyiçi=|Samiğkar Düzü=|Samukar Düzü=|Tümeler=
+10769	Cevizli Mah.	744~|744/1~|745~|756~|8=|801~|802~|803~|804~|805~|806~|807~|808~|809~|810~|811~|812~|813~|814~|815~|815/1~|815/2~|816~|817~|818~|819~|820~|821~|822~|823~|824~|825~|825/1~|825/2~|825/3~|826~|826/1~|826/10~|826/2~|826/3~|826/4~|826/5~|826/6~|826/7~|826/8~|826/9~|827~|828~|829~|830~|831~|831/1~|831/2~|831/3~|832~|833~|834~|835~|836~|837~|838~|839~|840~|840/1~|841~|841/1~|842~|843~|844~|845~|846~|847~|848~|848/1~|849~|850~|851~|852~|853~|854~|855~|856~|856/1~|856/16~|856/2~|856/3~|856/4~|856/5~|856/6~|856/7~|856/8~|856/9~|857~|858~|859~|859/15~|860~|861~|862~|863~|864~|864/1~|865~|866~|Adil Cevaz Ahlat%|Adilcevaz Ahlat 201~|Adilcevaz Ahlat 202~|Cevizkent@|Hastane@|Hastane.1~|Hastane.2~|Hastane/1~|Hastane/2~|Hastane/3~|Karaveli@|Karaveli1~|Poreklik Yolu=|Sapantaşı@|Seltaşı@|Seltaşı.1~|Sınır Deresi Yolu=
+17090	Cihangir Köyü	Cihangir Köyü Yolu=
+17094	Dizdar Köyü	Dizdar Köyü Yolu=
+17095	Erikbağı Köyü	Erciş Yolu=|Erikbağı Köyü Yolu=
+17097	Erikbağı Köyü, Asvalt Üstü Mevkii	Küme Evler Yolu=
+17096	Erikbağı Köyü, Kuzel Mezrası	Kuzel M. Yolu=
+17113	Esenkıyı Köyü	Esenkıyı Köyü Yolu=|Horans Yolu=|Kıra Yolu=
+17109	Göldüzü Köyü	Adrom Yolu=|Akçıra Yolu=|Arın Gölü Yolu=|Erciş Yolu Batısı=|Göldüzü Köyü Yolu=|Horans A Giden Yol=|Hornassınırı Yolu=|Kayabaşı Yolu=|Köy Arkası Yolu=|Turgut Özal1~
+17098	Gölüstü Köyü	Gölüstü Köyü Yolu=
+17114	Gümüşdüven Köyü	Gümüşdöven Köyü Yolu=|Köy Cıvarı Yolu=|Marnik Sınırı Yolu=|Peşnekömür=
+17099	Harmantepe Köyü	Harmantepe Köyü Yolu=|Köy Cıvarı=|Yeşiltepe Mezrası Yolu=
+17115	Heybeli Köyü	Bakımevi Livint Yolu=|Heybeli Köyü Yolu=
+10772	Hıdırşah Mah.	5=|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|514/1~|515~|516~|516/1~|517~|518~|519~|520~|521~|521/1~|521/2~|522~|523~|524~|525~|525/1~|526~|527~|528~|601~|Baraj@|Eginler@|Eginler1~|Harmantepe=|Malazgirt@|Malazgirt1=|Seydi Baba@|Üniversite@|Şıhvank Baba@
+10773	Kaleboynu Mah.	2=|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|220/1~|220/2~|220/3~|221~|222~|223~|224~|225~|226~|301~|401~|Adil Cevaz Ahlat%|Baraj@|Eginler@|Gül Çiçek@|Gül Çiçek1~|Gül Çiçek3~|Kale@|Kaleboynu Bilinmeyen~
+17102	Karakol Köyü, Mevkii	Karakol Köyü Yolu=
+17103	Karakol Köyü, Sarıçay Mevkii	Sarıçay M. Yolu=
+17116	Karaşeyh Köyü, Mevkii	Kaaraşeyh Köyü Yolu=
+17117	Karaşeyh Köyü, Yazlık Mevkii	Yazlık M.yolu=
+17118	Karşıyaka Köyü	Emir Kirasi Yolu=|Felek Uçtu Yolu=|Karşıyaka Köyü Yolu=|Üçtepeler Yolu=
+17119	Kavuştuk Köyü	Kavuştuk Köyü Yolu=
+17120	Kömürlü Köyü	Kömürlü Köyü Yolu=
+17121	Mollafadıl Köyü	Mollafadıl Köyü Yolu=
+10774	Orta Mah.	3=|301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|401~|Baraj@|Cumhuriyet@|Kale@|Lise@|Meydan.~|Seydi Baba@
+17092	Sefasahil Köyü, Köyün Kendisi Mevkii	Koşbulak Yolu=|Samkar Yolu=|Sefasahil Köyü Yolu=|Sefasahil Yolu=
+10771	Selçuklu Mah.	1=|101~|101/1~|101/2~|102~|103~|104~|105~|106~|107~|108~|109~|110~|110/1~|Adil Cevaz Ahlat%|Adil Cevaz Ahlat1~|Hüseyin Baba/1~|Hüseyin.baba@
+17123	Yarımada Köyü, Aşağı Mevkii	Aşağı Yarımada Yolu=|Veçik Mevki Yolu=
+17124	Yarımada Köyü, Yukarı Mevkii	Yuakarı Yarımada Yolu=
+17105	Yolçatı Köyü	Kazyuvaları Yolu=|Kilise Yolu=|Kör Bulak Yolu=|Poreklik Yolu=|Sınır Deresi Yolu=|Yolçatı Köyü Yolu=
+17107	Yukarısüphan Köyü, Ayvacık Mevkii	Ayvacık Mezrası Yolu=
+17108	Yukarısüphan Köyü, Işıklar Mevkii	Işıklar Mezrası Yolu=
+17106	Yukarısüphan Köyü, Mevkii	Kilisecıvarı Yolu=|Köyaltı=|Yukarısüphan Köyü Yolu=
+17104	Yıldızköy Köyü	Yıldız Köyü Yolu=
+17091	Çanakyayla Köyü	Çanakyayla Köyü Yolu=
+10770	Çayır Mah.	4=|401~|402~|403~|404~|405~|405/1~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|418~|419~|420~|Adil Cevaz Ahlat%|Cumhuriyet@|Pir Gayip Baba@|Recep Tayyip Erdoğan%|Sanayi@|Sağlık@|Seydi Baba1~|Çengel Baba@
+17122	Örentaş Köyü	Köyünüstü Panidağ Yolu=|Örentaş Köyü Yolu=
+17100	İpekçayır Köyü, Aşağı Mevkii	Aşağı İpekçayır Köyü=
+17101	İpekçayır Köyü, Yukarı Mevkii	Yukarı İpekçayır Köyü Yolu=

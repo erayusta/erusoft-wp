@@ -1,0 +1,162 @@
+1418	Alpaslan Köyü, Doğanşah Mevkii	Akı=|Bayraktar-~|Bağlar Mevkii-~|Doğanşah=|Hacı Hüseyin-~|Muttalip Öztürk-~|Okul-~|Çınar-~|Örnek=|Ş.p.uzm.onb.şaban Gencel-~
+1419	Alpaslan Köyü, Fevzioğlu Mevkii	Bayraktar-~|Gönderler Mevkii-~|Muttalip Öztürk-~|Okul-~|Yusuf Keskin-~|Örnek=|Ş.p.uzb.onb.şaban Gencel-~
+1420	Alpaslan Köyü, Nurettin Bey Mevkii	Akı=|Cengiz Topel=|Cengiz Topel-~|Hacı Hüseyin-~|Hamam-~|Karsavul=|Karsavul Yolu Mevkii-~|Muttalip Öztürk-~|Nazmi Sancı -~|Zihni Özdemir-~|Ş.p.uzm.onb.şaban Gencel-~
+1421	Alpaslan Köyü, Tacettin Bey Mevkii	Akı-~|Cengiz Topel=|Dere-~|Hamam-~|Muttalip Öztürk-~|Nazmi Sancı-~|Osmanyeri Mevkii-~|Zihni Özdemir-~|Çarşamba-~|Örnek=|Ş.p.uzm.onb.şaban Gencel-~
+6874	Altınlı Köyü	Altınlı=
+6823	Alçakbel Köyü	Alçakbel=
+6816	Alçakbel Köyü, Beyalan Mezrası	Beyalan=
+6814	Alçakbel Köyü, Döllük Mezrası	Döllük=
+6818	Alçakbel Köyü, Erbeğendi Mezrası	Erbeğendi=
+6813	Alçakbel Köyü, Karaağaç Mezrası	Karaağaç_1=
+6819	Alçakbel Köyü, Karaçukur Mezrası	Karaçukur=
+6820	Alçakbel Köyü, Kozalan Mezrası	Kozalan=
+6821	Alçakbel Köyü, Köseli Mezrası	Köseli=
+6817	Alçakbel Köyü, Kırdağın Mezrası	Kırdağın=
+6815	Alçakbel Köyü, Terzili Mezrası	Terzili=
+6822	Alçakbel Köyü, Yatak Mezrası	Yatak=
+6804	Andıran Köyü	Andıran=
+6863	Ardıçönü Köyü	Ardıçönü=
+6864	Ardıçönü Köyü, Fadara Mezrası	Fadara=
+6865	Ardıçönü Köyü, Gelemiç Mezrası	Gelemiç=
+6762	Arpaderesi Köyü	Arpaderesi=
+1441	Ballıca Köyü, Ballıca Mevkii	Ballıca=|Belediye-~|Beşikkaya-~|Birlik-~|Darma-~|Dereli=|Esentepe-~|Güllü-~|Menekşe-~|Nergiz-~|Sümbül-~|Uluyol-~|Yeni Yol-~|Çermik Yolu-~|İstiklal-~
+1437	Belevi Köyü, Kemalpaşa Mevkii	Alimeler-~|Bayır-~|Beyanlar-~|Erbaa-~|Kemalpaşa=|Kenanlı-~|Mıktargil-~|Okullar-~|Rüzgarlı-~|Sakarya-~|Taşova-~|Uluyol-~|Yazı-~|Yenişehir-~
+1436	Belevi Köyü, İsmet Paşa Mevkii	Akpınar-~|Cumhuriyet=|Halıcılar-~|Harmankaşı-~|Hatipler-~|Karaoğlan-~|Kayalık-~|Ocak-~|Selağazı-~|Taşova-~|Türkoğlu-~
+1429	Boraboy Köyü, Bahçelievler Mevkii	Cumhuriyet-~|Eriklik-~|Göl=|Gültepe-~|Hürriyet-~|Karacalar-~|Mehmet Bey-~|Yayla Çimen-~
+1430	Boraboy Köyü, Yakakent Mevkii	Belediye-~|Cumhuriyet-~|Derebağ-~|Fetipaşa=|Göl-~|Hasanpaşa-~|Küçük Cami-~|Menekşe-~|Muhtar Ali-~|Sokak-~|Tepecik-~|Çağlayan-~
+1411	Cumhuriyet Mah.	Atatürk%|Encümen@|Hürriyet@|Kolcu Adem~|Korkmaz@|Kıble@|Mustafa Bey@|Sakarya_1@|Vali Lekesiz@|Yeniyol@|Yeşilırmak@|İdris Torun@
+6765	Dereköy Köyü	Dereköy=
+1442	Dereli Köyü, Dereli Mevkii	Ballıca Yolu-~|Belevi Yolu-~|Birleşim-~|Cami-~|Cevizli-~|Cumhuriyet-~|Dereli=|Gümüş-~|Huzur-~|Lale-~|Mercan-~|Okul-~|Papatya-~|Taşova-~|Yayla-~
+1427	Destek Köyü, Merkez Mevkii	Bahçelievler-~|Bağlar-~|Belediye=|Beyazıt-~|Ceylan-~|Ecevit-~|Esenler-~|Fatih-~|Gazi-~|Hacılar-~|Kasımlar-~|Kuştepe-~|Okul-~|Orman Dairesi-~|Sarıkayalar-~|Sağlık -~|Tersayağı-~|Topçular-~|Uzunlar-~|Yenievler-~|Çiftlik-~|Çiğdem-~|Çıkmaz-~|Özler-~|Ünlü-~|Şeyhler-~
+6876	Devre Köyü	Devre=
+1412	Doğu Mah.	Akasya-@|Akdeniz@|Ata~|Bahar@|Başak-~|Bilim~|Bolluk~|Cemre~|Dereboyu@|Emel-oktay Türkoğlu~|Esen@|Hilal@|Kalkanlı@|Karanfil@|Kısa-~|Mezarlık@|Milli Egemenlik@|Mustafa Kemal@|Nasip-@|Pazarcılar@|Spor~|Susam~|Tekstil~|Zübeydehanım~|İzci~|Şehit Assubay İbrahim Torun~|Şehit Polis Halis Şimşek~
+6878	Durucasu Köyü	Amasya Erzıncan Yolu@|Durucasu=
+6766	Dutluk Köyü	Amasya Erzıncan Yolu@|Dutluk=|Taşova Ladık Yolu@|Yeşılırmak 2. Köprüsü@
+6877	Dörtyol Köyü	Amasya Erzıncan Yolu@|Dörtyol=
+6879	Elmakırı Köyü	Elmakırı=|Yaylasaray=
+1431	Esençay Köyü, Aydınlar Mevkii	Akyüz Çıkmazı 2-~|Ali Ulaş-~|Atatürk-~|Aydınlar=|Cumhuriyet-~|Gürsel-~|Kayalar-~|Kayalık Çıkmazı-~|Kesimler Çıkmazı-~|Konyalar-~|Mehmetçik-~|Uğur Mumcu-~|Yazıcılar-~|Şehit Er Kerim Gündüz-~
+1433	Esençay Köyü, Turan Güneş Mevkii	Akbaş=|Atatürk-~|Aydınlar=|Cumhuriyet-~|Dar-~|Gürsel-~|Kadıoğlu-~|Kaplan-~|Milli Egemenlik-~|İnönü-~|Şehit Er İbrahim Uluçay-~
+1432	Esençay Köyü, Çağlayan Mevkii	Akbaş=|Atatürk=|Aydınlar=|Başoğlu Çıkmazı-~|Cumhuriyet-~|Taşkın-~|Çeltek-~|Çerçir-~|Çıkmaz Sokak-~|Çıkmaz-~|Ünal-~|İncirli-~|İsmail Küçükdemir-~|Şehit Jan Uzm Çvş Tanju Çolak Cad-~
+6767	Gemibükü Köyü	Dereköy=|Gemibükü=
+6880	Geydoğan Köyü	Geydoğan=
+6770	Gökpınar Köyü	Gökpınar=
+6769	Gökpınar Köyü, Aşağı Gökdere Mezrası	Aşağı Gökdere=
+6768	Gökpınar Köyü, Eskiorusu Mezrası	Gökpınar Aşağı Gökdere=
+6771	Güngörmüş Köyü	Güngörmüş=
+6772	Gürsu Köyü	Gürsu=
+6773	Güvendik Köyü	Amasya Erzıncan Yolu@|Güvendık=|Kızgüldüren=|Yeşılırmak 3. Köprüsü@
+6774	Hacıbeyköyü Köyü	Hacıbeyköyü=
+6867	Hüsnüoğlu Köyü	Hüsnüoğlu=
+6868	Hüsnüoğlu Köyü, Dazlı Mezrası	Dazlı=
+6869	Hüsnüoğlu Köyü, Dönertaş Mezrası	Dönertaş=
+6881	Ilıca Köyü	Amasya Erzıncan Yolu@|Ilıca=|Yerkozlu=
+196871	Ilıpınar Köyü	Ilıpınar=
+6882	Karabük Köyü	Amasya Erzıncan Yolu@|Ilıca=|Karabük=
+181732	Karamuk Köyü	Karamuk=|Pekşenler-~|Seyhanlar-~|Çınarlar-~
+6786	Karlık Köyü	Karlık=
+6775	Karlık Köyü, Akkişiler Mezrası	Akkişiler=
+6776	Karlık Köyü, Babageriş Mezrası	
+6778	Karlık Köyü, Doğan Çukuru Mezrası	Doğan Çukuru=
+6779	Karlık Köyü, Geriş Mezrası	Geriş=
+6781	Karlık Köyü, Hacı İmam Dere Mezrası	
+6782	Karlık Köyü, Karlık Dere Mezrası	Karlık Dere=
+6785	Karlık Köyü, Kuzkışla Mezrası	Kuzkışla=
+6783	Karlık Köyü, Kırık Çukuru Mezrası	Kırık Çukuru=
+6784	Karlık Köyü, Kızılcı Alan Mezrası	Kızılcı Alan=
+6780	Karlık Köyü, Taştepe Mezrası	Taştepe=
+6777	Karlık Köyü, Çiftlik Mezrası	Çiftlik=
+6792	Karsavul Köyü	Karsavul=
+6793	Karsavul Köyü, Akpınar Mezrası	Akpınar=
+6789	Karsavul Köyü, Nizamlar Mezrası	Nizamlar~
+6790	Karsavul Köyü, Sıtma Pınarı Mezrası	Sıtma Pınarı=
+6791	Karsavul Köyü, Zana Mezrası	Zana=
+6787	Karsavul Köyü, Çelikdere Mezrası	
+6788	Karsavul Köyü, İkipöğre Mezrası	Kızılcı Alan=|İkipöhre~
+6839	Kavaloluğu Köyü	Kavaloluğu=
+6824	Kavaloluğu Köyü, Akçanın Dere Mezrası	Akçanın Dere=
+6825	Kavaloluğu Köyü, Alan Mezrası	Alan=
+6826	Kavaloluğu Köyü, Bakırpınar Mezrası	Bakırpınar9=
+6827	Kavaloluğu Köyü, Barcın Mezrası	Barcın=
+6841	Kavaloluğu Köyü, Doğa Yeri Yayla Evleri	Doğa Yeri=
+6831	Kavaloluğu Köyü, Ebece Mezrası	Ebeci=
+6840	Kavaloluğu Köyü, Hacıgeriş Mezrası	Belediye=|Hacı Geriş=
+6835	Kavaloluğu Köyü, Kadılar Mezrası	Kadılar=
+6834	Kavaloluğu Köyü, Meymaşlar Mezrası	Meymaslar=
+6832	Kavaloluğu Köyü, Oruçgazi Mezrası	Oruçgazi=
+6836	Kavaloluğu Köyü, Sakarat Mezrası	Sakaratlar=
+6837	Kavaloluğu Köyü, Serçeler Mezrası	Serçeler=
+6838	Kavaloluğu Köyü, Topalın Fırın Mezrası	Topalın Fırın=
+6830	Kavaloluğu Köyü, Tuzlalı Geriş Mezrası	Tuzlalı Gerış=
+6829	Kavaloluğu Köyü, Çerkezler Mezrası	Çerkezler=
+6828	Kavaloluğu Köyü, Çıngılık Mezrası	Çıngılık=
+6833	Kavaloluğu Köyü, İkisamanlık Mezrası	İki Samanlık=
+6843	Korubaşı Köyü	Korubaşı=
+6845	Korubaşı Köyü, Haydarağa Mezrası	Haydarağa=
+6846	Korubaşı Köyü, Karamuk Mezrası	Karamuk1=
+6844	Korubaşı Köyü, Katıralan Mezrası	Katıralan=
+6847	Korubaşı Köyü, Kocalan Mezrası	Kocaalan=
+196867	Kozluca Köyü	Kozluca=
+6871	Kumluca Köyü	Kumluca=
+6842	Kırkharman Köyü	Kırkharman=|Mercimekköy=
+6794	Kızgüldüren Köyü	Kızgüldüren=
+6796	Mercimekköy Köyü	Mercimekköy=
+6795	Mercimekköy Köyü, Kızılağaç Mezrası	Kızılağaç=
+6797	Mülkbükü Köyü	Andıran=|Mülbükü=
+1413	Sanayii Mah.	Akasya~|Ali Atasoy@|Atatürk%|Bamya~|Beyazıt~|Buse@|Bülbül-~|Cemiyet~|Derinyol~|Eğitim@|Fevzi Önal@|H.bekir Yüksel@|Hastane@|Irmak~|Kanuni@|Karayolu@|Karayolu1@|Kardelen-~|Kayakurt@|Konut-~|Mehtap~|Mustafa Kemal@|Nacieren@|Niyazi Bey@|Reform~|Sanayii@|Sefa@|Çakmak-@|Özdemirler@|Şifa~|Şimşek@
+6799	Sepetli Köyü, Aşağı Mevkii	Aşağı=|Sakızlık=
+6802	Sepetli Köyü, Dere Mevkii	Dere=|Sakızlık=
+6800	Sepetli Köyü, Sakızlık Arsası Mevkii	Aşağı=|Sakızlık=|Çorak=
+6801	Sepetli Köyü, Tepe Mevkii	Tepeköy=
+6798	Sepetli Köyü, Çorak Mevkii	Aşağı=|Çorak=
+71745	Sofualan Köyü, Alan Mevkii	Alan=
+71743	Sofualan Köyü, Aşağı Gökdere Mevkii	Aşağı Gökdere=
+71747	Sofualan Köyü, Elmalık Mevkii	Elmalık=
+71748	Sofualan Köyü, Merkez Mevkii	Sofualan=
+71746	Sofualan Köyü, Yağbasan Mevkii	Yağbasan=
+71744	Sofualan Köyü, Yukarı Gökdere Mevkii	Yukarı Gökdere=
+6883	Tatlıpınar Köyü	Tatlıpınar=
+1434	Tekke Köyü, Tekke Mevkii	Bağlar-~|Buğday-~|Cumhuriyet-~|Elmalı-~|Filiz-~|Gelincik-~|Gonca-~|Göller-~|Kanarya-~|Karanfil-~|Kumluk-~|Köprübaşı-~|Lale-~|Menekşe-~|Necip Pehlivan-~|Seyyidi Vakkas-~|Sümbül-~|Tekke=|Tepebaşı-~|Uluyol-~|Yayla-~|Yazılar-~|Çimenli-~|Çiğdem-~|Ümmühanyeri-~|Şehit Yılmaz Celep-~|Şelale-~
+6873	Tekpınar Köyü	Tekpınar=
+1414	Tepe Mah.	Aliefendioğlu@|Ara~|Barış@|Cevizli-~|Dere~|Dereboyu@|Derman-~|Dumlupınar@|Fatih@|Fırıncılar~|Gazi~|Gündüz~|Kandil~|Kehribar@|Koza~|Lale@|Leylak~|Mehmet Akif~|Meslek-~|Mevlana@|Niyet~|Ozan~|Petek~|Poyraz@|Pınar~|Sancak@|Sağlık-~|Sedirli~|Sönmez-~|Ulus@|Yamaç~|Yavuzselim@|Yıldız@|Zafer~|Çiğdem~|Şahinkaya~|Şehit Polis Ali Öztürk@
+6803	Türkmendamı Köyü	Türkmendamı=
+1424	Uluköy Köyü, Cumhuriyet Mevkii	Adnan Menderes-~|Alpaslan-~|Değirmendere-~|Fevzi Paşa-~|Meşrutiyet-~|Okullar-~|Osman Gazi=|Taşova Yolu-~|Yavuz Sultan Selim-~|Yunus Emre-~|Çavdarlık Kırı-~
+1425	Uluköy Köyü, Ergüneş Mevkii	Akasya-~|Açık-~|Cengiz Topel-~|Ergubaş Baba-~|Ergüneş=|Hamam-~|Kavşak-~|Kurşunlu-~|Mehmet Akif-~|Yeşil-~|Şeyh Şamil-~
+1426	Uluköy Köyü, Sinan Paşa Mevkii	Atatürk-~|Belediye-~|Cengiz Topel-~|Değirmendere-~|Ergüneş=|Fatih-~|Fevzi Paşa-~|Hürriyet-~|Okullar-~|Osman Gazi=|Poyraz-~|Sayarlar-~|Yavuz Sultan Selım=
+196865	Yayladibi Köyü	Yayladibi=
+6884	Yaylasaray Köyü	Elmakırı=|Yaylasaray=
+1416	Yemişen Mah.	Alınteri-@|Atatürk%|Atilla-@|Bağlar Başı-@|Belediye@|Beşir Hoca@|Canik~|Cengiz Topel@|Eraslan-@|Eray-@|Gümüş-@|Hükümet@|Kasım Hoca@|Kayalar@|Mehmet Ali Hafız@|Menekşe-@|Okullar@|Osman Gazi-@|Plevne@|İncirli@
+1415	Yeni Mah.	Ada~|Adalet@|Alpaslan@|Amasya@|Anadolu@|Arif Meşhur@|Arı~|Atatürk%|Battal Gazi-~|Bayır~|Bağcılar@|Bursalı@|Damla~|Demokrasi@|Diyar-~|Doğa~|Efe~|Emek~|Eser~|Evliya-~|Eğitim-~|Ferhat@|Fikir~|Fırat~|Gül~|H.nihat Yıldırım@|Hitit~|Hürriyet@|Hızırpaşa~|Kanarya~|Kartal~|Kumru@|Kurtuluş@|Köprübaşı-=|Kültür-~|Lalezar@|Meclis~|Mehmetçik~|Mehter@|Mektep~|Mimar Sinan~|Papatya~|Park-~|Sakarya~|Sıla-~|Ulubatlı~|Yokuş~|Çamlık-~|Öğretmen@|İnönü@|İpek~|İstiklal@
+6885	Yenidere Köyü	Yenidere=
+1435	Yerkozlu Köyü, Yerkozlu Mevkii	Ada-~|Aydın-~|Balıkgölü-~|Bayır-~|Camii-~|Cevizli-~|Funda-~|Gül-~|Gümüş-~|Hasanbaba=|Mercan-~|Nergiz-~|Nevroz-~|Papatya-~|Stad-~|Taşova-~|Yeşilli-~|Zerdali-~|Çorakönü-~|Özükara-~|İstiklal-~
+6805	Yeşiltepe Köyü, Aydınyeri Mezrası	Aydınyeri=
+6809	Yeşiltepe Köyü, Bahçecik Mezrası	Bahçeçik=
+6810	Yeşiltepe Köyü, Eskiköy Mezrası	Eskiköy=
+6807	Yeşiltepe Köyü, Karadüz Mezrası	Aktas Yaylası=|Karadüz=
+6811	Yeşiltepe Köyü, Leğenkaya Mezrası	Leğenkaya=
+6806	Yeşiltepe Köyü, Ulupara Mezrası	Ulupara=
+6808	Yeşiltepe Köyü, Çöküyanı Mezrası	Leğenkaya=|Çöküyanı=
+6862	Yeşilyurt Köyü	Yeşilyurt=
+1417	Yeşilırmak Mah.	Akdeniz@|Atatürk%|Aytaç@|Bahar@|Bağdat@|Bekirpaşa@|Bereket~|Bilge~|Cami~|Cumhuriyet@|Dönence~|Emektar@|Gazi Osman Paşa@|Hasan Aykan@|Hükümet@|Kadir Torun@|Kısmet@|Ladin-@|Milli Egemenlik@|Mustafa Kemal@|Park Çıkmazı~|Pazarcılar@|Saray~|Sağlık-~|Tekstil~|Zübeydehanım~|Çağpar@
+6812	Yolaçan Köyü	Yolacan=
+181172	Yukarıbaraklı Köyü	Bağlarüstü Sokak=|Eğitmen Hasan Öker Sokak- Köy$|Eğitmen Hasan Öker-~|Gazi Halil Asar Sokak- Köy$|Gazi Tokatlı Abdullah Sokak- Köy$|Gazi Ömer Öz Sokak- Köy$|Hilal Sokak- Köy$|Huzur Sokak- Köy$|Kırkharman Sokak- Köy$|Yıldız Sokak- Köy$|Çatma Mezrası- Köy$|Üzümlü Sokak- Köy$|İncirli Sokak- Köy$|Şehit Özcan Özen Sokak- Köy$|Şeyh Şamil Sokak- Köy$
+6866	Çakırsu Köyü	Çakırsu=
+6763	Çalkaya Köyü	Çalkaya=
+6875	Çambükü Köyü	Amasya Erzıncan Yolu@|Yeşılırmak Köprüsü@|Çambükü=
+139848	Çaydibi Köyü	Amasya-~|Değirmenönü-~|Esentepe-~|Gazi Osman Paşa-~|Kayaş-~|Kızılay-~|Lütfi Aras-~|Malazgirt-~|Meriç-~|Meşhur-~|Süleymaniye-~|Taşova-~|Tiryakiler-~|Yeşilırmak-~|Çaydibi=|Çimen-~|Çıkmaz-~|Örnek-~|Şenay-~
+6764	Çılkıdır Köyü	Çılkıdır=
+1438	Özbaraklı Köyü, Cumhuriyet Mevkii	Ediyeri Mezrası- Köy$|Harman Sokak=|Musa Sekizi Mezrası- Köy$|Şehit Özcan Özen-~
+1439	Özbaraklı Köyü, Osmanlı Mevkii	
+1440	Özbaraklı Köyü, Selçuklu Mevkii	Bağlarbaşı Sokak- Köy$|Cami Sokak- Köy$|Cevizli Sokak- Köy$|Eğtmen Ş.cengiz Sokak- Köy$|Filiz Sokak- Köy$|Gazi Nuh Akay Sokak- Köy$|Gonca Sokak- Köy$|Selçuklu=|Yenidere=|Ülküm Sokak- Köy$|Şehit Özcan Özen Sokak- Köy$
+6872	Şahinler Köyü	Hacıbeyköyü=|Şahinler=
+6849	Şeyhli Köyü	Merkez=
+6850	Şeyhli Köyü, Fındıcak Mezrası	Fındıcak=
+6856	Şeyhli Köyü, Gücükgeriş Mezrası	Küçükgeriş=
+6851	Şeyhli Köyü, Güvencealan Mezrası	Güvencealan=|Kocaalan=
+6853	Şeyhli Köyü, Hasanağa Deresi Mezrası	
+6855	Şeyhli Köyü, Kuz Mezrası	Kuz=|Merkez=
+6860	Şeyhli Köyü, Kınık Mezrası	
+6859	Şeyhli Köyü, Meşeli Mezrası	Meşeli=
+6857	Şeyhli Köyü, Yalamageriş Mezrası	Çermik=
+6852	Şeyhli Köyü, Çakılcık Mezrası	Çakılcık=
+6854	Şeyhli Köyü, Çermik Mezrası	Korubaşı=|Çermik=
+6858	Şeyhli Köyü, İbaklar Mezrası	

@@ -1,0 +1,180 @@
+80398	Abdalağa Mah.	1201~|1202~|1203~|1204~|Abdalağa 1~|Abdalağa 10~|Abdalağa 11~|Abdalağa 12~|Abdalağa 13~|Abdalağa 14~|Abdalağa 15~|Abdalağa 18~|Abdalağa 19~|Abdalağa 2~|Abdalağa 20~|Abdalağa 21~|Abdalağa 22~|Abdalağa 23~|Abdalağa 26~|Abdalağa 27~|Abdalağa 28~|Abdalağa 29~|Abdalağa 3~|Abdalağa 30~|Abdalağa 31~|Abdalağa 32~|Abdalağa 33~|Abdalağa 4~|Abdalağa 5~|Abdalağa 6~|Abdalağa 7~|Abdalağa 8~|Abdalağa 9~|Abdalağa@|Adnan Menderes@|Bediüzzaman Saidi Nursi%|Eski Urfa@|Mevlana Celaleddini Rumi%|Uçar@
+174899	Alagün Mah.	Alagün=
+174993	Alanyurt Mah.	Alanyurt=
+174723	Altaylı Mah.	Alancık=|Altaylı=|Bereket=|Kazgül=|Çatak=
+174945	Altınahır Mah.	Akyazı=|Altınahır=|Kazançlı=|Türkmen=|Çelemli=
+174901	Altınlı Mah.	Altınlı=|Konutçu=|Yenice=
+174903	Altınpınar Mah.	Altınpınar=|Oymur=|Söyledik=|Yenihamur=|Çomaklı=
+174947	Anacak Mah.	Anacak=|Güzek=|Yığınot=
+175019	Armağanlı Mah.	Armağanlı=
+175013	Atmaca Mah.	Atmaca=|Karakütük=
+174841	Avurtepe Mah.	Atlıca=|Avurtepe=|Boztepe=|Kıran=|Otlu=|Sungur=|Yeniköy1=
+174909	Ayrancı Mah.	Ayrancı=|Aşağı İnişli=|Yukarı İnişli=|Çukuryanı=
+80399	Ayvanat Mah.	1001~|1002~|1003~|Ayvanat 1~|Ayvanat 10~|Ayvanat 100~|Ayvanat 102=|Ayvanat 103~|Ayvanat 104~|Ayvanat 107~|Ayvanat 11~|Ayvanat 112~|Ayvanat 115~|Ayvanat 12~|Ayvanat 12.1~|Ayvanat 120~|Ayvanat 120-~|Ayvanat 13~|Ayvanat 13/1~|Ayvanat 14~|Ayvanat 148~|Ayvanat 15~|Ayvanat 16~|Ayvanat 161~|Ayvanat 162~|Ayvanat 162/1~|Ayvanat 163~|Ayvanat 163/1~|Ayvanat 163/2~|Ayvanat 163/3~|Ayvanat 168~|Ayvanat 17~|Ayvanat 18~|Ayvanat 189~|Ayvanat 19~|Ayvanat 192-~|Ayvanat 193-~|Ayvanat 195~|Ayvanat 2~|Ayvanat 2.1~|Ayvanat 20~|Ayvanat 21~|Ayvanat 22~|Ayvanat 23~|Ayvanat 24~|Ayvanat 25~|Ayvanat 26~|Ayvanat 272=|Ayvanat 28~|Ayvanat 29~|Ayvanat 3~|Ayvanat 30~|Ayvanat 31~|Ayvanat 32-~|Ayvanat 33~|Ayvanat 34~|Ayvanat 35~|Ayvanat 36~|Ayvanat 37~|Ayvanat 38~|Ayvanat 39~|Ayvanat 4~|Ayvanat 4.küme Evler=|Ayvanat 40~|Ayvanat 40/1~|Ayvanat 41~|Ayvanat 42~|Ayvanat 43~|Ayvanat 44~|Ayvanat 46~|Ayvanat 47~|Ayvanat 48~|Ayvanat 49~|Ayvanat 5~|Ayvanat 50~|Ayvanat 51~|Ayvanat 52~|Ayvanat 53~|Ayvanat 53/1~|Ayvanat 53/2~|Ayvanat 53/3~|Ayvanat 54~|Ayvanat 55~|Ayvanat 56~|Ayvanat 56/3~|Ayvanat 57~|Ayvanat 58~|Ayvanat 59~|Ayvanat 59/1~|Ayvanat 6~|Ayvanat 60~|Ayvanat 61~|Ayvanat 66~|Ayvanat 66/1~|Ayvanat 68~|Ayvanat 69~|Ayvanat 7~|Ayvanat 72~|Ayvanat 74~|Ayvanat 75~|Ayvanat 76~|Ayvanat 77~|Ayvanat 78~|Ayvanat 8~|Ayvanat 8/1~|Ayvanat 8/2~|Ayvanat 8/3~|Ayvanat 80~|Ayvanat 86~|Ayvanat 88~|Ayvanat 89~|Ayvanat 9~|Ayvanat 90~|Ayvanat 91~|Ayvanat 96~|Ayvanat 97~|Ayvanat 98~|Ayvanat 99~|Ayvanat Kümeevleri=|Ayvanat-=|Ayvanat1/2~|Ayvanat11~|Ayvanat11/2~|Ayvanat11/3~|Ayvanat11/4~|Ayvanat11/5~|Ayvanat11/6~|Ayvant 163~|Ayvant 163/1~|Bediüzzaman Saidi Nursi%|Göksügüzel=|Hastahane 1~|Hastahane 1/1~|Hastahane 1/2~|Hastahane 1/3~|Oto Galericiler A-=|Oto Galericiler B-=|Oto Galericiler C~|Sanayi 1~|Sanayi 10~|Sanayi 2~|Sanayi 3~|Sanayi 4~|Sanayi 5~|Sanayi 6~|Sanayi 7~|Sanayi 8~|Sanayi 9~|Selahaddin İ Eyyubi%|Yunus Emre@|Şehmus Aydın1~|Şeyhmus Aydın@|Şirinkuyu 41.~
+174791	Azıklı Mah.	Akyaka=|Azıklı=|Erdek=
+174905	Aşağıalınca Mah.	Aşağıalınca=|Karafirik=|Yukarıalınca=|Zümrütlü=|İğdecik=
+174839	Aşağıkarabahçe Mah.	Aşağıkarabahçe=
+174907	Aşağıkaracaören Mah.	Aslantepe=|Aşağıkaracaören=|Kandil=|Yeşiltepe=
+174789	Aşağıyalankoz Mah.	Aşağıyalankoz=|Kavşakdere=|Çamurlu=|Şeftali=
+174725	Aşlıca Mah.	1 Nolu~|10 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|9 Nolu~|Akarlı=|Ağılcık=|Aşlıca=|Hatundere=|Kümetaş=|Yüksek Okul@|Çiftlik=
+174999	Bahçe Mah.	Bahçe=|Sundurlu=|Örüklü=
+80401	Bahçelievler Mah.	1101~|Bahçelievler 1~|Bahçelievler 10~|Bahçelievler 11~|Bahçelievler 12~|Bahçelievler 13~|Bahçelievler 14~|Bahçelievler 15~|Bahçelievler 16~|Bahçelievler 17~|Bahçelievler 18~|Bahçelievler 19.1~|Bahçelievler 2~|Bahçelievler 20~|Bahçelievler 21-~|Bahçelievler 22~|Bahçelievler 23~|Bahçelievler 24~|Bahçelievler 25~|Bahçelievler 26~|Bahçelievler 27~|Bahçelievler 28~|Bahçelievler 29~|Bahçelievler 3~|Bahçelievler 30~|Bahçelievler 31~|Bahçelievler 32~|Bahçelievler 33~|Bahçelievler 34~|Bahçelievler 35~|Bahçelievler 36~|Bahçelievler 37~|Bahçelievler 38~|Bahçelievler 39~|Bahçelievler 4~|Bahçelievler 40~|Bahçelievler 41~|Bahçelievler 42~|Bahçelievler 43~|Bahçelievler 44~|Bahçelievler 45~|Bahçelievler 46~|Bahçelievler 47~|Bahçelievler 5~|Bahçelievler 51~|Bahçelievler 58~|Bahçelievler 6~|Bahçelievler 8~|Bahçelievler 80~|Bahçelievler 81~|Bahçelievler 82~|Bahçelievler 9~|Bahçelievler=|Bediüzzaman Saidi Nursi%|Bekir Sami Karahanlı%|Hanifi Balaban@|Mithat Kandemir%|Mustafa Remzi Bucak%
+174781	Baki Mah.	Baki=
+174949	Bakmaç Mah.	Bakmaç=|Ekelge=|Kalfalar=|Yenişli=
+174911	Bakırca Mah.	Altınlı=|Bakırca=|Dikbıyık=
+174995	Bardakçı Mah.	Bardakçı=
+174951	Batı Mah.	Batı=|Saraçlar=|Çiftçiler=
+174817	Bayırözü Mah.	Bayırözü=
+174751	Bağcı Mah.	Bağcı=|Gürbüz=
+80400	Bağlar Mah.	1401~|Bağlar 1~|Bağlar 10~|Bağlar 11~|Bağlar 12~|Bağlar 13~|Bağlar 14~|Bağlar 15~|Bağlar 16~|Bağlar 17~|Bağlar 18~|Bağlar 19~|Bağlar 2~|Bağlar 20~|Bağlar 21~|Bağlar 22~|Bağlar 23~|Bağlar 24~|Bağlar 25~|Bağlar 26~|Bağlar 27~|Bağlar 28~|Bağlar 29~|Bağlar 3~|Bağlar 30~|Bağlar 31~|Bağlar 32~|Bağlar 33~|Bağlar 34~|Bağlar 35~|Bağlar 36~|Bağlar 37~|Bağlar 38~|Bağlar 39~|Bağlar 4.~|Bağlar 40~|Bağlar 42~|Bağlar 43~|Bağlar 44~|Bağlar 45~|Bağlar 48~|Bağlar 5~|Bağlar 53~|Bağlar 53-~|Bağlar 57~|Bağlar 7~|Bağlar 7.1~|Bağlar 70=|Bağlar 71=|Bağlar 8~|Bağlar 9~|Bağlar~|Hamidiye 14~|Mevlana Celaleddini Rumi%|Prof.dr.a.kadir Karahan@|Top Yolu@
+174913	Başbük Mah.	Akçabağ=|Aralık=|Başbük=|Başbük5=|Belveren=|Dörtparmak=|Güzeltepe=|Şeyhcafer=
+174755	Başdeğirmen Mah.	Başdeğirmen=|Yüksek Okul@
+174811	Benek Mah.	Benek=
+197783	Beyali Mah.	Beyali=|Koşar-=|Yıldızlar=
+174785	Beybaba Mah.	Beybaba=
+174757	Beydeş Mah.	Beydeş=|Beydeş Yalankoz=|Cuma Kalesi=|Sarıbalta=
+174793	Beyçeri Mah.	Alaca=|Arpaç=|Bekirağa=|Beyçeri=|Bükeç=|Sadettin=
+174977	Bozkuyu Mah.	Bozkuyu=
+174987	Bozlak Mah.	Bozlak=
+174843	Böğürtlen Mah.	Böğürtlen=
+174819	Bürüncek Mah.	Bürüncek=|Dölek=|Kalkankaya=
+174759	Büyükgöl Mah.	Büyükgöl=
+174953	Büyükkazanlı Mah.	Aşağı Menzilcik=|Büyükkazanlı=|Tatik=|Uzunca=|Yukarı Menzilcik=
+174795	Büyükoba Mah.	Büyükoba=|Büyükoba Söğütlü=|Çiftlik2=
+174821	Büyüktepe Mah.	Büyüktepe=|Büyüktepe Uzunpınar=|Güldoruğu=|Küçüktepe=|Ortaköy=|Söğütlü=|Tepecik=|Yukarıbeş Yamaç=
+174823	Büyükyakıtlı Mah.	Büyükyakıtlı=|Küçükyakıtlı=
+80402	Camikebir Mah.	15 Temmuz Demokrasi@|Abdülkadir Odabaşı@|Adnan Menderes@|Atatürk%|Camikebir 1~|Camikebir 10~|Camikebir 11~|Camikebir 12~|Camikebir 13~|Camikebir 14~|Camikebir 15~|Camikebir 16~|Camikebir 17~|Camikebir 18~|Camikebir 19~|Camikebir 2~|Camikebir 20~|Camikebir 21~|Camikebir 22~|Camikebir 23~|Camikebir 24~|Camikebir 25~|Camikebir 26~|Camikebir 27~|Camikebir 28~|Camikebir 29~|Camikebir 3~|Camikebir 30~|Camikebir 31~|Camikebir 32~|Camikebir 33~|Camikebir 34~|Camikebir 35~|Camikebir 36~|Camikebir 37~|Camikebir 38~|Camikebir 39~|Camikebir 4~|Camikebir 40~|Camikebir 41~|Camikebir 42~|Camikebir 5~|Camikebir 6~|Camikebir 7~|Camikebir 8~|Camikebir 9~|Camikebir/~|Cudi Paşa@|Dr.fuat Kılıç@|Hürriyet@|Prof.dr.nedim Çobanoğlu@|Sevil Figen Erol@|Tahsin Kaplan@
+174915	Canpolat Mah.	Aliyunus=|Canpolat=|Emek=|Kurçay=|Çakır=|Çolaklı=
+174845	Cinhisar Mah.	Bahçecik=|Cinhisar=|Damlapınar=|Ericek=|Geyikli=|Özdemir=
+174991	Damlıca Mah.	Damlıca=
+198199	Dardağan Mah.	Dağdağan=
+174729	Darıcalı Mah.	Darıcalı=|Kadıoğlu=|Söküm=
+174815	Dağbaşı Mah.	Alacık=|Bulanık=|Dağbaşı B.m=|Eski Han=|Halefli=|Karataş=|Katır Kuyu=|Keçi Kuyu=|Koçyiğit=|Yeni Köy/1=|Yukarı Karahan=
+174959	Deliktaş Mah.	Deliktaş=
+80403	Dicle Mah.	1401~|Bavuş@|Dicle 1.~|Dicle 10.~|Dicle 11.~|Dicle 110~|Dicle 111~|Dicle 112~|Dicle 113~|Dicle 12.~|Dicle 13.~|Dicle 13.1~|Dicle 14.~|Dicle 15.~|Dicle 16.~|Dicle 17.~|Dicle 17.1~|Dicle 17.2~|Dicle 17.3~|Dicle 17.4~|Dicle 18.~|Dicle 19.~|Dicle 19.1~|Dicle 2.~|Dicle 2.küme Evler=|Dicle 20.~|Dicle 21.~|Dicle 22.~|Dicle 23.~|Dicle 24.~|Dicle 25.~|Dicle 26.~|Dicle 26.1~|Dicle 27.~|Dicle 27.1~|Dicle 27.2~|Dicle 28.~|Dicle 29.~|Dicle 3.~|Dicle 30.-~|Dicle 30.1~|Dicle 31.~|Dicle 32.~|Dicle 33.~|Dicle 34.~|Dicle 34.1~|Dicle 36.~|Dicle 36.1~|Dicle 36.2~|Dicle 36.3~|Dicle 38.~|Dicle 39.~|Dicle 4.~|Dicle 40.~|Dicle 41.~|Dicle 42~|Dicle 43~|Dicle 44~|Dicle 45~|Dicle 46~|Dicle 47~|Dicle 48~|Dicle 49~|Dicle 5.~|Dicle 50~|Dicle 51~|Dicle 52~|Dicle 53-~|Dicle 54~|Dicle 55~|Dicle 58~|Dicle 6.~|Dicle 68~|Dicle 7.~|Dicle 78~|Dicle 79~|Dicle 8.~|Dicle 80~|Dicle 81~|Dicle 82~|Dicle 83~|Dicle 84~|Dicle 85~|Dicle 86~|Dicle 87~|Dicle 88~|Dicle 89~|Dicle 9.~|Dicle 90~|Dicle 91~|Dicle 92~|Dicle 93~|Dicle 94~|Dicle=|Dicle/2~|Gerger1=|Mevlüt Korkmazoğlu@|Prof.dr.a.kadir Karahan@|Ramazan Baran%|Top Yolu@|Usta İbrahim Kuran@|İzollu Bozan Ağa@
+185408	Dilekli Mah.	Dilekli~
+174941	Direkli Mah.	Direkli=
+174761	Divan Mah.	Divan 1=|Divan=|Kucak=|Kümekavak=
+174851	Doğukent Mah.	Doğukent=
+175015	Dönemeç Mah.	Dönemeç=
+174835	Düğerin Mah.	Aşağıdügerin=|Yukarıdügerin=
+174731	Ediz Mah.	Ediz=|Karasu=|Yüksek Okul@|Yüksek Okul1=
+174893	Endarlı Mah.	Endarlı=|Hallaç=
+174983	Erbey Mah.	Deveboynu=|Erbey=|Eski Geçit=
+174763	Ergen Mah.	Ergen=
+174855	Erkonağı Mah.	Erkonağı=
+174765	Ertem Mah.	Alan=|Aşağı Başekin=|Başekin=|Ertem=|Kapıkaya=
+174857	Eskihan Mah.	Eskihan=|Hurmapınar=|Küçükhan=
+80404	Esmer Çayı Mah.	Bavuş@|Esmerçayı 10~|Esmerçayı 11~|Esmerçayı 12~|Esmerçayı 13~|Esmerçayı 14~|Esmerçayı 15~|Esmerçayı 16~|Esmerçayı 17~|Esmerçayı 18~|Esmerçayı 19~|Esmerçayı 2~|Esmerçayı 20~|Esmerçayı 22~|Esmerçayı 23~|Esmerçayı 24~|Esmerçayı 25~|Esmerçayı 26~|Esmerçayı 27~|Esmerçayı 28~|Esmerçayı 29~|Esmerçayı 3.~|Esmerçayı 30~|Esmerçayı 31~|Esmerçayı 32~|Esmerçayı 33~|Esmerçayı 34~|Esmerçayı 36~|Esmerçayı 37~|Esmerçayı 38~|Esmerçayı 39~|Esmerçayı 5~|Esmerçayı 50~|Esmerçayı 54~|Esmerçayı 6~|Esmerçayı 7~|Esmerçayı 8~|Esmerçayı 80=|Esmerçayı 9~|Karaçöl@|Ramazan Baran%|Usta İbrahim Kuran@|Şeyh Şamil@
+174853	Eğriçay Mah.	Eğrice=|Eğriçay=|Yoğurtçu 1=
+80405	Fırat Mah.	Faik Bucak@|Fırat 10~|Fırat 100~|Fırat 103~|Fırat 104~|Fırat 105~|Fırat 107~|Fırat 109~|Fırat 11~|Fırat 111~|Fırat 112~|Fırat 113~|Fırat 116~|Fırat 12~|Fırat 120~|Fırat 121~|Fırat 13~|Fırat 14~|Fırat 15~|Fırat 16~|Fırat 17~|Fırat 18~|Fırat 19~|Fırat 2.~|Fırat 2.küme Evler-=|Fırat 20~|Fırat 21~|Fırat 22~|Fırat 23~|Fırat 24~|Fırat 25~|Fırat 26~|Fırat 27~|Fırat 28~|Fırat 29~|Fırat 3 Küme Evler~|Fırat 3~|Fırat 30~|Fırat 31~|Fırat 33~|Fırat 34~|Fırat 35~|Fırat 36~|Fırat 37~|Fırat 38~|Fırat 39~|Fırat 4=|Fırat 4.~|Fırat 40~|Fırat 40-~|Fırat 41~|Fırat 42~|Fırat 44~|Fırat 45~|Fırat 46~|Fırat 47~|Fırat 48~|Fırat 49~|Fırat 5=|Fırat 5.~|Fırat 51~|Fırat 52~|Fırat 53~|Fırat 54~|Fırat 55~|Fırat 56~|Fırat 57~|Fırat 58~|Fırat 59~|Fırat 6~|Fırat 60~|Fırat 61~|Fırat 62~|Fırat 63~|Fırat 64~|Fırat 65~|Fırat 67-~|Fırat 68~|Fırat 69-~|Fırat 7~|Fırat 71~|Fırat 72~|Fırat 73-~|Fırat 75~|Fırat 76~|Fırat 8~|Fırat 80~|Fırat 81~|Fırat 83~|Fırat 84~|Fırat 87~|Fırat 88~|Fırat 88-~|Fırat 89~|Fırat 9~|Fırat 92~|Fırat 93~|Fırat 94~|Fırat 96~|Fırat 97~|Fırat 98~|Fırat 99~|Fırat=|Fırat110~|Fırat69~|Fırat90~|Mevlana Celaleddini Rumi%|Selahaddin İ Eyyubi%
+185412	Fırın Mah.	Fırın~|Susuz~
+174859	Gaziköy Mah.	Gaziköy=|Küme Ev=
+174861	Gedik Mah.	Gedik=|Taşhan=
+174733	Gerçek Mah.	Gerçek=|Yüksek Okul@
+174813	Gözcek Mah.	Gözcek=|Kalemli=|Karaburç=
+174735	Gözelek Mah.	Deliktaş/2~|Deliktaş/3~|Deliktaş/gözelek~|Deliktaş1~|Gözelek 1-~|Gözelek=|Kayrak=|Kırkpınar=|Selahaddin İ Eyyubi%|Yeniköy=
+174921	Gözeli Mah.	Gözeli=|Verimli=
+174865	Göğerçin Mah.	Göğerçin=|Kartal=|Sapak=|Yukarı Kayalar=|Yüksek Okul@|İnançlı=
+80406	Gülabibey Mah.	Esmerçayı@|Gülabibey 1~|Gülabibey 10~|Gülabibey 11~|Gülabibey 12~|Gülabibey 14~|Gülabibey 15~|Gülabibey 16~|Gülabibey 17~|Gülabibey 18~|Gülabibey 19~|Gülabibey 2~|Gülabibey 20~|Gülabibey 21-~|Gülabibey 22~|Gülabibey 23~|Gülabibey 24~|Gülabibey 25~|Gülabibey 26~|Gülabibey 27~|Gülabibey 28~|Gülabibey 29~|Gülabibey 3~|Gülabibey 30~|Gülabibey 31~|Gülabibey 32~|Gülabibey 33~|Gülabibey 34~|Gülabibey 35~|Gülabibey 36~|Gülabibey 37~|Gülabibey 38~|Gülabibey 39~|Gülabibey 4~|Gülabibey 40~|Gülabibey 41~|Gülabibey 42~|Gülabibey 43~|Gülabibey 44~|Gülabibey 45~|Gülabibey 46~|Gülabibey 47~|Gülabibey 48~|Gülabibey 49~|Gülabibey 5~|Gülabibey 50~|Gülabibey 51~|Gülabibey 52~|Gülabibey 6~|Gülabibey 7~|Gülabibey 8~|Gülabibey 9~|Mehmet Ali Şirin@|Prof.dr.a.kadir Karahan@|Top Yolu@|Usta İbrahim Kuran@
+174989	Güllice Mah.	Güllice=
+174863	Gülpınar Mah.	Ekintepe=|Gülpınar=|Günalır=|Kaynak Başı=
+183268	Güney Karabahçe Mah.	Güney Karabahçe=
+80407	Güney Mah.	Adnan Menderes@|Ahmed Arif@|Alay 11~|Alay 12~|Alay 13~|Alay10~|Atatürk%|Bediüzzaman Saidi Nursi%|Eski Urfa@|Güney 1~|Güney 1.1.~|Güney 10~|Güney 11~|Güney 12~|Güney 13~|Güney 14~|Güney 15~|Güney 16~|Güney 17~|Güney 18~|Güney 20~|Güney 21~|Güney 22~|Güney 23~|Güney 24~|Güney 25~|Güney 3~|Güney 4~|Güney 5~|Güney 6~|Güney 7~|Güney 8~|Güney 9.~|Sanayi Bilinmeyen 1~|Sanayi Bilinmeyen 2~|Sanayi Bilinmeyen 3~|Sevil Figen Erol@
+174721	Gürakar Mah.	Aşağı Güzelçayır=|Aşağı Metik=|Bilbak=|Büyük Çay=|Büyük Çay- Köy$|Dalkaya 1=|Dalkaya 2-=|Dalkaya 3-=|Demirci 1=|Demirci 2=|Demirci 3=|Dibekdüzü 1=|Dibekdüzü 2=|Faydalı 1=|Faydalı 2=|Faydalı 3=|Gürakar 1=|Gürakar 2=|Gürakar 2-=|Gürakar 3=|Gürakar 3-=|Gürakar 4=|Gürakar 4-=|Küçük Sofice=|Kıyıcık 1=|Kıyıcık 2-=|Miran=|Sarıkuş=|Sofice 1=|Sofice 2-=|Sofice 3-=|Yukarı Güzelçayır=|Yukarı Metik=|Üçkardeş 1=|Üçkardeş 2-=
+175001	Güvenli Mah.	Güvenli=
+174825	Güvercin Mah.	Güvercin=
+174867	Güzelpınar Mah.	Güzelpınar=|Köksür=|Sedef=|Taşlık Mevki=
+80408	Hacı Ömer Mah.	Abdülkadir Odabaşı@|Bahçelievler 1~|Esmerçayı@|Hacı Ömer 1~|Hacı Ömer 10~|Hacı Ömer 12~|Hacı Ömer 13~|Hacı Ömer 15~|Hacı Ömer 16~|Hacı Ömer 17~|Hacı Ömer 18~|Hacı Ömer 19~|Hacı Ömer 2~|Hacı Ömer 20~|Hacı Ömer 21~|Hacı Ömer 22~|Hacı Ömer 23~|Hacı Ömer 3~|Hacı Ömer 4~|Hacı Ömer 5~|Hacı Ömer 6~|Hacı Ömer 7~|Hacı Ömer 8~|Hacı Ömer 9~|Karaçöl@|Mustafa Remzi Bucak%|Usta İbrahim Kuran 1~|Usta İbrahim Kuran@|Şeyh Şamil@
+80409	Haliliye Mah.	1201~|1202~|1203~|1204~|Abdalağa 18~|Abdalağa@|Adnan Menderes@|Haliliye 1.~|Haliliye 1.1~|Haliliye 10~|Haliliye 11~|Haliliye 12~|Haliliye 13~|Haliliye 14~|Haliliye 14.1~|Haliliye 15~|Haliliye 16~|Haliliye 17~|Haliliye 17.1~|Haliliye 18~|Haliliye 19~|Haliliye 2~|Haliliye 2.1~|Haliliye 20~|Haliliye 21~|Haliliye 22~|Haliliye 23~|Haliliye 23.1~|Haliliye 24~|Haliliye 25~|Haliliye 26~|Haliliye 27~|Haliliye 28~|Haliliye 29~|Haliliye 3~|Haliliye 30~|Haliliye 31~|Haliliye 31.1~|Haliliye 32~|Haliliye 33~|Haliliye 34~|Haliliye 34.1~|Haliliye 35~|Haliliye 36~|Haliliye 37~|Haliliye 38~|Haliliye 39~|Haliliye 4~|Haliliye 40~|Haliliye 42~|Haliliye 43~|Haliliye 44~|Haliliye 45~|Haliliye 46~|Haliliye 47~|Haliliye 48~|Haliliye 49~|Haliliye 5~|Haliliye 50~|Haliliye 51~|Haliliye 52~|Haliliye 53~|Haliliye 54.~|Haliliye 55.1~|Haliliye 56~|Haliliye 57~|Haliliye 57.1~|Haliliye 58~|Haliliye 58.1~|Haliliye 59~|Haliliye 6~|Haliliye 7~|Haliliye 8~|Haliliye 9~|Mevlana Celaleddini Rumi%|Seyfioğlu@|Uçar@
+174827	Hamamören Mah.	Hamamören=
+80410	Hamidiye Mah.	Bağlar 4.~|Hamidiye 1~|Hamidiye 1.1~|Hamidiye 10~|Hamidiye 11~|Hamidiye 11.1~|Hamidiye 12~|Hamidiye 13~|Hamidiye 14~|Hamidiye 14.1~|Hamidiye 15~|Hamidiye 16~|Hamidiye 17~|Hamidiye 18~|Hamidiye 18.1~|Hamidiye 19~|Hamidiye 2~|Hamidiye 20~|Hamidiye 21~|Hamidiye 22~|Hamidiye 23~|Hamidiye 24~|Hamidiye 25~|Hamidiye 25.1~|Hamidiye 26~|Hamidiye 27~|Hamidiye 28~|Hamidiye 3~|Hamidiye 4~|Hamidiye 5~|Hamidiye 6~|Hamidiye 7~|Hamidiye 8~|Hamidiye 9~|Kışla@|Prof.dr.a.kadir Karahan@|Top Yolu@|Şeyh Lütfü@
+80411	Hasan Çelebi Mah.	Abdülkadir Odabaşı@|Cumhuriyet@|Esmerçayı@|Hacı Yusuf Sami@|Hasan Çelebi 10.~|Hasan Çelebi 11.~|Hasan Çelebi 12~|Hasan Çelebi 13.~|Hasan Çelebi 14.~|Hasan Çelebi 15.~|Hasan Çelebi 15.1~|Hasan Çelebi 16.~|Hasan Çelebi 17.~|Hasan Çelebi 18.~|Hasan Çelebi 19.~|Hasan Çelebi 2.~|Hasan Çelebi 20.~|Hasan Çelebi 21.~|Hasan Çelebi 22.~|Hasan Çelebi 22.1~|Hasan Çelebi 24.~|Hasan Çelebi 25.~|Hasan Çelebi 25.1~|Hasan Çelebi 25.2~|Hasan Çelebi 26.~|Hasan Çelebi 27.~|Hasan Çelebi 28.~|Hasan Çelebi 29.~|Hasan Çelebi 3.~|Hasan Çelebi 30.~|Hasan Çelebi 31.~|Hasan Çelebi 32.~|Hasan Çelebi 33.~|Hasan Çelebi 34.~|Hasan Çelebi 35.~|Hasan Çelebi 36~|Hasan Çelebi 36.1~|Hasan Çelebi 37.~|Hasan Çelebi 38~|Hasan Çelebi 39~|Hasan Çelebi 4.~|Hasan Çelebi 40.~|Hasan Çelebi 41.~|Hasan Çelebi 42.~|Hasan Çelebi 43~|Hasan Çelebi 43.1~|Hasan Çelebi 44.~|Hasan Çelebi 44.1~|Hasan Çelebi 45.~|Hasan Çelebi 46.~|Hasan Çelebi 46.1~|Hasan Çelebi 47.~|Hasan Çelebi 48.~|Hasan Çelebi 49.~|Hasan Çelebi 5.~|Hasan Çelebi 50.~|Hasan Çelebi 51.~|Hasan Çelebi 52.~|Hasan Çelebi 53.~|Hasan Çelebi 54.~|Hasan Çelebi 55.~|Hasan Çelebi 56.~|Hasan Çelebi 57.~|Hasan Çelebi 58.~|Hasan Çelebi 59.~|Hasan Çelebi 6.~|Hasan Çelebi 60.~|Hasan Çelebi 60.1~|Hasan Çelebi 60.2~|Hasan Çelebi 61.~|Hasan Çelebi 62.~|Hasan Çelebi 63.~|Hasan Çelebi 64.~|Hasan Çelebi 65~|Hasan Çelebi 7.~|Hasan Çelebi 7.1~|Hasan Çelebi 7.2~|Hasan Çelebi 7.3~|Hasan Çelebi 7.4~|Hasan Çelebi 7.5~|Hasan Çelebi 70~|Hasan Çelebi 8.~|Hasan Çelebi 9.~|Hürriyet@|Karaçöl@|Kemaliye@|Rüştü Küçükömer@|Suat Karataş@
+174767	Hasırlı Mah.	Destek=|Dinek=|Eşme=|Hasırlı=|Ördekli=
+80412	Hayriye Mah.	1303~|Abdalağa@|Bilinmeyen1~|Cerrah Baba@|Deger 13~|Deger 14~|Deger 15~|Deger 16~|Deger 17~|Deger 19~|Deger 20/1~|Deger 21~|Deger 22~|Deger 23~|Faik Bucak@|Hayriye 1.~|Hayriye 10.~|Hayriye 10/~|Hayriye 107-~|Hayriye 114~|Hayriye 121-~|Hayriye 122 Sk.~|Hayriye 13.~|Hayriye 132~|Hayriye 14.~|Hayriye 14/~|Hayriye 14/1~|Hayriye 15.~|Hayriye 151~|Hayriye 16.~|Hayriye 17.~|Hayriye 18.~|Hayriye 19.~|Hayriye 2~|Hayriye 2.~|Hayriye 2/~|Hayriye 2/1~|Hayriye 20.~|Hayriye 21~|Hayriye 21.1-~|Hayriye 22.~|Hayriye 22.1~|Hayriye 23.~|Hayriye 24.~|Hayriye 25.~|Hayriye 26.~|Hayriye 27.~|Hayriye 27/~|Hayriye 28.~|Hayriye 29.~|Hayriye 29.1~|Hayriye 3=|Hayriye 3.~|Hayriye 30.~|Hayriye 31.~|Hayriye 32.~|Hayriye 33.1~|Hayriye 34.~|Hayriye 35.~|Hayriye 35.1~|Hayriye 36.~|Hayriye 37.~|Hayriye 38.~|Hayriye 39.~|Hayriye 4.~|Hayriye 4.küme Evler-=|Hayriye 40.~|Hayriye 40/~|Hayriye 41.~|Hayriye 42.~|Hayriye 43.~|Hayriye 44.~|Hayriye 44.1~|Hayriye 45.~|Hayriye 46.~|Hayriye 47.~|Hayriye 48.~|Hayriye 49.~|Hayriye 49/~|Hayriye 50.~|Hayriye 50/~|Hayriye 51.~|Hayriye 52.~|Hayriye 53.~|Hayriye 54.~|Hayriye 55.~|Hayriye 56.~|Hayriye 57.~|Hayriye 58.~|Hayriye 59.~|Hayriye 59.1~|Hayriye 59.2~|Hayriye 59/~|Hayriye 6.~|Hayriye 60.~|Hayriye 61.~|Hayriye 62.~|Hayriye 63.~|Hayriye 64.~|Hayriye 65.~|Hayriye 66.~|Hayriye 67.~|Hayriye 69~|Hayriye 69.~|Hayriye 7.~|Hayriye 70~|Hayriye 70.~|Hayriye 71~|Hayriye 71/1~|Hayriye 76~|Hayriye 8.~|Hayriye 8/~|Hayriye 8/1~|Hayriye 8/2~|Hayriye 9.~|Hayriye=|Kışla@|Mehmed Uzun@|Mevlana Celaleddini Rumi%|Yanbakan@|Şeyh Lütfü@
+80413	Kale Mah.	11.çıkmaz Sokak~|1301~|Abdalağa@|Adnan Menderes@|Cumhuriyet@|Gerger@|Kale 1.~|Kale 1.1~|Kale 10.~|Kale 11.~|Kale 12.~|Kale 13.~|Kale 14.~|Kale 15.~|Kale 16.~|Kale 17.~|Kale 18.~|Kale 19.~|Kale 2.~|Kale 20.~|Kale 21.~|Kale 22.~|Kale 23.~|Kale 24.~|Kale 25.~|Kale 26.~|Kale 27.~|Kale 27.1~|Kale 28.~|Kale 29.~|Kale 3.~|Kale 30.~|Kale 31.~|Kale 32.~|Kale 33.~|Kale 34.~|Kale 36.~|Kale 37.~|Kale 38.~|Kale 39.~|Kale 4.~|Kale 4.1~|Kale 4.2~|Kale 40.~|Kale 40.1~|Kale 42.~|Kale 43.~|Kale 44.~|Kale 45.~|Kale 46.~|Kale 47.~|Kale 47.1~|Kale 48.~|Kale 49.~|Kale 5.~|Kale 5/1~|Kale 50.~|Kale 51.~|Kale 52.~|Kale 52.1~|Kale 53.~|Kale 54.~|Kale 55.~|Kale 56.~|Kale 57.~|Kale 58.~|Kale 59.~|Kale 6.~|Kale 6.1~|Kale 6.2~|Kale 60.~|Kale 61.~|Kale 8.~|Kale 9.~|Kaleboğazı@|Kasaplar Yolu~|Kışla@|Mevlana Celaleddini Rumi%|Seyfioğlu@|Şair İbrahim Rafet 11.~
+174801	Kalemli Mah.	Burcalık=|Kalemli=
+174769	Kalınağaç Mah.	Kalınağaç=
+174871	Kamışlı Mah.	Dedeli=|Ekili=|Kamışlı 1=|Kamışlı=|Kuyucak=|Çerçili=|Üçpınar=
+174719	Kapıkaya Mah.	Atatürk-@|Aşağı Beşyamaç 1.=|Aşağı Beşyamaç 2.=|Aşağı Beşyamaç 3.=|Bağlık 1.=|Bağlık 2.=|Bağlık 3.=|Bülent Ecevit-@|Cumhuriyet-@|Hürriyet-@|Kapıkaya 1.=|Kapıkaya 2.-=|Kapıkaya 3.=|Kapıkaya 4.-=|Kapıkaya 5.-=|Kapıkaya 6.-=|Kapıkaya 7.-=|Kapıkaya 8.=|Kapıkaya=|Taşlıyol=|Yeditaş 1.=|Yeditaş 2.=|Yeditaş 3.=|Yeditaş 4.=|Yeditaş 5.=|Yeditaş 6.=|Yukarıbeş Yamaç 2.-=|Yukarıbeş Yamaç 3.-=|Yukarıbeş Yamaç=|Çermik Siverek Yolu-@
+174873	Karabahçe Mah.	Karabahçe=|Pelit=|Tepe=
+174837	Karacadağ Mah.	Karacadağ B.m=
+174923	Karadibek Mah.	Karadibek=
+174985	Karahisar Mah.	Karahisar=|Yüksek Okul@
+174897	Karakeçi Mah.	Akören=|Karakaş=|Karakeçi=|Keskin=|Kuytuca=|Yeşilköy=|Yunusemre=|Üründal=
+174737	Karakoyun Mah.	Aşağı Duraklı=|Bilgin=|Güverti=|Karakoyun 1-~|Karakoyun 2-~|Karakoyun 3-~|Karakoyun 4-~|Karakoyun 5-~|Karakoyun 6-~|Karakoyun 7-~|Karakoyun 8-~|Karakoyun=|Keserköprü=|Selahaddin İ Eyyubi%|Yalankoz=|Yüksek Okul@
+174803	Kargalı Mah.	Aşma=|Kargalı=
+175017	Karkaşı Mah.	Karkaşı=
+174739	Karpuzcu Mah.	Gözaydın=|Karpuzcu=|İlyasören=
+175005	Kavaklıdere Mah.	Kavaklıdere=
+174805	Kavalık Mah.	Güzelbahçe=|Kavalık=|Kısıksu=|Pınarbaşı=
+174771	Kayalı Mah.	Bakaç=|Güngörmez=|Kayalı=
+175003	Kayseri Mah.	Kayseri=
+174829	Kesmekaya Mah.	Kesmekaya=
+174961	Keçiburcu Mah.	Keçiburcu=|Yenisu=
+174875	Keçikıran Mah.	Aşagıikizce=|Güzelsu=|Keçikıran=|Yukarıikizce=|Çat=|Üçkuyu=
+174963	Keş Mah.	Keş=|Ögün=
+174741	Konurtepe Mah.	Garoz=|Kayalar=|Konurtepe=|Kul=|Küçüktepe1=|Yayla1=|Özenli=
+197771	Kulaksız Mah.	Kulaksız=
+174965	Kurbağalı Mah.	Birgeni=|Kurbağalı=|Sapan=
+174773	Kuşlugöl Mah.	Karabıyık=|Karaveren=|Kuşlugöl=|Narince=
+174895	Küptepe Mah.	Bahçepınar=|Dere Başı=|Küptepe=|Tarlabaşı=
+174775	Küçükgöl Mah.	Küçükgöl=
+174925	Kıvançlı Mah.	Kırcalı=|Kıvançlı=
+174783	Mezra Mah.	Mezra=|Yapraklı=
+174777	Narlıkaya Mah.	Ağacık=|Aşağı Engin=|Begenir=|Büyükağaç=|Ekecik=|Eskikent=|Evyanı=|Narlıkaya=|Yukarı Engin=
+174927	Nohut Mah.	Kayaklı=|Nohut=
+80414	Ofis Mah.	Ahmed Arif@|Atatürk%|Bediüzzaman Saidi Nursi%|Kızılgöl@|Mustafa Remzi Bucak%|Ofis 10.~|Ofis 11.~|Ofis 12.~|Ofis 13.~|Ofis 15.~|Ofis 16.~|Ofis 17.~|Ofis 18.~|Ofis 19~|Ofis 2.~|Ofis 20~|Ofis 21~|Ofis 22~|Ofis 23~|Ofis 24~|Ofis 25~|Ofis 26~|Ofis 27~|Ofis 28~|Ofis 3.~|Ofis 4.~|Ofis 5.~|Ofis 6.~|Ofis 7.~|Ofis 8.~|Ofis 9.~|Sevil Figen Erol@
+196411	Oluklu Mah.	Oluklu=
+174833	Onar Mah.	Onar=
+174929	Ortanca Mah.	Kurteni=|Ortanca=|Sadıklı=|Serinsu=|Ugurlu=
+174967	Oyman Mah.	Ağıztadı=|Güher=|Karaçalı=|Kurutlu=|Kırgıbayır=|Oyman=|Sürü-~|Yukarı Bekirağa=
+174931	Oyuktaş Mah.	Menduh Tepe=|Oyuktaş=|Sağırlı=|Yeşiltepe=
+174743	Peynirci Mah.	Peynirci=|Subaşı=|Tahtalı=|Yeni Köy=|İçöz=
+174969	Sabancı Mah.	Gölgen=|Karataşlı=|Keklik=|Ortataşlı=|Sabancı=|Subastı=|Taşçılar=|Tilkişehir=|Yamaç=|Yayla=|Yağızlar=|Çerkez=
+174971	Salor Mah.	Salor=|Seyrantepe=
+174933	Sarıdam Mah.	E 90 1 Cad@|Sarıdam=|Öküzöldü=
+174831	Sarıkaya Mah.	Sarıkaya=
+174973	Sarıören Mah.	Sarıören=
+174877	Savucak Mah.	Gelincik=|Küçüksavucak=|Savucak=|Çaygeçit=
+80415	Selim Pınar Mah.	1101~|Bediüzzaman Saidi Nursi%|Selimpınar 10.~|Selimpınar 11.~|Selimpınar 12.~|Selimpınar 13~|Selimpınar 14~|Selimpınar 2.~|Selimpınar 3.~|Selimpınar 4.~|Selimpınar 40~|Selimpınar 5.~|Selimpınar 6.~|Selimpınar 6.1~|Selimpınar 7.~|Selimpınar 8.~|Selimpınar 9.~|Selimpınar=
+175021	Sislice Mah.	Sislice=
+174879	Soydan Mah.	Avcı=|Ekinci=|Karıncalı=|Soydan=|Yüksek Okul@|Çelebi=
+174883	Sumaklı Mah.	Karlık=|Kışlık=|Sumaklı=
+174881	Söylemez Mah.	Akyurt=|Asiçayır=|Bulaklı=|Düzyayla=|Elmacık=|Kara Molla=|Karaköy=|Kaya=|Keçipınar=|Küme Evler 1-=|Küme Evler 2-=|Küçükbulaklı=|Mahmut Bey=|Mehmet Bey=|Osmanköy=|Otlek=|Söylemez=|Söylemez Mezra=|Söylemez Oluklu=|Taşlıtela=|Çıkrık=|İstekli=
+174935	Tanrıverdi Mah.	Aynalı=|Mehmetveren=|Tanrıverdi=|Çökelek=
+174809	Taşağıl Mah.	Alıncık=|Burhan=|Hacıabdal=|Taşağıl=|Yasince=|Yukarıkırca=
+174889	Taşhan Mah.	Taşhan=
+174975	Taşlı Mah.	Lupi=|Taşlı=|Çatak1=
+174779	Taşıkara Mah.	Burcu=|Duruca=|Duydum=|Sepetören=|Taşıkara=|İnoğlu=|Şabani=
+174937	Turna Mah.	Altıntepe=|Benektepe=|Benlitaş=|Habeşler-~|Kilimli=|Korucak=|Turna=
+185410	Uzunpınar Mah.	Uzunpınar~
+174885	Uzunziyaret Mah.	Uzunziyaret=|Yaygılı=
+175011	Yeleken Mah.	Ekelge=|Esenli=|Yeleken Köy=
+175007	Yeniceli Mah.	Yeniceli=|Yeniceli Nohut=
+80418	Yenişehir Mah.	Bahri Karakeçili@|Bediüzzaman Saidi Nursi%|Eyyüp Cenap Gülpınar@|Toki=|Yenişehir 1.~|Yenişehir 1.1~|Yenişehir 1.2~|Yenişehir 10.~|Yenişehir 100~|Yenişehir 101~|Yenişehir 102~|Yenişehir 11.~|Yenişehir 11.1~|Yenişehir 12.~|Yenişehir 13.~|Yenişehir 14.~|Yenişehir 15.~|Yenişehir 15.1~|Yenişehir 16.~|Yenişehir 17.~|Yenişehir 17.1~|Yenişehir 18.~|Yenişehir 19.~|Yenişehir 2.~|Yenişehir 20.~|Yenişehir 21.~|Yenişehir 21/1.~|Yenişehir 22.~|Yenişehir 23.~|Yenişehir 24.~|Yenişehir 25.~|Yenişehir 26.~|Yenişehir 27.~|Yenişehir 28~|Yenişehir 3.~|Yenişehir 3.1~|Yenişehir 31.~|Yenişehir 32.~|Yenişehir 33.~|Yenişehir 34.~|Yenişehir 35.~|Yenişehir 36.~|Yenişehir 37.~|Yenişehir 38~|Yenişehir 39~|Yenişehir 4.~|Yenişehir 40~|Yenişehir 40.1~|Yenişehir 41-~|Yenişehir 42~|Yenişehir 43~|Yenişehir 44~|Yenişehir 45-~|Yenişehir 46~|Yenişehir 47~|Yenişehir 48~|Yenişehir 49~|Yenişehir 5.~|Yenişehir 50.~|Yenişehir 51~|Yenişehir 52.~|Yenişehir 53.~|Yenişehir 54.~|Yenişehir 55~|Yenişehir 56~|Yenişehir 57~|Yenişehir 58~|Yenişehir 6.~|Yenişehir 60~|Yenişehir 61~|Yenişehir 62~|Yenişehir 63~|Yenişehir 64~|Yenişehir 65~|Yenişehir 65-~|Yenişehir 66~|Yenişehir 7.~|Yenişehir 71~|Yenişehir 72~|Yenişehir 73~|Yenişehir 8.~|Yenişehir 8.1~|Yenişehir 81~|Yenişehir 82~|Yenişehir 83~|Yenişehir 84~|Yenişehir 9.~|Yenişehir 9.1~|Yenişehir-100~|Öğr.firkan Tüysüz@
+174747	Yoğunca Mah.	Aşağı Geçer=|Bakanak=|Bayar=|Boyuncuk=|Göktepe=|Halim=|Işıldar=|Yoğunca=|Yukarı Geçer=
+174753	Yumrutepe Mah.	Yumrutepe=
+174997	Yuvar Mah.	Yuvar=|Yüksek Okul@
+174749	Yücelen Mah.	Beko Oğlu=|Duraklı=|Sarıgöl=|Selahaddin İ Eyyubi%|Yoğurtçu=|Yücelen=|Yüksek Okul@
+174887	Zincirliçay Mah.	Gökçetaş=|Küfri=|Yüksek Okul@|Zincirliçay=|Çağdaş=|Çerkezköy=|Çukurca=
+174797	Çanakçı Mah.	Çanakçı=
+174847	Çatlı Mah.	Bereketoğlu=|Daban=|Hacı Ahmet Taş~|Küçükçatlı=|Çatlı=
+174849	Çavuşlu Mah.	Çavuşlu=
+174787	Çaylarbaşı Mah.	Akçakent=|Olğun=|Çaylarbaşı=|Çiftlik1=
+174727	Çağa Mah.	Yüksek Okul@|Çağa=|Örentaş=
+174955	Çağdaş Mah.	Balgözü=|Çağdaş1=
+174799	Çeltik Mah.	Çeltik=
+174957	Çepni Mah.	Aktepe=|Pamuklu=|Çepni=
+175009	Çevirme Mah.	Çevirme=
+174917	Çiftçibaşı Mah.	Akıllı=|Salıncak=|Çiftçibaşı=
+174919	Çubuklu Mah.	Alican=|Ekinlik=|Koçköprü=|Çubuklu=
+174807	Önder Mah.	Başaşağı=|Konak=|Önder=
+174891	Örgülü Mah.	Ada=|Örgülü=
+174981	Ülkülü Mah.	Değirmenoluk=|Ülkülü=
+174745	Üstüntaş Mah.	Dulda=|Gazi=|Günülü=|Hasanören=|Topaç=|Çarçi=|Üstüntaş=|Üzümcük=
+174869	İleri Mah.	Olgunlar=|Yoğurtçu1=|Yılanpınar=|İleri=
+174939	İnanlı Mah.	E 90 1 Cad@|İnanlı=
+80416	Şair İbrahim Rafet Mah.	1302~|1303~|Abdalağa@|Kışla@|Mevlana Celaleddini Rumi%|Yanbakan@|Şair İbrahim Rafet 10.~|Şair İbrahim Rafet 11.~|Şair İbrahim Rafet 12.~|Şair İbrahim Rafet 13.~|Şair İbrahim Rafet 14.~|Şair İbrahim Rafet 15.~|Şair İbrahim Rafet 16.~|Şair İbrahim Rafet 17.~|Şair İbrahim Rafet 19.~|Şair İbrahim Rafet 2~|Şair İbrahim Rafet 2.~|Şair İbrahim Rafet 20.~|Şair İbrahim Rafet 21.~|Şair İbrahim Rafet 22.~|Şair İbrahim Rafet 23.~|Şair İbrahim Rafet 25.~|Şair İbrahim Rafet 26.~|Şair İbrahim Rafet 27.~|Şair İbrahim Rafet 28.~|Şair İbrahim Rafet 3.~|Şair İbrahim Rafet 30~|Şair İbrahim Rafet 31~|Şair İbrahim Rafet 32~|Şair İbrahim Rafet 33~|Şair İbrahim Rafet 4.~|Şair İbrahim Rafet 5.~|Şair İbrahim Rafet 6.~|Şair İbrahim Rafet 7.~|Şair İbrahim Rafet 8.~|Şair İbrahim Rafet 9.~
+174943	Şekerli Mah.	Avunduk=|Hastur=|Kalfalar=|Yenişli=|Yeşilçat=|Özenpınar=|Şekerli B.m=
+80417	Şirinkuyu Mah.	1001~|1002~|1003~|Ayvanat 9~|Bediüzzaman Saidi Nursi%|Yunus Emre@|Öğr.firkan Tüysüz@|Şirinkuyu 1.~|Şirinkuyu 10.~|Şirinkuyu 11.~|Şirinkuyu 112@|Şirinkuyu 112-~|Şirinkuyu 12.~|Şirinkuyu 13.~|Şirinkuyu 14.~|Şirinkuyu 140~|Şirinkuyu 141~|Şirinkuyu 142~|Şirinkuyu 143~|Şirinkuyu 144~|Şirinkuyu 145~|Şirinkuyu 146~|Şirinkuyu 15.~|Şirinkuyu 16.~|Şirinkuyu 17.~|Şirinkuyu 18.~|Şirinkuyu 19.~|Şirinkuyu 2.~|Şirinkuyu 20.~|Şirinkuyu 21.~|Şirinkuyu 22.~|Şirinkuyu 23.~|Şirinkuyu 24.~|Şirinkuyu 25.~|Şirinkuyu 26.~|Şirinkuyu 27~|Şirinkuyu 28.~|Şirinkuyu 29.~|Şirinkuyu 3.~|Şirinkuyu 30.~|Şirinkuyu 31.~|Şirinkuyu 32.~|Şirinkuyu 33.~|Şirinkuyu 34.~|Şirinkuyu 35.~|Şirinkuyu 36.~|Şirinkuyu 37.~|Şirinkuyu 38.~|Şirinkuyu 4.~|Şirinkuyu 40.~|Şirinkuyu 41.~|Şirinkuyu 42.~|Şirinkuyu 43.~|Şirinkuyu 44.~|Şirinkuyu 45.~|Şirinkuyu 46.~|Şirinkuyu 47~|Şirinkuyu 48~|Şirinkuyu 49~|Şirinkuyu 5.~|Şirinkuyu 50~|Şirinkuyu 51~|Şirinkuyu 52~|Şirinkuyu 53~|Şirinkuyu 54~|Şirinkuyu 55~|Şirinkuyu 57~|Şirinkuyu 6.~|Şirinkuyu 60~|Şirinkuyu 61~|Şirinkuyu 63~|Şirinkuyu 64~|Şirinkuyu 65~|Şirinkuyu 66~|Şirinkuyu 69~|Şirinkuyu 7.~|Şirinkuyu 71-~|Şirinkuyu 73~|Şirinkuyu 74~|Şirinkuyu 75~|Şirinkuyu 76~|Şirinkuyu 77~|Şirinkuyu 8.~|Şirinkuyu 89~|Şirinkuyu 9.~|Şirinkuyu Küme~

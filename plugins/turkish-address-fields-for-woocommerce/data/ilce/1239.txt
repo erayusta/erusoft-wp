@@ -1,0 +1,64 @@
+838	Akkonak Köyü, Akhürrem Mevkii	Cumhuriyet~|Daracık~|Himmetler~|Orhaniye~|Pelitdibi~|Tekke~
+839	Akkonak Köyü, Baltacı Mevkii	Bahar~|Güneş~|Hane Yardı~|Işık~|Seka Kağıt Fab.-işletmebölümü~|Seka Kağıt Fab.saman Sahası~|Seka~|Zambak~|Zümrüt~|Şehit Piyade Er Uğur Gencelli~
+840	Akkonak Köyü, Cumhuriyet Mevkii	Ağılardı~|Fatih~|Hamamaltı~|Menderes~|Orhaniye~|Sultan~|Vatan~|Yavuz~|Çukurluk~
+841	Akkonak Köyü, Hürriyet Mevkii	Akpınar~|Akçeşme~|Aralık~|Ağılardı~|Bahçeli Evler~|Bayrak~|Dinar~|Harman~|Harmanyeri~|Hendek~|Höyük~|Köprü~|Küklü~|Murat~|Orhaniye~|Yavşan~|Yıldırım~
+842	Akkonak Köyü, Milli Egemenlik Mevkii	Akyer~|Cami~|Cumhuriyet~|Gökdere~|Gül~|Gündoğdu~|Hamamaltı~|Hane Yardı~|Mezaraltı~|Oyuklu~|Seka~|Sellik~|Şehit Piyade Er Uğur Gencelli~
+823	Aktaş Mah.	Akar~|Aktaş@|Ali Kaleli@|Barış~|Bilaloğlu~|Cumhuriyet@|Doğanay~|Dursun~|Evran~|Fevzi Çakmak@|Gömbe~|Güngör~|Hacı Şakir~|Kantar~|Okul~|Selvi~|Taşkapı~|Yalçın~|Zafer@|Çengel-1~|İnönü@|Şube~
+825	Ali Kaleli Mah.	Ali Kaleli Çiftlik Evleri=|Cumhuriyet@|Defne~|Menekşe~|Yaşar Çengel@
+824	Ali İhsan Paşa Mah.	Ali Kaleli@|Aytekin~|Basri Gümüş@|Cinali~|Dr.sadık Ahmet@|Göndelen~|Kaplan~|Recep Tayyıp Erdoğan@|Sabuncuoğlu~|Sağlamlar~|Takkasızlar~|Türkmen-1~|Zafer@|Çakıcı~|Çakıroğlu~|Çınar~
+5057	Armutlu Köyü	 Köy$
+5058	Aydoğmuş Köyü	 Köy$
+826	Aşağı Mah.	Argun~|Cumhuriyet@|Karakoyun~|Kumcu~|Poyraz~|Selçuk@|Topçuoğlu~|Yardım~|Zafer@|İkizler~|İnönü@|Şahin~
+827	Bahçelievler Mah.	Akman~|Akçay~|Aynacı~|Bilgiç~|Kavun~|Kaynar~|Keklik~|Kumru~|Kırbaş~|Okumuş~|Rüştü Akay@|Serinler~|Seçkin~|Sönmez~|Sümbül~|Tuna~|Tunçel~|Turgut Özal@|Uğur~|Yokuş~|Yöntem~|Yılmaz Altan@|Çiğdem~|Şehit Cengiz Karataş@
+5059	Bulanık Köyü	 Köy$
+828	Cedit Mah.	Akgün~|Basri Gümüş@|Güler~|Gümüş~|Gündoğdu~|Köprübaşı~|Mahmut Efendi~|Recep Tayyıp Erdoğan@|Sağlık~|Toksoy~|Zehiroğlu~|Çakmak~|Şehit Cengiz Karataş@|Şehit Seyhan Çağrı@
+5060	Cumhuriyet Köyü	Cumhuriyet=
+829	Demirağaç Mah.	Aktaş@|Alaka~|Ali Kaleli@|Cumhuriyet@|Kadı Cami@|Taşkapı~|Yunusoğlu~|Yıldırım~
+843	Deresinek Köyü, Gündoğdu Mevkii	Akşehir~|Candan~|Fırat~|Güngör~|Hal~|Selcuk~|Selçuk~|Çiftlik~
+844	Deresinek Köyü, Kahraman Mevkii	Abdi İpekçi~|Akarsu~|Akçin~|Aydın~|Balkan~|Bencik~|Beyazıt~|Fırat~|Güneş~|Hürriyet~|Irmak~|Kanuni~|Kenan Evren~|Kurtuluş~|Namık Kemal~|Oğuz~|Pınar~|Selçuk~|Türkmen~|Yakar~|Yavuz~|Yıldırım~|Çetinkaya~|Çevik~|Çiftlik Evi~|İnönü~
+845	Deresinek Köyü, Zafer Mevkii	Akyıldız~|Ankara~|Demirci~|Doğan~|Namık Kemal~|Okul~|Yılmaz~|Çiftlik~|Öztürk~|Şafak~
+5063	Devederesi Köyü	 Köy$
+830	Dumlupınar Mah.	Bağlar@|Cumhuriyet@|Dumlupınar@|Dumlupınar Çiftlik Evleri=|Hacı Yakup~|Hırçın~|Molla İsa~|Zümrüt~|Çubuk~
+846	Eber Köyü, Orta Mevkii	Aydın~|Camii Çıkmazı~|Cumhuriyet~|Egemenlik~|Fidan~|Harım~|Hasan Yetkin~|Kavaklı~|Kemal Paşa~|Molla Çıkmaz~|Okul~|Terzi Çıkmazı~|Zafer~|Çakır Çıkmazı~|Şeytan Çıkmazı~
+847	Eber Köyü, Tekke Mevkii	Arpalık~|Avcı~|Cumhuriyet~|Egemenlik~|Erler~|Harmanyolu~|Hasan Yetkin~|Okul~|Türbe~|Vatan~|Zafer~|Ören Çıkmazı~|İpek Yolu~
+848	Eber Köyü, Yeni Mevkii	Bahçeli~|Duz Yolu~|Emekli Çıkmazı~|Hasan Yetkin~|Karaca~|Mezar Yolu~|Okul~|Pınar~|Savaş~|Sıgır Meydanı~|Çalışkan~|İpek Yolu~
+849	Eber Köyü, Yukarı Mevkii	Ahi Evran~|Armut~|Bağlar~|Cami~|Doğa~|Ebher Ahmet~|Egemenlik~|Fatih~|Fırın Çıkmazı~|Gelincik Ana~|Hasan Yetkin~|Kemal Paşa~|Kurtuluş~|Köroğlu~|Küme Evleri~|Lale~|Mehmet Akif~|Mevlana~|Oruç~|Osmanlı~|Ulubatlı Hasan~|Ulus~|Vatan~|Yayla~|Yenidoğan~|Yunus Emre~|Zafer~|İstiklal~
+139903	Elbiz Mah.	Begonya~|Elbiz Çiftlik Evleri=|Güneş~|Karanfil~|Manolya~|Mustafa Kızıloğlu@|Zambak~
+5064	Göcen Köyü	 Köy$
+5065	Kadıköy Köyü	Kadıköy=
+857	Karamık Köyü, 75. Yıl Mevkii	19 Mayıs~|Başak~|Dutluk~|Hürriyet~|Irmak~|Işık~|Kabristan~|Kurtuluş~|Menderes~|Nilüfer~|Palmiye~|Sancak~|Türbe~|Yılmaz~|Zafer~|Çakmak~|Çıkmaz~|Şafak~
+856	Karamık Köyü, Cumhuriyet Mevkii	18 Nisan~|Andızlı~|Atatürk~|Bülbül~|Canbolat~|Fatih~|Gonca~|Gül~|Güneş~|Hilal~|Kanarya~|Karanfil~|Kuru Mehmet~|Kümeevleri~|Lale~|Leylak~|Manolya~|Maslı~|Meltem~|Menekşe~|Muhtar Ali Çevik~|Papatya~|Pınar~|Sakarya~|Selçuklu~|Vakıf~|Yalvaç~|Yağmur~|Yıldız~|Zambak~|Zümrüt~|Çimen~|Şimşek~
+858	Karamıkkaracaören Beldesi, Aşağı Mah.	Alageren=|Bahar~|Balkanlar~|Bora~|Cumhuriyet@|Cırcır~|Dar Çıkmazı~|Darcın~|Elmas~|Halkapınar=|Harmanyeri=|Haydarlı~|Karakuyu~|Korcuk~|Kurs~|Kurumsa=|Kültür~|Mercan~|Okul~|Palamut~|Papatya~|Pınar~|Süleyman Demirel%|Sümbül~|Taşlıyatak=|Yonca~|Çavdar~|Çay Yolu@|Çınar~|İnli Yolu@
+859	Karamıkkaracaören Beldesi, Bağlar Mah.	Barbaros@|Buzağlık@|Buzağlık Küme Evler=|Ceylan~|Cihan~|Fatih@|Gazi~|Gül~|Hanönü@|Hilal~|Hisar~|Kayalar~|Kürşat~|Meltem~|Mimar Sinan~|Onur~|Pazar~|Sakarya~|Sanayi@|Sancak~|Serhat~|Sultandağı~|Terce~|Çelebi~|Çeşme~|Çiçek~|Şirin~
+860	Karamıkkaracaören Beldesi, Seka Mah.	Akyer@|Akın~|Alpaslan@|Atmaca~|Bahçe~|Beyazıt@|Cami~|Cumhuriyet@|Demet~|Dumlupınar~|Enginar~|Erdem~|Fabrika İçi=|Fatih@|Güneş~|Hakan~|Kanarya~|Karanfil~|Kumru~|Lale~|Manolya~|Mevlana~|Mezarlık@|Milli Egemenlik@|Sahra~|Sanayi@|Selve~|Selvi~|Seyithan@|Tepe~|Yunus Emre~|Çimen~|İnli Yolu@|Şelale~
+861	Karamıkkaracaören Beldesi, Yukarı Mah.	Akasya~|Atatürk@|Ayva~|Funda~|Hanönü@|Karacabey~|Nergiz~|Oğuzhan~|Pamuk~|Sağlık Ocağı~|Süleyman Demirel%|Sütçe~|Taşçakır@|Taşçakır Küme Evler=|Tekke Çıkmazı~|Vişne~|Zafer~|Zambak~|Çiğdem~
+864	Koçbeyli Köyü, Aşağı Mevkii	Akbaba~|Armutlu=|Burçak~|Cumhuriyet~|Erdoğmuş~|Eşme~|Kavaklıdere~|Sarıtaş~|Zerdali~
+862	Koçbeyli Köyü, Göçmezler Mevkii	Akyel~|Alparslan~|Atatürk~|Bahar~|Cumhuriyet~|Dar~|Değirmen~|Gül~|Gülseren~|Gülşen~|Gündüz~|Ilgınlı~|Kabataş~|Kadife~|Kanarya~|Katip~|Kurtuluş~|Köroğlu~|Köyönü~|Menekşe~|Musalı~|Nar~|Paşalar~|Sağlıkocağı Sakak~|Susam~|Tepe~|Çilek~|Çiğdem~|İpek~
+863	Koçbeyli Köyü, Gülbaharlı Mevkii	Akyer~|Alparslan~|Barış~|Burçak~|Cumhuriyet~|H.ahmet Yesevi~|Hocaahmetyesevi~|Karanfil~|Kavaklıdere~|Yağmur~|Yıldız~
+865	Koçbeyli Köyü, Yeni Mevkii	Armutlu=|Atatürk~|Azman~|Belediye~|Beş Kavak~|Bozkurt~|Değirmen~|Dikmen~|Göçmez~|Gülbahar~|Hamam~|Hisar~|Koçer~|Köşe~|Köşk~|Küme~|Mehter~|Mezarlık~|Misler~|Musalı~|Oda~|Okul~|Onur~|Songül~|Süleyman Demirel~|Sümbül~|Topalahmet~|Veysel Karani~|Yunusemre~|Yılmaz~|İstiklal~|Şahanlar~|Şevikli~
+832	Köprübaşı Mah.	Cezaevi~|Pınar~|Tokdemir~|Torun~|Çağlayan=|Çivici~|Çivril~|Özden~|İsmail Kökçür@|Şapçı~
+5066	Kılıçyaka Köyü	Kılıçyaka=
+5067	Maltepe Köyü	 Köy$
+5068	Orhaniye Köyü	 Köy$
+833	Orta Mah.	Aktaş@|Ali Kaleli@|Aslanbey@|Bakırcan~|Bektaş~|Cumhuriyet@|Dr.sadık Ahmet@|Erdoğan~|Eskici~|Göktaş~|Göndelen~|Hacı Bekir~|Hacı Veli~|Işık~|Kireçoğlu~|Memişoğlu~|Muzaç~|Recep Tayyıp Erdoğan@|Sinema~|Turabi~|Türkmen~|Zafer@|Zemheri~|Çakıcı~|Özgür~|Şahin~
+866	Pazarağaç Beldesi, Afyon Mah.	Afyon Yolu@|Güllü Sokak~|Haşhaş~|Hıdır Myd.|Menekşe1~|Nergiz~|Pınar~|Ziver~|Çağlak Sokak~|Çınar~|Ş.ali Uyğur (küme Evler)@|Ş.ali Uyğur Küme Evler (b Kısmı)@|Şeme@
+867	Pazarağaç Beldesi, Beşevler Mah.	Asvar~|Atatürk%|Hıdır Myd.|Hıdır Sokak~|Keleş~|Kenan Evren%|Maltepe Yolu@|Zerdali~|Ziver~|Çayır~|Çağlak Sokak~
+868	Pazarağaç Beldesi, Karabulut Mah.	Acun~|Antalya Yolu@|Bulut~|Doğan1~|Duman=|Fidan1~|Gemrik=|Höyük~|Körçeşme@|Yayla~|Yıldırım@|Çoban~
+869	Pazarağaç Beldesi, Orta Mah.	Ada~|Antalya Yolu@|Avcı1~|Aydın~|Cumhuriyet=|Fırın~|Gürsel~|Hacı Musa~|Harım~|Maltepe Yolu@|Okul~|Seka Yolu@|Vatan@|Çalılar~|Çayır~|Ş.necip Özdemir%
+870	Pazarağaç Beldesi, Yukarı Mah.	Antalya Yolu@|Aydoğan~|Aydın~|Cami~|Cumhuriyet Myd.|Erdoğan1~|Höyük~|Karaahmet~|Kurtuluş@|Londra Çıkmazı~|Mehmet Akif Mey. Myd.|Seka Yolu@|Söğüt~|Yayla~|Çayyolu@|Çimen~|Ş.necip Özdemir%
+5069	Pınarkaya Köyü	 Köy$
+835	Tekke Mah.	Ağdacı~|Basri Gümüş@|Kaynak~|Köprübaşı~|Tekke~|Tekke Çiftlik Evleri=|Şen~
+836	Vakıf Mah.	Aksu~|Ali Yaşar Bozpınar@|Atatürk%|Baloğlu~|Bozpınar~|Emekliler~|Gezer~|Girne~|Güçlü~|Kartal~|Katip~|Lale~|Molla Çakır~|Muallim Rüştü Atay@|Turgut Özal@|Uyar~|Çallı~|Çelik~|İnönü@|Şehitler~|Şirin~
+837	Yaka Mah.	Akpınar~|Aktaş@|Ali Kaleli@|Ali Yakut@|Ağalar@|Basri Gümüş@|Cami-1~|Cıllıoğlu~|Depo~|Fidan~|Kadı Cami-1@|Meryemoğlu=|Palamut~|Yaka~|Yayla~|Çengel@|Ünal~|Şallıoğlu~|Şarlak~
+139901	Yeşilevler Mah.	1~|10~|11~|12~|13~|14~|2~|3~|4~|5~|6~|7~|8~|9~|Akçay-1~|Aslan~|Dündar~|Rüştü Akay@|Tarımköy=|Turgut Özal@|Yeşilevler Çiftlik Evleri=|Yılmaz Altan@|Özcan~|Şimşek~
+5070	Yeşilyurt Köyü	Yeşilyurt~
+5061	Çayırpınar Köyü	Çayırpınar=
+5062	Çayıryazı Köyü	 Köy$
+850	İnli Köyü, Alpaslan Mevkii	27.~|30.~|31.~|32.~|34.~|35.~|36~|Ara~|Balkanlar~|Fatih~|Gündoğmuş~|Pınar~|Tepe~
+851	İnli Köyü, Cumhuriyet Mevkii	1.~|16~|17.~|18.~|19.~|2.~|20~|3~|4.~|5~|6.~|7~|8.~|Doğrudere~|Gazi~|Gündoğmuş~|Hüyüklü~|Kerpiçlik~|Soğukpınar~|Yeni~
+852	İnli Köyü, Evren Mevkii	38.~|39.~|40.~|43~|47.~|49~|50~|51~|52~|53~|Atatürk~|Battal Gazi~|Cumhuriyet~|Delikaya~|Dost~|Doğan~|Gül~|Gündoğmuş~|Hisar~|Huzur~|Karanfil~|Kurtuluş~|Leyla~|Meltem~|Nergis~|Okul~|Piri Reis~|Salkım~|Selimiye~|Tuna~|Yozini~|Yıldız~|Çay~|Çiğdem~|İsmet İnönü~|Şehit Hasan Memiş~|Şuhut~
+853	İnli Köyü, Kavaklı Mevkii	22.~|23.~|25.~|26.~|Gazi~|Kerpiçlik~|Şehit Hasan Memiş~
+854	İnli Köyü, Kocatepe Mevkii	27.~|28.~|30 Ağustos~|30.~|54.~|58.~|59.~|61~|62~|63~|65~|72~|82~|9 Eylül~|91~|94~|98~|Afyonkarahisar~|Ardıç~|Barboros~|Barış~|Beyazıt~|Bük~|Bükgediği~|Cumhuriyet~|Dağyolu~|Dere~|Egemenlik~|Fatih Sultan Mehmet~|Fevzi Çakmak~|Fırat~|Gençlik~|Geçit~|Girne~|Güvercin~|Harman~|Harım~|Hüyük~|Karakaya~|Karavdan~|Kervan~|Kır~|Kızlarini~|Lale~|Mektep~|Meriç~|Mevlana~|Milli Birlik~|Mimar Sinan~|Orhan Gazi~|Oruç Reis~|Oylupınar~|Petrol~|Sakarya~|Sancak~|Selimiye~|Selvi~|Taşlık~|Turgut Reis~|Türkmen~|Umut~|Vatan~|Yavuz~|Yavuz Sultan Selim~|Yenice Sokak~|Yunus~|Zafer~|Zübeyde Hanım~|Zümrüt~|Çay~|İbni Sina~|İpek~|İstiklal~|Şafak~|Şehit Hasan Memiş~|Şelale~|Şeyh Şamil~|Şimşek~|Şuhut~
+855	İnli Köyü, Yayla Mevkii	100~|102~|104~|36~|Cumhuriyet~|Dumlupınar~|Fatih~|Gündoğmuş~|Hürriyet~|Kumluk~|Pınar~|Tepe~
+831	İstasyon Mah.	Balıklı~|Sarıkoç~|Çiftlik Evleri=|Şirinevler Çiftlik Evleri=
+834	Şirinevler Mah.	26 Ağustos~|30 Ağustos~|Alakavak~|Ali Yaşar Bozpınar@|Atatürk%|Ceyhan~|Coşkun~|Doğan~|Kayıkçı~|Kirazlı~|Kurtuluş~|Mehmet Arslan~|Memiş~|Ok~|Onar~|Rüzgarlı~|Sebahattin Dündar@|Topuz~|Uzun~|Yaşar Çengel@|Çimen~|Öncü~|Ünlüer~|İnönü@|İstiklal~|Şehit Kadir Özcan@|Şirinevler Çiftlik Evleri=

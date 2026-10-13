@@ -1,0 +1,54 @@
+148683	Alibey Mah.	Alibey~
+148685	Asmalıdere Mah.	Asmalıdere~
+148615	Aziziye Mah.	Aziziye~
+148617	Babaköy Mah.	Babaköy~
+148619	Balıklıdere Mah.	Balıklıdere~|Bandırma Şosa Arası@
+148667	Beyköy Mah.	Beyköy~
+148621	Bozen Mah.	Bozen~
+10591	Burhaniye Mah.	122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|Arpacı~|Ayvaz~|Aşık Yusuf~|Balatlı~|Bayır~|Belediyeciler@|Beşkardeşler~|Burhaniye@|Derviş Paşa@|Ersoy~|Gacal~|Girgin~|Gürece~|Handere~|Hekimoğlu~|Killik~|Lale~|Mezarlık@|Milli Kuvvetler@|Mülazım~|Onur~|Ortaköylü~|Sakin~|Santral~|Topbayırı~|Topçular~|Yayla~|Yaylaçayır~|Yıldız~|Ömerağa~
+148623	Buzağılık Mah.	Buzağlık~
+148687	Danaveli Mah.	Danaveli~
+148689	Demirkapı Mah.	Demirkapı~|Yeni Yerleşim Alanı~
+148625	Dereköy Mah.	Dereköy~
+148627	Duman Mah.	Duman~
+148629	Ekinlik Mah.	Ekinlik~
+148691	Eminpınarı Mah.	Eminpınarı~
+148613	Göbel Mah.	A~|Abbas Ağa~|Ada~|Baloğlu~|Bandırma@|Bağlar=|Bekir Ağa~|Beyaz Necip~|Cafer Ağa~|Cumhuriyet@|Dağcılar~|Demirciler Çıkmazı~|Eyüp Ağa~|Filibeli~|Gacallar~|Göçmen~|Gül~|Hacı Ahmet~|Halil Ülker~|Halilağa~|Kabakçılar~|Kamburbayır=|Karaca~|Karakol@|Kasçılar~|Katrancı Mehmet Pehlivan@|Katrancılar~|Koca Hafızlar~|Kocabaşlar~|Kopoycular~|Koru~|Kotaklar~|Kürkklü~|Mezbaha~|Muhacır Tarla=|Necip Ağa~|Okul~|Park~|Pıtıraklar~|Ruşen Dal~|Sağır Ahmet~|Söve@|Sığır Yolu~|Trafo Arkası=|Yonsullar~|Çayır~|Çel Ali~|Çoban İbrahim~|İsmailağa~|İstiklal@|Şehit Nusret Kula%|Şehit İsmet Çorak~
+148631	Gökçeağaç Mah.	Gökçeağaç~
+148693	Gökçedere Mah.	Gökçedere~
+148633	Günaydın Mah.	Günaydın~
+148635	Gürece Mah.	Gürece~
+10592	Han Mah.	104~|106~|107~|108~|109~|Abdullah Altunbaş~|Ahmet Çavuş~|Avcılar~|Aşıklar~|Balatlı~|Balıklıdere~|Bandırma@|Belediye@|Beşeylül@|Bıçakçılar~|Ceylan~|Demirciler@|Derviş Paşa@|Ertan Ve Sertan Soylu@|Eskici Yusuf~|Garaj@|Gelibolu~|Gürgen~|Hacı Bayram~|Hüseyin Şadi Kural~|Kamil Gül~|Kanal~|Karaca~|Kasaplar~|Kaykılar~|Kozan~|Maliye~|Milli Kuvvetler@|Mülazım~|Nuri Eroğlu~|Nuribey@|Okullar@|Sami Ekim@|Sanayi@|Sarıgül~|Sedir~|Topallar~|Varnalı~|Yaprak~|Yeni@|Yıldız~|Çam~|Çarşı Camii~|Çay@|İstasyon@|Şehit Fikret@|Şehit Göksel Hekimoğlu~|Şehit İbrahim Çınar Myd.
+148669	Ilıcaboğazı Mah.	Ilıcaboğazı~
+148639	Kalfaköy Mah.	Kalfaköy~
+148641	Karaköy Mah.	Karaköy~
+148611	Karapürçek Mah.	Ark Altı=|Bayram~|Bağlıklar~|Belediye Geçidi~|Bilgenler~|Bostanlık=|Bıçkıcıoğlu~|Camii~|Dereköy Yolu~|Dereyolu~|Dumlupınar@|Ekiciler~|Eskidere=|Hacı Abdullah~|Hacı Beyler~|Hacı İbrahim~|Hafız Muharrem~|Hatipler~|Hürriyet@|Kabaağaç=|Kalfalılar~|Kapucular~|Karahüseyinler~|Karapürçek@|Karaşahinler~|Menevşelik~|Mermeralçağı=|Mezarlık@|Mümin Çıkmazı~|Nalbantlar~|Okul~|Park~|Sakarya@|Salim Hoca Çıkmazı~|Sağlık Ocağı@|Sultangöğsü~|Sungurlu~|Tarım Kredi~|Tepeönü~|Tepeönü İnkilap~|Topalali~|Tütünlük~|Yahyakemal~|Yıldız~|Zeynelağa~|Ziyapaşa~|Çatalca~|Çatalceviz=|Çayıryolu~|Çeşmeler=|Çıldırlar~|Ömeroğlu~|Üç Evler~|İnkilap@
+10593	Karşıyaka Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19 Mayıs~|19.~|20.~|4.~|6.~|7.~|8.~|9.~|Ahmet Efe~|Alayayla~|Atatürk@|Ay~|Bahar~|Beyaz Gül~|Beyaz~|Buket~|Bülbül~|Curacı~|Defne~|Demet~|Demokrasi@|Doğan~|Duman~|Dumlupınar~|Ekinlik~|Emin Ağa~|Erdoğan~|Eser~|Eşref Kalaycı~|Fenerbahçe~|Gazi Fikri Günay~|Gediz~|Gönül~|Gülbahar~|Gülsoy~|Hacı Ali~|Hacı Osman~|Hoşgör~|Kadıoğlu~|Kalfa~|Kanarya~|Karayel~|Kardelen~|Kartal~|Kasımpatı~|Kayın~|Kelebek~|Kocatepe~|Kural~|Kutlu~|Kıral~|Malazgirt~|Narin~|Nur~|Orman~|Poyraz~|Ramazan Yörüken~|Rüzgar~|Sakarya~|Samyeli~|Serçe~|Sevgi~|Simav~|Temiz~|Tütünlük~|Ufuk~|Umut~|Uğur~|Yeşilırmak~|Yunus~|Çiğdem~|Özgür~|Özlem~|İbrahim Demirel~|Şahin~|Şehit Mehmet Çakıcı~|Şehrazat~
+148695	Kayalıdere Mah.	Kayalıdere~
+148643	Kayıkçı Mah.	Kayıkçı~
+148671	Kepekler Mah.	Kepekler~
+148697	Kiraz Mah.	Kiraz~
+148645	Kocapınar Mah.	Kocapınar~
+148647	Kulat Mah.	Kulat~
+148649	Kurucaoluk Mah.	Kurucaoluk~
+10594	Kışla Mah.	112~|113~|114~|115~|116~|120~|121~|Abdullah Yatar@|Aydın~|Balıkesir@|Baybaran@|Bayselim~|Demokrasi@|Derya~|Dişçi~|Güneş~|Huzurevi~|Kavas~|Kışla Camii~|Kışla~|Orhan Paşa~|Panayır Yolu~|Sazlı Köylü~|Tamirciler@|Yeşil~|Zaferi Milli@|Çakır Ali~|Çeşme~|İnönü@|İşler~|Şehit M Sıddık Aslan~|Şehit Pilot Rafet Yılmaz@
+148673	Muradiye Mah.	Muradiye~
+148699	Odalıdam Mah.	Odalıdam~
+148675	Okçugöl Mah.	Okçugöl~
+10595	Orta Mah.	104~|108~|109~|110~|111~|Araplar~|Ağa~|Balatlı~|Balıkesir@|Bandırma@|Belediye@|Beşeylül@|Cumhuriyet@|Demokrasi@|Ertan Ve Sertan Soylu@|Huzurevi~|Kavas~|Kayıkçılı Osman~|Kınalı~|Mazlumoğlu~|Milli Kuvvetler@|Nuribey@|Santral~|Zaferi Milli@|Çelebi~|Çınar~|Ömerağa~
+148651	Paşaköy Mah.	Paşaköy~
+148701	Reşadiye Mah.	Reşadiye~
+10596	Sultaniye Mah.	117~|118~|119~|135~|136~|141~|Abdullah Yatar@|Asri~|Ayvazoğlu~|Balıkesir@|Baybaran@|Cumhuriyet@|Derya~|Esen~|Esin~|Gazi İbrahim~|Gelincik~|Gül~|Hekimoğlu~|Hür~|Kıbrıs~|Kır~|Menekşe~|Milli Kuvvetler@|Muhacır~|Naciye Ebe~|Sakaroğlu@|Sazlı Köylü~|Ulaş~|Yeni Sanayi 1.~|Yeni Sanayi 2.~|Yeni Sanayi 3.~|Yeni Sanayi 4.~|Yeni Sanayi 5.~|Yeni Sanayi 6.~|Yörsan@|Yörük Ali~|Zafer~|Zaferi Milli@|Çömlekçi~|Örenli~|Şafak~|Şehit Pilot Rafet Yılmaz@|Şehitler~
+148655	Sultançayır Mah.	Sultançayır~
+148677	Söve Mah.	Söve~
+148653	Söğütçayır Mah.	Söğütçayır~
+148657	Sülecek Mah.	Sülücek~
+148661	Yahyaköy Mah.	Yahyaköy~
+148663	Yaylaçayır Mah.	Yaylaçayır~
+148659	Yağcı Mah.	Yağcı~
+10598	Yeni Mah.	101~|102~|103~|104~|105~|106~|109~|137~|138~|139~|140~|Aralık~|Ayyıldız~|Bandırma@|Barış~|Bağlar@|Belediyeciler@|Bereket~|Borsa@|Danişbey~|Dere~|Değirmenyolu~|Emek~|Ertan Ve Sertan Soylu@|Esentepe~|Fatih~|Fethi Bey~|Fevzi Paşa@|Gazhane~|Gölet~|Göçmen~|Günaydın@|Güven~|Hafız Hakkı~|Handere~|Hasan Şen~|Hastane@|Hikmet Hanım~|Ihlamur~|Kalaycı~|Karadeniz~|Karanfil~|Kasapbaşı~|Kiraz~|Kültür@|Küçük~|Leylak~|Mera~|Mezarlık@|Muallim Murtaza~|Muammer Aksoy%|Mustafa Necati~|Namık Kemal@|Nergis~|Okullar@|Ortaokul~|Papatya~|Park~|Recep Ağa~|Saatçioğlu~|Sancakdere~|Sazlık~|Selahattin Altınbaş~|Selahattin Demirel@|Sümbül~|Tepe Bağlar~|Tepe~|Toprak~|Tunca~|Varnalı~|Yasemin~|Yeni Bahar~|Yeni@|Zambak~|Zübeyde Hanım%|Çayır~|Çiçek~|İbrahim Turhan~|İleri~|İstasyon@|Şehit Fikret@|Şehit Kadir Çelik@|Şehit Latif Kıvrak@|Şehit İlker Yıldız~|Şeker@|Şirin~
+148665	Yıldız Mah.	Yıldız~
+148681	Ömerköy Mah.	Ömerköy B.m~
+148679	Ümiteli Mah.	Ümiteli~
+148637	İclaliye Mah.	İclaliye~
+10597	Şeker Mah.	Akademi~|Bandırma@|Bergüzar~|Güvercin~|Kaya Erdem@|Lojmanlar=|Manolya~|Nuri Şeker@|Orkide~|Salkım~|Uygun~|Uçuran~|Şeker Fabrikası=

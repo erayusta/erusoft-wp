@@ -1,0 +1,55 @@
+143675	Akseki Mah.	Akseki~
+143677	Akyaka Mah.	Akyaka~
+10077	Akçay Mah.	63~|64~|65~|Akçay Birinci Kümesi=|Arıkaltı=|Demirci Kuyusu=|Dereağzı=|Döküklük Mevkii=|Esat Mahmut Bozkurt~|Eski Muhacirler~|Güller Yakası~|Hacıbektaşı Veli~|Köprü Kümeevleri=|Nigiz~|Okullar@|Taşköprü=|Yıldırım~|Zeytin~|Ziyagökalp~
+143679	Alamut Mah.	Alamut~
+143681	Alhisar Mah.	Alyürek~|Hisardere~|Memişler~|Merkez Küme Evleri~
+143683	Altıntaş Mah.	Aşağı~|Beylikdere~|Bulgur Yaylası~|Kovalan~|Orta~|Yukarı~
+143685	Amasya Mah.	Cımbılaz~|Kazanbükü Mezrası~|Merkez Küme Evleri~|Sırma Mezrası~|Yaylalar~
+143687	Asma Mah.	Asma~|Kovanlık Gediği~|Sarı Alan~|Yayla Küme Evleri~
+143689	Başalan Mah.	Dağdibi Kümeevleri~|Ergek Kümeevleri~|Geymana Kümeevleri~|Merkez Okul Kümeevleri~|Ortaburun Kümeevleri~|Viranaltı Küme Evleri~
+10078	Cumhuriyet Mah.	49~|50~|51~|52~|53~|54~|Deveci Çıkmazı~|Değirmen~|Eminefendi@|Gençlik~|Kahveönü~|Kocairim~|Mugla@|Sepetler~|Yaylakavağı=|Çarşı@
+143693	Dutağaç Mah.	Dutağaç~
+143695	Dömen Mah.	Dömen~
+10080	Eymir Mah.	581@|584~|60~|61~|62~|660~|661~|662~|663~|664~|665~|666~|668~|Andır~|Andır Çıkmazı~|Azizler~|Kocabıçak Kuyusu=|Kurutaş=|Mescit~|Okul@|Sovcek=|Soğukkuyu=|Uzunlar~|Yeniyol@
+143697	Güney Mah.	Güney~|Kundurlar~
+143699	Güneyyaka Mah.	Güneyyaka~
+143701	Güre Mah.	Malküpü~|Merkez Küme Evleri~
+143703	Güvenir Mah.	Akdam~|Merkez Küme Evleri~
+143705	Haydere Mah.	Dökük (merkez Küme Evleri)~|Göller(merkez Küme Evleri)~|Kirişli (merkez Küme Evleri)~|Kocakır~|Sıramelengeç~|Sığırönü (merkez Küme Evleri)~|Çarşı (merkez Küme Evleri)~
+10082	Hisar Mah.	43~|44~|45~|46~|47~|48~|58~|Alaattin Çıkmazı~|Berberali Çıkmazı~|Demirci Çıkmazı@|Değirmen~|Fırınönü~|Harımarası=|Helvacı Yokuş~|Hisar Cami~|Madran@|Müezzin~|Nalbantoğlu~|Paldımcı~|Postacı~|Santral~|Tuzluk~
+10081	Hıdırbaba Mah.	13~|38~|39~|40~|41~|42~|Ahmet Yokusu~|Beşoluk~|Dikilitaş~|Hamam~|Hıdırbaba Cami~|Hıdırbaba Yaylakavağı=|Karakaş~|Katırcı~|Koca İrim~|Kumbur Çeşmesi~|Mezarlık~
+143707	Hışımlar Mah.	Avdullar~|Değirmendere~|Kaklık~|Merkez Küme Evleri - Armutalan~|Merkez Küme Evleri -yeni~|Merkez Küme Evleri~|Olukdere~|Çırpılar~
+143709	Kakkalan Mah.	Merkez Küme Evleri~|Çaputluçam Kümeevleri~
+143711	Kamışlar Mah.	Merkez Küme Evleri~|Soğuk Kuyu~
+143713	Karaahmetler Mah.	Aşağıdere~|Merkez Küme Evleri~|Ören~
+200633	Karabağlar Mah.	Karabağlar~|Merkez Küme Evleri - Karabağlar~
+143715	Kavaklı Mah.	Kavaklı~
+143717	Kazandere Mah.	Kazandere~
+143719	Kemer Mah.	Kemer~
+143727	Konaklı Mah.	Merkez Küme Evleri - Baraj Aşağı~|Merkez Küme Evleri-gedik~|Site~|Yukarı Totaş~|İnkaya~
+143731	Koyuncular Mah.	Koyuncular~
+143733	Körteke Mah.	Gölcük~|Karagedik~|Merkez Küme Evleri~|Yayla~
+143721	Kılavuzlar Mah.	Merkez Küme Evleri~|Yenice~|Yukarı~
+143723	Kızılca Mah.	Merkez Küme Evleri~|Saraçlar~
+143725	Kızıltepe Mah.	Aşağı Alimanlar~|Merkez Küme Evleri~|Yukarı Alimanlar~
+10083	Madran Mah.	Madran=|Yayla=
+143735	Olukbaşı Mah.	Olukbaşı~
+143737	Osmaniye Mah.	Osmaniye~
+143747	Pınarlı Mah.	1. Merkez Küme Evleri~|2. Merkez Küme Evleri~|Karadut~
+143749	Seki Mah.	Seki~
+143751	Sırma Mah.	Merkez Küme Evleri - Kayırlı~|Merkez Küme Evleri - Kemer Barajı~|Merkez Küme Evleri~|Tefre~
+143753	Tütüncüler Mah.	Manamak~|Merkez~|Örenker~
+143755	Yaka Mah.	Yaka~
+143673	Yazıkent Mah.	1. (gündoğdu)~|1.~|10.~|10/1~|10/2~|11~|11/1~|11/2~|11/3~|12.~|12/1~|13.~|13/1~|13/2~|14.~|15.~|15/1~|16.~|16/1~|2. (gündoğdu)~|2.~|3. (gündoğdu)~|3.~|3.çıkmaz~|3/1~|3/2~|3/3~|4. (gündoğdu)~|4.~|4/1~|5. (gündoğdu)~|5.~|6.~|6/1~|6/2~|6/3~|6/4~|7.~|8.~|8/1~|8/2~|9. (gündoğdu)~|9.~|Atatürk (gündoğdu)@|Atatürk@|Cumhuriyet (gündoğdu) Myd.|Cumhuriyet Myd.|Emenni=|Kocakır 1=|Kızılçakır=|Mehmet Özbay (gündoğdu)@|Mehmet Özbay@|Mürşide Akçay@|Paldımlık=|Pazar (gündoğdu) Myd.|Pazar Myd.|Sağlık@|Sünnetli=
+10084	Yeni Mah.	14~|15~|16~|17~|18~|19~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|30~|31~|32~|33~|34~|35~|36~|584~|586~|588~|590~|Adnan Menderes%|Alt Sanayi~|Atatürk@|Belen~|Bentbaşı=|Bizimevler@|Bozsan~|Enstitü~|Genç~|Girme Kırı=|Küçük Sanayi~|Mera=|Milli Egemenlik~|Mimarsinan@|Muğla@|Okullar@|Orta Sanayi~|Pınar~|Spor~|Taşköprü=|Yazıkent@|Yeni Sanayi@|Üniversite@|Üst Sanayii~|Şehitler@
+10085	Yenice Mah.	43~|55~|56~|57~|59~|Atçalı Çıkmazı~|Aşağı Harım Arası~|Dere~|Hacısalih Çıkmazı~|Hüssemoğlu Çıkmazı~|Koruarası=|Mısırlı~|Pınarlı~|Tekke~|Tokat~|Tokat Çıkmazı~|Tuzluk~|Yeniköprü~
+143759	Yeniköy Mah.	Yeniköy~
+143757	Yeşil Yenice Mah.	Yenice~
+143761	Yeşilçam Mah.	Arpaalan~|Hacıosmanlar~|Küme Evleri 1~|Küme Evleri 2~|Yeşilçam~
+143763	Ziyaretli Mah.	Merkez Küme Evleri - Dörtağaçlar Mevkii~|Merkez Küme Evleri~
+143691	Çamlıdere Mah.	Bulaylı~|Kale~|Merkez Küme Evleri~|Sipahiler~|Yayla~
+10079	Çarşı Mah.	1~|10~|11~|12~|13~|2~|241~|243~|266~|268~|272~|3~|37~|4~|5~|6~|66~|67~|68~|7~|8~|9~|Aksu~|Arsan~|Atatürk@|Aşağı Sogukkuyu~|Barbaros~|Bayramoğlu~|Belediye Yokuşu@|Bezirgan Çıkmazı~|Cami~|Demirciler~|Fabrika~|Fillikçioglu~|Hamam~|Hekim Çıkmaz~|Höceki~|Hükümet@|Kadılar Çeşmesi~|Kardeşler~|Kuvayi Milliye~|Lale~|Madran@|Mezbaha~|Muğla@|Numan~|Okullar@|Pirim Çıkmaz~|Postacı Çıkmazı~|Raufbey~|Sanayi~|Sebil@|Telgrafhane~|Tevfik Oktay~|Toker~|Yazıkent@|Yonca Yokuşu~|Yukarı Soğukkuyu~|Çarşı@|Öğretmenler~|Şehit Üsteğmen Yüksel Çankaya~|Şose@
+143739	Örencik Mah.	Göcek~|Örencik~
+143741	Örentaht Mah.	Adadere~|Anzıbağı~|Gölbelen~|Merkez Küme Evleri~|Toyran~
+143743	Örmepınar Mah.	Belen~|Gozyeri~|Hıdırlar~|Karagöl~|Örmepınar~
+143745	Örtülü Mah.	Alan~|Ericek~|Kayır~|Merkez Küme Evleri~

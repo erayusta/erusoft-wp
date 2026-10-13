@@ -1,0 +1,62 @@
+83691	Akçapınar Köyü	Akçapınar=|Hastek=
+83692	Akçapınar Köyü, Hastek Mezrası	Hastek=
+83693	Akçapınar Köyü, Koyunardı Mezrası	Koyunardı=
+83705	Akçayunt Köyü, Akçayunt Mevkii	Akçayunt=
+83712	Alakuş Köyü	Alakuş=
+83665	Anıl Köyü	Anıl=
+83666	Anıl Köyü, Ardige Mezrası	Ardige=
+83667	Anıl Köyü, Kızıl Evler Mezrası	Kızıl Evler=
+83669	Arpaderen Köyü	Arpaderen=
+83668	Arpaderen Köyü, Ardiğe Mezrası	Arpaderen=
+83670	Arpaderen Köyü, Doruk Mezrası	Doruk=
+83671	Aşağıbudak Köyü	Aşağıbudak=
+83713	Aşağıdemirbük Köyü	Aşağıdemirbük=
+83672	Bağsuyu Köyü	Bağsuyu=
+83694	Bozağaç Köyü	Bozağaç=
+83673	Büyükörence Köyü	Büyükörence=
+83674	Büyükörence Köyü, Aşağı Savuk Mezrası	Aşağı Savuk=
+83675	Büyükörence Köyü, Yukarı Savuk Mezrası	Yukarı Savuk=
+83714	Cebe Köyü	Cebe=
+83715	Cebe Köyü, Müştak Mezrası	Müştak=
+83718	Cihangir Köyü	Cihangir=
+139492	Dedebeyli Köyü	Dedebeyli=
+83695	Doğan Köyü	Doğan=
+83716	Doğanalan Köyü	Doğanalan=
+83717	Erkalkan Köyü	Erkalkan=
+83703	Gedikler Köyü	Gedikler=
+83704	Gedikler Köyü, Alçılı Mezrası	Alçılı=
+83708	Gedikler Köyü, Ergenler Mezrası	Ergenler=
+83709	Gedikler Köyü, Keçeli Mezrası	Keçeli=
+83710	Gedikler Köyü, Varlıkonak Mezrası	Varlıkonak=
+83711	Gedikler Köyü, Yukarıdemirbük Mezrası	Yukarıdemirbük=
+83676	Gözlüçayır Köyü	Gözlüçayır=
+83677	Gözlüçayır Köyü, Kineli Mezrası	Kineli=
+83719	Gülbahçe Köyü	Gülbahçe=
+197639	Güneybaşı Köyü	Güneybaşı=
+80197	Hacı Cami Mah.	Bozankaya~|Cengeser 1.~|Dede Nüzhet@|Döner~|Enginler~|Gülcüler 1.~|Gülcüler~|Hükümet@|Kılıç~|Park~|Sakarya@|Yakacık@|Çengeser~
+80198	Hamamatik Mah.	Bademli~|Dar~|Gedikler@|Hamam 2.~|Hamam 3.~|Hamam 4.~|Kazım Yılmaz 1.~|Kazım Yılmaz@|Koçoğlu~|Leventler@|Sakarya@|Yelmaniye~|Çemişgezek İsimsiz 140~|Çıkrık~
+80199	Kale Mah.	Camii 1.~|Camii 2.~|Camii~|Cumhuriyet Myd.|Elazığ@|Gedikler 1.~|Gedikler@|Gümüş~|Kale 1.~|Kale 2.~|Kale 3.~|Kale~|Kızıl Evler=|Tağar 1.~|Tağar 2.~|Tağar~|Çaybağı=
+83678	Karasar Köyü	Karasar=
+83679	Kıraçlar Köyü	Kıraçlar=
+80200	Mescit Mah.	Dede Nüzhet 1.@|Dede Nüzhet 2.~|Dede Nüzhet@|Hastane 1.~|Hastane 2.~|Hastane 3.~|Hastane 4.~|Hastane@|Hükümet@|Hükümet2~|Murat@|Mustafa Ataş%|Mustafa Ataş2~|Pirzade=|Sağlık~|Sağven~|Sipahi~|Tatar=|Yeni Yol 1~|Yeni Yol2~|Çemişgezek İsimsiz 13@|Çemişgezek İsimsiz 28~|Çemişgezek İsimsiz 33@|Çemişgezek İsimsiz 50@|Üçbey~|Şeftali 1.~|Şeftali@
+83696	Payamdüzü Köyü	Payamdüzü=
+83697	Payamdüzü Köyü, Köçek Mezrası	Köçek=
+83680	Paşacık Köyü	Paşacık=
+83681	Paşacık Köyü, Buğdaylı Mezrası	Buğdaylı=
+83682	Sakyol Köyü	Sakyol=
+83698	Sarıbalta Köyü	Harmanlar1~|Sarıbalta=
+83683	Tekeli Köyü	Tekeli=
+83685	Tekeli Köyü, Taşlık Mezrası	Taşlık=
+83684	Tekeli Köyü, Çizmeli Mezrası	Çizmeli=
+80201	Tepebaşı Mah.	Anıl=|Bademli~|Bademli1~|Hükümet@|Kazım Yılmaz 1.~|Murat 1.~|Murat@|Nalbant~|Pirzade=|Topçu~|Topçu1~|Yelmaniye~|Çaybağı=|Çemişgezek İsimsiz 140~|Çemişgezek İsimsiz 15~|Çemişgezek İsimsiz124~|Çemişgezek İsimsiz127~|Çemişgezek İsimsiz71~|Çıkrık~
+83686	Toratlı Köyü	Toratlı=
+83687	Toratlı Köyü, Karagedik Mezrası	Karagedik=
+83699	Ulukale Köyü	Ulukale=
+83700	Ulukale Köyü, Aşağı Peydere Mezrası	Aşağı Peydere=
+83701	Uzungöl Köyü	Uzungöl=
+83688	Vişneli Köyü	Vişneli=
+83702	Yemişdere Köyü	Yemişdere=
+80202	Yenimahalle Mah.	Asmalı~|Bölmebölen@|Dar2~|Güney~|Güney1~|Harmanlar=|Harmanlar1~|Harmanlar2~|Kırlar=|Sarıbalta=|Serin~|Çemişgezek İsimsiz 89~
+83689	Yukarıbudak Köyü	Yukarıbudak=
+83690	Yünbüken Köyü	Yünbüken=
+80196	Çukur Mah.	1.çarşı~|Elazığ@|Hamam~|Hastane@|Kılıç~|Mirnahi=|Mustafa Ataş 1.~|Mustafa Ataş 3.~|Mustafa Ataş%|Mustafa Ataş1~|Mustafa Ataş4~|Mustafa Ataş5~|Mustafa Ataş6~|Park~|Peymunut Mezrası=|Sakarya@|Sekirek Mezrası=|Uzun Hasan 1.~|Uzunhasan~|Yakacık@|Yakacık_1@|Çaybağı=|Çaybağı1~|Çaybağı2=|Çengeser~

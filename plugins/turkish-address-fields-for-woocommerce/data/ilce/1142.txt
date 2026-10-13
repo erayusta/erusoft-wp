@@ -1,0 +1,33 @@
+95464	Adetli Köyü	Adetli=
+95465	Adetli Köyü, Hıdırlı Mezrası	Hıdırlı=
+90781	Aras Mah.	Alpaslan@|Aras İsimsiz 1~|Aras İsimsiz 2~|Aras İsimsiz 3~|B20 Kanal Yolu~|Bayat~|Bayat Yol 1~|Bayat Yol 2~|Bülbül~|Bülbül Yol 1~|Fikret Ekinci~|Güneş~|Kanal Üstü~|Mehmetemin Resulzade@|Mehmetemin Resulzade Yol 1~|Selektör~|Selektör Yol 1~|Selektör Yol 2~|Selektör Yol 4~|Selektör Yol 5~|Serhat~|Çıkmaz~|İnci~|İstiklal~
+95466	Aşağıaratan Köyü	Aşağıaratan=
+95470	Aşağıtopraklı Köyü	Aşağıtopraklı=
+95467	Aşağıçamurlu Köyü	Aşağıçamurlu=
+95468	Aşağıçamurlu Köyü, Ortalar Mevkii	Ortalar=
+95469	Aşağıçiftlik Köyü	Aşağıçiftlik=
+95471	Babacan Köyü	Babacan=
+95472	Emince Köyü	Emince=
+95473	Emince Köyü, Tigem Mevkii	Tigem=
+95474	Gödekli Köyü	Gödekli=
+95475	Hacıağa Köyü	Hacıağa=
+95476	Hasanhan Köyü	Hasanhan=
+95477	Karahacılı Köyü	Karahacılı=
+139528	Karahacılı Köyü, Esenkaya Mevkii	Esenkaya=
+90782	Karasu Mah.	B20 Kanal Yolu~|Celayir~|Celayir Yol 1~|Celayir Yol 2~|Değirmen~|Değirmen Yol 1~|Güzelkaya~|Hürriyet~|Hürriyet Yol 1~|Kafkas Yol 3~|Karanfil~|Kumlu Yol 1~|Kumru~|Mehmetali~|Mehmetali Yol 1~|Mehmetali Yol 2~|Mehmetemin Resulzade@|Menekşe~|Ortaköy~|Ortaköy Yol 1~|Serhat~|Zambak~|Zambak Yol 1~|Şehit Sefer Güzelkaya@|Şehit Sefer Güzelkaya Yol 1~|Şehit Sefer Güzelkaya Yol 2~|Şehit Sefer Güzelkaya Yol 3~|Şehit Sefer Güzelkaya Yol 4~|Şehit Sefer Güzelkaya Yol 5~
+90783	Karşıyaka Mah.	Adliye~|Ata~|Atatürk@|Bahçe~|Bağlar~|Değirmen~|Değirmen Yol 1~|Emek~|Emek Yol 1~|Gazi~|Genç~|Göktuğ@|Göktuğ Yol 1~|Göktuğ Yol 12~|Göktuğ Yol 2~|Göktuğ Yol 3~|Göktuğ Yol 5~|Göktuğ Yol 6~|Göktuğ1~|Gökçe~|Hamit Turan~|Iğdır@|Kafkas~|Kafkas Yol 1~|Kafkas Yol 2~|Kafkas Yol 3~|Karşıyaka Yol 1~|Karşıyaka Yol 2~|Karşıyaka Yol10~|Karşıyaka Yol11~|Karşıyaka Yol12~|Karşıyaka Yol13~|Karşıyaka Yol14~|Karşıyaka Yol15~|Karşıyaka Yol16~|Karşıyaka Yol2~|Karşıyaka Yol3~|Karşıyaka Yol4~|Karşıyaka Yol5~|Karşıyaka Yol6~|Karşıyaka Yol7~|Karşıyaka Yol8~|Karşıyaka Yol9~|Kumlu~|Kumlu Yol 1~|Lale~|Mareşal Fevzi Çakmak@|Mezarlık~|Milli Egemenlik@|Milli Egemenlik Yol 1~|Milli Egemenlik Yol 3~|Taş~|Vali Ünal Özgödek%|Vali Ünal Özgödek Yol 2~|Vatan~|Şamil~|Şehit Er Erhan Çiyapul~|Şehit Polis Bülent Aktaş~|Şehit Polis Mehmet Özdemir~|Şehit Polis Mehmet Özdemir Yol 3~
+95479	Kolikent Köyü	Kolikent=
+90784	Köprüler Mah.	Alpaslan@|Alpaslan Yol 1~|Alpaslan Yol 2~|Alpaslan Yol 3~|Atatürk@|B20 Kanal Yolu~|Bahçeli~|Fikret Ekinci~|Gökbent~|Gökbent Yol 1~|Gökbent Yol 11~|Gökbent Yol 12~|Gökbent Yol 2~|Gökbent Yol 3~|Gökbent Yol 4~|Gökbent Yol 5~|Gökbent Yol 6~|Gökbent Yol 7~|Gökbent Yol 8~|Gökbent Yol 9~|Göktuğ@|Gül~|Gül Yol 1~|Gül Yol 2~|Gül Yol 3~|Kadılar~|Kadılar Yol 1~|Köprüler İsimsiz 1~|Köprüler İsimsiz Yol2~|Leylak~|Prf.dr.hülya Çiftlik@|Serhat~|Vali Ünal Özgödek 1~|Vali Ünal Özgödek 9~|Vali Ünal Özgödek%|Vali Ünal Özgödek Yol 3~|Vali Ünal Özgödek Yol 4~|Vali Ünal Özgödek Yol 5~|Vali Ünal Özgödek Yol 6~|Vali Ünal Özgödek Yol 7~|Vali Ünal Özgödek Yol 8~|Yunus Emre~|Zümrüt~
+95478	Kırçiçeği Köyü	Kırçiçeği=
+90785	Ortaköy Mah.	1.~|2.~|3.~|Aratan~|Atam@|Aydınlık~|Aşağıaratan=|B20 Kanal Yolu~|Demir~|Döngü~|Göktuğ@|Hamam~|Han~|Işık~|Kafkas~|Kanal Üstü~|Ortaköyüorta=|Papatya~|Tepe~|Çelik~|Çiftlik~|Çıkmaz1~
+95480	Ramazankent Köyü	Ramazankent=
+95481	Saraçlı Köyü	Saraçlı=
+99762	Tarlabaşı Köyü, Bilican Mevkii	Bilican=
+99761	Tarlabaşı Köyü, Gömük Mevkii	Gömük=
+99760	Tarlabaşı Köyü, Köyün Kendisi Mevkii	Tarlabaşı=
+95482	Tazeköy Köyü	Tazeköy=
+95483	Yenidoğan Köyü	Yenidoğan=
+95484	Yukarıaratan Köyü	Yukarıaratan=
+95487	Yukarıtopraklı Köyü	Yukarıtopraklı=
+95485	Yukarıçamurlu Köyü	Yukarıçamurlu=
+95486	Yukarıçiftlik Köyü	Yukarıçiftlik=

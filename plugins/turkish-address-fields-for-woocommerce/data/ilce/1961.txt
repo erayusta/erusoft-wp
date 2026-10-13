@@ -1,0 +1,6 @@
+1035	Cumhuriyet Mah.	Acar~|Albayrak~|Alkan~|Aras~|Arslan~|Atagül~|Bekteş~|Cami~|Can Ali~|Can~|Canlılar~|Cengiz Topel@|Cennet~|Coşguner~|Cumhuriyet Myd.|Demirciler@|Dilek~|Divrik~|Ersoy~|Fatih@|Fethi Bey~|Fevzi Paşa@|Gülyazı~|Gürbüzler~|Hacı Hasan~|Hatipler@|Hizar Önü~|Karadayı~|Kirişoğlu~|Kocapınar~|Kopuklar~|Korkmaz~|Köroğlu~|Lale~|Mercan~|Merkezi~|Morallar~|Pekşen~|Sarıkayalar~|Söğütözü~|Tekinler~|Tekstil~|Telefoğlu~|Tomaylar~|Yahşi~|Yakuplar~|Yanık~|Yavuzlar~|Yayla@|Yıldırım~|Zora~|Çakmak~|Çerkezoğlu~|Özbunar~|Özcanlar~|İmaret~|Şehitler~
+5339	Ekinova Köyü	 Köy$
+5340	Gülyazı Köyü	 Köy$
+5341	Türkbelkavak Köyü	 Köy$
+1036	Yeni Mah.	Abey~|Akpınar~|Aksel~|Aktürk~|Akıncılar~|Bahçeli~|Demirciler@|Erdoğan~|Eroğlu~|Eyüp~|Fedai~|Fenerlik~|Fethi Bey~|Gencerler~|Geygel~|Kara Ali~|Karanfil~|Karapınar~|Kaya~|Kazım~|Koç~|Kum Ocağı~|Kuytu~|Kültür~|Mescit~|Park~|Suçıkan~|Tarım~|Vatan@|Yenidoğan@|Çakmak~|Çağlayan~|Çelik~|Çiftlik~|Çilkaya~|Ömer Akar~|İşleyen~|Şahan~|Şehit Ömer Doğan~|Şehit İbrahim Köse~|Şehitler~
+5342	Yenibelkavak Köyü	 Köy$

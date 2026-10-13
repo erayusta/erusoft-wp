@@ -1,0 +1,42 @@
+70388	A.camii Mah.	1.~|204~|208~|Akarca~|Ayazlı~|Cumhuriyet@|Hacı Süleyman~|Kanal@|Kanal=|Nene Hatun@
+76865	Akçataş Köyü	 Köy$
+70389	Alsancak Mah.	1.~|302~|Arıcı~|Bayram~|Cumhuriyet@|Dikilitaş~|Dumlupınar@|Karakol~|Karanfil~|Ulu Bey@|Yazıcı~|Çınar~|Şehit Hami Önge~
+76866	Arslanca Köyü	 Köy$
+76868	Aydoğdu Köyü	 Köy$
+76869	Aydoğdu Köyü, Kayaoğlu Mezrası	 Köy$
+76867	Aşağıtepecik Köyü	 Köy$
+76871	Bozat Köyü	 Köy$
+76870	Boğazköy Köyü	 Köy$
+76872	Canköy Köyü	 Köy$
+76879	Demirkonak Köyü	 Köy$
+76880	Dikköy Köyü	 Köy$
+76881	Dikköy Köyü, Yukarı Dik Mezrası	 Köy$
+70391	Fevzi Çakmak Mah.	1.cumhuriyet~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|Cengiz Topel~|Cumhuriyet@|Engin~|Gölova Yayla 1.küme=|Gölovayayla 2.küme=|Kanal@|Keşan 1.~|Keşan~|Uluğ Bey@
+76882	Gözlüce Köyü	 Köy$
+76883	Gözlüce Köyü, Ödemiş Mezrası	 Köy$
+76885	Gözüküçük Köyü	 Köy$
+76886	Günalan Köyü	 Köy$
+76884	Güzören Köyü	 Köy$
+76888	Karaca Köyü	 Köy$
+76889	Karayakup Köyü	 Köy$
+76890	Karayakup Köyü, Çubuk Mezrası	 Köy$
+76891	Okçaören Köyü	 Köy$
+76892	Sarıyusuf Köyü	 Köy$
+76893	Soğuksu Köyü	 Köy$
+76894	Subaşı Köyü	 Köy$
+76895	Uluçukur Köyü	 Köy$
+76897	Yaylaçayı Köyü	 Köy$
+76898	Yaylaçayı Köyü, Gedik Mezrası	 Köy$
+76896	Yaylaçayı Köyü, Kolbaşı Mezrası	 Köy$
+76899	Yukarıtepecik Köyü	 Köy$
+76900	Yukarıtepecik Köyü, Aşagı Mevkii	 Köy$
+76901	Yuvacık Köyü	 Köy$
+76902	Yuvacık Köyü, Bezgin Mevkii	 Köy$
+76873	Çakırşeyh Köyü	 Köy$
+70390	Çalkaya Mah.	Belgüzar~|Cami~|Hoca Ahmet Yesevi@|Yılmaz~|Şehit İbrahim~
+76874	Çataklı Köyü	 Köy$
+76875	Çevrecik Köyü	 Köy$
+76876	Çevrecik Köyü, Sarıçiçek Mezrası	Köy Sokagı Köy$
+76877	Çobanlı Köyü	 Köy$
+76878	Çukuryurt Köyü	 Köy$
+76887	İlyasköy Köyü	 Köy$

@@ -1,0 +1,59 @@
+61448	Adalar Mah.	Adalar=
+61442	Aksu Mah.	Kiremitçiler=|Kule=|Merkez=|Yukarı Tatlısu 3 Nolu=
+197981	Aksu Osb Mah.	1 Nolu%|2 Nolu@|3 Nolu@|4 Nolu@|5 Nolu@|6 Nolu@|7 Nolu@
+61443	Aşağı Tatlısu Mah.	Aşağı Tatlısu 1 Nolu=|Aşağı Tatlısu 2 Nolu=|Aşağı Tatlısu 3 Nolu=|Yukarı Tatlısu 2 Nolu=
+61444	Cevizlik Mah.	Cevizlik Merkez=|Kızıltoprak=|Yeni=
+61445	Dağdibi Mah.	Dağdibi 1 Nolu=|Dağdibi 2 Nolu=|Taşçılar=
+68708	Dülgerli Köyü	Dülgerli=
+68709	Esendere Köyü	Esendere=
+68738	Esentepe Köyü	Köyün Kendisi=
+68710	Fındıklı Köyü, Babadağı Mevkii	Babadağı=
+68711	Fındıklı Köyü, Dereiçi Mevkii	Dereiçi=
+68712	Fındıklı Köyü, Musluoğlu Mevkii	Musluoğlu=
+68713	Fındıklı Köyü, Sandıkçıoğlu Mevkii	Sandıkçıoğlu=
+68714	Fındıklı Köyü, Sırt Mevkii	Sırt=
+68715	Fındıklı Köyü, Yıldırımlar Mevkii	Yıldırımlar=
+68716	Geçitli Köyü	Geçitli=
+68717	Hurmalık Köyü	Hurmalık=
+68719	Hüseyinhoca Köyü	Hüseyinhoca=
+68720	Kayabaşı Köyü	Kayabaşı=
+61446	Kuruköy Mah.	Kuruköy 2@|Kuruköy@|Kuruköy Merkez=|Kızıltoprak=
+61449	Kızıltoprak Mah.	Kızıltoprak=
+61450	Medrese Mah.	Durak~|Fabrika~|Girne 1~|Girne@|Kazım Cengiz~|Kuruköy 1@|Medrese~|Medrese/1~|Medrese/2~|Merkez_1=|Rize /1~|Rize@|Soğuksu=|Stadyum@|Stadyum/1~|Taşçılar=|Yukarı Tatlısu 2 Nolu=
+68721	Ormanlı Köyü	Ormanlı=
+68707	Pınarköy Köyü	Barış~|Pınarköy=
+68722	Seyrantepe Köyü	Seyrantepe=
+68723	Soğuksu Köyü	Soğuksu=
+61451	Soğuksu Mah.	Adalar=|Soğuksu=
+61452	Taşçılar Mah.	Kule=|Taşçılar=
+61453	Yeni Mah.	Cevizlik Merkez=|Kızıltoprak=|Yeni=
+68733	Yenigeçitli Köyü	Yenigeçitli=
+68734	Yeniköy Köyü	Yeniköy=
+68735	Yeşilköy Köyü	- Köy$
+100395	Yeşilköy Köyü, Aşağı Mevkii	Aşağı=
+100396	Yeşilköy Köyü, Orta Mevkii	Orta=
+100398	Yeşilköy Köyü, Yamaç Mevkii	Yamaç=
+100400	Yeşilköy Köyü, Yeşildere Mevkii	Yeşildere=
+100397	Yeşilköy Köyü, Yukarı Mevkii	Yukarı=
+100399	Yeşilköy Köyü, Şendere Mevkii	Şendere=
+68736	Yokuşlu Köyü	Yokuşlu=
+61454	Yolbaşı Köyü, Armutlu Mevkii	Atatürk~|Gül~|Güneş~
+61455	Yolbaşı Köyü, Camii Mevkii	Cami~|Denizgören~|Mehmet Akif Ersoy~
+61456	Yolbaşı Köyü, Cumhuriyet Mevkii	Değirmen~|Menekşe~|Rize~|Yıldız~
+61457	Yolbaşı Köyü, Düz Mevkii	Akasya~|Vişne~|Yavuz Sultan Selim~
+61458	Yolbaşı Köyü, Merkez Mevkii	Barış~|Fatih~|Kirazlık~|Lale~|Okul~|Papatya~|Çay~
+61459	Yolbaşı Köyü, Sırt Mevkii	Barbaros~|Mareşal Fevzi Çakmak~|Uzun~
+61447	Yukarı Tatlısu Mah.	Aşağı Tatlısu 1 Nolu=|Aşağı Tatlısu 2 Nolu=|Fabrika~|Kule=|Merkez=|Rize /1~|Yukarı Tatlısu 1 Nolu=|Yukarı Tatlısu 2 Nolu=|Yukarı Tatlısu 3 Nolu=
+68737	Yumurtatepe Köyü	Köyün Kendisi=
+68706	Çayırlı Köyü	Çayırlı=
+68705	Çağlayan Köyü	Çağlayan=
+68732	Ünalan Köyü, Bayraktarlar Mevkii	Bayraktarlar=
+68726	Ünalan Köyü, Binamlar Mevkii	Binamlar=
+68731	Ünalan Köyü, Durmuşlar Mevkii	Durmuşlar=
+68727	Ünalan Köyü, Kayalık Mevkii	Kayalık=
+68725	Ünalan Köyü, Kofolar Mevkii	Kofolar=
+68724	Ünalan Köyü, Merkez Mevkii	Merkez=
+68730	Ünalan Köyü, Reşitler Mevkii	Reşitler=
+68728	Ünalan Köyü, Voyunta Mevkii	Voyonta=
+68729	Ünalan Köyü, Yusuflar Orta Mevkii	Yusuflar Orta=
+68718	İnci Köyü	İnci=

@@ -1,0 +1,20 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "eru/notice-box",
+	"title": "Bilgi Kutusu",
+	"category": "text",
+	"icon": "info-outline",
+	"description": "Bilgi, uyarı, başarı veya hata kutusu.",
+	"keywords": [ "notice", "alert", "callout", "uyarı" ],
+	"textdomain": "notice-boxes-for-wordpress",
+	"attributes": {
+		"type": { "type": "string", "enum": [ "info", "warning", "success", "error" ], "default": "info" },
+		"title": { "type": "string", "default": "" },
+		"variant": { "type": "string", "enum": [ "soft", "solid", "outline" ], "default": "soft" }
+	},
+	"supports": { "html": false, "align": false },
+	"editorScript": "file:./editor.js",
+	"style": "file:./style.css",
+	"editorStyle": "file:./style.css"
+}

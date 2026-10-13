@@ -1,0 +1,27 @@
+23439	Akbulut Köyü	Akbulut=
+23440	Akçalı Köyü	Akçalı=
+23452	Alva Köyü	Alva=
+139933	Bahçelievler Mah.	Adnan Menderes@|Adnan Menderes/12~|Akar~|Ambaryapan~|Armutçu~|Coşkun~|Dümelli%|Dümelli/1~|Gümüş~|Gümüş/1~|Hışır~|Karakara~|Kuşçu~|Sağırındere~|Turgut Özal@|Vakıf~|Vakıf/1~|Vakıf/2~|Yalçın~|Ziya Gökalp@|Ziya Gökalp/1~|Ziya Gökalp/2~|Ziya Gökalp/6~|Çavuş~|Çorak~|Çorak/1~|Çorak/2~|Ömer Seyfettin@|İldivan=|Şehit Astsubay Ali Gülbahçe@|Şehit Astsubay Ali Gülbahçe/12~|Şehit Astsubay Ali Gülbahçe/13~|Şehit Astsubay Ali Gülbahçe/7~|Şehit Astsubay Yahya Coşkuner@|Şehit Polis Süleyman İlkül@
+139929	Beydere Mah.	Akyol~|Beydere@|Beydere Dümelli/1~|Beydere Dümelli/3~|Beydere Dümelli/4~|Beydere Gazi Osman Paşa/1~|Beydere Gazi Osman Paşa/2~|Beydere Gazi Osman Paşa/3~|Beydere Gazi Osman Paşa/4~|Beydere Gazi Osman Paşa/5~|Beydere Gazi Osman Paşa/6~|Beydere Gazi Osman Paşa/7~|Beydere Gazi Osman Paşa/8~|Beydere/1~|Beydere/2~|Beydere/3~|Beydere/4~|Beydere/5~|Beydere/6~|Dümelli%|Dümelli/3~|Fatih@|Fatih/1~|Gazi Osman Paşa/10~|Gazi Osman Paşa/12~|Gazi Osman Paşa/7~|Gazi Osman Paşa/9~|Gazi Osman Paşa_1@|Gazi~|Gazi/1~|Güldüler~|Güldüler/1~|Kadıoğlu~|Kargapınarı~|Körefe~|Mandıra~|Mandıra/1~|Mandıra/2~|Sürçen~|Veisler~|Veisler/1~|Veisler/2~|Ziya Gökalp@|Ziya Gökalp/3~|Ziya Gökalp/4~|Ziya Gökalp/5~|Ziya Gökalp/8~|Ziya Gökalp/9~|Şakalar~|Şakalar/1~|Şakalar/2~|Şehit Polis Osman Kahraman@|Şehit Polis Osman Kahraman/1~
+23441	Büyükhacıbey Köyü	Büyükhacıbey=
+20252	Cami Mah.	Anıt Meydanı Myd.|Asmalı~|Aynalar~|Başbuğ Alparslan Türkeş@|Belediye~|Dümelli%|Eyrek~|Eyrek/1~|Hamişler~|Hoca Ahmet Yesevi@|Hoca Ahmet Yesevi/1~|Hoca Ahmet Yesevi/2~|Küçük Ali~|Oda~|Park~|Tutlu~|Uğur~|Ziya Gökalp@|Çay~|Çörten@|Ömer Seyfettin@|Ömer Seyfettin/2~|Ömer Seyfettin/3~|Şadırvan~|Şehit Astsubay Ali Gülbahçe@|Şehit Astsubay Ali Gülbahçe/6~|Şehit Astsubay Yahya Coşkuner@|Şehit İtfaie Eri Ali Akbıyık/1~|Şehit İtfaiye Eri Ali Akbıyık@
+139935	Dere Mah.	Armutçu~|Aynalar~|Aşağı Ağıllar=|Başbuğ Alparslan Türkeş@|Başbuğ Alparslan Türkeş/1~|Başbuğ Alparslan Türkeş/2~|Başbuğ Alparslan Türkeş/5~|Dere Dümelli/2~|Dere Dümelli/3~|Dümelli%|Dümelli/2~|Eyrek~|Hafız~|Hafız/1~|Mesire Yolu~|Mesire Yolu/1~|Mesire Yolu/3~|Mesire Yolu/4~|Mesire Yolu/5~|Park~|Park/1~|Park/3~|Pınarbaşı~|Pınarbaşı/1~|Pınarbaşı/2~|Pınarbaşı/4~|Pınarbaşı/5~|Yolcu~|Yolcu/1~|Yolcu/2~|Ziya Gökalp@|Ziya Gökalp/7~|Çaylı Kavak~|Çorapsız~|Çorapsız/1~|Çorapsız/3~|Şehit Astsubay Ali Gülbahçe@|Şehit Astsubay Ali Gülbahçe/1~|Şehit Astsubay Ali Gülbahçe/10~|Şehit Astsubay Ali Gülbahçe/101~|Şehit Astsubay Ali Gülbahçe/102~|Şehit Astsubay Ali Gülbahçe/11~|Şehit Astsubay Ali Gülbahçe/14~|Şehit Astsubay Ali Gülbahçe/2~|Şehit Astsubay Ali Gülbahçe/3~|Şehit Astsubay Ali Gülbahçe/4~|Şehit Astsubay Ali Gülbahçe/5~|Şehit Astsubay Ali Gülbahçe/7~|Şehit Astsubay Ali Gülbahçe/8~|Şehit Astsubay Ali Gülbahçe/9~|Şehit İtfaie Eri Ali Akbıyık/6~|Şehit İtfaie Eri Ali Akbıyık/7~|Şehit İtfaiye Eri Ali Akbıyık@
+23444	Elmacı Köyü	Elmacı=
+23445	Gölez Köyü	Gölez=
+23446	Gölezkayı Köyü, Gömene Mevkii	Gömene=
+23447	Gölezkayı Köyü, Köy İçi Mevkii	Köy İçi=
+23448	Hisarcık Köyü	Hisarcık=
+23449	Hisarcıkkayı Köyü, Beşevler Mevkii	Beşevler=
+23450	Hisarcıkkayı Köyü, Köy İçi Mevkii	Köy İçi=
+23451	Küçükhacıbey Köyü	Küçükhacıbey=|İnandık=
+185234	Küçükhacıbey Köyü, Bağevleri Mevkii	
+185236	Küçükhacıbey Köyü, Pınarözü Mevkii	
+23453	Sarayköy Köyü	Sarayköy=
+23454	Sarayköy Köyü, Çalıdere-yığındaş Yayla Evleri	Çalıdereyığındaş=
+23455	Sarıtarla Köyü	Sarıtarla=
+23456	Seydiköy Köyü	Seydiköy=
+139931	Topraklık Mah.	Anıt Meydanı Myd.|Aşağı Ağıllar=|Aşağı Çayır=|Baş Öğretmen Hüseyin Işık@|Baş Öğretmen Hüseyin Işık/1~|Baş Öğretmen Hüseyin Işık/2~|Baş Öğretmen Hüseyin Işık/3~|Başbuğ Alparslan Türkeş@|Başbuğ Alparslan Türkeş/4~|Başbuğ Alparslan Türkeş/8~|Boz~|Cevher Dudayev@|Dar~|Dar/1~|Dümelli%|Ekinne=|Eyrek~|Eyrek/2~|Eyrek/3~|Eyrek/4~|Kara~|Karagöz~|Karagöz/1~|Karagöz/2~|Karapınar~|Kıbrıs@|Kıbrıs/1~|Pazar~|Pazar/1~|Paşa~|Profesör Doktor Bahattin Korucu@|Profesör Doktor Bahattin Korucu/1~|Yeni Camii~|Yeni Camii/1~|Yurt~|Çiçek~|Şehit Fatma Dönmez@|Şehit Polis Hasan Gülhan@|Şehit Polis Hasan Gülhan/1~|Şehit Polis Hasan Gülhan/10~|Şehit Polis Hasan Gülhan/11~|Şehit Polis Hasan Gülhan/2~
+23457	Yukarıyanlar Köyü	Yukarıyanlar=
+20253	Çay Mah.	Bahçelievler~|Bahçelievler/1~|Bahçelievler/2~|Banka~|Beydere@|Beydere/10~|Beydere/7~|Beydere/8~|Beydere/9~|Dümelli%|Fatih@|Gazi Osman Paşa@|Gazi Osman Paşa/15~|Gazi Osman Paşa/16~|Gazi Osman Paşa/4~|Nazif Bey~|Pınar~|Saray~|Saray/1~|Saray/2~|Sürçen~|Tekeler~|Çay Dümelli/1~|Şehit Polis Hasan Gülhan@|Şehit Polis Hasan Gülhan/4~|Şehit Polis Hasan Gülhan/6~|Şehit Polis Hasan Gülhan/7~|Şehit Polis Hasan Gülhan/8~|Şehit Polis Hasan Gülhan/9~|Şehit Polis Mehmet Ünlü@|Şehit Polis Mehmet Ünlü/1~|Şehit Polis Mehmet Ünlü/10~|Şehit Polis Mehmet Ünlü/2~|Şehit Polis Mehmet Ünlü/3~|Şehit Ömer Çoğalan@|Şehit Ömer Çoğalan/1~|Şehit Ömer Çoğalan/2~|Şehit Ömer Çoğalan/3~|Şehit Ömer Çoğalan/4~|Şehit Ömer Çoğalan/5~|Şehit Ömer Çoğalan/6~|Şehit Öğretmen Müslüm Teke@
+23442	Çiftlikköy Köyü	Çiftlikköy=
+23443	Çukuröz Köyü	Çukuröz=

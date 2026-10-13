@@ -1,0 +1,19 @@
+5264	Akyarma Köyü	Akyarma=
+5267	Altınova Köyü, Bademli Mevkii	Anafartalar@|Cumhuriyet@|Lale~|Meydan~|Park~|Sümbül~|Özgün~
+5265	Altınova Köyü, Dere Mevkii	Atatürk@|Bayraklı@|Esen~|Gül~|Güneş~|Karanfil~|Kardelen~|Kervan~|Teğmen~|Özdemir~|İnönü@|İstiklal@
+5266	Altınova Köyü, Küme Evleri Mevkii	Anafartalar@|Küme Evleri~
+5269	Baraklı Köyü, Mevlana Mevkii	Altın Başak~|Fatih Sultan Mehmet%|Gül@|Hilal~|Manolya~|Menekşe-1~|Recep Tayyip Erdoğan@|Sarıgül@|Zambak~|Çarşı~|Çınar@
+5268	Baraklı Köyü, Yunus Emre Mevkii	Ak~|Altınbaşak~|Cumhuriyet~|Fatih Sultan Mehmet-1%|Güzel~|Hilal~|Mavi@|Menekşe~|Sümbül~|Şirin~
+5270	Bostancı Köyü	 Köy$
+975	Camikebir Mah.	Alper~|Bekir Ağa~|Cumhuriyet Myd.|Garip~|Günaydın~|Kazak~|Kuruş~|Martin~|Muslu~|Savaş~|Serin~|Tekin~|Toker~|Uğur~|Ziya Gökalp@|Zübeyde Hanım@|Özel~|Özer Çıkmazı~|Öztemiz Çıkmazı~|İmam~|Şht.atakan Birgül~
+976	Fatih Mah.	Akyarma@|Apaydın~|Atatürk@|Ayyıldız~|Bozan~|Efe~|Eren~|Ferhan Bozkurt~|Halis Bal~|Keskin~|Çelik~|Çetin~|Çini~|Özcan~|Özkan~|İstasyon@|Şehit Hüdai Çınar~|Şeker~
+979	Gökçek Köyü, Barbaros Mevkii	Atilla~|Başak~|Doktor İhsan~|Ertuğrul Gazi~|Karanfil~|Karşıyaka~|Koca Osman~|Palacı~|Park~|Pazar~|Saraybosna~|İstasyon@
+980	Gökçek Köyü, Fatih Mevkii	Allahuekber~|Atilla~|Dede Hoca~|Deveci~|Ergenekon~|Esenler~|Huzur~|Kaymakam~|Mevlana~|Pehlivan~|Yıldıztepe~|Yılmaz~|Ören~|Şakir Çıkmazı~
+100415	Gökçek Köyü, Gündoğdu Deprem Evleri Mevkii	Gökkuşağı~|Gün~|Güneş~|Hırka~|Uydu~|Yayla~|Yıldız~
+977	Kayalık Mah.	Ahmet Karagöz~|Akyarma@|Apaydın~|Aydemir~|Aydın~|Ayvaz~|Bozan~|Cafer Tayyar Arıkan~|Cumhuriyet Myd.|Efe~|Fahrettin Altay@|Halimler~|Kadir Ağa~|Kılıçarslan~|Polis~|Rıza Çelik~|Turan~|Yurttaş~|Zübeyde Hanım@|Çini~|Ören~|Özcan~|Özkan Önel~|İstasyon@|Şahin~
+5271	Körkuyu Köyü	 Köy$
+5273	Madenler Köyü, Deprem Evleri Mevkii	Atatürk@|Beyoğlu~|Cumhuriyet@|Mevlana~|Papatya~|Sümbül~|Umut~
+5272	Madenler Köyü, Çayönü Mevkii	Cami~|Kurtuluş@|Lale~|Tuzla~|Çıkmaz~|İstiklal@
+100416	Mehmet Akif Mah.	Fevzi Çakmak@|Fikri Cengiz~|Hürriyet~|Zafer~|İsmail Gaspıralı@|İstasyon@|İstasyon=|Şevki Karataş~
+100417	Yavuz Selim Mah.	Akademi~|Atatürk@|Depremevleri=|Ebru~|Elif~|Gurbet~|Gündoğdu~|Güner~|Halis Bal~|Hilal~|Kafkas~|Uygar~|İbni Sina~|İstasyon@|Şehit Hüdai Çınar~
+978	Yunus Emre Mah.	Algel~|Congur~|Duran~|Fevzi Çakmak@|Fikri Cengiz~|Hürriyet~|Nurettin Özdemir~|Sanayi Sit.=|Site~|Uğur~|Zafer~|İsmail Gaspıralı@|İstasyon@

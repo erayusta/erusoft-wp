@@ -1,0 +1,32 @@
+23554	Aşağıalegöz Köyü	Aşağıalegöz=
+23555	Aşağıovacık Köyü	Asağıovacık=
+23556	Bayanpınar Köyü	Bayanpınar=
+23557	Bostanlı Köyü	Bostanlı=
+23558	Boyacıoğlu Köyü	Boyacıoğlu=
+23559	Büyükbahçeli Köyü	Büyükbahçeli=
+23560	Cacıklar Köyü	Cacıklar=
+23561	Güneykışla Köyü	Güneykışla=
+23562	Hacılar Köyü	Hacılar=
+23563	Hallaçlı Köyü	Hallaçlı=
+20268	Hüseyinli Mah.	Camii~|Cumhuriyet@|Demet~|Elvan Akar~|Güler~|Irmak@|Kanuni~|Memduh Bulut~|Menekşe~|Nergiz~|Nevzat Ayaz@|Saffet Sakarya@|Yavuz Sultan Selim~|Yaz~|Yıldız~|Üçevler~|Şht.adem Ballı@
+23564	Kahyalı Köyü	Kahyalı=
+23566	Kapaklı Köyü	Kapaklı=
+23565	Kapaklı Köyü, Gazibekir Mezrası	Gazibekir=
+23567	Kapaklı Köyü, Sultançiftliği Mezrası	Sultançifliği=
+23568	Karadibek Köyü	Karadibek=
+23569	Karallı Köyü	Karallı=
+23570	Karamürsel Köyü	Karamürsel=
+23571	Karaömer Köyü	Karaömer=
+23572	Kavlaklı Köyü	Kavlaklı=
+23573	Kemallı Köyü	Kemallı=
+23574	Korçullu Köyü	Korçullu=
+23575	Kuzeykışla Köyü	Kuzeykışla=
+20269	Osmanlı Mah.	Aydın~|Cumhuriyet@|Ergenekon@|Gazi~|Genç Osman@|Gül~|Hastahane~|Hilal~|Kaan~|Kale~|Kazak~|Kuğu~|Mehtap~|Mülayim~|Nevzat Ayaz@|Sümbül~|Tarlacı~|Tarım~|Toki Konutları=|Tunahan~|Yunus Emre@|Önder~|Özbek@|İnallı Ballı~|Şht. Remzi Aslan@
+23576	Sakarca Köyü	Sakarca=
+23577	Saraycık Köyü	Saraycık=
+23578	Tepealegöz Köyü	Tepealagöz=
+23579	Tepealegöz Köyü, Küçükbahçeli Mezrası	Küçükbahçeli=
+23580	Tımarlı Köyü	Tımarlı=
+20270	Yeni Mah.	Aksu~|Barbaros~|Bayındır~|Başak~|Bekir Soysal~|Beyazıt~|Bumin~|Cengizhan~|Civriz~|Cumhuriyet@|F.çakmak@|Farabi~|Fatih@|Gökalp~|Göktürk@|Güven~|Hanedan~|Karanfil~|Karatay~|Karatekin~|Kurtuluş~|Kırgız~|M.akif~|Meydan~|Necip Fazıl~|Oğuz@|Park~|Rüzgarlı~|Saffet Sakarya@|Sanayi B Blok~|Sanayi C Blok~|Sanayi~|Sağlık~|Sungurlu@|Zambak~|Çankırı@|Çiğdem~|Çırak~|İsmail Hakkı Karadayı@|Şahinler~|Şehit Ali Boz Gedik~|Şehit Cumhur Şimşek~
+23581	Yeniyapan Köyü	Yeniyapan=
+23582	Yukarıalegöz Köyü	Yukarıalegöz=

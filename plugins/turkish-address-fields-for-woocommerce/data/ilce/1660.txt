@@ -1,0 +1,104 @@
+37802	Akbulak Köyü, Akbulak Yaylası Yayla Evleri	Akbulak Yaylası=
+37803	Akbulak Köyü, Hamdüt Yaylası Yayla Evleri	Hamdüt Yaylası=
+37800	Akbulak Köyü, Merkez Mevkii	Akbulak Merkez=
+37801	Akbulak Köyü, Mumya Mevkii	Mumya=
+37806	Aksaray Köyü	Aksaray=|Bayburt Şebinkarahisar@|Çamoluk Şiran@
+37804	Akçalı Köyü, Merkez Mevkii	Akçalı Merkez=
+37805	Akçalı Köyü, Yukarı Akçalı Mevkii	Yukarı Akçalı=
+37808	Alacahan Köyü	Alacahan=|Torul Şiran@
+37809	Alıç Köyü	Alıç=
+37810	Araköy Köyü	Araköy=
+37811	Ardıçlı Köyü	Ardıçlı=|Kavaklıdere=
+37812	Arıtaş Köyü	Arıtaş=
+37813	Aşağıduruçay Köyü	Aşağıduruçay=
+37814	Babacan Köyü	Babacan=
+37815	Babuş Köyü	Babuş=
+37816	Bahçeli Köyü	Bahçeli Köyün Kendisi Mevkii=
+37817	Bahçeli Köyü, Bahçeli Yaylası Yayla Evleri	Bahçeli Yaylası=
+37818	Balıkhisar Köyü	Balıkhisar=
+37820	Başköy Köyü, Merkez Mevkii	Başköy=
+37819	Başköy Köyü, Çamlıca Mevkii	Çamlıca=
+37821	Başköy Köyü, Ündüren Mevkii	Ündüren=
+37822	Belen Köyü	Aksaray=|Bayburt Şebinkarahisar@|Belen=|Çamoluk Şiran@
+183728	Bilgili Mah.	Bilgili=
+37828	Bolluk Köyü	Bolluk=
+37827	Boğazyayla Köyü	Boğazyayla=
+37839	Darıbükü Köyü	Darıbükü=
+37840	Dilekyolu Köyü	Dilekyolu=|Torul Şiran@
+37841	Dumanoluğu Köyü	Bayburt Şebinkarahisar@|Dumanoğlu=
+37842	Eldiğin Köyü	Eldiğin=
+37843	Elmaçukuru Köyü	Elmaçukuru=|Torul Şiran@
+100227	Erenkaya Mah.	Merkez=|Örenkale Merkez=
+37846	Ericek Köyü	Ericek Köyün Kendisi Mevkii=
+37847	Evren Köyü	Evren=
+30973	Fatih Mah.	Fatih=|Torul Şiran@
+37848	Gökçeler Köyü	Bayburt Şebinkarahisar@|Gökçeler=|Torul Şiran@
+37849	Günbatur Köyü	Günbatur=
+37850	Günyüzü Köyü	Günyüzü Köyün Kendisi=
+37851	Güreşköy Köyü	Güreşköy=|Çamoluk Şiran@
+37854	Kadıçayırı Köyü	Kadıçayırı=
+30974	Karaca Mah.	15 Temmuz Cumhuriyet Ve Milli İrade Myd.|2040~|2055~|2056~|2057~|2063~|30 Ağustos@|3034~|3045~|Bayburt Şebinkarahisar 2~|Bayburt Şebinkarahisar 3~|Bayburt Şebinkarahisar 4~|Bayburt Şebinkarahisar@|Bayburt Şebinkarahisar/5~|Hacıoğlu=|Hoca Ahmet Yesevi@|Hoca Ahmet Yesevi/11~|Hoca Ahmet Yesevi/2~|Hoca Ahmet Yesevi/3~|Hoca Ahmet Yesevi/4~|Hoca Ahmet Yesevi/5~|Hoca Ahmet Yesevi/8~|Kirazlı~|Köprübaşı@|Küçük Köprü 1~|Küçük Köprü~|Numanağa@|Sinanağa=|Yeniyol/3~|Çarşıiçi 1~|Çarşıiçi 2~|Çarşıiçi@|Şehit Selim Cansız@|Şehit Selim Cansız/1~|Şehit Üstteğmen Zahit Efendi@|Şehit Üstteğmen Zahit Efendi/1~|Şehit Üstteğmen Zahit Efendi/2~
+37855	Karaşeyh Köyü	Bayburt Şebinkarahisar@|Karaşeyh=
+37856	Kavaklıdere Köyü	Kavaklıdere=
+37857	Kavakpınarı Köyü	Bayburt Şebinkarahisar@|Kavakpınarı=
+37858	Kaynakbaşı Köyü	Kaynakbaşı=
+37862	Koyunbaba Köyü	Bayburt Şebinkarahisar@|Koyunbaba=
+37863	Kozağaç Köyü	Kozağaç=
+37859	Kırıntı Köyü	Kırıntı=
+37860	Kırıntı Köyü, Kızılca Su Yayla Evleri	Kızılca Su=
+30975	Mertekli Mah.	Bayburt Şebinkarahisar@|Mertekli=|Sinanağa=
+37864	Ozanca Köyü	Ozanca=
+37868	Paşapınarı Köyü, Karşı Mevkii	Karşı=
+37869	Paşapınarı Köyü, Merkez Mevkii	Merkez=|Çamoluk Şiran@
+37867	Paşapınarı Köyü, Orta Mevkii	Orta=
+37900	Pelitli Köyü	Pelitli=
+37870	Sadıkköy Köyü	Sadıkköy=|Çamoluk Şiran@
+37871	Sarıca Köyü, Aşağı Mevkii	Aşağı=|Bayburt Şebinkarahisar@
+37872	Sarıca Köyü, Merkez Mevkii	Bayburt Şebinkarahisar@|Sarıca Merkez=
+37874	Selimiye Köyü, Merkez Mevkii	Selimiye Merkez=
+37873	Selimiye Köyü, Selimiye Yaylası Yayla Evleri	
+37875	Selimiye Köyü, Siteler Mevkii	Siteler=
+37876	Sellidere Köyü	Sellidere=
+37879	Seydibaba Köyü, Bağ Mevkii	Bağ=
+37883	Seydibaba Köyü, Kale Mevkii	Kale=
+37884	Seydibaba Köyü, Kanatlı Mevkii	Kanatlı=
+37877	Seydibaba Köyü, Merkez Mevkii	Merkez=|İsimsiz=
+37886	Seydibaba Köyü, Sarıtaş Mezrası	Sarıtaş=
+37881	Seydibaba Köyü, Sarıyer Mevkii	Sarıyer=
+37882	Seydibaba Köyü, Seki (tomara) Mevkii	Seki Tomara=
+37887	Seydibaba Köyü, Seydibaba Yaylası Yayla Evleri	Seydibaba Yaylası=
+37880	Seydibaba Köyü, Toygar Mevkii	Toygar=
+37885	Seydibaba Köyü, Çırdak Mezrası	Çırdak=
+37878	Seydibaba Köyü, İnceören Mezrası	İnceören=
+37888	Sinanlı Köyü	Sinanlı=|Çamoluk Şiran@
+37891	Susuz Köyü	Kavaklıdere=|Susuz=
+37889	Söğütalan Köyü, Argu Mevkii	Argu=
+37890	Söğütalan Köyü, Merkez Mevkii	Argu=|Söğütalan=
+30977	Tekke Mah.	1054@|1054~|1138~|1139~|1140~|1141~|1142~|1143~|1145~|1146~|1147~|1148~|1150~|1151~|1152~|1153~|1154~|1155~|1156~|1163~|1164~|1179~|1183~|1184~|1211~|1212~|1213~|1220~|1221~|1223~|1225~|15 Temmuz Cumhuriyet Ve Milli İrade Myd.|19 Mayıs@|30 Ağustos@|Bayburt Şebinkarahisar 1~|Bayburt Şebinkarahisar@|Cumhuriyet@|Esentepe~|Etem Bey@|Gül~|Hükümet 1~|Hükümet 10~|Hükümet 2~|Hükümet 8~|Hükümet 9~|Hükümet@|Kanarya~|Karanfil~|Küçük Köprü~|Numanağa@|Pınar Çıkmazı~|Sadıklar~|Tekke/1~|Tekke/2~|Yeni Yol 44~|Yeniyol 12~|Yeniyol 13~|Yeniyol~|Yeniyol/15~|Yeniyol/3~|Yeniyol1~|Yeniyol14~|Yeniyol15~|Yeniyol16~|Yeniyol17~|Yeniyol19~|Yeniyol2~|Yeniyol6~|Yeniyol7~|Yeniyol8~|Yenyol 14~|Yenı~|Yunus Emre~|Yıldız~|Çınar Çıkmazı~|Ümit~|Şehit Fazlı Muhammer Demir 1~|Şehit Fazlı Muhammer Demir@|Şehit Orhan Şahin 1@|Şehit Orhan Şahin 4~|Şehit Orhan Şahin@|Şehit Selim Cansız@|Şehit Teğmen Tuna Kara@|Şehit Teğmen Tuna Kara/1~|Şehit Teğmen Tuna Kara/2~|Şehit Teğmen Tuna Kara/3~|Şehit Turgay Türkmen@|Şehit Turgay Türkmen/1~|Şehit Turgay Türkmen/2~|Şehit Turgay Türkmen/3~|Şehit Turgay Türkmen1~|Şehit Yusuf Arslan 1~|Şehit Yusuf Arslan 2~|Şehit Yusuf Arslan 3~|Şehit Yusuf Arslan 4~|Şehit Yusuf Arslan 5~|Şehit Yusuf Arslan 6~
+37892	Telme Köyü	Telme=|Torul Şiran@
+37893	Tepedam Köyü	Tepedam=
+37894	Yedibölük Köyü	Yedibölük=
+37895	Yeniköy Köyü	Yeniköy=
+37896	Yeniköy Köyü, Yeniköy Yaylası Yayla Evleri	Yeniköy Yaylası=
+140531	Yeşilbük Beldesi, Akyayla Mah.	Akyayla=|Yeniyol/0~
+140533	Yeşilbük Beldesi, Beydere Mah.	Beydere=|Beydere Yaylası=|Konaklı=
+140535	Yeşilbük Beldesi, Konaklı Mah.	Bayburt Şebinkarahisar@|Konaklı=|Yayla4=
+30979	Yeşilbük Beldesi, Yeşilkent Mah.	Atatürk@|Atatürk/1~|Atatürk/12~|Atatürk/13~|Atatürk/2~|Atatürk/3~|Atatürk/4~|Atatürk/5~|Atatürk/6~|Bayburt Şebinkarahisar Bağlantı 3=|Bayburt Şebinkarahisar Bağlantı=|Bayburt Şebinkarahisar@|Fevzi Çakmak@|Fevzi Çakmak/1~|Fevzi Çakmak/2~|Fevzi Çakmak/3~|Fevzi Çakmak/4~|Fevzi Çakmak/5~|Fevzi Çakmak/8~|Fevzi Çakmak7~|Konaklı=|Yeni Yol~|Yeni Yol/2~|Yeni Yol/6~|Yeniyol4=|Yeniyolyeşillkent@|Yeşilkent/1~|Yeşilkent/2~|Yeşilkent/3~|Yeşilkent/4~|Zübeyde Hanım@|Zübeyde Hanım/1~|Zübeyde Hanım/10~|Zübeyde Hanım/11~|Zübeyde Hanım/12~|Zübeyde Hanım/13~|Zübeyde Hanım/14~|Zübeyde Hanım/15~|Zübeyde Hanım/16~|Zübeyde Hanım/9~|İnönü@|İnönü/1~|İnönü/2~|İnönü/5~|Şht. Hüseyin Günalp@|Şht. Hüseyin Günalp/1~
+30978	Yeşilbük Beldesi, Yeşilyurt Mah.	Atatürk@|Atatürk/1~|Atatürk/10~|Atatürk/11~|Atatürk/3~|Atatürk/4~|Atatürk/5~|Atatürk/6~|Atatürk/7~|Atatürk/8~|Bayburt Şebinkarahisar@|Cengiz Topel@|Cengiz Topel/1~|Cengiz Topel/2~|Cengiz Topel/3~|Cengiz Topel/4~|Cengiz Topel/5~|Cengiz Topel/6~|Cengiz Topel/7~|Cengiz Topel/8~|Cengiz Topel/9~|Fevzi Çakmak/2~|Fevzi Çakmak/3~|Fevzi Çakmak/5~|Fevzi Çakmak/8~|Yayla1=|Yayla2=|Yayla3=|Zübeyde Hanım@|Zübeyde Hanım/1~|Zübeyde Hanım/2~|Zübeyde Hanım/3~|Zübeyde Hanım/4~|Zübeyde Hanım/5~|Zübeyde Hanım/6~|Zübeyde Hanım/7~|Zübeyde Hanım/8~
+37897	Yolbilen Köyü	Yolbilen=
+37898	Yukarıduruçay Köyü	Yukarıduruçay=
+37899	Yukarıkulaca Köyü	Yukarıkulaca=
+37830	Çakırkaya Köyü	Çakırkaya=
+37831	Çalköy Köyü	Çalköy=
+37832	Çambaşı Köyü	Çambaşı=
+37833	Çanakçı Köyü	Çanakçı=
+37834	Çanakçı Köyü, Gavurdağı Yayla Evleri	Gavurdağı=
+37835	Çanakçı Köyü, Çanakçı Yaylası Yayla Evleri	Çanakçı Yaylası=
+37836	Çatmalar Köyü	Çatmalar=
+37837	Çavlan Köyü	Çavlan=
+37829	Çağıl Köyü	Çağıl=
+37838	Çevrepınar Köyü	Çevrepınar=
+183730	Örenkale Mah.	Bahçeli=|Koçi=|Tekke/3~|Örenkale Merkez=
+37852	İncedere Köyü	İncedere=
+37853	İnözü Köyü	İnözü=
+30976	Şehit Hakan Mah.	3034~|Merkez=|Şht Hakan=

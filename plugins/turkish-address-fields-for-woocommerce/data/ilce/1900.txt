@@ -1,0 +1,26 @@
+151051	Akbaba Mah.	Akkaya~|Balarmut~|Faraca~|Orta~|Tamcılı~
+197837	Aşıklı Çakıllı Mah.	Aşıklı=|Koçakoçlar=|Osmantarlası Mevki=|Topçugil=
+60937	Boras Mah.	Boras=
+60938	Cemallı Mah.	Cemallı=
+197841	Cevizliyatak Mah.	Cöngüller Mevkii=|Dereköy Mevkii=|Güneşler=
+151053	Eğribel Mah.	Koğucakoz~|Merkez (yolaltı) Güney Mevkii~|Merkez (yolüstü) Yolun Sağı~|Orta (yolaltı) Sol Tarafı~|Orta (yolüstü) Yolunsağı~|Yağmurca~
+151055	Göksu Mah.	Alühlü~|At Uşağı (1)~|Atuşağı (2)~|Merkez~|Midilli~|Sekmenli~|Yayla Evleri~
+60933	Gürcek Mah.	Gürcek=
+60932	Hacıali Mah.	Hacıali=
+151059	Kapılı Mah.	Cinoğlu~|Cıbıllı~|Dağlağaç~|Kayadibi~|Kuz~|Köse Mehmetgil~|Merkez~|Sapak~|Tepealan~|Tombaşlı~|Çağmanlı Düz~|Çubuklu~|Şehiryeri~
+60925	Kargalı Mah.	Kargalı=
+60930	Kurudere Mah.	Kurudere=
+60926	Kuşlu Mah.	Kuşlu=
+151061	Köklük Mah.	Atayurdu~|Düztarla~|Fatih~|Gazi~|Kalaycıoğlu~|Kurugürgen~|Madiloğlu~|Mehmet Akif Ersoy~|Merkez~
+197839	Mollalı Mah.	Aşağı-mescityanı=|Cami Mevki=|Hüseyinler=|Kösegil Mevki=|Kızılağaçdurağı=|Mollalı Okulyanı=|Sapak Mevkii=
+60927	Namazlı Mah.	Namazlı=
+197835	Taşkesiği Mah.	Enikbeli Mevki=|Namashayat- Abdü Uşağı Mevki=
+60928	Tekke Mah.	Tekke=
+60929	Yenicuma Mah.	Yenicuma=
+60931	Çandır Mah.	Çandır=
+60936	Çay Mah.	Çay=
+60935	Çayır Mah.	Çayır=
+60934	Çağlayan Mah.	Çağlayan=
+60924	Çınar Mah.	Adnan Kahveci@|Akbaşlar~|Atatürk@|Basriyılmaz@|Belediye Geçidi~|Cennetoğlu~|Cumhuriyet Myd.|Değirmenci~|Eski Karakol~|Fatih@|Gençlik~|Gümüşoğlu~|Hacıhatipoğulları~|Kadıoğlu~|Kefeli Geçidi~|Kefeli~|Kelleci~|Koğuş=|Mescit~|Mevlüt Saka~|Okul~|Pazaryeri Myd.|Perçiler@|Sakaoğlu~|Sarıcerik=|Semizler Geçidi~|Talip Bayrak@|Turgut Özal@|Uzunalioğlu~|Çalıklar~|İnönü@|İstasyon~|Şimşekler~
+151049	İlküvez Mah.	Açık Pazaryeri@|Belediye Myd.|Emniyet@|Erbaa@|Hürriyet@|Kooperatif@|Okul@|Çukur Mah.mevkii=|Ünye@|Şirinevler@
+151057	İçeribükü Mah.	Kozluk~|Merkez~

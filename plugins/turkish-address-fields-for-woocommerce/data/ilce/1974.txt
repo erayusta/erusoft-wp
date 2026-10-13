@@ -1,0 +1,48 @@
+30662	Alpaslan Türkeş Mah.	Akıncılar~|Alperen@|Başak~|Demirciler~|Erciyes@|Esentepe~|Gazi=|Kahramanmaraş%|Merve~|Metehan@|Sancak@|Tunahan@|Zerda~|Şimşek~
+179971	Altınova Mah.	Toplamalar~
+30655	Aslanlı Mah.	217 Nolu~|228 Nolu~|231 Nolu@|233 Nolu@|236 Nolu@|238 Nolu@|239 Nolu@|240 Nolu@|242 Nolu@|243 Nolu@|245 Nolu@|246 Nolu~|247 Nolu@|249 Nolu@|250 Nolu@|251 Nolu~|252 Nolu~|253 Nolu~|254 Nolu~|Abbaslar~|Coşkunlar~|Gaziantep%|Gaziosman Paşa@|Güzin~|H.ahmet Yesevi@|Kahramanmaraş%|Kar~|Karakol~|Karaoğlanoğlu@|Menderes@|Sanayi@|Yağmur~|İstasyon@|Ş. Hasan Cevahir Çelik@
+180017	Ataköy Mah.	Ataköy~
+30656	Atatürk Mah.	300 Nolu~|301 Nolu~|303 Nolu~|304 Nolu~|305 Nolu~|306 Nolu~|307 Nolu~|308 Nolu~|309 Nolu~|310 Nolu~|311 Nolu~|312 Nolu~|313 Nolu~|314 Nolu~|315 Nolu~|317 Nolu~|318 Nolu~|319 Nolu~|320 Nolu~|321 Nolu~|322 Nolu~|323 Nolu~|324 Nolu~|325 Nolu~|Ata@|Cengiz Topel-1@|Dede Korkut@|Fevzi Çakmak@|Gaziler@|Halide Edipadıvar@|Hilmikutlubay@|Kahramanmaraş%|Türkeş Bulvar%|Ziya Gökalp@|Şehit Murtaza Dokbay~
+180021	Atmalı Mah.	Atmalı~
+179973	Bademli Mah.	1 Nolu Sk~|10 Nolu~|11 Nolu~|12 Nolu~|1214 Nolu~|1215 Nolu~|1217 Nolu~|1219 Nolu~|13 Nolu~|13.~|14 Nolu~|14.~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|8 Nolu~|Bademli~|Karahasanlı~|Kuloğlu~|Turkmen Nolu~|Çamtepe@|Şht.yrb.ilker Çelikcan@
+30657	Bahçelievler Mah.	401 Nolu~|402 Nolu~|403 Nolu~|404 Nolu~|405 Nolu~|406 Nolu~|407 Nolu~|408 Nolu~|409 Nolu~|410 Nolu~|412 Nolu~|413 Nolu~|415 Nolu~|416 Nolu~|417 Nolu~|418 Nolu~|419 Nolu~|420 Nolu~|421~|Dede Korkut@|Halide Edipadıvar@|Hilmi Kutlubay@|Mustafa Taşkesen@|Şehit Murtaza Dokbay~
+179977	Balıkalan Mah.	Balıkalan~
+179975	Başpınar Mah.	Başpınar~|Ökkeş Sultanoğlu@
+179979	Belpınar Mah.	Belpınar~|Yeşiloba~
+180023	Demirler Mah.	Demirler~
+179983	Durmuşlar Mah.	Durmuşlar~|Ukkaşe~
+179985	Emirler Mah.	Emirler~
+30663	Esenyurt Mah.	501 Nolu~|Adil~|Arzu~|Cumhuriyet-1@|Dumlupınar~|Erciyes@|Gazi~|H.nihal Atsız@|Hazar~|Kahramanmaraş%|Karalar~|Mevlana-1@|Pınar~|Sakarya@|Sinem~|Tunahan@|Yeşiltepe~|Yeşilvadi@|Yıldırım~|Çiğdem~|Şirintepe~
+30660	Fatih Mah.	601 Nolu@|602 Nolu~|603 Nolu~|604 Nolu~|605 Nolu~|606 Nolu~|607 Nolu~|608 Nolu@|609 Nolu~|610 Nolu~|611 Nolu~|612 Nolu~|613 Nolu~|614 Nolu~|615 Nolu~|616 Nolu~|617 Nolu~|618 Nolu~|619 Nolu~|620 Nolu@|621 Nolu~|622 Nolu~|623 Nolu~|624 Nolu~|625 Nolu~|626 Nolu~|627 Nolu~|628 Nolu~|629 Nolu~|630 Nolu~|631 Nolu@|632 Nolu~|633 Nolu~|634 Nolu@|635 Nolu~|636 Nolu~|637 Nolu~|638 Nolu~|639 Nolu@|640 Nolu@|641 Nolu~|642 Nolu~|643 Nolu~|644 Nolu~|645 Nolu~|Barboros Cadde@|Gün Sazak Cadde@|Mimar Sinan@|Namık Kemal@|Recep Tayyip Erdogan%|Türkeş Bulvar%|Türkeş Bulvarı%|Yıldırım Beyazıt Nolu~|Şeyh Edibali Nolu~
+179987	Gedikli Mah.	Gedikli~
+179957	Gökçedere Mah.	Yazlık Mevsimlik~
+179959	Gözlühüyük Mah.	Gerciğin~|Gözlühüyük~|Kırkağaç~|Sayburun~
+179989	Hamidiye Mah.	Hamidiye~
+688200	Hisar Mah.	Ataköy=|Yolçatı=
+179963	Karaburçlu Mah.	Karaburçlu~
+179999	Kartal Mah.	Yolun Altı~|Yolun Üstü~|Yıldıztepe~
+30658	Kurudere Mah.	718 Nolu~|Beşikkaya~|Büğlen~|Gül Tepe~|Halıde Edıp Adıvar@|Hurşit@|Hüseyin Yaşar@|Kocatepe~|Mehmet Açıkgöz@|Mennan Hoca@|Molla Osman@|Mustafa Taşar1~|Oguzhan@|Okul-1=|Sağlık@|Türkeş Bulvar%|Türkeş Bulvarı%|Yıldırım Tepe~|Şehit Korgeneral Eşref Bitlis@|Şevket Birgücü@
+180005	Kuzoluk Mah.	Bakırcan~|Kuzoluk~
+179967	Kömürler Mah.	Gencolar=|Kömürler~|Yassıpınar~
+180003	Kırkpınar Mah.	Kırkpınar~
+180001	Kırışkal Mah.	Kırışkal~
+30661	Mehmet Akif Ersoy Mah.	800 Nolu~|805 Nolu@|811 Nolu@|813 Nolu~|817 Nolu~|819 Nolu~|821 Nolu~|828 Nolu@|829 Nolu~|830 Nolu~|831 Nolu~|832 Nolu@|834 Nolu~|836 Nolu~|840 Nolu~|842 Nolu~|844 Nolu~|846 Nolu~|848 Nolu~|Bahçeli Evler@|Gaziantep%|Lale~|Papatya~|Süleyman Şanlı~|Çiçek~|İslahiye%|Şanlı~
+180007	Mesthüyük Mah.	Mesthüyük~
+180009	Naimler Mah.	Hocalar~|Naimler~
+180011	Nogaylar Mah.	Nogaylar~|Yalangoz~
+179969	Olucak Mah.	1031 Nolu~|Olucak~|Tümbel~
+179935	Sakçagözü Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|3~|4~|5~|6~|7~|8~|811 Nolu@|9~|Adnan Menderes@|Ahmet Yesevi@|Arap Dede Çıkmaz~|Aslanlar Çıkmaz~|Atatürk@|Aydın Menderes@|Aydın~|Bahar~|Bahçe Çıkmaz~|Battalgazi@|Başkent~|Cumhuriyet@|Dervişpaşa@|Fatih@|Fener~|Gül~|Gülsüm Çıkmaz~|Hacı Mehmet~|Halil Koyunoğlu~|Hoca Ali~|Hurşitağa@|Hürriyet (bey)@|Hürriyet (cumhuriyet)@|Hürriyet (meydan)@|Hürriyet@|Kanarya@|Kanarya~|Kanuni@|Karanfil-1=|Kenan Evren (pınarbaşı)@|Kenan Evren Caddesi=|Künesler=|Kıbrıs@|Lale-1~|Mehmet Akif Ersoy (pınarbaşı)@|Mehmet Akif Ersoy-1@|Menekşe~|Mevlana-2@|Musa Dağ~|Mustafa Taşar (meydan)%|Mustafa Taşar (pınarbaşı)%|Mustafa Taşar%|Naimler Çıkmaz~|Nur~|Papatya Çıkmaz~|Pazaryeri~|Paşaeli@|Sakçagözü 1 Nolu~|Selver Demirbaş@|Sinanpaşa@|Turgut Özal (cumhuriyet)@|Turgut Özal (meydan)@|Yasemin~|Yenicamii~|Yenipınar@|Çolak Dede Çıkmaz~|Ökkeş Korkmaz~|İlkokul~|İsmet İnönü@|Şahin~|Şehir~|Şehit Albay Rıdvan Özden@|Şehit Albay İbrahimkaraoğ@|Şehit Ali Murtaza Dokbay~|Şehit Bilal Ayıtgın~|Şehit Yusuf Kaplan~|Şelale@
+798447	Sayburun Mah.	Gerciğin=|Gözlühüyük=|Sayburun=
+180025	Tandırlı Mah.	Tandırlı=
+180013	Terken Mah.	Terken~
+179965	Torunlar Mah.	Katrancı~
+180015	Tüllüce Mah.	Dörtevler~|Tüllüce~|Yolçatı~
+30664	Yavuzselim Mah.	901 Nolu~|902 Nolu~|903 Nolu~|904 Nolu~|905 Nolu~|906 Nolu~|907 Nolu~|908 Nolu~|909 Nolu~|910 Nolu~|911 Nolu~|912 Nolu~|913 Nolu~|914 Nolu~|915 Nolu~|916 Nolu~|917 Nolu~|918 Nolu~|919 Nolu~|920 Nolu~|921 Nolu~|922 Nolu~|923 Nolu~|924 Nolu~|925 Nolu~|926 Nolu~|927 Nolu~|928 Nolu~|929 Nolu@|930 Nolu~|931 Nolu~|932 Nolu~|933 Nolu~|Cengiz Topel@|Gaziler@|Kahramanmaraş%|M.fevzi Çakmak@|Çağdaş~|Çelikkan@|Şehit Eyüp Aksoy@|Şehit Polis Emin Güler~|Şehit İbrahim Tıraş~
+180027	Yaylacık Mah.	Yaylacık~
+30659	Yeni Mah.	1001 Nolu~|1002 Nolu@|1003 Nolu~|1004 Nolu~|1005 Nolu~|1006 Nolu~|1007 Nolu~|1008 Nolu~|1009 Nolu~|1010 Nolu~|1011 Nolu~|1012 Nolu~|1013 Nolu~|1014 Nolu~|1015 Nolu~|1016 Nolu~|1017 Nolu~|1018 Nolu~|1019 Nolu~|1020 Nolu~|1021 Nolu~|1022 Nolu~|1023 Nolu~|1024 Nolu~|1025 Nolu~|1026 Nolu~|1027 Nolu~|1028 Nolu~|1029 Nolu~|1030 Nolu~|1031 Nolu~|1032 Nolu~|1033 Nolu~|1034 Nolu@|1035 Nolu~|Bakımevi Caddesi@|Feza~|Mizam~|Recep Tayyip Erdoğan%|Türkeş Bulvar%|İslahiye%|Ş.polis Mustafa Bali~|Şehit Jandarma Er Emrah Çetin@|Şeyh Şamil@
+179981	Çakmak Mah.	Çakmak~
+179995	İkizkuyu Mah.	Doğan~|İkizkuyu~
+179961	İncegedik Mah.	İncegedik~
+179997	İncirli Mah.	İncirli~
+179991	İçerisu Mah.	Mollaobası~|Salmanobası~|İçerisu~
+179953	Şatırhüyük Mah.	1 Nolu (pınarbaşı)~|1 Nolu (yamaç Kışla)@|1 Nolu~|2 Nolu~|Adnan Menderes~|Ala Geyik~|Altınevler=|Atatürk-1@|Belediye@|Cengizhan~|Ceylan~|Esmeler (konak)=|Esmeler@|Fatih Sultan Mehmet@|Geyik~|Güneykışla=|Güngördü=|Hüyük~|Kenan Evren@|Kirlik=|Konut=|Mehmet Akif Ersoy~|Menekşe-1~|Mevlana~|Müdürler=|Okul~|Oğuzhan@|Selvi~|Sögüt~|Sümbül~|Toplu=|Turgut Özal@|Ugur Mumcu@|Yukarı=|Yunus Emre@|Çamlıca Çıkmaz~|Çınarlı Çıkmazı~|İnönü@

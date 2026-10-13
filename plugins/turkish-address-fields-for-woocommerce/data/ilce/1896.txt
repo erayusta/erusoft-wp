@@ -1,0 +1,23 @@
+79978	Burunbaşı Mah.	1.zeytinlik~|104~|105~|106~|2.zeytinlik~|3.zeytinlik~|4.zeytinlik~|Kıran=|Liman=|Milli Egemenlik@|Tepe=|Zeytinlik@
+79980	Büyükdere Mah.	206~|206-1~|207~|208~|209~|210~|315~|316~|317~|318~|319~|320~|321~|322~|611~|612~|613~|614~|711~|712~|713~|714~|715~|Akarsu=|Akmaz-=|Ali Osman Aksoy@|Ali Osman Aksoy1~|Avni Akkan@|Büyükdere@|Dere=|Hacı Mehmet Berber@|Kale1=|Muallim Ali Osman Turan@|Nanoğlu-=|Nuhoğlu@|Rıfat Bostan~|Çınar=
+156619	Erenköy Mah.	Alt=|Erenköy Cami=|Erenköy Kıran=|Kalyoncu=|Kuloğlu=|Yavuz Fatih=|İlk=|Şahinli Erenköy Yaylası=
+156621	Fenerköy Mah.	Fenerköy Dağ=|Fenerköy Kıran=|Fenerköy Yalı=|Fenerköy Yeni=|Gençali=|Gülbahçe Orta=|Gülbahçe Yalı=|Kantoğlu=|Kova=|Kuburcuoğlu=|Orta=|Sofuoğlu=|Veliköy Kıran=|Yalı 2=
+156623	Gülbahçe Mah.	Gülbahçe Dağ=|Gülbahçe Orta=|Gülbahçe Yalı=|Veliköy Kıran=|Yalı 2=
+156625	Kadıköy Mah.	Akmaz=|Alıkçıoğlu=|Kademisoğlu=|Kadıköy Kıran=|Kadıköy Merkez=|Kızaniyos=|Moralioğlu=|Nanoğlu=|Çilingirli=
+156627	Kaleköy Mah.	Aliağa=|Camialtı=|Camiyanı=|Demirci=|Kaleköy Yalı=|Karanlık=|Kıran=|Zerdan=
+156629	Kavaklı Mah.	Alt Dağ=|Aydınlar=|Bülbüsüllü=|Kavaklı Dağ=|Kavaklı Kıran=|Kavaklı Merkez=
+79977	Kerem Mah.	911~|912~|913~|914~|915~|Avni Akkan@|Deniz=|Kale1=|Kerem@|Kerem1~|Kerem2~|Veliköy Kıran=
+156631	Kovanlı Mah.	Balaban=|Camii=|Gıdalli=|Kovanlı Dere=|Kovanlı Kıran=|Kovanlı Orta=|Kuloğlu=|Okul=|Yavuz Fatih=|Yavuz Fatih1=|İlk=
+156633	Küçükköy Mah.	Bıyıklıoğulları=|Kocabaş=|Küçükköy Güney=|Merkez=|Nanoğlu=|Serpil=
+79975	Merkez Mah.	101~|102~|103~|107~|211~|212~|213~|214~|215~|216~|311~|312~|313~|314~|411~|412~|413~|Akmaz=|Avni Akkan@|Culhaoğlu~|Cumhuriyet Myd.|Dere=|Fatih~|Hacı Bekir Sevgi@|Hacı Gani Tok=|Karanfil~|Kıran=|Liman=|Mehmet Naci Akaydın~|Milli Egemenlik@|Muallim Ali Osman Turan 1~|Muallim Ali Osman Turan@|Süleyman Çağlar~|Tepe=|Yavuz@|Şehit Muhammet Türk~
+156635	Pınarlı Mah.	Pınarlı Merkez=
+79976	Salova Mah.	323~|324~|325~|326~|327~|327-1~|Akarsu=|Avni Akkan@|Dere=|Kale=|Kale1=|Muallim Ali Osman Turan@|Çınar=
+156637	Samsun Mah.	Bostanlı=|Depdepli=|Kumbarlı=|Manil=|Samsun Dere=|Taşlıtepe Güney=|Taşlıtepe Kıran=
+156639	Serpilköy Mah.	Bıyıklıoğulları=|Dereköylü=|Kocabaş-=|Merkez=|Serpil=|Taşlıtepe Cami=|Çallı Dere-=
+156643	Taşlıtepe Mah.	Dereköylü=|Karşı=|Samsun Dere=|Taşlıtepe Cami=|Taşlıtepe Güney=|Taşlıtepe Kıran=
+156645	Veliköy Mah.	Baloğlu=|Delihasanoğlu=|Hardaloğlu=|Kahvecioğlu=|Kale=|Kale1=|Kerimoğlu=|Veliköy Kıran=|Veliköy Orta=
+156647	Yavuz Mah.	Bekirli=|Cami=|Cami1=|Cinalli=|Civelekli=|Düz=|Gıdalli=|Kayıktaş=|Kovanlı Kıran=|Yavuz Fatih=|Yavuz Fatih1=|Yavuz Güney=|Yavuz Kaldırım Yayla=|Yavuz Kıran=|Yavuz Orta=|Yavuz Yeni=|Yeniköy Merkez=
+156649	Yeniköy Mah.	Aydınköy Hıdırnebi=|Ağaçlı Hıdırnebi-=|Kargan=|Kayıktaş=|Kovanlı Yayla=|Mezere Mevkii=|Nepsiloz Şahinli 2=|Yavuz Güney=|Yavuz Kıran=|Yeniköy Dere=|Yeniköy Kaldırım Yayla=|Yeniköy Merkez=|Çakırın Dere-=
+79979	Zeytinlik Mah.	Kıran 1=|Kıran=|Liman=|Pınarlı Merkez=|Tepe=|Zeytinlik@
+156617	Çallı Mah.	Baharoğlu=|Dereköylü=|Serpil=|Çallı Dere=|Çallı Fatih=|Çaloğlu=
+156641	Şahinli Mah.	Bekiroğlu=|Bülbüsüllü=|Erenköy Kıran=|Kavaklı Kıran=|Kürtoğlu=|Şahinli Cami=|Şahinli Dere=|Şahinli Kıran=

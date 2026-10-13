@@ -1,0 +1,45 @@
+140783	Akyazı Mah.	Akyazı=
+23689	Ayseki Köyü	Ayseki=
+23701	Ayva Köyü	Ayva=
+20322	Aşağı Mah.	Akyazı_1=|Ara~|Ara/1~|Arslan~|Bahçe~|Balta~|Barış@|Barış/1~|Battal~|Battal/1~|Büyük Yayla=|Cumhuriyet Myd.|Eski İğdir~|Gelincik~|Gelincik/1~|Gelincik/2~|Gökmen~|Gülbahar Hatun@|Gülbahar Hatun/1~|Gülbahar Hatun/2~|Gülbahar Hatun/3~|Gülbahar Hatun/4~|Gülbahar Hatun/5~|Hamam~|Hazımdağlı@|Hürriyet_1~|Karaman~|Kırıttım Çıkmazı~|Manas@|Manolya@|Mehmet Akif@|Mehmet Akif/1~|Menekşe@|Menekşe/1~|Necip Fazıl@|Nuri Tabanlı@|Onat~|Ortaokul~|Panayır~|Pınar~|Ulusoy~|Yerli Çıkmazı~|Zümrüt~|Çankırı@|Çankırı/1~|Çay Yolu~|Çay Yolu-~|Çeşme~|İsmail Hakkı Esen@|İsmail Hakkı Esen/1~|İstiklal@|İstiklal/1~
+197049	Aşağıöz Köyü	Aşağıöz=
+23702	Bademçay Köyü	Bademçay=
+23690	Balıbıdık Köyü	Balıbıdık=
+23703	Belibedir Köyü	Belibedir=
+23692	Buluca Köyü	Buluca=
+23691	Buğay Köyü	Buğay=
+23704	Büyükakseki Köyü	Büyükakseki=
+20323	Camikebir Mah.	Ateşönü~|Büyük Camii~|Büyük Camii/1~|Büyük Camii/2~|Cumhuriyet Myd.|Fethiye~|Garaj@|Gazi~|Hacı Hafız~|Hacı Mustafa Efendi~|Hamam~|Hasan Zuhuri Sarıkaya@|Havan~|Havan/1~|Hükümet@|Hürriyet~|Kalekapı@|Karacaözü@|Karacaözü/1~|Karacaözü/2~|Karacaözü/3~|Kayabaşı~|Kayabaşı/1~|Kayabaşı/2~|Lise~|Maden~|Ortaokul~|Panayır~|Saray/3~|Tekceviz~|Tekceviz/1~|Tekceviz/2~|Tekceviz/3~|Yunus Emre@|İplik Pazarı~
+23708	Davutlar Köyü	Davutlar=
+23693	Doğanbey Köyü	Doğanbey=
+23709	Gürmeç Köyü	Gürmeç=
+23695	Karacaözü Köyü	Karacaozu=
+140787	Kavak Mah.	Kavak=
+23710	Kayacık Köyü	Kayacık=
+23697	Kaymaz Köyü	Kaymaz=
+23711	Kirliakça Köyü	Kirliakça=
+23712	Kullar Köyü	Kullar=
+23698	Kıvcak Köyü	Kıvcak=
+23713	Müsellim Köyü	Müsellim=
+23714	Ovacık Köyü	Ovacık=
+23715	Sarıkaya Köyü	Sarıkaya=
+23699	Sazcağız Köyü	Sazcağız=
+23716	Sofuoğlu Köyü	Sofuoğlu=
+23717	Subaşı Köyü	Subaşı=
+23719	Topuzsaray Köyü	Topuzsaray=
+23720	Yaka Köyü	Yaka=
+23700	Yakadere Köyü	Yakadere=
+23721	Yamaçbaşı Köyü	Yamaçbaşı=
+23722	Yenice Köyü	Yenice=
+23723	Yeşilyayla Köyü	Yeşilyayla=
+20324	Yukarı Mah.	Ateşönü~|Ateşönü/1~|Ateşönü/2~|Ateşönü/3~|Damardı~|Gölet=|Hacı Hafız~|Hacı Hafız/1~|Hacı Mustafa Efendi~|Hasan Zuhuri Sarıkaya@|Hasan Zuhuri Sarıkaya/1~|Hasan Zuhuri Sarıkaya/2~|Kayabaşı~|Kayabaşı/1~|Kayabaşı/2~|Küçük Yayla=|Maden~|Saray~|Saray/1~|Saray/2~|Saray/3~|Su Deposu~|Su Deposu/1~|Su Deposu/2~|Su Deposu/3~|Tekne Kaya~|Tekne Kaya/1~|Çimi~|Çimi/1~|Çiğdem~|Çiğdem/1~|Çiğdem/2~
+198953	Yukarıöz Köyü, Osmanlı Mevkii	
+20325	Yukarıöz Köyü, Şeyh İsmail Mevkii	Ağılınkaş=|Bayır=|Bozkurt=|Camii=|Değirmen Çıkmazı=|Dr.sadık Ahmet=|Ebru Bekri Sıddık=|Ekerbiçer=|Görgülü=|Gül Çıkmazı=|Gündoğdu Çıkmazı=|Hoca Yusuf=|Ilgaz=|Kardelen=|Mazlum=|Mehmetçik Çıkmazı=|Merve Çıkmazı=|Mimar Sinan=|Narin=|Nevzat Ayaz=|Papatya Çıkmazı=|Sağlık=|Sümbül=|Tekke=|Tosya=|Uludere=|Uslu=|Yağmur=|Yaşar Doğu=|Yeşil Yayla=|Yolsapan=|Çağrı Çıkmazı=|Çetin Çıkmazı=|Çiçek Çıkmazı=|Şeyh İsmail Rumi Camii=
+20326	Yüklü Köyü, Büyük Cami Mevkii	Bağlarbaşı=|Eminler=|Hacıgil=|Kadirler=|Kayabaşı=|Kıble=|Mehmet Ağa=|Mezarlık=|Sağlık=|Çankırı=|İkizören=
+23724	Zekeriya Köyü	Zekeriya=
+23705	Çakırlar Köyü	Çakırlar=
+23706	Çevrecik Köyü	Çevrecik=
+23707	Çiçek Köyü	Çiçek=
+20327	İkizören Köyü, Yeni Mevkii	Adnan Menderes=|Boğaz=|Camii=|Dar=|Doğu=|Firgani Karaaslan=|Güney=|Hoca Ahmet Yesevi=|Huzur=|Karanfil=|Kerim Paşa=|Lale=|Mehmet Akif Ersoy=|Meraşal Fevzi Çakmak=|Paşa=|Salih Efendi=|Sağlık=|Susam=|Türbe=|Uzayan=|Zade=|Çankırı=|Çiğdem=|Ören=
+140785	İğdir Mah.	İğdir=
+23718	Şeyh Osman Köyü	Şeyhosman=

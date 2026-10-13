@@ -1,0 +1,21 @@
+24187	Emirler Köyü	 Köy$
+20388	Evci Köyü, Derebağlar Mevkii	1 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|Aygar~|Osmanlı~|Zafer~
+20389	Evci Köyü, Yeni Mevkii	18 Nolu~|19 Nolu~|20 Nolu~|21 Nolu~|75. Yıl~|Baytar~|Fatih~|Harman~|Hattusas~|Mehmet Akif Ersoy~|Orman~|Şehit Yusuf İncekoca~
+20390	Evci Köyü, Yunus Emre Mevkii	10 Nolu~|11 Nolu~|12 Nolu~|13 Nolu~|14 Nolu~|15 Nolu~|16 Nolu~|17 Nolu~|75.yıl~|9 Nolu~|Aygar~|Camii Kebir~|Gazi~|Hattusas~|Orman~|Sarıkaya~|Zafer~
+24188	Gölpınarlar Köyü	 Köy$
+20386	Hattusas Mah.	Abdi Paşa~|Atilla~|Dr. Devlet Bahçeli@|Gazi Osman Paşa~|Gazi Paşa~|Göl Köy$|Hattusas~|Kahramanlar~|Mehmetcik~|Menderes~|Orhan Gazi~|Tekinler~|Yazılı Kaya@|Zaloğlu~|Şakir Bey~|Şuşa@
+20387	Hisar Mah.	Başbuğ Alparslan Türkeş@|Fatih~|Fevzi Paşa~|Karanfil~|Kazım Karabekir~|Köroğlu~|Metehan~|Prof.dr Necmettin Erbakan~|Zeloğlu~|Çelebi Efendi~|İbikçam=
+24189	Kadılıtürk Köyü	 Köy$
+24190	Karakeçili Köyü	 Köy$
+24191	Kaymaz Köyü	 Köy$
+24193	Sarıçiçek Köyü	 Köy$
+24194	Yanıcak Köyü	 Köy$
+24195	Yazır Köyü	 Köy$
+20393	Yekbas Köyü, Bahçelievler Mevkii	Budaközü~|Fevzi Çakmak~|Harman~|Laleli~|Malazgirt~|Mehmet Akif Ersoy~|Merkez~|Pınarbaşı~|Selimiye~|Turan~|Yıldırım Beyazıt~|Özmen~|Şehit Üzeyir Tekindemir~
+20392	Yekbas Köyü, Bağlarbaşı Mevkii	Alibey Çıkmazı~|Cengizhan~|Doğan Çıkmazı~|Hoca Ahmet Yesevi~|Orhan Gazi~|Yıldızhan~|Çamlık~|Çeşme~|Şehit İsa Höçük~
+20394	Yekbas Köyü, Fatih Mevkii	Budaközü~|Fevzi Çakmak~|Hoca Ahmet Yesevi~|Kader~|Karanfil~|Malazgirt~|Menekşe~|Ş. Üzeyir Tekin Demir~|Şehit İmamoğlu~|Şehit İsa Höçük~
+24196	Yenikadılı Köyü	 Köy$
+24197	Yukarıfındıklı Köyü	 Köy$
+20385	Çarşı Mah.	15 Temmuz Şehitler~|Atatürk@|Cumhuriyet Myd.|Dr.h.hüseyin Dölarslan@|Genç Osman Paşa~|Genç Osman~|Hitit@|Kanuni~|Muhsin Yazıcıoğlu~|Recep Tayyip Erdoğan@|Turgut Özal@|Yavuz Selim@|Yıldırım~
+180982	Çarşıcuma Köyü	Bayraklı~|Dere~|Evci~|Gündoğdu~|Güneş~|Mecidiyeli~|Mezarlık~|Nöbeti Baba~|Selanik~|Sungurlu~|Yasan~|Şehit İsmail Mecidiyeli~
+24192	Örenkaya Köyü	 Köy$

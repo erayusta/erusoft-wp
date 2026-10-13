@@ -1,0 +1,29 @@
+15923	Aşağıboğaz Köyü	Aşağıboğaz Köy Sokağı=
+15924	Aşağıçaylı Köyü	Aşağıçaylı Köy Sokağı=
+15925	Batıbelenören Köyü	Batıbelenören Köy Sokağı=
+15926	Belkese Köyü	Belkese Köy Sokağı=|Gölpazarı Yenipazar@
+15928	Caferler Köyü, Caferler Mevkii	Caferler Köy Sokağı=|Gölpazarı Yenipazar@
+15927	Caferler Köyü, Ümitler Mevkii	Gölpazarı Yenipazar@|Ümitler Köy Sokağı=
+15929	Danişment Köyü	Danişment Köy Sokağı=
+15930	Dereköy Köyü	Dereköy Köy Sokağı=
+15931	Doğubelenören Köyü	Doğubelenören Köy Sokağı=
+15933	Esenköy Köyü, Esenköy Mevkii	Esenköy Köy Sokağı=|Gölpazarı Yenipazar@
+15932	Esenköy Köyü, Tekeciler Mevkii	Tekeciler Köy Sokağı=
+15934	Karahasanlar Köyü	Karahasanlar Köy Sokağı=
+15935	Katran Köyü	Katran Köy Sokağı=
+15936	Kavacık Köyü	Kavacık Köy Sokağı=
+15938	Kuşça Köyü	Kuşça Köy Sokağı=
+15937	Kösüre Köyü	Kösüre Köy Sokağı=
+15939	Kükürt Köyü	Kükürt Köy Sokağı=
+15940	Nasuhlar Köyü	Nasuhlar Köy Sokağı=
+10673	Osmangazi Mah.	Adnan Kahveci@|Alparslan Türkeş%|Atatürk@|Cumhuriyet Myd.|Ertuğrul Gazi@|Gölpazarı Yenipazar@|Kırka@|Lise@|Seven~|Yanık~|Ünal~
+15941	Selim Köyü	Selim Köy Sokağı=
+15942	Sorguncukahiler Köyü	Sorguncukahiler Köy Sokağı=
+15943	Tohumlar Köyü	Gölpazarı Yenipazar@|Tohumlar Köy Sokağı=
+15944	Ulucak Köyü	Ulucak Köy Sokağı=
+10674	Yeni Mah.	1071 Malazgirt~|Adnan Kahveci@|Alparslan Türkeş%|Bayrakçı~|Başaran~|Cumhuriyet Myd.|Dal~|Değirmencioğlu@|Eker~|Ertuğrul Gazi@|Eskişehir@|Fabrıkalarsılıncek~|Fatih~|Gölpazarı Yenipazar@|Güven~|Hilal~|Kaya~|Keskin~|Kızılcabelen~|Mevlüt Bilici@|Sanayi~|Varolu~|Yenigün~|Yeşiltepe~|Yunus Emre~|Çoban~|Özcan~|Özgüven~|Ünsal~
+15945	Yukarıboğaz Köyü	Yukarıboğaz Köy Sokağı=
+15946	Yukarıçaylı Köyü	Yukarıçaylı Köy Sokağı=
+15947	Yumaklı Köyü	Yumaklı Köy Sokağı=
+10675	Zafer Mah.	Cumhuriyet Myd.|Eskişehir@|Eğitim~|Fevzi Çakmak@|Kara~|Lise@|M. Akif Ersoy~|Nil~|Recep Kaya@|Uyar~|Özden@|Öztürk~|Ülkü~
+10672	Çöte Mah.	Akın~|Durdu~|Hoca Ahmet Yesevi@|Irmak~|Selami Öztürk@|Selvi~|Uysal~|Yıldız~|Çelik~|Özdemir~|Özden@|Özmen~

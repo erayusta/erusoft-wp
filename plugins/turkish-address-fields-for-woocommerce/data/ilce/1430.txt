@@ -1,0 +1,96 @@
+656652	Ahmethacılar Mah.	Ahmethacılar Merkez Mevkii=|Hasanfakılar Mevkii=|Çerkeşli Mevkii=
+50374	Akbal Mah.	Aşağı Pınar~|Bakacak~|Büyük Balcı@|Harman Pınar~|Kara Kızılcık~|Kayalık~|Kovu Yeri~|Merkez~|Mustafa Eren~|Sakarya@|Sarıgöl~|Söğüt Pınar~|Sıhhiye İbrahim~|Yukarı Pınar~|İsmail Akın~|Şehit Seyit Ahmet~|Şehit Yahya Pınar~|Şehit İdris~
+50370	Akdurak Mah.	15 Temmuz~|Ada@|Adil Tüzün@|Ahenk~|Ahmet Er@|Akik~|Akçakoca@|Alaca~|Alt~|Altın~|Ardıç~|Asude~|Atılım~|Ayışığı~|Aşık Veysel@|Badem~|Bahardalı~|Bahçıvan~|Bal~|Becerikli~|Berat~|Bereket~|Berke~|Birinci~|Cami~|Cezaevi~|Cumhuriyet@|Doğu@|Eflatun~|Eski Mezbaha@|Eğitim~|Fatih@|Fener@|Fethi Aşkın@|Fidan~|Fikir~|Göçmen~|Gümüş~|Gündoğdu~|Güneş 90~|Halil İbrahim Erden~|Harman~|Hatip~|Hatıra~|Hülya~|Ilgaz~|Ilıca@|Kadı Değirmeni~|Kandıra-kefken Yolu@|Kardelen~|Kardeş~|Karınca~|Kasırga~|Keşif~|Kirazlık~|Konaktepe~|Kudretli~|Kutay~|Küme Evler~|Kırmızı~|Kısmetim~|Kızılay@|Kızıltuğ~|Kışla@|Leylak~|Mavi~|Mehmet Taner@|Mete~|Mezarlık Altı~|Miraç~|Müdafa~|Nar~|Niyazi Yelkencioğlu@|Oluşum~|Oruç~|Ova~|Petrol~|Peşrev~|Rahmet~|Reşat Güneş@|Rüya~|Rüzgarlı~|Sade~|Safir~|Sakarya@|Salkım~|Sanat~|Sancak~|Sancaktar~|Saraç~|Sağlık~|Süllü@|Sırça~|Tandoğan@|Tayfun~|Taşlık~|Tekkeli=|Tevfik Kandıra@|Turan Güneş@|Turuncu~|Uluca~|Yasemin~|Yavuz Selim~|Yağmur~|Yedibaşak~|Yediveren~|Yegane~|Yelpaze~|Yemiş~|Yeni Cami~|Yenice~|Yenidevir~|Yonca~|Yosun~|Yurtseven~|Yusuf Hoca~|Zencefil~|Zerdali~|Çalca~|Özgür~|Öğe~|İlim~|İsmail Koca@|Şehit Mehmet Uzcan~|Şehitler~|Şimşir~
+429845	Akçabeyli Mah.	Akçabeyli Seferler Mevkii=|Askeriye Mevkii=|Kadı Konağı~|Kefken@|Potlar Mevkii=|Taşlıaçma Mevkii=
+104471	Akçakese Mah.	Bağlar~|Belen~|Cumhuriyet@|Eski Kandıra@|Kuyular~|Kuzuluk~|Nurcan~|Pınar~|Çeşme~|İzmit Kandıra Yolu@
+817015	Akçaova Mah.	Akçaova Merkez Mevkii=|Tokaşlar Mevkii=|Yorgalar Mevkii=
+134627	Akıncı Mah.	Akıncı Hatıplar Mevkii=|İshaklar Mevkıı=
+245985	Alefli Mah.	Alefli Merkez Mevkii=
+908996	Antaplı Mah.	Antaplı Merkez Mevkii=
+305417	Avdan Mah.	Avdan Merkez Mevkii=|Boğallar Mevkii=
+50371	Aydınlık Mah.	23 Nisan@|Abdullah Köseoğlu@|Ahmet Doğru@|Akasya@|Alay@|Ara~|Aralık~|Aydın~|Açelya~|Ağva İstanbul@|Bahçe~|Battal Gazi~|Belde~|Boncuk~|Bülbül~|Ceviz~|Daracık~|Defne~|Dumlupınar~|Ferah~|Fırın~|Gaziler@|Göknar~|Gül~|Güvenler@|Güzeltepe@|Han~|Hanımeli~|Hayat~|Hidayet~|Ihlamur~|Kandıra-kefken Yolu@|Kavakdibi@|Keklik~|Koza~|Kozalak~|Kuzey~|Kültür@|Kısa~|Kızak@|Lale~|Medrese~|Menekşe~|Milli Egemenlik@|Mustafa Kemal@|Mutlu~|Nail Eyidoğan~|Nergis~|Nevrezbey~|Neşe~|Nihat Erim@|Okul~|Orta~|Ortanca~|Osman Gazi~|Palmıye~|Santral~|Sezenler@|Sucu~|Sınır~|Tabakhane@|Turan Güneş@|Türbe~|Türk Ocağı@|Uzun Ahmet@|Yeni Kuyular@|Yeşil~|Zafer@|Zambak~|Çiçek~|Üst~|İnce~|İnönü@|Şefik Cami~
+549105	Ağaçağıl Mah.	Dereli Mevkii=|Gögüşler Mevkii=
+743757	Babaköy Mah.	Arifağa~|Babaköy Merkez Mevkii=|Kandıra-kefken Yolu@|Karakaya Mevkii=|Mollahasan Pınarı Mevkii=|Sarısu@
+445213	Babalı Mah.	Acar~|Adnan Canlı~|Ahmet Türkmen@|Akın~|Arzu~|Atatürk@|Atmaca~|Avni Akran@|Ayhan~|Aykut~|Ayça~|Ağar~|Bahadır~|Barış~|Begonya~|Beren~|Beste~|Can~|Canan~|Cemal Çamur@|Cesur~|Cumhuriyet@|Demet~|Demir~|Deniz~|Dere~|Derya~|Dikili@|Dinçer~|Dokuz Evler~|Doğa~|Doğan~|Elif~|Emel~|Emrah~|Emre~|Emsal~|Fatih~|Gardenya~|Genç~|Gökçe~|Göl~|Gözde~|Gül~|Hilal~|Hisar~|Hüseyin Pehlivan@|Kanarya~|Kanpara~|Karanfil~|Katip~|Lale~|Levent~|Manolya~|Menekşe~|Merve~|Meşe~|Murat~|Mustafa Özmen@|Onur~|Orkide~|Orman~|Osman Deniz~|Papatya~|Pehlivan~|Reyhan~|Sefer~|Seymen~|Süleyman Pehlivan~|Sümbül~|Tayfun~|Tepe@|Yamaç~|Yaprak~|Yörük~|Yılmaz~|Zafer~|Zambak~|Zeytin~|Çam~|Çelik~|Özcan.~|Özdemir~|Özden~|Özge~|Özgür~|Özkan~|Ülker~|Şenol~|Şirin~
+473090	Balaban Mah.	Kocaoğlu Mevkii=|Taşanbar Mevkii=|Çıraklı Mevkii=
+561555	Balcı Mah.	Balcı Arıklar Mevkii=|Balcı Seferler Mevkii=|Bıçakcılar Mevkii=|Malaklar Mevkii=|Mollalar Mevkii=|Sakarya@|Sıddıklar Mevkii=
+378919	Ballar Mah.	Ballar@|Ballar Karşı Mevkii=|Ballar Merkez Mevkii=|Burmageçit Mevkii=|Recepler Mevkii=|Rıdvanlar Mevkii=|Çağlar~
+738625	Bağırganlı Mah.	Aktaş~|Ateş~|Balıkçı~|Beril~|Beste~|Cami~|Cumhuriyet@|Damla~|Değirmen~|Dinç~|Gül~|Hakim~|Kalyoncu~|Kandıra@|Karanfil~|Kartal~|Liman@|Mert~|Meşe~|Naz~|Nazlı~|Nilüfer~|Okul~|Oruç~|Ozan~|Sahil@|Site~|Taflan~|Tunç~|Yeni~|Yeşil~|Zirve~|Çam~|Çeşme~|Çınar~|Özoğlu~|Şenol~
+111302	Beyce Mah.	Ahcılı Mevkii=|Beyce Çavuşlar Mevkii=|Ören Mevkii=
+150524	Beylerbeyi Mah.	Beylerbeyi Merkez Mevkii=|Güney Mevkii=
+876854	Bolu Mah.	Bolu Merkez Mevkii=|Galıncak Sahili Mevkii=|Umurcalı Mevkii=
+456152	Bozburun Mah.	Bozburun Merkez Mevkii=|Ferdenli Mevkii=|Ramadancar Mevkii=|Yeniköy Mevkii=
+322826	Cebeci Mah.	11.~|12.~|127.~|13.~|19.~|20.~|21.~|24.~|25.~|29 Ekim@|29.~|3.~|30.~|32.~|33.~|35.~|4.~|5.~|6.~|7.~|Akasya~|Amasya~|Ambar~|Ata@|Atatürk@|Atlama Yanı~|Bahar~|Balçık@|Bayram~|Bayır~|Birlik~|Bozturgut~|Cami~|Can~|Cebeci%|Cumhuriyet@|Dar~|Davut Kaptan~|Defne~|Demokrasi@|Doğan~|Dutlar~|Düzler@|Ebru~|Ergül~|Erikli~|Eroğlu~|Fidan~|Gezici~|Giriş~|Gökdağ~|Göktepe~|Gölyanı~|Güllep~|Güneş~|Hakkı Oruç~|Harman~|Karşılar~|Kocameşeler~|Kovanlık~|Kütükçü~|Kınalı~|Kızılay~|Kışla~|Martı~|Melek~|Menekşe~|Merkez@|Mesut~|Mezarlık~|Meşe~|Mine~|Ozan~|Park~|Pazarbaşı@|Plaj Yolu@|Poyraz~|Reşat Reis~|Sarp~|Seyit~|Söğütlü~|Tahlisiye@|Temel~|Ufuk~|Uzun~|Yakamoz~|Yamaç~|Yatakağzı@|Yelkenkaya@|Yonca~|Çakar~|Çakır~|Çalık~|Çamkonak@|Çamlık@|Çardak~|Çağdaş~|Çobankuyu@|Çoruh~|Çukurdere@|İnce~|Şakir Şenol~|Şirinevler~
+972604	Dalca Mah.	Dalca Merkez Mevkii=|İzmit Kandıra Yolu@
+787556	Deliveli Mah.	Deliveli Merkez Mevkii=
+740126	Doğancılı Mah.	Doğancılı Merkez Mevkii=|Sarısu Mevkii=
+694992	Duraklı Mah.	Duraklı Merkez Mevkii=
+454793	Duraçali Mah.	Alaybey Mevkii=|Kandıra-kefken Yolu@
+920322	Döngelli Mah.	Akçamemetler Mevkii=|Karaaliler Mevkii=|Keçioğlu Mevkii=|Kütükçüler Mevkii=|Küçük Hasanlar Mevkii=|Çıgırganlar Mevkii=
+161505	Elmacık Mah.	Bitikler Mevkii=|Elmacık Sakallar Mevkii=|Sarıoğlu Mevkii=|Tokmaklı Mevkii=|Şeyhköy Mevkii=
+595850	Esentepe Mah.	Erikli Mevkii=|Mıdıller Mevkıı=|Ramazanlar Mevkii=|Şahveliler Mevkii=
+839266	Eğercili Mah.	Beygirler Mevkii=|Eğercili Merkez Mevkii=|Güvenler Mevkii=|Mollahasanlar Mevkii=
+367359	Ferizli Mah.	Ferizli Merkez Mevkii=|Köseli Mevkii=|Süllü Yukarı Mevkii=
+486589	Gebeşler Mah.	Gebeşler Merkez Mevkii=|Paşaoğlu Mevkii=
+738179	Goncaaydın Mah.	Saltıklar Mevkii=|Tekkeşinler Mevkii=|Ömerli Mevkii=
+878975	Hacılar Mah.	Hacılar Merkez Mevkii=|Yağbolu Mevkii=|Zurnacılar Mevkii=
+476812	Hacımazlı Mah.	Gençali Mevkii=|Hacımazlı Merkez Mevkii=
+739276	Hacışeyh Mah.	Hacışeyh Merkez Mevkii=
+269670	Hediyeli Mah.	Hediyeli Merkez Mevkii=|Kaypalı Mevkii=
+655514	Hüdaverdiler Mah.	Hüdaverdiler Merkez Mevkii=|Karaağaçoğlu Mevkii=
+900571	Hıdırlar Mah.	Hacı İsmailler Mevkii=|Terziler Mevkii=
+156398	Kabaağaç Mah.	Kabaağaç Merkez Mevkii=
+536128	Kanatlar Mah.	Kadıköy Mevkii=|Kanatlar Merkez Mevkıı=|Karabacaklar Mevkii=|Kayapınarı Mevkii=|Pirceler Mevkii=
+585257	Karaağaç Mah.	Acılık~|Berberoğlu~|Cami~|Cevher~|Cumhuriyet@|Dağdibi~|Dere~|Dervişoğlu~|Dilara~|Elmacı~|Emanet~|Eski~|Eyüp~|Fevzi Çakmak~|Gül~|Güldalı~|Gülşen~|Gümüş.~|Hacı Şükrü~|Hamarat~|Hamza~|Henki Oğlu~|Hicret~|Karşı~|Kurtuluş~|Kılıç~|Mandıra~|Nergiz~|Nilgün~|Okul~|Saka~|Sakallıoğlu~|Seda~|Sevgi~|Yağcı~|Yılmaz~|Çiğdem~|İpşir~|Şişman~
+525337	Karadivan Mah.	Aydınlık Mevkii=|Bestiller Mevkii=|Emirler Mevkii=|Karadivan Davutlar Mevkii=|Kemerler Mevkii=
+207662	Karlı Mah.	Karlı Merkez Mevkii=|Çorallar Mevkii=|Şavklı Mevkii=
+777763	Kaymaz Erikli Mah.	Gölköy Mevkii=|Kaymaz Erikli Merkez Mevkii=
+743823	Kaymaz Mah.	Kaymaz Merkez Mevkii=|Küçük Hasanlı Mevkii=|Omurcalı Mevkıı=
+749986	Kefken Mah.	128.~|Akay~|Alpkaya~|Anıl~|Ata~|Atatürk@|Atıl~|Aykanat~|Aytürü~|Aşır~|Barbaros~|Beren~|Beril~|Beste~|Burcu~|Buse~|Canan~|Cansu.~|Cumhuriyet@|Damla~|Demir@|Deniz~|Dere~|Derya~|Ekşi~|Engin~|Eren~|Esen~|Fahri~|Filiz~|Furkan~|Fırat~|Genç~|Girgin~|Gökçe~|Gölova~|Gül~|Gülmüş~|Günay~|Güneş~|Gürgen~|Güven~|Hilal~|Hürriyet~|Kanal~|Kaptan~|Karakullukçu~|Karanfil~|Karayel~|Kaya~|Keleş~|Kent~|Kibar~|Koç~|Kılıç~|Kır~|Kıroğlu~|Kızılcık~|Kışla~|Liman~|Manolya~|Mehmetçik~|Meltem~|Meral~|Mercan.~|Mert~|Mesut~|Meşe~|Moda~|Mutlu~|Nehir~|Okan~|Orkide~|Ozan~|Papatya~|Pembe Kayalık~|Polatoğlu~|Poyraz~|Sahil~|Sakarya~|Sağlam~|Seda~|Selvi~|Sevil Ekrem~|Siteler~|Taşlı~|Yakamoz~|Yalçın Kaya~|Yağız~|Yiğit~|Yunus~|Yüksel~|Yılmaz~|Zambak~|Çakır~|Çağdaş~|Çelik.~|Ömür~|Özcan~|Özdemir~|Ünal~|İlayda~|Şahin~|Şeker~|Şen~|Şenol~
+474973	Kerpe Mah.	11.~|2.~|4.~|5.~|6.~|7.~|9.~|Anıl~|Arı~|Azra~|Bayram~|Beril~|Beste~|Cami~|Dumlupınar~|Durak~|Eren~|Fırtına~|Gebeş~|Gençlik@|Gül~|Hakan~|Kanal~|Kanarya~|Kandıra-kefken Yolu@|Kaptan@|Karanfil~|Kayalık~|Kerpe@|Konak~|Kumcağız@|Kutlu~|Kuşçu~|Kışla~|Liman~|Manolya~|Martı~|Menekşe~|Merdiven~|Motel~|Mıço@|Naz Çıkmazı~|Nur~|Orman~|Oruç~|Papatya~|Sadi Sınay~|Sahil~|Sarısu@|Sevil~|Tayfun~|Tek~|Tepe~|Türbeler~|Yılmaz~|Çamlıbel@|Çamlık~|Özden~|Özgür~|İlbey~|Şimşek~
+896209	Kocakaymas Mah.	Atatürk.@|Beren~|Beril~|Beste~|Eski Kandıra@|Gazi~|Gül~|Hürriyet.@|Karanfil~|Lale~|Menekşe~|Mesut~|Nurcan~|Papatya~|Tamer~|Umut~|Yunus Emre@|İzmit Kandıra Yolu@
+475194	Kubuzcu Mah.	Abdipaşa Mevkii=|Azaklı Mevkii=|Kubuzcu Böcekler Mevkii=
+277145	Kurtyeri Mah.	Acar~|Akarsu~|Aybaş~|Aydın~|Aşağı Kurt Yeri~|Ballar@|Berk~|Daşçı~|Demir~|Deniz~|Dere~|Değirmen~|Doğan~|Ecem~|Emircan~|Engin~|Erdem~|Ezgi~|Gaffar Okkan@|Gizem~|Göztepe~|Hacı Şükrü@|Hakan~|Hocaoğlu~|Hızlı~|Kanalboyu~|Kandıra@|Kartal~|Kumcağız@|Kurtpınar~|Kır~|Kızıltepe~|Kışla~|Lale~|Macarlar~|Nebioğlu~|Orhan~|Orman~|Radar Yolu@|Sahil~|Sinem~|Yağız~|Yelkencioğlu~|Yiğit~|Yukarı Kurtyeri~|Çavuşlar~|Çağlar~|Çiftlik~|Önder~|Öner~|Özgür~|Şahin~|Şeker~|Şenol~
+922021	Kırkarmut Mah.	Kırkarmut Duraklı Mevkii=|Kırkarmut Hatıplar Mevkii=|Kırkarmut Merkez Mevkii=|Ruşenler Mevkii=|Yağcılar Mevkii=|Ütük Mevkii=|İzmit Kandıra Yolu@
+920900	Kızılcapınar Mah.	Karabıyıklar Mevkii=|Kızılcapınar Merkez Mevkii=
+422030	Lokmanlı Mah.	Petrol Mevkii=
+504001	Mancarlar Mah.	Mancarlar Aşağı Mevkii=|Mancarlar Orta Mevkii=|Mancarlar Yukarı Mevkii=
+193862	Merkez Erikli Mah.	Belen Mevkii=|Beyceğiz Mevkii=|Budaklar Mevkii=|Erikli Merkez Mevkii=
+974477	Mülküşehsuvar Mah.	Ahmetbeşoğlu Mevkii=|Hıdırlar Mevkii=|Solaklar Mevkii=|Tekerler Mevkii=|Çaprazlar Mevkii=|İğnehanlar Mevkii=
+701995	Nasuhlar Mah.	Nasuhlar Merkez Mevkii=|Yeni Vadi Mevkii=
+50373	Orhan Mah.	Ahmet Ali@|Alim~|Atatürk@|Ateş~|Atmaca~|Ayça~|Ağva İstanbul@|Baykuş~|Begonya~|Beril~|Bülbül~|Bıldırcın~|Ceylan~|Cici~|Deniz~|Dere~|Derman~|Derya~|Destan~|Devran~|Değirmen~|Dik~|Doruk~|Doğa~|Doğan~|Ekin~|Elzem@|Erenler~|Ferman~|Florya~|Garaj@|Gülay~|Güler~|Gün~|Günay~|Günaydın~|Günbatımı~|Günce~|Gündönümü@|Günebakan~|Günel~|Güneşli~|Gür~|Gürgendüzü@|Güvercin~|Güz~|Güzeltepe@|Hacılar~|Hanedan~|Hasat~|Hasret~|Hasır~|Havadis~|Hayrunisa~|Hazal~|Hazan~|Hazar~|Hazine~|Hazne~|Heybetli~|Hudut~|Hunlar@|Hür~|Kabaağaç@|Kadastro~|Kader~|Kadırga~|Kaktüs~|Kalaycı~|Kamelya~|Kanarya~|Kanbel~|Karaca~|Kartal~|Kartopu~|Kasımpatı~|Kaymak~|Kayın~|Kayısı~|Kehribar~|Kekik~|Keten~|Kocatepe~|Korkmaz~|Koru~|Kudret~|Kurtuluş~|Kuvayi Milliye@|Kuşkonmaz~|Kuştepe~|Kültür@|Kına~|Kır~|Kırlangıç~|Lavanta~|Martı~|Meltem~|Mercan~|Mertcan~|Mesire~|Namazgah@|Narin~|Orhan Gazi@|Orkide~|Ozan~|Papatya~|Rüzgar~|Saka~|Sardunya~|Serçe~|Suna~|Sülün~|Tabakhane@|Taflan~|Taşocağı@|Turna~|Tırtıl~|Veli Hasan~|Yeni Bahar~|Zafer@|Çalköy-seyrek Yolu@|Çayır~|Çilek~|Çimen~|Çınar~|İpsiz Recep@|İrem~|İsmet Yelkencioğlu@|Şahin~|Şanlı~|Şimal~
+828533	Pelitpınarı Mah.	Goncalar Mevkii=|Hatıpköyü Mevkii=|Işıklar Mevkii=
+773283	Pirceler Mah.	Pirceler Böcekler Mevkii=|Pirceler Merkez Mevkii=
+322107	Pınardüzü Mah.	Kuyucuk Mevkii=|Pınardüzü Merkez Mevkii=
+311910	Pınarlı Mah.	Pınarlı Karşı Mevkii=|Pınarlı Orta Mevkıı=|Pınarlı Yukarı Mevkii=
+679803	Safalı Mah.	Ağva İstanbul@|Safalı Merkez Mevkii=
+751222	Sarnıçlar Mah.	Karagüllü Mevkii=|Katçalı Mevkii=|Sarnıçlar Merkez Mevkii=
+694232	Sarıahmetler Mah.	Ramazanpaşalar Mevkii=|Sarıahmetler Merkez Mevkii=|Çobanaliler Mevkii=|Çukur Mevkii=
+908566	Sarıcaali Mah.	Keremler Mevkii=|Muharremler Mevkii=|Sarıcaali Merkez Mevkii=|Tahtacılar Mevkii=|Çiller Mevkii=
+566422	Sarıgazi Mah.	Cebeoğlu Mevkii=|Kemaliye Mevkii=|Sarıgazi Duraklı Mevkii=
+187849	Selametli Mah.	Kabaklar Mevkii=|Tepeköy Mevkii=
+942318	Selimköy Mah.	Selimköy Çavuşlar Mevkii=|Şahtiyanlar Mevkii=
+222406	Sepetçi Mah.	Karaağaçoğlu Mevkii=|Sepetçi Merkez Mevkii=|Sepetçi Sakallar Mevkii=
+162024	Seyitaliler Mah.	Seyitaliler Arıklar Mevkii=|Seyıtalıler Davutlar Mevkıı=|Sünnetçioğlu Mevkii=|Tafralar Mevkii=|Şükürler Mevkii=
+149161	Sinanlıbilallı Mah.	Bilalli Mevkii=|Cansızlar Mevkii=|Hacılar Mevkii=|Tatarlar Mevkii=|Çakallar Mevkii=
+557728	Sucuali Mah.	Sucuali Merkez Mevkii=
+855320	Süllü Mah.	~|Süllü Aşağı Mevkii=|Süllü Yukarı Mevkii=
+521401	Tatarahmet Mah.	Delihasanlar Mevkii=|Karamanlı Mevkii=
+830216	Teksen Mah.	Düz Mevkii=|Teksen Orta Mevkii=|Teksen Yukarı Mevkii=|İlyaslar Mevkii=
+601567	Terziler Mah.	Boşnaklar Mevkii=|Piroğlu Mevkii=|Terziler Merkez Mevkii=|İğciler Mevkii=
+974899	Topluca Mah.	Beyazıtlar Mevkii=|Beşkeş Mevkii=|Cabbarlar Mevkii=|Karakiraz Mevkii=|Kasımlar Mevkii=|Koruklar Mevkii=|Topluca Sofular Mevkii=|Yahyalar Mevkii=|İzmit Kandıra Yolu@|Şabanlar Mevkii=
+216739	Yağcılar Mah.	Ahadli Mevkii=|Küçüklü Mevkii=|Yağcılar Merkez Mevkıı=|Yağcılar Sofular Mevkıı=
+589861	Yusufça Mah.	Beşirli Mevkii=|Gebeli Mevkii=|Yaramazlar Mevkii=|Yusufça Merkez Mevkii=
+135640	Çakmaklar Mah.	Çakmaklar Merkez Mevkii=
+943472	Çakırcaali Mah.	Cicili Mevkii=|Civelekler Mevkii=|Karasakallar Mevkii=|Kayalar Mevkii=|Kocabayramlar Mevkii=|Kışla Mevkii=|Mantarcılar Mevkii=|Yusufça Merkez Mevkii=|İzmit Kandıra Yolu@
+525972	Çalca Mah.	Kocaçalca Mevkii=|Çalca Merkez Mevkii=
+374553	Çalköy Mah.	1.isimsiz~|2.isimsiz~|Alkan~|Ateş~|Ayhan~|Azra~|Açıkgöz~|Ağva İstanbul@|Baylan~|Bayrak~|Bayır~|Beril~|Beste~|Bostan~|Cami~|Cansu~|Cemre~|Dar~|Dağ~|Dere~|Doğa~|Doğan~|Duran~|Eren~|Erim~|Ersoy~|Gökçe~|Gündüz~|Gürgen~|Hudut~|Kanarya~|Karadeniz~|Kartal~|Kayalı~|Kervan~|Korkmaz~|Kum~|Kumru~|Memiş~|Mercan~|Merve~|Meşe~|Meşelik~|Murat~|Orkide~|Orman.~|Papatya~|Pınar~|Sahil~|Sazlık~|Seyrek@|Sude~|Taflan~|Teke~|Tırtıl~|Vatan~|Çalköy-seyrek Yolu@|Çiftlik~|Şeker~|Şenol~
+706051	Çalyer Mah.	Kanlar Mevkii=|Taslaklar Mevkii=|Çalyer Hatıplar Mevkii=
+274209	Çamkonak Mah.	Aküzüm~|Arda~|Atatürk@|Aydoğdu~|Balkan~|Birgül~|Damlar Yanı~|Döngel Tarla~|Halis~|Kadı Konağı~|Karadeniz@|Karataş~|Kefken@|Koçlar~|Kum Zambağı~|Laleli~|Mermer~|Müzeyyen~|Obruk~|Saklı~|Selvili~|Sofular~|Söğütlü Pınar~|Tepe@|Tepeköy~|Türbe Tepe~|Uzunkum~|Volkan~|Yeşil Pınar~|Yıldız~|Çamlıca~|Çat Suyu~|Çiçekli~|Çınarlık~|Üç Ağaç~
+50372	Çarşı Mah.	1.~|2.~|22 Nisan@|23 Nisan@|3.~|4.~|5.~|6.~|Adliye~|Ak Hasan@|Ali Rıza Efendi@|Ağva İstanbul@|Beren~|Beyaz Mendil~|Burç~|Cumhuriyet@|Demir~|Dursun~|Erişim~|Esen~|Faik Efendi~|Garaj@|Gelincik~|Gurbetçiler@|Görkem~|Güvenler@|Hacı Mustafa Uygur@|Hamam~|Hatip Pınarı~|Havadar~|Helvacı@|Hür~|Itır~|Kandıra-kefken Yolu@|Kara Üzüm@|Karakol@|Konak~|Kuğu~|Kırçiçeği~|Langır~|Manolya~|Mimoza~|Namazgah@|Nur~|Orhan Gazi@|Orman@|Park~|Pazar~|Pınar~|Ragıp Uygur@|Sanayi@|Sedef~|Selvi~|Terminal~|Turan Güneş@|Türk Ocağı@|Yeni~|Yolcu~|Çarşı@|Çelik~|Çocuk~|İnönü@|İpek~|İsmail Efendi@|İsmail Şenoğlu@|İstiklal@|İzmit Kandıra Yolu@|İzmıt@
+212464	Çerçili Mah.	Avlanlı Mevkii=|Çerçili Merkez Mevkii=
+405506	Ömerli Mah.	Ömerli Merkez Mevkii=
+681619	Özbey Mah.	Aşağı Kumlu Mevkii=|Saraçoğlu Mevkii=|Türkmen Mevkii=|Yukarı Kumlu Mevkii=|Özbey Merkez Mevkii=
+641407	Üğümce Mah.	Karacalar Mevkii=|Köseler Mevkii=|Küçük Üğümce Mevkii=|Pirahmetler Mevkii=|Yunuslar Mevkii=|Üğümce Merkez Mevkii=
+994061	İncecik Mah.	Badetler Mevkii=|İncecik Hatıplar Mevkii=|İncecik Merkez Mevkii=|İncecik Sofular Mevkii=
+615062	Şerefsungur Mah.	Dölekler Mevkii=|Tekkeli Mevkii=

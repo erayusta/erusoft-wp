@@ -1,0 +1,68 @@
+165855	Akbaba Mah.	Akbaba=
+165907	Akova Mah.	Akova=|Suçatı=
+165963	Akçatoprak Mah.	Akova=|Akçatoprak=|Malatya Darende Yolu%
+165807	Ayvalı Mah.	Ali Efendiler=|Ayvalı Emin Efendi=|Ayvalı Sağlık=|Ayvalı Çarşı Küme Evler=|Ayvalı Şuğul=|Darende Kuluncak Yolu@|Hasan Ağa=|Hürriyet=|Kara Ağaç=|Okul=|Taşlık=
+165815	Ağılbaşı Mah.	Ağılbaşı=|Başpınar=|Dostoğlu=|Doğan Yol=|Engüzek=|Gülüstan Yurdu=|Kavakyazısı 2~|Kavakyazısı=|Kavakyazısı1~|Kavakyazısı10~|Kavakyazısı11~|Kavakyazısı13~|Kavakyazısı14~|Kavakyazısı15~|Kavakyazısı16~|Kavakyazısı17~|Kavakyazısı18~|Kavakyazısı19~|Kavakyazısı2~|Kavakyazısı20~|Kavakyazısı21~|Kavakyazısı22~|Kavakyazısı23~|Kavakyazısı3~|Kavakyazısı4~|Kavakyazısı5~|Kavakyazısı6~|Kavakyazısı7~|Kavakyazısı8~|Kavakyazısı9~
+165849	Ağılyazı Mah.	Akpınar=|Ağılyazı=|Darende Kuluncak Yolu@|Halacören=
+165817	Aşağıulupınar Mah.	Akçaylar~|Akçaylar/1~|Akıncı~|Alakuş~|Anıklık=|Armutlu Yolu~|Aydın Erdem (istiklal)@|Aydın Erdem (karataş)@|Aydın Erdem@|Aydın Erdem/1~|Ayobaşı=|Aşağıulupınar 1=|Aşağıulupınar 2=|Aşağıulupınar 3=|Aşağıulupınar Cumhuriyet~|Aşağıulupınar Eşref Bitlis~|Aşağıulupınar Okul~|Aşağıulupınar Sarıçiçek~|Aşağıulupınar Sarıçiçek/1~|Aşağıulupınar Sarıçiçek/2~|Aşağıulupınar Sağlık~|Bosna (istiklal)~|Bosna~|Cami Karataş~|Cami~|Canpolat~|Darende-@|Deniz=|Dinler~|Duran Çıkmazı~|Erdem~|Erdoğan~|Esentepe~|Esentepe/1~|Eşref Bitlis (istiklal)@|Eşref Bitlis (karataş)@|Eşref Bitlis@|Güler~|Güler/1~|Gürbüz~|Karatarla=|Karşı Bağ~|Karşı Bağ1~|Karşı Bağ2~|Kayacık~|Kayacık/1~|Kayapınar@|Kul~|Küme Evleri=|Kürşat~|Malatya Darende Yolu%|Malatya-@|Menekşe-~|Nadir~|Neşet~|Nur Çıkmaz-~|Okul (karataş)~|Raşit=|Sarılar~|Say~|Sekman~|Turgut Özal 1@|Turgut Özal-@|Tuztaşı~|Yaman=|Yıldırım=|Çakmak~|Çağlayan~|Çelik~|Çetin~|Önallar=|Şahin-~
+165813	Balaban Mah.	61 Evler~|Akif Aktaş~|Akif Aktaş/1~|Akif Aktaş/2~|Atatürk (aşağı)-@|Atatürk (şeyhli)@|Balaban 4~|Balaban Bey~|Balaban Cami~|Balaban Yeni Yol 1=|Balaban Yeni Yol 10=|Balaban Yeni Yol 11=|Balaban Yeni Yol 14~|Balaban Yeni Yol 15~|Balaban Yeni Yol 16~|Balaban Yeni Yol 17~|Balaban Yeni Yol 18~|Balaban Yeni Yol 19~|Balaban Yeni Yol 2=|Balaban Yeni Yol 20~|Balaban Yeni Yol 3=|Balaban Yeni Yol 4=|Balaban Yeni Yol 5=|Balaban Yeni Yol 6=|Balaban Yeni Yol 7=|Balaban Yeni Yol 8~|Balaban Yeni Yol 99~|Balaban Yeniyol 12~|Balaban Yeniyol 13~|Balaban Çiğdem/1~|Bozdoğan~|Cengiz~|Cerrah~|Elbistan@|Elbistan/1~|Fuzuli~|Gazi Barut@|Gazi Barut/1~|Gökderen=|Gürsoy~|Hoca~|Hükümet (aşağı)@|Hükümet Aşağı /1~|Hükümet@|Karpuz Çıkmaz~|Kemallı~|Kemallı Çıkmazı~|Kuyucak~|Kösebalaban~|Malatya Darende Yolu%|Namık Kemal~|Namık Kemal/1~|Paşa~|Sarıçiçek@|Seyran~|Tekke~|Turgut Özal1 Myd.|Uzunok Mevkii=|Yılmaz~|Çakır~|Çarşı Myd.|Çarşı/1~|Çiğdem~|Ören Mevkii=|İmamlı~
+165967	Barındır Mah.	Barındır=|Çatören=|Şahinler=
+51892	Baytarbağı Mah.	Akbaşlar=
+165973	Başkaya Mah.	Dinek=|Göllüce=|Merkez=|Mullolar=
+51893	Beybağı Mah.	Beybağı 1~|Camiönü 1.=|Camiönü 2.=|Darende Elbistan Yolu@|Darende Kayseri Yolu%|Değirmen Önü=|Hacevizler~|Kabasakallar=|Mehmet Nuri Sabuncu@|Sadıklar=
+165867	Gaziköy Mah.	Gaziköy=
+51894	Gökyar Mah.	Gökyar 1~|Gökyar 10~|Gökyar 11~|Gökyar 12~|Gökyar 13~|Gökyar 2~|Gökyar 3~|Gökyar 4~|Gökyar 5~|Gökyar 6~|Gökyar 7~|Gökyar 8~|Gökyar 9~|Gökyar/14~|Gökyar/15~|Gökyar/16~|Gökyar/17~|Gökyar/18~|Gökyar/19~|Gökyar/20~|Gökyar/21~|Gökyar/21.~|Gökyar/22~|Hacıpir@|Hamittepesi~|Hocalar~|Yartepe@|Yartepe/1~|Çokyaşarlar~|Ömerağ@|Ömerağ/1~
+165987	Gökçeören Mah.	Gökçeören=
+165875	Göllüce Mah.	Darende Kuluncak Yolu@|Göllüce Göllüce=|Mürselpınar=
+165881	Güdül Mah.	Güdül 2 Küme Evler=|Güdül=
+165885	Günerli Mah.	Atmalı=|Günerli Merkez=|Gürolar=|Otuz Ağustos=|Ovacılar=
+165891	Günpınar Mah.	Darende Elbistan Yolu@|Günpınar Küme=|Günpınar~|Günpınar1=|Günpınar2~|Günpınar3~|Günpınar4~|Günpınar5~|Günpınar6~|Yokuş=
+165895	Hacolar Mah.	Hacolar=
+51895	Hacıderviş Mah.	Arasta~|Barbaros@|Barbaros/1~|Bağlar~|Belediye~|Belediye Terminal Myd.|Benliler~|Buğday Pazarı Myd.|Cumhuriyet Meydanı 1.~|Cumhuriyet Meydanı 2.~|Cumhuriyet Meydanı 3.~|Cumhuriyet Meydanı 4.~|Cumhuriyet Myd.|Darende Kuluncak Yolu@|Emin Efendi@|Erenler 1~|Erenler 2~|Haciderviş Taslak 1~|Hacıderviş 1~|Hacıderviş 11~|Hacıderviş 12~|Hacıderviş 15~|Hacıderviş 18~|Hacıderviş 19~|Hacıderviş 2~|Hacıderviş 3~|Hacıderviş 5~|Hacıderviş Cumhuriyet Myd.|Hacıderviş Esentepe~|Hacıdervişler 10~|Hocazade~|Ilıcak~|Ilıcak/1~|Ilıcak2~|Kamil Sürenkök@|Kasapbaşı~|Korkmazlar~|Kurtoğlu~|Kuruköprü~|Kuruköprü/1~|Kuruköprü/2~|Köseler~|Kıhtır 1~|Kıhtır 2~|Kıhtır3~|Nami Ocakcıoğlu@|Nazım Turgut@|Necatibey@|Necatibey Sebze Hali@|Prof.dr.hüseyin Apan@|Veliefendi~|Yanıktepe~|Yunuslar@|Yusuf Paşa@|Çıkmaz 1~|Çıkmaz 2~|İlhan Darendelioğlu@|Şerefiye~
+51896	Hacılar Sıragöz Mah.	Hacılar Sıragöz 1 Küme Evler=|Hacılar Sıragöz 3 Küme Evler=|Hacılar Sıragöz 4 Küme Evler=|Oflaz@|Çukurtarla=
+99712	Hacılar Şeyhli Mah.	Bağlarbaşı=|Darende Kayseri Yolu%|Köndeller=
+51897	Heyiketeği Mah.	Ali Helvacı@|Bozkurt~|Dalkılıçlar~|Darende Kayseri Yolu%|Derin Dere~|Ergenekon 1~|Ergenekon@|Fatih@|Hacı Hulisi Efendi@|Hastane~|Heyik~|Heyik1~|Heyiketeği 11~|Heyiketeği 12~|Heyiketeği 14~|Heyiketeği 15~|Heyiketeği 16~|Heyiketeği 20~|Heyiketeği 22~|Heyiketeği 23~|Heyiketeği 24~|Heyiketeği 25~|Heyiketeği 26~|Heyiketeği 4~|Heyiketeği 50~|Heyiketeği 7~|Heyiketeği 8~|Heyiketeği Hükümet@|Heyiketeği2~|Kabeci Kayası~|Kalaycılar Mevki=|Karakol@|Karamustafa~|Kumtepe Mevki=|Mavişler Mevki~|Mehmet Akif Ersoy 1.~|Mehmet Akif Ersoy 2.~|Mehmet Akif Ersoy 3.~|Mehmet Akif Ersoy 4.~|Mehmet Akif Ersoy@|Mehmet İzzet Paşa@|Melemir@|Sarı Mehmetler~|Somuncu Baba-%|Spor@|Spor2~|Stad~|Su Deposu@|Su Deposu1~|Sönmezler~|Sönmezler1~|Taşcıoğlu Mevki=|Tepe@|Trafo@|Vural Karagül@|Yeşildere 1.~|Yeşildere 2.~|Yeşildere 3.~|Yeşildere@|Yeşildere4.~|Yiğitler~|Yoncalık~|Yulaflı 1~|Yuvalı~|Yıldız~|Zalloğlu@|Zaviye Yeni Yol 13~|Çayırtarla@|Çınar 1.~|Çınar 2.~|Özdoğrular~|Üzümlü~|İğdeli~|Şehit Komser Osman İnan@
+165993	Hisarcık Mah.	Hisarcık=|Karşıyaka=
+165995	Hisarkale Mah.	Hisarkale=
+165839	Ilıca Mah.	Bilinmeyen 2@|Bilinmeyen 3=|Bilinmeyen 4=|Fatih Sultan Mehmet@|Güdül Hes 2=|Ilıca 1@|Ilıca 12~|Ilıca 13=|Ilıca 3=|Ilıca 8~|Ilıca 9~|Ilıca Atatürk@|Ilıca Cumhuriyet=|Ilıca Karşıyaka=|Ilıca=|Ilıca7=|Kabaşlar Mevkii=|Koyak Mevkii=|Çalak Mevkii=|Şendere Ilıca=
+165899	Irmaklı Mah.	Irmaklı=
+51899	Kaldırım Mah.	Aşıroğlu~|Battalgazi@|Battalgazi/1@|Ebilağ~|Ertuğrul~|Hafızefendi@|Kahramanlar~|Kavlaklar Çıkmaz~|Köroğlu Çıkmaz~|Malatya Darende Yolu%|Malatya-%|Yuvalı Çıkmaz~|Çobanönü~|Özkanlar Yeni Yol 4~|Özkanlar Çıkmaz~
+165903	Karabacak Mah.	Karabacak=
+165997	Karabayır Mah.	Karabayır=|Karabayır1~|Karabayır2~|Karabayır3~|Karabayır4~|Karabayır5~
+165933	Karaoğuz Mah.	Karaoğuz=
+165913	Kavak Mah.	Kavak=
+166001	Kaynak Mah.	Kaynak=
+166003	Kerimli Mah.	Aşağı Kerimli=|Kerimli=|Çatalca=
+165921	Kurudere Mah.	Kurudere=
+165925	Kuzpınar Mah.	Kattepe=|Kuzpınar Merkez Küme Evler=
+165917	Kölükler Mah.	Kölükler=
+51900	Kılıçbağı Mah.	Abdullah Zaimoğlu@|Emirler~|Huzur~|Karadumanlar~|Pilavcılar~|Severler~|Tahir Bey~
+165999	Medişeyh Mah.	Malatya Darende Yolu%|Medişeyh=
+51901	Mehmet Paşa Mah.	Aşağıyol~|Hanifibaba@|Kıdıklar~|Mehmet Paşa Yeni Yol 1~|Mehmet Paşa Yeni Yol 2~|Mehmet Paşa Yeni Yol 3~|Taha Buyurgan@|Taha Buyurgan1~|Şekeroğlu~
+166005	Mollauşağı Mah.	Kösenler=|Mollauşağı=
+51902	Nadir Mah.	Dede Yahya~|Ender~|Ender1~|Gedikönü~|Karaeminözköse Efendi@|Karaeminözköse Efendi/1~|Leblebiciler~|Malatya Darende Yolu%|Nadir Yeni Yol 1~|Nadir Yeni Yol 2~|Nadir Yeni Yol 3~|Nadir Yeni Yol 4~|Nadir Yeni Yol 5~|Nadir Yeni Yol 6~|Nadir Yeni Yol 7~|Nadir Yeni Yol 8~|Tatil Köyü@|Tatil Köyü1~|Şaban Hoca@
+165929	Nurkuyusu Mah.	Nurkuyusu=
+166007	Ozan Mah.	Fatmacık=|Ozan=|Ozan1~
+165859	Palanga Mah.	Başdirek=|Darende Elbistan Yolu@|Karaoğuz=
+165955	Sakarya Mah.	Sakarya Kilise=|Sakarya=|Tulolar=
+51903	Sandıkkaya Mah.	Ahmet Hocalar Çıkmaz~|Arif Hocalar Çıkmaz~|At Boğan Mevkii=|Avcılar Çıkmaz~|Aziz Efendi Çıkmaz~|Bayramlar Çıkmaz~|Bozoğlan~|Darende/1~|Dağlının Çıkmaz~|Deli Haliller Çıkmaz~|Derebağı~|Fevzi Bey~|Gedikönü~|Hacı Ömerler Çıkmaz~|Hamamlık Dere~|Koyunoğlu Çıkmaz~|Küçüklerin Çıkmazı~|Malatya Darende Yolu%|Malatya-%|Nuh Efendi Çıkmaz~|Oymak=|Piriler Çıkmaz~|Sadullah Bey~|Salih Ağalar~|Sandıkkaya Boğaz~|Sandıkkaya Yeni Yol 1~|Sandıkkaya Yeni Yol 6~|Sandıkkaya Yeni Yol 8~|Sandıkkaya/1~|Sandıkkaya/2~|Sandıkkaya/3~|Sandıkkaya/4~|Sandıkkaya/5~|Sandıkkaya/6~|Sandıkkaya/7~|Tatil Köyü@|Tekeler~|Tekinler~|Vakıf Çıkmaz~|Çamaliler~|Öğretmenler~|Şaban Hoca@
+51904	Sayfiye Mah.	Abdurrahman Başer@|Hanifi Baba@|Hanifi Baba/1~|Helvacılar~|Kalaycılar~|Ocaklar~|Sayfiye Yeni Yol 1=|Sayfiye Yeni Yol 2=|Sayfiye Yeni Yol 4~|Zahit Efendi~
+51905	Sungur Mah.	Battalgazi@|Derin Dere~|Esat Işık Efendi~|Fatih@|Heyiketeği 6@|Heyiketeği 9~|Karamanlar~|Kilise~|Malatya Darende Yolu%|Solakoğlu Site~|Somuncu Baba%|Sungur Yavuzlar~|Sungur Yeni Yol 1~|Sungur1~|Sungur2~|Sunguroğlu Sanayii~|Sürenkök Çarşısı 1~|Sürenkök Çarşısı 2~|Uzunok@|Yeşildere@|Yüksel Bozkurt Site~|Çağlar~|İlhan Darendelioğlu@|Şht.hakan Ormancı~
+166011	Uzunhasan Mah.	Uzunhasan=
+165941	Yarımca Mah.	Yarımca=
+165871	Yavuzlar Mah.	Yavuzlar=
+165945	Yazıköy Mah.	Darende Kayseri Yolu%|Ortaköy 1=|Ortaköy=|Yazıköy Merkez=|Yazıköy/1=
+165811	Yenice Mah.	Arıcılar=|Aşağı Orta=|Boğaz=|Dikilitaş=|Hasikalar-=|Kuşpara=|Maşatbaşı=|Tapkır=|Topraklık=|Turgut Özal 2~|Turgut Özal@|Yayla=|Yazı Kümesi=|Yenice 1~|Yenice 10~|Yenice 2~|Yenice 3~|Yenice 4~|Yenice 5~|Yenice 6~|Yenice 7~|Yenice 8~|Yenice 9~|Yenice Akpınar=|Yenice=|Yukarı Orta=|İsmet İnönü@
+165949	Yeniköy Mah.	Darende Elbistan Yolu@|Sokullu=|Yeniköy=
+166021	Yenipınar Mah.	Büvelek=|Güney=|Yenipınar=
+166015	Yeşiltaş Mah.	Yeşiltaş=
+166017	Yukarıulupınar Mah.	Malatya Darende Yolu%|Yukarıulupınar=
+51906	Zaviye Mah.	Ahmet Şemsettin Ateş@|Darende Kayseri Yolu%|Darende Kuluncak Yolu@|Hacı Hulisi Efendi@|Hasan Paşa~|Hulisi Efendi@|Kabeci Kayası~|Keleşler~|Sağlık~|Seydiler~|Somuncu Baba%|Taşkesen~|Trafo@|Ulular~|Vural Karagül@|Zaviye Yeni 16~|Zaviye Yeni 17~|Zaviye Yeni 18~|Zaviye Yeni 20~|Zaviye Yeni 21~|Zaviye Yeni 22~|Zaviye Yeni 23~|Zaviye Yeni Yol 1~|Zaviye Yeni Yol 10~|Zaviye Yeni Yol 11~|Zaviye Yeni Yol 14~|Zaviye Yeni Yol 15~|Zaviye Yeni Yol 17~|Zaviye Yeni Yol 18~|Zaviye Yeni Yol 19~|Zaviye Yeni Yol 2~|Zaviye Yeni Yol 24~|Zaviye Yeni Yol 3~|Zaviye Yeni Yol 5~|Zaviye Yeni Yol 6~|Zaviye Yeni Yol 7~|Zaviye Yeni Yol 8~|Zaviye Yeni Yol 9~|Zeytin Dalı~|İsabeyler@|Şair Bakai@
+165979	Çaybaşı Mah.	Çaybaşı=
+197979	Çaybaşı Osb Mah.	1@|2@|3@|4@
+165863	Çukurkaya Mah.	Darende Kayseri Yolu%|Çukurkaya=
+165983	Çınar Mah.	Yeni=|Çınar Merkez=
+166013	Üçpınar Mah.	Üçpınar=
+51898	İbrahimpaşa Mah.	1~|2~|3.~|4~|5.~|6.~|6./1~|6./2~|Ahioğulları~|Alidede@|Beyler~|Darende Kuluncak Yolu@|Gökyar 7~|Güçlüler~|Kavlaklar~|Kavlaklar/1~|Köşger Hafız@|Köşger Hafız/1~|Necatibey@|Yusuf Paşa@|Yusuf Paşa/1~|Çomoğlu~|İbrahimpaşa Yeni Yol 1~|İbrahimpaşa Yeni Yol 2~|İbrahimpaşa Yeni Yol 3~|İbrahimpaşa Yeni Yol 4~|İbrahimpaşa Yeni Yol 5~|İbrahimpaşa Yeni Yol 6~|İbrahimpaşa Çarşı~
+166009	Şendere Mah.	Şendere=
+165937	Şuğul Mah.	Şuğul=

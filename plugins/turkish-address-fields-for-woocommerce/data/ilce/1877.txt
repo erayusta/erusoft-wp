@@ -1,0 +1,28 @@
+89123	Ağıllı Köyü	 Köy$
+89124	Aşağıkuyucak Köyü	 Köy$
+89125	Bakırboğazı Köyü	 Köy$
+80717	Baydiğin Beldesi, Merkez Mah.	Bahçelievler@|Ballıkaya~|Bağlar@|Belediye@|Camcı~|Camii@|Ceylan~|Cumhuriyet@|Gül~|Gülpınar~|Güngören=|Karşıyaka=|Menekşe~|Mezarlık~|Molla İsmailoğlu@|Okul@|Selalan~|Sürmeli~|Tekiğde@|Türbe~|Zafer~|Ören~|Şahin~
+140925	Baştürk Mah.	A-yar~|Bağlar@|Bağlarbaşı (deveci)=|Bağlarbaşı~|Büklüm~|Camii~|Dere~|Değirmen~|Dikmen~|Duman Dede@|Fatih@|Fatih/1~|Fatih/2~|Güngör~|Hamitler~|Kabristan-~|Karahan~|Kayadibi~|Musoğlu~|Nergis~|Pamukluk@|Sağlık@|Tepe~|Çeşme@|Çiğdem~|Özkan~|Şehit Hulusi Yılmaz 1/1~|Şehit Hulusi Yılmaz 1/2~|Şehit Hulusi Yılmaz 1/3~|Şehit Hulusi Yılmaz 2 Kalkancı/1~|Şehit Hulusi Yılmaz-1@|Şehit Hulusi Yılmaz-2 (kalkancı)@|Şehit Hulusi Yılmaz-2@|Şht. Fazlı Çalışkan@|Şht. Fazlı Çalışkan/1~
+89126	Benlioğlu Köyü	 Köy$
+89127	Boğazkaya Köyü	 Köy$
+89128	Büyüktoraman Köyü	 Köy$
+80714	Danlıdağ Mah.	Akay-~|Arap Kızı~|Atik~|Ağıllı@|Bahar-~|Bahçeli@|Ballı~|Bayır~|Camii 1~|Ceylan-~|Demirel~|Destan~|Eymir@|Eymir/1~|Ferah-~|Güldede~|Güney~|Kent~|Keşlik~|Korkmaz~|Kümbetova@|Kılkaya~|Pehlivan~|Pınarbaşı~|Pınarcık~|Saha~|Su Deresi~|Teker~|Yenice@|Yeşil Bayır~|Yörük~|Zampoller~|Çakmaklı@|Çomak~|Özdemirler~|İğdeler~|Şehit Mustafa Üngör@
+89129	Dereçiftlik Köyü	 Köy$
+89130	Güroğlu Köyü	 Köy$|Hüseyin Arar~
+89131	Hacıilyas Köyü	 Köy$
+80718	Kazankaya Köyü, Aydınlık Mevkii	Alparslan Türkeş~|Alperen~|Ardıç~|Aydın Tepe~|Büyük Camii~|Dere~|Genç~|Köşkerli~|Sarı~|Utku~|Yeni Camii~|Yokuşlu~|Ötüken~|Özdemir~|Öztürk~|Şakirağa~|Şht.dursun Erdoğan~
+80719	Kazankaya Köyü, Bentbaşı Mevkii	Alan~|Alperen~|Bahçeli~|Bozkurt~|Büyük Camii~|Cumhuriyet~|Irmak~|Kanyon~|Karagözlük~|Karanlık~|Lise~|Okul~|Osman Dede~|Sağlık~|Selam Camii~|Terzi~|Tuzkaya~|Uylu~|Yeni Pınar~
+89135	Kocabekir Köyü	 Köy$
+89137	Kuyu Köyü	 Köy$
+89136	Kuşsaray Köyü	 Köy$
+80720	Kösrelik Köyü, Merkez Mevkii	Altınay~|Aslı~|Atatürk~|Bahçeli~|Cumhuriyet~|Dilek~|Doğan~|Hacı Doğan~|Karanfil~|Lale~|Lütfullah Kayalar~|Mehmet Akif Ersoy~|Menekşe~|Milli Atlet Mustafa Kaplan~|Papatya~|Sağlık~|Taş~|Yavuz~|Yunus Emre~|Çamlı~|Çiğdem~|Ömer Çalışkan~|Şahin~
+89138	Küçüktoraman Köyü	 Köy$
+89132	Kırımoluk Köyü	 Köy$
+89133	Kıyıkışla Köyü	 Köy$
+89134	Kızılcakışla Köyü	 Köy$
+89139	Mercimekören Köyü	 Köy$
+89140	Mollaismail Köyü	 Köy$
+89141	Sakızlık Köyü	 Köy$
+80715	Yeni Mah.	Atmaca Camii~|Avni~|Aydın Tetikoğlu~|Ağıllı@|Ağıllı/1~|Bayrak~|Başkan~|Bekir Bozdağ@|Bekir Bozdağ/1~|Bekir Bozdağ/2~|Cumhuriyet Myd.|Doğdaş~|Doğdaş/1~|Erden~|Güven~|Ibrıklı Dede@|Karanfil~|Kasır~|Keskin~|Köşger~|Kümbetova@|Lise~|Lojman~|Meydan~|Murat Düşmez@|Murat Özdemir~|Oğuz~|Pullu~|Pınarbaşı~|Sağlık 1~|Seyran~|Tomruk~|Topraklık~|Yalçın~|Yeni Açılacak-~|Zülfikar Karakurt~|Çetin~|Çoraklık~|Örnek~|İsirin~|İsmail Ağa~|Şehit Ahmet Tomruk@|Şehit Zafer Kurt@|Şehit Zafer Kurt/1~|Şehit Zafer Kurt/3~|Şehit Zafer Kurt/5~|Şehit Zafer Kurt/6~
+80716	Yenice Mah.	Aydıncık@|Ermiye@|Neşeli~|Okul~|Çeşmeli~
+89142	Üzümlük Köyü	 Köy$

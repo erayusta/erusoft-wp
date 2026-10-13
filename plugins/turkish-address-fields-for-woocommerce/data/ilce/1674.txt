@@ -1,0 +1,71 @@
+190745	Akdamar Mah.	Akdamar=
+190661	Akdağ Mah.	Akdağ1=
+190741	Akpınar Mah.	Akpınar=|H. Mehmet=|Mümin=|Ruto=
+190747	Alabayır Mah.	Akdamar=|Alabayır=|Alabayır/1=|Turnagöl=
+190667	Aydınlı Mah.	Aydınlı=
+30077	Aydınlık Mah.	Aydın~|Aydın1~|Aydın29~|Aydın3~|Aydın4~|Aydın5~|Aydın6~|Demirel@|Sırt Küme Evler~|Sırt Küme Evler2~
+190659	Ağcakoca Mah.	Ağcakoca=|Kılli~|Musa=
+190663	Aşağıhanbeyi Mah.	Aşağıhanbeyi=
+190665	Aşağıtepecik Mah.	Aşağıtepecik=
+190669	Beyköy Mah.	Ağa=|Beyköy=|Dilaver=
+190749	Beşdere Mah.	Beşdere=
+30078	Cihan Mah.	Aydın29~|Aydın3~|Bilinmeyen10~|Cihan Küme Evleri~|Cihan Küme Evleri1~|Cihan Küme Evleri2~|Cihan Küme Evleri3~|Cihan Küme Evleri4~|Cihan Küme Evleri5~
+190757	Dalsöğüt Mah.	Dalsöğüt=|Gökoğlan=
+190679	Deliler Mah.	Deliler=
+190681	Dengiz Mah.	Dengiz=
+190683	Düzyurt Mah.	Düzyurt=|Tazeköy=
+190685	Erence Mah.	Erence=
+190687	Geçitköy Mah.	Bilinmeyen3~|Geçitköy=|Hasan Ağa=|Çakalok=|İncesu=
+190759	Gökoğlan Mah.	Gökoğlan=|Gökoğlan1~|Gökoğlan2~|Gökoğlan3~|Gökoğlan4~|Gökoğlan5~
+190761	Gözlüce Mah.	Gözlüce=
+190689	Gülveren Mah.	Adaklı~|Gülveren=|Topçular=|Çiçekdağı=
+190763	Gümüşlük Mah.	Gümüşlük=|Çatkale=
+190691	Gündamı Mah.	Gündamı=
+190693	Güneşli Mah.	Güneşli=
+190695	Gürgür Mah.	Gürgür=
+190765	Güzeldere Mah.	Gözlüce=|Güzeldere=
+190697	Hacıömer Mah.	Gülveren=|Hacıömer=|İncetaş-~
+190767	Hamzalar Mah.	Bilinmeyen4~|Bilinmeyen5~|Doğruyol=|Hamzalar=
+30079	Hürriyet Mah.	Aydın6~|Bayındırlık@|Bilinmeyen7~|Bilinmeyen8~|Bilinmyen23~|Deliler=|Tuzla Küme Evleri~|Tuzla Küme Evleri1~|Vali Derya Kadıoğlu%|Y.i.b.o Küme Evleri~|Çay Mevki Küme Evleri~|Çay Mevki Küme Evleri1~|Çay Mevki Küme Evleri2~|Çay Mevki Küme Evleri3~|Şehit Özgür Ocak@
+190699	Hüseyinağa Mah.	Hüseyinağa=
+190701	Ilıgöze Mah.	Ilıgöze=|Çermik=
+190703	Işıklar Mah.	Işıklar=
+190769	Kalaycı Mah.	Kalaycı=
+190707	Karapınar Mah.	Karapınar=
+190709	Karataş Mah.	Karataş=
+190711	Karatepe Mah.	Aşağıhanbeyi=|Işıklar=|Karatepe=|İncesu1=
+190771	Karlıca Mah.	Karlıca=
+190713	Katranlı Mah.	Katranlı=
+190773	Kayaboğaz Mah.	Kayaboğaz=
+190775	Kazancık Mah.	Kazancık=|Çağlar1=
+190777	Koçyayla Mah.	Bilezik=|Bilinmeyen12=|Koçyayla=|Oymataş=|Uslu=
+190779	Kuruca Mah.	Kuruca=
+190715	Körsu Mah.	Adaklı~|Bilinmeyen13~|Derviş=|Gülveren=|Körsu=|Kıllı=|Mucin=|İsa Kom=
+190717	Küllü Mah.	Ait Mezrası=|Küllü=|Musa Mezrası=|Necmettin-~|Çevirme=|Şakşak=
+190743	Kırıkan Mah.	Kırıkan B.m=|Yamanlar=|Yüzbaşı=
+190781	Mescitli Mah.	Erence=|Kalaycı=|Mescitli=|Mescitli1~|Mescitli2~|Mescitli3~
+190719	Mollamehmet Mah.	Akpınar=|Mollamehmet=
+190721	Susuz Mah.	Mollamehmet=|Susuz=|Çatak=|Çevirme=
+190725	Taşkesen Mah.	Hacımeter=|Katranlı=|Taşkesen=|Tekman Servis Yolu@|Şahvekat=
+190783	Toptepe Mah.	Toptepe=
+190785	Turnagöl Mah.	Dalsöğüt=|Turnagöl=
+30081	Vatan Mah.	Atatürk@|Banka~|Bayındırlık@|Bayındırlık Küme Evleri-=|Bilinmeyen15~|Bilinmeyen16~|Bilinmeyen17~|Bilinmeyen19~|Bilinmeyen20~|Bilinmeyen21~|Bilinmeyen22~|Bilinmeyen23~|Bilinmeyen25~|Bilinmeyen26~|Bilinmeyen27~|Bilinmeyen28~|Bilinmeyen29~|Bilinmeyen30~|Bilinmeyen31~|Bilinmeyen32~|Bilinmeyen33@|Bilinmeyen8~|Bilinmyen23~|Bilinmyen24~|Cezaevi~|Cumhuriyet1@|Demirciler~|Erence=|Gökoğlan7@|Güloğlu~|Karagöl~|Karanfil~|Kılıç~|Menekşe~|P.t.t.~|Sadakat~|Vali Derya Kadıoğlu%|Vatan1~|Vatan10~|Vatan2~|Vatan4~|Vatan5~|Vatan6~|Vatan7~|Vatan8~|Vatan9~|Şehit Mehmet Yağmur@|Şehit Özgür Ocak@
+190727	Yalınca Mah.	Eğri Çayır=|Kaya=|Yalınca=|İncesu=
+190729	Yerköy Mah.	Aşağıtepecik=|Mollamehmet=|Susuz=|Yerköy=
+190731	Yeşilören Mah.	Susuz=|Yeşilören=
+190787	Yiğitler Mah.	Yiğitler1=
+190733	Yoncalı Mah.	Yoncalı=
+190735	Yukarıhanbeyi Mah.	Aşağıhanbeyi=|Yukarıhanbeyi=
+190737	Yukarıtepecik Mah.	Aşağıtepecik=|Mümin=|Yukarıtepecik=
+190789	Yuvaklı Mah.	Bilinmeyen4~|Yemişli=|Yuvaklı=
+190739	Yücepınar Mah.	Erence=|Güzeldere=|Yücepınar=
+190671	Çatak Mah.	Elbaşı=|Çatak=
+190673	Çatkale Mah.	Çatkale=
+190753	Çayırdağı Mah.	Çayırdağı=|Çağlar1=
+190751	Çağlar Mah.	Çağlar1=
+190675	Çevirme Mah.	Akarsu=|Ağa=|Geçit~|Handekan=|Karlıca-~|Tektaş~|Torbalı=|Yiğitler=|Çevirme=
+190677	Çiçekdağı Mah.	Mucin=|Soğucak=|Sığıcık-~|Çiçekdağı=|Çırık=
+190755	Çukuryayla Mah.	Beşdere=|Sayanlar=|Çukuryayla=|Şekerler=
+190705	İncesu Mah.	İncesu1=
+30080	İsmetpaşa Mah.	Atatürk@|Aydın29~|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen9~|Bılınmeyen Yol 1~|Camii@|Cumhuriyet@|Demirciler~|Demirel@|Eski Camii~|Sırt Küme Evler~|Sırt Küme Evler1~|Sırt Küme Evler2~|Vali Derya Kadıoğlu%|Çınar~|İnönü@|Şehit Mehmet Yağmur@|Şehit Özgür Ocak@
+190723	Şakşak Mah.	Şakşak=

@@ -1,0 +1,34 @@
+147979	Büyükdere Mah.	1 Çıkmaz~|1.aralık~|10~|114~|116~|117~|120~|15 Temmuz Şehitleri@|2. Aralık~|3.aralık~|4.aralık~|5.aralık~|8~|84~|86~|87~|88~|89~|90~|91~|Ali Osman Ağa%|Atmaca~|Bayır~|Bülbül~|Büyükdere İmar Dışı Köy$|Bıldırcın~|Cami (sefa)@|Cami@|Cumhuriyet (sefa)@|Cumhuriyet@|Cumhuriyet Meydanı=|Dere~|Fulya~|Funda (menderes)~|Funda~|Gelincik~|Gül~|Hamam (sefa)~|Hamam~|Hanımeli~|Havran (menderes)@|Havran (sefa)@|Havran@|Kanarya~|Karanfil~|Kartal~|Köydışı Köy$|Kırlangıç~|Lale~|Leylak~|Manolya~|Martı~|Menderes (menderes)@|Menderes@|Menekşe~|Mezarlık@|Mine~|Nergis~|Ortanca~|Papatya~|Pınartepe@|Sülün~|Taştepe@|Yukarı~|Yıldız (dere-ikebir)@|Yıldız (menderes)@|Yıldız (sefa)@|Yıldız@|Çaylak~|Şehit Taner Sürek (dere-ikebir)@|Şehit Taner Sürek@
+147981	Büyükşapçı Mah.	Balıkesir-edremit / Büyükşapcı~|Büyükşapçı Köy Dışı~|Büyükşapçı~
+10511	Camiikebir Mah.	100.~|101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|125.~|126.~|127.~|128.~|131.~|132.~|133.~|137~|138.~|143.~|151.~|152.~|155.~|156.~|159.~|160.~|161.~|162.~|163.~|164.~|165.~|166.~|94.~|95.~|96.~|97.~|98~|99.~|Cumhuriyet@|Dumlupınar@|Fatih@|Fevzibey@|Gündoğdu@|Hafız Nurettin Kocatulum~|Hastane@|Hüseyin Seven@|Kocaseyit@|Menderes@|Selahattin Keskin@|Şehit Onbaşı Erol Özden@
+147987	Dereören Mah.	Atatürk@|Atatürk/karanfil~|Atatürk/kıraç~|Atatürk/çay (merkez)~|Atatürk/çay=|Atatürk/özen~|Balıkesir-edremit / Dereören~|Fatih / Dereören@|Fatih/menekşe~|Sever@
+10513	Ebubekir Mah.	113.~|115.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|128.~|129.~|130.~|132.~|133~|134.~|135.~|136.~|137.~|139.~|140.~|141.~|142.~|144.~|145.~|146.~|147.~|148.~|149.~|150.~|154.~|157.~|158.~|167.~|168.~|169.~|171.~|172.~|173.~|174.~|175.~|176.~|177.~|178.~|179.~|180.~|181.~|182.~|183.~|184.~|186.~|187.~|188.~|189.~|190.~|191.~|192.~|193.~|195.~|196.~|197.~|198.~|199.~|200.~|201.~|202.~|203.~|204.~|205.~|206.~|207.~|208.~|209.~|211.~|212.~|213.~|214.~|215~|216~|217.~|218.~|219.~|220.~|221.~|222.~|63~|64~|901~|902~|903~|904~|905~|906~|907~|908~|Cumhuriyet@|Edremit-balıkesir Yolu@|Eybek@|Fatih@|Fevzibey@|Gündoğdu@|Hafıznurettin Kocatulum~|Hamit Güven@|Menderes@|Muharrem Özdil@|Salih Aydınlıoğlu@|Selahattin Keskin@|Temaşalık@|Yaşar Doğu@|İmar Dışı / Ebubekir~|Şehit Onbaşı Erol Özden@|Şehit Üstteğmen Tanju Baytekin@
+147991	Eseler Mah.	Balıkesir-edremit / Eseler~|Eseler~
+147989	Eğmir Mah.	Balıkesir-edremit / Eğmir~|Eğmir Köy Dışı~|Eğmir~
+147993	Fazlıca Mah.	Fazlıca~|Köydışı Fazlıca~|Talim Alanı / Fazlıca~
+147995	Hallaçlar Mah.	Balıkesir-edremit / Hallaçlar~|Hallaçlar~
+147997	Halılar Mah.	Halılar~
+10514	Hamambaşı Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.~|30.~|31.~|311~|312~|313~|314~|315~|316~|317~|318~|319~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|4.~|40.~|41.~|42.~|43.~|44.~|45.~|46.~|47.~|48.~|5.~|6.~|65.~|66.~|67.~|7.~|8.~|9.~|Kalabak@|Kızılay Myd.|Sakarya@|Temaşalık@|Yılmaz Akpınar%|İmar Dışı~|İnönü@|İsmet Alpsu@
+147999	Hüseyinbeşeler Mah.	Balıesir-edremit / Hüseyinbeşeler~|Hüseyinbeşeler~
+148003	Kalabak Mah.	Kalabak / Kalabak~|Talim Alanı / Kalabak~
+148005	Karalar Mah.	Karalar Köy Dışı Köy$|Karalar~
+148007	Karaoğlanlar Mah.	Karaoğlanlar~
+148009	Kobaklar Mah.	Kobaklar~|Köydışı Kobaklar~
+148011	Kocadağ Mah.	Kocadağ Köy Dışı~|Kocadağ~
+148013	Kocaseyit Mah.	Kocaseyit / Kocaseyit~|Köy Dışı Köy$
+148015	Köylüce Mah.	Balıkesir-edremit / Köylüce~|Köylüce~
+148017	Küçükdere Mah.	Küçükdere Köy Dışı Köy$|Küçükdere~
+148019	Küçükşapçı Mah.	Balıkesir -edremit / Küçükşapcı~|Köydışı Küçükşapcı~|Küçükşapçı~
+10515	Mescit Mah.	223.~|224.~|225.~|226.~|227.~|228.~|229.~|230.~|231.~|232.~|233.~|234.~|235.~|236.~|290.~|291.~|292.~|293.~|294.~|295.~|307.~|308.~|309.~|310.~|Cumhuriyet@|Dereköy@|Edremit-balıkesir Yolu@|Kızılay Myd.|Mescit Şehir Dışı~|Muharrem Seven@|Yılmaz Akpınar%
+148021	Sarnıç Mah.	Sarnıç~
+148023	Tarlabaşı Mah.	Talim Alanı / Tarlabaşı~|Tarlabaşı Köydışı~|Tarlabaşı~
+148025	Taşarası Mah.	Taşarası~
+10516	Tekke Mah.	246.~|249.~|250.~|252.~|255.~|266.~|267.~|270.~|271.~|273.~|274.~|275.~|277.~|278.~|279.~|280.~|281.~|282.~|283.~|284.~|285.~|286.~|287.~|288.~|289.~|296.~|298.~|299.~|300.~|301.~|302.~|303.~|304.~|305.~|306.~|Altınova@|Cumhuriyet@|Dereköy@|Edremit - Balıkesir Yolu@|Eski Demiryolu@|Halit Efendi@|Katırcıoğlu@|Mehmet Çalışır@|İmar Dışı~
+148027	Temaşalık Mah.	Huzur Evi~|Temaşalık / Temaşalık~|Temaşalık Köy Dışı~
+148029	Tepeoba Mah.	Talim Alanı / Tepeoba~|Tepeoba~
+10517	Yeni Mah.	49.~|50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|60.~|61.~|62.~|63.~|68.~|69.~|70.~|72.~|73.~|76.~|77.~|78.~|79.~|80.~|81.~|82.~|83.~|84.~|85.~|87.~|88.~|89.~|90.~|91.~|92.~|93.~|Fatih@|Hastane@|Kızılay Myd.|Menderes@|Muhlis Kayalı@|Sakarya@|Temaşalık@|Zahir Emre@|İsmail Nuri Şahoğlu@
+148031	Çakmak Mah.	Çakmak~
+147983	Çakırdere Mah.	Çakırdere~
+147985	Çamdibi Mah.	Balıkesir-edremit / Çamdibi~|Çamdibi Köydışı~|Çamdibi~
+10512	Çiğitzade Mah.	234.~|235.~|236~|237.~|238.~|240.~|241.~|242.~|243.~|244.~|245.~|247.~|253~|254.~|256.~|Bölükbaşızade Hasan Efendi~|Cumhuriyet@|Halil Soyuer@|Mehmet Çalışır@|Yılmaz Akpınar%
+148001	İnönü Mah.	Köydışı İnönü~|İnönü / İnönü~

@@ -1,0 +1,70 @@
+97796	Akkaya Köyü	Akkaya=
+97797	Akkaya Köyü, Mücavir Mevkii	1026~|1027~|1028~|1029~|5 Nolu~
+97798	Aktaş Köyü	Aktaş=|Hemşin=
+97799	Altunçay Köyü	Akkaya=|Altunçay=|Dibektaş Merkez=|Elmas=|Kuruca=|Kuzey=|Tonyalı=|Yeniyer Merkez=
+97800	Arabacı Köyü	Arabacı=|Koçullu=
+91201	Ayazlı Mah.	1000~|1001~|1002~|1003~|1004~|1005~|1007~|1008~|1010~|1020~|1021~|1033~|1034~|Ada~|Akar~|Akçakocabey%|Arya~|Aslı~|Ata~|Ağır~|Badem 2~|Bahar~|Bahçe~|Bayrak~|Bağlar~|Başaran~|Beşevler~|Birlik~|Bora~|Buket~|Burçak~|Cansu~|Ceyda~|Ceylan~|Defne~|Demir~|Deniz~|Dervişoğlu~|Doğan~|Dumlupınar@|Döngelli@|Düzce@|Efe~|Ekin~|Emniyet~|Emrah~|Ereğli@|Foto Hüseyin~|Gazi~|Göknur~|Gülistan@|Güney~|Güven Keskin@|Güzel~|Hacı Yakup Kalaycı@|Hacıtaş@|Hamza Deniz~|Hazer~|Hedef~|Hiciz~|Hilal~|Hüner~|Hürrem~|Ilgın~|Kabasakal~|Kadife~|Kaptan Turgut Bora~|Karaca~|Karmen~|Kayabaşı@|Kayalı~|Kayra~|Kelebek~|Kumluk~|Kumsal~|Kuyu~|Köknar~|Köroğlu~|Kültür~|Leman~|Limancık~|Mehtap~|Melih~|Melis~|Muammer Aksoy@|Nazende~|Nevra~|Nilüfer~|Orkide~|Palmiye~|Paşa~|Poyraz~|Püren~|Rüzgar~|Salkım~|Salyancı@|Sanayi 1~|Sanayi 2~|Sanayi 3~|Sanayi 4~|Saraylı~|Sarıoğlu~|Serra~|Serva~|Sevgi~|Sultan~|Sülün~|Tekin~|Tekir~|Tepeli~|Terminal@|Tilbe~|Tuna~|Umut~|Vadi~|Yakıt~|Yamanlar~|Yazlık~|Yukarı Ayazlı@|Yılmaz~|Zafer~|Zeytin~|Çağdaş~|Çağrı~|Çelik~|Çiğdem~|Çuhalı@|Ümran~|İlkay~|İzci~|İzgi~|Şaban Kalaycı~|Şahin~|Şebnem~|Şehnaz~|Şimşek~
+97801	Balatlı Köyü	Balatlı=|Beyören=|Deredibi=
+97802	Beyhanlı Köyü	Beyhanlı=
+97804	Beyhanlı Köyü, Mücavir Mevkii	1025~|1026~|122~|123~|124~|125~|126~|127~|128~|129~|130~|5 Nolu~|Zafer 1~
+97803	Beyhanlı Köyü, Yalı Mevkii	Yalı=
+97805	Beyören Köyü	Acara=|Beyören=
+91202	Cumhuriyet Mah.	1012~|1052~|Ali Çavuş~|Baki Çelebi~|Batur~|Cumhuriyet@|Demet~|Hacı Hafız 2~|Hacı Molla~|Hacı Osmanlar~|Ihlamur~|Kamer~|Kapaçlar~|Koca Halit~|Mescit~|Orhan Gazi@|Ortanca~|Park@|Pınar Yanı~|Sedir~|Selvi~|Sıhhat~|Terzi Eminler~|Yanmaz~|Yarenler~|Yeşil~|Yeşilkent~|İlla@|İmrahor~|İnanç~|İstanbul@|Şafak~
+97810	Dadalı Köyü	Dadalı=|Düzce/akçakoca Yolu@|Kirazyanı=
+97811	Davutağa Köyü	Davutağa=|Dilaver=
+97812	Deredibi Köyü	Deredibi=|Düzce/akçakoca Yolu@
+97813	Dereköy Köyü	Altunçay=|Dereköy=
+97814	Dilaver Köyü	Dilaver=|Mısırlık=
+97816	Doğancılar Köyü, Acara Mevkii	Acara=|Doğancılar=|Ortanca=
+97815	Doğancılar Köyü, Doğancılar Mevkii	Doğancılar=|Giresunlular=
+97817	Doğancılar Köyü, Giresunlular Mevkii	Doğancılar=|Giresunlular=
+97818	Döngelli Köyü	1003~|Döngelli=|Düzce/akçakoca Yolu@|Göknur~
+198921	Döngelli Köyü, Döngelli Mücavir Mevkii	Nevra~
+97820	Edilli Köyü	Edilli.=|Karasu@|Mesen~
+98512	Edilli Köyü, Edilli Ağzı Mevkii	7 Nolu~|Mesen 1~
+97821	Esmahanım Köyü	Dilaver=|Esmahanım=
+97822	Fakıllı Köyü	Fakıllı=
+97823	Göktepe Köyü	Destan~|Göktepe=|Kirazlı=
+91203	Hacı Yusuflar Mah.	1013~|1014~|1015~|1016~|1022~|1030~|1031~|Akasya~|Akay~|Anıt~|Baki Çelebi~|Barlas~|Barış~|Berkin~|Beyza~|Burcu~|Bülbül~|Ceneviz~|Dere~|Dolunay~|Ebru~|Egemen~|Elfin~|Eminoğlu~|Emre~|Erguvan~|Ertuna~|Esen~|Fatih~|Fener~|Göral~|Gümüş~|Günbatımı~|Güneş~|Hacı Ağalar~|Hacı Osmanlar~|Hasret~|Hayalim~|Haydar Efendi~|Hürriyet@|Hüsnü Gonca@|Karasu@|Kervan 2~|Koca Halit~|Kocatepe~|Kokurdan@|Koru~|Kuğu~|Köy Ağalar~|Mehmet Ali Turhan@|Mesen~|Meydan~|Mimoza~|Mutlu~|Narin~|Nesil~|Nigar~|Oğuz~|Pınar Yanı~|Sadık Reis~|Sadıkoğlu~|Sarmaşık~|Sedef~|Selin~|Simge~|Sinem~|Site~|Soğuksu~|Sumru~|Susam~|Tekke~|Turna~|Yakamoz~|Çerçiler~|İlla@|İrem~|İstanbul@|Şaşmaz~
+97826	Hasançavuş Köyü, Karaburun 2 Mevkii	Karaburun 2=
+97825	Hasançavuş Köyü, Karaburun Mevkii	100~|101~|102~|103~|104~|2~|200~|201~|202~
+97824	Hasançavuş Köyü, Köyiçi Mevkii	Köyiçi=|Melenağzı=
+97827	Hemşin Köyü	Aktaş=|Hemşin=|Yenice=
+97828	Kalkın Köyü	Hemşin=|Kalkın=
+97829	Kalkın Köyü, Mücavir Mevkii	8~|Köy İçi~
+97830	Karatavuk Köyü, Battallar Mevkii	Battallar=
+97831	Karatavuk Köyü, Kayadibi Mevkii	Kayadibi=|Kurukavak=
+97833	Karatavuk Köyü, Köyiçi Mevkii	Köyiçi=
+97832	Karatavuk Köyü, Merkez Mevkii	Merkez=
+97834	Kepenç Köyü	1017~|1019~|Akçakocabey%|Göktepe~|Kepenç=|Mehmet Akif@|Yağmur~
+97836	Kirazlı Köyü	Kirazlı=|Koçar=|Kınık=|Yeşilköy=
+97837	Koçar Köyü	Koçar=|Kurugöl=
+97838	Koçullu Köyü	Koçullu=
+97839	Kurugöl Köyü	Erdemli=|Karaömer=|Kurugöl=
+97841	Kurukavak Köyü, Beylik Ağacı Mevkii	Beylik Ağacı=|Kurukavak=|Küpler=
+97840	Kurukavak Köyü, Kurukavak Mevkii	Kayadibi=|Kurukavak=
+97842	Küpler Köyü	Küpler=|Yukarıköy=
+97835	Kınık Köyü	Kirazlı=|Kınık=
+97843	Melenağzı Köyü	112~|117~|120~|Melenağzı=
+97844	Melenağzı Köyü, Mücavir Mevkii	1023~|1024~|105~|106~|107~|109~|110~|111~|112~|113~|115~|116~|117~|118~|119~|120~|2~
+97845	Nazımbey Köyü	Nazımbey=
+91204	Orhangazi Mah.	1017~|1019~|Akçakocabey%|Akçam~|Ali Servet~|Alperen~|Ardıç~|Badem 1~|Başak~|Bektaş~|Dönmez~|Erenler~|Fan Deresi~|Firuze~|Hacıhafız1~|Hamam~|Hazan~|Hoca Ahmet Yesevi@|Kanarya~|Kaya~|Kayı~|Kesme~|Ketmenli@|Koçbaba~|Kırlangıç~|Kızlar Ağası~|Kızılay~|Menekşe~|Neval~|Nur~|Okul~|Orhan Gazi@|Osmanlı~|Pınar~|Rıfat Ilgaz@|Saka~|Sakin~|Samanyolu~|Santral@|Sarıca~|Sarıgül~|Sena~|Türbe~|Uysal~|Veysel~|Vuslat~|Yağmur~|Yaşam~|Yosun~|Yıldız~|Zambak~|Zümrüt~|Çimen~|Özgür~|Üstüner~|İnci~
+97846	Ortanca Köyü	Kınık=|Ortanca=
+91205	Osmaniye Mah.	1040~|1054~|Acar~|Acun~|Akçakocabey%|Alaca~|Ali Ağa~|Ali Vasfi~|Ankara@|Arif Bey@|Asalet~|Asma~|Atatürk@|Ataç~|Atik~|Avşar~|Aybüke~|Aydoğan~|Ayla~|Açelya~|Ağıt~|Bade~|Bakış~|Balaban~|Balkan~|Bayram~|Başar@|Belen~|Bergüzar~|Burç~|Camii 2~|Cemre~|Cezaevi~|Damla~|Delta~|Derviş Hasan~|Derya~|Desen~|Devran~|Değirmen~|Dilek~|Diriliş~|Doruk~|Doğa~|Doğancılar@|Elif~|Elit~|Elçin~|Emek~|Emirler@|Ender~|Eriş~|Esat Hoca~|Eser~|Evrim~|Fulya~|Gençlik~|Gizem~|Göknar~|Gül~|Güven~|Güzel Ali~|Güzel~|Güzide~|Hacıoğlu@|Haliloğlu@|Harman~|Hasan Efendi~|Hasan Kaptan~|Hasan Tahsin~|Hiciz~|Hisar~|Horoz~|Huzur~|Hüseyin Orhan~|Hüseyin Yanmaz@|Irmak~|Kadife~|Kalyoncu~|Karabekir@|Karagöz~|Karayavuz~|Kardelen~|Kartal~|Kervan 1~|Keskin~|Kevser~|Kumluk~|Kuzgun~|Kışla~|Lale~|Manolya~|Martı~|Mehmet Hoca~|Mehmet Ünnü~|Mehmetçik~|Meriç~|Mert~|Merve~|Mevsim~|Muratlar~|Nergiz~|Oktay~|Onur~|Osmaniye@|Ozan~|Resul Efendi~|Rıhtım~|Sanayi 5~|Sanayi 6~|Sanayi 7~|Sanayi 8~|Saray~|Seda~|Sefer Akın~|Serçe~|Spor~|Suna~|Söğüt~|Sümbül~|Taçnur~|Tevfik İleri@|Tuzcuoğlu~|Ufuk~|Yakut~|Yalın~|Yavuz~|Yayla~|Yeşim~|Zennur~|Zirve~|Çamlık~|Çay~|Çağ~|Çetin Aydoğan@|Çeşme~|Çuha~|Çuhalı@|Çınar~|Önder~|Öykü~|Özkök~|İleri~|İlhan~|İlkem~|İsmail Kaptan~|İstiklal@|İtfaiye~|İğde~|İş Gören@|Şehit Mehmet Efendi~|Şehit Sadık~|Şen~|Şenoğlu~|Şeyda~|Şifa~|Şirin~|Şirinoğlu~
+97847	Paşalar Köyü	Kalkın=|Paşalar=
+98513	Paşalar Köyü, Keçikaya Mevkii	1050~|1051~|8~
+97848	Sarıyayla Köyü	Kurugöl=|Sarıyayla=
+97849	Subaşı Köyü	Düzce/akçakoca Yolu@|Subaşı=
+97850	Tahirli Köyü	Edilli.=|Kalkın=|Tahirli=
+183456	Tahirli Köyü, Ahmetdağı Mevkii	1055~
+97851	Tepeköy Köyü	Düzce/akçakoca Yolu@|Tepeköy=
+97852	Uğurlu Köyü	Köyiçi=|Uğurlu=|Yenice=
+91206	Yalı Mah.	1011~|Ali Servet~|Atatürk@|Atik~|Atılgan~|Aylin~|Bahadır Yalçın@|Bebek~|Berrak~|Ceneviz~|Deren~|Fan Deresi~|Fındık~|Hasan Kahya~|Hüseyin Yanmaz@|Karanfil~|Konak~|Kızılay~|Liman~|Lise~|M.servet Bilge~|Merkez Cumhuriyet Myd.|Misafir~|Orhan Gazi@|Osmaniye@|Oto~|Pazar~|Plaj~|Posta~|Sandal~|Santral@|Sağlık~|Seferreis~|Taner~|Çivi~|İnönü@|İskele~|İstanbul@|İş Gören@
+91207	Yeni Mah.	1018~|1032~|1047~|Aksu~|Akçakocabey%|Asena~|Bahadır Yalçın@|Baytar Ahmet~|Begonya~|Deren~|Emek~|Fan Deresi~|Gelincik~|Göde~|Hüseyin Yanmaz@|Kaya~|Ketmenli@|Kiraz~|Kıraç~|Miray~|Nehir~|Nurçin~|Papatya~|Pazarcık~|Sarıca~|Yay~|Yüce~|Zümrüt~|Çağlayan~|Çıkmaz 2~|Özge~|Üçdere~|Şahinkaya~
+97853	Yenice Köyü	Hemşin=|Yenice=
+97854	Yeşilköy Köyü	Kirazlı=|Kurugöl=|Yeşilköy=
+91208	Yukarı Mah.	1048~|1049~|Abide~|Akça~|Akçakocabey%|Baki Çelebi~|Bayraktar~|Beylik~|Camii 1~|Cevahir~|Cumhuriyet@|Dere~|Derviş Ahmet~|Destan~|Dizdar~|Edilli@|Egemen~|Fevzi Paşa~|Feyyaz~|Feyzullah~|Göktepe~|Gören@|Hacı Ali Osman~|Hacı Hafız 2~|Hacı Hasan~|Hacı Mehmet~|Hacı Şakir~|Hasret~|Hürriyet@|Kabadayı~|Kara Ahmet~|Karadut~|Karasu@|Kumru~|Lerzan~|Mehmet Akif@|Mehmet Ali Turhan@|Meydan~|Mualim Aziz~|Mısra~|Osman Nabi~|Racil~|Rıfat Ilgaz@|Sadık Reis~|Sancak~|Selmin~|Sema~|Talat Uğur@|Tekke~|Tunca~|Vatan~|Yakalı~|Yağmur~|Yonca~|Çavlan~|Çağla~|Özer~|İkbal~|İnci~|İrem~|İstanbul@
+97806	Çayağzı Köyü	1025~|Ereğli@|Çayağzı=
+97808	Çayağzı Köyü, Kirazyanı Mevkii	Ereğli@|Kirazyanı=
+97807	Çayağzı Köyü, Kumpınar Mevkii	Ereğli@|Kumpınar=
+97809	Çiçekpınar Köyü	Beyören=|Dadalı=|Düzce/akçakoca Yolu@|Çiçekpınar=

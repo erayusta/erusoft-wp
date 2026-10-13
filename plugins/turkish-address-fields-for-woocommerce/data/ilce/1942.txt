@@ -1,0 +1,34 @@
+183198	Ağaçlı Düz Mah.	Acar~|Balaban Hayrat 1~|Balaban Hayrat 10~|Balaban Hayrat 2~|Balaban Hayrat 3~|Balaban Hayrat 4~|Balaban Hayrat 5~|Balaban Hayrat 6~|Balaban Hayrat 7~|Balaban Hayrat 8~|Balaban Hayrat 9~|Balaban Hayrat@|Balaban Karanfil Çıkmaz 1~|Balaban Karanfil Çıkmaz~|Balaban Merkez Atatürk@|Dere Boyu@|Dere Boyu Düz@|Dere Boyu1~|Dere Boyu2~|Dere Boyu4~|Derviş~|Düz Mah.@|Düz Mahalle 1~|Düz Mahalle@|Haciosmanoğlu 1~|Haciosmanoğlu~|Hayrat Düz 1~|Hayrat Düz@|Konak~|Lale~|Pazarönü=|Çukurkent Yenicami@|Çukurkent-@|Çukurkentağaçlıdüz=
+156753	Balaban Mah.	Aydın~|Balaban Karşıyaka=|Balaban Küçükyalı@|Balaban Uğurlu@|Balaban Yalı@|Balabandere~|Cami Doğan~|Dere Boyu@|Dere Boyu1~|Dere Boyu2~|Dere Boyu3~|Dere-~|Dere1~|Geçitli-=|Güney=|Hafız Savaş Acez=|Hamzalı@|Hamzalı1~|Hamzalı2~|Hamzalı3~|Kanarya~|Kardelen~|Kardelen1~|Kardelen2~|Karneslik~|Menekşe~|Menekşe1~|Mezra 5~|Mezra 7~|Mezra-~|Molla~|Pazarönü-=|Uğurlu-@|Uğurlu1~|Uğurlu2~|Uğurlu3~|Uğurlu4~|Yalı-@|Yukarı=|Yunus~|Yıldız Hamzalı~|Yıldız~|Yıldız1~|Yıldız2~|Çukurkent@|Çukurkent Yenicami@|Çukurkent Yenicami1~|Çukurkent Yenicami2~|Çukurkent Yenicami3~|Çukurkent Yenicami4~|Çukurkentağaçlıdüz=|Örnek~|Örnek1~|Şehit Nuri Güzel@|Şehit Nuri Güzel Hamzalı@|Şehit Nuri Güzel Hamzalı1~|Şehit Nuri Güzel Hamzalı2~|Şehit Nuri Güzel Hamzalı3~|Şehit Nuri Güzel Hamzalı4~|Şehit Nuri Güzel Hamzalı5~|Şehit Nuri Güzel Hamzalı6~|Şehit Yunus@|Şehit Yunus1~|Şehit Yunus2~|Şehit Yunus3~|Şehit Yunus4~|Şehit Yunus5~|Şehit Yunus6~|Şehit Yunus7~
+182086	Balaban Merkez Mah.	Abdülaziz~|Ahmet Yesevi 1~|Ahmet Yesevi@|Alsancak~|Balaban Merkez Atatürk@|Balaban Merkez Cami 1~|Balaban Merkez Cami~|Balaban Merkez Cumhuriyet@|Balaban Merkez Karşıyaka=|Balaban Of Yolu 1~|Balaban Of Yolu@|Balaban Of Yolu1~|Basri Hacıbektaşoğlu 1~|Basri Hacıbektaşoğlu 2~|Basri Hacıbektaşoğlu 3~|Basri Hacıbektaşoğlu 4~|Basri Hacıbektaşoğlu@|Cami Merkez~|Hacıefendi 1~|Hacıefendi~|Hafız D.ali~|Hafız Savaş Acez=|Harbut 1~|Harbut 2~|Harbut 3~|Harbut~|Hilal~|Merkez Mah 1~|Merkez Mah 2~|Merkez Mah@|Merkez Mah. Merkez 1~|Merkez Mah. Merkez 2~|Merkez Mah. Merkez 3~|Merkez Mah. Merkez@|Mezra 1~|Mezra 2~|Mezra 3~|Mezra 4~|Mezra 5~|Mezra 6~|Mezra 7~|Mezra 8~|Mezra~|Papatya 1~|Papatya~|Rizelioğlu 1~|Rizelioğlu 2~|Rizelioğlu~|Sağlık Ocağı~|Uğurlu 1~|Uğurlu 2~|Uğurlu 3~|Uğurlu~|Yağlıtaş~|Zambak 1~|Zambak~|Şahin~|Şehit Şeref 1~|Şehit Şeref 2~|Şehit Şeref 3~|Şehit Şeref 4~|Şehit Şeref 5~|Şehit Şeref 6~|Şehit Şeref@|Şenol~
+80008	Cumhuriyet Mah.	Kadıköy=|Karşıyaka=|Karşıyaka1=|Yalı=|İstiklal@
+156755	Dağönü Mah.	Aksu Yayla=|Arpaözü=|Ağaçbaşı=|Büyük Yayla=|Cengiz Topel=|Cordanlı=|Fazilet=|Hacıkurt=|Huşo Aşağı=|Huşo Yukarı=|Karayemişlik=|Köy Merkez=|Madenli Yaylası=|Mağlakamboz=|Puşur=|Sarmaşık Kadınlar Yaylası=|Varhali=|Çakıroğlu 1=|Çakıroğlu=|Çihali=|Çiğeli Yayla=
+156757	Dereyurt Mah.	Aydınöz=|Aşağı=|Dereyurt Merkez=|Kadınlar Yaylası=|Taflancık=|Şehitli-=|Şehitli1=|Şehitli2=
+156759	Fatih Mah.	61000=|Fatih 1=|Fatih=|Sıraağaç Karşıyaka=|Yırca-=
+156761	Geçitli Mah.	Ağaçbaşı=|Büyük Yayla=|Büyükharman=|Geçitli=|Kopsita=|Kopsita1=|Yeniköy=|Yukarı=|Örnek~|Örnek1~|Şehit Yunus@|Şehit Yunus2~
+156763	Göksel Mah.	Göksel 3=|Göksel=|Göksel1=|Göksel2=|Mollalar=
+80012	Görgülü Mah.	Cumhuriyet@|Gül~|Humruk=|Karanfil~|Köyceğiz Merkez=|Raftoz=|Raftoz1=|Tepe=|Ömer Çetin Nuhoğlu 1~|Ömer Çetin Nuhoğlu%
+80031	Gülderen Fatih Mah.	Bektaş~|Eminoğlu@|Eminoğlu1@|Esen Çıkmaz~|Eğitim~|Fındık Çıkmaz~|Göksu Çıkmaz~|Gülsuyu~|Gülsuyu1~|Güneş~|Güneş1~|Hayrat@|Humruk=|Hundez=|Mehmet Akif Ersoy@|Mehmet Akif Ersoy3~|Mehmet Ali Yılmaz@|Mehmet Ali Yılmaz1~|Mehmet Ali Yılmaz2~|Yunus Emre@|Yusuf Özçelik-@|Özkan Çıkmaz~|İtimat Çıkmaz~
+80032	Gülderen Merkez Mah.	Atatürk@|Atatürk1~|Atatürk2~|Atatürk3~|Atatürk4~|Atatürk5~|Battal Gazi~|Bayırca Merkez=|Bağlar~|Berber Çıkmaz~|Birlik=|Cami~|Cami1~|Demirci Çıkmaz~|Esen Çıkmaz~|Garaj~|Güldüren Merkez Cumhuriyet@|Hasan Karahan~|Ihlamur~|Ihlamur1~|Ihlamur2~|Ihlamur3~|Ihlamur4~|Ihlamur5~|Kamelya Çıkmaz~|Karanfil Çıkmaz~|Kireçli Cami=|Kılıç~|Lale Çıkmaz~|Mahmut Yılmaz Çıkmaz~|Mehmet Akif Ersoy@|Mehmet Akif Ersoy1~|Mehmet Akif Ersoy2~|Mehmet Akif Ersoy3~|Mehmet Ali Yılmaz@|Menekşe Çıkmaz~|Menekşe Çıkmaz1~|Menekşe Çıkmaz2~|Papatya Çıkmaz~|Sümbül Çıkmaz~|Yunus Emre@|Yusuf Özçelik@|Yusuf Özçelik1~|Yusuf Özçelik2~|Yusuf Özçelik3~|Yusuf Özçelik4~|Yusuf Özçelik5~|Yılmaz Çıkmaz~|Yılmaz Çıkmaz1~|Çelik Çıkmaz~
+80013	Hürriyet Mah.	Gül~|Humruk=|Hundez=|Nuhoğlu Vakfı~|Tepe=
+80014	Kurtuluş Mah.	Eminoğlu-@|Gündoğdu-=|Güneşalan-=|Hundez=|Kireçli Cami-=|Kireçli Sırt-=|Mehmet Akif Ersoy@
+156767	Köyceğiz Mah.	Kazançlı=|Köyceğiz Güney=|Köyceğiz Merkez=|Mehmet Ali Yılmaz@|Mehmet Ali Yılmaz2~|Raftoz-=|Raftoz1=|Sıraağaç Merkez=
+156765	Kılavuz Mah.	Dereyurt Merkez=|Kılavuz=
+80015	Merkez Mah.	Aşağı=|Cumhuriyet@|Dere@|Gül~|Güneşalan=|Hundez=|Hürriyet@|Kemal Okuyan~|Kılavuz=|Nergis 1~|Nergis~|Nuhoğlu Vakfı~|Tepe=|Yalı=|Ömer Çetin Nuhoğlu%|İstiklal@
+80016	Meydanlı Mah.	Alona=|Pazarönü=|Yalı=
+156769	Onur Mah.	Dağalan=|Onur=
+156771	Pazarönü Mah.	Alona-=|Dere Boyu Düz@|Dere Boyu Düz1~|Gölyaka=|Haciosmanoğlu~|Kadıköy=|Pazarönü=|Türkahmetler=|Yalı=|Çukurkent Yenicami@
+156773	Pınarca Mah.	Aşağı=|Büyükharman=|Gölyaka=|Güney-@|Güneşalan-=|Kadınlar Yaylası-=|Orta=|Taflancık 1=|Taflancık=|Yalı-=|Yukarı 1=|Yukarı=|Yıldırımlar=|Şehit Yunus3~|Şehitli=
+156775	Sarmaşık Mah.	Ağaçbaşı-=|Büyük Yayla=|Göksel=|Göksel1=|Irmak=|Kudali=|Köprübaşı=|Körali=|Livada=|Mele=|Mollalar=|Sarmaşık Kadınlar Yaylası=|Semerdağı=|Silanlı=|Tuzhana=|Çakıroğlu 1=|Çakıroğlu=
+156779	Taflancık Mah.	Aydınöz=|Büyükharman=|Kadınlar Yaylası=|Taflancık 1=|Taflancık=|Yukarı-=
+80017	Topaklı Mah.	Derinırmak=|Eminoğlu@|Eminoğlu2@|Güneşalan=|Hundez=|Kireçli Cami=|Kireçli Sırt=|Tepe=
+156781	Yarlı Mah.	Dağalan=|Hüsamoğulları=|Kadıköy=|Türkahmetler=|Yarlı Merkez=|Yırca=|Şişli=
+80018	Yeni Mah.	Gölyaka=|Güney=|Pazarönü=|Çukurkent@
+156783	Yeniköy Mah.	Balaban Uğurlu@|Dere-~|Dere1~|Derelik-=|Emirgan 2=|Emirgan-=|Emirgan1=|Lişanırmağı Ve Ova=|Ova=|Ova1=|Yeniköy=|Yeniköy1=
+156789	Yıldırımlar Mah.	Yıldırımlar=
+156785	Yırca Mah.	61000=|Dağalan=|Fatih=|Hüsamoğulları=|Sıraağaç Karşıyaka=|Yırca 1 Nolu=|Yırca 2 Nolu=|Yırca=
+80010	Çamlıtepe Mah.	Humruk=|Köyceğiz Merkez=|Tepe=
+80011	Çaycılar Mah.	Kadıköy=
+80009	Çağlayan Mah.	Aşağı=|Yalı=
+156787	Şehitli Mah.	Aydınöz=|Şehit Mustafa Özel@|Şehit Mustafa Özel-@|Şehitli=|Şehitli1=|Şehitli2=
+156777	Şişli Mah.	Hüsamoğulları=|Köyceğiz Güney-=|Köyceğiz Merkez=|Sıraağaç Merkez=|Şişli=

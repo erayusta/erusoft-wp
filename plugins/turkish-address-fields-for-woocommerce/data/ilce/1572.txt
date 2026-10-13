@@ -1,0 +1,11 @@
+52932	Akarca Köyü	Akarca=
+52933	Doğanca Köyü	Doğanca=
+49975	Ergene Mah.	10 Nolu~|Ali Molla Hüseyin~|Ali Rıza Yılmaz~|Arda~|Atatürk@|Bağlar~|Cumhuriyet Myd.|Cumhuriyet1@|Emin Çavuş~|Künteci~|Leylak~|Toprak~|Yenimahalle~|Zambak~|İsimsiz 4~|İstasyon@|İstiklal~|Şehit Kerim~|Şehit Kerim1~|Şehit Molla Bekir~|Şehit Molla Bekir1~
+52934	Hıdırca Köyü	Hıdırca=
+49976	Kazımdirik Mah.	11 Nolu~|Akasya~|Ali Rıza Yılmaz~|Altınoluk~|Ara~|Bademlik~|Cumhuriyet Myd.|Cumhuriyet1@|Dere~|Eczacı Mahmut Tuna@|Edirne@|Emin Çavuş~|Emniyet~|Gül~|Hasan Akıncıtürk~|Huzur~|Köprü~|Künteci 1~|Sağlık~|Tuna~|Ulus~|Yeşil Bahçe~|Zafer~|Zübeyde Hanım Myd.|İsimsiz 15~|İsimsiz 25~|İsimsiz 252~|İsimsiz 28~|İsimsiz 29~|İsimsiz 4~|İsimsiz 5~|İsimsiz 8~|İsimsiz1907~|İsimsiz99~|İstasyon@|İstasyon Myd.|Şehit Jandarma Er Adem Balcı~|Şehit Molla Bekir~|Şehit Molla Bekir1~
+52936	Kumköy Köyü	Kumköy=
+49977	Kurtuluş Mah.	1 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|7 Nolu~|8 Nolu~|9 Nolu~|Arda~|Arda1~|Atatürk@|Atatürk1~|Bağlar~|Bekir Çavuş~|Bilinmeyen 14~|Cumhuriyet1@|Dar~|Ergene@|Kaynak~|Kumluk~|Kuştepe=|Künteci 1~|Künteci~|Papatya~|Plevne 1~|Plevne~|Seven~|Süleyman Çevik~|Süleyman Çevik1~|Çayırlık~|Ömer Pehlivanoğlu Hüseyin~|İsimsiz 10~|İsimsiz 12~|İsimsiz 13~|İsimsiz 16~|İsimsiz 17~|İsimsiz 18~|İsimsiz 19~|İsimsiz 20~|İsimsiz 28~|İsimsiz2~|İsimsiz3~|İsimsiz88~|İstasyon@|Şehit Kerim~
+52937	Kuştepe Köyü	Kuştepe=
+52938	Yeşilova Köyü	Yeşilova=
+52939	Yeşilpınar Köyü	Yeşilpınar=
+52935	İmampazarı Köyü	İmampazarı=

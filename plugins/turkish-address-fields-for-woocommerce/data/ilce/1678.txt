@@ -1,0 +1,319 @@
+36510	Akıncılar Köyü, Kıran Mevkii	 Köy$
+36509	Akıncılar Köyü, Orta Mevkii	 Köy$
+36508	Akıncılar Köyü, Paloğlu Mevkii	 Köy$
+36511	Akıncılar Köyü, Çiftlik Mevkii	 Köy$
+36513	Arageriş Köyü, Herekli Mevkii	 Köy$
+36515	Arageriş Köyü, Kavgalı Mevkii	 Köy$
+36512	Arageriş Köyü, Yokuşbaşı Mevkii	 Köy$
+36514	Arageriş Köyü, Zamarı Mevkii	 Köy$
+36529	Arslancık Köyü, Akçakese Mevkii	 Köy$
+36525	Arslancık Köyü, Alakaş Mevkii	 Köy$
+36526	Arslancık Köyü, Cebecioğlu Mevkii	 Köy$
+36522	Arslancık Köyü, Gebeceli Mevkii	 Köy$
+36523	Arslancık Köyü, Henkioğlu Mevkii	 Köy$
+36524	Arslancık Köyü, Henkioğlu Zaim Yeri Mevkii	 Köy$
+36533	Arslancık Köyü, Kerimlik Mevkii	 Köy$
+36532	Arslancık Köyü, Kirazlık Mevkii	 Köy$
+36530	Arslancık Köyü, Kuşboynu Mevkii	 Köy$
+36517	Arslancık Köyü, Merkez Mevkii	 Köy$
+36518	Arslancık Köyü, Okul Yanı Mevkii	 Köy$
+36520	Arslancık Köyü, Tomaklı Mevkii	 Köy$
+36521	Arslancık Köyü, Töngel Mevkii	 Köy$
+36528	Arslancık Köyü, Velioğlu Mevkii	 Köy$
+36527	Arslancık Köyü, Yamaklı Mevkii	 Köy$
+36531	Arslancık Köyü, Çubuk Dağı Mevkii	 Köy$
+36519	Arslancık Köyü, Üzümlük Mevkii	 Köy$
+36516	Arslancık Köyü, Üçdere Mevkii	 Köy$
+36547	Ataköy Köyü, Düzköy Mevkii	 Köy$
+36549	Ataköy Köyü, Kandazlı Mevkii	 Köy$
+36551	Ataköy Köyü, Karaman Mevkii	 Köy$
+36546	Ataköy Köyü, Kayaboynu Mevkii	 Köy$
+36548	Ataköy Köyü, Kıran Cami Mevkii	 Köy$
+36550	Ataköy Köyü, O Yüz Mevkii	 Köy$
+36562	Avcılı Köyü, Alaco Mevkii	 Köy$
+36553	Avcılı Köyü, Berberli Mevkii	 Köy$
+36556	Avcılı Köyü, Eminoğlu Mevkii	 Köy$
+36561	Avcılı Köyü, Karaarifgil Mevkii	 Köy$
+36560	Avcılı Köyü, Kedilli Mevkii	 Köy$
+36558	Avcılı Köyü, Kıran Mevkii	 Köy$
+36552	Avcılı Köyü, Merkez Mevkii	 Köy$
+36554	Avcılı Köyü, Naiboğlu Mevkii	 Köy$
+36555	Avcılı Köyü, Çalıklı Mevkii	 Köy$
+36559	Avcılı Köyü, Çavuşlu Mevkii	 Köy$
+36557	Avcılı Köyü, Şedelli Mevkii	 Köy$
+36538	Aşağıboynuyoğun Köyü, Ağdarı Mevkii	 Köy$
+36540	Aşağıboynuyoğun Köyü, Camiyanı Mevkii	 Köy$
+36536	Aşağıboynuyoğun Köyü, Cardak Kıran Mevkii	 Köy$
+36541	Aşağıboynuyoğun Köyü, Duancı Mevkii	 Köy$
+139729	Aşağıboynuyoğun Köyü, Elmadibi Mevkii	
+36535	Aşağıboynuyoğun Köyü, Eskiköy Mevkii	 Köy$
+36539	Aşağıboynuyoğun Köyü, Göğcebel Mevkii	 Köy$
+36542	Aşağıboynuyoğun Köyü, Güneyköy Alt Mevkii	 Köy$
+36543	Aşağıboynuyoğun Köyü, Güneyköy Üst Mevkii	 Köy$
+36534	Aşağıboynuyoğun Köyü, Hamasgil Mevkii	 Köy$
+36544	Aşağıboynuyoğun Köyü, Hozanlar Mevkii	 Köy$
+36545	Aşağıboynuyoğun Köyü, Kuzduran Mevkii	 Köy$
+36537	Aşağıboynuyoğun Köyü, Mahmutgil Mevkii	 Köy$
+183722	Balçıkbelen Mah.	Bük~|Merkez~|Piroğlu~|Yahyalı~|Yaylalı~
+36571	Belen Köyü, Düz Mevkii	 Köy$
+36568	Belen Köyü, Gökçeyazı Mevkii	 Köy$
+36570	Belen Köyü, Orta Mevkii	 Köy$
+36572	Belen Köyü, Yarderesi Mevkii	 Köy$
+36569	Belen Köyü, Yumurtacı Mevkii	 Köy$
+30889	Cintaşı Mah.	Amiral Şükrü Okan@|Bostanlı~|Cintaşı~|Ekmekci~|Gacan Çıkmaz~|Gazi Paşa@|Hamam~|Han Yeri~|Kurtköy=|Kurtköyü Mev~|Kuru Çeşme~|Mektep~|Merdivenli 6.~|Merdivenli 7.~|Merdivenli 8.~|Merdivenli~|Muzaffer Badalıoğlu~|Terzili~|Yaşlı Oğlu~|Çatal Çeşme~|Çiçekli~
+36575	Civil Köyü, Gerden Mevkii	 Köy$
+36574	Civil Köyü, Görpeli Mevkii	 Köy$
+36576	Civil Köyü, Karşı Mevkii	 Köy$
+36573	Civil Köyü, Merkez Mevkii	 Köy$
+36577	Civil Köyü, Miraseke Mevkii	 Köy$
+36587	Danışman Köyü, Aşağı Mevkii	 Köy$
+36590	Danışman Köyü, Gebeşler Mevkii	 Köy$
+36589	Danışman Köyü, Kilinli Mevkii	 Köy$
+36588	Danışman Köyü, Kör Omar Mevkii	 Köy$
+36592	Danışman Köyü, Kıran Mevkii	 Köy$
+36586	Danışman Köyü, Orta Mevkii	 Köy$
+36593	Danışman Köyü, Toptepe Mevkii	 Köy$
+36591	Danışman Köyü, Yukarı Mevkii	 Köy$
+36585	Danışman Köyü, Şimşir Dibi Mevkii	 Köy$
+30891	Demirci Mah.	1.@|Akmaz 1~|Akmaz 2~|Akmaz 3~|Akmaz 4~|Akmaz 5~|Akmaz 6~|Akmaz~|Avukat Ahmet Ersöz~|Başkan Mehmet Domaç@|Bekir Cebeci~|Demirci=|Güldal=|Güneşli~|Halk0valı@|Harşit~|Karanfil~|Menekşe~|Milletvekili Ethem Kılıçoğlu~|Milletvekili İbrahim Naiboğlu~|Milletvekili Şükrü Abbasoğlu~|Osman Ağa@|Ressam Burhan Uygur~|Yunus Emre~|Çal~|Şerif Çavuş~|Şht.halil Dobaoğlu~|Şht.üst.mücahit Kulak@|Şirin~
+36605	Dokuzkonak Köyü, Cami Yanı Mevkii	 Köy$
+36604	Dokuzkonak Köyü, Tütünlük-dutkıranı Mevkii	 Köy$
+36603	Dokuzkonak Köyü, Yukarıköy Kıran Mevkii	 Köy$
+36594	Doğancı Köyü	 Köy$
+36595	Doğancı Köyü, Dişikara Mevkii	 Köy$
+36600	Doğancı Köyü, Domaçlı Mevkii	 Köy$
+36602	Doğancı Köyü, Doğancı Mevkii	 Köy$
+36596	Doğancı Köyü, Kuz Mevkii	 Köy$
+36597	Doğancı Köyü, Meyrecük Mevkii	 Köy$
+36598	Doğancı Köyü, Sahil Mevkii	 Köy$
+36599	Doğancı Köyü, Toptaş Mevkii	 Köy$
+36601	Doğancı Köyü, Çıltıma Mevkii	 Köy$
+36612	Düzköy Köyü, Camiyanı Mevkii	 Köy$
+36607	Düzköy Köyü, Gölağazı Mevkii	 Köy$
+36610	Düzköy Köyü, Hacıalioğlu Alt Mevkii	 Köy$
+36609	Düzköy Köyü, Hacıalioğlu Mevkii	 Köy$
+36611	Düzköy Köyü, Kara Ali Mevkii	 Köy$
+36608	Düzköy Köyü, Kömürlük Mevkii	 Köy$
+36606	Düzköy Köyü, Yalı Mevkii	 Köy$
+36618	Ede Köyü, Cami Yanı Mevkii	 Köy$
+36616	Ede Köyü, Emetce Mevkii	 Köy$
+36617	Ede Köyü, Kıran Mevkii	 Köy$
+36613	Ede Köyü, Merkez Mevkii	. Köy$
+36615	Ede Köyü, Munakuzu Mevkii	 Köy$
+36614	Ede Köyü, Orta Mevkii	 Köy$
+36620	Ede Köyü, Zeyret Mevkii	 Köy$
+36624	Eymür Köyü, Deregözü Mevkii	 Köy$
+36623	Eymür Köyü, Ekizler Mevkii	 Köy$
+36625	Eymür Köyü, Halaç Mevkii	 Köy$
+36622	Eymür Köyü, Mahmutlu Mevkii	 Köy$
+36621	Eymür Köyü, Merkez Mevkii	 Köy$
+36626	Eymür Köyü, Çukurtam Mevkii	 Köy$
+36630	Fatih Köyü, Emingil Mevkii	 Köy$
+36628	Fatih Köyü, Haliloğlu Mevkii	 Köy$
+36629	Fatih Köyü, Haliloğlu Çamiyanı Mevki Mevkii	 Köy$
+36627	Fatih Köyü, Hüseyinoğlu Evliyayanı Mevki Mevkii	 Köy$
+36631	Fatih Köyü, Sayıca Mevkii	 Köy$
+36632	Fatih Köyü, Velibaşoğlu Mevkii	 Köy$
+36636	Hacıhüseyin Köyü	 Köy$
+36634	Hacıhüseyin Köyü, Karşı Mevkii	 Köy$
+36635	Hacıhüseyin Köyü, Uzunlu Mevkii	 Köy$
+36633	Hacıhüseyin Köyü, Ömerli Mevkii	 Köy$
+36642	Halaçlı Köyü, Göbelli Alt Mevkii	 Köy$
+36641	Halaçlı Köyü, Göbelli Orta Mevkii	 Köy$
+36639	Halaçlı Köyü, Göbelli Yukarı Mevkii	 Köy$
+36638	Halaçlı Köyü, Merkez Mevkii	 Köy$
+36640	Halaçlı Köyü, Soğuksu Cebeci Mevkii	 Köy$
+36644	Halaçlı Köyü, Soğuksu Kedivelli Mevkii	 Köy$
+36643	Halaçlı Köyü, Soğuksu Mustafaoğlu Mevkii	 Köy$
+36645	Halaçlı Köyü, Takırlı Mevkii	 Köy$
+36637	Halaçlı Köyü, Yukarı Mevkii	 Köy$
+30892	Hamam Mah.	Amiral Şükrü Okan@|Atlı Yolu~|Değirmen~|Dikmerdiven~|Gazi Paşa@|Hamam~|Hancıoğlu~|Hasanlı=|Kurucakale~|Muzaffer Badalıoğlu~|Müf.ahmet Necmettin Efen.~|Prof.dr Ahmet Haluk Dursun~|Sezginer~|Şehit Yaşar Doymuş~
+36653	Harkköy Köyü	 Köy$
+36649	Harkköy Köyü, Akyar Mevkii	 Köy$
+36646	Harkköy Köyü, Binektaşı Mevkii	 Köy$
+36650	Harkköy Köyü, Buğdalık Mevkii	 Köy$
+36647	Harkköy Köyü, Camiyanı Mevkii	 Köy$
+36648	Harkköy Köyü, Karakütük Mevkii	 Köy$
+36651	Harkköy Köyü, Okulyanı Mevkii	 Köy$
+36652	Harkköy Köyü, Çıraklı Mevkii	 Köy$
+36654	Işıklı Köyü, Ahmetçalı Mevkii	 Köy$
+36659	Işıklı Köyü, Boğacıklı Karık Mevkii	 Köy$
+36664	Işıklı Köyü, Boğacıklı Kıran Mevkii	 Köy$
+36656	Işıklı Köyü, Boğacıklı Orta Mevkii	 Köy$
+36657	Işıklı Köyü, Boğacıklı İpek Ali Mevkii	 Köy$
+36658	Işıklı Köyü, Karcanlı Mevkii	 Köy$
+36662	Işıklı Köyü, Ortagüney Aşağı Mevkii	 Köy$
+36663	Işıklı Köyü, Ortagüney Kıran Mevkii	 Köy$
+36661	Işıklı Köyü, Ortagüney Orta Mevkii	 Köy$
+36660	Işıklı Köyü, Ortagüney Üst Mevkii	 Köy$
+36672	Karaahmetli Köyü, Armutağzı Mevkii	 Köy$
+36674	Karaahmetli Köyü, Bedrama Mevkii	 Köy$
+36675	Karaahmetli Köyü, Gazanferli Mevkii	 Köy$
+36673	Karaahmetli Köyü, Kuz Mevkii	 Köy$
+36677	Karaahmetli Köyü, Kıran Mevkii	 Köy$
+36671	Karaahmetli Köyü, Merkez Mevkii	 Köy$
+36676	Karaahmetli Köyü, Tepe Mevkii	 Köy$
+36683	Karademir Köyü, Caferkuzu Mevkii	 Köy$
+36679	Karademir Köyü, Karasakal Mevkii	 Köy$
+36686	Karademir Köyü, Köyün Kendisi Mevkii	 Köy$|Keloğlu Köy$|Mehdili Köy$
+36678	Karademir Köyü, Küçükmehmetoğlu Mevkii	 Köy$
+199347	Karademir Köyü, Ordulu Mevkii	
+36682	Karademir Köyü, Soğuksu Mevkii	 Köy$
+36685	Karademir Köyü, Yalak Mevkii	 Köy$
+36680	Karademir Köyü, İmamkıranı Mevkii	 Köy$
+36687	Kayalar Köyü, Orta Mevkii	 Köy$
+36692	Ketençukur Köyü, Bekirli Mevkii	 Köy$
+36690	Ketençukur Köyü, Camiyanı Mevkii	 Köy$
+36695	Ketençukur Köyü, Düver Mevkii	 Köy$
+36693	Ketençukur Köyü, Eski Kahve Yanı Mevkii	 Köy$
+36689	Ketençukur Köyü, Fatmabükü Mevkii	 Köy$
+36691	Ketençukur Köyü, Göldüzü Mevkii	 Köy$
+36694	Ketençukur Köyü, Kalpakbükü Mevkii	 Köy$
+36688	Ketençukur Köyü, Padarlı Mevkii	 Köy$
+36697	Ketençukur Köyü, Yanıklık Mevkii	 Köy$
+36696	Ketençukur Köyü, İnceburun Mevkii	 Köy$
+36698	Kovancık Köyü, Alt Mevkii	 Köy$
+36700	Kovancık Köyü, Kayaboğazı Mevkii	 Köy$
+36699	Kovancık Köyü, Üst Mevkii	 Köy$
+36712	Kovanpınar Köyü, Ali Evi Mevkii	 Köy$
+36709	Kovanpınar Köyü, Göksil Mevkii	 Köy$
+36702	Kovanpınar Köyü, Güney Mevkii	 Köy$
+36713	Kovanpınar Köyü, Kadıoğlu Mevkii	 Köy$
+36707	Kovanpınar Köyü, Kallo Mevkii	 Köy$
+36711	Kovanpınar Köyü, Kuziz Mevkii	 Köy$
+36717	Kovanpınar Köyü, Kuzçukuru Mevkii	 Köy$
+36705	Kovanpınar Köyü, Orta Mevkii	 Köy$
+36704	Kovanpınar Köyü, Pazar Yeri Mevkii	 Köy$
+36701	Kovanpınar Köyü, Sazanlık Mevkii	 Köy$
+36710	Kovanpınar Köyü, Siyezlik Mevkii	 Köy$
+36706	Kovanpınar Köyü, Tütünlük Mevkii	 Köy$
+36714	Kovanpınar Köyü, Yukarı Mevkii	 Köy$
+36703	Kovanpınar Köyü, Çiftlik Mevkii	 Köy$
+36708	Kovanpınar Köyü, Çityeri Mevkii	 Köy$
+36716	Kovanpınar Köyü, İnyanı Mevkii	 Köy$
+36727	Kuskunlu Köyü, Abdullu Mevkii	 Köy$
+36729	Kuskunlu Köyü, Abdullu Pattellasi Mevkii	 Köy$
+36728	Kuskunlu Köyü, Abdullu Yayca Mevkii	 Köy$
+36726	Kuskunlu Köyü, Aşağı Mevkii	 Köy$
+36725	Kuskunlu Köyü, Cami Yani Mevkii	 Köy$
+36723	Kuskunlu Köyü, Değirmensuyu Mevkii	 Köy$
+36721	Kuskunlu Köyü, Kahyalı Mevkii	 Köy$
+36722	Kuskunlu Köyü, Maden Mevkii	 Köy$
+36724	Kuskunlu Köyü, Merkez Mevkii	 Köy$
+36730	Kuzgun Köyü, Aşağı Çınarcık Mevkii	 Köy$
+36738	Kuzgun Köyü, Camiyanı Mevkii	 Köy$
+36734	Kuzgun Köyü, Deregözü Mevkii	 Köy$
+36733	Kuzgun Köyü, Göldüzü Mevkii	 Köy$
+36736	Kuzgun Köyü, Kahveyanı Mevkii	 Köy$
+36735	Kuzgun Köyü, Kamatlı Mevkii	 Köy$
+36737	Kuzgun Köyü, Orta Mevkii	 Köy$
+36732	Kuzgun Köyü, Süleymangil Mevkii	 Köy$
+36739	Kuzgun Köyü, Yavergil Mevkii	 Köy$
+36731	Kuzgun Köyü, Yukarı Çınarcık Mevkii	 Köy$
+30894	Körliman Mah.	Amiral Şükrü Okan@|Cumhuriyet@|Eskidoğan Kent Yolu~|Hacı Osman@|Hüseyin Avni Alparslan@|Mehmet Bayrak@|Papatya~|Üniversite~|İstikbal@
+36719	Köseler Köyü, Devecikboynu Mevkii	 Köy$
+36718	Köseler Köyü, Karaağaç Mevkii	 Köy$
+36720	Köseler Köyü, Merkez Bük Mevkii	 Köy$
+36744	Menderes Köyü, Beşkise Mevkii	 Köy$
+36742	Menderes Köyü, Bük Mevkii	 Köy$
+36743	Menderes Köyü, Keloğlu (danacı) Mevkii	 Köy$
+36740	Menderes Köyü, Merkez Mevkii	 Köy$
+36741	Menderes Köyü, Seisoğlu Mevkii	 Köy$
+36745	Menderes Köyü, Öksüzoğlu (laz) Mevkii	 Köy$
+36746	Mursal Köyü, Koz Mevkii	 Köy$
+36747	Mursal Köyü, Orta Mevkii	 Köy$
+36748	Mursal Köyü, Yukarı Mursal Mevkii	 Köy$
+36752	Ortacami Köyü, Celli Mevkii	 Köy$
+36750	Ortacami Köyü, Cırıtlı Mevkii	 Köy$
+36755	Ortacami Köyü, Kargalı Mevkii	 Köy$
+36753	Ortacami Köyü, Kösemerli Mevkii	 Köy$
+36749	Ortacami Köyü, Melikli Mevkii	 Köy$
+36751	Ortacami Köyü, Zıvalı Mevkii	 Köy$
+36754	Ortacami Köyü, Çandırlı Mevkii	 Köy$
+36756	Ortaköy Köyü, Camiyanı Mevkii	 Köy$
+36758	Ortaköy Köyü, Gökçeli Mevkii	 Köy$
+36757	Ortaköy Köyü, Yaraş Mevkii	 Köy$
+36769	Sekü Köyü, Cami Mevkii	 Köy$
+36768	Sekü Köyü, Elma Mevkii	 Köy$
+36767	Sekü Köyü, Harmancık Mevkii	 Köy$
+36770	Sekü Köyü, Köyaltı Mevkii	 Köy$
+36775	Sultanköy Köyü, Aşhapçuk Mevkii	 Köy$
+36774	Sultanköy Köyü, Dereağzı Mevkii	 Köy$
+36772	Sultanköy Köyü, Karaçukur Mevkii	 Köy$
+36771	Sultanköy Köyü, Merkez Mevkii	 Köy$
+36773	Sultanköy Köyü, Moz Mevkii	 Köy$
+36776	Sultanköy Köyü, Örencik Mevkii	 Köy$
+36798	Yalç Köyü, Camiyanı Mevkii	 Köy$
+36799	Yalç Köyü, Dere Mevkii	 Köy$
+36795	Yalç Köyü, Güney Mevkii	 Köy$
+36800	Yalç Köyü, Kıran Mevkii	 Köy$
+36797	Yalç Köyü, Okulyanı Mevkii	 Köy$
+36796	Yalç Köyü, Orta Mevkii	 Köy$
+36802	Yalıköy Köyü, Anlak Mevkii	 Köy$
+36803	Yalıköy Köyü, Kabacalı Mevkii	 Köy$
+36801	Yalıköy Köyü, Kerimli Mevkii	 Köy$
+36807	Yaraş Köyü, Bayraktarlı Mevkii	 Köy$
+36805	Yaraş Köyü, Düztarla Kıran Mevkii Mevkii	 Köy$
+36804	Yaraş Köyü, Düztarla Mevkii	 Köy$
+36806	Yaraş Köyü, Sırtıkara Mevkii	 Köy$
+36792	Yağlıkuyumcu Köyü, Aşağıkıran Mevkii	 Köy$
+36790	Yağlıkuyumcu Köyü, Aşağıosmanlı Mevkii	 Köy$
+36785	Yağlıkuyumcu Köyü, Düz Kuyumcu Mevkii	 Köy$
+36787	Yağlıkuyumcu Köyü, Karamehmetli Mevkii	 Köy$
+36794	Yağlıkuyumcu Köyü, Kaynarpazarı Mevkii	 Köy$
+36786	Yağlıkuyumcu Köyü, Kuloğlu Mevkii	 Köy$
+36793	Yağlıkuyumcu Köyü, Yamanlı Mevkii	 Köy$
+36791	Yağlıkuyumcu Köyü, Yukarı Kıran Mevkii	 Köy$
+36789	Yağlıkuyumcu Köyü, Yukarıosmanlı Mevkii	 Köy$
+36788	Yağlıkuyumcu Köyü, İmamoğlu Mevkii	 Köy$
+30895	Yeniköy Mah.	14 Evler~|Amiral Şükrü Okan@|Bahçe~|Derebaşı=|Düz~|Ekiz~|Fatih~|Gazi Paşa@|Gelibolu=|Kuyubaşı~|Lise~|Merdivenli 1.~|Orman İşletme@|Plaj~|Rıhtım~|Salih Bora~|Salih Bora Çıkmaz~|Sapar~|Serinyaz Çıkmaz~|Taflanaltı~|Uzun~|Yaşar Kesimoğlu~|Yeni~|İhsan Çamur~|İmamdüzü~
+36821	Yeşilpınar Köyü	 Köy$
+36823	Yeşilpınar Köyü, Maden Mevkii	 Köy$
+36822	Yeşilpınar Köyü, Merkez Mevkii	 Köy$
+36813	Yukarıboğalı Köyü, Altıparmak Mevkii	 Köy$
+36814	Yukarıboğalı Köyü, Alçakkıran Mevkii	 Köy$
+36815	Yukarıboğalı Köyü, Mehmet Çavuş Mevkii	 Köy$
+36812	Yukarıboğalı Köyü, Merkez Mevkii	 Köy$
+36820	Yukarıortacami Köyü, Hıdırlı Mevkii	 Köy$
+36817	Yukarıortacami Köyü, Karabıyık Mevkii	 Köy$
+36818	Yukarıortacami Köyü, Kayadibi Mevkii	 Köy$
+36816	Yukarıortacami Köyü, Merkez Mevkii	 Köy$
+36819	Yukarıortacami Köyü, Orta Mevkii	 Köy$
+36808	Yılgın Köyü, Bükaltı Mevkii	Bükaltı=
+36810	Yılgın Köyü, Orta Mevkii	Orta=
+36809	Yılgın Köyü, Salman Mevkii	Salman=
+36811	Yılgın Köyü, Çal Mevkii	Çal=
+36578	Çamlıköy Köyü	 Köy$
+36581	Çamlıköy Köyü, Cerrahoğlu Mevkii	 Köy$
+36583	Çamlıköy Köyü, Kübüçlü Mevkii	 Köy$
+36582	Çamlıköy Köyü, Kıran Mevkii	 Köy$
+36580	Çamlıköy Köyü, Sarıosmanoğlu Mevkii	 Köy$
+36579	Çamlıköy Köyü, Tütüncülü Mevkii	 Köy$
+30890	Çarşı Mah.	Amiral Şükrü Okan@|Ayana~|Aydınlık~|Belediye@|Camii~|Eski Hamam~|Gazi Paşa@|Gümrük~|Habiboğlu~|Hoca Yalısı~|Kurtkoyu~|Merdivenli 1.~|Merdivenli 2.~|Merdivenli 3.~|Merdivenli 4.~|Merdivenli 5.~|Merdivenli~|Meydan~|Naibli~|Park~|Sahil 1.~|Sahil 2.~|Sahil~|Sakarya~|Sapar~|Selim Ağa@|Sinema~|Yalı~|Zübeyde Hanım@|Çevre Yolu~|İskele@
+36584	Çeğel Köyü	 Köy$
+36761	Örenkaya Köyü, Aşağı Mevkii	 Köy$
+36759	Örenkaya Köyü, Orta Mevkii	 Köy$
+36760	Örenkaya Köyü, Yukarı Mevkii	 Köy$
+36763	Özlü Köyü, Gerdan Mevkii	 Köy$
+36765	Özlü Köyü, Naipli Mevkii	 Köy$
+36764	Özlü Köyü, Orta Bada Mevkii	 Köy$
+36762	Özlü Köyü, Çatak Mevkii	 Köy$
+36766	Özlü Köyü, İsmailli Mevkii	 Köy$
+30893	İstiklal Mah.	Eskidoğan Kent Yolu~|Gökceli=|Kahırlı=|Osman Bozkır=|Takırlı=|Ümrühanlı=
+36667	İğnece Köyü, Akkaya Mevkii	 Köy$
+36665	İğnece Köyü, Camiyanı Mevkii	 Köy$
+36670	İğnece Köyü, Dere Mevkii	 Köy$
+36669	İğnece Köyü, Dipyatak Mevkii	 Köy$
+36666	İğnece Köyü, Tepeyatak Mevkii	 Köy$
+36668	İğnece Köyü, Çamtam Mevkii	 Köy$
+36826	Şenyuva Köyü	 Köy$
+36824	Şenyuva Köyü, Güney Mevkii	 Köy$
+36825	Şenyuva Köyü, Çukur Mevkii	 Köy$
+36783	Şirin Köyü, Kerpiçli Mevkii	 Köy$
+36779	Şirin Köyü, Lazlar Mevkii	 Köy$
+36781	Şirin Köyü, Merkez Kahveyanı Mevkii	 Köy$
+36782	Şirin Köyü, Pulluk Mevkii	 Köy$
+36777	Şirin Köyü, Sümbüllü Mevkii	 Köy$
+36778	Şirin Köyü, Tongazlı Mevkii	 Köy$
+36784	Şirin Köyü, Topaloğlu Mevkii	 Köy$
+36780	Şirin Köyü, Uzunali Mevkii	 Köy$

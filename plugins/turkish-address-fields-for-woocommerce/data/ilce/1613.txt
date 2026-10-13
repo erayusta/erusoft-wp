@@ -1,0 +1,57 @@
+155619	Akçakertil Mah.	Akçakertil Merkez~|Akçakertil~|Sarıkahyalar~
+155529	Altınköy Mah.	Altınköy~|Cingözler~|Dumanlar~|Göbekdeller~
+155533	Avlaşa Mah.	Araplar~|Avlaşa Mrk~|Damburun~|Deveci~|Fırdanlı~
+155531	Aşağıtefen Mah.	Alkanlar~|Aşağıtefen~|Dolaydamları~
+52413	Bekirağalar Mah.	Bekirağalar=
+155535	Beypınar Mah.	Azmanlar~|Kurucalar~|Köy~|Kırabalar~|Merkez~|Uzunağalar~
+155555	Dedeler Mah.	Dedeler~|Kaklıkaya~
+155559	Dumanlar Mah.	Dumanlar Merkez~|Hurşitler~|Kamiller~|Kepez~|Kızıltaş~|Çakallar~|Ömerler~
+52414	Eskicami Mah.	16 Nolu~|44 Nolu~|45 Nolu~|46 Nolu~|Adnan Menderes@|Akar~|Atatürk@|Bahçıvan~|Celal Dilik~|Cumhuriyet Myd.|Hava Astsubay Kamil Yılmaz@|Kula Yolu@|Zeybek~|Şehir Parekendesi=
+155561	Eskin Mah.	Eskin Mrk~|Fakra~|Karaçağıl~|Kozaklar~|Madır~|Yukarı Eskin~
+52415	Fatih Mah.	57 Nci~|58 Nolu~|59 Nolu~|61 Nolu~|62 Nolu~|63 Nolu~|64 Nolu~|65 Nolu~|66 Nolu~|67 Nolu~|68 Nolu~|Aslan~|Atatürk@|Başak~|Cumhuriyet@|Hürriyet@|Yaşar Öz@|Çeşme~
+155621	Gölbaşı Mah.	Delioğlanlar~|Gökahmetler~|Merkez~
+52416	Hacıhaliller Mah.	Hacıhaliller=
+155563	Hacılar Mah.	Hacılar~
+155565	Halılar Mah.	Halılar Merkez~|Harbiciler~|Karacennet~|Killik~|Tekeliler~|Çıralılar~
+155567	Havaoğlu Mah.	Ahbaplar~|Merkez~
+155569	Kabaklar Mah.	Kabaklar~
+155571	Karabeyler Mah.	Acısu~|Bedeller~|Kafalar~|Karabeyler (karaimamlar) Merkez~|Karataşlar~|Kayalar~|Kocaahmetler~|Kuşkurağı~|Yenitelli~
+155573	Karakozan Mah.	Dağyenice~|Karnıyarıklar~|Kelhaliller~|Mehmetaliler~|Merkez~|Osmançavuş~|Urabalar~|Yalamalar~|Yukarı Zeybekler~|Zeybekler~
+155575	Karaselendi Mah.	Güverenler~|Karaselendi Merkez~|Sarıhasanlar~
+155577	Karataşterziler Mah.	Azyaka~|Merkez~
+52418	Karşıova Mah.	36 Nolu~|37 Nolu~|38 Nolu~|39 Nolu~|40 Nolu~|41 Nolu~|42 Nolu~|43 Nolu~|46 Nolu~|48 Nolu~|49~|Kula Yolu@|Şehit Er Kemal Davulcu@
+155579	Kayranlar Mah.	Kayranlar~
+155581	Kazıklı Mah.	Hacıkayalar~|Havanoğlu~|Karabacak~|Kayabaşı~|Kazıklı Merkez~|Kelahmetler~|Moralılar~|Okluisa~|Sarıibrahim~|Sütçüler~
+52419	Kurtuluş Mah.	3 Eylül@|52 Nolu~|53 Nolu~|54 Nolu~|55 Nolu~|57 Nolu~|60 Nolu~|69 Nolu~|Adnan Menderes@|Akar~|Atatürk@|Ergenekon~|Halil Zıraman~|Hamam~|Çıkmaz~|Şehir Parakendesi=
+155585	Kurşunlu Mah.	Kayalı~|Kurşunlu~
+155587	Kürkçü Mah.	Böcükler~|Kürkçü Merkez~|Çamurköy~
+155583	Kınık Mah.	Aşağıçakallar~|Hacımusalar~|Koparanlar~|Kınık Merkez~|Ramazanhoca~|Urfalılar~|Çakallar~
+155591	Mollaahmetler Mah.	Delialiler~|Mollaahmetler~|İmamlar~
+155589	Mıdıklı Mah.	Eşmeliler~|Kavakalanı~|Kavaklar~|Keller~|Ramazanlar~|Yeğenveliler~|İnceler~
+155593	Omurlar Mah.	Hacıyeri~|Omurlar Mrk~
+155595	Pınarlar Mah.	Pınarlar Mrk~
+155597	Rahmanlar Mah.	Rahmanlar Merkez(yeni)~|İkizdamları~
+155601	Selmanhacılar Mah.	Selmanhacılar Mrk~
+155605	Tavak Mah.	Tavak~
+155607	Tepeynihan Mah.	Tepeeynihan Mrk~|Yeni~
+155609	Turpçu Mah.	Turpçu~
+155611	Yağcı Mah.	Yağcı~
+52421	Yenicami Mah.	11.~|23.~|51.~|56.~|Adalet~|Atatürk@|Aydın~|Balkan~|Mehmet Akif Ersoy@|Park@|Selvi~|Tevfik Uğur@|Şen~|Şht.savcı Ethem Ekim@
+155613	Yenice Mah.	Eski Yenice~|Eşemenler~|Yenice Mrk.~
+155599	Yeşil Mah.	Satılmış~
+155615	Yukarıtefen Mah.	Yukarıtefen~
+52422	Yıldız Mah.	Sanayi Sitesi=|Yıldız=
+52423	Zafer Mah.	Atatürk@|Bakırcılar~|Cumhuriyet Myd.|Leylak~|Mehmet Akif Ersoy@|Menekşe~|Mert~|Sümbül~|Yiğit~|Zafer~|Şehir Parekendesi=
+155617	Zıramanlar Mah.	Kahvecidamları~|Kemaller~|Zıraman Mrk~
+155537	Çalıklı Mah.	Gökgedik~|Çalıklı Merkez~
+155539	Çamköy Mah.	Demirler~|Hacıahmetler~|Hasanlar~|Karabacaklar~|Tepe~|Yeniayanlar Merkez~
+155541	Çamlıca Mah.	Çamlıca~
+155543	Çampınar Mah.	Tarakçı~|Çampınar Mrk~|Şehit Yaşar Öz~
+155545	Çamyayla Mah.	Kalburcu~|Çamyaya (hacıhüseyinli) Mrk.~|Çeribaşı~
+155547	Çanşa Mah.	Yüceler~|Çanşa Merkez~
+155551	Çinan Mah.	Bozlar~|Dedeş~|Dırazlar~|Efendiler~|Karabaş~|Kocakuz~|Melekler~|Sarıcalar~|Tirkeş~|Çinan Mrk~|Çıralılar~|İmizler~
+155553	Çortak Mah.	Değirmendere~|Çortak Mrk~
+155549	Çıkrıkçı Mah.	Gökçeoluk~|Merkez~|Söğütdere~
+52417	İnnice Mah.	İnnice=
+155603	Şehirlioğlu Mah.	Çiftedam~|Şehirlioğlu Mrk~
+52420	Şerefiye Mah.	1 Nolu Çıkmazı~|2 Nolu Çıkmazı~|25.~|27.~|3 Nolu Çıkmazı~|31.~|32.~|33.~|34~|46.~|47.~|69.~|70.~|71.~|72.~|73.~|74.~|75.~|Ekrem Çimen@|Gül~|Lale~|Mehmet Akif Ersoy@|Nergiz~|Park@|Tevfik Uğur@|Yavuz Sultan Selim@|Şerefiye~

@@ -1,0 +1,138 @@
+22698	Abdiağa Köyü	Abdiağa=
+22783	Adliye Köyü	Adliye=|Karayolu@
+22750	Ahmetler Köyü	Ahmetler=|Ramazanlar=
+22700	Akkayrak Köyü	Akkayrak=
+22701	Akköprü Köyü	Akköprü=|Aziziye=|Karayolu/80@
+22702	Akpınar Köyü	Akpınar=
+196607	Aksaz Köyü, Aksaz Mevkii	Aksaz=
+22799	Aksaz Köyü, Aksaz Mücavir Mevkii	Aksazmücavir=
+22800	Aksaz Köyü, Şahmelek Mevkii	Şahmelek=
+22703	Akyaprak Köyü	Akyaprak=
+22812	Ambaroba Köyü	Ambaroba=
+22704	Arabaalan Köyü	Arabaalan=|Camialan=
+22766	Arabakonağı Köyü	Arabakonağı=
+22767	Ayıtdere Köyü	Ayıtdere=
+22705	Aziziye Köyü	Aziziye=|Karayolu@
+22699	Ağaköy Köyü	Ağaköy=|Doğancı=|Karayolu1@
+139476	Ağaköy Köyü, Ağaköy (mücavir) Mevkii	Ağaköy Mücavir=
+22784	Aşağıdemirci Köyü	Aşağıdemirci=|Yukarıdemirci=
+22706	Bahçeli Köyü	Bahçeli=|Emirorman=|Hacıköy=|Karayolu@
+22749	Bakacak Köyü	Bakacak=|Danişment=|Türkbakacak=
+22707	Bakacaklıçiftliği Köyü	Akkayrak=|Bakacaklıçiftliği=
+20130	Balıklıçeşme Köyü, Balıklıçeşme Merkez Mevkii	101.~|101./1~|101./2~|101/1~|103.-~|105.~|106.~|107.~|108.~|108./1~|109.~|110.~|111.~|112.~|113.~|114.~|115.-~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|129/1~|130.~|132.~|133.~|133./1~|134.~|135.~|137.~|137./1~|145-~|147.~|201.~|202.~|203.~|204.~|204./1~|205.~|206.~|207.-~|208.~|210.~|212.~|214.~|216.-~|218.-~|220.-~|222.-~|224.-~|Atatürk~|Bahçe~|Bahçe/1~|Balıklıçeşme/1~|Balıklıçeşme/10~|Balıklıçeşme/11~|Balıklıçeşme/12~|Balıklıçeşme/13~|Balıklıçeşme/14~|Balıklıçeşme/15~|Balıklıçeşme/16~|Balıklıçeşme/17~|Balıklıçeşme/18~|Balıklıçeşme/19~|Balıklıçeşme/2~|Balıklıçeşme/20~|Balıklıçeşme/21~|Balıklıçeşme/21.~|Balıklıçeşme/22~|Balıklıçeşme/23~|Balıklıçeşme/3~|Balıklıçeşme/4~|Balıklıçeşme/5~|Balıklıçeşme/6~|Balıklıçeşme/7~|Balıklıçeşme/8~|Balıklıçeşme/9~|Bayır~|Bayır/1~|Bayır/2~|Cumhuriyet~|Cumhuriyet/1~|Cumhuriyet/10~|Cumhuriyet/11~|Cumhuriyet/12~|Cumhuriyet/14~|Cumhuriyet/15~|Cumhuriyet/16~|Cumhuriyet/2~|Cumhuriyet/3~|Cumhuriyet/4~|Cumhuriyet/6~|Cumhuriyet/8~|Cumhuriyet/9~|Dar~|Dereyolu~|Değirmen~|Erguvan~|Eski Karakol~|Eski Karakol/1~|Gül~|Hoca Ahmet Yesevi~|Hürriyet~|Kabaağaç~|Karanfil~|Kooperatif~|Kooperatif/1~|Mustafa Kemal~|Nergis~|Organize Sanayi Bölgesi~|Organize Sanayi Bölgesi/1~|Organize Sanayi Bölgesi/2~|Organize Sanayi Bölgesi/3~|Organize Sanayi Bölgesi/4~|Otlukdere=|Pazar~|Sağlık~|Sağlık/1~|Selvi~|Selvi/1~|Söğüt~|Sümbül~|Tahtakale~|Virajlı~|Yeni~|Yukarıçeşme~|Yukarıçeşme/1~|Çanakkale Bursa@|Çeşme~|Çobançeşme~|Çobançeşme/1~|Çobançeşme/2~|Çobançeşme/3~
+98817	Balıklıçeşme Köyü, Organize Sanayi Bölgesi Mevkii	Beyaz@|Kahve@|Kırmızı@|Lacivert@|Mavi@|Mor@|Organize Sanayi Bölgesi~|Sarı@|Siyah@|Turuncu@|Yeşil@
+22768	Bekirli Köyü	Bekirli=|Çakırlı=
+22751	Bezirganlar Köyü	Bezirganlar=
+22752	Bezirganlar Köyü, Yeni Eşelek Mevkii	Yeni Eşelek=
+22813	Bozlar Köyü	Bozlar=|Çeşmealtı=
+22814	Bozlar Köyü, Kumkent Mevkii	Kumkent=
+22708	Camialan Köyü	Camialan=
+22753	Cihadiye Köyü	Cihadiye=
+20122	Cumhuriyet Mah.	101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|136.~|137.~|138.~|139.~|141.~|143.~|Amaç~|Ara~|Bademlik@|Dar~|Ekinci 1 Çıkmazı~|Ekinci 2 Çıkmazı~|Ekinci~|Fırat Yılmaz Çakıroğlu@|Göçmen~|Kahya~|Keçeci İbrahim Ağa~|Kuyulu~|Leylak~|Mehmet Çavuş~|Mumcular@|Mumcular Çıkmazı~|Mustafa Münip Efendi~|Okul~|Onur~|Osman Nuri Babi~|Pınar~|Serin~|Yeniyol@|Yokuş~|Çamurlu Kısık~|Çan@|Çiçekli Dede~|Çınarlı~|Şehit Ömer Halisdemir@
+22795	Danişment Köyü	Bakacak=|Danişment=|Pekmezli=
+22756	Dereköy Köyü	Dereköy=
+22803	Değirmencik Köyü	Dere=|Değirmencik=
+22804	Değirmencik Köyü, Dere Mevkii	Dere=
+22710	Dikmen Köyü	Dıkmen=
+22711	Doğancı Köyü	Doğancı=|Karayolu@
+22712	Elmalı Köyü	Elmalı=
+22788	Emirorman Köyü	Emirorman=
+22771	Eskibalıklı Köyü	Eskibalıklı=
+22713	Eybekli Köyü	Eybeklı=|Karayolu@
+22787	Eğridere Köyü	Eğridere=
+20123	Gazikemal Mah.	Avlan~|Bademlik@|Bayram~|Cengiz Topel@|Dede~|Gül~|Hacı Emin Ağa~|Ihlamur~|Mehmet Hamdi Erdem~|Müçteba Şallı~|Osman Nuri Babi~|Sezai Suda@|Tan~|Uzunkısık~|Yan~|Yeniyol@|İncirli~
+22714	Gemicikırı Köyü	Gemicikırı=
+22757	Geredelli Köyü	Geredelli=
+22815	Gerlengeç Köyü	Gerlengeç=|Karayolu@|Karayolu1@
+22816	Gerlengeç Köyü, Sazkent Mevkii	Sazkent=
+22772	Geyikkırı Köyü	Geyikkırı=|Karahamzalar=|Kayapınar=|Stadyum5~
+22773	Göktepe Köyü	Göktepe=|Karayolu1@
+22715	Güleç Köyü	Güleç=|Karayolu@
+20132	Gümüşçay Beldesi, Cumhuriyet Mah.	101.@|102.@|102./1@|103.~|104.~|104./1~|105.~|106.~|107.~|108.~|109.@|110.@|110./1~|111.@|112.@|113.@|114.@|115.@|116.@|117.@|118.@|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|129/1~|130.~|131.~|132.@|133.~|134.~|135.~|136.~|137.~|138.~|139.~|140.~|141.~|142.~|143.~|144.~|145.~|146.@|147.@|148.~|149.~|150.~|151.~|152.~|153.~|154.~|155.~|156.~|157.~|158.~|159.~|160.~|161.~|162.~|163.~|164.~|165.~|166.~|167.@|168.@|169.~|170.~|171.~|172.~|173.~|174.~|175.~|176.~|176./1~|177.~|178.~|179.@|180.~|181.~|182.~|183.~|184.~|185.~|186.~|187.~|188.~|189.~|190.~|191.~|191/1~|192.~|193.~|194.~|195.~|196.~|196/1~|196/2~|197.~|198.~|199.~|200.~|201.~|202.~|203.~|204.~|205.~|206.~|207.~|208.~|209.~|209./1~|210.~|211.~|212.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|220.~|221.~|222.~|223.~|224.~|225.~|226.~|227.~|228.~|229.~|230.~|231.~|232.~|233.~|234.~|235.~|236.~|237.~|238.~|239.~|240.~|241.~|242.~|243.@|244.~|245.~|246.@|247.~|248.~|249.~|250.~|251.~|252.~|253.~|254.~|255.~|256.~|257.~|258.~|259.~|259./1~|260.~|260/1~|260/2~|260/3~|261.~|261./1~|261./2~|262.~|263.~|264.~|265.~|266.~|267.~|268.@|269.~|270.~|271.~|272.@|273.~|274.~|275.~|276.~|277.@|278.~|279.~|280.~|281.~|282.~|283.~|284.@|285.~|286.~|287.~|288.~|289.@|290.~|291.~|292.~|293.~|294.~|295.~|296.~|297.~|298.~|299.~|300.~|301.~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|310.~|311.~|312.@|313.~|314.~|315.~|316.~|317.~|319.~|322.~|325.~|332.~|335.~|336.~|337.~|338.~|339.~|340.~|340/1~|341.@|341./1@|342.~|343.~|344.~|345.@|346.@|347.~|348.~|349.~|350.~|351.~|352.~|353.~|354.~|355.~|356.~|357.~|358.~|359.~|360.~|361.~|362.~|363.~|364.~|365.~|366.~|367.@|368.~|369.~|370.~|371.~|372.~|373.~|374.~|375.~|376.~|377.~|378.~|379.~|400.~|401.~|402.~|403.~|404.~|405.~|406.~|407.~|408.~|409.~|410.~|411.~|412.~|413.~|Bahçeler~|Bahçeler/1~|Bahçeler/2~|Bahçeler/3~|Bahçeler/4~|Bahçeler/5~|Başçeşme@|Başçeşme Çıkmazı 1~|Başçeşme Çıkmazı~|Biga@|Biga Çıkmazı~|Biga-@|Biga/1~|Biga/10~|Biga/11~|Biga/12~|Biga/2~|Biga/3~|Biga/4~|Biga/5~|Biga/6~|Biga/8~|Biga/9~|Cumhuriyet@|Cumhuriyet/1~|Cumhuriyet/2~|Cumhuriyet/3~|Güllük Çıkmaz~|Gümüşçay Çevresi6~|Günaydın 1~|Günaydın~|Hakimiyet@|Hamam 1~|Hamam~|Hükümet 1~|Hükümet@|Karayolu%|Kargı 2=|Kargı Çiftliği 1=|Kargı Çiftliği 3=|Kavaklar@|Köprü@|Mektep~|Mescit~|Mescit Çıkmazı 1~|Mescit Çıkmazı~|Sakarya 1~|Sakarya 1. Çıkmaz~|Sakarya 2~|Sakarya 2. Çıkmazı~|Sakarya 3 Çıkmazı~|Sakarya 4. Çıkmazı~|Sakarya@|Sakarya/1~|Uzunkaldırım 1~|Uzunkaldırım 2~|Uzunkaldırım~|Çay 1~|Çay~
+20133	Gümüşçay Beldesi, İğdelik Mah.	Adnan Demirci@|Adnan Demirci/1~|Agah İntepe@|Agah İntepe/1~|Aralık~|Bayır~|Bağlar Çıkmazı 1~|Bağlar Çıkmazı~|Büyük Çınarlık 1~|Büyük Çınarlık 1. Çıkmazı~|Büyük Çınarlık 1.çıkmazı/1~|Büyük Çınarlık 1.çıkmazı/2~|Büyük Çınarlık 1.çıkmazı/3~|Büyük Çınarlık 1.çıkmazı/4~|Büyük Çınarlık 1.çıkmazı/5@|Büyük Çınarlık 2. Çıkmazı~|Büyük Çınarlık 3. Çıkmazı~|Büyük Çınarlık Yeniyol~|Büyük Çınarlık Yolu~|Büyük Çınarlık Yolu/1~|Büyük Çınarlık Yolu/2~|Cumhuriyet@|Cumhuriyet/2~|Cumhuriyet/3~|Cumhuriyet/4~|Cumhuriyet/5~|Cumhuriyet/6~|Cumhuriyet/7~|Değirmen~|Değirmen/1~|Değirmen/2~|Değirmen/4~|Değirmen/5~|Değirmen/6~|Değirmen/7~|Emektar~|Fabrika~|Gümüşçay Çevresi=|Gümüşçay Çevresi/1=|Hacıkadın~|Hakimiyet@|Harmanlar~|Kavaklar@|Kavaklar Çıkmazı 1~|Kavaklar Çıkmazı~|Köprü/cumhuriyet Mah.@|Menekşe~|Selamet~|Selamet Çıkmazı 2~|Selamet Çıkmazı~|Sıtma Çeşme~|Yeniyol~|Çömlekçi 1~|Çömlekçi~|İstiklal 3~|İstiklal@|İstiklal Çıkmazı 1~|İstiklal Çıkmazı~|İğdelik 1~|İğdelik 3~|İğdelik Çıkmazı 1~|İğdelik Çıkmazı 2~|İğdelik Çıkmazı~|İğdelik/1~|Şehit Alper Tunga Akan@|Şehit Hamit Saçar~|Şehit Ramazan Deniz~|Şehit Ramazan Deniz/1~|Şehit Ramazan Deniz/2~|Şehit Ramazan Deniz/3~|Şehit Rıza Sevim@|Şehitler Çıkmazı 1~|Şehitler Çıkmazı~|Şeref~
+22794	Gündoğdu Köyü	Danişment=|Gündoğdu=
+22774	Gürgendere Köyü	Gürgendere=
+22758	Gürçeşme Köyü	Bakacak=|Danişment=|Gürçeşme=
+22817	Güvemalan Köyü	Güvem=|Güvemalan=|Karayolu@
+22818	Güvemalan Köyü, Güvem Mevkii	Güvem=
+22805	Hacıhüseyinyaylası Köyü	Hacıhüseyinyaylası=
+22789	Hacıköy Köyü	Hacıköy=|Karayolu@
+22819	Hacıpehlivan Köyü	Hacıpehlivan=|Yenimahalle=
+20124	Hamdibey Mah.	601.~|602.~|603.~|604.~|605.~|606.~|607.~|608.~|609.~|610.~|611.~|612.~|613.~|614.~|615.~|616.~|617.~|618.~|619.~|620.~|621.~|623.~|624.~|625.~|626.~|627.~|628.~|629.~|630.~|631.~|632.~|633.~|634.~|635.~|636.~|637.~|639.~|650.~|651.~|652.~|653.~|654.~|655.~|656.~|657.~|658.~|660.~|662.~|664.~|666.~|668.~|670.~|672.~|Ahmet Simaiş~|Akın~|Ali Rıza Güven~|Asmalı~|Avni Caner~|Ay~|Ayhan Uysal@|Ağaç~|Bahtiyar Çavuş~|Bandırma@|Barbaros~|Bağ~|Bekir Düven~|Bülbül~|Cami Çıkmazı~|Cezmi Or~|Ceşme~|Cumhuriyet Myd.|Dere~|Dik~|Dr.muammer Kuralay~|Erbaş~|Ergün~|Fethi Usumi@|Feza~|Fındık~|Gümüşçay@|Gün@|Hacı Ali~|Halil Serezli~|Hamdibey~|Hoca Fahrettin~|Hüseyin Onan@|Hıdır~|Issız~|Işık~|Kanarya~|Karanfil~|Kayabaşı~|Kevser Özengil@|Kozpınar@|Kültür~|Kısa~|Kızılcık~|Lale~|Mehmet Eren~|Merdivenli~|Muhacir~|Muhtar~|Namazlık~|Namık Kemal~|Narin~|Nuh~|Papatya~|Raşit Usumi~|Ruhi Sarıalp~|Salih Çizgin~|Sarmaşık~|Sedef~|Serçe~|Söğüt~|Sümbül~|Sümer~|Tacirler@|Tarım~|Tekçe~|Tomurcuk~|Tütüncü~|Tırtıl~|Uzay~|Vişne~|Yaprak~|Yayla 1~|Yayla 2~|Yayla 3~|Yayla 4~|Yaşar Doğu~|Yeni~|Yeşil~|Yunat~|Yıldız~|Zambak~|Zühtü Zeren~|Zümrüt~|Çavuş~|Çay~|Çayır@|Çukur~|Çömlekçi~|Üzüm~|İnce~|İniş~|İnönü@|İstiklal@|İğdeli~|Şebboy~|Şehit Sedat Şeker~|Şehitlik~|Şevketbey~
+22759	Harmanlı Köyü	Harmanlı=
+22716	Havdan Köyü	Havdan=
+22775	Hisarlı Köyü	Hisarlı=
+22717	Hoşoba Köyü	Hoşoba=
+22718	Ilıcabaşı Köyü	Ilıcabaşı=
+22719	Işıkeli Köyü	Işıkeli=
+22760	Kahvetepe Köyü	Kahvetepe=
+22727	Kalafat Köyü, Merkez Mevkii	Hoşoba=|Kalafat=
+22729	Kaldırımbaşı Köyü	Kaldırımbaşı=|Karayolu@
+22790	Kanibey Köyü	Eğridere=|Kanibey=
+22730	Kapanbelen Köyü	Kapanbelen=|Karayolu@
+22796	Karaağaç Köyü	Karaağaç=
+20136	Karabiga Beldesi, Ulucamii Mah.	1~|10.~|101@|102@|103~|104@|104/1.~|105@|106@|106/1.~|106/2.~|107.@|11.~|12.~|13.~|14.~|2~|2/1~|3.~|4~|5~|6~|7.~|8.~|8/1.~|9.~|9/1.~|Aktaş~|Ara~|Badem~|Balkan~|Barış~|Bağlar Yolu~|Bilinmeyen 3@|Bilinmeyen~|Bilinmeyen1~|Bilinmeyen101~|Bilinmeyen106~|Bilinmeyen11~|Bilinmeyen111~|Bilinmeyen122@|Bilinmeyen13~|Bilinmeyen14~|Bilinmeyen15~|Bilinmeyen16@|Bilinmeyen17~|Bilinmeyen18~|Bilinmeyen188~|Bilinmeyen1897~|Bilinmeyen19~|Bilinmeyen2~|Bilinmeyen3~|Bilinmeyen300~|Bilinmeyen333~|Bilinmeyen4~|Bilinmeyen5~|Bilinmeyen6~|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen9~|Bilinmeyenn2~|Bilinmeyenn221~|Bilinmeyenulucami1~|Bilinmeyenulucami2~|Büyükmektep~|Bılınmeyen1002~|Bılınmeyen1005~|Cumhuriyet@|Dar~|Enbağ~|Enbağ/1~|Eskiharmanlık~|Fevzi Çakmak@|Harman Tepe@|Kasaba Dışı Kümeevleri=|Kavaklıçeşme~|Keklik~|Kocameşe@|Kocameşe1@|Koyun Dere~|Ova@|Pırnal~|Selvi~|Taşlı/1~|Turan@|Yeşil~|Yüksel~|Zambak~|Çınar~|Şirket Çeşme_1~
+20137	Karabiga Beldesi, Yalı Mah.	1.çıkmaz~|2.çıkmaz~|Bahar~|Bağlar Yolu~|Biga@|Bilinmeyen102~|Bilinmeyen177~|Bilinmeyen20~|Bilinmeyen21~|Büyükmektep~|Bılınmeyen10~|Cengiz Topel@|Cumhuriyet@|Deniz~|Dere~|Dere1~|Ekinci~|Gelincik~|Ihlamur~|Karanfil~|Kavaklıçeşme~|Kocameşe@|Mağazalar~|Mehmet Bey@|Ova@|Papatya~|Sağlık~|Sümbül~|Tepe~|Turan@|Ulutaş~|Yeni~|Yeşil~|Zambak~|Zeytinlik@|Şehit Recep Bey~|Şehit Vehbi Bey@|Şirket Çeşme~|Şirket Çeşme_1~
+20138	Karabiga Beldesi, Zeytinlik Mah.	201.~|202.~|203.~|204.~|205.~|206.~|207~|208.~|209~|210@|211~|212~|213~|214~|215@|216~|217~|218~|219~|220@|221~|222~|223~|224.~|225.@|226~|227~|228~|229~|231~|232~|233~|234~|235@|236~|237~|238~|239~|240.~|241.~|242~|243~|244~|245~|246.~|247.~|248.~|249~|250~|251~|252~|253@|254~|255~|256~|257~|258~|259~|260@|261~|262@|263~|264~|265~|266~|267~|268~|269~|270~|271~|272@|273~|274~|275~|276~|277~|278~|Akasya~|Alı Genç@|Asmalı~|Bilinmeyen12~|Bilinmeyen18~|Bilinmeyen30~|Bilinmeyen32~|Bilinmeyen33~|Bilinmeyen34~|Bilinmeyen35~|Bilinmeyen388~|Bilinmeyen39~|Bilinmeyen40~|Bilinmeyen42~|Bilinmeyen43~|Bilinmeyen44~|Bilinmeyen45~|Bilinmeyen47~|Bilinmeyen48~|Bilinmeyen49~|Bilinmeyen50~|Bilinmeyen51~|Bilinmeyen53~|Bilinmeyen55~|Bilinmeyen56~|Bilinmeyen7~|Bülbül~|Bılınmeyen1000~|Bılınmeyen11~|Cengiz Topel@|Ceylan~|Değirmen~|Doğan~|Doğan1~|Fener~|Harman~|Hilal~|Kahya~|Kaleler@|Kanarya~|Liman~|Lokman~|Mehmet Emin Bekaroğlu~|Menderes@|Meydan~|Nato@|Okul~|Pınar~|Pırnal~|Sahil@|Soğuksu@|Taşlı~|Taşlı/1~|Uzun~|Zeytinci~|Zeytinlik/1~|Zeytinlik_1~|Zübeyde Hanım@|Zübeyde Hanım1~|Şeremetdere~
+22776	Karacaali Köyü	Karacaali=
+22777	Karahamzalar Köyü	Hacıhüseyinyaylası=|Karahamzalar=
+22806	Karapürçek Köyü	Karapürçek=|Çakırlı=
+22732	Katrancı Köyü	Karayolu@|Katrancı=
+22778	Kayapınar Köyü	Kayapınar=
+22733	Kaynarca Köyü	Kaynarca=
+22797	Kazmalı Köyü	Kazmalı=
+22731	Kaşıkçıoba Köyü	Kaşıkçıoba=
+22779	Kemer Köyü	Kemer=
+22780	Kemer Köyü, Uzundere Mevkii	Uzundere=
+22821	Kepekli Köyü	Kepekli=
+22807	Kocagür Köyü	Hacıhüseyinyaylası=|Kocagür=|Örtülüce=
+22822	Koruoba Köyü	Koruoba=
+20131	Kozçeşme Köyü, Merkez Mevkii	Bademlik~|Bademlik/1~|Bademlik/2~|Bademlik/3~|Bademlik/4~|Bademlik/5~|Cumhhuriyet/10~|Cumhhuriyet/11~|Cumhhuriyet/4~|Cumhhuriyet/5~|Cumhhuriyet/6~|Cumhhuriyet/7~|Cumhhuriyet/8~|Cumhhuriyet/9~|Cumhuriyet~|Cumhuriyet/1~|Cumhuriyet/2~|Cumhuriyet/3~|Cumhuriyet/5~|Cumhuriyet/6~|Cumhuriyet/7~|Cumhuriyet2~|Danişment=|Dede~|Dumlupınar~|Fındık~|Göller~|Harmanlık~|Hasan Pehlivan~|Ihlamur~|Karakulak~|Kenar~|Kozlu~|Kozçeşme~|Kozçeşme/1~|Kozçeşme/10~|Kozçeşme/11~|Kozçeşme/2~|Kozçeşme/3~|Kozçeşme/4~|Kozçeşme/5~|Kozçeşme/6~|Kozçeşme/7~|Kozçeşme/8~|Kuruçeşme~|Kuruçeşme/1~|Kuruçeşme/11~|Kuruçeşme/2~|Kuruçeşme/3~|Kuruçeşme/4~|Kuruçeşme/5~|Kuruçeşme/7~|Köşe~|Köşe/1~|Lale~|Molla Hasan~|Ocak~|Ocak/1~|Ocak/2~|Ocak/3~|Ocak/4~|Okul~|Park~|Pazar~|Sakarya~|Salkım~|Salkım/1~|Sümbül~|Sümbül/1~|Taştepe~|Uğur~|Yıldız~|Yılmaz~|Zambak~|Çavuş Çıkmazı~|Çeşme~|Çeşme/1~|Çiğdem~|Çımbıltepe~|Çımbıltepe/1~|Çımbıltepe/2~|Çımbıltepe/3~|Çımbıltepe/4~|İncirli~|İstasyon~|İstiklal~|İstiklal/2~|İğdeli~|Şimşir~|Şimşir/1~
+22791	Osmaniye Köyü	Karayolu@|Osmaniye=
+22781	Otlukdere Köyü	Balıklıçeşme/21~|Otlukdere=
+22734	Ovacık Köyü	Karayolu@|Ovacık=
+22761	Paşaçayı Köyü	Paşaçayı=
+22798	Pekmezli Köyü	Pekmezli=
+22762	Ramazanlar Köyü	Ramazanlar=
+20126	Sakarya Mah.	201.~|202.~|203.~|204.~|205.~|206.~|207.~|208.~|209.~|210.~|211.~|213.~|214.~|215.~|216.~|217.~|218.~|219.~|220.~|221.~|222.~|223.~|224.~|225.~|227.~|229.~|231.~|233.~|235.~|239.~|241.~|301.~|302.~|305.~|306.~|308.~|309.~|310.~|311.~|312.~|313.~|314.~|315.~|316.~|317.~|318.~|319.~|320.~|321.~|322.~|323.~|324.~|325.~|326.~|327.~|328.~|329.~|330.~|331.~|332.~|333.~|334.~|335.~|336.~|338.~|Ali Doğan~|Amaç~|Arıburnu~|Ayazma@|Bahçe~|Barış@|Bayram~|Bağlar@|Cengiz Topel@|Cumru~|Dericiler@|Dr.fehmi Atabek~|Dutluk~|Eski Çan@|Fatih Sultan Mehmet%|Harmanlı@|Hasan Özden~|Kavaklık@|Kaymakam Hasan Bey~|Küçük Köprü~|Kıbrıs Şehitleri@|Mantar~|Muammer Aksoy@|Mumcukuyu=|Mustafa Çavuş~|Okul~|Rafet Gürkaynak@|Refet Sezgin@|Selvi~|Sütçü~|Turgut Özal@|Çan@|Çiftlik@|Çiçekli Dede~|Şehit Eyüp Atan@|Şehit Mehmet Özer@|Şehit Metin Borazan~|Şehit Yarbay Necdet Hoşgör@|Şehit İbrahim Akkuş@|Şirin~
+22738	Sarnıç Köyü, Ahatoba Mevkii	Ahıtoba=
+22737	Sarnıç Köyü, Gökçesu Mevkii	Gökçesu=
+22739	Sarnıç Köyü, Kazıklı Mevkii	Kazıklı=
+22740	Sarnıç Köyü, Sülünoba Mevkii	Sülünoba=
+22763	Sarıca Köyü	Dereköy=|Sarıca=
+22735	Sarıkaya Köyü	Karayolu@|Sarıkaya=
+22736	Sarısıvat Köyü	Sarısıvat=
+22741	Savaştepe Köyü	Karayolu@|Savaştepe=
+22823	Sazoba Köyü	Sazoba=
+22782	Selvi Köyü	Selvi=
+22810	Sinekçi Köyü	Aşağı=|Karayolu@|Sinekçi=
+22811	Sinekçi Köyü, Aşağı Mevkii	Aşağı=|Karayolu@
+22824	Sığırcık Köyü	Sığırcık=
+22809	Tokatkırı Köyü	Tokatkırı=
+20128	Turan Mah.	801.~|Avlan 1.çıkmazı~|Avlan~|Bademlik@|Cami~|Cengiz Topel@|Cumhuriyet Myd.|Dere~|Ece~|Gül~|Ihlamur~|Müçteba Şallı~|Narlı~|Osman Nuri Babi~|Pırnallı~|Sezai Suda@|Tan~|Tütüncü~|Ulucami~|Yünsal~|Zeytinlik~|İğdeli~|Şehit Kanibey~|Şehitlik~|Şevketbey~
+22764	Türkbakacak Köyü	Türkbakacak=
+22765	Yanıç Köyü	Cihadiye/1~|Türkbakacak=|Yanıç=
+197761	Yeniceköy Mah.	Adnan Menderes@|Ahlat~|Aksu~|Altın~|Arslan~|Asır~|Bayır~|Beste~|Beyaz~|Billur~|Canan~|Demet~|Destan~|Deste~|Dilek~|Diyar~|Duru~|Döner~|Emir~|Eren~|Ezgi~|Fatih Sultan Mehmet%|Fazilet~|Ferah~|Gazi~|Geçit~|Güneş~|Güven@|Hasret~|Hercai~|Hızır~|Kocatepe@|Kınalı~|Kızıl~|Lodos~|Meltem~|Nar~|Nergis~|Pelin~|Pelit~|Rahmet~|Ravza~|Refet Sezgin@|Saadet~|Sema~|Susam~|Tirfil~|Turna~|Turunç~|Uzunsu~|Yakut~|Yonca~|Yunus Emre@|Yüce~|Yılmaz~|Zarif~|Çağla~|Çiftlik@|Çimen~|Çiğdem~|İnci~|İpek~|Şehit Nurettin Yel@
+22825	Yenimahalle Köyü	Yenimahalle=
+20129	Yeniçiftlik Köyü, Ece Mevkii	Atatürk~|Atatürk1~|Atatürk2~|Atatürk3~|Atatürk4~|Atatürk7~|Atatürk8~|Balıklı~|Balıklı/1~|Beylik~|Cumhuriyet~|Cumhuriyet/1~|Cumhuriyet/2~|Cumhuriyet/3~|Cumhuriyet/4~|Cumhuriyet1~|Cumhuriyet2~|Ece~|Ece1~|Ece2~|Geyikkırı=|Gül~|Hacıhüseyinyaylası=|Kayraklar~|Kayraklar1~|Kayraklar2~|Kayraklar2111~|Kayraklar3~|Kayraklar4~|Kayraklar5~|Kışla~|Kışla1~|Kışla111~|Kışla2~|Kışla3~|Kışla4~|Kışla5~|Kışla6~|Kışla8~|Lale~|Lofca~|Lofca/1~|Mustafa Savaşkan Paşa~|Mustafa Savaşkan Paşa/1~|Pazar~|Pazar/1~|Pazar/2~|Pazar/4~|Pazar1~|Pazar11~|Plevne~|Plevne/2~|Plevne1~|Pusatlı Hüseyin Çavuş~|Pusatlı Hüseyin Çavuş1~|Pusatlı Hüseyin Çavuş11~|Pusatlı Hüseyin Çavuş2~|Pusatlı Hüseyin Çavuş3~|Pusatlı Hüseyin Çavuş4~|Sağlık-~|Stadyum~|Stadyum1~|Stadyum2~|Stadyum3~|Stadyum5~|Stadyum55~|Stadyum6~|Yeni Çiftlik35~|Çevre~|Çevre1~|Çevre2~|Çiftlik~|Çukur Çeşme~
+22747	Yeşilköy Köyü	Yeşilköy=
+22748	Yolindi Köyü	Yolindi=
+22793	Yukarıdemirci Köyü	Aşağıdemirci=|Karayolu@|Yukarıdemirci=
+22801	Çakırlı Köyü	Çakırlı=
+22802	Çakırlı Köyü, Çınarlı Tarla Mevkii Mevkii	Tarlamevki=
+197763	Çavuşköy Mah.	Arap Dede~|Arı~|Aşık Dede~|Badem~|Başak~|Bereket~|Ceylan~|Darı~|Derviş~|Ekin~|Hasat~|Hünnap~|Karaca~|Küçük~|Mehmet Akif Ersoy@|Mimar Sinan@|Ozan~|Poyraz~|Salkım~|Seda~|Sefa~|Sokullu Mehmet Paşa@|Stadyum@|Toprak~|Çeltik~|İncir~|Şehit Bilal Çavuş~
+22769	Çelikgürü Köyü	Çanakkale Bursa@|Çelikgürü=
+22754	Çeltik Köyü	Geredelli=|Çeltik=
+22785	Çeşmealtı Köyü	Çeşmealtı=
+22755	Çömlekçi Köyü	Çömlekçi=
+22770	Çınardere Köyü	Balıklıçeşme/21~|Hisarlı=|Çanakkale Bursa@|Çelikgürü=|Çınardere=
+22786	Çınarköprü Köyü	Çınarköprü=
+22808	Örtülüce Köyü	Örtülüce=
+22720	İdriskoru Köyü, Köyiçi Mevkii	Biga/11~|Cumhuriyet/2~|Karayolu@|Köy İçi=
+22721	İdriskoru Köyü, Küçükköy Mevkii	Karayolu@|Küçükköy=
+22820	İlyasalan Köyü	İlyasalan=
+22723	İskender Köyü	İskender=
+20125	İstiklal Mah.	Akasya~|Ali Doğan~|Atatürk@|Ayhan Uysal@|Aşir Atlı Paşa@|Bandırma@|Bağ Evleri=|Cengiz Topel@|Ceşme~|Cumhuriyet Myd.|Defne~|Düz~|Eski Okul~|Gümüşçay@|Gürgen~|Han~|Kabağın Harmanı~|Kasaplar~|Kaymakam Hasan Bey~|Kaymakam Nurettin Bey~|Kesenkes~|Kevser Özengil@|Kurtuluş@|Köprü~|Kıbrıs Şehitleri@|Manavlar~|Merdivenli~|Meşe~|Muammer Aksoy@|Mustafa Aksekili~|Müçteba Şallı~|Sanayi 1.~|Sanayi 10.~|Sanayi 11.~|Sanayi 12.~|Sanayi 13.~|Sanayi 14.~|Sanayi 15.~|Sanayi 16.~|Sanayi 17.~|Sanayi 18.~|Sanayi 19.~|Sanayi 2.~|Sanayi 20.~|Sanayi 21.~|Sanayi 22.~|Sanayi 23.~|Sanayi 24.~|Sanayi 25.~|Sanayi 26.~|Sanayi 27.~|Sanayi 28.-~|Sanayi 29.~|Sanayi 3.~|Sanayi 30.~|Sanayi 31.~|Sanayi 32.~|Sanayi 4.~|Sanayi 5.~|Sanayi 6.~|Sanayi 7.~|Sanayi 8.~|Sanayi 9.~|Sedir~|Tabak~|Teceddüt~|Tevfik Güremen~|Uğur Mumcu@|Vişne~|Yıldız~|İnönü@|İstiklal@
+22742	Şakirbey Köyü	Şakirbey=
+22792	Şirinköy Köyü	Hacıköy=|Karayolu@|Şirinköy=
+20127	Şirintepe Mah.	401.~|402.~|403.~|404.~|406.~|408.~|414.~|419.~|421.~|423.~|425.~|427.~|429.~|451.~|452.~|453.~|454.~|455.~|456.~|457.~|459.~|461.~|463.~|465.~|501.~|502.~|503.~|505.~|508.~|509.~|510.~|511.~|512.~|513.~|514.~|515.~|516.~|517.~|518.~|519.~|520.~|521.~|522.~|523~|524.~|525~|526.~|527.~|528.~|529.~|530.~|532.~|533.~|534.~|536.~|538.~|539.~|540.~|542.~|544~|546.~|548.~|550.~|552.~|554.~|701.~|702.~|703.~|704.~|705.~|706.~|707.~|708.~|709.~|710.~|711.~|712.~|713.~|714.~|715.~|716.~|717.~|718.~|719.~|720.~|721.~|722.~|723.~|724.~|725.~|726.~|727.~|728.~|729.~|730.~|731.~|732.~|733.~|734.~|735.~|736.~|737.~|738.~|739.~|740.~|741.~|742.~|743.~|745.~|747.~|749.~|751.~|753.~|755.~|756.~|900.~|901.~|902.~|903.~|904.~|905.~|906.~|907.~|908.~|909.~|910.~|911.~|912.~|913.~|914.~|916.~|917.~|918.~|919.~|920.~|921.~|922.~|923.~|924.~|925.~|926.~|927.~|928.~|929.~|930.~|931.~|932.~|933.~|934.~|935.~|936.~|937.~|939.~|941.~|943.~|945.~|947.~|949.~|951.~|953.~|955.~|957.~|Abidin Balcı~|Ali Tutkun~|Alp~|Alparslan@|Avni Anıl~|Bahar~|Bahçelili Mehmet Çavuş@|Bandırma@|Barış Manço@|Bulut~|Cennet~|Cevher~|Deniz~|Derya~|Dost~|Doğan~|Ebru~|Elmas~|Emek~|Emirgan~|Eser~|Fatih~|Fatih Sultan Mehmet%|Fatih Terim@|Fidan~|Gonca~|Gölmeşe~|Gümüş~|Gürsel Sönmez~|Güzide~|Hilal~|Huzur~|Hürriyet~|Kamelya~|Kamil Nizam Bigalı~|Kardelen~|Kartal~|Kaya~|Kaymakam Mahmut Kaya@|Kelebek~|Koru~|Kum~|Kıbrıs Şehitleri@|Kılıçarslan@|Mevlana@|Mevsim~|Mostar~|Necip Fazıl Kısakürek@|Nehir~|Ofis~|Oya~|Petek~|Recep Potur~|Rüya~|Rüzgar~|Sakin~|Saygı~|Serap~|Sevgi~|Simge~|Tuna~|Yağmur~|Yaşam~|Yeni Erguvan~|Çamlık~|Çelik~|Çevre~|Çiçek~|İbrahim Simaiş@|İhvan~|Şahin~|Şefkat~|Şehit Alper Tunga Akan@|Şehit Doğan Kılıç@|Şehit Hakan Bayram@|Şehit Harun Tatlı@|Şehit Metin Okatan@|Şehit Müdessir Yasan@|Şehit Saadet Çakır@|Şehit Süleyman Günaslan@|Şehit Uzm.onb. Ulaş Açıkgöz@|Şehit Özgür Gençoğlu@|Şehit İbrahim Doğu@|Şehit İsmail Özkan@|Şelale~

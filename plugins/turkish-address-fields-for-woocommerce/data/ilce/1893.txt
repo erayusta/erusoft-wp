@@ -1,0 +1,42 @@
+35215	Akyapı Köyü	 Köy$
+35216	Bayır Köyü	 Köy$
+35218	Daldibi Köyü	 Köy$
+30768	Dulundas Mah.	Dulundas1=|Dulundas2=
+35219	Eğnir Köyü	 Köy$
+35220	Fındıklı Köyü	 Köy$
+35221	Gücer Köyü	 Köy$|Penaltı=|Çakıl=
+35222	Gürçalı Köyü	 Köy$
+35223	Hacıahmetoğlu Köyü	 Köy$
+35225	Hacıören Köyü, Alızsız Mevkii	 Köy$
+35224	Hacıören Köyü, Merkez Mevkii	 Köy$
+30766	Hürriyet Mah.	Hürriyet=
+35226	Kaledere Köyü	 Köy$
+35227	Karadikmen Köyü	 Köy$
+30765	Karşıyaka Mah.	Değirmendere~|Dulundas@|Hacıahmet@|Hebiloğlu~|Tepeüstü Çeşme~|Yeni Cami~|Şehit Jandarma Er Hasan Kırcı~|Şehit Pilot Üst. İsmail Düz@|Şehit Piyade Er Zekeriya Önge~|Şehit Piyade Er İlhan Yurt~|Şehit Piyade Onbaşı Zülküflü Duvarbaşı~
+35228	Kayacık Köyü	 Köy$
+35229	Kaynar Köyü	 Köy$|Münükaltı=
+35234	Koçak Köyü	 Köy$
+30761	Kurtuluş Mah.	15 Temmuz Şehitler@|Bağlar=|Değirmen Çeliği=|Hacı İbrahim@|Hayran~|Piyade Er Adem Şerbetçi~|Şehit Jandarma Er Erhan Kaleli@|Şehit Jandarma Onbaşı Adil Hışt@|Şehit Piyade Er Mesut Özkaynak~|Şehit Piyade Er Musa Karakuş~|Şehit Piyade Er Sefer Karakuş@
+30767	Kurukol Mah.	Kurukol=
+35235	Kutluca Köyü	 Köy$
+30763	Köroğlu Mah.	Köroğlu1=|Köroğlu2=
+35233	Kılıçtutan Köyü, Hüseyin Ağa Deresi Mevkii	 Köy$
+35231	Kılıçtutan Köyü, Kadil Mevkii	 Köy$
+35232	Kılıçtutan Köyü, Karabayır Mevkii	 Köy$
+35230	Kılıçtutan Köyü, Merkez Mevkii	 Köy$
+35236	Okçaören Köyü	 Köy$
+35237	Ozan Köyü	 Köy$
+35239	Pınarlı Köyü, Hotar Mevkii	 Köy$
+35238	Pınarlı Köyü, Merkez Mevkii	 Köy$
+35240	Sarpkaya Köyü	 Köy$
+35241	Taşcılar Köyü	 Köy$
+35242	Taşdemir Köyü	 Köy$
+35243	Usluca Köyü	 Köy$
+30764	Yazılar Mah.	Yazılar=
+30769	Yenice Köyü, Pazar Mevkii	Aktarlar=|Belediye=|Güvenler=|Kazım Nişli=|Konak=|Osmanağa=|İğdeyolu=|Şehit Adil Hışt=|Şehit Mesut Özkaynak=
+30770	Yenice Köyü, Pınarbaşı Mevkii	Dere=|Dertli=|Esentepe=|Gölbaşı=|Hıştlar=|Kacılar=|Kahramanlar=|Karaoğlu=|Kılıçoğlu=|Mehmet Duras=|Okul=|Recep Yazıcıoğlu=|Rıfatoğulları=|Seksenveren=|Seğmenler=|Sıraevler=|Tuzla=|Türkmenler=|Yayla=|Ünallar=|İmamlar=|İncesu=|Şehit Hasan=|Şehitler=
+198149	Yenice Köyü, İmamlar Mevkii	
+35244	Yeniköy Köyü	 Köy$|Ekmenler=|Karayatak=
+35245	Yusufeli Köyü	 Köy$
+30762	Yuvacık Mah.	Fol Bağları=|Yuvacık=
+35217	Çakılkaya Köyü	 Köy$

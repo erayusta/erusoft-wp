@@ -1,0 +1,123 @@
+77647	Aksu Köyü	 Köy$
+77646	Akçaağıl Köyü	 Köy$
+77730	Akıncı Köyü	 Köy$
+77648	Akşar Köyü	 Köy$
+77731	Arpacı Köyü	 Köy$
+77649	Arpayazı Köyü	 Köy$
+70452	Avculu Mah.	Akar~|Akarsu~|Akdeniz~|Aktuğ~|Akçay~|Akın~|Alemdar~|Alper~|Altın~|Altınay~|Altıntepe~|Anadolu~|Anıt~|Ardıç~|Ata~|Atay~|Avculu Yolu@
+77650	Aşağıakören Köyü	 Köy$
+77651	Aşağısarıca Köyü	 Köy$
+77652	Balkara Köyü	 Köy$
+77653	Balkara Köyü, Bedilli Mezrası	 Köy$
+77654	Beydeğirmeni Köyü	 Köy$
+77655	Bostancık Köyü	 Köy$
+77656	Boyalıca Köyü	 Köy$
+77657	Büyükgüzel Köyü	 Köy$
+70453	Camiiorta Mah.	Balhatun~|Bağlar~|Emin Bey~|Gökbayır~|Karanfil~|Köy Harkı~|Mehmet Akif~|Nane~|Nihal Atsız~|Sivas@|Varinli~|Yahya Kemal~|Yunus Emre~
+77658	Camili Köyü	 Köy$
+77659	Camili Köyü, Selimler Mezrası	 Köy$
+77661	Cevizli Köyü	 Köy$
+70454	Cumhuriyet Mah.	15 Temmuz Demokrasi Şehitleri~|Ak~|Ali Fuat Cebesoy~|Asi~|Büyük Menderes~|Celal Bayar~|Ceyhan~|Dicle~|Erzincan@|Gediz~|Göksu~|Kelkit~|Küçük Menderes~|Kızılırmak~|Murat Nehri~|Müştak Mutlu~|Ordu@|Sakarya~|Seyhan~|Sivas@|Türkmenistan~|Yeşilırmak~|İstanbul~|Şehit Polis Adem Başar@|Şehit Yüzbaşı F. Fazlı Taşkın~
+77666	Elmaseki Köyü	 Köy$
+77668	Elmaseki Köyü, Oyuk Mezrası	 Köy$
+77667	Elmaseki Köyü, Tandırcık Mezrası	 Köy$
+77728	Erence Köyü	 Köy$
+77669	Esenyaka Köyü	 Köy$
+77732	Eskimeşe Köyü	 Köy$
+77671	Eskitoprak Köyü	 Köy$
+77672	Eskitoprak Köyü, Bayır Mezrası	 Köy$
+77670	Eskişar Köyü	 Köy$
+77733	Gelengeç Köyü	 Köy$
+77673	Gökçekaş Köyü	 Köy$
+77743	Gökçekent Karaağaç Köyü	 Köy$
+77729	Gökçekent Köyü	 Köy$
+70455	Göllüköy Mah.	Bal~|Başak~|Buğday~|Can~|Ekin~|Göllüköy~|Yazıcıoğlu~|Yonca~|Öz~
+70456	Gönüloğlu Mah.	1. Çamlıgöze~|15 Temmuz Demokrasi Şehitleri~|2. Çamlıgöze~|3. Çamlıgöze~|Aras~|Atatürk~|Birinci@|Cengiz Topel~|Dadaloğlu~|Dr.mustafa Duman~|Erciyes Dağı~|Fevzi Çakmak@|Gelibolu~|H.ahmet Yesevi~|Harzemşah~|Kazım Karabekir@|Kırgızistan~|Kırım~|Kızıldağ~|Malazgirt~|Malkoçoğlu~|Ordu@|Osman Bey~|Osmancık~|Piri Reis~|Sakarya~|Saraybosna~|Sivas@|Su~|Türkistan~|Yurt~|Çanakkale~|Çeçenistan~|Ömer Efendi~|Ömer Seyfettin~|Ötüken~|İncesu~|İnönü~|Şehit Polis Adem Başar@|Şehit Polis İrfan Turan~
+77674	Gözköy Köyü	 Köy$
+77675	Güdeli Köyü	Konut~
+77676	Gümüştaş Köyü	 Köy$
+77677	Güneyli Köyü	 Köy$
+77734	Güngören Köyü	 Köy$
+77735	Günlüce Köyü	 Köy$
+77736	Hödücek Köyü	 Köy$
+77737	Hödücek Köyü, Bağlar Mezrası	 Köy$
+77741	Kale Köyü	 Köy$
+77738	Kale Köyü, Göynük Mezrası	 Köy$
+77739	Kale Köyü, Menekşeli Mezrası	 Köy$
+77742	Kale Köyü, Çavuşlu Mezrası	 Köy$
+77740	Kale Köyü, İsaklı Mezrası	 Köy$
+77678	Karaağaç Köyü	 Köy$
+77679	Karaağaç Köyü, Tepe Mezrası	 Köy$
+77681	Karacaören Köyü	Bina~
+77682	Karacaören Köyü, Karataş Mezrası	 Köy$
+77683	Karalar Köyü	 Köy$
+77688	Karalar Köyü, Aydınlar Mezrası	 Köy$
+77684	Karalar Köyü, Dikilitaş Mezrası	 Köy$
+77687	Karalar Köyü, Konak Mezrası	 Köy$
+77686	Karalar Köyü, Çamlıca Mezrası	 Köy$
+77685	Karalar Köyü, Çoraklık Mezrası	 Köy$
+70457	Karşıyaka Mah.	3. Selim~|4. Murat~|Abdulmecid~|Abdülhamit~|Alaybey~|Ali Kuşçu~|Alparslan~|Barbaros~|Buğrahan~|Cengiz Han~|Enver Paşa~|Fatih~|Gazi Han~|Gazi Osman Paşa@|Gazi Polis Adem Şimşek~|Genç Osman~|Hezarfen Ahmet Çelebi~|Kanuni~|Kara Murat~|Karşıbağlar~|Namık Karacaoğlu~|Oğuzhan~|Selahaddin Eyyubi~|Sultan Murat~|Sultan Reşat~|Süleyman Han~|Tiryaki Hasan Paşa~|Turgut Reis~|Ulubatlı Hasan~|Vahdettin~|Yavuz Sultan Selim~|Yıldırım Beyazıt@|Çaka Bey~
+77689	Kavşut Köyü	 Köy$
+77690	Kayadelen Köyü	 Köy$
+77692	Kekeç Köyü	 Köy$
+77693	Kekeç Köyü, Abdiler Mezrası	 Köy$
+77691	Kekeç Köyü, Hamam Mezrası	 Köy$
+77694	Kemallı Köyü	 Köy$
+70458	Kemalpaşa Mah.	1. Limon~|2. Limon~|3. Limon~|Adnan Menderes~|Akasya~|Akşemsettin~|Algül~|Ardıc~|Arif Nihat Asya~|Atatürk Çiçeği~|Avculu Yolu@|Azerbaycan~|Açelya~|Battalgazi~|Bilge Kağan~|Defne~|Ekrem Erdem%|Elma Çiçeği~|Ergenekon~|Erzincan@|Farabi~|Fesleğen~|Fuzuli~|Gazi Abdulkerim Kırca~|Gelincik~|Gonca~|Goncagül~|Gül~|Gülistan~|Günebakan~|Ihlamur~|Kamelya~|Karanfil~|Kardelen~|Karçiçeği~|Kayalar~|Kedere~|Kiraz~|Kuşburnu~|Köprübaşı~|Kırçiçeği~|Kızılcık~|Ladin~|Lale~|Leylak~|Manolya~|Melih Gazi~|Melih Şah~|Menekşe~|Mercan~|Molla Gürani~|Morgül~|Nane~|Nar Çiçeği~|Nene Hatun~|Nergiz~|Nevruz~|Nilüfer~|Ordu@|Orhan Gazi~|Orkide~|Ortanca~|Palmiye~|Papatya~|Portakal Çiçeği~|Saray~|Sarmaşık~|Selanik~|Sümbül~|Tarım~|Tokat-erzincan@|Vişne~|Yakup Kadri Karaosmanoğlu~|Yasemin~|Yıldız Çiçeği~|Zakkum 1~|Zakkum 2~|Zakkum 3~|Zakkum 4~|Zakkum 5~|Zambak~|Ziraat~|Çam~|Çavuşbaşı~|Çiğdem~|Çınar~|İğde~|Şair Baki~|Şehit Polis Kaya Demirelli~|Şeyh Edebali~
+77696	Kesikkaş Köyü	87 Köy$|Bina Köy$
+77699	Kiziryurdu Köyü	 Köy$
+77700	Kiziryurdu Köyü, Buğdaylık Mezrası	 Köy$
+77702	Kozçukur Köyü	 Köy$
+77703	Kozçukur Köyü, Sülüklü Mezrası	 Köy$
+77704	Kurugöl Köyü	 Köy$
+77744	Kuzdere Köyü	 Köy$
+77705	Küçükgüzel Köyü	 Köy$
+77697	Kızıltaş Köyü	 Köy$
+77698	Kızıltaş Köyü, Bileğli Mezrası	 Köy$
+70459	Kışlalar Mah.	Aşağı Kışla=|Başkışla=|Soymaoğlu=
+77706	Olucak Köyü	 Köy$
+77707	Polat Köyü	 Köy$
+77709	Saraycık Köyü	 Köy$
+77708	Sağpazar Köyü	 Köy$
+77710	Solak Köyü	 Köy$
+77711	Solak Köyü, Yeniköy Mezrası	 Köy$
+77745	Sökün Köyü	 Köy$
+77746	Sökün Köyü, Bağderesi Mezrası	 Köy$
+77747	Sökün Köyü, Kargın Mezrası	 Köy$
+77748	Sökün Köyü, Molla Osman Mezrası	 Köy$
+77713	Taklak Köyü	 Köy$
+77716	Taklak Köyü, Ağıl Mezrası	 Köy$
+77715	Taklak Köyü, Eskiköy Mezrası	 Köy$
+77714	Taklak Köyü, Peçene Mezrası	 Köy$
+77750	Tatar Köyü	 Köy$
+77753	Tatar Köyü, Işıklar Mezrası	 Köy$
+77752	Tatar Köyü, Katırcı Mezrası	 Köy$
+77751	Tatar Köyü, Çiftçili Mezrası	 Köy$
+77749	Taşbayır Köyü	 Köy$
+70461	Taşköprü Mah.	1. Başkaya~|1. Dikmen~|1. Emirgan~|1. Erişim~|1. Evim~|1. Fikir~|1. Fikirtepe~|1. Gökkuşagı~|1. Gökçe~|1. Gündüz~|1. Güneş~|1. Hatıra~|1. Hayri Efendi~|1. Kaptan~|1. Kartaltepe~|1. Kevser~|1. Martı~|1. Mehter~|1. Mevlana~|1. Turan~|1. Özmen~|1. Ülkü~|1. İlker~|2. Başkaya~|2. Dikmen~|2. Emirgan~|2. Erişim~|2. Evim~|2. Fikir~|2. Fikirtepe~|2. Gökkuşagı~|2. Gökçe~|2. Gündüz~|2. Güneş~|2. Hatıra~|2. Hayri Efendi~|2. Kaptan~|2. Kartaltepe~|2. Kevser~|2. Martı~|2. Mehter~|2. Mevlana~|2. Turan~|2. Özmen~|2. Ülkü~|2. İlker~|2.emirgan~|3. Başkaya~|3. Emirgan~|3. Erişim~|3. Evim~|3. Fikir~|3. Fikirtepe~|3. Gökçe~|3. Gündüz~|3. Güneş~|3. Hatıra~|3. Hayri Efendi~|3. Kartaltepe~|3. Kevser~|3. Martı~|3. Mevlana~|3. Turan~|3. Özmen~|3. Ülkü~|4. Emirgan~|4. Erişim~|4. Evim~|4. Fikir~|4. Gökçe~|4. Güneş~|4. Kartaltepe~|4. Kevser~|4. Martı~|4. Mevlana~|4. Turan~|4. Özmen~|4. Ülkü~|5. Güneş~|5. Kartaltepe~|5. Mevlana~|5. Özmen~|5. Ülkü~|6. Kartaltepe~|6. Mevlana~|6. Özmen~|6. Ülkü~|7. Özmen~|8. Özmen~|Akça~|Akıncı~|Bağlar~|Belde~|Bora~|Bursa~|Buzlukgediği~|Canik Dağı~|Celal Doğruyol~|Conk Bayırı~|Coşkun~|Damla~|Destan~|Deva~|Dilek~|Diyar~|Dolunay~|Dost~|Doğa~|Doğuş~|Dr. Kenan Bey~|Dumlupınar~|Duru~|Duyarlı~|Duygu~|Düztepe~|Ebubekir~|Ekrem Erdem%|Elif~|Emin~|Emsal~|Ensari~|Erdem~|Ersoy~|Ertuğrul Gazi~|Esentepe~|Estergon~|Fedakar~|Feza~|Gaziler~|Geçit~|Gözdağı~|Hayat~|Hergül~|Hilal~|Hürriyet~|Hüsnü Demirgüz~|Iğdır Dağı~|Kamil Doğruyol~|Karaca~|Karagöl Dağı~|Kazım Hoca~|Kumlu~|Kumru~|Kösedağ@|Köşem~|Kültür~|Kıbrıs~|Kılıçkaya~|Kısa~|Kışla~|Lojmanlar~|Meşe~|Nemrut Dağı~|Nevruz Dağı~|Orta~|Osmanlı~|Peyami Safa~|Pınar~|Rabiye~|Sabri Mutlu~|Sabır~|Sahra~|Salkım~|Sancak Tepe~|Santral~|Seda~|Sivas@|Sudem~|Süphan Dağı~|Sıla~|Toki@|Yıldız Dağı~|Çağdaş~|Çevre~|Özer~|İdeal~|İkram~|İlke~|İmar~|Şafaktepe~|Şahbazın Ömer~|Şahin Bey~
+70462	Tepeardı Mah.	Abdurahman Doğruyol~|Amasya~|Ankara~|Bağlar~|Bursa~|Erzurum~|Evliya Çelebi~|Karagöze~|Kösedağ@|Malatya~|Niğde~|Rize~|Samsun~|Sivas@|Tokat~|Yozgat~|Ziya Gökalp~|İzmir~
+77717	Türkmenler Köyü	 Köy$
+100314	Türkmenler Köyü, Abbas Mevkii	 Köy$
+77718	Türkmenler Köyü, Tapançifliği Mezrası	 Köy$
+70463	Yalnızbağlar Mah.	1. Atılgan~|1. Bahadır~|1. Göktürk~|1. Çeliktepe~|1.akay~|1.aksu~|1.aktürk~|1.akım~|1.akıncı~|1.alay~|1.avcı~|1.aydın~|1.aziz Bey~|1.bayrak~|1.demirci~|1.destan~|1.esen~|1.göktaş~|1.güzide~|1.huzur~|1.hızır~|1.sanayi~|1.ticaret~|1.yamaç~|1.çağla~|1.çelik~|1.çiftlik~|10.bayrak~|2. Atılgan~|2. Bahadır~|2. Bayrak~|2. Çeliktepe~|2.akay~|2.aksu~|2.aktürk~|2.akım~|2.akıncı~|2.alay~|2.avcı~|2.aydın~|2.aziz Bey~|2.demirci~|2.destan~|2.esen~|2.göktaş~|2.göktürk~|2.güzide~|2.huzur~|2.hızır~|2.sanayi~|2.ticaret~|2.yamaç~|2.çağla~|2.çelik~|2.çiftlik~|3. Akım~|3. Atılgan~|3. Bayrak~|3. Çeliktepe~|3.akay~|3.aksu~|3.aktürk~|3.avcı~|3.demirci~|3.esen~|3.göktaş~|3.güzide~|3.huzur~|3.hızır~|3.sanayi~|3.yamaç~|3.çağla~|3.çiftlik~|4. Bayrak~|4. Çeliktepe~|4.akay~|4.aksu~|4.aktürk~|4.atılgan~|4.demirci~|4.esen~|4.göktaş~|4.güzide~|4.sanayi~|4.çağla~|4.çiftlik~|5. Atılgan~|5. Bayrak~|5. Çeliktepe~|5.akay~|5.aksu~|5.esen~|5.göktaş~|5.güzide~|5.sanayi~|5.çiftlik~|6.akay~|6.aksu~|6.bayrak~|6.göktaş~|6.güzide~|6.sanayi~|6.çiftlik~|7. Bayrak~|7. Çiftlik~|7.sanayi~|8. Bayrak~|9.bayrak~|Abdul Vahap Gazi~|Adalet~|Adatepe~|Ahmet Ayık~|Ak Bayır~|Arif~|Arzu~|Atak~|Atmaca~|Atılım~|Ayışığı~|Aşına~|Bahçe~|Bahçesaray~|Ballıca~|Barış~|Bayındır~|Bereket~|Burç~|Buzlu~|Dağıstan~|Demet~|Derya~|Dr.mehmet Bey~|Ekrem Erdem%|Emek~|Emin Efendi~|Erciyes Dağı~|Eren~|Eyüp Sultan~|Gazi Erhan Aktaş~|Genç~|Gurbet~|Güler~|Hacı Bektaş Veli~|Hekim@|Hisar~|Karabayır~|Karlı~|Karlıdağı~|Kazim Ayan~|Kazım Karabekir@|Kervan~|Koç~|Köse Süleyman~|Kızıldağ~|Mesut~|Necip Fazıl~|Ordu@|Saraybosna~|Sarayburnu~|Sivas@|Spor~|Suak~|Sümer~|Terkeşli Yusuf~|Tokat-erzincan@|Toros Dağı~|Ulubatlı Hasan~|Veysel Karani~|Yaşar Doğu~|Yıldız~|Çamlıbel~|Çamlıdere~|Çardak~|Ömer Bey~|Özbekistan~|İbni Sina@|İmam Gazali~|Şehit Ali Eren~|Şehit Jandarma Er Bayram Yüce~|Şehit Jandarma Uzman Çavuş Onur Alkan~|Şehit Polis Hasan Koçer~|Şehit Sadi Kuzpınar~|Şehit Ömer Halis Demir~
+77755	Yamaç Köyü	 Köy$
+77756	Yaygınsöğüt Köyü	 Köy$
+77720	Yelkesen Köyü	 Köy$
+77721	Yelkesen Köyü, Mafadar Mezrası	 Köy$
+70464	Yeni Mah.	Ankara~|Aşık Veysel~|Balhatun~|Bağlar~|Emrah~|Evliya Çelebi~|Karacaoğlan~|Köroğlu~|Köy Harkı~|Mehmet Akif~|Namık Kemal~|Sezai Karakoç~|Sivas@|Ziya Gökalp~
+77722	Yeşilyayla Köyü	 Köy$
+77724	Yoncalı Köyü	 Köy$
+77725	Yukarıakören Köyü	 Köy$
+77726	Yürekli Köyü	 Köy$
+77662	Çakırlı Köyü	 Köy$
+77727	Çamlıdere Köyü	 Köy$
+70465	Çataloluk Köyü, Bakacak Mevkii	Kösedağ~
+70466	Çataloluk Köyü, Kılıçlar Mevkii	Bahçeler~|Cami~|Fevzi Çakmak~|Kösedağ~
+70467	Çataloluk Köyü, Merkez Mevkii	Ayhan~|Esentepe~|Hoca~|Karşıbağ~|Kayıkçı~|Kösedağ~|Pınar~|Yüce~|Şevki~
+70468	Çataloluk Köyü, Selpinti Mevkii	Bağlar~|Hoca Ahmet Yesevi~|Kamil~
+77663	Çitlice Köyü	 Köy$
+77664	Çitlice Köyü, Aşağıçitlice Mezrası	 Köy$
+77665	Çokrak Köyü	 Köy$
+70460	Öksülü Mah.	1. Bilge~|1. Boztepe~|1. Bulut~|1. Önder~|2. Bilge~|2. Boztepe~|2. Bulut~|2. Önder~|3. Bilge~|3. Boztepe~|3. Bulut~|3. Önder~|4. Bilge~|4. Boztepe~|4. Bulut~|4. Önder~|5. Bilge~|5. Bulut~|5. Önder~|6. Bilge~|7. Bilge~|Bahar~|Bilim~|Buluş~|Burç~|Coşar~|Ekrem Erdem%|Engin~|Keçeli~|Koçer~|Okul~|Pak~|Polat~|Timur Karabal~|Tunç~|Yeğin~|Zengin~|Çiftçi~|Öksülü@|Ömür~|Özbek~|Özgür~|Üniversite@|Şıhlı=
+77719	Üzümlü Köyü	 Köy$
+77712	Şarköy Köyü	 Köy$

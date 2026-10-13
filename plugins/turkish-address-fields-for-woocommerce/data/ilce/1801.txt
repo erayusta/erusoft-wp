@@ -1,0 +1,32 @@
+199027	15 Temmuz Mah.	400~|401~|402~|403~|404~|405~|406~|412~|414~|416~|420~|424~|426~|428~|Cumhuriyet@|Gazi@|Yusuf Sayan%
+64450	Azıklı Köyü	Azıklı=
+64449	Aşağıüçdam Köyü	Aşağıüçdam=
+199025	Bahçelievler Mah.	503~|504~|506~|530~|534~|540~|544~|548~|550~|560~|Cumhuriyet@|Kadir Has@|Kazım Karabekir@|Yusuf Sayan%
+64451	Böğürdelen Köyü	Böğürdelen=
+64452	Büvetli Köyü	Büvetli=
+64453	Dağdibi Köyü	Bahçelievler@|Dağdibi=
+60371	Düzkışla Beldesi, Bahçelievler Mah.	101~|102~|103~|105~|Bilinmeyen 1~|Bilinmeyen 3~|Bilinmeyen4~|Korkut@
+60372	Düzkışla Beldesi, Kültür Mah.	1.@|11.@|2.@|302~|303~|304~|305~|306~|308~|309~|313~|314~|317~|319~|320~|321~|Belediye%|Kanal Yolu~|Kocatarla~|Korkut@|Tarla Yolu~|Tepe Yolu~|Tren Yolu~
+60373	Düzkışla Beldesi, Yeni Mah.	11.@|2.@|204~|206~|207~|208~|209~|210~|212~|216~|303~|313~|315~|Belediye%|Bilinmeyen 4~|Bilinmeyen 6~|Bilinmeyen 7~|Bilinmeyen2~|Korkut@|Su Deposu~
+64454	Elmabulak Köyü	Elmabulak=|Hendek@
+64455	Eşmepınar Köyü	Eşmepınar=
+64456	Gökyazı Köyü	Gökyazı=
+199031	Hürriyet Mah.	712~|713~|714~|716~|750~|Cengiz Topel@|Kemal Karayel@|Murat Sefa Demiryürek@|Yusuf Sayan%|Şanlı@
+64457	Karakütük Köyü	Karakütük=
+64458	Koç Köyü	Koç=
+64459	Koğuktaş Köyü	Koğuktaş=
+60368	Kültür Mah.	302~|305~|306~|307~|308~|309~|310~|311~|316~|317~|322~|333~|334~|335~|337~|340~|345~|350~|390~|Cengiz Topel@|Elmabulak~|Gençlik@|Hendek@|Kemal Karayel@|Mevlana@|Yerkaya~|Ziya Gökalp@
+64460	Ortanca Köyü	Ortanca=
+64461	Otaç Köyü	Otaç=
+64462	Sarıbahçe Köyü	Sarıbahçe=
+60369	Sayanlar Mah.	101~|105~|106~|107~|109~|111~|120~|132~|134~|138~|140~|145~|146~|150~|152~|154~|160~|162~|168~|170~|350~|Dağdibi@|Fevzi Çakmak@|M.akif Ersoy@|Ziya Gökalp@|İbrahim Örün@
+60370	Sunay Mah.	201~|202~|203~|204~|205~|207~|209~|210~|211~|213~|214~|217~|221~|225~|Atatürk%|Cumhuriyet@|Gazi@|M.akif Ersoy@|Menderes@|Yusuf Sayan%|Ziya Gökalp@
+64463	Umurca Köyü	Umurca=
+199033	Vatan Mah.	803~|804~|810~|812~|828~|830~|832~|840~|842~|Kemal Karayel@|Murat Sefa Demiryürek@|Yusuf Sayan%|Şehit İzettin Polat@
+64464	Yarkaya Köyü	Yarkaya=
+64465	Yarkaya Köyü, Cotik Mezrası	- Köy$|Cotik=
+64467	Yarkaya Köyü, Yapraklı Mezrası	Yapraklı=
+64466	Yarkaya Köyü, Yeşildere Mezrası	Yeşildere=
+64468	Yukarıüçdam Köyü	Yukarıüçdam=
+199029	Zafer Mah.	902~|904~|906~|908~|909~|920~|929~|930~|938~|940~|942~|944~|Korkut@|Yusuf Sayan%
+199023	İstiklal Mah.	604~|606~|608~|610~|612~|614~|620~|622~|626~|628~|630~|634~|638~|639~|640~|Bahçelievler@|Cumhuriyet@|Dağdibi@|Fevzi Çakmak@|Kazım Karabekir@|Yunus Emre@|İbrahim Örün@

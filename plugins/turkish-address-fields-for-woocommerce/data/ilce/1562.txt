@@ -1,0 +1,120 @@
+196409	94 Mahallesi Mah.	1.~|10~|108~|109@|11~|110~|112~|12~|2.~|3.~|38~|4.~|5.~|6.~|7.~|8.~|9~|Aşık Mahsuni@|Aşık Veysel@|Bülent Ecevit@|Deniz@|Hasret Gültekin@|Mercan@|Tunceli@|Uğur Mumcu@
+84169	Ada Köyü	Ada=
+84170	Ada Köyü, Dağgeçe Mezrası	Dağgeçe=
+84162	Aktaş Köyü	Aktaş=
+84095	Akyayık Köyü	Akyayık=
+84097	Akyayık Köyü, Beşevler Mezrası	Beşevler=
+84096	Akyayık Köyü, İkizler Mezrası	İkizler=
+84098	Arslandoğmuş Köyü	Arslandoğmuş=
+84094	Ağaçpınar Köyü	Ağaçpınar=
+84099	Aşağıtorunoba Köyü	Aşağıtorunoba=
+182228	Aşağıtorunoba Köyü, Dumantepe Mevkii	Dumantepe=
+84100	Aşağıtorunoba Köyü, Sağlık Mezrası	Sağlık=
+182230	Aşağıtorunoba Köyü, Söğüt Mevkii	Söğüt=
+182232	Aşağıtorunoba Köyü, Yapağı Mevkii	Yapağı=
+182234	Aşağıtorunoba Köyü, Yukarıtorunoba Mevkii	Yukarıtorunbaba=
+84101	Aşlıca Köyü	Aşlıca=
+100276	Aşlıca Köyü, Elmacık Mevkii	Elmacık=
+100126	Aşlıca Köyü, Yağışlı Mevkii	Yağışlı=
+84102	Bilgeç Köyü	Bilgeç=
+84171	Burnak Köyü	Burnak=
+84172	Burnak Köyü, Tap Mezrası	Tap=
+84173	Burnak Köyü, Torişi Mezrası	Torişi=
+84163	Buzlutepe Köyü	Buzlutepe=
+84103	Büyükköy Köyü	Büyükköy=
+84174	Cevizlidere Köyü	Cevizlidere=
+183144	Cevizlidere Köyü, Biçin Mevkii	
+183146	Cevizlidere Köyü, Kazaklı Mevkii	
+84164	Doludibek Köyü	Doludibek=
+84165	Elgazi Köyü	Elgazi=
+84118	Eskigedik Köyü	Eskigedik=
+84116	Eğimli Köyü	Eğimli=
+84117	Eğrikavak Köyü	Eğrikavak=
+84175	Eğripınar Köyü	Eğripınar=
+84177	Eğripınar Köyü, Bozkıra Mezrası	Bozkıra=
+84176	Eğripınar Köyü, Güneşli Mezrası	Güneşli=
+84166	Garipuşağı Köyü	Garipuşağı=
+84122	Gözeler Köyü	Gözeler=
+84119	Gözeler Köyü, Yeniköy Mezrası	Yeniköy=
+84121	Gözeler Köyü, Yılanlı Mezrası	Erzincan@|Yılanlı=
+84120	Gözeler Köyü, Çayır Mezrası	Çayır=
+84123	Güneykonak Köyü	Güneykonak=
+84124	Güneykonak Köyü, Marteli Mezrası	Marteli=
+84167	Halitpınar Köyü	Halitpınar=
+84178	Hanuşağı Köyü	Hanuşağı=
+84180	Hanuşağı Köyü, Esenler Mezrası	Esenler=
+199341	Hanuşağı Köyü, Kızılören Mevkii	Kızılören=
+84179	Hanuşağı Köyü, Romikler Mezrası	Romikler=
+84125	Havuzlu Köyü	Havuzlu=
+139746	Havuzlu Köyü, Arzular Mevkii	Arzular=
+84126	Isıtma Köyü	Isıtma=
+84127	Işıkvuran Köyü	Işıkvuran=
+80228	Kandolar Mah.	100.@|101@|102@|103@|104~|105~|107@|18.~|19.~|20.~|21.~|22.~|23~|34.~|39~|45~|46~|47~|48~|49~|50~|51~|52~|53~|54~|55~|56~|Ali Ekber Çiçek@|Deniz@|Efkar~|Emre~|Erdem~|Erzincan@|Hozat@|Konak~|Mercan@|Muhlis Akarsu@|Munzur~|Nazım Hikmet@|Tunceli@|Yatılı Okul=|Yaşar Kemal@|Yeniköy=|Yonca~|Yunusemre@
+84161	Karaoğlan Köyü	Karaoğlan=
+84181	Karataş Köyü	Karataş=
+84182	Karayonca Köyü	Karayonca=
+84128	Konaklar Köyü	Hozat@|Konaklar=|Öveçler1=
+84129	Koyungölü Köyü	Koyungölü=
+84130	Koyungölü Köyü, Tumardı Mezrası	Köseler=|Tumardı=
+84131	Kozluca Köyü	Kozluca=
+84134	Kuşluca Köyü	Kuşluca=
+84133	Köseler Köyü	Köseler Köy Yolu=
+84132	Köseler Köyü, Tanzi Mezrası	Tanzi=
+84183	Kızık Köyü	Kızık=
+84184	Kızık Köyü, Kürederesi Mezrası	Kürederesi=
+84135	Mollaaliler Köyü	Mollaaliler=
+84136	Mollaaliler Köyü, Buvarlılar Mezrası	Buvarlılar=
+84137	Otlubahçe Köyü	Otlubahçe=
+100344	Otlubahçe Köyü, Dereiçi (tem) Mevkii	Dereiçi Tem=
+84139	Paşadüzü Köyü	Cangöz=|Paşadüzü=|Yeşilyazı@
+80229	Pulur Mah.	106~|111~|13.~|14.~|15.~|24.~|25.~|26.~|27.~|30.~|31.~|33.~|35.~|40~|41~|42~|43~|44~|Adnan Kahveci@|Atatürk@|Aziz Nesin@|Belediye@|Cangöz=|Cemal Gürsel@|Cumhuriyet@|Dere~|Elif~|Erzincan@|Gölgeli~|Gözeler~|Harman~|Hozat@|M.fevzi Çakmak@|Nesimi Çimen@|Nil~|Paşadüzü=|Santral~|Serdar~|Seyitağa~|Sümbül~|Sümbül_1~|Yeniçarşı@|Yeşilyazı@|Zambak~|Çeşme~
+84140	Sarıtosun Köyü	Sarıtosun=
+84141	Sarıtosun Köyü, Bük Mezrası	Bük=
+84142	Sarıtosun Köyü, Hopik Mezrası	Hopik=
+84185	Söğütlü Köyü	Söğütlü=
+84144	Tatuşağı Köyü	Tatuşağı=
+84145	Tatuşağı Köyü, Tağtaci Mezrası	Tağtaci=
+84146	Tepsili Köyü	Tepsili=
+84186	Topuzlu Köyü	Topuzlu=
+84188	Topuzlu Köyü, Aydınlar Mezrası	Aydınlar=
+84187	Topuzlu Köyü, Tuzluca Mezrası	Tuzluca=
+84147	Yakatarla Köyü	Yakatarla=
+84148	Yalmanlar Köyü	Yalmanlar=
+84149	Yarımkaya Köyü	Yarımkaya=
+84154	Yaylagünü Köyü	Yaylagünü=
+84153	Yaylagünü Köyü, Kazanç Mezrası	Kazanç=
+84152	Yaylagünü Köyü, Kel Hasan Mezrası	Kel Hasan=
+84151	Yaylagünü Köyü, Çavuşlu Mezrası	Çavuşlu=
+84150	Yaylagünü Köyü, Çayırdüzü Mezrası	Çayırdüzü=
+84155	Yazıören Köyü	Yazıören=
+84156	Yazıören Köyü, Babular Mezrası	Babular1=
+84189	Yenikonak Köyü	Yenikonak=
+84192	Yenikonak Köyü, Cevizli Mezrası	Cevizli=
+84193	Yenikonak Köyü, Haliller Mezrası	Haliller=
+84190	Yenikonak Köyü, Mahmutlar Mezrası	Mahmutlar=
+84191	Yenikonak Köyü, Suağzı Mezrası	Su Ağzı=
+84157	Yenisöğüt Köyü	Yenisöğüt=
+84158	Yenisöğüt Köyü, Değirmendere Mezrası	Değirmendere=|Yenisöğüt=
+84168	Yeşilyazı Köyü	Yeşilyazı=
+84160	Yoncalı Köyü	Yoncalı=
+84159	Yoğunçam Köyü	Yoğunçam=
+84194	Ziyaret Köyü	Ziyaret=
+84195	Ziyaret Köyü, Saçaklı Mezrası	Saçaklı=
+84108	Çakmaklı Köyü	Çakmaklı=
+84107	Çakmaklı Köyü, Aşağı Meşedibi Mezrası	Aşağı Meşedibi=
+84104	Çakmaklı Köyü, Aşağı Uluça Mezrası	Aşağı Uluça=|Meşedibi=
+84109	Çakmaklı Köyü, Boğaz Mezrası	Boğaz=
+84106	Çakmaklı Köyü, Meşedibi Mezrası	Aşağı Uluça=|Meşedibi=
+84105	Çakmaklı Köyü, Yukarı Uluça Mezrası	Meşedibi=|Yukarı Uluça=
+84110	Çambulak Köyü	Çambulak=
+185030	Çambulak Köyü, Balveren Mevkii	Balveren~
+84111	Çat Köyü	Çat=
+84112	Çayüstü Köyü	Çayüstü=
+183032	Çayüstü Köyü, Aydınkavak Mevkii	Aydınkavak=
+183034	Çayüstü Köyü, Söğütözü Mevkii	Söğütözü=
+84113	Çemberlitaş Köyü	Çemberlitaş=
+84114	Çemberlitaş Köyü, Yağmurlu Mezrası	Yağmurlu=
+131437	Çemberlitaş Köyü, Öğütlü Mevkii	Öğütlü=
+84115	Çöğürlük Köyü	Çöğürlük=
+84138	Öveçler Köyü	Öveçler=
+84143	Şahverdi Köyü	Şahverdi=

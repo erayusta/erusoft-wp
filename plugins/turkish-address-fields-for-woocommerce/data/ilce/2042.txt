@@ -1,0 +1,100 @@
+20939	Abdaldede Mah.	Abidinpaşa~|Bayrampaşa~|Binici~|Deve Hamamı~|Ding~|Gazi 1.çıkmaz~|Gazi@|Göksel~|Kamışlı~|Teyze~|Yedikardeş~|Yeşilbaş 1.çıkmaz~|Yeşilbaş~|Özbay~
+193975	Alabal Mah.	Alabal=|Diyarbakır Bitlis Yolu%|Güroluk Köyü İç Yolu%
+193977	Alcık Mah.	Alcık=|Alcık~|Alcık2~|Hani@|Pullutarla=|Pullutarla-=|Sapanca=
+20954	Ali Paşa Mah.	Abacı~|Arıcılar~|Ateşoğlu~|Bay~|Bağcılar 1.~|Bağcılar~|Begit~|Bel~|Binici~|Bölüm 1 2. Çıkmaz~|Bölüm 1~|Bölüm 1. Çıkmaz~|Bölüm 2~|Bölüm 2. Çıkmaz~|Bölüm~|Büyük Bölüm~|Ding~|Eski Mardin@|Eski Mardin/2%|Etinler~|Gazi@|Güney~|Güneş~|Hambeli~|Hatun Katsal 1.~|Hatun Katsal 2.~|Hatun Katsal 3.~|Hatun Katsal 4.~|Hatun Katsal 5.~|Hatun Katsal 6.~|Hatun Katsal 7.~|Hatun Katsal 7.-~|Hatun Katsal 8.~|Hıdır İlyas~|Ilgar~|Karabulut 1.~|Karabulut~|Karlı~|Kazıcı~|Kurdoğlu~|Kutlu 1.~|Kutlu 2.~|Kuyulu 1.~|Kuyulu~|Kuzu 1.~|Kuzu 2.~|Kuzu~|Köylü~|Küçük Bölüm~|Lale 1~|Simsar 1.~|Simsar~|Su 1.~|Su~|Sular~|Talu 3. Çıkmaz~|Talu 4. Çıkmaz~|Talu~|Talu-~|Turistik@|Turistik-@|Yedikardeş~|Yeni~|Yıldırım~|Çelik~|Çeşme 1.~|Çeşme~|Çukur~|Çömlekçi~|Özel~|İnce 1.~|İnce~|Şen~
+193979	Alibardak Mah.	Alibardak=|Derviş Hasan 1=|Diyarbakır Bingöl Karayolu%|Eski Diyarbakır Bingöl Karayolu%|Pirhüseyin=|Türkülü=|Ziyaret=
+193981	Arpaderesi Mah.	Arpa2~|Arpaderesi=|Diyarbakır Bingöl Karayolu%|Hacı Abdulsamet=|Sukteli=|Sukteli-=
+193973	Ağaçlıdere Mah.	Akmeşat=|Ağaçlıdere=|Balpınar=|Bostanpınar=|Dehle Pınar=|Hani@|Kartaltepe=|Kengerli=|Koyungüden=|Küçükergeçli=|Osmanköy=|Osmanköy-=|Yağmurlu=
+20969	Bahçecik Mah.	Bahçecik.=|Bozpınar=|Hacıosman=|Meşkina=|İzzettin=
+193983	Baroğlu Mah.	Baroğlu=|Yazlıktepe=
+20972	Bağpınar Mah.	Aşağı Bağpınar=|Bağpınar=|Diyarbakır Bingöl Karayolu%|Kengerlii=|Köprüaşı19~|Silvan Bulvarı / 2=|Silvan Bulvarı 1~|Silvan Bulvarı%|Yeşilli=
+193985	Beybulak Mah.	Altınpınar=|Beybulak=|Kızıltepe=|Sarıkaş=|Sarıkaş2~|Tapık=|Yayıntepe=
+193987	Bostanpınar Mah.	Aktaşlar=|Bostanpınar=|Dehle Pınar=|Hani@|Ocaklar=
+21014	Bozdemir Mah.	Bozdemir=|Boztepe=
+193989	Büyükakören Mah.	Aksalkım=|Büyükakören=|Hani@|İkikuyu=
+20955	Büyükkadı Mah.	Abdioğlu=|Baybaşin=|Bozpınar.=|Büyükkadı=|Büyükkadı9=|Delidere1=|Hani@|Karamaki-=|Kavşan Yolu@|Kervanpınar. 1~|Kervanpınar.=
+20940	Cami Kebir Mah.	Akıncılar~|Bay Fevzi~|Bezciler 1.~|Bezciler 1.geçit~|Bezciler~|Buğday Pazarı.~|Cendere~|Gazi@|Hami~|Kazancılar~|Melikahmet@|Merdivenli~|Meyveciler~|Müze 1.çıkmaz~|Müze~|Pamukçu~|Pirinççiler~|Saman Pazarı~|Sipahi~|Telgrafhane~|Telğrafhane-~|Tulgar~|Uluğlar~|Yeni Han~|Yeni Çarşı~|Yücel~|Ziya Gökalp~|Çakmakçılar~|Çarşı Hamam~|Çaycılar~
+20941	Cami Nebi Mah.	Acar~|Amid~|Baran~|Cihan~|Eğri~|Gazi@|Güllü 1.çıkmaz~|Güllü~|Hz.süleyman@|Karaman~|Karaozan 1.çıkmaz~|Karaozan~|Konyar~|Kıbrıs 1.çıkmaz~|Kıbrıs 2.çıkmaz~|Kıbrıs 3.çıkmaz~|Kıbrıs@|Kısa~|Manav~|Nebioğlu~|Suakar 1.çıkmaz~|Suakar~|Sütçü~|Telgrafhane 1.çıkmaz~|Telgrafhane~|Yazgan~|Yoğurtçu~|Yıldız.~|Ziya Gökalp 1.çıkmaz~|Ziya Gökalp~|Çiftçi~|Önen 1.çıkmaz~|Önen~|İnönü 1.çıkmaz~|İnönü 2.çıkmaz~|İnönü@|İskenderpaşa~
+20942	Cemal Yılmaz Mah.	Aşağı Saman~|Barutçu~|Deveci~|Dutlu Pınar~|Ekmek~|Ekmekçi~|Engin~|Eski Mardin@|Gazi@|Gümrük~|Hüsrev Paşa~|Kiremit~|Muallak~|Reşitoğlu~|Saloz~|Yukarı Saman~|Yıkıkkaya~|Çeperli~|Çizmeci~|Çukurlu 1.çıkmaz~|Çukurlu 2.çıkmaz~|Çukurlu 3.çıkmaz~|Çukurlu~|Çukurlu-~|Şair Sırrı~
+20943	Cevat Paşa Mah.	Acar~|Daracık~|Direkhane~|Doğru~|Dr.yusuf Azizoğlu@|Elazığ%|Eski Ziraat Bankası~|Gazi@|Gürkan~|Hz.süleyman 1.çıkmaz~|Hz.süleyman@|Karaman 1.çıkmaz~|Karaman 2.çıkmaz~|Karaman~|Kozlu 1.sokak~|Kozlu~|Kozlu-~|Nebioğlu~|Nişeci~|Taşçı~|Varol 1.~|Velikethüda 1.çıkmaz~|Velikethüda~|Yardımcı~|Yazgan~|Yiğit Ahmet~|Yıldız.~|Çelikmen 1 1.çıkmaz~|Çelikmen 1~|Çelikmen~|Çubukçu 1.çıkmaz~|Çubukçu~|İçkale 1.~|İçkale 2 1.çıkmaz~|İçkale 2.~|İçkale 3.~|İçkale 4.~|İçkale 5.~|İçkale 6.~|İçkale 7.~|İçkale 8.~|İçkale~|İçkurşunlu 1 1.çıkmaz~|İçkurşunlu 1.~|İçkurşunlu~
+20944	Dabanoğlu Mah.	Arman-~|Bekçi 1.çıkmaz~|Bekçi~|Bıyıklı Mehmet Paşa 1.çıkmaz~|Bıyıklı Mehmetpaşa~|Dabanoğlu 1~|Dabanoğlu 1. Çıkmaz~|Dabanoğlu 2.~|Dabanoğlu~|Develi~|Direkhane~|Direkhane-~|Eski Yoğurt Pazarı~|Eski Ziraat Bankası~|Gazi@|Güven~|Hz.süleyman@|Kadı Camii 1.~|Kadı Camii~|Kuyumcular~|Küçük Karataş~|Marangozlar~|Miraz~|Orta Karataş~|Söğütlü 1~|Söğütlü 1.çıkmaz-~|Söğütlü~|Süleyman Nazif~|Tuzlu~|Tütenk~|Uğurlu Meydan 1~|Uğurlu Meydan 1.çıkmaz~|Uğurlu Meydan 2.çıkmaz~|Uğurlu Meydan~|Varol~|Yiğit Ahmet~|Yukarı Karataş~|Çakmak~|Çelikmen 1~|Çiftehan~|Çiçekçi~|İbrahim Bey~|İçkurşunlu~
+193995	Dervişhasan Mah.	Derviş Hasan 1=|Dervişhasan=|Diyarbakır Bingöl Karayolu%|Doğanlar=
+21011	Dicle Mah.	3001.~|3002.~|3003.~|3004.~|3005.~|3005/1~|3006.~|3007.~|3008.~|3009.~|3010.~|3011.~|3012.~|3013.~|3014.~|3015.~|3016.~|3017. 1~|3017.~|3017/1.~|3018.~|3019.~|3020.~|3021.~|3021./1~|3022.~|3023.~|3024.~|3025.~|3026.~|3027.~|3028.~|3029.~|3030.~|3031.~|3032.~|3033.~|3034.~|3035.~|3036.~|3037.~|3038.~|3039.~|3040.~|3041.~|3041/1~|3041/2~|3041/2.~|3042.~|3043.~|3044.~|3044.-~|3045~|3046.~|3048.~|3049.~|3050.~|3051~|3051/1~|3052.~|3054.~|3054./1~|3054/1.~|3056.~|3058.~|3060~|3062~|3064.~|3066.~|3068.~|3070.~|3072~|3074.~|3076~|3078~|3080.~|3082.~|3084.~|3084./1~|3086.~|3088.~|3090.~|3092.~|3094.~|3094.-~|3094/1~|3096~|Amidiye@|Amidiye-=|Amidiye/1~|Bozdemir=|Bozdemir Yolu@|Eski Silvan@|Hoca Ahmet Yesevi@|Kabi 1.~|Kabi@|Karşıyaka@|Kavs@|Kavs-2@|Kavs/1~|Kelçeşme@|Kırklar Dağı@|Lise@|Lise./1~|Merwani .@|Merwani / 1=|Meya Farqin / 2~|Meya Farqin /3~|Meya Farqin@|Meya Farqin/1~|Mezarlık 1.~|Mezarlık@|Naci@|Naci-@|Seyfülmülük 1@|Seyfülmülük 2.~|Seyfülmülük@|Seyfülmülük/1~|Seyfülmülük/2~|Yibo 1.~|Yibo@|İmar Yolu~
+193997	Doğanlı Mah.	Doğanlı=|Doğanlı-=|Hani@|Sungur=|Sungur-=|Tuğrul=
+20973	Doğu Çanakçı Mah.	Arapoğlu=|Doğu Çanakçı=|Güldalı=|Gültepe.=|Sazlıçökek=|Servet=|Çimen=
+193951	Dumrul Mah.	Alcık=|Bozkuş=|Bozkuş-=|Dumrul=|Dumrul-=|Düzlük=|Kardeşler=|Serçe=|Serçe-=
+20956	Erimli Mah.	Diyarbakır Erimli Yolu=|Erimli=|Erimli-=|Hani@
+193999	Eryolu Mah.	Eryolu=
+20957	Esenbağ Mah.	Esenbağ=|Esenbağ/1=|Pulur=
+20945	Fatihpaşa Mah.	Ahmet Arif~|Altay~|Büklüm~|Bıyıklı Mehmetpaşa 1.çıkmaz-~|Bıyıklı Mehmetpaşa~|Ceylan~|Deniz~|Direkhane 1~|Direkhane 1.çıkmaz~|Direkhane 2~|Direkhane 3~|Direkhane 4~|Direkhane 5~|Direkhane~|Elçi~|Eski Mardin@|Fatih~|Göçmen~|Gülhan~|Hacı Nuri~|Hamam 1.~|Hamam 1.çıkmaz~|Hamam~|Hatun Katsal 8.~|Işıklar~|Karakol Geçit~|Katır Pınar~|Kaya~|Ketenci 1.~|Ketenci 1.çıkmaz~|Ketenci~|Kurşunlu~|Nehir~|Odun Pazarı 1.çıkmaz~|Odun Pazarı 2.çıkmaz~|Odun Pazarı~|Paşa Hamamı~|Topaloğlu~|Yeni Bahçe 1.~|Yeni Bahçe~|Yeni Kapı 1.çıkmaz~|Yeni Kapı~|Yenikapı 1.~|Yıkıkkaya~|Yılmaz~|Çiniciler-~|Çiçek 1 Geçit~|Çiçek 1 Çıkmaz~|Çiçek~|Özdemir 1.~|Özdemir 2.~|Özdemir 3.~|Özdemir 4.~|Özdemir 5.~|Özdemir 6.~|Özdemir~|Üçok 1.çıkmaz~|Üçok~|İçkurşunlu~|Şaloğlu~
+194037	Fidanlar Mah.	Fidanlar=
+20979	Gencan Mah.	Gencan=
+20970	Gölpınar Mah.	Gölpınar=|Gölpınar-=
+194041	Gültepe Mah.	Gültepe=|Gültepe-=
+20971	Hacıosman Mah.	Doğu Çanakçı=|Hacıosman=|Hanefi=|Hızırilyas=
+194001	Harmanlar Mah.	Altınpınar 1~|Barış=|Beybulak=|Harman~|Harmanlar=|Kazı=|Yeşilvadi=|İslamköy=
+20946	Hasırlı Mah.	Ata 1.~|Ata 1. Çıkmaz~|Ata~|Aşağı Saman~|Bahçe 1.~|Bahçe 2.~|Bahçe 3.~|Bahçe 4.-~|Bahçe~|Bahçecik~|Bardakçı 1.~|Bardakçı 10.~|Bardakçı 2.~|Bardakçı 3.~|Bardakçı 4.~|Bardakçı 5.~|Bardakçı 6.~|Bardakçı 7.~|Bardakçı 9.~|Bardakçı~|Direkhane~|Gavur Meydanı~|Hacı Mahmut 1.~|Hacı Mahmut 2.~|Hacı Mahmut 3.~|Hacı Mahmut 4.~|Hacı Mahmut~|Karababa 1.~|Karababa 2.~|Karababa~|Karadeniz 1.~|Karadeniz 2.~|Karadeniz 3.~|Karadeniz 4.~|Karadeniz 4.1.çıkmaz~|Karadeniz 5.~|Karadeniz 6.~|Karadeniz~|Kumlu~|Köprülü~|Köprülü-~|Küçük Bahçecik~|Küçük Zingilli~|Kılbaş 1.~|Kılbaş~|Leylek 1.~|Leylek 1.1.çıkmaz~|Leylek 2.~|Leylek 3.~|Leylek 4.~|Leylek 5.~|Leylek 6.~|Leylek~|Merhali 1.%|Merhali 1.~|Merhali 2.~|Merhali 3.~|Merhali 4.~|Merhali 5~|Merhali 6.~|Merhali~|Muallak~|Mıgırdiç Margosyan~|Sabuncu~|Yeni Kapı~|Yenikapı 1.~|Yenikapı 1.çıkmaz~|Yıkıkkaya 1.çıkmaz~|Yıkıkkaya~|Zağlı 1.~|Zağlı~|Zingilli 1.çıkmaz~|Zingilli~|Çeperli~|Çeperli-1.sokak~|Çizmeci~
+20958	Havacılar Mah.	Delidere-1-=|Delidere1=|Delidere2=|Hani@|Havacılar=|Havacılar1=|Çamlı Köşk=
+20980	Hızır İlyas Mah.	Hızırilyas=
+100207	Kabasakal Mah.	Kabasakal=|Meya Farqin@
+193953	Kapaklıpınar Mah.	Kapaklıpınar=
+20974	Karabaş Mah.	7049~|Güvercinevleri=|Kabasakal=|Karabaş%|Karabaş=|Karabaş-=|Meya Farqin@|Meya Farqin/1~|Taraklı=
+194003	Karacaören Mah.	Karaca2~|Karacaören=
+20959	Karaçalı Mah.	7001.~|7002.~|7003.~|7003/1.~|7003/2.~|7003/3.~|7003/4.~|7004~|7004/1~|7005~|7006.~|7007.~|7008.~|7009.~|7010.~|7012.~|7014.~|7016.~|7017~|7018~|7018/1.~|7022.~|7026.-~|7035-~|7049~|Bırkleyn@|Hani@|Hani/1.~|Hani/2.~|Kadız@|Karaçali1.~|Karaçalı=|Karaçalı2.~|Karaçalı3.~|Meya Farqin@|Silvan Bulvarı%|Silvan_2%|Taraklı Yolu@
+194005	Karaçimen Mah.	Karaçimen=|Kayalı=|Kayalı/1=|Konacık=|Çıkınlı=
+20960	Kardeşler Mah.	6112~|6113~|6118~|6119~|Kardeşlerrr=
+21012	Karpuzlu Mah.	4001. 1~|4001.~|4002.~|4003.~|4004.~|4005.~|4006.~|4007.~|4008.~|4009.~|4010.~|4011.~|4012.~|4013.~|4014.~|4014/1~|4015.~|4016.~|4017.~|Bozdemir Yolu@|Karpuzlu 1~|Karpuzlu 2~|Karpuzlu@|Seyfülmülük 1@|Yeni Mardin.%
+194007	Karpuztepe Mah.	Karpuztepe=|Yedi Kardeş=|Yedi Kardeş-=
+193955	Kartaltepe Mah.	Kartaltepee=
+194009	Kavaklıbağ Mah.	Alakarga=|Değirmentepe=|Diyarbakır Bingöl Karayolu%|Hacı Yusuf=|Kavaklıbag~|Kavaklıbağ=
+194011	Kayayolu Mah.	Doğu Akmeşat=|Kayayolu=|Konacık%
+193969	Kengerli Mah.	Diyarbakır Bingöl Karayolu%|Kengerli2~|Kengerlii=|Silvan Bulvarı%|Yazılıpınar=
+21013	Kervanpınar Mah.	22000.~|Cami@|Cami/1.~|Cami/2.~|Cami/3.~|Cami/4.~|Diyar=|Kahve@|Kahve/1.~|Kahve/2.~|Kahve/3.~|Kervanpınar 1~|Kervanpınar 1/1.~|Kervanpınar 1/2.~|Kervanpınar 2.~|Kervanpınar=|Kervanpınar~|Sarı22~|Sarılar.@|Sarılar/1.~|Sarılar/2.~
+194013	Konacık Mah.	Efendi=|Kayalı=|Konacık%|Konacık=|Malyazı=|Mecnesar=|Mecnesar2~
+194015	Koyungüden Mah.	Ataşlar=|Koyungüden=|İncedal=
+21015	Kozan Mah.	Kozan=|Sati Eski Bismil@|Sati Eski Bismil2~
+194017	Kumluçat Mah.	Diyarbakır Bingöl Karayolu%|Kardeşlerr=|Kumlucat2~|Kumluçat=
+194019	Kumrucak Mah.	Kumrucak=
+20963	Kuşburnu Mah.	Hani@|Kavşan Yolu%|Kavşan Yolu@|Kuşburnu=|Yabacı=
+20975	Kuşlukbağı Mah.	Kuslukbagı2~|Kuşlukbağı=|Silvan Bulvarı%
+20961	Köprübaşı Mah.	Koprubası3~|Köprübaşı 1~|Köprübaşı 1.@|Köprübaşı 10~|Köprübaşı 13.~|Köprübaşı 16.karakoç~|Köprübaşı 18~|Köprübaşı 2.~|Köprübaşı 22~|Köprübaşı 3.~|Köprübaşı 4~|Köprübaşı 5-~|Köprübaşı 5..~|Köprübaşı 7.~|Köprübaşı 8-~|Köprübaşı 8.~|Köprübaşı 9-~|Köprübaşı 9.~|Köprübaşı-12(gül)-~|Köprübaşı-20(karakoç)-~|Köprübaşı.=|Köprübaşı23~|Silvan 1.~|Silvan Bulvarı%
+20962	Köşk Mah.	Köşk=
+194021	Küçükakören Mah.	Alakarga=|Alakarga2~|Büyükerkeçli=|Dumrul=|Hani@|Kayalar=|Kucukak2~|Kuruçay=|Küçükakören=|Küçükergeçli=|Sutpınar~|Sütpınar=|Yeniköy=
+20964	Küçükkadı Mah.	6109~|6110~|Bırkleyn@|Hani@|Kadya@|Küçükkadı=
+21019	Kırmasırt Mah.	2001~|2001.-~|2002~|2004~|2004/1~|2005~|2006~|2007~|2008~|2009.-~|2010~|2011~|2012~|2013~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022.-~|2023~|2024~|2025.~|2026~|2027.~|2028~|2029~|2030.~|2031.~|2032.~|2033.~|Kırmasırt 1@|Kırmasırt 2@|Kırmasırt 4@|Kırmasırt-3-@|Kırmasırt-4-@|Kırmasırt/1~|Kırmasırt/10=|Kırmasırt/11~|Kırmasırt/12=|Kırmasırt/2~|Kırmasırt/3~|Kırmasırt/4~|Kırmasırt/5~|Kırmasırt/6~|Kırmasırt/7~|Kırmasırt/8~|Kırmasırt/9~|Makst2@|Mardin Yolu@|Yeni Mardin.%
+20948	Kıtılbıl Mah.	6001.~|6002.~|6003.~|6004.~|6005.~|6006.~|6007.~|6008.~|6008./1~|6009.~|6010.~|6011.~|6011./1~|6012.-~|6013.~|6014.~|6015.~|6016.~|6017.~|6018.~|6019.~|6020.~|6021.~|6022.~|6025.~|6025./1~|6026.~|6026/1-~|6026/2.~|6026/3.~|6027~|6028~|6029~|6030.~|6030/1.~|6030/2~|6030/3~|6030/4~|6031.~|6032.~|6033.~|6034.~|6035.~|6036.~|6037.~|6038~|6039.~|6039/1.~|6040.~|6040./1~|6041~|6041/1~|6041/2%|6042~|6043.~|6044.~|6045.~|6046.~|6047.~|6048.~|Diyarbakır Üniversite Köprülü Kavşağı%|Dr.yusuf Azizoğlu@|Fakülte 1@|Fakülte 1.~|Fakülte 2~|Fakülte 3~|Fakülte 3.@|Fakülte 3.sokak~|Fakülte 4~|Fakülte 5~|Fakülte 6~|Fakülte 7~|Fakülte 8%|Fakülte 8.~|Fakülte 9%|Feqiye Teyran%|Fiskaya /1~|Fiskaya@|Hayati Avşar@|Kadya@|Kongre 1.sokak%|Kongre@|Kıtıbıl~|Kıtılbıl 1~|Kıtılbıl 2~|Kıtılbıl 3~|Kıtılbıl 4~|Kıtılbıl 5~|Kıtılbıl 6~|Kıtılbıl 7~|Kıtılbıl~|Meya Farqin@|Meyremhan@|Mimarlık@|Mızgin@|Prof. Dr. Sedat Arıtürk%|Seyfeddini Amidi@|Silvan Bulvarı%|Süleyman Demirel%|Süleyman Demirel-%|Sılvan3~|Yeni Köy Yolu~|Ziraat%|Ziraat-%|İyaz Bin Ganem@
+20949	Lalebey Mah.	Ana 1.çıkmaz~|Ana 2.çıkmaz~|Ana~|Ana-~|Arıcılar~|Bağlı~|Bekir Paşa~|Bekirpaşa 1. Çıkmaz~|Bekirpaşa 2. Çıkmaz~|Bel~|Ben~|Dabak~|Dabak/1~|Deve Kaldıran~|Deve Kaldıran-~|Deve Kaldıran-1.çıkmaz-~|Devekaldıran 1.çıkmaz~|Dolap~|Dörtler 1.~|Dörtler~|Garip~|Hambeli~|Hanbeli 1.~|Kutlu 1.~|Kutlu 1.-~|Kutlu 2.~|Kutlu~|Kutlu-~|Kuyulu~|Lalebey~|Lalebey-~|Melikahmet@|Orta~|Orta-~|Puşucu 1.~|Puşucu 1.-~|Simar~|Simar-~|Su 1.~|Su~|Talu 1.çıkmaz~|Talu 2.çıkmaz~|Talu~|Tarancı 1.çıkmaz~|Tarancı~|Taslak Yol~|Taşkıran~|Turistik 1. Çıkmaz~|Turistik@|Turistik-@|Uçak~
+20950	Melikahmet Mah.	Alaca 1.çıkmaz~|Alaca~|Ana~|Azizoğlu 1.çıkmaz~|Azizoğlu 2. Çıkmaz~|Azizoğlu 3.çıkmaz~|Azizoğlu 4.çıkmaz~|Azizoğlu 5.çıkmaz~|Azizoğlu~|Balıklı 1.çıkmaz~|Balıklı~|Barış.~|Bekir Paşa~|Dabak~|Dabak/1~|Devran~|Dolapçı 1.çıkmaz~|Dolapçı~|Kesmeli~|Koyunlu~|Lalebey~|Lüleler 1.~|Lüleler 2.~|Lüleler~|Mazi 1.~|Mazi 2 1. Çıkmaz~|Mazi 2.~|Mazi 3. 1~|Mazi 3.~|Melikahmet 1 1. Çıkmaz~|Melikahmet 1.~|Melikahmet 2.~|Melikahmet 2. Çıkmaz~|Melikahmet 3.çıkmaz~|Melikahmet 4. Çıkmaz~|Melikahmet@|Melikahmet Gül Çıkmaz~|Melikahmet1~|Palu 1.~|Palu~|Tarancı 1.~|Tarancı~|Telgrafhane~|Turistik@|Yalıbahçe 1.~|Özgür~|Özgür/1~|İnönü 4.çıkmaz~|İnönü@
+193971	Mermer Mah.	Ahmetler=|Diyarbakır Bingöl Karayolu%|Eski Diyarbakır Bingöl Karayolu%|Hamuryazan=|Hızırpınarı=|Işıklar 1=|Karapınar=|Mermer=|Mermer2~|Yalçınlar=
+193957	Mermeri Mah.	Hani@|Mermeri=
+194023	Nefirtaş Mah.	Nefirtaş=
+20976	Pınardüzü Mah.	Pınardüzü=
+194039	Sapanca Mah.	Hani@|Kardeşler=|Sapanca=|Sapanca-=
+20965	Sarıkamış Mah.	Abdioğlu=|Aktaşlar=|Dürümlü=|Eski Hani-@|Hani@|Kavşanlı=|Koyungüden=|Sarı2~|Sarıkamış=|Çetiner=
+193959	Sarılar Mah.	Diyarbakır Batman .çşb@|Sarılar%|Sarılar=|Sarılar/1%
+193961	Sarıyazma Mah.	Sarıyazma=|Sarıyazma-=
+21016	Sati Mah.	Boztepe=|Sarılar%|Sati 1~|Sati 2~|Sati 3~|Sati 4~|Sati 5~|Sati 7~|Sati Cami~|Sati Dere@|Sati Eski Bismil@|Sati Eski Bismil/2~|Sati Eski Bismil1~|Sati Eski Bismil2~|Sati Eski Bismil3~|Sati Eski Bismil4~|Sati Eski Bismil5~|Sati Eski Bismil6~|Sati=|Sati Yeni@|Sati Yol Üstü@|Sati Yol Üstü1~|Sati Zorava@|Sati Zorava/1~|Sati Zorova1~|Sati Zorova2~|Sati6~|Zorava-=|Zorova=
+20951	Savaş Mah.	Ali Emiri 1.çıkmaz~|Aliemiri~|Arman-~|Buzcular 1~|Buzcular-~|Büyük Sürgü~|Bıyıklı Mehmetpaşa~|Değer~|Dicle~|Dökmeciler~|Eski Yoğurt Pazarı~|Gazi@|Göçmen~|Kazancılar 1~|Köprülü~|Köprülü-~|Küçük Kavas~|Küçük Sürgü~|Lebiboğlu~|Muallak~|Orta Kavas~|Palancılar 1.çıkmaz-~|Palancılar~|Saatçı-~|Yemeniciler~|Yeni Kapı~|Yumurtacı 1.~|Yumurtacı~|Çarkçı~|Çiftehan~|İncecik~|İshak Sukuti~|Şeftali 1.~|Şeftali~
+194027	Sayarlar Mah.	Aktepe=|Beybulak=|Gültepe=|Harmanlar=|Kardeşlerr=|Sakızcık.=|Sayarlar=
+194025	Sağdıçlı Mah.	Adem=|Adem-=|Aytıram=|Aytıram-=|Aşağı Bubyan-=|Değirmentepe=|Diyarbakır Bingöl Karayolu%|Kuşbakırköy=|Sağdıçlı=|Sağdıçlı2~|Çayırlı=|Özkaya=
+194029	Soğanlı Mah.	Alcık~|Gülçayır=|Hani@|Hani/1~|Hani/2~|Hani/3~|Hani/4~|Hani/5~|Hani/6=|Hani/7%|Hani/8~|Köprübaşı=|Soğanlı=|Soğanlı1~
+20952	Süleyman Nazif Mah.	Bayram Paşa-~|Bayrampaşa~|Deve Hamamı 1.çıkmaz~|Deve Hamamı 2.çıkmaz~|Deve Hamamı~|Deve Hamamı-~|Eski Çulcular~|Gazi@|Melikahmet@|Nalbant~|Ocak~|Sait Paşa~|Tacettin~|Tiğrel 1~|Tiğrel~
+20966	Süngüler Mah.	Süngüler=|Çetiner=
+21017	Tanoğlu Mah.	Eski Silvan-@|Meya Farqin /3~|Meya Farqin@|Sadi%|Sadi=|Sadi-=
+193963	Tezgeçer Mah.	Avşar=|Bademli=|Körpınar=|Küçük Tezgeçer=|Tezgeçer=|Yenidoğan Köyü Yolu%|Çataksu=
+194031	Yarımca Mah.	Yarımca=|Yarımca1~
+194033	Yenice Mah.	Diyarbakır Bingöl Karayolu%|Tekevler=|Yazılıpınar=|Yenice=|Şahintepe=
+193967	Yenidoğan Mah.	Yenidoğan=
+193965	Yenievler Mah.	Akhüseyin=|Daban=|Darı=|Köşkk=|Yenievler=|Yenıevler~
+20978	Yeşilköy Mah.	Silvan Bulvarı%|Silvan-%|Yeşilköy=|Yeşilköy-=
+20977	Yeşilli Mah.	Aslan=|Kaplan=|Körpınar=|Pirinçlik=|Pirinçlik-=|Yeşilli=
+21018	Yeşilvadi Mah.	1001.~|1002.~|1003.~|1004.~|1005.~|1005.1~|1006.~|1007.~|1007.-~|1008.~|1009.~|1010.~|1011.~|1012.~|1012.-~|1012./1~|1013.~|1014.~|1015.~|1016.~|1017.~|1018.~|1018.1~|1019.~|1020.~|1021.~|1022.~|1023.~|1024.~|1025~|1026.~|1027.~|1028.~|1029.~|1030.~|1031.~|1032.~|1033.~|1034.~|1035.~|1037.~|1038.~|1039.~|1040.~|1041.~|1041./1~|1041.1~|1041.2~|1041.3~|1041.4~|1041.5~|1041.6~|1042.~|1043.~|1043.2~|1043.3~|1043/4~|1044.~|1045.~|1045/1~|1045/2~|1046.~|1047.~|1048.~|1048/1~|1049.~|1050.-~|1052.~|1053.~|1053./1~|1054.~|1054.1~|1055.~|1055.1~|1056.~|1056/1~|1056/2~|1056/3~|1057~|1109.~|1110~|1116.~|Dilek Çeşmesi@|Eski Mardin Yolu@|Gaziköşk@|Gönendi=|Ovabağ 1~|Ovabağ 2~|Ovabağ@|Ovabağ-@|Yeni Mardin.%|Yeni Mardin.1~|Yeşil Dere 1.~|Yeşildere 2~|Yeşildere 2/1~|Yeşildere 3.~|Yeşildere 4.~|Yeşildere 4./1~|Yeşildere4/1~|Yeşıldere 1~|Çarıklı 1~
+20967	Yiğitçavuş Mah.	45657~|5002.~|5003.~|5004.~|5005.~|5006.~|5007.~|5007./1%|5008.~|5009.~|5010.~|5011.~|5012.~|5013.~|5014.~|5016.~|5018.~|5020.~|5022.~|5024~|5024/1~|5027~|5028~|5029~|5030~|5031~|5032~|5050~|Bırkleyn@|Eski Silvan-@|Kadya@|Kadıköy~|Kadıköy/1~|Kadıköy/2~|Kadız@|Meya Farqin@|Meya Farqin/2~|Mızgin@|Silvan Bulvarı%|Yiğit Çavuş=
+20968	Yukarıkılıçtaşı Mah.	6101~|6103~|6104~|6105~|6106~|6109~|6110~|6111~|6112~|6113~|6116~|6117~|6118~|6119~|6120~|6121.~|6122.~|6123.~|6124.~|6125.~|6126.~|6127.~|6128.~|6129.~|6130~|6131~|6132~|Aşağıkılıçtaşı=|Bırkleyn 1.sokak~|Bırkleyn@|Bıro@|Havacılar=|Kadya@|Mızgin@|Silvan Bulvarı%|Silvan Bulvarı/3~|Terkan 1.sokak~|Terkan 2.sokak~|Terkan 3.sokak~|Terkan@|Yukarıkılıçtaş=|Çayır=
+20953	Ziya Gökalp Mah.	Abacı~|Ana 1~|Ana~|Arcak~|Artıklar~|Bayrampaşa~|Deve Kaldıran~|Dörtler~|Evin~|Gökalp~|Kapulu~|Kara Camii~|Kazancılar~|Kılıççı~|Kırkdirek 1~|Kırkdirek~|Lale 1~|Lale~|Melikahmet 1.çıkmaz~|Melikahmet@|Palu 1.~|Palu~|Puşucu~|Sanay~|Sülüklü 1~|Sülüklü~|Tahtalı Kastal 1.çıkmaz~|Tahtalı Kastal~|Tahtalı Kastal-~|Tulgar~|Tuzcular~|Vehbi Muhlis Dabakoğlu~|Yalçın.~|Yeni Han~|Yeşil~|Çelik~|Çıkar~
+194035	Ziyaret Mah.	Aslantepe=|Gülhan=|Karabey=|Ziyaret=
+193949	Çataksu Mah.	Çataksu=
+193991	Çelikli Mah.	Konaklar=|Küçük Çelikli=|Ziyaret.=|Çekeman Köşkü=|Çelikli=
+193993	Çubuklu Mah.	Diyarbakır Bingöl Karayolu%|Çubuklu=
+193947	Özekli Mah.	Aksalkım=|Aksu@|Aksu/1~|Aksu/10~|Aksu/11~|Aksu/2~|Aksu/3~|Aksu/5~|Aksu/7~|Aksu/8~|Aksu/9~|Davudan=|Dilek~|Fevzi Çakmak~|Gaffar Okkan@|Güney.~|Güneş.~|Karacadağ~|Karanfil~|Kesiktaş=|Kızılay@|Kızılay/1~|Kızılay/2~|Kızılay/3~|Kızılay1~|Menekşe~|Merkez@|Merkez/1~|Merkez/2~|Merkez/3~|Merkez/4~|Merkez/5~|Merkez/6~|Merkez/7~|Sağlık@|Sağlık/1~|Sağlık/2~|Vural=|Yayıkçukur=|Yeni.~|Yeni./1~|Yenişehir@|Yenişehir/1~|Yıldız@|Yıldız/1~|Yıldız/3~|Yıldız/4~|Çamlıca~|Çiçekk~|Şehitlik~
+20947	İskenderpaşa Mah.	Artıklar~|Azizoğlu~|Büyükakar 1.çıkmaz~|Büyükakar~|Darı 1.çıkmaz~|Darı 2.çıkmaz~|Darı.~|Doğan 1.~|Doğan~|Eğri~|Kesmeli~|Küçükakar~|Palu 1.çıkmaz~|Palu~|Telgrafhane 1~|Telgrafhane 2~|Telgrafhane 2.çıkmaz~|Telgrafhane 3.çıkmaz~|Telgrafhane~|Telğrafhane/1~|Uzun 1.çıkmaz~|Uzun 2. Çıkmaz~|Uzun 3.çıkmaz~|Uzun~|Uçar~|Yalçın.~|Yalıbahçe 1-~|Yalıbahçe 1.~|Yalıbahçe 2~|Yalıbahçe 3~|Yalıbahçe 4~|Yalıbahçe~|İnönü 3.çıkmaz~|İnönü@|İskenderpaşa 1~|İskenderpaşa 1-~|İskenderpaşa 1.çıkmaz~|İskenderpaşa~|İskenderpaşa-~

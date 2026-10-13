@@ -1,0 +1,88 @@
+174247	75.yıl Mah.	Demrek=|Eniş=
+174135	Akmağara Mah.	Akmağara=|Kandilli=|Karacurun=|Tavşan=
+174161	Altınlı Mah.	Altınlı=|Çılğallı=
+174163	Argıncık Mah.	Argıncık=
+174093	Arpalı Mah.	Arpalı=
+174165	Arıkök Mah.	Arıkök=|Şanlıurfa Adıyaman@
+174095	Avlak Mah.	Avlak=|Cıbır=|Şanlıurfa Yolu@
+174137	Aylan Mah.	Aylan=|Düzdoruk=
+174131	Baltaş Mah.	Baltaş=|Yenikent=
+174097	Bağlıca Mah.	Akpınar=|Bağlıca=|Güzeldere=|Ödülalan=
+174167	Binekli Mah.	Binekli=
+174125	Biris Mah.	Taşlıdere=|Şanlıurfa Yolu@
+174139	Boztepe Mah.	Boztepe=
+174141	Budaklı Mah.	Budaklı=
+174099	Bulancak Mah.	Bulancak=|Yeniköy=|Çayırbaşı=|Çelik=
+174129	Buğluca Mah.	Buğluca=
+174143	Büyükhan Mah.	Aşağı Demircik=|Büyükhan=|Kabaklı=|Nalband Harabesi=|Yukarı Demircik=|Överler=|Şanlıurfa Gaziantep Otoyol%
+174169	Deliler Mah.	Deliler=
+174145	Denizbacı Mah.	Denizbacı=|Şanlıurfa Gaziantep Otoyol%
+174171	Dutluca Mah.	Dutluca=|Şanlıurfa Adıyaman@
+174173	Dutluk Mah.	Dutluk=
+174175	Eskin Mah.	Dsi Sitesi=|Eskin=|Eüaş Sitesi=|Selamet=|Tekin=|Şanlıurfa Adıyaman@|Şanlıurfa Adıyaman Eskin=
+80349	Fevzi Çakmak Mah.	Akgün~|Albayrak~|Arı~|Atatürk@|Ayaz 1~|Ayaz 2~|Ayaz~|Barış~|Ceylan~|Elçi 1~|Elçi~|Fevzi Çakmak1~|Gap~|Gap/1~|Gap/2~|Hastane@|Irmak~|Kavak 1~|Kavak~|Mezarlık@|Milenyum~|Naci Koloğlu- Myd.|Okul 1@|Okul 2@|Okul 3@|Okul@|P.t.t~|P.t.t.1~|Parmaksız 1~|Parmaksız 2~|Parmaksız~|Selvi 1~|Selvi~|Seven~|Susam~|Sönmez~|Toprak~|Türkmen~|Türkmen1~|Yağmur~|Yunus=|Çam~|İnönü@|Şanlıurfa@|Şen~
+174147	Gerdek Mah.	Gerdek=|Çinpolat=
+174105	Gökören Mah.	Gökören=
+80348	Gölbaşı Mah.	2001~|2003~|2004~|2006~|2007~|2009~|2015-~|Aksoy~|Atatürk@|Aydın~|Canan~|Cumhuriyet@|Damla~|Dağ~|Degirmen~|Deniz~|Dere~|Ece~|Efe~|Elagöz~|Galatasaray~|Garip~|Gül~|Güllü~|Hastane@|Karadağ~|Karataş~|Kutlu~|Lale~|Marangoz~|Mutlu~|Naci Koloğlu@|Nadir~|Olgun~|Pazar~|Polat~|Sanayi@|Sağlık~|Stadyum@|Sümbül~|Taş~|Vatan~|Yaprak~|Yazar~|Yücel~|Yılmazer~|Çalışkan~|Çeviker~
+174235	Göynik Mah.	Umutlu=
+174177	Gözenek Mah.	Ay Düzü=|Gözenek=
+174179	Hacıköy Mah.	Hacıköy=|Pınarbaşı=
+174181	Hacılar Mah.	Hacılar=
+174107	Hisarlar Mah.	Hisarlar=|Şanlıurfa Gaziantep Otoyol%
+174187	Kabacık Mah.	Kabacık~
+174109	Karaca Mah.	Boyunsuz=|Karaca=
+174191	Karacaören Mah.	Karacaören=
+174111	Karakaş Mah.	Aşağı Karakaş=|Karakaş=|Çetintaş-~|Çiftlik=|Örüce=
+174193	Karapınar Mah.	Karapınar=|Karapınar/1=|Karapınar/2=|Kavşut=|Şanlıurfa Adıyaman@
+174195	Kargılı Mah.	Kargılı=|Yıldırımlar=
+174197	Kepirce Mah.	Hayrat=|Kepirce=
+174113	Kesmetaş Mah.	Kesmetaş=|Tektaş=|Şanlıurfa Yolu@
+196673	Kevik Mah.	Alanlı=|Güvercin=
+174205	Killik Mah.	Killik=
+174209	Konuksever Mah.	Konuksever=
+174207	Koçhisar Mah.	Koçhisar=
+174243	Koçveran Mah.	Koçveran=
+174211	Köseşahin Mah.	Köseşahin=|İrce=
+174213	Küpeli Mah.	Küpeli=
+174115	Kılçık Mah.	Belikveren=|Hakbilir=|Koro=|Kılçık=|Mermer=|Tepecik=|Yıldızlı=
+174199	Kılıçören Mah.	Kılıçören=|Şeref=
+174201	Kındırali Mah.	Ağıllı=|Kındırali=
+174203	Kırağılı Mah.	Kırağılı=
+80351	Kırmızıpınar Mah.	4012~|4014~|Akan~|Arslan~|Cennet~|Diyarbakır Yolu@|Doğan~|Eren~|Esat~|Kardelen~|Kırmızıpınar Küme Evler=|Kırmızıpınar/1~|Kırmızıpınar1~|Kızılot~|Meltem~|Okul@|Pınar~|Tesis@|Timuçin~|Yaban Gülü~|Çolak~|İnönü@|Şanlıurfa@|Şanlıurfa Yolu@
+174151	Kızlar Mah.	Alimerdan=|Kızlar=|Öveçli=|İrme=
+174215	Maşuk Mah.	Maşuk=
+174217	Mülkören Mah.	Mülkören=
+174183	Narsait Mah.	Irmakboyu=|Kayaözü=
+196671	Norçin Mah.	Işınlı=
+174219	Ortatepe Mah.	Ortatepe=
+174117	Ortaören Mah.	Ortaören=
+174119	Pirhalil Mah.	Cebeli=|Konaklı=|Pirhalil=
+174189	Saluc Mah.	Kaçarsaluca=
+174153	Sağırlı Mah.	Karaağıl=|Sağırlı=
+174121	Seyitören Mah.	Karpuzlu=|Seyitören=
+174227	Soğukkuyu Mah.	Soğukkuyu=
+174229	Söğütlü Mah.	Söğütlü=
+174155	Sızan Mah.	Bugören=|Küçükburç=|Sinekli=|Sızan=
+174225	Sığırcık Mah.	Sığırcık=
+174127	Tatarhüyük Mah.	Tatarhüyük=
+174123	Taşan Mah.	Belören=|Kulanşehir=|Taşan=|Urfa Antep Karayolu%|Şanlıurfa Gaziantep Otoyol%
+174157	Tozluca Mah.	Tozluca=
+174103	Tunalı Mah.	Kuyulu=|Tunalı=
+174233	Türkmenören Mah.	Türkmenören=
+174237	Uzunburç Mah.	Uzunburç=
+174245	Yalıntaş Mah.	Yalıntaş=
+174091	Yaslıca Mah.	1 Nolu Küme Evleri=|1~|3~|601~|602=|603~|604~|605~|606~|607~|608~|608/1~|609~|610~|611~|612~|613~|614~|615~|616~|617~|618~|619~|620~|621~|622~|623~|624~|625~|626~|627~|628~|629=|630=|631~|632=|633~|634~|635~|636~|637~|638~|639~|639/1~|640~|642~|643~|644~|Altındağ@|Altındağ1-@|Aydın 1~|Ayşe Yılmaz~|Baraj 1~|Baraj Yaslıca@|Cengiz Topel@|Cengiz Topel Karşıyaka-@|Cumhuriyet 1 Myd.|Dicle~|Dikmen~|Fatih Sultan Mehmet@|Fatih Sultan Mehmet1-@|Fırat~|Gap 3@|Göçmen Yaslıca~|Güllü Yaslıca~|Karaçizmeli@|Karaçizmeli1~|Katip~|Kayalık~|Küme Evler 1=|Küme Evler 2=|Küme Evler 3=|Küme Evler 4=|Küme Evler 5=|Küme Evler 6=|Küme Evleri=|Mutlu 1~|Okul Yaslıca~|Resul~|Türkmen 1~|Türkoğlu@|Yasemin~|Yeşil Yaslıca=|Yıldırım 2~|Yılmaz 1-~|Yılmaz 2~|Çetin~|Çetin/1~|Çiçek~|Çıkmaz 1~|Çıkmaz 2~|Ümit~|İpek~|Şanlı=|Şanlıurfa Adıyaman@
+80347	Yavuz Selim Mah.	5001~|5005~|5006~|5007~|5008~|5011~|5013-~|Altın~|Aslan~|Baraj@|Bilkan~|Bostancı~|Büyük~|Büyükgöl=|Dartar~|Diken~|Diyarbakır Yolu@|Ekinci~|Emniyet@|Gökkuşağı~|Göçmen~|Gümüş~|Güngör~|Kalender~|Küçükgöl=|Menekşe~|Mezarlık@|Ofis~|Sanayi@|Sembol~|Sevdiren~|Sevgi~|Tepe~|Yibo Yolu=|Çağlar~|Çevik~|Çiftlik=|Çınar~|Üniversite~|İmamoğlu~|Şahin~|Şanlıurfa Yolu@
+174089	Yaylak Mah.	1. Özal-~|801~|802~|803~|804~|805~|806~|807~|808~|809~|810~|811~|812~|813-~|814~|815~|816~|817~|818~|819~|820~|821~|822-~|823~|824~|825-~|827~|830~|831~|832~|833~|834~|835~|837~|838~|839-~|842~|843~|844~|845~|846~|847~|848~|850~|851~|852~|853~|854~|855~|856~|857~|858~|859~|860~|861~|862~|863~|864~|865~|866~|867~|868~|869~|870~|871~|872~|873~|874~|Atatürk Yaylak@|Bahar~|Büyükdere@|Cengiz Topel 1@|Erdoğan Bayındır@|Gap 1=|Gap İnönü@|Hacılar Yolu-@|Huzur@|Kışla@|Lise~|Mahmut Yıldız@|Menderes@|Menderes İnönü-@|Mimar Sinan@|Mimar Sinan Özal-@|Molla Ali=|Okul Yaylak~|Su Deposu~|Tepe Yaylak@|Yaylak/1~|Yaylak/2~|Yaylak/3~|Yaylak/4~|Yaylak/5~|Yaylak/6~|Yaylak/7~|Yaylak/8~|Yaylak/9~|Özgürlük@|İnönü Yaylak~|İsimsiz Küme Evler=|Şıhlar Yolu~
+80350	Yeşil Ova Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1009/1~|101.~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1018~|Acar@|Akasya~|Badem~|Baraj@|Baziki 1~|Baziki 2~|Baziki@|Bağlar~|Cemre~|Donatım@|Ender~|Esen~|Furkan~|Galatasaray~|Kaya /1~|Kaya~|Lojmanlar~|Mercan~|Meşe=|Ofis~|Oymak~|Papatya~|Pazar~|Poyraz~|Sanayi@|Ufuk~|Umut~|Uğur~|Uğur/1~|Yeşil~|Yeşil/1~|Yeşilova / 1~|Yeşilova / 10~|Yeşilova / 11~|Yeşilova / 2~|Yeşilova / 5~|Yeşilova / 6~|Yeşilova / 7~|Yeşilova / 8~|Yeşiova / 4~|Yibo Yolu=|Zafer~|Çoban~|Özgür~
+174159	Zivanlı Mah.	Eğrice=|Kangıllı=|Zivanlı=
+174101	Çakmaklı Mah.	Kayagöz=|Çakmaklı=|Çiftlik=|Şanlıurfa Adıyaman@
+80346	Çatak Mah.	Devkil=|Gülbiten=|Karanfil=|Manolya=|Yaşar=
+174221	Örgülü Mah.	Örgülü=
+174223	Özgören Mah.	Kangörmez=|Yeni Köy=|Özgören=
+174241	Ürünlü Mah.	Çat=|Ürünlü=
+174239	Üçdirek Mah.	Atgüden=|Üçdirek=
+174149	İkizköy Mah.	Acar İkizköy=|Damlıca=|Erişir=|İkizköy=
+174185	İncirli Mah.	Mağaracık=|İncirli=
+174133	Şanlıavşar Mah.	Bayar Küme Evleri=|Güngördü Mezrası=|Tosun Mezrası=|Şanlıavşar B.m=
+174231	Şıhlar Mah.	Şıhlar=

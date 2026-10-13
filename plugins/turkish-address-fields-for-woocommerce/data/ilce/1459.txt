@@ -1,0 +1,143 @@
+29327	Akbudak Köyü	Akbudak=|Heybeli=|Yeni Yerleşim=
+29328	Aktaş Köyü	Aktaş=|Ötegeçe=
+29329	Aktaş Köyü, Samanlı Mezrası	Merkez=|Samanlı=
+29263	Akyünlü Köyü	Akyünlü=
+29232	Akça Köyü	Afetevleri~|Akça=
+29262	Alp Köyü	Alp=
+29352	Atma Köyü, Kızılmağara Mevkii	Kızılmağara=
+29350	Atma Köyü, Merkez Mevkii	Atma=
+29351	Atma Köyü, Çakşır Mezrası	Oğuz=|Çakşır=
+29233	Ayranpınar Köyü	Ayranpınar=
+29326	Ağaçsaray Köyü	Ağaçsaray=
+21550	Aşağıgedik Mah.	Aşağıgedik=|Aşağıgedik1=|Aşağıgedik2=
+21551	Beklimçay Mah.	Beklimçay=
+29264	Beşikli Köyü, Eski Köy Mezrası	Eski Köy=
+29265	Beşikli Köyü, Merkez Mevkii	Beşikli=
+29296	Bozoğlak Köyü, Aşağıavcılar Mezrası	Aşağıavcılar=
+29295	Bozoğlak Köyü, Merkez Mevkii	Bozoğulak Merkez=
+29298	Bozoğlak Köyü, Çat Yayla Evleri	Çat=
+29297	Bozoğlak Köyü, Çay Mevkii	Çay=
+29234	Boğaziçi Köyü, Merkez Mevkii	Afet Evleri=|Boğaziçi=
+29235	Boğaziçi Köyü, Tan'ın Komları Mevkii	Tan In Komları=
+29331	Cevizlik Köyü, Bahçe Mezrası	Bahçe=
+29332	Cevizlik Köyü, Cevizli Mezrası	Cevizli=
+29330	Cevizlik Köyü, Merkez Mevkii	Merkez=
+21552	Cirgişin Mah.	Havale Arkası=|Çirgişin=
+29237	Dedek Köyü	Dedek=
+29335	Dedeoğlu Köyü	Dedeoğlu=
+29270	Dere Köyü	Dere=
+29268	Dere Köyü, Merkez Mevkii	Merkez=
+29269	Dere Köyü, Yuvacık Mezrası	Yuvacık=
+29303	Dikyamaç Köyü, Aşağı Mevkii	Aşağı=
+29302	Dikyamaç Köyü, Merkez Mevkii	Merkez=|Yeniyerleşim=
+29301	Dikyamaç Köyü, Yazmalı Mezrası	Yazmalı=
+29304	Dikyamaç Köyü, Çay Mezrası	Çay=
+29353	Doruca Köyü	Doruca=
+29271	Doğan Köyü	Doğan=
+29325	Doğanbeyli Köyü	Doğanbeyli=|Kutluova=
+29238	Dutlu Köyü	Dutlu=
+29336	Elmalı Köyü, Aşağı Mevkii	Aşağı=
+29339	Elmalı Köyü, Kurt Bahçesi Mevkii	Kurt Bahçesi=
+29337	Elmalı Köyü, Yukarı Mevkii	Yukarı=
+29338	Elmalı Köyü, Yusuflar Mevkii	Yusuflar=
+29354	Eriç Köyü, Merkez Mevkii	Merkez=
+29272	Esimli Köyü	Esimli=
+29239	Eskibağlar Köyü	Eskibağlar=
+29307	Gediktepe Köyü, Ballı Kışla Mevkii	Ballı Kışla=
+29306	Gediktepe Köyü, Buzla Mezrası	Buzla=
+29305	Gediktepe Köyü, Merkez Mevkii	Merkez=
+29274	Gökkaya Köyü, Gökdere Mevkii	Gökdere=
+29273	Gökkaya Köyü, Merkez Mevkii	Gökkaya=
+29240	Gölkaynak Köyü	Gölkaynak=
+198145	Gölkaynak Köyü, Gindira Mevkii	Gindira Kb=
+21548	Göğüsbağı Mah.	Behiçsadi Abbasoğlu@|Göğüsbağı 1=|Göğüsbağı 2=|Göğüsbağı=
+29308	Gülbahçe Köyü	Gülbahçe=
+29312	Hakbilir Köyü	Hakbilir=
+29311	Hakbilir Köyü, Dolmabahçe Mezrası	Dolmabahçe=
+29309	Hakbilir Köyü, Merkez Mevkii	
+29310	Hakbilir Köyü, İncesu Mezrası	İncesu=
+29340	Ilgarlı Köyü	Ilgarlı=
+29317	Karaca Köyü, Aligıcikgil Mevkii	Aligıcikgil=
+29314	Karaca Köyü, Ateşler Mezrası	Ateşler=
+29316	Karaca Köyü, Cemolar Mevkii	Cemolar=
+29313	Karaca Köyü, Hacıkomu Mevkii	Hacıkomu=
+29318	Karaca Köyü, Karamustafalar Mezrası	Karamustafalar=
+29315	Karaca Köyü, Çalolar Mevkii	Çalolar=
+29241	Karadağ Köyü	Karadağ=
+29321	Kardere Köyü	Kardere=
+29320	Kardere Köyü, Aşağıavcılar Mezrası	Aşağıavcılar1=
+29319	Kardere Köyü, Merkez Mevkii	Kardere Merkez=
+21553	Karşıbağ Mah.	Karşıbağ 2=|Karşıbağ=
+29358	Kayabaşı Köyü	Kayabaşı=
+29357	Kayabaşı Köyü, Güllübağ Mevkii	Güllübağ=
+29276	Kazankaya Köyü	Kazankaya=
+29341	Kedek Köyü	Kedek=
+29342	Kedek Köyü, Gavuryurdu Mezrası	Gavuryurdu=
+29242	Kemeryaka Köyü	Kemeryaka=
+29345	Kerer Köyü, Antak Mevkii	Antak=
+29343	Kerer Köyü, Merkez Mevkii	Merkez=
+29344	Kerer Köyü, Ötegeçe Mevkii	Ötegeçe=
+29277	Konuksever Köyü	Konuksever=
+29278	Koruyolu Köyü	Koruyolu=
+29247	Koçkar Köyü, Bağlarbaşı Mevkii	Bağlarbaşı=
+29246	Koçkar Köyü, Karşıyaka Mevkii	Karşıyaka=
+29245	Koçkar Köyü, Kızılpınar Yayla Evleri	Kızılpınar=
+29243	Koçkar Köyü, Pınarbaşı Mevkii	Pınarbaşı=
+29244	Koçkar Köyü, Çay Mevkii	Çay=
+29346	Kutluova Köyü	Kutluova=
+29250	Kömür Köyü, Aşağı Mevkii	Aşağı=
+29249	Kömür Köyü, Orta Mevkii	Orta=
+29248	Kömür Köyü, Yukarı Mevkii	Yukarı=
+29280	Küplü Köyü, Cebesoy İstasyonu Mevkii	Cebesoy İstasyonu=
+29281	Küplü Köyü, Gölbaşı Mevkii	Gölbaşı=
+29279	Küplü Köyü, Merkez Mevkii	Merkez=
+29359	Kırıkdere Köyü	Kırıkdere=
+29283	Maksutuşağı Köyü, Köseler Mezrası	Köseler=
+29282	Maksutuşağı Köyü, Merkez Mevkii	Merkez=
+21554	Mektepönü Mah.	Mektepönü=|İsimsiz Yol 4=|İsimsiz Yol 5=
+29251	Mermerli Köyü	Mermerli=
+29284	Mezra Köyü	Mezra=
+29255	Muratboynu Köyü, Ağaba Mevkii	Ağaba=
+29253	Muratboynu Köyü, Kalemis Mevkii	Kalemiş=
+29252	Muratboynu Köyü, Merkez Mevkii	Merkez=
+29254	Muratboynu Köyü, Çay Mevkii	Çay=
+29285	Olukpınar Köyü, Aksakal Mezrası	Aksakal=
+29286	Olukpınar Köyü, Merkez Mevkii	Merkez=
+21555	Ortagedik Mah.	Ortagedik=
+29349	Oğuz Köyü	Oğuz=
+29256	Parmakkaya Köyü	Parmakkaya=
+21549	Pörhenkbaşı Mah.	Mektepönü=|Pörhenkbaşı=|Tanyolu Üzeri=|İsimsiz Yol 1@|İsimsiz Yol 4=
+29287	Sarıyazı Köyü	Sarıyazı=
+29323	Seringöze Köyü, Aktaş Mezrası	Aktaş=
+29324	Seringöze Köyü, Elmalı Mezrası	Elmalı=
+29322	Seringöze Köyü, Merkez Mevkii	Merkez=
+29288	Sürek Köyü	Sürek=
+29258	Tan Köyü	Tan=
+29257	Tandırbaşı Köyü	Tandırbaşı=
+29260	Taşbulak Köyü, Kuşlu Mezrası	Kuşlu=
+29259	Taşbulak Köyü, Merkez Mevkii	Merkez=
+29261	Tuzla Köyü	Tuzla=
+29289	Uluçınar Köyü	Uluçınar=
+29363	Yahşılar Köyü, Balkaya Mezrası	Balkaya=
+29364	Yahşılar Köyü, Esentepe Mevkii	Esentepe=
+29362	Yahşılar Köyü, Merkez Mevkii	Yahşiler=|Yeni Yerleşim Yeri-=
+29348	Yardere Köyü	Yardere=|Ötegeçe=
+29293	Yastıktepe Köyü, Aşağı Mevkii	Aşağı=
+29291	Yastıktepe Köyü, Kızılyazı Mevkii	Kızılyazı=
+29294	Yastıktepe Köyü, Yeniyerleşim Mevkii	Yeniyerleşim=
+29292	Yastıktepe Köyü, Yukarı Mevkii	Yukarı=
+29290	Yağca Köyü	Aksakal=|Konuksever=|Yağca=
+21556	Yukarı Mah.	Yukarı=
+29365	Yücebelen Köyü	Yücebelen=|Çay=|İstasyon=
+29266	Çakırlar Köyü, Merkez Mevkii	Çakırlar=
+29267	Çakırlar Köyü, Yukarı Çakırlar Mevkii	Yukarı Çakırlar=
+29236	Çalgı Köyü	Çalgı=
+29333	Çalıklar Köyü	Yeni Yerleşim=|Çalıklar=
+29334	Çamlıyayla Köyü	Çamlıyayla=
+21547	Çarşı Mah.	1.~|2.~|3.~|4.~|Behiçsadi Abbasoğlu@|Dr.mehmet Karahan=|F. Sultan Mehmet@|F. Sultan Mehmet1~|F. Sultan Mehmet2~|F. Sultan Mehmet3~|F. Sultan Mehmet4~|F. Sultan Mehmet5~|Gebandibi=|Havale Arkası=|Kalemiş=|Karşıbağ=|Kemal Cantürk@|Kemal Cantürk1~|Kemal Cantürk2~|Kemal Cantürk3~|Kemal Cantürk4~|Kemal Cantürk5~|Korutürk Myd.|Sultanmelik Köprüsü=|Tanyolu Üzeri=|Tugay Hatun@|Tugay Hatun1~|Tugay Hatun2~|Tugay Hatun3~|Tugay Hatun4~|Tugay Hatun5~|İstasyon Evleri=|İstasyon Üstü Evler=
+29299	Çiğdemli Köyü, Merkez Mevkii	Çiğdemli=
+29300	Çiğdemli Köyü, Çay Mezrası	Çay=
+29347	Özdamar Köyü	Özdamar=
+29275	İncedere Köyü	İncedere=
+29361	Şahintepe Köyü, Kardeşler Mezrası	Kardeşler=
+29360	Şahintepe Köyü, Merkez Mevkii	Merkez=

@@ -1,0 +1,86 @@
+20213	Abdulhalik Renda Mah.	15 Temmuz Şehitler%|A.talat Onay%|Ahenk~|Aktekke~|Ali Osman Devecioğlu-~|Alparslan Türkeş@|Ankara@|Arda@|Atmaca~|Aydın~|Aşağıpelitözü=|Ballıca=|Bayramlar~|Demiryolu~|Depo~|Deveciler~|Doğan~|Elektirikciler~|Elif@|Eser.~|Esnaflar~|Fabrika~|Fulya~|Galericiler~|Gediz~|Gelincik~|Gençler~|Hacettepe@|Hasan Fehmi Barun-~|Hatboyu~|Hazım Dağlı@|Hüseyin Bukan-~|Hızarcılar~|Iras~|Işık~|Kaan@|Kalfa~|Kamelya~|Kartal~|Kaynakcılar~|Lale~|Lalezar@|Makas Fabrikası@|Mehmet Akif Ersoy@|Mehmetcik@|Mehter~|Menekşe~|Mevlana~|Mustafa Karakuş Myd.|Müslüm Teke-~|Nergiz~|Nilüfer~|Nisa~|Olukbaşı.~|Orköy@|Pınar~|Refik Saydam@|Rıfkı Bey~|Sami Yayılkan-~|Sancak~|Sarı Gül~|Sevgi~|Seyfi Güler~|Sudan.~|Süleyman Gülşen-~|Sıtkı Aydın-~|Tahsin Öz-~|Tamirciler~|Tarla Yolu@|Toprak~|Tuggeneral Zeki Durlanık@|Ufuk~|Usta~|Yamaç~|Yanlar@|Yunus Emre@|Yusuf Tanık-~|Yılgın~|Zafer@|Çay Yolu@|Çayır~|Çağdaş~|Çekirge~|Çerçiciler~|Çilingir Fevzi Usta~|Çiçek~|Özen~|İbrahim Başar~|İlbey~|İstiklal@|Şafak~|Şehit Albay Pilot Dilaver Karsavuran@|Şehit Sadık Kızılkaya~|Şehit Uzm Çvş Yavuz Bayram@
+23203	Ahlat Köyü	Ahlat=
+20214	Aksu Mah.	Adacamii~|Aksu Adası~|Aksu Meydanı~|Arslan~|Atatürk Yolu Altı Bahçeler=|Aybüke~|Aytekin Çıkmazı~|Aşağı Çeşme~|Başak-=|Bodur~|Büyükderbent~|Dedeler~|Demiray-~|Dereağzı~|Dr.ekrem Dımbıllıoğlu~|Enes~|Eski Çeşme~|Fındık~|Habeşin Dere=|Hamidiye~|Hastane~|Hatboyu Bahçeler=|Havadar~|Hürriyet@|Kaderler~|Kanarya~|Karabudak~|Karakaya~|Karaköprü (tren Yolu Altı)=|Kastamonu@|Kuruçay~|Küçük Derbent~|Levent~|Mahi~|Mera~|Meşale Çıkmazı~|Sakarya~|Sağlıkçılar~|Serdar~|Sevilay~|Söğüt~|Sıhhıye@|Tatlı Su Adası~|Taşmescit@|Yayla@|Yukarı Çeşme~|Yurt~|Zübeyde Hanım@|Çamlıca~|Çağlar~|Çelebi~|Çeşme~|Öğretmenler~|Şaban Çevik-@|Şehit Cumali Akman~|Şehit Kd.üst Teğ.mustafa Çelik@|Şifa~
+23204	Akçavakıf Köyü	Akçavakıf=
+23205	Akören Köyü, Merkez Mevkii	Akören=
+23207	Akören Köyü, Terme Mevkii	Terme=
+23206	Akören Köyü, Zafer Mevkii	Zafer=
+23209	Alaçat Köyü, Haydam Mevkii	Haydam=
+23208	Alaçat Köyü, Merkez Mevkii	Alaçat=
+20215	Alibey Mah.	Arpacı~|Bayram~|Bayır~|Bey Çıkmazı~|Eski~|Eski Su Deposu~|Fevzi~|Garanti Çıkmazı~|Güney~|Hale~|Kamer Çıkmazı~|Karanfil Çıkmazı~|Kemer~|Keçe Kasım~|Kuşhane~|Leylak Çıkmazı~|Mecbur~|Nane Çıkmazı~|Su Deposu@|Sümer Çıkmazı~|Tepeçeşme~|Uzunyol@|Yamak~|Yeniçeşme~|Yıldız Çıkmazı~|Şehit P.er Hüseyin Şentürk~
+23213	Altınlı Köyü, Goncaoğlu Mevkii	Goncaoğlu=
+23212	Altınlı Köyü, Merkez Mevkii	Altınlı=
+23211	Alıca Köyü	Alıca=
+23220	Ayan Köyü, Merkez Mevkii	Merkez=|Tepe=
+23221	Ayan Köyü, Tepe Mevkii	Tepe=
+23202	Ağzıbüyük Köyü, Haciömer Mevkii	Haciömer=
+23200	Ağzıbüyük Köyü, Merkez Mevkii	Ağzıbüyük=
+23201	Ağzıbüyük Köyü, Mollamehmet Mevkii	Mollamehmet=
+23215	Aşağıpelitözü Köyü	Aşağıpelitözü=
+23217	Aşağıyanlar Köyü, Ballıca Mevkii	Ballıca=
+23216	Aşağıyanlar Köyü, Köy İçi Mevkii	Köy İçi=
+23218	Aşağıyanlar Köyü, Kılıçargı Altı Mevkii	Kılıçargı Altı=
+23219	Aşağıyanlar Köyü, Öz Mevkii	Öz=
+23214	Aşağıçavuş Köyü	Aşağıçavuş=
+23222	Balıbağı Köyü	Balıbağı=
+99523	Balıbağı Köyü, Tuzlağan Mevkii	Tuzlağan=
+23224	Bayındır Köyü	Bayındır=
+23223	Başeğmez Köyü	Başeğmez=
+23225	Beştut Köyü	Beştut=
+23226	Bozkır Köyü	Bozkır=
+20216	Buğday Pazarı Mah.	15 Temmuz Şehitler%|A.talat Onay%|Abdullah Tomak~|Acıçay~|Adaçayı~|Akasya~|Akik~|Akkaya~|Arda@|Atatürk%|Ayvalık~|Beşkavaklar@|Bulut@|Burçak~|Buğday~|Büklü~|Ceyda~|Dengi~|Dereotu~|Durlanık~|Efe@|Elif@|Emir@|Enginar~|Eren~|Erik~|Eşikli Aralık~|Festikan Bulvarı (küme)=|Feyza~|Gülsüm~|Güvercin~|Hardal~|Hasan Kerim Gözleme-~|Hurma~|Ihlamur~|Ilıpınar~|Kaan@|Kavrayolu~|Kavşut~|Kelemlik~|Kurşun~|Kılıç@|Limon~|Marangozlar~|Mehmet Ali Gözleme~|Mehmet Ali Gözleme-~|Mercan~|Misvak~|Nar~|Otogar İçi-=|Palamut~|Reyhan~|Salkım~|Seçil~|Somaki%|Tarçın@|Tatar~|Tere~|Terminal@|Tosya@|Vişne~|Yapraklı%|Yeşim~|Yonca~|Yıldız~|Zerafet~|Çalışanlar San.~|Çarşamba Pazarı@|Çevik~|Çimen~|Ömer Topuz@|Öztaş~|Ünürlü~|İncir~|İsmail Özdemir~|Şeftali~|Şehit Ast.sb. Yüksel Kaya~|Şehit Atilla Yazıcı~|Şehit Er Onb.ibrahim Karataş@|Şehit Eyüp Gönen@|Şehit J. Uzm.çvş. Yüksel Kapdan@|Şehit J.ast.kd.üstçvş. Serdal Uyanık~|Şehit J.kom.er Erkan Kiper~|Şehit J.kom.er Osman Aslan~|Şehit Kadir Yıldırım~|Şehit Mehmet Kazım Arar~|Şehit Mehmet Yıldırım@|Şehit Mustafa Demir@|Şehit Mustafa Uçar~|Şehit P.er Selami Işık@|Şehit Selim Çelikel~|Şehit Tevfik Pehlivan@|Şehit Uzm.çvş.yavuz Bayram@|Şehit Uğur Hiçyılmaz@|Şehit Uğur Koç@|Şehit Yüzbaşı Erol Uykusuz~|Şehit Özgür Kara~|Şimşek~
+20217	Cumhuriyet Mah.	Adnan Menderes@|Alparslan Türkeş@|Atatürk%|Attarlar~|Belediye@|Düvenciler~|Elif@|Hoşafcı~|Kapalı~|Kirmanoğlu~|Manolya~|Mehmet Emin Erişen~|Namık Kemal Parıltı@|Necati Asım Uslu@|Necip Fazıl Kısakürek~|Selahattin İnal~|Sinema~|Tevfik Fikret@|Tosya@|Vali Ayhan Çevik@|Zeki Ömer Defne~|İplik Pazarı~|Şehit Alpay Evirgen~|Şehit Emrah Ersoy~|Şehit Fatma Dönmez~|Şehit Nurettin Cinsoy~|Şehit Pilot Üst.erdem Öztürk~|Şehit Teğ.mehmet Ata~
+23234	Danabaş Köyü	Danabaş=
+23235	Dede Köyü	Dede=
+23237	Dede Köyü, Kasımağa Mezrası	Kasımağa=
+23236	Dede Köyü, Yılanlı Mezrası	Yılanlı=
+23238	Değim Köyü	Değim=
+23240	Doğantepe Köyü, Köy Merkezi Mevkii	Köy Merkezi=
+23241	Doğantepe Köyü, Yenidoğan Mevkii	Yenidoğan=
+23242	Dutağaç Köyü	Dutağaç=
+20218	Esentepe Mah.	Aktepe~|Akyol@|Bahçeler~|Başağa~|Birlik@|Camii~|Cihat Çıkmazı~|Demir~|Dere~|Doğantepe@|Eğitmen~|Fidan~|Gökçe~|Karakoç Çıkmazı~|Okullar~|Onbaşı@|Sakinler~|Tuzlu@|Çamaşırhane~|Çağlar_1~|Şehit Jandarma. Uzm.çvş. Yüksel Kapdan@
+20219	Fatih Mah.	Albayrak~|Alperen~|Arka~|Bereket~|Berke~|Ceren~|Değim Yolu@|Dilber~|Ergenekon@|Erguvan~|Esat~|Fetih~|Fetihe-@|Filiz~|Gülistan~|Harun~|Hasbak~|Huzur~|Hıdırelles~|Karaağaç~|Karamehmet~|Karayel~|Katipoğlu~|Keklik~|Kenar~|Kutlubey~|Kıbrıs@|Kırca~|Melek~|Meyan~|Mezarlık@|Molla Murat~|Nazlı~|Nilsa~|Nilsu@|Nur~|Onur~|Orta~|Panayır~|Sahil~|Salihler@|Samyeli%|Sipahi~|Tepe~|Tura~|Tuzlu Bağları=|Ulu~|Uçak Savar@|Vakıf~|Yapraklı%|Yaşar~|Yenice~|Yıldırım~|Çay~|Çöpten~|Ömer Topuz@|Ön~|Özlem@|Üniversite@|Üvez~|İsmail Ağa~|İğde~|Şehit Abdulkadir Acar.~|Şehit Ali Çalışır~|Şehit Alpaslan Bayram~|Şehit Kamil Çubuk~|Şehit Satılmış Genç~|Şehit Uzm. J. Onb. Hüseyin Efe-~|Şehit Uzman Jandarma Onbaşı Hüseyin Efe~|Şehit İlyas Aldağ~|Şerife Şaziment~|Şevval~|Şira~
+23243	Germece Köyü	Köy Sokağı=
+23239	Handırı Köyü	Handırı=
+23244	Hasakça Köyü	Hasakça=
+23245	Hıdırlık Köyü	Hıdırlık=
+23251	Karadayı Köyü, Gülburun Mevkii	Gülburun=
+23250	Karadayı Köyü, Köyiçi Mevkii	Köyiçi=
+20221	Karataş Mah.	Billurbey Çıkmazı~|Fikri Demirok@|Göçmen Evleri~|Hamamcıoğlu~|Karataş Camii~|Karataş Mektep~|Karataş Çeşme~|Kastamonu@|Kayabaşı@|Kaynak Çıkmazı~|Kayıncı~|Kısa~|Meteoroloji~|Orta Çeşme Küçük~|Orta Çeşme~|Sarmaşık Çıkmazı~|Solak~|Su Deposu@|Toprak Baba~|Tutlu~|Yeni Orman~|Yozgatlı~|İğde Çıkmazı~|İğdiroğlu Çıkmazı~|Şehit Burak Karayel~|Şehit Mustafa Yorulmaz-~
+20222	Karatekin Mah.	Acar Çıkmazı~|Akkızçalısı~|Arık~|Bal~|Boyacı~|Cimbe~|Damlamca@|Ege-~|Eski Kadınlar-~|Fidanlık~|Hayvaroğlu~|Kabaca~|Karanlık Çıkmazı~|Kavas~|Kağnıcı~|Kağnıcı Çeşme~|Kestef-~|Kireçci-~|Kırklar@|Mahsen Çıkmazı~|Mahsen Üstü Mektep~|Mahsenüstü~|Meydan~|Mezarlık@|Saatçi-~|Samanpazarı~|Tabak~|Tahta Minare~|Tahtaköprü@|Takyacı~|Tunç Çıkmazı~|Tüfekçibaşı~|Zaimoğlu~|Zambak Çıkmazı~|Çiftedibek~|Çiğdem Çıkmazı~|Çukur Çeşme~|Çınar~|İpek~|İstanbullu~|Şahin Çıkmazı~
+23252	Karaşeyh Köyü	Karaşeyh=
+23253	Kuzu Köyü	Kuzu=
+23254	Küçüklü Köyü	Küçüklü=
+20223	Kırkevler Mah.	Ayansu Evleri=|Banka Evleri~|Ceyhun.~|Delikli Kaya=|Dızlar Değirmeni Adası=|Ebru~|Emektar.~|Ersoy~|Eylül~|Furkan~|Gülmez~|Gümüş~|Ilgaz~|Karaca~|Kastamonu@|Kastamonu Şosesi~|Kelebek~|Kenbağ~|Korgun Köprüsü Adası=|Kız Çeşmesi Mevkii=|Mesut.~|Meteoroloji~|Mevsim~|Müjdeci Mevki=|Pembe~|Süt Fabrikası Altı~|Tuğçe~|Yokuş~|Şehit J.k. Onbş Mustafa Yusuf~
+23210	Merzi Köyü	Merzi=
+20224	Mimar Sinan Mah.	Akasya Çıkmazı~|Alparslan Türkeş@|Attarlar Çarşısı~|Badem Çıkmazı~|Bakırcılar~|Bayram~|Bedesten~|Büyük Cami~|Cinci-~|Cumhuriyet Mektep~|Damlamca@|Demirciler~|Dikiciler~|Ergin Çıkmazı~|Eski Su Deposu~|Güler Çıkmazı~|Hale~|Helvacı~|Hilmi Astarlızade~|Kalealtı~|Kurbantepe~|Kuşhane~|Kıyıcı~|Mağazalar~|Mehmet Emin Erişen~|Mukaddes Çıkmazı~|Necati Asım Uslu@|Pirinçciler~|Sandıkçılar~|Sebze Hali~|Semerciler~|Tahtaköprü@|Terziler~|Topcu Mahmut Çapraz~|Tüfekçi~|Uncu~|Yeni Camii~|Yeni Hal~|Çivitçi~|İmaret@|Şehit P.er Hüseyin Şentürk~|Şehit Piyade Er Hüseyin Şentürk~|Şeyhosman~
+23255	Ovacık Köyü	Ovacık=
+23256	Paşa Köyü	Paşa=
+23257	Pehlivanlı Köyü	Pehlivanlı=
+23258	Satıyüzü Köyü	Satıyüzü=
+23260	Süleymanlı Köyü, Karakışla Mevkii	Karakışla=
+23259	Süleymanlı Köyü, Süleymanlı Mevkii	Süleymanlı=
+20225	Tabakhane Mah.	Adnan Menderes@|Armutçu~|Ay Çıkmazı~|Dibek~|Fikri Demirok@|Fuat~|Güneş Çıkmazı~|Hamam~|Mehmet Tercan~|Mumcu~|Tabakhane~|Uzunyol@|Vali Ayhan Çevik@|Yasemin Çıkmazı~|Yeniyol~|Ünür~
+23265	Taytak Köyü, Kara Ciceli Mevkii	Kara Ciceli=
+23264	Taytak Köyü, Merkez Mevkii	Merkez=
+23261	Tuzlu Köyü	Tuzlu=
+198973	Tuzlu Köyü, Aşağısulu Mevkii	
+23262	Tüney Köyü	Tüney=
+140245	Tüney Köyü, Organize Sanayi Bölgesi Mevkii	1.~|Birinci@|Dördüncü@|Üçüncü@|İkinci@
+20226	Yeni Mah.	15 Temmuz Şehitler%|Ada~|Akıncılar~|Ali İnandık@|Bademlik@|Bahar~|Bağlar~|Defne~|Derbent@|Dilara~|Dutluk~|Geçit~|Hancı Emir~|Hanımsuyu~|Hilal~|Kahraman~|Kardelen~|Mehmet Akif Ersoy@|Meriç~|Mustafa Kale~|Okul~|Orkide~|Papatya~|Petek~|Sekizevler@|Selçuk~|Serhat@|Serin~|Susam~|Taha~|Tatlı Su~|Taşmescit@|Tuna~|Yaprak~|Yeşiltepe~|Yosun~|Çatal~|Çemberli~|Çemen~|Çifteminare~|Ümraniye~|İsfendiyar~|Şehit Korhan Kuruçay~|Şelale~
+23267	Yukarıpelitözü Köyü	Yukarıpelitözü=
+99510	Yukarıpelitözü Köyü, Altınova Mevkii	
+23266	Yukarıçavuş Köyü	Yukarıçavuş=
+23228	Çatalelma Köyü	Çatalelma=
+23229	Çayırpınar Köyü	Çayırpınar=
+23227	Çağabey Köyü	Çağabey=
+23232	Çivi Köyü, Dede Mevkii	Dede=
+23231	Çivi Köyü, Köy İçi Mevkii	Çivi=
+23233	Çivi Köyü, Çiftlik Mevkii	Çiftlik=
+23230	Çırçır Köyü	Çırçır=
+20227	Ünür Köyü, Merkez Mevkii	Acıdere=|Arı=|Bahçeler Çıkmazı=|Cin Ali=|Corcor=|Dik=|Diken=|Fatih=|Gül=|Höyük=|Kavak=|Kaş=|Kuyu=|Mezarlık=|Muhtar Sadık Karayel=|Oluklu=|Su Deposu=|Tanışman=|Toprak=|Yan=|Yeşil Çıkmazı=|Yiğit=|Çimen=|Ünür=|İğde=|Şehit Sadık Kızılkaya=|Şehit Selami Işık=|Şehit İlyas Aldağ=|Şehit İsmail Akdoğan=
+23248	İnandık Köyü	İnandık=
+23247	İnaç Köyü	İnaç=
+23249	İncik Köyü	İncik=
+20220	İncili Çeşme Mah.	Alaca Mescit~|Buğday Pazarı Camii~|Damak~|Durlanık~|Fenerci~|Gafiloğlu~|Kağnıcı~|Kütük~|Manici~|Mezarlık@|Sandıkçılar~|Sofu~|Tosya@|Varlık Çıkmazı@|Çatıkkaş~|Çendek~|İncili Çeşme~
+23246	İçyenice Köyü	İçyenice=

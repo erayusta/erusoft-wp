@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <product>
+    <sku>DEMO-SKU-1</sku>
+    <title>Demo Ürün 1</title>
+    <description>Örnek ürün açıklaması. Bu içerik tamamen kurgusaldır.</description>
+    <price currency="TRY">100.00</price>
+    <stock>12</stock>
+    <category>Demo Kategori &gt; Demo Alt Kategori</category>
+    <images>
+      <image>https://example.com/images/demo-1.jpg</image>
+      <image>https://example.com/images/demo-1-b.jpg</image>
+    </images>
+    <attributes>
+      <attribute name="Renk">Mavi</attribute>
+      <attribute name="Boyut">M</attribute>
+    </attributes>
+  </product>
+  <product>
+    <sku>DEMO-SKU-2</sku>
+    <title>Demo Ürün 2</title>
+    <description>İkinci örnek ürün.</description>
+    <price currency="TRY">1.250,50</price>
+    <stock>5</stock>
+    <category>Demo Kategori</category>
+    <images>
+      <image>https://example.com/images/demo-2.jpg</image>
+    </images>
+    <attributes>
+      <attribute name="Renk">Kırmızı</attribute>
+    </attributes>
+  </product>
+  <product>
+    <sku>DEMO-SKU-3</sku>
+    <title>Demo Ürün 3</title>
+    <description>Üçüncü örnek ürün.</description>
+    <price currency="TRY">59.90</price>
+    <stock>0</stock>
+    <category>Demo Kategori &gt; Diğer</category>
+    <images>
+      <image>https://example.com/images/demo-3.jpg</image>
+    </images>
+  </product>
+</catalog>

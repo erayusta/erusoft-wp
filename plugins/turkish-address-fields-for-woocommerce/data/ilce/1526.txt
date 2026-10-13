@@ -1,0 +1,72 @@
+158057	Acırlı Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129 1.geçit~|129~|130~|131~|132~|133~|134 1.çıkmaz~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143 1.çıkmaz~|143~|144~|145~|146~|147 1.geçit~|147~|148~|149~|150~|151~|152~|153~|154~|155~|156~|157~|201~|202~|203~|204~|205~|206~|207~|209~|210~|211~|212~|214~|215~|216~|217~|218~|219~|221~|223~|231~|234~|235~|238~|240~|242~|244~|246~|248~|249~|250~|252~|254~|256~|301~|302~|303~|305~|306~|307~|309~|310~|311/2~|312~|313~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|328~|329~|330~|331~|332~|333~|335~|337~|401~|403~|888~|Acırlı Yolu@|Bostan (fatih)@|Bostan@|Cumhuriyet%|Erisli Köyü Yolu~|Evliya 1.çıkmaz@|Evliya@|Eğitim@|Garaj@|Gelinkaya Yolu@|Mardin@|Mardin Çevre%|Sağlık@|Ziyaret@|İrfan@
+158069	Adaklı Mah.	Adaklı=
+59981	Akçakaya Mah.	101~|103~|104~|105~|106~|107~|108~|111~|113~|115~|116~|117~|118~|119~|120~|121~|123~|125~|126~|127~|129~|130~|131~|132~|134~|135~|136~|137~|138~|139~|141~|143~|144~|146~|147~|148~|149~|150 1.geçit~|150~|151~|152~|153~|154~|156~|157~|158~|160~|161~|162~|163~|164~|166~|168~|170~|171~|172~|173~|174~|175~|213~|217~|242~|Atatürk Bulvarı%|Cumhuriyet@|Eski Kışla@|Eğitim@|Gölbaşı@|Hazır Giyimciler@|Kocamanoğlu@|Manastır@|Ulus 1.çıkmaz@|Ulus@|Yılmazlar 1.çıkmaz@|Yılmazlar@|İbrahim Şabo Kültür Ve Sanat~|Şen@
+158073	Altıntaş Mah.	Altıntaş=
+158075	Anıtlı Mah.	Anıtlı=
+59982	Bahçelievler Mah.	419.~|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|714~|715~|716~|717~|718~|719~|720~|721~|722~|723~|724~|725~|726~|727~|728~|729~|731~|733~|735~|736~|737~|738~|739~|740~|741~|742~|743~|744~|745~|746~|747~|748~|749~|750~|751~|752~|753~|754~|755~|757~|759~|770~|779~|780~|781~|783~|Cumhuriyet Bulvarı%|Feyzullah Özcan@|Kazım Karabekir@|Mehmet Akif Ersoy@|Mezarlık@|Mezarlık/1@|Nusaybin@|Stadyum@|Zeynel Abidin Erdem%|İskenderun 1.@|Şehit Mazlum Gözenoğlu@|Şehmus Nasıroğlu@|Şentepe@
+158079	Bardakçı Mah.	Bardakçı=|Bağlarbaşı=
+158081	Barıştepe Mah.	Barıştepe=
+59983	Bağlar Mah.	12@|801~|802~|803~|804~|805~|806~|807~|808~|809~|810~|811~|812~|813~|814~|815~|816~|817~|818~|819~|820~|821~|822~|827~|829~|830~|832~|833~|834~|835~|836~|837~|838~|839~|840~|841~|842~|843~|844~|845~|846~|847~|848~|849~|851~|880~|881~|882~|883~|884=|885~|886~|888~|Cumhuriyet Bulvarı%|Mardin Çevre%|Nazım Hikmet@|Selahaddin Eyyübi@|Yaşar Kemal@|Şehit Fatih Akbulut@
+158077	Bağlarbaşı Mah.	Bağlarbaşı=
+158083	Başyurt Mah.	Başyurt=|Darıca=|Doluca=|Efeler=|Kargılı=|Koraş=|Kuyucak=|Marenki=|Yarımca=|Şebrikan=
+158071	Bethkustan Mah.	Alagöz=|Karagöl=
+158085	Budaklı Mah.	Budaklı=
+59984	Cumhuriyet Mah.	501~|502~|503~|504~|505~|506 1.çıkmaz~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515~|516~|517~|518~|519~|520~|521~|522~|523~|524~|525~|526~|527~|528~|529~|530~|531~|532~|533~|533/1~|534~|535~|536~|537~|538~|539~|540~|541~|542~|543~|544~|545~|546~|547~|548~|549~|550~|551~|552~|553~|554~|555~|556~|557~|559~|561~|562~|563~|565~|567~|568~|570~|571~|572~|575~|576~|Adnan Aslan@|Atatürk Bulvarı%|Cumhuriyet Bulvarı%|Fahrettin Önen@|Fatih@|Hoca Ahmet Yesevi@|Nazım Hikmet@|Selahaddin Eyyübi@|Turgut Özal@|Yeni Yol~|Yılmaz Güney@|Şehit Seyfettin Taş@
+158169	Danışman Mah.	Danışman=|Çevikli=
+158099	Dolunay Mah.	Dolunay=
+158097	Doğanyazı Mah.	Doğanyazı=
+158095	Doğançay Mah.	Doğançay=
+158101	Düzgeçit Mah.	Düzgeçit=
+158103	Düzoba Mah.	Düzoba=
+158107	Elbeğendi Mah.	Elbeğendi=
+158175	Erişti Mah.	Erişti=
+158105	Eğlence Mah.	Eğlence=
+158061	Gelinkaya Mah.	101~|102~|103~|104~|105~|106~|107~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|129~|130~|131~|132~|133~|134~|135~|201~|202~|203~|204~|205~|206~|207~|208~|209~|211~|212.-~|213~|214~|215~|216~|217~|218~|220~|222~|224~|225~|226~|227~|228~|229~|230~|231~|232~|301-~|302~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|317~|320~|Ana@|Cami (meydan)@|Cami@|Ege Myd.|Emirhan@|Eğitim (ziyaret)@|Eğitim@|Fatih@|Gelinkaya Düzoba Yolu@|Gelinkaya Midyat Yolu@|Kaya@|Menekşe@|Meydan%|Midyat%|Nur-~|Sağlık@|Ziyaret@|Çevre%|Çiftlik-~|Öztaşlar@|Şahinler@
+59985	Gölcük Mah.	401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|414 1.çıkmaz~|414~|415~|416~|417~|418~|419~|419.~|420~|421~|422~|423~|424~|425~|426~|427~|428~|429~|430~|431~|432~|433~|434~|435~|436~|437~|438~|439~|440~|441~|442~|443~|444~|445~|446~|447~|448~|449~|450~|451~|452~|453~|454~|455~|456~|457~|458~|460~|461~|462~|463~|464~|465~|466~|467~|468~|469~|470~|471~|472~|473~|475~|477~|Bilinmeyen 10 Gölcük~|Cizre@|Cumhuriyet Bulvarı%|Dursun@|Mehmet Akif Ersoy@|Mezarlık@|Mezarlık/1@|Sağlık@|Zeynel Abidin Erdem%|İhsan Özal 1.çıkmaz@|İhsan Özal@|İskenderun 1.@|İskenderun-1 1.çıkmaz@|Şehitlik@|Şentepe@
+158109	Gülgöze Mah.	Gülgöze=
+158111	Gülveren Mah.	Gülveren=
+158113	Güngören Mah.	Güngören=
+158115	Güven Mah.	Güven=
+158117	Hanlar Mah.	Derebaşı=|Derinkuyu=|Güllüce=|Hanlar=
+158119	Harmanlı Mah.	Harmanlı=
+59986	Işıklar Mah.	126~|201~|202~|203~|205~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|221~|222~|223 1.çıkmaz~|223~|227~|229~|231~|237~|238~|239~|240~|241~|242~|243~|248~|250~|251~|252~|Cizre@|Gölbaşı@|Gülgöze Yolu@|Kilise@|Kocamanoğlu@|Manastır@|Otogar@|Ulus@|Şen@
+158125	Kayabaşı Mah.	Kayabaşı=
+158127	Kayalar Mah.	Kayalar=
+158129	Kayalıpınar Mah.	Kayalıpınar=
+158131	Kutlubey Mah.	Dombik=|Kutlubey=
+158133	Mercimekli Mah.	Mercimekli=
+158135	Narlı Mah.	Narlı=
+158137	Ortaca Mah.	Ortaca=
+59987	Ortaçarşı Mah.	1101~|1102~|1103~|1104~|1105~|1106~|1107~|1108~|1109~|1110~|1111~|1112~|1114~|1115~|1116~|1118~|1119~|1121~|1123~|1124~|1126~|1127~|1128~|1129~|1130~|1131~|1132~|1133~|1134~|1135~|1136~|1137~|1139~|1141~|1143~|1145~|1147~|1148~|1149~|1153~|1155~|1157~|1163~|1165~|1167~|1168~|1169~|1170~|1171~|1172~|1173~|1174~|1175~|1177~|1178~|1179~|1181~|1183~|1186~|1187~|1190~|Atasal@|Fahri Özgün 1.çıkmaz@|Fahri Özgün@|Hükümet@|Mehmet Ali Arıkan@|Nusaybin@|Yeniyolortaçarşı~|Yolbaşı@|Zeyni İvenç@|Çiftlik=
+158139	Oyuklu Mah.	Oyuklu=
+158141	Pelitli Mah.	Pelitli=
+59988	Sanayi Mah.	301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|328~|329~|330~|331~|332~|333~|334~|335~|336~|337~|338~|339~|341~|342~|343~|344~|345~|346~|347~|348~|349~|350~|351~|352~|353~|360~|361~|363~|9@|Cizre@|Dursun@|Zeynel Abidin Erdem%|Şehitlik@
+158143	Sarıkaya Mah.	Sarıkaya=
+158145	Sarıköy Mah.	Sarıköy=|Yolbaşıbılınmeyen1~
+59989	Seyitler Mah.	12@|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|614~|615~|616~|617~|618~|619~|620~|621~|622~|623~|624~|625~|626~|627~|628~|629~|630~|631~|632~|633~|634~|635~|636~|637~|638~|639~|640~|641~|642~|643~|644~|645~|646~|647~|648~|649~|650~|651~|652~|653~|654~|655~|656~|657~|658~|659~|660~|661~|662~|663~|664~|665~|666~|667~|668~|670~|675~|676~|678~|680~|682~|7@|Adnan Aslan@|Cumhuriyet Bulvarı%|Fahrettin Önen@|M.nuri Midyat@|Nazım Hikmet@|Petrol Ofisi@|Polis Lojmanları@|Selahaddin Eyyübi@|Turgut Özal@|Yaşar Kemal@|Yılmaz Güney@|İmam Hatip@
+158147	Sivrice Mah.	Beyazsu=|Dikli=|Karasu=|Sivrice=
+158063	Söğütlü Mah.	101~|102~|103~|104~|105~|106~|107~|108 (yeni)~|108~|108/3~|109 (yeni)~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|201~|202~|203~|204~|205~|206~|207-~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|221~|301~|302~|303~|305~|306~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325-~|350~|Anayurt Caddesi@|Aslanlar Caddesi-@|Aslanlar@|Boralar@|Eski Mardin@|Ganibey@|Mardin Midyat Yolu@|Midyat Çavuşlu Yolu@|Turgut Özal%|İskanlar Caddesi@|Şahinler@|Şükrü Şahin@
+158149	Taşlıburç Mah.	Hanike=|Taşlıburç=|Çınar/1=
+158151	Tepeli Mah.	Tepeli=
+158153	Toptepe Mah.	Toptepe=
+158155	Tulgalı Mah.	Tulgalı=
+59990	Ulucami Mah.	1202~|1203~|1204~|1205~|1206~|1207~|1208~|1209~|1210~|1211~|1212~|1213~|1214~|1215~|1216~|1217~|1218~|1219~|1220~|1221~|1223~|1224~|1225~|1226~|1227~|1228~|1229~|1230~|1232~|1234~|1236~|1237~|1238 1.çıkmaz~|1238~|1239~|1240~|1241~|1242~|1243~|1244~|1245~|1246~|1247~|1248~|1249~|1250~|1251~|1252~|1253~|1254~|1255~|1256~|1257~|1258~|1259~|1260~|1261~|1262~|1264~|1266~|1268~|1270~|1272~|1274~|1276~|1277~|1278~|1279~|1280~|1281~|1290~|1293~|Güneştan@|Hacı Amar Özel Myd.|Hükümet@|Kule@|Mardin Çevre%|Mehmet Ali Arıkan@|Seyfettin Güneştan@|Vata@|Zeyni İvenç@|İstiklal@|Şahinler@
+158159	Yayvantepe Mah.	Derik=|Hırbereşik=|Yayvantepe=
+158161	Yemişli Mah.	Yemişli=
+59991	Yeni Mah.	901~|902~|903~|904~|905~|906~|907~|908~|909~|910~|911 1.geçit~|911~|912~|913~|914~|915~|916~|918~|919~|920~|921 1.geçit~|921 2.geçit~|921~|922~|924~|926~|928~|930~|Av.talat Oğuz@|Başöğretmen İbrahim Oğuz@|Cumhuriyet Bulvarı%|Mardin Çevre%|Seyfettin Güneştan@|Yeni Yol@|İleri@|Şehit Fatih Akbulut@
+158163	Yenice Mah.	Yenice=
+158165	Yeşilöz Mah.	Kutluca=|Yeşilöz=
+158067	Yolbaşı Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116 1.çıkmaz~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|2@|2.@|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|401~|402~|403~|404~|405~|406~|407~|408~|409~|410~|411~|412~|413~|414~|415~|416~|417~|418~|419~|420~|421~|423~|425~|427~|429~|431~|437~|Ana (ziyaret)@|Ana@|Budaklı Yolu@|Göksü@|Harmanlar@|Kasım Şoho (kule)@|Kasım Şoho@|Midyat (yenicami)~|Midyat@|Sağlık@|Yolbaşı Yolu@|Yüksel@|Çalışkan@|Çetin@|Çevre Yolu (kule)@|Çevre Yolu Kule/1@|Şehit İdris Mağat@
+59992	Yunus Emre Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1024~|1026~|1028~|1030~|1032~|1034~|1036~|1038~|1040~|1041~|1042~|1043~|1044~|1045~|1046~|1047~|1048~|1049~|1050~|1051~|1052~|1053~|Cemil İşler@|Cumhuriyet Bulvarı%|Fahri Özgün@|Hükümet@|Nusaybin@|Trafo@|Ustaoğlu@|Öğretmen İrfan Baran@|İskenderun 1.geçit@|İskenderun@
+158171	Yuvalı Mah.	Yuvalı=
+158167	Ziyaret Mah.	Ziyaret=
+158087	Çaldere Mah.	Çaldere=
+158089	Çalpınar Mah.	Çalpınar=
+158091	Çamyurt Mah.	Çamyurt=
+158173	Çandarlı Mah.	Çandarlı=
+158059	Çavuşlu Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|127~|129~|131~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|228~|229~|230~|231~|233~|301~|302~|303~|304~|305~|Alan (fatih)~|Anafartalar (cumhuriyet)@|Anafartalar (fatih)@|Anafartalar (hürriyet)@|Anafartalar@|Bülbül (fatih)~|Demirler (hürriyet)~|Gazi (hürriyet)~|Midyat Yolu (cumhuriyet)@|Midyat Yolu (hürriyet)@|Midyat Yolu@|Midyat Çavuşlu Yolu@|Sahil (fatih)~
+158093	Çayırlı Mah.	Çayırlı=
+158157	Üçağıl Mah.	Üçağıl=
+158121	İkizdere Mah.	İkizdere=
+158123	İzbırak Mah.	İzbırak=
+158065	Şenköy Mah.	101~|103~|105~|106~|110~|111~|117~|119~|121~|125~|132~|136~|138~|140~|142~|144~|148~|15 Temmuz Gazisi Halil Algan@|150~|158~|160~|166~|170~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|220.-~|221~|222~|223~|224~|225~|230~|27@|301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|313~|315~|317~|34~|Akabe@|Akmanlar-@|Aksoylar@|Bozkurt@|Denizler@|Erdoğan@|Hacı Hakim@|Lise@|Mekke@|Midyat@|Ovabaşı=|Rasılgıngeres@|Turgut Özal@|Ulu Cami@|Yenigün@|Yunus Emre@|Zafer@|İlkokul~|Şehit Aydın Acun@|Şehit Hıdır Bozkurt%|Şehit Lütfü Alptekin@|Şehit Salih Albayrak Cad (yeni)@|Şehit Salih Albayrak@|Şehit Salih Aslan@|Şehit Yaşar Yıldırım@|Şeyhler@

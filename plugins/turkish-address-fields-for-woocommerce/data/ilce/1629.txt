@@ -1,0 +1,50 @@
+87716	Akarca Köyü	Akarca Köy$
+80516	Akıncılar Mah.	50.yıl~|Akın~|Akıncılar~|Anadolu@|Atatürk_1 Myd.|Aydın~|Bayır~|Belde~|Beşik~|Cengiz~|Cengiz Topel@|Cumhuriyet@|Dar~|Destan~|Divan~|Doğan~|Fatih@|Fesleğen~|Fulya~|Fırat~|Gül~|Gümüş~|Güneş~|Kale~|Kaynak~|Kazım Karabekir@|Kekik~|Keklik~|Kirazlı@|Kültür~|Kışla~|Mandıra~|Mazi~|Mehtap~|Melek~|Meram~|Mercan~|Mermerli~|Meşe~|Namık Kemal@|Nehar Ahmetcioğlu@|Onur~|Rüzgar~|Salkım~|Söğütlü~|Sümer~|Talih~|Tomurcuk~|Uğur Mumcu@|Varlık~|Yamaç~|Yaren~|Yağmur~|Yelken~|Yurt~|Çilek~|Çiçek~|Özbudak~|Öztürk~|Şafak~
+80517	Atatürk Mah.	Adalet~|Ata~|Atatürk@|Atatürk_1 Myd.|Ayvazağa~|Ağalar~|Bulut~|Cemre~|Cengiz Topel@|Dicle~|Gazi%|Göçmen~|Gündüz~|Hacılar~|Hasret~|Hatipler~|Hürriyet@|Kamber~|Katipler~|Kirazlı@|Küçük Hasan~|Küçük~|Laleli~|Maarif~|Meltem~|Okul~|Olgun~|Payamalanı~|Sahil~|Serçe~|Sultan~|Sunal~|Turna~|Ulu~|Uygur~|Uğur Mumcu@|Vadi~|Volkan~|Yaman~|Zaman~|Örnek~|Özen~|Özlem~|Şehit Hatipoğlu~|Şehit Ruhi Çetin@|Şen~
+87718	Azizler Köyü, Aktepe Mevkii	Aktepe Köy$
+87717	Azizler Köyü, Merkez Mevkii	Azizler~
+87719	Azizler Köyü, Sindelli Mevkii	Sindelli Köy$
+80522	Ağaçbeyli Köyü, Akıncılar Mevkii	Ali Çınar 1~|Ali Çınar 2~|Ali Çınar~|Bahriye Üçok~|Barış~|Başıkeli Mevkii 1~|Başıkeli Mevkii~|Cemalettin Avcı~|Cumhuriyet~|Fikret Alay~|Gürpınar 1~|Gürpınar~|Kadir Kayhan~|Karahallı 1~|Karahallı~|Karalar~|Mustafa Aydoğan 1~|Mustafa Aydoğan~|Necati Sargın~|Okul~|Park~|Pazaryeri~|Paşalar Yolu~|Sabri Erkek~|Saydam~|Saygı 1~|Saygı~|Sağlık~|Sivaslı 1~|Sivaslı 2~|Sivaslı 8~|Tuncay Durmuş~|Yener Sunal~|Çavdar~|Çetin Emeç~
+80521	Ağaçbeyli Köyü, Atatürk Mevkii	4.üyük Çıkmazı~|Atlılar Çıkmazı~|Barış~|Cami~|Ceviz~|Dokuzuncu~|Güneş~|Karalar~|Menekşe~|Paşalar Yolu~|Sivaslı 8~|Sümbül~|Tatar~|Topuklar Çıkmazı~|Uzun~|Yayalar~|Yayalar Yolu1~|Yüksel~|Yükseller Çıkmazı~|Yıldız~|Çiğdem~|İğde~
+80523	Ağaçbeyli Köyü, Gürsel Mevkii	Alev~|Altıncı~|Armut~|Ayva~|Beşinci~|Birinci~|Cami~|Ceviz 1~|Ceviz~|Dokuzuncu~|Dut~|Dördüncü~|Elma 1~|Elma~|Erik~|Kayısı~|Kiraz~|Leyla~|Mehmet Kara~|Menekşe~|Muz~|Nar~|Sekizinci~|Sivaslı 3~|Sivaslı 8~|Tamer~|Tatar~|Uzun~|Uzun Yol~|Vişne~|Yedinci~|Yüksel~|Yıldız~|Üçüncü~|İkinci~|İleri~|İğde~|Şeftali~
+87720	Budaklar Köyü	Budaklar 1~|Budaklar 10~|Budaklar 11~|Budaklar 2~|Budaklar 3~|Budaklar 4~|Budaklar 5~|Budaklar 6~|Budaklar 7~|Budaklar 8~|Budaklar 9~|Budaklar Köy$
+100354	Budaklar Köyü, Kavak Mevkii	Kavak Köy$
+87721	Cinoğlan Köyü	Cinoğlan Köy$
+87722	Eldeniz Köyü	Eldeniz 1~|Eldeniz 10~|Eldeniz 11~|Eldeniz 12~|Eldeniz 13~|Eldeniz 14~|Eldeniz 15~|Eldeniz 16~|Eldeniz 17~|Eldeniz 18~|Eldeniz 19~|Eldeniz 2~|Eldeniz 20~|Eldeniz 21~|Eldeniz 22~|Eldeniz 23~|Eldeniz 24~|Eldeniz 25~|Eldeniz 26~|Eldeniz 3~|Eldeniz 4~|Eldeniz 5~|Eldeniz 6~|Eldeniz 7~|Eldeniz 8~|Eldeniz 9~|Eldeniz Köy$
+87724	Erice Köyü, Bahçesaray Mevkii	Bahçesaray Köy$
+87723	Erice Köyü, Merkez Mevkii	Erice Köy$
+80518	Evrenli Mah.	Akasya~|Akdeniz~|Alay~|Altın~|Atatürk_1 Myd.|Avcılar~|Ayan Fatma~|Azim~|Bahadır~|Barbaros@|Beden~|Benek~|Beşik~|Canan~|Ceylan~|Coşkun~|Cumhuriyet@|Dalyan~|Damla~|Derya~|Dilek~|Duygu~|Egemenlik@|Elçin~|Esen~|Evrenli 5@|Evrenli~|Fatih@|Ferhat~|Gazi%|Gedik~|Gençlik@|Güvercin~|Halil Önder@|Hardal~|Hayat~|Hazar~|Hicran~|Kazım Karabekir@|Koçak~|Lale~|Leylak~|Mağrur~|Melek~|Mercan~|Mimar Sinan@|Mithat Paşa~|Mutlu~|Namık Kemal@|Nehar Ahmetcioğlu@|Oktay~|Pamuk~|Sahra~|Saray~|Sağlık~|Seher~|Selvi~|Serdar~|Soğuk~|Sülün~|Tatlı~|Tevfik Fikret@|Türkmen~|Umut~|Uğur Mumcu@|Vatan~|Yaprak~|Yavuz~|Yelken~|Yemeni~|Yeşil~|Zafer~|Zerdali~|Zeybek~|Zübeyda Hanım@|Zümrüt~|Çavdar~|Çağdaş~|Çağlayan~|Çeşme~|Çınçın~|İnce~|İnci~|İstiklal@|Şahin~|Şehit Armağanoğlu~|Şehit Baloğlu~|Şehit Hüseyin Burhan~|Şehitler~|Şeker~|Şimşek~|Şirin~
+80519	Gölbahçe Mah.	1.hal~|2.hal~|Ahmetciler~|Aksoy~|Atatürk@|Atatürk_1 Myd.|Deveciler~|Egemenlik@|Fevzi Çakmak@|Gazi%|Gündoğan~|Haliçi=|Karabulut~|Pazar İçi=|Paşa~|Samancılar~|Tevfik Fikret@|Ulu Camii~|Yiğit~|Zübeyda Hanım@|Çarşı 1.~|Çarşı 2.~|Çarşı 3.~|Çarşı 4.~|Çarşı 5.~|İstiklal@
+87725	Hacim Köyü	Hacim Köy$
+87726	Hanoğlu Köyü, Merkez Mevkii	Hanoğlu Köy$
+87727	Hanoğlu Köyü, Pınarcı Mevkii	Pınarcı Köy$
+87728	Hanoğlu Köyü, Tülüce Mevkii	Tülüce Köy$
+87731	Karaboyalık Köyü, Akalan Mevkii	
+87729	Karaboyalık Köyü, Merkez Mevkii	Karaboyalık Köy$
+87730	Karaboyalık Köyü, Çubuk Mevkii	Çubuk Köy$
+99192	Ketenlik Köyü, Eroğlu Mevkii	Eroğlu Köy$
+87736	Ketenlik Köyü, Horzumlar Mevkii	Horzumlar Köy$
+87733	Ketenlik Köyü, Karşı Mevkii	Karşı Köy$
+87734	Ketenlik Köyü, Kömürcü Mevkii	Kömürcü Köy$
+87732	Ketenlik Köyü, Merkez Mevkii	Ketenlik Köy$
+87735	Ketenlik Köyü, Tekeli Mevkii	Tekeli Köy$
+80520	Konak Mah.	1. Sanayi~|2. Sanayi~|3. Sanayi~|4. Sanayi~|5.sanayi~|6.sanayi~|7.sanayi~|8.sanayi~|Altay~|Aslan~|Bahçe~|Cevizli~|Deler~|Deniz~|Değirmen Yolu~|Durak~|Ekin~|Elvan~|Eren~|Garip~|Gazi%|Gökçe~|Gölbahçe~|Güzel~|Hazine~|Işık~|Kelbekiroğlu~|Kumru~|Kököz~|Kıbrıs Şehitleri@|Kılıç~|Pınar~|Reyhan~|Sanatkar~|Sanayi@|Selçikler@|Simge~|Tahıl~|Tunç~|Uygun~|Yunus Emre@|Zambak~|Çankaya~|Çayır~|İpek~|Şehit~|Şifa~
+87737	Kökez Köyü	Kökez Köy$
+80524	Pınarbaşı Beldesi, Fatih Mah.	1~|Cami~|Cingilt 1~|Cingilt@|Evrenli 5@|Evrenli1~|Evrenli2~|Evrenli3~|Gökçetoprak@|Güngör~|Lale~|Lale1~|Makber 1~|Makber 2~|Makber 3~|Makber~|Molla 1~|Molla 2~|Molla 3~|Molla 4~|Molla~|Sivaslı@|Sivaslı3~|Topkaya 1~|Topkaya 2~|Topkaya@|Ucavuston=|Yayla 3~|Yayla 5~|Yayla 6~|Yayla@|Yayla1~|Yayla10~|Yayla11~|Yayla2~|Yayla4~|Yediahar@|Yediahar1~|Yediahar2~|Yediahar3~|Çivril 4~|Çivril@|Çivril3~|Çivril5~|Şabandede 1~|Şabandede 2~|Şabandede 3~|Şabandede 4~|Şabandede 5~|Şabandede@
+80525	Pınarbaşı Beldesi, Pınar Mah.	Ali Molla~|Ağa 1~|Bozyer 1~|Bozyer~|Bölükkoru=|Değirmenüstü=|Goncalı 1~|Goncalı2~|Goncalı4~|Gözlübaba 1~|Gözlübaba@|Karacaören~|Karacaören1~|Karacaören2=|Karacaören44~|Kayabaşı=|Köseler~|Köy Myd.|Köy1 Myd.|Muratağa~|Nebiler 1~|Nebiler~|Okul 1~|Okul 2~|Okul 3~|Okul@|Osmanbarutçu@|Pınar 1~|Pınar 2~|Pınar 3~|Pınar 4~|Pınar@|Selçikler 1~|Selçikler 2~|Selçikler 3~|Selçikler@|Sivaslı 2~|Sivaslı@|Çivril 1~|Çivril 4~|Çivril@|Çivril2~
+87741	Salmanlar Köyü	Salmanlar Köy$
+87742	Samatlar Köyü	Samatlar Köy$
+87744	Sazak Köyü, Kaylan Mevkii	Kaylan Köy$
+87743	Sazak Köyü, Merkez Mevkii	Sazak~
+80526	Selçikler Beldesi, Gülbey Mah.	Akarsu Çıkmazı 1~|Akarsu Çıkmazı~|Akgül Çıkmazı~|Aslan Çıkmazı~|Atatürk 1~|Atatürk@|Bahçeli~|Beyaz Gül~|Fevzi Çakmak@|Fulya~|Kıbrıs Şehitleri@|Morgül~|Nane~|Orhan Dengiz@|Pala 1~|Pala~|Papatya~|Paşa@|Pınar~|Sakarya Çıkmazı~|Sanayi@|Sarıgül Çıkmazı~|Tomurcuk~|Uşak@|Yaprak 1~|Yaprak~|Yavuz~|Çakmak~|Çiçekli~|Şerbetciler~
+80527	Selçikler Beldesi, Yıldıztepe Mah.	Alp~|Aslanağzı~|Atatürk@|Ayçiçeği~|Bahçe~|Bayrak~|Cumhuriyet Myd.|Esin@|Fesleğen~|Fevzi Çakmak@|Gelincik~|Goncalı 1~|Gül~|Güven~|Kamalya~|Karanfil~|Kıbrıs Şehitleri@|Kırmızıgül~|Kırçiçeği~|Leylak~|Manolya~|Meltem~|Menekşe~|Müze@|Nergiz~|Nilüfer~|Orkide~|Palmiye~|Paşa@|Pınar~|Sardunya~|Sümbül~|Zambak~|Zencefil~|Çayır~|Çimen~|Çiğdem~|Şehit Aziz Güneş@
+80528	Tatar Beldesi, Atatürk Mah.	Atatürk@|Atatürk1~|Atatürk2~|Atatürk3~|Ağa~|Ağa10~|Ağa3~|Ağaçbeyli@|Ağaçbeyli1~|Ağaçbeyli2~|Ağaçbeyli3~|Demirci~|Doğan~|Güneş@|Hancı~|Kapı~|Kapı1~|Kapı2~|Kapı3~|Kapı4~|Kapı5~|Kapı6~|Kapı7~|Lale~|Okullar@|Okullar1~|Okullar2~|Okullar3~|Pınar 9~|Pınar~|Pınar1~|Pınar2~|Pınar3~|Pınar4~|Pınar5~|Pınar6~|Pınar7~|Pınar8~|Savran~|Savran Çıkmazı~|Savran1~|Seher~|Seher1~|Sivaslı 8~|Sivaslı@|Zübeyde Hanım~|Çümen~
+80529	Tatar Beldesi, Dedeballar Mah.	Atatürk@|Goncalı~|Goncalı1~|Goncalı2~|Goncalı3~|Goncalı4~|Gül 1~|Gül~|Halk@|Halk1~|Kurtuluş@|Sanayi 1~|Sanayi 2~|Sanayii@|Yıldız~|Yıldız10~|Yıldız9~|Çukur~|Çümen~
+80530	Tatar Beldesi, Fevzi Çakmak Mah.	Avcılar~|Avcılar1~|Avcılar2~|Avcılar3~|Ağa~|Ağa2~|Ağa4~|Ağa5~|Demirci~|Dizekler~|Dizekler1~|Dizekler2~|Dizekler3~|Dizekler4~|Doğan~|Güneş@|Güneş1~|Güneş2~|Güneş3~|Güneş4~|Leylak~|Pınar 9~|Sezer~|Sezer1~|Sezer2~|Sivaslı@|Sivaslı1~|Sivaslı2~|Sivaslı3~|Sivaslı4~|Sivaslı5~|Sivaslı6~|Sivaslı7~|Yeni~|Yeni1~|Yeni2~|Yeni3~|Yeni4~|Yeni5~|Yeni6~|Yeni7~|Yıldız~|Yıldız1~|Yıldız11~|Yıldız12~|Yıldız15~|Yıldız2~|Yıldız3~|Yıldız4~|Yıldız5~|Yıldız6~|Yıldız7~|Yıldız8~|Yıldız9~|Çukur~|Çümen~|Çınar~
+80531	Yayalar Köyü, Bahçelievler Mevkii	Asar 1~|Asar~|Atatürk~|Barbaros~|Belediye 1~|Belediye~|Bosna~|Dere~|Döşeme~|Fatih Sk 1~|Fatih Sk 5~|Fatih Sk~|Fevzi Çakmak Sk~|Fevzi Çakmak~|Gedik Ağzı~|Göl 1~|Göl~|Gül 1~|Karanfil 1~|Karanfil~|Kardelen~|Kuyular~|Küçüköz-~|Lale~|Mazanlar~|Mehmet Akif Ersoy~|Mehmetcik 1~|Mehmetcik~|Mevlana~|Mevlana1~|Mimar Sinan 1~|Mimar Sinan~|Nur~|Sağlık 1~|Sağlık~|Yunus Emre~|Yıldırım Beyazıt~|Zeybek~|Çeşmebaşı~|Özlem~|İkbal~|İnceoğlan~|Şehitler~
+80532	Yayalar Köyü, Gültepe Mevkii	Atatürk 1~|Atatürk 2~|Atatürk 3~|Atatürk 4~|Atatürk 5~|Atatürk~|Bademli~|Camii~|Dere~|Fatih Sk 2~|Fatih Sk 3~|Fatih Sk 4~|Fatih Sk~|Gül~|Hacı Hafız Çıkmazı~|Hatip~|Hilal 1~|Hilal~|Hoca Ahmet Yesevi~|Isalar Çıkmazı~|Karanfil~|Karağaç~|Karışyanı~|Küçüköz~|Yavuz~|Çiğdem~|Şehitler~|Şirin 1~|Şirin~
+87745	Yenierice Köyü, Merkez Mevkii	Yenierice Köy$
+87746	Yenierice Köyü, Yeni Yerleşim Alanı Mevkii	Yeni Yerleşim~|Yenierice Köy$
+87738	Özbeyli Köyü, Gazelle Mevkii	Gazelle Köy$
+87739	Özbeyli Köyü, Mestan Tepesi Mevkii	Mestan Tepesi Köy$
+87740	Özbeyli Köyü, Oklu Dere Mevkii	Oklu Dere-~

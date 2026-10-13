@@ -1,0 +1,45 @@
+55067	Abaş Köyü	Abaş=
+55068	Ada Köyü	Ada=
+55069	Aslıhanlar Köyü	Aslıhanlar=
+55070	Ballıbaba Köyü	Ballıbaba=
+55071	Bayat Köyü	Bayat=
+55072	Bayat Köyü, Harlek Yaylası Yayla Evleri	- Köy$
+55073	Bayat Köyü, Karakaya Mevkii	Karakaya=
+55074	Bayramşah Köyü	Bayramşah=
+55075	Bezirgan Köyü	Bezirgan=
+51471	Cumhuriyet Mah.	1 Nci~|10 Ncu~|11 Nci~|12 Nci~|13 Ncü~|14 Ncü~|15 Nci~|16 Ncı~|17 Nci~|18 Nci~|19 Ncu=|2 Nci~|20 Nci@|21 Nci@|22 Nci@|23 Ncü@|3 Ncü~|4 Ncü~|5 Nci~|6 Ncı~|7 Nci~|8 Nci~|9 Ncu~|Afacan~|Alibey~|Aydın~|Bahar~|Cumhuriyet Myd.|Esen~|Eğitim~|Gediz@|Harman~|Hatip~|Karaa~|Kervan~|Kütahya@|Meşrutiyet@|Orman~|Pazar~|Pınarbaşı@|Tekke~|Terziler~|Yasemin~|Yedekçi~|Yıldız~|Çalköy@|Çeşme~|Çıkmaz~|Ören@|Ş.j.er.süleyman Turan~|Şeker@
+55083	Dere Köyü	Dere=
+55084	Emrez Köyü	Emrez=
+55085	Emrez Köyü, Ketenova Yayla Evleri	Ketenova=
+55086	Esen Köyü	Esen=
+55087	Gölbaşı Köyü	Gölbaşı=
+55088	Göynükören Köyü	Göynükören=
+55089	Haydarlar Köyü	Haydarlar=
+51472	Hürriyet Mah.	Altıncı~|Altıntaş@|Ayvaz~|Beşinci~|Birinci~|Dokuzuncu~|Dördüncü~|Hamam~|Menzil~|Onbirinci~|Ondördüncü~|Onikinci@|Onuncu~|Onüçüncü~|Sekizinci~|Tahıl~|Yedinci~|Yeşil~|Yılmaz~|Çalköy@|Çapraz~|Çavuş~|Özdemir~|Üçüncü~|İkinci~|Şeker@
+55090	Karadiğin Köyü	Karadiğin=
+55091	Kureyşler Köyü	1~|10 Kd~|2~|3~|4~|5~|6~|7~|8~|9~|Kureyşler=|Yeni Yol 1~|Yeni Yol 2~|Yeni Yol 3~|Yeni Yol 4~|Yeni Yol 5~|Yeni Yol 6~|Yeni Yol~
+55092	Musa Köyü	Bayat=|Musa=
+55093	Musa Köyü, Koca Oluk Yayla Evleri	Koca Oluk=
+55094	Nuhören Köyü, Altıntaş Mevkii	Altıntaş=
+55095	Nuhören Köyü, Kümbet Mevkii	Altıntaş=|Kümbet=
+55097	Nuhören Köyü, Mevlana Mevkii	Kümbet=|Mevlana=|Yunusemre=
+55096	Nuhören Köyü, Yunus Emre Mevkii	Altıntaş=|Kümbet=|Yunusemre=
+55098	Ortaca Köyü	Ortaca=
+55122	Pazarcık Köyü	Pazarcık=
+140559	Pınarbaşı Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26@|27@|3~|4~|5~|6~|7~|8~|9~|Pınarbaşı Dördüncü~|Pınarbaşı Meydan~|Pınarbaşı Üçüncü~|Pınarbaşı İkinci~
+55127	Saray Köyü	Saray=
+55130	Terziler Köyü	Terziler=
+55131	Tokul Köyü	Tokul=
+140561	Yalnızsaray Mah.	Yalnızsaray Mahallesi=
+55132	Yağcılar Köyü	Yağcılar=
+98368	Çakmak Köyü	Çakmak=
+55076	Çal Köyü	Çal=
+55077	Çal Köyü, Çalköy Yaylası Mevkii	Çalköy Yaylası=
+55078	Çamdibi Köyü	Çamdibi=
+55079	Çamırdık Köyü	Çamırdık=
+55082	Çukurca Köyü	Çukurca=
+55080	Çömlekçi Köyü, Ahmet Çavuşlar Mevkii	Ahmet Çavuşlar=|Osman Çavuşlar=
+55081	Çömlekçi Köyü, Osman Çavuşlar Mezrası	Osman Çavuşlar=
+198711	Ören Köyü, Köyün Kendisi Mevkii	Aşağı Mah.fırat~|Aşağı Mah.fırat1~|Aşağı Mah.koru~|Aşağı Mah.kızılırmak~|Aşağı Mah.malazgirt~|Aşağı Mah.okul~|Aşağı Mah.porsuk~|Aşağı Mah.susam~|Aşağı Mah.çatal Çeşme 1~|Aşağı Mah.çatal Çeşme~|Aşağı Mah.çıkmaz~|Aşağı Mah.çınar~|Aşağı Mah.ören 1~|Aşağı Mah.ören=|Bahçeli~|Bilinmeyen 1~|Bilinmeyen 10~|Bilinmeyen 11~|Bilinmeyen 12~|Bilinmeyen 13~|Bilinmeyen 14~|Bilinmeyen 15~|Bilinmeyen 16~|Bilinmeyen 17~|Bilinmeyen 2~|Bilinmeyen 3~|Bilinmeyen 4~|Bilinmeyen 5~|Bilinmeyen 6~|Bilinmeyen 9~|Yukarı Mah Sıla~|Yukarı Mah. Başak~|Yukarı Mah. Değirmen 1~|Yukarı Mah. Değirmen~|Yukarı Mah. Gonca~|Yukarı Mah. Meriç~|Yukarı Mah. Osmanlı~|Yukarı Mah. Sakarya~|Yukarı Mah. Saray~|Yukarı Mah. Yeşilırmak~|Yukarı Mah. Çayır~|Ören Bilinmeyen=|Ören=
+55128	Şenişler Köyü	Şenişler=
+55129	Şenişler Köyü, Şenişler Köyü Ketenova Yaylası Yayla Evleri	Ketenova Şenişler=

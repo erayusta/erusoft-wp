@@ -1,0 +1,69 @@
+10525	7eylül Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|3~|4~|5~|6~|7~|8~|9~|Akballı=|Akgedik~|Belediye Arkası~|Belediye@|Bilir~|Coşkun@|Dombay Yatağı~|Ekinci~|Fatih@|Göçmen~|H.hafızoğlu~|Kabakcı~|Karaca~|Karakaş~|Keskinkılıç~|Koca Müdür Tevfik Bey@|Kooperatif~|Papatya~|Park@|Taşar~|Taşlık=|Uyduk~|Yazıcıoğlu@|Yaşar~|Zemzem~|Zübeyde Hanım@|Ömer Halisdemir@|İncegedik~|Şahin~|Şehit Gediz Çivi@
+148041	Akçal Mah.	Akçal~
+148113	Ayaklı Mah.	Ayaklı~
+148043	Aşağıkaleoba Mah.	Aşağıkaleoba~
+10522	Bedrettin Mah.	4001~|4002~|4003~|4004~|4005~|4006~|4007~|4008~|4009~|4010~|4011~|4012~|4013~|4014~|4015~|4016@|4017~|4018~|4019~|4020~|4021~|4022~|4023~|4024~|4025~|4026~|4027~|4028~|4029~|4030~|4031~|4032~|4033~|4034~|4035~|4036~|4037~|4038~|4039~|Akyar~|Akın~|Albay Ruhi Baytar@|Atatürk Myd.|Ayan~|Barbaros~|Bayat~|Başdemir~|Begonya~|Bostan~|Cabbar~|Camcı~|Camii~|Celep~|Cihan~|Coşkun@|Demiralp~|Demirtaş=|Demirtaş~|Direkli~|Edremit@|Efe~|Fatih@|Filiz~|Güven~|Hacı Halil~|Hacıefendi~|Hamam~|Hasan Efendi~|Hisar~|Hükümet@|Ilıca~|Işık~|Kara~|Karakavuk~|Karayer=|Kasımpatı~|Kemal Atatürk@|Keser~|Keçici~|Kiraz~|Kiremitocağı~|Koca Müdür Tevfik Bey@|Korucu@|Kurt~|Köse~|Kırkağaç~|Lale~|Leylak~|Maarif~|Menekşe~|Müderris~|Narlı~|Nergis~|Nilüfer~|Ortaokul~|Pala~|Pireli@|Sabancı~|Semerci~|Senatör Cemalettin İnkaya@|Soydan~|Taş@|Tiren~|Uysal~|Uçar~|Yazıcıoğlu@|Yiğit~|Yılmaz~|Zübeyde Hanım@|Çanakkale@|Çavdar~|Çelebi~|Çetmi Alanı~|Çınar~|Önder~|Özcan@|Öztaşkın~|İbiş~|İnkaya~|Şebboy@|Şehbedrettin~|Şehit Teğmen Akın Akın@|Şehit Turan Kurt@|Şehit Ufuk Asar~|Şimşek~
+148045	Bozören Mah.	Bozören~
+148047	Büyükfındık Mah.	Büyükfındık~
+148039	Büyükyenice Mah.	8001~|8002~|8003~|8004~|8005~|8006~|8007~|8008~|8009~|8010~|8011@|8012~|8013~|8014~|8015~|8016~|8017~|8018@|8019~|8020~|8021~|8022~|8023~|8024~|8025~|8026~|8027~|8028~|8029~|8030~|8031~|8032~|8033~|8034~|8035~|8036~|8037~|8038~|8039~|8040~|8041~|8042~|8043~|8044~|8045~|8046~|8047~|8048~|8049@|8050~|8051~|8052~|8053~|Acısu~|Arat~|Aslanlı~|Avcı~|Barış@|Belde@|Belediye (yukarı)@|Berber~|Büyükyenice Myd.|Cengiz Topel@|Cevizli (orta)~|Cevizli~|Dar (yukarı)~|Daral~|Demirci~|Demirciler (yukarı)~|Devrik~|Dut~|Elmalı (orta)~|Güreş (orta)@|Güreş@|Kale~|Karakova=|Kireçciler~|Kurtuluş (yukarı)@|Kılıç~|Nalbantoğlu~|Oda~|Oral~|Osman Uçar@|Pazar Ve Panayır (orta)@|Paşa Kümesi~|Sarkın Tepe~|Saya~|Tepe~|Tepecik~|Timur~|Tosunlar~|Ulus Myd.|Yasemin~|Yeni Yol~|Yeniyol~|Çiğdem~|Özgürlük Myd.|İniş~|İstiklal (yukarı) Myd.|İzmir@|Şehit Bünyamin Yoldaş@|Şehit Erol Erdi@|Şehitler~
+148115	Büyükılıca Mah.	Büyükılıca~
+148125	Demirciler Mah.	Demirciler~
+148123	Değirmenbaşı Mah.	Değirmenbaşı~
+148127	Döşeme Mah.	Döşeme~
+148051	Erdel Mah.	Ada~|Aliköseler~|Merkez~
+148053	Eriklikömürcü Mah.	Eriklikömürcü~
+148087	Evciler Mah.	Evciler~
+148129	Gebeçınar Mah.	Gebeçınar~|Çetindere~
+148055	Geçmiş Mah.	Geçmiş~
+148057	Gökçeler Mah.	Gökçeler~
+148033	Gökçeyazı Mah.	25001~|25002~|25003~|25004~|25005~|25006~|25007~|25008~|25009~|25010~|25011~|25012~|25013~|25014~|25015~|25016~|25017~|25018~|25019~|25020~|25021~|25022~|25023~|25024~|25025~|25026~|25027~|25028~|25029~|25030~|25031~|25032~|25033~|25034~|25035~|25036~|25037~|25038~|25039~|25040~|25041~|25042~|25043~|25044~|25045~|25046~|25047~|25048~|25049~|25050~|25051~|25052~|25053~|25054~|25055~|25056~|25057~|25058~|25059~|25060~|25061~|25062~|25063~|25064~|25065~|25066~|25067~|25068~|25069~|25070~|Alan (orta)~|Alan~|Asarlık@|Avşar~|Aydın~|Bağlar~|Cumhuriyet (yeni)@|Dallı~|Demir~|Derin~|Eren~|Ergenekon (yeni)@|Ergenekon@|Eyüp (yeni)~|Eyüp~|Gelin Kuyusu@|Genger~|Genger...~|Gökeşme (orta)~|Gökeşme~|Gündoğan~|Hacı Musa~|Karadere~|Kemerdere~|Kestanedere~|Koca Camii~|Kuzey~|Köseağalar@|Köseağalar...@|Maraşlı~|Mağara~|Menevşelik@|Merhum Mustafa Yörük@|Millet@|Milli Egemenlik (orta)@|Milli Egemenlik 1=|Milli Egemenlik@|Mustafa Kemal (orta)@|Mustafa Kemal (yeni)@|Mustafa Kemal@|Mutlu~|Namık Kemal@|Park (yeni)@|Pazaryeri@|Pehlivan~|Sevinç~|Sur~|Taşlı~|Tuna@|Türkmen~|Yacaç~|Yaşam~|Yedi Eylül@|Çakıcılar~|Çaldibi~|Çanakkale (köseağalar)=|Çanakkale (orta)@|Çanakkale (yeni)@|Çanakkale Caddesi=|Çanakkale@|Özaslan~|Özışık~|İnönü@|Şehit Rıdvan Çetinkaya@
+148089	Gömeniç Mah.	Gömeniç~
+148059	Gözlüçayır Mah.	Gözlüçayır~|Yaylakıran~
+148131	Gümeli Mah.	Gümeli~
+148133	Hacıahmetler Mah.	Hacıahmetler~
+148135	Haydar Mah.	Haydar~
+148061	Hüseyinbeyobası Mah.	Hüseyinbeyobası~
+148103	Ilıcakpınar Mah.	Gedik=|Hacı Mahmutlar~|Merkez~|Çardakalan~
+148065	Karaçepiş Mah.	General Ali Lapanta@|Karaçepiş~
+148035	Kayapa Mah.	36001~|36002~|36003~|36004~|36005~|36006~|36007~|36008~|36009~|36010~|36011~|36012~|36013~|36014~|36015~|36016~|36017~|36018~|36019~|36020~|36021~|36022~|36023~|36024~|36025~|36026~|36027~|36028~|36029~|36030~|36031~|36032~|36033~|36034~|36035~|36036~|36037~|36038~|36039~|36040~|36041~|36042~|36043~|36044~|36045~|36046~|36047~|36048~|36049~|36050~|36051~|36052~|36053~|36054~|36055~|Adnan Menderes~|Ak~|Armuttarla@|Aslanlar~|Bademli~|Ballı~|Bozkurt~|Canlar~|Demokrasi Myd.|Dere Harman~|Dostlar~|Döllük=|Eski Cami@|Garaj Myd.|Gazi@|Gökçe~|Hacı Şakir~|Hacı Şakir...~|Halil Güldü@|Harmancık~|Karabulut~|Kavaklı~|Kazım Karabekir@|Kurt~|Köy Kenarı~|Kız Kuran Kursu~|Mektepli~|Okul~|Sanayi@|Sanrı~|Saray~|Savaştepe@|Vatan@|Yokuş~|Zafer@|Çakmak~|Çamaşırlık@|Çetlemik@|Çınarlı@|Ören~
+148139	Kaşağıl Mah.	Karşıbağ Ve Gediz Önü~|Kaşağıl~|Soğuk Eşme Ve Zincirlikuyu~
+197735	Kiraz Ören Mah.	1.~|2.~|3.~|4.~|Fatih Sultan Mehmet (akçalören)@|Fatih Sultan Mehmet=|Fevzi Çakmak@|Karaveli=|Mehmet Akif Ersoy (kiraz)@|Mehmet Akif Ersoy=|Mimar Sinan@|Çomaklık=|Şehit Muhterem Şengül@
+148069	Kocaeli Mah.	Aşağıoba=|Kavakalan=|Kocaeli~|Sarıçal/kocaeli=
+148071	Kocaoba Mah.	Kocaoba~
+148037	Korucu Mah.	1.çıkmaz~|2..çikmaz~|3. Çıkmaz~|3.çıkmaz~|4. Çıkmaz~|45001@|45002~|45003~|45004~|45005~|45006~|45007~|45008~|45009~|45010~|45011~|45012~|45013~|45014~|45015~|45016~|45017~|45018~|45019~|45020~|45021~|45022~|45023~|45024~|45025~|45026~|45027~|45028~|45029~|45030~|45031~|45032@|45033~|45034~|45035~|45036~|45037~|45038~|45039~|45040~|45041~|45042~|45043~|45044~|45045~|45046~|45047~|45048~|45049~|45050~|45051~|45052~|45053~|45054~|45055~|45056~|45057~|45058~|45059~|45060~|45061~|45062~|45063~|5.çıkmaz (yeni)~|5.çıkmaz~|Akpınar@|Akıncılar~|Ali Hikmet Paşa (yeni)@|Ali Hikmet Paşa@|Arıtaş~|Avlu~|Ayyıldız~|Ağalar~|Bayram Yeri~|Bağlar (yeni)@|Bağlar@|Bağlararası=|Boyalık~|Camili~|Daralan~|Ekinlik~|Elmalı@|Emirler Çıkmazı~|Ender~|Gazi Mustafa Kemal Myd.|Gül~|Gün~|Halilhoca~|Halitbey@|Hürriyet Myd.|Ilıkpınar~|Karapınar~|Kocaçınar~|Kuzgun~|M. Ruhi Eğri@|Madenciler~|Madra@|Mandra@|Mehtap~|Meydan~|Oklu~|Ova~|Patlak=|Pınar~|Sağlık Ocağı~|Yanık (yeni)~|Yanık~|Zambak~|Çaltepe~|Çamtepe~|Çamur@|Çamurluk~|Çarkaca@|Çarşı (yeni)~|Çarşı~|Çelik~|Özdemirciler~|İstiklal Myd.|İzmir (yeni)@|İzmir@|Şadırvan~|Şahlan~|Şehit Bülent Emen@|Şehit Erol Özen@|Şehit Sadibey@|Şifa (çınarlı)~|Şifa~
+10523	Kurtuluş Mah.	46001~|46002~|46003~|46004~|46005~|46006~|46007~|46008~|46009~|46010~|46011~|46012~|46013~|46014~|46015~|46016~|46017~|46018~|46019~|46020~|46021~|46022~|46023~|46024~|46025~|46026~|46027~|46028~|46029~|46030~|46031~|46032~|46033~|46034~|46035~|46036~|46037~|46038~|46039~|46040~|46041~|46042~|46043~|46044~|46045~|Acar~|Adliye~|Aslan~|Avcu~|Aydoğan@|Baydar~|Begonya~|Beycan~|Buz~|Bülbül~|Cumhuriyet Myd.|Dadalar~|Dar~|Dede~|Duyar~|Edremit@|Elif~|Fatih@|Gezer~|Gn.prf.dr.ergün Demiralp@|Güvem~|Hacı Halil~|Hafız Raşit~|Hastane@|Hükümet@|Hükümet...@|Ilıca~|Kanlıkavak~|Kaptan~|Karagöz~|Karakilise~|Karaman~|Karanfil~|Karaşahin~|Kasımpatı~|Kaymakam Salih Zeki Köseoğlu@|Kocataş~|Konutlar~|Kozlar~|Kökçü~|Köseler~|Lale~|Lülecioğlu~|Mermerci~|Mezarlık~|Mezbaha~|Nergis~|Nurettin Baytekin@|P.t.t~|Palamutbayırı~|Pireli@|Reyhan~|Santral~|Sarıçal~|Sağlık~|Senatör Cemalettin İnkaya@|Sofucan~|Sofuoğlu~|Tetik~|Tire~|Yıldırım@|Yıldız~|Çaltılık~|Çamarkası~|Çamlar~|Çanakkale@|Çavdar~|Çiftçi~|Öksüz~|Öz~|Özkınık~|Üstün~|İlgör~|İçkin~|Şarlak~|Şebboy@|Şehit Teğmen Akın Akın@|Şehit Tuncay Özdemir@|Şendoğan~
+148149	Kuşdere Mah.	Kuşdere~
+148073	Küçükfındık Mah.	Küçükfındık~
+148075	Küçükyenice Mah.	Küçükyenice~
+148151	Küçükılıca Mah.	Küçükılıca~
+148141	Kılcılar Mah.	Kılcılar~
+148143	Kına Mah.	Kına~
+148067	Kınık Mah.	Kınık~
+148145	Kıpıklar Mah.	Kıpıklar~
+148147	Kışladere Mah.	Kirazlık~|Merkez~
+148153	Mallıca Mah.	Mallıca~
+181426	Okçular Mah.	Okçular~
+148105	Osmanköy Mah.	Osmanköy~
+148077	Osmanlar Mah.	Osmanlar~
+148107	Pelitören Mah.	Kışla~|Merkez~|Çukuroba~
+10524	Sakarya Mah.	56001~|56002~|56003~|56004~|56005~|56006~|56007~|56008~|56009~|56010~|56011~|56012~|56013~|56014~|56015@|56016~|56017~|56018~|56019~|56020~|56021~|56022~|56023~|56024~|56025~|56026~|56027~|Akasya~|Atatürk Myd.|Bakioğlu~|Bayat~|Belediye Arkası~|Ceylan~|Demirtaş~|Edremit@|Emniyet~|Ercan~|Eşekkürü~|General Ali Lapanta@|Geçici 1~|H.hafızoğlu~|Hasan Efendi~|Hilal~|Huzur~|Hükümet@|Kaymak~|Kuyupınarı~|Lapanta~|Leylak~|Maarif~|Nalbant~|Ortacami~|Panayır~|Papatya~|Parkaltı~|Serçe~|Süleymaniye~|Taşkın~|Türkkan~|Yalakalan~|Yazıcıoğlu@|Yenicami~|Zübeyde Hanım@|Çakır~|Çardak@|Çetmi Alanı~|Çiftlik~|Çoban~|Özalp@|Özdemir~|Özen~|Özer~|Şahan~|Şehit Ender Özenç@
+148079	Sarıca Mah.	Alan~|Sarıca~|Taşdibi~|Tilkitaşı~|Çal~|Çiğil=
+148109	Sarıpınar Mah.	Ada~|Asmalı~|Hacımusalar~|Kalikli Çukur~
+148091	Sofular Mah.	Merkez~|Çamköy~|Şehit Piyade Astsubay Kıdemli Çavuş Fatih Tomuşoğlu Myd.
+148093	Soğanbükü Mah.	Güngörmez=|Soğanbükü~|Çaltılıgöl=
+148111	Susuzyayla Mah.	Susuzyayla~
+148155	Taşdibi Mah.	Taşdibi~
+148081	Topuzlar Mah.	Topuzlar~
+148095	Yaren Mah.	Yaren~
+148083	Yağlılar Mah.	Yağlılar~
+148085	Yeşilköy Mah.	Patlak Göleti=|Yeşilköy~
+148063	Yukarıkaleoba Mah.	Yukarıkaleoba~
+148157	Yürekli Mah.	Yürekli~|Çaltı~|Ören~
+148117	Çarkacı Mah.	Çarkacı~|Şehit Piyade Uzman Çavuş Tuncay Küssen@
+148097	Çatalan Mah.	Çatalan~
+148119	Çelimler Mah.	Çelimler~
+148099	Çiçekli Mah.	Çiçekli~
+148121	Çobanlar Mah.	Çobanlar~
+148101	Çukurlar Mah.	Çukurlar~
+148049	Çukuroba Mah.	Çukuroba~
+148137	İkizce Mah.	İkizce~

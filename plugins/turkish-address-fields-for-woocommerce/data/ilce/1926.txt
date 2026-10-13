@@ -1,0 +1,95 @@
+92246	Aktarla Köyü, Aksakaloğlu Mevkii	Aksakaloğlu=
+92244	Aktarla Köyü, Boduroğlu Mevkii	Boduroğlu=
+92248	Aktarla Köyü, Merkez Mevkii	Merkez=
+92243	Aktarla Köyü, Oluklar Mevkii	Oluklar=
+92247	Aktarla Köyü, Yolcuoğlu Mevkii	Yolcuoğlu=
+92245	Aktarla Köyü, Çayır Mevkii	Çayır=
+92249	Aliusta Köyü, Helme Mevkii	Helme=
+92251	Aliusta Köyü, Karşıyaka Mevkii	Karşıyaka=
+92253	Aliusta Köyü, Merkez Mevkii	Merkez=
+92250	Aliusta Köyü, Soğuksu Mevkii	Soğuksu=
+92252	Aliusta Köyü, Yukarı Mevkii	Yukarı=
+92254	Aydınlar Köyü, Dervişler Mevkii	Dervişler=
+92258	Aydınlar Köyü, Gedikler Mevkii	Gedikler=
+92255	Aydınlar Köyü, Haylamazlar Mevkii	Haylamazlar=
+92256	Aydınlar Köyü, Muratlar Mevkii	Muratlar=
+92257	Aydınlar Köyü, İmamlar Mevkii	İmamlar=
+89905	Bakacakkadı Beldesi, Kadıoğlu Mah.	29 Ekim~|Ankara@|Ara~|Arabacı~|Bakiler~|Bülbül 1~|Bülbül 2~|Bülbül~|Cami~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet 3~|Cumhuriyet@|Cümen~|Fevzi Çakmak@|Fidanlık@|Menderes 1~|Menderes 2~|Menderes@|Meşe~|Mithat Paşa@|Uğur Mumcu=|Ziya Gökalp@|Çay~|Üzümlük~|Üçburgu~|Şehit Emrah Kartal@
+89906	Bakacakkadı Beldesi, Merkez Mah.	Ada~|Ankara@|Atatürk@|Aydemir~|Cumayanı 1~|Cumayanı@|Defne=|Dere~|Durak~|Elmalı~|Esentepe 1~|Eğitim~|Fevzi Çakmak@|Kazım Karabekir~|Kısa~|Menderes@|Nur 1~|Nur~|Okul~|Okul2~|Sabiha Gökçen~|Tesisler@|Tesisler1~|Tesisler2~|Vali İsmet Metin@|Veyis~|Veyis1~|Veyis2~|Veyisbeyoğlu@|Ziya Gökalp@|Çeşme~|Çoban Çeşme~|Çınar 2~|Çınar 3~|Çınar~|Çınar1~|İbadioğlu@|İnönü@|İstasyon 1~|İstasyon@|Şehit Emrah Kartal 1~|Şehit Emrah Kartal@
+89907	Bakacakkadı Beldesi, Satıbeyler Mah.	Atatürk@|Atatürk1~|Cengiz Topel@|Cengiz Topel1~|Durak~|Emko@|Emko1~|Emko2~|Esen~|Esentepe 1~|Esentepe~|Milli Egemenlik@|Siteler@|Tesisler 3~|Tesisler@|Tesisler1~|Tesisler2~|İbadioğlu@|İnönü 1~|İnönü@|İstasyon@
+92261	Bakiler Köyü, Abasızoğlu Mevkii	Abasızoğlu=
+92260	Bakiler Köyü, Alibeyoğlu Mevkii	Alibeyoğlu=
+92263	Bakiler Köyü, Bakıllar Mevkii	Bakıllar=
+92265	Bakiler Köyü, Bekirbaşoğlu Mevkii	Bekirbaşoğlu=
+92264	Bakiler Köyü, Etcioğlu Mevkii	Etcioğlu=
+92259	Bakiler Köyü, Tepeköy Mevkii	Tepeköy=
+92262	Bakiler Köyü, Çapcıoğlu Mevkii	Çapcıoğlu=
+92269	Bodaç Köyü, Alaoğlu Mevkii	Alaoğlu=
+92270	Bodaç Köyü, Carioğlu Mevkii	Carioğlu=
+92267	Bodaç Köyü, Kurtdamı Mevkii	Kurtdamı=
+92268	Bodaç Köyü, Merkez Mevkii	Merkez=
+92266	Bodaç Köyü, Tepeköy Mevkii	Tepeköy=
+92281	Dağdemirciler Köyü, Merkez Mevkii	Merkez=
+92287	Duhancılar Köyü, Civelekler Mevkii	Civelekler=
+92288	Duhancılar Köyü, Gegekoğlu Mevkii	Gegekoğlu=
+92286	Duhancılar Köyü, Kellecioğlu Mevkii	Kellecioğlu=
+92285	Duhancılar Köyü, Tütüncüoğlu Mevkii	Tütüncüoğlu=
+92294	Gaziler Köyü, Abdibeyoğlu Mevkii	Abdibeyoğlu=
+92290	Gaziler Köyü, Karanlıkoğlu Mevkii	Karanlıkoğlu=
+92291	Gaziler Köyü, Köprübaşı Mevkii	Köprübaşı=
+92292	Gaziler Köyü, Müsebeyoğlu Mevkii	Müsebeyoğlu=
+92293	Gaziler Köyü, Paşabeyoğlu Mevkii	Paşabeyoğlu=
+92289	Gaziler Köyü, İncemehmetler Mevkii	İncemehmetler=
+89908	Hacımusa Köyü, Cebeciler Mevkii	Atatürk=|Ayvacık=|Baş Çavuşlar Mengeldi~|Direktaş=|Fatih Sultan Mehmet=|Hakkı Efendi=|Mareşal Fevzi Çakmak=|Menekşe=|Yazlı Orman=|Yeşilyurt=|İsmet Paşa=
+89909	Hacımusa Köyü, Hacımusa Mevkii	Esentepe=|Kayabaşı=|Koralı Mehmet=|Lalezar=|Manolya=|Mareşal Fevzi Çakmak=|Mehmet Akif Ersoy=|Onbaşı Yakup=|Saray=|Sarmaşık=|Vatan=|Çamlık=|Çaylık=|Çilem=|Çiloğlu=|Çiçek=|İstiklal=
+89910	Hacımusa Köyü, Herkime Mevkii	Baş Çavuşlar Mengeldi~|Gazi Mehmet=|Gül=|Hacı Mehmet=|Karşıyaka=|Mareşal Fevzi Çakmak=|Ovalı=|Yeşil=|Çeşme=|Ömer Ağalar=|Şükrü Efendi=
+92295	Karapınar Köyü, Günbeller Mevkii	Günbeller=
+92297	Karapınar Köyü, Hatipler Mevkii	Hatipler=
+92296	Karapınar Köyü, Satuklar Mevkii	Satuklar=
+92300	Muharremler Köyü, Bekiroğlu Mevkii	Bekiroğlu=
+92298	Muharremler Köyü, Mankıroğlu Mevkii	Mankıroğlu=
+92299	Muharremler Köyü, Sakalar Mevkii	Sakalar=
+92301	Namazgah Köyü, Alimler Mevkii	Alimler=
+92302	Namazgah Köyü, Zaimoğlu Mevkii	Zaimoğlu=
+89902	Onmayıs Mah.	Bahar~|Dicle~|Hacı Ahmet Çetin@|Kahyaoğlu@|Kasımlar~|Kaymakam Ayhan Durmuş@|Mankap~|Osmanbaşoğlu~|Partlakoğlu-~|Site~|Süleyman Çelebi~|Sümbül~|Uzunahmetler@|Çamlık@|İnce Dere~|İsmet Paşa@
+92312	Pazarlıoğlu Köyü, Merkez Mevkii	Merkez=
+92313	Saraçlar Köyü	Saralar=
+92315	Uzunahmetler Köyü, Aliusta Mevkii	Aliusta=
+92316	Uzunahmetler Köyü, Partlakoğlu Mevkii	Partlakoğlu=
+92320	Uzunahmetler Köyü, Süleyman Çelebioğlu Mevkii	Süleyman Çelebioğlu=
+92319	Uzunahmetler Köyü, Yardibi Mevkii	Yardibi=
+92321	Uzunahmetler Köyü, Yeni Mevkii	Yeni=
+92314	Uzunahmetler Köyü, Çay Mevkii	Çay=
+92317	Uzunahmetler Köyü, İbadiçelebioğlu Mevkii	İbadiçelebioğlu=
+92318	Uzunahmetler Köyü, Şıhlar Mevkii	Aliusta=|Şıhlar=
+92324	Veyisoğlu Köyü, Enbioğlu Mevkii	Enbioğlu=
+92326	Veyisoğlu Köyü, Hacıoğlu Mevkii	Hacıoğlu=
+92323	Veyisoğlu Köyü, Kelezoğlu Mevkii	Kelezoğlu=
+92325	Veyisoğlu Köyü, Köseoğlu Mevkii	Köseoğlu=
+92328	Veyisoğlu Köyü, Osmanbaşoğlu Mevkii	Osmanbaşoğlu=
+92327	Veyisoğlu Köyü, Varatoğlu Mevkii	Varatoğlu=
+92322	Veyisoğlu Köyü, Veyisoğlu Mevkii	Veyisoğlu=
+92329	Veyisoğlu Köyü, İbrahimbeyoğlu Mevkii	İbrahimbeyoğlu=
+89904	Yeni Mah.	Abbasoğlu~|Alçak Düzü~|Atatürk@|Bayır~|Boduroğlu~|Cılgıroğlu~|Danacıoğlu~|Dar~|Esentepe@|Eyüp Ağa~|Ferhatoğlu Alt~|Ferhatoğlu Üst~|Gündüz~|Güney~|Hürriyet@|Kadılar~|Karanfil~|Kemal Yılmaz~|Köprü Başı~|Kültür~|Kılınçarslanlar@|Menderes~|Menekşe~|Meşe~|Papatya~|Pastacı~|Reis~|Toki~|Trafo~|Veyisoğlu@|Zübeyde Hanım@|Çıkmaz~|Üç Burgu@
+92282	Yeşilköy Köyü, Etcioğlu Mevkii	Etcioğlu=
+92283	Yeşilköy Köyü, Köyün Kendisi Mevkii	Yeşilköy=
+92284	Yeşilköy Köyü, Kütükcüoğlu Mevkii	Kütükçüoğlu=
+89899	Çarşı Mah.	Atatürk@|Dere~|Evaltı~|Kahyaoğlu@|Kamil Karademir@|Kanarya~|Kaymakam Ayhan Durmuş@|Konak~|Orman~|Osmanbaşoğlu~|Saraç~|Zübeyde Hanım@|İsmet Paşa@|Şehit Burak Saraçlı~|Şht.ahmet Karademir@
+89900	Çay Mah.	Akasya~|Ara~|Atatürk@|Barış~|Batur~|Depo~|Değirmen~|Enver Tatbul~|Eski Mahalle~|Fırat~|Fırın~|Gaziler@|Gençlik@|Gurbet~|Gül~|Hastane~|Huzur~|Irmak~|Kılınçarslanlar@|Lale~|Mareşal Fevzi Çakmak~|Nalbant~|Osmanlılar~|Pınar~|Sarmaşık~|Terzi~|Tulumoğlu~|Ulu Cami~|Umut~|Yeni Cami~|Çamlık@|Çanakçılar~|Çay~|Çiğdem~|Özal@|Öğretmen Bahri Kılıçarslan@|İsmet Paşa@|Şehit Mustafa Kızgın~
+92275	Çukur Köyü, Dağköyü Mevkii	Dağköyü=
+92271	Çukur Köyü, Hüseyinbeyoğlu Mevkii	Hüseyinbeyoğlu=
+92273	Çukur Köyü, Karahatipler Mevkii	Karahatipler=
+92272	Çukur Köyü, Kütükoğlu Mevkii	Kütükoğlu=
+92274	Çukur Köyü, Musabeyoğlu Mevkii	Musabeyoğlu=
+181594	Çukur Mah.	Cambazlar~|Gökçebey@|Ortaada~|Yenice@|Çukur@|İshakoğlu~
+92311	Örmeci Köyü, Bayraktar Mevkii	Bayraktar=
+92310	Örmeci Köyü, Emiroğlu Mevkii	Emiroğlu=
+92305	Örmeci Köyü, Erenler Mevkii	Erenler=
+92306	Örmeci Köyü, Salmanlar Mevkii	Salmanlar=
+92308	Örmeci Köyü, Simitcioğlu Mevkii	Simitçioğlu=
+92304	Örmeci Köyü, Tavukçuoğlu Mevkii	Tavukçuoğlu=
+92309	Örmeci Köyü, Uzuneller Mevkii	Uzuneller=
+92307	Örmeci Köyü, Yaboğlu Mevkii	Yaboğlu=
+92303	Örmeci Köyü, Çay Mevkii	Çay=
+89903	Üçburgu Mah.	Abbasoğlu~|Afet Evleri~|Bayır~|Cılgıroğlu~|Davutoğlu~|Dokap~|Fidanlık@|Sanayi~|Sezer~|Stadyum~|Yukarı Mahalle~|Zonguldak@|Üç Burgu@
+89901	İstasyon Mah.	Atatürk@|Aydınlık~|Dere~|Esentepe@|Gelincik~|Hamam~|Kahyaoğlu@|Karaosmanoğlu~|Kılınçarslanlar@|Kırmaçay~|Merdiven~|Millet Bahçe~|Nergiz~|Rüzgarlı Meşe~|Yenimahalle~|Zambak~|Zübeyde Hanım@|Şehıt Hakan Aytaç Karademir~

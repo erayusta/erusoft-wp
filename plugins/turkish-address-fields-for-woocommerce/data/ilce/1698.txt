@@ -1,0 +1,32 @@
+94062	Andaç Köyü	Andaç=
+94063	Andaç Köyü, Aslanlı Mevkii	Aslanlı=
+94065	Ballı Köyü	Ballı=
+94064	Bağlı Köyü	Bağlı=
+94059	Bağlıca Köyü	Bağlıca=
+183810	Bulakbaşı Mah.	1=|Avaşin~|Beroj~|Ceviz~|Meydan~|Serekaniye~|Zozan~|Şevin~
+94066	Dağdibi Köyü	Konut=|Yemişli=
+94067	Gülyazı Köyü	Gülyazı=|Hüseyin Encü- Köy$
+90651	Gündoğdu Mah.	Halit~|Kartal~|Mazlum~|Tepe~|Tepe1~|Tepe2~|Uzungeçit@|Vedat Delokoy@|Vedat Delokoy1~|Zehra~|Şelale~|Şelale1~|Şelale2~
+90660	Hilal Beldesi, Güneşli Mah.	Cumhuriyet@|Hasret~|Hasret1~|Hasret2~|Hasret3~|Hasret4~|Hasret5~|Hasret6~|Hasret7~|Hilal@|Hilal1~|Nergiz~|Yıldız~|Özen~|Şen~
+90662	Hilal Beldesi, Yıldız Mah.	Cumhuriyet@|Cumhuriyet1~|Cumhuriyet2~|Cumhuriyet3~|Cumhuriyet4~|Cumhuriyet5~|Cumhuriyet6@|Cumhuriyet7@|Demir~|Güneş~|Güneş1~|Güneş2~|Güneş3~|Güneş4~|Çiçek~
+90661	Hilal Beldesi, Şehan Mah.	Berfin~|Cumhuriyet@|Dere=|Köprülü~
+94068	Işıkveren Köyü	Işıkveren=
+90654	Küçükçay Mah.	Barış~|Huzur~|Huzur1~|Huzur2~|Nur~|Tekoşin2~|Uzungeçit@
+99518	Kılaban Mah.	Atatürk@|Ceylan~|Cuma@|Cuma1~|Cumhuriyet@|Goyan~|Goyan1~|Gül~|Gül1~|Harun~|Harun1~|Harun2~|Harun3~|Hürriyet@|Kale~|Kale1~|Lale~|Menekşe~|Nar~|Nergiz~|Roj@|Sağlık@|Tamer İnan~|Uludere@|Çimen~
+94061	Ortabağ Köyü	Ortabağ=
+94070	Ortaköy Köyü	Ortaköy Köyü=
+94071	Ortasu Köyü	Ortasu=
+94072	Taşdelen Köyü	Taşdelen=
+90667	Uzungeçit Beldesi, Ayyıldız Mah.	Bayram@|Cumhuriyet@|Güneş@|Karşıyaka~|Ortaokul~|Yeni~|Yıldız~
+90668	Uzungeçit Beldesi, Pınarbaşı Mah.	Alyon~|Aydemir~|Bayram@|Deniz~|Gül~|Opera~|Seyit Mahmut~|Sinan~
+90669	Uzungeçit Beldesi, Tanin Mah.	Bahçe~|Cami~|Evren~|Niyazi Karaca@|Uludere@
+90670	Uzungeçit Beldesi, Yenişehir Mah.	15 Temmuz Demokrasi@|Atatürk@|Aydemir~|Bayram@|Belediye@|Beroja~|Beytüşşebap@|Cumhuriyet@|Gül~|Güneş@|Lale~|Ortaokul~|Çeşme~
+94073	Yemişli Köyü	Yemişli=
+90658	Yeşilyova Mah.	Arin~|Avcılar~|Azad~|Bahçe~|Berfin~|Dere~|Gülistan~|Hiran~|Jiyan~|Kendal~|Mercan~|Mert~|Mizgin~|Park~|Vatan@|Viyan~|Yaman~|Zilan~|Zozan_1~|Şen~
+90656	Ödül Mah.	Güneş@|Mimar Sinan@|Mimar Sinan1~|Mümin~
+90657	Özelli Mah.	Beyaz Su@|Beyaz Su1~|Güneş@|Nosroni~|Tekoşin~|Tekoşin1~
+94069	İnceler Köyü	İnceler=
+90663	Şenoba Beldesi, Ayyıldız Mah.	Bulutlar~|Deraşan@|Hezil1@|Sağlık Ocağı~|Seyrantepe~|Seyrantepe1~|Üçevler@|Şahbaz~
+90664	Şenoba Beldesi, Başkaya Mah.	Avyan=|Ağabey@|Banovyo=|Besta-@|Doğan~|Doğan1~|Gerimah.1=|Gerimah.2~|Girikan Kümesi-~|Girikan~|Girikan. 1~|Huzur=|Huzur-@|Kardelen~|Kaya~|Medya~|Pembe~|Susam~|Sümbül~|Taşaltı~|Yediboru~|Yibo Lojmanları@|İnci~|Şırnak@
+90665	Şenoba Beldesi, Cumhuriyet. Mah.	22.cisınır Tuğ.komtanlığı Şenoba@|48.piyade Sınır Tug.kom.misafirhanesi@|60.yıl~|Bahçelievler~|Belediye Caddesi~|Cumhuriyet@|Cumhuryet~|Gazi~|Hezil Cumhuriyet@|Okul~|Ptt@|Tepe~|Çalı~|Üçtepe@|Şenoba Jandarma Karakol Kom.@
+90666	Şenoba Beldesi, Gazi Mah.	Barış~|Barış1~|Hezil@|Hulisi Sayın3~|Hulusi Sayın 1~|Hulusi Sayın 2~|Hulusi Sayın~|Sevgi~|Zirve~

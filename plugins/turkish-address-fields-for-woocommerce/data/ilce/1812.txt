@@ -1,0 +1,27 @@
+189337	Akkavak Mah.	Akkavak=|Zübeyir Mezrası=
+30009	Bahçeli Mah.	50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|60~|80.çıkmaz~|81.çıkmaz~|82.çıkmaz~|83.çıkmaz~|84.çıkmaz~|Açelya~|Bılınmeyen27~|Bılınmeyen28~|Bılınmeyen29~|Bılınmeyen34~|Bılınmeyen35~|Bılınmeyen42~|Cumhuriyet@|Dere@|Ensar 1~|Ensar~|Ezel 1~|Ezel~|Fesleğen~|Kadife~|Karanfil~|Kevser~|Kırımkaya Yolu~|Kırımkaya Yolu1~|Mergeşin@|Nusret~|Orkide~|Rızgo Komu=|Rızgo Komu/1=|Saadet~|Sarı Yayla=|Sarıveli 1~|Sarıveli@|Sema~|Sevda~|Sırat~|Umut~|Yeniyol~|Çevreyolu@|İhlas~
+30008	Bağlar Mah.	1 Bağlar~|1.çıkmaz-~|10~|11~|12~|13~|14~|15~|16~|17~|2~|2.çıkmaz~|3~|3.çıkmaz~|4~|4.çıkmaz~|5~|5.çıkmaz~|6~|6.çıkmaz~|7~|7.çıkmaz~|8~|8.çıkmaz~|9.çıkmaz~|Asrı Mezarlık@|Binpınar=|Binpınar/1@|Bılınmeyen 81~|Bılınmeyen 82~|Bılınmeyen64~|Bılınmeyen66~|Bılınmeyen69~|Bılınmeyen70~|Bılınmeyen71~|Bılınmeyen77~|Bılınmeyen79~|Bılınmeyen84~|Bılınmeyen85~|Bılınmeyen86~|Bılınmeyen87~|Bılınmeyen88~|Bılınmeyen89~|Cumhuriyet@|Cumhuriyet2~|Dedo Komu=|Defne~|Erenler@|Hakkı Pehlivan@|Kaplan~|Karçıkan Yolu~|Menekşe~|Okul Yolu~|Tebriz~|Tuzla@|Vuslat~|Yibo 1~|Yibo 2~|Yibo 3~|Yibo@|Yıldız~|Zübeyir Mezrası=|Çevre~|Çevreyolu@
+189339	Binpınar Mah.	Binpınar=|Burnaz=|Köşk=
+189341	Bozyar Mah.	Bozyar 1~|Bozyar 2~|Bozyar~|Seyrantepe~|Tungal=
+189343	Budaklı Mah.	Kolumaksut=|Merkez=|Zübeyir Mezrası=|Üçevler~
+189345	Burnaz Mah.	Burnaz=|Karaköprü B.m=|Köşk=|Ovayoncalı=
+189349	Dedeören Mah.	Dedeören=|Ovayoncalı=
+189351	Doğanbey Mah.	Bılınmeyen80~|Faki Şakir Mezrası=|Faki Şekir=|Hatem~|Huri Komu=|Merkez Karaçoban=
+189353	Duman Mah.	Duman=|Halife Komu-~|Maruf=
+189357	Erenler Mah.	Akçalı 1~|Akçalı 2~|Akçalı 3~|Akçalı 4~|Akçalı~|Cibril 1~|Cibril 2~|Cibril 3~|Cibril~|Erenler Merkez=|Feyzulluh Komu~|Hacı Ahmet Komu~|Hacı Reşit Komu~|Hamza Komu 1~|Hamza Komu 2~|Hamza Komu~
+30010	Erhanlar Mah.	42~|43~|44~|45~|46~|47-~|48~|49~|65.çıkmaz~|66.çıkmaz-~|68.çıkmaz~|71.çıkmaz~|72.çıkmaz~|74.çıkmaz~|75.çıkmaz~|76.çıkmaz~|77.çıkmaz~|Akasya~|Aşağı@|Berrak~|Bilinmeyen63~|Bılınmeyen56~|Cumhuriyet@|Faki Şekir=|Fındıklı Komu-1=|Fındıklı Komu-2=|Gelincik~|Hayrat~|Kuran Kursu@|Kuşkonmaz~|Kırımkaya Yolu~|Lale~|Malazgirt Yolu~|Okul@|Papatya~|Rızgo Komu/1=|Sağlık@|İrfan~
+189365	Gündüz Mah.	Gündüz/1=|İbo Komu=
+30011	Hacılar Mah.	10.çıkmaz-~|11.çıkmaz~|12.çıkmaz~|13.çıkmaz~|14.çıkmaz~|15.çıkmaz~|16.çıkmaz~|17.çıkmaz~|18~|18.çıkmaz~|19~|19.çıkmaz~|2.tuzla@|2.tuzla/1~|20~|20.çıkmaz~|21~|21.çıkmaz~|22~|22.çıkmaz~|23~|23.çıkmaz~|24~|24.çıkmaz~|25~|25.çıkmaz~|26~|26.çıkmaz~|27~|27. Çıkmaz~|28~|28.çıkmaz~|29~|29.çıkmaz~|3-tuzla@|30~|30.çıkmaz~|31~|31.çıkmaz~|32. Çıkmaz~|33.çıkmaz~|34.çıkmaz~|35.çıkmaz~|36.çıkmaz~|37~|37.çıkmaz~|38.çıkmaz-~|39.çıkmaz~|40~|40.çıkmaz~|41.çıkmaz~|43.çıkmaz~|Bilinmeyen55~|Binpınar/1@|Bılınmeyen105~|Bılınmeyen13~|Bılınmeyen14@|Bılınmeyen15@|Bılınmeyen17~|Bılınmeyen63~|Bılınmeyen73~|Bılınmeyen75~|Bılınmeyen77~|Bılınmeyen90~|Cumhuriyet@|Defne~|Erenler@|Gündüz@|Gündüz1~|Hastahane@|Hatem~|Lise-@|Manolya~|Nimet~|Tuzla@|Velo Komu-1=|Velo Komu-2=|Velo Komu-3=|Vuslat~|Yasemin~|Zübeyir Mezrası=|Çevreyolu@|Çiğdem~
+189369	Karagöz Mah.	Karagöz=
+189371	Karaköprü Mah.	Karaköprü B.m=|Karmış 5~
+189375	Karmış Mah.	Dedeören=|Karmış 1~|Karmış 2~|Karmış 4~|Karmış 5~|Karmış~|Karmış/7~
+30012	Kavaklı Mah.	3-tuzla@|31~|31_1~|32~|33~|34~|35~|36~|37~|38~|38_1~|38_2~|38_3~|38_4~|38_5~|38_6~|38_7~|38_8~|38_9~|39~|40~|40_1~|41~|42.çıkmaz~|43.çıkmaz~|44.çıkmaz~|45.çıkmaz~|46.çıkmaz~|47. Çıkmaz~|48.çıkmaz~|49.çıkmaz~|50.çıkmaz~|53.çıkmaz-~|54.çıkmaz-~|56.çıkmaz-~|58.çıkmaz~|59.çıkmaz-~|60.çıkmaz~|61.çıkmaz-~|62.çıkmaz~|63.çıkmaz~|64.çıkmaz-~|65.çıkmaz~|Amed~|Aşağı@|Aşağı1~|Bilinmeyen4@|Bilinmeyen55~|Bılınmeyen10~|Bılınmeyen19~|Bılınmeyen22~|Bılınmeyen23~|Bılınmeyen24~|Bılınmeyen25~|Bılınmeyen51~|Bılınmeyen52~|Bılınmeyen80~|Cumhuriyet@|Dere@|Gül~|Hastahane@|Hatem~|Kavaklı Yeni 1~|Kuran Kursu@|Kutu Dere@|Kuşkonmaz~|Leylak~|Reyhan~|Yokuş@|Çevreyolu@|Çınar~
+189335	Kopal Mah.	1=|1.=|1_1=|1_2=|Ahmet Kaplan@|Ahmet Kaplan1~|Ahmet Kaplan2~|Ahmet Kaplan3~|Akarsu=|Bılınmeyen1001~|Bılınmeyen1002~|Bılınmeyen102~|Bılınmeyen103~|Gedik=|Karaçoban Yolu@|Karaçoban Yolu1~|Karaçoban Yolu2~|Neceran=|Okullar@|Okullar1~|Okullar10~|Okullar11~|Okullar2~|Okullar3~|Okullar4~|Okullar5~|Okullar6~|Okullar7~|Okullar8~|Okullar9~|Sağlık/1=|İmam~|İmam1~|İmam2~|Şevo Yolu=
+189385	Kuşluca Mah.	Kuşluca=
+189379	Kırımkaya Mah.	Bizya~|Güzelbaba~|Kırımkaya Merkez=
+189387	Maruf Mah.	Duman=|Maruf=
+189391	Molladavut Mah.	Alişeyh~|Duman=|Güneşli~|Molladavut Merkez=|Surenler=
+189397	Ovayoncalı Mah.	Karmış 5~|Ovayoncalı=
+30013	Sarıveli Mah.	1.=|1/1=|2/1=|3/1=|4/1=|5.=|6.=|60~|7.=|8.=|9.=|Kadife~|Sarı Yayla=|Çevreyolu@
+30014	Seyhan Mah.	1.=|2.=|3.=|4.=
+189347	Çatalgül Mah.	Fetullah Mezrası~|Hacı Nezir Mezrası~|Salkım Mezrası=|Çatalgül=

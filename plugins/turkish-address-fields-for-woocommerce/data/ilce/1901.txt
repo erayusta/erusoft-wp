@@ -1,0 +1,17 @@
+93078	Alıcıyeniyapan Köyü	Alıcıyeniyapan=
+90368	Barbaros Mah.	1~|100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|123~|2~|90~|92~|93~|94~|95~|96~|97~|98~|99~|Alımlı~|Atatürk@|Aziz Şen@|Badem~|Bahar~|Bilinmeyen 16~|Bilinmeyen 20~|Bilinmeyen/barbaros/1~|Bilinmeyen10~|Bilinmeyen14~|Bilinmeyen55~|Bilinmeyen6~|Bilinmeyen8~|Bilinmeyen9~|Bülbüllü@|Bılınmeyen 113~|Hoca Ahmet Yesevi@|Kuyumcu~|Lale~|Mahmut Koç@|Mahmut Koç1~|Mimar Sinan@|Pulat~|Sağlık~|Ulubatlı Hasan@|Vatan@|Yeniyol5~|Yıldırım Beyazıt@|Yıldız~|Çam~|Çimenli~|Özbal~|Şahin@|Şehit Kenan Arı@|Şehit Kenan Arı1~|Şehit Saffet Kuzucu@
+90369	Fatih Mah.	10~|11~|115~|116~|117~|118~|119~|12~|120~|121~|122~|13~|15~|16~|17~|18~|19~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|35~|36~|37~|38~|39~|4~|40~|41~|42~|43~|44~|45~|46~|47~|48~|49~|5~|50~|51~|6~|7~|8~|9~|Alsancak@|Apaydın@|Atatürk@|Bilinmeyen 17~|Bilinmeyen/fatih/1~|Bilinmeyen/fatih/3~|Bilinmeyen11~|Bilinmeyen12~|Bilinmeyen13~|Bilinmeyen15~|Bilinmeyen16~|Bilinmeyen17~|Bilinmeyen18~|Bilinmeyen20~|Bilinmeyen21~|Bilinmeyen22~|Bilinmeyen22.~|Bilinmeyen23~|Bilinmeyen24~|Bilinmeyen25~|Bilinmeyen26~|Bilinmeyen44~|Bilinmeyen51~|Cumhuriyet@|Dörtyol=|Fırat@|Fırat1~|Gül~|Hoca Ahmet Yesevi@|Karaca Uluyol@|Karakeçili~|Mehmet Akif@|Polat@|Pınar~|Soyupek@|Tarım@|Uluyol@|Yeniyol1~|Yeniyol4~|Yunus Emre@|Çoban Yıldızı~|İstiklal@|Şehit Saffet Kuzucu@
+90370	Gülveren Mah.	74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|90~|91~|Aziz Şen@|Aziz Şen/1~|Aziz Şen/2~|Aziz Şen/3~|Bilinmeyen1~|Bilinmeyen2~|Bilinmeyen27~|Bilinmeyen28~|Bilinmeyen28/1~|Bilinmeyen29~|Bilinmeyen3~|Bilinmeyen5~|Ceviz~|Hoca Ahmet Yesevi@|Karanfil~|Kavas Çeşmesi~|Köroğlu@|Mahmut Koç@|Müjde~|Sağlık~|Solmaz~|Songül~|Tepe~|Yeniyol2~|Yeniyol3~|Yeniyol6~|Çamlık~|Çiğdem~|İleri~|İlker~|Şehit Saffet Kuzucu@
+93080	Hacıyusuflu Köyü	Hacıyusuflu=
+93081	Halildede Köyü	Halildede=
+93083	Kaldırım Köyü	Kaldırım=
+93084	Karaağaç Köyü	Karaağaç=
+93085	Karaağıl Köyü	Karaağıl=
+93086	Karabucak Köyü	Karabucak=
+93087	Karahacılı Köyü	Karahacılı=
+93088	Karayakup Köyü	Karayakup=
+93089	Kepirli Köyü	Kepirli=
+93090	Tilkili Köyü	Tilkili=
+90371	Yeni Mah.	124~|125~|126~|127~|128~|53~|54~|55~|57~|58~|59~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|70~|71~|72~|73~|Ar~|Bilinmeyen 7~|Bilinmeyen/yeni/1~|Bilinmeyen/yeni/2~|Bilinmeyen4~|Bilinmeyen50~|Genç Osman~|Hoca Ahmet Yesevi@|Karaağaçyolu@|Mehmet Akif@|Menekşe~|Sancak~|Sümbül~|Yasemin~|Şehit Kubilay@|Şehit Saffet Kuzucu@
+93079	Yukarışıh Köyü	Yukarışıh=
+93082	İğdebeli Köyü	İğdebeli=

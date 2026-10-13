@@ -1,0 +1,232 @@
+79365	Abdurrahmanlı Köyü	 Köy$
+79368	Akdoğmuş Köyü	 Köy$
+79367	Akdoğmuş Köyü, Akpınar Mevki Yaylası Yayla Evleri	 Köy$
+79366	Akdoğmuş Köyü, Kösamar Mevkii	 Köy$
+70932	Akçakolay Mah.	Buhara~|Kırandağı@|Sadrazam Seyyid Hasan Paşa@|Selçuk Bey~|Yayla@|Şehit Yüzbaşı Orhan Çakır~
+183832	Altıparmak Mah.	Altıparmak~|Dere Yolu~|Hacı Çeşmesi~|Hacıköy~|Saha Yolu~
+70943	Baydarlı Beldesi, Gökcesüleymanlı Mah.	Fetih@|Yavuz Selim@
+100273	Baydarlı Beldesi, Gündoğdu Mah.	Abidin Ağa~|Akyazı@|Atatürk@|Aydınlar@|Aşıkoğulları~|Cami~|Demiryürekler~|Eski Köy@|Eski Köy Yolu~|Eskiköy~|Gençler~|Kale Yolu@|Molla Mahmut~|Yayla~|Yılmazlar~|İlk Ev~
+70944	Baydarlı Beldesi, Medrese Mah.	Adnan Menderes@|Cumhuriyet Myd.|Duman~|Fahri Bey Çıkmazı~|Gazi Osman Paşa@|Gül~|Keşenoğlu~|Koçakdede~|Köprübaşı~|Medrese@|Mehmet Akif Ersoy@|Pelitlik=|Pempe~|Polatlar Çıkmazı~|Torunoğlu@|Tuna~|Tunbüstü=|Vatan@|Yılmazlar@|Çiğdem~|İnözü@|Şehit Selcuk Çakmak~|Şerefoğlu~
+70939	Baydarlı Beldesi, Merkez Mah.	29 Ekim Cumhuriyet@|Akasya~|Aydın~|Cumhuriyet Myd.|Demircioğlu~|Gaziosmanpaşa@|Hacı Ahmet Çağman@|Medrese@|Molla Ahmet~|Molla Hüseyin~|Murat Vaki Güzlesi=|Müderris Ahmet Efendi@|Recep Yazıcıoğlu@|Sazak~|Sağlık@|Selvi~|Torunoğlu@|Tılımoğlu~|Yayla=|Çatak Yolu~|Şerefoğlu~
+70942	Baydarlı Beldesi, Yükseliş Mah.	29 Ekim Cumhuriyet@|Belediye~|Cami~|Cumhuriyet Myd.|Emniyet~|Eski Okul@|Eski Selim Han Yolu~|Gündoğdu@|Hasan Dede@|Hatipoğlu~|Karacalar~|Kurtuluş~|Körükcü~|Kızılkaya~|Molla Memet~|Sağlık@|Vatan@|Yeni~|Yıldız@|Şehit Erkan Yiğit Sokak~
+79371	Bayırbaşı Köyü	 Köy$
+79370	Bağdatlı Köyü	 Köy$
+99585	Bereketli Beldesi, Eskituraç Mah.	Cennet Pınarı@|Eskituraç Yaylası=|Karanfil~|Kardelen~|Kundu Şeyh Caddesi@|Nergis~|Papatya~|Sümbül~|Ulu Yol Caddesi@|Yayla Caddesi@|Yazı Caddesi@|Çiğdem~
+140639	Bereketli Beldesi, Hebüllü Mah.	Aşağı~|Bahçeli~|Başak~|Emirgazi@|Fırın~|Harmangaşı~|Harmanyolu~|Hebil Bey~|Hilal~|Huzur~|Hıdırbey~|Meydan~|Okul.~|Sofular@|Tekne~|Tokmakbey~|Yaylası~|Yukarı~
+70986	Bereketli Beldesi, Kayalık Mah.	Aşağıoluk@|Eski@|Kale@|Karşı Mezarlık@|Karşı Tarla~|Kayalık@|Merkez Cami@|Ortadere@|Peğ~|Taşlısökü~|Yeni@
+70987	Bereketli Beldesi, Orta Mah.	Aynadede@|Cinci Harmanı@|Eski@|Kelgölü@|Muratpınarı@|Yeni@|Çeltek Dede@
+70988	Bereketli Beldesi, Yeni Mah.	Aşağıoba=|Küçükköprü~|Lale@|Milal Mezarlığı@|Okul~|Park@|Sağlık Ocağı@|Söğütlüpınar@|Turpüstü@|Yeni@|Yukarı Oba=
+140637	Bereketli Beldesi, Çakraz Mah.	Akşemşettin~|Ertuğrul Gazi@|Fatih Sultan Mehmet@|Gazi Osman Paşa@|Hoca Efendiler~|Mehmet Emin Tokati~|Mehmetçik~|Mevlana~|Mimar Sinan~|Muhsin Yazıcıoğlu~|Sadi Şirazi~|Yiğit~|Yunus Emre~|Çakraz~|Şehit Ali~|Şehit Mehmet~|Şehit Orhan Sürmen~|Şehit Ömer Halis Demir~|Şeyh Edabali~
+79374	Beşdere Köyü, Büyükbeşdere Mevkii	 Köy$
+79372	Beşdere Köyü, Hasanlı Mevkii	 Köy$
+79373	Beşdere Köyü, Küçükbeşdere Mevkii	 Köy$
+79377	Bostankolu Köyü, Bostankolu Deresi Mevkii	 Köy$
+79378	Bostankolu Köyü, Kargı Deresi Mevkii	 Köy$|Kargı Deresi~
+79375	Bostankolu Köyü, Kargı Mevkii	 Köy$
+79376	Bostankolu Köyü, Merkez Mevkii	 Köy$|Göğdere=
+70996	Bozçalı Beldesi, Gerdengeç Mah.	Menekşe@|Tuna@
+70990	Bozçalı Beldesi, Hacı Abidin Mah.	Başçiftlik@|Gaziosmanpaşa@|Gürüfler~|Kelkit~|Yamanlar~|Yeşilırmak~|Şahinler~
+70997	Bozçalı Beldesi, Işıklar Mah.	Esen Tepe@|Maşala (akfırat)@|Maşala@|Taşkale@|Yeşilkent@
+70992	Bozçalı Beldesi, Nizam Mah.	Bayır~|Belediye~|Cumhuriyet@|Dere~|Leylekler~|Ordu@|Pazar Köy$|Tepe~|Yavuzselim@|Çermik~
+70993	Bozçalı Beldesi, Orta Mah.	Atatürk@|Bozçalı Büyük Yaylaobası=|Gerdengeç=|Ordu@|Selvi~|Tepealan Geyicek Obası=|Yayla Işıklar=|Çınar~|İmam~
+70994	Bozçalı Beldesi, Zafer Mah.	Bey~|Kılıçlar~|Merkez~|Niksar@|Ordu@|Pınar~|Sağlık~|Vadi~
+70945	Büşürüm Köyü, Cumhuriyet Mevkii	Altıntaş~|Ateş~|Eraslan~|Gül~|Kara Gelin~|Yenice~
+70946	Büşürüm Köyü, Merkez Mevkii	Atatürk Cadesi~|Aşık Veysel~|Delice~|Demirci~|Döner~|Hatip~|Kültür~|Postahane~|Sağlık Ocağı~|Uykun~|Vural~|Yalçın~|Yıldız~|Çıkmaz~
+70947	Büşürüm Köyü, Yeşilvadi Mevkii	Arslan~|Barıs~|Cami~|Cem~|Güler~|Kaya~|Çakır Usta~|Çam~|Çimen~|Çıldır~|Özgür~|İnönü~
+70952	Cimitekke Beldesi, Alpler Mah.	Ali Gür@|Cumhuriyet@|Seyircioğlu~|İbrahim Aydın~|Şadıllı@
+70953	Cimitekke Beldesi, Cimisadi Mah.	Beykırı@|Cimban=|Hacı Salih Demir@|Köse Onbaşı~|Saitgil~|Sebahattin Demir@|Yunus Gür@|Yıldırım~
+70954	Cimitekke Beldesi, Erenler Mah.	Ali Gür@|Aydın~|Birlik@|Camiönü~|Hacı Salih Demir@|Postaloğlu~|Recep Aydın~|Yazıbaşı~|Yunus Gür@
+70955	Cimitekke Beldesi, Halaçlı Mah.	Fatih@|Ferhat Kurtoğlu@|G.osman Paşa@|Halaçlı Obası=|Nergis~|Okul~|Çamlık@
+79480	Cimitekke Beldesi, Kavaklıdere Mah.	Bahçe~|Bereket@|Dere~|Hürriyet@|Menekşe~|Merkez~|Mevlana@|Yunus Emre@|Çaldibi@
+140641	Cimitekke Beldesi, Keteniği Mah.	Eskiköy~|Hüseyin Çavuşoğlu@|Keteniği Yaylası~|Merkez~
+70956	Cimitekke Beldesi, Çamlık Mah.	Fatih@|G.osman Paşa@|Karanfil~|Meydan~|Çamlık@
+79403	Dalpınar Köyü, Akkaya Mevkii	 Köy$
+79402	Dalpınar Köyü, Damatlar Mevkii	 Köy$
+79404	Dalpınar Köyü, Merkez Mevkii	 Köy$
+79401	Dalpınar Köyü, Çatak Mevkii	 Köy$
+79405	Danişment Köyü	 Köy$
+79409	Darıdere Köyü, Askerağa Mevkii	 Köy$
+79411	Darıdere Köyü, Halaç Mevkii	 Köy$
+79410	Darıdere Köyü, Katırcıoğlu Mevkii	 Köy$
+79406	Darıdere Köyü, İdris Mevkii	 Köy$
+70958	Demircili Köyü, Arzupınar Mevkii	Bahar~|Düzler~|Elmalı~|Güven~|Mehmet Akif~|Pazar~|Selemen~|Ufuk~|Uğur~|Çamlık~|Çeşme~
+70959	Demircili Köyü, Kurtuluş Mevkii	Düzağaç~|Elmalı~|Eren~|Erikli Bahçe~|Fidan~|Gaziosmanpaşa~|Mehmet Akif~|Menekşe~|Uğur~|Zümrüt~|Üzümlü~
+70960	Demircili Köyü, Yavuzselim Mevkii	Düzler~|Fırın~|Gaziosmanpaşa~|Mehmet Akif~|Nehir~|Pazar~|Pınar~|Selemen~|Yayla~|Çay~|Çiçek~|Çınar~
+79412	Dolay Köyü	 Köy$
+196907	Doğantepe Köyü	Birlik~|Dedeoğlu~|Demircioğlu~|Devrişoğlu~|Doğantepe~|Kale~|Topçuoğlu~|Öz~|İmamoğlu~
+79413	Dutdibi Köyü	 Köy$
+98305	Döllük Köyü, Merkez Mevkii	 Köy$
+98304	Döllük Köyü, Mürseloğlu Mevkii	 Köy$
+79538	Elmacık Köyü	 Köy$
+79537	Elmacık Köyü, Elmacık Yayla Evleri	 Köy$
+70935	Emirşeyhyakup Mah.	Ahi Evran@|Ahmet Yanmaz~|Alparslan Türkeş%|Kenan Yıldız~|Mevlana@|Sabahat-ismet Erdem~|Selami Yücel~|Tayyar Kaya~|Tekke~|Tozanlı@|Tüfekçi Mehmet~|Uzun Hakkı~|Uzun Hasan~|Şehit Mustafa Altın~|Şehit Nedim Demir~|Şehit Selçuk Çakmak~|Şevket Demir~
+79415	Esenköy Köyü, Dip Mezrası	 Köy$
+79414	Esenköy Köyü, Merkez Mevkii	 Köy$
+79416	Esenköy Köyü, Tepebaşı Mezrası	 Köy$
+79417	Eymür Köyü	 Köy$
+79418	Eymür Köyü, İnek Alan Yaylası Yayla Evleri	 Köy$
+79419	Eyüp Köyü	 Köy$
+79429	Gurbetli Köyü	 Köy$
+79421	Gökköy Köyü, Keşlik Mevkii	 Köy$
+79420	Gökköy Köyü, Merkez Mevkii	 Köy$
+79425	Göllüköy Köyü, Buloğlu Mevkii	 Köy$
+79427	Göllüköy Köyü, Keti Yayla Evleri	 Köy$
+79428	Göllüköy Köyü, Merkez Mevkii	 Köy$
+79426	Göllüköy Köyü, Temirağa Mezrası	 Köy$
+79422	Gülburnu Köyü, Köseler Mevkii	 Köy$
+79424	Gülburnu Köyü, Merkez Mevkii	 Köy$
+79423	Gülburnu Köyü, Çukur Mevkii	 Köy$
+79431	Gülkonak Köyü	 Köy$
+79430	Gülkonak Köyü, Gülkonak Yaylası Yayla Evleri	 Köy$
+79433	Güllüce Köyü	 Köy$
+79432	Güllüce Köyü, Güllüce Yayla Evleri	 Köy$
+79441	Güneygölcük Köyü, Alibey Mevkii	 Köy$
+79438	Güneygölcük Köyü, Annakkaya Mevkii	 Köy$
+79440	Güneygölcük Köyü, Elmadibi Mevkii	 Köy$
+79437	Güneygölcük Köyü, Gülebili Mevkii	 Köy$
+79439	Güneygölcük Köyü, Karaali Mevkii	 Köy$
+79445	Güvendik Köyü	 Köy$
+79444	Güvendik Köyü, Güvendik Yaylası Yayla Evleri	 Köy$
+79541	Güzeldere Köyü	 Köy$
+79542	Güzeldere Köyü, Güzeldere Yaylası Yayla Evleri	 Köy$
+70966	Hasanşeyh Beldesi, Gündoğan Mah.	Akasya Çıkmazı~|Cumhuriyet@|Erenler~|Gül~|Güneş~|Kamelya~|Çınar~|Şahin~
+99590	Hasanşeyh Beldesi, Gürpınar Mah.	Aydoğanlar~|Boztepe.~|Cami@|Demiryürek Çıkmaz~|Diker Çıkmaz~|Emiroğlu~|Erdem Çıkmaz~|Erikli Dere~|Güneş Çıkmaz~|Gürpınar Yaylası~|Hasanşeyh@|Karacanlar~|Lale~|Pınar~|Saraçoğlu~|Soğuk Oluk~|Toker~|Yıldız~|Çatar~|Çağman~|Çetinkaya~|Özgenç Çıkmaz~
+70962	Hasanşeyh Beldesi, Hasangazi Mah.	Dede Pınarı~|Dervişoğlu~|Esentepe Depo~|Fevzı Çakmak@|Kaleyolu@|Karaağaç~|Karabıyık~|Kaya~|Köypınarı~|Kızılpınar~|Kızılpınar Çayırı~|Lale~|Murat~|Neşet Çavuş~|Sırayüz=|Taşlık~|Tüfekçi~|Yayla=|Yiğit~|Çevreyolu@
+99576	Hasanşeyh Beldesi, Keçiköy Mah.	Cemel~|Cumhuriyet@|Dere Çıkmaz~|Erler Çıkmaz~|Geriş~|Kale~|Kaya~|Keskinler~|Keten=
+70964	Hasanşeyh Beldesi, Tahirbey Mah.	Aydın~|Belediye@|Davul Oluk~|Erdemler~|Fevzı Çakmak@|Halil Hocagil~|Kaleyolu@|Kardelen~|Körüktepesi~|Köypınarı~|Külekçi~|Kızılpınar Dere@|Kızılpınar~|Mektep~|Nilüfer~|P.t.t@|Papatya~|Park~|Stadyum@|Tüfekçi~|Yaylalı=|Yeni~|Yenişehir@|Çavuş~|Çayırlı~|Çevreyolu@|Özdemir~|İkikuşluk~|Şahinler@
+99578	Hasanşeyh Beldesi, Uluköy Mah.	Baraj~|Bağtarla~|Cumhuriyet@|Ketençukuru Güzlesi~|Menekşe Çıkmaz~|Yılmaz~|Şahin Çıkmaz~
+70963	Hasanşeyh Beldesi, Şeyhlioğlu Mah.	Belediye@|Botallı@|Boztepe@|Cami@|Coşkun~|Dündarlar~|Fetahçavuş~|Fevzı Çakmak@|Kabataş~|Kaleyolu@|Karşı=|Körüktepesi~|Külekçi~|Kızılpınar Dere@|Lığla~|Mahmut Çavuş~|Mezbahane~|Nilüfer~|Pazar@|Sağlık~|Stadyum@|Varlık~|Yaylı=|Yeniyol~|Yenişehir@|Çevreyolu@|Çorak~
+79461	Kabalı Köyü, Irmak Mevkii	 Köy$
+79462	Kabalı Köyü, Keti Yayla Evleri	 Köy$
+79463	Kabalı Köyü, Merkez Mevkii	 Köy$
+196909	Kapaklı Köyü	Gedik Yaylası~|Kapaklı~
+79469	Karacaağaç Köyü, Dip Mevkii	 Köy$
+79470	Karacaağaç Köyü, Keltekne Mevkii	 Köy$
+79468	Karacaağaç Köyü, Sergütepesi Mevkii	 Köy$
+79467	Karacaağaç Köyü, Tosunlu Mevkii	 Köy$
+79466	Karacaağaç Köyü, Çidemlik Mezrası	 Köy$
+79471	Karataş Köyü	 Köy$
+79472	Karlıyayla Köyü, Irmak Mevkii	 Köy$
+79474	Karlıyayla Köyü, Karlıyayla Yayla Evleri	 Köy$
+79473	Karlıyayla Köyü, Merkez Mevkii	 Köy$
+79475	Karşıkent Köyü, Bayramaltı Mevkii	 Köy$
+79477	Karşıkent Köyü, Kiren Parası Mevkii	 Köy$
+79476	Karşıkent Köyü, Köy Deresi Mevkii	 Köy$
+79478	Karşıkent Köyü, Merkez Mevkii	 Köy$
+70936	Kayalık Mah.	100.yıl@|Alparslan~|Aşık Veysel~|Cumhuriyet@|Dr Sami Gündüz@|Gazi Duran Yıldırım~|Gazi Hüseyin Demirci~|Gazi Mustafa Arslan~|Hacı Bektaş-ı Veli~|Halil İbrahim Yüce~|Hamdi Erçıktı~|Oruç Reis~|Sağlık@|Serdal Gümüş~|Şehit Erol Yıldız~|Şehit Rıza Bektaş~|Şehit Şenol Durmuş~|Şehit Şükrü Eraslan~|Şeyh Şamil~
+79479	Kaşpınar Köyü	 Köy$
+79482	Konak Köyü	 Köy$
+70937	Kurtuluş Mah.	Ali Rıza Bey@|Atatürk@|Bekir Önder~|Burhan Aras@|Emir Sultan~|Fevzi Çakmak~|Gazi Sabri Oğuz~|Gazi Şehri Yaylacı~|Hacı İlbey~|Hakkı Ünal@|Hamdi Tan~|Hilal~|Kazım Karabekir~|Köroğlu~|Melikşah~|Orhan Gazi~|Oğuz Han~|Sabri Gültekin Gürüf~|Sağlık@|Sultan Reşad@|Sultan Sencer~|Tahir Tüfekçi~|Yahya Kemal~|Yedi Mehmetler~|Yunus Emre~|Yücel Demircioğlu~|Yıldırım Beyazıt~|Zeynep-korkmaz~|İsmet Develi~|Şehit Durgut Aydın~|Şehit Erkan Yiğit@|Şehit Rıza Aldı~|Şehit Yücel Fırtına~|Şehit Şeref Özçelik~|Şevki Temiz~
+79487	Kuyucak Köyü	 Köy$
+70972	Kuzbağı Köyü, Kale Mevkii	Cumhuriyet~|Cüceler~|Daharoğlu~|Hatipler~|Mollaoğulları~|Müftüoğlu~|Pınar~|Yayla~|Çavuşoğlu~|Çukurova~|Ömerpaşa~
+70971	Kuzbağı Köyü, Ömer Paşa Mevkii	Bekirefendi~|Köprübaşı~|Mazinler~|Reşadiye~|Soğukpınar~|Ömerağa~|Ömerpaşa~|Şeyhoğlu~
+79488	Kuzgölcük Köyü	 Köy$
+79485	Köklü Köyü, Büyükbük Mevkii	 Köy$
+79484	Köklü Köyü, Küçükbük Mevkii	 Köy$
+79483	Köklü Köyü, Merkez Mevkii	 Köy$
+79486	Köklü Köyü, İdirin Bükü Mevkii	 Köy$
+70968	Kızılcaören Köyü, Atatürk Mevkii	Ahbunluk~|Ana~|Beş Evler~|Böğür Yol~|Dere~|Karabalçık~|Karşıyaka~|Kurt Gölü~|Okul Yolu~|Çayırlar~|Çıkmaz~
+70967	Kızılcaören Köyü, Ağılyanı Mevkii	Ağılyanı~|Güneş~
+70969	Kızılcaören Köyü, Cumhuriyet Mevkii	Ana~|Bahar~|Dere Çayır~|Dumanlı~|Gülistan~|Güney~|Tekin~|Yayla~|Yayla Yolu~|Çayırlar~
+79492	Muratkaya Köyü, Keti Yaylası Yayla Evleri	 Köy$
+79491	Muratkaya Köyü, Mahmutlu Mezrası	 Köy$
+79489	Muratkaya Köyü, Merkez Mevkii	 Köy$
+79490	Muratkaya Köyü, Tepe Mevkii	 Köy$
+70974	Nebişeyh Köyü, Cafaroğlu Mevkii	Gül~|Kurtuluş~|Lale~|Nagupoğlu~|Okulyolu~|Tuna~|Şht.hayrettin Özmen~
+70975	Nebişeyh Köyü, Emirşeyh Mevkii	Ara~|Karanfil~|Kurtuluş~|Nagupoğlu~|Okulyolu~|Sağlık~|Selvi~|Tuna~|Ulualan~
+70976	Nebişeyh Köyü, Hürriyet Mevkii	Kahramanlar~|Mercan~|Mezra~|Misafiroğlu~|Nagupoğlu~|Papatya~|Sağlık~|Ulualan~|Çiğdem~
+70938	Osmaniye Mah.	100.yıl@|Ahmet Yesevi@|Alperen~|Atatürk@|Dursun Önkuzu~|Ertuğrul Gazi~|Fatih Sultan Mehmet@|Gazi Hüseyin Demirci~|Gazi Osman Paşa@|Gültekin Topçam@|Güvendik~|Kent Park~|Kubilay Han~|Kuzey~|Recep Yazıcıoğlu~|Tahsin Pehlivan~|Yavuz Sultan Selim@|Ziya Gökalp~|Çağmanlar~|İbrahim İnan@|İsmet Hilmi Balcı~|Şen~|Şeyh Edebali~
+79498	Saraykışla Köyü, Alıcık Mevkii	 Köy$
+79499	Saraykışla Köyü, Merkez Mevkii	 Köy$
+79497	Saraykışla Köyü, Yaylası Yayla Evleri	 Köy$
+79500	Sarıyayla Köyü	 Köy$
+79501	Sarıyayla Köyü, Keti Yayla Evleri	 Köy$
+79509	Sazak Köyü, Arzalan Mevkii	 Köy$
+79510	Sazak Köyü, Cemel Mevkii	 Köy$
+79504	Sazak Köyü, Deveciler Mevkii	 Köy$
+79503	Sazak Köyü, Haydarlar Mevkii	 Köy$
+79505	Sazak Köyü, Kendirlik Mevkii	 Köy$
+79507	Sazak Köyü, Kırık Mevkii	 Köy$
+79508	Sazak Köyü, Yenikent Mevkii	 Köy$
+79511	Sazak Köyü, Yeniköy Mevkii	Gürtarla=|Yeniköy Köy$
+79502	Sazak Köyü, Yerlice Mevkii	 Köy$
+79506	Sazak Köyü, Şifli Kırık Mevkii	 Köy$
+70979	Soğukpınar Köyü, Cumhuriyet Mevkii	Ayyıldız~|Barışık~|Bozkayalar~|Civanoğulları (çıkmaz)~|Elver~|Emirşeyh Yakup~|Hacı Bektaş Veli~|Kanber~|Karanfil~|Küşne~|Meşe~|Pelitler~|Pir Sultan Abdal~|Pınarbaşı~|Soğukpınar~|Tepe~|Totoş~|Uğur Mumcu~|Çınar (çıkmaz)~|Özgürlük~|Şirket Tarlası~
+70980	Soğukpınar Köyü, Hürriyet Mevkii	Atatürk~|Balcı~|Demokrasi Meydanı~|Dereyolu~|Mengen~|Merek~|Millet~|Park~|Sağlık~|Totoş~|Yayla~|Yazı Yolu~|Çeşme~|İsmet İnönü~|Şht.bekir Saykın~|Şht.ihsan Demirci~
+70981	Soğukpınar Köyü, Merkez Mevkii	Ara (çıkmaz)~|Belediye~|Gönül~|Güllük~|Kanal~|Karanfil~|Mengen~|Merkez~|Seyran~|Uzun Ali~|Vatan~|Yazı Yolu~|Yüksel (çıkmazı)~|Yükselen~|Çay~|İmamlar~
+79552	Taşlıca Köyü	 Köy$|Küçük Elma Çalı~
+79551	Taşlıca Köyü, Kadılı Mezrası	 Köy$
+79550	Taşlıca Köyü, Yaylası Yayla Evleri	 Köy$
+79553	Toklar Köyü	 Köy$
+79515	Tozanlıfındıcak Köyü, Acemli Mevkii	 Köy$
+79513	Tozanlıfındıcak Köyü, Donbey Mevkii	 Köy$
+79514	Tozanlıfındıcak Köyü, Kamışlık Mevkii	 Köy$
+79512	Tozanlıfındıcak Köyü, Yazı Mevkii	 Köy$
+79523	Umurca Köyü, Aksu Mevkii	 Köy$
+79522	Umurca Köyü, Gökçe Pınar Yayla Evleri	 Köy$
+79524	Umurca Köyü, Merkez Mevkii	 Köy$
+79516	Uğurlu Köyü, Kustam Mevkii	 Köy$
+79517	Uğurlu Köyü, Merkez Mevkii	 Köy$
+79519	Uğurlu Köyü, Uğurlu Yaylası Yayla Evleri	 Köy$
+79518	Uğurlu Köyü, Çakır Mevkii	 Köy$
+79525	Yağsiyan Köyü	 Köy$
+200875	Yeni Darıderesi Köyü, Köyün Kendisi Mevkii	Arım Köy$|Kavlağan Köy$
+79527	Yenituraç Köyü	 Köy$|Pehlivan Ağılı~
+79526	Yenituraç Köyü, Kılıçlı Mevkii	 Köy$
+79529	Yeşilyurt Köyü, Merkez Mevkii	 Köy$
+79528	Yeşilyurt Köyü, Yoğurtluca Mevkii	 Köy$
+79530	Yeşilyurt Köyü, Yumurcaktaş Mevkii	 Köy$
+70983	Yolüstü Köyü, Kale Mevkii	1~|10~|11~|12~|13~|14~|15~|16~|2~|3~|4~|5~|6~|7~|8~|9~|Ahmet Pehlivan~|Belediye~|Cumhuriyet~|Fatih~|Gazi Osman Paşa~|Hayrat~|Kale~|Kazım Karabekir~|Mehmet Koçyiğit~|Mevlana~|Mevsim~|Nazif İlhan~|Salih Şahin~|Sağlık~|Uygar~|Yunus Emre~|Çağdaş~|Çiğdem~|Ümit~|Şehitler~
+70984	Yolüstü Köyü, Merkez Mevkii	Bahar~|Erenler~|Huzur~|Karanfil~|Mustafa Bolat~|Nazif İlhan~|Peşli~|Pınar~|Sadet~|Yuvam~|Ömür~
+70985	Yolüstü Köyü, Zinav Mevkii	Aydınlık~|Cumhuriyet~|Ender~|Güzel~|Mehtap~|Molla Osman~|Nazif İlhan~|Okul~|Peşli~|Zinav~|Çay~
+79531	Yoğunpelit Köyü, Kasımlar Mevkii	 Köy$
+79532	Yoğunpelit Köyü, Merkez Mevkii	 Köy$
+79533	Yuvacık Köyü, Hacı Murat Mevkii	 Köy$
+79534	Yuvacık Köyü, Kışlaoğlu Mevkii	 Köy$|Cıbırlar Mahallesi~
+79535	Yuvacık Köyü, Merkez Mevkii	 Köy$
+79381	Çakmak Köyü	 Köy$
+79380	Çakırlı Köyü	 Köy$
+79379	Çakırlı Köyü, Çakırlı Yaylası Yayla Evleri	 Köy$
+79384	Çambalı Köyü	 Köy$
+79383	Çambalı Köyü, Keti Yaylası Yayla Evleri	 Köy$
+79382	Çambalı Köyü, Kiraz Alanı Yaylası Yayla Evleri	 Köy$
+70933	Çamlıca Mah.	Altıntepe~|Ayyıldız~|Dr.sami Gündüz@|Elçibey~|Gazi Azamet Şimşek~|Mimar Sinan@|Rauf Denktaş~|Serdengeçti~|Sultan Reşad@|Sultan Sencer~|Zeynep-korkmaz~|Şehit Cengiz Otyakmaz@
+79387	Çamlıkaya Köyü, Batmış Yayla Evleri	 Köy$
+79385	Çamlıkaya Köyü, Gedik Yayla Evleri	 Köy$
+79388	Çamlıkaya Köyü, Kayabaşı Mevkii	 Köy$
+79386	Çamlıkaya Köyü, Merkez Mevkii	 Köy$
+79389	Çat Köyü	 Köy$
+79391	Çavuşbeyli Köyü	 Köy$
+79390	Çavuşbeyli Köyü, Irmak Mevkii	 Köy$
+79392	Çayırpınar Köyü, Adatepe Mevkii	 Köy$|Ata Sanayi~|Küçük Ata Sanayi~
+79395	Çayırpınar Köyü, Bük Mevkii	 Köy$
+79393	Çayırpınar Köyü, Gölayağı Mevkii	 Köy$
+79394	Çayırpınar Köyü, Mere Mevkii	 Köy$
+79396	Çayırpınar Köyü, Yeni Mevkii	 Köy$
+79397	Çayırpınar Köyü, Yolyaka Mevkii	 Köy$
+70934	Çermik Mah.	Ahmet Yesevi@|Bayındır~|Bilge Kağan~|Cihangir Kahraman~|Evliya Çelebi~|Gazi Ahmet Öztürk~|Gülseda~|Gün Sazak~|Hatip~|Huzur~|Kadife~|Kale~|Kemal Tüfekçi@|Kültigin~|Kürşat~|Lojmanlar~|Mehmet Akif Ersoy@|Mustafa Cemiloğlu~|Necip Fazıl~|Nene Hatun~|Orman~|Osman Gazi~|Termal~|Turgut Reis@|Tuğrul Bey~|Ulubatlı Hasan~|Yavuz Sultan Selim@|Yıldırımlar~|Zümrüt~|Çiğdem~|İbrahim Şahin~|İskefsir~|İstiklal~|Ş. Feramil Ferhat Kaya~|Şehit Alaaddin Elyürek~|Şehit Birol Şimşek~|Şehit Cengiz Murat~|Şehit Duran Özer~|Şehit Hayrettin Özmen~|Şehit Osman Özdemir~|Şehit Ömer Yılmaz~|Şehit İsa Doğan~|Şen~|Şeyh Edebali~
+70948	Çevrecik Köyü, Atatürk Mevkii	Ara~|Gençlik~|Gürbüz~|Güzle~|Hayatyanı~|Kılıçlı~|Okul~|Papatya~|Uğur Mumcu~|Yeni~
+70949	Çevrecik Köyü, Cumhuriyet Mevkii	Akkaya~|Aydın~|Barış~|Bağlar~|Dik Yol~|Hızar~|Karaçam~|Lale~|Uğur Mumcu~|Zinavyolu~|Çelep Bayırı~
+70950	Çevrecik Köyü, İnönü Mevkii	Aydoğdu~|Bayır~|Bağlar~|Cami~|Gökçe~|Göl Yolu~|Gül~|Hayta~|Kemal Paşa~|Uğur Mumcu~|Özdemir~|Özgürlük~
+79399	Çınarcık Köyü, Hamzalı Mevkii	 Köy$
+79400	Çınarcık Köyü, Merkez Mevkii	 Köy$
+79398	Çınarcık Köyü, Yolbilen Mevkii	 Köy$
+79493	Özen Köyü	 Köy$
+79496	Özlüce Köyü, Keçeli Mevkii	 Köy$
+79494	Özlüce Köyü, Mollaoğlu Mevkii	 Köy$
+79495	Özlüce Köyü, Özlüce Mevkii	 Köy$
+79447	İbrahimşeyh Köyü	 Köy$
+79446	İbrahimşeyh Köyü, İbrahimşeyh Yaylası Yayla Evleri	 Köy$
+79448	İslamlı Köyü	 Köy$
+79449	İslamlı Köyü, Katı Yaylası Yayla Evleri	 Köy$
+79454	İsmailiye Köyü, Aydınlar Mevkii	 Köy$
+79453	İsmailiye Köyü, Ağcalar Mevkii	 Köy$
+79456	İsmailiye Köyü, Bayramaltı Yayla Evleri	 Köy$
+79459	İsmailiye Köyü, Coşkunlar Mevkii	 Köy$
+79451	İsmailiye Köyü, Erdemler Mevkii	 Köy$
+79460	İsmailiye Köyü, Erdemler Yaylası Yayla Evleri	 Köy$
+79452	İsmailiye Köyü, Hündüllü Mevkii	 Köy$
+79455	İsmailiye Köyü, Mandallı Önü Mezrası	 Köy$
+79457	İsmailiye Köyü, Tahta Mevkii	 Köy$
+79458	İsmailiye Köyü, Uçarlar Mevkii	 Köy$
+79450	İsmailiye Köyü, Yüceler Mevkii	 Köy$

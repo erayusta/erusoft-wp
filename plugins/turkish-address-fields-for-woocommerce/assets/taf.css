@@ -1,0 +1,5 @@
+/* Turkish Address Fields */
+.eru-taf-row .select2-container { width: 100% !important; }
+.eru-taf-row select { width: 100%; }
+.eru-taf-no-number label { font-weight: normal; }
+.eru-taf-no-number .optional { display: none; }

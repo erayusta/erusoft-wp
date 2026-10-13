@@ -1,0 +1,40 @@
+4836	Akdamar Köyü	Akdamar=
+99010	Baraj Mah.	300 Nolu~|301 Nolu~|302 Nolu~|303 Nolu~|304 Nolu~|305 Nolu~|306 Nolu~|307 Nolu~|308 Nolu~|309 Nolu~|Atatürk@|Cumhuriyet@|Dsi=|Fevzi Çakmak@|Hüriyet@|Konteynır Merkezi=|Yunus Emre@|Zeynel Aslan@|Örentaş=
+4838	Bayırlı Köyü	Bayırlı=
+4839	Bayırlı Köyü, Başaklı Mezrası	Başaklı=
+4840	Bayırlı Köyü, Tokaçlı Mezrası	Tokaçlı=
+4837	Bağarası Köyü	Bağarası=
+4845	Doğanca Köyü	Doğanca=
+4847	Doğanca Köyü, Uyanık Mezrası	Uyanık=
+4846	Doğanca Köyü, Çille Mezrası	Çille=
+4851	Gölpınar Köyü	Gölpınar=
+4849	Göltarla Köyü	Göltarla=
+4848	Göltarla Köyü, Keçiören Mezrası	Keçiören=
+4850	Göltarla Köyü, Sarıkök Mezrası	Sarıkök=
+572	Kale Mah.	100 Nolu~|101 Nolu~|102 Nolu~|103 Nolu~|104 Nolu~|105 Nolu~|106 Nolu~|107 Nolu~|108 Nolu~|109 Nolu~|111 Nolu~|112 Nolu~|113 Nolu~|114 Nolu~|115 Nolu~|118 Nolu~|118 Noluu~|119 Nolu~|123 Nolu~|6 Nolu~|Adıyaman@|Atatürk@|Belediye%|Gazi@|Konteynır Barınma Merkezi=|Sait Yavaş@|Vatan@|Yavuz Selim@|Yunus Emre@|Zeynel Aslan@
+4859	Kovanoluk Köyü	Kovanoluk=
+4860	Kuştepe Köyü	Kuştepe=
+4852	Kırmacık Köyü	Kırmacık=
+4853	Kırmacık Köyü, Altıntepe Mezrası	Altıntepe=
+4856	Kırmacık Köyü, Bakacak Mevkii	Bakacak=
+4857	Kırmacık Köyü, Kıraç Mevkii	Kıraç=
+4854	Kırmacık Köyü, Yeşilbağ Mevkii	Yeşilbağ=
+4855	Kırmacık Köyü, Çeşmebaşı Mevkii	Çeşmebaşı=
+4858	Kızılöz Köyü	Kızılöz=
+4861	Ovacık Köyü	Ovacık=
+4862	Taşkuyu Köyü	Taşkuyu=
+4863	Taşkuyu Köyü, Dasınca Mezrası	Dasınca=
+4864	Tepeönü Köyü	Tepeönü=
+4866	Tepeönü Köyü, Bekçiler Mezrası	Bahçe=
+4865	Tepeönü Köyü, Sefvanköy Mezrası	Sefvanköy=|Taşkuyu=
+4867	Uzuntepe Köyü	Uzuntepe=
+4868	Uzuntepe Köyü, Ağaköy Mezrası	Ağaköy=
+4869	Yarımbağ Köyü	Yarımbağ=
+4871	Yarımbağ Köyü, Kergekuşu Mezrası	Altıntepe=|Kergekuşu=
+4870	Yarımbağ Köyü, İnceali Mezrası	İnceali=
+574	Yavuz Selim Mah.	200 Nolu~|201 Nolu~|202 Nolu~|203 Nolu~|204 Nolu~|205 Nolu~|206 Nolu~|207 Nolu~|208 Nolu~|209 Nolu~|210 Nolu~|211 Nolu~|212 Nolu~|213 Nolu~|214 Nolu~|215 Nolu~|216 Nolu~|217 Nolu~|218 Nolu~|219 Nolu~|220 Nolu~|221 Nolu~|222 Nolu~|223 Nolu~|224 Nolu~|300 Nolu~|9~|Adıyaman@|Atatürk@|Cumhuriyet@|Fatih@|Fevzi Çakmak@|Gazi@|Hüriyet@|Konteyner Barınma 1=|Konteynır Barınma 2=|Konteynır Barınma=|Kıbrıs@|Zeynel Aslan@
+4843	Çiçek Köyü	Çiçek=
+4842	Çiçek Köyü, Bekircik Mezrası	Bekircik=
+4841	Çiçek Köyü, Doğanlar Mezrası	Doğanlar=
+4844	Çiçek Köyü, Gümüşsuyu Mezrası	Gümüşsuyu=
+573	Örentaş Mah.	401 Nolu~|402 Nolu=|403 Nolu~|404 Nolu~|405 Nolu~|406 Nolu~|407 Nolu~|408 Nolu~|409 Nolu~|410 Nolu~|411 Nolu~|412 Nolu~|413 Nolu~|414 Nolu~|415 Nolu~|416 Nolu~|417 Nolu~|Adıyaman@|Eyyüp Cenap Gülpınar@|Fidan Dikme@|Konteynır=|Uzuntepe=|Örentaş=

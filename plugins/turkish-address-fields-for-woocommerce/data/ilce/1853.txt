@@ -1,0 +1,84 @@
+21602	Altınbaşak Beldesi, Büyük Kadağan Mah.	10~|12~|17~|19~|21~|23~|25~|8.~|Atatürk@|Yol1~|Yol3~|Yol36~|Yol37~|Yol38~|İnönü@
+21605	Altınbaşak Beldesi, Fırat Mahellesi Mah.	1~|11~|13~|15~|2~|3~|4~|5~|6~|7~|9~|Atatürk@|Eskişıhlı=|Sed@|Yol41~|Yol5~|İnönü@
+183716	Altınbaşak Beldesi, Küçükkadağan Mah.	100.~|101.~|101./1~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|90.~|91~|92.~|92./1~|93.~|94.~|95.~|96.~|97.~|97./1~|98.~|99.~|Küçükkadağan=|Mertekli@|Munzur@|Yalınca@|Yalınca/1~|Yeniyol 1~|Yeniyol~
+21604	Altınbaşak Beldesi, Pınarbaşı Mah.	110~|111~|112~|113~|114~|115~|116~|117~|118~|24~|26~|28~|30~|32~|34~|35.=|36~|38~|40~|42~|44~|46~|53~|55~|57~|58~|59~|60~|61~|63~|65~|67~|69~|71~|73~|75~|85~|87~|Atatürk_1=|Belediye@|Celal Toraman%|Kanal@|Kırhandı~|Kırklar Myd.|Nato@|Nazım Hikmet@|Pancar@|Uğur Mumcu@|Vatan@|Yarbaşı~|Yarbaşı-~|Yol10~|Yol11~|Yol12~|Yol13~|Yol14~|Yol16~|Yol19~|Yol2~|Yol39~|Yol4~|Yol40~|Yol42~|Yol6~|Yol8~|Yol9~|İsmet Paşa@
+21606	Altınbaşak Beldesi, Süleymanlı Mahellesi Mah.	48~|50~|52~|54~|56~|62~|64~|66~|68~|70~|72~|74~|76~|77~|78~|79~|80~|81~|82~|83~|84~|86~|88~|89~|Celal Toraman%|Celal Toraman/1~|Celal Toraman/2~|Cumhuriyet@|Erzincan@|Kanal@|Karanfil~|Nato@|Nato/1~|Pancar@|Yol25~|Yol26~|Yol27~|Yol29~|Yol30~|Yol31~|Yol32~|Yol33~|Yol34~|Yol35~|Üzümlü%|Üzümlü/1~|İstiklal@
+21603	Altınbaşak Beldesi, İstasyon Mah.	14~|16~|18~|20~|22~|24~|27~|29~|31~|33~|35~|37~|39~|41~|43~|45~|45/1~|47~|49~|51~|Ada@|Cumhuriyet@|Cumhuriyet/1~|Yol20~|Yol21~|Yol22~|Yol23~|Yol24~|Yol26~|Yunus Emre@
+29814	Avcılar Köyü	Avcılar=
+29817	Avcılar Köyü, Eski Avcılar Mevkii	Eski Avcılar=
+29815	Avcılar Köyü, Galca Mezrası	Galca=
+29816	Avcılar Köyü, Kom Mezrası	Kom=
+21590	Babacan Mah.	4006~|58~|62~|63~|67~|70~|Dereboğazı@|Eyüp Sultan@|Mollapiri@
+21591	Bahçeşehir Mah.	109-~|111~|112~|116~|118~|12~|129~|133~|134~|137-~|138~|159~|2021~|2022~|3007~|3008~|3009~|3011~|3012~|3013~|3015~|3016~|3016/1~|3018~|3019~|3020~|3021~|Abdulhamithan@|Cumhuriyet Myd.|Metehan@|Mevlana@|Taş Köprü@|Ulubatlı Hasan@|Yavuz Sultan Selim@|Şehir Yolu@|Şeyhbağı@|Şeyhbağı1~
+29852	Balabanlı Köyü	Balabanlı=
+29851	Balabanlı Köyü, Çaykomu Mezrası	Sağlamlı=|Çaykomu=
+21607	Bayırbağ Köyü, Akbulut Mevkii	34.-~|35.=|36.-~|37.-~|38.-~|39.-~|40.-~|41.-~|42.-~|43.-~|44.-~|45.-~|46.-~|47.-~|48.-~|49.-~|50.-~|51.-~|52.-~|53.-~|54.-~|55.-~|56.-~|57.-~|58.-~|Atatürk~|Menderes-~|Menderes/10=
+21608	Bayırbağ Köyü, Atatürk Mevkii	18~|18/1~|19~|20~|21-~|22-~|23~|24~|25~|26-~|27-~|28-~|29-~|30-~|31-~|32.-~|33-~|59-~|60-~|61-~|62-~|63-~|64-~|65-~|66-~|67-~|68-~|69-~|70-~|71-~|72-~|73-~|74-~|75-~|76-~|77-~|78-~|Atatürk~|Atatürk/18=|Atatürk/19~|Atatürk1~|Atatürk10~|Atatürk11~|Atatürk12~|Atatürk13~|Atatürk14~|Atatürk15~|Atatürk16~|Atatürk17~|Atatürk18~|Atatürk19~|Atatürk2~|Atatürk20~|Atatürk21~|Atatürk22~|Atatürk23~|Atatürk24~|Atatürk3~|Atatürk4~|Atatürk5~|Atatürk6~|Atatürk7~|Atatürk8~|Atatürk9~|Atatürk_1=|Menderes-~|Menderes/10=|Pahnik-~
+21609	Bayırbağ Köyü, Bahçelievler Mevkii	12-~|13-~|14-~|15-~|16-~|17-~|Menderes/10=|Venk-~|Çiftlik/1~
+21610	Bayırbağ Köyü, Yunus Emre Mevkii	1.-~|10.-~|12.-~|14.-~|2-~|3-~|4-~|5-~|6-~|7-~|8-~|9-~|Camı Meydanı-~|Menderes=|Menderes/10=|Vank-~
+29818	Bağlar Köyü	Bağlar=
+29819	Bağlar Köyü, Bağlar Demirkapı Mezrası	Bağlar Demirkapı=
+29850	Bağlar Köyü, Sansa Mevkii	Sansa=
+29820	Bağlar Köyü, Çikolar Mezrası	Çikolar=
+29821	Bulanık Köyü	Bulanık=
+29822	Büyükköy Köyü	Büyükköy=
+29823	Büyükköy Köyü, Büyükköy Eski Yerleşim Mevkii	Büyükköy Eski Yerleşim=
+21592	Ciminli Baba Mah.	108~|3016~|7001~|7002~|7003~|7004~|7005~|7006~|7007~|7008~|7009~|7010~|Agdaşlar@|Barbaros@|Erzincan%|Fatıh Sultan Mehmet-~|Halitpaşa~|Kazım Karabekir-@|Kazım Karabekir/31~|Mevlana@|Oruç Reis@|Çiftlik@|İbni Sina@
+29799	Demirpınar Köyü	Demirpınar=
+29800	Denizdamı Köyü	Denizdamı=
+29836	Derebük Köyü	Derebük=
+29837	Esenyurt Köyü	Esenyurt=
+29838	Esenyurt Köyü, İnandık Mezrası	İnandık=
+21595	Fatih Mah.	3019~|350~|352~|354~|355~|356~|357~|358~|359~|364~|368~|369-~|9002~|9003~|9010~|9023~|A Blok 186 Adet Üzümlü Toki~|A Blok 186 Adet Üzümlü Toki/2~|A Blok 186 Adet Üzümlü Toki/3~|A Blok 186 Adet Üzümlü Toki/4~|A Blok 186 Adet Üzümlü Toki/5~|Ebabil@|Ebabil/1~|Ergenekon@|Ergenekon/1~|Erzincan%|Mevlana@|Mimar Sinan@|Mithatpaşa@|Mithatpaşa/1~|Nato@|Necip Fazıl Kısakürek-@|Yıldırım Beyazıt@|Çanakkale~
+21601	Geyikli Mah.	12002~|12021~|12022~|12023~|12024~|12025~|12026~|12027~|12028~|12030~|12034~|12039~|12041~|12042~|12044~|134~|2027~|401~|402~|403~|404~|405~|408~|410~|411~|412~|413~|415~|417~|418~|Doğu Blok Geyikli Toki-=|Mezra@|Nato@|Ulu@|Yeni@|Çadırtepe=|Şehir Yolu@|Şehiryolu1~
+29801	Göller Köyü	Göller=
+29839	Karacalar Köyü	Karacalar=
+29840	Karacalar Köyü, Karacalar Eski Köy Mevkii	Karacalar Eski Köy=
+21613	Karakaya Köyü, Ergenekon Mevkii	14~|15-~|16~|17=|18-~|19-~|20-~|21-~|22-~|Anayol=|Dedekorkut~|Kerkük-~|Menderes=|Sırasöğütler-~
+21614	Karakaya Köyü, Fevzipaşa Mevkii	23-~|24-~|25~|26-~|27.=|28=|29-~|30.=|31.=|32-~|33-~|34=|35=|35..~|36-~|37-~|Atatürk=|Aşıklar-~|Fatih-~|Köroğlu=|Menderes=|Sofular=
+21611	Karakaya Köyü, Çermik Mevkii	10~|11 Onbir~|12-~|13-~|5.~|6-~|7=|8-~|9~|E-80-~|Çermik=
+21612	Karakaya Köyü, Çınarlı Mevkii	1.=|2.=|3.=|4.-~|Atatürk=|Menderes=
+29804	Kureyşlisarıkaya Köyü	Kureyşlisarıkaya=
+29806	Kureyşlisarıkaya Köyü, Ahmetağa Mezrası	Ahmetağa=
+29809	Kureyşlisarıkaya Köyü, Akbinburnu Mezrası	Akbinburnu=
+29805	Kureyşlisarıkaya Köyü, Akören Ve Aşağı Akören Mezrası	Akören Ve Aşağı Akören=
+29811	Kureyşlisarıkaya Köyü, Gülpınar Mezrası	Gülpınar=
+29803	Kureyşlisarıkaya Köyü, Hasanağa Mezrası	Hasanağa=
+29808	Kureyşlisarıkaya Köyü, Kazmalı Mezrası	Kazmalı=
+29810	Kureyşlisarıkaya Köyü, Reso Sarıçam Mezrası	Reso Sarıçam=
+29807	Kureyşlisarıkaya Köyü, Sedo Mezrası	Sedo=
+443978	Mimar Sinan Mah.	10010~|10016~|10031~|C Blok 368 Adet Üzümlü Toki=|D Blok 368 Adet Üzümlü Toki=|E Blok 368 Adet Üzümlü Toki=
+701987	Muhsin Yazıcıoğlu Mah.	12004~|12009~|12014~|12020~|12021~|Batı Blok Geyikli Toki~|Geyikli1~|Geyikli10~|Geyikli101~|Geyikli11~|Geyikli12~|Geyikli13~|Geyikli14~|Geyikli15~|Geyikli17~|Geyikli18~|Geyikli3~|Geyikli4~|Geyikli5~|Geyikli6~|Geyikli7~|Geyikli8~|Geyikli9~|Yeni@|Şehir Yolu@
+29812	Ocakbaşı Köyü	Ocakbaşı=
+29813	Ocakbaşı Köyü, Sağlamlı Mezrası	Sağlamlı=
+21596	Oruçlu Mah.	4006~|5006~|5007~|5009~|70~|76~|76/11~|77~|78~|79~|80~|82~|88~|89~|Eyüp Sultan@|Menderes@|Menderes1~|Mollapiri@|İbni Sina@
+29841	Otluk Köyü	Otluk=
+29842	Pelitli Köyü	Pelitli=
+29848	Pelitli Köyü, Bektaş Mezrası	Bektaş=
+29844	Pelitli Köyü, Derebük Mezrası	Derebük=
+29846	Pelitli Köyü, Değirmendere Mezrası	Değirmendere=
+29847	Pelitli Köyü, Sülümür Mezrası	Sülümür=
+29843	Pelitli Köyü, Yıldız Mezrası	Yıldızlı=
+29845	Pelitli Köyü, İstasyon Geçit Mezrası	İstasyon Geçit=
+21597	Piri Sami Mah.	11007~|11011~|11012~|11013~|11014~|11015~|343-~|359~|378~|379~|380~|382~|384~|385-~|Abdulkadir Geylani@|Akşemseddin@|Altıntepe@|B Blok 368 Adet Üzümlü Toki~|B Blok 368 Adet Üzümlü Toki/1~|B Blok 368 Adet Üzümlü Toki/2~|B Blok 368 Adet Üzümlü Toki/3~|Erzincan%|Erzincan@|Hezerfen Ahmet Çelebi@|Hezerfen Ahmet Çelebi/1~|Mimar Sinan@|Mithatpaşa/1~|Nato@|Yol26~|Yol345~
+29802	Pişkidağ Köyü	Anayol=|Pişkidağ=
+29849	Pınarlıkaya Köyü	Pınarlıkaya=
+21598	Terzibaba Mah.	238~|239~|250~|251~|8001~|8002~|8003~|8004~|8005~|8006~|8010~|8012~|8013~|8014~|8015~|8016~|8017~|8017/1~|8018~|Agdaşlar@|Barbaros@|Bedir@|Bedir/1~|Bedir/2~|Bedir/3~|Dede Korkut@|Erzincan%|Fatih Sultan Mehmet@|Fevzipaşa@|Hamdi Paşa@|Kazım Karabekir@|Necip Fazıl Kısakürek@|Talas@|Çiftlik@|Çiftlik/1~
+940874	Yavuz Selim Mah.	11011~|350~|9016~|9021~|9024~|A Blok 186 Adet Üzümlü Toki/5~|A Blok 186 Adet Üzümlü Toki/6~|A Blok 186 Adet Üzümlü Toki/7~|A Blok 186 Adet Üzümlü Toki/8~|A Blok 186 Adet Üzümlü Toki/9~|Mithatpaşa@|Mithatpaşa/1~
+21600	Yunus Emre Mah.	10004~|10005~|10007~|10008~|10009~|10020~|10032~|10033~|10037~|10038~|10039~|10040~|1041~|1042~|1043~|241~|270~|273~|275~|277-~|Bedir@|Bedir/3~|Bedir1~|Cimin@|Dede Korkut@|Erzincan%|Erzincan1~|Fatih Sultan Mehmet@|Fevzipaşa@|Hacı Halit~|Hamdi Paşa@|Nato@|Talas-@|Turgut Reis@
+29798	Çadırtepe Köyü	Nato@|Çadırtepe=|Şehir Yolu@
+29824	Çamlıca Köyü	Çamlıca=
+29826	Çardaklı Köyü	Çardaklı=
+29834	Çardaklı Köyü, Düzali Mezrası	Düzali=
+29825	Çardaklı Köyü, Gedikarkası Mezrası	Gedikarkası=
+29833	Çardaklı Köyü, Maho Mezrası Mezrası	Maho=
+29832	Çardaklı Köyü, Orum Mezrası Mezrası	Orum=
+29830	Çardaklı Köyü, Çardaklı Dermeli Mezrası Mezrası	Çardaklı Dermeli=
+29829	Çardaklı Köyü, Çardaklı Düzali Mezrası Mezrası	Çardaklı Düzali=
+29827	Çardaklı Köyü, Çardaklı Gedikarası Mezrası Mezrası	Çardaklı Gedikarkası Mezrası~
+29828	Çardaklı Köyü, Çardaklı Murat Komu Mezrası Mezrası	Murat Komu=
+29831	Çardaklı Köyü, Çardaklı Şako Mezrası Mezrası	Çardaklı Şako=
+21593	Çavuşlu Mah.	101~|108~|58~|6006~|6010~|6011~|61-~|91~|92~|93~|94~|95~|96~|98~|Abdulbaki@|Barbaros@|Cumhuriyet Myd.|Erzincan%|Eyüp Sultan@|Menderes@|Çavuşlu Yeni Yol 1~|İbni Sina@
+21594	Çay Mah.	1~|1007~|1012~|1013~|1026~|13~|15~|17~|2-~|3~|5~|50~|52~|54~|55~|56~|57~|58~|6~|60~|61~|9~|96~|Abdulbaki@|Alparslan Türkeş Myd.|Bağlar@|Bağlar/2~|Cumhuriyet Myd.|Dereboğazı@|Eyüp Sultan@|Karakavak@|Mollapiri@|Çay@|Şehir Yolu@|Şeyhbağı@
+29835	Çayıryazı Köyü	Çayıryazı=
+21599	Üçler Mah.	1072~|134~|162~|166~|169~|171~|172~|178~|182~|184~|185~|188~|188-~|189~|190~|2019~|2020~|2021~|2022~|2023~|2024~|2025~|2026~|2027~|5~|6~|Bağlar@|Bağlar/1~|Bağlar/2~|Yavuz Sultan Selim@|Şehir Yolu@|Şeyhbağı@

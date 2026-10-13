@@ -1,0 +1,70 @@
+151789	Abdili Mah.	Fırışlıh~|Merkez~|Musalı~|Yayla~
+199011	Akkırık Mah.	Ericek=|Hartamalık=|Karaoltuk=|Kuyliç=|Merkez=
+184190	Akpınar Mah.	Akpınar~|Akpınar Yayla~
+151687	Alan Mah.	Alan~|Neci~|Yayla~
+151817	Armutkolu Mah.	Merkez~|Musulu~
+151693	Arpaalan Mah.	Kuz~|Merkez~
+151791	Arıcılar Mah.	Arıcılar Yaylası~|Darıtarlası~|Elma Tarlası~|Merkez~|Sıtma Pınarı~
+151691	Arıkmusa Mah.	Arıkmusa~|Batmu Yaylası~|Galaçayır Yaylası~
+151697	Aşağıgökçe Mah.	Aşağıgökçe=|Direkkaya=
+151795	Aşıklı Mah.	Aşıklı~
+61155	Bahçe Mah.	Bahçe=|Bahçe Mezrası=
+151699	Balıklı Mah.	Balıklı~
+151703	Bayraklı Mah.	Bayraklı~
+151797	Bayırköy Mah.	Bayırköy~|Bayırköy Yaylası=|Güneşli~|Hıdırbedir~|Ormantarla~|Yedekçi~
+151819	Beyağaç Mah.	Beyağaç~|Beyağaç-zile Yaylası~
+151711	Beyseki Mah.	Eski Parçı Devrent Altı~|Karabelo~|Merkez~|Yayla~
+151705	Beşpınar Mah.	Anüdü~|Hıdırbükü~|Merkez~
+151799	Birebir Mah.	Hatipli~|Katran~|Yakaköy~
+151821	Celal Mah.	Celal Yaylası~|Küçük Celal~|Merkez~
+151803	Darıcabaşı Mah.	Merkez~|Yayla~
+151731	Dayılı Mah.	Burnaz~|Dayılı Köyü Yaylası~|Güneyce Yayla=|Merkez~
+151805	Derebaşı Mah.	Canikoğlu~|Derebaşı~|Köseosmanoğlu~|Merkez~|Tırıçoğlu~|Yayla~
+151735	Doğançam Mah.	Bıçakçı~|Merkez~|Serpin~|Yayla~
+151807	Dursunlu Mah.	Dursunlu~|Dursunlu Yayla~
+151737	Erikköy Mah.	Erikköy~
+151741	Esatlı Mah.	Numanoğlu~|Raföylü~|Rüstemli~|Yayla~|Yusufbeyoğlu~
+61157	Gölbaşı Mah.	Gölbaşı=|Serkizler=
+151743	Göçbeyi Mah.	Göçbeyi~
+151823	Gülpınar Mah.	Gülpınar~
+151745	Güneyce Mah.	Ambardüzü~|Gıcı~|Merkez~|Çukur Yayla~|Çukurlar~
+151749	Güvenli Mah.	Bozcaarmut Yaylası~|Boğayurdu Yaylası~|Merkez~|Taşlı Yaylası~
+151809	Güzelce Mah.	Aşağı~|Güzelce Yaylası~|Kayışoğlu~|Kertil~|Keselan~|Memüller~|Tepenin Başı~|Şüvey~
+151753	Güzle Mah.	Asarcık~|Bürük~|Kenger~|Merkez~|Muzamana~
+151811	Hamzalı Mah.	Keyişler~|Merkez~|Yayla~|Yeni~
+151755	Herközü Mah.	Herközü~|Maden~
+151757	Ilışar Mah.	Aşağı~|Ilışar Yayla~|Yukarı~
+151759	Kale Mah.	Merkez~|Mirehor~|Sarayderesi~
+151761	Karabayır Mah.	Karabayır~|Merkez~|Öte Geçe~
+151763	Karacaören Mah.	Karacaören~|Yayla~
+151765	Kavaklıdere Mah.	Kavaklıdere~
+61158	Kayadibi Mah.	Eski Köy=|Kayadibi Yeni Konutlar=
+151769	Konacık Mah.	Konacık~
+197865	Köşe Mah.	Harman Kıranı@|Köşe Obası=|Şıhdere=
+151767	Kışlacık Mah.	Bahçe~|Kışlacık~|Yayla~
+151813	Mahmudiye Mah.	Ağa Mahmutlu~|Cambazlı~|Kırkharman~|Mahmudiye Konut Yapı Kooparatifi~|Mahmudiye Sarıçiçek Yaylası=|Mahmudiye Yaylası=|Mandıra~|Merkez~|Selimli~|Veyseloğlu~|Yenerli~|Yeni~|Zelvi Harmanı~|Çamlıca~|İmamoğlu~
+61156	Maksutalan Mah.	Çamlık=
+61159	Merkez Mah.	Atatürk@|Başöğretmen@|Belediye Sebze Hali=|Cami~|Cumhuriyet Myd.|Gazi@|Gelincik~|Gökçe~|Gündüz Özdemir~|Kilise@|Manolya~|Menekşe~|Mustafa Kemal@|Nalbant~|Oktay Ekşi@|Oto Garaj=|Papatya~|Pilot~|Yeni@|Yılmaz Korkmaz@|Zahire Ve Sanayi Çarşısı=|Çam~
+151771	Musalı Mah.	Keyfalan~|Merkez~|Mezere~|Musalı~
+61160	Müslüm Sarıca Mah.	Müslüm Sarıca=
+151815	Pınarlı Mah.	Akpınar~|Gülpınar~|Karıca Yayla~|Pınarlı Merkez~|Pınarlı~|Yeşilpınar~
+151775	Sarıca Mah.	Sanayi Sitesi~|Sarıca~
+151825	Sarıyayla Mah.	Merkez~|Sarıyayla~
+151671	Topçam Mah.	Avut=|Camii (ortaalan)@|Camii@|Camı Yannı~|Dursunlu@|Karşıyaka=|Kayabaşı=|Mantarlı=|Muzadere=|Taşlıçukur (inalan)=|Çambaşı@|Şüvey~
+151777	Türkköyü Mah.	Başçimen~|Köçekli~|Merkez~|Sıcaklık~|Çukur~
+151779	Yardere Mah.	Gündoğmuş~|Merkez~
+151781	Yavşan Mah.	Aşut~|Merkez~|Mezere~|Muhu Çorum~
+151827	Yağmurlar Mah.	Ağılyanı=|Gölyanı~|Yağmurlar Okul~|Yağmurlar~
+61161	Yenimahalle Mah.	Fistori=
+151829	Yeveli Mah.	Almu~|Armutkolu Yaylası~|Aşağı Gökçe Yaylası~|Aşağı~|Aşut-yavşan Yaylası~|Bayraklı Yaylası~|Beşpınar Yaylası~|Doğançam Yaylası~|Eşeklik Yaylası~|Gülpınar Yaylası~|Kale Yaylası~|Kavaklıdere Yaylası~|Konacık Yaylası~|Orta~|Pisiklik Yaylası~|Sığır Çukuru Yaylası~|Tavara Yaylası~|Yağmurlar Yaylası~|Yukarı Gökçe Yaylası~|Çerçi Yaylası~
+151681	Yeşilce Mah.	Aksu~|Ali Çavuş~|Beceren~|Demircanlar~|Derebaşı~|Değirmenler@|Fermas~|Güzleler@|Halit~|Karaahmetli~|Konacık@|Kıyıyurt=|Kızılağaç=|Mesudiye@|Pirkişi~|Tavşantepe@|Tekkeli~|Yeşilce@|Yılmazlar~|Ziyaret@|Zurnacı~|Çambaşı@|Çavuşlu@|Çayfidanlık~|Çukuralan=|İbişoğlu~|İmamoğlu@|Şineller~
+151783	Yeşilçit Mah.	Ulu Göl Yaylası~|Yazı~|Yenice Merkez~|Çamlıca Mah.yayla(keyfalan~|Çamlıca~
+151785	Yukarıgökçe Mah.	Memükler~|Merkez~
+151787	Yuvalı Mah.	Sarıkaya Yaylası~|Yuvalı~
+151715	Çaltepe Mah.	Aşağı~|Aşağı Suma~|Irmak Mezraa Karşı Geçesi~|Keçepınar~|Yazlık Yayla~|Yukarı Suma~|Çaltepe Merkez~
+151719	Çardaklı Mah.	Aşağıoba~|Demirci-kıran~|Eminoba~|Göl Yaylası~|Natıfkıran~|Tiryaki~|Öteoba~|İmam~
+151723	Çavdar Mah.	Başyayla~|Elmapınarı Yayla~|Handeresi Yayla~|Merkez~|Çiftlik~|Örteren~
+151725	Çerçi Mah.	Esen~|Yayla~|Çerçi~
+151729	Çitliksarıca Mah.	Merkez~|Yayla Evleri~
+151801	Çukuralan Mah.	Çukuralan Seyit Kırığı Yayla~|Çukuralan~
+151663	Üçyol Mah.	Alev~|Aslan Çıkmazı~|Atatürk@|Aşağıoba@|Badal=|Benek~|Dik~|Fatih Sultan Mehmet@|Gemaloğlu@|Hacı İhsan Biçer@|Kader~|Küçük Kubatlı~|Malay@|Mehmet Ağa~|Mehmet Çakır@|Mestan~|Mezere=|Muzaffer Taş@|Nuri Gürler@|Salkım~|Sağlam~|Takır~|Taşçukur=|Tuzlupınar=|Yiğit~|Yunus Hoca~|Zambak Çıkmazı~|Zikri Bey@|Çağlar~|Çiçek~|Çiğdem~|Çötlencik@|Özdemir Çıkmaz~|Şehit Kadir Taşcı@

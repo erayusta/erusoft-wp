@@ -1,0 +1,40 @@
+15832	Adliye Köyü	Adliye Köy Sokağı=
+15835	Akçapınar Köyü, Akçapınar Mevkii	Akçapınar Köy Sokak=
+15834	Akçapınar Köyü, Gaziler Mevkii	Adapazarı İznik@|Gaziler Köy Sokağı=|Osmaneli Yolu@
+15836	Avdan Köyü	Avdan Köy Sokağı=
+15833	Ağlan Köyü	Ağlan Köy Sokağı=
+15837	Balçıkhisar Köyü	Balçıkhisar Köy Sokağı=
+15838	Belenalan Köyü	Belenalan Köy Sokağı=
+15839	Bereket Köyü	Adapazarı İznik@|Bereket Köy Sokağı=
+15840	Borcak Köyü	Borcak Köy Sokak=
+15841	Boyunkaya Köyü	Boyunkaya Köy Sokağı=
+15842	Büyükyenice Köyü	Büyükyenice Köyün Kendisi=
+182162	Büyükyenice Köyü, Büyükyenice Mücavir Mevkii	Adapazarı Bilecik@|Büyükyenice Mücavir Köy Sokağı=|Büyükyenice~
+10651	Camicedit Mah.	1015~|15 Temmuz Şehitler~|1nolu Balçıkhisar~|Adapazarı Bilecik@|Ahi Evran~|Ali Dikici@|Ali Durmaz@|Ali Şir Nevai~|Anadolu~|Asım Bey~|Atilla~|Aşık Veysel~|Babür Şah~|Balçıkhisar~|Bayraklı Dede~|Bayındır~|Belenalan~|Beyler~|Biruni~|Cami Cedit~|Dal Ahmet~|Demirci Mehmet Efe~|Dere~|Dodurga~|Emin Çavuş~|Eski Mezbaha Üstü=|Eyyüp El Ensari~|Fabrika~|Fethiye~|Gazneli Mahmut~|Güzel~|Hacı Bektaşi Veli~|Hacı Hamza~|Hacı Raşit~|Hamam~|Hamza Yerlikaya~|Havuzlu~|Kapakça Altı~|Kapakça=|Kapakça Üstü~|Karkın~|Kavaklı Dere~|Keskinler~|Mektep~|Mezarlık Yolu=|Muhtar Bey~|Namık Kemal~|Necati Özturgut@|Necatı Özturgut2~|Necatı Özturgut3~|Nehir~|Nergis~|Nilüfer~|Nuri Bey~|Osmangazi~|Piri Reis~|Prof. Dr. Sırrı Erinç~|Prof. Dr. İhsan Ketin~|Sakarya@|Satuk Buğra Han~|Sağlık~|Tabakhane~|Tekke~|Tokluoğlu~|Yusuf Has Hacip~|Yıldız~|Zambak~|Çarkacıoğlu~|Çiftehamam~|Çiçek~|Ömer Seyfettin~|İnce~|İsmet Paşa@|İstanbul@|Şehit Songül Yakut~|Şeref~
+10652	Camikebir Mah.	1.~|1002~|1003~|1009~|1010~|1012~|1013~|1014~|333~|900~|Abdurrahman Aktepe~|Abdurrahman Gazi~|Adapazarı Bilecik 1@|Ahmet Haşim~|Ahmet Haşim1~|Ahmet Yesevi~|Akdeniz~|Akçakoca~|Akşemsettin~|Ali Fuat Cebesoy~|Ali Kuşçu~|Ali Rıfat Çağatay~|Ankara@|Arif Yılmaz@|Atilla İlhan~|Aydın~|Bademlik~|Bahaettin Bulut@|Balaban@|Balaban Çıkmazı~|Bağ~|Begonya~|Behram Kurşunoğlu~|Beşevler~|Burla Hatun~|Cahit Arf~|Camikebir~|Cebeci@|Cemalbey~|Cumhuriyet@|Dede Korkut~|Doktor Etem Girgin@|Doğa~|Dursun Fakıh~|Eczacıbaşı~|Edebali~|Edip Cansever~|Ege 1=|Ege~|Emine Çavuş~|Emniyet~|Eski Tahıl~|Evliya Çelebi~|Farabi~|Fatih Gökmen~|Fethi Okyar~|Fevzi Çakmak~|Gazi~|Gurbet~|Göksu~|Göynük~|Güney~|Günüören=|Güven~|Güvercin~|Hacı Etem~|Hacıkasap~|Halime Çavuş~|Hamide Hatun~|Hasanalp~|Hayme Ana~|Hayreddin Paşa~|Hulusi Behçet~|Hüseyin Tevfik~|Karadeniz~|Karamürsel~|Karasu~|Katip Çelebi~|Kayıboyu~|Kaşgarlı Mahmut~|Kehribar~|Konaklar~|Kuzey~|Küçük Sanayi Sitesi 1~|Küçük Sanayi Sitesi 2~|Küçük Sanayi Sitesi 3~|Küçük Sanayi Sitesi 4~|Küçük Sanayi Sitesi 5~|Küçük Sanayi Sitesi~|Kız Mektep~|Manolya~|Marmara~|Mehmet Bengidal@|Meşrutiyet~|Mihalgazi~|Mihrican~|Mimar Kemalettin~|Mimar Sinan~|Mustafa Kemal Paşa@|Nazım Hikmet~|Nusretiye~|Oktay Rıfat~|Okul Dere~|Osman Hamdi Bey~|Osman Tuncer~|Osman Şahin@|Pazar~|Piri Reis~|Prof. Dr. Aziz Sancar@|Prof. Dr. Halil İnalcık~|Prof. Dr. Yunus Söylet@|Sakarya@|Samsa Çavuş~|Sarmaşık~|Selimiye Çiftlik~|Selimiye Çıkmazı~|Seydi Ali Reis~|Tarlabaşı~|Telgrafhane~|Tepe~|Toki Çıkmazı~|Turgut Uyar~|Uluğ Bey~|Vecihi Hürkuş~|Yavuz Sultan Selim~|Yaşar Kemal@|Yenitahıl~|Yunus Emre~|Yusuf Has Hacip~|Yünlüpaşa~|Zafer~|Zekai Şen~|Zeytinlik~|Ziya Gökalp~|Çeşme~|Çoban Dere~|Çoban Dere Çıkmazı~|Ömer Hayyam~|İbni Sina~|İcadiye~|İstanbul@|İstiklal~|Şehit Aydoğan Aydın@|Şehit Fehim Yavaş~|Şehit Fethi Sekin~|Şehit Nefise Özsoy~|Şehit Ömer Halisdemir~|Şehit Şerife Özden~
+15843	Ciciler Köyü	Adapazarı Bilecik@|Ciciler Köy Sokağı=
+15846	Dereyörük Köyü	Dereyörük Köy Sokağı=
+15847	Düzmeşe Köyü	Düzmeşe Köy Sokağı=|Osmaneli Yolu@
+15848	Ericek Köyü	Adapazarı İznik@|Ericek Köy Sokağı=
+15849	Günüören Köyü	Günüören Köy Sokağı=
+10653	Haceloğlu Mah.	3.~|Ahmet Cevdet Paşa~|Ahmet Saral@|Alanlar@|Ankara@|Arif Nihat Asya~|Atatürk%|Ataç İmamoğlu~|Bilge Kağan~|Cemal Süreya~|Dumlupınar~|Fatih Sultan Mehmet~|Fatih Sultan Mehmet1~|Gül~|Güngören~|Hürriyet@|Kanuni Sultan Süleyman~|Karanfil~|Kazım Karabekir~|Kemal Sütçüoğlu~|Lale~|M.selahattin Çetintaş@|Mahir Saraç@|Mahmut Sabuncuoğlu@|Mehmet Akif Ersoy 1~|Mehmet Akif Ersoy 2~|Mehmet Akif Ersoy@|Mehmet Emin Yurdakul~|Mevlana~|Necip Fazıl Kısakürek~|Nehir~|Orhan Veli Kanık~|Orkide~|Peyami Safa~|Raziye Begüm~|Remziye Hisar~|Reşat Nuri Güntekin~|Sabiha Gökçen~|Sahil 1~|Sahil~|Sakinler~|Seyit Ali Çağlayan@|Sümbül~|Türkan Akyol~|Yenidoğan~|Yolveren~|Özdemir Asaf~|İbrahim Hakkı~|İstanbul@|Şehit Hatice Belgin~
+15851	Hisarcık Köyü, Beşevler Mevkii	Adapazarı İznik@|Beşevler Köy Sokağı=|Osmaneli Yolu@
+15850	Hisarcık Köyü, Hisarcık Mevkii	Hisarcık Köy Sokağı=
+15852	Kazancı Köyü	Kazancı Köy Sokağı=
+15853	Kızılöz Köyü	Adapazarı Bilecik@|Kızılöz Köy Sokağı=
+15854	Medetli Köyü	Bolu Bilecik@|Medetli Köy Sokağı=
+15857	Orhaniye Köyü	Orhaniye Köy Sokağı=
+15856	Oğulpaşa Köyü, Oğulpaşa Mevkii	Oğulpaşa Köy Sokağı=
+15855	Oğulpaşa Köyü, Yeşilçimen Mevkii	Adapazarı İznik@|Yeşilçimen Köy Sokağı=
+15859	Sarıyazı Köyü, Benli Mevkii	Benli Köy Sokağı=
+15858	Sarıyazı Köyü, Sarıyazı Mevkii	Adapazarı İznik@|Sarıyazı Köy Sokağı=
+15861	Selimiye Köyü	Adapazarı Bilecik@|Selimiye Köyün Kendisi=
+182160	Selimiye Köyü, Selimiye Mücavir Mevkii	- Köy$|Adapazarı Bilecik@|Altınordu@|Anadolu Selçukulu@|Gaznelıler@|Göktürkler@|Harzemşah@|Hazarlar@|Osmanlı@|Tayraş Yolu~|Uygurlar@|Şehit Eren Bülbül@|Şehit Şenay Aybüke Yalçın@
+15862	Selimiye Köyü, Selimiyeosb Mevkii	Sarmaşık@|Selimiye@|Vali Musa Çolak@
+15860	Selçik Köyü	Adapazarı Bilecik@|Selçik Köyün Kendisi=
+182164	Selçik Köyü, Selçik Mücavir Mevkii	Adapazarı Bilecik@|Selçik Mücavir Köy Sokağı=|Terminal~
+15863	Soğucakpınar Köyü, Kaşıkçı Mevkii	Kaşıkçı Köy Sokağı=
+15864	Soğucakpınar Köyü, Soğucakpınar Mevkii	Soğucakpınar Köy Sokağı=
+15844	Çerkeşli Köyü	Adapazarı İznik@|Çerkeşli Köy Sokağı=
+15845	Çiftlik Köyü	Çiftlik Köy Sokağı=
+10654	İnönü Mah.	Adapazarı Bilecik@|Ahmet Hulusi@|Ahmet Muhtar Ağa~|Ahmet Sezai Aydın@|Ahmet Çelebi~|Aktoprak@|Alaeddin Keykubat~|Alanlar@|Ali Münşi~|Ankara@|Atatürk%|Atatürk1~|Bahadır Şah~|Barbaros Hayreddin Paşa~|Belek Bey~|Celal Bayar~|Cengiz Han~|Damla~|Doktor Marmara~|Emir Ayşe~|Ertuğrul Gazi~|Eskişehirliler~|Eskişehirliler1~|Fahrettin Paşa~|Gazali~|Gökkuşağı~|Gölpark~|Güneş~|Hakkı Tunaboylu~|Halide Edip Adıvar~|Hasan Tahsin~|Havuz Altı@|Hürriyet@|Kadızade Rumi~|Kara Yusuf Bey~|Koca Yusuf~|Kuşlar Kalesi@|Köroğlu~|Kılıç Arslan~|Kılıç Arslan1~|Kınık~|Mahir Saraç@|Mehmet Azapoğlu@|Mehmet Azapoğlu1~|Mehmet Kozanoğlu@|Melikşah~|Mete Han~|Muhammet Fatih Safitürk~|Mümtazağa~|Naim Süleymanoğlu@|Nasreddin Hoca~|Nato~|Necati İkizoğlu@|Nene Hatun~|Orhan Gazi~|Oğuz Han~|Papatya~|Rumeli~|Sahil~|Selahaddin Eyyubi~|Selçuk Bey~|Seyit Onbaşı~|Sinan Tekelioğlu~|Sultan Iı.abdülhamid Han~|Sultan Sencer~|Süleyman Şah~|Timur Han~|Tuğrul Bey~|Ulubatlı Hasan~|Umur Bey~|Vatan~|Yasemin~|Yasemin10~|Yağmur~|Yaşar Doğu~|Yörük Ali Efe~|Yıldırım Bayezid~|Yıldırım~|Çaka Bey~|Çelebi Mehmed~|Çelebi Mehmed1=|Çelebi~|Şehit Ahmet Durgun~|Şehit Kemal Ay~|Şehit Osman Er~|Şelale~|Şht. Halil Öktem@

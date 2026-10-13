@@ -1,0 +1,16 @@
+11053	Bağsaray Köyü, Yaka Mevkii	1~|2.~|3~|Acar~|Atatürk~|Bahçe~|Camii Kebir 1~|Camii Kebir~|Ceylan 1.~|Ceylan~|Ekizler~|Fevzi Çakmak~|Hasan Süzen~|Hasan Şenol 1~|Hasan Şenol 1.~|Hasan Şenol 2.~|Hasan Şenol 3~|Hasan Şenol 4~|Hasan Şenol 5~|Hasan Şenol 6~|Hasan Şenol 7~|Hasan Şenol 8~|Hasan Şenol~|Kelceler~|Mehmet Sönmez 1.~|Mehmet Sönmez~|Muhittin Akpınar~|Mustafa Gök 1~|Mustafa Gök~|Ramazan Çakmak~|Sinan Paşa~|Yörükler~|İbrahim Yücel Ayan~|Şehit Ali Tekin~|Şehit Süleyman Keskin 1~|Şehit Süleyman Keskin 2~|Şehit Süleyman Keskin~
+11054	Bağsaray Köyü, Yukarı Mevkii	Atatürk~|Bahçe~|Bilinmeyen~|Celil Yıldırım~|Cumhuriyet~|Döner 1.~|Döner~|Emirler~|Ergin 1.~|Ergin~|Erveli~|Esen~|Fevzi Çakmak~|Göbütler~|Kabadayı~|Mustafa Gök~|Namık Kemal~|Sinan Paşa~|Çeşmeli~|Şahin Şahin~|Şehit Ali Tekin~
+11051	Camii Mah.	101.~|102.~|103.~|104.~|105.~|106~|Adalet~|Beşiktaş~|Böğürtlen~|Camii 1 Myd.|Dikim~|Esengül~|Gazi@|Gül~|Hacılar~|Hekimoğlu~|Hocalar~|Karadede@|Karanfil~|Kartal~|Keskinler~|Kocaada~|Leylek~|Mezarlık~|Nergis~|Ova~|Sarıbağ~|Sümbül~|Tarım@|Yarpınar@|Yeni Camii~|Yeni@|Yenice 1~|Yunus Emre@|Zambak~|Çamaşırlık Çıkmazı~|Çağdaş~|Çevre Yolu@|Özgür~|İğdeli Burun@|Şahinler~|Şehit Akif Altay~
+19528	Güvenli Köyü, Aşağı Mevkii	Aşağı Köy$
+19527	Güvenli Köyü, Yukarı Mevkii	Yukarı Köy$
+11052	Konak Mah.	1.~|1.küme=|10.~|11.~|12.~|13.~|14.~|15 Temmuz Şehitleri~|18 Mart~|2.~|2.küme=|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Adnan Menderes%|Akdeniz~|Alaaddin~|Asmalık~|Atatürk@|Ayyıldız~|Ağlasun Yolu%|Bahceli Evler~|Bahçeli~|Bedir~|Boğaz~|Camii@|Değirmen~|Dutluk~|Erik~|Fatih@|Göl Yeri@|Güllük~|Hanyıkığı~|Harman Yeri@|Hekimoğlu~|Hükümet@|Kahve~|Karakol@|Kaymakamlık~|Kiriş~|Kocabağ~|Küçük Sanayi Sitesi~|Lale~|Mehtap~|Okullar~|Onaç~|Ortalık~|Pazar~|Pınarbaşı~|Recep Tayyip Erdoğan@|Seymen Oğlu@|Su Deposu~|Subay~|Teke~|Tunç Siper@|Yener 2.~|Yener~|Yenice~|Yörük~|Çavuşlar~|Çayboyu~|Çeltik~|Çeşme~|Özlem~|İndibi~|Şehit Ali Tekin~|Şehit Mesut Yön~|Şehit Süleyman Keskin~|Şehit Ömer Halis Demir~
+19531	Kuzköy Köyü, Değirmenönü Mevkii	Antalya Burdur@|Değirmenönü Köy$
+19529	Kuzköy Köyü, Güney Mevkii	Güney Köy$
+19530	Kuzköy Köyü, Kuzey Mevkii	Kuzey Köy$
+19532	Ovacık Köyü	Ovacık Köy$
+19533	Tekkeköy Köyü	Antalya Burdur@|Tekke Köy Köy$
+19524	Çebiş Köyü, Bucak Çay Kenarı Mevkii	Bucak Çay Kenarı Köy$
+19525	Çebiş Köyü, En İçi Mevkii	En İçi Köy$
+19526	Çebiş Köyü, Merkez Mevkii	Merkez Köy$
+19522	Çebiş Köyü, Ortayol Mevkii	Ortayol Köy$
+19523	Çebiş Köyü, Sarot Kayalı Yolu Mevkii	Sarot Kayalı Yolu Köy$

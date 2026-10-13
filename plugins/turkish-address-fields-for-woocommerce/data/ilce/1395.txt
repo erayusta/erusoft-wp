@@ -1,0 +1,30 @@
+12160	Balık Köyü	Balık=
+12161	Başköy Köyü	Başköy=
+12162	Başoba Köyü	Başoba=
+9999	Bucak Mah.	134.~|Orta@|Sahil Caddesi@|Santral~|Talikot~
+10000	Cumhuriyet Mah.	135.~|136.~|137.~|138.~|139.~|140.~|Artvin@|Atatürk@|Fener~|Güneş~|Karanfil~|İstiklal@
+12171	Esenkıyı Köyü, Kopmuş Mevkii	Kopmuş=
+12172	Esenkıyı Köyü, Merkez Mevkii	Esenkıyı=
+12173	Eşmekaya Köyü	Eşmekaya=
+12174	Güneşli Köyü	Güneşli=
+12175	Güvercinli Köyü	Güvercinli=
+12176	Hendek Köyü	101~|Hendek=
+12177	Koyuncular Köyü	Koyuncular=
+10001	Merkez Kuledibi Mah.	1.@|11.~|12.~|128~|129.~|13.~|130~|131.~|132.~|133.~|14.~|15.~|16.~|18~|Cumhuriyet Meydanı=|Dumlupınar@|Karadeniz@|Kars@|Pazar Meydanı=|Sahil Caddesi@|Turgay Ciner@|İnönü@|Şahintepesi@
+10002	Ortahopa Mah.	112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125.~|126~|127~|16.~|17.~|Ecz.rıza Türker~|Esentepe~|Ka@|Kavakdibi@|Kule~|Meteoroloji~|Nefer~|Orta@|Sahil Caddesi@|Sazlık~|Turgay Ciner@|Zeni~
+12178	Pınarlı Köyü	Pınarlı=
+12179	Subaşı Köyü	Subaşı=
+184580	Sugören Mah.	Balıkçı~|Merkez=|Pabilat=|Yukarı Sugören=|Zennat=
+10003	Sundura Mah.	100~|101~|102~|103.~|104~|105~|106~|107~|108~|109~|110~|111~|14 Mart@|2.@|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.@|30.~|31.~|32.~|33.~|34.~|4.@|40.~|41.~|42.~|43.~|44.~|45.~|46.~|47.~|48.~|49.~|5.@|50~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|60.~|61~|62~|63~|64~|65~|66~|67~|68~|69~|70~|71~|72~|73~|74~|75~|76~|77~|78~|79~|80~|81~|82~|83~|84~|85~|86~|87~|88~|89~|90~|91~|92~|93~|94~|95~|96~|97~|98~|99~|Artvin@|Küçük~|Lise@|Menekşe@|Naseni@|Sahil Caddesi@|Taşköprü@|Trafo@
+12184	Yeşilköy Köyü	Yeşilköy=
+12185	Yoldere Köyü, Aşağı Yoldere Mevkii	Aşağı Yoldere=
+12186	Yoldere Köyü, Yukarı Yoldere Mevkii	Yukarı Yoldere=
+10004	Yukarı Kuledibi Mah.	141.~|142.~|143.~|Kars@|Tatarhan=|İsmet Çakır@
+12164	Çamlı Köyü, Hacılar Mevkii	Hacılar=
+12163	Çamlı Köyü, Karşı Mevkii	Karşı=
+12167	Çamlı Köyü, Madenli Mevkii	Madenli=
+12168	Çamlı Köyü, Mısıllet Mevkii	Mısıllet=
+12165	Çamlı Köyü, Orta Mevkii	Orta=
+12166	Çamlı Köyü, Çarşı Mevkii	Çarşı=
+12169	Çavuşlu Köyü	Çavuşlu=
+12170	Çimenli Köyü	Çimenli=

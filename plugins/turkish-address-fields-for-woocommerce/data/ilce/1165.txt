@@ -1,0 +1,55 @@
+97077	Arıcaklı Köyü, Merkez Mevkii	Arıcaklı 1=|Arıcaklı=
+97078	Arıcaklı Köyü, İbişler Mevkii	İbişler=
+97080	Arıklıkaş Köyü, Buğdaycık Mevkii	Buğdaycık=
+97079	Arıklıkaş Köyü, Mercanlar Mevkii	Mercanlı=
+97082	Arıklıkaş Köyü, Merkez Mevkii	Merkez=|Osmaniye Gaziantep Otoyolu@|Taşoluk=
+97081	Arıklıkaş Köyü, Taşoluk Mevkii	Osmaniye Gaziantep Otoyolu@|Taşoluk=
+91069	Aslanlı Mah.	1.nolu~|10 Nolu~|11 Nolu~|14 Nolu~|15 Nolu~|16 Nolu~|17 Nolu~|18 Nolu~|19 Nolu~|2 Nolu~|20 Nolu~|21 Nolu~|3 Nolu~|4.nolu~|5 Nolu~|6.nolu~|7 Nolu~|8 Nolu~|9 Nolu~|D 400 Karayolu~|Gökmustafalı=|Çıkmaz~|Şehit P.er Hüseyin Çelik@|Şehit P.er Yakup Yiğit@
+97083	Aşağıarıcaklı Köyü, Ayran Kümesi Mevkii	Arıcaklı=|Ayran Kümesi=|Kızlaç=|Osmaniye Gaziantep Otoyolu@
+97084	Aşağıarıcaklı Köyü, Soğukpınar Mevkii	Arıcaklı 1=|Arıcaklı=|Osmaniye Gaziantep Otoyolu@|Soğukpınar=
+97085	Aşağıkaradere Köyü, Köleler Mevkii	Köleler=|Köybaşı=
+97086	Aşağıkaradere Köyü, Köybaşı Mevkii	Altunlar Kümesi=|Köleler=|Köybaşı=
+97087	Aşağıkaradere Köyü, Köyün Kendisi Mevkii	Aşağıkaradere=
+91070	Bahçeli Evler Mah.	309 Nolu~|310 Nolu~|311 Nolu~|312 Nolu~|314 Nolu~|315 Nolu~|316 Nolu~|317 Nolu~|318 Nolu~|319 Nolu~|320 Nolu~|321 Nolu~|322 Nolu~|323 Nolu~|324 Nolu~|325 Nolu~|326 Nolu~|327 Nolu~|328 Nolu~|329 Nolu~|330 Nolu~|Başer@|D 400 Karayolu~|Devlet Bahçeli%|Ergen~|Hastane~|Kazımkara Bekir@|M.akif Ersoy~|Mehmet Karamanoğlu@|Necati Akçalılar@|Tek~|Yaşar Fettahlıoğlu@|Yusuf Ziya Müftüoğlu@
+97092	Bekdemir Köyü, Basamaklı Mevkii	Basamaklı=
+97093	Bekdemir Köyü, Dutlu Mevkii	Dutlu=
+97089	Bekdemir Köyü, Keller Mevkii	Keller=
+97091	Bekdemir Köyü, Kirazlı Mevkii	Kirazlı=
+181602	Bekdemir Köyü, Köyün Kendisi Mevkii	Bekdemir=
+97088	Bekdemir Köyü, Kıraçlı Mevkii	Kıraçlı=
+97090	Bekdemir Köyü, Mercanlı Mevkii	Mercanlı=
+97095	Bekdemir Köyü, Çelikler Mevkii	Çelikler=
+97098	Burgaçlı Köyü, Merkez Mevkii	Burgaçlı=|Osmaniye Gaziantep Otoyolu@|Payamlı=
+97096	Burgaçlı Köyü, Selamlar Mevkii	Selamlar=
+91071	Cumhuriyet Mah.	454.~|455 Nolu~|461.~|462.~|463.~|465 Nolu~|466 Nolu~|467 Nolu~|468 Nolu~|469 Nolu~|470 Nolu~|471 Nolu~|472 Nolu~|473 Nolu~|474 Nolu~|475 Nolu~|476 Nolu~|477 Nolu~|478 Nolu~|479 Nolu~|480 Nolu~|481 Nolu~|482 Nolu~|483 Nolu~|484 Nolu~|485 Nolu~|486 Nolu~|487 Nolu~|488 Nolu~|489 Nolu~|490 Nolu~|D 400 Karayolu~|Gökmustafalı=|Necati Akçalılar@|Okul~|Osmaniye Gaziantep Otoyolu@|Sanayi A Blok~|Sanayi B Blok~|Sanayi C Blok~|Yaşar=|Şehit J.kom.uzm.çvş. Mehmet Eroğlu@|Şehit Piyade Çvş Ali Kadıoğlu@|Şehit Polis Memuru Ali Kılıç@
+91073	Esentepe Mah.	Kabacalı=|Topuzlu=
+97099	Gökmustafalı Köyü	Gökmustafalı=|Osmaniye Gaziantep Otoyolu@|Yaşar=
+91076	Kale Mah.	329 Nolu~|344 Nolu~|345 Nolu~|346 Nolu~|347 Nolu~|349 Nolu~|350 Nolu~|351.~|351.1 Nolu~|351.2 Nolu~|353.~|355.~|356.~|357.~|358.~|359.~|360.~|361.~|362.~|363.~|364.~|365.~|366.~|367 Nolu~|D 400 Karayolu~|Mustafa Bolat~|Tatlı~|Yusuf Ziya Müftüoğlu@|Şehit Topçu P.er Halil Yakar@
+97101	Kaman Köyü	Kaman=
+91077	Karşıyaka Mah.	250.~|251 Nolu~|252.~|253.~|254 Nolu~|255 Nolu~|256 Nolu~|257 Nolu~|258 Nolu~|259 Nolu~|260 Nolu~|261.~|262~|263 Nolu~|265 Nolu~|405 Nolu~|Bilinmeyen99~|Fevzi Çakmak@|Gücügün Dağı@|Mahmut Hoca~|Şehit J.er İrfan Bayram@|Şehit J.uzm.çvş. Mehmet Bayram@|Şehit Komiser Muhammet Zengin Bolat@
+97103	Kızlaç Köyü, Karşıyaka Kümesi Mevkii	Aslanlıbel=|Karşıyaka Kümesi=
+97104	Kızlaç Köyü, Merkez Kümesi Mevkii	Karşıyaka Kümesi=|Kızlaç=|Yukarı Kümesi=
+97102	Kızlaç Köyü, Yukarı Kümesi Mevkii	Karşıyaka Kümesi=|Olucak=|Yukarı Kümesi=|Yukarı Kümesi1=
+97105	Nohut Köyü	Hakan Yaylası=|Nohut=|Osmaniye Gaziantep Otoyolu@
+97109	Savranlı Köyü	Koy=|Osmaniye Gaziantep Otoyolu@|Savranlı=|Savranlı1=|Yaşar=
+197405	Savranlı Köyü, Aygır Mevkii	Aygır=
+99479	Savranlı Köyü, Yukarıoba Mevkii	Koy=
+97110	Yaylalık Köyü	Dışbudak=|Yaylalık=
+91078	Yenı Mah.	260 Nolu~|400.~|400.1~|401.~|401.2~|402.~|403.1~|404.~|405 Nolu~|406.~|407~|409 Nolu~|410~|410.1 Nolu~|410.2 Nolu~|411 Nolu~|412 Nolu~|413~|414~|415 Nolu~|416 Nolu~|417 Nolu~|418 Nolu~|419~|420.~|421~|422 Nolu~|423 Nolu~|424 Nolu~|425 Nolu~|426 Nolu~|427 Nolu~|428 Nolu~|429 Nolu~|430 Nolu~|431 Nolu~|432 Nolu~|433 Nolu~|434 Nolu~|435 Nolu~|437 Nolu~|438 Nolu~|439 Nolu~|440 Nolu~|441 Nolu~|442 Nolu~|Fevzi Çakmak@|Gücügün Dağı@|Hasan Fettahlıoğlu@|J.uzm.çav.idriskansoy=|Recep Tayyip Erdoğan%|Ömer Pekkan@|Şehit J.er Mehmet Salman@|Şehit J.er Osman Kılıç@|Şehit P.onb. Halil Güneş@
+91079	Yeşil Yurt Mah.	500 Nolu~|501 Nolu~|502 Nolu~|503 Nolu~|505 Nolu~|507 Nolu~|508 Nolu~|509 Nolu~|510 Nolu~|511 Nolu~|512 Nolu~|513 Nolu~|514 Nolu~|515 Nolu~|516 Nolu~|517 Nolu~|518 Nolu~|519 Nolu~|Armutlu~|Hızarcı Musa@|Maraş@|Şehit Mehmet Çelik@
+97111	Yukarıkardere Köyü, Altunlar Kümesi Mevkii	Altunlar Kümesi=|Gazi Kümesi=
+97117	Yukarıkardere Köyü, Balinkaşı Kümesi Mevkii	Balinkaşı Kümesi=
+97116	Yukarıkardere Köyü, Demirlik Kümesi Mevkii	Demirlik Kümesi=|Hamisler Kümesi=
+97112	Yukarıkardere Köyü, Gazi Kümesi Mevkii	Gazi Kümesi=|Mandal Kümesi=
+97115	Yukarıkardere Köyü, Hamisler Kümesi Mevkii	Hamisler Kümesi=
+97118	Yukarıkardere Köyü, Hayvalık Kümesi Mevkii	Balinkaşı Kümesi=|Hamisler Kümesi=|Hayvalık Kümesi=
+97114	Yukarıkardere Köyü, Kuzgeçe Kümesi Mevkii	Kuzgeçe Kümesi=
+97120	Yukarıkardere Köyü, Mandal Kümesi Mevkii	Altunlar Kümesi=|Hamisler Kümesi=|Mandal Kümesi=
+97119	Yukarıkardere Köyü, Yeni Kümesi Mevkii	Yeni Kümesi=
+97113	Yukarıkardere Köyü, Çiçekli Kümesi Mevkii	Hamisler Kümesi=|Çilekli Kümesi=
+91072	Çamlıca Mah.	101 Nolu~|102 Nolu~|103 Nolu~|104 Nolu~|105 Nolu~|106 Nolu~|107 Nolu~|108 Nolu~|109 Nolu~|111 Nolu~|112 Nolu~|113 Nolu~|115 Nolu~|116 Nolu~|117 Nolu~|118 Nolu~|56 Nolu~|Bilinmeyen49~|Hamdi Bozbağ@|Çamlıca@|Çamlık Evler@
+97106	Örencik Köyü	115 Nolu~|56 Nolu1~|68 Nolu~|Dölek=|Hakan Yaylası=|Osmaniye Gaziantep Otoyolu@|Örencik=
+97108	Örencik Köyü, Kelosmanlar Mevkii	507 Nolu~|Kelosmanlar 1=|Kelosmanlar=
+97100	İnderesi Köyü, Merkez Mevkii	İnderesi=
+91074	İslam Mah.	200.~|200.1~|202.~|202.1~|202.2~|205~|206.~|210.~|212.~|212.1~|213.~|213.1~|214.~|215.~|215.1~|216.~|217 Nolu~|218 Nolu~|219 Nolu~|220 Nolu~|221 Nolu~|222 Nolu~|223 Nolu~|224 Nolu~|225 Nolu~|226 Nolu~|227 Nolu~|228 Nolu~|229 Nolu~|230 Nolu~|231 Nolu~|232 Nolu~|233 Nolu~|234 Nolu~|Abdürrezak Kadıoğlu@|Adanır~|Ahmet Öztürk@|Ali Farsakoğlu@|Atatürk@|Bilalik~|Demirciler~|Dr.sadık Ahmet@|Esen~|Fevzi Çakmak@|Fidan~|Güveller~|Hasan Çanga@|Kasaplar~|Keleş~|Kültür~|Mercan~|Meyveli~|Milli İrade Myd.|Okutan~|Orçan~|Pekkan~|Ptt.~|Recep Yazıcıoğlu@|Toki@|Tünel~|Yaman~|Yurt~|Çaybahçesi~|Önen~|İştar~|Şehit J.binbaşı Adil Karagöz@|Şehit J.uzm.çvş. Sami Yılmaz~|Şehit Polis Memuru Mehmet Önder Saçmalıoğlu@|Şehit Polis Memuru Şahinbey Türk@|Şeker~
+91075	İstiklal Mah.	33 Nolu~|34~|35 Nolu~|36~|37 Nolu~|38~|41 Nolu~|42~|43 Nolu~|44 Nolu~|45 Nolu~|46~|47 Nolu~|48 Nolu~|49 Nolu~|50 Nolu~|51 Nolu~|53 Nolu~|54 Nolu~|56 Nolu~|56 Nolu1~|57~|58~|59 Nolu~|60~|61 Nolu~|62 Nolu~|63 Nolu~|64 Nolu~|65 Nolu~|66 Nolu~|68 Nolu~|69 Nolu~|70~|71 Nolu~|72 Nolu~|73~|74~|75~|76~|77 Nolu~|79 Nolu~|81 Nolu~|82 Nolu~|83 Nolu~|84 Nolu~|85 Nolu~|86 Nolu~|87 Nolu~|88 Nolu~|89 Nolu~|90 Nolu~|91 Nolu~|92 Nolu~|93 Nolu~|94 Nolu~|95 Nolu~|96 Nolu~|97 Nolu~|98 Nolu~|99 Nolu~|Ali Rıza Akyüz~|Hamdi Bozbağ@|İrephatun@|Şehit J.er Murat Öztürk@|Şehit J.kd.bçvş. Ahmet Mengilli~|Şehit J.uzm.çvş.murat Karabulut@|Şehit P.er Mustafa Keskin@|Şehit Yüzbaşı Adem Akyıldız@

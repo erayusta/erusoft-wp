@@ -1,0 +1,44 @@
+181507	Akoluk Mah.	Akoluk=
+181511	Altısöğüt Mah.	Altısöğüt=
+181553	Avşarobası Mah.	Gerdekmağara=
+181515	Ayranlık Mah.	Ayranlık=
+42300	Bahçeli Mah.	16.~|17.~|18.~|19.~|20.~|Anafartalar~|Atatürk@|Barış~|Cumhuriyet@|Fevzi Çakmak@|Güven~|Irmak~|Kardelen~|Mehmet Akif 1.~|Sakarya~|Sancaktepe~|Yasemin~|Çamdibi~|Şht. Ali Örnek~
+181519	Büyük Söbeçimen Mah.	Büyük Söbeçimen=|Kötüköy 1.=
+181517	Büyük Örtülü Mah.	Büyük Örtülü=
+181533	Dallıkavak Mah.	Dallıkavak=
+181537	Damızlık Mah.	Damızlık=
+181541	Darıdere Mah.	Darıdere=
+181543	Dayoluk Mah.	Dayoluk=
+181547	Değirmentaş Mah.	Değirmentaş=
+181549	Fettahdere Mah.	Fettahdere=
+181555	Gümüşali Mah.	Gümüşali=
+42302	Günesen Mah.	1.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|Atatürk@|Egemenlik~|Girne@|Hamdi Pınar~|Karanfil~|Kocatepe~|Paşapınar~|Ptt~|Seher~|Susam~|Tepecik~|Özfidan~|Üçevler=|İnönü@|Şht. İbrahim Albayrak@|Şht. İsa Çapar~|Şifa~
+181563	Karapınar Mah.	Karapınar=
+181567	Karayurt Mah.	Karayurt=
+181561	Kemer Mah.	Kemer=
+42305	Kurdini Mah.	Şht. Oktay Tarım=
+181577	Kurudere Mah.	Kurudere=
+42306	Kuşçu Mah.	Şht. Mustafa Şahin=
+181581	Küçük Kabaktepe Mah.	Küçük Kabaktepe=
+181585	Küçük Söbeçimen Mah.	Küçük Söbeçimen=
+181583	Küçük Örtülü Mah.	Küçük Örtülü=
+181569	Kırkısrak Mah.	116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|Armağanlar~|Aşağı Değirmenderesi~|Aşağıbostanbelli~|Aşık Mehmet~|Babürler~|Küllüötler~|Küllüözler~|Kırkısrak~|Nergizler~|Virikler~|Yeni Okul 1.~|Yukarı Bostanbeli~|Yukarı Değirmenderesi~|Yukarı Kalolar~
+181575	Kıskaçlı Mah.	Kulaksız=|Kıskaçlı=
+42304	Kızılpınar Mah.	18.~|7.~|71.~|72.~|73.~|Atatürk@|Çamdibi~|Üçevler=|Şht. Ali Örnek~|Şht. İsa Çapar~|Şht. İsmet Bülbül~
+181593	Mollahüseyinler Mah.	Mollahüseyinler=|Sarıfakılar=
+181595	Oğlakkaya Mah.	Oğlakkaya=
+181599	Sancakağıl Mah.	Sancakağıl=
+181601	Tavla Mah.	Bektaşlar=|Tavla=|Tilkiler=
+181603	Tekneli Mah.	Cağlaksu=|Kötüköy=|Tekneli=
+181607	Yaylacı Mah.	Yaylacı=
+181609	Yedioluk Mah.	Yedioluk=
+42307	Yeni Mah.	Atatürk@|Cengiz Arkalı~|Cumhuriyet@|Girne@|Hamdi Pınar~|Necmeddin Kabak@|Papatya=|Sancaktepe~|Seher~|Zürriye Maraşlı@|Şht. Ali Çiçek@|Şht. Bahattin Yıldız@|Şht. Halil Tunç@|Şht. Turabi Demirci~
+181497	Yeşilkent Mah.	31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|40.~|41.~|42.~|43.~|44.~|45.~|46.~|47.~|48.~|49.~|50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.~|58.~|59.~|60.~|61.~|62.~|63.~|64.~|65.~|66.~|67.~|68.~|69.~|70.~|Adana@|Ahmet Ayık~|Atatürk 1.@|Binboğa@|Cengiz Topel@|Dadaloğlu~|Fevzi Çakmak 1.@|Huzur~|Karakoyunlu@|Kayseri@|Mehmet Akif Ersoy@|Yavuz~|Yeşilova 1.~|Zamantı~|Çiğdem~
+42301	Çatalpınar Mah.	Yaylacı=|Çatalpınar=|Şht. Durmuş Tarım=
+181527	Çavdar Mah.	Çavdar=|Şarlak=
+181525	Çağşak Mah.	101.~|102.~|103.~|104.~|105.~|106.~|Aşağı~|Değirmenci~|Elmaçat~|Çağşak~
+181531	Çörekdere Mah.	81.~|82.~|83.~|84.~|85.~|86.~|87.~|88.~|Bostanlık~|Cumhuriyet@|Küçük~|Yeni Okul~|Çörekdere~
+181597	Ördekli Mah.	Sarı Süleyman=|Ördekli=
+181589	İmirzaağa Mah.	İmirzaağa=
+42303	İncedere Mah.	91.~|92.~|Yeşilova=|Şht. Halil Tunç@
+181557	İncemağara Mah.	Üçevler 1.=|İncemağara=

@@ -1,0 +1,68 @@
+45032	Akpınar Köyü	Akpınar=
+45035	Akyar Köyü, Değirmenbaşı Mevkii	Değirmenbaşı=
+45034	Akyar Köyü, Orta Mevkii	Değirmenbaşı=|Orta=
+45033	Akyar Köyü, Tepe Mevkii	Tepe=
+45031	Akçakale Köyü	Akçakale=
+45036	Alisofu Köyü	Alisofu=
+45030	Aşağıdamlapınar Köyü	Aşağıdamlapınar=
+45037	Aşağıkotanlı Köyü	Aşağıkotanlı=
+45040	Bayburt Köyü, Camii Mevkii	Cami=
+45039	Bayburt Köyü, Okul Mevkii	Cami=|Okul=
+45041	Baykara Köyü	Baykara=
+45038	Başköy Köyü	Başköy=
+45042	Benliahmet Köyü	Benliahmet=
+45043	Beyköy Köyü	Beyköy=
+45044	Bozkuş Köyü	Bozkuş=
+45046	Bölükbaş Köyü, Aşağı Mevkii	Aşağı=
+45045	Bölükbaş Köyü, Yukarı Mevkii	Aşağı=|Yukarı=
+139705	Büyük Oluklu Köyü	Büyük Oluklu=
+45047	Büyükdere Köyü, Aşağı Mevkii	Aşağı=
+45048	Büyükdere Köyü, Yukarı Mevkii	Yukarı=
+45049	Cavlak Köyü	Cavlak=
+41782	Cumhuriyet Mah.	1.~|10.~|15 Temmuz Şehitler@|2.~|25.~|3.~|30 Eylül~|4.~|5.~|6.~|7.~|Atatürk@|Aşık Zulalı~|Cumhuriyet Üstü=|Erzurum Kars Karayolu 1~|Erzurum Kars Karayolu@|Eşref Bitlis@|Fevzi Çakmak@|Güllü Mevki~|Kanuni Sultan Süleyman@|Kars@|Kazım Paşa 1~|Kazım Paşa@|Kongre@|M.akif Ersoy@|Orhan Gazi~|Parsadan~|Rüstem Alyansoğlu@|Stad@|Sınan Şamıl Sam@|Tepecık@|Tozanlı~|Yavuz Sultan Selim~|Yücel Çelik Bilek 1=|Yücel Çelikbilek@|Yüzbaşı Recep Bey@|Zafer~|Zeytin Dalı@|Şehit Neslihan~|Şehıt Murat Karataş@
+45052	Darboğaz Köyü	Darboğaz=
+45053	Dölbentli Köyü	Dölbentli=
+45054	Eskigazi Köyü	Eskigazi=
+45055	Eskigeçit Köyü	Eskigeçit=
+45056	Gelinalan Köyü	Gelinalan=
+45057	Gürbüzler Köyü	Gürbüzler=
+45059	Hasbey Köyü, Cami Altı Mevkii	Cami Altı=
+45061	Hasbey Köyü, Cami Üstü Mevkii	Cami Üstü=
+45058	Hasbey Köyü, Giriş Mevkii	Giriş=
+45060	Hasbey Köyü, Okul Mevkii	Cami Altı=|Okul=
+45065	Kamışlı Köyü	Kamışlı=
+45067	Karahamza Köyü	Karahamza=
+45068	Karakale Köyü	Karakale=
+45066	Karaçayır Köyü	Karaçayır=
+45069	Katranlı Köyü, Aşağı Mevkii	Aşağı=|Yukarı=
+45070	Katranlı Köyü, Yukarı Mevkii	Yukarı=
+45071	Kaynarlı Köyü	Kaynarlı=
+45072	Kekeç Köyü	Kekeç=
+45075	Koyunyurdu Köyü, Aşağı Mevkii	Aşağı=
+45076	Koyunyurdu Köyü, Yukarı Mevkii	Aşağı=|Yukarı=
+45074	Koşapınar Köyü	Koşapınar=
+41784	Köprübaşı Mah.	30.~|Değirmen~|Erzurum Kars Karayolu@|Galip Özmen@|Hacı Yunus~|Kafkas~|Kazım Paşa@|Mithat Paşa@|Murat Çobanoğlu@|Yücel Çelik Bilek 1=|İstiklal~
+45073	Kırkpınar Köyü	Kırkpınar=
+45077	Laloğlu Köyü	Laloğlu=
+45078	Mollamustafa Köyü	Mollamustafa=
+45079	Oluklu Köyü	Oluklu=
+45080	Ortakale Köyü	Ortakale=
+45081	Sarıgün Köyü	Sarıgün=
+45082	Söğütlü Köyü	Söğütlü=
+45083	Tozluca Köyü	Tozluca=
+45084	Tuygun Köyü	Tuygun=
+45086	Yalnızçam Köyü	Yalnızçam=
+45085	Yamaçlı Köyü	Yamaçlı=
+45087	Yassıca Köyü	Yassıca=
+45088	Yaylacık Köyü	Yaylacık=
+45089	Yenice Köyü	Yenice=
+45090	Yeşiltepe Köyü	Yeşiltepe=
+45091	Yolgeçmez Köyü	Yolgeçmez=
+45092	Yukarıdamlapınar Köyü	Yukarıdamlapınar=
+45093	Yukarıkotanlı Köyü	Yukarıkotanlı=
+41783	Çarşı Mah.	24.~|Abdulhamit Han~|Ali Gaffar Okan~|Atatürk@|Aşık Şenlik~|Biruni~|Camii~|Celal Aras@|Celal Aras_1~|Celal Kahraman~|Ertuğrul Gazi~|Erzurum Kars Karayolu@|Eski Hastane~|Eskı Otogar~|Farabi~|Fatih Sultan Mehmet@|Fethi Sekin@|Fevzi Çakmak@|Galip Özmen_1~|Güvenlik~|Hacı Yunus~|Halit Paşa@|Hasan Harakani~|Hastane@|Hürriyet@|Hüseyin Battal Gazi~|Kars_1@|Kazım Paşa@|M.akif Ersoy@|Mimar Kemaleddin~|Mimar Sinan@|Mithat Paşa@|Muhsin Yazıcıoğlu~|Osman Gazi~|Pasaj~|Serhat S.çıkmaz~|Serhat~|Yücel Çelik Bilek 1=|Yücel Çelikbilek@|Yüzbaşı Recep Bey@|Yıldırım Beyazıt~|Zeynep Begüm Yeke~|Ömer Halis Demir@|İbni Sina~|İstasyon=|Şehit Teğmen Gökhan Yaşartürk@|Şehit Yılmaz Bilgin@|Şehit Çavuş Bülent Haluk Demir@|Şehitler@|Şht. Uzman Çavuş Burak Boz@|Şht. Yzb. Cengız Topel@|Şht. Özel Harekat Okan Koç@
+45050	Çaybaşı Köyü	Çaybaşı=
+45051	Çıplaklı Köyü	Çıplaklı=
+45062	İğdir Köyü, Aşağı Mevkii	Aşağıı=
+45064	İğdir Köyü, Değirmen Mevkii	Değirmen=
+45063	İğdir Köyü, Yukarı Mevkii	Aşağıı=|Yukarı=

@@ -1,0 +1,39 @@
+28028	Bozçavuş Köyü	 Köy$
+21385	Bükardı Beldesi, Bölükbaşı Mah.	Bölük=
+21384	Bükardı Beldesi, Kaplanbağ Mah.	Bağlar=
+21386	Bükardı Beldesi, Pınarbaşı Mah.	Pınar=
+21383	Bükardı Beldesi, Yaylabaşı Mah.	Yayla=
+21382	Bükardı Beldesi, Zeynet Mah.	Merkez=
+28030	Erbağı Köyü	 Köy$
+21387	Erimli Beldesi, Cami Mah.	Karollar=|Merkez=|Uzunlar=|Yeni Doğuş=|Çeçenler=
+21388	Erimli Beldesi, Cumhuriyet Mah.	Kasıman=|Yazlık Evler=|İlkokul Altı=
+21389	Erimli Beldesi, Güleç Mah.	Afet Evleri=|Aşağı Güleç=|Yukarı Güleç=
+21390	Erimli Beldesi, Güvenevler Mah.	Cami Altı=|Doğan Yurt=|Mohuşu=
+21391	Erimli Beldesi, Kışla Mah.	Cemalan=|Karabayır=|Zülfan=|İlkokul=
+28031	Göründü Köyü	 Köy$
+21379	Gümüşyaka Mah.	Yukarı Gümüşyaka=|Çime Sokak~
+21377	Halil Yavuz Mah.	Mendüş=|Meydan=
+21378	Hürriyet Mah.	Mirvan=
+28032	Kambertepe Köyü	 Köy$
+28034	Karakaş Köyü	 Köy$
+28033	Karakaş Köyü, Til Mezrası	 Köy$
+28037	Küplüce Köyü	 Köy$
+28039	Küplüce Köyü, Akyıldız Mezrası	 Köy$
+28038	Küplüce Köyü, Albayrak Mezrası	 Köy$
+28040	Küplüce Köyü, Ilıcak Mezrası	 Köy$
+100135	Mustafa Çelebi Mah.	Meydan Küme Evleri=
+28041	Ormanpınar Köyü	 Köy$
+21376	Saman Mah.	Dağ Evleri=
+21381	Serinevler Mah.	Akdağ=
+181430	Simserkis Mah.	Sezer~|Yolaltı~|Çirey Sılu Myd.|Özer~
+21380	Vali Göktayoğlu Mah.	Sağlık=
+28042	Yoğunbilek Köyü	 Köy$
+28044	Yoğunbilek Köyü, Göztepe Mezrası	 Köy$
+28043	Yoğunbilek Köyü, Uzun Söğüt Mezrası	 Köy$
+99531	Çavuşdere Köyü, Köyün Kendisi Mevkii	Çavuşdere~
+28029	Çevrecik Köyü	 Köy$
+21393	Üçocak Beldesi, Haberci Mah.	Boğaz=
+21394	Üçocak Beldesi, Kutlu Düğün Mah.	Ekrek=|Kılkancan=
+21395	Üçocak Beldesi, Merkez Mah.	Belediye=
+21396	Üçocak Beldesi, Ziyaret Mah.	Haberci~|Sarıçiçek=|Ziyaret Altı=
+21392	Üçocak Beldesi, Çay Mah.	Binsay=|Çır=

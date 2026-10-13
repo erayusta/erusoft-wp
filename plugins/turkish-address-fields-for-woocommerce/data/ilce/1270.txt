@@ -1,0 +1,24 @@
+52868	Armutveren Köyü	Armutveren=|Karanlık=
+52880	Avcılar Köyü	Avcılar=
+140161	Avcılar Köyü, Palivor Çiftliği Mevkii	Palivor Çiftliği=
+52869	Balaban Köyü	Balaban=|Değirmendere=
+52881	Beğendik Köyü	Beğendik=
+52870	Boztaş Köyü	Boztaş=
+52871	Gökyaka Köyü	Gökyaka=
+52872	Hamdibey Köyü	Hamdibey=
+49932	Hamdibey Mah.	Acı Çeşme~|Barajlar=|Bağlar~|Bağlar Çeşme=|Cumhuriyet Myd.|Demirali Kama~|Demirhane~|Değirmen~|Eyüp Ağa~|Hastahane~|Hoca Ahmet Yesevi~|Kapalı~|Kara Ali~|Kışlaaltı=|Mimar Sinan@|Muharrem Gülnar@|Sadettin Umay~|Sait Sayılgan~|Sergen Çeşme~|Süleyman Erinç~|Urgazyolu=|Çukur Çeşme~|Çınar~|Üçdereler=|İkizevler~|İğneada@|Şevki Oğuz~
+52875	Karacadağ Köyü	Karacadağ=|Yeşilce=
+52882	Limanköy Köyü	Limanköy=
+52884	Limanköy Köyü, Fener Sitesi Mevkii	Fener Sitesi=
+52883	Limanköy Köyü, Koru Sitesi Mevkii	Koru Sitesi=
+49933	Orhaniye Mah.	Abit Ağa~|Adem Yetişir~|Ali Dilaver~|Bahçelievler~|Bakır~|Balaban@|Değirmendere=|Dolapdere~|Dupnisa~|Düzlük~|Faik Er~|Fatih@|Fehim Ağa~|Fevzi Çakmak~|Gül~|Hacı Tahir~|Hacı Tevfik Ataç~|Harman~|Kaldırım~|Kamil Başaran~|Karagöz~|Kulumbur Çeşme=|Kırklareli@|Kışlaaltı=|Muharrem Gülnar@|Samakof~|Sergen Çeşme~|Zübeyde Hanım@|Çayırlık~|Öğretmen Selda-aykut Gültekin~|İdris Yurteri~|Şaban Özgül~|Şehit Er İlhami Uras~
+52876	Sarpdere Köyü	Sarpdere=
+52885	Sislioba Köyü	Sislioba=
+52877	Sivriler Köyü	Sivriler=
+49934	Yeni Mah.	Barajlar=|Baruthane=|Bulanıkdere=|Fabrika~|Fidanlık@|Hoca Ahmet Yesevi~|Mimar Sinan@|Muhtar Gençağa~|Okul~|Tepebaşı=|Üçdereler=|İğneada@
+52878	Yeşilce Köyü	Yeşilce=
+52879	Yiğitbaşı Köyü	Yiğitbaşı=
+52873	İncesırt Köyü	İncesırt=
+52874	İncesırt Köyü, Karanlık Mevkii	Karanlık=
+49935	İğneada Beldesi, Deniz Mah.	Akasya~|Atatürk@|Bilinmeyen11~|Bilinmeyen12~|Bilinmeyen13~|Bilinmeyen16~|Bilinmeyen20~|Bilinmeyen21~|Bilinmeyen22~|Bilinmeyen23~|Bilinmeyen30~|Bilinmeyen32~|Bilinmeyen35~|Bilinmeyen36~|Bilinmeyen40~|Bilinmeyen41~|Bilinmeyen42~|Ceviz~|Cumhuriyet Myd.|Dalyanpınarı~|Dolunay@|Gelincik~|Gül~|Güvercin~|Halil Ağa~|Hurşitağa@|Ihlamur~|Kale~|Kanara~|Lale~|Liman=|Liman1@|Limanköy@|Meşe~|Pınar~|Sahil@|Selvi~|Sislioba Yolu=|Sümbül~|Topraklık~|Yayla~|Yeni Evler@|Yeniyol@|Çukurçeşme~|Şerif Tınmaz~
+49936	İğneada Beldesi, Yeni Mah.	1.~|2.~|3.~|4.~|5.~|6.~|7.~|8.~|9.~|Altındere=|Arpa Tarla=|Atatürk@|Avcı~|Balyoz Bayırı=|Barış~|Bilinmeyen12~|Bilinmeyen14~|Bilinmeyen15~|Bilinmeyen17~|Bilinmeyen19~|Bilinmeyen3=|Bilinmeyen34=|Bilinmeyen37=|Bilinmeyen38=|Bilinmeyen39=|Bulanık=|Demirciler~|Demirköy@|Elmalık-=|Eski Pazar~|Halil Türküsever~|Hurşitağa@|Kanarya~|Karanfil~|Karlı~|Kuyu~|Kuğu~|Kırlangıç~|Martı~|Menekşe~|Mert Gölü@|Mezarlık~|Muammer Akbaş~|Nehir~|Okul~|Papatya~|Serçe~|Sislioba Yolu=|Stadyum@|Yağmur~|Yeni Evler@|Çamlık~|Çeşme~|İstikbal~|İstikbal1~

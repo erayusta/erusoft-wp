@@ -1,0 +1,40 @@
+97908	Alacamescit Köyü, Merkez Mevkii	Alacamescit Merkez=|Dikmeli Merkez=|İshaklar=
+97907	Alacamescit Köyü, Orman Mevkii	Orman=
+139895	Alacamescit Köyü, Orman Mücavir Mevkii	16087_1~|Dikmeli Merkez=
+99311	Arabacı Mah.	701.~|702.~|703.~|704.~|705.~|706.~|707.~|708.~|709.~|710.~|711.~|712.~|713.~|714.~|715.~|Anadolu Otoyolu Düzce Bağlantısı@|D 100 Karayolu@|Düzce@|Çilimli@|İlköğretim@
+97910	Bıçkıbaşı Köyü	Bıçkıbaşı=|Hızardere=
+139897	Dikmeli Köyü, Dikmeli Mücavir Mevkii	16080~|16087~|623.~|902.~|903~|904.~|905.~|906.~|907.~|D 100 Karayolu@
+97913	Dikmeli Köyü, Gülebeler Mevkii	Gülebeler=
+97912	Dikmeli Köyü, Merkez Mevkii	D-100 Kenarı-~|Dikmeli Merkez=
+97914	Döngelli Köyü	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1019~|D 100 Karayolu@|Dongellı~
+97915	Esenli Köyü	Esenli=
+97916	Hızardere Köyü	Hızardere=
+97918	Kafyayla Köyü	Kafyayla=
+97919	Karaçörtlen Köyü	Karaçörtlen=
+97923	Kiraztarla Köyü	Kiraztarla=
+97924	Kuşoğlu Köyü	Kiraztarla=|Kuşoğlu=|Çalılık=
+97921	Kırkharman Köyü, Kavaklık Mevkii	Kavaklık=
+97922	Kırkharman Köyü, Merkez Mevkii	Merkez=|Mısırlık=
+97920	Kırkharman Köyü, Yukarıköy Mevkii	Küpler=|Yukarıköy=
+91217	Mahirağa Mah.	827.~|Acar~|Ahmet Çavuş~|Düzce@|Halil Arslan@|Hasan Aydın~|Hasan Çelebi~|Hüseyin Aydın~|Kanal 2~|Kanal@|Mehmet Acar@|Mezbahane@|Mustafa Yavuz~|Park~|Salih Yağmur~|Türbe@|Yaşar Yavuz@|Çilimli Kuzey@|İ. Hakkı Çelebi~|Şahin~
+97927	Pırpır Köyü, Alimler Mevkii	Alimler=|Yukarıkaraköy=
+97928	Pırpır Köyü, Kanal Mevkii	703~|Kanal=
+97926	Pırpır Köyü, Kocaveliler Mevkii	Kocaveliler=|Yukarıkaraköy=
+97929	Pırpır Köyü, Kültür Mevkii	Kültür=
+97931	Pırpır Köyü, Orta Mevkii	Orta=|Yukarıkaraköy=
+97930	Pırpır Köyü, Çakallar Mevkii	Yukarıkaraköy=|Çakallar=
+97925	Pırpır Köyü, Ömercikler Mevkii	Ömercikler=
+97932	Sarımeşe Köyü	Akçakoca@|Merkez=|Sarımeşe=
+97933	Söğütlü Köyü, Söğütlü Mevkii	801.~|802~|803.~|804.~|805.~|806.~|807.~|808.~|809.~|810.~|811.~|812.~|813.~|814.~|815.~|816.~|817.~|818.~|819.~|820.~|821.~|822.~|823.~|824.~|825.~|826.~|827.~|828.~|Akçakoca@|Bahar~|Dere~|Düzce@|Kocakavak@|Mehmet Acar@|Söğütlü@
+97934	Tepeköy Köyü	Tepeköy=
+99312	Topçular Mah.	601.~|602.~|603.~|604.~|605.~|606.~|607.~|608.~|609.~|610.~|611.~|612.~|613.~|614.~|615.~|616.~|617.~|618.~|619.~|620.~|621.~|622.~|623.~|624.~|625.~|626.~|627.~|628.~|Ahmetçiler~|Cami@|D 100 Karayolu@|Düzce@|Elmalı~|Kocakavak@|Necip~|Okul@|Yıldız~|Çilimli Kuzey@|Çıkmaz~|İlköğretim@
+91215	Ulucami Mah.	1.@|101.~|102.~|103.~|104.~|105.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|114.~|115.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|129.~|130.~|131.~|132.~|133.~|134.~|135.~|136.~|137.~|138.~|139.~|140.~|141.~|142.~|143.~|144.~|145.~|146.~|147.~|148.~|149.~|150.~|151.~|152.~|153.~|154.~|155.~|156.~|157.~|158.~|159.~|160.~|161.~|162.~|163.~|164.~|165.~|166.~|167.~|168.~|169.~|170.~|171.~|172.~|173.~|174.~|175.~|176.~|177.~|178.~|2.@|208.~|3.@|4.@|Ahmet Uslu~|Akdere 2~|Akdere 3~|Akdere~|Aksoy~|Aksu~|Akçakoca@|Anaokul~|Arabacı~|Arabacıoğlu~|Aydın~|Bayrak~|Bağdat@|Bulancak~|Cami 2~|Can~|Coşkun~|Cumhuriyet 2~|Cumhuriyet Myd.|Demirciler~|Demirciler1~|Düzce@|Emek~|Fiskobirlik~|Giresun@|Güney~|Güneş~|Güven~|Güven/1~|Horuz~|Kalyon 2~|Kanal@|Karadeniz~|Karalar~|Karanfil~|Karslıoğlu~|Kocabey~|Konuralp~|Lise~|Mercan~|Mezarlık~|Mezbahane@|Muhsin Sak~|Mustafa Kurtkaya@|Numanlar~|Okul 2~|Okul.~|Orhan~|Orta@|Park 2~|Pazaryeri~|Paşalar~|Paşaoğlu~|Sadık Hoşver~|Sarı~|Sağlık Ocağı~|Sezer~|Spor~|Suratoğlu~|Sümer~|Tufan~|Turan~|Uğurlu@|Yavuz 2~|Yavuz~|Yeni@|Çelebi~|Çimen~|Özcan~|Özdemir 2~|Özkan~|Öztürk~|İlhan~|İrfan Öztürk@|Şahin 2~|Şanda~|Şehit Fikri Öztürk@|Şehit Ömer Halisdemir@|Şehit İsa Ceylan@|Şen~|Şifa~
+97936	Yeniköy Köyü	Yeniköy=
+97937	Yenivakıf Köyü, Merkez Mevkii	Merkez=
+97938	Yenivakıf Köyü, Yeni Mevkii	Yeni=
+91216	Yeşil Mah.	104.~|15 Temmuz@|301.~|302.~|303.~|304.~|305.~|306.~|307.~|308.~|309.~|310.~|311.~|312.~|313.~|314.~|315.~|Hızardere@|Spor~|Ulcay~|Yeşilmahalle@|Özdemir~|Şehit İsa Ceylan@
+91218	Yeşiltepe Mah.	104.~|201.~|202.~|203.~|204.~|205.~|206.~|207.~|208.~|209.~|210.~|Akar~|Dönmez~|Esat~|Hacı Fahrettin~|Harun Şahin~|Hüseyin Efendi~|Hızardere@|Meydan~|Nuri Şahin~|Orta@|Su Deposu~|Tınaz~|Uğurlu@|İpsiz~|Şehit Ramazan Gel~
+97939	Yukarıkaraköy Köyü	Kozlar=|Merkez=|Yeniköy=|Yukarıkaraköy=
+97911	Çalılık Köyü	Esenli=|Çalılık=
+97917	İshaklar Köyü	Esenli=|İshaklar=
+91214	Şerefiye Mah.	1.@|1. Kanal@|159.~|160.~|161.~|173.~|174.~|2. Kanal@|3.@|4.@|401.~|402.~|403.~|404.~|405.~|406.~|407.~|408.~|409.~|410.~|411.~|412.~|413.~|414.~|415.~|416.~|417.~|Akdere 2~|Akdere~|Batı~|Bağdat@|Birlik~|Bodur~|Dere 2~|Düzce@|Hacı Hasan~|Hacı Osman Bey~|Hendek~|Horuz~|Kalyon~|Lütfüoğlu~|Mezbahane@|Okul 2~|Orta.~|Pırpır@|Tok~|Uyanık~|Uysal~|Varol~|Yangın~|Yılmaz~|Çelik~|Özbal~

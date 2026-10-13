@@ -1,0 +1,27 @@
+27639	Adasarhanlı Köyü	Adasarhanlı=
+27621	Akçadam Köyü	Akçadam=|Rahmanca=|Serem=
+27622	Akıncılar Köyü	Akıncılar=
+27623	Alibey Köyü	Alibey=
+21253	B.doğanca Mah.	Ada~|Ahmet Tosun@|Albay~|Ali Gürgen~|Ali Çetinkol~|Artezyen@|Avcuoğlu~|Avcılar~|Ay~|Aytin~|Babaküstü~|Bahar~|Bahçe~|Baraj~|Bağyolu~|Birlik~|Buzhane~|Bülbüldere~|Can~|Cumhuriyet Myd.|Dere1~|Derinyol~|Değirmen~|Dilek~|Donatım~|Elmas~|Eren~|Eski Pazar~|Eski Sanayi~|Eski Subaşıyolu Mevkii=|Fidan~|Filiz~|Foto~|Fuat Kılıçaslan~|Fırfır~|Fırın~|Garaj~|Gardiyan~|Göztepe~|Göçmen~|Gül~|Güllü~|Hasan Özden~|Hoca~|Hüseyin Aytin~|Kanarya~|Karanfil~|Kaymakam Kadir Aydoğan~|Koç~|Kuzey~|Lojman~|Mehmet Akif Ersoy~|Mehmet Ali Dübek~|Mehmet Ali Kayar~|Mehmet Tüfekçi~|Mehmetçik~|Menekşe~|Murat Güler~|Müftülük~|Ofis~|Olacak=|Orman~|P.t.t~|Pamukçu~|Park~|Petrol~|Poyraz~|Sedef~|Sevinç~|Stat~|Terminal~|Uludağ~|Umut~|Uygur~|Uğur Mumcu@|Yakup Kaner~|Yaprak~|Yarlık~|Yeni Bağlık=|Yeni Pazar~|Yeni Subaşı Yolu~|Yörük~|Yörükoğlu~|Yıldız~|Zünbül~|Çakmakçı~|Çiçek~|Çınar~|Ömer Alperen Can~|Özgün~|Öğüttepe~|İbrahim Efendi~|İlkokul Çıkmazı~|Şehit Astsubay Osman Çakıl~|Şükrü Çetinler~
+27640	Büyükaltıağaç Köyü	Büyükaltıağaç=
+27624	Hasırcıarnavutköy Köyü	Hasırcıarnavutköy=
+21254	K. Doğanca Mah.	Asker~|Atatürk@|Atatürk2~|Dere~|Hoca Ahmet Yesevi~|Hürriyet~|Hürriyet1~|Kurtuluş~|Kısık Yol~|Lale~|Yaşantı~|Yeni Subaşı Yolu 1~|Yeni Subaşı Yolu~|Çeşme Önü~|İşlik~
+27625	Kadıdondurma Köyü	Kadıdondurma=|Kazım Karabekir@|Yeni Subaşı Yolu 1~
+27626	Karahamza Köyü	Karahamza=
+27627	Karayusuflu Köyü	Karayusuflu=
+27628	Kavaklı Köyü	Kavaklı=
+27629	Küpdere Köyü	Karayusuflu=|Küpdere=
+21255	Küplü Beldesi, Gazi Mah.	Barış~|Bağlar 1~|Bağlar 2~|Dere~|Derin~|Gazi~|Gönül~|Köşebaşı~|Merkez~|Şehit Er Sercan Fidan~|Şehit Nezir Kına@
+21256	Küplü Beldesi, Merkez Mah.	Büyük Cami~|Dere~|Değirmen~|Harman~|Köşebaşı~|Merkez~|Yıldırım~|Çeşmebaşı~|Şehit Nezir Kına@
+27641	Küçükaltıağaç Köyü	Küçükaltıağaç=
+27630	Nasuhbey Köyü	Nasuhbey=
+27631	Olacak Köyü	Olacak=
+27632	Paşayenice Köyü	Paşayenice=
+27633	Rahmanca Köyü	Karahamza=|Rahmanca=
+27634	Saatağacı Köyü	Akıncılar=|Saatağacı=
+27635	Serem Köyü	Serem=
+21257	Subaşı Beldesi, İzzet Paşa Mah.	10.~|11.~|11./1~|12.~|13.~|14.~|15.~|15/1~|16.~|17.~|18.~|19.~|20~|21~|9.~|Ali Mercan 1~|Ali Mercan@|Cumhuriyet Myd.|Fevzi Çakmak 1~|Fevzi Çakmak@|Kazım Karabekir@|Mehmet Musa Özen@
+21258	Subaşı Beldesi, Şehit Mehmet Aydın Mah.	1.~|1./1~|13.~|2.~|3.~|3.1~|4.~|5.~|6.~|6./1~|7.~|8.~|8./1~|8./2~|9.~|Atatürk@|Cumhuriyet Myd.|Kazım Karabekir@|Mehmet Musa Özen@|Tülütepe~|Tülütepe1~|Tülütepe10~|Tülütepe11~|Tülütepe12~|Tülütepe13~|Tülütepe14~|Tülütepe15~|Tülütepe16~|Tülütepe17~|Tülütepe18~|Tülütepe19~|Tülütepe2~|Tülütepe20~|Tülütepe3~|Tülütepe4~|Tülütepe5~|Tülütepe6~|Tülütepe7~|Tülütepe8~|Tülütepe9~
+27636	Umurca Köyü	Kadıdondurma=|Umurca=
+27637	Yakupbey Köyü	Yakupbey=
+27638	Yenicegörüce Köyü	Yenicegörice=

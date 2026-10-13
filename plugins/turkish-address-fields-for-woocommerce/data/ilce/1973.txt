@@ -1,0 +1,9 @@
+191183	Alpagut Mah.	Akan Çıkmazı~|Akar~|Ali Onbaşı~|Alpagut Avlamış Yolu~|Altınışık~|Arslan~|Avcı~|Aydoğdu~|Bahçe~|Bağlar~|Cami (ertuğrulgazi)~|Cami~|Caymaz~|Cebeci~|Dallı~|Dallı Çıkmazı~|Emirler~|Ertuğrulgazi@|Esentepe@|Gök~|Gökçe~|Gökçe Çıkmazı~|Gül~|Gülbaba~|Güner~|Güngör~|Hacı Ömür~|Hal~|Hekimoğlu~|Hüseyin Koca@|Kısa~|Mumcu~|Onur~|Sirmen~|Tarhan~|Turgut Reis~|Yümer~|Yıldırım~|Yılmaz~|Çakırlı~|Ömerağa~|Ömerağa Çıkmazı~|Ören~
+191185	Bozaniç Mah.	Bozaniç=
+30285	Cumhuriyet Mah.	Ata~|Atatürk@|Aytaç~|Cıvır Çıkmazı~|Erdinç~|Erler~|Eğnebey~|Fatih~|Gonca~|Güven~|Hal~|Kar Çıkmazı~|Köprü@|Kösemihal@|Köy Altı=|Kıvrak~|Lale~|Necdet Ünal@|Nehir~|Tunca~|Özüdoğru@|Şahin~|Şelali~|Şen Çıkmazı~
+191187	Demirciler Mah.	Demirciler=
+30286	Dokuz Mayıs Mah.	Ada=|Deliklikaya=|Dokuz Mayıs@|Düğüm~|Engin~|Hilal~|Kanal~|Karakol~|Kocadolapaltı=|Köyyeri=|Mezarlıkbaşı=|Ortabük=|Tek~|Ufuk~|Yayla=|Ölmez~|Özdemir~|İstanbul@|Şen~
+30287	Hürriyet Mah.	Atatürk@|Gümele@|Karanfil~|Kaya~|Kesentaş=|Kösemihal@|Kınalı~|Kıran~|Kıran Çıkmazı~|Menekşe~|Seki=|Sönmez~|Uyar~|Yıldırım~|Çakıl=|Özlem~|Ülkü~
+191189	Karaoğlan Mah.	Karaoğlan=
+191191	Sakarıılıca Mah.	1.sokak~|75.yıl Caddesi@|Akar Sokak~|Asker Sokak~|Asker Çıkmazı~|Atatürk Caddesi@|Bakar Sokak~|Birlik Sokak~|Cami Sokak~|Cami Çıkmazı~|Cumhuriyet Caddesi@|Döner Sokak~|Gül Sokak~|Ilıca Caddesi@|Kaplıca Caddesi@|Kaplıca Çıkmazı~|Karanfil Sokak~|Kaymakam Özgür Azer Kurak Caddesi@|Lale Sokak~|Osmangazi Caddesi@|Sümbül Sokak~|Tombak Sokak~|Tuzlu Sokak~|Vatan Sokak~|Yurt Sokak~|Çiğdem Sokak~|Çınar Sokak~|Öztürk Sokak~|İstiklal Caddesi@|Şahin Sokak~|Şanlı Sokak~|Şehit Sokak~|Şen Sokak~
+30288	İstiklal Mah.	Atatürk@|Bağdat Çıkmazı~|Bağlar~|Bağlar Çıkmazı~|Beyazıt~|Cami~|Cengiz Topel@|Depoyolu~|Dönmez~|Girgin~|Gül~|Güneş~|Güneş Çıkmazı~|Kahve Çıkmazı~|Kültür~|Menekşe~|Yol Çıkmazı~|Ülkü~|Ünal Çıkmazı~

@@ -1,0 +1,42 @@
+189709	Akçam Mah.	Akçam=
+189713	Alaca Mah.	Alaca=|Gökçeharman=
+189803	Ataköy Mah.	Ataköy=
+189707	Ağcaşar Mah.	Ağcaşar=
+189801	Aşağıkızılkale Mah.	Aşağıkızılkale=
+189715	Aşağıçakmak Mah.	Aşağıçakmak=
+189717	Buğdaylı Mah.	Buğdaylı=
+30022	Camikebir Mah.	Aydınlar~|Bekirbey~|Cami~|Kaplıcalar@|Kaplıcalar Tesisi=|Meydan~|Sudeposu=|Çay~|İbrahim Efe@|İsaçavuş~
+189721	Derebaşı Mah.	Derebaşı=
+189723	Dilek Mah.	Dilek=
+189811	Duatepe Mah.	Duatepe=|Karakoç=|Kındaut=|Şirin Komu=
+189727	Dumankaya Mah.	Dumankaya=
+189733	Emre Mah.	Emre=
+189817	Eyüpler Mah.	Ağakom=|Eyüpler=
+189729	Eğirmez Mah.	Eğirmez=
+189735	Geyikli Mah.	Geyikli=
+189739	Gölçayır Mah.	Gölçayır=|Gölçayır1=
+189743	Güzelhisar Mah.	Güzelhisar Mahallesi=
+189747	Ilıcasu Mah.	Ilıcasu=
+189749	Karataşlar Mah.	Karataşlar=
+189753	Kayabaşı Mah.	Akbaba=|Karapınar=|Kayabaşı=
+189757	Kıyıkonak Mah.	Kıyıkonak=
+189761	Marifet Mah.	Marifet=
+189795	Mescitli Mah.	Hasan=|Kanatlı=|Mescitli B.m=
+189765	Ortaklar Mah.	Ortaklar=
+189769	Pekecik Mah.	Pekecik=
+189821	Sarıtaş Mah.	Sarıtaş=
+189773	Savatlı Mah.	Savatlı=|Savatlı1=
+189775	Soğuksu Mah.	Soğuksu=
+189823	Topçu Mah.	Topçu=
+189779	Yapağılı Mah.	Erzurum Kars Karayolu@|Yapağılı=
+189699	Yağan Mah.	Akgül~|Ardıç~|Ağcaşar Yolu=|Bahçe~|Bamya~|Belediye~|Ceyhun~|Ceylan~|Dağıstan~|Delioğlu~|Dere~|Duman~|Evliya~|Gonca~|Gönül~|Gülşen~|Günalp~|Güneş~|Güngören~|Güven~|Güzelhisar~|Halil İbrahim~|Hınıs@|Karaduman~|Kartal~|Medrese~|Mezarlık=|Nehir=|Nenehatun~|Nenehatun Şehitler-~|Nisan~|Onüçmart=|Papatya~|Recepkonuk~|Sancak~|Sel Evler~|Yamaç=|Yaprak~|Yaren~|Yavuz~|Yağan@|Yağanbaba=|Yağmur~|Yenimahalle~|Yıldırım~|Yıldız~|Yılmaz~|Çiçek~|Özdemir~|Şahin~
+189827	Yemlik Mah.	Yemlik=|Yemlik1=
+189783	Yeşilöz Mah.	Yeşilöz=
+189787	Yukarıkızılca Mah.	Yukarıkızılca=
+189833	Yukarıkızılkale Mah.	Erencik=|Yukarıkızılkale=
+189791	Yukarısöğütlü Mah.	Erzurum Kars Karayolu@|Yukarısöğütlü=
+189829	Yılanlı Mah.	Gazi=|Konak Görmez=|Yılanlı=|Yılanlı1=
+30024	Ziyaret Mah.	Aras@|Aydınlar~|Belli~|Dere~|Erzurum Kars Karayolu@|Halil Dede~|Karanfil~|Karasu@|Kılıç~|Mansırağa~|Memet Ağa~|Meydan-~|Paşalar~|Söğütlü@|Yağmur~|Yunus Emre~|Yurdakul~|Yıllar~|Çoban Dede~|İbnisina@|İstiklal@|Şehit Mükremin Turan@
+189807	Çullu Mah.	Dişlikaya=|Çullu=
+189767	Örentaş Mah.	Örentaş=
+30023	Şehitler Mah.	23 Temmuz~|Bahattin Karasu@|Cennet~|Cumhuriyet@|Erzurum Kars Karayolu@|Kaplıcalar@|Kar~|Köşe~|Mansırağa~|Mezarlık1@|Necati Erer@|Resuloğlu~|Sanayi@|Söğütlü@|Tabya~|Yiğit~|Yurttaş~|Çaykara~|İbni Sina@|İbrahim Efe@|İstasyon~|Şehit İbrahim Hakkı Sönmez@

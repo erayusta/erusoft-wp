@@ -1,0 +1,16 @@
+5071	Akkoyunlu Köyü	 Köy$
+871	Bucak Mah.	Aslan~|Bolvadin1@|Cumhuriyet Myd.|Demirciler@|Fatih@|Girne~|Hilal~|Hüyük@|Kayacık@|Ortayol=|Sabır~|Yeşil~|Ören-1~|Özbay~
+99414	Gölcük Mah.	Bolvadin2@
+5072	Göynük Köyü	Göynük=
+872	Işık Mah.	Abideler@|Bayram~|Cihan~|Millik~|Ortayol=|Pınar~|Uçar~|Çimen~|Ülküm 1~|İstasyon@
+5073	Kale Köyü	 Köy$
+873	Karadede Mah.	Abideler@|Aktaş~|Atatürk@|Bağlar@|Başer~|Gedik~|Kenar~|Koç~|Tota~|Tunç~|Uysal~|Yazka~|Yılmaz~|Ören~|İstiklal@
+877	Kocaöz Beldesi, Atatürk Mah.	Akçeşme~|Ara~|Barbaros@|Bolvadin@|Cumhuriyet@|Demet~|Dere~|Gazi~|Gülistan~|Mercan~|Nal~|Çavuşoğlu~
+880	Kocaöz Beldesi, Cumhuriyet Mah.	Akıncılar~|Alparslan~|Arslan~|Barış~|Beylik~|Camii~|Gacalar=|Gül~|Günay Çankaya~|Güneş~|Hilal~|Hoşdere~|Kanarya~|Kebapçılar=|Köroğlu~|Kılıçarslan~|Mehmet Akif Ersoy%|Mehmetçik~|Mevlana~|Okul~|Prof. Dr. Veysel Eroğlu@|Prof.dr. Veysel Eroğlu@|Prof.dr. Veyseleroğlu@|Yavuz Sultan Selim~|Yeşil Park~|Yunus Emre~|Yıldırım Beyazıt~|Ülkü~|Şahin~
+878	Kocaöz Beldesi, Fatih Mah.	Barbaros@|Caga~|Cumhuriyet@|Derebağ~|Gürçeşme~|Karadeniz~|Karanfil~|Kurtuluş@|Lale~|Sümbül~|Çankaya~|Çayözü@
+879	Kocaöz Beldesi, İstiklal Mah.	Akasya~|Beyazıt~|Bolvadin@|Dere~|Gazi~|Gülistan~|Ilıca~|Kılıç~|Merkez Cami~|Tepe~|Yeşil Cami~|Yeşiltepe~|İnce~
+874	Sırakapı Mah.	Bağlar@|Buldan~|Cumhuriyet Myd.|Demirciler@|Hacı Yahyalar@|Kayacık@|Ülker~
+99415	Termalkent Mah.	Çiftlikler=
+99412	Yavuz Selim Mah.	Bağlar@|Ceylan~|Demirel@|Kenar~|Tunç~|Uğur~|İstiklal@
+875	Yeni Mah.	Düden Başı~|Gül~|Kafkas~|Karabağ~|Kırka~|Millik~|Millik1~|Nur~|Osman Gazi~|Toros~|Zambak~|İstasyon@|Şeyh Şamil~
+876	Zafer Mah.	3 Şubat 1.~|3 Şubat 2.~|3 Şubat 3.~|3 Şubat 4.~|3 Şubat@|Asena~|Bolvadin2@|Bostancı~|Girne~|Hilal~|Işık~|Kanal 1.~|Kanal 2.~|Kanal 3.~|Kanal 4.~|Kanal 5.~|Kanal@|Karanfil~|Kıbrıs~|Lale~|Milli Egemenlik@|Ortayol=|Sanayi@|Sarmaşık~|Stadyum 1.~|Stadyum 2.~|Stadyum 3.~|Stadyum 4.~|Stadyum 5.~|Stadyum@|Tuna~|Turan 1.~|Turan 2.~|Turan@

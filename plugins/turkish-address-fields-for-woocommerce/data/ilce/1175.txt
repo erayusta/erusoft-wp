@@ -1,0 +1,68 @@
+158751	Akçalı Mah.	Akçalı=|Dereiçi/1~|Kesendere=
+158829	Albayrak Mah.	Konut=
+158831	Atlılar Mah.	Atlılar-~|Bölekli=|Kavurgalı=|Kediköy=
+158757	Aydemir Mah.	Aydemir=|Aydemir/4~|Kevçikan=|Testilli=|Çatakkaya=|Çağla=|Çepkenli/4~
+158759	Azıklı Mah.	Azıklı=|Durusu=
+158749	Açıkağıl Mah.	Açıkağıl=
+158755	Aşalan Mah.	Aşalan=|Ortayol.@
+158753	Aşağıküme Mah.	Aşağıküme~|Aşağıküme/1~|Aşağıküme/2~|Aşağıküme/3~|Aşağıküme/4~|Aşağıküme/5~|Aşağıküme/6~|Ekecek Ty~|Ekecek/6~|Hatipova~|Hatipova/1~|Hatipova/2~|Hatipova/3~|Hatipova/4~|Hatipova/5~|Hatipova/6~|Hatipova/7~|Hatipova/8~|Hatipova/9~|Yukarıküme~|Yukarıküme/1~|Yukarıküme/2~|Yukarıküme/3~|Yukarıküme/5~|Yukarıküme/6~
+158761	Barış Mah.	Barış 8~|Barış~|Barış/1~|Barış/2~|Barış/3~|German~|German/1~|German/2~|German/3~|German/4~|German/5~|German/6~|German/7~|German/8~|Yavrucak 1~|Yavrucak 2~|Yavrucak~
+158763	Belencik Mah.	Belencik=
+158765	Beşocak Mah.	Gözaydın=
+158833	Bilgeç Mah.	Bilgeç=|Bilgeç-~|Bilgeç/111=
+158837	Bölekli Mah.	Bölekli=|Yerliharman=
+158835	Böğrüpek Mah.	Böğrüpek=
+158839	Büklümdere Mah.	Büklümdere=
+158771	Dereiçi Mah.	Dereiçi=|Dereiçi/1~|Uludurak~
+158773	Deringeçit Mah.	15=
+158775	Ekecek Mah.	Ekecek~|Ekecek Ty~|Ekecek/1~|Ekecek/10~|Ekecek/2~|Ekecek/3~|Ekecek/4~|Ekecek/5~|Ekecek/6~|Ekecek/8~|Ekecek/9~|Sinova~|Sinova/1~|Sinova/2~|Sinova/3~|Sinova/4~|Sinova/5~|Sinova/6~|Sinova/7~|Sinova/9~|Ömerova~
+158777	Erek Mah.	Erek=|Erek/4~|Van Hakkari 601@|Van Hakkari Cad-510@|Çukula=
+158779	Erkonağı Mah.	Erkonağı=
+158781	Esenyamaç Mah.	Dere Yatağı=|Dereboyu=|Esenyamaç=|Nenehatun=|Sualtı=|Yeşilbulak=
+184312	Evbakan Mah.	Evbakan=
+158841	Eşmepınar Mah.	Eşmepınar=
+158783	Gedikbaşı Mah.	Gedikbaşı=
+158843	Gelenler Mah.	Davudabat=|Gelenler=
+158845	Güleçler Mah.	Güleçler~|Güleçler/1~|Güleçler/10~|Güleçler/11~|Güleçler/12~|Güleçler/13~|Güleçler/14~|Güleçler/15~|Güleçler/16~|Güleçler/17~|Güleçler/18~|Güleçler/19~|Güleçler/2~|Güleçler/20~|Güleçler/21~|Güleçler/3~|Güleçler/4~|Güleçler/5~|Güleçler/6~|Güleçler/7~|Güleçler/8~|Güleçler/9~
+158785	Güroluk Mah.	Güroluk=
+158847	Güvendik Mah.	Güvendik=
+80586	Hafiziye Mah.	Ahmet Kaya -120~|Ahmet Kaya-120-~|Akkoyunlar Sok-110~|Alanlar Sok-702~|Alkanlar Sok 707/1~|Alkanlar Sok-707~|Altgeçit-109~|Aslanlar Sok-1-213~|Aslanlar Sok-2-204~|Aslanlar Sok-2-204/1~|Ayhanlar Sok-712~|Boralar Sok-103~|Boralar Sok-705~|Bozbaylar-114~|Bozbaylar-114-~|Büyük Camii Sok-105~|Canlar Sok-710~|Cuhuriyet-cad-711@|Cumhuriyet Cad-104@|Cumhuriyet-215@|Demirciler Sok-108~|Durmazlar Sok-207~|Erezler Sok-708~|Erezler Sok-708/1~|Gül-115~|Günül-119~|Günül-119-~|Kadir Saruhan 704/1~|Kadir Saruhan Cad-704@|Kadir Saruhan Cad704@|Kadir Saruhan-113-@|Kaledibi-211~|Koçdağı 1.sok.117~|Koçdağı 2.sok.116~|Kızılay Sok-203-~|Lale-122~|Lale-205~|Mahmut Ertuş -201-@|Mahmut Ertuş-111~|Mahmut Ertuş-111-@|Mahmut Ertuş111@|Marangozcular Sokak~|Marangozlar-107-~|Meydan-112@|Nevrozağa Demirler Sok-sok-706~|Orhanlar Sok-102~|Orhanlar_sok-703~|Pazarcılar-121~|Sağlık Sok-202~|Sağlık Sok-202-~|Sağlık Sok202~|Söğüt Sok-212~|Tabur~|Tabur Sok-214~|Tayan Sok-709~|Tayan Sok-709/1~|Tekinler~|Tepe-209~|Uyarlar Sok-206-~|Van Hakkari Karayolu-101@|Van Hakkari Yolu 701/1~|Van-hakkari Yolu-701@|Van-hakkari Yolu-701/1@|Y.batkan-1-901~|Y.batkan-1-901-~|Y.batkan-2-902~|Y.batkan/2~|Y.batkan1/1~|Y.batkan1/2~|Çekvan-1-801~|Çekvan-1-801/1~|Çekvan-2-802~|Çekvan-2-802/1~|Çekvan-2-802/2~|Çekvan-2-802/3~|Çekvan-2-802/4~|Çekvan-2-802/8~|Çekvan-2-802/9~|Çeşmeler-208~|Çeşmeler-208-~|Çiftçiler~|Çınar-106~|İner Sok-210~|İskender Ertuş -123@|İskender Ertuş -123-@|Şehit Uzman Çvş.kerim Aydın.m.dağdelen -118@|Şehit Uzman Çvş.kerim Aydın.m.dağdelen 118/1~|Şerefhan-123@
+158787	Hasanbey Mah.	Gecitgeren~|Hasanbey=|Yunus Emre=
+158789	Ilıcak Mah.	Belliyurt~|Belliyurt/1~|Belliyurt/10~|Belliyurt/11~|Belliyurt/12~|Belliyurt/13~|Belliyurt/14~|Belliyurt/15~|Belliyurt/2~|Belliyurt/3~|Belliyurt/4~|Belliyurt/5~|Belliyurt/6~|Belliyurt/8~|Belliyurt/9~|Belliyurt16~|Belliyurt20~|Ilıcak~|Ilıcak/1~|Ilıcak/10~|Ilıcak/11~|Ilıcak/11/1~|Ilıcak/12~|Ilıcak/13~|Ilıcak/14~|Ilıcak/15~|Ilıcak/16~|Ilıcak/17~|Ilıcak/18~|Ilıcak/19~|Ilıcak/2~|Ilıcak/3~|Ilıcak/4~|Ilıcak/5~|Ilıcak/6~|Ilıcak/7~|Ilıcak/7/1~|Ilıcak/8~|Ilıcak/9~
+158791	Işıklı Mah.	Işıklı=
+158793	Kavurgalı Mah.	Atlılar/3~|Kavurgalı=|Kavurgalı-~|Kavurgalı/18=
+158849	Kaşkol Mah.	Kaşkol=
+158795	Keçilioba Mah.	İl=
+158853	Kocaköy Mah.	Kocaköy=
+158855	Konuksayar Mah.	Konuksayar=
+158799	Kovalıpınar Mah.	Kovalıpınar=|Yamaç=
+158797	Koçdağı Mah.	Koçdağı=|Savaşköy/4~
+158801	Köprüağzı Mah.	Bulgurcu~|Gönen~|Gönen/1~|Karakol~|Köprüağzı~|Köprüağzı/1~|Köprüağzı/2~|Köprüağzı/3~|Köprüağzı/4~|Köprüağzı/5~|Özlü~|Özlü/1~|Özlü/2~|Özlü/3~
+158851	Kızılca Mah.	Geçitvermez=|Kızılca=
+158803	Mahmutabat Mah.	Koru~|Koru/1~|Koru/3~|Mahmutabat~|Mahmutabat/1~|Mahmutabat/2~|Mahmutabat/3~|Mahmutabat/4~|Mahmutabat/5~|Mahmutabat/6~|Mahmutabat/7~|Mahmutabat/8~
+158857	Ortayazı Mah.	Konut=|Ortayazı=
+158807	Ortayol Mah.	Ortayol=|Ortayol.@|Yolmaçayır/6~
+158805	Oğulveren Mah.	Avdur~|Avdur/1~|Mazılı=|Oğulveren=
+158815	Sallıdere Mah.	Sallıdere=
+158817	Savaşköy Mah.	Aşağıdurak~|Aşağıdurak/1~|Aşağıdurak/2~|Aşağıdurak/3~|Aşağıdurak/4~|Aşağıdurak/5~|Aşağıdurak/6~|Aşağıdurak/7~|Aşağıdurak/8~|Savaşköy=|Savaşköy/4~|Yukarıdurak~|Yukarıdurak/1~|Yukarıdurak/2~|Yukarıdurak/3~|Yukarıdurak/4~|Yukarıdurak/5~|Yukarıdurak/6~|Yukarıdurak/7~
+158863	Saçan Mah.	Meydanlık=|Mutluşar=|Saçan=
+158865	Tahıl Mah.	Tahıl=|Tokluca=
+80588	Tepebaşı Mah.	526.sok-~|Akkoyunlar Sok-302~|Akkoyunlar Sok-302/1~|Akyıldızlar Sok-412~|Alpler 1.sok.506~|Alpler 1.sok.506/1~|Alpler 2.sok-520~|Arıklar Sok-512~|Aydınlar Sok-405~|Ayyıldızlar Sok 521/1~|Ayyıldızlar Sok-521~|Barış Köyü 1.sok 416/1~|Barış Köyü 1.sok-416~|Barış Köyü 2.sok-417~|Barış Sok 524/1~|Barış Sok 524/2~|Barış Sok 524/3~|Barış Sok 524/4~|Barış Sok 524/5~|Barış Sok 524/6~|Barış Sok-524~|Boncuk-402~|Bozkurtlar Sok 511/1~|Bozkurtlar Sok-511~|Cami-1201~|Dereler Sok-514~|Değerler-1101~|Değirmen 522/1~|Değirmen Sok 522/1~|Değirmen Sok 522/3~|Değirmen Sok 522/4~|Değirmen Sok 522/5~|Değirmen Sok 522/6~|Değirmen Sok 522/7~|Değirmen Sok-522~|Ertuşlar 1.sok-409~|Ertuşlar 2. Sok -415~|Gap Sok-502~|Golmatikan 1.sok-304~|Golmatikan 2.sok 306~|Golmatikan 3.sok-307~|Golmatikan Kanal Altı Sok-410~|Gökay Sok-413~|Gölpa Sok-519~|Jandarma Sok.505~|Kanal Sok-305~|Kaplanlar Sok-503~|Karşıyaka Sok 516/1~|Karşıyaka Sok 516/2~|Karşıyaka Sok-516~|Kayalar 1.sok-517~|Kayalar 2.sok-518~|Kelebek--406~|Kılıçlar 1 1202/1~|Kılıçlar-1-1202~|Kılıçlar-2-1204~|Kılıçlar-3-1205~|Kılıçlar-4-1203~|Kılıçlar.4.1203/1~|Kılıçlar.41.203/2~|Kızılay-1105~|Mahmut Ertuş Cad-403-@|Mahmut Ertuş-111~|Mehmet Bayram -525@|Mehmet Bayram Cad-401-@|Mehmet Bayram Cad401@|Menekşe Sok-509~|Meydan -418- Myd.|Mezarlık Sok-407~|Mobilyacılar Sok-504~|Savcılar Sok-414~|Savcılar Sok-414/1~|Stadyum Sok-513~|Stadyum Sok513/1~|Tarım -1106~|Tarım -1106-~|Tarım 1106~|Teknazlar Sok-301~|Tuncer Sok-523~|Uğraşlar Sok-508~|Van Hakkari 601@|Van Hakkari Cad 510/1~|Van Hakkari Cad-510@|Van Hakkari Cad-510/1~|Yılmazlar 1102/1~|Yılmazlar Sok-411~|Yılmazlar Sok-411/1~|Yılmazlar-1102-~|Yılmazlar-1102/2~|Yılmazlar-2--1103~|Yılmazlar-3-1104~|Zafer~|Çalı Sok-515~|Çeşmeler-208~|Özdemir Sok-507~|İskender Ertuş -123@|İskender Ertuş Cad-501-@|Şarlatanlar Sok-404~|Şeyh Abdurrahman Sok-303~|Şeyh Abdurrahman Sok-408~
+158819	Tınazlı Mah.	Tınazlı=
+158867	Uğurlu Mah.	Uğurlu=
+158869	Yanal Mah.	Yanal=
+158871	Yavuzlar Mah.	Yavuzlar=
+80589	Yeni Mah.	75.yıl-628~|Adsızlar-620~|Aldemir-609~|Aşağı Batkan-1-1001~|Aşağı Batkan-1-1002~|Bayerler 611/1~|Bayerler 611/2~|Bayerler-611~|Bayraklı-617~|Canerler-623~|Cumhuriyet-616~|Edemenler-607~|Fatih-631~|Fidanlar-625~|Gençboğa 603~|Gezginciler-610~|Güler-3 1303 Sok~|Gülerler -4-=|Gülerler 2 1302/1~|Gülerler 2 1302/2~|Gülerler- 1- 1301~|Gülerler-1-1301~|Gülerler-2-1302~|Gülerler-4-=|Halitoğlu Çiftliği-636~|Kahramanlar-606~|Kahramanlar606/1~|Kahramanlar606/2~|Kardelen-1- 614~|Kardelen-2-615~|Kardeşler -2-604~|Kardeşler-1-605~|Kardeşler-1-605-~|Kardeşler1605~|Korkmazlar-624~|Mezbahne -634~|Mühürcüler- 622~|Polat 602~|Polat 602/1~|Poyraz-635~|Sümbül -630~|Tayfun 1.sok.608~|Tayfun 2.sok.612~|Tomurcuk-619~|Tomurcuk-619-~|Tomurcuk619~|Van Hakkari 601@|Van Hakkari 601/1~|Van Hakkari 601/2@|Varol 632/1~|Varol 632/2~|Varol-632~|Varşaklar 627/1~|Varşaklar 627/2~|Varşaklar 627/3~|Varşaklar-627~|Yaşar -629~|Yaşar 629/1~|Yaşar 629/2~|Yener 616.1~|Yener 616.1-~|Yeni Sok~|Çayır-633~|Çiftlik-618~|Çıkmaz -626~|İspiriz .1.637~|İspiriz .1.637/1~|İspiriz- 613~|İspiriz.1.637/1~|Şeranlar-621~|Şerenlar621/1~
+158821	Yolmaçayır Mah.	Atlılar/3~|Düztepe~|Düztepe/1~|Düztepe/2~|Düztepe/3~|Düztepe/4~|Düztepe/5~|Düztepe/6~|Düztepe/7~|Köşk~|Yolmaçayır 1 Sokak=|Yolmaçayır~|Yolmaçayır/1~|Yolmaçayır/2~|Yolmaçayır/3~|Yolmaçayır/4~|Yolmaçayır/5~|Yolmaçayır/6~|Yolmaçayır/7~|Yolmaçayır/8~|Yolmaçayır/9~
+158823	Yukarıdallı Mah.	Aşağıdallı=|Doyum=|Yukarıdallı=
+158825	Yukarıdarıca Mah.	Aşağıdarıca=|Yukarıdarıca=|Yukarıdarıca/1~
+158827	Yukarıdikmen Mah.	Aşağıdikmen=|Ekecek Ty~|Erenler=|Tandoğan=|Yukarıdikmen=|Çamlık=
+158873	Yurttepe Mah.	Govik~|Terazin=|Yurttepe=|Yüksel=|İkizdeğirmen=|Şahintepe=
+158767	Çakırdoğan Mah.	Dibek-~|Çakırdoğan=
+158769	Çaldıran Mah.	1 Sokak-=|Ağıl~|Ağıl/1~|Ağıl/2~|Ağıl/4~|Birifkan~|Birifkan/1~|Birifkan/2~|Gergerin~|Giyayne~|Halis Demir~|Ilıcak/16~|Kutluören-~|Rezuk~|Çaldıran~|Çaldıran/1~|Çaldıran/10~|Çaldıran/11~|Çaldıran/12~|Çaldıran/13~|Çaldıran/14~|Çaldıran/15~|Çaldıran/16~|Çaldıran/17~|Çaldıran/18~|Çaldıran/19~|Çaldıran/2~|Çaldıran/20~|Çaldıran/21~|Çaldıran/22~|Çaldıran/23~|Çaldıran/24~|Çaldıran/25~|Çaldıran/3~|Çaldıran/4~|Çaldıran/5~|Çaldıran/6~|Çaldıran/7~|Çaldıran/8~|Çaldıran/9~
+158859	Ömerdağı Mah.	Ömerdağı=
+158809	Öncüler Mah.	Budak-~|Budak/1~|Budak/10~|Budak/2~|Budak/3~|Budak/4~|Budak/5~|Budak/6~|Budak/7~|Budak/8~|Budak/9~|Ekecek Ty~|Öncüler~|Öncüler/1~|İsmailabat~|İsmailabat/1~
+158811	Örencik Mah.	Ortayol.@|Van Hakkari 601@|Örencik=
+158813	Örenkale Mah.	Hasanabat=|Kırbalı=|Örenkale=
+184310	Örmetaş Mah.	Poyrazalan=|Ömerova/19=|Örmetaş=
+158861	Özpınar Mah.	Özpınar=

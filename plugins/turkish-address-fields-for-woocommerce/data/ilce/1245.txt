@@ -1,0 +1,53 @@
+89187	Alıçlı Köyü	 Köy$
+89188	Arpaç Köyü	 Köy$
+185028	Arpaç Köyü, Kahyalı Mevkii	Kahyalı Köy$
+80784	Bahçelievler Mah.	Adnan Darendeli@|Adnan Menderes@|Adnan Menderes/1~|Ata~|Atatürk%|Atilla~|Bahadır~|Balkan~|Barbaros~|Başak~|Bilgin~|Bozkurt~|Bulut~|Bülbül~|Cenk~|Cihan~|Cumhuriyet@|Evren@|Fatih~|Göktürk@|Gündoğdu~|Kalkan~|Karanfil~|Kent~|Kutlu~|Kılıç~|Metin~|Milli Egemenlik@|Murat Ölmez~|Osman Durmaz@|Rüzgarlı~|Serhat~|Serçe~|Sultan Abdülhamidhan%|Yakut~|Yayla~|Yağmur~|Yağız~|Yıldırım~|Zafer~|Çağla~|Çağlayan~|Çınar~|Şehit Harun Koçak~|Şehit Kadir Özbek@|Şehit Turgut Ocak~
+80786	Bayındırhüyük Köyü, Esentepe Mevkii	Akkan~|Akın~|Atatürk~|Cumhuriyet~|Fetih~|Güzel~|Lale~|Yusuf Bacalı~|Zümrüt~|Çiğdem~|Ülkü~|İbrahim Efendi~
+80787	Bayındırhüyük Köyü, Zafer Mevkii	1. Hilal~|2. Hilal~|3. Hilal~|Altan~|Altay~|Cumhuriyet~|Dam Deresi~|Fatih~|Funda~|Gül~|Hürriyet~|Oktay~|Osman Karahan~|Poyraz~|Pınar~|Tuna~|Yayla~|Yazı~|Yusuf Bacalı~|Çiğdem~|Özkan~|İbrahim Efendi~
+80788	Bazlambaç Köyü, Gülveren Mevkii	Cumhuriyet~|Fatih~|Saglık~|Sancak~|Varlık~|Çiğdem~|Öksüzler~
+80789	Bazlambaç Köyü, Mercan Mevkii	Ayrancı~|Bahçeler~|Bağlarbaşı~|Fatih~|Karşıyaka~|Küçük~|Milli Egemenlik~|Numan~|Okul~|Sağlık~|Yayla~|Yeniyol~|Yıldız~|Çay~
+80783	Bağlarbaşı Mah.	13.~|14.~|15.~|2.~|4.~|5.~|7.~|Adnan Menderes@|Alaca%|Badem~|Bayır~|Camii~|Camii/1~|Cumhuriyet@|Cumhuriyet/2~|Dadaş~|Defne~|Demet~|Dere~|Derya~|Doğan~|Düz~|Esen~|Gazi Hüseyin Algündüz~|Gazi Uğur Kablanoğlu~|Gazi Uğur Kablanoğlu/1~|Gazi Uğur Kablanoğlu/2~|Güler~|Hamam~|Hisar~|Hüseyin Kaplan~|Koza~|Kültür~|Kültür/1~|Lale~|Mehtioğlu~|Oba~|Oba/1~|Onur~|Ova~|Posta~|Poyraz~|Pınar~|Sağlık~|Sevinç~|Su Deposu~|Su~|Taşkın~|Tepe-~|Tibet~|Tokat Yozgat Yolu@|Toros~|Tuğra~|Uzun~|Uzun/1~|Yalçın~|Yibo~|Yunus~|Yıldız~|Çam~|Üstün~|İğde~|Şehit Fehmi Aksungur~|Şehit Hüsamettin Karahan~|Şehit Kadir Özbek@|Şehit Kalender Şahin~|Şehit Kazım Şahan~|Şehit Mehmet Ünver~|Şehit Rıza Köseoğlu~|Şehit Sadık Nazlı~|Şehıt Sadık Nazlı/1~|Şenay~|Şenyurt~|Şeyda~|Şule~
+89189	Başalan Köyü	 Köy$
+89190	Başpınar Köyü	 Köy$
+80790	Beyyurdu Köyü, Merkez Mevkii	Aşıklar~|Cumhuriyet~|Devran~|Elmalı~|Fidanlı~|Gülen~|Kanarya~|Melih Gökçek~|Mevlana~|Mustafa Bey~|Narin~|Oğuzhan~|Satılmış Erdoğan~|Sümbül~|Varlık~|Yavuz Sultan Selim~|Çampınar~|Şehit Ferhat~
+89191	Cemaloğlu Köyü	 Köy$
+89197	Demircialan Köyü	 Köy$
+89198	Doğanoğlu Köyü	 Köy$
+89204	Ekizce Köyü	 Köy$
+89199	Elemin Köyü	 Köy$
+89200	Fakıdağı Köyü	 Köy$
+89201	Fuadiye Köyü	 Köy$
+89202	Gökdere Köyü	 Köy$
+89196	Gönülyurdu Köyü	 Köy$
+89203	Hamzalı Köyü	 Köy$
+89208	Kalederesi Köyü	 Köy$
+185026	Kalederesi Köyü, Sarıkaya Mevkii	
+89209	Kamışcık Köyü	 Köy$
+89211	Kavakalanı Köyü	 Köy$
+89212	Kayalar Köyü	 Köy$
+89214	Koyunculu Köyü	 Köy$
+89216	Kurtağılı Köyü	 Köy$
+89217	Kuruçay Köyü	 Köy$
+89218	Kuzgun Köyü	 Köy$
+89215	Körpınar Köyü	 Köy$
+89213	Kırkdilim Köyü	 Köy$
+89219	Mehmetli Köyü	 Köy$
+140360	Mevlana Mah.	13.~|Aktif~|Altan~|Aslan~|Atatürk%|Atatürk/1~|Bağ~|Desen~|Emek~|Fener~|Hilal~|Irmak~|Kurtuluş~|Lalezar~|Limon~|Papatya~|Sahil%|Sahil/1~|Sahil/2~|Serdar~|Sultan Abdulhamit Han/1~|Sultan Abdulhamit Han/2~|Sultan Abdulhamit Han/3~|Sultan Abdulhamit Han/4~|Sultan Abdülhamidhan%|Süreyya Bey Barajı@|Sıla~|Tokat Yozgat Yolu@|Vişne~|Çal~|Ömer Akbay~|İş~|Şato@|Şato/1~|Şehit Kadir Özbek@
+89220	Ortaoba Köyü	 Köy$
+89223	Sarıköy Köyü	 Köy$
+140362	Seyit Ahmet Mah.	1.-~|10.~|11.~|11./1~|12.~|3.-~|6.~|8.~|9.~|Adnan Menderes@|Adnan Menderes1~|Altın~|Ant~|Atilla~|Bal~|Balkan~|Barbaros~|Başak~|Bilgin~|Dilek~|Eti~|Evren@|Feza~|Göktürk@|Gül~|Güneş~|Karaca~|Küçük~|Sahil%|Serhat~|Sultan Abdülhamidhan%|Yonca~|Çağrı~|Çiçek~|Çiğdem~|İstiklal@|Şehit Kadir Özbek@
+89224	Tipideresi Köyü	 Köy$
+80785	Yeniyol Mah.	Alaca%|Asalet~|Bahar~|Bahar/1~|Bahçeler~|Bakır~|Battal Gazi~|Bereket~|Cumhuriyet@|Cumhuriyet/1~|Deniz~|Deniz/1~|Engin~|Enginar~|Esin~|Eğitim~|Funda~|Hakan~|Hal~|Hal/1~|Hastane~|Hayat~|Hicran~|Huri~|Kiraz~|Lise@|Milli Egemenlik@|Nar~|Okul~|Okul/1~|Ozan~|Pazar~|Tuna~|Tunç~|Türkmen~|Vakıf~|Yay~|Zümrüt~|Çay~|Üzüm~|İmamoğlu~|İsaklı@|Şehit Salih Erden~|Şehit Tahsin Öztürk~|Şehit İzzet Yüksel~|Şeker~|Şelale~
+89225	Yukarıkarahacılı Köyü	 Köy$
+89226	Yukarıkarakaya Köyü	 Köy$
+89227	Yukarıoba Köyü	 Köy$
+140358	Yunus Emre Mah.	Akıncı~|Alaca%|Altay~|Atatürk%|Atik~|Barış~|Cumhuriyet@|Fethiye~|Kıymet~|Meltem~|Milli Egemenlik@|Mustafa Kılıçarslan~|Nasuh Selvi~|Salkım~|Selçuklu~|Spor~|Söğüt~|Tevfik Karslıoğlu~|Ufuk~|İsaklı@|Şehit Özgür Ocak~
+89192	Çakır Köyü	 Köy$
+89193	Çandır Köyü	 Köy$
+89194	Çayırözü Köyü	 Köy$
+89195	Çeltek Köyü	 Köy$
+89221	Özören Köyü	 Köy$
+80791	Özükavak Beldesi, Bağlarbaşı Mah.	15 Temmuz~|Bağlarbaşı/1~|Bağlarbaşı/2~|Bağlarbaşı/3~|Bağlarbaşı/4~|Bağlarbaşı/5~|Bağlarbaşı/6~|Bağlarbaşı/7~|Dutlu Bahçe~|Huzur~|Menekşe~|Osman Efendi~|Tayyip Erdoğan@|Yanalak=|İlyas Arslan~|Şehit Ömer Halisdemir~|Şehit Özgür Gençer@|Şeyh Yakup@
+80792	Özükavak Beldesi, Gültepe Mah.	Dar~|Kayalar=|Lale~|Turgut Reis~|Yayla~|Yayla/1~|Çiğdem~|Şehit Özgür Gencer/1~|Şehit Özgür Gençer@|Şeyh Yakup@|Şeyh Yakup/1~
+89205	İlbeyli Köyü	 Köy$
+89206	İsaklı Köyü	 Köy$

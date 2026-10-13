@@ -1,0 +1,34 @@
+89169	Alidemirci Köyü	 Köy$
+80766	Avcılar Mah.	Atatürk@|Aytaç@|Bahçelievler@|Bahçelievler Üstü@|Belediye@|Elçi@|Elçı/1~|Kadim Akdağ@|Karanfil~|Köstüoğlu@|Malazgirt@|Mithat Kayhan@|Oğuzhan@|Sokubaşı~|Yücel~|Çiğdem~|Ömür~
+89172	Avşaralanı Köyü	 Köy$
+89170	Aşağıtekke Köyü	 Köy$
+89171	Aşağıyahyasaray Köyü	 Köy$
+80767	Bağlarbaşı Mah.	1.@|1./1~|1./2~|1./3~|2.@|3.@|4.@|4./1~|4./2~|4./3~|4./4~|5.@|5./1@|8.@|8./1~|8./2~|Aytaç@|Cengiz Topel@|Cengız Topel/1~|Cumhuriyet@|Cumhuriyet/1~|Cumhuriyet/2~|Cumhuriyet/3~|Demirci~|Hüseyin Eryılmaz@|Hüseyin Eryılmaz/1~|Hüseyin Eryılmaz/2~|Hüseyin Eryılmaz/3~|Hüseyin Eryılmaz/4~|Hüseyin Eryılmaz/5~|Hüseyin Eryılmaz/6~|Hüseyin Eryılmaz/7~|Hüseyin Eryılmaz/8~|Hüseyin Eryılmaz/9~|Mayha@|Mezar Üstü/1~|Mezar Üstü/2@|Mezar Üstü/3~|Mezar Üstü/4~|Mezarüstü@|Naci Yıldırım@|Seher@|Seher/1~|Sena~|Tekke@|Yasin Şahiner@|Yasin Şahiner/1~|Yavuz~|Çayıralan Sarıkaya Yolu@|Çayıralan Sarıkaya Yolu/1~|Çayıralan Sarıkaya Yolu/2~|Çayıralan2~|Şahin~|Şehit Polis Memuru İsmet Yaşar@
+80768	Cumhuriyet Mah.	Ardıç~|Atatürk@|Cumhuriyet@|Eski Yol~|Göç Yolu~|Hal@|Halit Zorlu@|Kartal@|Nadide Akbay@|Nadir Aknur@|Nadir Aknur/1~|P.t.t.@|Toprak@|Veyisler@|Veyısler/1~|Veyısler/2~|Şehit Astsb.nuh Köşker@|Şeker Pınar@|Şen@|Şht.yarbay Yusuf Turgut@
+80772	Curali Köyü, Esentepe Mevkii	Ardıç~|Asena~|Atatürk~|Bilim~|Cumhuriyet~|Fatih~|Hilal~|Işık~|Mevlana~|Sancak~|Tura~|Çınar~
+80773	Curali Köyü, Yeşilyurt Mevkii	Arı~|Asena~|Atatürk~|Bahçeler~|Cumhuriyet~|Değirmen~|Elçi~|Güneş~|Kardelen~|Kaya~|Okul~|Papatya~|Say~|Yıldız~|Çam~|Çeşme~|Ülkü~
+89173	Derekemal Köyü	 Köy$
+89174	Elçi Köyü	 Köy$
+80779	Evciler Köyü, Köyün Kendisi Mevkii	Atatürk~|Baraj~|Barış~|Başak~|Erenler~|Karanfil~|Onbaşı~|Veysel~
+89175	Fahralı Köyü	 Köy$
+80769	Fatih Mah.	Alakuş-~|Alakuş.~|Atatürk@|Aytaç@|Bulgur~|Bulvar@|Cumhuriyet@|Cumhurıyet/1~|Dere~|Duran~|Elçi@|Eski Mezar~|Eskı Mezar/1~|Garaj@|Kurtuluş@|Malazgirt@|Mustafa Başgül~|Okul@|Park@|San.sit. 1. Blok-~|San.sit. 2. Blok~|San.sit. 3. Blok-~|San.sit. 4. Blok-~|San.sit. 5. Blok-~|San.sit. 6. Blok-~|Sanayı Sıtesı 1. Blok~|Sanayı Sıtesı 2. Blok~|Sanayı Sıtesı 3. Blok~|Sanayı Sıtesı 4. Blok~|Sanayı Sıtesı 5. Blok~|Sanayı Sıtesı 6. Blok~|Çandır@|Çayıralan2~|Çerkez İsa Bey~|Şht.asteğ. Tahir Eliaçık@|Şht.yarbay Yusuf Turgut@
+196851	Gülderesi Köyü	Atatürk~|Aze~|Burhan Kemal~|Demirciler~|Değirmen~|Geyecek~|Menekşe~|Pir Sultan Abdal~|Yiğitler~|Çağlı~
+89176	Günyayla Köyü	 Köy$
+89182	Güzelyayla Köyü	 Köy$
+89178	Kaletepe Köyü	 Köy$
+196853	Karaazap Köyü	~|Ara~|Atatürk~|Ballıca~|Bektaş Çavuş~|Güzel Çeşme~|Harman~|Papatya~|Çamlıca~
+89179	Karakışla Köyü	 Köy$
+80782	Konuklar Beldesi, Fatih Mah.	Atatürk@|Cumhuriyet@|Osman Efendi@|Sok No 5~|Sok No 6~|Sok No 7~
+197721	Konuklar Beldesi, Yavuz Sultan Selim Mah.	Atatürk@|Cumhuriyet@|Osman Efendi@|Sok No 3~|Sok No 4~
+197723	Konuklar Beldesi, Yıldırım Beyazıt Mah.	Atatürk@|Cumhuriyet@|Karşıyaka=|Mevlana=|Sok No 1~|Sok No 2~
+89180	Külekçi Köyü	 Köy$
+89181	Menteşe Köyü	 Köy$
+89183	Söbeçimen Köyü	 Köy$
+89184	Turluhan Köyü	 Köy$
+80771	Yeni Mah.	Aydınlık@|Aydınlık1~|Barış@|Barış1~|Başak@|Başar@|Beyazıt@|Beyazıt1~|Beyazıt2~|Beyazıt3~|Beypınarı=|Cumhuriyet@|Cumhurıyet/2~|Cumhurıyet/3~|Emin Akbulut~|Fevzi Çakmak@|Hayri Yıldız@|Hoca Ahmet Yesevi@|Menekşe~|Mustafa Aydın@|Mustafa Külcü@|Nergis~|Sarıkaya@|Sarıkaya1~|Sinan@|Stadyum@|Stadyum1~|Tekke@|Vatan@|Üstüner@|Üstüner1~|Şehit Astsb.nuh Köşker@|Şen@
+89185	Yukarıtekke Köyü	 Köy$
+89186	Yukarıyahyasaray Köyü	 Köy$
+183862	Çokradan Mah.	Adnan Menderes~|Atatürk/1~|Atatürk1~|Atatürk2~|Emin Vural@|Fahralı@|Fatih@|Fatih/1~|Fatih/2~|Hoca Ahmet Yesevi-~|Çandır@|Çayıralan 2-~|Çayıralan~|Çayıralan/1~|Çayıralan/2~|Çayıralan/3~|Çayıralan2~|Şaziye Erdoğan@|Şaziye Erdoğan/1~|Şaziye Erdoğan/2~|Şaziye Erdoğan/3~|Şaziye Erdoğan/4~|Şaziye Erdoğan/5~|Şehit Suavi Çakır@|Şehit İsmail Genç@|Şht.er İsmail Genç 2~
+196849	Çukurören Köyü	~|Atatürk~|Bahar~|Derviş Turgut~|Eğitmen~|Eğriöz~|Kışlalı~|Mumcu~|Rıza Efendi~|Yayla~|İnönü~
+89177	İnönü Köyü	 Köy$
+80770	İshaklı Mah.	Akasya@|Aktaş@|Ardıç~|Atatürk@|Açıkel~|Belediye@|Cumhuriyet@|Elçi@|Elçı/2~|Göksu~|Gönül@|Güneş@|Kadim Akdağ@|Kadim Akdağ/1~|Kayhan@|Köstüoğlu@|Külekçi~|Lale~|Mithat Kayhan@|Nadide Akbay@|Nadir Aknur@|Onur~|Salih Akdoğan@|Subaşı@|Sümbül~|Sümbül/1~|Turluhan@|Yeşil~|Ömür~|İshaklı/2~|İshaklı1~

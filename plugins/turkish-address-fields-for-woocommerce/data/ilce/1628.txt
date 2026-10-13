@@ -1,0 +1,275 @@
+70243	Abdulvahabigazi Mah.	44-1.~|44-10.~|44-11.~|44-12.~|44-13.~|44-14.~|44-15.~|44-16.~|44-17.~|44-18.~|44-19.~|44-2.~|44-3.~|44-4.~|44-5.~|44-6.~|44-7.~|44-8.~|44-9.~|Abdulvahab Gazi@|Aşık Veysel%|Bahadır~|Gazi~|Kıyı~|Seyit Onbaşı~|Çağlayan~|Şehit~
+76485	Acıdere Köyü	 Köy$
+76352	Acıpınar Köyü	Acıpınar Köy Sokağı Köy$
+140342	Ahmet Turangazi Mah.	74-1.~|74-10.~|74-11.~|74-12.~|74-13.~|74-14.~|74-15.~|74-16.~|74-17.~|74-18.~|74-19.~|74-2.~|74-20.~|74-21.~|74-22.~|74-23.~|74-24.~|74-25.~|74-26.~|74-27.~|74-28.~|74-29.~|74-3.~|74-30.~|74-31.~|74-32.~|74-33.~|74-34.~|74-35.~|74-36.~|74-37.~|74-38.~|74-39.~|74-4.~|74-40.~|74-41.~|74-42.~|74-43.~|74-44.~|74-45.~|74-46.~|74-47.~|74-48.~|74-49.~|74-5.~|74-50.~|74-51.~|74-52.~|74-53.~|74-54.~|74-55.~|74-56.~|74-57.~|74-58.~|74-59.~|74-6.~|74-60.~|74-61.~|74-62.~|74-63.~|74-64.~|74-65.~|74-66.~|74-7.~|74-8.~|74-9.~|Ahmet Turan@|Akyokuş@|Alperen@|Asilzade@|Bilge Kağan@|Doğu@|Hanzade@|Hüdayi@|Menzil@|Necmettin Erbakan@|Seheryeli@|Sultanşehir%|Söğütdalı~|Şehit Ahmet Eyce@|Şehit Soner Müşteri@
+70309	Ahmetturangazi Osb Mah.	Osb 20@|Osb 4@|Osb 5@|Osb 6@|Osb 7@|Osb-10~|Osb-11~|Osb-12~|Osb-13~|Osb-14~|Osb-15~|Osb-16~|Osb-17~|Osb-18~|Osb-19~|Osb-20~|Osb-21~|Osb-22~|Osb-7~|Osb-8~|Osb-9~
+70244	Akdeğirmen Mah.	18-1=|18-1.~|18-10.~|18-11.~|18-12.~|18-13.~|18-14.~|18-15.~|18-16.~|18-17.~|18-18.~|18-19.~|18-2.~|18-20.~|18-21.~|18-22.~|18-23.~|18-24.~|18-25.~|18-26.~|18-3.~|18-4.~|18-5.~|18-6.~|18-7.~|18-8.~|18-9.~|Akdeğirmen@|Bektaşlar=|Bezirci@|Dispanser~|Etembey~|Fidanlık@|Halis Bey~|Hikmet Boran@|Höllüklük@|Kepenek@|Mehmet Akif Ersoy@|Niksar@|Tavra Deresi=|Türkoğlu~|Uğur~|Vali Konağı~|Vali Varinli@|Çağatay@|Çağlayan Yolu~|Şehit Ömer Halisdemir@|Şirin~
+76487	Akkoç Köyü	 Köy$
+76488	Akkoç Köyü, Hüseyin Ağa Mezrası	 Köy$
+76490	Akkoç Köyü, Kör İsmail Mezrası	 Köy$
+76489	Akkoç Köyü, Körhasan Mezrası	 Köy$
+76456	Akkuzulu Köyü	 Köy$
+76495	Akpınar Köyü	 Köy$
+76491	Akpınar Köyü, Dervent Mezrası	 Köy$
+76494	Akpınar Köyü, Göğüsağılı Mezrası	 Köy$
+76492	Akpınar Köyü, Yeniköy Mezrası	 Köy$
+76493	Akpınar Köyü, Çevrim Çayır Mezrası	 Köy$
+76353	Akçahan Köyü	 Köy$
+76354	Akçahan Köyü, Sarıhasan Mezrası	 Köy$
+76455	Akçainiş Köyü	 Köy$
+76355	Akçamescit Köyü	 Köy$
+76356	Akören Köyü	 Köy$
+76471	Alahacı Köyü	 Köy$
+70245	Alibaba Mah.	42-1.~|42-10.~|42-100.~|42-101.~|42-102.~|42-103.~|42-104.~|42-105.~|42-106.~|42-107.~|42-108.~|42-109.~|42-110.~|42-111.~|42-112.~|42-113.~|42-114.~|42-115.~|42-116.~|42-117.~|42-118.~|42-119.~|42-12.~|42-120.~|42-121.~|42-122.~|42-123.~|42-124.~|42-125.~|42-126.~|42-127.~|42-128.~|42-129.~|42-13.~|42-130.~|42-131.~|42-132.~|42-133.~|42-134.~|42-14.~|42-15.~|42-16.~|42-17.~|42-18.~|42-19.~|42-2.~|42-20.~|42-21.~|42-22.~|42-23.~|42-24.~|42-25.~|42-26.~|42-27.~|42-28.~|42-29.~|42-30.~|42-31.~|42-32.~|42-33.~|42-34.~|42-35.~|42-36.~|42-37.~|42-39.~|42-4.~|42-40.~|42-41.~|42-42.~|42-43.~|42-44.~|42-45.~|42-46.~|42-47.~|42-48.~|42-49.~|42-5.~|42-50.~|42-51~|42-52.~|42-53.~|42-54.~|42-55.~|42-56.~|42-57.~|42-58.~|42-59.~|42-6.~|42-60.~|42-61.~|42-62.~|42-63.~|42-64.~|42-65.~|42-66.~|42-67.~|42-68.~|42-69.~|42-7.~|42-70.~|42-71.~|42-72.~|42-73.~|42-74.~|42-75.~|42-76.~|42-77.~|42-78.~|42-79.~|42-8.~|42-80.~|42-81.~|42-82.~|42-83.~|42-84.~|42-85.~|42-86.~|42-87.~|42-88.~|42-89.~|42-9.~|42-90.~|42-91.~|42-92.~|42-93.~|42-94.~|42-95.~|42-96.~|42-97.~|42-98.~|42-99.~|Ali Baba@|Ayazlı~|Aşık Veysel%|Canlar~|Cem~|Eyvan~|Gümülcine~|Gümüşdere~|Gürpınar~|Kadim~|Karaca~|Kerime~|Kerkük@|Konak~|Küme Evler=|Mehmet Akif Ersoy@|Musul@|Ozanlar~|Papatya~|Ruhsati Baba@|Serap~|Sergi~|Seyrantepe@|Tatlıpınar~|Turna~|Türkmen@|Yahya Kemal Beyatlı@|Yalnız~|Yaren~|Yosun~|İpek~
+70246	Altuntabak Mah.	4 Eylül@|56-1.~|56-10.~|56-11.~|56-12.~|56-13.~|56-14.~|56-15.~|56-16.~|56-17.~|56-18.~|56-19.~|56-2.~|56-20.~|56-21.~|56-3.~|56-4.~|56-5.~|56-6.~|56-7.~|56-8.~|56-9.~|Altuntabak@|Burç~|Halil Rıfat Paşa@|Kütüklü~|Necip Fazıl Kısakürek@|Palmiye~|Rıza Çalımbay~|Çiçekli@|Şehit H.ibrahim Koçyiğit~|Şenlik~
+76457	Apa Köyü	 Köy$
+76496	Armutlu Köyü	 Köy$
+76497	Arpayazı Köyü	 Köy$
+76450	Asarcık Köyü	 Köy$
+70247	Aydoğan Mah.	39-1.~|39-10.~|39-11.~|39-12.~|39-13.~|39-14.~|39-15.~|39-16.~|39-17.~|39-18.~|39-19.~|39-2.~|39-20.~|39-21.~|39-22.~|39-23.~|39-24.~|39-25.~|39-26.~|39-27.~|39-3.~|39-4.~|39-5.~|39-6.~|39-7.~|39-8.~|39-9.~|Acar~|Aralık~|Aydoğan@|Ayışığı~|Behram@|Eski Mezar~|Hayri Sığırcı@|Karabağ@|Narin~|Pünzürük@|Saraybosna@|Tutku~|Yenidoğan@|Şehit Metin@|Şehit Ümit Erdoğan~
+76359	Aydoğmuş Köyü	 Köy$
+76516	Aylı Köyü	 Köy$
+76486	Ağılkaya Köyü	 Köy$
+76357	Aşağıyıldızlı Köyü	 Köy$
+76358	Aşağıyıldızlı Köyü, Tepe Mezrası	Tepe Köy Sokağı Köy$
+76360	Bademkaya Köyü	Bademkaya Köy Sokağı Köy$
+70248	Bahtiyarbostan Mah.	24-1.~|24-10.~|24-11.~|24-12.~|24-13.~|24-2.~|24-3.~|24-4.~|24-5.~|24-6.~|24-7.~|24-9.~|Ali Baba@|Kazancılar@|Küçük Kazancılar~|Müze~|Paşa Bostan@|Vişneli Camii~|Çarşıbaşı@
+77111	Barcın Köyü, Köyün Kendisi Mevkii	 Köy$
+76362	Başsöğüt Köyü	 Köy$
+76361	Başıbüyük Köyü	Başıbüyük Köy Sokağı Köy$
+76454	Bedirli Köyü	 Köy$
+76364	Beypınarı Köyü	Beybaşı~|Beypınarı Köy Sokağı Köy$|Gündoğdu@|Paşapınarı@|Sivas-erzincan Karayolu@|Soğuk Çermik~
+77113	Beşpınar Köyü, Köyün Kendisi Mevkii	 Köy$
+77114	Beşpınar Köyü, Yüceyayla Mevkii	 Köy$
+76363	Beştepe Köyü	Beştepe Köy Sokağı Köy$
+76365	Bingöl Köyü	Bingöl Köy Sokağı Köy$|Sivas-divriği Karayolu@
+76366	Bostancık Köyü	 Köy$
+76367	Budaklı Köyü	Budaklı Köy Sokağı Köy$|Demirçelik Caddesi~|Sivas-kayseri Karayolu Caddesi~
+70296	Cami-i Kebir Mah.	35-1.~|35-2.~|35-3.~|35-4.~|35-6.~|35-7.~|Demir Kapı~|Eski Paşa Hamam~|Hakkı Hafız~|Hoca Ahmet Yesevi@|Kale Yolu~|Mahkeme Çarşısı@|Medrese~|Mehmet Akyol~|Osman Paşa@|Saray Yolu~|Selçuklu~|Ulu Camii~|Ulu Çarşı~|Ulucami Park~|Uzunyol@|Ziyaret~|Şifaiye~
+76460	Damlacık Köyü	 Köy$
+76459	Damlacık Köyü, Kalın İstasyonu Mevkii	 Köy$
+76458	Damılı Köyü	 Köy$
+70253	Danişmentgazi Mah.	&#9;69-61.~|&#9;69-62.~|&#9;69-63.~|&#9;69-64.~|&#9;69-65.~|&#9;69-66.~|&#9;69-67.~|&#9;69-68.~|&#9;69-69.~|&#9;69-70.~|&#9;69-71.~|68-1=|69-1.~|69-1.küme Evler=|69-10.~|69-109.~|69-11.~|69-119.~|69-12.~|69-13.~|69-135.~|69-14.~|69-141.~|69-142.~|69-143.~|69-144.~|69-145.~|69-146.~|69-147.~|69-148.~|69-149.~|69-15.~|69-150.~|69-151.~|69-152.~|69-153.~|69-154.~|69-155.~|69-156.~|69-157.~|69-158.~|69-159.~|69-16.~|69-160.~|69-161.~|69-162.~|69-163.~|69-168.~|69-17.~|69-176.~|69-178.~|69-18.~|69-181.~|69-183.~|69-184.~|69-185.~|69-186.~|69-187.~|69-188.~|69-189.~|69-19.~|69-190.~|69-191.~|69-192.~|69-2.~|69-2.kümeevler=|69-20.~|69-21.~|69-22.~|69-23.~|69-24.~|69-25.~|69-26.~|69-27.~|69-28.~|69-29.~|69-3.~|69-3.kümeevler Kelkit=|69-30.~|69-31.~|69-32.~|69-33.~|69-34.~|69-35.~|69-36.~|69-37.~|69-38.~|69-39.~|69-4.~|69-4.kümeevler=|69-40.~|69-41.~|69-42.~|69-43.~|69-44.~|69-45.~|69-46.~|69-47.~|69-48.~|69-49.~|69-5.~|69-50.~|69-51.~|69-52.~|69-53.~|69-54.~|69-55.~|69-56.~|69-57.~|69-58.~|69-59.~|69-6.~|69-60.~|69-7.~|69-8.~|69-9.~|Ahmetgazi@|Altın Başak@|Ankara%|Başkent@|Bereket~|Beyazgül~|Beylik@|Bitki~|Danişmentliler@|Doğa~|Hızmalı~|Karatren~|Karçiçeği~|Katip Çelebi@|Kesikköprü@|Keykavus@|Kireçocağı Yanı Küme Evleri=|Makas~|Malazgirt@|Mandıra~|Melikgazi@|Mengücekgazi@|Mezbaha~|Milli Mücadele@|Misak-ı Milli@|Mucur~|Nuri Demirağ@|Plevne@|Sarp~|Uygur@|Uzunoluk~|Yörük~|Zarif~|Çelebi Mehmet@
+70254	Dedebalı Mah.	22-1.~|22-10.~|22-11.~|22-12.~|22-2.~|22-3.~|22-4.~|22-5.~|22-6.~|22-7.~|22-8.~|22-9.~|Abdulvahab Gazi@|Dedebalı@|Mısmılırmak@|Vali Muammer Bey@
+70255	Demircilerardı Mah.	27-1.~|27-10.~|27-11.~|27-12.~|27-13.~|27-14.~|27-15.~|27-16.~|27-17.~|27-19.~|27-2.~|27-20.~|27-21.~|27-22.~|27-23.~|27-24.~|27-25.~|27-26.~|27-27.~|27-28.~|27-29.~|27-3.~|27-30.~|27-31.~|27-32.~|27-33.~|27-35.~|27-36.~|27-37.~|27-38.~|27-39.~|27-4.~|27-40.~|27-41.~|27-42.~|27-43.~|27-44.~|27-45.~|27-46.~|27-47.~|27-48.~|27-49.~|27-5.~|27-50.~|27-51.~|27-52.~|27-53.~|27-54.~|27-55.~|27-7.~|27-8.~|27-9.~|Atatürk@|Ağababa@|Buğday Pazarı~|Celal Bayar@|Demirciler@|Karaağaç@|Kayırcık~|Muammer Bey~|Müftülük~|Sait Paşa@|Salih Efendi~|Şehit İsmet Aksöz~|Şehitler@|Şemsi Sivasi@
+76380	Demiryazı Köyü	 Köy$
+76381	Demiryazı Köyü, Battalağılı Mezrası	 Köy$
+76382	Dikmencik Köyü	 Köy$
+70256	Diriliş Mah.	4.küme Evler=|68-1.~|68-10.~|68-100.~|68-101.~|68-104.~|68-105.~|68-106.~|68-107.~|68-108.~|68-11.~|68-110.~|68-111.~|68-112.~|68-113.~|68-114.~|68-115.~|68-116.~|68-117.~|68-118.~|68-12.~|68-120.~|68-121.~|68-122.~|68-123.~|68-124.~|68-125.~|68-126.~|68-127.~|68-128.~|68-129.~|68-13.~|68-14.~|68-15.~|68-16.~|68-17.~|68-18.~|68-19.~|68-2.~|68-20.~|68-21.~|68-22.~|68-23.~|68-24.~|68-25.~|68-26.~|68-27.~|68-28.~|68-29.~|68-3.~|68-30.~|68-31.~|68-32.~|68-33.~|68-34.~|68-35.~|68-36.~|68-37.~|68-38.~|68-39.~|68-4.~|68-40.~|68-41.~|68-42.~|68-43.~|68-44.~|68-45.~|68-46.~|68-47.~|68-48.~|68-49.~|68-5.~|68-50.~|68-51.~|68-52.~|68-53.~|68-54.~|68-55.~|68-56.~|68-57.~|68-58.~|68-59.~|68-6.~|68-60.~|68-61.~|68-62.~|68-63.~|68-64.~|68-65.~|68-66.~|68-67.~|68-68.~|68-69.~|68-7.~|68-70.~|68-71.~|68-72.~|68-73.~|68-74.~|68-75.~|68-76.~|68-77.~|68-78.~|68-79.~|68-8.~|68-80.~|68-81.~|68-85.~|68-9.~|Asırlık~|Atakent@|Buhara@|Derya~|Gelincik~|Gülendam~|Milli Mücadele@|Misak-ı Milli@|Pazar~|Plevne@|Rüzgarlı~|Salkım~|Sevinç~|Sıla@|Tuzlugöl@|Zafer@|İhsan Öğer@|Şehit Akif Çiftçi~|Şehit Harun Deveci~|Şehit Hasan Çakır~|Şehit Kenan Ardıç@|Şehit Selami Çaylak~|Şeyh Şamil@
+76383	Doğanca Köyü	Doğanca Köy Sokağı Köy$
+198015	Doğanca Köyü, Doğanca Osb Mevkii	1~|10~|11~|12~|13~|14~|15~|16~|2.~|3 Sk~|3.~|4~|5~|6~|7~|8~|9~
+76384	Doğanca Köyü, Tahdit. Mezrası	Tahdit Köy Sokağı Köy$
+76461	Durdulu Köyü	 Köy$
+76385	Dörteylül Köyü	Barajyolu@|Dörteylül Köy Sokağı Köy$
+70257	Dörteylül Mah.	4 Eylül@|55-1.~|55-10.~|55-11.~|55-12.~|55-13.~|55-14.~|55-15.~|55-16.~|55-17.~|55-18.~|55-19.~|55-2.~|55-20.~|55-21.~|55-22.~|55-23.~|55-24.~|55-25.~|55-26.~|55-27.~|55-3.~|55-4.~|55-5.~|55-7.~|55-8.~|55-9.~|Burç~|Cumapazarı@|Dikimevi@|Fatih@|Hatip~|Kosova~|Kütüklü~|Mostar~|Muhsin Yazıcıoğlu%|Necip Fazıl Kısakürek@|Recep Ayan~|Trakya~|Yabangülü~|Üsküp~|Şirin Evler~
+76386	Düzova Köyü	Düzova Köy Sokağı Köy$|Sivas-kayseri Karayolu Caddesi~
+76379	Ebuhan Köyü	Ebuhan Köy Sokağı Köy$|Sivas-kayseri Karayolu Caddesi~
+70258	Ece Mah.	38-1.~|38-10.~|38-13.~|38-14.~|38-15.~|38-16.~|38-17.~|38-2.~|38-21.~|38-3.~|38-4.~|38-5.~|38-6.~|38-7.~|38-8.~|38-9.~|Acemler~|Altuntabak@|Arap Evliyası~|Avşar~|Battalgazi@|Cevher~|Halil Rıfat Paşa@|Hayri Sığırcı@|Kırıkseten@|İlham~
+70259	Emek Mah.	64-1.~|64-10.~|64-11.~|64-12.~|64-13.~|64-14.~|64-15.~|64-16.~|64-17.~|64-18.~|64-19.~|64-2.~|64-20.~|64-21.~|64-22.~|64-23.~|64-24.~|64-25.~|64-26.~|64-27.~|64-28.~|64-29.~|64-3.~|64-30.~|64-31.~|64-32.~|64-33.~|64-34.~|64-35.~|64-36.~|64-4.~|64-5.~|64-6.~|64-7.~|64-8.~|64-9.~|Akım~|Alacalı~|Anıt~|Aşık Yunus~|Başarı~|Buhara@|Hazal~|Hekim~|Otopark~|Plevne@|Simge~|Sıla@|Yavuz Bülent Bakiler@|Yumurta Tepe@|Zafer@|Zübeyde Hanım@|Çakır~|İlke~|Şehit Kenan Ardıç@
+76388	Emirhan Köyü, Irmak Üstü Mezrası	 Köy$|Eskiköyyeri Köy$
+70260	Esentepe Mah.	61-1.~|61-10.~|61-11.~|61-12.~|61-13.~|61-14.~|61-15.~|61-16.~|61-17.~|61-18.~|61-19.~|61-2.~|61-20.~|61-21.~|61-22.~|61-23.~|61-24.~|61-25.~|61-26.~|61-27.~|61-28.~|61-29.~|61-3.~|61-30.~|61-31.~|61-32.~|61-33.~|61-34.~|61-35.~|61-36.~|61-37.~|61-38.~|61-39.~|61-4.~|61-40.~|61-42.~|61-43.~|61-44.~|61-46.~|61-47.~|61-48.~|61-49.~|61-5.~|61-50.~|61-51.~|61-52.~|61-6.~|61-7.~|61-8.~|61-9.~|Duman~|Esentepe@|Fuzuli@|Komşu~|Konuk~|Menderes@|Tarık~|Tuğra~|Yunus Emre@|Yıldırım~|Şehit Engin Bıyık~
+70261	Esenyurt Mah.	71-1.~|71-1.küme Evler=|71-10.~|71-100.~|71-101.~|71-102.~|71-103.~|71-104.~|71-105.~|71-106.~|71-107.~|71-108.~|71-11.~|71-12.~|71-13.~|71-14.~|71-15.~|71-150.~|71-151.~|71-152.~|71-153~|71-16.~|71-17.~|71-18.~|71-19.~|71-2.~|71-20.~|71-21.~|71-22.~|71-23.~|71-24.~|71-25.~|71-26.~|71-27.~|71-28.~|71-29.~|71-3.~|71-30.~|71-31.~|71-32.~|71-33.~|71-34.~|71-35.~|71-36.~|71-37.~|71-38.~|71-39.~|71-4.~|71-40.~|71-41.~|71-42.~|71-43.~|71-45.~|71-46.~|71-47.~|71-48.~|71-49.~|71-5.~|71-50.~|71-51.~|71-52.~|71-53.~|71-54.~|71-55.~|71-56.~|71-57.~|71-58.~|71-59.~|71-6.~|71-60.~|71-61.~|71-62.~|71-63.~|71-64.~|71-65.~|71-66.~|71-67.~|71-68.~|71-69.~|71-7.~|71-70.~|71-71.~|71-72.~|71-73.~|71-74.~|71-75.~|71-76.~|71-77.~|71-78.~|71-79.~|71-8.~|71-80.~|71-81.~|71-82.~|71-83.~|71-84.~|71-85.~|71-86.~|71-87.~|71-88.~|71-89.~|71-9.~|71-90.~|71-91.~|71-92.~|71-93.~|71-94.~|71-95.~|71-96.~|71-97.~|71-98.~|71-99.~|Aleyna~|Alparslan Türkeş@|Aşiyan@|Bahçelievler@|Balözü~|Bağcı~|Berceste~|Cansu~|Cevahir~|Dede Korkut~|Dereboyu~|Dilara~|Dolunay~|Ertuğrul Gazi@|Esenyurt@|Gülbahar~|Güzide~|Imaret Köy$|Kayseri@|Kesikköprü@|Köknar~|Lodos~|Meltem~|Nazlı~|Poyraz~|Safir~|Samyeli~|Sivas-kayseri Karayolu@|Villa 1.~|Villa 2.~|Villa 3.~|Villa 4.~|Villa 5.~|Villa 6.~|Villa 7.~|Villa Kent@|Çamlık~|Çardak~|Çayır~|Şehit Adem Koç~|Şehit Erdal Bulak~|Şehit Murat Doğan~|Şehit Mücahit Irmak~|Şehit Sefer Kanal~|Şehit Ümit Meral~|Şehit İskender Boyraz~|Şeyh Edebali@
+76518	Eskiapardı Köyü	 Köy$
+76389	Eskiboğazkesen Köyü	Eskiboğazkesen Köy Sokagı Köy$
+76390	Eskiboğazkesen Köyü, Dayı Deresi Mezrası	 Köy$
+70262	Eskikale Mah.	13-1.~|13-10.~|13-2.~|13-3.~|13-4.~|13-5.~|13-6.~|13-7.~|13-8.~|13-9.~|Atatürk@|Bankalar@|Elif~|Hakkı Hafız~|Hoca İmam~|Işık~|Kongre@|Mahkeme Çarşısı@|Mehmet Akyol~|Osman Paşa@|Saray Yolu~|Selçuklu~|Sirer@|Taşhan~|Ulu Camii~|Ulu Çarşı~|Çifte Minare~|İhramcızade~|İnönü%|Şifaiye~
+76519	Eskiköy Köyü	 Köy$
+76499	Eğribucak Köyü	 Köy$
+140434	Eğriköprü Mah.	75-1=|75-1.~|75-10.~|75-100.~|75-101.~|75-102.~|75-103.~|75-104.~|75-105.~|75-11.~|75-12.~|75-13.~|75-14.~|75-15.~|75-16.~|75-17.~|75-18.~|75-19.~|75-2.~|75-20.~|75-21.~|75-22.~|75-23.~|75-24.~|75-25.~|75-26.~|75-27.~|75-28.~|75-29.~|75-3.~|75-30.~|75-31.~|75-32.~|75-33.~|75-34.~|75-35.~|75-36.~|75-37.~|75-38.~|75-39.~|75-4.~|75-40.~|75-41.~|75-42.~|75-43.~|75-44.~|75-45.~|75-46.~|75-47.~|75-48.~|75-49.~|75-5.~|75-50.~|75-51.~|75-52.~|75-53.~|75-54.~|75-55.~|75-56.~|75-57.~|75-58.~|75-59.~|75-6.~|75-60.~|75-61.~|75-62.~|75-63.~|75-64.~|75-65.~|75-66.~|75-67.~|75-68.~|75-69.~|75-7.~|75-70.~|75-71.~|75-72.~|75-73.~|75-74.~|75-75.~|75-76.~|75-77.~|75-78.~|75-79.~|75-8.~|75-80.~|75-81.~|75-82.~|75-83.~|75-84.~|75-85.~|75-86.~|75-87.~|75-88.~|75-89.~|75-9.~|75-90.~|75-91.~|75-92.~|75-93.~|75-94.~|75-95.~|75-96.~|75-97.~|75-98.~|75-99.~|Akademisyenler@|Barış~|Civan~|Defne~|Erhan Üstündağ@|Fadlum@|Gülbahçe~|Hıdır Ağa@|Irmak~|Mahmut Özdemir@|Pilot Kaya İstektepe@|Yamaçlı~|Yay~|Yüksel Yancı@|Ünlü~|İsmail Güneş@|İsmet Yılmaz%|İşhan@|Şehit Melih Çimen@
+70263	Fatih Mah.	60-1.~|60-10.~|60-100.~|60-101.~|60-102.~|60-103.~|60-104.~|60-105.~|60-106.~|60-107.~|60-108.~|60-109.~|60-110.~|60-111.~|60-12.~|60-13.~|60-14.~|60-146.~|60-147.~|60-148.~|60-149.~|60-15.~|60-150.~|60-151.~|60-152.~|60-153.~|60-154.~|60-155.~|60-156.~|60-157.~|60-158.~|60-159.~|60-16.~|60-160.~|60-17.~|60-18.~|60-19.~|60-2.~|60-20.~|60-21.~|60-22.~|60-23.~|60-24.~|60-25.~|60-26.~|60-27.~|60-28.~|60-29.~|60-3.~|60-31.~|60-32.~|60-33.~|60-35.~|60-36.~|60-37.~|60-38.~|60-39.~|60-4.~|60-40.~|60-41.~|60-42.~|60-43.~|60-44.~|60-45.~|60-46.~|60-47.~|60-48.~|60-49.~|60-5.~|60-50.~|60-51.~|60-52.~|60-53.~|60-54.~|60-55.~|60-56.~|60-58.~|60-59.~|60-6.~|60-60.~|60-61.~|60-62.~|60-63.~|60-64.~|60-65.~|60-66.~|60-67.~|60-68.~|60-7.~|60-70.~|60-71.~|60-72.~|60-73.~|60-74.~|60-75.~|60-76.~|60-77.~|60-78.~|60-79.~|60-8.~|60-80.~|60-81.~|60-82.~|60-83.~|60-84.~|60-85.~|60-86.~|60-87.~|60-88.~|60-89.~|60-9.~|60-90.~|60-91.~|60-92.~|60-93.~|60-95.~|60-96.~|60-97.~|60-98.~|60-99.~|Abdulhamit Han@|Akçay~|Akşemsettin@|Alize~|Alsancak@|Anıl~|Arda~|Atakan~|Aycan~|Azeri~|Bayırbucak@|Dahi~|Eşref Bitlis@|Fetih@|Gazneli~|Güven@|Hayri Sığırcı@|Hüma Hatun~|Hünkar~|Hızır~|Işıl~|Küçük~|Kırçiçeği~|Merakum@|Mine~|Mukaddes~|Sebat~|Sefa~|Sultan Mehmet@|Taptuk Emre@|Taşkent@|Tekin~|Temeltepe@|Toprak~|Ufuk@|Ulubatlı@|Yavuz Sultan Selim@|Yeniçağ~|Yeşilay@|Zerafet~|Çakıl~|Şafak@|Şehit Ahmet Bayır~|Şehit Cüneyt Erkan~|Şehit Hikmet Duman~|Şehit Meftuni Duman~|Şehit Murat Canpolat@
+70264	Ferhatbostan Mah.	26-1.~|26-10.~|26-11.~|26-12.~|26-13.~|26-14.~|26-15.~|26-16.~|26-17.~|26-18.~|26-2.~|26-3.~|26-4.~|26-5.~|26-6.~|26-7.~|26-8.~|Arif Efendi~|Cahit Zarifoğlu@|Dedebalı@|Elçi~|Ferhat Bostan@|Ferhat~|Ferman~|Pırlanta~|Sabri Hafız@|Sait Paşa@|Vali Muammer Bey@|Şehitler@
+76520	Gazibey Köyü	 Köy$
+76521	Gazibey Köyü, Oğuzlar Mezrası	 Köy$
+76473	Gaziköy Köyü	 Köy$
+70266	Gökmedrese Mah.	34-10.~|34-11.~|34-12.~|34-13.~|34-14.~|34-9.~|Arapşeyh@|Fevzi Çakmak@|Gökmedrese@|Kale Ardı~|Kale Parkı~|Medrese~|Sahur~|Serçeli~|Sevap~|Seyhan~|Seğmen~|Uzunyol@|Yahya Bey@|Örtmeli~
+70265	Gökçebostan Mah.	19-1.~|19-11.~|19-12.~|19-13.~|19-14.~|19-15.~|19-16.~|19-17.~|19-18.~|19-2.~|19-3.~|19-4.~|19-5.~|19-6.~|19-7.~|19-8.~|19-9.~|Ali Baba@|Ay~|Bostan~|Buğday~|Doruk~|Dostlar~|Gökçe~|Gönül~|Gülseren~|Gülsüm~|H.ibrahim Kaymak~|Hafız Hami~|Höllüklük@|Mehmet Akif Ersoy@|Papatya~|Ruhsati Baba@|Çimentepe~|Ülkü~
+76462	Gözmen Köyü	 Köy$
+76391	Güllüce Köyü	Güllüce Köy Sokağı Köy$
+76392	Güllük Köyü	Güllük Köy Sokağı Köy$
+77069	Gülpınar Köyü	 Köy$
+70267	Gültepe Mah.	1.sanayi~|1.toptancılar~|10.sanayi~|10.toptancılar~|11.sanayi~|11.toptancılar~|12.sanayi~|12.toptancılar~|13.sanayi~|13.toptancılar~|14.sanayi~|14.toptancılar~|15.sanayi~|15.toptancılar~|16.sanayi~|16.toptancılar~|17.sanayi~|17.toptancılar~|18.sanayi~|18.toptancılar~|19.sanayi~|19.toptancılar~|2.sanayi~|2.toptancılar~|20.sanayi~|20.toptancılar~|21.sanayi~|21.toptancılar~|22.sanayi~|22.toptancılar~|23.sanayi~|23.toptancılar~|24.sanayi~|24.toptancılar~|25.sanayi~|25.toptancılar~|26.sanayi~|26.toptancılar~|27.sanayi~|28.sanayi~|28.toptancılar~|29.sanayi~|3.sanayi~|3.toptancılar~|30.sanayi~|30.toptancılar~|31.sanayi~|32.sanayi~|32.toptancılar~|33.sanayi~|34.sanayi~|35.sanayi~|35.toptancılar~|36.sanayi~|37.sanayi~|38.sanayi~|39.sanayi~|4.sanayi~|4.toptancılar~|40.sanayi~|40.toptancılar~|41.sanayi~|41.toptancılar~|42.sanayi~|42.toptancılar~|43.sanayi~|43.toptancılar~|44.sanayi~|45.sanayi~|46.sanayi~|47.sanayi~|48.sanayi~|49.sanayi~|49.toptancılar~|5.sanayi~|5.toptancılar~|51.sanayi~|53-1=|53-1.~|53-1.sanayii@|53-10.~|53-11.~|53-12.~|53-13.~|53-14.~|53-15.~|53-16.~|53-17.~|53-18.~|53-19.~|53-2.~|53-2.sanayii@|53-20.~|53-21.~|53-22.~|53-23.~|53-24.~|53-25.~|53-26.~|53-27.~|53-28.~|53-29.~|53-3.~|53-3.sanayii@|53-31.~|53-32.~|53-33.~|53-34.~|53-35.~|53-36.~|53-37.~|53-38.~|53-39.~|53-4.~|53-4.sanayii@|53-40.~|53-41.~|53-42.~|53-43.~|53-44.~|53-5.~|53-5.sanayii@|53-6.~|53-6.sanayii@|53-7.~|53-8.~|53-9.~|53.sanayi~|55.sanayi~|56.sanayi~|57.sanayi~|6.sanayi~|6.toptancılar~|61.sanayi~|63.sanayi~|65.sanayi~|67.sanayi~|69.sanayi~|7.sanayi~|7.toptancılar~|71.sanayi~|73.sanayi~|75.sanayi~|77.sanayi~|8.sanayi~|8.toptancılar~|9.sanayi~|9.toptancılar~|Adalet@|Alaybey~|Alparslan Türkeş@|Asmalı~|Barbaros@|Farabi@|Galericiler@|Gültepe@|Hal~|Kardelen@|Kayra~|Kayseri@|Keresteciler@|Kesikköprü@|Koza~|Küçük Sanayi@|Kızılırmak@|Lale~|Mecnun Otyakmaz@|Metanet~|Muhsin Yazıcıoğlu%|Nergiz~|Raylı~|Revak~|Selen~|Sivasspor@|Sultanşehir@|Toptancılar@|Trafo~|Zambak~|Üçyıldız@|İmren~
+70268	Gülyurt Mah.	45-1.~|45-11.~|45-12.~|45-13.~|45-14.~|45-16.~|45-17.~|45-18.~|45-19.~|45-2.~|45-20.~|45-3.~|45-4.~|45-5.~|45-6.~|45-7.~|45-8.~|45-9.~|Abdulvahab Gazi@|İstiklal@
+70310	Gümüşdere Köyü, Gümüşova Mevkii	1-başak~|1-fatih Sultan Mehmet~|1-fevzi Çakmak~|1-fırat~|1-hilal~|1-kazım Karabekir~|1-tekke Yolu~|1-yokuş Dibi~
+70311	Gümüşdere Köyü, Karşıyaka Mevkii	2-oğuz Kağan~|2-sivas~|2-yıldırım Beyazıt~|2-şirin~
+70312	Gümüşdere Köyü, Şehitler Mevkii	3-cami~|3-fatih Sultan Mehmet~|3-karanfil~|3-kaya Dibi~|3-osman Gazi~|3-oğuz Kağan~|3-sefa~|3-selçuklu~|3-sevgi~|3-yavuz Sultan Selim~|3-ömür~|3-şirin~
+76501	Gündüzköy Köyü	 Köy$
+76502	Günece Köyü	 Köy$
+77124	Güneli Köyü, Kuzköy Mevkii	 Köy$
+77123	Güneli Köyü, Köyün Kendisi Mevkii	 Köy$
+76522	Güney Köyü	 Köy$
+76534	Güney Köyü, Sırıklı Mevkii	 Köy$
+76453	Günören Köyü	 Köy$
+77125	Hacıali Köyü, Köyün Kendisi Mevkii	 Köy$
+70269	Halil Rıfatpaşa Mah.	37-1.~|37-2.~|37-3.~|37-4.~|37-5.~|37-6.~|37-7.~|Atölye Camii~|Demiryolu@|Halil Rıfat Paşa@|Kahiroğulları~|Kurtcebe Noyan@|Kültür~|Mum Baba@|Muslular~|Taşlı~|İnönü%|Şehit Hakan Şahbaz~
+76523	Hanlı Köyü	 Köy$
+76393	Harmancık Köyü	Harmancık Köy Sokağı Köy$
+76394	Hasbey Köyü	Hasbey Köy Sokağı Köy$
+76463	Haydarlı Köyü	 Köy$
+76396	Hayranlı Köyü	 Köy$
+76395	Hayırbey Köyü	 Köy$
+76397	Herekli Köyü	 Köy$
+76398	Himmetfakı Köyü	 Köy$
+76399	Hocabey Köyü	Hocabey Köy Sokağı Köy$|Sivas-kayseri Karayolu Caddesi~
+70270	Huzur Mah.	48-1.~|48-10.~|48-11.~|48-12.~|48-13.~|48-14.~|48-15.~|48-16.~|48-17.~|48-18.~|48-19.~|48-2.~|48-20.~|48-21.~|48-22.~|48-23.~|48-24.~|48-25.~|48-26.~|48-27.~|48-28.~|48-29.~|48-3.~|48-30.~|48-31.~|48-32.~|48-33.~|48-34.~|48-35.~|48-36.~|48-37.~|48-38.~|48-39.~|48-4.~|48-40.~|48-41.~|48-42.~|48-43.~|48-44.~|48-45.~|48-46.~|48-47.~|48-48.~|48-49.~|48-5.~|48-50.~|48-6.~|48-7.~|48-8.~|48-9.~|Emirpaşa@|Gelişim~|Hacılar~|Kazım Karabekir@|Kumru~|Kutlu~|Muhammed İkbal@|Mutlu@|Ocak~|Tenha~|Türkistan@|İstiklal@|Şantiye~|Şehit Abdulkadir Koç~|Şehit Osman Yurt@|Şehit Yunus Karataş~
+76474	Hıdırnalı Köyü	 Köy$
+76524	Kabasakal Köyü	 Köy$
+70273	Kadı Burhanettin Mah.	23.toptancılar~|4.işletme~|54-1.~|54-2.~|54-3.~|54-4.~|54-5.~|54-6.~|Atölye Camii~|Demiryolu@|Fabrika@|Halil Rıfat Paşa@|Kayseri@|Lojmanlar~|Muhsin Yazıcıoğlu%|Mum Baba@|Muslular~|Necip Fazıl Kısakürek@|Ray~|Stadyum~|Toptancılar@|Turgut Özal@|Türbe~|İnönü%
+76464	Kahyalı Köyü	 Köy$
+70274	Kaleardı Mah.	33-10.~|33-11.~|33-12.~|33-13.~|33-14.~|33-16.~|33-17.~|33-18.~|33-19.~|33-2.~|33-5.~|33-6.~|33-7.~|33-9.~|Fevzi Çakmak@|Gezgin~|Gökmedrese@|Kale Ardı~|Kale Parkı~|Kılıçarslan~|Kırklar Pınar~|Mum Baba@|Sofu Nuri~|Turgut Özal@|Uzunyol@|Zihni Taştan~|Zümrüt~|Çekiç~|Şeyh Çoban@
+76406	Karabalçık Köyü	 Köy$
+185492	Karabalçık Köyü, Cirali Mevkii	
+76407	Karabalçık Köyü, Köprübaşı Mezrası	 Köy$
+76503	Karacaören Köyü	 Köy$
+76408	Karagömlek Köyü	Karagömlek Köy Sokağı Köy$|Sivas-kayseri Karayolu Caddesi~
+76525	Karalar Köyü	 Köy$
+76465	Karalı Köyü	 Köy$
+76409	Karamehmet Köyü	 Köy$
+76526	Karapınar Köyü	 Köy$
+76481	Karayün Köyü	 Köy$
+76484	Karayün Köyü, Abdallar Mevkii	 Köy$
+76483	Karayün Köyü, Boynuzözü Mezrası	 Köy$
+76482	Karayün Köyü, Tatlıcak Mezrası	 Köy$
+76469	Karaçayır Köyü	 Köy$
+76470	Karaçayır Köyü, Pınarlı Mezrası	 Köy$
+70275	Kardeşler Mah.	51-1.~|51-10.~|51-11.~|51-12.~|51-13.~|51-15.~|51-16.~|51-17.~|51-18.~|51-19.~|51-2.~|51-20.~|51-21.~|51-22.~|51-23.~|51-24.~|51-25.~|51-26.~|51-27.~|51-28.~|51-29.~|51-3.~|51-30.~|51-31.~|51-32.~|51-33.~|51-34.~|51-35.~|51-36.~|51-37.~|51-38.~|51-39.~|51-4.~|51-41.~|51-42.~|51-45.~|51-46.~|51-48.~|51-49.~|51-5.~|51-50.~|51-52.~|51-53.~|51-54.~|51-55.~|51-56.~|51-57.~|51-58.~|51-59.~|51-6.~|51-60.~|51-61.~|51-62.~|51-63.~|51-64.~|51-65.~|51-66.~|51-67.~|51-68.~|51-7.~|51-70.~|51-71.~|51-72.~|51-73.~|51-74.~|51-75.~|51-76.~|51-77.~|51-78.~|51-79.~|51-8.~|51-80.~|51-81.~|51-82.~|51-83.~|Bağdat@|Birlik@|Desen~|Erva@|Güney~|Kekik~|Köprü~|Lokman Hekim@|Nehir~|Purutçu~|Reyhan~|Sarmaşık~|Sarıçiçek~|Sarıönder~|Sultanşehir%|Suna~|Sıhhiye@|Zehravi@|Çayırağzı@
+76466	Kartalca Köyü	 Köy$
+70276	Karşıyaka Mah.	70-1.~|70-1.küme Evler=|70-1.çamlık~|70-10.~|70-100.~|70-101.~|70-102.~|70-103.~|70-104.~|70-105.~|70-106.~|70-107.~|70-108.~|70-109.~|70-11.~|70-110.~|70-111.~|70-112.~|70-113.~|70-114.~|70-115.~|70-116.~|70-117.~|70-118.~|70-119.~|70-12.~|70-120.~|70-121.~|70-122.~|70-123.~|70-124.~|70-125.~|70-127.~|70-128.~|70-129.~|70-13.~|70-130.~|70-131.~|70-132.~|70-133.~|70-134.~|70-135.~|70-136.~|70-137.~|70-138.~|70-139.~|70-14.~|70-140.~|70-141.~|70-142.~|70-143.~|70-144.~|70-145.~|70-146.~|70-147.~|70-148.~|70-149.~|70-15.~|70-150.~|70-151.~|70-152.~|70-153.~|70-154.~|70-155.~|70-156.~|70-157.~|70-158.~|70-159.~|70-16.~|70-160.~|70-17.~|70-18.~|70-19.~|70-2.~|70-20.~|70-21.~|70-22.~|70-23.~|70-24.~|70-25.~|70-26.~|70-27.~|70-28.~|70-29.~|70-3.~|70-30.~|70-31.~|70-32.~|70-33.~|70-34.~|70-35.~|70-36.~|70-37.~|70-38.~|70-39.~|70-4.~|70-40.~|70-41.~|70-42.~|70-43.~|70-44.~|70-45.~|70-46.~|70-47.~|70-48.~|70-49.~|70-5.~|70-50.~|70-51.~|70-52.~|70-53.~|70-54.~|70-55.~|70-56.~|70-57.~|70-58.~|70-59.~|70-6.~|70-60.~|70-61.~|70-62.~|70-63.~|70-64.~|70-65.~|70-66.~|70-67.~|70-68.~|70-69.~|70-7.~|70-70.~|70-71.~|70-72.~|70-73.~|70-74.~|70-75.~|70-76.~|70-77.~|70-78.~|70-79.~|70-8.~|70-80.~|70-81.~|70-82.~|70-83.~|70-84.~|70-85.~|70-86.~|70-87.~|70-88.~|70-89.~|70-9.~|70-90.~|70-91.~|70-92.~|70-93.~|70-94.~|70-95.~|70-96.~|70-97.~|70-98.~|70-99.~|Alparslan Türkeş@|Arıburnu@|Aydınlık~|Aşiyan@|Badem~|Bulut~|Canan~|Celal Kayacan@|Ceyhan~|Coşku~|Dalgıç~|Edalı~|Emek~|Esenyurt@|Feyza~|Gelibolu@|Gölet@|Hasret~|Kesikköprü@|Köknar~|Sedir~|Sefil Selimi~|Tomurcuk~|Yahya Çavuş@|Yağmur~|Çanakkale@|Çevre~|Çise~|Şimşek~
+76527	Kavlak Köyü	 Köy$
+76515	Kayadibi Köyü	 Köy$
+76504	Kervansaray Köyü	 Köy$
+76505	Kervansaray Köyü, Kaçak Mezrası	 Köy$
+76528	Keçili Köyü	 Köy$
+76415	Kolluca Köyü	Kolluca Köy Sokağı Köy$
+76531	Koyuncu Köyü	 Köy$
+76421	Kulyusuf Köyü	 Köy$
+76422	Kumyurt Köyü	 Köy$
+76423	Kumyurt Köyü, Gökkuşağı Mezrası	1~|2~|3~|4~|Gökkuşağı Köy Sokağı Köy$
+76424	Kumyurt Köyü, Çöken Mezrası	Çöken Köy Sokağı Köy$
+70313	Kurtlapa Köyü, Bahçelievler Mevkii	1-küme Evler~|1-mehmet Akif Ersoy~|1-mevlana~|1-sivas~|1-tuna~
+70314	Kurtlapa Köyü, Karşıyaka Mevkii	2-2.küme Evler~|2-bayburt~|2-derya~|2-fatih~|2-gül~|2-incirlik~|2-menderes~|2-mevlana~|2-yunus Emre~|2-yıldırım~|2-çamlıdağ~|2-çay~|2-çıkmaz~
+76475	Kuzören Köyü	 Köy$
+76507	Kuşlu Köyü	 Köy$
+76416	Köklüce Köyü	Köklüce Köy Sokağı Köy$|Sivas-yozgat Karayolu Caddesi~
+76418	Köklüce Köyü, Çiftlik Mevkii	 Köy$
+76419	Köklüce Köyü, İncesu Mezrası	 Köy$
+76420	Körtuzla Köyü	Demirçelik Caddesi~|Körtuzla Köy Sokağı Köy$
+70280	Kümbet Mah.	65-1.~|65-10.~|65-11.~|65-12.~|65-13.~|65-14.~|65-15.~|65-16.~|65-17.~|65-18.~|65-19.~|65-2.~|65-20.~|65-21.~|65-22.~|65-23.~|65-24.~|65-25.~|65-26.~|65-27.~|65-28.~|65-29.~|65-3.~|65-30.~|65-31.~|65-32.~|65-33.~|65-4.~|65-5.~|65-6.~|65-7.~|65-8.~|65-9.~|Akgül~|Barbaros@|Başbağlar@|Buhara@|Ceylan~|Cumapazarı@|Dikimevi@|Evgü~|Fatih@|Kümbet~|Muhsin Yazıcıoğlu%|Rehber~|Sancak~|Sırrı Temel~|Toptancılar@|Zübeyde Hanım@
+70279	Küçükminare Mah.	25-1.~|25-2.~|25-3.~|25-4.~|25-5.~|25-6.~|25-7.~|25-8.~|Cahit Zarifoğlu@|Dikilitaş@|Güdük Minare~|Hidayet~|Hikmet Işık@|Paşa Bostan@|Recep Handan~|Sait Paşa@|Vaiz Ahmet Yılmaz~|Zincirli Minare~|Çarşıbaşı@
+70277	Kılavuz Mah.	46-1.~|46-10.~|46-11.~|46-12.~|46-13.~|46-16.~|46-17.~|46-18.~|46-19.~|46-2.~|46-22.~|46-24.~|46-25.~|46-26.~|46-27.~|46-28.~|46-29.~|46-3.~|46-30.~|46-31.~|46-32.~|46-33.~|46-34.~|46-35.~|46-36.~|46-39.~|46-4.~|46-40.~|46-41.~|46-42.~|46-43.~|46-44.~|46-45.~|46-46.~|46-47.~|46-48.~|46-49.~|46-50.~|46-51.~|46-52.~|46-53.~|46-54.~|46-55.~|46-56.~|46-57.~|46-58.~|46-59.~|46-60.~|46-61.~|46-62.~|46-63.~|46-64.~|46-65.~|46-66.~|46-67.~|46-68.~|46-69.~|46-7.~|46-70.~|46-71.~|46-72.~|46-73.~|46-74.~|46-75.~|46-76.~|46-77.~|46-78.~|46-79.~|46-8.~|46-80.~|46-81.~|46-82.~|46-83.~|Abdulvahab Gazi@|Atacan~|Başar~|Bedreddinefendi@|Bilge Kağan@|Duru~|Emirpaşa@|Ergun Göze@|Hacı Fevzi Baysoy@|Hazan~|Hicran~|Kahyalı~|Kelkit~|Sağlık~|Sultan~|Tekke@|Tekkeönü~|Tepebaşı~|Valide~|Vezir~|Yasemin~|Yolcu@|Çavuşlar~|İstiklal@|Şahbazoğlu~|Şehit Ali Şener~|Şehit Bahaddin Erturhan@|Şehit Emin Alacahan@|Şehit Faruk Aydoğdu~|Şehit Nusret Kaya~|Şehit Soner Müşteri@|Şehzade~
+76414	Kızkapan Köyü	 Köy$
+76410	Kızılalan Köyü	 Köy$
+76411	Kızılca Köyü	 Köy$
+76412	Kızılca Köyü, Soğuk Çermik Mevkii	 Köy$
+76506	Kızılcakışla Köyü	 Köy$
+76413	Kızılkavraz Köyü	 Köy$
+76529	Kızılova Köyü	 Köy$
+76530	Kızılöz Köyü	 Köy$
+70278	Kızılırmak Mah.	30-1.~|30-10.~|30-11.~|30-12.~|30-13.~|30-14.~|30-15.~|30-16.~|30-17.~|30-18.~|30-19.~|30-2.~|30-20.~|30-21.~|30-22.~|30-23.~|30-24.~|30-25.~|30-26.~|30-27.~|30-28.~|30-4.~|30-5.~|30-6.~|30-7.~|30-8.~|30-9.~|30-küme Evler=|Aziz Baba~|Kemaleddin İbni Hümam@|Morali Baba@|Pınar~|Reşit Akif Paşa~|Sultanşehir%|Vatan@|Yahya Bey@|Yaşam~|Çukur Pınar~|İmaret~|Şehit Fethi Akyüz@|Şeyh Erzurumi@
+70281	Mehmet Akif Ersoy Mah.	49-1.~|49-10.~|49-11.~|49-12.~|49-13.~|49-14.~|49-15.~|49-16.~|49-17.~|49-18.~|49-19.~|49-2.~|49-20.~|49-21.~|49-22.~|49-23.~|49-24.~|49-25.~|49-26.~|49-27.~|49-28.~|49-29.~|49-3.~|49-30.~|49-31.~|49-32.~|49-33.~|49-34.~|49-35.~|49-36.~|49-37.~|49-38.~|49-4.~|49-40.~|49-41.~|49-42.~|49-44.~|49-45.~|49-46.~|49-47.~|49-48.~|49-5.~|49-50.~|49-51.~|49-52.~|49-53.~|49-54.~|49-55.~|49-56.~|49-57.~|49-58.~|49-59.~|49-6.~|49-60.~|49-61.~|49-62.~|49-63.~|49-66.~|49-67.~|49-68.~|49-69.~|49-7.~|49-70.~|49-71.~|49-72.~|49-73.~|49-74.~|49-75.~|49-8.~|49-9.~|Alın Teri~|Azim~|Beyazıt~|Can~|Ebrar~|Emanet~|Evin~|Fikir~|Gökçekler@|Halfelik@|Hatıra~|Kalfa~|Karaağaç@|Mihmandar~|Muhammed İkbal@|Namık Kemal@|Safahat~|Sultanşehir%|Usta~|Ustabaşı~|Vefakar~|Çırak~|Özde~|İstiklal@|Şehit Fethi Akyüz@|Şehit Hacı Avcı~|Şehit Osman Yurt@
+70282	Mehmetpaşa Mah.	14-1.~|14-10.~|14-11.~|14-12.~|14-13.~|14-14.~|14-15.~|14-16.~|14-17.~|14-18.~|14-19.~|14-2.~|14-20.~|14-3.~|14-4.~|14-5.~|14-6.~|14-7.~|14-8.~|14-9.~|Behram@|Bekir Sami Kunduk@|Dinçer~|Emin~|Hastane@|Hersek~|Karabağ@|Kongre@|Numune~|Pünzürük@|Rahmi Günay@|Saraybosna@|İbni Sina@|İhramcızade~|Şehit İsmail Şirin@
+76532	Menşurlu Köyü	 Köy$
+185422	Meraküm Mah.	61-162.~|61-163.~|61-164.~|61-167.~|61-170.~|61-171.~|61-173.~|61-174.~|61-176.~|61-177.~|61-178.~|61-179.~|61-180.~|61-183.~|61-185.~|61-186.~|61-187.~|61-188.~|61-189.~|61-191.~|61-192.~|61-193.~|61-194.~|61-195.~|61-196.~|61-197.~|61-198.~|61-199.~|61-200.~|61-201.~|61-202.~|61-203.~|61-204.~|61-205.~|61-206.~|61-207.~|61-208.~|61-209.~|61-55.~|61-56.~|61-57.~|61-58.~|61-59.~|61-60.~|61-61.~|61-62.~|61-63.~|61-64.~|61-65.~|61-66.~|61-67.~|61-68.~|61-69.~|61-70.~|61-71.~|61-72.~|61-73.~|61-74.~|61-75.~|61-76.~|61-77.~|61-78.~|61-79.~|61-80.~|61-81.~|61-82.~|Fuzuli@|Güven@|Hakimiyet@|Hayri Sığırcı@|Hünkar~|Millet@|Milli Mücadele@|Müdafa@|Süleyman Şah@|İradeyi Milliye@
+76425	Mermer Köyü	 Köy$
+76426	Mescitli Köyü	Mescitli Köy Sokağı Köy$|Sivas-kayseri Karayolu Caddesi~
+139563	Mescitli Köyü, Taşlıdere Mevkii	Taşlıdere Köy Sokağı Köy$
+70283	Mevlana Mah.	16-1.~|16-10.~|16-12.~|16-13.~|16-14.~|16-15.~|16-16.~|16-17.~|16-18.~|16-19.~|16-2.~|16-21.~|16-22.~|16-23.~|16-24.~|16-25.~|16-26.~|16-27.~|16-28.~|16-29.~|16-3.~|16-4.~|16-5.~|16-6.~|16-7.~|16-8.~|16-9.~|Bahar~|Derman~|Deva~|Erdemli~|Fahreddin Paşa@|Fidan~|Hikmet Boran@|Hoşgörü~|Huzurlu~|Ihlamur~|Kamelya~|Kavaklı~|Kumlu Tarla@|Mevlana@|Mevlevi~|Mısra~|Porsuk@|Rahmi Günay@|Rüya~|Salih Aşık~|Saygı~|Selvi~|Söğüt~|Türkoğlu~|Yahya Yerlikaya~|Yonca~|Çimen~|Çınar~|Şehit Muhammed Demir~|Şehit Ömer Halisdemir@
+70285	Mimar Sinan Mah.	67-1.~|67-10.~|67-11.~|67-12.~|67-13.~|67-14.~|67-15.~|67-16.~|67-17.~|67-18.~|67-19.~|67-2.~|67-20.~|67-21.~|67-22.~|67-23.~|67-24~|67-25.~|67-26.~|67-27.~|67-28.~|67-29.~|67-3.~|67-30.~|67-31.~|67-32.~|67-4.~|67-5.~|67-6.~|67-7.~|67-8.~|67-9.~|Altın Başak@|Ankara%|Bade~|Başkent@|Başmimar~|Melikgazi@|Mengücekgazi@|Mimar Sinan@|Misak-ı Milli@|Muhsin Yazıcıoğlu%|Polis Lojmanları=|Selimiye@|Servet~|Sultanşehir%|Süleymaniye@|İhsan Öğer@|İller@|Şehit Muammer Şafak~|Şeyh Şamil@
+70284	Mısmılırmak Mah.	21-1.~|21-10.~|21-11.~|21-12.~|21-13.~|21-14.~|21-2.~|21-3.~|21-4.~|21-5.~|21-6.~|21-7.~|21-8.~|21-9.~|Abdulvahab Gazi@|Cihangir@|Geçit~|Mercan~|Mormenekşe~|Mısmılırmak@|Nadide~|Vali Muammer Bey@|Çiğdem~
+76476	Olukman Köyü	 Köy$
+76427	Onbaşılar Köyü	 Köy$
+70286	Orhangazi Mah.	43-1.~|43-10.~|43-11.~|43-12.~|43-13.~|43-14.~|43-15.~|43-16.~|43-17.~|43-18.~|43-19.~|43-20.~|43-21.~|43-22.~|43-23.~|43-24.~|43-3.~|43-4.~|43-5.~|43-6.~|43-7.~|43-8.~|43-9.~|43-küme Evler=|Aşık Veysel%|Bilge Kağan@|Göksu~|Gözüpek~|Kızılca~|Mevsim~|Muhtar Mehmet Yıldız~|Seyit Onbaşı~|Çağlayan~
+76477	Ovacık Köyü	 Köy$
+76478	Ozmuş Köyü	 Köy$
+70288	Paşabey Mah.	28-1.~|28-2.~|28-3.~|28-4.~|28-5.~|28-6.~|Arapşeyh@|Atatürk@|Bezazlar~|Hayrat~|Katip~|Kerim Çavuş@|Kunduracılar~|Kurşunlu~|Mahkeme Çarşısı@|Tokmak Kapı~|Vakıf~|Çarşı~
+76479	Porsuk Köyü	 Köy$|Mücavir Dışı~
+76480	Porsuk Köyü, Kösrelik Mezrası	 Köy$
+70289	Pulur Mah.	29-1.~|29-10.~|29-11.~|29-12.~|29-13.~|29-14.~|29-15.~|29-16.~|29-2.~|29-3.~|29-4.~|29-5.~|29-6.~|29-8.~|29-9.~|Ahi Emir@|Arapşeyh@|Atatürk@|Billur~|Eski Garajlar~|Güneşli~|Hacı Avni Bey~|Hilal~|Karakol~|Karlı~|Kemaleddin İbni Hümam@|Kule Evler~|Kurbani~|M.emin Ağa~|Morali Baba@|Pulur@|Reşit Akif Paşa~|Tarhana@|Öğretmenler@|İtfaiye~
+76428	Pınarca Köyü	 Köy$
+76508	Saklı Köyü	 Köy$
+76533	Sarıdemir Köyü	 Köy$
+76429	Savcun Köyü	 Köy$
+70290	Selçuklu Mah.	66-1.~|66-10.~|66-11.~|66-12.~|66-13.~|66-14.~|66-15.~|66-16.~|66-17.~|66-18.~|66-19.~|66-2.~|66-20.~|66-21.~|66-22.~|66-23.~|66-24.~|66-25.~|66-26.~|66-27.~|66-28.~|66-29.~|66-3.~|66-30.~|66-31.~|66-4.~|66-5.~|66-6.~|66-7.~|66-8.~|66-9.~|Aslı~|Balcı~|Barbaros@|Buhara@|Ezel~|Kümbet~|Lise~|Maket~|Mehmetçik~|Menekşe~|Mimar Sinan@|Muhsin Yazıcıoğlu%|Rehber~|Sancak~|Şahin~|Şehit Celal Karabulut~|Şehit Yılmaz Demir~
+76430	Serpincik Köyü	Kesikköprü@|Serpincik Köy Sokağı Köy$
+70291	Seyrantepe Mah.	41-1.~|41-10.~|41-11.~|41-12.~|41-13.~|41-14.~|41-15.~|41-16.~|41-17.~|41-18.~|41-19.~|41-2.~|41-20.~|41-21.~|41-22.~|41-23.~|41-24.~|41-25.~|41-26.~|41-27.~|41-3.~|41-4.~|41-5.~|41-6.~|41-7.~|41-8.~|41-9.~|Alıç~|Bahçe~|Beştepe~|Camii~|Dervişler~|Deyiş~|Fidanlık@|Hacı Bektaşi Veli~|Mehmet Akif Ersoy@|Mızrap~|Petek~|Seyran~|Seyrantepe@|Yeditepe@|Yücetepe~|Yıldıztepe~|Ömer Seyfettin@|Üçtepe~|Şehit Zeynel Dörtyol~
+76431	Sivritepe Köyü	 Köy$
+76535	Sorkuncuk Köyü	 Köy$
+70293	Sularbaşı Mah.	11-1.~|11-10.~|11-11.~|11-12.~|11-13.~|11-14.~|11-15.~|11-16.~|11-2.~|11-3.~|11-4.~|11-6.~|11-7.~|11-8.~|11-9.~|Afyon~|Akdeğirmen@|Ali Ağa Camisi~|Atatürk@|Belediye~|Haydarlı~|Hikmet Işık@|Kepenek@|Kızılay~|Madımak~|Mevlana@|Nalbantlarbaşı@|Pekmez~|Sularbaşı@|Tavşan Bayırı~|Vali Varinli@|İmam Hatip~|Şamdan~
+76536	Söğütcük Köyü	 Köy$
+76509	Tahtıkement Köyü	 Köy$
+76434	Tatlıcak Köyü	 Köy$
+76435	Tepeönü Köyü	Tepeönü Köy Sokağı Köy$
+76437	Tokuş Köyü	 Köy$
+76439	Tokuş Köyü, Arabınyazısı Mezrası	 Köy$
+76438	Tokuş Köyü, Pintipınar Mevkii	 Köy$
+76436	Tokuş Köyü, Yukarı Mezrası	 Köy$
+76440	Tutmaç Köyü	Tutmaç Köy Sokağı Köy$
+70295	Tuzlugöl Mah.	63-1.~|63-10.~|63-11.~|63-12.~|63-13.~|63-14.~|63-15.~|63-16.~|63-17.~|63-18.~|63-19.~|63-2.~|63-20.~|63-21.~|63-22.~|63-23.~|63-24.~|63-26.~|63-27.~|63-28.~|63-29.~|63-30.~|63-31.~|63-32.~|63-33.~|63-34.~|63-36.~|63-37.~|63-38.~|63-4.~|63-41.~|63-42.~|63-43.~|63-44.~|63-45.~|63-46.~|63-47.~|63-49.~|63-5.~|63-50.~|63-51.~|63-52.~|63-53.~|63-54.~|63-55.~|63-58.~|63-59.~|63-6.~|63-60.~|63-61.~|63-62.~|63-63.~|63-64.~|63-65.~|63-66.~|63-67.~|63-68.~|63-69.~|63-7.~|63-70.~|63-71.~|63-72.~|63-73.~|63-74.~|63-75.~|63-76.~|63-77.~|63-78.~|63-79.~|63-8.~|63-80.~|63-81.~|63-82.~|63-83.~|63-84.~|63-85.~|63-86.~|63-87.~|63-9.~|Ayça~|Bilgin~|Binnur~|Ela~|Güven@|Güvercin~|Hayat@|Hekim~|Huzur~|Kurtuluş@|Kırlangıç~|Manolya~|Milli Mücadele@|Otopark~|Plevne@|Seher~|Sinem~|Tabip~|Tuzlugöl@|Yavuz Bülent Bakiler@|Yaya~|Zübeyde Hanım@|Şehit Ercan Pınar~|Şehit Kenan Ardıç@|Şehit Sacettin Aktaş~
+76500	Törnük Köyü	 Köy$
+76441	Ulukapı Köyü	 Köy$
+70306	Uzuntepe Mah.	73-1=|Ağıllar=|Bala~|Boğaz Köprüsü@|Dere=|Hıdır Ağa@|Paşapınarı@|Sarıkamış@|Sivas-divriği Karayolu@|Sultanşehir%|Uzuntepe@
+70298	Yahyabey Mah.	31-1.~|31-2.~|31-3.~|31-4.~|31-5.~|31-6.~|31-7.~|31-8.~|Bağdatın Kadir~|Billur~|Dilek~|Hacı Avni Bey~|Hekim Pınar~|Morali Baba@|Müderris~|Nezih~|Rüzgar~|Sahur~|Serçeli~|Sevap~|Seğmen~|Sırrı Bey~|Tarhana@|Yahya Bey@|Çukur Pınar~
+70316	Yakupoğlan Köyü, Cumhuriyet Mevkii	1~|2~|3~|4~|5~|6~|7~|Cumhuriyet~|Meydan~|Mimar Sinan~
+70317	Yakupoğlan Köyü, Fatih Mevkii	10~|11~|12~|13~|14~|34~|9~|Mimar Sinan~|Yakupoğlan Meydanı~|Yukarı Bostan~|İsmet Yılmaz~
+70318	Yakupoğlan Köyü, Yeni Mevkii	15~|16~|17~|18~|19~|20~|21~|22~|23~|24~|25~|Atatürk~|Mevlana~|Meydan~
+76467	Yanalak Köyü	 Köy$
+76468	Yaramış Köyü	 Köy$
+76443	Yassıcabel Köyü	Sivas-kayseri Karayolu Caddesi~|Yassıcabel Köy Sokağı Köy$
+76444	Yassıcabel Köyü, Ağıllar Mezrası	Ağıllar Köy Sokağı Köy$
+76512	Yavu Köyü	 Köy$
+76513	Yavu Köyü, Bahçeli Mezrası	 Köy$
+76445	Yazıbaşı Köyü	Yazıbaşı Köy$
+76446	Yazıbaşı Köyü, Hava Alanı Mevkii	Havaalanı Köy$
+76510	Yağmurluseki Köyü	 Köy$
+76511	Yağmurluseki Köyü, Akseki Mezrası	 Köy$
+70299	Yeni Mah.	58-1.~|58-10.~|58-11.~|58-12.~|58-13.~|58-14.~|58-16.~|58-17.~|58-18.~|58-19.~|58-2.~|58-20.~|58-21.~|58-22.~|58-23.~|58-24.~|58-25.~|58-26.~|58-27.~|58-28.~|58-29.~|58-3.~|58-30.~|58-31.~|58-32.~|58-33.~|58-4.~|58-5.~|58-6.~|58-7.~|58-8.~|58-9.~|Battalgazi@|Burçak~|Danişment Gazi@|Hayri Sığırcı@|Kilim~|Menderes@|Postacı~|Çedene~|Çiçek~|Çiçekli@|Ömer Şan~|İnci~
+76537	Yeniapardı Köyü	 Köy$
+76447	Yeniboğazkesen Köyü	Yeniboğazkesen Köy Sokağı Köy$
+76448	Yenice Köyü	Yenice Köy Sokağı Köy$
+70300	Yenidoğan Mah.	40-1.~|40-10.~|40-11.~|40-13.~|40-14.~|40-15.~|40-18.~|40-19.~|40-2.~|40-20.~|40-21.~|40-22.~|40-23.~|40-24.~|40-25.~|40-26.~|40-27.~|40-28.~|40-29.~|40-3.~|40-30.~|40-31.~|40-32.~|40-33.~|40-34.~|40-35.~|40-36.~|40-37.~|40-38.~|40-39.~|40-4.~|40-40.~|40-41.~|40-42.~|40-43.~|40-5.~|40-6.~|40-7.~|40-8.~|40-9.~|Abdulhamit Han@|Eser@|Fahreddin Paşa@|Hayri Sığırcı@|Merakum@|Yavuz Sultan Selim@|Yenidoğan@|Şehit Bedrettin Erbil~|Şehit Münir Murat Ertekin~|Şükür~
+76514	Yenikervansaray Köyü	 Köy$
+76538	Yenikızılcakışla Köyü	 Köy$
+70301	Yenişehir Mah.	52-1.~|52-10.~|52-2.~|52-3.~|52-4.~|52-5.~|52-6.~|52-7.~|52-8.~|52-9.~|Dr.rahmi Karahasanoğlu@|Esnaflar~|Kardeşler@|Kayseri@|Kemaleddin İbni Hümam@|Merve@|Paşa Çayırı 1=|Paşa Çayırı 2=|Paşa Çayırı 3=|Paşa Çayırı 4=|Paşa Çayırı Küme Evler=|Safa@|Sultanşehir%|Terminal@|Yenişehir@|Çayırağzı@|Üstad~|İsmet Yılmaz%|Şeyh Erzurumi@
+70302	Yeşilyurt Mah.	50-1.~|50-10.~|50-11.~|50-12.~|50-13.~|50-14.~|50-15.~|50-16.~|50-17.~|50-18.~|50-19.~|50-2.~|50-20.~|50-21.~|50-22.~|50-23.~|50-24.~|50-25.~|50-26.~|50-27.~|50-28.~|50-29.~|50-3.~|50-30.~|50-31.~|50-32.~|50-33.~|50-34.~|50-35.~|50-36.~|50-37.~|50-38.~|50-39.~|50-4.~|50-40.~|50-42.~|50-43.~|50-44.~|50-45.~|50-46.~|50-47.~|50-48.~|50-49.~|50-5.~|50-50.~|50-51.~|50-52.~|50-53.~|50-54.~|50-55.~|50-56.~|50-57.~|50-58.~|50-59.~|50-6.~|50-60.~|50-61.~|50-62.~|50-63.~|50-64.~|50-65.~|50-66.~|50-67.~|50-68.~|50-69.~|50-7.~|50-70.~|50-71.~|50-8.~|50-9.~|Altınoluk@|Ana Yol~|Ecdat~|Erva@|Höyük@|Lokman Hekim@|M.feyzullah Moral@|Oba~|Sarıönder~|Sultanşehir%|Sıhhiye@|Uzuntepe@|Vefa~|Yeşilyurt@|Yurt~|Yuva~|Ziraat~|Çetin=|Çiftlik@|Şifa@
+70303	Yiğitler Mah.	23-1.~|23-10.~|23-11.~|23-12.~|23-2.~|23-3.~|23-4.~|23-5.~|23-6.~|23-7.~|23-8.~|23-9.~|Cahit Zarifoğlu@|Efe~|Ferhat Bostan@|Karanfil~|Kazancılar@|Sünnetçi~|Vali Muammer Bey@|Yiğit~|Yiğitler@
+76449	Yukarıyıldızlı Köyü	 Köy$
+70304	Yunusemre Mah.	59-1.~|59-10.~|59-11.~|59-12.~|59-13.~|59-14.~|59-15.~|59-16.~|59-17.~|59-18.~|59-19.~|59-2.~|59-20.~|59-21.~|59-22.~|59-23.~|59-24.~|59-26.~|59-27.~|59-3.~|59-4.~|59-5.~|59-6.~|59-7.~|59-8.~|59-9.~|Bülbüller~|Fuzuli@|Hayri Sığırcı@|Hünkar~|Kanarya~|Kısmet~|Menderes@|Saka~|Taptuk Emre@|Yunus Emre@|Ömür~|İkram~|Şehit Ebubekir Ekinci~
+70305	Yüceyurt Mah.	15-1.~|15-10.~|15-12.~|15-13.~|15-14.~|15-16.~|15-17.~|15-18.~|15-2.~|15-20.~|15-21.~|15-22.~|15-23.~|15-24.~|15-25.~|15-26.~|15-28.~|15-29.~|15-3.~|15-30.~|15-31.~|15-32.~|15-36.~|15-37.~|15-38.~|15-39.~|15-4.~|15-40.~|15-41.~|15-5.~|15-6.~|15-8.~|15-9.~|15-küme Evler=|Derman~|Fahreddin Paşa~|Hastane@|Karabağ@|Merakum@|Mert~|Numune~|Rahmi Günay@|Sahra~|Selahattin Erorhan@|Temeltepe@|Çavuşbaşı@|Şehit Akgün Sezginer@|Şehit Baki Kaya~|Şehit Mesut Çimen@|Şehit İsmail Şirin@
+70319	Yıldız Beldesi, Fatih Mah.	Cumhuriyet@|Kızılırmak@|Mehmet Akif Ersoy~|Mevlana~|Yeni Yol 1 Fatih~|Yeni Yol Fatih 1~|Yeniyol 10 Fatih~|Yeniyol 13 Fevziçakmak~|Yeniyol 2 Fatih~|Yeniyol 4 Fatih~|Yeniyol1 Fatih~|Yeniyol12~|Yeniyol3~|İsmet Yılmaz@
+70320	Yıldız Beldesi, Fevziçakmak Mah.	Abdullah Türk~|Akören Köy Yolu~|Atatürk%|Gazi Aslan~|Huzur@|Orhan Gazi@|Sivas@|Turgut Özal@|Yeni Yol 2 Fevzi Çakmak~|Yeni Yol 3 Fevzi Çakmak~|Yeni Yol 4 Fevzi Çakmak~|Yeniyol 1 Fevzi Çakmak~|Yeniyol 10 Fevziçakmak~|Yeniyol 11 Fevziçakmak~|Yeniyol 13 Fevziçakmak~|Yeniyol 15 Fevziçakmak~|Yeniyol 18 Fevziçakmak~|Yeniyol 2 Fevziçakmak~|Yeniyol 21~|Yeniyol 22~|Yeniyol 25 Fevziçakmak~|Yeniyol 3 Fevziçakmak~|Yeniyol 4 Fevzi Çakmak~|Yeniyol 4 Fevziçakmak~|Yeniyol 5 Fevziçakmak~|Yeniyol 6 Fevzi Çakmak~|Yeniyol 6~|Yeniyol 7 Fevziçakmak~|Yeniyol 8 Fevzi Çakmak~|Yeniyol 9 Fevzi Çakmak~|Yeniyol1 Fevziçakmak~|Yeniyol10 Fevzi Çakmak~|Yeniyol11 Fevzi Çakmak~|Yeniyol14 Fevzi Çakmak~|Yeniyol19 Fevzi Çakmak~|Yeniyol6 Fevziçakmak~|Yıldız@|İsmet Yılmaz@
+70321	Yıldız Beldesi, Şehitömeryıldırım Mah.	Atatürk%|Cumhuriyet@|Gazi Osman Paşa~|Kızılırmak@|Mehmet Akif Ersoy~|Mevlana~|Veysel Karani~|Yeniyol 10 Şehitömeryıldırım~|Yeniyol 11 Şehitömeryıldırım~|Yeniyol 12 Şehitömeryıldırım~|Yeniyol 13 Şehitömeryıldırım~|Yeniyol 15 Şehitömeryıldırım~|Yeniyol 16 Şehitömeryıldırım~|Yeniyol 17 Şehitömeryıldırım~|Yeniyol 18 Şehitömeryıdırım~|Yeniyol 2 Şehitömeryıldırım~|Yeniyol 22~|Yeniyol 3 Şehitömeryıldırım~|Yeniyol 4 Şehitömeryıldırım~|Yeniyol 5 Şehitömeryıldırım~|Yeniyol 6 Şehitömeryıldırım~|Yeniyol 8 Şehitömeryıldırım~|Yeniyol 9 Şehit Ömer Yıldırım~|Yeniyol10 Şehitömeryıldırım~|Yeniyol12~|Yeniyol19 Şehit Ömer Yıldırım~|Yeniyol3~|Yunus Emre@|İsmet Yılmaz-@
+76451	Zengi Köyü	 Köy$
+76452	Zengi Köyü, Kadiroğulları Mezrası	 Köy$
+76368	Çallı Köyü	 Köy$
+70249	Çarşıbaşı Mah.	12-1.~|12-2.~|12-3.~|12-4.~|12-5.~|12-6.~|12-7.~|12-8.~|12-9.~|Afyon~|Atatürk@|Avlu~|Bedrettin Doğruyol~|Garipler~|Haydarlı~|Hikmet Işık@|Kepenek@|Müftülük~|Nalbantlarbaşı@|Paşa Camii~|Sarraflar~|Vişneli Camii~|Ziyabey~|Çarşıbaşı@|İmam Hatip~|Şemsi Sivasi@
+76369	Çatalkaya Köyü	 Köy$
+76371	Çatalkaya Köyü, Gözpınar Mezrası	 Köy$
+76372	Çatalkaya Köyü, Harmanyeri Mezrası	 Köy$
+76370	Çatalkaya Köyü, Karataş Mezrası	 Köy$
+70250	Çayboyu Mah.	72-1=|72-1.~|72-1.çıkmaz~|72-10.~|72-11.~|72-2=|72-2.~|72-2.çıkmaz~|72-3=|72-3.~|72-4.~|72-5.~|72-6.~|72-7.~|72-8.~|72-9.~|72-küme Evler=|Anadolu@|Barajyolu@|Emir~|Gülaç~|Sivas@|Sultan Murat@|Tuna@|Ulus@
+76373	Çaygören Köyü	 Köy$
+76374	Çaypınar Köyü	 Köy$
+70251	Çayyurt Mah.	17-1.~|17-10.~|17-11.~|17-12.~|17-13.~|17-14.~|17-15.~|17-16.~|17-17.~|17-18.~|17-2.~|17-3.~|17-4.~|17-5.~|17-6.~|17-7.~|17-8.~|17-9.~|Akdeğirmen@|Cemre~|Etembey~|Hikmet Boran@|Mevlana@|Nisa~|Onur~|Sularbaşı@|Tavşan Bayırı~|Tek Mezar@|Yokuş~|Özen~|Şakir Paşa~|Şehit İhsan Bahçivan~
+76375	Çelebiler Köyü	Katip Çelebi@|Nuri Demirağ Caddesi~|Sivas-yozgat Karayolu Caddesi~|Çelebiler Köy Sokağı Köy$
+76377	Çelebiler Köyü, Huykesen Mezrası	Huykesen Köy Sokağı Köy$
+76472	Çeltek Köyü	 Köy$
+76378	Çerçideresi Köyü	Çerçideresi Köy Sokağı Köy$
+70252	Çiçekli Mah.	57-1.~|57-10.~|57-11.~|57-12.~|57-13.~|57-14.~|57-15.~|57-17.~|57-18.~|57-19.~|57-2.~|57-3.~|57-4.~|57-5.~|57-6.~|57-7.~|57-8.~|57-9.~|Altuntabak@|Battalgazi@|Halil Rıfat Paşa@|Kavacık~|Lalezar~|Leylak~|Yankı~|Çiçekli@|Şehit Mansur Artuç~
+76517	Çongar Köyü	 Köy$
+77047	Çukurbelen Köyü	Sivas-erzincan Karayolu Caddesi~|Çukurbelen Köy Sokağı Köy$
+77134	Örencik Köyü, Dursunoğlu Mevkii	 Köy$
+77133	Örencik Köyü, Köyün Kendisi Mevkii	 Köy$
+70287	Örtülüpınar Mah.	36-1.~|36-10.~|36-11.~|36-2.~|36-3.~|36-4.~|36-5.~|36-6.~|36-7.~|36-8.~|36-9.~|Akasya~|Ağca Bölge~|Demir Kapı~|Esen~|Evliya@|Halil Rıfat Paşa@|Hasanlı~|Hoca Ahmet Yesevi@|Kahiroğulları~|Kongre@|Mum Baba@|Reşat Şemsettin~|Saraybosna@|Selçuklu~|Sigorta~|Taşlı~|Tekel~|Uzun Hacı~|Uzunyol@|İhramcızade~|İnönü%|Şehit Hakan Şahbaz~|Şehit Mustafa Erdem~|Şifaiye~
+70297	Üçlerbey Mah.	32-1.çıkmaz~|32-2.~|32-3.~|32-4.~|32-5.~|32-6.~|32-7.~|Bilge~|Emniyet~|Gezgin~|Gökmedrese@|Harman~|Hekim Pınar~|Kavak~|Kemaleddin İbni Hümam@|Kuruçay~|Köy Ağası~|Kırklar Pınar~|Serçeli~|Seten~|Sırma~|Yahya Bey@|Yediler~|Zümrüt~|Şehit Cengiz Çil~|Şehit Fuat Topal~|Şeyh Çoban@
+76442	Üçtepe Köyü	Üçtepe Köy Sokağı Köy$
+76400	İlkindi Köyü	 Köy$
+76402	İnceağa Köyü	Boğaz Köprüsü@|Gündoğdu@|İnceağa Köy Sokağı Köy$
+76403	İnceyol Köyü	 Köy$
+70271	İnönü Mah.	20-1.~|20-10.~|20-11.~|20-12.~|20-13.~|20-14.~|20-15.~|20-16.~|20-17.~|20-19.~|20-2.~|20-20.~|20-21.~|20-22.~|20-3.~|20-4.~|20-5.~|20-6.~|20-7.~|20-8.~|20-9.~|Abdulvahab Gazi@|Ali Baba@|Başak~|Gül~|Huzur Park~|Karanfil~|Kazancılar@|Mormenekşe~|Nisan~|Ozan~|Sakin~|Sedef~|Vali Muammer Bey@|Yayla~|Şehit Faik Aktaş~
+76404	İsmailbeyçiftliği Köyü	 Köy$
+70272	İstiklal Mah.	4 Eylül@|62-1.~|62-10.~|62-11.~|62-12.~|62-13.~|62-14.~|62-15.~|62-16.~|62-17.~|62-18.~|62-19.~|62-2.~|62-20.~|62-21.~|62-22.~|62-23.~|62-24.~|62-25.~|62-26.~|62-27.~|62-28.~|62-29.~|62-3.~|62-30.~|62-31.~|62-32.~|62-33.~|62-34.~|62-35.~|62-36.~|62-37.~|62-38.~|62-39.~|62-4.~|62-40.~|62-41.~|62-5.~|62-6.~|62-7.~|62-8.~|62-9.~|Esentepe@|Işıklı~|Kanije~|Kurtuluş@|Manolya~|Mehmet Emin~|Neşe~|Pelit~|Pırıltı~|Seher~|Tabip~|Yakut~|Ömer Muhtar~|Şehit Ömer Daşdan~
+76405	İşhanı Köyü	Fadlum Tuzla@|Hıdır Ağa@|Kardeşler@|Sivas-divriği Karayolu~|İşhan Caddesi~|İşhanı Köy Sokağı Köy$
+200795	İşhanı Köyü, Şehristan Mevkii	Şehristan Köy$
+76432	Şaban Köyü	 Köy$
+76433	Şahbey Köyü	Şahbey Köy Sokağı Köy$
+70294	Şeyh Şamil Mah.	47-1.~|47-10.~|47-100.~|47-101.~|47-102.~|47-103.~|47-104.~|47-105.~|47-106.~|47-107.~|47-108.~|47-109.~|47-11.~|47-110.~|47-111.~|47-112.~|47-113.~|47-114.~|47-115.~|47-116.~|47-117.~|47-118.~|47-119.~|47-12.~|47-120.~|47-121.~|47-122.~|47-123.~|47-124.~|47-125.~|47-126.~|47-127.~|47-128.~|47-129.~|47-13.~|47-130.~|47-131.~|47-132.~|47-133.~|47-134.~|47-135.~|47-136.~|47-137.~|47-138.~|47-139.~|47-14.~|47-140.~|47-141.~|47-142.~|47-143.~|47-144.~|47-145.~|47-146.~|47-147.~|47-148.~|47-149.~|47-15.~|47-150.~|47-151.~|47-152.~|47-153.~|47-154.~|47-155.~|47-156.~|47-157.~|47-158.~|47-159.~|47-160.~|47-17.~|47-18.~|47-19.~|47-2.~|47-20.~|47-21.~|47-22.~|47-23.~|47-24.~|47-26.~|47-27.~|47-28.~|47-29.~|47-3.~|47-30.~|47-31.~|47-32.~|47-33.~|47-34.~|47-35.~|47-36.~|47-37.~|47-38.~|47-39.~|47-4.~|47-40.~|47-41.~|47-42.~|47-43.~|47-44.~|47-45.~|47-46.~|47-47.~|47-48.~|47-49.~|47-5.~|47-50.~|47-51.~|47-52.~|47-53.~|47-54.~|47-55.~|47-56.~|47-57.~|47-58.~|47-59.~|47-6.~|47-60.~|47-61.~|47-62.~|47-63.~|47-64.~|47-65.~|47-66.~|47-67.~|47-68.~|47-69.~|47-7.~|47-70.~|47-71.~|47-72.~|47-73.~|47-74.~|47-75.~|47-76.~|47-77.~|47-78.~|47-79.~|47-8.~|47-80.~|47-81.~|47-82.~|47-83.~|47-84.~|47-85.~|47-86.~|47-87.~|47-88.~|47-89.~|47-9.~|47-90.~|47-91.~|47-92.~|47-93.~|47-94.~|47-95.~|47-96.~|47-97.~|47-98.~|47-99.~|A.rauf Sarısözen@|Ayaz~|Bayrak@|Doğukent@|Dursun Gencer@|Efsane~|Emirpaşa@|Esinti~|Feza~|Firuze~|Göktürk@|Gülsever~|Güzgülü~|Halis Vermezoğlu@|Hamza Yerlikaya@|Kafkas~|Kahraman~|Karaman~|Kartopu~|Kazım Karabekir@|Kösedağ@|Kıvılcım~|M.feyzullah Moral@|Melek Reşithanım@|Necmettin Erbakan@|Nur~|Rasim Başara@|Sultanşehir%|Türkistan@|Y.ziya Başara@|Yeni Nesil~|Özgürlük@|İpekyolu@|Şehit Fevzi Delibaş~|Şehit Hamit Kandur@|Şehit Necmi Gültepe~|Şelale~
+70308	Şeyh Şamil Osb Mah.	Halis Vermezoğlu@|Necmettin Erbakan@|Osb 1~|Osb 2~|Osb 3~|Osb 4~|Osb 5~|Osb 6~|Osb-1@|Osb-3@

@@ -1,0 +1,49 @@
+165715	Akören Mah.	Akören=|Arapgir Arguvan@
+165793	Alhasuşağı Mah.	Alhasuşağı=|Arapgir Arguvan@|Ballıca Mezrası=|Belikler Mezrası=|Birimuşağı=|Körolar Mezrası=
+165717	Armutlu Mah.	Arguvan Hekimhan@|Armutlu=
+165719	Asar Mah.	Asar=|Gecekondu=
+165721	Asmaca Mah.	Asmaca=|Çorumkavak=|Ömerağa=
+165723	Aşağısülmenli Mah.	Aşağısülmenli=
+165725	Bahçeli Mah.	Bahçeli=|Hacımehmetler=|Malatya Keban@|Omikan=|Çiftlik_1=
+51872	Bahçelievler Mah.	51 Afet Evleri=|Arguvan Yolu@|Eski Çarşı=|Eskiköy=|Fidanlar=|Kirazlar=|Koçikşer=
+165727	Bozan Mah.	Arapgir Arguvan@|Arguvan Hekimhan@|Bozan=
+51873	Dolaylı Mah.	90=|Aktepe=|Arapgir Arguvan@|Bağlar=|Dolaylı=|Karaçamurluk=|Köprücek=|Mahmudun Bağı=|Sulucuoğlu=
+165737	Doydum Mah.	Doydum=
+165739	Ermişli Mah.	Emirli Mezrası=|Ermişli=
+165741	Eymir Mah.	Arapgir Arguvan@|Eymir=
+165799	Gökağaç Mah.	Gökağaç=
+165797	Göçeruşağı Mah.	Arapgir Arguvan@|Göçeruşağı=
+165743	Gümüşlü Mah.	Gümüşlü=|Malatya Keban@
+165745	Güngören Mah.	Arapgir Arguvan@|Güngören=|Haraba Mezrası=
+165767	Gürge Mah.	Koyuncu=|Çıravuşağı Mezrası=
+165747	Güveçli Mah.	Aslanuşağı Mezrası=|Dalhançer Mezrası=|Dağınlı Mezrası=|Güveçli=|Haraba Mezrası_1=|Sedefuşağı Mezrası=|Türkmenoğlu Mezrası=|Ömerli Mezrası=
+165749	Hakverdi Mah.	Hakverdi=
+165755	Karababa Mah.	Karababa=|Malatya Keban@
+165757	Karahüyük Mah.	Bömere Mezrası=|Karahüyük=
+165765	Konakbaşı Mah.	Konakbaşı=|Sinemil=
+165763	Koçak Mah.	Koçak=
+165803	Kuruttaş Mah.	Kuruttaş=
+165769	Kuyudere Mah.	Kuyudere=|Şamı=
+165801	Kömürlük Mah.	Arapgir Arguvan@|Kelolar Mezrası=|Kömürlük=
+165761	Kızık Mah.	Arapgir Arguvan@|Kızık=
+165785	Kızıluşağı Mah.	Ericek=|Yenisu=|Çimenuşağı=
+165771	Morhamam Mah.	Balıkçılar Mezrası=|Malatya Keban@|Morhamam=
+165781	Narmikan Mah.	Gürgüşler=|Malatya Keban@|Yazıbaşı=|Zengolar=|Çerçekler=
+165729	Parçikan Mah.	Bozburun=|Malatya Keban@|Çöllük=
+165773	Tarlacık Mah.	Horumhan Mezrası=|Tarlacık=
+165775	Tatkınık Mah.	97=|98=|Haciler=|Karadut=|Orduçayır=|Tatkınık=
+51874	Tepebağ Mah.	10.~|12~|14~|16~|4.~|6.~|8.~|96~|Atatürk@|Cüceler~|Emiroğlu~|Kartan=|Konut~|Müslüm Adıgüzelman~|Prof. Dr. Sezai Yılmaz~|Seyfi Oktay@|Yalıncak~|Yağmur~|Yunus Emmi Sok~|Yurt~
+165777	Yamaç Mah.	Akuşağı=|Yamaç=|Şerikan=
+51875	Yeni Mah.	11.~|13.~|17.~|3~|5.~|7.~|9.~|Arapgir Arguvan@|Arguvan Yolu@|Arguvan1=|Atatürk@|Aydın Eren Sok~|Aydın Sok~|Aydın Sok2~|Devriş~|Devriş1~|Dr. Sezai Orhan@|Dr. Sezai Orhan1~|Erol~|Erol1~|Erol3~|Fatih@|Fırın~|Gazi~|Gülüm Sanayi Sok~|Gülüm Sanayi Sok1~|Gülüm Sanayi Sok2~|Hakim Süleyman Efe@|Hoca Ahmet@|Kızılay~|M.kızılay@|Milli Egemenlik@|Milli Egemenlik/1~|Milli Egemenlik/2~|Milli Egemenlik/3~|Milli Egemenlik/4~|Milli Egemenlik/5~|Milli Egemenlik/6~|Milli Egemenlik/7~|Prof.dr. Aynur Eren 1~|Prof.dr. Aynur Eren@|Prof.dr.temel Yılmaz@|Prof.dr.temel Yılmaz/1~|Prof.dr.temel Yılmaz/2~|Sanayi~|Selvi~|Toraman~|Ulukaya~|Ulukaya1~|Uğur Mumcu@|Vatko~|Yeni Yol 2~|Yonca~|Yonca1~|Ünlü~|İlker~|İlker1~|İnönü@|İnönü/1~|Şehit J.üstgm.cem Şen@
+165783	Yeniköy Mah.	Uru=|Yeniköy=
+165791	Yoncalı Mah.	Yoncalı=
+165787	Yukarısülmenli Mah.	Adatepe Mezrası=|Yukarısülmenli=
+165789	Yürektaşı Mah.	Deli Memetler Mezrası=|Kamerler Mezrası=|Tilbis=|Yürektaşı=
+165805	Çakmak Mah.	Elmatarla=|Göltarla=|Kozikler=|Kınık=|Çakmak=
+165731	Çavuşköy Mah.	Arapgir Arguvan@|Arguvan Hekimhan@|Çavuşköy=
+165733	Çayırlı Mah.	Çayırlı=
+165735	Çevreli Mah.	Fitne=|Çevreli=
+165779	Çiftlik Mah.	Kızılkaya Mezrası=|Kışla=|Çiftlik=
+165753	İsaköy Mah.	Eşikke Mezrası=|Karakaya Mezrası=|Sadık Bey Çiftliği=|İsaköy=
+165751	İçmece Mah.	Olçuk Mezrası=|İçmece=
+165795	Şotik Mah.	Aşağı Konak=|Boztepe=|Eşkınlı=|Kavunluk=|Koru=|Kurugöl=|Küllükler=|Kınıkderesi=|Kızıltaş=|Terpınar=|Urumharabası=|Veli=|Çadırlı=|Çamaşır Pınarı=|Çamurluk=|Çemikan=|Çobandere=|İncesu=

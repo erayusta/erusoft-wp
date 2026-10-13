@@ -1,0 +1,24 @@
+23269	Budakpınar Köyü	Budakpınar=
+23270	Demirli Köyü	Demirli=
+23271	Eyüpözü Köyü	Eyüpözü=
+20228	Gazibey Mah.	Ahmet Ceceli@|Akar~|Akar/1~|Aykanat Çıkmazı~|Ersoy Çıkmazı~|Eski~|Fahri Sevimli@|Fahri Sevimli/1~|Hoşnanbar/1~|Hoşnanbar/3~|Hoşnanbar/4~|Hoşnanbar_1@|Işık_1~|Mustafa Çerci~|Mustafa Çerci-~|Nazmi Akyüz@|Nevzat Ayaz@|Nevzat Ayaz/1~|Okul@|Okul/1~|Okul/3~|Osman Sevimli@|Osman Sevimli/5~|Posta~|Tekintaş=|Uysal~|İstanbul Samsun@|Şengül~
+20231	Hoca Mah.	Alaattin Ceceli@|Allattin Celeli/2~|Gül~|Gül/1~|Hayrettin Abanik~|Kalender~|Kalender/1~|Okursoy~|Osman Sevimli@|Osman Sevimli/5~|Tahir Hoca~|Yadiğar Tezcanoğlu~|Zümrüt~|Şakrak~
+23272	Hüyükköy Köyü	Hüyükköy=
+199491	Ilıpınar Mah.	1.@|1./1~|1./12@|1001~|1002- Köy$|1002.~|1003.~|1003./1~|1004.~|1005.~|1006.~|1007.~|2.@|3.@|Ilıpınar~|Ilıpınar/10~|Ilıpınar/12/3~|Ilıpınar/14~|Ilıpınar/15~|Ilıpınar/7~|Soğluk=
+23276	Kükürt Köyü, Demirciler Mevkii	Demirciler=
+23277	Kükürt Köyü, Kolavlağı Mevkii	Kolavlağı=
+23275	Kükürt Köyü, Orta Mevkii	Orta=
+23278	Kükürt Köyü, Zevdeş Mevkii	Zevdeş=
+20230	Kıran Mah.	Afşar~|Aydın Çıkmaz~|Baldan Çıkmazı~|Doğuş@|Dursun Ulusoy@|Dursun Ulusoy/1~|Hüseyin Akkaman~|Işık@|Karaca~|Kayhan~|Mustafa Çerci~|Mustafa Çerci/1~|Nevzat Ayaz@|Osman Sevimli/4~|Osman Sevimli/7~|Osman Sevimli_1@|Semerci~|Semerci/1~|Vahap Yartaşı~|Yayla~|Yürekli@|Çavuş~|Çelen~|Çilkaya~|Çilkaya/1~|İstanbul Samsun@
+23274	Kızılibrik Köyü	Kızılibrik=
+20232	Mollaosman Mah.	Akkaya~|Akkaya/1~|Alaattin Ceceli@|Allattin Celeli/3~|Allattin Celeli/4~|Arpalık~|Arpalık/1~|Arpalık/2~|Aydemir~|Gazibaşal~|Gazibaşal/1~|Gösteren~|Kirazcık~|Kumkale~|Kumkale/1~|Kumkale/2~|Kıcıman~|Osman Sevimli/3~|Osman Sevimli_1@|Şemsi~|Şen~
+23279	Susuz Köyü	Susuz=
+23282	Yakalı Köyü, Dere Mevkii	Dere=
+23280	Yakalı Köyü, Kadıgil Mevkii	Kadıgil=
+23281	Yakalı Köyü, Orta Mevkii	Orta=
+184578	Çardaklı Beldesi, Bozkuş Mah.	Bozkuş~
+20233	Çardaklı Beldesi, Cumhuriyet Mah.	Abdulhaluk Renda@|Ali Sinan~|Atatürk@|Erenler@|Kalaycı Osman~|Karanfil~|Rafet Öztürk@|Yukarı Harman 1.~|Yukarı Harman 2.~|Yukarı Harman 3.~|Çavuşlar~
+20234	Çardaklı Beldesi, Hürriyet Mah.	1. Etap Kooperatif 1.~|1. Etap Kooperatif 2.~|1. Etap Kooperatif 3.~|1. Etap Kooperatif 4.~|Abdulhaluk Renda@|Alaattin Ceceli@|Arpalık 1.~|Arpalık 2.~|Arpalık 3.~|Arpalık~|Başak@|Efendi@|Erenler@|Eğrek 1.~|Eğrek 2.~|Fidanlık~|Hacı Softoğlu~|Ilıca~|Kooperatif Evleri 2 Etap 1~|Kooperatif Evleri 2 Etap 2~|Kooperatif Evleri 2 Etap 3~|Kooperatif Evleri 2 Etap 4~|Küçük Çayır@|Mera~|Muhtar Bilal~|Muhtar Hüsnü Yücel~|Tevfik Yazıcı@|Yunus Çavuş~|Zübeyde Hanım~|Çakıllı Bostan@|Çamlıca 1.~|Çamlıca 2.~|Çamlıca@|Çayır~|Çiğdemlik~|Şht. Ahmet~
+20235	Çardaklı Beldesi, Mustafa Kemal Mah.	Ahmet Hoca~|Ali Dişçi~|Atatürk@|Aşağı Harman~|Beyköyü@|Bozkuş~|Eşref Işık@|Haydar Çavuş~|Kurtuluş@|Nurhan Öç~|İkiçağresi~|İstasyon@
+20236	Çardaklı Beldesi, Nevzat Ayaz Mah.	Alaattin Ceceli@|Ali Dişçi~|Atatürk@|Avni Akyol@|Avni Gökdemir~|Aşağı Yağlı Çayır@|Bilal Yüce~|Cami~|Demir Yolu@|Demirciyeri 1.~|Demirciyeri 2.~|Demirciyeri~|Değirmen~|Eşref Işık@|Hambarcık~|Huzur~|Karapınar@|Koru~|Koru Yeri~|Leyleklik 1.~|Leyleklik 2.~|Leyleklik 3.~|Leyleklik 4.~|Leyleklik@|Mezarlık~|Murtaz Efendi~|Nurhan Öç~|Okul Yolu~|Ptt~|Pınar~|Sağlık~|Sinirardı~|Uluçay@|Yağlıçayır~|İstasyon@|İğdirözü~
+20229	İlker Mah.	1001~|Abdullah Çavuş~|Ahmet Gösteren~|Ali Akçalıoğlu@|Cihat Battaloğlu@|Dolay=|Ersoy@|Ersoy/1~|Feyzullah@|Hafız İzzet@|Hafız İzzet/1~|Halimoğuz@|Halimoğuz/1~|Halimoğuz/5~|Hoşislamlar@|Hoşnanbar=|Hüseyin Özdemir~|Ilıpınar~|Kadirefendi~|Kalender Oğlu Süleyman~|Kayalıdere=|Körömer@|Küçükağa Pınarı=|Nevzat Ayaz_1@|Recep Uzun~|Soğluk=|Tahir Akman@|Topal Aynalı~|Topal İhsan~|Vahdettin Özcan@|Vahdettin Özcan/3~|Çankaya=|Çürük Hasan~|Özleyiş Topbaş@|İlker Nevzat Ayaz/2~|İlker_1@|İstanbul Samsun@

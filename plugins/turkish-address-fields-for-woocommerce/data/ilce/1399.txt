@@ -1,0 +1,107 @@
+23458	Akcaören Köyü	Akcaören=
+23459	Aktaş Köyü	Aktaş=
+23463	Alibey Köyü, Aşağı Mevkii	Aşağı=
+23462	Alibey Köyü, Karataş Mevkii	Karataş=
+23461	Alibey Köyü, Merkez Mevkii	Merkez=
+23533	Alpagut Köyü	Alpagut=
+23460	Alıç Köyü	Alıç=
+23464	Arpayeri Köyü	Arpayeri=
+23465	Aşağıbozan Köyü	Aşağıbozan=
+23466	Aşağıdere Köyü	Aşağıdere=
+23467	Aşağımeydan Köyü	Aşağımeydan=
+23534	Aşıklar Köyü	Aşıklar=
+23468	Balcı Köyü, Balcı Mevkii	Balcı=
+23469	Balcı Köyü, Merkez Mevkii	Merkez=
+23470	Başdibek Köyü	Başdibek=
+23471	Belsöğüt Köyü	Belsöğüt=
+23532	Belören Köyü	Belören=
+23552	Belören Yenice Köyü	Belören Yenice=
+23472	Beyköy Köyü	Beyköy=
+23473	Bozatlı Köyü	Bozatlı=
+23474	Bükcük Köyü	Bükcük=
+23475	Candere Köyü	Candere=
+23479	Cömert Köyü	Cömert=
+23480	Danişment Köyü	Danişment=
+23481	Eksik Köyü	Eksik=
+23482	Ericek Köyü	Ericek=
+23538	Eskice Köyü	Eskice=
+20254	Fatih Mah.	Akın~|Bağlar Mücavir=|Bey~|Beyazıt@|Beyazıt/1~|Beyazıt/14~|Beyazıt/15~|Beyazıt/4~|Eşref Bitlis@|Güneş~|Hafız Ahmet Efendi@|Hafız Ahmet Efendi/16~|Hafız Ahmet Efendi/18~|Hafız Ahmet Efendi/2~|Hafız Ahmet Efendi/3~|Hafız Ahmet Efendi/30~|Hafız Ahmet Efendi/4~|Hafız Ahmet Efendi/5~|Hafız Ahmet Efendi/6~|Hafız Ahmet Efendi/7~|Hanedar~|Hilal~|Hilal/2~|Hilal/3~|Hilal/7~|Kaynarcı~|Kınık~|Kırkevler~|Kırkevler/1~|Kırkevler/2~|Lale~|N. Özdemiroğlu@|Necati Gürel@|Necati Gürel/1~|Necati Gürel/2~|Necati Gürel/3~|Osmanlı@|Osmanlı/3~|R.karaman~|Sertel~|Sertel/1~|Yolcu~|Yunus Emre@|Yunus Emre/1~|Yunus Emre/2~|Çankırı Kastamonu Yolu@|Çay~|Çağlar~|Çetiner~
+20255	Gazi Dede Mah.	Battal Gazi~|Battal Gazi/1~|Battal Gazi/2~|Dere~|Dere/1~|Garaj~|Garaj/1~|Hanaltı~|Lalezar~|Manolya~|Meteoroloji~|Meteoroloji/2~|Meteoroloji/3~|Nilüfer~|Osman Gazi~|Osman Gazi/1~|Sarı Hafız Efendi~|Sarı Hafız Efendi/1~|Yıldırım /1~|Yıldırım~|Yıldırım/2~|İnci~|İnci/1~|İpek~|İstanbul@|İstanbul Samsun@|İstanbul/1~|İstanbul/10~|İstanbul/11~|İstanbul/2~|İstanbul/4~|İstanbul/6~|İstanbul/7~|İstanbul/8~|Şehit Aziz Çavuş@|Şehit Cemil Çelik@|Şehit Cemil Çelik/1~|Şehit Cemil Çelik/2~|Şehit Cemil Çelik/3~|Şehit Cemil Çelik/4~|Şehit Cemil Çelik/5~|Şehit Cemil Çelik/6~|Şehzade~
+23483	Gaziler Köyü	Gaziler=
+23486	Gökceyazı Köyü, Memetler Mevkii	Memetler=
+23484	Gökceyazı Köyü, Merkez Mevkii	Gökceyazı=
+23485	Gökceyazı Köyü, Terziler Mevkii	Terziler=
+23539	Güneyköy Köyü	Güneyköy=
+23487	Hacıhasan Köyü	Hacıhasan=
+23488	Ilısılık Köyü	Ilısılık=
+23489	Ilısılık Köyü, Sezginler Mevkii	Sezginler=
+23491	Kaleköy Köyü	Kaleköy=
+20256	Karataş Mah.	Aleyna~|Aleyna/1~|Naili Baba@|Pınar~|Samancı Hoca~|Samancı Hoca/1~|Samancı Hoca/2~|Taşcı~|Taşlık~|Taşlık/1~|Tekke~|Tekke/1~|Testici@|Türbe~|Zincircioğlu~|Şıhlar~|Şıhlar/1~|Şıhlar/2~
+23541	Kavaklı Köyü	Kavaklı=
+23542	Kayı Köyü	Kayı=
+23492	Kazancı Köyü, Kıssenir Mevkii	Kıssenir=
+23493	Kazancı Köyü, Merkez Mevkii	Kazancı=
+23531	Keseköy Köyü	Keseköy=
+23495	Kurmalar Köyü	Kurmalar=
+23497	Kuyupınar Köyü	Kuyupınar=
+23496	Kuşçayırı Köyü	Kuşçayırı=
+23543	Kırışlar Köyü	Kırışlar=
+23494	Kıyısın Köyü	Kıyısın=
+23544	Kızılıbrık Köyü	Kızılıbrık=
+23498	Mesutören Köyü	Mesutören=
+23499	Musaköy Köyü	Musaköy=
+23521	Mülayim Yenice Köyü	Mülayim Yenice=
+23503	Mülayım Köyü, Dönaşa Mevkii	Dönaşa=
+23500	Mülayım Köyü, Düz Mevkii	Düz=
+23502	Mülayım Köyü, Murat Hacı Mevkii	Murat Hacı=
+23504	Mülayım Köyü, Mülayim Yayla Evleri	Mülayim=
+23501	Mülayım Köyü, Orta Mevkii	Orta=
+23505	Okcular Köyü, Aşağı Mevkii	Aşağı=
+23506	Okcular Köyü, Merkez Mevkii	Merkez=
+23507	Onaç Köyü	Onaç=
+23511	Saraycık Köyü	Saraycık=
+23512	Sarmaşık Köyü, Merkez Mevkii	Merkez=
+23513	Sarmaşık Köyü, Yukarı Sarmaşık Mevkii	Yukarı Sarmaşık=
+23514	Satılar Köyü	Satılar=
+23515	Sazak Köyü	Ayaklı=|Sazak=
+23546	Sağırlar Köyü	Sağırlar=
+23516	Seki Köyü	Seki=
+23517	Serçeler Köyü, Köy Merkezi Mevkii	Serçeler=
+23518	Serçeler Köyü, Serçeler Yaylası Yayla Evleri	Seçeler Yaylası=
+23547	Söğütcük Köyü	Söğütcük=
+23548	Süleymanhacılar Köyü	Süleymanhancılar=
+20258	Ulupınar Mah.	Avcılar~|Dr. Gaffur~|Dr. Gaffur/1~|Gül~|Gül/1~|H.gündüz~|Hamam~|Kamil Ertan~|Kamil Ertan/1~|Kazım Karabekir@|Kazım Karabekir/1~|Kazım Karabekir/2~|Menderes~|R.çavdar~|Susam~|Testici@|Yavan~|Yavan/1~|Yıldıray~|Çimen~|Çiçek~|Çiğdem~|Şehit Aziz Çavuş@|Şeyh Hüseyin Tüfekçi~
+23519	Yalaycık Köyü	Yalaycık=
+20259	Yavuz Mah.	Bahar~|Bayrak~|Göktaş~|Göktaş/1~|Göktaş/2~|Göktaş/3~|Göktaş/4~|Kara Dede/1~|Kara Dede/2~|Kara Dede/3~|Kara Dede/4~|Kara Dede/5~|Karadede@|Kazım Karabekir@|Kazım Karabekir/2~|Kazım Karabekir/6~|Pınar~|Pınar/1~|Şeyh Efendi~
+23551	Yaylaören Köyü	Yaylaören=
+23520	Yazıköy Köyü	Yazıköy=
+20260	Yeni Mah.	Aleyna~|Bayır Çıkmazı~|Darendeli~|Dik~|Fırın~|Fırın/1~|Hamam~|Hanaltı~|Hanedar~|Kemal Usta Çıkmazı~|Kocaali~|Kocaali/1~|Kozanoğlu~|Kozanoğlu/1~|Kozanoğlu/2~|Mehmet Efendi~|Müderris Efendi~|N. Özdemiroğlu@|Naili Baba@|Osmanlı@|Recai Tuncel@|Taşcı~|Taşcı/1~|Testici@|Türbe~|Türbe/1~|Türbe/2~|Türbe/3~|Türközü~|Türközü/1~|Türközü/2~|Çerçioğlu~|İstanbul@
+23553	Yenidemirciler Köyü	Yenidemirciler=
+23522	Yerkuyu Köyü	Yerkuyu=
+20264	Yeşildumlupınar Köyü, Merkez Mevkii	Aydın=|Barbaros=|Bağdat=|Bağdat-~|Bulut=|Demirci=|Gül=|Gül Pınar=|Gül Pınar-~|Harmanlar=|Kanuni=|Karabayır=|Kurşunlu=|Kurşunlu-~|Okul=|Orman=|Pehlivan=|Pınar=|Yalçın=|Yavuz=|Yazıcıoğlu=|Yerli=|Yurt=|Yıldırım=|Öztürk=
+20261	Yukarı Mah.	Akgün~|Akgün/1~|Cemil İpekoğlu~|Emre~|Eşref Bitlis@|Eşref Bitlis/1~|Güven~|Güven/1~|Güven/2~|Hafız Ahmet Efendi@|Işık~|Kayılı~|Kayılı/1~|Köroğlu~|Naili Baba@|Necati Gürel@|Necati Gürel/5~|Nuh~|Sevil~|Çakır Hoca~|Çamlıca~|Çınar /1~|Çınar~|Şahin Ağa~|Şehit M. Oğulları~|Şeyh Şamil@|Şeyh Şamil/1~
+23523	Yukarıbozan Köyü	Yukarıbozan=
+23524	Yukarıdere Köyü, Kışla Yayla Evleri	Kışla=
+23525	Yukarıdere Köyü, Menşer Mevkii	Menşer=
+23526	Yukarıdere Köyü, Merkez Mevkii	Merkez=
+23527	Yukarımeydan Köyü	Yukarımeydan=
+23528	Yuvademirciler Köyü, Başaraz Mevkii	Başaraz=
+23529	Yuvademirciler Köyü, Merkez Mevkii	Merkez=
+23530	Yuvasaray Köyü	Yuvasaray=
+20262	Ziraat Mah.	Derbent~|Doruk~|E-80 Karayolu@|E80 Karayolu/1~|E80 Karayolu/2~|E80 Karayolu/3~|Erler~|Erler/1~|Gencer~|Hafız Ahmet Efendi/18~|Hürriyet~|Hürriyet/2~|Köse~|Kışla~|Kışla/1~|M.gurbetçi~|Osmanlı@|Osmanlı/1~|Osmanlı/2~|Yüncüoğlu~|Çankırı Kastamonu Yolu@|Çilingir~|İstanbul@|İstanbul Samsun@|İstanbul/3~|İstanbul/5~|İstanbul/9~
+23476	Çaltıpınar Köyü	Çaltıpınar=
+23477	Çatak Köyü	Çatak=
+23478	Çeltikbaşı Köyü	Çeltikbaşı=
+140178	Çeltikbaşı Köyü, Ayaklı Mevkii	Ayaklı=
+23535	Çörekçiler Köyü, Lüllük Mevkii	Lüllük=
+23537	Çörekçiler Köyü, Yaka Mevkii	Yaka=
+23536	Çörekçiler Köyü, Yarağzı Mevkii	Yarağzı=
+23509	Ödemiş Köyü, Asar Mevkii	Asar=
+23510	Ödemiş Köyü, Orta Mevkii	Orta=
+23508	Ödemiş Köyü, Saray Mevkii	Saray=
+23545	Ömerli Köyü	Ömerli=
+23540	İkikavak Köyü	İkikavak=
+23490	İnköy Köyü	İnköy=
+20257	Şentepe Mah.	Değirmen~|Güven~|Harmankaşı~|Işık~|Kara Dede/2~|Kara Dede/4~|Karadede@|Kazım Kırkpınar~|Kuruçay~|Mehmetcik~|Mıcık~|Naili Baba@|Naili Baba/4~|Nazlı~|Nazlı/1~|Nazlı/2~|Pınar~|Sağlık~|Tatlım~|Tekke~|Uğurlu~|Uğurlu/1~|Şeyh Efendi/1~
+23549	Şeyhyunus Köyü, Merkez Mevkii	Merkez=
+23550	Şeyhyunus Köyü, Şeyhyunus Mezrası	Şeyhyunus=

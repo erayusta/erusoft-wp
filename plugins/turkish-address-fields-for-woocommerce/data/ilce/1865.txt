@@ -1,0 +1,44 @@
+30070	21haziran Mah.	1~|2~|2/1~|21haziran1~|Ankara@|Atatürk@|Bılınmeyen15~|Bılınmeyen20~|Bılınmeyen21~|Bılınmeyen27~|Cumhuriyet Myd.|Değirmendere~|Eski Bayburt@|Mezarlık~|Pazaryolu İspir@|Ptt@|Turgut Özal@|Çıkmaz~|İstiklal@
+30071	Akbulut Mah.	Bılınmeyen23=|Erzurum İspir Yolu@|Geçit=|Geçit/1=|Geçit/2=
+30063	Alıçlı Mah.	Bahçeler~|Bılınmeyen13~|Bılınmeyen30~|Camii~|Hacılar~
+190451	Ambaralan Mah.	Ambaralan=|Ambaralan Yayla Evi=
+190453	Ayçukuru Mah.	Ayçukuru=
+190455	Bayındır Mah.	Bayındır=
+30064	Burçaklı Mah.	Burçaklı1~|Bölükemin=|Bılınmeyen15~|Çayırbaşı=
+190457	Büyükdere Mah.	Büyükdere=|Büyükdere Yayla Evi-~
+190459	Cennetpınarı Mah.	Cennetpınarı=|Cennetpınarı Yayla Evi=
+190461	Cevizlidere Mah.	Cevizlidere=
+30065	Deliktaş Mah.	Bılınmeyen1~|Bılınmeyen2~|Deliktaş 2~|Deliktaş 3~|Erzurum İspir Yolu@|Geçit/2=|Pazaryolu İspir@|Sağırtaş=
+190469	Demirgöze Mah.	Demirgöze=
+190471	Dikmetaş Mah.	Dikmetaş=
+190473	Esenyurt Mah.	Esenyurt=|Esenyurt/1=
+190475	Gölyanı Mah.	Gölyanı=|Gölyanı Yayla Evi-~
+190477	Göztepe Mah.	Göztepe=|Göztepe Yayla Evi=|Göztepe/1=
+190479	Gülçimen Mah.	Gülçimen=|Gülçimen Yayla Evi-~
+190481	Güneysu Mah.	Güneysu=
+190483	Hacılar Mah.	Hacılar_1=
+190485	Karakoç Mah.	Karakoç=|Karakoç/1=
+190487	Karataş Mah.	Bilanos Mezra=|Cemalgürsel=|Fevziçakmak=|Karatas Mezra=|Karataş Yayla Evi=|Nenehatun=
+190491	Konakyeri Mah.	Altınoluk=|Gülpınar=|Merkez=|İstikbal=
+190493	Korkutköy Mah.	Korkutköy=
+190495	Kozlu Mah.	Kozlu=|Kozlu/1=
+190499	Kumaşkaya Mah.	Kumaşkaya~|Kumaşkaya Yayla Evi~
+190501	Kuymaklı Mah.	Kuymaklı=|Kuymaklı Mezra-~|Kuymaklı Yayla Evi=
+190497	Köşeyolu Mah.	Köşeyolu=|Köşeyolu/1=|Köşeyolu/2=
+30066	Kümbettepe Mah.	Bılınmeyen1~|Bılınmeyen24~|Bılınmeyen3~|Bılınmeyen6~|Eski Bayburt@|Kale~|Kümbettepe/1~|Çeşme~
+190489	Kılıççı Mah.	Kılıççı=
+190503	Laleli Mah.	Laleli=
+30067	Merkez Mah.	Bılınmeyen1~|Bılınmeyen2~|Bılınmeyen22~|Bılınmeyen26~|Erzurum İspir Yolu@|Konak~|Pazaryolu İspir@|Taşaltı~
+190505	Meşebaşı Mah.	Meşebaşı=|Meşebaşı/1=
+190507	Pamukludağ Mah.	Pamukludağ=
+190509	Sadaka Mah.	Sadaka=|Sadaka Yayla Evi~
+190511	Sergenkaya Mah.	Sergenkaya=|Sergenkaya Yayla Evi~
+30068	Süleymanbağı Mah.	Bılınmeyen14~|Bılınmeyen25~|Bılınmeyen7~|Eski Bayburt@|Şehit Hüseyin Gökçimen=|Şehit Hüseyin Gökçimen/1=
+190515	Yaylalı Mah.	Yaylalı=
+190517	Yaylaözü Mah.	Yaylaözü=
+30069	Yeni Mah.	Beşevler=|Beşevler/1=|Beşevler/2=|Beşevler/3=
+190519	Yiğitbaşı Mah.	Yiğitbaşı=|Yiğitbaşı Yayla Evi-~
+190463	Çatakbahçe Mah.	Çatakbahçe=|Çatakbahçe/1=
+190465	Çaydere Mah.	Çaydere=|Çaydere Mezra=|Çaydere Yayla Evi-~
+190467	Çiftepınar Mah.	Çiftepınar=|Çiftepınar/1=|Çiftepınar/2=
+190513	Şehitlik Mah.	Şehitlik=

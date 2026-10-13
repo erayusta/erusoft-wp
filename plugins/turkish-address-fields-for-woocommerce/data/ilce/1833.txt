@@ -1,0 +1,33 @@
+185445	Ahılar Mah.	Ahiler~
+185447	Akçakaya Mah.	Akçakaya~
+185443	Ağaççılar Mah.	Ağaççılar~
+185449	Bacıköy Mah.	Bacıköy~
+185451	Bakacak Mah.	Bakacak~
+185453	Bayırakçaşehir Mah.	Eskiköy~|Merkez~|Çeşme~
+185455	Cihadiye Mah.	Cihadiye~
+61742	Cumhuriyet Mah.	Adalet~|Adalı~|Akasya~|Alp~|Alper Balaban~|Ankara@|Arzu~|Ata~|Ay~|Aydın~|Açelya~|Civan~|Cumhuriyet%|Dere~|Dua Meydanı~|Ebru~|Ender~|Erguvan~|Fatih@|Firuze~|Fulya~|Gazi Osman Paşa@|Gelincik~|Gürbüz1~|Hanımeli~|Hatıra~|Hüseyin Türker~|Kanarya~|Karacaoğlan@|Karanfil~|Karbeyaz~|Kardelen~|Kaymakam Yüksel Borazanoğlu~|Kervan~|Kiremitlik~|Konuk~|Kortepe@|Kumru~|Kınalı~|Kırçiçeği~|Lale~|Leylak~|Mehtap~|Mert~|Meşale~|Mine~|Mithatpaşa@|Muharrem Çoğal~|Namık Kemal@|Necatibey~|Nergis~|Nilüfer~|Orhangazi@|Papatya~|Park~|Paşa~|Safran~|Sami Karadayı~|Sanayii~|Sancak~|Sarmaşık~|Sedat Eryiğit@|Selvi~|Seçkin~|Simge~|Soylu~|Sultan~|Sümbül~|Sıla~|Talatpaşa@|Tatlı~|Türkmen~|Ulus~|Uygar~|Vatan@|Yasemin~|Yıldız1~|Zambak~|Ziya Paşa@|Ziyaret@|Çavuş~|Çavuşali~|Çağlayan~|Çiğdem~|Özel~|İlke~|İrfan Efendi~|Şafak~|Şehit Ersin Yener~|Şehit Hüseyin İpekçioğlu@|Şehit Mustafa Çalık@|Şehit Osman Çam~|Şehit Yılmaz Akkanoğlu~
+61743	Elperek Mah.	Abdülhamithan@|Ahmet Yesevi~|Akıncılar~|Aladdin Sezer@|Alparslan~|Altay~|Ankara@|Ateşaliler~|Aytaç~|Bahar~|Barbaros~|Bestekar Mehmet Nazir Balcı~|Bilge~|Botanik~|Böke Dere~|Celalettin Çelik~|Cemal Yirmibeş~|Cengizhan~|Destan~|Dolamaçbaşı~|Doğa~|Dr. Fakıh~|Dr. Serdar Serdaroğlu~|Duru~|Edalı~|Ekin~|Emek~|Emir Sultan~|Ertuğrul Gazi~|Esentepe~|Eser~|Ethem Efendi~|Eyüp Sultan@|Eğitim~|Farabi~|Fatih@|Foto~|Gelişim~|Gevgirli~|Gönül~|Gülümser~|Gümüş~|Gürbüz~|Güzel~|Hamam~|Hami~|Harman~|Hasan Çavuş~|Hayat~|Huzur~|Karaca~|Kardeş~|Kavakdibi~|Kazandere~|Kazım Karabekir~|Kemer Köprü~|Keser~|Keşanlı~|Konak Cad.1.geçit@|Konak Cad.2.geçit@|Konak Cad.3.geçit@|Konak Cad.4.geçit@|Konak Cad.5.geçit@|Konak@|Kuyulu~|Küçük Hafız~|Kılıç Aslan~|Mahmut Hüdai~|Malazgirt~|Mehmet Akif@|Meltem~|Metehan@|Mevlana@|Mihmandar~|Mimar Sinan@|Mithatpaşa@|Molla Fenari~|Müezzinzade~|Nar Ağacı~|Necip Fazıl~|Neşe~|Nusret İpekçioğlu~|Orhan Kemal~|Orman~|Oruç Reis~|Oğuzhan~|Piri Reis~|Prof. Derya Dinçer@|Refet Bele~|Sait Faik~|Sakin~|Saray~|Sağlık~|Semerciler~|Sevgi~|Somuncubaba~|Tahıl Pazarı~|Tevfik Fikret~|Turgut Reis~|Türbe~|Türker~|Türkocağı@|Uysal~|Uğurlu~|Yahya Kemal@|Yunus Emre~|Yusuf Yalçın~|Yıldırım~|Ziya Gökalp@|Çamlıca~|Çetin~|Çöl Deniz~|Çınar Dibi~|Ömer Seyfettin~|İbni Sina~|İmar~|İmren~|Şahin~|Şehit Temel Şimşir~|Şen~|Şerafettin Çelik~|Şht Piyade Uzman Çavuş Halil Demir~|Şifa~|Şirin~
+185463	Eskiyayla Mah.	Eskiyayla~
+185461	Eğriçay Mah.	Eğriçay~
+185465	Fevziye Mah.	Fevziye~
+185485	Gonca Mah.	Merkez~|Yayla~
+185467	Gökgöz Mah.	Aşağı~|Yukarı~|Şehit Polis Peyami Altun@
+185469	Hayrettin Mah.	Hayrettin~
+185471	Hüseyinli Mah.	Hüseyinli~
+185475	Kadıköy Mah.	Kadıköy~
+185477	Karapınar Mah.	Karapınar~
+185479	Kazımiye Mah.	Kazımiye~
+185481	Kemaliye Mah.	Kemaliye~
+185483	Mekece Mah.	Mekece~
+185487	Oruçlu Mah.	Oruçlu~|Üçevler~
+185491	Paşalar Mah.	Merkez~|Paşalar~|Üçevler~
+185493	Pınarlı Mah.	Pınarlı~
+185499	Teşvikiye Mah.	Teşvikiye~
+185501	Turgutlu Mah.	Turgutlu~
+61744	Yenice Mah.	Abdullah Ateş~|Akhisar~|Ankara@|Atatürk%|Balaban~|Bayrak~|Bayır~|Bereket~|Buhara~|Camii Arası~|Cihadiye~|Doğan~|Dr. Fevziye Çevik~|Dr.ali Yener~|Dumlupınar~|Durak~|Ergenekon@|Estergon~|Eti~|Eğrek~|Fatih@|Fatma Hanım~|Fatmacık~|Gediz~|Göktürk~|Göredenler~|Güner~|Güneş~|Hafız Fahri~|Halide Edip Adıvar~|Hatip~|Hür~|Hürriyet~|Irmak~|Kaan~|Kantar~|Karaca~|Kocatepe~|Kosova~|Kültür~|Lojmanlar~|Malazgirt~|Menekşe~|Meriç~|Moru~|Motel~|Müftüzade~|Nehir~|Nene Hatun~|Niğbolu~|Nur~|Orhun~|Petek~|Plevne~|Profesör Doktor Volkan Tuğcu~|Ray~|Reis~|Sakarya~|Salih~|Santral~|Selanik~|Selçuk~|Sema~|Sobacı Bahri~|Sümer~|Sıradutlar~|Tuna~|Uzun~|Vakıf~|Varna~|Yavuz~|Yağmur~|Yeşil~|Yeşim~|Yıldız~|Zeytin~|Zübeyde Hanım@|Çardak~|Çarşı Cami~|Çayırova~|Özlem~|İstasyon@|İstiklal~|Şahin1~|Şehit Onb. Şükrü Çetin~|Şerif Hoca~|Şirin1~
+185457	Çardak Mah.	Çardak~
+185459	Çilekli Mah.	Çilekli~
+185489	Özbek Mah.	Özbek~
+185473	İsabalı Mah.	İsabalı~
+185495	Şahmelek Mah.	Bağlar~|Karşı~|Merkez~|Şahmelek@
+185497	Şeyhvarmaz Mah.	Şeyhvarmaz~

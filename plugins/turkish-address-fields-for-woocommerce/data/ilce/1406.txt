@@ -1,0 +1,76 @@
+21543	Abdullah Paşa Mah.	Abdullahpaşa 1~|Bağlar~|Havuz~|Hilmi Fırat@|Hükümet@|Kaldırım 1~|Kaldırım~|Karataş 1~|Karataş 2~|Karataş 3~|Karataş~|Taşlık~|Yeni Şehir/23=|Zikri Akın~|Zikri Akın/2~|Zübeyde Hanım@|Çeşme 1~|Çeşme~|İsimsiz 4~|Şahsuvaroğlu@
+29160	Akdoğu Köyü	Akdoğu=
+29207	Akçayazı Köyü	Akçayazı=
+29161	Altıntaş Köyü	Altıntaş=
+29162	Atma Köyü	Atma=
+29196	Ağıldere Köyü, Apuşta Mezrası	Apuşta=
+29193	Ağıldere Köyü, Merkez Mevkii	Ağıldere=
+29194	Ağıldere Köyü, Orta Ağıldere Mevkii	Orta Ağıldere=
+29195	Ağıldere Köyü, Yukarı Ağıldere Mevkii	Yukarı Ağıldere=
+29210	Balkaya Köyü	Balkaya=
+29208	Bağcuğaz Köyü, Merkez Mevkii	Merkez=
+29209	Bağcuğaz Köyü, Sağ Mezrası	Sağ=
+29165	Bağlıca Köyü	Bağlıca=
+29164	Bağıştaş Köyü, Bahçecik Mezrası	Bahçecik=
+29163	Bağıştaş Köyü, Merkez Mevkii	Bağıştaş=
+29167	Boyalık Köyü	Boyalık=
+29166	Boyalık Köyü, Hasanova Mezrası	Doruksaray=|Hasanova=
+29168	Bozyayla Köyü	Bozyayla=
+29211	Bozçalı Köyü	Bozçalı=
+29169	Bürüncek Köyü	Bürüncek=
+29192	Büyükarmutlu Köyü	Büyükarmutlu=
+29212	Büyükgümüşlü Köyü	Büyükgümüşlü=
+29170	Büyükköy Köyü, Merkez Mevkii	Büyükköy=
+29171	Büyükköy Köyü, Taşkonak Mevkii	Taşkonak=
+29218	Dikmen Köyü	Dikmen=
+29178	Dolugün Köyü	Dolugün=
+29199	Doruksaray Köyü	Doruksaray=
+29179	Dostal Köyü	Dostal=
+29177	Doğan Köyü	Doğan=
+21544	Fatih Mah.	Emin Taylan~|Güllük~|Hacı Halil Paşa@|Hüsnü Oğuz~|Yeni Şehir@|Yeni Şehir/1~|Yeni Şehir/10~|Yeni Şehir/12~|Yeni Şehir/2~|Yeni Şehir/3~|Yeni Şehir/4~|Yeni Şehir/5~|Yeni Şehir/6~|Yeni Şehir/7~|Yeni Şehir/8~|Yeni Şehir/9~|Zikri Akın~|Zikri Akın/11@|Zikri Akın/2~|İsmail Eraslan~|İsmail Eraslan/1~|İsmail Eraslan/2~|İstasyon@
+29219	Güngören Köyü	Güngören=
+29180	Kapıkaya Köyü	Kapıkaya=
+29200	Karakaya Köyü	Karakaya=
+29181	Kayacık Köyü	Kayacık=
+29182	Kaymaklı Köyü	Kaymaklı=
+21546	Kazım Karabekir Mah.	Ardıçlık~|Bademlik~|Fevzi Çakmak@|Hilmi Fırat@|Hükümet@|Nuri Tiryaki@|Nuri Tiryaki/1~|Nuri Tiryaki/2~|Onevler~|Taşlık~|Yol2~|Yol301~|Yol4~|Yol5~|Yol6~|Yol7~|Yol8~|Zübeyde Hanım@|Zübeyde Hanım/25@|Çamlık@|Çamlık/1~|Çamlık/2~|İsimsiz 1~|İstasyon@|Şadi Kömürcü~|Şahsuvaroğlu@
+29221	Konukçu Köyü	Konukçu=
+29222	Kozluca Köyü	Kozluca=
+29223	Kuran Köyü	Kuran=
+29205	Kuruçay Köyü, Merkez Mevkii	Kuruçay=
+29206	Kuruçay Köyü, Tardere Mevkii	Tardere=
+29224	Kuzkışla Köyü	Kuzkışla=
+29201	Küçükarmutlu Köyü	Küçükarmutlu=
+29225	Küçükgümüşlü Köyü	Küçükgümüşlü=
+29183	Leventpınar Köyü	Leventpınar=
+29184	Ortatepe Köyü	Ortatepe=
+29185	Sabırlı Köyü	Sabırlı=
+29186	Sarıkonak Köyü	Sarıkonak=
+29187	Sarıkonak Köyü, Küplüce Mezrası	Küplüce=
+29227	Sarıpınar Köyü	Sarıpınar=
+29188	Sularbaşı Köyü	Sularbaşı=
+29228	Sütlüce Köyü	Sütlüce=
+29229	Tabanlı Köyü	Tabanlı=
+29203	Turgutlu Köyü	Turgutlu=
+29202	Turgutlu Köyü, Bağderesi Mezrası	Bağderesi=
+29189	Uluyamaç Köyü	Uluyamaç=
+29230	Uğur Köyü	Kuzkışla=|Uğur=
+29190	Yakuplu Köyü	Yakuplu=
+29231	Yalıngöze Köyü	Yalıngöze=
+29191	Yaylapınar Köyü	Yaylapınar=
+29204	Yılmaz Köyü	Yılmaz=
+29173	Çaltı Köyü	Çaltı=
+29172	Çaltı Köyü, Yeşilyurt Mezrası	Yeşilyurt=
+29197	Çaylı Köyü, Merkez Mevkii	Çaylı=
+29198	Çaylı Köyü, Yeşilyurt Mezrası	
+29214	Çayyaka Köyü	Çayyaka=
+29213	Çayyaka Köyü, Garipçay Mezrası	Garipçay=
+29215	Çiftlik Köyü	Çiftlik=
+29175	Çilesiz Köyü	Çilesiz=
+29174	Çilesiz Köyü, Elmacık Mezrası	Elmacık=
+29216	Çobanlı Köyü	Çobanlı=
+29176	Çöpler Köyü	Maden Sahası=|Çöpler=
+29217	Çörekli Köyü	Çörekli=
+29226	Özlü Köyü	Özlü=
+21545	İbrahim Çeçen Mah.	Fırat-@|Hacı Ali Şeker@|Halil Yıldırım~|Hasan Güler~|Hasan Çevik~|Hüseyin Budak~|Kanber Güz@|Kazım Güler~|Sadık Alp@|Sokak/1~|Yeni Şehir/11~|Yeni Şehir/12~|Yeni Şehir/6~|Yeniyol/10~|Yeniyol/11~|Yeniyol/12~|Yeniyol/2~|Yeniyol/3~|Yeniyol/4~|Yeniyol/5~|Yeniyol/6~|Yeniyol/7~|Yeniyol/8~|Yeniyol/9~|Yeniyol/91~|Yeniyol1~|Yeşilyurt=|Yol1~|Yol201~|Yol3~|Yol47~|Yol93~|İbrahim Öztürk@|İsmet Öz@|İsmet Öz/1~
+29220	İslamköy Köyü	İslamköy=

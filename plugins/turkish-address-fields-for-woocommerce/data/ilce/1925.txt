@@ -1,0 +1,25 @@
+184811	Abdürrezzak Mah.	1351~|1352~|1353~|1354~|Konuklu@|Tahirağa@
+184799	Akçukur Mah.	1401~|1402~|1403~|Akçukur~|Ertuğrul Gazi@|Türkmen@
+184797	Ağacık Mah.	1301~|1302~|1303~|1304~|1305~|1306~|Ağacık~|Necip Fazıl@
+184801	Bakırlı Mah.	1451~|1452~|1453~|1454~|1455~|1456~|1457~|1458~|Aşağı~|Ihlamur@|Karadeniz@|Muhacir@|Muhacır~|Türkoğlu@|Yukarı~
+184803	Ceylandere Mah.	1501~|1502~|1503~|1504~|Aşağı~|Karadeniz@|Necmettin Erbakan@|Potoğlu@|Yeni~
+61606	Damlık Mah.	313~|351~|352~|353~|354~|355~|356~|357~|358~|359~|360~|361~|362~|363~|364~|365~|366~|367~|368~|369~|370~|Alparslan@|Yavuz Sultan Selim@
+61612	Devlet Mah.	19 Mayıs@|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|44~|Adnan Menderes@|Vatan@|Şehit Hacı Uzun@
+61607	Değirmencik Mah.	301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|Fatih Sultan Mehmet@|Yavuz Sultan Selim@
+184807	Doğancı Mah.	1.@|1551~|1552~|1553~|1554~|1555~|1556~|1557~|Merkez~|Mevlana@|Sebiller~
+139727	Ferizliosb Mah.	1@|2@|3@|4@|5@
+184793	Gölkent Mah.	Ak~|Alkan~|Atatürk@|Bahar~|Bayraktar Çıkmazı~|Bülbül~|Camii~|Dere~|Erenler~|Esentepe@|Gümüş~|Kalebayırı@|Karanfil~|Kaymak~|Kıbrıs@|Kılıç~|Kırım~|Mehtap~|Menderes@|Nehirboyu@|Odacı~|Okul~|Park~|Sakarya@|Selanik@|Taşyar Çıkmazı~|Tekin~|Ulus@|Vatan (göl)@|Vatan (koyunağalı)@|Vatan@|Vişne (koyunağalı)~|Vişne~|Yüzbaşı~|Çelik~|Çevrik@|Çeşme~|Çimen~|Özgür~|Öztürk Çıkmazı~|İnönü@|İstanbullu~|İstiklal@|Şen~|Şht.remzi Yılmaz@
+184825	Hocaoğlu Mah.	1.@|1601~|Hocaoğlu~|Orhangazi@
+184809	Karadiken Mah.	1651~|Hasan Polatkan@|Karadiken~
+61610	Kemalpaşa Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|144~|145~|146~|Cumhuriyet@|Egemen@|Fevzi Çakmak@|Halit Molla@|Vatan@|Şehit Hacı Uzun@|Şehit Hakan Bayram@
+184813	Kusca Mah.	1701~|1702~|1703~|1704~|1705~|1706~|Ihlamur@|Kusca~|Muhsin Yazıcıoğlu@
+184815	Nalköy Mah.	1751~|1752~|1753~|1754~|1755~|Nalköy~|Osmanlı@
+184805	Osmanağa Çiftliği Mah.	1801~|Abdülhamit@|Kale@|Çiftlik~
+184817	Sarıahmetler Mah.	1851~|1852~|1853~|1854~|Fatih@|Osmanlı@|Sarıahmetler~
+184819	Seyifler Mah.	1901~|1902~|1903~|1904~|Kale@|Selçuklu@|Seyifler~
+184795	Sinanoğlu Mah.	Abdul Kadir~|Acı Elma~|Adnan Kahveci@|Ahmet Çavuş@|Ankara@|Ara~|Atatürk (yenicamii)@|Atatürk@|Aydın~|Bahar~|Barbaros~|Beşevler@|Bican~|Bozpınar (yenicamii)~|Bozpınar~|Büyükcamii@|Camii~|Dik~|Eskiçeşme~|Fabrika@|Fatih Sultan Mehmet~|Güney~|Harmanlık~|Karadeniz (yenicamii)@|Karadeniz@|Karasu@|Kayıkbaşı~|Kaşıkçı~|Kurukum@|Kuyuüstü~|Kösekapı@|Lale~|M Albay~|Namık Kemal~|Okul~|Osmanpaşa@|Pergel~|Sakarya@|Saklı~|Seyit Onbaşı (şose)@|Seyit Onbaşı@|Turgut Reis~|Tütünlük@|Yeni Çeşme~|Yenicamii@|Ziya Gökalp~|Çiftkuyular (yenicamii)~|Çiftkuyular@|Çiçek (yenicamii)~|Çiçek~|Çönge~|İstiklal@|Şehit Cihan Demirel (yenicamii)~|Şehit Cihan Demirel~
+184821	Teberik Mah.	1951~|1952~|Plevne@|Teberik~|Çayırlar@
+184823	Tokat Mah.	2001~|Diriliş@|Tokat~|Çayırlar@
+61611	Yeni Mah.	Bekaroğlu~|Halit Molla@|Kiraz~|Meşe~|Çengel~
+61608	İnönü Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|3~|30~|31~|32~|33~|34~|35~|36~|38~|39~|4~|40~|41~|42~|43~|44~|45~|5~|6~|66~|67~|68~|69~|7~|70~|71~|72~|73~|74~|8~|81~|82~|83~|84~|9~|Adnan Menderes@|Ahmet Dülger@|Cumhuriyet@|Egemen@|Fatih Sultan Mehmet@|Fevzi Çakmak@|Vatan@|Yunus Emre@
+61609	İstiklal Mah.	251~|252~|253~|255~|256~|258~|259~|260~|261~|262~|Adnan Menderes@|Hürriyet@|Kurtuluş@|Şehit Hacı Uzun@

@@ -1,0 +1,76 @@
+188333	Abdalcık Mah.	Abdalcık=
+188273	Akören Mah.	Akören=
+188145	Altıntaş Mah.	Altıntaş=|Ardıçlayla=|Dumanlıoğlu=
+21749	Bahçelievler Mah.	1 Nolu Bahçeli~|1 Nolu Çay~|1.bekirefendi~|1.karasu~|1.pamukana~|1.serdar~|1.yeşilli~|2.bekirefendi~|2.karasu~|3.karasu~|46 Evler 1 Nolu~|46 Evler 2 Nolu~|46 Evler 3 Nolu~|46 Evler 4 Nolu~|Bahçeli~|Bekir Efendi~|Erzincan@|Erzurum@|Fetih~|Hamamönü 1 Nolu~|Hamamönü 2 Nolu~|Hamamönü 3 Nolu~|Hamamönü~|Mithat Bey=|Nenehatun~|Ova~|Pamukana~|Serdar~|Trabzon@|Yeşilli~|Yeşilli/2~|Yeşilli/3~|Çay 1~|Çay~
+188157	Ballıtaş Mah.	Ballıtaş=
+188159	Bozburun Mah.	Bozburun=|Kopdağı=|Pırnakaban=
+188163	Büyükgeçit Mah.	Büyükgeçit=
+21750	Cahit Aybar Mah.	Mehmet Akif Ersoy@|Orbay~|Postahane@|Tuzla@|Çağlayan~|İstanbul@
+188173	Dallı Mah.	Dallı=
+188283	Dağyurdu Mah.	Dağyurdu=
+188177	Demirkıran Mah.	Demirkıran=|Haramidere Mevki=|Çomoğlu=
+188287	Dereköy Mah.	Dereköy=|Yenidereköy=
+188335	Düzyurt Mah.	Düzyurt=
+21752	Emek Mah.	1 Nolu Hapishane~|2 Nolu Hapishane~|2 Nolu Hapishane/1~|3 Mart~|3 Nolu Hapishane~|4 Nolu Hapishane~|Emek~|Erzincan@|Erzincan1~|Erzincan2~|Hapishane Arkası~|Trabzon@|Tuzla@|Tuzla1~|Çukurova~
+188277	Esentepe Mah.	Bağırsak=|Kavurmaçukuru=
+188291	Eyüpoğlu Mah.	Eyüpoğlu=
+188337	Gökçebük Mah.	Gökçebük=|Gökçebük-=
+188339	Güllüdere Mah.	Güllüdere=
+188185	Gümüşseren Mah.	Erzincan@|Gümüşseren=
+188189	Güneyçam Mah.	Güneyçam=|Yaylımlı=
+188193	Gürkaynak Mah.	Gürkaynak=
+188297	Hacıbekir Mah.	Hacıbekir=
+188195	Hacıhamza Mah.	Erzincan@|Hacıhamza=|Sarıbaba1~
+188299	Hacımahmut Mah.	Hacımahmut=|Küçükova=
+188197	Hatuncuk Mah.	1.kümeevler=|Hatuncuk=|Çiftlik=
+188303	Haydarhacı Mah.	Haydarhacı=
+188129	Kandilli Mah.	Ahmet Yasevi@|Dar~|Dar/1~|Dar/2~|Dar/3~|Dr Tayyip Cinisli@|Dr Tayyip Cinisli/1~|Dr Tayyip Cinisli/2~|Erzurum@|Fatih Sultan~|Kandilli İstasyon@|Kandilli İstasyon/1~|Kandilli İstasyon/2~|Kandilli İstasyon/3~|Kandilli İstasyon/4~|Karabıyık=|Kızıl~|Ortabahçe=|Tazegül=|Türker=|Türker/1~|Türker/10~|Türker/11~|Türker/12~|Türker/13~|Türker/14~|Türker/2~|Türker/3~|Türker/4~|Türker/5~|Türker/6~|Türker/7~|Türker/8~|Türker/9~|Türker15~
+188199	Kapıkale Mah.	Kapıkale=
+188201	Karahasan Mah.	Karahasan=
+188203	Karasu Mah.	Ardıçyayla=|Karasu=
+188307	Kavurmaçukuru Mah.	Kavurmaçukuru=
+188309	Koçbaba Mah.	Koçbaba=
+188207	Koşapınar Mah.	Koşapınar=
+188211	Kurtmahmut Mah.	Abidin Oğlu=|Kurtmahmut=|Selim Haydar=
+188221	Kükürtlü Mah.	Erzincan@|Hacıhamza=|Kükürtlü=|Maden=|Sarıbaba1~
+188217	Küçükgeçit Mah.	Erzurum@|Küçükgeçit=
+188311	Küçükova Mah.	Küçükova=
+21754	Kıbrıs Mah.	1 Nolu Demirkıran~|1 Nolu Derebaşı~|1 Nolu Gaziler~|1 Nolu Menekşe~|1 Nolu Orhangazi~|1 Nolu Yunusemre~|2 Nolu Demirkıran~|2 Nolu Derebaşı~|2 Nolu Gaziler~|2 Nolu Orhangazi~|2 Nolu Parlak~|2 Nolu Yunusemre~|3 Nolu Demirkıran~|3 Nolu Orhangazi~|3 Nolu Parlak~|3 Nolu Yunusemre~|4 Nolu Yunusemre~|5 Nolu Demirkıran~|5 Nolu Yunusemre~|Astsubay Lojmanları~|Derebaşı~|Gaziler~|Karahasan=|Menekşe~|Orhangazi~|Parlak~|Postahane@|Tugay4~|Yunus Emre~
+188343	Merdivenköy Mah.	Merdivenköy=|Merdivenköy Mücavir=
+188183	Merkez Bucağı Gölören Mah.	Koşapınar=|Merkez Bucağı Gölören=
+188169	Merkez Bucağı Çatören Mah.	Merkez Bucağı Çatören=
+21755	Meydan Mah.	1 Nolu Ahmet Bey~|1 Nolu Kaledibi~|1 Nolu~|1 Nolu Yenişehir=|1 Nolu Çobanoğlu~|2 Nolu~|2 Nolu Çobanoğlu~|3 Nolu~|Ahmet Bey~|Değirmen~|Erzurum@|Kaledibi~|Koçubeyoğlu~|Necip Fazıl Kısakürek~|Subaşı~|Subaşı1~|Yenişehir=|Çobanoğlu~
+188225	Mezrea Mah.	Mezrea=
+188229	Musatanışman Mah.	Musatanışman=
+188293	Nahiye Gölören Mah.	Nahiye Gölören=
+188231	Ocaklı Mah.	Ocaklı=
+188313	Ovacık Mah.	Ovacık=
+188239	Pırnakaban Mah.	Hüseyin Efendi Komu=|Kopdağı=|Pırnakaban=
+188243	Saptıran Mah.	Saptıran=
+188247	Sarıbaba Mah.	Sarıbaba=
+188251	Sazlı Mah.	Saptıran=|Sazlı=
+188253	Taşağıl Mah.	Pırnakaban=|Taşağıl=
+188257	Taşlıçayır Mah.	Taşlıçayır=
+188261	Tecer Mah.	Tecer=
+188317	Tepsicik Mah.	Tepsicik=
+188319	Tokça Mah.	Tokça=
+188265	Topalçavuş Mah.	Ocaklı=|Topalçavuş=
+188321	Tosunlu Mah.	Tosunlu=
+188323	Tozluca Mah.	Tozluca=
+188325	Turaç Mah.	Turaç=
+188327	Yaylaköy Mah.	Yaylaköy=
+188329	Yaylayolu Mah.	Yaylayolu=
+188269	Yaylımlı Mah.	Güneyçam=|Yaylımlı=
+21757	Yeni Mah.	1 Nolu Demir~|1 Nolu Rehber~|1.cami~|1.lise~|1.tokalp~|1.yazıcıoğlu~|1.şehit Hamit Yıldız~|2.lise~|2.tokalp~|2.yazıcıoğlu~|Cahitbayar~|Cami~|Demir~|Erzurum@|Karakol~|Kayserilioğlu~|Kuşçulu~|Lise~|Metebey~|Meyve Hoşlar Çarşısı~|Okullar~|Postahane@|Rehber~|Tokalp~|Tuzla@|Tuzla1~|Yazıcıoğlu~|Çıkmaz~|İstanbul@|Şehit Hamit Yıldız~|Şehit Semih Güven@
+21759	Yeniköy Halitpaşa Mah.	1.kümeevler=|10.=|11.=|12.=|2.=|3.=|4.=|5.=|6.=|7.=|8.=|9.=
+21758	Yeşilova Mah.	1 Nolu Fabrika~|Erzincan1~|Fabrika~|Taşağıl=|Trabzon@|Tuzla@|Yeşilova2~|Çimento Fabrikası=|İstasyon~
+188331	Yumruveren Mah.	Yumruveren=
+21751	Çarşı Mah.	1 Nolu Battaloğlu~|1 Nolu Bayramoğlu~|1 Nolu Hacıbey~|1 Nolu Mevlana~|1 Nolu Muhtaroğlu~|1 Nolu Şehit Adem Tamrak~|1.~|2 Nolu Bayramoğlu~|2 Nolu Hacıbey Sokak~|2 Nolu Mevlana~|3 Nolu Hacıbey~|Akatay~|Battaloğlu~|Bayramoğlu~|Erzurum@|Erzurum1~|Erzurum2~|Erzurum3~|Erzurum4~|Erzurum5~|Garaj@|Hacıbey~|Karahasan9~|Mevlana~|Muhtaroğlu@|Yeni~|Çarşı2~|Öğretmen Evi~|İstanbul@|Şehit Adem Tamrak~|Şehit Semih Güven@
+188165	Çatalbayır Mah.	Erzincan@|Çatalbayır=
+188341	Çayköy Mah.	Erzurum@|Gökçebük=|Çayköy 1 Nolu~|Çayköy 10 Nolu~|Çayköy 11 Nolu~|Çayköy 12 Nolu~|Çayköy 13 Nolu~|Çayköy 14 Nolu~|Çayköy 15 Nolu~|Çayköy 16 Nolu~|Çayköy 17 Nolu~|Çayköy 18 Nolu~|Çayköy 19 Nolu~|Çayköy 2 Nolu~|Çayköy 20 Nolu~|Çayköy 21 Nolu~|Çayköy 3 Nolu~|Çayköy 4 Nolu~|Çayköy 5 Nolu~|Çayköy 6 Nolu~|Çayköy 7 Nolu~|Çayköy 8 Nolu~|Çayköy 9 Nolu~|Çayköy=
+188279	Çiftlik Bucağı Çatören Mah.	Çiftlik Bucağı Çatören=
+99911	Çiftlik Mah.	Çiftlik=
+188235	Özler Mah.	Özler=
+99364	Üç Mart Mah.	Toki~|İstasyon~
+21753	İstasyon Mah.	1 Nolu Döner~|2 Nolu Döner~|5 Nolu Demirkıran~|Astsubay Lojmanları~|Gar~|Haramidere Mevki=|Haramidere~|Park~|Park/1~|Postahane@|Tugay@|Tugay1@|Tugay10~|Tugay11~|Tugay12~|Tugay13~|Tugay14~|Tugay2@|Tugay3@|Tugay4~|Tugay6~|Tugay7~|Tugay8~
+21756	Şafak Mah.	1 Nolu Dadaş~|1 Nolu Esentepe~|1 Nolu Kılıç~|1 Nolu Millet~|1 Nolu Pınar~|1 Nolu Çağlar~|2 Nolu Esentepe~|2 Nolu Gani~|2 Nolu Millet~|2 Nolu Çağlar~|3 Nolu Kılıç~|3 Nolu Millet~|Bayramoğlu~|Dadaş@|Dadaş/2~|Esen~|Esentepe~|Gani~|Kılıç~|Millet~|Mutlu~|Plevne~|Pınar~|Pınar1~|Çağlar~|Çimen~

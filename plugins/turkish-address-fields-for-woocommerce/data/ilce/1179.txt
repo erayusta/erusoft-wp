@@ -1,0 +1,64 @@
+73990	Adakale Köyü	Adakale=
+73991	Adakale Köyü, Topraklı Mezrası	Topraklı=
+73992	Adakale Köyü, Toptepe Mezrası	Toptepe=
+73956	Ardıçdalı Köyü	Ardıçdalı=
+70164	Atabağı Beldesi, Atabağı Mah.	101~|102~|103~|104~|105~|106~|107~|108~|111~|112~|113~|113/1~|114~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|301~|302~|303~|305~|307~|308~|309~|309_1~|310~|311~|320~|321~|321/1~|323~|Ahmedi Hani@|Fakiyi Tayran@|Kasre@|Kasre1@|Seyrantepe=|Seyrantepe/1=|Şeyhbilal@|Şeyhibrahim@|Şeyhibrahim1~|Şeyhibrahim2~|Şeyhibrahim3~
+70159	Cefan Mah.	501~|502.~|503~|506.~|507~|508~|Cefan@|Diyarbakır Bitlis@|Tepe.@
+73965	Dedebakırı Köyü	Dedebakır=|Diyarbakır Bitlis@
+73966	Demirışık Köyü	Demirışık=
+98456	Derince Köyü, Derince Mezrası	Derince=
+73989	Dilektepe Köyü	Dilektepe=|Dodan-~
+73997	Dokuzçavuş Köyü	Dokuzçavuş=
+73998	Engin Köyü	Engin=
+73967	Gümüşkaş Köyü	Diyarbakır Bitlis@|Gümüşkaş=
+73968	Günbuldu Köyü	Günbuldu=
+73999	Gündoğdu Köyü	Gündoğdu=
+70160	Havel Mah.	401.~|402.~|403.~|404.~|405.~|406.~|407.~|408.~|409.~|410.~|Bitlis Diyarbakır Yolu@|Havel Köy Sokağı~|Nizamettin Sevgili@
+73969	Karakaya Köyü	Karakaya=
+73970	Karakaya Köyü, Eğridere Mezrası	Eğridere=
+70162	Karşıyaka Mah.	301.~|301./1~|302.~|303.~|305.~|Kaymakam Hayati Soylu@|Turgut Özal%
+74001	Kasımlı Köyü	Kasımlı=
+73971	Meşelik Köyü	Meşelik=
+74002	Narlıyurt Köyü	Narlıyurt=
+74005	Narlıyurt Köyü, Ayranlı Mezrası	Ayranlı=
+74006	Narlıyurt Köyü, Sıralı Mezrası	Sıralı=
+74003	Narlıyurt Köyü, Uzunkavak Mezrası	Uzunkavak=
+74004	Narlıyurt Köyü, Uğurlu Mezrası	Uğurlu=
+73972	Obalı Köyü	Obalı=
+73973	Obalı Köyü, Akbudak Mezrası	Akbudak=
+73976	Obalı Köyü, Akdiken Mezrası	Akdiken=
+73974	Obalı Köyü, Köklü Mezrası	Köklü=
+73977	Obalı Köyü, Kılıçlı Mezrası	Kılıçlı=
+73975	Obalı Köyü, Ocaklı Mezrası	Ocaklı=
+73978	Ormanpınar Köyü	Ormanpınar=
+74007	Sarıdana Köyü	Sarıdana=
+73979	Sarısalkım Köyü	Sarısalkım=
+73980	Tütenocak Köyü	Tütünocak=
+73981	Tütenocak Köyü, Aşağı Tütenocak Mezrası	Aşağı Tütünocak=
+99663	Tütenocak Köyü, Yeşil Mevkii	
+74008	Ulaştı Köyü	Ulaştı=
+70165	Veyselkarani Beldesi, Atatürk Mah.	101.~|102.~|103.~|104.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|114.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|124.~|126.~|127~|128.~|130.~|132.~|134.~|138.~|140.~|142.~|144.~|146.~|147@|148~|149~|150~|151~|152~|153~|154~|154/1~|155~|157.~|158.=|159~|160~|164.~|Cumhuriyet@|Cumhuriyet1@|Devegecidi@|Devegecidi1~|Devegecidi2~|Devegecidi3~|Devegecidi4~|Diyarbakır@|Hayrettin Akgün%|Mezarlıklar@|Samanyolu@|Siirt@|Veyselkarani@
+70166	Veyselkarani Beldesi, Çay Mah.	301~|303~|305.~|307~|308~|309~|310~|311~|312~|314~|315~|315.~|316~|316.~|317.~|318~|320.~|322.~|324.~|324./1~|326.~|327~|329~|340~|350~|351~|355~|360~|A~|Aa~|Aaa~|Aab~|Aad~|Aae~|Aaf~|Ab~|Ac~|Ad~|Ae~|Af~|Ag~|Ah~|Aj~|Ak~|Aı~|B~|Ba~|Bb~|Binegül=|C~|Ca~|Da~|Das@|Db~|Dd~|Diyarbakır1@|Ea~|Eb~|F~|Fa~|Fb~|G~|Ga~|H~|Ha~|I~|K~|Kervan@|Navalaşan=|Navalaşan1=|O~|P~|R~|T~|Veyselkarani@|Yediveren@|Yediveren1=
+70167	Veyselkarani Beldesi, Şeyhosman Mah.	203~|204~|205~|206~|207~|208~|208.~|209~|210~|211~|212~|212.~|213~|214~|214.~|215~|216~|217~|218~|220~|220a~|221~|222~|223~|224~|225~|226~|227~|228~|229~|230~|231.~|232~|233~|234~|Diyarbakır@|Diyarbakır1@|Kervan@|Mezarlıklar@|Veyselkarani@
+73984	Yarımca Köyü	Yarımca=
+73985	Yarımca Köyü, Sarıyurt Mezrası	Sarıyurt=
+70163	Yenidoğan Mah.	102.~|102./1~|201.~|202.~|204.~|206.~|208.~|209.~|210.~|211.~|212.~|213~|214~|215~|216.~|217.~|218.~|Bitlis Diyarbakır Yolu-@|Dr.taner.özbenli@|Dr.yusuf.azizoğlu@|Gürçeşme@|Kaymakam Kerem Al@|Nizamettin Sevgili@|Turgut Özal%
+73988	Yeşilçevre Köyü, Binegöl Mezrası	Binegöl=
+73987	Yeşilçevre Köyü, Eğri Mezrası	Bahçe=|Eğri=
+73986	Yeşilçevre Köyü, Çukurtaş Mezrası	Çukurtaş=
+73957	Çamtaşı Köyü	Çamtaşı=
+73958	Çaykaya Köyü	Çaykaya=
+73959	Çaykaya Köyü, Bardaklı Mezrası	Bardaklı=
+73960	Çaykaya Köyü, Geçit Mezrası	Geçit=
+73962	Çaykaya Köyü, Goraşa Mezrası	Goraşa=
+73961	Çaykaya Köyü, Karataş Mezrası	Karataş=
+73963	Çelikli Köyü	Çelikli=
+73993	Çevrimtepe Köyü	Çevrimtepe=
+73995	Çevrimtepe Köyü, Kumluca Mezrası	Kumluca=
+73994	Çevrimtepe Köyü, Oymaklı Mezrası	Oymaklı=
+73996	Çevrimtepe Köyü, Ulukapı Mezrası	Ulukapı=
+73964	Çukurca Köyü	Çukurca=
+73982	Ünlüce Köyü	Ünlüce=
+73983	Ünlüce Köyü, Dumanlı Mezrası	Dumanlı=
+74000	İkizler Köyü	İkizler=
+70161	İnönü Mah.	102.~|103.~|104.~|105.~|106.~|107~|108.~|110~|112.~|114.~|115.~|116~|118~|119~|120~|120.~|122~|124~|125~|Banka@|Dr.taner.özbenli@|Dr.yusuf.azizoğlu@|Turgut Özal%

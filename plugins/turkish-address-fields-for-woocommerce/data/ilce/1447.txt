@@ -1,0 +1,104 @@
+41743	30 Ekim Mah.	1.toki Siteleri@|225~|257~|258~|259~|261~|262~|263~|264~|267~|268~|269~|270~|272~|275~|278~|281~|282~|283~|284~|285~|286~|83~|Alparslan Türkeş%|Şaşik=
+44675	Akbaba Köyü, Cami Mevkii	Camii=|Orta=
+44676	Akbaba Köyü, Orta Mevkii	Orta=|Tepe=
+44674	Akbaba Köyü, Tepe Mevkii	Tepe=
+44677	Akdere Köyü	Akdere=
+44732	Alaca Köyü	Alaca Güllüce=|Alaca=
+41720	Alpaslan Mah.	1.gökçe~|1.özgür~|2.mağaracık~|2.sefer~|2.özgür~|227~|228~|229~|230~|231~|232~|233~|234~|235~|236~|237~|238~|239~|240~|241~|242~|243~|244~|245~|246~|247~|248~|249~|250~|251~|252~|254~|255~|256~|287~|288~|289~|290~|291~|Alparslan Türkeş%|Alper~|Atilla İlhan~|Aydınlar~|Aşık Murat Yıldız~|Ferah~|Gökçe~|Hüseyinağa~|Koç~|Maksut Bey~|Mağaracık Çıkmazı~|Mezarlık Civarı~|Rahmibey~|Sefer~|Özgür~|İsmail Hakkı Alaca%|İsmailağa~|Şht. P. Uz. Çvş. Adem Erenkara~|Şht.er Asım Ağçay~|Şht.j.asb.üçvş. Feyzullah Kaya@|Şht.j.er.ahmet Okçuoğlu~
+44737	Alçılı Köyü	Alçılı=
+44719	Ani Köyü	Ani=
+44678	Arazoğlu Köyü	Arazoğlu=
+44679	Arslanizi Köyü, Aşağı Mevkii	Aşağı=
+44680	Arslanizi Köyü, Yukarı Mevkii	Aşağı=|Yukarı=
+44681	Ataköy Köyü	Ataköy=
+41721	Atatürk Mah.	212~|218~|Atadan~|Elektrik Santrali=|Mühendisler~|Toki Siteleri~
+44723	Atayurt Köyü	Atayurt=
+44733	Atayurt Köyü, Güllüce Mezrası	Kozluca Köyünün Güllüce Köy Bağlısı=
+44739	Ayakgedikler Köyü	Ayakgedikler=
+44682	Aydınalan Köyü	Aydınalan=
+41722	Aydınlıkevler Mah.	190~|191~|192~|193~|194~|195~|196~|197~|198~|199~|301~|302~|303~|350~|70~|71~|80~|Alem~|Alparslan Türkeş%|Atilla~|Birdal~|Canan~|Celal Aras@|Demet~|Deniz~|Hafız Kurban~|Kanal Yolu~|Koçulu~|Kurban~|Laçinağa~|Malazgirt~|Mithat Paşa~|Narin~|Nato Yolu~|Nur~|Semra~|Serhat~|Sevgi~|Sümbül~|Ufuk~|Çelik~|Özge~|Şeyda~
+44683	Azat Köyü	Azat=
+44673	Ağadeve Köyü	Ağadeve=
+41723	Bahçelievler Mah.	1.oruçağa~|1.zübeyde~|154~|155~|156~|157~|158~|159~|160~|2.oruçağa~|296~|3.oruçağa~|Alparslan Türkeş%|Cihan~|Deprem~|Eren~|Kanarya~|Kar~|Kayak~|Namazağa~|Nilüfer~|Oruçağa~|Seval~|Timsal Karabekir~|Yeliz~|Zübeyde Hanım~|İsmail Hakkı Alaca%|Şehit Er Tarık Emeket~|Şehit Polis Bülent Kıranşal@|Şehit Özkaya Erçetin~|Şht. Polis Memuru Bülent Aktaş~|Şht.er Yaşar Saygınlı~
+44740	Bayraktar Köyü	Bayraktar=
+41724	Bayrampaşa Mah.	217~|220~|222~|295~|59~|Alparslan@|Toki Siteleri~
+44738	Başgedikler Köyü	Başgedikler=
+44684	Başkaya Köyü	Başkaya=
+44741	Bekler Köyü	Bekler=
+44687	Borluk Köyü	Borluk=
+44688	Bozkale Köyü	Bozkale=
+44685	Boğatepe Köyü	Boğatepe=
+44686	Boğazköy Köyü	Boğaz=
+44689	Bulanık Köyü	Bulanık=
+41725	Bülbül Mah.	1. Çay~|1.dere~|1.tepe~|1.şener~|103~|2.tepe~|2.çay~|2.şener~|200~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|3. Şener~|4.aralık~|5.aralık~|6.aralık~|Aras=|Ay~|Ayhan~|Depo~|Dere~|Değirmen Yolu~|Garip Ağa~|Gül~|Hamam~|Kayalık~|Kelebek~|Kemal Paşa~|Mehmetcik~|Mezarlık Kümeleri Çıkmaz~|Nizamettin Ayna~|P.kom.çvş. Yusuf Tanboğa~|Serhat Kent~|Siper~|Süleyman~|Tepe~|Teyyare~|Zambak~|Çimen~|Üniversite~|İbrahim Ağa~|İbrahim Ethem Aykut@|Şener~|Şht Polis Memuru Tayfun Çele~
+44742	Büyükaküzüm Köyü	Büyükaküzüm=
+44729	Cumhuriyet Köyü	Cumhuriyet=|Erzurum Kars Karayolu@
+41726	Cumhuriyet Mah.	Arif Taşçı@|Bahri Dağdaş@|Borsa~|Cumhuriyet@|Faikbey@|Gazi Ahmet Muhtar Paşa@|Hakim Ali Rıza Aslan@|Hakkı Demirci~|Haydar Aliyev@|Kazım Paşa@|Turan Çelebi@|İnönü@|Şht. Er Hayrettin Balk~|Şht.polis Sadullah Keleş~|Şht.yusufbey@
+44696	Davul Köyü	Davul=
+44697	Derecik Köyü	Derecik=
+44698	Dikme Köyü	Dikme=
+44699	Esenkent Köyü	Esenkent=
+44700	Esenyazı Köyü	Esenyazı=
+44701	Eşmeyazı Köyü	Eşmeyazı=
+41727	Fevziçakmak Mah.	29~|297~|30~|34~|Atatürk@|Badem=|Bülbül Çıkmazı~|Faikbey@|Halitpaşa@|Kireç~|Laçinbey~|Narın~|Okul Yolu~|Rauf Denktaş@|Taş~|Taşlı~|Çakmak Yolu~|Çeçen~|İl Jandarma Komutanlığı=|Şht.er .tarık Akar~
+44702	Gelirli Köyü	Gelirli=
+44703	Güdeli Köyü	Güdeli=
+44704	Hacıhalil Köyü	Hacıhalil=
+44705	Hacıveli Köyü	Hacıveli=
+41728	Hafızpaşa Mah.	101~|102~|159~|301~|79~|Alparslan Türkeş%|Bahri Dağdaş@|Baytarhane~|Begonya~|Celal Aras@|Cumhuriyet@|Enver Paşa~|Gülçin~|Hafız Paşa@|Hafızpaşa=|Hasan Efendi~|Kazım Karabekir=|Koçulu~|Muzaffer Selçuk@|Rasathane~|Sinan Şamil Sam@|Çıkmaz~|Özlem~|İlhan Tazegül~|İsmail Aytemiz@|İsmail Hakkı Alaca%|Şehit Jandarma Uzman Çavuş Taner Özdemir@|Şehit Üsteğmen Ünal Darboğaz~|Şht J.er Abdulbaki Kurcak~
+44706	Halefoğlu Köyü	Halefoğlu=
+41729	Halitpaşa Mah.	1. Fırat~|1.avcı~|1.barbaros~|1.hacı Musa Çıkmaz~|1.iskan~|1.uçar~|2. Zafer~|2.azat Yolu~|2.iskan~|223~|298=|3.iskan~|32~|37~|38~|4.iskan~|40~|41~|42~|43~|44~|47~|Alparslan Türkeş%|Anıl~|Aslan~|Avcı~|Aşık Musa Ünlü~|Aşık Veysel~|Aşık Veysel Şahbazoğlu~|Aşık İlhami Demir~|Aşık İslam Erdener~|Aşık Şenlik_1~|Barbaros~|Bayraktar~|Bayram Tanrıverdi@|Camii~|Deniz Çıkmazı~|Doğan~|Ercan~|Esenyayla~|Ferhat~|Fırat~|Hacı Musa~|Karakoç~|Kürşat~|Turgut Reis~|Uçar~|Yağmur~|Yeşim~|Zafer~|Ziya Ağa~|Çağatay~|Çöl~|Çınarlı~|İnce~|İskan~|Şenerli~|Şht.bülent Cengiz~|Şht.er Asım Ağçay~|Şht.j.asb.üçvş. Feyzullah Kaya@|Şht.j.er. Mehmet Ayırkan~
+44743	Hamzagerek Köyü	Hamzagerek=
+44707	Hapanlı Köyü	Hapanlı Köyün Kendisi=
+44708	Hapanlı Köyü, Yayla Evleri Yayla Evleri	
+44709	Hasçiftlik Köyü	Hasçiftlik=
+41731	Kaleiçi Mah.	1.nevreste~|1.çeşme~|148~|150~|151~|152~|2.nevreste~|2.çeşme~|220~|222~|226~|26~|300~|Asya~|Aykut~|Aşık Murat Çobanoğlu@|Aşık Rüstem Alyansoğlu~|Beşik Camii~|Dereiçi~|Dr.cengiz Askeran@|Durak Ağa~|Eski Saray~|Fahrettin Kirzioğlu Çıkmaz~|Güven~|Halitpaşa@|Hasanağa Çıkmazı~|Karadağ_1~|Karahan~|Kazım Paşa@|Medrese~|Milazım Bey~|Mühendisler~|Prof.dr.fahrettin Kırzıoğlu@|Pınar~|Rıfat Bey~|Sinem~|Temel Yıldırım@|Toki Siteleri~|Tufan Ağa~|Ufuk Güneş~|Çeşme~|Şehit Celal Baba@|Şht.reşit Akbaba~|Şht.öğrt. Vedat İnan~
+198103	Kaleiçi Osb Mah.	1.@|10.@|11.@|12.@|14.@|15.@|16.@|2.@|3.@|4.@|5.@|6.@|7.@|8.@|9.@|Tdiosb13@
+44710	Karacaören Köyü	Erzurum Kars Karayolu@|Karacaören=
+98858	Karadağ Mah.	212~|214~|215~|219~|48~|50~|51~|52~|53~|57~|58~|59~|80~|Alparslan Türkeş%|Burcu~|Celal Aras@|Cumhuriyet@|Faikbey@|Karadağ Burnu Mevki~|Taha~|Toki Siteleri~|Vali Hüseyin Atak Bulvarı%|Yaver~
+44717	Karakale Köyü	Karakale=
+44712	Karakaş Köyü	Karakaş=
+44711	Karaçoban Köyü	Karaçoban=
+44713	Kocabahçe Köyü	Kocabahçe=
+44734	Kozluca Köyü	Kozluca=
+44745	Külveren Köyü	Külveren=
+44715	Kümbetli Köyü	Erzurum Kars Karayolu@|Kümbetli=
+44731	Küçükboğatepe Köyü	Küçükboğatepe=
+44744	Küçükpirveli Köyü	Küçükpirveli=
+44714	Küçükyusuf Köyü	Küçükyusuf=
+44716	Maksutçuk Köyü	Maksutçuk=
+41742	Merkez Mah.	1.katmer~|10~|102~|11~|12~|13~|14~|15~|16~|17~|18~|19~|20~|21~|22~|23~|279~|280~|293~|294~|7~|8~|9~|Abdi İpekçi~|Alparslan@|Aşık Mehmet Hicrani~|Aşık Şenlik@|Aşık Şeref Taşlıova~|Bahri Dağdaş@|Bakırcılar@|Burç~|Cansu~|Cengiz Topel@|Davut Aksu@|Dr.halil Erdoğan@|Faikbey@|Halitpaşa@|Hapan Mevkii~|Hürriyet@|Karadağ@|Karanfil~|Kasaplar Hali Arkası Sk~|Kasaplar~|Kasımoğlu~|Katmer~|Kazım Paşa@|Kurban Ali Çelik@|Leylak~|Mehmet Akif~|Mimar Engin Sadak~|Papatya~|Rıfat Ağa~|Yaşar Kemal~|Yeni Pazar@|Çam~|Çapraz~|Çilek~|Öznur~|İsmail Aytemiz@|İsmail Hakkı Çiçek~|İşhanı~|Şht.asb.ilhan Hamlı~|Şht.p.asb.kd.bçvş. Ömer Halisdemir@|Şht.p.kom.çvş.turgay Salgar~
+44718	Mezraa Köyü	Mezraa=
+44747	Ortagedikler Köyü	Ortagedikler=
+41733	Ortakapı Mah.	105~|5.buzhane~|Ali Rıza Bey~|Atatürk@|Bahar~|Faikbey@|Gazi Ahmet Muhtar Paşa@|Hakim Ali Rıza Aslan@|Hakkı Demirci~|Haydar Aliyev@|Karadağ@|Karadenizliler~|Kazım Paşa@|Neşe Doster~|Resul Yıldız~|Tuncer Güvensoy@|Vasfiye Eriş~|Yıldız Laçinel~|İbrahim Gökçe~|Şht.hulusi Aytekin@|Şht.polis Nuri Yıldız~|Şht.uz.çvş.tahsin Yıldırım~|Şht.yusufbey@
+44746	Oğuzlu Köyü	Oğuzlu=
+41734	Paşaçayırı Mah.	161~|162~|163~|164~|165~|166~|167~|168~|169~|170~|171~|172~|173~|174~|175~|176~|177~|178~|179~|180~|181~|182~|183~|184~|185~|186~|187~|188~|189@|60~|61~|62~|63~|64~|65~|69~|Erzurum Kars Karayolu@|Osb 10.@|Osb 8.@|Rauf Denktaş@|Çakmak Yolu~|Çimento Yolu~|Üniversite~
+41744	Paşaçayırıosb Mah.	Osb 1.@|Osb 10.@|Osb 11.@|Osb 12.@|Osb 13 1@|Osb 13.@|Osb 2.@|Osb 3. 1@|Osb 3.@|Osb 4.@|Osb 5.@|Osb 6.@|Osb 7.@|Osb 8.@|Osb 9.@
+44722	Soylu Köyü	Soylu Köyün Kendisi=
+44721	Soylu Köyü, Şemsi Mezrası	Şemsi=
+44724	Subatan Köyü	Subatan=
+41735	Sukapı Mah.	1.tepe_1~|33~|36~|Birgül~|Buket=|Dereiçi~|Elektrik Santrali=|Laçinbey~|Okul Yolu~|Rauf Denktaş@|Sakarya~|Çakmak Yolu~|Şht.tekin İlbeyi~
+44735	Söğütlü Köyü	Söğütlü=
+44748	Tazekent Köyü	Tazekent=
+44725	Tekneli Köyü	Köyün Kendisi=
+44726	Tekneli Köyü, Tekneli Mezrası	Tekneli Mezrası=
+44727	Verimli Köyü	Verimli=
+44750	Yalçınlar Köyü	Yalçınlar=
+44728	Yalınkaya Köyü	Yalınkaya=
+44749	Yağıkesen Köyü	Yağıkesen=
+41738	Yeni Mah.	Alibey~|Cumhuriyet@|Gazi Ahmet Muhtar Paşa@|Gökhan Arpaçay~|Hakkı Demirci~|Harman~|Haydar Aliyev@|Kazak~|Kurban Kuytul~|Meydan~|Necatibey~|Tarla~|Turan Çelebi@|Şahvelet Gençler~|Şht J.er Abdulbaki Kurcak~|Şht.j.asb.üçvş. Feyzullah Kaya@
+41740	Yenişehir Mah.	100~|213~|3.kanlı Tabya~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|328~|329~|330~|332~|333~|334~|335~|336~|337~|338~|339~|340~|341~|342~|343~|344~|345~|351~|352~|353~|355~|356~|357~|358~|359~|360~|4.kanlı Tabya~|5.kanlıtabya~|77~|78~|81~|82~|87~|88~|89~|90~|91~|92~|93~|94~|95~|96~|98~|Ali Gaffar Okkan%|Alparslan Türkeş%|Anıl~|Bayram Tanrıverdi@|Dumanlı~|Hava Alanı Yolu~|Karacaören=|Uçar~|Zübeyde~|İsmail Aytemiz%
+41739	Yusufpaşa Mah.	1.camii~|1.karadağ~|2.camii~|2.karadağ~|24~|25~|27~|Atatürk@|Av.kurtuluş Boy@|Aşık Murat Çobanoğlu@|Aşık Şenlik@|Bakırcılar@|Bankacılar~|Demir Köprü~|Enver Paşa Çıkmaz~|Eski Bakırcılar~|Eski Kasaplar~|Gazi Ahmet Muhtar Paşa@|Halitpaşa@|Hasan Aras~|Havuz~|Haydar Aliyev@|Karadağ@|Kazım Paşa@|Küçük Kazım Bey@|Maliye~|Millet~|Sağlık~|Serhat Halk Pazarı=|Sultan~|Turan~|Uğur~|Yeni Pazar@|Yoğurtçular~|İsmail Aytemiz@|İstiklal~|Şht. Polis Olgun Kurbanoğlu~|Şht.hulusi Aytekin@
+44730	Yücelen Köyü	Yücelen=
+44751	Yılanlı Köyü	Yılanlı=
+44691	Çakmak Köyü	Çakmak=
+44692	Çamurlu Köyü	Çamurlu=
+44690	Çağlayan Köyü	Çağlayan=
+44693	Çerme Köyü	Çerme=
+44695	Çorak Köyü	Çorak=
+44694	Çığırgan Köyü	Çığırgan=
+44720	Ölçülü Köyü	Ölçülü=
+41741	Örnek Mah.	1.demet~|1.kanlıtabya~|2.demet~|2.kanlıtabya~|3~|306~|307~|308~|310~|311~|312~|354~|73~|74~|75~|76~|Ali Gaffar Okkan%|Azat~|Bayram Tanrıverdi@|Hastane~|Kafkas~|Kanlı Tabya Çıkmaz~|Kaya~|Lale~|Tren Hatı~|Ulu~|Şht.j.er. Mehmet Ayırkan~
+44736	Üçbölük Köyü	Üçbölük=
+41730	İstasyon Mah.	1~|1.taşlı Harman~|2.taşlı Harman~|28~|3.taşlı Harman~|4.taşlı Harman~|5~|Bahri Dağdaş@|Cumhuriyet@|Davut Aksu@|Faikbey@|Faikbey Çıkmaz~|Fatih~|Kurban Ali Çelik@|Mehtap~|Muzaffer Selçuk@|Sinan Şamil Sam@|Taşlıharman@|Zabitbey~|Ünal Özgödek@|İsmail Aytemiz@|Şht.er.tekin Baran~
+41736	Şehitler Mah.	1 Şehitlik=|1.aralık~|1.paşalık~|1.teyyare~|1.şener~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|124~|125~|126~|127~|128~|129~|130~|131~|132~|134~|135~|136~|137~|138~|139~|140~|141~|142~|143~|144~|2.aralık~|2.teyyare~|2.şener~|299~|3.aralık~|3.teyyare~|4.şener~|Ahmet Arslan@|Avcılar~|Aydın~|Aşık Sabri Şimşekoğlu~|Cumhuriyet@|Ebru~|Erzurum Kars Karayolu@|Hakkı Demirci~|Hava Meydanı~|Işık~|J.kom.er Yücel Ürün~|Murat~|P.kom.çvş. Yusuf Tanboğa~|Seyhan=|Tek~|Teyyare Meydanı~|Teyyare~|Titiz~|Turan Çelik@|Umut~|Volkan~|Zambak~|Ömür~|Üniversite~|İnönü@|Şehitlik@|Şener~|Şener Çıkmazı~|Şht.er Abdurrahman Bağış~|Şht.er.emin Polat~

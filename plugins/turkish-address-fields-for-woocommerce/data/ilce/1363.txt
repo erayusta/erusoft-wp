@@ -1,0 +1,60 @@
+6532	Abacı Köyü	Abacı=
+6495	Alan Köyü	Alan=
+6496	Ardıçpınar Köyü	Ardıçpınar=
+6497	Asar Köyü	Asar=
+6533	Ayvalıpınar Köyü	Ayvalıpınar/1=
+6534	Başpınar Köyü	Başpınar=
+6498	Bekdemir Köyü	Bekdemir=
+6499	Beşiktepe Köyü	Beşiktepe=
+1342	Cumhuriyet Mah.	Akkaya~|Akça~|Alparslan Türkeş@|Arduç~|Asil~|Atatürk@|Bayındır~|Bilal Kara~|Cumhuriyet@|Cıbır~|Dilek~|Eski Yol~|Garip Yumak~|Gökçeli 1=|Gücük~|Karaca~|Kayacıkdere~|Kesmekaya~|Koç~|Lise@|Menekşe~|Muhsin Yazıcıoğlu@|Mükremin Mıntış@|Niyazi Nergiz@|Pınar~|Satılmış Haşhaş~|Saz Deresi~|Saz Yolu@|Sazyolu 1~|Sazyolu 1/1~|Simge~|Toki Konutları~|Tosun~|Turgut Özal Kanal Yolu~|Yozgat@|Yılmaz~|Çapanoğlu@|Çapanoğlu~|Çağlar~|Çelik~|Çıtak~|Şehit Haydar Kaya@|Şehit İsmail Kara~|Şehıt İsmaıl Kara 1~|Şırın 1~|Şırın~
+1345	Damlaçimen Köyü, Merkez Mevkii	Damlaçimen=|Dere-~|Göynücek Ortaköy Yolu@|Öte Geçe-~|Öteyüz-~
+6536	Davutevi Köyü	Davutevı=
+1347	Gediksaray Köyü, Yeşildere Mevkii	Seyrantepe-~|Çeşmebaşı=|Çimen=|Şirvanlı-~
+1346	Gediksaray Köyü, Çeşmebaşı Mevkii	Bahçelievler-~|Cumhuriyet-~|Göynücek-~|Harmancık-~|Killik-~|Rüzgarlı-~|Çeşmebaşı=|Çimen=
+6504	Gökçeli Köyü	Gökçelı=
+6538	Harmancık Köyü	Harmancık=
+6505	Hasanbey Köyü	Göynücek Ortaköy Yolu@|Hasanbey=
+6507	Ilısu Köyü	Ilısu=|Kumya=
+6506	Ilısu Köyü, Kuyma Mezrası	Kumya=
+6537	Kafarlı Köyü	Kafarlı=
+6509	Karayakup Köyü	Karayakup=
+6517	Karayakup Köyü, Afet Evler Mevkii	Afetevler=
+6515	Karayakup Köyü, Armutdibi Yayla Evleri	Armutdibi=
+6510	Karayakup Köyü, Aynının Önü Yayla Evleri	Ayının Önü=
+6511	Karayakup Köyü, Ağcapınar Yayla Evleri	Ağcapınar=
+6512	Karayakup Köyü, Aşılık Yayla Evleri	Aşılık=
+6514	Karayakup Köyü, Güzalan Yayla Evleri	Güzalan=
+6516	Karayakup Köyü, Kilise Yayla Evleri	Kilise=
+6513	Karayakup Köyü, Kuruluk Yayla Evleri	Kuruluk=
+6508	Karaşar Köyü	Göynücek Ortaköy Yolu@|Karaşar=
+6520	Kertme Köyü	Kertme=
+6521	Kervansaray Köyü	Kervansaray=
+6542	Konuralan Köyü	Konuralan=
+6523	Koyuncu Köyü	Koyuncu=|Tepeşarklı=
+6518	Kuyulu Kavaklı Köyü	Merkez=
+6519	Kuyulu Kavaklı Köyü, Kuyulu Mezrası	Kuyulu=
+6522	Kışlabeyi Köyü	Kışlabeyı=
+1343	Merkez Mah.	15 Temmuz~|15 Temmuz-~|Abdurrahman Kamil Yetkin~|Aktaş~|Amasya@|Arpalık~|Atatürk@|Bakacak~|Boztepe~|Delibayırdereyolu~|Demır~|Hamit Akderya-~|Kara Azim@|Karademir~|Karaçoban-~|Kaya~|Kayacıkdere~|Kazel~|Kazım Oğuz~|Kuzu~|Kırhamam 1~|Kırharman~|Kırharman Yolu 1~|Lale-~|Mırız~|Necmettin Erbakan-~|Pazar~|Pelit~|Sanayi Yolu 1~|Sanayi Yolu 2~|Sanayi Yolu 3~|Sanayi Yolu 4~|Sanayi Yolu~|Sanayiyolu~|Savaş@|Saz Yolu@|Sazyolu 1~|Talip Alabuğa-~|Topal Ömer~|Turgut Özal Kanalyolu@|Zantur~|Zekeriya Uzun~|Çamurlu Köy Yolu@|Çamurlu Yolu 1~|Çil İbiş~|Çukur Arpalık~|Çukurarpalık-~|Çürlük 1~|Çürlük~|Ötüken~|Şehit Mustafa Yumak~|Şükrü Bardakçı~
+6524	Penpeli Köyü	Penpeli=
+6525	Sığırçayı Köyü	Sığırçayı=
+6544	Tencirli Köyü	Tencırlı=
+6545	Tencirli Köyü, Yeşilyurt Mezrası	Yeşilyurt=
+6546	Terziköy Köyü	Terziköy=
+6547	Terziköy Köyü, Kızılören Mezrası	Kızılören=
+6530	Yassıkışla Köyü	Yassıkışla=
+6531	Yassıkışla Köyü, Mezra Mezrası	Mezra=
+1344	Yeni Mah.	Alparslan Türkeş@|Amasya@|Atatürk@|Bulut~|Cinbek Çıkmaz~|Darende~|Dıdem~|Eski Yozgat Yolu@|Hamam~|Hamam-~|Hasanbey Yolu@|Kuran Kursu~|Kışlabey Köy Yolu~|Mezarlık Yolu~|Milli Eğitim~|Mustafa Kılıç@|Muzaffer Demirel~|Mükremin Mıntış@|Nisa~|Nur Aleyna Çelik~|Piroğlu~|Poyraz~|Recep Tayyip Erdoğan- Myd.|Saz Deresi Yeni Mahalle~|Sağır~|Topal Ömer~|Turgut Özal Kanalyolu 1@|Turgut Özal Kanalyolu@|Yalçınlar~|Yozgat 5@|Yozgat@|Çayırlık Dere~|Çekerek Çayı~|Şahin~|Şahın1~|Şehit İsmail Kara~|Şirin Çıkmaz~
+6548	Yeniköy Köyü	Yeniköy=
+6500	Çamurlu Köyü	Çamurlu=
+6501	Çayan Köyü	Çayan=
+6535	Çaykışla Köyü	Çaykışla=
+6502	Çulpara Köyü	Aşağıçulpara=|Çulpara=
+6503	Çulpara Köyü, Aşağı Çulpara Mezrası	Aşağıçulpara=
+6539	İkizyaka Köyü	İkizyaka=
+6540	İkizyaka Köyü, Karapınar Mevki Mevkii	Karapınar=
+6541	İkizyaka Köyü, Orta Mevki Mevkii	Orta=
+6526	Şarklı Köyü	Şarklı=
+6527	Şarklı Köyü, Orta Şarklı Mezrası	Orta Şarklı=
+6528	Şarklı Köyü, Tepe Şarklı Mezrası	Tepeşarklı=
+6543	Şıhlar Köyü	Şıhlar=
+6529	Şıhoğlu Köyü	Çorum Göynücek Yolu@|Şıhoğlu=

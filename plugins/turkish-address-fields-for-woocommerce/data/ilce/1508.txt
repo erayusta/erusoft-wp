@@ -1,0 +1,19 @@
+191153	Akyurt Mah.	Akyurt=|Fahriye=
+191155	Balçıkhisar Mah.	Balçıkhisar=|Şerefiye=
+191157	Doğanca Mah.	Doğanca=|Kaymazyayla=|Şerefiye=
+191159	Fahriye Mah.	Fahriye=|Topkaya=
+191161	Güllüce Mah.	Güllüce=|Tokathan=
+191163	Hamidiye Mah.	Ankara Çevre Yolu%|Fahriye=|Hamidiye=
+30282	Işıklar Mah.	18 Eylul@|Aktan~|Atatürk@|Atılım~|Banka@|Bilir~|Bircan~|Bolat~|Cumhuriyet@|Demirol~|Dülger~|Eltiler~|Engin~|Erol~|Eskişehir@|Eğerci~|Fırın~|Gül~|Hal~|Hamam@|Hastahane@|Kantar~|Karanfil~|Kordonboyu~|Lise~|Mandıra Yolu=|Mecidiye Yolu=|Mercan~|Orman@|Sanem~|Saraçoğlu~|Tanrıverdi~|Tarkan~|Tezcan~|Tezel~|Tigem Küme Evler=|Vural~|Yorulmaz~|Yörükoğlu~|Yücel~|Yılmaz~|Zambak~|Çataltepe Mevkii=|Çifteler Yolu=|Çınar@|Özden~|Ülker~|İnci~|Şehit Fedail Aydın@|Şehit Münir Nurettin Abacı@|Şehit Nadir Şimşek~|Şehit Uğur Dülger@
+191167	Kaymazyayla Mah.	Kaymazyayla=
+191169	Mesudiye Mah.	Hamidiye=|Mesudiye=|İsmetpaşa=|Şerefiye=
+30283	Orta Mah.	18 Eylul@|Akgül~|Akgün@|Alkış~|Armağan~|Avcı~|Belediye~|Benek~|Cumhuriyet@|Cönger=|Cönger Yolu=|Değirmen~|Dündar~|Erdoğmuş~|Eskişehir@|Hastahane@|Ilıca~|Kara~|Karataş~|Kural~|Köse~|Kırıkçı~|Kızıldağ~|Lale@|Lise~|Mecidiye Yolu=|Ofis@|Orman@|Orta~|Pehlivan~|Sedat Avcil~|Stadyum@|Yapıcı~|Çamlıca@|Çataltepe Mevkii=|Çifteler Yolu=|İleri~|İsmetpaşa=|Şehit Fedail Aydın@|Şehit Nadir Şimşek~
+191173	Tokathan Mah.	Tokathan=
+191175	Topkaya Mah.	Fahriye=|Topkaya=|Şerefiye=
+191177	Türkmenmecidiye Mah.	Türkmenmecidiye=|Yayla Evleri=
+30284	Yeni Mah.	18 Eylul@|Adalı~|Akgün@|Akkuş~|Algül~|Armağan~|Baykal~|Bülbül~|Cami~|Cumhuriyet@|Cönger Yolu=|Değirmen~|Dokuzağaç~|Donatım~|Erler~|Eskişehir@|Fidan~|Gazi~|Gölcük~|Hastahane@|Kahraman~|Kalfa~|Kural~|Kurtuluş@|Küçük~|Lale@|Mesudiye Hududu~|Mesudiye=|Mesudiye Yolu=|Mutlu~|Necatibey~|Ofis@|Okul~|Orman_1@|Stadyum@|Tavukçu~|Trafo~|Töre~|Yalçın~|Yetek~|Yigit~|Yörük~|Çamlıca@|Çetin~|Çimenler~|Şehit Tgm.güner Çakar~
+191179	Yeniköy Mah.	Kaymazyayla=|Yeniköy=
+191181	Yeşilyurt Mah.	Hamidiye=|Yeşilyurt=
+30281	Çal Mah.	Arslan~|Ayaz~|Bayram~|Başer~|Cömert~|Cönger=|Cönger Yolu=|Doğan~|Güney~|Güvercin~|Kahya~|Kanal~|Kaya~|Kazankaya~|Koşuyolu~|Kulaca~|Lise~|Ortaokul@|Sağlam~|Sönmez~|Uğur~|Yavuz~|Yeniköy_1@|Yüksel~|Yıkın~|Yıldız~|Çanta~|Çekiç~|Çiftlik~|Çiğdem~|Özen~|Özkara~
+191165	İsmetpaşa Mah.	İsmetpaşa=
+191171	Şerefiye Mah.	Fahriye=|Şerefiye=

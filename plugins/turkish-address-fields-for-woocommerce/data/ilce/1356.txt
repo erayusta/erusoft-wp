@@ -1,0 +1,60 @@
+95247	Arpaşen Köyü	Arpaşen=
+95217	Balçeşme Köyü	Balçeşme=|Balçeşme Yayla=
+95248	Bellitepe Köyü	Bellitepe=|Bellitepe Yayla=
+95249	Budaklı Köyü	Budaklı=
+95218	Büyükaltınbulak Köyü	Büyükaltınbulak=
+95219	Büyükaltınbulak Köyü, Gevrik Mevkii	Büyükaltınbulak Yaylası=
+95254	Damlasu Köyü	Damlasu=
+95223	Dedekılıcı Köyü	Dedekılıcı=
+95224	Dedekılıcı Köyü, Köprübaşı Mevkii	Köprübaşı Mevkii=
+95255	Dengeli Köyü	Dengeli=
+95225	Dereyolu Köyü	Dereyolu=
+95228	Durucasu Köyü, Kore Mezrası	Durucasu=
+95226	Dölekçayır Köyü	Dölekçayır=
+95229	Esenboğaz Köyü	Esenboğaz=|Çalıdere=
+95235	Esenyayla Köyü	Esenyayla=
+95230	Eskidemirkapı Köyü	Eskidemirkapı=
+90742	Fevzi Çakmak Mah.	Barbaros Hayrettin Paşa@|Bayır~|Bilinmeyen 32~|Bilinmeyen 33~|Bilinmeyen 34~|Bilinmeyen 35~|Bilinmeyen 44~|Bilinmeyen 45~|Bilinmeyen 47~|Bilinmeyen 48~|Bilinmeyen 50~|Bilinmeyen Toki~|Bilinmeyen2~|Bilinmeyen3~|Bilinmeyen4~|Bılınmeyen2~|Cengiz Topel Cad.1.~|Cengiz Topel Cad.2.~|Cengiz Topel Cad.3.~|Cengiz Topel Cad.4.~|Cengiz Topel@|Fevzi Çakmak 1.~|Fevzi Çakmak 2.~|Gazi Arifoğlu@|Halit Paşa@|Kanarya~|Menekşe~|Oltu Cad.10.~|Oltu Cad.11.~|Oltu Cad.12.~|Oltu Cad.7.~|Oltu Cad.8.~|Oltu Cad.9.~|Oltu@|Orman Yolu~|Ova~|Sağlık~|Sosyal Konutlar~|Çam~|Çevre Yolu@|Çiftlik~|İnönü@|Şehit Hakkı Aras@
+95231	Filizli Köyü	Filizli=
+95232	Gedik Köyü	Gedik=|Çalıdere=
+95256	Gülistan Köyü	Gülistan=
+95233	Günorta Köyü	Günorta=
+95234	Hoşdülbent Köyü	Hoşdülbent=
+95257	Kalecik Köyü	Kalecik=
+95258	Karlıyazı Köyü	Karlıyazı=
+95259	Kayaaltı Köyü	Kayaaltı=
+90743	Kazım Karabekir Mah.	75.cadde 8.~|75.cadde@|Adliye~|Ara~|Ardahan Cad.1.~|Ardahan@|Bayram~|Bilinmeyen 39~|Bilinmeyen 40~|Bilinmeyen 41~|Bilinmeyen 43~|Bilinmeyen1~|Bülbül~|Cezaevi~|Dar~|Dere~|Fidan~|Garaj~|Gazi Osman Paşa Cad.1.~|Gazi Osman Paşa@|Girne~|Hal~|Kars@|Kosova Cad.1.~|Kosova@|Mehmet Akif Ersoy Cad.1.~|Mehmet Akif Ersoy Cad.2.~|Mehmet Akif Ersoy Cad.3.~|Mehmet Akif Ersoy@|Okçu 1=|Olgunlar Cad.1.~|Olgunlar Cad.2.~|Olgunlar@|Ortaçay~|Tekel~|Terminal~|Zübeyde Hanım@|Çavuş~|Çayır~|Çevre Yolu%|Öğretmenler~
+95236	Koyunlu Köyü	Koyunlu=
+90744	Kubilay Bey Mah.	Anafartalar Cad.1.~|Anafartalar@|Barbaros Hayrettin Paşa@|Bedirhan Delibalta~|Belediye~|Beşevler~|Bilinmeyen 12~|Bilinmeyen 13~|Bilinmeyen 14~|Bilinmeyen 15~|Bilinmeyen 16~|Bilinmeyen 17~|Bilinmeyen 18~|Bilinmeyen 19~|Bilinmeyen 20~|Bilinmeyen 21~|Bilinmeyen 22~|Bilinmeyen 23~|Bilinmeyen 24~|Bilinmeyen 25~|Bilinmeyen 26~|Bilinmeyen 27~|Bilinmeyen 28~|Bilinmeyen 29~|Bilinmeyen 30~|Bilinmeyen 35~|Bilinmeyen 36~|Bilinmeyen 37~|Bilinmeyen 38~|Bilinmeyen 42~|Bilinmeyen 46~|Bilinmeyen 51~|Bilinmeyen 52~|Bilinmeyen34%|Emniyet~|Gazi Arifoğlu@|Güler~|Güneş~|Kars Cad.1.~|Kars Cad.3.~|Kars Cad.4.~|Kars@|Kazım Karabekir Cad.1.~|Kazım Karabekir@|Köroğlu~|Köroğlu1~|Kışla@|Merkez Cami~|Okçu 2=|Oltu@|Pınar~|Rüzgarlı~|Saray~|Saraç~|Sosyal Konutlar~|Susam~|Tepe~|Uncular~|Yayla~|Ziya Gökalp Cad.1.~|Ziya Gökalp@|Çevre Yolu%|Çiğdem~|İnönü@
+95237	Kuytuca Köyü	Kuytuca=
+196929	Köprülü Beldesi, Dedeşen Mah.	Bilinmeyen41~|Köprübaşı~|Memedi Kebir~|Çiftlik~
+196931	Köprülü Beldesi, Durançam Mah.	Bilinmeyen43~|Durançam=|Durançam Yayla=
+196933	Köprülü Beldesi, Kuzupınarı Mah.	Bilinmeyen39~|Bilinmeyen40~|Bilinmeyen43~|Bilinmeyen45~|Bilinmeyen46~|Bilinmeyen47~|Bilinmeyen48=|Bilinmeyen49~|Bilinmeyen50~|Bilinmeyen52~|Bilinmeyen53~|Bilinmeyen54~|Bilinmeyen60~|Kuzupınarı=
+90746	Köprülü Beldesi, Köprülü Merkez Mah.	Barış~|Bayır~|Bilinmeyen 1~|Bilinmeyen 10~|Bilinmeyen 11~|Bilinmeyen 12~|Bilinmeyen 13~|Bilinmeyen 15~|Bilinmeyen 16~|Bilinmeyen 17~|Bilinmeyen 18~|Bilinmeyen 2~|Bilinmeyen 20~|Bilinmeyen 21~|Bilinmeyen 22~|Bilinmeyen 23~|Bilinmeyen 24~|Bilinmeyen 25~|Bilinmeyen 26~|Bilinmeyen 27~|Bilinmeyen 28~|Bilinmeyen 3~|Bilinmeyen 30~|Bilinmeyen 31~|Bilinmeyen 36~|Bilinmeyen 37~|Bilinmeyen 5~|Bilinmeyen 6~|Bilinmeyen 7~|Bilinmeyen 8~|Bilinmeyen 9~|Bilinmeyen22~|Bilinmeyen24~|Bilinmeyen25~|Bilinmeyen26~|Bilinmeyen38~|Bilinmeyen43~|Bilinmeyen44~|Bilinmeyen50~|Bilinmeyen51~|Bilinmeyen55~|Bilinmeyen56~|Bilinmeyen57~|Bilinmeyen58~|Bilinmeyen59~|Cumhuriyet~|Dikmen~|Köprülü Merkez Açılacak~|Köprülü Merkez Açılacak2~|Köprülü Yayla=|Lale~|Milli Egemenlik~|Pembe~|Ziyaret~|Zübeyde Hanım~|Çimen~|İnönü~|İstiklal~
+95239	Küçükaltınbulak Köyü	Küçükaltınbulak=
+95261	Mollahasan Köyü	Mollahasan=
+95240	Okçu Köyü	75.cadde@|Okçu=|Olgunlar@|Ortaçay~
+90745	Salim Bey Mah.	Ardahan Cad.2.~|Ardahan@|Arka~|Aydınlık~|Ayvalı~|Bilinmeyen 10~|Bilinmeyen 11~|Bilinmeyen 31~|Bilinmeyen 49~|Bilinmeyen 54~|Bilinmeyen 8~|Bilinmeyen 9~|Bilinmeyen~|Bilinmeyen5~|Bilinmeyen7~|Cami~|Dolambaç~|Gazambarı~|Gelincik~|Gül~|Halit Paşa@|Hızar~|Okul~|Oltu Cad.1~|Oltu Cad.2~|Oltu Cad.3~|Oltu Cad.4~|Oltu Cad.5~|Oltu Cad.6~|Oltu@|P.t.t~|Sinama~|Söğütlü~|Uzun~|Zeki Bozkurt@|Zümrüt~|Çermik~|Şehit Hakkı Aras Cad.1.~|Şehit Hakkı Aras Cad.10.~|Şehit Hakkı Aras Cad.11.~|Şehit Hakkı Aras Cad.12.~|Şehit Hakkı Aras Cad.2.~|Şehit Hakkı Aras Cad.3.~|Şehit Hakkı Aras Cad.4.~|Şehit Hakkı Aras Cad.5.~|Şehit Hakkı Aras Cad.6.~|Şehit Hakkı Aras Cad.7.~|Şehit Hakkı Aras Cad.8.~|Şehit Hakkı Aras Cad.9.~|Şehit Hakkı Aras@|Şehit Piyade Er Recep Kılıç@
+95241	Samandöken Köyü	Samandöken=
+95242	Senemoğlu Köyü	Senemoğlu=
+95243	Serinçayır Köyü	Serinçayır=
+95262	Sürügüden Köyü	Sürügüden=
+95263	Tahtakıran Köyü	Köprübaşı~|Tahtakıran=
+95264	Tellioğlu Köyü	Tellioğlu=
+95244	Toptaş Köyü	Toptaş=
+95265	Uğurtaşı Köyü	Uğurtaşı=
+95267	Yanatlı Köyü	Yanatlı=
+95268	Yavuzlar Köyü	Yavuzlar=
+95266	Yağmuroğlu Köyü	Yağmuroğlu=
+95269	Yeleçli Köyü	Yeleçli=
+95245	Yenidemirkapı Köyü	Yenidemirkapı=
+95270	Yeniköy Köyü	Yeniköy=
+95271	Yiğitkonağı Köyü	Yiğitkonağı=
+95250	Çakıldere Köyü	Çakıldere=
+95220	Çakırüzüm Köyü	Ardahan@|Bilinmeyen 53=|Çakırüzüm=
+95221	Çalıdere Köyü	Çalıdere=
+95251	Çardaklı Köyü	Çardaklı=
+95246	Çayırbaşı Köyü	Çayırbaşı=
+95253	Çobanköy Köyü, Güldere Mevkii	Çobanköy Güldere=
+95252	Çobanköy Köyü, Gülçeşme Mevkii	Çobanköy Gülçeşme=
+95222	Çullu Köyü	Çullu=

@@ -1,0 +1,68 @@
+166349	Aktarla Mah.	Aktarla Ahmetler=|Aktarla Merkez=|Ali İsmail=|Badik=|Candar=|İbikan=
+166445	Alihan Mah.	Alihan Merkez=|Demirkapı=|Gazigüreş=|Hacı Yusuf=|Kenanüş=|Memiceylan=|Şıhrayık=
+166585	Aliçeri Mah.	Aliçeri Merkez=|Maran=
+166353	Arslankent Mah.	Karagöl=|Kuculuk Evleri=|Köyiçi=|Singir=
+166351	Arınlı Mah.	Arınlı=|Dölek=|Sevit=
+166453	Arıtoprak Mah.	Arıtoprak Merkez=|Elmaağacı=|Hamgıran=|Hasankeyf=
+52020	Ağalar Mah.	Aligürler=|Bağlar~|Dar~|Dr. Necdet Ayaydın@|Harmanlar@|Hükümet@|Kaldırım~|Kasaplar~|Köylü Değirmen~|Menekşe~|Menekşe1~|Osman Güleryüz@|Yeniyol 1~|Yeniyol 3~|Yeniyol 7~|Yusuf Ziya Varan Myd.
+166355	Bakımlı Mah.	Ateşler=|Bakımlı Karataş=|Bakımlı=|Balolar=|Bozdemirler=|Etular=|Karakuşlar=|Kuşular=|Kömürler=|Mucurlar=|Silmolar=
+166357	Balpınarı Mah.	Alikan=|Balpınarı Haraba=|Balpınarı=|Balpınarı Merkez=|Balpınarı/1=|Hacalan=|Milimar=
+166359	Bayırköy Mah.	Bayırköy Merkez=|Bozolar=|Büyük Tarla=|Hirolar=|Karabaşı=|Küdükler=|Çerkolar=|Çiringil=
+166461	Başmezra Mah.	Başmezra=|Bedri=|Sögüt=
+166361	Belenköy Mah.	Belenköy=|Deregözü=|Taşmış Kozluk=
+166363	Bölükkaya Mah.	Bayramlar=|Bektaşlar=|Bölükkaya Kuşular=|Bölükkaya Silmolar=|Devgirler=|Eski Kent=|Merg=|Merg1=|Nahaklar=|Valolar=|Vari Boze=|Şikolar=
+166371	Bölünmez Mah.	Bölünmez Haraba=|Bölünmez=|Yaylacık=
+166467	Büyüköz Mah.	Büyüköz=|Musan=|Ocakbaşı=|Yanören=
+166381	Deredüzü Mah.	Deredüzü=
+166385	Erdemler Mah.	Erdemler=
+166383	Ersele Mah.	Ciriklar=|Ersele Merkez=|Kale=|Külüklan=|Memüslar=|Mometlar=|Murtazalar=|Rastgemeler=|Tegersler=|Şığolar=
+166387	Esencik Mah.	Alkan=|Esencik=
+166483	Esenlik Mah.	Esenlik=
+166487	Gertan Mah.	Beşikan=|Kalan=|Kasen=|Kasen1=|Kavak=|Tüm=|Zevan=
+166393	Gözlüce Mah.	Gözlüce=
+166395	Gündeğer Mah.	Güçüler=|Herimler=|Hıdırlar=|Marasu=|Mikolar=
+166399	Gündüz Mah.	Gündüz=|Köpükler=|Şalliyan=
+52021	Hatip Mah.	Aligürler=|Delimamolar=|Gül~|Hatip Gündüz~|Hatip Gündüz1~|Kolağası~|Taşbaşı Yeniyol 1~|Taşbaşı Yeniyol 2~|Taşmiş@|Yeniali~|Yeniali1~|İnan~|Şen~
+166401	Karakaya Mah.	Karakaya=
+166405	Karşıyaka Mah.	Alolar=|Hazolar=|Memolar=|Natolar=|Pusatlar=|İfatlar=|Şarban=
+166391	Kavaklıdere Mah.	Kavaklıdere=|Kavaklıdere Yaylası=
+166495	Kayadere Mah.	Hüseyin Molla=|Kayadere=|Molla Hasan=
+166501	Korucak Mah.	Karaşitler=|Korucak Alikan=|Korucak Düdan~|Korucak=|Körükdere=|Zımak=|Şemdere=|Şemdere-=
+166509	Kozluk Mah.	Kozluk=|Kozluk Milli=|Salikler=
+166409	Koçköy Mah.	Alhamlar=|Lar=|Macurlar=|Soki=|İlhılhan=
+166411	Köklükaya Mah.	Erengiz=|Kerkinoz=|Köklükaya Merkez=|Seku=|Şelikler=
+166517	Körme Mah.	Gazigüreş=|Gijan=|Kenenuş=|Körme=|Tatlıkale=|Şark=
+52022	Köylü Mah.	Dr.necdet Ayaydın@|Harmanlar@|Hükümet@|Kanalboyu@|Karabulut~|Karşı@|Konutlar=|Köylü Değirmen~|Osman Güleryüz@|Pazar@|Tütünlük~
+166415	Meşedibi Mah.	Akyamaç=|Hendo=|Landeresi=|Meşedibi Merkez=
+166347	Nohutlu Mah.	Altıntepe~|Ateş=|Belediye@|Cami~|Cami1~|Dışkaya 1=|Dışkaya=|Elmalı 1~|Elmalı 2~|Elmalı 3~|Elmalı~|Hacılar~|Kardelen@|Kardelen1~|Karşıyaka~|Karşıyaka1~|Karşıyaka2~|Kiraz~|Merkez@|Merkez1~|Nohutlu Yeniyol 1~|Nohutlu Yeniyol 2~|Nohutlu Yeniyol 3~|Nohutlu Yeniyol 4~|Nohutlu Yeniyol 5~|Vatan 1@|Vatan 4@|Vatan 7@|Vatan@|Yamanlar~|Yiğitler=|Özal@|Özal1~
+166417	Ormaniçi Mah.	Gacolan=|Ormaniçi Merkez=|Yongalı=|Çulçon=|Şakil=
+166425	Pazarcık Mah.	Akpınar=|Ciban=|Dağükan=|Gemiran=|Gemiran1=|Görsalan=|Hacaran 2=|Hacaran=|Kasan=|Köribo=|Nevsipazarcık=|Nican=|Pazarcık (pazarcık)=|Pazarcık=|Şakil=
+166413	Poskıran Mah.	Aşağı Özdoğanlar=|Barı Baruj=|Gözgan=|Hacı Zoran=|Hamet=|Hasanlar=|Kılan=|Kırtan=|Mezra=|Müzik=|Ommanlar=|Poskıran Karan=|Poskıran Merkez=|Özdoğanlar=
+166525	Sahilköy Mah.	Sahilköy=
+166541	Söğütlü Mah.	Cimikan=|Güldan=|Kulaklı=|Merkez Yayla Ev=|Söğütlü Merkez=
+166431	Tatlıcak Mah.	Ahmetler=|Gölpınar=|Köseler=|Mirzolar=|Nergizler=|Silcikuşağı=|Tatlıcak Merkez=|Çığırlı1=|Özkaşlar=
+52023	Taşbaşı Mah.	Akseki 1~|Akseki 2~|Akseki 3~|Akseki 4~|Akseki~|Atatürk@|Dağ=|Depo~|Değirmendere=|Dut~|Halit Eren@|Hükümet@|Kanal Boyu@|Kanalboyu@|Kenan İpek@|Köprü 1~|Köprü~|Köylü Dr. Necdet Ayaydın@|Necati Anadol 1@|Necati Anadol@|Okul~|Taş~|Taşbaşı Yeniyol 3~|Tepebaşı~|Yatılı İlk Öğretim Bölge Okulu=|Yenı Yol 1~|Yerliyurt~|Ziraat~|Çağlayan~|Çıkmaz~
+166429	Taşmış Mah.	Beyazdut=|Duyumlu=|Gömikan=|Kerer=|Megol=|Taşmış Karataş=|Taşmış Kozluk=|Taşmış=|Çermik=
+166551	Taştepe Mah.	Huri=|Korkmazlar=|Sezer=|Sosi=|Taştepe Merkez=
+166559	Tekederesi Mah.	Aliseydi=|Eski Tekederesi=|Gelcük=|Hamgiran=|Palak=|Üç Kardeş=
+166435	Teluşağı Mah.	Büyük Paşa=|Teluşağı Merkez=|Çolak=
+166343	Tepehan Mah.	Arguça=|Baysılan=|Bağırsak Deresi=|Dereboyu=|Güldiken=|Hakverdi=|Hıdan=|Hıraba=|Keran=|Keşan=|Kılyan=|Serçan=|Sevik=|Sinan Merkez=|Solhan=|Sılmaçan=|Tarlabaşı=|Torik=|Tutumlu=|Uzunyol=|Zeynan=|Çavuşhan=|Çem=
+166567	Ulutaş Mah.	Düdan=|Kürükdere=|Ulutaş Merkez=
+166439	Uzunkoru Mah.	Aliyan=|Kudari=|Uzunkoru=
+166571	Uzuntaş Mah.	Gelipoli=|Girgam=|Mustaliyan=|Mustaliyan-~|Narincik=|Sincirek=|Torik-~|Uzuntaş Merkez=|Vardiler-~|Yolüstü=|Şallıyan=
+166441	Yamaç Mah.	Güllü=|Narcak=|Sağırlar=|Yamaç=
+166577	Yandere Mah.	Karataş=|Muskaman=|Yandere=
+166579	Yazıca Mah.	Avde=|Göze=|Gülhan=|Hüsgaz=|Kerikan=|Sosan=|Sıltıkan=|Yazıca Maman=|Zivan=
+166443	Yediyol Mah.	Bekirmişler=|Kollon=|Omikan=|Resan=
+166581	Yeşildere Mah.	Gerto=|Hütan=|Mamüsük=|Yeşildere Merkez=|Yolboyu=
+166475	Çamlıdere Mah.	Akköse=|Aşıktarla=|Milli=|Vardiler=|Çamlıdere=
+166373	Çayköy Mah.	Hasimustafa=|Körtik=|Çayköy=
+166375	Çengelli Mah.	Çengelli=
+166379	Çukuroymağı Mah.	Dölek=|Çukuroymağı 1=|Çukuroymağı=
+166377	Çığırlı Mah.	Kalikuşağı=|Kalıkuşağı Mezrası=|Maman=|Çiran=|Çığırlı=|Çığırlı1=
+166419	Örencik Mah.	Balli=|Dereağazı=|Hergül=|Murgar=|Örencik Karagöl=|Örencik=
+166421	Örmeli Mah.	Değirmen=|Haraba=|Kasar=|Köyönü=|Mağara=|Mezarlık=|Silan=|Yazı=
+166423	Örnekköy Mah.	Örnekköy=
+166575	Üçyaka Mah.	Akbay=|Çakır=|Üçyaka Merkez=|İncebaylar=
+166437	Şiro Taraksu Mah.	Tosunlu=
+166529	Şükan Mah.	Aşıktarla=|Cefikan=|Karan=|Uran=|Vardiler=|Şiğe=|Şükan Merkez=|Şükan Milli=

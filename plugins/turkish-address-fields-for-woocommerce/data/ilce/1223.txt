@@ -1,0 +1,65 @@
+90604	Ali Bey Mah.	543~|544~|546~|547~|Alaadin@|Bahçe~|Banka~|Batar~|Borçin~|Bülbül~|Civani~|Ediz~|Ekinciler@|Engin_1~|Ensari~|Ermiş~|Eski Çarşı~|Eski Çarşı/1~|Gergin~|Geçit~|Kalaycılar~|Kılıç~|Mem-i Ala~|Meydan Başı@|Mir Abdal@|Nehir@|Oktay~|Onur~|Orhan Doğan@|Park@|Sabuncular~|Saraç~|Seba~|Selektor~|Siyahtepe~|Tekin~|Temizer~|Tozan~|Unan@|Unan/1~|Yardımcılar~|Yeni Çarşı@|Zümrüt~|Zık~|Çiçek~|Özen~|Ülger~|Üçyol~|Şeker~|Şeker/1~|Şerafettin Elçi@
+133437	Aşağıkonak Köyü	Aşağıkonak=
+98451	Aşağıçeşme Köyü, Aşağıçeşme Mezrası	Aşağıçeşme=
+93895	Bağlarbaşı Köyü	Bağlarbaşı=
+93879	Bozalan Köyü	Bozalan=
+93875	Bozalan Köyü, Girikova Mezrası	Girikova=
+93882	Bozalan Köyü, Kiriş Mezrası	Kiriş Mezrası - 1902-~|Kiriş Mezrası - 1911-~|Kiriş Mezrası - Kiriş=|Kiriş Mezrası=|Kiriş Mezrası- 1917-~|Kiriş Mezrası-1901-~
+93881	Bozalan Köyü, Seyrantepe Mezrası	Seyrantepe=
+93876	Bozalan Köyü, Yukarıkonak Mezrası	Yukarıkonak=
+93877	Bozalan Köyü, İnci Mezrası	İnci=
+139966	Cizre Osb Mah.	1 Nolu@|2 Nolu@|3 Nolu@|4 Nolu@|5 Nolu@|6 Nolu@|7 Nolu@
+90605	Cudi Mah.	1085~|1086~|1087~|1088~|1089~|1090~|1097~|1098~|1099~|1100~|1101~|1102~|1103~|1104~|801~|802~|8105~|8106~|813~|814~|817~|818~|819~|820~|821~|822~|823~|824~|825~|825/1~|826~|827~|828~|828/1~|829@|829/1~|833~|835~|841~|845~|846~|847~|848~|849~|850~|851~|852~|853~|854~|855~|856~|857~|858~|859~|861~|861/1~|862~|863~|864~|865~|866~|866/1~|867~|868~|869~|870~|871~|872~|873~|873/1~|874~|875~|876-~|877~|880~|881~|883~|884~|885~|886-~|887~|888~|889~|890~|891~|892~|893~|894~|896~|897~|898~|Acet~|Ak~|Akın~|Alt~|Alt/1~|Artak~|Arıcan~|Aslan~|Ay~|Aşkın~|Aşkınlar~|Aşuk~|Bagatekin~|Bahar~|Baykara~|Bayır~|Bağ_1~|Bağcı~|Bedirhan~|Bengin~|Besta@|Beyazit~|Binzet~|Bostancı@|Burcan~|Burcan/1~|Burhan~|Burçin~|Cabas~|Caferi Sadık@|Camii_1~|Can~|Canlı~|Cemal Gürsel@|Cemal Gürsel/1~|Ceylan~|Dag/1~|Danyal~|Dağ@|Dağdibi~|Deniz~|Devran~|Dilim~|Dolma~|Doğuş~|Doğuş/1~|Durmaz~|Ebul İz@|Emirtajdin@|Endüstri~|Engin~|Erdoğmuş~|Erçil~|Evrim~|Filiz~|Finik~|Gazel~|Gülen@|Gülüşük~|Gün~|Gündüz~|Hani~|Herekol~|Huzur~|Karakartal~|Karma~|Kato~|Kaynar~|Kehni Hacer~|Keskin~|Konut~|Madak~|Mehmet Akif~|Mehmet Fatih~|Mehmetçik~|Meltem~|Mem U Zin%|Menekşe~|Mercan~|Merdan~|Mert~|Mesut~|Mezbaha@|Misket~|Mungan Cudi~|Nayır~|Nergis~|Nergiz~|Nergizi@|Neval~|Nil~|Nisan~|Ofis~|Orun~|Oruç~|Oğurlu~|Rengin~|Renk~|Reyhan~|Rüya~|Sal~|Sanat~|Sarmaşık~|Sarıyıldız~|Seher~|Selman~|Selçuk~|Serdar~|Serin~|Sitti Hayat~|Sungur~|Susam~|Sümbül~|Sırt~|Tanış~|Taşlık~|Tek~|Tepe~|Toki Altın~|Uludağ~|Uluç~|Uğur~|Vatan~|Viran-~|Yamaç~|Yaprak@|Yarma~|Yavuz~|Yavşan~|Yayla~|Yaşar~|Yelken~|Yeni Mezbahane@|Yenıyol~|Yokuşlu~|Yumurta~|Yıldırım~|Zaman~|Zeren~|Zeynel Abidin~|Ziraat@|Zübeyde~|Çalışkan~|Çevre Yolu%|Çevre Yolu~|Çıkmaz_1~|Ömer Hayyam@|Önder~|Ördek~|Özdemir~|Özdemir/1~|Özgün~|Özkaya~|İdil%|İdris~|Şan~|Şehitlik~|Şemdin~|Şimşek~|Şirin~
+90606	Dağ Kapı Mah.	410~|437~|451~|452~|453~|455~|457~|461~|462~|471~|Arafat~|Arıkan~|Bayam~|Bayırağa~|Budak~|Canlar~|Dere@|Değer~|Dursun~|Efe~|Ekinciler@|Ersoy~|Gaziler~|Haşimi~|Hizar~|Kader~|Kartal~|Kavaflar~|Komut~|Kömürcü~|Köprübaşı~|Laleli~|Matyar~|Mem U Zin%|Mir Abdal@|Nesimi@|Orun_1~|Sapan~|Satıcı~|Terziler~|Umutlu~|Uçkun~|Varışlı~|Yakışan@|Yeni~|Yeni Çarşı@|Yıldız~|Çağırcı~|Çıkmaz~|Şeftali~|Şen@|Şenkapı~|Şerafettin Elçi@
+90607	Dicle Mah.	105~|Baran~|Berk~|Beşiktaş~|Billur~|Derya~|Dicle@|Doğan~|Erzen~|Garip~|Hastane@|Kerem~|Lokman~|Mimar Sinan@|Namık~|Nurullah@|Orhan Doğan@|Sanayi@|Sarıgül~|Yafes%|Yapraklı~|Çevik~|İrci~|İzzet Kezer@
+93886	Dirsekli Köyü, Konutlar Mezrası	1415~|1415/1~|1417~|1418~|1420~|1422~|1423~|1424~|1424/1~|1425~|1425-a~|1425/3~|1426~|1426-a~|1427~|1428~|1428-a~|1429~|1430~|1431~|1433~|1434~|1436~|1436/1~|1438~|1439~|1440~|1442~|1444~|Konak 1396=|Konutlar Köybağlısı=|Toki1~|Şırnak-%|Şırnak3~
+185266	Dirsekli Köyü, Mücavir Dışı Mevkii	Avafırış=|Bakartal Mezra=|Dirsekli=|Dırseklı=|Mirmijdin Mezrası Şırnak Yeni Çevre Yolu=
+93887	Dirsekli Köyü, Zuran Mezrası	- Köy$|1407=|1408=|1409=|1410=|1411=|1412=|1413=|1414=|1416~|Kumocağı~|Zuran Köybağlısı=|Zuran~|Şırnak_1~
+93888	Dirsekli Köyü, İsağa Mezrası	1401=|1403~|1404=|1410- Köy$|İsaağa Köybağlısı=|İsaağa~|Şırnak1~
+93897	Düzova Köyü	Düzova=
+93898	Erdem Köyü	Erdem=
+93901	Gürsu Köyü	Gürsu=
+93899	Güçlü Köyü	Güçlü=
+93900	Güçlü Köyü, Kolgezer Mezrası	Kolgezer=
+93892	Havuzlu Köyü	Havuzlu=
+90608	Kale Mah.	209~|211~|Aydın~|Balıkçılar~|Caba~|Canlar~|Dere@|Değer~|Direkçiler~|Ekinciler@|Ekinciler_1~|Hastane@|Hisar~|Hükümet~|Karaca~|Kasırga~|Kömürcü~|Memurin~|Meydan Başı@|Nurullah@|Orhan Doğan@|Park@|Topal~|Yiğit~|Ziyaret~|Çaylak~|Çaylak-~|İşlek~|Şenkale~|Şenkapı~|Şerafettin Elçi@
+93902	Katran Köyü	Katran=
+93903	Kaya Köyü	Kaya=
+93904	Kaya Köyü, Reşmil Mezrası	Reşmil=
+93905	Kebeli Köyü	Kebeli=
+140392	Keruh Köyü	Keruh=
+93894	Kocapınar Köyü	Kocapınar=
+90609	Konak Mah.	1120~|1121~|1122~|1123~|1124~|1125~|1126~|1127~|1128~|1129~|1130~|1131~|1132~|1133~|1134~|1135~|1136~|1137~|1138~|1139~|1140~|1141~|1142~|1143~|1144~|1145~|1146~|1147~|1148~|1149~|1150~|1151~|1152~|1153~|1300~|1300-a~|1301~|1302~|1302-a~|1303~|1304~|1304/a~|1304/a1~|1305~|1305/1~|1306~|1307~|1307/1~|1307a~|1308~|1309~|1310~|1311~|1312~|1313~|1313a~|1314@|1315~|1316~|1316/a~|1317~|1317/a~|1318~|1318/a~|1319~|1320~|1321~|1322~|1323~|1324~|1324a~|1325~|1326-~|1327~|1328~|1328/a~|1329~|1330~|1331~|1332~|1333~|1334~|1334/1~|1334/2~|1334/a~|1335~|1336~|1337.~|1338~|1338a-~|1339~|1340~|1341~|1342~|1344~|1346~|1347~|1348~|1349~|1350~|1351~|1352~|1352/1~|1352/a~|1353~|1354~|1355~|1357~|1358~|1359~|1360~|1361~|1364~|1365-~|1366~|1367~|1371~|1372~|1373~|1374~|1375~|1375/1~|1376~|1377~|1380~|1381~|1383-~|1384~|1385~|1389~|1390~|1395 Toki@|1395/1@|1396~|1396/3~|1397~|1398~|21.sokak-~|Aaa~|Arı~|Balıkçı@|Banihani~|Bozalan(botaş)@|Camii~|Cezaevi@|Cezaevi/1~|Cezaevi/2~|Cezaevi/3~|Cezaevi/4~|Cezaevi/5~|Eski Sanayi@|Filiz-~|Filiz_1~|Göçmen~|Gülveren~|Han~|Heybetli~|Işıkçı~|Işıkçı1~|Karakaş~|Kardelen~|Kiriş@|Kiriş/1%|Murat~|Nehir Yanı~|Patika~|Pınar~|Silopi%|Slopi 1~|Sonbahar~|Timorlenk~|Toki 1@|Toki@|Ustalar@|Ustalar/1~|Yeni Şırnak@|Çukur~|Şık~|Şırnak@
+93908	Korucu Köyü	Korucu=
+93910	Korucu Köyü, Siyahtepe Mezrası	Siyahkaya=
+93909	Korucu Köyü, Örencik Mezrası	Örencik=
+93906	Koçtepe Köyü	Koçtepe=
+93907	Koçtepe Köyü, Şabani Mezrası	Şabani=
+98811	Kurtuluş Köyü	Kurtuluş=
+93885	Kurtuluş Köyü, Kurtuluş Merkez Mezrası	- Köy$|1501~|1503~|1505~|1505/1~|1506~|1507~|1507/1~|1507/2~|1507/3~|1508~|1509~|1510-~|1514~|1515~|1516~|1518~|1529~|1530~|Şırnak-%|Şırnak4~
+185260	Kurtuluş Köyü, Mücavir Dışı Mevkii	
+93889	Kuştepe Köyü	1057~|1058~|1059~|1060~|1061~|1062~|1063~|1064~|1065~|1066~|1067~|1068~|1069~|1070~|1071~|1072~|1073~|1074~|1075~|1076~|1077~|1078~|1079~|1080~|1081~|1082~|1083~|1084~|1091~|1092~|1093~|1094~|1095~|1096~|1701-~|1702-~|1704-~|1705-~|1706-~|1710-~|Basisk-@|Eğitim-@|Kuştepe_1=|Çevre Yolu-%|İdil-%
+185262	Kuştepe Köyü, Mücavir Dışı Mevkii	
+90610	Nur Mah.	1105~|1106~|1107~|1108~|1109~|1110~|1111~|1112~|1113~|1114~|1115~|1996~|901~|907~|908~|909~|910~|915~|920~|922(yaprak)~|924(yarma)~|926~|927~|928~|929~|933~|937~|960~|961~|965~|966 (dicle)~|970~|972~|980~|Akaydın@|Akçakaya~|Alakuş~|Anıt~|Arma~|Arma/1~|Ayaz~|Ayaz/1~|Aşut~|Aşut/1~|Ballı~|Batur~|Bağ~|Bağlar~|Beylerbeyi~|Birlik~|Botaş%|Bulut~|Cemal~|Dayar~|Deniz.@|Dilek~|Dinler~|Ercan (botaş)~|Eren~|Ersin~|Esen@|Eser~|Esmer~|Fırat~|Gal~|Gasyak~|Girne~|Gönül~|Gül~|Güneş~|Kantik~|Karanfil~|Karataş~|Kavşak~|Kaynak~|Kent~|Keser~|Kiraz~|Kurami~|Kuştepe~|Köprülü~|Küçük~|Kırık Köprü~|Kısa~|Lale~|Manolya~|Meçhul~|Mirhasan~|Mirhasan/1~|Mungan@|Müldür~|Nerse~|Nur~|Onursal~|Padak~|Rıfat~|Sahil~|Sahil/1~|Sahil/2~|Saltak~|Saray~|Seyda~|Seç~|Su Deposu@|Sultan~|Tanış_1~|Tomurcuk~|Tuncer~|Turbo~|Umut~|Un Fabrikası~|Uzun~|Varol@|Yafes%|Yalçın~|Yazıcı~|Yağmur~|Yıldırım_1~|Yılmaz~|Çalı~|Çeken~|Çimen~|Özcan~|Özdemir_1~|Özgür~|Özkan@|Üçkan~|İdil 1~|İdil%|İmar1~|İnci~|İstek~|İşletme~|Şaban~
+93911	Sulak Köyü	Sulak=|Çavuş=
+90611	Sur Mah.	1001~|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1019~|1020~|1021~|1023~|1024~|1025~|1026~|1027~|1028~|1029~|1030~|1031~|1032~|1033~|1034~|1035~|1036~|1037~|1038~|1039~|1040~|1041~|1042~|1043~|1044~|1045~|1047~|1048~|1049~|1050~|1051~|1052~|1053~|1054~|1055~|1056~|1803 (797)~|1807~|1807/1~|1807/2~|1807/3~|1808~|1809 (799)~|1812~|1813 (798)-~|2022~|34.sokak-~|700~|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|7102~|7104~|7105~|7106~|711~|7115~|713~|7133-~|7136-~|7137-~|7138-~|714~|715-~|716~|716.~|717~|717/1~|718~|719~|720~|721~|728-~|732~|732/1~|733~|736~|737~|738-~|741~|742~|743~|759~|761~|762~|764~|767~|768~|769~|773~|775-~|781 1.~|781~|785~|787~|788~|790~|791~|792~|793~|794~|800/1~|805~|Adak~|Ahmet Elcezeri~|Akdeniz-~|Altın-~|Amine Yaşın@|Avşar~|Aydınlık~|Banicırf~|Beyazit-~|Cengiz~|Civani_1~|Damla~|Divan~|Ebul İz@|Elcezeri~|Erol~|Eski Köprü~|Eski Nuasaybin@|Evin~|Ferhat~|Hazar~|Hekim Lokman@|Helin~|Hızır@|Işık~|Kanal~|Kanarya~|Karanfilci~|Kaya~|Kehni Hamdi~|Kehni Hamdi.~|Kehni Hamdi.1~|Köprülü_1~|Kısmet~|Mem U Zin 1.~|Mem U Zin%|Mem/1~|Memu Zin~|Menfez~|Mir Abdal@|Nalbant Deresi~|Nusaybin 1.~|Nusaybin%|Oğuz~|Papatya~|Park@|Pelda~|Pelçim-~|Pınarlı~|Salman~|Serhat~|Site~|Sitti Nefis@|Su Kanalı~|Sur~|Taslak Yol.~|Taslak785~|Terminal@|Toprak~|Turna~|Uygar~|Uğun~|Yeni Hal~|Yeni Yol 1~|Yeşilyurt@|Yeşim~|Yunus~|Yüce~|Çavuş/1~|Çevre Yolu%|Çınar~|Öner~|Üzüm~|İbnulesir~|İlk~|İsmail Ebul-iz~|Şahin Tepe@
+93912	Taşhöyük Köyü	Taşhöyük=
+93913	Tepeönü Köyü	Tepeönü=
+93890	Ulaş Köyü	Ulaş=
+93915	Uğur Köyü	Uğur=
+93916	Varlık Köyü	Varlık=
+90613	Yafes Mah.	1116~|1117~|1118~|1119~|23 Nisan~|601~|605~|607~|609~|611~|613~|614~|615~|616~|617~|618~|621~|627~|628~|635~|639~|Abdulrazzak~|Akay~|Asma~|Bedirhan Cad@|Berivan@|Bilen~|Dede~|Denizli~|Ertene~|Fahri~|Fenerbahçe~|Göken~|Güney~|Hevin~|Karanfiller~|Mesut 6~|Meydan Başı@|Meşe~|Mir Abdal@|Morkan~|Nehir@|Nihat~|Nusaybin%|Park@|Pır~|Saltık~|Serdar 6~|Silopi Çevre Yolu 1~|Silopi Çevre Yolu@|Silopi Çevre Yolu/1~|Sitti Nefis@|Suadiye~|Sınır~|Tepeli~|Tevfik Yiğit~|Unan@|Yağmurlu~|Yaşam~|Çam~|Çiğdem~|Çınarlı~|Öner~|İmam Hatip@
+93893	Yakacık Köyü	Yakacık=
+185254	Yakacık Köyü, Yakacık Mücavir Mevkii	Yakacık Mücavir=
+93917	Yalıntepe Köyü	Yalıntepe=
+93891	Yeşilyurt Köyü	Yeşilyurt=
+185258	Yeşilyurt Köyü, Yeşilyurt Mücavir Mevkii	Yeşilyurt Mücavir=
+99958	Yeşilyurt Köyü, Yukarıçeşme Mezrası Mevkii	Köy=
+93884	Çatal Köyü	1605-~|840~|Ocak-@|Çatal=|Çatal-@
+93883	Çatal Köyü, Mirhasen Mezrası	- Köy$|1602-~|Mirhasen=
+185264	Çatal Köyü, Mücavir Dışı Mevkii	
+93896	Çavuş Köyü	Çavuş=
+185256	Çavuş Köyü, Çavuş Mücavir Mevkii	Çavuş Mücavir=
+98804	Çağıl Köyü	Çağıl=
+93914	Çağıl Köyü, Çağıl Merkez Mezrası	Çağıl Merkez=
+90612	Şah Mah.	303~|343~|Anter~|Ara@|Aydınlar~|Barboros~|Barış~|Beyaz Gül~|Bingöl~|Caferi@|Cudi~|Cumhuriyet@|Dere@|Deryalı~|Fevzi Çakmak~|Fidan~|Gümrük~|Güneyli~|Güneşli~|Hökenek@|Kalkan~|Kayalı~|Marmara~|Mem U Zin%|Mevlana~|Mümin~|Nurullah@|Orhan Doğan@|Sanayi@|Sanrı~|Sencerşah~|Serhatlı~|Tunç~|Veteriner@|Yakışan@|Yıldızlı~|Zerenli~|Özalp~|Özden~|İpekyolu Camii~

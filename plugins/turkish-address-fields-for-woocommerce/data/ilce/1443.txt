@@ -1,0 +1,43 @@
+177325	Adalı Mah.	Adalı=
+177371	Ataköy Mah.	Ataköy=|Damlapınar=
+177321	Bahçe Mah.	01~|010~|011~|012~|013~|014~|015~|016~|017~|018~|019~|02~|020~|03~|039~|04~|05~|06~|07~|08~|09~|21~|22~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|30.~|31.~|32.~|33.~|34.~|35.~|36.~|37.~|38.~|414~|428~|429~|445~|446~|Akdeniz Bahçe 1~|Akdeniz Bahçe 2~|Akdeniz Bahçe@|Atatürk Bahçe 1~|Atatürk Bahçe 2~|Atatürk Bahçe 3~|Atatürk Bahçe 4~|Atatürk Bahçe@|Bahce Yenı Yol~|Bahce Yenı Yol2~|Bahce Yenı Yol3~|Bahçe /1~|Bahçe /2~|Bahçe 1~|Bahçe 10~|Bahçe 11~|Bahçe 12~|Bahçe 13~|Bahçe 14~|Bahçe 16~|Bahçe 2~|Bahçe 3~|Bahçe 5~|Bahçe 6~|Bahçe 7~|Bahçe 8~|Bahçe 9~|Bahçe@|Bahçe Yeniyol5~|Bahçe Yeniyol6~|Dağınık Evler 1~|Dağınık Evler~|Kanal Üstü 1~|Kanal Üstü 2~|Kanalüstü~|Kavşak~|Kumdere~|Mustafa Yılmaz~|Yeniyol1~|Üniversite 1~|Üniversite@|Üniversite1~|İsmet İnönü 1~|İsmet İnönü 2~|İsmet İnönü 3~|İsmet İnönü@|İstiklal 1~|İstiklal 12~|İstiklal 13~|İstiklal 2~|İstiklal 3~|İstiklal 4~|İstiklal@
+177327	Bebeli Mah.	Bebeli=|Kesik=
+177375	Damlapınar Mah.	Damlapınar=
+177337	Develiören Mah.	Develiören=
+177339	Dolaplı Mah.	Dolaplı=
+177341	Gölkaya Mah.	Gölkaya=
+177343	Hacıhasan Mah.	Dolaplı=|Hacıhasan=|Kiremitli=
+177377	Hasırağacı Mah.	Hasırağacı=|Tuzkuyusu=
+177345	Helvacı Mah.	Helvacı=
+177381	Kapı Mah.	Kapı=
+177383	Karagöçer Mah.	Karagöçer=|İnneplihüyüğü=
+177349	Karataş Mah.	Karataş=
+350	Karşıyaka Mah.	225~|230@|231@|233~|234~|253~|254~|255~|257~|258~|259~|260~|261~|262~|263~|264~|265~|266~|267~|268~|271~|272~|273~|274~|278~|279~|280~|281~|282~|283~|284~|285@|286~|287~|288~|289~|290~|291~|292~|293~|294~|295~|296~|297~|298~|299~|301~|302~|303~|304~|305~|306~|307~|315~|318@|319~|320~|321~|322~|323~|324~|325~|326~|329~|330~|331~|332~|333~|334~|335~|336~|337~|338~|339~|340~|342~|344~|345~|346~|348~|349~|350~|351~|352~|353~|354~|355~|356@|357~|358~|360~|361~|362~|363~|364~|365~|366~|367~|367/1~|368~|372~|373~|391~|430~|Eyüp Esin~|Karsıyaka Yenı Yol1~|Karsıyaka Yenıyol~|Karşıya 11~|Karşıyaka 1~|Karşıyaka 10~|Karşıyaka 14~|Karşıyaka 15~|Karşıyaka 2~|Karşıyaka 3~|Karşıyaka 4~|Karşıyaka 5~|Karşıyaka 6~|Karşıyaka 7~|Karşıyaka 8~|Karşıyaka 9~|Mutlu Dede@|Sahil@
+351	Kemaliye Mah.	109~|111~|112~|112/1~|113~|114~|115~|116~|117~|118~|119~|121~|122~|123~|124~|127~|128~|129~|130~|131~|133~|134~|135~|136~|138~|139~|140~|141~|142~|143~|144~|145~|146~|147~|148~|149~|150~|151~|152~|153~|155~|156~|157~|158~|159~|160~|161~|162~|163~|164~|165~|166~|167~|168~|169~|171~|172~|173~|174~|175-~|176~|177~|178~|179~|180~|181~|185~|186~|188~|190~|191~|192~|193~|194~|195~|196~|198~|199~|200~|201~|202~|203~|205~|206~|207~|208~|209~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|228~|229~|243~|257~|369~|370~|374~|375~|376~|377~|378~|379~|385~|386~|387~|392~|393~|394~|396~|398~|400@|402~|403@|404~|406~|407~|409~|410~|413~|415~|416~|417-~|418~|419-~|425~|427~|430~|432~|433~|434~|435~|436~|440~|440/2~|441~|442~|443~|Ata~|Atatürk@|Bağlar~|Cumhuriyet@|Hasan Şaş@|Karataş=|Kemaliye 1~|Kemaliye 2~|Kemaliye 3~|Kemaliye Yeniyol5~|Kemalıye Yenıyol~|Kemalıye Yenıyol1~|Kemalıye Yenıyol3~|Kemalıye Yenıyol4~|Kemalıyeyenıyol~|Mehmet Akif Ersoy@|Mutlu Dede@|Sahil@
+177351	Kesik Mah.	Kesik=
+177357	Kiremitli Mah.	Hacıhasan=|Kiremitli=
+177353	Kırhasan Mah.	Kırhasan=|İsahacılı=
+177355	Kızıltahta Mah.	Kızıltahta=
+177385	Meletmez Mah.	Dolaplı=|Meletmez=
+352	Orta Mah.	225~|230@|231@|232~|233~|234~|235~|236~|237~|238~|239~|240~|241~|242~|243~|244~|245~|246~|247~|248~|249~|250~|251~|252~|Cumhuriyet@|Hasan Şaş@|Mehmet Akif Ersoy@|Mutlu Dede@
+177359	Oymaklı Mah.	Oymaklı=|Yüzbaşı=
+177387	Sarımsak Mah.	Sarımsak=
+177361	Sirkenli Mah.	Sirkenli=
+177389	Tabaklar Mah.	Aydınlar=|Tabaklar=
+177391	Tabur Mah.	Sahil/tabur=|Tabur=
+177363	Terliksiz Mah.	Terliksiz=|Çukurkamış=
+177365	Topraklı Mah.	Terliksiz=|Topraklı=
+177393	Tuzkuyusu Mah.	Tuzkuyusu=
+177323	Tuzla Mah.	408~|Adana Tuzla 1~|Adana Tuzla 2~|Adana Tuzla 3~|Adana Tuzla@|Adana Tuzla/1~|Adana Uğurkaya Tarafı@|Adnan Menderes~|Akan~|Akar@|Akar Uğurkaya Tarafı@|Akdeniz@|Ali Köse~|Alpaslan~|Alpaslan1~|Altınkum Plajı=|Anafartalar@|Asım~|Atatürk Tuzla@|Aşıklar~|Barbaros Hayrettin@|Bülbül~|Cami~|Cengiz Topel~|Cengiz Topel/1~|Cumhuriyet Tuzla 1 Myd.|Cumhuriyet Tuzla@|Dalyan~|Dar~|Dar1~|Değirmen~|Donma~|Doğan~|Doğru-~|Fatih@|Fatih Terim@|Gazi~|Gül~|Güneş~|Hacılar~|Hacılar1~|Hakkıbey@|Hilal~|Ilıkkanlı~|Kanarya~|Karalar~|Karanfil~|Kardelen~|Kartal~|Kazım Karabekir@|Kemaliye Yeniyol6~|Kenan Evren@|Kenan Evren(uğurkaya Tarafı)-@|Kıbrıs@|Lale~|Mahmut Özen@|Mahmut Özen1~|Mareşal Feyzi Çakmak~|Mehmet Akif 1~|Mehmet Akif 2~|Mehmet Akif 3~|Mehmet Akif@|Mimar Sinan 1~|Mimar Sinan~|Mustafa Kemal~|Narlıdede-~|Okul~|Okul1~|Palmiye~|Piri Reis~|Portakal~|Previze~|Previze1~|Pınar@|Pınar Uğurkaya Tarafı@|Suna~|Sürmeli 1~|Sürmeli~|Talip Ekici@|Turgut Reis~|Tuzla Yenı Yol~|Tuzla Yenı Yol1~|Tuzla Yenı Yol2~|Tuzlabilinmeyen~|Tuzlayeniyol1~|Ulubey~|Vatan-~|Yalçın Donma 1~|Yalçın Donma@|Yeni Tuzla~|Yeni Yol 1~|Yeni Yol~|Yeni Yol Tuzla~|Yeni Yol Tuzla2~|Yeni Yol Tuzla3~|Yeniyol3~|Yıldız~|Zambak~|Çakmak@|Çoraklık=|Çölkesen~|İsmet İnönü Tuzla~|Şahin~
+177395	Yassıveren Mah.	Yassıveren=
+177367	Yemişli Mah.	Yemişli=
+353	Yeni Mah.	1~|10~|100~|101~|102~|1022~|103~|104~|105~|106~|107~|108~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21 Yeni~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|35~|36~|37~|371~|38~|380~|381~|382~|383~|384~|388~|389~|39~|390~|395~|397~|399~|4~|40~|401~|405~|41~|411-~|412-~|42~|420~|421~|422~|423~|424~|426~|43~|431~|437-~|44~|444~|448-~|449-~|45~|46~|47~|48~|49~|5~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6~|60~|61~|62~|63~|64~|65~|66~|67~|68~|69~|7~|70~|72~|73~|74~|75~|76~|77~|78~|79~|8~|85~|86~|87~|88~|89@|89/1~|9~|90~|91~|92~|93~|94~|95~|96~|97~|98~|99~|Atatürk@|Bağlantı Yolu 1~|Bilinmeyen 10~|Bilinmeyen 11~|Bilinmeyen 12~|Bilinmeyen 8~|Bilinmeyen 9~|Bilinmeyen Yol1~|Bilinmeyen Yol2~|Bilinmeyen Yol3~|Bilinmeyen Yol4~|Bilinmeyen Yol5~|Bilinmeyen Yol6~|Bilinmeyen Yol7~|Bilinmeyen1~|Cengizhan~|Hasan Arpak~|Karataşyeniyeniyol1~|Karataşyeniyeniyol2~|Orman@|Sahil@
+177397	Yenimurat Mah.	Yenimurat=
+177369	Yüzbaşı Mah.	Yüzbaşı=
+177329	Çakırören Mah.	Çakırören=
+177373	Çavuşlu Mah.	Karagöçer=|Yassıveren=|Çavuşlu=
+177331	Çağşırlı Mah.	Çağşırlı=
+177333	Çimeli Mah.	Çimeli=
+177335	Çukurkamış Mah.	Çukurkamış=
+177379	İnneplihüyüğü Mah.	İnneplihüyüğü=
+177347	İsahacılı Mah.	İsahacılı=

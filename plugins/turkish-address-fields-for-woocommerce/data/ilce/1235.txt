@@ -1,0 +1,45 @@
+99448	Ağaköy Mah.	Ağaköy=
+188347	Aşağıçat Mah.	Aşağıçat=
+188349	Babaderesi Mah.	Babaderesi=
+188353	Bardakçı Mah.	Bardakçı=|Polikan Mezrası=|Venedik Mezrası=|Yeniköy Mezrası=
+188357	Bayındır Mah.	Bayındır=|Bayındır1=
+188351	Bağlıca Mah.	Bağlıca=
+188355	Başköy Mah.	Başköy=
+188359	Bozyazı Mah.	Bozyazı Konutları=|Bozyazı=
+188361	Budaklar Mah.	Budaklar=|Söğütlü=
+188369	Değirmenli Mah.	Alibey=|Değirmenli Konutları=|Değirmenli=|Keki Mezrası~
+188371	Elmapınar Mah.	Butkan Mezrası=|Elmapınar=|Keleşkomu Mezrası~|Kerikan Mezrası~|Yoğunpetek Mezrası=|Yıkılhan Mezrası~
+188375	Göbekören Mah.	Göbekören=
+188377	Gökçeşeyh Mah.	Gökçeşeyh Konutları=|Gökçeşeyh=
+188379	Gölköy Mah.	Gölköy=
+188381	Hatunköy Mah.	Hatunköy=
+188385	Kaplıca Mah.	Hacı Yusuf Mezrası=|Kaplıca=|Yeni Konutlar=
+188387	Karabey Mah.	Karabey=|Karabey1=
+188389	Karaca Mah.	Akpınar=|Dono=|Karaca=|Kılıçderesi=|Selamet~|Tepe=|Yoncalık=
+188391	Karaşeyh Mah.	Karaşeyh Konutları=|Karaşeyh=|Karaşeyh/20~|Melekağa=|Tüysüz-~|Çermeler=
+188395	Kumaşlı Mah.	Aşağı Kumaşlı=|Kumaşlı=
+188397	Kurbanlı Mah.	Kurbanlı Konutları=|Kurbanlı=
+188393	Köseler Mah.	Köseler Afet Konutları=|Köseler=
+29940	Kızılca Mah.	1. Sokak~|2.sokak~|3. Sokak~|4. Sokak~|5. Sokak~|Bilinmeyen4~|Bilinmeyen8~|Camii~|Dere~|Dikici~|Dursunoğlu~|Erzurum Bingöl@|Erzurum Bingöl1~|H.ibrahim~|Hastane-@|Kızılca=|Kızılca Şehitler~|Laloğlu~|Mevlüt~|Mezarlık 1~|Okul~|Temo~|Turgut Özal@|Tüzün~|Usanmaz~|Usanmaz Sokak~|Velioğlu-~|Yamaç~|Yavuz Sultan Selim-@|Çimenler~|Çırık~
+188399	Mollaömer Mah.	Dal=|Demirtaş=|Hasere=|Kolan=|Mollaömer=
+188401	Muratçayırı Mah.	Akdağ~|Beykomu=|Ekinli=|Mecitli-~|Muratçayırı=|Sal=|Tazekom=|Yukarı Muratçayırı=
+29941	Oyuklu Mah.	1.konutlar~|1.sokak~|11. Sokak~|12. Sokak~|13. Sokak~|14. Sokak~|19.sokak~|2.sokak~|3. Sokak~|4. Sokak~|5.sokak~|6. Sokak~|7. Soka~|8. Sokak~|9. Sokak~|Adliye~|Banka~|Belediye Garaj~|Bilinmeyen15~|Bilinmeyen20~|Bilinmeyen23~|Bilinmeyen24~|Bilinmeyen25~|Bilinmeyen26~|Bilinmeyen27~|Bilinmeyen33~|Cumhuriyet@|Efendi~|Emniyet@|Erzurum Bingöl@|Erzurum@|Eski Mahalle~|Eğitim~|Fatih@|Gazi~|Gelgeç~|H.burhanettin@|H.idris~|Hacıresul~|Hastane@|Jandarma~|Kahraman~|Katırcı~|Mezarlık~|Mustafa~|Osman Gülmez~|Rehme~|Tarım~|Umut~|Urfani-~|Yol~|Ziyaret@|Zulam~|Çakal~|İsmizair~|Şaban~|Şalto~|Şehit Osman Gülmez@|Şehit Yüzbaşı Yunus Çelebi~
+188403	Parmaksız Mah.	Afet Konutları 1=|Afet Konutları 2=|Erzurum Bingöl@|Hışto Mezrası=|Işıklar=|Işıklar~|Muzaffer Mezrası=|Parmaksız=
+188405	Saltaş Mah.	Saltaş=|Savcak=|Tirşo=
+188409	Sarıkaya Mah.	Sarıgül-~|Sarıkaya=|Çoburlu=
+188407	Sarıkaşık Mah.	Bayramlar=|Sarıkaşık=|Çobantepe Mezrası=
+188411	Soğukpınar Mah.	Soğukpınar Konutları=|Soğukpınar=
+188413	Söbeçayır Mah.	Cibo Mezrası=|Darabi Mezrası=|Has Mezrası=|Nurettin Mezrası=|Söbeçayır=
+188417	Taşağıl Mah.	Kayışanlı Mezrası-~|Taşağıl=
+188419	Tuzlataşı Mah.	Tuzlataşı=
+29942	Tuzluca Mah.	1. Sokak~|2.sokak~|3. Sokak~|4. Sokak~|5. Sokak~|Adil Bey~|Aktaş~|Aygün~|Bilinmeyen42~|Camii 1~|Culfa~|Dere 1~|Değirmen~|Fatih 1@|Gazi-~|Gülmez~|Gülmez1~|H.faik~|H.ziya~|Hacı Bey~|Hacı Nuri~|Kurtoğlu~|Menderes@|Mezarlık 2~|Molla~|Murtaza~|Okul 1~|Oyuktepe~|Tuzla~|Yarmak Yolu~|Yaşar~|Yeniş~|Yeter~|Çeşme~|Şamaşurt~|Şehit Osman Gülmez-@
+188423	Yarmak Mah.	Gölyusuf=|Yarmak=|Zeynelbey~
+188345	Yavi Mah.	1.=|2.=|3.=|32. Şehitler=|4.=|5.=|6.=|7.=|Barbaros=|Emir=|Erenler=|Mehmet Akif=|Meydan=|Okul1=|Sadrazam=|Tiryaki=|Tuzla-=|Yavi Dere=|Yavi Erzurum=|Yavi Okul=|Yavuz=|Özlem=|İmam Oğlu=|Şehitler=
+188427	Yaylasuyu Mah.	Ahmet 1~|Ahmet~|Hacı Dursun 1~|Hacı Dursun~|Yaylasuyu=
+188431	Yukarıçat Mah.	Yukarıçat=
+188363	Çayırtepe Mah.	Çayırtepe=
+188433	Çimenözü Mah.	Deliktaş=|Kütüklü=|Yuvaklı=|Çimenözü=
+188365	Çirişli Mah.	Çirişli=
+188367	Çukurçayır Mah.	Çukurçayır=
+188383	İşkinli Mah.	Hırhal=|İşkinli=
+188415	Şeyhhasan Mah.	Erzurum Bingöl@|Şeyhhasan Afet Konutları=|Şeyhhasan=

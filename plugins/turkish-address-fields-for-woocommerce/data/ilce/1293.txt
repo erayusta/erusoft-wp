@@ -1,0 +1,26 @@
+22896	Alçıtepe Köyü	Alçıtepe=
+22897	Behramlı Köyü	Behramlı=
+22898	Beşyol Köyü	Beşyol=
+22899	Bigalı Köyü	Bigalı=
+22900	Büyükanafarta Köyü	Büyükanafarta=
+20151	Kemalpaşa Mah.	16.mühimmat Bölük 161. İlave Depolama=|Arif Hikmet@|Arıburnu@|Arıburnu Mevkii=|Arıburnu/1~|Bilinmeyen Cumhuriyet/1~|Bilinmeyen Cumhuriyet/7~|Bilinmeyen Gecekondular/1~|Bilinmeyen Kale/1~|Bilinmeyen Kale/2~|Bilinmeyen Kemalpaşa/1~|Bilinmeyen Kemalpaşa/2~|Bilinmeyen Kilye Mevkii/1=|Bilinmeyen Köprülü Hamdibey/1~|Bilinmeyen Mehmetçik/1~|Bilinmeyen Selahattin Adil/1~|Bilinmeyen Tepealtı/1~|Bilinmeyen Topzeytinlik Yolu/3~|Bilinmeyen Topzeytinlik Yolu/4~|Bilinmeyen Topzeytinlik Yolu/5~|Bilinmeyen Turgut Özal/111~|Bilinmeyen Turgut Özal/6~|Bilinmeyen Turgut Özal6~|Bilinmeyen Vehippaşa/1~|Bilinmeyen Vehippaşa/2~|Bombatepe~|Boğazkent Mevkii=|Cahit Apaydın~|Cesarettepe~|Conkbayırı 1~|Conkbayırı 3~|Conkbayırı~|Conkbayırı/2~|Cumhuriyet 4~|Cumhuriyet@|Cumhurıyet (kemalpasa 'da Kalan Kısmı )- Myd.|Ecebey@|Edirne Çanakkalee@|Enverpaşa~|Gecekondular~|Hakkı Esmi Çıkmaz~|Hasan Ece Çıkmazı~|Kabatepe Mevkii=|Kabatepe~|Kale~|Kemalyeri/kemalpaşa Kalan Kısım~|Kilye Mevkii=|Korugan~|Kum Motel Mevkii=|Kumkamp Azmak Mevkii=|Köprülü Hamdibey~|Mehmet Çavuş~|Mehmetçik~|Palamutluk Mevkii=|Pirireis~|Rıza Tüzgen~|Selahattin Adil~|Su Taksimi Mevkii=|Sulubayram Mevkii=|Süleymanpaşa~|Tabya~|Tepealtı~|Teyyare Meydanı=|Top Zeytinlik Mevkii=|Top Zeytinlik Mevkii/2~|Top Zeytinlik Mevkii/8~|Topzeytinlik Mevkii/1~|Topzeytinlik Yolu~|Topzeytinlik Yolu/6~|Topçular-~|Turgut Özal/ismetpaşada Kalan Kısmı@|Turgut Özal/kemal Paşada Kalan Kısmı@|Turgut Özal/kemal Paşada Kalan Kısmı/1@|Vehippaşa~|Yüzbaşı Mehmet~|Yüzbaşı Mehmet/1~|Yıldız~|Çanakkale 1~|Çanakkale@|Çiftlik Mevkii=|Üsteğmen Nazif Çakmak@|Şehitler~
+22901	Kilidülbahir Köyü, Merkez Mevkii	Bağlar@|Bağlar/1~|Bağlar/2~|Bağlar/3~|Cahidi~|Cahidi/1~|Cahidi/2~|Cahidi/3~|Eyüp Bey~|Hamam~|Hatip~|Hatip/1~|Hatip/2~|Hatip/3~|Hatip/4~|Havuzlar=|Havuzlar/1~|Havuzlar/2~|Havuzlar/3~|Havuzlar1@|Hekim İbrahim~|Hekim İbrahim/1~|Hekim İbrahim/2~|Hekim İbrahim/3~|Hekim İbrahim/4~|Hekim İbrahim/5~|Kale Bayırı=|Kaptan~|Karaca Ahmet Veli Baba 1.nolu~|Karaca Ahmet Veli Baba 2.nolu~|Kasap~|Kaşıklı Dede~|Kilidülbahir3~|Kızılay~|Kızılay/1~|Kızılay/2~|Kızılay/3~|Kızılay/4~|Kızılay/5~|Kızılay/6~|Meydan~|Meydan/1~|Meydan/3~|Meydan/4~|Meydan/5~|Meydan/6~|Meydan/7~|Sinema~|Sinema/1~|Sinema/2~|Trafo~|Trafo/1~|Veli Baba 1.nolu~|Veli Baba~|Yalı@|Yalı/1~|Yalı/2~|Yalı/3~|Yeni Liman@|Yeni Liman/1~|Çarşı@|Çarşı/1~|Çarşı/2~|Şadırvan~|Şadırvan/1~
+22902	Kocadere Köyü	Arıburnu Mevkii=|Bigalı=|Kocadere=|Çanakkale@
+22903	Kumköy Köyü	Bigalı=|Kumköy=|Yolağzı=
+22904	Küçükanafarta Köyü	Küçükanafarta=
+22905	Seddülbahir Köyü	Seddülbahir=
+22909	Seddülbahir Köyü, Azmak Mevkii	Azmak=
+22908	Seddülbahir Köyü, Başçeşme Mevkii	Başçeşme=
+22913	Seddülbahir Köyü, Göztepe Mevkii	Göztepe=
+22906	Seddülbahir Köyü, Merkez Mevkii	
+22907	Seddülbahir Köyü, Morto Koyu Mevkii	Morto Koyu=
+22910	Seddülbahir Köyü, Seddülbahir Duası Mevkii	Seddülbahir Duası=
+22911	Seddülbahir Köyü, Tekke Mevkii	Tekke=
+22914	Seddülbahir Köyü, Topraksırtı Mevkii	Topraksırtı=
+22912	Seddülbahir Köyü, Zığındere Mevkii	Zığındere=
+22915	Yalova Köyü	Yalova=
+22917	Yalova Köyü, Ahıldere Altı Mevkii	Ağılderealtı=|Yalova=
+22916	Yalova Köyü, Boyacıburnu Yalılar Mevkii	Boyacıburnu Yalılar=
+22918	Yalova Köyü, Merkez Mevkii	
+22919	Yolağzı Köyü	Yolağzı=
+20150	İsmetpaşa Mah.	57.alay~|Abide~|Ahmet Meriç~|Ahmet Meriç/1~|Akbaş~|Alay Komutanı Yarbay Hüseyin Avni@|Ali Şefik Bey~|Anafartalar@|Arif Hikmet@|Arif Hikmet/1~|Atatürk@|Atatürk/1~|Atatürk/2~|Atatürk/3~|Ağaderesi~|Cevatpaşa~|Cevatpaşa/1~|Cumhuriyet@|Cumhuriyet1 Myd.|Dumlupınar Şehitleri~|Emekliler~|Emekliler/1~|Esatpaşa~|Esatpaşa/1~|Evren~|Fethi Akay@|Fethi Akay/1@|Fethi Akay/2~|Fethi Akay/3~|Hasan Genlik~|Hilmi Aksoy~|Hilmibey~|Hilmibey/1~|Kahramanlar~|Kanlısırt~|Karayörük Deresi~|Kemalyeri~|Kireçtepe~|Maydos~|Mehmet Akif Ersoy~|Mimar Sinan@|Mimar Sinan/1~|Miralay~|Miralay/1~|Namazgah~|Piri Reis@|Sadettin Atalay~|Sami Emen~|Sargıyeri~|Su Taksimi Mevkii=|Su Taksimi Mevkii/1~|Top Zeytinlik Mevkii/10~|Top Zeytinlik Mevkii/11~|Top Zeytinlik Mevkii/3~|Top Zeytinlik Mevkii/4~|Top Zeytinlik Mevkii/5~|Top Zeytinlik Mevkii/6~|Top Zeytinlik Mevkii/7~|Top Zeytinlik Mevkii/8~|Top Zeytinlik Mevkii/9~|Topçular~|Topçular/1~|Topçular/2~|Topçular/3~|Tuna~|Turgut Özal/1~|Turgut Özal/2~|Turgut Özal/3~|Turgut Özal/4~|Turgut Özal/5~|Turgut Özal/ismetpaşada Kalan Kısmı@|Yahya Çavuş~|Zafer~|Ziverbey~|Zübeyde Hanım Myd.|Zığındere~|Çamburnu~|Çanovası Mevkii=|Çiftlik Mevkii=|Çınarlıdere Mevkii=|İsmail Gül~|İsmail Gül/1~|İstiklal@|İstiklal/1~|Şahindere~|Şehit Er Vedat Kurular~|Şehit Er İsmail~|Şehit Mehmet Onbaşı~|Şehit Piyade Er Recep Aldıkaçtı~|Şehit Polis Sinan Topaç~|Şehit Polis Sinan Topaç/1~|Şehit Polis Sinan Topaç/2~|Şehit Teğmen Oktay Tuna~|Şehit Teğmen Osman Günay Turan~|Şehit Teğmen Osman Günay Turan/1~

@@ -1,0 +1,32 @@
+91023	Atatürk Mah.	1.nolu~|1.noluyol 1.~|4.nolu~|4.noluyol 1.~|5.nolu~|5.noluyol 1.~|6.nolu~|7.nolu~|A.taner Kışlalı%|Bilinmeyen~|Celal~|Cumhuriyet@|Küme Kilis Yolu=|Küme=|Polateli Yol1~|Sosyal Konutlar=|Tarım@|İlköğretim@|İsmet Paşa@
+96974	Bağarası Köyü	Bağarası=
+96975	Bektaşoğlu Köyü	Bektaşoğlu=
+96976	Belenözü Köyü	Belenözü=
+91024	Cumhuriyet Mah.	A.taner Kışlalı%|Atatürk Myd.|Bilinmeyen~|Cumhuriyet@|Güldüzü@|Hastane@|Hastane1@|Kilis Yolu@|Yeni Yol~|Z.abidin Türbesi@|İlköğretim 1@|İsmet Paşa@
+96977	Dümbüllü Köyü	Dümbüllü=|Limak~
+96980	Dümbüllü Köyü, Tekdam Mezrası	Tekdam=
+96979	Dümbüllü Köyü, Yeniköy Mezrası	Yeniköy=
+96978	Dümbüllü Köyü, Yeniyapan Mezrası	Yeniyapan Mezrası=
+91026	Ekrem Çetin Mah.	Aşağı Mağaracık=|Yukarı Mağaracık=
+96981	Eğlen Köyü	Eğlen=|Taşlıalan=
+91027	Kaymakam Kürşat Ağca Mah.	Aşağı Mağaracık=|Yukarı Mağaracık=
+96983	Kızılgöl Köyü	Kızılgöl=
+96987	Polatbey Köyü	Polatbey=
+140378	Sosyal Konutlar Mah.	Polateli Yol1~|Sosyal Konutlar=
+96988	Söğütlü Köyü	Söğütlü -kızılgöl Yolu Üzeri-@|Söğütlü=|Söğütlü-polateli Yolu-@
+96989	Taşlıalan Köyü	Taşlıalan=
+96991	Yeniyapan Köyü	Yeniyapan=
+96993	Yeniyapan Köyü, Bozkaya Mevkii	Bozkaya Mevkii=
+96994	Yeniyapan Köyü, Evrentepe Mezrası	Evrentepe=
+96995	Yeniyapan Köyü, Evrentepe Yolu Mevkii	Evrentepe Yolu=
+96992	Yeniyapan Köyü, Koçlar Mezrası	Koçlar=
+96996	Yeniyurt Köyü	Yeniyurt=
+96997	Yeniyurt Köyü, Karacurun Mezrası	Karacurun Mevkii=
+96982	Yeşilpınar Köyü	Yeşilpınar=
+96998	Yılanca Köyü	Yılanca=
+96999	Yılanca Köyü, Karapınar Mezrası	Karapınar=
+96984	Ömercik Köyü	Ömercik=
+96985	Ömeroğlu Köyü	Ömeroğlu Gaziantep Yolu=|Ömeroğlu=|Ömeroğlu Mağaracık Yolu=
+96986	Ömeroğlu Köyü, Çelik Mevkii	Çelik=
+96990	Ürünlü Köyü	Ürünlü=
+91025	Şehit Ali Mah.	1.nolu~|1.nolu Yol~|2 Nolu 1.~|2.nolu~|3.nolu~|Celal~|Cumhuriyet@|Güldüzü@|Kilis Yolu@|Küme Karakıl Yolu=|Küme Kilis Yolu=|Polateli Yol1~|Z.abidin Türbesi@|Şehit Ali 1.~|Şehit Ali 2.~|Şehitlik 3.~

@@ -1,0 +1,68 @@
+156931	Ağaçbaşı Mah.	Ağaçbaşı Aşağı=|Ağaçbaşı Orta=|Ağaçbaşı Yukarı=|Kaban=|Serince Karşı=
+156933	Ağaçseven Mah.	Ağaçseven Merkez=|Ağaçseven Sırt=|Ağaçseven Yeşiltepe=|Başköy Aşağı=|Kadınlar Yaylası=
+156935	Aşağıkışlacık Mah.	Aşağıkışlacık=|Barış Karşı=|Karabudak Merkez=|Polatlı-=|Yukarı Kışlacık=|Çukurova=|Şişoğlu=
+156917	Ballıca Mah.	Afet 1@|Afet@|Afet2~|Bal~|Ballıca Barış 1@|Ballıca Barış@|Ballıca Belediye~|Ballıca Dere~|Ballıca Değirmen 1~|Ballıca Değirmen~|Ballıca Esentepe 1~|Ballıca Esentepe 2~|Ballıca Esentepe 3~|Ballıca Esentepe 4~|Ballıca Esentepe~|Ballıca Güney 2~|Ballıca Güney~|Ballıca Ihlamur~|Ballıca Kardelen~|Ballıca Menekşe~|Ballıca Mevlana@|Ballıca Papatya~|Ballıca Sağlık 1~|Ballıca Sağlık@|Ballıca Sulaklı~|Ballıca Sümbül~|Ballıca Tepe~|Ballıca Yasemin~|Ballıca Yunus Emre 1@|Ballıca Yunus Emre 2~|Ballıca Yunus Emre@|Ballıca Yıldız@|Ceviz=|Elma 1~|Elma~|Fatih Sultan Mehmet 2@|Fatih Sultan Mehmet 4~|Fatih Sultan Mehmet@|Funda~|Fındık 2~|Fındık~|Gül~|Güneşalan@|Gürgentepe 1~|Gürgentepe~|Güzeldağ 1~|Güzeldağ 2~|Güzeldağ 3~|Güzeldağ~|Hisar 1~|Hisar 2~|Hisar~|Karanfil~|Karayemiş~|Kayasuyu@|Korucuk Yukarı=|Kuzey 1~|Kuzey 2~|Kuzey~|Mısır 1~|Mısır~|Nilüfer~|Okul 1~|Okul@|Orta 2~|Orta 3~|Orta 4~|Orta 5~|Orta@|Orta6~|Sağlık Yavuz Selim@|Soğuksu 1~|Soğuksu~|Tekoba Merkez=|Yemişalan 1~|Yemişalan Kaban=|Yemişalan~|Yeşim~|Yonca~|Zambak~|Çiğdem~|Üzüm 1~|Üzüm 2~|Üzüm 3~|Üzüm~|İncir~
+156937	Barış Mah.	Aşağıkışlacık=|Barış Karşı=|Barış Merkez=|Barış Yukarı=|Şişoğlu=
+156941	Bayırca Mah.	Atatürk@|Atatürk3~|Atatürk5~|Bayırca Atatürk@|Bayırca Atatürk1@|Bayırca Merkez=|Bayırca Yeni=
+156939	Başköy Mah.	Ağaçseven Merkez=|Başköy Aşağı=|Başköy Cami=|Başköy Konak=|Kadınlar Yaylası=|Keler Birlik=
+156943	Birlik Mah.	Aydınlık=|Birlik=|Gümüşören=|Sarıkaya Alt-=
+156919	Bölümlü Mah.	6109~|Akköse Merkez=|Aksaray=|Ancumah=|Beylerbeyi=|Bölümlü Fatih=|Bölümlü Yıldız=|Büyükcami=|Büyükcami1=|Emirgan 4=|Emirgan=|Kartal=|Mithatpaşa=|Taksim=|İzneha=
+156921	Cumapazarı Mah.	6101~|6102~|6103~|6104~|6105~|6106~|6107~|6108~|6109~|6110@|6111~|6112~|6113~|Altkol~|Anayol@|Behram Bey@|Cumapazarı Atatürk@|Cumapazarı Cumhuriyet@|Cumapazarı Filiz~|Cumapazarı Güneşli~|Cumapazarı Kaban~|Cumapazarı Merkez~|Cumapazarı Nazar~|Cumapazarı Sultan Murat@|Cumapazarı Tepe~|Cumapazarı Yeşil~|Cumapazarı Çakırlı=|Cumapazarı Çay=|Demir~|Demir1~|Demir2~|Demir3~|Efendi~|Fener~|Gazi~|Gazi1~|Gazi2~|Gençağabey@|Gençağabey1~|Güneyce~|Güneyce1~|Gürgen~|Gürpınar Merkez~|Gürpınar Merkez1~|Hafız~|Hekimsu~|Hikmetbey@|Hikmetbey1~|Hikmetbey2~|Hikmetbey3~|Hikmetbey4~|Hikmetbey5~|Hurmalık~|Hurmalık1~|Hurmalık2~|Işıklı-=|Kaban Taşhan~|Kaban Taşhan1~|Kaban Taşhan2~|Mavi~|Maynoz=|Mehmet Bey@|Meyvalı=|Meyveli~|Miktadbey@|Necatibey@|Orman~|Solaklı 2~|Solaklı~|Solaklı1~|Usta~|Usta1~|Usta2~|Uzun~|Uzun1~|Varlık~|Yakuppaşabey@|Yakuppaşabey1~|Yakuppaşabey2~|Yaya Yol~|Yazlık Saray=|Yazlık~|Yaşarbey 1~|Yaşarbey@|Ömer Lütfi Bey@|Ömer Lütfi Bey1~|Ömer Lütfi Bey2~|Ömer Lütfi Bey3~|Ömer Lütfi Bey4~
+80061	Cumhuriyet Mah.	Cemre~|Cemre1~|Cumhuriyet@|Cumhuriyet1=|Cumhuriyet1-=|Emniyet~|Ensar~|Fidan~|Gazhane~|Kemalpaşa@|Kıran~|Kıvrım~|Kıyı Boyu@|Kıyı Boyu Yalı=|Kıyı Boyu1~|Liman~|Nil~|Petrol~|Rıhtım~|Sevgi~|Seyir~|Ulu~|Yelken~|Yeni=|Yıldırım~|Çavuş~|Çavuş1~|İsmetpaşa@|İsmetpaşa1~|İstala 1=|İstasyon~
+156955	Darılı Mah.	Boğaziçi=|Darılı Aşağı=|Darılı Orta=|Darılı Sırt=|Düzova=|Gümüşören=
+156953	Dağalan Mah.	Dağalan=|Yırca=
+156957	Dereköy Mah.	Dereköy=|Pınaraltı=
+156959	Doğançay Mah.	Doğançay Alt=|Doğançay Cami=|Doğançay Orta=|Söğütlü Yukarı=|Toprak Köprü=|Üst=
+156961	Dumlusu Mah.	Dumlusu Barış=|Dumlusu Düz=|Dumlusu Hurmalık=|Dumlusu Kıbrıs=|Dumlusu Orta=|Dumlusu Yeni=|Dumlusu Yıldız=|Dumlusu Çamlık=|Hilal=|Yazlık Yeşiltepe=
+156963	Erenköy Mah.	Bahar=|Işıklı=|Lantra Mevkii=|Meyvalı=|Sigaron Mevkii=|Sindoma Mevkii=
+156965	Esenköy Mah.	Esen Tepe=|Esenköy Merkez=|Esenköy Örnek=|Gökçeoba Yukarı-=|Güney Narin=|Karalı=|İkidere Cami=|İkidere Kıbrıs=|İkidere Yukarı=
+156923	Eskipazar Mah.	Doğançay Orta=|Eskipazar Atatürk=|Eskipazar Kaban=|Eskipazar Orta=|Eskipazar Yalı=|Fidanlık=|Haraplı=|Kenar=|Kumludere=|Merkez=|Tepe=
+156967	Fındıkoba Mah.	Aşağı Mezra=|Fındıkoba Aşağı=|Fındıkoba Güney=|Fındıkoba Kaban=|Günebakan-~|Güney Mezra=|Kaban Mezra=|Çaycılar=
+156969	Gökçeoba Mah.	Albayraklar=|Gökçeoba Orta=|Gökçeoba Yukarı=|Karalı=|Sarayköy=|Sarıbey Kaban=|Sarıbey Orta=|Sivrice=|Söğütlü Aşağı=|Söğütlü Yukarı=|Örtülü=|Şişoğlu=
+156971	Gümüşören Mah.	Birlik=|Düzova=|Gümüşören=
+156973	Güresen Mah.	Alt=|Emirler=|Esenköy Örnek=|Güney Narin=|Güresen Dere=|Güresen Irmak=|Güresen Kaban=|Güresen Merkez Cami=|Güresen Merkez=|Güresen Sırt=|Kumludere=|Sarıbey Merkez=|Sarıbey Orta-=|Toprak Köprü=|Üst=
+156925	Gürpınar Mah.	A.ziyauddin Gümüş Hanevi~|A.ziyauddin Gümüş Hanevi1~|A.ziyauddin Gümüş Hanevi2~|Belediye Güneyce@|Demirkol 2~|Demirkol 4~|Demirkol~|Demirkol1~|Demirkol2~|Demirkol3~|Derelik=|Dörtyol~|Dörtyol1~|Dörtyol2~|Eminoğlu@|Eminoğlu Hacıbayram@|Eroğlu~|Eroğlu1~|Esen 2~|Esen~|Esen1~|Esentepe~|Esentepe1~|Esentepe2~|Esentepe3~|Esentepe4~|Esentepe5~|Esentepe6~|Esentepe7~|Esentepe8~|Esentepe9~|Fuduras=|Günebakan~|Günebakan1~|Günebakan2~|Günebakan3~|Güney~|Güney1~|Güney2~|Güneyce~|Güneşli~|Güneşli1~|Güneşli2~|Güneşli3~|Gürpınar Belediye@|Gürpınar Belediye1~|Gürpınar Cami~|Gürpınar Cami1~|Gürpınar Değirmen~|Gürpınar Merkez~|Gürpınar Merkez1~|Gürpınar Merkez2~|Gürpınar Merkez3~|Gürpınar Merkez4~|Gürpınar Mevlana~|Gürpınar Mevlana1~|Gürpınar Yavuz Selim@|Gürpınar Çamlık=|Gürçeşme~|Gürçeşme1~|Gürçeşme2~|Gürçeşme4~|Güven~|Güven1~|Güven2~|Güven3~|Hafız Savaş Acez=|Hasan Yılmaz~|Hasan Yılmaz1~|Hasan Yılmaz2~|Hasan Yılmaz3~|Hasan Yılmaz4~|Kumaşlı=|Lişanırmağı Ve Ova=|Mehmet Efendi~|Millet Merkez@|Millet Merkez1~|Narin~|Narin1~|Narin2~|Okul Merkez~|Okul Merkez1~|Polis Mustafa Eren@|Polis Mustafa Eren1~|Yenidoğan@|Yenidoğan1~|Yenidoğan2~|Yenidoğan3~|Yenidoğan4~|Yenidoğan5~|Yenidoğan6~|Yeşiltepe@|Yeşilyamaç=|Yunus Emre=|Çakırlı~|Çakırlı1~|Çatal~|Çaycılar=|Ömer Çavuş~|Ömer Çavuş1~|Ömer Çavuş2~|Ömer Çavuş3~|İzneha=|Şeyh Ahmet Efendi@|Şeyh Ahmet Efendi Hacıbayram@|Şeyh Ahmet Efendi Hacıbayram1~|Şeyh Ahmet Efendi Hacıbayram2~|Şeyh Ahmet Efendi Hacıbayram3~|Şeyh Ahmet Efendi Hacıbayram4~
+80065	Kaban Mah.	Ağaçbaşı Aşağı=|Kaban=|Yukarı Kışlacık=
+156977	Karabudak Mah.	Karabudak Kaban=|Karabudak Merkez=|Polatlı=|Selçuklar=|Çaltılı Merkez 1=|Çaltılı Merkez-=
+156979	Kavakpınar Mah.	Kavakpınar Aşağı=|Kavakpınar Orta=|Kavakpınar Yukarı=|Lolakali=|Serince Karşı=|Yanıktaş=|Yukarı Kışlacık=
+156981	Kazançlı Mah.	Kazançlı=|Şehit Polis Necmi Çakır-@
+156983	Keler Mah.	Keler Birlik=|Keler Merkez=|Keler Üst=|Korkut=
+156987	Kiraz Mah.	4301~|Ballıca Ihlamur~|Fatih Sultan Mehmet@|H.m.b.ulusoy@|Kiraz Aşağı=|Kiraz Yukarı=|Sanayi@|Çamlıtepe-=
+156989	Kireçli Mah.	Bolit-=|Esenler=|Gündoğdu=|Kireçli Cami=|Kireçli Dere=|Kireçli Orta=|Kireçli Sırt=|Sarıkaya Üst=
+156991	Korkut Mah.	Başköy Konak=|Esenler=|Kadınlar Yaylası=|Keler Merkez=|Keler Üst=|Korkut=
+156993	Korucuk Mah.	Anahor=|Aşağı Tavşanlı=|Korucuk Aşağı=|Korucuk Orta=|Korucuk Yukarı=|Sugeldi Yukarı=|Uzunhasanoğlu=
+156995	Kumludere Mah.	Eskipazar Orta=|Güresen Dere=|Güresen Kaban=|Güresen Merkez=|Kumludere=|Tepe=
+156985	Kıyıboyu Mah.	Hacı Kutlu=|Kıyı Boyu Yalı=|Kıyıboyu Orta=|Yalı Yalı=|Çaltılı Merkez=|İstala 1=|İstala 2=
+156927	Kıyıcık Mah.	Baltacı=|Bıçakçı=|Hacı Kutlu=|Karabudak Merkez=|Kıyıboyu Orta-=|Kıyıcık Belediye@|Kıyıcık Belediye1~|Kıyıcık Belediye2~|Kıyıcık Sahil=|Kıyıcık Yalı@|Kıyıcık Yalı1~|Kıyıcık Yalı2~|Kıyıcık Yalı6~|Selçuklar=|Yalı Yalı=|Yeni Mah.=
+156997	Ovacık Mah.	Dere Üstü=|Esenler=|Gündoğdu=|Kadınlar Yaylası=|Korkut=|Kılavuz=|Ovacık Cami Altı=|Ovacık Karşı=|Ovacık Merkez=|Ovacık Orta=|Ovacık Yukarı=
+157001	Pınaraltı Mah.	Darılı Sırt=|Pınaraltı=
+157005	Sarayköy Mah.	Sarayköy=
+157003	Saraçlı Mah.	Saraçlı Aşağı=|Saraçlı Orta=|Saraçlı Yukarı=|Tekoba Merkez=
+157007	Sarıbey Mah.	Güney Narin=|Güresen Irmak=|Karalı=|Sarıbey Kaban=|Sarıbey Merkez=|Sarıbey Orta=|Toprak Köprü=
+157009	Sarıkaya Mah.	Aydınlık=|Birlik=|Bolit=|Kireçli Cami=|Sarıkaya Alt=|Sarıkaya Üst=
+157013	Sefaköy Mah.	Karayemiş~|Sefaköy=|Yanıktaş=
+157011	Serince Mah.	Sefaköy=|Serince Kaban=|Serince Karşı=|Serince Orta=|Yemişalan Karşı=|Yukarı Kışlacık=
+157017	Sivrice Mah.	Sivrice=|Sıraağaç Merkez=|Örtülü=|Şehit Polis Necmi Çakır-@
+80066	Soğukpınar Mah.	Soğukpınar=
+157021	Sugeldi Mah.	Anahor=|Lolakali=|Sugeldi Aşağı=|Sugeldi Yukarı=
+80067	Sulaklı Mah.	Ara~|Atatürk 1~|Atatürk-%|Bahçe~|Balaban@|Balaban1~|Barbaros 1~|Barbaros@|Bayır 1~|Bayır~|Belediye~|Büyük Cami@|Cami~|Can 1~|Can~|Cumhuriyet 4~|Cumhuriyet@|Dumlu~|Dumlupınar~|Durak~|Döner~|Düz~|Efe~|Evim~|Filiz~|Fırtına~|Gazhane~|H.avni Uygun~|Hastane@|Huzur~|Kalaycı~|Kardelen~|Kemalpaşa@|Konak~|Kurban~|Körfez~|Kıbrıs@|Lale~|Lozan@|M.fevzi Çakmak@|Mehmet Akif Ersoy@|Mektep~|Menekşe~|Meydan~|Mimoza~|Nazar~|Of Spor@|P.t.t~|Papatya~|Parlak~|Pazar~|Poyraz~|Pınar~|Sahil~|Sanayi@|Sanayi Sitesi 1.~|Sanayi Sitesi 2.~|Sanayi Sitesi 3.~|Sanayi Sitesi 4.~|Sanayi Sitesi 5.~|Sanayi Sitesi 6.~|Sanayi Sitesi 7.~|Sanayi10~|Sanayi11~|Saray~|Sağlık~|Site~|Sulaklı 1=|Sulaklı Atatürk%|Sulaklı Kaban 1~|Sulaklı Kaban~|Sulaklı=|Sulaklı Orta~|Sultan Murat~|Sultan~|Sümbül~|Tomurcuk~|Tufan 1~|Tufan~|Tuzcu~|Türbe~|Yalı@|Yasemin~|Yağcılar~|Yeni=|Yıldız~|Çamlıca~|Çarşıbaşı~|Çayır~|Ömerağa%|Üsküdar~|İsmetpaşa@|Şehit~|Şehzade~
+157019	Söğütlü Mah.	Söğütlü Aşağı=|Söğütlü Yukarı=
+157015	Sıraağaç Mah.	Dağalan-=|Kazançlı=|Sarayköy=|Sivrice-=|Sıraağaç Karşıyaka=|Sıraağaç Merkez=|Sıraağaç Örnek=|Şehit Polis Necmi Çakır-@
+157023	Tavşanlı Mah.	Anahor=|Aşağı Tavşanlı=|Dere Boyu Düz@|Dere Boyu Düz1~|Korucuk Yukarı=|Tekoba Merkez=|Yukarı Tavşanlı=
+157025	Tekoba Mah.	Harun Efendi-~|Saraçlı Yukarı=|Tekoba Merkez=|Uğurlu~
+157027	Uluağaç Mah.	2001~|2002~|2003~|2004~|2005~|2006~|2007~|2008~|2009~|2010~|2011~|2012~|2013~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022~|2023~|2024~|2025~|2026~|2027~|2028~|2028/1~|2029~|2030~|2031~|2032~|2033~|Boğaziçi=|Camialtı~|Dereköy=|Merkez A~|Merkez B~|Merkez C~|Merkez D~|Uluağaç Aşağı=|Uluağaç Merkez=|Uluağaç Orta=|Yukarı~|Zafer~|Örtülü=|İkidere Dere=
+156929	Uğurlu Mah.	5701~|5702~|5703~|5704~|5705~|5706~|5707~|5708~|5709~|5710~|5711~|5712~|5713~|5714~|5715~|5716~|5717~|5718~|5719~|5720~|5721~|5722~|5723~|5724~|5725~|5726~|5727~|5728~|5729~|5730~|5731~|5732~|5733~|5734~|5735~|5736~|5737~|5738~|5739~|5740~|5741~|5742~|5743~|5744~|5745~|5746~|5747~|5748~|5749~|5750~|5751~|5752~|5753~|5754~|5755~|5756~|5757~|5758~|5759~|5760~|5761~|Adnan Kahveci~|Ahmet Efendi~|Ahmet Ziyaüddin Gümüşhanevi@|Ali Haydar~|Alibey~|Arı~|Bakkal Mehmet Efendi~|Battal Efendi~|Baykal~|Bayrak~|Bekir Efendi~|Derelik=|Dr.necati Kadıoğlu@|Dursun Efendi~|Emir~|Eser~|Gürpınar Değirmen-~|Gürpınar Çamlık=|Hacımurat~|Hacısabit~|Hacıömeroğlu~|Hafız D.ali~|Hafız Savaş Acez=|Harun Efendi~|Hasan Efendi~|Hasan Efendi Soğuksu~|Hüseyin Şirin~|Kaldırım~|Kamil Efendi~|Kandil~|Kaplan~|Kara Mustafa~|Karşıyaka~|Komiser Faik Tandoğan@|Komiser İsmail Özcan~|Kumru~|Kuyular~|Kuyumcu~|Kırlangıç~|Mareşal Fevzi Çakmak~|Mehmet Rüştü Aşıkkutlu@|Menekşe Nazarlı~|Mollasalih~|Nazarlı@|Polis Ömer Uzun~|Saraçlı Aşağı=|Selvi Soğuksu~|Seyfioğlu~|Süleyman Türk@|Tahir Efendi@|Taşlık~|Tunalı~|Turan~|Türap~|Uğurlu Atatürk@|Uğurlu Cumhuriyet@|Uğurlu Değirmen~|Uğurlu Elvan~|Uğurlu Emniyet~|Uğurlu Gül~|Uğurlu Mehmet Akif Ersoy@|Uğurlu Menekşe~|Uğurlu Papatya~|Uğurlu Selvi~|Zümrüt~|Çamlık~|Özen~|İsapaşa@|Şeyh Mecit~
+157029	Yanıktaş Mah.	Karayemiş~|Kavakpınar Yukarı=|Korucuk Yukarı=|Serince Kaban=|Serince Karşı=|Yanıktaş=
+157031	Yazlık Mah.	Bayramlı=|Gökçesu=|Kemerli=|Kumru Gelincik=|Küçük İskele=|Melet=|Yazlık Irmak=|Yazlık Irmak1=|Yazlık Kaban=|Yazlık Merkez Cami=|Yazlık Merkez Cami1=|Yazlık Yeşiltepe=|Zeya=|Çamlıtepe=
+157033	Yemişalan Mah.	4301~|Ağaçbaşı Aşağı=|Ağaçbaşı Orta=|Ceviz=|Fatih Sultan Mehmet 4~|Fatih Sultan Mehmet@|Kaban=|Mimar Sinan=|Mimar Sinan-@|Sanayi@|Sanayi12~|Sefaköy=|Serince Kaban=|Yemişalan Kaban=|Yemişalan Karşı=|Yemişalan Merkez=
+80068	Yeni Mah.	Sanayi@|Sanayi11~|Sanayi8~|Yeni=|İstala 1=
+80069	Yukarı Kışlacık Mah.	Ağaçbaşı Yukarı=|Aşağıkışlacık=|Kaban=|Küçükibrahimoğlu=|Polatlı=|Serince Karşı=|Yukarı Kışlacık=|Çaltılı Merkez 1=|Çukurova=
+156945	Çaltılı Mah.	Karabudak Kaban=|Küçükibrahimoğlu=|Selçuklar=|Yalı Yalı=|Yukarı Kışlacık=|Çaltılı Merkez 1=|Çaltılı Merkez=
+80062	Çamlı Mah.	Fatih-@|Fatih5~|H.m.b.ulusoy@|H.m.b.ulusoy1~|Sanayi8~|Ulubatlı Hasan~|Çamlı=|Çamlıtepe=|İrfanlı@|İrfanlı1=|İrfanlı1-=
+80063	Çamlıtepe Mah.	Dumlusu Çamlık-=|H.m.b.ulusoy@|Kiraz Yukarı=|Çamlıtepe=
+156947	Çataldere Mah.	Balkayası=|Betralar Ve Harahte=|Derelik=|Emirgan=|Emirgan1=|Fosiyalar Ve İskamiyalar=|Fuduras=|Lişanırmağı Ve Ova=|Lodaso Ve Kuzana=|Terzili=|Yenidoğan-@|Çataldere Cami Altı=|İzneha=
+156949	Çatalsöğüt Mah.	Aşağıkışlacık=|Barış Yukarı=|Dağalan=|Sıraağaç Karşıyaka=|Çatalsöğüt=
+156951	Çukurova Mah.	Çukurova=
+156999	Örtülü Mah.	Darılı Orta=|Nayer=|Sivrice=|Örtülü=
+156975	İkidere Mah.	Esen Tepe=|Esenköy Merkez=|Karaayşe=|Nayer=|Uluağaç Aşağı=|Örtülü=|İkidere Cami=|İkidere Dere=|İkidere Kıbrıs=|İkidere Yukarı=
+80064	İrfanlı Mah.	Adalet~|Akmeşeler~|Ankara@|Ay~|Badem~|Barış~|Bedir~|Bülbül~|Büşra~|Damla~|Dağ~|Dağ1~|Deniz~|Dere~|Değirmen~|Doğan 1~|Doğan~|Elvan~|Fatih@|Fatih1~|Fatih2~|Fatih3~|Fatih4~|Fatih5~|Gonca~|Gonca1~|Gonca2~|Göl~|Gülnihal~|Gülnihal1~|Güneş~|Gür~|H.m.b.ulusoy@|Has~|Ihlamur~|Irmak~|Kadife~|Kalyon~|Kiraz~|Köknar~|Kültür~|Maraşlı@|Maraşlı1~|Melek~|Mevlana~|Murat~|Mutlu~|Nur~|Osman Gazi~|Rüzgar~|Sanayi Sitesi 2.~|Selvi~|Seyit Çavuş~|Soğukpınar-=|Söğüt~|Taşlı~|Teknik~|Tuna~|Ulubatlı Hasan~|Ulubatlı Hasan1~|Ulubatlı Hasan2~|Ulubatlı Hasan3~|Yavuz Selim 2@|Yavuz Selim@|Yavuz Selim1~|Yeşil~|Yiğit~|Çakır~|Çamlı=|Çay~|Çağlayan~|Çınar~|İrfanlı@|İrfanlı1=|İrfanlı1-=|İrfanlı2@|İsmetpaşa@

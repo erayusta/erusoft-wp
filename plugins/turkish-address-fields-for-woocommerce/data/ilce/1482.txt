@@ -1,0 +1,29 @@
+151477	Aşağıkozpınar Mah.	Demircievyanı~|Eskicamiyanı~|Kökyanı~|Yenicamiyanı~
+61111	Aşağıyaylacık Mah.	Aşağı Yaylacık=
+151481	Belalan Mah.	Absut Yaylası=|Eliktamı~|Güney~|Oduncular~|Teperaltı Yaylası~|Yolağzı~
+151485	Beypınarı Mah.	Beypınarı~|Göltepe Obası=|Taşkesiği Obası=|Turnalık Obası=|Çobantepe Obası=
+151487	Büyükakçakese Mah.	Büyükakçakese~
+61112	Dip Mah.	Alan=|Aşağı Köy=|Bilal Ergün~|Camii~|Dipköy=|Garaj~|Gedemen=|Hamzalı=|Merkez@|Mevlüt Karabayrak~|Mimar Sinan=|Müderris Abdi Efendi~|Seydili=|Seyisoğlu~|Sülük Gölü~|Vaizli Ev Yanı=|Yukarı Köy=|Çeteoğlu~|Şehit Emrah Sapa~|Şht.er Selahattin Boytaş~|Şht.er Yüksel Çağ~|Şht.er Ömer Gedek~
+151495	Durali Mah.	Durali~
+61113	Karakoyunlu Mah.	Aşağı=|Havalı=|Tılıklı=|Yukarı=
+151497	Karakışla Mah.	Merkez~|Tepeyelkırığı~
+151501	Koçcuğaz Mah.	Ağacagüney~|Emiryakup~|Fındıklıkdüzü~|Gölcüğez~|Merkez~|Yazıcı Güzlesi~
+61114	Sarıalıç Mah.	Buda Ev Yanı=|Kuz=|Orta=|Yeykinlik=
+151505	Soğukpınar Mah.	Düz~|Kirazlık~|Merkez~
+151509	Tatarcık Mah.	Bayramoğlu~|Kale~|Merkez~|Sağırlar~|Uluçukur~
+61115	Tepe Mah.	Abaz=|Aytemiz Petrol~|Belediye~|Dönür~|Ender Korgan~|Enkiler~|Eğlence=|Fındık~|Gücük Geriş=|Hasan Paç~|Hastane~|Haydar~|Hekimoğlu~|Hoca Ahmet Yesevi~|Hükümet~|Kurs~|Kuş Kayası=|Köyceğiz=|Kültür~|Kütük Durak=|Kınalızade Kiraz Efendi~|Medrese Önü=|Mehmet Biçim~|Merkez@|Mevlana~|Mevlüt Karabayrak~|Mollaveli~|Odayanı~|Ormangülü~|Otopark~|Ptt~|Sağlık Ocağı~|Stadyum~|Sülük Gölü~|Tahsin Ateş~|Yenipınar Mah.yolu~|Yurt~|İbni Sina~|Şehitlik~
+151471	Tepealan Mah.	Büyük Eğricesu Obası=|Delmece-yalman Yaylası=|Düzdağı Merkez=|Güllü=|Hekimoğlu@|Kayadibi=|Korgan Yaylası=|Köklük Cılızlar=|Köprübaşı=|Kürtünlü Obası=|Küçük Eğricesu Obası=|Kırıkbozu=|Ortaköy=|Osmankolu Obası=|Tavukluk=|Taşdibek=|Tepealan Yayla=|Yazlık=
+151513	Terzili Mah.	Adatepe Obası=|Dere~|Karaovacık Obası=|Killik Obası=|Kızılot~|Merkez~|Suoluk Obası=|Çörekyanı~
+61117	Yazlık Mah.	Yazlık=
+61116	Yazıcı Mah.	Bayraktar=|Hacı Hasan=|Ramadanlı=|Sağırlar=|Uzunkırık=
+151515	Yeniköy Mah.	Aşağı~|Eso~|Merkez~|Tiryaki~
+61118	Yenipınar Mah.	Alan=|Hacı Fettahoğlu=|Hacı İmamoğlu=|Hemütlü=|Keşlik=|Kuzdağı=|Yukarıköy=
+151519	Yeşilalan Mah.	Boğmalık~|Gölcuğaz~|Hapan~|Merkez~|Pencik~|Saydere~|Çağlayanbaşı~
+151523	Yeşildere Mah.	Yayla Evleri~|Yeşildere~
+151527	Yeşilyurt Mah.	Yeşilyurt~
+151531	Yukarıkozpınar Mah.	Acısu~|Merkez~|Çobanoğlu~
+61119	Yukarıyaylacık Mah.	Aşağı=|Orta=|İrmen=
+151459	Çamlı Mah.	1 Nolu~|2 Nolu~|3 Nolu~|4 Nolu~|Abazlı=|Aralcak=|Asarkaya=|Devrent=|Göçoğlu=|Güney=|Merkez@|Orta Geci=|Süleymanlı=|Yeniköy@|Yukarı Köy=|Çağaloğlu=|Çorak=|Örnek=
+151463	Çayırkent Mah.	Apsut=|Arpacık Obası=|Aşağıoba=|Darılık=|Eşüren=|Göl Ayağı=|Kanbaç=|Kurtalan=|Kuzdarılık=|Kuzgeçe=|Köçek Kuzu=|Menük=|Merkez (gazi)=|Merkez=|Merkez Refahittin Şahin@|Ortaköy=|Pelit Çukuru=|Savcılı=|Sulu~|Tepe=|Yeni~|Çayır~|Çayırkent Yaylası=|Ürmeli Yaylası=
+151467	Çiftlik Mah.	Aşıkpınar@|Bacıoğlu=|Cüceler=|Cürecioğlu=|Eğri Meşe=|Güzelyurt=|Hamlık=|Korgan@|Kuşali@|Kuşalim=|Köprübaşı@|Mehteroğlu=|Memişler=|Menekşe@|Molla=|Nazımlar=|Sıra Kirazlar=|Teyfikler=|Topçuoğlu=|Tozlamalar=|Yakuplar=|Çatalpınar@|İbazoğlu=
+151491	Çitlice Mah.	Alan~|Ağılsırtı~|Emirler~|Güney~|Karaaslan~|Kirazlık~|Musaoğlu~|Osmangil~

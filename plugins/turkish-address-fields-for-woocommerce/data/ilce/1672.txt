@@ -1,0 +1,27 @@
+19607	Bayramlar Köyü	Bayramlar Köy$
+19606	Başpınar Köyü	Başpınar Köy$
+19608	Belkaya Köyü	Belkaya Köy$
+11093	Beyköy Köyü, Beşiktaş Mevkii	Araplar~|Atatürk~|Bağsaray~|Bey~|Cami Çıkmazı 1.~|Cami Çıkmazı~|Cumhuriyet 1.~|Cumhuriyet 2.~|Cumhuriyet~|Eşeler~|Hafızlar~|Karadere~|Karahasanlar~|Konak~|Okul~|Ortaokul-~|Savaş~|Sıtma~|Tefenni~|Tekke 3.~|Yayla~|Yayladeresi 1.~|Yayladeresi~|Yuva Köy$|Çavuşlar~
+11094	Beyköy Köyü, Kaklık Mevkii	Cami~|Demokrasi~|Eşeler~|Kocapınar~|Kocaçayır 1.~|Kocaçayır 2.~|Kocaçayır~|Kurs~|Tekke 1.~|Tekke~|Zorali Bey 1.~|Zorali Bey~|Zoralibey~|Çayır~|Çilingir 1.~|Çilingir~
+11095	Beyköy Köyü, Zafer Mevkii	Aydın~|Bahçeli Evler~|Cami 1 1.~|Cami 1 2.~|Cami 1~|Cami-~|Cumhuriyet 1~|Cumhuriyet 2~|Cumhuriyet~|Dede~|Demirci 1~|Demirci~|Demokrasi~|Eşeler~|Hızarcılar~|Karanfil~|Kurs~|Menekşe~|Meydan~|Okul-~|Pazar~|Sümbül~|Tefenni 1.~|Tefenni~|Valigüres 1~|Valigüres~|Zafer 1.~|Zafer~|Zorali Bey 1.~|Zorali Bey 2.~|Zorali Bey~|Çamlık~|Çay~|Çeşme~|Çınar~
+19610	Ece Köyü	Ece Köy$
+11085	Esentepe Mah.	Ahmet Yamacıı~|Bayır~|Besiciler~|Hastane 1.~|Hüseyin Gencer@|Hüyük=|Koca Tepe 1.~|Koca Tepe@|Mehmet Aksoy 1.@|Mehmet Aksoy@|Mustafa Kara~|Osmanlı~|Park~|Selçuklu~|Tepe~|Yaren~|Zambak~|Şeyh Edebali 1.~|Şeyh Edebali 2.~|Şeyh Edebali 3.~|Şeyh Edebali~
+11086	Eşeler Mah.	Ahmet Erdoğan~|Ay~|Burdur@|Cengiz Topel@|Cumhuriyet Myd.|Dağ~|Güneş 1.~|Güneş~|Hastane 2.~|Hastane@|Hüsnü Demirok~|Işık~|Karakol~|Kaya~|Meriç~|Namık Kemal~|Santral~|Ufuk~|Uludağ 1.~|Uludağ@|Çiğşey~
+11087	Fatih Mah.	Alparslan Türkeş@|Atatürk@|Barbaros Hayrettin~|Bayram Kavak~|Dr.devletbahçeli@|Ergenekon~|Estergon~|Ferizli Yolu~|Gelincik~|Gülistan~|Gümrük~|Hastahane~|Kantar~|Kızılcık~|Lale~|Lise Altı~|Lise~|Mevlana~|Muharrem Gökçen~|Necip Fazıl Kısakürek~|Orhan Gazi~|Ortaokul~|Ova~|Papatya~|Töre~|Tüzün~|Uluyol 1.~|Uluyol 2.~|Uluyol~|Ziya Gökalp~|Özalp~|İbrahim Kafesoğlu 1.~|İbrahim Kafesoğlu~|İdris Aykon 1.~|İdris Aykon~|İstiklal~|Şafak~
+198777	Göktürk Mah.	Alparslan Türkeş@|Bayram Kavak~|Dr.tuncer Yıldız1.~|Necip Fazıl Kısakürek~|İbrahim Kafesoğlu~
+11096	Hasanpaşa Köyü, Aşıklar Mevkii	Aşıklar~|Demirciler~|Kızıldam 1.~|Kızıldam 2.~|Kızıldam 3.~|Kızıldam 4.~|Kızıldam 5.~|Kızıldam~|Mezarlık~|Tutan~|Çavuşlar 1~|Çavuşlar 2.~|Çavuşlar~
+11097	Hasanpaşa Köyü, Cumhuriyet Mevkii	Cami 1.~|Cami~|Cumhuriyet~|Dibek~|Hasan Ali~|Karanfil 1.~|Karanfil 2.~|Karanfil~|Kavakdibi~|Kurt Deresi 1.~|Kurt Deresi~|Okul~|Pınar~|Sudeposu~|Tepe~|Umut 1.~|Umut~|Yaylayolu~|Çakmak~|Çömek 1.~|Çömek 2.~|Çömek~
+11098	Hasanpaşa Köyü, Yeni Mevkii	Cumhuriyet~|Değirmen~|Evren 1.~|Evren~|Fevzi Çakmak 1.~|Fevzi Çakmak~|Gül~|Hacı Veli 1.~|Hacı Veli 10.~|Hacı Veli 2.~|Hacı Veli 3.~|Hacı Veli 4.~|Hacı Veli 5.~|Hacı Veli 6.~|Hacı Veli 7.~|Hacı Veli 8.~|Hacı Veli 9.~|Hacı Veli~|Kavakdibi~|Lale~|Mehmet Akif 1~|Mehmet Akif 2.~|Mehmet Akif~|Menderes 1.~|Menderes~|Mimar Sinan~|Selim 1.~|Selim~|Sudeposu~|Sümbül 1.~|Sümbül~|Yavuz 1.~|Yavuz~|Yaylayolu~|Çamlık~
+19611	Karamusa Köyü	Karamusa Köy$
+11088	Kır Mah.	1.ece Çıkmazı~|1.çay Çıkmazı~|2.çay Çıkmazı~|Ahmet Yamacı~|Ceyhan~|Dr.devletbahçeli@|Ece 1.~|Ece@|Edip~|Mehmet Akif 1.~|Mehmet Akif 2.~|Mehmet Akif~|Narlı~|Sadık Çelik 1.~|Sadık Çelik 2.~|Sadık Çelik~|Yavuz~|Ünlü~|Şair~|Şehit Hasan Harmanda 1.~|Şehit Hasan Harmanda~|Şehit Kemal Sunar~|Şehit Serkan Altay~|Şehit Ömer Halis Demir 1.~|Şehit Ömer Halis Demir~|Şevket Candaner@
+11089	Pazar Mah.	1.sanayi~|2.sanayii 1.~|2.sanayii~|Aktaş~|Alparslan Türkeş@|Alperen~|Ardıç~|Atatürk@|Bulvar~|Cengiz Topel@|Değirmen~|Dr.devletbahçeli@|Gümüş~|Kardelen~|Kazım Karabekir Paşa@|Metin Işıldar~|Nergiz~|Orkide~|Tahsin Peker~|Timur 1.~|Timur~|Türkay~|Uluyol 1.~|Yunus Emre~|Çınar~|İsa Kayacan~|Şehit Ömer Kızılkaya 1~|Şevket Candaner@
+19612	Sazak Köyü	Sazak Köy$
+19613	Seydiler Köyü	Seydiler Köy$|Yuva Köy$
+19614	Yaylaköy Köyü	Yaylaköy Köy$
+11090	Yenice Mah.	1.ceza Evi Çıkmazı~|2.sakarya Çıkmazı~|Bağlar~|Cumhuriyet Myd.|Erciyes~|Erkan~|Karakol~|Kuyu~|Namık Kemal~|Selvi~|Şehit Celal Erkan 1.~|Şehit Celal Erkan~|Şehit Ömer Halis Demir 1.~|Şehit Ömer Halis Demir~
+19615	Yeşilköy Köyü	Yeşilköy Köy$
+11091	Yokuş Mah.	1.karanfil Çıkmazı~|Atatürk@|Burdur@|Cumhuriyet Myd.|Fatih~|Fırat~|Gül~|Hastane 1.~|Hastane 2.~|Hastane@|Işıldar~|Karanfil~|Kaya~|Kazım Karabekir Paşa@|Koca Tepe@|Mehmet Rıfat Börekçi~|Selin~|Yuvalak~|İnönü 1.~|İnönü 2.~|İnönü~|İskender~|Şehit Ömer Kızılkaya 1~
+19616	Yuva Köyü	Yuva Köy$
+19617	Yuvalak Köyü	Yuvalak Köy$
+11092	Zafer Mah.	1.yasemin Çıkmazı~|Ak Şemsettin~|Akasya~|Alparslan~|Bezirgan~|Cemal Şahankaya~|Dr.devletbahçeli@|Dr.tuncer Yıldız~|Dr.tuncer Yıldız1.~|Ece Yolu~|Ertuğrul Gazi~|Lise~|Malazgirt~|Menekşe~|Necip Fazıl Kısakürek~|Nurgül~|Orhan Gazi~|Osman Gazi~|Pehlivan~|Sümer~|Ulubatlı Hasan~|Yasemin~|Yayla~|Yıldırım Beyazıt~|Ziya Gökalp~|Ötügen~|İbrahim Kafesoğlu~|İstiklal~|Şehit Osman Aksoy~|Şehit Rüştü Erdem~
+19609	Çaylı Köyü	Çaylı Köy$

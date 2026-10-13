@@ -1,0 +1,92 @@
+59927	13 Mart Mah.	10.~|11.~|12.~|13 Mart@|14.~|15 Temmuz Şehıtler@|16.~|18.~|19.~|2.~|20.~|2003.~|21.~|23.~|24.~|25.~|26.~|287.~|3.~|30.~|33 .~|35.~|37.~|38.~|39 .~|4.~|40.~|41.~|42.@|43.~|44.~|45.~|46. Cadde 1.~|46. Cadde 11.~|46. Cadde 16.~|46. Cadde 17.~|46. Cadde 18.~|46. Cadde 19.~|46. Cadde 2.~|46.@|46.cadde 10.~|46.cadde 12.~|46.cadde 13.~|46.cadde 14.~|46.cadde 15.~|46.cadde 3.~|46.cadde 4.~|46.cadde 5.~|46.cadde 6.~|46.cadde 7.~|46.cadde 8.~|46.cadde 9.~|47.~|48.~|49.~|5.~|50.~|51.~|52.~|53.~|54.~|55.~|56.~|57.cadde 10.~|57.cadde 3.~|57.cadde 8.~|57.cadde 9.~|58.~|6.~|7.~|77.@|78.~|8.~|9.~|Artukbey~|Açelya~|Burç 289~|Eda~|Emniyet 1~|Emniyet 2~|Emniyet 3~|Emniyet 4~|Gaffari Güneş@|Gaffari Güneş1@|Gaffari Güneş2@|Hz. Ebu Bekir Camii~|Hürriyet@|Işık@|Karanfil 290~|Mehmet Nasrullah Demir@|Mehtap@|Meşe~|Midyat@|Nur~|Ortadogu@|Park~|Vali Ozan@|Yalım@|Yonca~|Zafer~|Çagdaş~|Şehit M.remzi Yersel@
+157289	Acar Mah.	Acar=|Acar Toki~|Kızıltepe@|Okul~
+157291	Ahmetli Mah.	Ahmetli=|Kaynak Mz.=
+157293	Akbağ Mah.	Akbağ=|Harabel=|Limon=
+157365	Akıncı Mah.	Akıncı B.m=
+157367	Alakuş Mah.	Alakuş=|Küçükköy=|İncekuyu=|İpek Yolu2@
+157295	Alımlı Mah.	Alımlı=
+157297	Ambar Mah.	47 Nolu Ev=|Mevki=|Müstakil=
+157299	Aran Mah.	Aran=
+157369	Arpatepe Mah.	Arpatepe=|Sakalar=
+157303	Avcılar Mah.	Avcılar=|Gurbet Mezrası=
+157305	Aytepe Mah.	Aytepe=
+157301	Aşağıyeniköy Mah.	Aşağıyeniköy=|Ortayeniköy=
+157307	Bağlıca Mah.	Bağlıca=
+157371	Boztepe Mah.	Boztepe=
+157373	Buğday Mah.	Buğday=
+157309	Cevizlik Mah.	Aşağı Çeşme=|Cevizlik=
+157311	Cevizpınarı Mah.	Cevizpınarı=
+59905	Cumhuriyet Mah.	1.~|10. Sk~|11~|12~|13~|14~|15~|16~|17.~|18~|18.~|19~|2.~|20.~|21~|22~|23.~|24.~|3.~|4.~|5.~|6.~|7~|8~|9~|Kızıltepe@|Ravza Cad. 1.~|Stad@|Stadyum~|Yeni Yol@
+157335	Dara Mah.	Cami=|Dara=|Hacı=|Kale=|Zından=
+157385	Dibektaş Mah.	Toruntepe İstasyonu=
+59907	Diyarbakır Kapı Mah.	1.@|135. Acıbadem~|174 Yaylacık~|175~|183 Subaşı~|184 Koruyan~|185 Çabuk~|186 Alamet~|187 Efes~|188 Çardak~|189 Derebaşı~|190 İskit~|191 Yayla~|192 Sevgi~|193 Çiğdem~|194 Zincir~|196 Selalmaz~|197~|198~|199 Gezginler~|200 Evciler~|201 Yunus~|202 Kınalı~|203 Buruk~|204~|205 Derecik~|206 Can~|207 Derecik~|208 Ardıç~|209~|21. Yeni~|Yeni 4~|Yeni Yol@
+157315	Düzlük Mah.	Düzlük=|İpek Yolu2@
+157317	Elmabahçe Mah.	Birlik Mezra=|Elmabahçe=
+59908	Eminettin Mah.	1.yeni~|10.yeni~|135. Acıbadem~|14. Yeni~|15. Yeni~|153. Dereköy~|16. Yeni~|17.yeni~|174 Yaylacık~|177. Demirci~|178 Helvacı~|179 Somak~|180 Saipler~|181 Bozköy~|182 Özbeyler~|193 Çiğdem~|195~|200 Evciler~|201 Yunus~|202~|203~|205~|206~|207~|21. Yeni~|4 Yeni~|Yeni Yol@
+59909	Ensar Mah.	1 Sk~|11 Sk~|12 Sk~|13 Sk~|14 Sk~|15 Sk~|16 Sk~|17 Sk~|19 Sk~|2 Sk~|20 Sk~|21 Sk~|22 Sk~|23 Sk~|24 Sk~|25 Sk~|26 Sk~|27 Sk~|28 Sk~|29 Sk~|3 Sk~|4 Sk~|40~|41~|42~|44~|45~|46.~|47.~|48.~|49.~|5 Sk~|6 Nurdağ~|6 Sk~|7 Sk~|Eski Hastane%|Nusaybin@|Yeni 5 Sk~|Yeni Sk~|Yeni Yol@|Yeniyol 1~|Yeniyol 2~
+157319	Eroğlu Mah.	Eroğlu=
+157321	Eryeri Mah.	Eryeri=
+157323	Esentepe Mah.	Esentepe=|Yukarı Esentepe=|İpek Yolu2@
+157325	Eskikale Mah.	111~|Deyrulzafaran=|Eskikale=|Kotek@|Öbek=
+157281	Gökçe Mah.	1 (yeni)~|1.~|10~|12~|13~|14~|15~|16~|17~|18~|2~|20.~|21~|22~|23~|3~|4.~|5~|6~|7~|8~|Ahmet Yasevi@|Altın~|Boztepe.~|Dere.~|Elbeyli@|Eskin Yolu@|Fatih@|Fatih~|Gurs (yeni)@|Gurs@|Hürriyet.~|Irmak~|Mardin (tepebaşı)@|Mardin.~|Menderes@|Meşrutiyet@|Onay~|Ortaköy~|Ortaköy/1~|Selimiye~|Suna~|Tarla 1~|Tarla@|Vatan (tepebaşı)@|Vatan@|Yaylı1~|Zümrüt~|Çamlıca~|Çelikler~|İnönü (yeni)@|İnönü@|İsitiklal 1~|İstiklal (yeni)@|İstiklal@
+157327	Göllü Mah.	Göllü=
+59911	Gül Mah.	253~|255 Sönmezler~|259 Aydın~|263 Hocalar~|264 Gulveren~|265 Yokuşbaşı~|266 Esinli~|267 Hoşgeldin~|268 Garipler~|269 Gülçimen~|270 Yonca~|271 Çiçekli~|272 Aligedik~|273 Gürül~|274 Müjde~|275 Ulaş~|276 Gül~|511.~|512~|513~|Gulveren1~|Gulveren2~|Gulveren3~|Günaydın Sk~|Hükümet@|Mimarbaşı Serkis Elyas Lole Kültür Ve Sanat~|Umut 254~|Yalım 2~|Yalım@|Yeni 13~|Yeni 19.~|Yeni 22.~|Yeni 27~|Yeni 29~|Yeni 33~|Yeni 34~|Yeni 35~|Yeni 4~|Yeni 44~|Yeni 47.~|Yeni 51~|Yeni 6~|Yeni 61~|Zubeyde Hn@
+157329	Güneyli Mah.	Güneyli=|İpek Yolu2@
+157331	Gürağaç Mah.	Gürağaç=
+157415	Hamzabey Mah.	Hamzabey=
+157387	Hatunlu Mah.	Hatunlu=|Tepeli=
+157361	Haydar Mah.	Haydar=
+157389	Hüyüklü Mah.	Gültepe=|Hüyüklü=|Torbacık=
+157283	Kabala Mah.	1. (cumhuriyet)@|1. (kayacan)@|100.yıl@|1000@|1001@|1002~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013.~|102.~|103~|104~|106.~|107.~|108.~|109~|110~|111.~|113~|114~|115~|116~|117~|118~|119~|122.~|206.~|208.~|209~|211~|212.~|213~|214~|215~|216~|218~|220~|306~|308~|309~|310~|311~|313~|314~|315~|317~|320~|321 (yenicami)~|321~|322~|323~|325~|327~|329~|330~|402~|406~|407~|409~|411~|413~|415~|417~|418~|419~|420~|421~|422~|454~|455~|456~|457~|458~|502~|510~|511~|512~|513~|514~|516~|519~|521~|522~|523~|524~|601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|617~|618~|620~|621~|622~|630~|633~|634~|Bayarlar Sk.~|Bağlar (yenicami)@|Bağlar@|Beyt Billo=|Beyt Fakiro=|Beyt Kudeyş@|Cevsak=|Demetevler@|Eğitim@|Gergeriye=|Kayacan 3.~|Mardin%|Murat (kayacan)@|Murat@|Nuhoğlu%|Nuhoğluu%|Salih Kaya (gül)@|Salih Kaya (kayacan)@|Uzunyol=|Ziyaret@|Çokan@|Çıkmaz~|Çınar@|Şakir Nuhoğlu%|Şeyh Şiran@
+157391	Karademir Mah.	Karademır=
+59913	Kayacan Mah.	18~|19~|2~|20~|21~|22~|23~|24~|25~|26.~|27.~|28.~|Kayacan 10.~|Kayacan 11.~|Kayacan 12.~|Kayacan 13.~|Kayacan 14.~|Kayacan 15.~|Kayacan 17.~|Kayacan 3.~|Kayacan 4.~|Kayacan 5.~|Kayacan 6.~|Kayacan 7.~|Kayacan 8.~|Kayacan 9.~|Kotek@|Midyat Yolu@|Nusaybin@|Otogar@|Yalım@
+157333	Konaklı Mah.	Konaklı=
+59910	Kotek Mah.	10.sk~|11.sk~|111~|12.sk~|13.sk~|14.sk~|15.sk~|16.sk~|17.sk~|18.sk~|19.sk~|20.sk~|21.sk~|22.sk~|23.sk~|24.sk~|25.sk~|26.sk~|27.sk~|28.sk~|29.sk~|3.sk.~|30.sk~|31.sk~|32.sk~|33.sk~|34.sk~|35~|36~|38~|39~|4.sk~|5.sk~|6.sk~|7.sk~|8.sk~|9.sk~|Dağaltı~|Eskikale=|Kotek@|Nusaybin@
+157393	Kumlu Mah.	Kumlu=|İpek Yolu2@
+157395	Kuyulu Mah.	Kuyulu.=|İpek Yolu2@
+157397	Küçükköy Mah.	Küçükköy=|Telhelfi=|İpek Yolu2@
+59914	Latifiye Mah.	1~|1.@|125~|128 Atıf~|128 Atık Sk~|128.atıf~|129 Ayışıgı~|151. Haydar~|151.~|152. Tepe~|153 Dereköy~|153. Dereköy~|154~|155 Sk~|158 Sakarya~|159 Kışlacık~|174 Yaylacık~|175 Şefkat~|179~|2~|3.~|4~|5.~|Yeni 4~|Yeni Sk 17~
+59915	Medrese Mah.	1~|1.@|2.~|245 Nar~|246 Pınarcık~|247 Murat~|248 Hisarcık~|249 Kumlu~|252 Şimal~|253 Değirmen~|254 Ümit~|255 Sönmezler~|257 Şenler~|258 Dilsizler~|260 Gelinkaya~|261 Sabah~|3~|4.~|5~|Aydolu 244~|Hacılar 256~|Hükümet@|Kardelen 243~|Umut 254~|Yeni 4~
+59916	Necmettin Mah.	1~|1.yeni~|128 Atıf~|135. Acıbadem~|153 Dereköy~|153. Dereköy~|157~|158 Sakarya~|159 Kışlacık~|160 Evrenli~|161 Bayık~|162 İller~|163 İnce~|164 Dilek~|165 Dursu~|166 Kalaycı~|168 Ören~|168 Ören_2~|169 Orta~|170 Papatya~|172 Tali~|173. Varlık~|174 Yaylacık~|175 Şefkat~|176 Obalar~|179~|2.~|3.~|4.~|5~|5.~|Yeni 4~|Yeni Sk 12.~|Yeni Sk 21~|Yeni Yol@
+157409	Nur (akıncı) Mah.	Nur=|İpek Yolu2@
+59917	Nur Mah.	1. Etap~|10.~|11. Cadde 1.~|11. Cadde 10.~|11. Cadde 2.~|11. Cadde 4.~|11. Cadde 5.~|11. Cadde 6.~|11. Cadde 7.~|11. Cadde 8.~|11. Cadde 9.~|11.@|11.cadde 3.~|13.~|14.~|15.~|16.~|17.~|18.~|19.~|2.~|2.etap~|20.~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29~|3. Etap~|3.~|30.~|31.~|32.~|34.~|35.~|36.~|37.~|38.~|39.~|4 Etap~|4.~|42.~|46. Cadde 19.~|46.@|46.cadde 9.~|5 Etap~|5.~|57. Cadde 5.~|57.@|57.cad.9.~|57.cadde 1.~|57.cadde 10.~|57.cadde 2.~|57.cadde 2_~|57.cadde 3.~|57.cadde 4.~|57.cadde 5.-~|57.cadde 6.-~|57.cadde 7.-~|57.cadde 8.~|6. Etap~|6.~|67.@|7.~|77 Cad. 4~|77. Cadde 2.~|77.@|77.cad. 3.~|77.cadde. 1.~|79.@|8.~|80.~|87 Cad 5~|87 Cad. 16~|87@|87.cadde 15.~|87.cadde 17.~|87.cadde 2.~|9.~|98.cad.1.~|Bağ Yolu@|Bilinmeyen502~|Damla~|Dazerke Mezrası=|Dazerke Yolu=|Dere 1.~|Dere 2.~|Dere~|Dr. Tolga Kırış-~|Güneş 1.~|Güneş 2.~|Güneş 3.~|Güneş 4.~|Güneş 5.~|Güneş 6.~|Güneş~|Kale.~|Kamu@|Kurumlar 1.~|Kurumlar 2.~|Kurumlar 3.~|Kurumlar 4.~|Kurumlar~|Lale 1.~|Marangozlar 1~|Marangozlar 10~|Marangozlar 11~|Marangozlar 12~|Marangozlar 13~|Marangozlar 2~|Marangozlar 3~|Marangozlar 4~|Marangozlar 5~|Marangozlar 6~|Marangozlar 7~|Marangozlar 8~|Marangozlar 9~|Marangozlar Sitesi~|Mehmet Nurdag@|Mezopotamya~|Nilüfer~|Sarısu@|Susam~|Sümbül~|Tedaş Arkası 3.~|Vali Ozan@|Vefa@|Yasemin~|Yurt@|Yıldız 2.~|Çağlar.=|Çiftlik Mevkii=|Üniversite 1@|Üniversite 2@|Üniversite 3@|Üniversite 4@|Üniversite 5@|Üniversite@
+59918	Ofis Mah.	1@|11~|12~|13~|14~|2~|9~|Ofis Arkası=|Ofis Mah. 15.~|Ofis Mah. 16.~|Ofis Mah. 17.~|Ofis Mah. 3.~|Ofis Mah. 4.~|Ofis Mah. 5.~|Ofis Mah. 6.~|Ofis Mah. 7.~|Ofis Mah. 8.~|Sanayi Arkası 10~|Sanayi Arkası 11~|Sanayi Arkası 12~|Sanayi Arkası 13~|Sanayi Arkası 14~|Sanayi Sitesi 1~|Sanayi Sitesi 10~|Sanayi Sitesi 11~|Sanayi Sitesi 12~|Sanayi Sitesi 13~|Sanayi Sitesi 14~|Sanayi Sitesi 15~|Sanayi Sitesi 16~|Sanayi Sitesi 17~|Sanayi Sitesi 18~|Sanayi Sitesi 19~|Sanayi Sitesi 2~|Sanayi Sitesi 20~|Sanayi Sitesi 3~|Sanayi Sitesi 4~|Sanayi Sitesi 5~|Sanayi Sitesi 6~|Sanayi Sitesi 7~|Sanayi Sitesi 8~|Sanayi Sitesi 9~|Sanayi Sitesi~|Toki 1.~|Toki 2.~|Toki~
+59928	Ofisosb Mah.	1 Sb-~|1-@|10-~|11-~|12-~|13-~|14-~|15~|16~|17~|2%|2-~|3-~|4-~|5-~|6-~|7-~|8-~|9-~|Ahmet Kayhan-@|O.s.b 1.bulvar%|O.s.b 19 Sk~|O.s.b 2.bulvar%|O.s.b 20 Sk~|O.s.b 21 Sk-~|O.s.b 22 Sk-~|O.s.b 23 Sk-~|O.s.b 24 Sk-~|O.s.b 25 Sk~|O.s.b 26 Sk~|O.s.b 28 Sk~|O.s.b 30 Sk~|O.s.b 31 Sk~|O.s.b 32 Sk-~|O.s.b 33 Sk-~|O.s.b 34 Sk-~|O.s.b 35 Sk-~|O.s.b 36 Sk-~|O.s.b 37 Sk-~|O.s.b 39 Sk~|O.s.b 40 Sk-~|O.s.b. 41.~|O.s.b. 42.~|O.s.b. 43~|O.s.b. 44.~|O.s.b. 45.~|O.s.b. 46.~|O.s.b. 47.~|O.s.b. 48.~|V. Fikret Güven-@
+157287	Ortaköy Mah.	1 (tepebaşı)@|1. (bağlar)@|1. (köprübaşı)@|1.(bağlar)~|1.(tepebaşı)~|1.bağlar/1~|1003~|1004~|1005~|1006~|1007~|1008~|1009~|1010~|1011~|1012~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1022~|1023~|1024~|1025~|1026~|1027~|1028~|1029~|1030~|1031~|1032~|1033~|1034~|1035~|1036~|1037~|1038~|1039~|1040~|1041~|1042~|1043~|1044~|1045~|1046~|1047~|1048~|1049~|1050~|1051~|1052~|1053~|1054~|1055~|1056~|1057~|1058~|1059~|1060~|1061~|1062~|1063~|1064~|1065~|1066~|1067~|1068~|1069~|1070~|1071~|1072~|1073~|1074~|1075~|1076~|1077~|1078~|1079~|1080~|1081~|1082~|1083~|1084~|1085~|1086~|1087~|1088~|1089~|1090~|1091~|1092~|1093~|1094~|1095~|1096~|1097~|1098~|2. (tepebaşı)~|2. Köprübaşı@|2.~|2.cami~|3. (tepebaşı)~|3/1.~|3/2.~|Aydınlık~|Bahçe~|Batı (bağlar)~|Batı 1~|Batı 2~|Batı~|Bağlar1~|Belediye~|Bilgi~|Bilinmeyen Ortaköy 24.~|Cami Kısa~|Demirci~|Doğu~|Eski Mardin (tepebaşı)@|Eski Mardin@|Gökçe@|Göllü.@|Gül~|Güney~|Han (köprübaşı)~|Han (tepebaşı)~|Han~|Karanfil~|Kuyulu@|Kuzey=|Köprü@|Köprü(köprübaşı)~|Lale~|Nusaybin.@|Oduncu~|Oruç~|Ova@|Papatya~|Park~|Pembe~|Yaylı (köprübaşı)@|Yaylı.~|Yağmur~|Yeni@|Yeni Mezarlık@|Yeni Sağlık Ocağı@|Yeniyol@|Çatak@|Çeşme (tepebaşı)~|Çeşme~|Çiftlik@|İpek (tepebaşı)~|İpek~
+157399	Sakalar Mah.	Sakalar=
+59919	Saraçoğlu Mah.	1~|10.~|11.~|12.~|13.~|14.~|15.~|152.tepe~|16.~|17. Sokak~|18.~|19.~|2~|2.~|21.~|22~|23.~|24.~|26.~|27.~|28.~|29.~|3.~|30.~|31.~|33.~|34.~|35.~|36.~|37.~|38.~|39.~|4.~|40.~|41.~|42.~|44~|45~|46~|47~|48~|49~|5.~|50~|51~|52~|53~|54~|55~|56~|57~|58~|59~|6.~|7.~|8.~|9.~|Anafartalar~|Dar~|Meteroloji~|Peygamer~|Yeni Yol 3~|Yeni Yol@
+59920	Savurkapı Mah.	1.@|100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|12. Terma~|22.~|24 Destan~|30 Gölge~|Ahubaba 16~|Akpınar 19~|Armutlu 14~|Barış 22~|Başaran 36~|Belen 2~|Beyören 15~|Cilalı 7~|Debelen~|Duygular 1~|Esen 20~|Eski Hastane%|Güldere 17~|Hacı Ali 9~|Kanuni 38~|Kayacan 3.~|Kuvvet 4~|Ladik 11~|Meşrutiyet 10~|Mimarbaşı Serkis Elyas Lole Kültür Ve Sanat~|Nuamba~|Nusaybin@|Otogar@|Yalım 2~|Yalım@|Yalım_1~|Yeni 14.~|Yeni 29.~|Yeni 33~|Yeni 33.~|Yeni 35~|Yeni 35.~|Yeni 42.~|Yeni 44~|Yeni 47.~|Yeni 49~|Yeni 50~|Yeni 51~|Yeni 53~|Yeni 61~|Yeni Sk 12~|Yeni Sk 26.1~|Yeni Sk 36~|Yeni Sk 37~|Yeni Sk 39~|Yeni Sk 42~|Yeni Sk 43~|Yeni Sk 45~|Yeni Sk 47~|Yeni Sk 54~|Yeni Sk 55~|Yeni Sk 57~|Yeni Sk 58~|Yeni Sk 59~|Yeni Sk 60~|Yeni Sk 62~|Yeni Sk 63~|Yeni Sk 9~|Yeni Yol@|Yerlibahçe 21~|Yokağan 23~|Zubeyde Hn@|Çabuk 6~|Çamlıca 18~|Çınarçık 13~|İnanç 3~|Şahin 5~|Şirvan 22~
+157337	Sulak Mah.	Sulak=|İpek Yolu2@
+157339	Sultanköy Mah.	Sultanköy=
+157341	Tandır Mah.	Tandır=
+59923	Teker Mah.	1.@|100.serinka~|101~|111. Siteler~|112. Susuz~|113. Laleli~|122~|129 Ayışıgı~|24 Destan~|25 .~|33~|39 Unsaldı~|44.~|45 Durali~|46~|47~|48 Bahçe~|49 .~|51 Bahçelievler~|52~|53 Çatak~|54 Gözeli~|55~|56~|57 Çakır~|58~|59. Loş~|60~|61~|62 Gözlü~|63.~|64~|65. Sk~|66~|67~|68 İstiklal~|69 Mutsuzlar~|70 Koşk~|71 Balık~|72. Fındık~|73. Turunçgiller~|74 Ağalar~|75 Akın~|76~|77 Erik~|78. Fethiye~|79 Nur~|80 Nemik~|81 Lassi~|82 Acar~|83.duruca~|84.emir~|85.uğur~|86.bolu~|87 Kubbe~|88.kocakuyu~|89~|90~|91.güney~|92~|93 Çinli~|94 Şirin~|94koç Sk~|95~|96.güner~|97.sıran~|98.~|99.altındağ~|Yeni 15~|Yeni 28~|Yeni Yol 1~|Yeni Yol 2~|Yeni Yol 3~|Yeni Yol 4~|Yeni Yol 5~|Yeni Yol@|Yenisk 18~|Yeniyol Üstü=
+157343	Tilkitepe Mah.	Tilkitepe=|İpek Yolu2@
+157401	Tozan Mah.	Tozan=
+59924	Ulucami Mah.	100.serinka~|101~|102 Balcı~|103.~|104.mut~|105.gülnar~|106. Erdemli~|107.insu~|108.azizler~|109.mertler~|110. Arzu~|111. Siteler~|112. Susuz~|113. Laleli~|114. Kumrular~|115. Emirgen~|116. K.efendi~|117. Menekşe~|118. Hikmet~|119. Bayram~|120 Burç~|121. Hanlar~|122~|123. Çavuş~|124. Yaras~|125~|125. Kılıçlar~|126.dündar~|127.yolbaşı~|128 Atık Sk~|128.atıf~|129 Ayışıgı~|130.~|131.~|143~|149. Hendek~|151. Haydar~|152. Tepe~|156~|79 Nur~|94koç Sk~
+157285	Yalım Mah.	100~|102 (hürriyet)~|102~|103~|104~|105~|106~|107~|108~|109.~|110.~|111~|112~|113.~|115~|115.~|116.~|119~|119.~|13 Mart@|14~|201~|202~|203~|204~|205~|206~|208~|209.~|21.~|210~|213.~|215 Yalım~|217~|218.~|219.~|24.~|300~|301~|302~|701~|702~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|713~|714~|715~|716.~|717.~|718~|719~|723~|724~|725~|726~|727~|728~|729~|730~|731~|732~|734~|735~|736~|Atatürk (hürriyet)%|Atatürk%|Bağlar (paspanos )@|Başak~|Gaffari Güneş2@|Midyat Caddesi Altın Şehir~|Midyat Caddesi Mavi Şehir~|Midyat@|Münir Akyol@|Safa Kümesi=|Seyda Hadi Dalar@|Yalım@|Yalım Köyiçi Yolları 1~|Yalım Köyü İç Yolları~|Yeniyol.~|Ömerli (hürriyet)@|Ömerli 1~|İbrahim Aksin@
+157345	Yardere Mah.	Yardere=
+157347	Yayla Mah.	Mezra=|Sultançayır Mezrası=|Yayla=|Yayla1=
+157349	Yaylabaşı Mah.	Yaylabaşı=
+157351	Yaylacık Mah.	Leylak Mz.1=|Yaylacık=
+157403	Yaylı Mah.	Yaylı=
+157353	Yenice Mah.	Yenice=|İpek Yolu2@
+59925	Yenikapı Mah.	117. Menekşe~|120 Burç~|122~|123 Çavuş~|127 Yolbaşı~|128 Atık Sk~|130. D.efendi~|131~|132. Manastır~|132. Manastır_1~|133. Kırklar~|134. Kelebek~|135. Acıbadem~|136~|137. Şahin~|138~|139.karıncalar~|140. Goncalar~|141. Uluyol~|142. Musalar~|143~|144. Hürriyet~|145. Mesa~|146. Sedat~|147. Hicran~|148. Vakıf~|149. Hendek~|150 Çelebiler~|156~|157~|168 Ören~|168 Ören_1~|168 Ören_2~|94koç Sk~|Yeni 10~|Yeni 22~|Yeni 6~|Yeni 7~|Yeni Sk 21~|Yeni Sk 35~|Yeni Yol@
+157355	Yeniköy Mah.	Yeniköy=|İpek Yolu2@
+59926	Yenişehir Mah.	10. Sk~|11~|19. Sk~|25~|26. Sk~|27. Sk~|29~|3. Sk~|31. Sk~|32. Sk~|33. Sk~|34. Sk~|37. Sk~|4. Sk~|42. Sk~|43. Sk~|44. Sk~|45.~|46. Sk~|47.sk~|48. Sk~|49.~|50.~|51~|52~|54~|55~|56.~|57.~|58.~|59.~|6. Sk~|8~|Akasya~|Aydınlar~|Barış Cad. 1.~|Barış Cad. 2.~|Barış@|Camii~|Cemre~|Dolunay@|Dostlar~|Esenler~|Gençlik~|Gezinti~|Kale.~|Karakol@|Karakol.~|Kardelen~|Konak Cad 5~|Konak Cad 6~|Konak Cad. 1.~|Konak Cad. 2.~|Konak Cad. 3.~|Konak Cad. 4.~|Konak~|Kultur@|Kızıltepe@|Mehmet Nurdag@|Mehmet Nurdağ 1.~|Palmiye~|Ptt 283@|Ravza Cad. 1.~|Ravza@|Ssk@|Stad@|Stadyum~|Tedaş Arkası 1.~|Tedaş Arkası 10.~|Tedaş Arkası 2.~|Tedaş Arkası 3.~|Tedaş Arkası 4.~|Tedaş Arkası 5.~|Tedaş Arkası 6.~|Tedaş Arkası 7.~|Tedaş Arkası 8~|Tedaş Arkası 9.-~|Toprak Sk~|Vali Ozan@|Yalım@|Yeni Kent@|Yeni Yol@
+157357	Yolbaşı Mah.	Güneşli=|Yolbaşı=
+157405	Yukarıaydınlı Mah.	A.aydınlı=|Gündük Makso=|Yukarıaydınlı=
+157407	Yukarıhatunlu Mah.	Eminler=|Yukarı Hatunlu=
+157359	Yukarıyeniköy Mah.	Yukarıyeniköy=
+157413	Yüce Mah.	Yüce=|Ziyaret 1.=|Özlüce=
+59906	Çabuk Mah.	1.@|18~|19~|20~|209 Hisar~|21~|210 Tekel~|211 Pehlivan~|212~|213 Meydan~|214 Arıçlı~|215 Sürüç~|216 Karadana~|218~|22~|220 Soner~|23.~|239 Bademli~|24~|241 Erdes~|249 Kumlu~|25~|250. Sokak~|26~|27~|29~|3. Sk~|30~|31~|32~|Kırklar Kilisesi~|Stad Civarı~|Vali Ozan@|Yalım@|Yeni 11~|Yeni 14~|Yeni 18~|Yeni 20.~|Yeni 21,~|Yeni 24~|Yeni 25.~|Yeni 28~|Yeni 29~|Yeni 30~|Yeni 31~|Yeni Sk 19~|Yeni Sk 22~|Yeni Sk 23~|Yeni Sk.17~|Çagatay~
+157375	Çalışlı Mah.	Çalışlı=|İpek Yolu2@
+157377	Çatak Mah.	Çatak.=
+157379	Çayırpınar Mah.	Çayırpınar=|İpek Yolu2@
+157363	Çağlar Mah.	Çağlar=
+157313	Çiftlikköy Mah.	Çiftlikköy=
+157383	Çukuryurt Mah.	Çukuryurt=|İpek Yolu2@
+157381	Çıplaktepe Mah.	Bereket=|Çıplaktepe=|İpek Yolu2@
+157411	Özlüce Mah.	Beşevler=|Çiftlikköy.=|Özlüce=
+59912	İstasyon Mah.	1 .sk~|1@|10 .sk~|11 .sk~|12 .sk~|13 .sk~|14 .sk~|15 .sk~|16 .sk~|17 .sk~|18 .sk~|19 .sk~|2 .sk~|20 .sk~|21 .sk~|22 .sk~|2223.~|23 .sk~|24 .sk~|25 .sk~|26 Sk.~|27 .sk~|28 .sk~|29 .sk~|3.sk~|30 .sk~|31 .sk~|32 .sk~|33 .sk~|34~|35~|36~|37~|38~|39~|4 .sk~|40~|41~|42~|43~|5 .sk~|6 .sk~|7 .sk~|8 .sk~|9 .sk~|Kızıltepe@|Mezbaha@|Ofis~
+59921	Şar Mah.	1.@|129 Ayışıgı~|130.~|19~|219 Varan~|220 Soner~|221 Karaman~|222 Şemsiler~|223 Suludere~|224 Sarısu~|225 Yeniyol~|226~|227 Çavırlı~|228~|229 Merdane~|230 Yemişler~|231 Elikli~|232 Çınarlı~|233 Sarılar~|234 Pınar~|235 Beyler~|236 Çınaraltı~|237~|238~|239 Bademci~|240 Kışla~|241 Erdes~|241~|242 .melekler~|242 Melekler~|243.~|245 Elekler~|246.~|247~|249 Kumlu~|250~|251 Dere~|252.~|253~|254.~|255.~|256.~|257.~|258.~|259.~|75 Akın~|75~|Mar Yusuf Klisesi~|Yeni 11~
+59922	Şehidiye Mah.	1.@|22.~|24 Destan~|25 .~|26 Taşkonak~|28 Seher~|29 Yemezler~|30 Gölge~|31 Uğur~|32 Ilgaz~|33 Yumak~|34 Sille~|35 Ardıç~|37 Gökyurt~|38 Kuzu~|39 Unsaldı~|41 .~|43 Sk~|51 Bahçelievler~|52~|65. Sk~|Başaran 36~|Hükümet@|Mimarbaşı Serkis Elyas Lole Kültür Ve Sanat~|Mimarbaşı Serkis Elyas Lole Kültür Ve Sanat_1~|Yeni 11~|Yeni 21.~|Yeni 27.~|Yeni 43~|Yeni 43.~|Yeni Sk 10~|Yeni Sk 14~|Yeni Sk 16~|Yeni Sk 20~|Yeni Sk 25~|Yeni Sk 30~|Yeni Sk 42~|Yeni Sk 47~|Yeni Yol@

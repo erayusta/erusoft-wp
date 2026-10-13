@@ -1,0 +1,12 @@
+.eru-bps .eru-bps-pick { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 12px 0; }
+.eru-bps .eru-bps-pick select { margin-left: 6px; min-width: 200px; }
+.eru-bps .eru-bps-bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+#eru-bps-msg { color: #1d7a3a; }
+#eru-bps-msg.is-error { color: #b32d2e; }
+#eru-bps-list { max-width: 640px; margin: 12px 0; padding: 0; }
+#eru-bps-list li { display: flex; align-items: center; gap: 10px; margin: 0 0 4px; padding: 6px 10px; background: #fff; border: 1px solid #c3c4c7; border-radius: 3px; }
+#eru-bps-list .eru-bps-handle { cursor: grab; color: #787c82; }
+#eru-bps-list .eru-bps-thumb img { width: 40px; height: 40px; object-fit: cover; display: block; border-radius: 2px; }
+#eru-bps-list .eru-bps-title { flex: 1; font-weight: 500; }
+#eru-bps-list .eru-bps-meta { color: #787c82; font-size: 12px; }
+#eru-bps-list .eru-bps-ph { height: 52px; border: 1px dashed #2271b1; background: #f0f6fc; }

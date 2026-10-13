@@ -1,0 +1,80 @@
+41891	Ayvatlar Mah.	Dadılar=|Karagözler=|Memetler~|Merkez_9=
+41890	Aşağıarslanlı Mah.	Cezayeri=|Hoca=|Merkez_5=|Ömür~
+41892	Batıörcünler Mah.	Merkez_10=|Müsellimler=|Yibo@|Çal=
+41893	Delihacılar Mah.	Kaymakçı=|Merkez_6=
+41894	Demirciözü Mah.	Aşağı~|Başköy=|Hatip=|Külcü~|Merkez_7=
+48716	Emreler Köyü, Kandavurlar Mevkii	Kandavurlar=
+48715	Emreler Köyü, Merkez Mevkii	Merkez=
+48714	Emreler Köyü, Saraycık Mevkii	Saraycık=
+48717	Emreler Köyü, Sofucak Mevkii	Sofucak=
+48722	Ercek Köyü, Emmi Mevkii	Emmi=
+48718	Ercek Köyü, Haydarlı Mevkii	Haydarlı=
+48724	Ercek Köyü, Karahmet Mevkii	Karahmet=
+48720	Ercek Köyü, Mavili Mevkii	Mavili=
+48721	Ercek Köyü, Merkez Mevkii	Merkez=
+48719	Ercek Köyü, Yapukçu Mevkii	Yakupçu=
+48723	Ercek Köyü, İbicioğlu Mevkii	İbicioğlu=
+41895	Hacıkayalar Mah.	38.~|39.~|40.~|41.~|42.-~|43.-~|56~|60-~|61-~|62~|Kayalar@
+48736	Karaçavuş Köyü, Bozarmut Mevkii	Bozarmut=
+48738	Karaçavuş Köyü, Börekci Mevkii	Börekçi=
+48734	Karaçavuş Köyü, Karaçavuş Merkez Mevkii	Karaçavuş Merkez=
+48735	Karaçavuş Köyü, Kürt Mevkii	Kürt=
+48737	Karaçavuş Köyü, Madanbey Mevkii	Madanbey=
+48740	Kepez Köyü, Ali Ağa Mevkii	Ali Ağa=
+48739	Kepez Köyü, Merkez Mevkii	Merkez=
+48741	Kepez Köyü, Yakupoğlu Mevkii	Yakupoğlu=
+48745	Mancılık Köyü, Hacınesifoğlu Mevkii	Hacınesifoğlu=
+48746	Mancılık Köyü, Kadiroğlu Mevkii	Kadiroğlu=
+48747	Mancılık Köyü, Kuytulu Mevkii	Kuytulu=
+48743	Mancılık Köyü, Merkez Mevkii	Merkez=
+48744	Mancılık Köyü, Süngüler Mevkii	Süngüler=
+48742	Mancılık Köyü, Şahbat Mevkii	Şahbat=
+41896	Merkez Mah.	1.~|10.~|11.~|12.~|13.~|14.~|15.~|16.~|17.-~|18.~|19.~|2.~|20.-~|21.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3.~|30.~|31.~|32.-~|33.~|34.~|35.~|36.~|37.~|4.~|5.~|54~|55~|56~|57-~|6.~|63-~|64~|68-~|69-~|7.~|70~|71~|72~|73~|74~|8.~|9.~|Aşağı Takazlar@|Boğacık@|Bük@|Cumhuriyet%|Gençoğlu@|Hamidiye@|Kanarya~|Karanfil~|Kartal~|Karyağdı@|Kurtuluş@|Kızılay~|Reşide Hatun-@|Sağlık@|Seyyidi Zülfikar@|Turplar@|Yibo@|Yukarı Takazlar@|İmanlar@|İstiklal@|Şehit Ersin Yenel@|Şehit Şerife Bacı@|Şht.yasin Ölmez@
+180838	Merkez Osb Mah.	1@|10@|11@|12@|13@|2@|3@|4@|5@|6@|7-@|8@|9@|Yibo@
+48750	Odabaşı Köyü, Hoşkunlar Mevkii	Hoşkunlar=
+48748	Odabaşı Köyü, Merkez Mevkii	Merkez=
+48749	Odabaşı Köyü, Çömek Mevkii	Çömek=
+48754	Sabuncular Köyü, Hüsemli Mevkii	Hüsemli=
+48752	Sabuncular Köyü, Kuyumcular Mevkii	Kuyumcular=
+48756	Sabuncular Köyü, Kürto Mevkii	Kürto=
+48751	Sabuncular Köyü, Merkez Mevkii	Merkez=
+48755	Sabuncular Köyü, Sürmeli Mevkii	Sürmeli=
+48753	Sabuncular Köyü, Çelebi Mevkii	Çelebi=
+41898	Yayla Mah.	Ceviz=|Göç=|Halkacılar=|Merkez_11=|Sipahi=|Çakmak=
+41897	Yağlar Mah.	44.~|45.~|46.~|47.~|48.~|49.~|50.~|58-~|59~|65-~|66~|67~|Güney@|Köy İçi@
+48767	Yolyaka Köyü, Ayrancı Mevkii	Ayrancı=
+48765	Yolyaka Köyü, Karakaş Mevkii	Karakaş=
+48764	Yolyaka Köyü, Merkez Mevkii	Merkez=
+48766	Yolyaka Köyü, Pantır Mevkii	Pantır=
+48768	Yolyaka Köyü, Sarnıç Mevkii	Sarnıç=
+48769	Yolyaka Köyü, Çayan Mevkii	Çayan=
+41899	Yukarıarslanlı Mah.	Hoca=|Merkez_8=|Soğan Ağa=|Yağmurlar=|Yibo@
+48701	Çerçiler Köyü, Merkez Mevkii	Merkez=
+48702	Çerçiler Köyü, Tepe Köy Mevkii	Tepe Köy=
+48712	Çiğilerik Köyü, Demiroğlu Mevkii	Demiroğlu=
+48711	Çiğilerik Köyü, Dere Mevkii	Dere=
+48710	Çiğilerik Köyü, Harmanda Mevkii	Harmanda=
+48713	Çiğilerik Köyü, Hatıp Mevkii	Hatıp=
+48709	Çiğilerik Köyü, Hücüman Mevkii	Hücüman=
+48708	Çiğilerik Köyü, Ödemiş Pazaryeri Mevkii	Köy Tüzel Kişiliği- Köy$|Ödemiş Pazaryeri=
+48704	Çırdak Köyü, Hüseyinağa Mevkii	Hüseyinağa=
+48705	Çırdak Köyü, Maşaoğlu Mevkii	Maşaoğlu=
+48703	Çırdak Köyü, Merkez Mevkii	Merkez=
+48707	Çırdak Köyü, Selimoğlu Mevkii	Selimoğlu=
+48706	Çırdak Köyü, Yavsuoğlu Mevkii	Yavsuoğlu=
+48762	Üyük Köyü, Gücükler Mevkii	Gücükler=
+48763	Üyük Köyü, Kadıhüseyin Mevkii	Kadıhüseyin=
+48761	Üyük Köyü, Üyük Merkez Mevkii	Üyük Merkez=
+48726	İmrenler Köyü, Halaçoğlu Mevkii	Halaçoğlu=
+48728	İmrenler Köyü, Kayalar Mevkii	Kayalar=
+48725	İmrenler Köyü, Merkez Mevkii	Merkez=
+48729	İmrenler Köyü, Çavuşoğlu Mevkii	Çavuşoğlu=
+48727	İmrenler Köyü, İmamoğlu Mevkii	İmamoğlu=
+48733	İncesu Köyü, Kuruoğlu Mevkii	Kuruoğlu=
+48730	İncesu Köyü, Merkez Mevkii	Merkez=
+48731	İncesu Köyü, Mustafa Mevkii	Mustafa=
+48732	İncesu Köyü, Müco Mevkii	Müco=
+48758	Şalgam Köyü, Aşağı Şalgam Mevkii	Aşağı Şalgam=
+48760	Şalgam Köyü, Böcek Mevkii	Böcek=
+48759	Şalgam Köyü, Demirci Mevkii	Demirci=
+48757	Şalgam Köyü, Merkez Mevkii	Merkez=

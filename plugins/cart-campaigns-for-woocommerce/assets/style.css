@@ -1,0 +1,4 @@
+.eru-cc-progress{margin:0 0 1em;padding:.75em 1em;border:1px solid currentColor;border-color:rgba(0,0,0,.15);border-radius:6px;background:rgba(0,0,0,.03)}
+.eru-cc-progress .eru-cc-text{margin:0 0 .5em}
+.eru-cc-bar{height:6px;border-radius:3px;background:rgba(0,0,0,.12);overflow:hidden}
+.eru-cc-bar span{display:block;height:100%;background:#2e7d32;transition:width .3s}

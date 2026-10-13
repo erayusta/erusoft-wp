@@ -1,0 +1,40 @@
+51567	82.yıl Mah.	601~|602~|603~|604~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|617~|619~|Barbaros@|Emet@|Fatih@|Halil Kurnaz%|Hasanlar@|Sanayi Sitesi=|Süleyman Demirel%|Zekeriya Kaplan@|Çapacı@|Şehit Ayhan Öğüt~
+55305	Alınören Köyü	Alınören=
+55306	Aşağıyoncaağaç Köyü	408~|Aşağıyoncaağaç=
+55307	Beyköy Köyü	Beyköy=
+55308	Beyköy Köyü, Aşağı Beyköy Mevkii	Aşağı=
+51562	Cumhuriyet Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|116~|119~|120~|121~|122~|123~|124~|125~|126~|127~|129~|Ahmet Tural~|Akbaş@|Ali Helvacı@|Cumhuriyet Myd.|Gün~|Hacı Efendiler~|Kadılar@|Kemal Özdoğan~|Mehmet Ersoy%|Mehmet Şenokur~|Mezarlık@|Prof.dr.güner Önce@|Uzun Çarşı@|Çimenlik@
+51568	Dereköy Köyü, Gazi Mevkii	101~|102~|103~|105~|106~|107~|108~|109~|110~|111~|112~|113~|113/1~|113/2~|114~|114/1~|114/2~|115~|115/1~|207~|216~|3 Eylül~|Bilinmeyen 2~|Bilinmeyen 3~|Bilinmeyen 4~|Bilinmeyen 5~|Bilinmeyen 6~|Ergenekon~|Malazgirt~|Malazgirt1~|Malazgirt2~|Malazgirt3~|Malazgirt4~|Malazgirt5~|Malazgirt6~|Şehit Fatih Seven~
+51569	Dereköy Köyü, Yunusemre Mevkii	113/2~|201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|Bilinmeyen 1~|Bilinmeyen 7~|Bilinmeyen 8~|Bilinmeyen 9~|Ergenekon~|Malazgirt1~|Sefaköy=|Şehit Fatih Seven~
+55310	Güldüren Köyü	Güldüren=
+55311	Halifeler Köyü	Halifeler=
+55312	Hamamköy Köyü	Hamamköy=
+51570	Hasanlar Köyü, Bahçelievler Mevkii	Bahçelievler=|Cennet 1~|Cennet 2~|Cennet~|Cumhuriyet~|Dingil~|Eskimezarlık=|Gezer~|Hisarcık~|Kurtkuyusu~|Mustafa Keleş~|Yıldız~|Çayır Köprü~|Özgür 1~|Özgür~
+51571	Hasanlar Köyü, Emirsultan Mevkii	Adem~|Arpalık~|Bahçelievler=|Ballıharman~|Bülbül~|Cennet~|Cumhuriyet~|Demir~|Dingil~|Hasanlar 1~|Hasanlar 2~|Hisarcık~|Kahraman~|Kevzenler 1~|Kevzenler~|Konak 1~|Konak~|Kurtkuyusu~|Mezarlık~|Numan~|Okul~|Talip~|Taşköprü~|Uygun~|Vatan 1~|Vatan 2~|Vatan 3~|Vatan~|Yavuz 1~|Yavuz~|Yeniköy 1~|Yeniköy 10~|Yeniköy 11~|Yeniköy 12~|Yeniköy 2~|Yeniköy 3~|Yeniköy 4~|Yeniköy 5~|Yeniköy 6~|Yeniköy 8~|Yeniköy 9~|Yeniköy~|Yurt~|Yıldırım~|Zeytin~|İnal~
+55313	Hocalar Köyü	Hocalar=
+55314	Karaağıl Köyü	Karaağıl=
+51572	Karbasan Köyü, Cumhuriyet Mevkii	Aralık~|Aslan~|Atatürk 1~|Atatürk~|Avcılar~|Beşevler~|Bilinmeyen/1~|Bılınmeyen 3~|Eskiköy~|Eskıkoy1~|Eğitim~|Güllük~|Gürbüz~|Hisarcık~|Kanal~|Kayaaltı~|Kayabaşı~|Kuzey~|Körfez~|Vişnelik~|Vişnelik/1~|Yeniyol~|Yeşil~|Çimenlik~|Çiğdem~
+51573	Karbasan Köyü, Karşıyaka Mevkii	Alan Yolu~|Alanyolu1~|Atatürk 1~|Atatürk~|Bahçe~|Bağlık~|Bilinmeyen/1~|Bılınmeyen 6~|Eğitim~|Fidanlık~|Gürbüz~|Hisarcık~|Kanal~|Kayaaltı~|Kayabaşı~|Kuyubaşı=|Meydan~|Meydan Yolu~|Musa Çıkmazı~|Osmanlı~|Park~|Park1~|Rüzgarlı-~|Sevgi~|Vişnelik~|Yelalmaz~|Yeniyol~|Çiğdem~|İnce~
+51574	Karbasan Köyü, Yenidoğan Mevkii	Batı~|Bılınmeyen 3~|Dokuzevler~|Dönence~|Dönence/1~|Dönence/2~|Kapaklı~|Kırkevler(küme)=|Yaylacık~|Çimenlik~
+51563	Karşıyaka Mah.	401~|402~|403~|404~|405~|406~|407~|408~|Adnan Menderes@|Emet@|Etibor@|Hüseyin Türe@|Madenciler@|Ovacık Mevki=|Sağlam~|Umurbey@|Umurbey Çıkmazı~|Yörük Damları=|Yıldırım@
+55316	Kurtdere Köyü	Kurtdere=
+55317	Kurtdere Köyü, İnkaya Mevkii	İnkaya=
+55318	Kutlubeyler Köyü	Kutlubeyler=
+55319	Kutluhallar Köyü	Kutluhallar=
+55315	Kızılçukur Köyü	Kızılçukur=
+55321	Saklar Köyü	Saklar=
+55322	Sefaköy Köyü	Sefaköy=
+55325	Tokat Köyü	Tokat=
+55326	Ulaşlar Köyü	Ulaşlar=
+51565	Yenidoğan Mah.	501~|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|516~|517~|518~|519~|520~|521~|522~|Atanur Aydın~|Ekici 1~|Ekici 2~|Ekici@|Hakkı Ocak@|Küçükçay~|Mimarsinan@|Süleyman Demirel%|Süleyman Güleç@|Tunahan@|Turgut Özal 1~|Turgut Özal%|Tuzla@|Yavuz Selim@|Yunus Emre@|İsmail Çorumluoğlu@|Şehit Yüksel Arık~
+55327	Yenipınar Köyü	Yenipınar=
+51566	Yeşilhisar Mah.	301~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|Atatürk%|Esire Kaplıcaları=|Gediz@|Hamit Özçelik~|Kadılar@|Mehmet Ersoy%|Mezarlık@|Yalek@|Çümen~|İbrahimağa@|Şehit Ahmet Yavuz~|Şehit Fatih Seven~
+55328	Yukarıyoncaağaç Köyü	Yukarıyoncaağaç=
+55309	Çatak Köyü	Çatak=
+55320	Örenköy Köyü	Örenköy=
+51564	Şehitler Mah.	201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|226~|227~|228~|229~|Ali Helvacı@|Arpalık@|Cumhuriyet Myd.|Emet@|Hacı Efendiler~|Halil Kurnaz%|Hüseyin Demirtaş@|Küçükçay~|Mustafa Keleş@|Prof.dr.güner Önce@|Sevgi@|Seydi Resul@|Türbe~|Çimenlik@|Şehit Ayhan Öğüt~|Şehitler@
+51575	Şeyhler Köyü, Alıdede Mevkii	Akşemsettin~|Alidede=|Cumhuriyet 3~|Cumhuriyet~|Doğan~|Eyüb Hoca~|Ferdi~|Kurum~|Lale~|Menekşe~|Nergis~|Sağlık~|Uzar~|Yaren~|Yunusemre 1~|Yunusemre~|Çimen~|Çiğdem~
+51576	Şeyhler Köyü, Haksızhasan Mevkii	Aktürk~|Alidede=|Arslan 1~|Arslan 2~|Arslan~|Bal 1~|Bal 2~|Bal~|Bayramdede~|Cumhuriyet 1~|Cumhuriyet 2~|Gazi~|Gündüz~|Hacılar~|Haksızhasan 1=|Haksızhasan=|Kaplan~|Kasap~|Kurnaz~|Kömürcüler 1~|Kömürcüler 2~|Kömürcüler~|Meydanlık 1~|Meydanlık~|Pınar~|Türbeler 1~|Türbeler~|Yıldırım 1~|Yıldırım~|Ölmez~|Özlem Çıkmazı~|Şimşek~
+51577	Şeyhler Köyü, Tekke Mevkii	Ahmet Yesevi~|Akşemsettin~|Arslan 2~|Aydın~|Bayramdede 1~|Bayramdede~|Cumhuriyet 1~|Cumhuriyet 3~|Cumhuriyet 4~|Cumhuriyet~|Haksızhasan 1=|Harmanlık~|Karaca 1~|Karaca~|Kaya~|Kaygısız~|Kervan~|Kocapınar~|Kömürcüler 1~|Kömürcüler~|Lale 1~|Lale 2~|Pınar~|Süper~|Tekke~|Uzar~|Yunusemre~|Çimen~
+55323	Şeyhçakır Köyü	Şeyhçakır=
+55324	Şeyhçakır Köyü, Bakılar Damları Mevkii	Bakılar Damları=

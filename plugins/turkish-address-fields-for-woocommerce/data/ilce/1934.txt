@@ -1,0 +1,22 @@
+191079	Atlas Mah.	Atlas=
+191081	Ayvalı Mah.	Ayvalı=
+191083	Bedil Mah.	Bedil=
+191085	Beyyayla Mah.	Beyyayla=|Köy~
+191091	Doğray Mah.	Doğray=
+30263	Fatih Mah.	Acı~|Ay~|Bizim~|Cumhuriyet Myd.|Fidan~|Karaağaç~|Karşıyaka=|Kıbrıs Şehitleri@|Serin~|Zübeyde Hanım@|Çınar~|İrfan~|İrfan Çıkmazı~
+191095	Gecek Mah.	Gecek=
+191075	Gümüşkonak Mah.	Ada Çıkmazı~|Arzu~|Atatürk@|Avşar Yaylası=|Ayvalık=|Badem~|Bahçe~|Barış~|Bayrak~|Bağlar~|Cami~|Ceviz~|Ceylan~|Cumhuriyet Myd.|Dere~|Emrah~|Emre (yunusemre)~|Emre~|Gül~|Güler~|Gümüş~|Güneş~|Hekim~|Huzur~|Ima Yaylası=|Irmak~|Karanfil~|Kaşılıbük Yaylası=|Kilise Çıkmazı~|Kiraz~|Kurudağ=|Kutlu~|Lale~|Menekşe~|Nilüfer~|Salkım (yunusemre)~|Salkım~|Selvi~|Sivrihisar@|Söğüt~|Taşlı Yayla=|Tekke~|Tepe~|Toto Çıkmazı~|Yavuz~|Yeşil~|Yurt~|Yıldırım~|Yıldız (fevzi Çakmak)~|Yıldız~|Zambak~|Zeybek~|Çakmakyaylası=|Çayır~|Çimen~|Çiçek~|Çiğdem~|Çınar~|İstiklal (yunusemre)@|İstiklal@|Şimşek~
+191097	Kavacık Mah.	Kavacık=
+191099	Kavuncu Mah.	Kavuncu=
+191077	Kayakent Mah.	Akasya~|Alagöz (buyaka)=|Alagöz Karşıyaka=|Atatürk@|Bahtiyar~|Battalgazi~|Bağlar@|Betül~|Beyazıt@|Bülbül~|Cami~|Ceylan~|Cumhuriyet (osmanlı) Myd.|Cumhuriyet Myd.|Derya~|Elvan~|Emek~|Emrah~|Fidan~|Gazi@|Geyik~|Gonca~|Gül~|Gülen~|Gürüp~|Güvercin~|Hacılar~|Hasan Baba~|Hicran~|Huzur~|Hürriyet (osmanlı)@|Hürriyet@|Ihlamur~|Kanarya~|Karanfil~|Kayısı~|Kiraz~|Korlam=|Kumru~|Kılınç~|Laleli~|Makber~|Manolya~|Martı~|Menekşe~|Mercan~|Mevlana~|Morgül~|Nergis~|Papatya~|Pınar~|Sarmaşık~|Serap~|Stad~|Sümbül~|Tuna~|Türbe (karşıyaka)@|Türbe(buyaka)@|Türkmen~|Ufuk~|Ulubat~|Uğur~|Vatan@|Yazgülü~|Yudum~|Yunus Emre~|Yücel~|Zafer~|Zübeyde Hanım~|Çiçek~|Çiğdem~|Çukurdağ~|Çıkmaz~|İnci~|İpek~|Şahin~
+191101	Kuzören Mah.	Kuzören=
+99451	Mercan Mah.	Mercan=
+30265	Sümer Mah.	Ada~|Cumhuriyet Myd.|Dere~|Eti~|Eti Çıkmazı~|Ferhat~|Gölet~|Güneş~|Huzur~|Kültür Evi~|Lale~|Menekşe~|Milli~|Pınar~|Turgut Altınok@|Zübeyde Hanım@|Çavuş~|Şeker~
+191093	Tutlu Mah.	Tutlu=|Yeni Yerleşim=
+191103	Yazır Mah.	Yazır=
+99809	Yağrı Mah.	Yağrı=
+30266	Yenikent Mah.	Aktepe=|Barış~|Genç~|Gül~|Gümüş~|Neşe~|Sakın~|Vatan@|Yeni~|Yuva~|Yılmaz~|Çağlayan~|İstiklal~
+191105	Yeşilyaka Mah.	Kaya=|Yeşilyaka~
+191087	Çakmak Mah.	Çakmak=
+191089	Çardaközü Mah.	Çardaközü=
+30264	Özler Mah.	Bahçeler~|Cumhuriyet Myd.|Gazi~|Gazi Çıkmazı 1.~|Gazi Çıkmazı 2.~|Gazi Çıkmazı 3.~|Lale~|Lale Çıkmazı~|Şahin~

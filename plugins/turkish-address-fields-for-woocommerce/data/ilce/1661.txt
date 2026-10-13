@@ -1,0 +1,51 @@
+197711	Akçay Köyü	Akçay=|Akçay1=
+93834	Araköy Köyü	Araköy=
+90570	Atatürk Mah.	601~|606~|Ali Gaffar Okkan%|Anıl~|Atatürk@|Baş~|Derman~|Gönül~|Gözde~|Kanaryalar~|Kartal~|Keten~|Lise@|Orman@|Yoğun~|Zübeyde Hanım@|İpek~
+126437	Atbaşı Köyü	-~
+197567	Atbaşı Köyü, Belkis Mevkii	Belkıs=
+90571	Aydınlıkevler Mah.	701.sokak~|702.sokak~|Ali Gaffar Okkan%|Atatürk@|Bakımevi~|Cihan Entegre~|Cudi~|Cumhuriyet%|Derya@|Erkan Camii@|Hür Entegre~|Kral~|Lise@|Mazi Entegre~|Sönmez Entegre~|Şh.üst. Mehmet Esin@
+90564	Bahçelievler Mah.	203~|206~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|224/1~|225~|226~|227~|228~|232~|233~|234@|235~|236~|239~|241~|249~|270~|271~|272~|273~|275~|Ali Gaffar Okkan%|Altıntaş~|Aslı~|Asma~|Atlas~|Bahar Entegre~|Besler~|Botan@|Botan/8~|Cesur~|Cevizli~|Cizre%|Define~|Dilber~|Eda~|Ela~|Elif~|Elit~|Elvan~|Evcil~|Gabar@|Gizemli~|Göçmen~|Güçlü~|Has~|Hayal~|Hoş~|Kamışlı~|Kaplann~|Kavaklı@|Kazı~|Kent~|Koç~|Kısmet~|Leylak~|Mavi~|Mera~|Merak~|Mermer~|Mezbaha~|Millet~|Neşe~|Nucan@|Nujin@|Orta~|Osb@|Osb1~|Piyale~|Piyale1~|Sait~|Sanayi@|Sanayi Sitesi2@|Seyhan~|Seyran~|Tacir~|Taşlı~|Taşlıyol@|Tekir~|Tenha~|Ustalar Caddesi@|Uzun~|Vatan~|Vefa~|Vılayet%|Yaprak~|Çayır~|Çağ~|Çetin~|Çırav@|Özlem~|Üniversıte%|İnci~
+90576	Balveren Beldesi, Aydınlar Mah.	Cudi@|Melaye Ciziri@|Mele Derviş@|Milli@
+90577	Balveren Beldesi, Hatipler Mah.	106~|2.-@|Cevizli~|Nuh~|Yayla~|Özgür~|Şırnak 1~|Şırnak~
+90579	Balveren Beldesi, Yayla Mah.	1.@|2.~|205~|Gül~|Lale~|Milli@|Uludere@|Vatan~|Yeşilli~|Çiğdem~
+90578	Balveren Beldesi, Şafak Mah.	Cudi@|Manolya~|Melaye Ciziri@|Mele Derviş@|Menekşe~|Milli@|Nergiz~|Uludere@
+183366	Bağpınar Köyü, Köyün Kendisi Mevkii	Bağpınar=
+183368	Bağpınar Köyü, Çanaklı Mevkii	Çanaklı=
+93835	Başağaç Köyü	Başağaç=
+90565	Cumhuriyet Mah.	503~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515~|516~|517~|518~|519~|522~|Atatürk@|Aydın~|Bulvar@|Gümüş~|Hanımeli~|Kaval~|Kaym.halil Ulusoy@|Kaymakam Halil Ulusoy@|Lale~|Meşe~|Papatya~|Reyhan~|Tatlı~|Taze~|Ulusal@|Usul~|Özel~|Özen~|İpek~|Ş.dr. Ulucan Dayan@|Şeker~|Şht Mehmet İşler~
+93836	Dağkonak Köyü	Dağkonak=
+90575	Dicle Mah.	406~|408~|409~|410~|412~|413~|414~|421~|423~|425~|Akasyalar~|Ali Gaffar Okkan%|Atatürk@|Bahçeli Camii@|Davulcular~|Doruk~|Eğitim@|Flaş~|Güneş Entegre~|Güvercin~|Halit Güngen@|Huzur@|Huzur/2@|Kadife~|Karataş Entegre~|Kaym.halil Ulusoy@|Kaymakam Halil Ulusoy@|Lazer Entegre~|Müşüle~|Orman@|Sarma~|Selvi~|Serin~|Sezi~|Sümbül~|Uysal~|Zahide@|Zümrüt~|Çınar~|Özel~|Ş.dr. Ulucan Dayan@|Şafak~|Şekerpare~
+90566	Gazi Paşa Mah.	1.@|32.@|901~|911~|919~|920~|921~|922~|923~|Asır~|Bal~|Cumhuriyet%|Demirci~|Deniz~|Derya@|Destan~|Dicle~|Efe~|Eser~|Etkili~|Eğil~|Gazi@|Gül Çeşme@|Hacı Baba~|Işık~|Karanfil~|Kilim~|Kiraz~|Mavili~|Merkez~|Mydn~|Nuh~|Pınar~|Selin~|Sema Entegre~|Serap~|Tekin~|Tertip~|Yıldırım@|Özgün~|Şalcılar~|Şen Yıldız~|Şh.üst. Mehmet Esin@|Şirin~
+93837	Geçitboyu Köyü	Geçitboyu=
+90574	Gündoğdu Mah.	1201~|1205~|1206~|1211~|1213~|1214~|1215~|1216~|1217~|1218~|1219~|1222~|1223~|1224~|1225~|1226~|1227~|1241~|1242~|18 Ağustos%|21/5~|22.@|22/2~|Ahmet İke@|Akım@|Aras~|Cilalı~|Doğrul~|Dılbırin~|Gören~|Güney~|Güneşli~|Güven~|Güven/1~|Nazar~|Rüzgarlı~|Salkım~|Sema Küçüksöz@|Uludere@|Umut~|Yayla~|Yeşilli~|Zambak~|Özgül~|İlhan~|İstiklal~
+93838	Güneyce Köyü	Güneyce=
+93839	Güneyçam Köyü	Güneyçam=
+90585	Kasrik Beldesi, Bahçelievler Mah.	Akçay@|Arzu~|Can~|Ergür~|Gül~|Papatya~|Yavuz~|Zaman@|Şehıt Ramazan Teymur@|Şırnak@
+90586	Kasrik Beldesi, Boğaz Mah.	Ergür~|Özen~|Özen1~|Özen2~|Şen~|Şırnak@|Şırnak1~|Şırnak2~
+90588	Kasrik Beldesi, Yeni Mah.	Barış~|Berfin~|Cudi~|Dilber~|Elvan~|Evin~|Lütfü İhsan Yanıkoğlu@|Lütfü İhsan Yanıkoğlu1~|Seher~|Susam~|Yunus Emre~|Zaman@|Şehıt Ramazan Teymur2@
+93848	Kavuncu Köyü	Kavuncu=
+93850	Kayaboyun Köyü	Köyün Kendisi=
+93852	Koçbeyi Köyü	Koçbeyi=|Şırnak@
+93851	Koçbeyi Köyü, Davut Köy Mevkii	Koçbeyi=
+90581	Kumçatı Beldesi, Atatürk Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|114~|115~|116~|117~|118~|119~|Akdeniz@|Belediye@|Cumhuriyet@|İstiklal@
+90580	Kumçatı Beldesi, Aşağı Mah.	401~|408~|409~|410~|411~|412~|415~|416~|418~|419~|420~|Cumhuriyet@|Değirmen@|Görmeç@
+90584	Kumçatı Beldesi, Nasırhan Mah.	301~|302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|312~|313~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|328~|329~|330~|331~|332~|333~|335~|336~|337~|339~|Akdeniz@|Karanfil 1~|Karanfil@|Millet@|Vatan@|İkizce=
+90582	Kumçatı Beldesi, Çadırlı Mah.	201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|214~|215~|216~|216/1~|217~|219~|Vatan@
+90583	Kumçatı Beldesi, Çavuşhan Mah.	501~|502~|503~|506~|507~|508~|509~|510~|511~|512=|Cumhuriyet@|Görmeç@|Kavuncu=|Kurtuluş@
+140267	Körüklükaya Köyü, Köyün Kendisi Mevkii	Körüklükaya=
+126436	Kırkkuyu Köyü, Sucular Mevkii	Sucular=
+93847	Kızılsu Köyü	Kızılsu=
+93841	Toptepe Köyü	Toptepe=
+90572	Vakıfkent Mah.	1003~|1004~|1005~|1006~|1008~|1010~|1011~|1012~|1014~|1015~|1016~|1017~|1020~|1022~|1023~|1025~|1027~|20.@|21@|Aliker@|Arı~|Aynalı~|Aynalı/1~|Benzer~|Dcb~|Dilek~|Efe~|Eken~|Engin~|Gezer~|Güzel~|Kale~|Kemal Sunal@|Kenya Kunbere@|Kenya Kunbere1~|Nar~|Sakin~|Siteler@|Sitem~|Yenişehir@|Yenişehir2~|Örnek~|Şh.üst. Mehmet Esin@
+90568	Yeni Mah.	101~|102~|103~|105~|106~|107~|109~|110~|111~|112~|113~|115~|116~|117~|118~|119~|120~|122~|123~|124~|125~|126~|127~|128~|129~|130~|131~|132~|133~|140~|18 Ağustos%|Ak~|Aliker@|Aliker/2@|Arif~|Beyaz~|Ceylan~|Cizre%|Cizre/2~|Cudi@|Diren~|Entegre (yaygın)~|Entegre(suzan)~|Entegre(üzümlü)~|Genç~|Hoca Ahmet Yesevi@|Madenciler@|Madımak~|Sefine@|Sezer~|Vedat Aydın@|Vilayet%|Vılayet%|Üniversite@|Üniversite1~|Üniversite2(rahmet)~|Üniversıte%|Ünıversıte%|İrem~|Şehit Ali Batmaz@|Şh.j.er Burhan Yalçın%
+93842	Yeniaslanbaşar Köyü	Yeniaslanbaşar Köyü=
+93843	Yeniaslanbaşar Köyü, Kaymakamçeşmesi Mevkii	Küme Evler=
+90569	Yeşilyurt Mah.	1101~|1130~|1131~|1133~|1135~|1140~|1142~|1144~|1146~|1148~|1178~|32/1@|Bezgin~|Bıldırcın~|Doğan~|Gül~|Keşkil~|Kömürcüler@|Mesut~|Namaz Dağı@|Rezuk@|Selin~|Serçe~|Susam~|Süslü~|Uludere@|Yasin~|Yağmur~|Yeşilyurt /3~|Yıldırım@|Zümrüt~|Zümrüt/1~|Çimen~|Şan~|Şht.tümgeneral Aydoğan Aydın@
+93844	Yoğurtçular Köyü	Yoğurtçular=
+93846	Yoğurtçular Köyü, Gözlüce Mevkii	Küme Evler_1=
+93845	Yoğurtçular Köyü, Özveren Mevkii	Küme Evler=|Yeşilyurt /3~|Özveren=
+93840	İkizce Köyü	İkizce=
+183558	İkizce Köyü, Yarımkaya Mevkii	
+183556	İkizce Köyü, Çavuşdede Mevkii	Küme Evler/divin=
+90567	İsmet Paşa Mah.	1.@|32.@|32/1@|32/3~|515~|802~|804~|805~|806~|807~|808~|809~|911~|Ataç~|Berfin~|Bulvar@|Büyük Camii@|Cumhuriyet%|Dikili~|Direk~|Dokumacılar~|Eren~|Feraye~|Fırat~|Gündüz~|Kahveciler~|Kalaycılar~|Kaym.halil Ulusoy@|Kaymakam Halil Ulusoy@|Melik~|Melik/1~|Menekşe~|Meşe~|Namaz Dağı@|Onur~|Sadun Çeşme~|Saygın~|Sere Sırge~|Yonca~|Çeşme~|Önder~|Şehit Emine Karıhan~|Şen~
+90573	Şehrinuh Mah.	1~|301~|303~|305~|306~|307~|308~|309~|311~|312~|313~|314~|317~|331~|A.gaffar Okan/2~|Ali Gaffar Okkan%|Barış~|Bağcılar~|Damla~|Elmalı~|Gabar@|Gühüzok@|Kaym.halil Ulusoy@|Kaymakam Halil Ulusoy@|Nala Ru~|Sevgi~|Zahide@|Çakırsöğüt%|Çağlayan~|Çırav@|Ömerli@|Özçınar~

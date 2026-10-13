@@ -1,0 +1,79 @@
+4568	Aktoprak Köyü	Aktoprak=
+4569	Aktoprak Köyü, Kumlu Mezrası Mezrası	Kumlu Mezrası=
+4621	Akçabel Köyü	Akçabel=
+4566	Akçakaya Köyü	Akçakaya=
+4567	Akçakaya Köyü, Alikaya Mezrası	Alikaya=
+530	Asfalt Mah.	401~|402~|403~|405~|406~|407~|409~|410~|411~|412~|413~|414~|415~|416~|417~|419~|420~|421~|422~|423~|425~|426~|427~|431~|432~|433~|434~|435~|436~|439~|440~|441~|443~|444~|447~|453~|454~|455~|456~|461~|465~|Adıyaman%|Ali Erdemoğlu@|Atatürk%|Dr.kemal Tabak@|Farabi@|Halep@|Kanalboyu@|Kırkbayır@|Mehmet Akif Ersoy@|Oğuzhan@|Yavuzlar@|Ziya Gökalp@
+4570	Aşağıazaplı Köyü	Aşağıazaplı=
+4599	Aşağıkarakuyu Köyü	Aşağıkarakuyu=
+4600	Aşağınasırlı Köyü	Aşağı Nasırlı=
+538	Balkar Beldesi, Asfalt Mah.	1.~|10.~|11.~|13.~|14.~|15.~|16.~|18~|19.~|2.~|20.~|21.~|22.~|23.~|24~|25~|26~|27~|28.~|29~|3.~|30~|31~|32~|33.~|34.~|35.~|36.~|37.~|38~|4.~|40.~|5.~|6.~|7.~|8.~|9.~|Asfalt@|Burhaniye@|Cumhuriyet@|Erenler@|Fatih@|Göl@|Karaağaç@|Kepir@|Okul@|Selimiye~|Serintepe@|Seyrantepe@|Ulu@|Çevre Yolu@|İpek Yolu@
+539	Balkar Beldesi, Cumhuriyet Mah.	12.~|39.~|4~|40.~|Cumhuriyet@|Gazi~|Kutlar~|Mimar Sinan@|Okul@|Ulu@|Yeşilyurt@|Yunus Emre@|Ünaldı@
+4571	Bağlarbaşı Köyü	Bağlarbaşı=
+540	Belören Beldesi, Cumhuriyet Mah.	Asfalt 1~|Asfalt@|Atatürk 1~|Atatürk@|Avcılar~|Aydın~|Ayvalı=|Birlik~|Cevizli~|Cumhuriyet-=|Defne~|Gölbaşı Yolu Civarı Bağ Evleri=|Kardelen~|Kartal~|Kayapınar=|Kösüklü=|Kırlanğıç~|Lale 1~|Lale~|Menekşe~|Nalbant~|Papatya~|Sümbül~|Vatan@|Yamaç Küme Evler=|Yamaç~|Yamaç1~|Yeni~|Yeniyol 11~|Yeniyol 4~|Yeniyol 42~|Yeniyol 61~|Yeniyol13~|Yeniyol8~|Yeşilevler~|Zümrüt 1~|Zümrüt~|Çamlıca~|Çiçek~|Çiğdem~|İlkokul@|İlkokul Küme Evler=|İnönü@|İstiklal@|Şahin~
+541	Belören Beldesi, Merkez Mah.	Ara~|Atatürk@|Batı~|Bayır~|Bağlar 1~|Bağlar~|Belediye 1@|Belediye 2@|Belediye 3@|Belediye@|Beyazıt~|Cami@|Cumhuriyet@|Damla~|Develi@|Gazi~|Gökkuşağı~|Gölbaşı Yolu Civarı Bağ Evleri=|Gül~|Güneş~|Işık~|Kale~|Kanal Boyu~|Karanfil~|Kemal Paşa~|Leylak~|Lise~|Manolya~|Mevlana~|Nilüfer~|Osman Gazi~|Oğuzhan~|Pazar~|Suna Çıkmaz~|Susam~|Tepe~|Yeni 2~|Yeni_1~|Yeniyol 1~|Yeniyol 12~|Yeniyol 2~|Yeniyol 3~|Yeniyol 40~|Yeniyol 41~|Yeniyol 50~|Yeniyol 56~|Yeniyol 57~|Yeniyol 60~|Yeniyol 65~|Yeniyol 67~|Yeniyol 68~|Yeniyol 70~|Yeniyol 73~|Yeniyol13~|Yunus Emre~|Yıldırım~|Yıldız~|Yıldız Tepe~|Ziya Paşa~|Zübeyde Hanım@|Çayırlı~|Çimen~|İğdeli~
+4622	Cankara Köyü	Cankara=
+531	Cumhuriyet Mah.	101~|102~|103~|104~|105~|106~|107~|108~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|127~|128~|129~|Atatürk%|Gazi@|Günaydın@|Hürriyet@|Karaağaç@|Karayılan@|Mevlana@|Muhsin Yazıcıoğlu@|Sakarya@|Turan Özdemir@|Zafer@|İnönü@
+532	Fatih Mah.	201~|202~|203~|204~|205~|206~|207~|208~|209~|210~|211~|212~|213~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|227~|231~|241~|243~|245~|246~|247~|248~|Akdağ@|Atatürk%|Biriketçiler~|Fırat@|Gazi@|Gazi Osman Paşa@|Günaydın@|Hürriyet@|Kosava@|Kızılırmak@|Meriç@|Mevlana@|Rauf Denktaş@|Samsat@|Tuna@|Ulubatlı Hasan@|Zafer@|Şehit Said Doğan@
+4608	Gedikli Köyü	Gedikli=
+4577	Hacılar Köyü	Hacılar=
+4624	Hamzalar Köyü	Hamzalar=
+4627	Hamzalar Köyü, Hasanlar Mezrası	Hasanlar=
+4626	Hamzalar Köyü, Kandil Mezrası	Kandil=
+4625	Hamzalar Köyü, Sırıklı Mezrası	Sırıklı=
+4623	Hamzalar Köyü, Uçarlar Mezrası	Uçarlar=
+542	Harmanlı Beldesi, Cumhuriyet Mah.	Cumhuriyet1~|Cumhuriyet2~|Cumhuriyet3~|Cumhuriyet4~|Cumhuriyet5~|Cumhurıyet~|Değirmen@|Değirmen1~|Değirmen2~|Değirmen3~|Değirmen4~|Göksu=|Harmanyeri~|Harmanyeri1~|Kale~|Kale1~|Kale2~|Kale3~|Karanlıkdere=|Kayacık=|Kayalık~|Kayalık1~|Köprü~|Köprü1~|Köprü2~|Köprü3~|Köprü4~|Pepiller=|Ulucami~|Ulucami1~|Yaylacık~|Yaylacık1~|Yeniyol1~|Zübeyde Hanım4~|Çıkmaz_1~|İnönü@|İnönü1~|İnönü2~|İnönü3~|İnönü4~
+544	Harmanlı Beldesi, Kalemkas Mah.	Bademlik~|Cami~|Cami1~|Cami2~|Cami3~|Cami4~|Gölbaşı@|Gölbaşı1~|Gölbaşı2~|Gölbaşı3~|Gölbaşı4~|Gölbaşı5~|Küme Evler~|Küme Evler1~|Küme Evler2~|Küme Evler3~|Küme Evler4~|Merkez~|Merkez1~|Pepiller=|Sağlık@|Sağlık1~|Sağlık2~|Sağlık3~|Sağlık4~|Sağlık5~|Sağlık6~|Sağlık7~|Sağlık8~
+545	Harmanlı Beldesi, Yeni Mah.	Afet Evleri~|Afet Evleri1~|Afet Evleri2~|Afet Evleri3~|Afet Evleri4~|Afet Evleri5~|Cumhuriyet@|Değirmen@|Güney~|Güney1~|Güney2~|Jandarma~|Jandarma1~|Köprü~|Küncülük~|Küncülük1~|Küncülük10~|Küncülük2~|Küncülük3~|Küncülük4~|Küncülük5~|Küncülük6~|Küncülük7~|Küncülük8~|Küncülük9~|Sökünönü~|Yeniyol~|Yeniyol2~|Yeniyol3%|Zübeyde Hanım 14~|Zübeyde Hanım 17~|Zübeyde Hanım@|Zübeyde Hanım1~|Zübeyde Hanım10@|Zübeyde Hanım12~|Zübeyde Hanım13~|Zübeyde Hanım14~|Zübeyde Hanım2~|Zübeyde Hanım3~|Zübeyde Hanım4~|Zübeyde Hanım5@|Zübeyde Hanım6~|Zübeyde Hanım7~|Zübeyde Hanım8~|Zübeyde Hanım9~|Çıkmaz~|Çıkmaz_3~
+543	Harmanlı Beldesi, Çakmak Mah.	Atatürk@|Atatürk1~|Atatürk2~|Atatürk3~|Atatürk4~|Atatürk5@|Atatürk6~|Atatürk7~|Kurcadağ@|Kurcadağ1~|Kurcadağ2~|Kurcadağ3~|Kurcadağ4~|Kurcadağ5@|Kurcadağ6~|Söğütlü~|Uluyol@|Uluyol1~|Uluyol2@|Uluyol3~|Uluyol4~|Uluyol5~|Uluyol6~|Çıkmaz_2~|Çıkmaz_4~
+4609	Haydarlı Köyü	Haydarlı=
+4612	Haydarlı Köyü, Beşevler Mezrası	Beşevler=
+4610	Haydarlı Köyü, Cerrahobası Mezrası	Ayvalı=|Cerrahobası=
+4611	Haydarlı Köyü, Serpenolar Mezrası	Serpenolar=
+4613	Haydarlı Köyü, Sorkun Mezrası	Sorkun=
+533	Hürriyet Mah.	1 Nolu Sağlık Ocağı@|301~|302~|303~|304~|305~|311~|3112~|3114~|3117~|314~|3140~|315~|316~|318~|320~|321~|322~|324~|325~|326~|327~|328~|329~|330~|331~|332~|333~|334~|335~|336~|337~|339~|341~|346~|357~|358~|362~|365~|371~|383~|390~|391~|392~|393~|Akasya~|Atatürk%|Barış@|Bostanlı=|Cengiz Topel@|Dicle@|Eskitaş@|Fatih Korçam@|Halep@|Kanalboyu@|Kanarya@|Karacaoğlan@|Karataş=|Kinirli@|Mehmetcik@|Meşe~|Orhan Gazi@|Yahya Kemal@|Yunus Emre@|Çamlık~|Ömer Seyfettin@|Örenli~|İstiklal@|Şehit Cuma Teymur@|Şehitler@
+4578	Karabahşılı Köyü	Karabahşılı=
+4582	Karabahşılı Köyü, Arpatarlası Mezrası	Arpatarlası=
+4579	Karabahşılı Köyü, Beşevler Mezrası	Beşevler=
+4583	Karabahşılı Köyü, Karaçukur Mezrası	Karaçukur=
+4581	Karabahşılı Köyü, Kötel Mezrası	Kötel=
+4580	Karabahşılı Köyü, Çayır Mezrası	Çayır=
+4584	Karaburun Köyü	Karaburun=
+534	Kurugeçit Mah.	701~|703~|704~|705~|706~|707~|708~|709~|710~|711~|712~|714~|715~|717~|718~|719~|720~|721~|722~|722 Çıkmazı~|723~|724~|725~|726~|727~|731~|732~|739~|741~|745~|757~|758~|759~|776~|Alpaslan@|Ay Yıldız~|Aşağı Bağ~|Gökkuşağı~|Göl Caddesi~|Göl@|Karaardıç Kümeevleri=|Nene Hatun@|Nuran Devres@|Rüzgar~|Sokucak@|Söğüt~|Taştar=|Ulubatlı Hasan@|Umut~|Çataltepe@|Ören@|Şehit Seyyit Onbaşı@
+4614	Kösüklü Köyü	Kösüklü=
+4616	Kösüklü Köyü, Civkur Mezrası	Civkur=
+4617	Küçükören Köyü	Küçükören=
+4618	Küçükören Köyü, Söğütlü Mezrası	Söğütlü=
+4586	Meydan Köyü	Meydan=
+4587	Meydan Köyü, Keçibaşı Mezrası	Keçibaşı=
+4588	Meydan Köyü, Körpınarı Mezrası	Körpınarı=
+4585	Meydan Köyü, Yıkıcak Mezrası	Yıkıcak=
+535	Mimar Sinan Mah.	1 Nisan%|801~|802~|803~|804~|805~|806~|808~|809~|810~|8101~|811~|8114~|8120~|813~|814~|815~|816~|818~|819~|821~|824~|825~|826~|827~|828~|829~|832~|833~|834~|836~|837~|838~|839~|840~|842~|843~|844~|845~|846~|847~|849~|850~|855~|878~|883~|884~|885~|886~|889~|890~|891~|893~|894~|898~|899~|Abdulhamit Han@|Adnan Menderes@|Adıyaman%|Barboros Hayrettin Paşa@|Besni@|Demokrasi@|Elçibey@|Ergenekon@|Ertuğrulbey@|Karanfil@|Kardelen~|Mecit~|Menekşe@|Murat@|Nergiz@|Nurettin Soykan@|Sincan@|Toki@|Toki Üstü=|Vatan@|Yasemin@|Yıldırım Beyazit@|Şahinbey@|Şehit Ahmet Demir@
+4589	Ozan Köyü	Ozan=
+4591	Savran Köyü	Savran=
+4593	Savran Köyü, Ballık Mezrası	Ballık=
+4592	Savran Köyü, Kezbi Mezrası	Kezbi=
+4594	Savran Köyü, Kurucuova Mezrası	Kurucuova=
+4595	Yarbaşı Köyü	Yarbaşı=
+536	Yavuz Selim Mah.	1 Nisan%|501~|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|514~|516~|517~|518~|519~|520~|522~|523~|524~|525~|526~|527~|530~|533~|534~|537~|540@|541~|542~|Azerbaycan@|Dede Korkut@|Gazi@|Genç Osman~|Karaağaç@|Piri Reis@|Prof.dr.hüseyin Filiz@|Yeşilırmak@|Yüksek Okul~|Zambak~|Zübeyde Hanım@
+4628	Yaylacık Köyü	Yaylacık=
+537	Yeni Mah.	601~|602~|603~|605~|606~|607~|608~|609~|610~|611~|612~|613~|614~|615~|616~|617~|618~|619~|620~|621~|622~|623~|624~|625~|626~|628~|629~|Atatürk%|Azerbaycan@|Fevzi Çakmak@|Gazi@|Günaydın@|Karaağaç@|Kazım Karabekir@|Lale~|Mevlana@|Namık Kemal@|Turan Özdemir@|Turgut Reis@|Zübeyde Hanım@|İstasyon@|İstasyon Lojmanları~
+197957	Yenikent Mah.	1 Nisan%|846~|901~|902~|903~|904~|905~|906~|907~|908~|909~|9100~|911~|9119~|9136~|914~|915~|917~|9187~|9188~|9189~|919~|9190~|9191~|9192~|9193~|9194~|9195~|920~|9201~|922~|922/1~|923~|924~|926~|927~|928~|931~|932~|933~|934~|940~|941~|942~|943~|944~|966~|974~|Adnan Menderes@|Aksu~|Akçakaya@|Ali Kayası%|Aras~|Besni@|Ebruli~|Egemenlik@|Ertuğrulbey@|Gazne@|Harmanlı Yolu@|Hastahane@|Ihlamur~|Meşrutiyet@|Murat@|Nurettin Soykan@|Orman Yolu~|Sümbül@|Turgut Özal@|Yibo~|Çiftlik~
+4619	Yeniköy Köyü	Yeniköy=
+4596	Yeşilova Köyü	Yeşilova=
+4598	Yukarıkarakuyu Köyü	Yukarıkarakuyu=
+4620	Yukarınasırlı Köyü	Yukarı Nasırlı=
+4597	Yukarıçöplü Köyü	Yukarıçöplü=
+4601	Çatalağaç Köyü	Çatalağaç=
+4602	Çatalağaç Köyü, Durak Mezrası	Durak=
+4603	Çatalağaç Köyü, Keralmaz Mezrası	Keralmaz=
+4576	Çataltepe Köyü	Çataltepe=
+4574	Çataltepe Köyü, Karahasan Mezrası	Karahasan=
+4575	Çataltepe Köyü, Mıçolar Mezrası	Mıçolar=
+4572	Çataltepe Köyü, Tecirli Mezrası	Tecirli=
+4573	Çataltepe Köyü, Yolbağı Mezrası	Yolbağı=
+4604	Çelikköy Köyü	Çelikköy=
+4606	Çelikköy Köyü, Durak Mezrası	Durak=
+4607	Çelikköy Köyü, Çelikköyosb Mevkii	1.~|2.~|3.~|4.~|5.~
+4605	Çelikköy Köyü, İstasyon Mezrası	İstasyon=
+4590	Örenli Köyü	Örenli=

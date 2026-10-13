@@ -1,0 +1,64 @@
+50128	Acıöz Mah.	1.mezarlık~|1.mezarlık/1~|2.mezarlık~|2.mezarlık/1~|2.mezarlık/2~|501/1~|Acıöz 1~|Acıöz 10~|Acıöz 11~|Acıöz 12~|Acıöz 13~|Acıöz 14~|Acıöz 15~|Acıöz 16~|Acıöz 17~|Acıöz 18~|Acıöz 19~|Acıöz 2~|Acıöz 20~|Acıöz 3~|Acıöz 4~|Acıöz 5~|Acıöz 6~|Acıöz 7~|Acıöz 8~|Acıöz 9~|Acıöz@|Aşıkpaşa~|Aşıkpaşa/1~|Bahadır~|Bahadır/1~|Bahadır/10~|Bahadır/11~|Bahadır/12~|Bahadır/2~|Bahadır/3~|Bahadır/4~|Bahadır/5~|Bahadır/6~|Bahadır/7~|Bahadır/8~|Bahadır/9~|Cami~|Değirmen~|Değirmen/1~|Değirmen/2~|Değirmen/3~|Değirmen/4~|Değirmen/5~|Değirmen/6~|Değirmen/7~|Kuyupınarı=|Küme Evler/acıöz=|Maden~|Maden/1~|Nergis~|Park~|Park/1~|Park/2~
+53210	Aksaklı Köyü	Aksaklı=
+53211	Altınyazı Köyü	Altınyazı=|Karacali=|Pınarkaya=
+53212	Asmakaradam Köyü	Asma=|Asmakaradam=|Karadam=
+53213	Asmakaradam Köyü, Asma Mevkii	Asma=|Asmakaradam=
+53214	Asmakaradam Köyü, Karadam Mevkii	Asmakaradam=|Karadam=
+53215	Asmakaradam Köyü, Türktur Mantar İşletmesi Mevkii	Türktur Mantar İşletmesi=
+53216	Avcıköy Köyü	Avcıköy=
+53217	Aydoğmuş Köyü	Aydoğmuş=
+53218	Babur Köyü	Babur=
+53266	Bayramuşağı Köyü	Bayramuşağı=|Kuşaklı=
+53219	Bazlamaç Köyü	Bazlamaç=
+53220	Budak Köyü	Budak=
+53221	Büyükkayapa Köyü	Büyükkayapa=
+53224	Dalakçı Köyü	Dalakçı=|Yeniyayla=
+53226	Dalakçı Köyü, Bahçecik Mezrası	Bahçecik=
+53225	Dalakçı Köyü, Küçük Köpekli Mezrası	Küçük Köpekli=
+53223	Dağçiftliğiköyü Köyü	Dağçiftliğiköyü=
+53227	Devepınarı Köyü	Devepınarı=
+53228	Geycek Köyü	Geycek=|Kıran=
+53229	Gümüşkümbet Köyü	Gümüşkümbet=
+53230	Güzyurdu Köyü	Güzyurdu=
+50129	Hamidiye Mah.	50.yıl~|501~|501/1~|501/2~|501/3~|502.~|503~|503/1~|504. Myd.|504./1~|505.~|506.~|507.~|508.~|509.~|510.~|511.~|512.~|550.=|Altınyazı=|Anıttepe~|Aras~|Aydınlık~|Demirci~|Dr.cemil Attar~|Girne~|Gültepe~|Gültepe/1~|Güneş 6~|Güneş~|Güneş/1~|Güneş/2~|Güneş1~|Güneş10~|Güneş11~|Güneş2~|Güneş3~|Güneş7~|Güneş8~|Güneş9~|Hamidiye/1~|Hamidiye/16~|Hamidiye/19~|Hamidiye/27~|Hamidiye/29~|Hicret~|Hürriyet~|Kamil Bozdağ~|Kantarlar~|Kayseri@|Kayseri/1~|Kayseri/3~|Kayseri/4~|Kocatepe~|Kültür~|Kıbrıs~|Nergis~|Nergis/1~|Ofis~|Sırat~|Sırat/1~|Sırat/2~|Sırat/3~|Yeniceler~|Yeşiltepe~|Yeşiltepe/1~|Yıldız~|Çimentepe~|Şanal~|Şehit Fırat Yılmaz Çakıroğlu@|Şehit Polis Gökhan Ünaldı~|Şht.hüseyin~|Şht.orhan~|Şht.tahir~
+53232	Karaarkaç Köyü	Karaarkaç=
+53233	Karacalı Köyü	Karacali=
+53235	Karakuyu Köyü	Karakuyu=
+53234	Karakuyu Köyü, Rışvan Mevkii	Rışvan=
+53236	Karkın Köyü	Asma=|Karkın=|Karşıyaka=|Türktur Mantar İşletmesi=
+50130	Karşıyaka Mah.	221.~|400~|401.~|402.~|403.~|404.~|405.~|407.~|409.~|410.~|411.~|412.~|413.~|414.~|415.~|416.~|417.~|418.~|418./1~|420.~|421.~|422.~|423.~|424.~|426.~|427.~|428.~|429.~|430.~|432.~|433.~|434.~|435.~|436.~|438.~|440.~|447.~|448.~|449.~|Acıöz@|Aşık Hasan~|Bayır~|Gül~|Halil Sezai Erkut@|Hastahane@|Hocalar@|Hüseyin Aydemir@|Kantarlar~|Karaağaç~|Karşıyaka/1~|Karşıyaka/10~|Karşıyaka/15.~|Karşıyaka/16.~|Karşıyaka/2.~|Karşıyaka/5~|Karşıyaka/6~|Karşıyaka/7~|Karşıyaka/8~|Karşıyaka/9~|Karşıyaka6~|Kazım Çağlayan%|Kümeevleri~|Kümeevleri1~|Kümeevleri2~|Lale~|Mehmet Bahadır@|Tahir Temiztürk@|Tomurcuk~|Topraklık~|Topraklık1~|İsmail Ünlü@|İsmail Ünlü1~|İsmail Ünlü2~|İsmail Ünlü3~|İsmail Ünlü4~|İsmet Arslan@|İsmet Arslan1~|Şehit Muammer Yavuz~|Şehit Uzman Çavuş Ramazan Karaca~|Şht.coşkun Taş~|Şifa~
+53237	Kepez Köyü	Kepez=|Yeniköy=|Çatalarkaç=
+53245	Kurugöl Köyü, Bahçelievler Mevkii	Bahçelievler=
+53243	Kurugöl Köyü, Esentepe Mevkii	Esentepe=
+53244	Kurugöl Köyü, Karşıyaka Mevkii	Bahçelievler=|Karşıyaka=|Obruk=|Orta=
+53246	Kurugöl Köyü, Orta Mevkii	Bahçelievler=|Orta=
+53242	Kurugöl Köyü, Yeni Mevkii	Yeni=
+53265	Kuşaklı Köyü	Bayramuşağı=|Kuşaklı=
+53247	Küçükburnağıl Köyü	Küçükburnağıl=
+53248	Küçükkavak Köyü	Cavlaklar=|Küçükkavak=|Yeniköy=
+53249	Küçükkayapa Köyü	Küçükkayapa=
+53238	Kılıçlı Köyü	Kılıçlı=
+53239	Kıran Köyü	Geycek=|Kıran=
+53240	Kızılağıl Köyü	Kızılağıl=
+53241	Kızıldağyeniyapan Köyü	Kızıldağyeniyapan=
+53250	Medetsiz Köyü	Bayramuşağı=|Medetsiz=
+53251	Obruk Köyü	Obruk=
+50131	Osmangazi Mah.	101.~|102.~|103.~|104.~|105.~|106.~|107.~|109.~|110.~|120.~|121.~|124.~|125.~|151.~|152.~|153.~|154.~|155.~|26~|Ankara Kayseri Asfaltı/1~|Ankara Kayseri Asfaltı/2~|Ankara-kayseri Asfaltı~|Bilinmeyen~|Bilinmeyen200~|Erkanlı~|Fehmi Çağlayan@|Fehmi Çağlayan1~|Tekren 1~|Tekren/1~|Tekren13~|Tekren14~|Tekren14/1~|Tekren14/2~|Tekren14/3~|Tekren15~|Tekren18~|Tekren2~|Tekren20~|Tekren21~|Tekren22~|Tekren22/2~|Tekren23~|Tekren24~|Tekren25~|Tekren3~|Tekren5~|Tekren6~|Yeniyol 1~|Yeniyol 10~|Yeniyol 11~|Yeniyol 12~|Yeniyol 13~|Yeniyol 14~|Yeniyol 2~|Yeniyol 9~|Yenıyol6~|Yenıyol7~|İbrahim Çavuş@|İsmail Ünlü 1~|İsmail Ünlü@|İsmail Ünlü1~|İsmail Ünlü5~|İsmail Ünlü6~|İsmail Ünlü7~|Şatıroğlu~
+53252	Palangıç Köyü	Palangıç=
+53253	Pınarkaya Köyü	Pınarkaya=
+53255	Rahmalar Köyü, Aşagı Rahmalar Mevkii	Aşağı Rahmalar=
+53254	Rahmalar Köyü, Yukarı Rahmalar Mevkii	Yukarı Rahmalar=
+53256	Seyfe Köyü	Seyfe=
+53257	Seyfe Köyü, Yeniyayla Mezrası	Yeniyayla=
+50132	Solaklı Mah.	155.~|201.~|202.~|203.~|204.~|205.~|206.~|208.~|217~|219~|221.~|226.~|226./1~|226./10~|226./11~|226./12~|226./13~|226./14~|226./15~|226./16~|226./17~|226./2~|226./3~|226./4~|226./5~|226./6~|226./7~|226./8~|226./9~|230.~|230./1~|231.~|233.-~|233./1~|233./2~|233./3~|239.~|240.~|240./1~|240./2~|241.~|243.~|243./1~|263.~|417.~|430.~|434.~|Acıöz@|Aksoy~|Aksu~|Aksu/1~|Ambarlar~|Ankara Kayseri Asfaltı1~|Ankara Kayseri Asfaltı14~|Ankara Kayseri Asfaltı2~|Ankara Kayseri Asfaltı3~|Ankara Kayseri Asfaltı4~|Ankara Kayseri Asfaltı6~|Ankara Kayseri Asfaltı7~|Ankara-kayseri Asfaltı~|Bağlar~|Bilinmeyen 412~|Bilinmeyen 464~|Bilinmeyen 786~|Bilinmeyen~|Bilinmeyen1~|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen12~|Bilinmeyen13~|Bilinmeyen14~|Bilinmeyen15~|Bilinmeyen16~|Bilinmeyen17~|Bilinmeyen18~|Bilinmeyen19~|Bilinmeyen2~|Bilinmeyen2/1~|Bilinmeyen20~|Bilinmeyen21~|Bilinmeyen4~|Bilinmeyen5~|Bilinmeyen6~|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen9~|Boraz~|Bılınmeyen~|Cumhuriyet@|Ebcelioğlu@|Eski Ankara@|Fatih@|Fevzi Çakmak@|Giray~|Gökbayrak~|Hamidiye/3~|Hüseyin Avni Bey~|Hüseyin Ağa~|Hüseyin Ağa/1~|Hüseyin Ağa1~|Kamil Bozdağ~|Kantarlar~|Kantarlar1~|Karaağaç~|Kayalık~|Kayalık/1~|Kayalık/2~|Kazım Karabekir@|Küme Evler/solaklı-=|Milli Egemenlik@|Nergis~|Sarıca@|Selvi~|Seyitgazi~|Tepe~|Topraklık~|Tuna~|Tınaztepe~|Yavuz~|Yeni Cami~|Yenice/33~|Yenice/34~|Yenice/35~|Yenice/36~|Yenice/37~|Yenice/38~|Yenice/55~|Yeşiltepe~|Yunus Emre~|Yunus Emre/1~|Çağlayan@|İsimsiz100~|İsimsiz104~|İsimsiz11~|İsimsiz20~|İsimsiz22~|İsimsiz23~|İsimsiz25~|İsimsiz27~|İsimsiz55~|Şatıroğlu Yolu~|Şehit Piyade Er Hüsnü Özel~|Şifa~
+53258	Susuz Köyü	Susuz=
+53259	Yazıkınık Köyü	Yazıkınık=
+50134	Yenice Mah.	1.pazar Yeri~|2.pazar Yeri~|226.~|301.~|302.~|303.~|304.~|305.~|307.~|309.~|310.~|311.~|317.~|324~|324/1~|324/2~|341.~|701.~|701./1~|705.~|707.~|708~|710.~|713.~|714~|714.~|725~|725.=|725/1~|801.~|Akıncılar1~|Akıncılar2~|Alaybey 2~|Alaybey~|Ankara-kayseri Asfaltı~|Aydoğan~|Ayşe Çeşme~|Bilinmeten 206~|Bilinmeyen 870~|Büklüm~|Camii~|Cihangir~|Dere~|Duran Erdoğan~|Emniyet 1~|Emniyet~|Emniyet/1~|Enver Paşa 1~|Enver Paşa@|Enver Paşa/1~|Esen@|Gediz~|Gülistan~|Hal~|Hamam~|Hastahane1~|Hayat~|Kahramanlar~|Kayseri@|Kayseri/2~|Kayseri/5~|Küme Evler=|Levent~|M.kemal Paşa@|Mehmet Akif Ersoy@|Mehmet Akif Ersoy/1@|Mehtap~|Milli Egemenlik@|Mimar Sinan~|Muhsin Yazıcıoğlu@|Muhsin Yazıcıoğlu41~|Muhsin Yazıcıoğlu42~|Muhsin Yazıcıoğlu43~|Muhsin Yazıcıoğlu44~|Muhsin Yazıcıoğlu45~|Muhsin Yazıcıoğlu46~|Muhsin Yazıcıoğlu47~|Muhsin Yazıcıoğlu48~|Muhsin Yazıcıoğlu49~|Muhsin Yazıcıoğlu50~|Muhsin Yazıcıoğlu61~|Muhsin Yazıcıoğlu62~|Nilüfer~|Nizam~|Okul~|Onat@|Onat Çıkmazı~|Park/3~|Park_1~|Pınar~|Rüzgarlı~|Sakarya@|Sağlık 1~|Sağlık~|Seyrangah~|Timur~|Toros@|Turan~|Veli Recai Velibeyoğlu~|Yazar~|Yeni Pazar Yeri~|Yeni~|Yenice/1~|Yenice/10~|Yenice/101~|Yenice/102~|Yenice/103~|Yenice/104~|Yenice/105~|Yenice/106~|Yenice/12~|Yenice/13~|Yenice/14~|Yenice/2~|Yenice/25~|Yenice/26~|Yenice/27~|Yenice/3~|Yenice/31~|Yenice/4~|Yenice/41~|Yenice/42=|Yenice/43~|Yenice/44~|Yenice/45~|Yenice/46~|Yenice/48~|Yenice/49~|Yenice/5~|Yenice/50~|Yenice/52~|Yenice/53~|Yenice/56~|Yenice/57~|Yenice/58~|Yenice/59~|Yenice/6~|Yenice/60~|Yenice/61~|Yenice/63~|Yenice/65~|Yenice/66~|Yenice/67~|Yenice/70~|Yenice/71~|Yenice/72~|Yenice/73~|Yenice/74~|Yenice/76~|Yenice/77~|Yenice/82~|Yenice/83~|Yenice/84~|Yenice/89~|Yenice/90~|Yenice/92~|Yenice/93~|Yenice/94~|Yenice60~|Yenıyol1~|Yeşilöz~|Çamlık~|Çayır~|Özen~|Ünlü~|İsimsiz29~|İsimsiz39~|İsimsiz51~|İsimsiz52~|İsimsiz53~|İsimsiz54~|İsimsiz55~|İsimsiz56~|İsimsiz57~|İsimsiz58~|İsimsiz63~|İsimsiz64~|İsimsiz65~|İsimsiz66~|İsimsiz67~|İsimsiz68~|İsimsiz70~|İsimsiz71~|İsimsiz72~|İsimsiz73~|İsimsiz74~|İsimsiz75~|İsimsiz76~|İsimsiz77~|İsimsiz78~|İsimsiz79~|İsimsiz80~|İsimsiz81~|İsimsiz82~|İsimsiz83~|Şanlı~|Şatıroğlu Yolu~|Şehit Fırat Yılmaz Çakıroğlu@|Şehit Fırat Yılmaz Çakıroğlu1~|Şehit Piyade Uzman Çavuş Gökhan Dündar~|Şeker~
+53261	Yeniköy Köyü	Yeniköy=
+53262	Yeniköy Köyü, Cavlaklar Mezrası	Cavlaklar=
+53260	Yeğenağa Köyü	Kırşehir Kayseri Yolu~|Yeğenağa=
+53263	Yeşilyurt Köyü	Yeşilyurt=
+53264	Yürücek Köyü	Yürücek=
+53222	Çatalarkaç Köyü	Çatalarkaç=
+53231	İnaç Köyü	Inaç=|Küme Evler 2=|Küme Evler=|Yukarı Rahmalar=
+50133	Şatıroğlu Mah.	Göksu~|Gökçe Viran=|Yıldırım~|Çiğdem (1)-~|Çiğdem~|Çiğdem1~|Şatıroğlu 1~|Şatıroğlu 10~|Şatıroğlu 11~|Şatıroğlu 12~|Şatıroğlu 13~|Şatıroğlu 14~|Şatıroğlu 15~|Şatıroğlu 16~|Şatıroğlu 17~|Şatıroğlu 18~|Şatıroğlu 19~|Şatıroğlu 2~|Şatıroğlu 20~|Şatıroğlu 21~|Şatıroğlu 22~|Şatıroğlu 23~|Şatıroğlu 24~|Şatıroğlu 25~|Şatıroğlu 26~|Şatıroğlu 27~|Şatıroğlu 28~|Şatıroğlu 29~|Şatıroğlu 3~|Şatıroğlu 30~|Şatıroğlu 31~|Şatıroğlu 32~|Şatıroğlu 33~|Şatıroğlu 4~|Şatıroğlu 5~|Şatıroğlu 6~|Şatıroğlu 7~|Şatıroğlu 8~|Şatıroğlu 9~

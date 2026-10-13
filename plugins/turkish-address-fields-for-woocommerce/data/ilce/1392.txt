@@ -1,0 +1,98 @@
+188443	Acarköy Mah.	Acarköy=
+188447	Akbayır Mah.	Akbayır=|Akören=|Bilinmeyen=|Kavaklık=
+188633	Akgelin Mah.	Akgelin=|Bilinmeyen 1008=|Demirci=|Hacı Şükrü=|Seyfettin=
+188635	Akgöze Mah.	Akgöze=|İbrahim=
+188629	Akçamelik Mah.	7501~|7502~|7503~|Akçamelik=|Gıyas Mezrası=|Zeki Mezrası=
+188451	Akören Mah.	Akören=|Bindarı=|Sığırlı=
+188453	Alaca Mah.	Alaca Bilinmeyen=|Alaca=
+188457	Alagöz Mah.	Alagöz Deprem Konutları=|Alagöz=|Çermik=
+188463	Alikırı Mah.	Alikırı=
+188465	Altınpınar Mah.	Altınpınar Küme Evler=|Aşağı Bezirhan=|Sabri~|Tepeli=|Yukarı Bezirhan=|Yukarı Mezra(fefe)-=|İsimsiz Yol=|Şeyh~
+188461	Alınteri Mah.	Alınteri=|Günaydın=|Memiş=
+188639	Arpaderesi Mah.	Arpaderesi=|Divanhüseyin=
+188469	Avcılar Mah.	Avcılar=
+29945	Aşağıkayabaşı Mah.	1. Ptt/1~|1.aşağı Afet Konutları~|1.ptt@|2.kayaüstü~|2.ptt@|3.aşağı Afet Konutları~|5.aşağı Afet Konutları~|5.aşağı Afet Konutları1~|5.aşağı Afet Konutları2~|501~|502~|503-~|504~|505~|506~|507-~|508-~|509~|510~|511~|512~|513~|514~|515~|516~|517~|520~|521~|521/1~|522~|522/1~|523~|525~|526~|527~|528~|529~|530~|532~|533~|534~|536~|537~|538~|Aşağı Kayabaşı Bilinmeyen~|Bilinmeyen Yol 1~|Bilinmeyen Yol1~|Cumhuriyet@|Yüzüncü Yıl@
+29946	Bahçe Mah.	401~|402~|403~|403/1~|403/2~|404~|405~|406~|406/1~|407~|408~|409~|Karakula1=|Misrik=|Yüzüncü Yıl@
+188475	Bayırköy Mah.	Bayırköy=
+188471	Başköy Mah.	Başköy Afet Konutları=|Başköy Küme Evleri=
+188477	Bellitaş Mah.	Bellitaş Konutları=|Bellitaş~|Bellitaş/1~|Burhanköy=|Yolaltı Kümesi=|Yolüstü Kümesi=
+188641	Beyyurdu Mah.	Beyyurdu=|Tellitepe Küme Evler=|Yeşildere=
+188481	Burhanköy Mah.	2701=|Burhanköy=|Dedeören=|Karmış 1~|Şerif=
+188653	Dağçayırı Mah.	Dağçayırı=
+188655	Demirci Mah.	Demirci Konutları=|Demirci=|Hamzabeg=|Soğukpınar=
+188491	Derince Mah.	Derince=|Talha Mezrası=
+188493	Dervişali Mah.	Dervişali Konutları=|Dervişali~
+188627	Dibekli Mah.	Dibekli=|Çulak=
+188495	Dikili Mah.	Dikili Küme Evler=|Suvaran=
+188659	Divanhüseyin Mah.	Divanhüseyin=|Elmadalı=|Zoro~|Şahverdi Kümeevler=
+188661	Elmadalı Mah.	Elmadalı=
+188665	Erbeyli Mah.	Erbeyli=|Pirbağ=
+188623	Erduran Mah.	Erduran Bilinmeyen=|Erduran Konutları=|Erduran=|Kuluk=
+188499	Erence Mah.	3301~|3302=|3303~|3304~|3305~|Erence Bilinmeyen 1=|Erence Bilinmeyen=|Erence Caddesi=|Erence~
+188669	Esenli Mah.	Bilinmeyen 1007=|Esenli=
+188671	Göller Mah.	Göller Küme Evler=
+29947	Gülistan Mah.	901~|902~|903~|904~|905~|906~|906_1~|907~|908~|909~|910~|912~|913~|913_1~|914~|915~|916~|917~|918~|918_1~|919~|Ahmet Kara@|Cengiz Al@|Cumhuriyet@|Cumhuriyet1~|Peyk@|Peyık~|Toki%|Çevre Yolu@
+188501	Güllüçimen Mah.	Güllüçimen Komu~|Güllüçimen=
+188505	Gürçayır Mah.	Gürçayır=
+188507	Güzeldere Mah.	Güzeldere Küme Evler=
+188439	Halilçavuş Mah.	Gültepe=|Halilçavuş Küme Evler=|Oguzveren=|Yeşilova=
+188511	Hayran Mah.	Dikme=|Hayran Afet Konutları=|Hayran=|Çiçekli=
+188513	Ilıcaköy Mah.	Afet Konutları=|Ilıcaköy=
+188519	Kalecik Mah.	Afet Konutları Küme Evler=|Kalecik Sk=
+188521	Karaağaç Mah.	Günaydın=|Karaağaç=
+188523	Karabudak Mah.	Karabudak=|Ovaçevirme=|Yeniköy=
+29948	Karakula Mah.	1102/1~|1102/2~|1103~|301~|301/1~|302~|302/1@|303~|303/1~|304~|Karakula@|Karakula1=
+188527	Karamolla Mah.	Karamolla Konutları=|Karamolla=
+188531	Kazancı Mah.	Hırdıcan Komu=|Kazancı Afet Konutları=|Kazancı=
+188533	Ketenci Mah.	Dilo Komu=|Ketenci Küme Evler=|Memiş Komu=|Yılmaz Mezrası=
+29949	Kolhisar Mah.	11.küme Evler=|602~|Karaağaç=|Kolhisar 1~|Kolhisar~
+188677	Kongur Mah.	Kongur Kümeevler=|Yusuf=
+29950	Köprübaşı Mah.	1. Küme Evleri~|102~|103~|104~|104/1~|120~|121~|122~|130~|132~|Köprübaşı Bilinmeyen 1~|Köprübaşı Bilinmeyen~|Köprübaşı1~|Köprübaşı2~|Köprübaşı3~|Köprübaşı4~|Köprübaşı5~|Köprübaşı6~|Köprübaşı7~|Meteoroloji@|Parmaksız Bilinmeyen~|Parmaksız@|Yıldırım Akbulut@
+139655	Kısık Mah.	Hamit~|Kısık Bilinmeyen=|Kısık=|M.atik=|Yıldırım Akbulut@
+188537	Kızmusa Mah.	Güllüçimen=|Kızmusa=
+188673	Kızılahmet Mah.	Kızılahmet Kümeevler=
+188539	Meydanköy Mah.	Güzeldere Küme Evler=|Meydanköy Küme Evler=
+188541	Mezra Mah.	Mezra=
+188681	Mollacelil Mah.	Mollacelil Küme Evler=
+188543	Mollakulaç Mah.	Ali~|Kasım=|Mollakulaç=|Tahir=
+188549	Mutluca Mah.	Mutluca=
+188551	Ortaköy Mah.	Ortaköy Küme Evler=|Yeni Ortaköy=
+188559	Ovakozlu Mah.	5301~|5302=|5303~|5304~|5305~|5306~|5307~|5308=|Ovakozlu Caddesi=|Ovakozlu=
+188555	Ovaçevirme Mah.	5202~|5203~|5204~|5205~|5206~|5207=|5208=|Ovaçevirme=
+188563	Parmaksız Mah.	5401~|5402~|5402/1=|5403~|5404~|5405~|5406~|5407~|5408~|5409~|5420~|5421=|5421/1~|5422-~|5425=|Aşağı Parmaksız=|Kısık=|Necdet=|Parmaksız Bilinmeyen 1=|Parmaksız Bilinmeyen 2=|Parmaksız Bilinmeyen~|Parmaksız Bilinmeyen1=|Parmaksız@
+29951	Pınarbaşı Mah.	12.küme Evler=|801~|802~|804~|804_1~|806~|807-~|Bilinmeyen 1000~|Bilinmeyen 1005~|Cumhuriyet@|Çevre Yolu@
+188565	Pınarköy Mah.	Golan=|Harabe=|Pınarköy=|Pınarköy Küme Evler=|Talha Mezrası=
+188569	Saltepe Mah.	Saltepe=
+139656	Sanayi Mah.	13.küme Evler=|1301~|1302~|1305~|1305/2~|1306~|1307~|1308~|1309~|1310~|1311~|1315~|1316~|1317~|1318~|1320~|1321~|1322~|Alibey Küme Evleri=|Gülçimen Yolu@|Sanayi Bilinmeyen 1~|Sanayi Bilinmeyen~|Sanayi Konutlari-=|Sanayi Sitesi~|Tahsin Efendi Küme Evleri=|Çevre Yolu@|İmar Yolu 1~|İmar Yolu 2~|İmar Yolu 3~|İmar Yolu 4~|İmar Yolu 5~|İmar Yolu 6~
+29952	Sarılı Mah.	10.küme Evler=|601~|602~|603-~|604~|605-~|606~|607~|608~|609~|610=|611~|612~|613-~|Cumhuriyet@|Sarılı1~|Sarılı2~
+188579	Sultanlı Mah.	Sultanlı=
+188585	Suvaran Mah.	Suvaran=
+188577	Söğütlü Mah.	5803-~|5805-~|5806-~|Söğütlü=
+188571	Sıldız Mah.	Esenler=|Hanek~|Ketenci Küme Evler=|Köprücük=|Sıldız=
+188593	Tanır Mah.	Han Mezrası~|Tanır Konutlar=|Tanır=
+188597	Tapuköy Mah.	Tapuköy=
+188599	Taşbudak Mah.	Taşbudak Konutları=|Taşbudak Küme Evler=
+188687	Tellitepe Mah.	Tellitepe Küme Evler=|Çatak=
+188689	Tipideresi Mah.	Bilinmeyen 1007=|Kurebeşik=|Tipideresi Kümeevler=
+188603	Toprakkale Mah.	6601~|6602=|6603=|6604~|Toprakkale=
+188693	Toraman Mah.	Divanhüseyin=|Hacı Şükrü=|Toraman=
+188695	Uluçayır Mah.	Gültepe Mezrası=|Uluçayır Küme Evler=|Yaşar Mezrası=
+188605	Uyanık Mah.	Uyanık=
+188607	Yamanlar Mah.	Onbaşılar~|Yamanlar=|İsimsiz Yol=|İsimsiz Yol1=|Şeyhnadir~
+188611	Yaylakonak Mah.	Yaylakonak Afet Konutları=|Yaylakonak=
+188615	Yelpiz Mah.	7002=|7003=|7004=|7005=|7006=|7006/1=|7006/2=|7007=|Ovaçevirme=|Toplu Konutlar=|Yelpiz=
+29953	Yenikent Mah.	1101~|1102~|1103-~|1103/1~|1104~|1105~|1106~|1107~|1108~|1109~|1110-~|1111~|1112~|1116-~|1117-~|Ahmet Kara@|Atabey Küme Evleri=|Cengiz Al@|Cumhuriyet@|Liseler@|Rüstem Küme Evleri=|Yeni Yol10~|Yeni Yol11~|Yeni Yol5~|Yeni Yol6~|Yeni Yol7~|Yeni Yol8~|Yeni Yol9~|Yenikent1~|Yıldırım Akbulut@|İnönü@
+188617	Yeniköy Mah.	Ovaçevirme=|Yeniköy=
+29954	Yeşilbahçe Mah.	1001~|1002~|1003~|1004~|1005~|1007-~|1008~|1009~|1010~|1011~|1012~|1015~|1016~|1017~|1018~|1050~|1101~|2.nüve Konutlar-@|8.~|Ahmet Kara@|Bilinmeyen 1~|Bilinmeyen1~|Cengiz Al@|Cengizal-@|Cengizal1~|Cumhuriyet@|Nüve Caddesi@|Petrol@|Peyk@|Yeşilbahçe Bilinmeyen 1~|Yeşilbahçe Bilinmeyen~|Yıldırım Akbulut@|Yıldırım Akbulut1~|Yıldırım Akbulut2~|İnönü@
+188701	Yeşilyazı Mah.	1-~|Sofi Mezrası~|Yeşilyazı=
+188621	Yolüstü Mah.	7201~|7202~|7203~|7204~|7205~|7206~|7207~|Bilinmeyen 1001~|Bilinmeyen 1002~|Bilinmeyen 1003~|Bilinmeyen 1004~|Mollakulaç=|Yeni Yol 1~|Yeni Yol 10~|Yeni Yol 11~|Yeni Yol 12~|Yeni Yol 13~|Yeni Yol 14~|Yeni Yol 15~|Yeni Yol 16~|Yeni Yol 17~|Yeni Yol 18~|Yeni Yol 19~|Yeni Yol 2~|Yeni Yol 20~|Yeni Yol 21~|Yeni Yol 22~|Yeni Yol 23~|Yeni Yol 3~|Yeni Yol 4~|Yeni Yol 5~|Yeni Yol 6~|Yeni Yol 8~|Yeni Yol 9~|Yolüstü Toplu Konutlar~|Çatak=
+29955	Yukarıkayabaşı Mah.	1.ptt@|2~|201~|201/1~|202~|203~|204~|205~|208-~|209~|210~|211~|212~|220~|225~|226-~|250~|Bilinmeyen 1006@|Cumhuriyet@|Karakula@|Meteoroloji@|Meteoroloji/1~|Yeni Yol1~|Yeni Yol2~|Yeni Yol3~|Yenikent Bilinmeyen~|Yukarıkayabası Bilinmeyen 1~|Yüzüncü Yıl@|İnönü@
+188485	Çakmak Mah.	2801=|2802~|2803~|2804=|2805~|2806~|2807~|Çakmak=
+188487	Çamurlu Mah.	2902=|2903=|Çamurlu=
+188645	Çatak Mah.	Ağman=|Çatak=
+188649	Çilligöl Mah.	Dolmabahçe Mezrası=|Kavaklıdere=|Çilligöl Bilinmeyen=|Çilligöl=
+188697	Ünlüce Mah.	Hacı Şükrü=|Ünlüce=
+188515	İsmail Mah.	3901=|3902=|3903=|Akbayır=|Çakmak=|İsmail=
+188587	Şahabettinköy Mah.	6101~|6102~|6102/1~|6103~|Şahabettinköy=
+188683	Şahverdi Mah.	Şahverdi Kümeevler=
+188591	Şalgamköy Mah.	2. Küme Evleri=|Şalgamköy Konutlar=|Şalgamköy Kümeevler=

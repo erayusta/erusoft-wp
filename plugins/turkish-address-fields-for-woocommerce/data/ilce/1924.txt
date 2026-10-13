@@ -1,0 +1,13 @@
+178293	Altınbaşak Mah.	Altınbaşak=
+178295	Cebirli Mah.	Cebirli=|İnebeyli=
+178299	Demirayak Mah.	Demirayak=
+2095	Esentepe Mah.	Cami~|Cenk~|Cumhuriyet@|Erdoğan@|Eyübün Yaylası=|Fatih~|Gazi Murat@|Güney=|Güvenç~|Hacılar~|Halil Işık@|Hayat~|Karaağaç@|Karaağaçlar Yaylası=|Keskin@|Kubilay~|Nevzat Yılmaz@|Osman Gazi@|Pınar@|Selim~|Semiz@|Semizözü Yaylası=|Serdar~|Sırakaya Yaylası-=|Tuna@|Ulu~|Yiğiter@|Yunus Emre@|Çekim~|Şimşek@
+178307	Eskitorunobası Mah.	Eskitorunobası=
+2096	Modern Mah.	Alparslan@|Anıt~|Batı=|Belediye Sosyal Tesisleri=|Beraat Cömertoğlu@|Cengiz Topel@|Cumhuriyet@|Ekinci~|Ekrem Yılmaz@|Eren@|Fevzi Paşa@|Gümüştepe@|Halil Işık@|Hürriyet~|Işıklar~|Kanuni~|Karakaş@|Karanfil~|Keskin_1@|Kızılırmak@|Modern-=|Mutlu@|Nevzat Yılmaz@|Reşit Paşa@|Semiz@|Susam~|Tarım~|Tekin@|Tuna@|Ulu~|Yunus Emre@|Yüksel@|Yıldırım Beyazıt@|Öztürk@|Özçelik@|Ünsal@|Şehit Ali Uğur@|Şehit Cemil Topçuoğlu@
+178305	Solakuşağı Mah.	Solakuşağı=
+2098	Yeni Mah.	Anıt~|Batı=|Cengiz Topel@|Cumhuriyet@|Demirli Çeşme Yaylası=|Eren@|Fevzi Paşa@|Gavurbağı=|Hacılar~|Halil Işık@|Kanuni_1~|Karalar Yaylası=|Kooperatif@|Kubilay~|Nevzat Yılmaz@|Osman Gazi@|Sakarya~|Semiz@|Teğmen Kalmaz~|Tuna@|Ulu~|Yeni-=|Yunus Emre@|Çatalpınar=|Çıtaklı Yaylası=|Özçelik@|Ünsal@|Şehit Ali Uğur@|Şehit Cemil Topçuoğlu@
+178309	Yusufuşağı Mah.	Yusufuşağı=
+178297	Çatalpınar Mah.	Çatalpınar=|Çimkalesi=
+178301	İbrahimbeyli Mah.	İbrahimbeyli=
+178303	İnebeyli Mah.	İnebeyli=
+2097	Şerafettin Yılmaz Mah.	Batı=|Cami~|Cengiz Topel@|Cenk~|Cumhuriyet@|Demirciler@|Demirli Çeşme Yaylası=|Dereiçi-=|Emniyet@|Fatih~|Fevzi Paşa@|Gavurbağı=|Gazi Murat-@|Güney=|Hacılar~|Karalar Yaylası=|Kınalılar Yaylası=|Sallıdere Yaylası=|Selim~|Serdar~|Çimkalesi_1=|Çomak Kaya Yaylası=|Çıtaklı Yaylası=|İtfaiye@|Şehit Ali Uğur@

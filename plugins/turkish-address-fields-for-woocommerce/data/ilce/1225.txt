@@ -1,0 +1,31 @@
+60774	Bademdere Köyü, Bademli Mevkii	Cumhuriyet~|Işık~|Okullar~|Tek Armut~|Topraklı~|Virajlı~|Yarbaşı~|Çetinler~|Çeşmeler~
+60775	Bademdere Köyü, Bahçeli Mevkii	Bahçeler~|Belediye~|Ceylan~|Fidan~|Gül~|Gümüşler~|Günaydın~|Harımlar~|Kavşak~|Kelkit~|Korkut~|Levent~|Mescit~|Rüzgarlı~|Seyit Ahmet~|Stadyum~|Tepe~
+60776	Bademdere Köyü, Boğaziçi Mevkii	Cami~|Dik~|Hacılar~|Kirazlı~|Çıkmaz~|İnönü~
+64998	Bekçili Köyü	 Köy$
+60769	Bereketli Mah.	Ali Hocalar Camii~|Ali Hocalar Camii/1~|Atatürk@|Atatürk/1~|Atatürk/2~|Atatürk/3~|Atatürk/4~|Bahar~|Bostanlık=|Dere~|Durak~|Durak/1~|Durak/2~|Eser~|Eser/1~|Eski~|Karapınar@|Künk=|Kızılyer=|Kışlabayır~|Mehmet Akif Ersoy@|Mimar Sinan@|Mimar Sinan/2~|Mimar Sinan/3~|Mimar Sinan/4~|Mimar Sinan/6~|Nilüfer~|Sarıtaş~|Seyran~|Seyran/1~|Trafo~|Türbe~|Türbe/1~|Türbe/2~|Türbe/3~|Zambak~|Çoğlu=|İçişleri Bakanı Muzaffer Ecemiş@|İçişleri Bakanı Muzaffer Ecemiş/1~|İçişleri Bakanı Muzaffer Ecemiş/2~
+64999	Beyazkışlakçı Köyü	 Köy$
+60777	Burç Köyü, Cumhuriyet Mevkii	Güneşli~|Lale~|Menekşe~|Merkez~|Türbe~|Yenigün~
+60778	Burç Köyü, Yeni Mevkii	Atatürk~|Belediye~|Fatih~|Karaburun~|Paşalar~
+65000	Celaller Köyü	 Köy$
+65004	Demirkazık Köyü	 Köy$
+65005	Elekgölü Köyü	 Köy$
+65006	Eynelli Köyü	 Köy$
+65007	Kavaklıgöl Köyü	 Köy$
+65008	Kavlaktepe Köyü	 Köy$
+65009	Kocapınar Köyü	 Köy$
+60772	Maden Mah.	Armutlu~|Aydın~|Bahçe~|Bayır~|Bağbaşı~|Boğaz=|Değirmenli~|Huzur-~|Kulu Osman~|Maden/10~|Maden/13~|Maden/14~|Maden/16~|Maden/17~|Maden/18~|Maden/19~|Maden/21~|Maden/22~|Maden/23~|Maden/24~|Maden/25~|Maden/27~|Maden/28~|Maden/29~|Maden/30~|Maden/33~|Maden/35~|Maden/38~|Maden/6~|Maden/7~|Maden/8~|Mehmet Akif Ersoy@|Olukluöz~|Pazaryeri@|Saray/8~|Yeni Bağlar~|Çaybaşı~|Çağlayan~|Çeşmeli~|Çoğlu=|Öziçi~|Öziçi/1~|Şehit Üsteğmen Murat Erdem@|Şehit Üsteğmen Murat Erdem/1~|Şehit Üsteğmen Murat Erdem/2~
+65010	Mahmatlı Köyü	Kalederesi=|Mahmatlı Köy$
+65011	Orhaniye Köyü	 Köy$
+65013	Pınarbaşı Köyü	 Köy$
+65014	Sulucaova Köyü	 Köy$
+65018	Yelatan Köyü	 Köy$
+60770	Yeni Çarşı Mah.	100.yıl@|Akasyalık~|Albay Fethi Bey@|Albay Fethı Bey/1~|Albay Fethı Bey/2~|Albay Fethı Bey/3~|Albay Fethı Bey/4~|Bağbaşı~|Belediye@|Belediye/1~|Cumhuriyet~|Doğan Baran@|Doğan Baran/1~|Fırın~|Gazi~|Gül~|Hükümet Myd.|Hükümet/1~|Hükümet/2~|Karapınar@|Köprü Başı~|Lojman@|Lojman/1~|Lojman/15~|Lojman/2~|Lojman/3~|Maarif~|Mehmet Akif Ersoy@|Mimar Sinan/4~|Pazaryeri@|Stad~|Çağlayan~|İzzet Ecemiş@|İzzet Ecemiş/10~|İzzet Ecemiş/11~|İzzet Ecemiş/22~
+65019	Yeniköy Köyü	 Köy$
+199107	Yunus Emre Mah.	Atasan=|Doğan Baran@|Esentepe@|Esentepe/1~|Eynelliözü~|Eynelliözü/1~|Eynelliözü/2~|Eynelliözü/3~|Eynelliözü/4~|Eynelliözü/5~|Eynelliözü/6~|Eynelliözü/7~|Eynelliözü/8~|Eynelliözü/9~|Gökpınar~|Hacı Osman Hanı-=|Hanyazısı=|Hisar~|Kaya Altı Han=|Kaynarca=|Mehmet Akif Ersoy@|Mehmet Akif Ersoy/1~|Meyilli~|Mustafa Kemal Paşa~|Mustafa Kemal Paşa/1~|Saygı~|Saygı/1~|Topraklık~|Yavuz Selim@|Yavuz Selim/1~|Yavuz Selim/2~|Yavuz Selim/3~|Yavuz Selim/4~|Yavuz Selim/5~|Yunus Emre/1~|Çamardı Yolu@|Çamardı/1~|Şirin~
+65001	Çardacık Köyü	 Köy$
+65002	Çukurbağ Köyü	 Köy$
+65003	Çukurbağ Köyü, Hanyazısı Mevkii	
+65012	Ören Köyü	 Köy$
+65015	Üçkapılı Köyü	 Köy$
+65017	Üçkapılı Köyü, Camız Keleri Mevkii	Camız Keleri=
+65016	Üçkapılı Köyü, Kale Mevkii	 Köy$

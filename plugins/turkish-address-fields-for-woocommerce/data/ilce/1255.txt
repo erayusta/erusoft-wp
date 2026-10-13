@@ -1,0 +1,28 @@
+191031	Abbashalimpaşa Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|3~|4~|5~|6~|7~|8~|9~|Köy İçi=
+30257	Adalar Mah.	966~|Ada~|Akasya~|Aktan~|Aras~|Atatürk%|Aygül~|Batı~|Bayındır~|Besihaneler~|Birinci Haliçi~|Birinci Çarşı~|Bosna~|Bulur~|Ceyhan~|Ceylan~|Coşkun~|Cumhuriyet Myd.|Dibek~|Dr.sadık Ahmet~|Duru~|Dördüncü Çarşı~|Eminekin@|Emirhan~|Emniyet%|Er~|Erciyes~|Ertuğrul Gazi~|Fahrettin Kerim Gökay~|Ferah~|General~|Girne@|Gökberk~|Güder~|Gül~|Güney~|Hal Ve Açık Pazar Meydanı Myd.|Hoca Ahmet Yesevi~|Huzur~|Işık~|Kafkas@|Kanal~|Kanarya~|Karaçay~|Kubbeli Camii~|Kurtini~|Kuyucak@|Kuzey~|Kültür Site~|Kıyı~|Lale~|Manas~|Mehmet Akif~|Mevlana~|Mezbahaneler~|Mustafa Kökten~|Nene Hatun~|Onbaşı~|Panayır~|Park~|Paşa~|Potaş~|Poyraz~|Rusçuk~|Saat Kule~|Sanayi Çarşısı~|Sedir~|Selvi~|Seramik~|Seyhan~|Sinan~|Sivrihisar@|Sultan Sancar~|Telli~|Türkmen~|Uçak~|Uğural~|Yagan~|Yaşatan~|Yeni Dükkanlar~|Yunus Emre~|Yörük~|Yüce~|Yıldırım@|Zambak~|Ziya Cansu~|Çavuş~|Çelik~|Çelik Çıkmazı~|Çetinel~|Çevreyol~|Çınar Çeşme~|Özden~|Üçüncü Çarşı~|İkinci Haliçi~|İkinci Çarşı~|İmam Hatip Lisesi~|İyigün~|Şht.asb.soner Özübek~
+191069	Alikan Mah.	Yenidoğan=
+191033	Arslanlı Mah.	1.küme~|2.küme~|3.küme~|4.küme~
+191035	Başkurt Mah.	Başkurt=
+191037	Belpınar Mah.	Belpınar=
+191041	Dikilikaya Mah.	Dikilikaya=
+191043	Dikmen Mah.	1~|10~|11~|12~|13~|14~|2~|3~|4~|5~|6~|7~|8~|9~|Körhasan Dikmen Yolu@
+191045	Doğanay Mah.	Doğanay 1=|Doğanay=
+191047	Eminekin Mah.	1.küme (eminekin) 1~|1.küme (eminekin) 2~|1.küme (eminekin) 3~|1.küme (eminekin) 4~|1.küme (eminekin)~|1.küme 1~|1.küme 2~|1.küme 3~|1.küme 4~|1.küme 5~|1.küme~|Eminekin (köy İçi) Köy$|Eminekin Körhasan Yolu@|Köyün Kendisi~
+30259	Erbap Mah.	Abdi İpekçi~|Arayan~|Aydınlar~|Bağlar~|Borsa~|Duru~|Döngel Myd.|Emniyet%|Fevzi Çakmak~|Girne@|Güler~|Kanal~|Kaya~|Kınalı~|Mimar Sinan~|Nehir~|Ofis~|Okul~|Sakarya Başı Myd.|Sakarya%|Serap~|Silo~|Soğuk Pınar~|Taşkın~|Turgut Reis~|Ulubatlı Hasan~|Yavuz Sultan Selim~|Yayla=|Zahire~|Zübeyde Hanım~|Çeşme~|Özcan Karabacak~|Öztürk~|İbrahim Dede@|İbrahim Dinçer~|İhsaniye@|Şahin~
+191049	Hayriye Mah.	1.sokak (hayriye)~|1.sokak~
+191051	Ilıcabaşı Mah.	1.küme (ılıcabaşı) 1~|1.küme (ılıcabaşı)~|1.küme 1~|1.küme~|Ilıcabaşı=
+191053	Kadıkuyusu Mah.	1.küme (1.küme)~|1.küme (kadıkuyusu) 1~|1.küme (kadıkuyusu)~|1.küme 1~|1.küme 2~|1.küme~|Küme-2~|Küme-3~
+191055	Körhasan Mah.	1.küme (körhasan) 1~|1.küme (körhasan) 2~|1.küme (körhasan) 3~|1.küme (körhasan) 4~|1.küme (körhasan) 5~|1.küme (körhasan) 6~|1.küme (körhasan) 7~|1.küme (körhasan) 8~|1.küme (körhasan)~|1.küme 1~|1.küme 2~|1.küme 3~|1.küme 4~|1.küme 5~|1.küme 6~|1.küme 7~|1.küme 8~|1.küme 9~|1.küme~|Eminekin Körhasan Yolu@|Körhasan Dikmen Yolu@
+191057	Orhaniye Mah.	1.küme~|2.küme~|3.küme~
+191059	Ortaköy Mah.	Aşağı Köy=|Ortaköy=
+191061	Osmaniye Mah.	1.sokak (osmaniye) 1~|1.sokak (osmaniye)~|1.sokak 1~|1.sokak~|Osmaniye~
+191063	Sadıroğlu Mah.	Sadıroğlu=
+191065	Saithalimpaşa Mah.	1.sokak (saithalimpaşa) 1~|1.sokak (saithalimpaşa) 2~|1.sokak (saithalimpaşa) 3~|1.sokak (saithalimpaşa) 4~|1.sokak (saithalimpaşa) 5~|1.sokak (saithalimpaşa)~|1.sokak 1~|1.sokak 2~|1.sokak 3~|1.sokak 4~|1.sokak 5~|1.sokak~|Köy Merkezi~
+30260	Sakarya Mah.	Atatürk%|Ateş~|Aydın~|Barut~|Basın~|Belde~|Cumhuriyet Myd.|Doruk~|Doğruyol~|Dr.m.şemsettin Sönmez~|Durak~|Döngel~|Efe~|Erden~|Erten~|Eskişehir@|Eğitim~|Fatih Sultan Mehmet~|Fırın~|Girne@|Gönenli~|Gültekin~|Güngör~|Habilakan~|Han~|Hapishane~|Hastahane@|Hürriyet~|Işın~|Karaçam~|Kaymakam Hüsmenbey~|Koca Hasan~|Kozanoğlu~|Namık Kemal@|Palmiye~|Salim Yüksel@|Savran~|Sivri~|Süzer~|Tarım~|Yalçın~|Yunus Emre~|Çakmak~|Çarşıcami~|Ün~|Ünal~|Ürün~|Şeker~|Şht.fahrettin Özden~
+191067	Sarıkavak Mah.	Hacılar~|Karakaya~|Sarıkavak~
+30261	Yeni Mah.	Atatürk%|Aşık Zülali~|Bedel~|Beşiktaş~|Bulur~|Cengiz Han~|Ceylan~|Conkbayırı~|Dar~|Demirözü~|Dilek~|Düzgün@|Eren@|Ergenekon~|Esen@|Eskişehir@|Gülveren~|Güneş~|Hersek~|Keser~|Kuyubaşı~|Mustafa Kökten~|Osmangazi~|Papatya~|Saltuk Buğrahan~|Sarılar~|Seramik~|Sivrihisar@|Uyanık~|Yeni Çağ~|Yüce~|Yıldız~|Çevreyol~|Çifteler Yolu@|Çiftçi~|Özden~|İkizkuyu~|İmren~|İstikbal~
+30262	Yenidoğan Mah.	Atatürk%|Ayorak~|Baltaj~|Beşiktaş~|Boyacılar~|Cengiz Han~|Conkbayırı~|Dedeler~|Derman~|Deva~|Donatım~|Eren@|Ergenekon~|Esen@|Eskişehir@|Gündoğdu~|Güneş~|Hürün~|Kurt~|Menekşe~|Osmangazi~|Pancar~|Sardunya~|Spor~|Sümbül~|Yıldız~|Çevreyol~|İmren~|Şht.murat Kozan~|Şifa~
+191071	Yıldızören Mah.	1.sokak (yıldızören) 1~|1.sokak (yıldızören) 2~|1.sokak (yıldızören) 3~|1.sokak (yıldızören)~|1.sokak 1~|1.sokak 2~|1.sokak 3~|1.sokak 4~|1.sokak~|Yıldızören=
+191073	Zaferhamit Mah.	Zaferhamit=
+191039	Çatmapınar Mah.	Çatmapınar=
+30258	Çiftçi Mah.	Aralık~|Artaş~|Asma~|Asya~|Atatürk%|Atmaca~|Battal Gazi~|Bağlık~|Billur~|Bostan~|Burç~|Camii~|Dere~|Eskişehir@|Etkin~|Eylül~|Fener~|Fulya~|Gireyhan~|Göçebe~|Gülçiçek~|Hayriye@|Hürriyet~|Koreli~|Kule~|Kumbayırı~|Kürkçü~|Kıbrıs~|Kırım~|Madımak~|Meşe~|Muammer Kiremitçi~|Osmanlı~|Sanayi Sitesi 1.~|Sanayi Sitesi A/blok~|Sanayi Sitesi B/blok~|Sanayi Sitesi C/blok~|Sanayi Sitesi D/blok~|Sanayi Sitesi E/blok~|Sanayi Sitesi F/blok~|Sanayi Sitesi G Blok~|Savak~|Serçe~|Süleyman Gültekin~|Tarım~|Uzay@|Yamaç~|Yeni~|Yenice~|Zambak~|Çiçek~|Çukur~|Önder~|Üzümlü~|Şantiye~

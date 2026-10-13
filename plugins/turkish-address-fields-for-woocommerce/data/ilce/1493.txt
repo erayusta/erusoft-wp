@@ -1,0 +1,40 @@
+151559	Akçadere Mah.	Ahmedel~|Anadolu~|Gulfaloğlu~|Kabakçıoğlu~|Kerezli~|Kübüç~|Toramanoğlu~
+151563	Avdullu Mah.	Akdana~|Alçaklıyanı~|Aşağıköy~|Merkez~
+61141	Ayvalı Mah.	Divani Yolu=|Erik Pınarı=|Gölcüvez=|Hasan Kadıoğlu=|Kayabaşı Yolu=|İmam Oğlu=
+151555	Ağcaalantürk Mah.	Apdolar~|Camallı~|Gökçebel~|Lazlar~
+151571	Ballık Mah.	Aşağı~|Orta 1.~|Orta~|Yukarı~
+151567	Balı Mah.	Alacatepe~|Alancık~|Behicedüzü~|Büyüktepe~|Irmakiçi~|Köyiçi~
+61142	Demircili Mah.	1 Nolu=|10 Nolu~|11 Nolu~|6.nolu~|7.nolu~|8 Nolu~|9 Nolu~|A.cemal Zorlu@|Atatürk@|Ferhat Oğlu=|Gücükler=|Güneycik Yolu=|Hamza Oğlu=|Karadere=|Karagöz Oğlu=|Kasımoğlu@|Mehmet Sarıcan@|Park@|Sanayi@|Turgut Özal@|Yurt~|Yüksel Batır@|Şehitler@|Şuayipoğlu@
+151579	Derbent Mah.	Boz~|Eski Köy~|Kapı Ağzı~|Orta~|Sıkağaç~|Yeni~|Yukarı~|Öte~
+198613	Dereköy Mah.	Akpınar~|Eyüpoğlu~|Irmak~|Korgan@|Niksar@|Topçuoğlu~|Yeşil~
+151583	Divanıtürk Mah.	Biçimlik~|Ezeltere~|Güzelevyanı~|Hodoğlu~|Korbükü~|Köseloğlu~|Mamaşkırı~|Soğancoğlu~|Tecirler~|Tepe~|Yağaloğlu~
+151589	Duman Mah.	Kıran~|Merkez~
+151593	Ergentürk Mah.	Değirmendere~|Kabataş~|Sarapdal~|Çakallı~
+61143	Erikçeli Mah.	Dip=|Kayabaşı=|Köseli Evyanı=|Müderrisoglu=|Orta=|Sarıoğlu=|Çatılı Yolu=
+151595	Esence Mah.	Aşağı~|Kadıoğlu~|Kirmitli~|Orta~|Tamyeri~|Yürevyanı~
+151599	Eskiçokdeğirmen Mah.	Hatipli 1.~|Hatipli~|Köçekli~|Kürt 1.~|Kürt~|Kıran 1.~|Kıran 2.~|Kıran~|Yunuslu 1.~|Yunuslu 2.~|Yunuslu~
+198627	Fatih Mah.	Akpınar~|Beyoğlu~|Evliya~|Kadıoğlu~|Kavasoğlu~|Niksar (fatih)@|Yayla~|Çaloğlu~
+151545	Fizme Mah.	Agullu=|Akpınar=|Avluyani=|Demirçukuru~|Ezetli=|Hüseyin Başoğlu~|Merkez=|Sevinçli=|Yukarı (karapınar)=
+151603	Gökçeli Mah.	Aşağı~|Yukarı~
+151607	Güneycik Mah.	Avut~|Bahçe~|Geciroğlu~|Karaçamoğlu~|Kırkuk~|Tepe~|Tepedibi~|Yazlık~|Çakıroğlu~
+99828	Kadıncık Mah.	Bayram Oğlu=|Bozağaç=|Orta=|Saray Önü=|Tekkiraz@|Şehit Neşe=
+151609	Karaağaç Mah.	Alan~|Güney~|Kayaköy~|Kılıçlı~|Okulyanı~
+151615	Karacalar Mah.	Aşağı~|Yukarı~
+61144	Karacalı Mah.	Abdullah Bayazıt~|Adil Karaoğlanoğlu@|Bekar Oğlu@|Bölükbaş Oğlu@|Cebecioğlu=|Cevat Korkmaz@|Fiskobirlik~|Hacı Ali@|Halil Sıtkı@|Karacalı Myd.|Kemal Kumru@|Korgan@|Niksar@|Pembe~|Seyit Ağa~|Sülükgölü=|Turgut Özal@|Çağlayan@|Ömer Asım Kumru@
+151657	Kayabaşı Mah.	Merkez~
+151617	Konaklı Mah.	Bağlama~|Büyüktepe~|Kayaaltı~|Koyak~|Köyiçi~|Pınaralan~|Çavuşluk~|Çorakyanı~
+151623	Kovancılı Mah.	Haytaoğlu~|Kalmoğlu~|Kaynarca~|Mollahasan~|Numanoğlu~|Yeni~|Yukarı~|İkigöl~
+198631	Kurtuluş Mah.	Aşağı=|Hatipler=|Karaoğlu=|Keşlik=|Yukarı=|Çakullu=|Çatak=
+151627	Küçükakçakese Mah.	Bozbelen Görücüler~|Cam Altı~|Cami Başı~|Cami Yanı~|Terzili~|Yaylak~|Yusuf~
+99829	Ortaca Mah.	Dervişoğlu=|Ereçek=|Faraşoğlu=|Geciroğlu=|Hisamlı=|Kayadibi=|Yahyaoğlu=
+151631	Ortaçokdeğirmen Mah.	Camiyanı~|Gökcebel~|Mektepdere~
+61145	Samur Mah.	1~|2~|3~|4~|5~|Abdullah Kumral@|Atatürk@|Cemil Hacıvelioğlu@|Emniyet@|Gandazoğlu=|Hatipli~|Hikmet Çavuş=|Hüseyin Avni Özdener~|Irmak~|Karakol=|Kemalettin Kumru@|Kılıçlı~|Mehmet Akif@|Mimar Sinan@|Mutafoğulları~|Necdet Kumrulu@|Okullar Myd.|Tekkiraz@|Yahyaoğlu=|Çerkezoğlu@|Çerkezoğlu=
+151639	Tekkeköy Mah.	Aşağı~|Yukarı~
+151641	Yalnızdam Mah.	Alageriş~|Aruklu~|Aşağı Alan~|Kıran~|Okul Yanı~|Pınaralan~|Sucalı~|Terzili~|Çavuşlu~|Çendekli~
+151645	Yemişken Mah.	Bozağaç=|Teke Mehmet~|Yemişken Merkez 1.~|Yemişken Merkez 2.~|Yemişken Merkez~|Yemişken Tepe 1.~|Yemişken Tepe 2.~|Yemişken Tepe~
+151649	Yeniakçaalan Mah.	Bozdağ~|Merkez~|Meşebükü~|Çubuklu~
+151651	Yenidivan Mah.	Elmacık~|Eriklik~|Orta~|Venedikoğlu~
+151655	Yeniergen Mah.	Eskiköy 1.~|Eskiköy~|Kabataş~|Sarapdal~|Tepedağ 1.~|Tepedağ 2.~|Tepedağ 3.~|Tepedağ~|Yunuslu~|Çakallı 1.~|Çakallı 2.~
+151537	Yukarıdamlalı Mah.	Cumhuriyet@|Değirmen~|Efendioğlu~|Hatipoğlu~|Hilal~|Onur~|Pınar~|Topçuoğlu (kuzbahçe)~|Vatan@|Yıldız~
+151575	Çatılı Mah.	Akkancık Yaylası~|Altıbaş~|Ambarkaya Yaylası~|Aralık Yaylası~|Asar~|Bahçelik~|Boyacılı Yaylası~|Cambaz Yaylası~|Deper Yaylası~|Dinginoğlu~|Düzdağ Yaylası~|Düzoba Yaylası~|Fırınönü Yaylası~|Gücükgeriş Yaylası~|Keklik~|Kurtalan Yaylası~|Menteş Yaylası~|Sarıçiçek Yaylası~|Töngelalan~|Yalın Yaylası~|Ötebaş~|Üstübaş~
+151635	Şenyurt Mah.	Gayyanı~|Helvacıoğlu~|Okçulu~|Orta~

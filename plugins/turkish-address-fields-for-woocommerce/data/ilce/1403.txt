@@ -1,0 +1,95 @@
+93935	Akdağ Köyü	Akdağ=|Yörük=
+93971	Akkoyunlu Köyü	Akkoyunlu=
+93996	Aksoy Köyü	Aksoy=
+93997	Aksoy Köyü, Yukarı Aksoy Mevkii	Yukarı Aksoy=
+93999	Alakamış Köyü	Alakamış=
+93998	Alakamış Köyü, Babet Mezrası	Babet=
+90622	Atakent Mah.	402~|403~|404~|405~|406~|407~|409~|410~|410a~|415~|416~|417~|418~|421~|422~|423~|426~|428~|429~|430~|431~|432~|434~|435~|437~|438~|440~|441~|442~|443~|444~|445~|446~|447~|448~|449~|450~|451~|451a~|452~|453~|454~|454a~|455~|515~|518~|523~|527~|528~|570~|Abdi İpekçi@|Adile Naşit@|Alanya%|Atatürk@|Bandırma@|Fethiye@|Hükümet@|Kuvayi Milliye@|Menderes@|Pınar@
+93995	Açma Köyü	Açma=|Ortaca=
+90621	Aşağı Mah.	201~|202~|203~|204~|205~|206~|207~|208~|209~|209a~|210~|2100~|211~|212~|213~|214~|215~|216~|217~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|228~|229~|230~|231~|232~|233~|234~|235~|236~|237~|238~|239~|240~|241~|242~|243~|244~|245~|246~|247~|248~|249~|250~|251~|252~|253~|254~|255~|256~|257~|258~|259~|260~|261~|262~|263~|264~|265~|266~|267~|268~|269~|270~|271~|272~|273~|274~|275~|276~|277~|278~|279~|280~|281~|282~|283~|284~|285~|286~|287~|288~|289~|290~|291~|292~|293~|294~|295~|296~|297~|Alanya%|Cizre%|Eski Çarşı@|Halit@|Hastane@|Hükümet@|Kovaq@|Çevreyolu@|Üçok@|İnönü@
+93972	Başakköy Köyü	Başakköy=
+93936	Bereketli Köyü	Bereketli=|Dirsekli=
+93937	Bozburun Köyü	Bozburun=
+93973	Bozkır Köyü	Bozkır=
+93938	Dirsekli Köyü	Dirsekli=
+93979	Dumanlı Köyü	Dumanlı=
+93941	Duruköy Köyü	Duruköy=
+93939	Duruköy Köyü, Çayırlı Mezrası	Çayırlı=
+94004	Gedik Köyü	Gedik=
+93981	Güzelova Köyü	Güzelova=
+93980	Güzelova Köyü, Alataş Mezrası	Alataş=
+93970	Haberli Köyü	Haberli=
+93942	Hendekköy Köyü	Hendekköy=
+93982	Işık Köyü	Işık=
+90628	Karalar Beldesi, Temel Mah.	102~|103~|104~|105~|106~|107~|108~|109~|111~|112~|114~|115~|116~|117~|118~|119~|121~|121/1~|123~|127~|127/1~|Atatürk@|Botaş@|Cumhuriyet@|Kuzey@|Midyat@|Okul@|Oyalı@|Oyalı2~
+90629	Karalar Beldesi, Şamil Mah.	112~|112/1~|112/2~|201~|202~|203~|204~|204/1~|205~|206~|207~|207/1~|208~|209~|210~|211~|212~|213~|217~|219~|222~|Atatürk@|Botaş Şamil@|Cumhuriyet@|Cumhuriyet1~|Cumhuriyet2~|Cumhuriyet3~|Cumhuriyet5~|Kuzey@|Midyat@|Oyalı@|Oyalı1~
+93943	Kayalı Köyü	Kayalı=
+93984	Kayı Köyü	Kayı=
+93983	Kaşıkçı Köyü	Kaşıkçı=
+93985	Kentli Köyü	Kentli=
+93986	Kentli Köyü, Yokuşlu Mezrası	Yokuşlu=
+94006	Kozluca Köyü	Kozluca=
+94007	Kozluca Köyü, Yeşilce Mezrası	Yeşilce=
+94010	Kurtuluş Köyü	Kurtuluş=
+94011	Kurtuluş Köyü, Zirincan Mevkii	Zirincan=
+93945	Kuyulu Köyü	Kuyulu=
+93944	Kuyulu Köyü, Tepeli Mezrası	Tepeli=
+94008	Köyceğiz Köyü	Köyceğiz=
+94009	Köyceğiz Köyü, Şeker Mezrası	Şeker=
+94005	Kırca Köyü	Kırca=
+93987	Mağaraköy Köyü	Mağaraköy=
+94012	Ocaklı Köyü	Ocaklı=
+93946	Okçu Köyü	Okçu=
+94013	Ortaca Köyü	Ortaca=
+93947	Ortaköy Köyü	Ortaköy=
+93994	Oyalı Köyü	Oyalı=
+93949	Oymak Köyü	Oymak=
+93948	Oymak Köyü, Köşklü Mezrası	Köşklü=
+93951	Peçenek Köyü	Peçenek=
+93952	Pınarbaşı Köyü	Pınarbaşı=
+93989	Sarıköy Köyü	Sarıköy=
+93953	Sulak Köyü	Sulak=
+93954	Sulak Köyü, Elcani Mezrası	Elcani=|Sulak=
+90626	Sırtköy Beldesi, Dicle Mah.	202~|203~|204~|204/1~|205~|206~|207~|208~|212~|213~|214~|215~|216~|Cizre Caddesi@|Güven@|İdil@|İncir@
+90627	Sırtköy Beldesi, Fırat Mah.	101~|102~|103~|104~|106~|107~|107a~|108~|108a~|109~|110~|111~|112~|113~|114~|115~|116~|117~|118~|119~|120~|123~|125~|127~|Dağ@|Metrepol@|Petrol@|Quvağ@|İdil@
+93955	Tekeköy Köyü	Tekeköy=
+94016	Tepecik Köyü	Babet=|Tepecik=
+93956	Tepeköy Köyü	Tepe Köyü=
+93957	Toklu Köyü	Toklu=|Öğündük=
+93991	Topraklı Köyü	Topraklı=
+93990	Topraklı Köyü, Dera Mezrası	Dera=
+90623	Turgut Özal Mah.	359~|501~|502~|503~|504~|505~|506~|507~|508~|509~|510~|511~|512~|513~|514~|515~|516~|517~|518~|519~|520~|521~|522~|523~|524~|525~|527~|528~|529~|530~|531~|532~|533~|534~|535~|536~|537~|538@|539~|540~|541~|542~|543~|544~|545~|546~|547~|548~|549~|550~|551~|551/1~|552~|553~|554~|555~|556~|557~|558~|559~|560~|561~|562~|563~|564~|565~|566~|567~|568~|569~|570~|571~|572~|573~|574~|575~|576~|577~|578~|579~|580~|581~|582~|590~|592@|595~|Adile Naşit@|Alanya%|Atatürk@|Celal Bayar@|Cemal Gürsel@|Cizre%|Dirsekli@|Jandarma@|Jandarma3~|Kasrok@|Kenan Evren@|Menderes@|Midyat@|Namık Kemal@|Pınar@|Su Deposu@|Turgut Özal@|Turgutözal 3~|Yurt@|Çiller@
+93958	Ulak Köyü	Ulak=
+93992	Uçarlı Köyü	Uçarlı=
+94017	Uğrak Köyü	Uğrak=
+94018	Uğrak Köyü, Telzip Mezrası	Telzip=
+94019	Varımlı Köyü	Varımlı=
+93961	Yalaz Köyü	Yalaz=
+93962	Yarbaşı Köyü	Dirsekli=|Yarbaşı=
+93965	Yavşan Köyü	Yavşav=
+93964	Yavşan Köyü, Doğancık Mezrası	Doğancık=
+93963	Yavşan Köyü, Yukarı Yavşan Mezrası	Yukarı Yavşan=
+93993	Yayalar Köyü	Yayalar=
+94020	Yazman Köyü	Yazman=
+93960	Yağmurca Köyü	Yağmurca=
+90624	Yeni Mah.	100~|101~|102~|103~|104~|105~|106~|107~|108~|109~|11@|110~|1100~|1101~|1102~|1103~|1104~|1105~|1106~|1107~|1108~|1109~|111~|1110~|1111~|1112~|1113~|1114~|1115~|1116~|1117~|1118~|1119~|112~|1120~|1121~|1122~|1123~|1124~|1125~|1126~|1127~|1128~|1129~|113~|1130~|1131~|1132~|1133~|1134~|1135~|1136~|1137~|114~|1140~|1141~|1142~|1143~|1144~|1145~|1146~|1147~|1148~|1149~|115~|1150~|1151~|1152~|1153~|1154~|1155~|116~|1160~|1161~|1162~|1163~|1164~|1165~|1166~|1167~|1168~|117~|1170~|1171~|1172~|118~|119~|120~|122@|123~|124~|125@|126~|127~|128~|129~|130~|131~|132~|133~|134~|135@|136~|137~|138~|139~|140~|141~|142~|143~|144~|145~|146@|147~|148~|149~|150~|151~|152~|153~|154~|155~|156~|157~|158~|159~|160~|161~|162~|163~|164~|165~|166~|167~|168~|169~|170~|171~|172~|173~|174~|175~|176~|177~|178~|179~|180~|181~|182~|183~|184~|185~|186~|187~|188~|189~|190~|191~|191a~|192~|193~|194~|195~|195a~|196~|197~|198~|199~|Alanya%|Belediye@|Bostan@|Botaş@|Cezaevi@|Dirsekli@|Ebuzeyd Çevrim@|Saddak@|Seyrantepe@|Toki@|Yanalak@|Yenı15~|Çevreyolu@
+94021	Yolaçan Köyü	Yolaçan=
+90625	Yukarı Mah.	301~|303~|304~|305~|306~|308~|309~|310~|311~|312~|313~|313a~|314~|315~|316~|317~|318~|319~|320~|321~|322~|323~|324~|325~|326~|327~|329~|330~|331~|332~|333~|334~|335~|336~|337~|338~|339~|340~|340a~|341~|342~|343~|344~|345~|346~|347~|348~|349~|350~|351~|352~|353~|354~|355~|356~|357~|358~|359~|360~|361~|362~|363~|364~|375~|376~|377~|378~|382~|383~|384~|385~|386~|387~|388~|390~|391~|392~|393~|394~|544~|Alanya%|Cizre%|Cumhuriyet@|Hükümet@|Kuvayi Milliye@|Su Deposu@|İnönü@|İstiklal@|Şht.kaymakam Kemal Bey@
+93968	Yuvalı Köyü	Yuvalı=
+93967	Yuvalı Köyü, Camili Mezrası	Camili=
+93966	Yörük Köyü	Yörük=
+93969	Yüksekköy Köyü	Yüksekköy=
+93977	Çukurlu Köyü	Köyün Kendisi=
+93975	Çukurlu Köyü, Ağaçlı Mezrası	Ağaçlı=
+93976	Çukurlu Köyü, Çalke Tahtı Mezrası	Çukurlu=
+93978	Çukurlu Köyü, Çalketehti Mezrası	Çakletahti=
+93974	Çınarlı Köyü	Çınarlı=
+94000	Çığır Köyü	Çığır=
+94001	Çığır Köyü, Gültepe Mezrası	Gültepe=
+94003	Çığır Köyü, Yeni Köy Mezrası	Yeniköy=
+94002	Çığır Köyü, Yeni Mezrası	Çığır=
+94015	Özbek Köyü	Özbek=
+94014	Özbek Köyü, Gırbaraz Mezrası	Girbaraz=
+93950	Özen Köyü	Özen=
+93988	Öğündük Köyü	Toklu=|Öğündük=
+93959	Üçok Köyü	Üçok Köyü=

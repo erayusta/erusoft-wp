@@ -1,0 +1,14 @@
+156713	Akköse Mah.	Akköse Merkez=|Ancumah=|Bilali=|Bölümlü Yıldız=|Büyükcami=|Emirgan 3=|Emirgan 4=|Emirgan=|Emirgan1=|Gürcülü Gültepe=|Küçük=|Lişako=|Lişo=|Mezra=|Soğuksu=|Sürmeli=|Ulucami Mezrası=
+156719	Gülen Mah.	Bozdağ=|Büyük Cami=|Demir2~|Gazeno=|Kacalak=|Kirazlık=|Kule=|Maynoz=|Yeni Cami=|Yeşilalan=
+156721	Günebakan Mah.	Boro=|Günebakan Merkez=|Kazankıran=|Kuruçeşme=|Köy Üstü=|Samro Boğazı=|Yenice Merkez=
+99561	Güney Mah.	15 Temmuz=|Arşela Altı=|Dursun Ali Kurt@|Güney=|Kondu=
+99725	Kondu Mah.	Erikli=|Gazeno=|Kacalak=|Kom=|Kondu=|Küçük Kalanas=|Çikoşo=
+79992	Merkez Mah.	15 Temmuz=|Ahmet Cansız~|Belediye@|Damla~|Değirmen~|Dursun Ali Kurt 1~|Dursun Ali Kurt@|Gonca~|Harun Güveli~|Hasan Cansız@|Karanfil~|Yenicami=|Yusuf Karakaş@
+156723	Ormancık Mah.	Hacı Hüseyin=|Kasran=|Kom Mevkii=|Ormancık Cami=|Varhal=
+156725	Taşçılar Mah.	Albayrak=|Betinos=|Doğan=|Hacı Hüseyin=|Mesoraş=|Okşahüstü=|Pınarbaşı Emirgan=|Riziya Mevkii=|Taşçılar Merkez=|Taşçılar Orta=|Taşçılar Orta1=|Yeni=|Yığımlı=|Çalışanlar Cami=|Çanaklı Sinaysa=|Özyazıcı=|İkşoni=
+156727	Tüfekçi Mah.	Arşela Altı=|Elmalı=|Kaşıkçı=|Ormancık Cami=|Tüfekçi Cami=|Tüfekçi Orta=
+99563	Yenicami Mah.	Değirmen~|Gazeno=|Kirazlık=|Mezere~|T_6=|Yenicami=|Yenicami_b_1~|Yusuf Karakaş@
+156729	Yenice Mah.	Erikli=|Günebakan Merkez=|Küçük Kalanas=|Yenice Merkez=|Çikoşo=
+156731	Zincirlitaş Mah.	Abugam~|Ahmet Cansız~|Akköse Merkez=|Aksilisa@|Dursun Ali Kurt 1~|Dursun Ali Kurt@|Karşı Semt=|Lişo=|Yeşil~|Zincirlitaş Merkez=|Çamlık~
+156715	Çalışanlar Mah.	Doğan=|Düz=|Kazankıran=|Kuruçeşme=|Likofos=|Okul Ve Cami=|Okşahüstü=|Okşohoban=|Paleyas=|Tüfekçi Orta=|Yeni=|Yeni1=|Yenice Merkez=|Yeşiltepe=|Çalışanlar Cami=
+156717	Çayırbaşı Mah.	Akbulut=|Alt Kambo=|Fındık=|Keleşoğlu=|Mollaosman=|Orta=|Riziya Mevkii=|Taşçılar Merkez=|Topal=|Yığımlı=|Çayırbaşı Cami=|Üst Kambo=|Üst Tip=

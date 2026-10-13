@@ -1,0 +1,33 @@
+166617	Akyazı Mah.	Akyazı=|Cavlaklar=|Hekimhan Malatya@|İlyaslar=|Şatırlar=
+166627	Alican Mah.	Alican=|Hüsnepınarı=|Kavak=|Kızıldere=|Tenci=|Şillan=
+166635	Ambarcık Mah.	Ambarcık=|Malatya Keban@|Şevkiçiftliği=
+166639	Bahçelievler Mah.	Bahçelievler=|Şimşekler=
+166645	Balaban Mah.	Balaban=|Tuncel=|Yeniköy=
+166651	Bereketli Mah.	Bereketli=
+166655	Boyaca Mah.	Aşağı Boyaca=|Cendere=|Malatya Keban@|Yukarı Boyaca=|Çiftlik=
+166661	Boztepe Mah.	Boztepe=
+166671	Buzluk Mah.	Bayraktarlar=|Başpınar=|Boztepe_1=|Buzluk=|Gebenardı=|Gıznolar=|Hamitler=|Karayılanlar=|Kolyol=|Konak=|Kürtler=|Medik=|Muratlar=|Yılgın=|Zeynepoğlu=
+166667	Böğürtlen Mah.	Böğürtlen=
+166697	Dedekargın Mah.	Dedekargın=
+52034	Doğuş Mah.	Abdurrahman Serttaş@|Aşiret@|Baltacıbaşı@|Barış@|Belediye@|Cünütlük~|Dikmen@|Dogus Yenı Yol~|Doğuş Yeni Yol 15~|Doğuş Yeniyol 1~|Doğuş Yeniyol 10~|Doğuş Yeniyol 11~|Doğuş Yeniyol 12~|Doğuş Yeniyol 13~|Doğuş Yeniyol 14~|Doğuş Yeniyol 16~|Doğuş Yeniyol 17~|Doğuş Yeniyol 18~|Doğuş Yeniyol 19~|Doğuş Yeniyol 2~|Doğuş Yeniyol 20~|Doğuş Yeniyol 21~|Doğuş Yeniyol 22~|Doğuş Yeniyol 23~|Doğuş Yeniyol 24~|Doğuş Yeniyol 3~|Doğuş Yeniyol 4~|Doğuş Yeniyol 5~|Doğuş Yeniyol 6~|Doğuş Yeniyol 7~|Doğuş Yeniyol 9~|Doğuş Yeniyol18~|Güven@|Halep@|Halepçe@|Kanarya~|Karabaş=|Kurugöl_1~|Kuzey Çevreyolu@|Pazar~|Çevre Yolu@|Özgürlük@|Şafak@
+166587	Durucasu Mah.	1 Merkez~|1~|1.~|2 Pirinçli~|2~|2.~|3~|4~|Barış_1@|Cumhuriyet 1@|Cumhuriyet 1-~|Cumhuriyet@|Durucasu Cumhuriyet 1~|Durucasu~|Göçmen=|Gültepe@|Mehmet Tan=|Turgut Özal 1~|Turgut Özal 2~|Turgut Özal 3~|Turgut Özal 4~|Turgut Özal@|Turgut Özal Kanal Boyu@|Turgut Özal Kanal Boyu_1=|Turgut Özal Çıkmaz~|Yeniyol1~|Yeniyol10~|Yeniyol11~|Yeniyol12~|Yeniyol13~|Yeniyol14~|Yeniyol15~|Yeniyol17~|Yeniyol2~|Yeniyol3~|Yeniyol4~|Yeniyol5~|Yeniyol6~|Yeniyol7~|Yeniyol8~|Yeniyol9~|Yenıyol5~|Yıldırım@|Yıldırım Yıldırım=|Zafer@|Özdemirler 1~|Özdemirler 2~|Özdemirler@
+166709	Epreme Mah.	Bazolar=|Epreme=|Hacı Bekir Yaylası=|Kahsırak=|Kanlıdere=|İmolar=
+166721	Erecek Mah.	Dereevleri=|Erecek=|Kasımca Gölce Yanıkkavak=|Omukollar=|Söğütlü=|Yılmıklı=|Ören=|İbocuk=
+166703	Eğribük Mah.	Eğribük=
+166591	Fethiye Mah.	1 Nolu~|Akın~|Ardıç~|Atatürk@|Atatürk Hürriyet@|Aşağıtenci~|Aşık Veysel@|Bahçelievler_1~|Baykal~|Belediye@|Deniz~|Eylül~|Fidan~|Goncagül~|Gül_1~|Gülin~|Hakan~|Hazal~|Hüseyin Yıldırım@|Karanfil~|Kardelen~|Kayısı~|Kilim~|Kurtuluş@|Kılıç~|Lale~|Mehmet Kaya@|Menekşe~|Mengik~|Papatya~|Pınar_1~|Receptayyip Erdoğan%|Seren~|Seyfi Koryürek@|Sivas_2@|Temmuz~|Uğur Mumcu~|Varan~|Vatan_1~|Yasemin~|Yenıyol11~|Yenıyol12~|Yenıyol13~|Yenıyol14~|Yenıyol15~|Yenıyol16~|Yenıyol17~|Yenıyol18~|Yenıyol19~|Yenıyol25~|Yenıyol26~|Yenıyol28~|Yenıyol29~|Yenıyol33~|Yenıyol4~|Yenıyol6~|Yenıyol7~|Yenıyol9~|Zafer_1~|Zakkum~|Zambak~|Çağdaş~|Özlem~|Özyurt~|İsmet İnönü@|İstiklal@|Şölen~
+52035	Gayret Mah.	15 Temmuz Şehitler@|Belediye@|Cumhuriyet_2@|Demokrasi@|Doğuş Yeni Yol 15~|Gayret Yeniyol 1~|Gayret Yeniyol 10~|Gayret Yeniyol 11~|Gayret Yeniyol 6~|Gayret Yeniyol 7~|Gayret Yeniyol 8~|Gayret Yeniyol 9~|Gayret Yeniyol~|Gayret Yenyol 4~|Parklar~|Sivas_1=|Stad@|Vatan@|Yeniyol 2~|Yeniyol 3~|Çevreyolu@
+166733	Gövük Mah.	Afikler=|Alıklar=|Hacolar=|Sımolar=
+166743	Hamidiye Mah.	Hamidiye=
+166761	Karaca Mah.	Hekimhan Malatya@|Karaca=
+166789	Koşar Mah.	Koşar=
+166765	Kömüşhan Mah.	Kurugöl=|Kömüşhan=
+166769	Mısırdere Mah.	Mısırdere=|Paşolar=|Tomolar=
+166775	Sadıklı Mah.	Sadıklı=
+166779	Sinanlı Mah.	9.yedeği D.kanlı=|Cihanbey=|Kara Mehmet=|Kumtepe=|Salman Yurdu=|Sinanlı=
+166781	Sürür Mah.	Buğdaylar~|Sürür=
+166783	Tahtalı Mah.	Hacıdamı=|Kıssık=|Tahtalı=|Uzunçayır=|Örü=|Şenevler=
+166787	Tecirli Mah.	Tecirli=
+52036	Yeni Mah.	6~|Abdurrahman Serttaş@|Bahçelievler=|Beydağı@|Demiryolu=|Doğu~|Düzeltme~|Fırat@|Gövük@|Gül~|Hekim1~|Hekim2~|Hidayet@|Kanal Altı=|Kanal Boyu~|Lise@|Malatya@|Malatya Keban@|Millet@|Mimar Sinan@|Pınar@|Sivas@|Yeni Bahçelievler=|Yeni Yeniyol 1~|Yeni Yeniyol 10~|Yeni Yeniyol 11~|Yeni Yeniyol 12~|Yeni Yeniyol 14~|Yeni Yeniyol 16~|Yeni Yeniyol 17~|Yeni Yeniyol 19=|Yeni Yeniyol 3~|Yeni Yeniyol 4~|Yeni Yeniyol 5~|Yeni Yeniyol 6~|Yeni Yeniyol 7~|Yeni Yeniyol 8~|Yeni Yeniyol 9~|Yeni Yeniyol13~|Yenıyol2~|Ziraat~|Çiflik=|Çolaklar=|İstasyon@|Şeker~
+166687	Çavuş Mah.	Çavuş=
+166693	Çivril Mah.	Çivril=
+166747	İriağaç Mah.	Akarça=|Elgit=|Haladin=|Körpınar=|Oluklu=|Sakızlık=|Yoğun Sakız=|Çorak=|Ünür=|İriağaç=|İydeli=

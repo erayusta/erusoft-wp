@@ -1,0 +1,80 @@
+89269	Akbenli Köyü	 Köy$
+89270	Akbucak Köyü	 Köy$
+89306	Akçadam Köyü	 Köy$
+89307	Alembey Köyü	 Köy$
+89271	Alifakılı Köyü	 Köy$
+89272	Arpalık Köyü	 Köy$
+89308	Azapbaşılı Köyü	 Köy$
+80830	Babayağmur Köyü, Bahçelievler Mevkii	Atatürk~|Cumhuriyet~|Hoca Ahmet Yesevi~|Metin~|Vatan~|İlçe~
+80829	Babayağmur Köyü, Bağlarbaşı Mevkii	Doğan~|Esen~|Gazi~|Mehmet Kadıoğlu~|Merkez~|Vatan Kümesi~|Vatan~|Çamlık~|Ömer Eliaçık~|İlçe~|İsmayil Melez~
+80831	Babayağmur Köyü, Karşıyaka Mevkii	Atatürk~|Bayır~|Gazi~|Mehmet Kadıoğlu~|Varol~|Çamlık~|Ömer Eliaçık~|Şht.hakan Dikmen~
+80832	Babayağmur Köyü, Yeni Mevkii	Atatürk~|Belediye~|Gazi Osman Özeloğlu~|Gazi~|Gençlik~|Maarif~|Varol~|Vatan~|Yamaç~|Ömer Eliaçık~|Şht.hakan Dikmen~
+80814	Bahçelievler Mah.	253 Nolu~|254 Nolu~|256 Nolu~|258 Nolu~|260 Nolu~|261 Nolu~|263 Nolu~|269~|277 Nolu~|279 Nolu~|281 Nolu~|286 Nolu~|287 Nolu~|293 Nolu~|294 Nolu~|296~|298 Nolu~|305 Nolu~|306 Nolu~|307~|308 Nolu~|310 Nolu~|466 Nolu~|Alperenler@|Baran@|Nevzat Şener Bulvarı%|Şehit Mehmet Yücelsoy~|Şehitler%
+89274	Baraklı Köyü	 Köy$
+80815	Battalgazi Mah.	100 Nolu~|102 Nolu~|105 Nolu~|107 Nolu~|108 Nolu~|109 Nolu~|110 Nolu~|113 Nolu~|114 Nolu~|115 Nolu~|116 Nolu~|117~|118 Nolu~|119 Nolu~|123 Nolu~|124 Nolu~|126~|130 Nolu~|140 Nolu~|143 Nolu~|144~|163 Nolu~|164 Nolu~|165 Nolu~|166 Nolu~|170 Nolu~|171 Nolu~|172~|177 Nolu~|75 Nolu~|77 Nolu~|79 Nolu~|83 Nolu~|84 Nolu~|85 Nolu~|86 Nolu~|87 Nolu~|88~|89 Nolu~|95 Nolu~|96 Nolu~|98 Nolu~|99 Nolu~|Ahmet Yesevi@|Beştepe Camii~|Ilısu Bağları=|Nevzat Şener Bulvarı%|Ulubatlı Hasan@|Ünlü Türk@|Şehit Pilot Mustafa Danış@
+89273	Bağlıca Köyü	 Köy$
+89275	Bebekköy Köyü	 Köy$
+80828	Beyazıt Mah.	533 Nolu~|534 Nolu~|537 Nolu~|539~|542 Nolu~|546 Nolu~|548 Nolu~|549 Nolu~|551 Nolu~|556 Nolu~|557 Nolu~|564~|565~|566~|571 Nolu~|611~|Beyazıt Küme Evleri=|Cumhuriyet@|Hacılar@|Mevlana~|Sarıtaş~|Yıldız~
+89276	Boyalık Köyü	 Köy$
+89277	Burunkışla Köyü	 Köy$
+89309	Büyükçalağıl Köyü	 Köy$
+80816	Cumhuriyet Mah.	1501 Nolu~|492 Nolu~|494 Nolu~|495 Nolu~|502 Nolu~|513 Nolu~|Baran@|Cumhuriyet@|Gazi Ahmet Zali~|Güneş~|Mevlana~|Sarıtaş~|Yıldız~
+89281	Deredoğan Köyü	 Köy$
+89310	Derekaplancı Köyü	 Köy$
+89282	Doğansaray Köyü	 Köy$
+89311	Emirbey Köyü	 Köy$
+89312	Erbek Köyü	 Köy$
+80817	Fatih Mah.	1272~|1274 Nolu~|1276 Nolu~|1277 Nolu~|1278~|1280~|1282 Nolu~|1289 Nolu~|1290~|1292 Nolu-~|1297 Nolu~|1300~|1301~|1302 Nolu~|1305~|1306 Nolu~|1307~|1308~|1309 Nolu~|1310 Nolu~|1328 Nolu~|1332~|1344 Nolu~|1345 Nolu~|1346 Nolu~|1349 Nolu~|1355 Nolu~|1427 Nolu~|1428 Nolu~|1429 Nolu~|1430 Nolu~|1436 Nolu~|Camii~|Doğan@|Doğan_1~|Nevzat Şener Bulvarı%|Şht. Ferhat Arınan@|Şht. Nacı Mert@
+80818	Fevzi Çakmak Mah.	128-~|182 Nolu~|183 Nolu~|184 Nolu~|186 Nolu~|189 Nolu~|190 Nolu~|191 Nolu~|196~|198~|199~|202 Nolu~|209 Nolu~|210 Nolu~|214 Nolu~|219 Nolu~|237~|245~|Nevzat Şener Bulvarı%|Ünlü Türk@
+89283	Gülpınar Köyü	 Köy$
+89313	Gündüzlü Köyü	 Köy$
+89305	Hasbek Köyü	 Köy$
+89314	Hisarbey Köyü	 Köy$|Hisarbey Köy$
+80819	Hürriyet Mah.	820 Nolu~|823 Nolu~|825 Nolu~|835~|891 Nolu~|919 Nolu~|926 Nolu~|968 Nolu~|969 Nolu~|971~|973 Nolu~|978 Nolu~|980~|982 Nolu~|983 Nolu~|986 Nolu~|988 Nolu~|Acıpınar@|Nevzat Şener Bulvarı%|Yavuz Selim@|Çayıralan Ahırlar=|Çayıralan@|Şht.vedat Gökbulut@
+89284	Ilısu Köyü	 Köy$
+89316	Kadıgüllü Köyü	 Köy$
+89286	Kadılı Köyü	 Köy$
+80821	Kaplıca Mah.	466 Nolu~|467~|468 Nolu~|469 Nolu~|471 Nolu~|472 Nolu~|475 Nolu~|479 Nolu~|480 Nolu~|485 Nolu~|Alperenler@|Atatürk@|Baran@|Hacılar@|Hastane@|Hüseyin Aytekin@|Kaplıca Camii~|Lise@|Mimar Sinan@|Mimar Sinan_1~|Mting Alanı~|Nevzat Şener Bulvarı%|Okullar~|Rasim Karslıoğlu@|Sarıtaş~|Yıldız~|Ömer Konur~|Şht. Metin Aslan@|Şht. Sinan Yurtkulu@
+89287	Karabacak Köyü	 Köy$
+89288	Karacalar Köyü	 Köy$
+89317	Karaelli Köyü	 Köy$
+89289	Karahallı Köyü	 Köy$
+80833	Karayakup Beldesi, Karayakup Mah.	1501 Nolu~|Arnavut~|Bağlar@|Bağlar/1~|Bağlar/2~|Bağlar/3~|Bağlar/4~|Belediye%|Büklüm~|Büklüm/1~|Dutluk~|Hacı Osman~|Karaman~|Karayakup Sarıkaya Yolu=|Küme Ahırlar=|Sarıkaya@|Selanik@|Taşkın~|Yozgat@|Yozgat/1~|Yozgat/2~|Ziya Bey@|Ziyabey/1~|Ziyabey/2~|Ziyabey/4~|Çakırcı@
+80834	Karayakup Beldesi, Terzili Mah.	Ankara@|Ankara/1~|Bahçeli~|Bahçeli/1~|Bahçeli/2~|Belediye%|Camii~|Camii/1~|Hamam Yolu@|Kahraman~|Kahraman/1~|Kanak@|Koke Çeşmesi~|Kumluk~|Sarıkaya Sorgun Yolu=|Serçe~|Serçe/1~|Talimhane~|Tarım@|Turist@|Ziraat/1~|Ziraat/2~|Ziraat/3~|Zıraat@|Çınar~|Ülkü~
+140679	Karayakup Beldesi, Çıkrıkçı Mah.	Arpalık=|Büyükçalağıl=|Koçağız=|Küme Ahırlar=|Çıkrıkçı~|Çıkrıkçı/1~|Çıkrıkçı/11~|Çıkrıkçı/12~|Çıkrıkçı/13~|Çıkrıkçı/14~|Çıkrıkçı/15~|Çıkrıkçı/2~|Çıkrıkçı/3~|Çıkrıkçı/4~|Çıkrıkçı/5~|Çıkrıkçı/6~|Çıkrıkçı/7~|Çıkrıkçı/8~|Çıkrıkçı/9~
+89290	Kargalık Köyü	 Köy$
+80822	Karşıyaka Mah.	321 Nolu~|322 Nolu~|325 Nolu~|326 N0lu~|330 Nolu~|333~|334 Nolu~|338 Nolu~|339 Nolu~|344 Nolu~|346 Nolu~|348 Nolu~|349 Nolu~|350 Nolu~|352 Nolu~|359-~|380-~|Alpaslan~|Alperenler@|Baran@|Boğaziçi@|H. Yusuf~|Ilıca Kent@|Yunus Emre@|Yıldırım~|Şehitler%
+80823	Kayapınar Mah.	1057 Nolu~|1061 Nolu~|1073 Nolu~|1076~|1078 Nolu~|1080 Nolu~|1081 Nolu~|1089 Nolu~|1117 Nolu~|1119 Nolu~|1121 Nolu~|Kayapınar@|Kyapınar Ahırlar-=|Nevzat Şener Bulvarı%|Tepebaşı@|Ziya Gökalp@|Şht.ersoy Öcal@
+80824	Kazım Karabekir Mah.	1114 Nolu-~|1137 Nolu~|1159 Nolu~|1161 Nolu~|1162 Nolu~|1163 Nolu~|1165 Nolu~|1166 Nolu~|1167 Nolu~|1168 Nolu~|1175 Nolu~|1176 Nolu~|1185 Nolu~|1201~|1204 Nolu~|1212 Nolu~|1215 Nolu~|1228 Nolu~|1229 Nolu~|1232 Nolu~|1237 Nolu~|1238 Nolu~|1239 Nolu-~|1245 Nolu~|1253~|1259~|1263 Nolu~|Nevzat Şener Bulvarı%|Şht. Ferhat Arınan@|Şht.ersoy Öcal@
+89318	Kemallı Köyü	 Köy$
+89291	Kerpiçcik Köyü	 Köy$
+89293	Konurlu Köyü	 Köy$
+89319	Koçak Köyü	 Köy$
+89292	Koçcağız Köyü	 Köy$
+183874	Köprücek Mah.	Köprücek~
+89296	Kürkcü Köyü	 Köy$
+89295	Küçükçalağıl Köyü	 Köy$
+89320	Mescitli Köyü	 Köy$
+80825	Osman Gazi Mah.	1500 Nolu~|618 Nolu~|619 Nolu~|624~|625 Nolu~|626 Nolu~|627~|628 Nolu~|633 Nolu-~|638 Nolu~|641 Nolu~|643 Nolu~|644 Nolu~|645 Nolu~|648 Nolu~|650 Nolu~|651~|653 Nolu~|655 Nolu~|656 Nolu~|668 Nolu~|670~|Hacılar@|Hastane@|Sarıtaş~|Yıldız~|Çamlık~
+89297	Pınarkaya Köyü	 Köy$
+89321	Ramadanlı Köyü	 Köy$
+89298	Selimli Köyü	 Köy$
+89299	Söylemez Köyü	 Köy$
+89300	Tepedoğan Köyü	 Köy$
+89301	Tomarcahüyüğü Köyü	 Köy$
+89322	Topaktaş Köyü	 Köy$
+89302	Toprakpınar Köyü	 Köy$
+89303	Yahyalı Köyü	 Köy$
+89304	Yaylagül Köyü	 Köy$
+89324	Yazıkaplancı Köyü	 Köy$
+80827	Yenidoğan Mah.	1~|10 Nolu~|11~|12 Nolu~|1282-~|13 Nolu~|1320 Nolu-~|15 Nolu~|16 Nolu~|17 Nolu~|18 Nolu~|19 Nolu~|21 Nolu~|23 Nolu~|28 Nolu~|3~|30 Nolu~|31 Nolu~|32 Nolu~|33 Nolu~|38~|4 Nolu~|42 Nolu~|48~|5 Nolu~|52 Nolu~|59 Nolu~|6 Nolu~|60 Nolu~|61 Nolu~|62~|65~|66 Nolu~|69~|7 Nolu~|8 Nolu~|9~|Ahmet Yesevi@|Bağlarbaşı~|Doğan@|Nevzat Şener Bulvarı%|Okul~|Şht.hasan Basri Kayaaltı@
+80835	Yukarısarıkaya Köyü, Fatih Mevkii	Acem~|Adnan Menderes~|Ahmet Yesevi~|Atatürk~|Barbaros~|Bozok~|Bulut~|Cumhuriyet~|Doğan~|Fetih~|Fevzi Çakmak~|Hamik~|Kanuni~|Karabay~|Karanfil~|Kazım Karabekir~|Kılıç~|Lale~|M.akif Ersoy~|Menekşe~|Okul~|Poyrazlı~|Saray~|Susam~|Yeşiltepe~|Yiğit~|İnönü~|Şehit Nurullah Buldu~
+80836	Yukarısarıkaya Köyü, Turgut Özal Mevkii	Akarca Yolu~|Alirıza Böyük~|Ata~|Atatürk~|Avcılar~|Bahçeli Evler~|Bağlarbaşı~|Bostanbaşı~|Cumhuriyet~|Derya~|Evren~|Fevzi Çakmak~|Gül~|Hacınazir~|Kayalar~|M.akif Ersoy~|Malazgirt~|Mimar~|Okul~|Sarmaşık~|Siteler~|Umut~|Yavuz~|Yayla~|Yunus Emre~|Zümrüt~|Çapanoğlu~|İstiklal~
+89278	Çatak Köyü	 Köy$
+89280	Çokumeşme Köyü	 Köy$
+89323	Ürkütlü Köyü	 Köy$
+89285	İnevi Köyü	 Köy$
+89315	İnkışla Celalhüyüğü Köyü	 Köy$
+139761	İnkışla Celalhüyüğü Köyü, Celalhüyüğü Mevkii	 Köy$
+80820	İstiklal Mah.	1.etap Toki Evleri=|359 Nolu~|360~|363 Nolu~|365 Nolu~|366 Nolu~|368 Nolu~|371 Nolu~|375 Nolu~|377 Nolu~|390~|392~|393 Nolu~|397 Nolu~|398~|399 Nolu~|400 Nolu~|401~|403 Nolu~|418 Nolu~|429~|430 Nolu~|431 Nolu~|432 Nolu~|434~|439~|445 Nolu~|453 Nolu~|Baran@|Ilıca Kent@|Sera Alanı=|Yunus Emre@|Şehit Ali Ergen~|Şehit Erhan Ülkü~|Şehitler%
+80826	Şekerpınar Mah.	673 Nolu~|674 Nolu~|675 Nolu~|678 Nolu~|679 Nolu~|680 Nolu~|681 Nolu~|683~|684 Nolu~|685~|686 Nolu~|687 Nolu~|688 Nolu~|689 Nolu~|691~|692 Nolu~|693 Nolu~|699 Nolu~|705~|707~|713 Nolu~|717 Nolu~|718~|725 Nolu~|735 Nolu~|736 Nolu~|738 Nolu~|759 Nolu~|763~|765 Nolu~|766 Nolu~|780 Nolu~|784 Nolu~|785 Nolu~|786~|788 Nolu~|798 Nolu~|Abdülhamithan@|Acıpınar@|Hastane@|Nevzat Şener Bulvarı%|Çiğdem~|Şeker Pınar~|Şekerpınar Küme Ahırlar=|Şht. Sinan Yurtkulu@|Şht.vedat Gökbulut@

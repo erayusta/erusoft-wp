@@ -1,0 +1,56 @@
+194281	Ahmetler Mah.	Ahmetler=|Birlik=|Göldü=
+194283	Akpınar Mah.	Akpınar=|Dibektaşı=|Girne=|Manastır=|Polat=|Zeybek=
+194285	Altınoluk Mah.	Altınoluk=|Bağırsakderesi=|Maviler=|Pınarlar=|Saraçlar=|Çavdarlar=
+194287	Arkacılar Mah.	Arkacılar=|Değirmenönü=|Okkataşı=|Sasallı=|Ödemiş Kiraz Yolu@
+194289	Avunduruk Mah.	Avunduruk=
+194291	Aydoğdu Mah.	Aydoğdu=|Cevizdalları=|Düzova=|Kocaçınarlar=
+194293	Bahçearası Mah.	Bahçeli=|Demirci Haliller=|Eskiyurt=|Fatih=|Zangallar=|Çamarası=
+194295	Başaran Mah.	Başaran=|Başova=|Bozalan=|Erenler=|Yeşilyurt=
+194297	Ceritler Mah.	Gölbaşı=|Kocaceritler=|Sülüklü=|Yörükler=
+194299	Cevizli Mah.	Alimler=|Askerler=|Bal Yakası=|Bal Yeri=|Bostan Yeri=|Cevizli=|Hüseyin Keli=|Yamanlar=
+41483	Cumhuriyet Mah.	1.ara~|2.ara~|3.ara~|Akdeniz@|Ali Kaptan@|Ambar Önü~|Ambar Önü Çıkmazı~|Atatürk@|Aykan~|Bahçe~|Bahçe Çıkmazı~|Belediye~|Bir Eylül~|Cami~|Dumlupınar~|Ege~|Emin Kaymak@|Eski Pazar~|Gümüşsuyu@|Hancı~|Hasan Tahsin@|Hükümet@|Hükümet Çıkmazı~|Keles~|Koç~|Kubilay~|Kurtuluş@|M.kıvanç~|Mimar Sinan=|Musa Bey~|Nergiz~|Pazar~|Sabit Arlı@|Sağlık~|Sebahhattin Ener~|Semerciler~|Sevgi~|Sümbül~|Turan~|Umut~|Uysal~|Yasemin~|Zafer~|Çatal~|Çavuş~|Çınar~|Özçınar~|İnönü@
+194311	Dokuzlar Mah.	Ayrıklı=|Bozoklar=|Dokuzlar=|Güvenç=
+194309	Doğancılar Mah.	Ayvazcılar=|Değirmenaltı=|Doğancı=|Doğancılar=|Gürgen=|Kayadibi=|Kocahasanlar=|Kurudere=|Oyuk Kıran=
+194313	Emenler Mah.	Emenler=|Karşıyaka=|Kazıkalan=|Omanlar=
+194315	Gedik Mah.	Dutludere=|Katrandere=|Merkez=
+194317	Haliller Mah.	Akkeçili=|Davulcular=|Haliller=|Kırhüseyinler=|Makuflar=|Yeşilova=|Çakıcı=
+194319	Hisar Mah.	Kocahisar=|Pınar~|Turna~
+194323	Kaleköy Mah.	Akıncılar=|Kaleköy=|Uzunova=
+194325	Karabağ Mah.	Karabağ=|Seki=|Tütüzler=|İskan=
+194327	Karabulu Mah.	Armutlu=|Irmak=|Karabulu=|Yedievler=|Çakıcılar=|İmamlar=
+194329	Karaburç Mah.	Akçapınar=|Bayramtepe=|Bağarası=|Karaboğaz=|Karaburç=|Palamut Arası=|Sakarya=|Sarıyer=|Sınırbaşı=|Taştepe=|Yukarı Yıkık Han=|Çamgeçidi=
+194331	Karaman Mah.	Değirmenburnu=|Karaman=|Köy Civarı=
+194333	Kibar Mah.	Kibar=|Musullar=
+41485	Kırköy Mah.	2.yeşillik~|3.yeşillik~|8.bahar~|Gülmez~|Gün~|Karhan~|Kiraz~|Koca Mustafa~|Kırköy~|Mehmet Akif Ersoy@|Mehmet Niğde@|Necip Fazıl@|Pınar~|Sardunya~|Topraklık=|Turna~|Yeğen~|Zambak~|Çatmacı~|Çomuk~|Özdeveci~|Özen~
+194335	Mavidere Mah.	Kozağaç=|Mavidere=|Yeni=|Yukarı Konak=
+194337	Mersinlidere Mah.	Garipler=|Kocakuyu=|Körkuyu=|Mersinlidere=
+194339	Olgunlar Mah.	Avgan=|Ceritler=|Gedik=|Hacılar=|Olgunlar=
+194341	Ovacık Mah.	Akalan=|Ayderesi=|Elmaderesi=|Eşşekderesi=|Mercanyurdu=|Ovacık=|Çamlıca=
+194347	Pınarbaşı Mah.	Darcan=|Hacıaliler=|Pınarbaşı=
+194351	Sarıkaya Mah.	Cenikli=|Değirmenyanı=|Merge=|Sarıkaya=|Tarlabaşı=
+194353	Sarısu Mah.	Eğridere=|Sarısu=
+194349	Saçlı Mah.	Arpaderesi=|Işıkkırı=|Karabağ=|Saçlı=|Tütüzler=
+194357	Solaklar Mah.	Hacıbiberler=|Hatıplar=|Karayavrular=|Kezban=|Koçkıran=|Recepler=|Sarıimamlar=|Solaklar=|Çavuşlar=
+194359	Suludere Mah.	Cevizdalları=|Karabağlar=|Kocadere=|Kocaçınarlar=|Musluk=|Suludere=|Yukarı Akkavaklar=
+194355	Sırımlı Mah.	Cıngıllar=|Değirmen Deresi=|Dümbüldek=|Göçmen=|Sırımlı=
+194363	Taşlıyatak Mah.	Cebeciler=|Demirayaklar=|Dervişler=|Kırmustafalar=|Mollalar=|Taşlıyatak=
+194365	Tekbıçaklar Mah.	Aktaş=|Derebaşı=|Tekbıçaklar=
+194367	Tumbullar Mah.	Aylarbeleni=|Dutlarderesi=|Kaledibi=|Tumbullar=
+194369	Umurcalı Mah.	Bahçearası=|Gölcük=|Gürova=|Kemer=|Umurcalı=|Yeniyol=|Yıkık Han=|Çakaltepe=
+194371	Umurlu Mah.	Bağalanı=|Franşa=|Hasan Hüseyin=|Kahveönü=|Melek Alanı=|Sağlaşık=|Umurlu=|Çal Dağı=
+194373	Uzunköy Mah.	Kurtalan=|Taşlıtarla=|Uzunköy=
+194375	Veliler Mah.	Işıkkırı=|Karabağ=|Ulu Veliler=
+194377	Yağlar Mah.	Okkataşı=|Yayla=|Yağlar=|Çayır=|Ödemiş Kiraz Yolu@
+41486	Yeni Mah.	1~|1 Çıkmazı~|1.bahar~|1.güney~|1.güney Çıkmazı~|1.mesir~|1.yeşillik~|10~|11~|12~|13~|14~|15~|17~|19~|2~|2.bahar~|2.güney Çıkmazı~|2.mesir~|2.yeşillik~|21~|23~|3~|3.bahar~|3.mesir~|4~|4.bahar~|4.mesir~|5~|5.bahar~|6~|6.bahar~|7~|7.bahar~|8~|8.bahar~|9~|Demokrasi~|Dere~|Ermeral~|Esnaf~|Geçit~|Gökçen~|Gün~|Güney~|Karanfil~|Kardelen~|Küçük Menderes~|Kırköy~|Manolya~|Mehmet Niğde@|Menderes@|Menekşe~|Mesir~|Nene Hatun=|Park~|Pınar~|Sanayi~|Turgut Reis~|Çakabey~|Özmen~|İbni Sina~|Şehit Kubilay~
+194379	Yeniköy Mah.	Gölcük=|Kırlıova=|Uluçay=|Yeniköy=|Çınarlı=
+194381	Yenişehir Mah.	Kocaova=|Yenişehir=|İşmeci=
+194383	Yeşildere Mah.	Ahmettepesi=|Bayraklı=|Kabaklı=|Kaplan=|Kazallı=|Keşkek=|Sapadere=|Yeşildere=|Çamur=
+194301	Çanakçı Mah.	Bayır=|Çanakçı=|İğdelce=
+194303	Çatak Mah.	Akçay=|Bahçeburun=|Camiönü=|Durbalı=|Taşlıçukur=|Veliler=|Çatak=|Öküzdere=
+194305	Çayağzı Mah.	Değirmendere=|Efeler=|Gelinalan=|Gökharman=|Karahayıt=|Kemercik=|Köseoğlu Suyu=|Kızıltarla=|Sınırbaşı=|Taşlı Harman=|Tekke=|Topak Tepe=|Yarbaşı=|Yukarı Bağarası=|Yukarı Çayağzı=|Zeytinalan=|Çalı Tarla=|Çayağzı=|Çelebiler=
+194307	Çömlekçi Mah.	Akar=|Gözlübaba=|Ova=|Sergiyeri=|Taştepe=|Yukarı Yıkık Han=|Çömlekçi=|Şentürk=
+194345	Ören Mah.	Kavalcılar=|Küçükibrahimler=|Küçükören=|Ören=
+194343	Örencik Mah.	Avcılar=|Karaismeller=|Zeybekler=|Örencik=
+41484	İstiklal Mah.	1.bağlar~|1.gül~|2.abdülhamithan~|2.bağlar~|2.gül~|2.güneş~|2.güneş Çıkmazı~|3.güneş~|4.güneş~|Akasya~|Akçaylı~|Akşemsettin=|Alabıçak~|Altın~|Altın Tarla~|Arıkbaşı~|Asaf Hancı~|Atatürk@|Bal~|Bağlar~|Beyazıt~|Beyazıt Çıkmazı~|Dar~|Derin~|Ertuğrul Gazi~|Fatih Sultan Mehmet@|Fatih Sultan Mehmet Çıkmazı~|Gümüş~|Gündoğdu~|Hacı Mahmut~|Hacı Mahmut Çıkmazı~|Hancıoğlu~|Hastane~|Hisar~|Hoca Ahmet Yesevi~|Hoca İbrahim Efendi@|Hocazade~|Huzur~|Ihlamur~|Kerem~|Köprübaşı@|Köprübaşı Çıkmazı~|Kültür~|Kültürpark@|Kıvrık~|Lale~|Maden~|Mareşal Fevzi Çakmak@|Mevlana=|Orhan Gazi~|Papatya~|Patlangıç~|Sabit Arlı@|Sarmaşık~|Sepetçi Tahir~|Sevin~|Söğüt~|Talat Paşa~|Türkmen~|Yenigün~|Yunus Emre~|Yıldırım~|Zeytin~|Ziya Gökalp@|Çolak İbrahim@|Önder~|İnce~|Şerbetçi~|Şimşek~|Şükrü Hoca~
+194321	İğdeli Mah.	Acizler=|Araplar=|Azmanlar=|Damlar=|Gizirler=|Kervan=|Kocaibrahimler=|Kırmustafalar=|Molla=|Osmanlar=|Çavuşdüzü=|İğdeli=
+194361	Şemsiler Mah.	Akkavaklar=|Kemer=|Mandal=|Yeniyol=|Şemsiler=

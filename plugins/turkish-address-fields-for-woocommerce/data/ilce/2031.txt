@@ -1,0 +1,90 @@
+98010	Altunköy Köyü, Merkez Mevkii	Merkez Karaburun=
+98013	Altunköy Köyü, Merkezyayla Yayla Evleri	Merkezyayla=
+98011	Altunköy Köyü, Oflu Mevkii	Oflu=
+98012	Altunköy Köyü, İkizler Yayla Evleri	İkizler=
+98016	Bıçkıyanı Köyü, Bektaşlı Mevkii	Bektaşlı=
+98017	Bıçkıyanı Köyü, Hamzalı Mevkii	Serkan Acar=
+98014	Bıçkıyanı Köyü, Kuzumlu Mevkii	Kuzumlu=
+98015	Bıçkıyanı Köyü, Merkez Mevkii	Merkez=
+98050	Darıyeri Yörükler Köyü, 28 Evler Mevkii	141.~|28 Evler=|Anadolu Otoyolu@|Düzce Çevre Yolu@|Kaynaşlı Bağlantısı@
+98049	Darıyeri Yörükler Köyü, Merkez Mevkii	Anadolu Otoyolu@|Kaynaşlı Bağlantısı@|Merkez=|Prof.dr.ahmet Akyürek@|Yavuz Güvendi~
+98032	Darıyeribakacak Köyü, Başyazıcıoğlu Dağ Evleri Mevkii	Köknar=
+98031	Darıyeribakacak Köyü, D-100 Boludağı Karayolu Mevkii	D-100 Karayolu=
+98033	Darıyeribakacak Köyü, Merkez Mevkii	Merkez=
+98045	Darıyerihasanbey Köyü, D-100 Karayolu Mevkii	Bolu Dağı=|Düzce/bolu Yolu@
+98044	Darıyerihasanbey Köyü, Dereboyu Mevkii	Anadolu Otoyolu@|Dereboyu=
+98042	Darıyerihasanbey Köyü, Dip Mevkii	Anadolu Otoyolu@|Dip=|Dip~|Düzce/bolu Yolu@
+98034	Darıyerihasanbey Köyü, Elmalı Mevkii	Düzce/bolu Yolu@|Elmalı=|Garaj~|Hürriyet@|Sınır~|Yavuz Selim~
+98038	Darıyerihasanbey Köyü, Güldere Mevkii	Düzce/bolu Yolu@|Güldere=
+98036	Darıyerihasanbey Köyü, Hendanoğlu Mevkii	Düzce/bolu Yolu@|Hendanoğlu=
+98041	Darıyerihasanbey Köyü, Kulubeyanı Mevkii	Anadolu Otoyolu@|D-100 Karayolu=|Düzce/bolu Yolu@|Kulubeyanı=
+98043	Darıyerihasanbey Köyü, Merkez Mevkii	Düzce/bolu Yolu@|Elmalı=|Merkez=
+98040	Darıyerihasanbey Köyü, Meşelik Mevkii	Anadolu Otoyolu@|Meşelik=|Şirinevler1=
+98035	Darıyerihasanbey Köyü, Taşaltı Mevkii	Düzce/bolu Yolu@|Taşaltı=
+98037	Darıyerihasanbey Köyü, Şevki Mevkii	Yağcılar Bilal=|Şevki=
+98039	Darıyerihasanbey Köyü, Şirinevler Mevkii	Anadolu Otoyolu@|Garaj~|Şirinevler1=|Şirinevler1~|Şirinevler2~
+98047	Darıyerimengencik Köyü, Hacımehmet Mevkii	Hacımehmet=
+98048	Darıyerimengencik Köyü, Kahveci Mevkii	Kahveci=
+98046	Darıyerimengencik Köyü, Merkez Mevkii	Anadolu Otoyolu@|Merkez=
+98055	Dipsizgöl Köyü, Dere Mevkii	Dere=
+98054	Dipsizgöl Köyü, Doğantepe Mevkii	Doğantepe=
+98051	Dipsizgöl Köyü, Kültür Mevkii	Kültür=
+98056	Dipsizgöl Köyü, Merkez Mevkii	Merkez=
+98057	Dipsizgöl Köyü, Orta Mevkii	Kültür=|Orta=
+98052	Dipsizgöl Köyü, Sağlık Mevkii	Sağlık=
+98053	Dipsizgöl Köyü, Tekirsu Mevkii	Tekirsu=
+91235	Eskiköy Mah.	49.~|Atmaca~|Ağasar~|Güneş~|Kuzgun~|Orhan Şişman~|Palmiye~|Sardunya~|Tuta~|Türbe~|Yunus Emre~|Şimşek~
+98058	Fındıklı Köyü, Köyün Kendisi Mevkii	Fındıklı~|Köyün Kendisi=
+98061	Hacıazizler Köyü, Alt Mevkii	Alt=
+98059	Hacıazizler Köyü, Merkez Mevkii	Merkez=
+98060	Hacıazizler Köyü, Orta Mevkii	Orta=
+91236	Karaçalı Mah.	1. Sanayi Sitesi=|2. Sanayi Sitesi=|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|3. Sanayi Sitesi=|30.~|31.~|33.~|34.~|35.~|36.~|37.~|39.~|4. Sanayi Sitesi=|40.~|41.~|5. Sanayi Sitesi=|59.~|6. Sanayi Sitesi~|60.~|61.~|62.~|63.~|65.~|66.~|69.~|71.~|72.~|Adnan Menderes@|Akasya~|Altın~|Ağırtaş~|Bahar~|Bağlar~|Birol Sakaoğlu~|Bolu@|Bülbül~|Defne~|Doğan~|Düzce@|Fatih~|Gülbahar~|Gürsu~|Güven~|Kahraman~|Karaca~|Kazım Karabekir~|Kent~|Kurtuluş~|Meltem~|Millet@|Narin~|Oğuz~|Petekli~|Prof.dr.ahmet Akyürek@|Rüzgar~|Sabri Ünal~|Saka~|Seher~|Serhat~|Tavak Köyü Yolu~|Tepeli~|Timur~|Turna~|Yavuz Güvendi~|Yavuz~|Yeni~|Yiğit~|Zümrüt~|Çeşme~|Çiçek~|Ömer Halisdemir~|Ömür~|Şekerci~
+91237	Kumluca Mah.	11.~|12.~|73.~|74.~|75.~|Acar~|Ankara@|Bayrak~|Bektaş~|Büyükdere~|Ceviz~|Damla~|Fulya~|Garaj~|Göksel Dik~|Güner~|Hacı Azizler~|Hafız~|Hancı~|Hilmi Çiçek~|Hürriyet@|Kayalar~|Kumlu~|Kumru~|Manolya~|Mevlana~|Mezarlık~|Nur~|Pınar~|Sınır~|Turgut Özal@|Ufuk~|Uçar~|Yaman~|Yavuz Selim~|Yıldırım Beyazıt~|Yıldırım~|Zambak~|Üzüm~|İsmet Paşa@|Şehit Kazım Çillioğlu~|Şehitlik~
+91238	Merkez Mah.	14.~|15 Temmuz Şehitler@|15.~|16.~|70.~|77.~|78.~|79.~|80.~|82.@|83.~|84.~|97.~|Akyüz~|Ankara@|Atatürk@|Barış~|Begonya~|Bulvar@|Ceviz~|Duman~|Eski Belediye Myd.|Fethi Sekin~|Garaj~|Gazi@|Geredeli~|Gül~|Gülşen~|Gürsu~|Hürriyet@|Işık~|Kahveci~|Kanarya~|Karanfil~|Kaya~|Keklik~|Kültür@|Lale~|Martı~|Mavi~|Mehmet Onbaşı~|Menekşe~|Muhsin Yazıcıoğlu@|Necla Ceyhan~|Necmettin Erbakan@|Papatya~|Prof.dr.ahmet Akyürek@|Sayar~|Sağlık~|Site~|Sümbül~|Turgut Özal@|Vatan@|Yoncalık~|Çillioğlu~|Çiğdem~|Ömür~|Özer~|İsmet Paşa@|İstanbul@|Şirin~
+98064	Muratbey Köyü, Merkez Mevkii	Merkez=|Veyselusta=
+98062	Muratbey Köyü, Velioğlu Aliosman Mevkii	Velioğlu Aliosman=|Veyselusta=
+98063	Muratbey Köyü, Yağcılar Bilal Mevkii	Yağcılar Bilal=
+91239	Sarıyer Mah.	15 Temmuz Şehitler@|17.~|18.~|19.~|20.~|21.~|55.~|56.~|85.~|86.~|87.~|88.~|89.~|90.~|Arslan~|Aydın~|Bahçeli~|Derya~|Ertuğrulgazi~|Fındık~|Güvendi~|Huzur~|Ihlamur~|Irmak~|Kaplan~|Kaya~|Korkmaz~|Köroğlu~|Kültür@|Lale~|Mimar Sinan~|Salih~|Sağlık~|Serçe~|Songül~|Tavak Köyü Yolu~|Toki~|Zafer~|Zeybek~|Çağlayan~|Ümit Dündar~|İstanbul@|Şahin~
+98067	Sarıçökek Köyü, Degirmenyanı Mevkii	Değirmenyanı=
+98066	Sarıçökek Köyü, Düzormanı Mevkii	Anadolu Otoyolu@|Düzormanı=
+98065	Sarıçökek Köyü, Merkez Mevkii	Anadolu Otoyolu@|Merkez=
+98068	Sarıçökek Köyü, Tahtalık Mevkii	Anadolu Otoyolu@|Merkez=|Tahtalık=
+98069	Sarıçökek Köyü, Çillioğlu Mevkii	Anadolu Otoyolu@|Sarıçökek~
+98072	Sazköy Köyü, Güney Mevkii	Güney=
+98071	Sazköy Köyü, Merkez Mevkii	Merkez=
+98073	Tavak Köyü, Merkez Mevkii	Merkez=
+98077	Tavak Köyü, Onbaşı Mevkii	Onbaşı=
+98074	Tavak Köyü, Osmançavuş Mevkii	Osmançavuş=
+98076	Tavak Köyü, Veyselusta Mevkii	Veyselusta=
+98075	Tavak Köyü, Çimenlikoruluk Mevkii	Çimenlikoruluk=
+98086	Yeniyurt Köyü, Düzgöstek Mevkii	Düzgöstek=
+98090	Yeniyurt Köyü, Eğreltili Yayla Evleri	Eğreltili=
+98085	Yeniyurt Köyü, Karşı Mevkii	Karşı=
+98089	Yeniyurt Köyü, Kütüklü Yayla Evleri	Kütüklü=
+98088	Yeniyurt Köyü, Mehmetpınar Mevkii	Mehmetpınar=
+98083	Yeniyurt Köyü, Merkez Mevkii	Merkez=
+98087	Yeniyurt Köyü, Tütekyatak Mevkii	Tütekyatak=
+98084	Yeniyurt Köyü, İlhanlı Mevkii	İlhanlı=
+98091	Yeşiltepe Köyü, Merkez Mevkii	Merkez=
+98093	Yeşiltepe Köyü, Soğuksu Mevkii	Merkez=|Sağlık=|Soğuksu=
+98092	Yeşiltepe Köyü, Çaykara Mevkii	Çaykara=
+98018	Çakırsayvan Köyü	Çakırsayvan=
+98019	Çakırsayvan Köyü, Sinekli Yayla Evleri	Sinekli=
+98022	Çamlıca Köyü, Dere Mevkii	Dere=
+98021	Çamlıca Köyü, Koytaklı Mevkii	Koytaklı=
+98020	Çamlıca Köyü, Merkez Mevkii	Merkez=
+98024	Çamoluk Köyü, Bülbüldere Mevkii	Bülbüldere=
+98023	Çamoluk Köyü, Merkez Mevkii	Çamoluk Merkez=
+98027	Çatalçam Köyü, Alt Mevkii	Alt=|Üst=
+98028	Çatalçam Köyü, Fındıklı Mevkii	Fındıklı=
+98029	Çatalçam Köyü, Merkez Mevkii	Merkez=
+98030	Çatalçam Köyü, Sakarca Yayla Evleri	Sakarca=
+98026	Çatalçam Köyü, Çamlık Mevkii	Çamlık=
+98025	Çatalçam Köyü, Üst Mevkii	Üst=
+91234	Çele Mah.	1.~|2.~|205.~|3.~|38.~|4.~|42.~|44.~|45.~|46.~|47.~|48.~|5.~|50.~|51.~|52.~|53.~|54.~|57.~|6.~|64.~|67.~|68.~|7.~|8.~|81.~|9.~|Adnan Menderes@|Arapoğlu~|Dikmen~|Doğan~|Düzce@|Esentepe~|Fazilet~|Geyik~|Güvercin~|Kartal~|Nezi~|Sağlam~|Turna~|Türk~|Villa~|Öztürk~
+98081	Üçköprü Köyü, Fatih Mevkii	102.~|108.~|109.~|110.~|111.~|112.~|113.~|142.~|143.~|144.~|Anadolu Otoyolu@|Fındıklı~|Gürcüler~|Yıldız~
+98080	Üçköprü Köyü, Fenerbahçe Mevkii	130.~|145.~|Anadolu Otoyolu@|D100 Kenarı~|Fener~
+98079	Üçköprü Köyü, Ufuk Mevkii	101.~|102.~|103.~|104.~|105.~|106.~|107.~|107/3~|110.~|147.~|148.~|149.~|150.~|151.~|Anadolu Otoyolu@|Arka~|Asma~|Dere~|Düzce Çevre Yolu@|Ziraatcı Mehmet~
+98078	Üçköprü Köyü, Yenidoğan Mevkii	114.~|115.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|137.~|141.~|152.~|153.~|154.~|Düzce Çevre Yolu@|Yeni Evler~
+98082	Üçköprü Köyü, Şafak Mevkii	130.~|131.~|132.~|133.~|134.~|136.~|138.~|139.~|140.~|141.~|146.~|Düzce Çevre Yolu@
+91240	Şimşir Mah.	200.~|201.~|202.~|203.~|204.~|205.~|206.~|207.~|208.~|209.~|210.~|46.~|58.~|91.~|92.~|93.~|94.~|95.~|96.~|Anadolu Otoyolu@|Asar~|Batı~|Cumhuriyet@|Doğu~|Düzce@|Fındıklı~|Gürcüler~|Gürsel~|Kaynaşlı Bağlantısı@|Okul~|Petekli~|Terziler~|Yörüklerköyüyolu~|Zübeyde Hanım~

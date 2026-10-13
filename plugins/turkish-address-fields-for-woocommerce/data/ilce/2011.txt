@@ -1,0 +1,22 @@
+95488	Aktaş Köyü	Aktaş=
+95490	Aşağıalican Köyü	Aşağıalican=
+95491	Bayatdoğanşalı Köyü	Bayatdoğanşalı=
+98229	Bekirhanlı Köyü	Bekirhanlı=
+95492	Bulakbaşı Köyü	Bulakbaşı=
+196821	Cennetabat Köyü	Cennetabat=
+90786	Ergenekon Mah.	Abbas Akar~|Ali Ekber Hoşhaber~|Ali Ekber Hoşhaber Yol 1~|Ali Ekber Hoşhaber Yol 2~|Ali Ekber Hoşhaber Yol 3~|Ali Ekber Hoşhaber Yol 4~|Aralık Yolu=|Asker Aycan~|Asker Aycan Yol 1~|Ataman Şıktaş~|Atatürk@|Atatürk Yol 1~|Atatürk Yol 2~|Atatürk Yol 3~|Bayram Yana~|Cumhuriyet@|Cumhuriyet Yol 1~|Ehlibeyt~|Ehlibeyt Yol 1~|Ergenekon Yol 1~|Ergenekon Yol 2~|Ergenekon Yol 3~|Ergenekon Yol 5~|Ergenekon Yol 6~|Ergenekon Yol 7~|Ergenekon Yol 8~|Fatih İsimsiz Yol 1~|Fatih İsimsiz Yol 2~|Fatma Gülali~|Fırat Yılmaz Çakıroğlu@|Göksel Göycali~|Haydar Kızıl@|Haydar Kızıl Yol 1@|Haydar Kızıl Yol 3~|Haydar Kızıl Yol 4~|Haydar Kızıl Yol 5~|Muhtar Cengiz Şıktaş@|Murat Özgan@|Nuri Alagöz@|Nuri Alagöz Yol 1~|Nuri Alagöz Yol 2~|Olgun Kurbanoğlu@|Ramazan Yıldırım~|Ramazan Yıldırım Yol 1~|Recep Tayyip Erdoğan%|Recep Tayyip Erdoğan Yol 1~|Recep Tayyip Erdoğan Yol 2~|Recep Tayyip Erdoğan Yol 3~|Rıza Ballı@|Sakine Savaş~|Tarkan Gülşin~|Tohit Göycali~|Yaver Aygün~|Yaver Aygün Yol 1~|Ötüken@|İsimsiz Yol~
+90787	Fatih Mah.	1. Nci~|Abdullah Karabağ~|Abdullah Karabağ Yol 2~|Ataman Şıktaş~|Aydın Adlin~|Bahtiyar Gonca@|Cumhuriyet@|Cumhuriyet Yol 2~|Cumhuriyet Yol 3~|Cumhuriyet Yol 4~|Cumhuriyet Yol 5~|Cumhuriyet Yol 6~|Cumhuriyet Yol 7~|Fatih İsimsiz Yol 1~|Fatih İsimsiz Yol 2~|Mehmet Ali Toktamışlı~|Mikail Kalkan@|Murat Özgan@|Nesip Karakoyunlu~|Peri Aygün~|İshak Al@|İshak Al Yol 1~|İshak Al Yol 2~|İsimsiz Yol~|Şehit Ali Asker Gonca@
+95494	Gökçeli Köyü	Gökçeli=
+95495	Kacardoğanşalı Köyü	Kacardoğanşalı=
+95504	Kerimbeyli Köyü	Kerimbeyli=
+95496	Koçkıran Köyü	320=
+95497	Mürşitali Köyü	Mürşitali=
+197209	Orta Alican Köyü	Orta Alican=
+99688	Taşburun Köyü, Merkez Mevkii	Aralık Yolu~|Atatürk~|Atatürk1~|Atatürk2~|Atatürk3~|Bağlar Çıkmazı~|Başak~|Bülbül~|Fevzi Çakmak~|Garip~|Gül~|Hürriyet~|Hürriyet1~|Irmak Çıkmazı~|Işıklar~|Kafkas~|Karanfil~|Lale Çıkmazı~|Mithatpaşa Çıkmazı~|Nene Hatun~|Nenehatun~|Selvi~|Taşçıkmazı~|Yıldırım Çıkmazı~|Çınar Çıkmazı~|İstiklal~
+95500	Yazlık Köyü	Yazlık=
+95501	Yukarıalican Köyü	Yukarıalican=
+95502	Zülfikarköy Köyü	Zülfikarköy=
+95503	Zülfikarköy Köyü, Göl Mevkii	Göl=
+197151	İslamköy Köyü	İslamköy=
+95498	Şıracı Köyü	Şıracı=
+95499	Şıracı Köyü, Seferkulu Mezrası	Seferkulu=

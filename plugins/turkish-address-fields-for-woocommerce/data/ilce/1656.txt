@@ -1,0 +1,89 @@
+38385	Alan Köyü	Alan=
+38287	Altınsu Köyü, Dereboyu Mezrası	Dereboyu=
+38285	Altınsu Köyü, Elde Mevkii	Elde=
+38286	Altınsu Köyü, Merkez Mevkii	Merkez=
+38288	Altınsu Köyü, Meydan Mevkii	Bal Küme=|Cumhurıyet@|Meydan=
+38289	Altınsu Köyü, İncesu Mezrası	Incesu=
+38294	Bağlar Köyü	Köyün Kendısı=|Yenı Yol 1=
+38297	Bağlar Köyü, Beytera Mezrası	Beytera=|Tuva=
+38299	Bağlar Köyü, Güzelkaya Mezrası	Güzelkaya=
+38300	Bağlar Köyü, Meşeli Mezrası	Meselı=|Yenı Yol 1=
+38298	Bağlar Köyü, Muşi Mezrası	- Köy$|Musı=
+38302	Bağlar Köyü, Rüzgarlı Mezrası	Rüzgarlı=
+38296	Bağlar Köyü, Tuva Mezrası	- Köy$|Tuva=
+38295	Bağlar Köyü, Türe Mezrası	Meselı=|Ture=
+38301	Bağlar Köyü, Zorgeçit Mezrası	Yayla Pınarı=|Zorgeçit=
+38303	Bağlar Köyü, Çamlıca Mezrası	Çamlıca=
+38304	Bağlar Köyü, Çem Mezrası	Çem=
+38305	Beyyurdu Köyü	Köyün Kendısı=
+31016	Beşevler Mah.	103~|105~|106~|108~|109~|113~|115~|116~|118~|120~|121~|122~|123~|125~|Alı Hararı@|Bal Küme=|Cumhurıyet@|Küçük Sanayı Koperatıfı~|Musa Anter~|Mustafa Öktem@|Seyyıt Taha~|Seyyıt Ubeydullah~|Taslak Yol2~|Taslakyol~|Taslakyol80~|Taslakyol83~|Taslakyol85~|Yayla@|Yayla Taslak~
+38309	Bozyamaç Köyü	Köyün Kendisi=
+38310	Bozyamaç Köyü, Deravi Mezrası	Deravı=
+38306	Boğazköy Köyü, Aşağı Kayacık Mezrası	Asagı Kayacık=
+38307	Boğazköy Köyü, Yukarı Kayacık Mezrası	Yukarı Kayacık=
+38308	Boğazköy Köyü, Çem Mevkii	Çem=
+38341	Günyazı Köyü	Köyün Kendısı=|Yenı Yol 1=
+38340	Günyazı Köyü, Hazne Mezrası	Hazne=
+38337	Günyazı Köyü, Kepenek Mezrası	Kepenek=
+38339	Günyazı Köyü, Koçbaşı Mezrası	Kocbası=
+38344	Günyazı Köyü, Olgunlar Mezrası	Köyün Kendısı=|Olgunlar=
+38333	Günyazı Köyü, Samanlı Mezrası	Samanlı=
+38329	Günyazı Köyü, Veliköy Mezrası	Velıköy=
+38342	Günyazı Köyü, Yeniceli Mezrası	Yenıcelı=
+38330	Günyazı Köyü, Yeşilöz Mezrası	Yesıl Oz=
+38338	Günyazı Köyü, Yiğitler Mezrası	Yıgıtler=
+38331	Günyazı Köyü, Çalışkanlar Mezrası	Çalıskanlar=
+38332	Günyazı Köyü, Üçgöze Mezrası	Üçgöze=
+31017	Karşıyaka Mah.	503~|505~|506~|507~|508~|509~|510~|512~|514~|516~|Cumhuriyet 1@|Cumhurıyet@|Hacı Mahmut Özel~|Küme Evlerı=|Medya~|Mehmet Uzun~|Taslak Yol 1~|Taslak Yol 44~|Taslak Yol 5~|Taslak Yol 51~|Taslak Yol 7~|Taslak Yol57~|Çevre@
+38350	Kayalar Köyü	Köyün Kendısı=
+38349	Kayalar Köyü, Erikli Mezrası	Erıklı=
+38352	Kayalar Köyü, Husrova Mezrası	Husrova=
+38348	Kayalar Köyü, Kule Mezrası	Kule=
+38351	Kayalar Köyü, Mağaraönü Mezrası	Magaraönü=
+38346	Kayalar Köyü, Sarıca Mezrası	Sarıca=
+38347	Kayalar Köyü, Seçkin Mezrası	Seçkın=
+38353	Kayalar Köyü, Yukarı Kayalar Mezrası	Yukarı Kayalar=
+38356	Konur Köyü	Köyün Kendısı=
+38355	Konur Köyü, Aktütün Mezrası	Aktütün=
+38354	Konur Köyü, Dereyanı Mezrası	Dereyanı=
+38370	Korgan Köyü	Köyün Kendisi=
+38371	Korgan Köyü, Akbal Mezrası	Akbal=
+38367	Korgan Köyü, Akkavak Mezrası	Akkavak=
+38366	Korgan Köyü, Alkava Mezrası	Alkava=
+38373	Korgan Köyü, Aşağı Korgan Mevkii	Aşağı Korgan=
+38362	Korgan Köyü, Balova Mezrası	Balova=
+38369	Korgan Köyü, Durak Mezrası	Durak=
+38361	Korgan Köyü, Güzelkonak Mezrası	Güzelkonak=
+38368	Korgan Köyü, Tatlıca Mezrası	Tatlıca=
+38374	Korgan Köyü, Yukarı Korgan Mevkii	Akbal=|Yukarı Korgan=
+38363	Korgan Köyü, Çevre Mezrası	Çevre=
+38372	Korgan Köyü, Üzümkıran Kampı Mezrası	Üzümkıran=
+31018	Moda Mah.	404~|406~|408~|409~|411~|413~|415~|417~|423~|425~|427~|Alı Fuat Güven@|Askerı Alan=|Cumhuriyet 1@|Cumhuriyet/1~|Cumhurıyet@|Cumhurıyet1@|Fatma Çakır@|Hastane@|Küme Evlerı=|Moda@|Ronahı~|Serment@|Taslak Yol57~|Çevre@
+140093	Tekeli Köyü	Tekeli=
+182992	Tekeli Köyü, Balıklı Mevkii	Balıklı=
+182994	Tekeli Köyü, Oğlaklı Mevkii	Oğlaklı=
+182996	Tekeli Köyü, Tanyolu Mevkii	Tanyolu=
+182998	Tekeli Köyü, Üstünağaç Mevkii	Üstünagaç=
+38381	Tütünlü Köyü	Köyün Kedisi=
+38380	Tütünlü Köyü, Güleç Mezrası	Güleç=
+38382	Uğuraçan Köyü	Köyün Kendısı=
+38383	Uğuraçan Köyü, Yeşilbayır Mezrası	Yesılbayır=
+31015	Yayla Mah.	Bal Küme=
+38384	Yaylapınar Köyü	Yayla Pınarı=
+31019	Yeni Mah.	302~|306~|308~|309~|310~|311~|314~|315~|Alı Hararı@|Cumhurıyet@|Cumhurıyet1@|Soybılgıç@|Taslak Yol~|Zelal~|Çankaya@
+197899	Yufkalı Köyü	Köyün Kendisi=
+38358	Yufkalı Köyü, Aşağı Tuğlu Mevkii	Asagı Tuglu=
+38365	Yufkalı Köyü, Binahere Mezrası	Bınahere=
+38359	Yufkalı Köyü, Elmalı Mezrası	Elmalı=
+38360	Yufkalı Köyü, Kula Mevkii	Kula=
+38357	Yufkalı Köyü, Tuğlu Mevkii	Tuglu=
+38311	Çatalca Köyü	Köyün Kendısı=
+38314	Çatalca Köyü, Erdemli Mezrası	Erdemli=
+38312	Çatalca Köyü, Güvenli Mezrası	Güvenlı=
+38313	Çatalca Köyü, Soğuksu Mezrası	Soguksu=
+38317	Çubuklu Köyü	Asagı Kayacık=|Köyün Kendisi=|Yayla Pınarı=
+38316	Çubuklu Köyü, Dinarte Mezrası	Dınarte=|Köyün Kendisi=
+38315	Çubuklu Köyü, Kolita Mezrası	Kolıta=|Köyün Kendisi=
+38377	Öveç Köyü	Köyün Kendisi=
+38379	Öveç Köyü, Harmanlı Mezrası	Harmanlı=
+38378	Öveç Köyü, Karaağaç Mezrası	Dereboyu=|Karaağac=

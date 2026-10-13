@@ -1,0 +1,42 @@
+.eru-nb {
+	--eru-nb-bg: #e8f1fd; --eru-nb-fg: #0b2f5e; --eru-nb-ac: #1f6feb;
+	display: flex;
+	gap: .8em;
+	align-items: flex-start;
+	margin: 1.4em 0;
+	padding: 1em 1.1em;
+	border-radius: 8px;
+	border-left: 4px solid var(--eru-nb-ac);
+	background: var(--eru-nb-bg);
+	color: var(--eru-nb-fg);
+	box-sizing: border-box;
+}
+.eru-nb--warning { --eru-nb-bg: #fff4dc; --eru-nb-fg: #4d3200; --eru-nb-ac: #c98500; }
+.eru-nb--success { --eru-nb-bg: #e6f6ec; --eru-nb-fg: #0b3d1f; --eru-nb-ac: #1a9c4b; }
+.eru-nb--error   { --eru-nb-bg: #fdeaea; --eru-nb-fg: #5c1010; --eru-nb-ac: #d63638; }
+
+.eru-nb__icon { flex: 0 0 auto; color: var(--eru-nb-ac); margin-top: .1em; }
+.eru-nb__body { flex: 1 1 auto; min-width: 0; }
+.eru-nb__title { margin: 0 0 .3em; font-weight: 700; }
+.eru-nb__content > :first-child { margin-top: 0; }
+.eru-nb__content > :last-child { margin-bottom: 0; }
+.eru-nb a { color: inherit; text-decoration: underline; }
+
+/* outline preset */
+.eru-nb--outline { background: transparent; border: 2px solid var(--eru-nb-ac); border-left-width: 2px; color: inherit; }
+/* solid preset */
+.eru-nb--solid { background: var(--eru-nb-ac); border-color: var(--eru-nb-ac); color: #fff; }
+.eru-nb--solid .eru-nb__icon { color: #fff; }
+.eru-nb--solid.eru-nb--warning { color: #1c1200; }
+.eru-nb--solid.eru-nb--warning .eru-nb__icon { color: #1c1200; }
+
+/* dark mode: follow the device, or an explicit data-theme on <html> */
+@media (prefers-color-scheme: dark) {
+	.eru-nb:not(.eru-nb--nodark) { --eru-nb-bg: #10243f; --eru-nb-fg: #d6e6ff; --eru-nb-ac: #5a9dff; }
+	.eru-nb--warning:not(.eru-nb--nodark) { --eru-nb-bg: #33270a; --eru-nb-fg: #ffe9b5; --eru-nb-ac: #f0b429; }
+	.eru-nb--success:not(.eru-nb--nodark) { --eru-nb-bg: #0f2a1a; --eru-nb-fg: #cdeed8; --eru-nb-ac: #46c47a; }
+	.eru-nb--error:not(.eru-nb--nodark)   { --eru-nb-bg: #361516; --eru-nb-fg: #ffd6d6; --eru-nb-ac: #ff6b6d; }
+	.eru-nb--solid:not(.eru-nb--nodark) { color: #0a0a0a; }
+	.eru-nb--solid:not(.eru-nb--nodark) .eru-nb__icon { color: #0a0a0a; }
+	.eru-nb--outline:not(.eru-nb--nodark) { color: inherit; }
+}

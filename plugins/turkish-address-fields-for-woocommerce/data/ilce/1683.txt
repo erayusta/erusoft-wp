@@ -1,0 +1,58 @@
+190799	Akbaba Mah.	Akbaba=
+190801	Aksu Mah.	Aksu Merkez=|Aksu Yayla=|Aşağı Meydanlar=|Deveyatağı=
+190803	Aktaş Mah.	Aktaş=|Söğüt 15=
+190805	Alapınar Mah.	Alapınar=|Yayla=
+30089	Alparslan Mah.	Camii~|Camii1~|Camii2~|Dere~|Dursun Tosun~|Dursun Tosun1~|Dursun Tosun2~|Dursun Tosun3~|Dursun Tosun4~|Erzurum@|Karşı~|Karşı1~|Karşı2~|Maraşal@|Mebus Osman Alihocagil@|Necmettin Erbakan~|Necmettin Erbakan1~|Necmettin Erbakan2~|Yeni Camii~|Çamlı~|Çamlı1~|Çamlı2~|Çeşme~|Çeşme1~|İstiklal@|Şehitlik~|Şehitlik1~|Şehitlik2~|Şehitlik3~|Şehitlik4~|Şehitlik5~|Şehitlik57~
+190807	Arılı Mah.	Arılı=
+181314	Aşağı Serdarlı Mah.	Ağa=|Aşağı Küçükdere=|Aşağıserdarlı=|Bahçecik=|Büyükbahçe=|Elmalı1=|Kale1=|Kaleyanı=|Küçükdere=|Yukarı Küçükdere=|Çamlıtepe=|Üzümlü=
+30088	Bahçeli Mah.	Bahçe 16=|Bahçe 17=|Tatlısu=
+190809	Ballı Mah.	Ballı=|Kapıkaya=
+190793	Bağbaşı Mah.	Aksu@|Aksu/1~|Ayvalı~|Ayvaz~|Ağagilin~|Badem~|Bahçe~|Bahçeli~|Bağbaşı Ballı~|Bağbaşı Gökdere~|Bağbaşı Mezarlık~|Bağbaşı Yayla~|Bağbaşı1~|Bağbaşı10~|Bağbaşı11~|Bağbaşı5~|Bağbaşı9~|Bağcılar~|Bilinmeyen11~|Bozkır~|Boşnak/2~|Cafer~|Cevizli~|Cumhuriyet@|Danzik~|Değirmen~|Durak~|Duru~|Elmalı~|Eroğlular~|Esentepe~|Fatih Sultan Mehmet@|Fatih Sultan Mehmet/1~|Göze~|Gül~|Gümüş~|Gündüz~|Güney~|Güney1~|Güven~|Hacı Bekir Efendi~|Halitpaşa@|Hasanağa~|Huzur~|Hüseyin Hoca~|Kale~|Karataş~|Karmuş~|Kınalı~|Kızılcım~|Merkez~|Merkez/1~|Meydan~|Meyveli~|Osman Gazi@|Pınarbaşı~|Pınarbaşı/1~|Sahil@|Selvı~|Subaşı~|Suludere~|Susam~|Susuz~|Taşkın~|Topçuoğlu~|Tufan~|Vatan~|Yarardı~|Yunusemre@|Çavuşoğlu~|Çağlayan~|Çağlayan/1~|Çimen~|Özlü~|İstiklal1~|Şehit Murat Telci@|Şelale~
+181316	Cihanlı Mah.	Barbaros Hayrettin@|Cihanlı=|Cihanlı Yayla=|Gökdere Yayla=|Şeyh Efendi2~
+190821	Demirciler Mah.	Demirciler=
+181318	Derekapı Mah.	Asim Bülbül~|Aşağı Sırt~|Camii Derekapı~|Camii Derekapı1~|Camii Derekapı2~|Camii Derekapı3~|Demir~|Derekapı~|Derekapı1~|Derekapı2~|Derekapı3~|Derekapı4~|Han~|Han1~|Han2~|Han3~|Han4~|Han5~|Han6~|Han7~|Han8~|Maden~|Maden1~|Mensur~|Mezarlık~|Santral~|Santral1~|Santral2~|Yukarı Sırt~|Yukarı Sırt2~
+190873	Derinpınar Mah.	Aşağıserdarlı=|Derinpınar Merkez=|Derinpınar Yayla=|Yeni1=
+190875	Dikmen Mah.	Bahçecik=|Dikmen=|Dikmen Merkez=|Köy Mahallesi=|Serdarlı Yayla=|Vagaver=
+190823	Doruklu Mah.	Arılı=|Aşağı Meydanlar=|Doruklu=|Vişneli=
+190825	Esendurak Mah.	Esendurak=
+190877	Gökdere Mah.	Gökdere=|Gökdere Yayla=
+190827	Hamidiye Mah.	Hamidiye=|Yamankaya=
+198207	Kaleboynu Mah.	Kaleboynu=
+30086	Kaledibi Mah.	Kale 1=|Kale 2=|Kale 3-=
+190831	Kapıkaya Mah.	Kapıkaya=
+190833	Karlı Mah.	Karlı=
+190835	Kazandere Mah.	Kazandere=
+190837	Kemerkaya Mah.	Kemerkaya=|Yayla=
+190841	Kireçli Mah.	Kireçli=
+30083	Konak Mah.	Konak 10=|Konak 11=|Konak 12=|Konak 13=
+190839	Kırmalı Mah.	Kazandere=|Kırmalı=|Kırmalı Yayla=
+190843	Meydanlar Mah.	Yukarı Meydanlar=
+190795	Pehlivanlı Mah.	Beylik=|Beylik1=|Bilinmeyen10~|Bilinmeyen11~|Bilinmeyen19~|Bilinmeyen45=|Bilinmeyen7~|Bilinmeyen8~|Bilinmeyen9~|Boşnak~|Boşnak/1~|Boşnak/2~|Boşnak1~|Boşnak2~|Boşnak3~|Cami Yolu~|Fındıklı~|Güvüt Kapı~|Hocaoğlu=|Hüseyin Ağa=|Mehmet Saraçoğlu-=|Mollaömer~|Muhtar~|Müderris Ahmet Efendi@|Müderris Ahmet Efendi1@|Müderris Ahmet Efendi2@|Müftü Osman-@|Nurali=|Okul~|Osmanlı@|Pulundibi~|Serdebe~|Sümbül~|Sümbül1~|Terziler=|Tilkitepesi=|Yenı Yol 1~|Yenı Yol 2=|Çavuşoğlu1=|Şehit Mehmet Keskin@
+190845	Peynirli Mah.	Peynirli=
+190797	Serdarlı Mah.	Aşağı Evler=|Bayraktar=|Dikmen=|Dikmen Merkez=|Hacinis=|Hacılar=|Karaahmet=|Kuluç=|Köy Mahallesi=|Salihler=|Serdarlı Menderes@|Serdarlı Yayla=|Sofuoğlu=|Tahtacılar=|Yukarı Evler=|Çukurevler=|Şehit Önay Vurucu=
+190879	Suyatağı Mah.	Ağdos=|Suyatağı Derekapı=|Suyatağı Merkez=
+30085	Söğütlü Mah.	Aktaş=|Söğüt 14=|Söğüt 15=|Söğüt 16=|Şehitlik6~
+190851	Tatlısu Mah.	Tatlısu=
+190847	Taşbaşı Mah.	Taşbaşı=
+190849	Taşoluk Mah.	Taşoluk=|Yamankaya=
+190853	Tipili Mah.	Kapıkaya=|Tipili=|Tipili/1~|Tipili/2~|Tipili/3~|Tipili/4~|Tipili/5~|Tipili/6~
+190855	Tortumkale Mah.	Esendurak=|Tortumkale=
+190881	Uzunkavak Mah.	Kalavan Yaylası=|Taşlı Yaylası=|Uzunkavak=|Yenı Yol=
+190857	Vişneli Mah.	Aşağı Meydanlar=|Vişneli=|Vişneli Yayla=
+190861	Yamankaya Mah.	Hamidiye=|Kireçli=|Yamankaya=
+196531	Yavuz Sultan Selim Mah.	Abdulhamit Han~|Abdulhamit Han1~|Abdurrahman Gazi1~|Abdurrahmangazi~|Abdurrahmangazi2~|Abdurrahmangazi3~|Abdurrahmangazi4~|Adalet~|Balkaya 18=|Dere~|Güneş~|Kuran Kursu~|Mebus Abubekir Akay@|Mebus Osman Alihocagil@|Menderes~|Onur~|Sukule~|Taşbaşı1~|Taşbaşı2~|Taşdibi~|Taşdibi2~|Yıldız~|İlim~|İstiklal@|Şehit Özcan Karaca@
+190883	Yazyurdu Mah.	Aşağıserdarlı=|Yazyurdu=
+190859	Yağcılar Mah.	Yağcılar=|Yağcılar Yayla=
+190863	Yellitepe Mah.	Yayla=|Yağcılar Yayla=|Yellitepe=|Yellitepe Yayla=
+190865	Yukarısivri Mah.	Yukarı Sivri Merkez=
+190867	Yumaklı Mah.	Akbaba=|Yumaklı=
+190869	Ziyaretli Mah.	Kapıkaya=|Peynirli=|Tipili=|Yellitepe=|Ziyaret=|Ziyaretli Yayla=
+190811	Çakıllı Mah.	Çakıllı=
+30087	Çamlıca Mah.	Beylikdüzü=|Çam 6=|Çam 7=|Çam 8-=|İncedere=
+190813	Çardaklı Mah.	Çardaklı=|İncedere=
+190871	Çataldere Mah.	Aşağı=|Orta=|Orta-~|Yukarı=|Çataldere Yayla=
+190815	Çaylıca Mah.	Çaylıca=
+190817	Çiftlik Mah.	Konak 12=|Çiftlik Köyü=
+190819	Çivilikaya Mah.	Çivilikaya=
+190829	İncedere Mah.	İncedere=
+190791	Şenyurt Mah.	Ahmet Yesevi@|Akpınar~|Aktepe~|Alparslan~|Atatürk%|Barbaros Hayrettin@|Barbaros Hayrettin1~|Barbaros Hayrettin2~|Barbaros Hayrettin3~|Bağlar=|Belediye Myd.|Cihanlı Yayla=|Derinpınar Merkez=|Değirmenli~|Emirefendi~|Eyik~|Halilağa~|Hastaneler@|Kazım Karabekir@|Kazım Karabekir1~|Konak~|Koyunoğlu@|Kır=|Lise@|Lokman Abuç~|Mehmet Akif Ersoy@|Mustafa Topcu~|Otlaklar~|Oğuzgürsel@|Pehlivan~|Piri Reis~|Piri Reis1~|Piri Reis2~|Piri Reis3~|Sağlık Ocağı~|Ustalar~|Veyis Efendi~|Yeni Cami@|Yenı Yol 3~|Yıldırım~|Çayırbaşı~|İmamoğlu~|Şehit İsmail Aksu@|Şenyurt Merkez~|Şenyurt Okul.~|Şenyurt Yayla=|Şeyh Efendi~|Şeyh Efendi1~|Şeyh Efendi2~

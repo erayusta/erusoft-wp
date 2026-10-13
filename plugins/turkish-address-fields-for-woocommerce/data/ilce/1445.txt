@@ -1,0 +1,220 @@
+24601	Abdullah Köyü, Merkez Mevkii	 Köy$
+24602	Abdullah Köyü, Orta Mevkii	 Köy$
+24419	Akkaya Köyü, Merkez Mevkii	 Köy$
+24420	Akkise Köyü, Merkez Mevkii	 Köy$
+24421	Akkise Köyü, Yayla Yayla Evleri	 Köy$
+24418	Akçataş Köyü, Merkez Mevkii	 Köy$
+24422	Alioğlu Köyü, Merkez Mevkii	 Köy$
+24423	Alioğlu Köyü, Tepearkası Mevkii	 Köy$
+24424	Alioğlu Köyü, Yayla Yayla Evleri	 Köy$
+24426	Arık Köyü, Akçayazı Mevkii	 Köy$
+24427	Arık Köyü, Düzenli Mevkii	 Köy$
+24425	Arık Köyü, Eski Arık Mevkii	 Köy$
+24429	Arık Köyü, Yayla Yayla Evleri	 Köy$
+24428	Arık Köyü, Öksüzler Mevkii	 Köy$
+24603	Avşar Köyü, Merkez Mevkii	 Köy$
+24430	Bademce Köyü, Acekse Mevkii	 Köy$
+24431	Bademce Köyü, Arzumanlar Mevkii	 Köy$
+24434	Bademce Köyü, Merkez Mevkii	 Köy$
+24432	Bademce Köyü, Söpseki Mevkii	 Köy$
+24433	Bademce Köyü, Yayla Yayla Evleri	 Köy$
+20418	Bahçelievler Mah.	Anız~|Aslan~|Atatürk@|Avcı~|Aydın~|Bacacı~|Badem~|Bahar~|Bahçe~|Balcı~|Boyacılar@|Buket~|Cemre~|Cesur~|Darı~|Demir~|Demirci~|Dik~|Ekin~|Eren~|Erkoç~|Fener~|Fidan~|Gelincik~|Girne@|Gülmez~|Gümüş~|Gıcır~|Hacı Osman~|Hastane@|Hükümet@|Ilıca~|Irmak~|Karakise~|Karakol@|Karaoğlanoğlu@|Kayakıran~|Kerpiç~|Kökmert~|Kır~|Lefkoşe~|Menekşe~|Okul~|Orman~|Papatya~|Sanayi@|Saraycık~|Saraçlar~|Seven~|Sucu~|Susam~|Süleyman Demirel@|Taş Tepe@|Tepe~|Teras~|Ters Su~|Topel~|Turgut Özal@|Uğraşkan~|Yüksel~|Yıldırım~|Çam~|Çapa~|Çatal~|Çağlayan~|Çetli~|Çimen~|Çoban~|Çolak~|Özdemir~|Ünlü~|Üzgen~|İnönü@|İğde~|Şube~
+24444	Bayat Köyü, Aşağı Mevkii	 Köy$
+24439	Bayat Köyü, Bayat Yaylası Yayla Evleri	 Köy$
+24447	Bayat Köyü, Hacı Ahmet Mevkii	 Köy$
+24440	Bayat Köyü, Hacı Ahmet Yaylası Yayla Evleri	 Köy$
+24441	Bayat Köyü, Kızıltaş Yaylası Yayla Evleri	 Köy$
+24446	Bayat Köyü, Pınar Mevkii	 Köy$
+24445	Bayat Köyü, Yukarı Mevkii	 Köy$
+24448	Bayat Köyü, Çatak Mevkii	 Köy$
+24442	Bayat Köyü, Çatak Yaylası Yayla Evleri	 Köy$
+24443	Bayat Köyü, Çay Mevkii	 Köy$
+24435	Bağözü Köyü, Merkez Mevkii	 Köy$
+24436	Bağözü Köyü, Çaykışla Mevkii	 Köy$
+24438	Başköy Köyü, Karsu Alabalık Tesisleri Mevkii	 Köy$
+24437	Başköy Köyü, Merkez Mevkii	 Köy$
+24605	Beygircioğlu Köyü, Akçayazı Mevkii	 Köy$
+24606	Beygircioğlu Köyü, Karaoluk Yayla Evleri	 Köy$
+24604	Beygircioğlu Köyü, Merkez Mevkii	 Köy$
+24450	Bozarmut Köyü, Karatuzla Yaylası Yayla Evleri	 Köy$
+24449	Bozarmut Köyü, Merkez Mevkii	 Köy$
+24455	Cihadiye Köyü, Alacinek Yayla Evleri	 Köy$
+24454	Cihadiye Köyü, Erkeş Yayla Evleri	 Köy$
+24453	Cihadiye Köyü, Kızlankırağı Mevkii	 Köy$
+24452	Cihadiye Köyü, Mehdioğlu Mevkii	 Köy$
+24451	Cihadiye Köyü, Merkez Mevkii	 Köy$
+24476	Demirören Köyü, Merkez Mevkii	 Köy$
+24482	Dereköy Köyü, Akkaya Yayla Yayla Evleri	 Köy$
+24484	Dereköy Köyü, Aşağı Yayla Yayla Evleri	 Köy$
+24480	Dereköy Köyü, Karagöz Güney Mezrası	 Köy$
+24479	Dereköy Köyü, Kirazdibi Güney Mezrası	 Köy$
+24477	Dereköy Köyü, Merkez Mevkii	 Köy$
+24478	Dereköy Köyü, Onbaşılar Güney Mezrası	 Köy$
+24485	Dereköy Köyü, Yukarı Dereköy Mezrası	 Köy$
+24483	Dereköy Köyü, Yukarı Yayla Yayla Evleri	 Köy$
+24481	Dereköy Köyü, Çörçör Mezrası	 Köy$
+24486	Dereköy Köyü, İğdiş Mezrası	 Köy$
+98912	Fatih Mah.	75.yıl%|Akgül~|Akpınar~|Aktepe~|Akyokuş~|Akın~|Alboya~|Ali Yüksel Kavuştu@|Atay~|Boyacılar@|Burç~|Ceviz~|Cumhuriyet@|Dar~|Demir Ören~|Endoğru~|Kandil~|Kara Pürçek~|Karaboya~|Karaoğlanoğlu@|Kartaş~|Kepez~|Mezbaha@|Mora~|Nazmi Avluca~|Nergiz~|Pirinç~|Semerci~|Sinan Paşa@|Tekstil~|Türker~|Uğur~|Yalçın~|Yayla~|Zirve~|Çağlar~|Çeltik~|Örencik~|Öztürk~|Şht.emin Ünal~|Şht.suat Yaşar~|Şht.teğmen Kamil Özdemir~|Şişli~
+24489	Gökbudak Köyü, Bayaslı Mevkii	 Köy$
+24488	Gökbudak Köyü, Eskiköy Mevkii	 Köy$
+24490	Gökbudak Köyü, Geriççik Mevkii	 Köy$
+24487	Gökbudak Köyü, Merkez Mevkii	 Köy$
+24491	Gökçedoğan Köyü, Merkez Mevkii	 Köy$
+197059	Gökçedoğan Köyü, Tekkeşin Mevkii	 Köy$
+24492	Gökçedoğan Köyü, Yayla Yayla Evleri	 Köy$
+24506	Göl Köyü, Başpınar Mevkii	 Köy$
+24510	Göl Köyü, Kasımlar Mevkii	 Köy$
+24507	Göl Köyü, Kavak Mevkii	 Köy$
+24505	Göl Köyü, Merkez Mevkii	 Köy$
+24511	Göl Köyü, Tepe Mevkii	 Köy$
+24512	Göl Köyü, Yayla Yayla Evleri	 Köy$
+24508	Göl Köyü, Yazıpınar Mevkii	 Köy$
+24509	Göl Köyü, Çalarası Mevkii	 Köy$
+24495	Gölet Köyü, Akkaya Yaylası Yayla Evleri	 Köy$
+24494	Gölet Köyü, Karagöl Mevkii	 Köy$
+24493	Gölet Köyü, Merkez Mevkii	 Köy$
+24501	Göletdere Köyü, Cembekli Mevkii	 Köy$
+24504	Göletdere Köyü, Cineminin (kuşbağın) Mezrası	 Köy$
+24502	Göletdere Köyü, Fadıloğlu Mevkii	 Köy$
+24503	Göletdere Köyü, Kocaömer(yuvanın) Mezrası	 Köy$
+24499	Göletdere Köyü, Merkez Mevkii	 Köy$
+24500	Göletdere Köyü, Yemişli Mevkii	 Köy$
+24513	Gümüşoğlu Köyü, Merkez Mevkii	 Köy$
+24514	Gümüşoğlu Köyü, Şıhlar Mevkii	 Köy$
+24610	Güney Köyü, Aşağı Kayadibi Mevkii	 Köy$
+24614	Güney Köyü, Fındıcak Mevkii	 Köy$
+24613	Güney Köyü, Mestanlar Mevkii	 Köy$
+24615	Güney Köyü, Orta Mevkii	 Köy$
+24611	Güney Köyü, Yukarı Kayadibi Mevkii	 Köy$
+24612	Güney Köyü, Yukarı Mevkii	 Köy$
+24516	Günyazı Köyü, Gölceğiz Mevkii	 Köy$
+24518	Günyazı Köyü, Gölceğiz Yaylası Yayla Evleri	 Köy$
+24517	Günyazı Köyü, Günyazı Yaylası Yayla Evleri	 Köy$
+24519	Günyazı Köyü, Kışla Mevkii	 Köy$
+24515	Günyazı Köyü, Merkez Mevkii	 Köy$
+20423	Hacıhamza Köyü, Bahçelievler Mevkii	Bağdat~|Karakol~|Kızılırmak~|Nuri Bey~|Osmancık~|Yusufbey Çıkmazı~|Çamurluk~|Çağlayan~
+20424	Hacıhamza Köyü, Değirmendere Mevkii	Değirmendere~
+20425	Hacıhamza Köyü, Kale Mevkii	1~|10~|2~|3~|4~|5~|6~|7~|8~|9~|Arif Hoca~|Kale Kapısı~|Osmancık~|Pinik~|Sarışemun~|Sinan Paşa~|Ulubağ~|Özeller Çeltik Fabrikası~
+20426	Hacıhamza Köyü, Obruk Mevkii	Anayol~|Camii~|Cumhuriyet~|Hacı Ali Çeltik Fab.~|Okul~|Talebe Süleyman~|İbrikdede~|İstiklal~
+20427	Hacıhamza Köyü, Zeynel Mevkii	Ahmet Samsunlu~|Bağdat~|Eski Çarşı~|Hanardı~|Köprübaşı~|Küçük Sanayi Sitesi~|Lütfü Kurşun~|Mehmetakif~|Osmancık~|Pazaryolu~|Vakıf Hoca Çıkmazı~|Çağlayan~|Çobanhüsamettin~|İncidere~
+24521	Hacıveli Köyü, Malkayası Mevkii	 Köy$
+24520	Hacıveli Köyü, Merkez Mevkii	 Köy$
+24522	Halılar Köyü, Merkez Mevkii	 Köy$
+24525	Kabakcı Köyü, Kabakçı Yaylası Yayla Evleri	 Köy$
+24524	Kabakcı Köyü, Karaoğlan Kızı Mevkii	 Köy$
+24523	Kabakcı Köyü, Merkez Mevkii	 Köy$
+24526	Karaboya Köyü, Merkez Mevkii	 Köy$
+24527	Karaboya Köyü, Yayla Yayla Evleri	 Köy$
+24530	Karacaoğlan Köyü, Aladağ Yayla Evleri	 Köy$
+24533	Karacaoğlan Köyü, Alayürek Yayla Evleri	 Köy$
+24529	Karacaoğlan Köyü, Bosseki Yayla Evleri	 Köy$
+24538	Karacaoğlan Köyü, Dere Mevkii	 Köy$
+24534	Karacaoğlan Köyü, Kavakdibi Yayla Evleri	 Köy$
+24528	Karacaoğlan Köyü, Merkez Mevkii	 Köy$
+24535	Karacaoğlan Köyü, Osmansırdığı Yayla Evleri	 Köy$
+24536	Karacaoğlan Köyü, Pişbilik Mevkii	 Köy$
+24532	Karacaoğlan Köyü, Seki Yayla Evleri	 Köy$
+24537	Karacaoğlan Köyü, Uzuntarla Mevkii	 Köy$
+24531	Karacaoğlan Köyü, Yirgen Yayla Evleri	 Köy$
+24540	Karakise Köyü, Güney Mevkii	 Köy$
+24539	Karakise Köyü, Merkez Mevkii	 Köy$
+24541	Karakise Köyü, Yayla Yayla Evleri	 Köy$
+24543	Karaosmanlı Köyü, Kadimli Mevkii	 Köy$
+24542	Karaosmanlı Köyü, Merkez Mevkii	 Köy$
+24544	Karapürçek Köyü, Merkez Mevkii	 Köy$
+24619	Kavakçayı Köyü, Merkez Mevkii	 Köy$
+24620	Kavakçayı Köyü, Sakızçayı Mevkii	 Köy$
+24545	Koyunkıran Köyü, Merkez Mevkii	 Köy$
+24546	Köprübaşı Köyü, Merkez Mevkii	 Köy$
+24547	Köprübaşı Köyü, Yayla Yayla Evleri	 Köy$
+24548	Maksutlu Köyü, Merkez Mevkii	 Köy$
+20420	Mihrihatun Mah.	50.yıl@|Akman~|Ali Yüksel Kavuştu@|Aralık~|Atatürk@|Avcı~|Avşar~|Bamya~|Bayraktar~|Belediye~|Boyacılar@|Cesur~|Dümenci~|Erezyon~|Felik~|Genç~|Girne@|Hal~|Hastane@|Hükümet@|Işık~|Kale~|Karakol@|Karaoğlanoğlu@|Kayın~|Kurnaz~|Lefkoşe~|Meşe~|Nar~|Okul~|Sakız~|Sanayi@|Tolga~|Yaka~|Yaprak~|Zambak~|Çarşı@|Üzüm~|İnönü@|Şht.ibrahim Demirci~|Şirin~
+20421	Orta Mah.	100.yıl@|50.yıl@|Akman~|Ali Yüksel Kavuştu@|Atatürk@|Aşık~|Bayraktar~|Belediye~|Boyacılar@|Cumhuriyet@|Erezyon~|Gündüz~|Güneş~|Hal~|Hastane@|Kale~|Karaoğlanoğlu@|Koçum~|Küçük~|Okul~|Pazar Myd.|Piknik~|Ptt@|Sakız~|Sanayi@|Terminal~|Yaprak~|Çakır~|Çarşı@|İnönü@|İtfaiye~|Şht.nuri Yıldız~
+24560	Pelitcik Köyü, Aşıklar Mevkii	 Köy$
+24553	Pelitcik Köyü, Cartlaklar Mevkii	 Köy$
+24558	Pelitcik Köyü, Celleler Mevkii	 Köy$
+24562	Pelitcik Köyü, Hacılar Mevkii	 Köy$
+24557	Pelitcik Köyü, Karaahmetler Mevkii	 Köy$
+24563	Pelitcik Köyü, Kırıntı Mevkii	 Köy$
+24556	Pelitcik Köyü, Kırıntı Yaylası Yayla Evleri	 Köy$
+24554	Pelitcik Köyü, Kışla Mezrası	 Köy$
+24561	Pelitcik Köyü, Mollalar Mevkii	 Köy$
+24555	Pelitcik Köyü, Yayla Yayla Evleri	 Köy$
+24559	Pelitcik Köyü, Çalıklar Mevkii	 Köy$
+24564	Pelitözü Köyü, Merkez Mevkii	 Köy$
+24565	Pelitözü Köyü, Yayla Yayla Evleri	 Köy$
+24574	Saraycık Köyü, Merkez Mevkii	 Köy$
+24573	Saraçlar Köyü, Abdi Mevkii	 Köy$
+24571	Saraçlar Köyü, Demirci Mevkii	 Köy$
+24567	Saraçlar Köyü, Harmancı Mevkii	 Köy$
+24566	Saraçlar Köyü, Merkez Mevkii	 Köy$
+24572	Saraçlar Köyü, Nasıflar Mevkii	 Köy$
+24570	Saraçlar Köyü, Zaimler Mevkii	 Köy$
+24569	Saraçlar Köyü, Ömerler Mevkii	 Köy$
+24568	Saraçlar Köyü, Özköy Mevkii	 Köy$
+24622	Seki Köyü, Hamzalar Mevkii	 Köy$
+24621	Seki Köyü, Keleşler Mevkii	 Köy$
+24623	Seki Köyü, Pıtılar Mevkii	 Köy$
+24576	Sinanözü Köyü, Aktaş Mevkii	 Köy$
+24577	Sinanözü Köyü, Kızıltaş Mevkii	 Köy$
+24575	Sinanözü Köyü, Merkez Mevkii	 Köy$
+24578	Sinanözü Köyü, Sovla Mevkii	 Köy$
+24579	Sinanözü Köyü, Özbaşı Yayla Evleri	 Köy$
+24584	Sünlük Köyü, Göcen Mevkii	 Köy$
+24583	Sünlük Köyü, Göcen Yaylası Yayla Evleri	 Köy$
+24581	Sünlük Köyü, Mandıra Mevkii	 Köy$
+24580	Sünlük Köyü, Merkez Mevkii	 Köy$
+24582	Sünlük Köyü, Sünlük Yaylası Yayla Evleri	 Köy$
+24585	Sünlük Köyü, İkizler Mevkii	 Köy$
+24586	Tepelice Köyü, Merkez Mevkii	 Köy$
+24587	Tepelice Köyü, Yeniköy Mevkii	 Köy$
+24590	Uzunyurt Köyü, Aşağı Mora Mevkii	 Köy$
+24593	Uzunyurt Köyü, Kargı Mevkii	 Köy$
+198153	Uzunyurt Köyü, Kaş Mevkii	Kaş Küme Evleri=
+24588	Uzunyurt Köyü, Mora Yaylası Yayla Evleri	 Köy$
+24589	Uzunyurt Köyü, Zeyve Mevkii	 Köy$
+24594	Uzunyurt Köyü, Çiçek Yaylası Yayla Evleri	 Köy$
+24591	Uzunyurt Köyü, Çorak Mevkii	 Köy$
+24592	Uzunyurt Köyü, Öteköy Mevkii	 Köy$
+24595	Uzunyurt Köyü, İbideresi Yaylası Yayla Evleri	 Köy$
+24549	Uğuz Köyü, Merkez Mevkii	 Köy$
+24550	Uğuz Köyü, Yayla Yayla Evleri	 Köy$
+24596	Yağcılar Köyü, Merkez Mevkii	 Köy$
+24597	Yağcılar Köyü, Yayla Yayla Evleri	 Köy$
+24598	Yağcılar Köyü, Yiğren Yaylası Yayla Evleri	 Köy$
+20422	Yeni Mah.	75.yıl%|Akar~|Akil~|Akkuş~|Aksu~|Akça~|Ali Yüksel Kavuştu@|Ara~|Ardıç~|Arpa~|Ayrancı~|Baylan~|Başpınar~|Birik~|Boyacılar@|Cumhuriyet@|Dincel~|Dingil~|Eken~|Ergin~|Göl~|Göçmen~|Gül~|Hastane@|Karaoğlanoğlu@|Kentel~|Lise~|Mandıra~|Mutlu~|Pektutan~|Piknik~|Sağlık~|Soydemir~|Sümbül~|Tan~|Türkoğlu~|Uzunoğlu~|Yaprak~|Yayla~|Yurt~|Çakır~|Çelik~|Çilek~|Çiçek~|Çiğdem~|Özenir~|Öztürk~|Özçakan~|Üstünel~|Şht.emin Ünal~|Şht.suat Yaşar~
+24599	Yeşilköy Köyü, Merkez Mevkii	 Köy$
+24600	Yeşilköy Köyü, Yeşilköy Yaylası Yayla Evleri	 Köy$
+24461	Çakırlar Köyü, Bokluca Yayla Evleri	 Köy$
+24457	Çakırlar Köyü, Eski Yerleşim Yeri Mevkii	 Köy$
+24460	Çakırlar Köyü, Güney Yayla Evleri	 Köy$
+24458	Çakırlar Köyü, Kesek Yayla Evleri	 Köy$
+24456	Çakırlar Köyü, Merkez Mevkii	 Köy$
+24459	Çakırlar Köyü, İkitaş Yayla Evleri	 Köy$
+24464	Çal Köyü, Gökyer Mevkii	 Köy$
+24462	Çal Köyü, Merkez Mevkii	 Köy$
+24465	Çal Köyü, Yayla Yayla Evleri	 Köy$
+24463	Çal Köyü, Çeştepe Mevkii	 Köy$
+24607	Çeltiközü Köyü, Merkez Mevkii	 Köy$
+181856	Çetmi Köyü, Kırkpöyre Mevkii	 Köy$
+24498	Çetmi Köyü, Merkez Mevkii	 Köy$|Akkaya Yaylası~
+24496	Çetmi Köyü, Yemişli Mevkii	 Köy$
+181858	Çetmi Köyü, Ömerkaya Mevkii	 Köy$
+24469	Çobankaya Köyü, Elikoğlu Mevkii	 Köy$
+24468	Çobankaya Köyü, Karaalioğlu Mevkii	 Köy$
+24470	Çobankaya Köyü, Koru Yayla Evleri	 Köy$
+24472	Çobankaya Köyü, Küyükçügil Mevkii	 Köy$
+24471	Çobankaya Köyü, Kışla Mevkii	 Köy$
+24466	Çobankaya Köyü, Merkez Mevkii	 Köy$
+24467	Çobankaya Köyü, Yenice Mevkii	 Köy$
+24474	Çobanlar Köyü, Aşağı Yayla Yayla Evleri	 Köy$
+185022	Çobanlar Köyü, Eynönü Mevkii	 Köy$
+24473	Çobanlar Köyü, Merkez Mevkii	 Köy$
+24608	Çukuraluç Köyü, Merkez Mevkii	 Köy$
+24609	Çukuraluç Köyü, Yayla Yayla Evleri	 Köy$
+24551	Örencik Köyü, Merkez Mevkii	 Köy$
+24552	Örencik Köyü, Yayla Yayla Evleri	 Köy$
+20419	İmambey Mah.	100.yıl@|50.yıl@|Ayrık~|Bahçeli~|Camii~|Cemiyet Myd.|Cumhuriyet@|Dere~|Dibek~|Efes~|Erikci~|Erikci Çıkmazı~|Eğri~|Garaj~|Kiraz~|Koyak@|Lale~|Mescit~|Nilüfer~|Sanayi Myd.|Taşbilek~|Taşlı~|Toraman~|Türbe~|Zübeyde Hanım@|Şandır~
+24618	İnceçay Köyü, Köprübaşı Mevkii	 Köy$
+24616	İnceçay Köyü, Merkez Mevkii	 Köy$
+24617	İnceçay Köyü, Yayla Yayla Evleri	 Köy$

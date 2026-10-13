@@ -1,0 +1,54 @@
+151835	Alınca Mah.	Alınca Orta Mücavir~|Badi~|Merkez~|Orta~|Paşa~|Sahil~|Çavuş~
+151837	Anaç Mah.	Abuloğlu~|Dervişoğlu~|Göçoğlu~|Kürt~|Kırca~|Yusufoğlu~|Zeynaloğlu~
+151839	Aziziye Mah.	Aziziye~
+61170	Babalı Mah.	Sakarat@|Sami Çandır@|Örümcek@|Şht.sadullah Keleş@
+151841	Bekirli Mah.	Arifağa~|Aşağı Çaylakoğlu~|Canikoğlu~|Gavran~|Hemşün~|Merkez~|Yeni~|Yukarıçaylakoğlu~
+151843	Beyli Mah.	Aşağı~|Civelek~|Devecioğlu~|Gedikoğlu~|Hallıoğlu~|Hasekioğlu~|Kabataş~|Kaduoğlu~|Konakyanı~|Küp Ali~|Küçüklüoğlu~|Kıran~|Mahmutkadıoğlu~|Mektepyanı~|Paskal~|Seferoğlu~|Selçuk~|Tepe~|Tonga~|Tığlı~|Yeni~|Ömeroğlu~
+151847	Bolatlı Mah.	Güney~|Hasano~|Kaymakco~|Orta~|Pamo~|Çalca~
+151845	Boğazcık Mah.	Bahçe~|Bece~|Deliktaş~|Hasan Ahmetoğlu~|Kalın Böğürtlen Yağmurlar~|Omar~|Toronoğlu~|Çakır Alioğlu~
+61172	Dereiçi Mah.	Aktaş~|Atatürk%|Hacı Mıstık@|Saray@|Türkmenistan@
+151857	Doğan Mah.	Dikilitaş~|Düzkiraz~|Goloğlu~|Kahvecioğlu~|Kara Ahmetoğlu~|Kütüklük~|Kızıl Bük~|Orta~|Taşlık Boğazı~|Tekirağzı~|Tepe~|Ulubeyli~|Çarkçıoğlu~|İmamoğlu~
+61173	Düz Mah.	1.~|12.~|2.~|23 Nisan@|3.~|30 Ağustos~|4.~|5.~|6.~|Ali Çavuş~|Atatürk%|Ay~|Azarbeycan@|Bahar~|Bakırcılar@|Barbaros~|Bülent Emre Yazkan~|Denizbahçe~|Dik~|Eskioğlu~|Eğitim@|Fidan~|Fındıklı~|Gülizar~|Güneş~|Hamsici~|Hazan~|Kamil Ersin Alp@|Kanarya~|Kum~|Kızlarpınarı~|Lale~|Mayıs Yedisi~|Mehtap~|Meltem~|Narin~|Piroğlu@|Sakalar~|Söğütaltı~|Süleymaniye@|Yalı~|Yıldız~|Çıkmaz~|Şht.oral Marangoz~
+151859	Efirli Mah.	Akcova~|Akmustafaoğlu Mücavir~|Akmustafaoğlu~|Akçaova Mücavir~|Arım~|Bakaçlı~|Günbatısı~|Gündoğusu~|Hacıhamitli~|Hacıoğlu~|Hekim Sokağı~|Hıdıroğlu~|Karayel~|Lodos~|Orta Mücavir~|Orta~|Sarıyel~|Yalı~|Yeni~|Çatak Mücavir~|Çatak~
+151861	Ekinciler Mah.	Göynük~|Tekirağzu~|Tepeköy~|Çangallı~
+151863	Gündoğdu Mah.	Aşağı~|Yukarı~
+151865	Güzelyurt Mah.	Hacıoğlu~|Seki~
+151867	Hacılar Mah.	Aliustaoğlu~|Burunoğlu~|Kovanlık~|Kıran~|Peri~|Çerkez(trabzonoğlu)~
+61174	Hamidiye Mah.	Arıtma~|Begonya~|Fevzi Çakmak@|Gürsel~|Korutürk~|Nergis~|Sunay~
+61175	Kacalı Mah.	10.~|11.~|9.~|Atatürk%|Atik~|Değirmen~|Fatih@|Gazi@|Gökkuşağı~|Gökyüzü~|Hanımeli~|Karabekir~|Köknar~|Kültür@|Papatya~|Plaj~|Pınar~|Rauf Denktaş@|Selvi~|Sevinç~|Yavuz~|Yağmur~|Yaşardoğu@|Çam~|Çarkçılar@|Özbekistan@
+61176	Kaleyaka Mah.	Ak~|Akasya~|Akbulut~|Akgün~|Atatürk%|Avcı~|Aydın~|Burunucu~|Bölükbaşı~|Cavit Pırlant@|Deniz~|Dereağzı~|Fener~|Gargıcak~|Güler~|Işık~|Kalecik@|Köse~|Sarı Ahmet~|Sezer~|Tüm General Emin Ersan@|Yumrutaş~|Çeşmeönü~|Çoluk~|Şerefoğlu~|Şirin~
+151873	Kazancılı Mah.	Belice~|Güney~|Kuz~|Orta~
+151875	Kovanlı Mah.	Bektaş~|Biberoğlu~|Büyükağız Sahil~|Büyükağız~|Cığızoğlu~|Dedeoğlu~|Kadıllıoğlu~|Karalı~|Karamanoğlu~|Kedili~|Köseoğlu~|Okulyanı~|Orta~|Soytaruoğlu~|Tellioğlu~|Yumuoğlu~|Şabanoğlu~
+61177	Kozağzı Mah.	19 Eylül~|7.~|8.~|9 Eylül~|Aralık~|Atatürk%|Belediye Myd.|Cami Altı Pasajı=|Cumhuriyet@|Dağıstanlı~|Dereboyu~|Düdükçü~|Göknar~|Gül~|Güneysu~|Güngör~|Hacı Kaptan@|Hakim Halim Nihat Ergen~|Halyeri Bel.blok Bina=|Kale~|Kanuni@|Karanfil~|Kestane~|Köprü Üstü Myd.|Manolya~|Menekşe~|Merdivenli~|Nur~|Odun Pazarı~|Olgunluk~|Pasaj~|Prf.dr. Mehmet Çavuşoğlu~|Rıfat Vona~|Sakarat@|Sakarya@|Sağlık~|Seçkin~|Varlık~|Yasemin~|Yücel~|Zafer@|Önel~|Özdemir~|İnönü@|Şehit Astsubay Ferhat Dinar~
+151877	Kurtuluş Mah.	Alibaşoğlu~|Kemaloğlu~|Orta~|Çiftlik~
+151879	Kutluca Mah.	Aşağı Kovancı~|Kıran~|Memişoğlu~|Veliakıllı~
+151881	Kuyluca Mah.	Ahmet Eyvanı Cibilli~|Karasanlı~|Kertil~|Merkez~
+151831	Kırlı Mah.	Emek=|Merkez=|Orta=|Salafat=|Teknepınar=|Tepeharman=
+151833	Medreseönü Mah.	Aşağı Doğanlı~|Cami~|Demirci~|Dere~|Doğanlı~|Erdem~|Eren~|Esen~|Garipçe~|Hatipoğlu~|Karanfil~|Kazancılı~|Keküloğlu~|Kepez~|Köseoğlu~|Küçüloğlu~|Kıran~|Menekşe~|Pınar~|Reşat Yavuz~|Sahil (doğanlı)@|Sahil (okçulu)@|Sahil@|Sami Doğan@|Seher~|Yukarı Doğanlı~|Çıvgınoğlu~|İstanbuloğlu~|Şehit İsmail@
+151883	Mersin Mah.	Eyüplü~|Orta~|Say~|Çapraz~
+151885	Neneli Mah.	Akçukurdere~|Becelli~|Dabur ( Orta )~|Fındıklıoğlu~|Hattat~|Ketaçoğlu~|Çağanoğlu~|Çolakoğlu~
+151887	Okçulu Mah.	Asarcık~|Dere~|Garaluşağı~|Katip~|Olukıran~|Sahil~|Tepe~|Yalı~
+151889	Ortatepe Mah.	Dervişoğlu~|Falcıoğlu~|Kabaktepe~|Kıran Avlu~|Orta~|Süleymanoğlu~|Uzunçayır~|Çakıroğlu~
+151891	Ramazan Mah.	Alçakbel~|Haliloğlu~|Hoynat~|Orta~|Sıraca~|Yalı~
+151893	Saray Mah.	Başlamış~|Hacıhasanlı~|Pirahmet~
+151895	Selimiye Mah.	Kavranbel~|Orta~|Çorakgeriş~
+151901	Soğukpınar Mah.	Belenbaşı~|Dereiçi~|Göldüzü~|Güney~|Hatipli~|Kabakoz~|Karavaiz~|Kovantaşı~|Odabaş~|Saydere~|Tavukçu~|Telcioğlu~
+151899	Sırakovancı Mah.	Kıran~|Mollaosman~|Sıra~|Tömsü~|Çeğil~
+151905	Tarlacık Mah.	Aşağı~|Düztepe~|Marangozoğlu~|Orta~
+151909	Tepecik Mah.	Güzlük~|Kartallık~|Köse Çiti~|Merkez~|Çukur~
+151913	Tepeköy Mah.	Adatepe~|Orta~
+151919	Töngeldüzü Mah.	Töngeldüzü~
+151923	Yarlı Mah.	Eskiköy~|Hürriyet~|Çorakyanı~|Öteköy~
+151927	Yazlık Mah.	Güney~|Karadere~|Kuz~|Merkez~|Yeni~
+151931	Yeniköy Mah.	Aydaşlı~|Karaali~|Orta~|Topal~|Çağşırlı~
+151937	Yeniöz Mah.	Yeniöz~
+151941	Yeşilköy Mah.	Aşağı~|Damlalı~|Haciyan~|Kömeloğlu~
+151943	Yumrutaş Mah.	Abdülkerimoğlu~|Alicik~|Günellioğlu~|Kırımlı~|Lazoğlu~|Oturoğlu~|Tuztaşı~|Çukurbaşı~
+151849	Çamarası Mah.	Cevizyalak~|Degelek~|Düz~|Guzgungaşı~|Gökseki~|Göldüzü~|Hoşnutoğlu~|Kadıoğlu~|Karabekir~|Kurtoğlu~
+182862	Çandır Mah.	1.~|2.~|3.~|4.~|Beyoğlu~|Dr. Gündüz Çelebioğlu@|Gül~|Hacıoğlu~|Mahmut Cemal~|Çakıroğlu~|Ördecik~|İbrahimoğlu~|Şehit Cumhur Çelebi~
+151853	Çaytepe Mah.	Bosta~|Darılık~|Kavakyanı~|Kavra Değirmenbaşı~|Kavra Kıran~|Kavra~|Kırağız~|Mahmutağadüzü~|Merkez~|Yalı~|Yason~|Çaka~|Çavuşkıranı~|Şıhlı~
+151855	Çerli Mah.	Bıcıloğlu~|Dereiçi Mücavir~|Dereiçi~|Efendioğlu~|Hacıoğlu~|Kabaktepe~|Kumluk~|Orta~|Sahil~|Yanbeyoğlu~|Çerli Orta Mücavir~
+61171	Çınar Mah.	Askeri Lojmanlar=|Atatürk%|Açelya~|Başak~|Buket~|Denizciler~|Dolunay~|Dutdibi~|Ece~|Eyüpoğlu~|Gonca~|Kışla@|Leylak~|Memiş~|Or General Halil İbrahim Fırtına@|Yaprak~|Çeşme~
+151869	İmeçli Mah.	Bordana~|Boğaz~|Gücük~|Kabadüz~|Koçboynuzu~|Mısırlıoğlu~|Yeste~|Çukur~
+151871	İstanbulboğazı Mah.	Bakaco~|Canlı~|Gökten~|Kalafatoğlu~|Kelebekdüzü~|Merkez~|Çakırali~
+151903	Şenyurt Mah.	Alt~|Bakaçoğlu~|Güney~|Haluçoğlu~|Herek~|Kuz~|Orta~|Üst~

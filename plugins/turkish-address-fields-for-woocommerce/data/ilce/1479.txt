@@ -1,0 +1,52 @@
+10164	Adnan Menderes Mah.	Akasya~|Anıl~|Arpacılar@|Aslan~|Bayrak~|Cami~|Coşkun~|Defne~|Gülbay~|Hüseyin Sözer@|Kanarya~|Kardelen~|Kardeş~|Kartal~|Kazançlı~|Leylak~|Mimoza~|Nilüfer~|Onur~|Palmiye~|Papatya~|Tuna~|Türkmen~|Zeytin~|Çulhalar@|Çınar~|İlbay~|İlhanlı@|İstiklal~
+144163	Akmescit Mah.	Merkez~
+10165	Atatürk Mah.	Karanfil~|Manolya~|Menekşe~|Sultan~|Sümbül~|Yasemin~|Zümrüt~|Şehit Er Barış Uçar@
+144253	Bağarcık Mah.	Bağarcık~
+144165	Bağcılar Mah.	Güzel Beyler~|Merkez~
+144167	Birci Mah.	Merkez~
+144237	Boydere Mah.	Merkez~|Ova~
+144235	Boğaziçi Mah.	Merkez~
+144169	Büyükdere Mah.	Merkez~
+144157	Bıyıklı Mah.	100.yıl@|7 Eylül~|Abdullah Çakır~|Ahmet Durmuş~|Ali Bayraktar~|Ali Dirik~|Ali Piyancı~|Arif Güngör~|Atatürk (yeni)@|Atatürk 1. Çıkmazı~|Atatürk@|Atatürk Çıkmazı~|Ballıdere~|Bayır~|Cami~|Ceylan~|Cumhuriyet Myd.|Dar~|Dere~|Dicle~|Efes~|Emekli Öğretmen Süreyya Sarıöz~|Esentepe~|Gediz~|Girne~|Göl~|Gül~|Güneş~|Hal~|Hasan Yaman~|Kamuran Güvenç~|Karanfil~|Kocabıyık~|Kocatepe~|Lale~|Levent~|Menderes 1. Çıkmazı~|Menderes 2. Çıkmazı~|Menderes 3. Çıkmazı~|Menderes@|Nergis 1. Çıkmazı~|Nergis~|Ova Evleri=|Park~|Pınarlıdere~|Refik Cesur (yeni)~|Refik Cesur~|Sakarya~|Sarmaşık~|Sebahattin Sertoğlu~|Sönmez~|Sümbül~|Yeni~|Yıldırım~|Zeki Şener~|Zeytinli~|Çarşı~|Çayır~|Çimen~|Çimen Çıkmazı~|Ömür~|Ömür Çıkmazı~|İmren~|İnönü@|Şehit Er Abdurrahim Çakır~|Şehit Teğmen Şakir~
+144171	Cincin Mah.	Bakacak~|Dağdibi~|Deveci Köy~|Köprü Başı~|Merkez~|Merkez Çukurköy~|Ova 1~|Ova 2~
+144181	Dedeköy Mah.	Kumbahçe~|Merkez~
+144183	Dereköy Mah.	Merkez~
+144185	Esentepe Mah.	Esenler~|Merkez~|Yayla~
+144239	Evsekler Mah.	Merkez~
+144187	Gaffarlar Mah.	Merkez~|Yayla Evleri~
+144241	Gözkaya Mah.	Hasancılar~|Merkez~|İsmail Onbaşı~|İsmailcik~
+144189	Güdüşlü Mah.	Merkez~
+10166	Gündoğan Mah.	302~|303~|304~|305~|306~|307~|308~|309~|310~|311~|Akyol~|Bahçe~|Barış~|Demir~|Demirkaya~|Deniz~|Fatih~|Gelincik~|Gündoğan@|Halilbeyli@|Hürriyet@|Işık~|Karadut~|Kocababa@|Lale~|Meriç~|Pınar~|Selvi~|Tepe~|Yunusemre~|Yıldız~|Çine@|İnci~|İncirliova@|Şahin~
+144243	Hacıhamzalar Mah.	Merkez~|Ova Mahalesi~
+144191	Halilbeyli Mah.	Merkez~
+144193	Haydarlı Mah.	Merkez~
+144195	Karaağaç Mah.	Merkez~
+144247	Karacaören Mah.	Aşağı~|Orta~|Yukarı~|Ümmetler~
+144197	Karadut Mah.	Merkez~
+144199	Kasaplar Mah.	Merkez~
+144205	Kullar Mah.	Merkez~|Yayla Evleri~
+144207	Kuşlarbelen Mah.	Caferler~|Kozalan~|Kızılkaya~|Merkez~
+144201	Kızılcabölük Mah.	Merkez~
+144203	Kızılkaya Mah.	Aşağıyayla~|Merkez~|Toklar Yaylası~|Yukarı Yayla~|Yörükler~
+144209	Mersinbelen Mah.	Bağlıpınar~|Merkez~|Sarıçay~|Yayla Evi~
+144249	Orhaniye Mah.	Merkez~
+10167	Orta Mah.	19 Mayıs@|207~|Atatürk@|Aydın~|Bağarası@|Ceylan~|Cumhuriyet Myd.|Deniz~|Dere~|Dicle~|Doğan~|Durmuş Terzioğlu@|Emre~|Garaj İçi Myd.|Gümüş~|Güneş~|Hisar~|Hürriyet@|Hüseyin Sözer@|Irmak~|Kadılar~|Kahramanlar@|Kocababa@|Kurtuluş~|Mersin~|Okul~|Pala~|Pamuk~|Yunusemre~|Zeybek~|Çakmar@|Çam~|Çiğdem~|Çulhalar@|İncirliova@|İşlek~
+144211	Sapalan Mah.	Merkez~
+144213	Satılar Mah.	Merkez~
+144215	Sobuca Mah.	Merkez~
+144221	Taşköy Mah.	Merkez~
+144223	Tekeli Mah.	Merkez~
+144227	Timinciler Mah.	Merkez~
+144225	Tığıllar Mah.	Merkez~|Tığıllar~|Yayla Evleri~
+144229	Yağcıdere Mah.	Merkez~
+144231	Yağhanlı Mah.	Merkez~
+10168	Yeni Mah.	19 Mayıs@|Arpacılar@|Bahar~|Cami~|Cihan~|Durmuş Terzioğlu@|Engin~|Eti~|Gediz~|Gül~|Hüseyin Sözer@|Kahramanlar@|Kale~|Kaya~|Kule~|Levent~|Nergis~|Okul~|Park@|Salkım~|Serpil~|Tuna~|Tunç~|Ufuk~|Yavuz~|Yeni@|Yunus Emre~|Zafer~|Zeytin~|Çelik~|Çimen~|Çulhalar@
+144159	Yeniköy Mah.	Asmalı~|Atatürk (cumhuriyet)@|Atatürk (hürriyet )@|Atatürk@|Atatürk1 Çıkmazı~|Atatürk2 Çıkmazı~|Bahçeli~|Bayır~|Belediye Myd.|Dere~|Gül~|Kazım Karabekir@|Kazım Karabekir1~|Kazım Karabekir2~|Kazım Karabekir3~|Kazımkarabekir@|Kazımkarabekir3~|Kılıç~|Lale~|Mehmet Akif (cumhuriyet)@|Mehmet Akif@|Mescit (hürriyet )~|Mescit~|Mescit1~|Mescit1 Çıkmazı~|Mescit2 Çıkmazı~|Mescit3~|Neşe~|Okul1~|Okul2~|Ova=|Pınar~|Pınar Çıkmazı~|Rüzgarlı~|Sezgin (cumhuriyet)@|Sezgin (hürriyet )@|Sezgin@|Sezgin1 Çıkmazı~|Sezgin2 Çıkmazı~|Sezgin3~|Sümbül~|Tepebaşı~|Terzi~|Ufuk~|Umurbey (hürriyet )~|Umurbey~|Umurbey1 Çıkmazı~|Umurbey2~|Yamaç~|Yonca~|Yıldırım~|Çay~|Çağlayan~|Çağlayan Çıkmazı~|Çimen~|Şahin~
+144251	Zeytinköy Mah.	Merkez~
+144173	Çakmar Mah.	Atatürk~|Merkez~
+144233	Çakırbeyli Mah.	Merkez~|Ova~
+144175	Çallı Mah.	Alaçam~|Bohtullar~|Karakuz~|Kınık~|Merkez~|Çerdin~
+144177	Çeşmeköy Mah.	Merkez~|Sekgöl~
+144179	Çulhalar Mah.	Merkez~|Pınarcık~
+144217	Şahinciler Mah.	Merkez~
+144219	Şenköy Mah.	Merkez~

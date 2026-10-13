@@ -1,0 +1,73 @@
+45792	Adalar Köyü, Merkez Mevkii	Merkez=
+45793	Adalar Köyü, Osmançelebi Mevkii	Osmançelebi=
+45803	Akdivan Köyü, Balca Mevkii	Balca=
+45806	Akdivan Köyü, Koçcuğaz Mevkii	Koçcuğaz=
+45805	Akdivan Köyü, Kızılcaelma Mevkii	Kızılcaelma=
+45804	Akdivan Köyü, Merkez Mevkii	Merkez=
+45802	Akdivan Köyü, Ornu Mevkii	Ornu=
+45798	Akçakese Köyü, Bayram Gazi Mevkii	Bayram Gazi=
+45801	Akçakese Köyü, Evrenler Mevkii	Evrenler=
+45800	Akçakese Köyü, Kocabaş Mevkii	Kocabaş=
+45794	Akçakese Köyü, Merkez Mevkii	Merkez=
+45797	Akçakese Köyü, Mırlavat Mevkii	Mırlavat=
+45795	Akçakese Köyü, Paşaoğlu Mevkii	Paşaoğlu=
+45796	Akçakese Köyü, Tavlıoğlu Mevkii	Tavlıoğlu=
+45799	Akçakese Köyü, Öcür Mevkii	Öcür=
+41813	Alınca Mah.	Alınca=|Ağlı~|Kagirpınarı=|İskender=
+45812	Bereketli Köyü, Cami Yanı Mevkii	Cami Yanı=
+45808	Bereketli Köyü, Kayabaşı Mevkii	Kayabaşı=
+45809	Bereketli Köyü, Kesim Mevkii	Kesim=
+45807	Bereketli Köyü, Merkez Mevkii	Merkez=
+45811	Bereketli Köyü, Çapal Mevkii	Çapal=
+45810	Bereketli Köyü, Şeyhoğlu Mevkii	Şeyhoğlu=
+41814	Danacı Mah.	Aşağıgeriş 2~|Aşağıgeriş 3~|Aşağıgeriş 4~|Aşağıgeriş 5~|Aşağıgeriş~|Danacı 1~|Danacıtekke 1~|Danacıtekke~|Elles=|Kadıköy=|Kuran Kursu~|Mustafa Yanıkkaya@|Nilüfer~|Sanayi~|Vatan@|Yap=|Züğürtoğlu~
+41815	Dikmen Mah.	Boşnak=|Emiroğlu~|Kahyaoğlu=|Karşı=|Oyru=|Topaloğlu=
+45817	Fırıncık Köyü, Delihasan Mevkii	Delihasan=
+45820	Fırıncık Köyü, Galta Mevkii	Galta=
+45822	Fırıncık Köyü, Hatip Mevkii	Hatip=
+45821	Fırıncık Köyü, Karaköy Mevkii	Karaköy=
+45818	Fırıncık Köyü, Merkez Mevkii	Merkez=
+45819	Fırıncık Köyü, Yayla Mevkii	Yayla=
+45827	Gölcüğez Köyü, Ese Mevkii	Ese=
+45828	Gölcüğez Köyü, Eyüpağa Mevkii	Eyüpağa=
+45825	Gölcüğez Köyü, Hasanlı Mevkii	Hasanlı=
+45823	Gölcüğez Köyü, Hüseyinefendi Mevkii	Hüseyinefendi=
+45826	Gölcüğez Köyü, Merkez Mevkii	Merkez=
+45824	Gölcüğez Köyü, Tepe Mevkii	Tepe=
+45831	Kabacı Köyü, Halil Mevkii	Halil=
+45833	Kabacı Köyü, Karapınar Mevkii	Karapınar=
+45829	Kabacı Köyü, Keller Mevkii	Keller=
+45830	Kabacı Köyü, Merkez Mevkii	Merkez=
+45832	Kabacı Köyü, Murtazaoğlu Mevkii	Murtazaoğlu=
+41816	Ketenciler Mah.	Abdullahoğlu=|Ağlı~|Dombazoğlu=|Ketenciler=|Kuruoğlu=|Kömürağası=|Naltoğlu=|Tekke=|Çörüz=
+41817	Kırlardere Mah.	Ayanoğlu=|Ağlı~|Dalıpoğlu=|Halilpaşaoğlu=|Kuruoğlu=|Kömürağası=|Kırlardere=
+41818	Merkez Mah.	Akasya~|Akbaş-=|Atatürk@|Aşağıgeccüğez=|Belediye@|Bülbül 1~|Bülbül~|Cami~|Canip~|Cumhuriyet@|Dere~|Efendioğlu=|Emin~|Eski Pazar=|Ganioğlu=|Gazi%|Gençlik Myd.|Gül~|Hacıhasan 1~|Hacıhasan~|Hacıoğlu 1~|Hacıoğlu 2~|Hacıoğlu~|Hal 1~|Hal~|Hastane@|Irmak~|Kale 1~|Kale@|Kanarya~|Kantar=|Karanfil~|Kaymakam Mehmet Yapıcı@|Kebapçı=|Kurma=|Kuyucu 1~|Kuyucu=|Köprübaşı~|Lale~|Levent 1~|Levent@|Manolya~|Menekşe~|Mustafa Yanıkkaya@|Orman@|Sanayi 1~|Sanayii@|Sümbül 1~|Sümbül~|Y.i.b.o@|Yalçın 1~|Yalçın~|Yavuz~|Yeni Cami~|Yenihal~|Yukarıgeccüğez=|Zafer~|Zambak 1~|Zambak~|Çayırbaşı~|Çimen~|Çiğdem~|Çınar~|İsmetpaşa@|Şerife Bacı-@|Şirin~
+45834	Müsellimler Köyü, Merkez Mevkii	Merkez=
+45835	Müsellimler Köyü, Örencik Mevkii	Örencik=
+45843	Oluközü Köyü, Arapoğlu Mevkii	Arapoğlu=
+45842	Oluközü Köyü, Cincioğlu Mevkii	Cincioğlu=
+45844	Oluközü Köyü, Dikeloğlu Mevkii	Dikeloğlu=
+45839	Oluközü Köyü, Karaoğlan Mevkii	Karaoğlan=
+45836	Oluközü Köyü, Muratoğlu Mevkii	Muratoğlu=
+45840	Oluközü Köyü, Selver Mevkii	Selver=
+45837	Oluközü Köyü, Tepe Mevkii	Tepe=
+45838	Oluközü Köyü, Çöpcü Mevkii	Çöpcü=
+45841	Oluközü Köyü, İbatoğlu Mevkii	İbatoğlu=
+45849	Selmanlı Köyü, Baloğlu Mevkii	Baloğlu=
+45845	Selmanlı Köyü, Kadı Mevkii	Kadı=
+45846	Selmanlı Köyü, Kuru Mevkii	Kuru=
+45850	Selmanlı Köyü, Merkez Mevkii	Merkez=
+45847	Selmanlı Köyü, Tavlıoğlu Mevkii	Tavlıoğlu=
+45848	Selmanlı Köyü, Şahin Mevkii	Şahin=
+41820	Selmanlı Mah.	Ağlı 1~|Selmanlı=|Çorlar=|Ören=
+41821	Sinan Mah.	Ağlı 1~|Ebece=|Emiroğlu~|Hatipoğlu=|Kebapçı=|Kuşakçı=|Sinan=|Topaloğlu=
+45852	Tunuslar Köyü, Kurtderesi Mevkii	Kurtderesi=
+45851	Tunuslar Köyü, Merkez Mevkii	Merkez=
+45853	Turnacık Köyü, Aşağı Turnacık Mevkii	Aşağı Turnacık=
+45854	Turnacık Köyü, Yukarı Turnacık Mevkii	Yukarı Turnacık=
+41822	Yağlıca Mah.	Ağlı~|Cırman=|Kalaycı=|Müftüoğlu=|Nuhefendi=|İmamoğlu=
+45813	Yeşilpınar Köyü, Dana Mevkii	Dana=
+45816	Yeşilpınar Köyü, Kabalar Mevkii	Kabalar=
+45815	Yeşilpınar Köyü, Mazak Mevkii	Mazak=
+45814	Yeşilpınar Köyü, Çaylı Mevkii	Çaylı=
+41819	Örencik Mah.	Ağlı~|Aşağı Örencik=|Dalıpoğlu=|Keçi=|Paytoncu~|Tinoğlu=|Yukarı Örencik=

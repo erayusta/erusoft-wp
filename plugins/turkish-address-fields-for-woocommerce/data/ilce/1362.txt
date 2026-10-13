@@ -1,0 +1,64 @@
+52259	Adnan Menderes Mah.	Anadolu~|Bahar~|Başak~|Cemal Aybey~|Cengiz Topel@|Gaziler@|Halbinası Üstü=|Halı Pasajı Altı~|Halı Pasajı Üstü=|Halıbina İçi=|Hayat~|Hayri Büke@|Hürriyet@|Karakazım Paşa@|Leylak~|Lonca Geçidi@|Millet@|Mimar Sinan@|Sanat~|Santral Geçidi@|Softalar=|Softalar Örencik=|Tütüncüler~|Yeni Huzur~|Zafer~|Zambak@|Zembilli~|İlkaya@|Şehit Abdülkadir Çelik~|Şehit J.astsb.üçvş.özgür Artunç%|Şehitler@
+154193	Akpınar Mah.	Akpınar~|Damaltı~|Devlethan~|Göksu~
+52260	Atatürk Mah.	19 Mayıs@|23 Nisan@|Alirıza Bey@|Ceylan~|Cihangir~|Eski Gördes=|Fatih%|Gazi Süleyman Yıldız~|Gazi İbrahim Köse~|Halil Efe@|Halil Zeybek@|Kanarya~|Kanuni Sultan Süleyman@|Kartal~|Kepez Mevkii=|Kürtdamları=|Mithat Paşa@|Namık Kemal@|Sakarya@|Susam~|Y.sultan Selim@|Yeşil Kıbrıs@|Zeytin Dalı~|Ziya Gökalp@|Zübeyde Hanım@|Şehit Ahmet İnceyol~|Şehit Halil İbrahim Ertaş~|Şht.er Ahmet Aran@|Şht.er Ekrem Karaaslan@|Şht.er Mehmet Adıgüzel@|Şht.er Mehmet Uzun@|Şht.er Ruşen Ulu@
+154197	Balıklı Mah.	Kayadibi~|Merkez~|Çamdibi~
+154203	Bayat Mah.	Alan~|Merkez~|Yaylapınar~
+154213	Benlieli Mah.	Merkez~
+154209	Beğel Mah.	Değirmen Boğazı~|Merkez~
+154211	Beğenler Mah.	Merkez~|Su Başı~
+52266	Beşeylül Mah.	Bereket~|Cumhur~|Ergenekon@|Gazi Ahmet Karakaya~|Gazi Çoşkun Çakır~|Halil Zeybek@|Kocamurtluk~|Malazgirt@|Misakı Milli@|Namazgah@|Çaltılı=|Şht.plt.bahri Önser@
+154215	Boyalı Mah.	Danda~|Eski Örencik~|Merkez~|Çaybaşı~
+154217	Börez Mah.	Merkez~
+52261	Cuma Mah.	Atatürk@|Bereket~|Bodamas=|Cemal Çağlar~|Cumhuriyet@|Fevzi Paşa@|Hacı Ethem Büke@|Havuzlu Çarşı~|Huzur~|Molla Fenari~|Murat~|Osman Paşa@|Ulus~|Vatan~|Yağmur~|Çamlıca~|İstanbul@|İstiklal@|Şehit J.astsb.üçvş. Özgür Artunç%|Şht.plt.bahri Önser@
+154237	Dalkara Mah.	Karapınar~|Merkez~
+154241	Dargıl Mah.	Dargıl~
+154245	Deliçoban Mah.	Deliçoban~
+154249	Dereçiftlik Mah.	Esen Çay~|Merkez~
+154189	Dikilitaş Mah.	Dikilitaş~
+52262	Divan Mah.	23 Nisan@|Adalet@|Atatürk@|Ay~|Cabarlar=|Fatih%|Gölkaşı@|Halil Zeybek@|M.akif Ersoy@|Mehmetçik~|Mehter Geçidi~|Sakarya@|Yeşil Saha Geçidi@|Yıldız~|İrfan~|İstiklal@|Şht.plt.bahri Önser@
+154255	Doğanpınar Mah.	Merkez~
+154259	Dutluca Mah.	Merkez~
+154263	Efendili Mah.	Esenyurt~|Merkez~
+181300	Evciler Mah.	Ay Yıldız~|Barbaros@|Bayrak~|Bayır~|Başak~|Beste~|Dağ~|Dumlupınar@|Egemenlik (zafer)@|Egemenlik@|Ertuğrul Gazi~|Gazi@|Gelincik~|Irmak~|Kıbrıs (zafer)@|Kıbrıs@|Kızılcık~|Lale~|Leylek~|Malazgirt (zafer)~|Malazgirt~|Mehtap~|Menekşe~|Orhan Gazi@|Orman~|Poyraz~|Salkım~|Taşlı~|Turunç~|Yağmur~|Yirmiüç Nisan@|Yıldırım Beyazıt@|Çağlar@|İpek~|İğdeli~
+154267	Fundacık Mah.	Dağyaka~|Merkez~|Çalkoca~
+154271	Gülpınar Mah.	Alanyurt~|Merkez~
+154137	Güneşli Mah.	Ahır Evler=|Ahır=|Akasyalar~|Akpınar~|Anadolu@|Anafartalar@|Arda~|Ardıç~|Arı Burun~|Arı~|Ata~|Atatürk@|Ay~|Aygüller~|Bülbül~|Cemre~|Citlenbik~|Cumhuriyet@|Damla~|Deste~|Değirmen~|Dumlu Pınar@|Fatih@|Gazi Selami Pazar@|Gül~|Gürerler~|Güvercin~|Hacı Mustafa Paşa@|Halil Yanlız@|Havuz~|Hoca Ahmet Yasevi@|Huzur~|Ihlamur~|Kanarya~|Karaca~|Karanfil~|Karaosmanoğlu@|Kayalı~|Kekik~|Kelebek~|Kilim~|Koca Cami~|Kumru~|Kümes=|Kırlangıç~|Leylak~|Martı~|Mehmet Akif Ersoy~|Menderes@|Mescit~|Mesir~|Mezarlıkbaşı~|Mimar Sinan@|Ondokuz Mayıs@|Otuz Ağustos@|Papatya~|Park~|Pehlivanoğlu@|Pekmez~|Plevne~|Sarmaşık~|Serçe~|Sümbül~|Tütün~|Ulus~|Vatan@|Yalı~|Yarenler~|Yavuz Sultanselim~|Yonca~|Yunus Emre~|Çağlayan~|Çilek~|Çimen~|Çıkmaz~|Özdemirler~|İnci~|İstiklal@|Şht.selami Sezer@|Şirin~
+52263	Hüseyni Baba Mah.	30 Agustos@|5 Eylül@|Akıncılar@|Anafartalar@|Başak~|Bölük Paşa=|Cengiz Topel@|Dilek@|Diriliş~|Fatih%|Gül~|Harmandalı@|Hayat~|Hürriyet@|Karakazım Paşa@|Karanfil~|Kepez=|Lalelik=|Milli Hakimiyet@|Nergiz~|Sanat~|Sanayii A Blok=|Sanayii B Blok=|Sanayii C Blok=|Sanayii D Blok=|Sanayii E Blok=|Sanayii F Blok=|Sanayii G Blok=|Sanayii H Blok=|Sanayii J Blok=|Sanayii K Blok=|Sanayii L Blok=|Sanayii M Blok=|Sanayii N Blok=|Sanayii O Blok=|Sanayii P Blok=|Sanayii R Blok=|Sanayii S Blok=|Sanayii T Blok=|Sümbül~|Tütüncüler~|Uçkun=|Zafer@|Şehit Mehmet Doğan~|Şehitler@|Şht.piyade Er Sezai Özdemir@
+154275	Kabakoz Mah.	Kabakoz~
+154279	Kalemoğlu Mah.	Bozova~|Doganyol~|Kalemoğlu~
+154283	Karaağaç Mah.	Dedebaşı~|Merkez~
+154287	Karakeçili Mah.	Hasanlar~|Merkez~|Tavşantaşı~|Tozlu~
+154299	Karayakup Mah.	Merkez~
+154293	Karayağcı Mah.	Aşağı Yanık Dağ~|Merkez~|Yukarı Yanık Dağ~
+154169	Kayacık Mah.	1~|10~|11~|12~|13~|14~|15~|16~|17~|18~|19~|2~|20~|21~|22~|23~|24~|25~|26~|27~|28~|29~|3~|30~|31~|32~|33~|34~|35~|4~|5~|6~|7~|8~|9~|Atatürk@|Bağ Damları Küme Evleri (hürriyet)=|Bağ Damları Küme Evleri (istiklal)=|Bağ Damları Küme Evleri=|Bağ Damlrı Küme Evleri=|Cumhuriyet Meydanı Myd.|Küme Evleri=
+154301	Kaşıkçı Mah.	Bahadırlar~|Bereketli~|Hacı Ümmetler~|Kaşıkçı~|Taşpınar~|Çaldere~|Çomaklı Yayla Damları~
+154331	Kobaklar Mah.	Kobaklar~
+154335	Korubaşı Mah.	Merkez~|Çimentepe~
+154417	Kuyucakkarapınar Mah.	Beygirler~|Cabarla~|Merkez~
+154347	Kuşlukköy Mah.	Merkez~|Ovacık~|Çam Köy~
+154341	Köseler Mah.	Damdor~|Değmen Dere~|Merkez~|Çatal Çeşme~
+154353	Kürekçi Mah.	Bekir Efe~|Karadiken~|Merkez~|Osmanlar~
+154309	Kılcanlar Mah.	Atcılar~|Debelek~|Dedeler~|Gölçük~|Kamiller~|Kılcanlar~|Ovalılar~|Çoban Hasan~
+154319	Kıranköy Mah.	Alanyaka~|Makbule Pınarı~|Merkez~
+154323	Kıymık Mah.	Gacar~|Merkez~
+154327	Kızıldam Mah.	Bademli~|Kavaklı~|Merkez~|Çamtepe~
+154359	Malaz Mah.	Bağbaşı~|Merkez~
+154363	Malkoca Mah.	Bağyurdu~|Malkoca~
+52264	Nakıpağa Mah.	Atatürk@|Bayat Alanı=|Bayraktar~|Bozkurt~|Cumhuriyet@|Eğerci=|Fevzi Paşa@|Güney~|Hacı Ethem Büke@|Hüseyini~|Kalabak=|Köreke Damları=|Osman Paşa@|Çamlıca~|İstiklal@|Şehit J.astsb.üçvş. Özgür Artunç%|Şehit Makbule Hanım@
+154367	Oğulduruk Mah.	Akyar~|Has Köy~|Merkez~
+154371	Pınarbaşı Mah.	Atalan~|Gazipaşa~|Merkez~
+154375	Salur Mah.	Aktepe~|Salur~
+154381	Sarıaliler Mah.	Kale~|Merkez~
+154389	Tepeköy Mah.	Merkez Tepe~|Paşa~
+154393	Tüpüler Mah.	Derebaşı~|Kepez~|Kozluca~|Köy Civarı~|Merkez~|Yağlıkdere~
+154397	Ulgar Mah.	Merkez~
+52265	Uzunçam Mah.	Akıncılar@|Atatürk@|Barbaros~|Cumhuriyet@|Damla~|Hacı Ethem Büke@|Meltem~|Orman İşletme=|Oğuz Geçidi~|Pınar~|Sağlık~|Ulus~|Yağcı Emir~|Yıldırım Beyazıt@|Çamlıca~|Çağlayan~|Ümit~|İstiklal@|Şair Eşref~|Şehit J.astsb.üçvş.özgür Artunç%|Şehit Makbule@
+154401	Yakaköy Mah.	Merkez~|Ulubey~|Ulupınar~
+154405	Yeniköy Mah.	Hasyurt~|Merkez~
+154409	Yeşilyurt Mah.	Günyaka~|Merkez~
+154225	Çatalarmut Mah.	Mahmudiye~|Merkez~
+154221	Çağlayan Mah.	Doğanlar~|Çağlayan~
+154133	Çiçekli Mah.	Ahırcık=|Atatürk@|Beypınarı=|Deprem Evleri=|Dutluca~|Fatih=|Kale@|Sanayi@|Sindel=|Sultanbahçe=|Yüzbaşılar=|Yılmaz~
+154231	Çiğiller Mah.	Merkez~|Okçular~|Yassıalan~
+154413	Şahinkaya Mah.	Merkez~|Tebebaşı~
+154385	Şeyhyayla Mah.	Doğanyurt~|Merkez~

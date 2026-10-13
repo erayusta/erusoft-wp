@@ -1,0 +1,43 @@
+186335	Ardıç Mah.	Hatipuşağı~|Kuz~|Merkez_11~|Yakupuşağı~
+186337	Başalan Mah.	Hüseyin Çukur~|Kayalan~|Merkez_1~|Zivzikler~
+186361	Döngel Mah.	Avitler~|Deli İbrahim~|Gürgenyatak~|Karabekir~|Köseler~|Merkez_4~
+186461	Döngelyatak Mah.	Döngelyatak~
+186451	Esenyurt Mah.	Erikli~|Hasanağa Deresi~|Hemşinliler~|Merkez_6~|Süleyman Çukuru~
+186365	Eynel Mah.	Atyolu~|Derelik~|Devalan~|Köleyatağı~|Kızılot~|Merkez_9~|Oğallı~|Sorkun~|Yolgeriş~|İncirli~
+69883	Eyüpsultan Mah.	Akşemsettin~|Atatürk%|Cami~|Fatih Sultan Mehmet_1~|Fatma Güler~|Hıdışali~|Kanuni Sultan Süleyman~|Mehmet Menderes-~|Molla Gürani~|Muhtar Dursun Doğan~|Musa Gümüşsu~|Mustafa Güler~|Necmi Avcı~|Sancak~|Teaş Sitesi~|Türkistan~|Vatan~|Şehit Er Adem Durmuş~|Şeyh Şamil~
+69884	Fatih Sultan Mehmet Mah.	Eğrikiraz~|Fatih Sultan Mehmet~
+186473	Gülpınar Mah.	Gülpınar Merkez (balahur)~|Gülpınar~|Tahtalık_1~
+186373	Gültepe Mah.	Haliloğulları~|Hambilir~|Hasan Ustalar~|Kuruçam~|Mahmuttaş~|Çavuşoğulları~
+186381	Gürçam Mah.	Fatsa~|Kırcaarmut~|Merkez_11~|Merkez_5~
+186385	Güzelyurt Mah.	Güzelyurt10~|Hacıbekirler~
+186389	Kabaklık Mah.	Kaltuman~|Merkez_10~|Çöldür~
+186455	Kapıkaya Mah.	Balcılar~|Höbekkaya~|Kabakestane~|Merkez_7~
+186463	Karaağaç Mah.	Karaağaç~
+186393	Karşıdöngel Mah.	Atmacaoğlu~|Darabaldüz~|Dumanoğlu~|Döngellioğlu~|Haydar~|Kopuk~
+186401	Kazancılı Mah.	Darabaldüz~|Karadüz~|Merkez_8~
+69885	Keskinoğlu Mah.	Göktürk@|Keskinoğlu~
+186405	Koçyurdu Mah.	Göndü~|Sahil_1~|Sırtdere~|Yusuflar~|Çanakçıbaşı~
+69886	Meşelidüz Mah.	Meşelidüz~
+69887	Orhangazi Mah.	Atatürk%|Baki~|Bayrak~|Fuzuli~|Göktürk@|Hacı Bayram Veli~|Hacı Bektaş Veli~|Hayber Geçidi~|Hazer Geçidi~|Hızır Reis~|Itri~|Keskinoğlu_1~|Menderes~|Mevlana~|Recep Tayyip Erdoğan~|Tuğrulgazi~|Yunus Emre~|İpek Geçidi~|Şehit J. Er Ertan Ad~|Şehit J. Er Hamdi Kızılkan~|Şehit J. Er Mustafa Akar~|Şehit J. Er Seyfi Altuntaş~|Şehit J. Uzm. Çvş Ferdullah Kaygusuz~|Şehit J.er Hamdi Kızılkan-~|Şehit Piyade Er Soner Süylü~
+69888	Orta Mah.	Orta~
+186409	Ortaköy Mah.	Gölceğiz~|Ortaköy~
+186475	Osmanlı Mah.	Osmanlı~
+186415	Sahilköy Mah.	Hayatgeriş~|Hürenbil~|Orta_2~|Tozlar~
+186421	Söğütpınar Mah.	Balahor~|Hamlık~|Hamzık~|Kızılelma_1~|Meşelidağ~|Orta_1~
+69889	Tepealtı Mah.	Tepealtı~
+186429	Terice Mah.	Aşubelen~|Kızılelma~|Merkez~|Soyuk~|Yıkılgan~
+186437	Tiryakioğlu Mah.	Tiryakioğlu~
+186439	Uğurlu Mah.	Ardıç~|Köçek~|Terce~
+186441	Yenice Mah.	Balcıoğlu~|Hamzık~
+186443	Yeniköy Mah.	Dere~|Günbat~|Tepe_1~
+186467	Yeşildere Mah.	Dikencikkuzu~|Eyüp Çukuru-~|Koğukallan~|Küçükler_1~
+186447	Yeşilpınar Mah.	Merkez (yeşilpınar)~|Merkez -~|Saykiraz~|Çubuklu~
+186445	Yeşilçam Mah.	Merkez_11~|Yapıkırık~
+69890	Yunus Emre Mah.	Eğrikiraz~|Keskinoğlu_1~|Merkez_5~|Yunus Emre_1~
+186449	Zafer Mah.	Eğrikiraz~|Karavayiz~|Merkez(orta)~
+186345	Çamalan Mah.	Ali Baba~|Arpa Çukur~|Kadılar~|Kara Ağaç~|Kazançilek~|Tekkeköy~|Tekmezar~|Ulubelen~|Yeşildere~
+186351	Çamlıkale Mah.	Darabaldüz~|Çamlıkale~
+186355	Çarşıköy Mah.	Darabaldüz~|Merkez_2~|Çal~|Çınar~
+186359	Çökekli Mah.	Boyalıca~|Gökyar~|Kuyucak~|Merkez_3~
+186413	Örencik Mah.	Örencik~
+186425	Şenpınar Mah.	Baraj Mevki~|Boztepe~|Dereiçi~|Tahtalık~

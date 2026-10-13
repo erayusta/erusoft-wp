@@ -1,0 +1,148 @@
+890	Adliye Mah.	Adliye@|Adliye-1~|Ahi Evran~|Budaklar~|Canefe~|Cumhuriyet@|Dr. Ali Eren@|Gürcan~|Terminal@|Türk Ocağı~|Yeni Denizli@|Yeniyol@|Çelebi~|İsmail Onbaşı~|Şair Nedret Gürcan@|Şht.hüseyin Güvercin@
+5143	Afşar Köyü	 Köy$
+5145	Akgün Köyü	 Köy$
+5159	Akpınarlı Köyü	Akpınarlı=
+5124	Aktoprak Köyü	Aktoprak=
+197919	Aktoprak Köyü, Aktoprak Mücavir Mevkii	Acar~|Akpınar~|Aktoprak=|Alpan~|Atatürk Meydanı=|Başaran~|Demirhan~|Gönüllü~|Gültekin~|Gürler~|Karaağaç 1~|Karadeniz~|Kayalar~|Selçuk~|Taşdelen~|Uyar~|Yeğenoğlu~|İnceoğlu~
+5144	Akça Köyü	 Köy$
+5158	Akçin Köyü	 Köy$
+5089	Alacatlı Köyü	 Köy$
+5162	Alparslan Köyü	 Köy$
+5161	Alparslan Köyü, Aşağı Mh. Mevkii	Alpaslan=
+5160	Alparslan Köyü, Yukarı Mh. Mevkii	Atatürk@
+891	Altmışevler Mah.	Atatürk İlkokulu@|Bayram Ali Veziroğlu@|Bağkur~|Cemil Bey@|Cengiz Topel@|Düden~|Gazi~|Gökalp~|Hale~|Irmak~|Kahramanlar~|Okul~|Selin~|Tümer@|Yeni Denizli@|İncirli@|Şh. İlhan Avcı~
+892	Atatürk Mah.	1. Ciritoğlu~|2.ciritoğlu~|Beşpınar~|Kültür~|Lale~|Menderes@|Santral@|Sarmaşık~|Çivril@|Şehit Lokman Hakkainanan~
+5090	Avdan Köyü	 Köy$
+5094	Bademli Köyü	 Köy$
+5091	Bademli Köyü, Aydınlı Mevkii	 Köy$
+5092	Bademli Köyü, Camili Mevkii	 Köy$
+5093	Bademli Köyü, Orta Mevkii	 Köy$
+5163	Bağcılar Köyü	 Köy$
+893	Bağlar Mah.	1. Demirel~|1.divan~|1.rüzgarlı~|2. Demirel~|2.divan~|2.rüzgarlı~|3.divan~|3.rüzgarlı~|4.rüzgarlı~|Akar~|Altıntaş~|Celal Toköz~|Dar~|Göktürk~|Kalkan~|Kavak~|Sulu~|Telli~|Tünel~|Yurt~|Çivril@|Şehit Ali İlhan~
+5095	Belenpınar Köyü	 Köy$
+5096	Bilgiç Köyü	 Köy$
+5097	Burunkaya Köyü	 Köy$
+5100	Bülücalan Köyü	Bülücalan=
+197921	Bülücalan Köyü, Bülücalan Mücavir Mevkii	Bülücalan=
+894	Camikebir Mah.	1.şadırvan~|2.şadırvan~|Adliye@|Atatürk%|Banka~|Büyük Hamam~|Cumhuriyet@|Emeksizoğlu~|Eski Dinamo~|Evren@|Hal@|Hürriyet-1~|Ilıca@|Ilıca-1~|Küçük Hamam~|Sebze Pazarı~|Tansa~|Yeni Denizli@|Yeniyol@|Şair Nedret Gürcan@
+5101	Cerityaylası Köyü	 Köy$
+5149	Cumhuriyet Köyü	 Köy$
+5148	Cumhuriyet Köyü, Akça Mh. Mevkii	 Köy$
+5146	Cumhuriyet Köyü, Seydilli Mh. Mevkii	 Köy$
+5147	Cumhuriyet Köyü, Ömerli Mh. Mevkii	 Köy$
+895	Cumhuriyet Mah.	1.güvercinli~|Akın~|Ayrancı~|Bahçe~|Demir~|Donatım~|Duru~|Ersoy~|Gezgin~|Güdük~|Güvercinli~|Halıcı~|Kooperatif@|Kovalık~|Naneli~|Sonyol~|Ulaşır~|Uygur~|Vehbi Kitiş@|Ziraat~|Çıtlık~|Üçkavak@|Şehit Muhammet Bayram~
+197923	Dikici Köyü, Dikici Mücavir Mevkii	Hakim Güngör Babacan@|Hasan Hüseyin Çimen=|Mustafa Acar=
+5107	Dikici Köyü, Erdoğan Ulusan Mevkii	 Köy$
+5110	Dikici Köyü, Hasan Hüseyin Çimen Mevkii	Hakim Güngör Babacan@|Hasan Hüseyin Çimen=
+5106	Dikici Köyü, Mehmet Tuncay Mevkii	Hakim Güngör Babacan@|Hasan Hüseyin Çimen=|Mehmet Tuncay=
+5109	Dikici Köyü, Mustafa Acar Mevkii	Mustafa Acar=
+5108	Dikici Köyü, Yücel Yalçın Mevkii	 Köy$
+5152	Dombay Köyü	 Köy$
+929	Doğanlı Köyü, Cumhuriyet Mevkii	Anafartalar~|Atatürk~|Cumhuriyet-1~|Huzur~|Kurtuluş~|Mevlana~|Meydan~|Niğbolu~|Sakarya~|Tuğrulbey~|Vatan~|Çevik~|Ş.mehmet Ali Karacan~
+930	Doğanlı Köyü, Gazi Mevkii	Ertürk~|Kocatepe~|Tek~|Zafer Gazi~|Çağlayan~|İnci~|İstiklal~
+931	Doğanlı Köyü, Örnek Mevkii	1.ci Cumhuriyet~|Anadolu~|Atatürk~|Bayrak~|Cengiz Topel~|Cumhuriyet~|Dumlupınar~|Fatih Sultan Mehmet~|Karagöz~|Kaygısız~|Mehmet Akif~|Menekşe~|Papatya~|Pınar~|Uygar~|Yıldız~|Zafer~|Zambak~|Çağlayan~|Çimen~|Çınar~|Şehit Hüseyin Güvercin~|Şehit Mehmet Efe~|Şehit Yavuz Öztürk~
+5111	Duman Köyü	 Köy$
+897	Dörtyol Mah.	1.avcılar~|2.avcılar~|3.avcılar~|4 Katlı Öğretmenevleri=|Bademli~|Battal~|Demiryolu~|Dörtyol~|Eski Başmakçı Yolu@|Eski Denizli@|Güneşli~|Isparta@|Işıklı~|Küçükkoru~|Polat~|Tamirciler~|Tornacılar~|Yeni Denizli@|Çadır~|Çelik~|İğdeli~|Şehit Ali Çelik~
+5112	Eldere Köyü	Eldere=
+898	Emniyet Mah.	Adliye@|Ahmet Yesevi~|Cumhuriyet@|Dikmen~|Hacı Paşa~|Kımıllar~|Menekşe~|Terminal@|Yeni Denizli@|Yeniyol@|Çobanoğlu~|Şht.hüseyin Güvercin@
+5165	Ergenli Köyü	 Köy$
+99368	Fatih Mah.	1.toki~|10. Toki~|11. Toki~|2.toki~|3. Toki~|4. Toki~|5. Toki~|6.toki~|7. Toki~|8. Toki~|9. Toki~|Acar~|Acar4~|Gelincik1~|Kekik~|Lavanta~|Müdüroğlu@|Nane~|Çağlayan~|Şehit Hasan Altıntaş@
+896	Gazi Mehmet Çavuş Mah.	1.iğdeli~|1.yaman~|2.iğdeli~|2.yaman~|3.yaman~|Ali Usta~|Bayır~|Bombacı Mehmet Çavuş~|Boztepe~|Bülücalan@|Dedeoğlu=|Dere@|Derelibayır~|Durmuş Ali Çavuş~|Ezgi~|Huzurevi~|Karagöz~|Kireç Ocağı~|Kopuz~|Lokman~|Malazgirt~|Nağme~|Ozan~|Ozan1~|Tezene~|Yangın Depo~|Yaren~|Özyılmaz~|Şehit Cengiz Toklu~
+5115	Genceli Köyü, Camili Mevkii	Camili=|Karahacılı=|Muhtarlık~|Sellektör~
+197925	Genceli Köyü, Genceli Mücavir Mevkii	Karahacılı=|Muhtarlık~|Sellektör~
+5116	Genceli Köyü, Gençaliosb Mevkii	1.@|2.@|3.@|4.@|5.@|6.@|7@|7.@|Karahacılı=
+5113	Genceli Köyü, Köy Konağı Mevkii	Karahacılı=|Köy Konağı~
+5114	Genceli Köyü, Yeni Mevkii	Fırın~|Yeni Mahalle~
+5117	Gökçeli Köyü	 Köy$
+5167	Göçerli Köyü, Dere Mh. Mevkii	 Köy$
+5170	Göçerli Köyü, Gedik Altı Mevki Mh. Mevkii	 Köy$
+5166	Göçerli Köyü, Gedik Başı Mh. Mevkii	 Köy$
+5169	Göçerli Köyü, Harman Yeri Mh. Mevkii	 Köy$
+5168	Göçerli Köyü, Küçük Kale Önü Mh. Mevkii	 Köy$
+5171	Göçerli Köyü, Sırataş Mh. Mevkii	 Köy$
+919	Haydarlı Beldesi, Cumhuriyet Mah.	Akasya~|Aras-1@|Arıkan~|Bağtepe@|Bozan@|Bozkurt~|Cumhuriyet@|Kan~|Okyar~|Peker~|Turan~|Yüksel~|Yıldırım@|Çeri~|Çiçek~|Çözen~|Çınar~|Üzümlü~|İçöz~|Şht.ali Sağlam@
+920	Haydarlı Beldesi, Hürriyet Mah.	Arslan~|Bahçe~|Durak~|Ersöz~|Fırat~|Güneş~|Hürriyet@|Kaya~|Kepir~|Korkmaz~|Levent~|Yeniyol-1@|Yılmaz~|Çetinkaya~|Öcal~|Öcel~|Över~|Şht.m.ali Karacan@
+922	Haydarlı Beldesi, Merkez Mah.	Aras@|Cami@|Cumhuriyet Myd.|Derin~|Haydarlı Myd.|Hürriyet@|Lale~|Turunç~|Özlü~
+140761	Haydarlı Beldesi, Ocaklı Mah.	Aksel~|Gündüzlü~|Gürpınar~
+924	Haydarlı Beldesi, Yeni Mah.	Akın-1~|Altın~|Altın-1~|Altıntaş~|Atatürk@|Ateş~|Badem~|Bahar~|Eraslan~|Erkan~|Gül-1~|Gümüş 1~|Gümüş~|Güner~|Hazer~|Pınar~|Ray~|Tezcan1~|Türkyılmazlar@|Yalçın~|Yayla@|Yeniköy=|Çağlar-1~|Çağlayan~|Çilek~|Ş.yavuz Öztürk -9@|Şimşek~
+923	Haydarlı Beldesi, Örnek Mah.	Arslantaş~|Barış~|Elvan~|Erhan~|Gecekondu@|Gül~|Hastane@|Huzur~|Kanarya~|Karasu~|Kredi~|Lise@|Tarım Köy@|Toki@|Toki-1.~|Toki-10~|Toki-11~|Toki-12@|Toki-2~|Toki-3~|Toki-4~|Toki-5~|Toki-6~|Toki-7.~|Toki-8~|Toki-9~|Uçak~|Yayla@|Çapa~|Örnek~|Özkan~|İnönü@|Şahin~|Şht.ali Sağlam@
+921	Haydarlı Beldesi, İstiklal Mah.	Atatürk-1@|Badem~|Can~|Cumhuriyet Myd.|Eda~|Hal Pazarı 1 Myd.|Harman~|Kahya~|Konya~|Kuruçay~|Köken~|Mehmetçik~|Soydan~|Tezcan~|Turhan@|Yayla@|Yeniyol-1@|Yeşil Yol~|Zübeydahanım@|Çimen~|İpek@|Şht.m.ali Karacan@
+899	Hürriyet Mah.	1.akıncı~|1.bozkurt~|1.mevlana~|1.selin~|1.yiğit~|2.boran~|2.bozkurt~|2.mevlana~|2.umut~|2.yiğit~|3.bozkurt~|3.mevlana~|4. Bozkurt~|4. Mevlana~|5. Bozkurt~|5. Mevlana~|6. Mevlana~|Akşemsettin~|Alparsalan~|Alperen~|Anı~|Armağan~|Boran~|Eski Denizli@|F.sultan Mehmet~|Fabrika~|Gerenlik@|Gerenlik-1~|Hürriyet@|Meteoroloji~|Meyveli~|Petrol~|Ray~|Umut~|Yeni Denizli@|Yıldırım~|İbni Sina~|İpekyolu~|İplikçi~|Şehitaliakkoç~|Şht.alim Çoban~|Şht.tefik Aksu~
+900	Ilıca Mah.	Cırcır~|Gazi Yusuf Erkaya~|Gazi İbrahim Uysal~|Kavakcıl~|Kayalık~|Konak@|Kudret Döşeme@|Söğütlü Çeşme~|Çivril@|Çıkmaz~|Şehit Hakan Duman~
+5118	Kabaklı Köyü	 Köy$
+932	Kadılar Köyü, Atatürk Mevkii	Ergenli Yolu~|Karanfil~|Yayla~|İstiklal~
+933	Kadılar Köyü, Cumhuriyet Mevkii	1.yayla~|Dumlupınar~|Gül~|Tatarlı~|Çiğdem~
+935	Kadılar Köyü, Zafer Mevkii	1.dumlupınar~|Caner~|Demirel~|Kocatepe~|Uğur~|Çakırlı~|Çevre~|Şahin~
+934	Kadılar Köyü, İnönü Mevkii	Demiral~|Demirel~|Dinar~|Gerenlik~|Kubilay~|Sazlık~|Çakırlı~|Çarşı~|Özgür~
+5153	Karabedir Köyü	 Köy$
+5119	Karahacılı Köyü	Karahacılı=
+5120	Karakuyu Köyü, Köy İçi Mevkii	 Köy$
+5121	Karakuyu Köyü, İstasyon Mevkii	 Köy$
+5154	Karataş Köyü	 Köy$
+5155	Kazanpınar Köyü	 Köy$
+5156	Keklicek Köyü	 Köy$
+904	Konak Mah.	1.bademli~|1.yayla~|2.bademli~|2.yayla~|3.bademli~|4.bademli~|4.yayla~|Bahçelievler~|Dikbayır~|Güvenlik~|Hilal~|Huzur~|Kapıkaya~|Kavakcıl~|Konak@|Kudret Döşeme@|Kızılay~|Narin~|Osman Gazi~|Pehlivan~|Sellik~|Tavşanlı~|Taşlı~|Tepe~|Toprak~|Ulu~|Ulubatlı Hasan~|Vişneli~|Yokuş~|Yukarı Konut~|Yıldız~|Çivril@|Çoban~|Üçlüer~|Şht.bayram Yıldız~|Şht.yusuf Mercan~
+905	Korubaşı Mah.	1. Bülbül~|1. Menekşe~|1.karanfil~|1.kardelen~|1.konut~|1.manolya~|1.orkide~|1.papatya~|1.zümrüt~|10. Zümrüt~|11. Zümrüt~|12. Zümrüt~|15 Temmuz@|2.konut~|2.stadyum@|2.zümrüt~|3.konut~|3.zümrüt~|4.konut~|4.zümrüt~|5. Zümrüt~|5.konut~|5.zümrüt~|7. Zümrüt~|8. Zümrüt~|9. Zümrüt~|Acar~|Acar101~|Ali Demiray~|Antalya@|Bedir~|Besici~|Beşler~|Demirhanlar~|Dikici~|Emre~|Erbaş~|Gözde~|Güneş Öngüt-1@|Güvenevler~|Isparta@|Korubaşı@|Mehmet Akif Ersoy~|Tarla Yolu~|Tekelipğlu~|Toklu~|Tolga Dayan~|Tolga Dayan1~|Yasemin1~|Çağdaş~|Çağrı Bey~|Ötüken~|Öz Bozkurt~|Özgül~|Özgün~|Öğretmen~|Öğretmenevleri~|İstiklal~|Şahin~|Şehit Ali Sağlam~|Şehit Erol Kaplan Kıran~|Şehit Faruk Demiray~|Şehit Fikret Tanrıkulu~|Şehit Ramazan Ülkü~|Şeker~
+5123	Körpeli Köyü	 Köy$
+936	Kınık Köyü, Bahçelievler Mevkii	Arap Dede~|Cumhuriyet=|Cumhuriyet~|Laleli~|Mavi~|Namık Kemal~|Sümbül~|Volkan~|Yavuz Selim~|Yunus Emre~|Yıldırım Beyazıt~|İbirli~|Şehit İbrahim Sargın~
+937	Kınık Köyü, Esentepe Mevkii	Cumhuriyet~|Ertuğrul Gazi~|Hacı Bekir~|Hacılar~|Mimar Sinan~|Osman Gazi~|Saraçoğlu~|Sağlık~|Serhat~|Timur~|Zümrüt~
+938	Kınık Köyü, Fatih Mevkii	4.murat~|Arap Dede~|Cumhuriyet=|Gazi Demircioğlu~|Gazi Hüseyin Okumuş~|Gazi Sait Efendi~|Konya~|Kumluk~|M.fevzi Çakmak~|Sümbül~|Topaktaş~|Topraklık~|Yavuz Selim~|Şehit İdris Eyibilir~
+939	Kınık Köyü, Öztürk Mevkii	Ali İhsan Paşa~|Camikebir~|Cumhuriyet~|M.fevzi Çakmak~|Mimar Sinan~|İsmail Hoca~|Şehitlik~
+5122	Kızıllı Köyü	Kızıllı=
+5174	Okçular Köyü	Okçular=
+906	Otogar Mah.	1. Bahar~|1. Buket~|1. Gönül~|1.başak~|1.şarampol~|10.başak~|11.başak~|12.başak~|2. Bahar~|2. Başak~|2. Buket~|2.şarampol~|3. Bahar~|3. Başak~|3. Buket~|3.şarampol~|4. Bahar~|4. Başak~|5. Bahar~|5. Başak~|6. Bahar~|6. Başak~|7. Bahar~|7. Başak~|8. Başak~|9. Başak~|Akçeşme~|Akıncı~|Antalya@|Başak~|Eski Başmakçı Yolu@|Eski Denizli@|Gamze~|Gündoğdu~|Kardelen~|Kayısılı~|Koyunlu~|Mehmetçik~|Muhabbet~|Mücahit~|Sancak~|Tekin~|Yeni Başmakçı Yolu@|Yeni Denizli@|Yunus Emre-1~|Çakmak~|Çapan~|İrem~|Şehit Mehmet Ali Karacan~|Şehit Nail Acar~
+5125	Palaz Köyü	 Köy$
+907	Pancar Mah.	1. Camii~|1. Dar~|1. Kaya~|1.kader~|1.mera~|2.kader~|2.mera~|Arzu~|Aygören~|Bent~|Depo~|Dutlu~|Erbil~|Erler~|Eski Denizli@|Fidan~|Gönül~|Hüyük@|Kantar~|Konyalı Camii~|Köşe Bakkal~|Leylak~|Mert~|Nakliye~|Pancar@|Pancar-1~|Salkım Söğüt~|Yeni Denizli@|Üçyol~|Şht.ramazan Gönüllü~
+908	Pazar Mah.	1. Yeni~|2. Çimen~|Ara~|Bağlar~|Eskipazar~|Ilıca@|Kapısız~|Karaağaç~|Keskin~|Park~|Santral@|Sulu~|Yeniyol@|Yüzbaşıoğlu~|Çivril@|Şehit İzzet Alper Taşbaş~
+909	Pınarbaşı Mah.	1.huzur~|1.kemer~|1.çimen~|2.kemer~|Akaryakıt@|Aslı~|Atasoy~|Bahçe-1~|Bayır~|Boztepe~|Ceren~|Deliklitaş~|Gazi Halit Üresin~|Karabayır~|Mustafa Öztürk~|Oyukkaya~|Ozan~|Pınarbaşı@|Serin~|Yeniyol-1~|Çoban~|İlkay~|İncirli@|Şube~
+5126	Pınarlı Köyü	 Köy$
+910	Sanayi Mah.	1.sanayi~|1.ticari~|10.sanayi~|11. Sanayi~|12. Sanayi~|2.sanayi~|2.ticari~|3.sanayi~|4.sanayi~|5.sanayi~|6.sanayi~|7.sanayi~|8.sanayi~|9.sanayi~|Anıt~|Dokuma~|Hal Pazarı=|Kalaycı~|Kaygısız~|Kitiş@|Mera@|Mermer~|Mimar Sinan~|Selanik@|Zahire Pazarı İçi=|İstasyon@|Ş.bayram Ali Solmaz~
+911	Santral Mah.	Ali Solmaz~|Aydemir~|Bağlar~|Cancan~|Dutlubel~|Esenler~|Hıdırellez~|Kanal~|Karanfil~|Kavak~|Kayıboyu~|Kunduracı~|Santral@|Selanik@|Özkan Okur~
+912	Stadyum Mah.	1.stadyum@|1.yonca~|1.çelebi~|2.camii~|2.stadyum@|2.yonca~|3.stadyum@|3.yonca~|4.stadyum@|4.yonca~|5.yonca~|6.yonca~|7. Yonca~|Acar~|Acar2~|Güneş Öngüt@|Işık~|Papatya~|Stad~|Tarla Yolu~|Ufuk~|Yağmur~|Yeni Denizli@|Çayır~|Şht.c.ömer Çetiner~
+913	Suçıkan Mah.	Bülbül~|Dedeoğlu=|Değirmen~|Gündoğan~|Kırımoğlu~|Suçıkan@|Yeşilbayır~|Yeşilbağ~
+5127	Sütlaç Köyü	 Köy$
+940	Tatarlı Beldesi, Altınhisar Mah.	Ali İhsan Paşa@|Aliihsanpasa@|Atatürk@|Bahçe-1=|Kümeevler=|Mezarlık~|Çay~
+941	Tatarlı Beldesi, Cumhuriyet Mah.	Atatürk@|Bahar~|Fatih@|Hürriyet@|Karanfil~|Özden~
+944	Tatarlı Beldesi, Fatih Mah.	Atatürk@|Balkan@|Dinar@|Kurtuluş%|Küme=|Çay~
+945	Tatarlı Beldesi, Yeşilyurt Mah.	Bahçe~|Ceyhan~|Cumhuriyet Meydanı Myd.|Cumhuriyet Myd.|Derviş~|Gül Çıkmazı~|Hürriyet@|Karabalçık=|Kubilay@|Çukur~|Şahin~
+943	Tatarlı Beldesi, Çamlıca Mah.	Arslan~|Cumhuriyet Myd.|Kartal~
+942	Tatarlı Beldesi, Çağlayan Mah.	Ali İhsan Paşa@|Atatürk@|Cumhuriyet Myd.|Doğan~|Dural~|Gündoğdu@|Kartal~|Uysal~|Çay~
+5128	Tekin Köyü, 11 Evler Mevkii	Bayır~|Çıkmaz~
+5129	Tekin Köyü, 18 Evler Mevkii	Dere~|Konak~|Okul~
+5130	Tekin Köyü, 60 Evler Mevkii	Ayvalı~|Camii~|Gül~|Park~|Trafo~
+914	Toptepe Mah.	1.değirmen~|1.çimen~|Bülücalan@|Dedeoğlu=|Dere@|Doğan~|Kartal~|Kayalı~|Topaltı~|Yeni Denizli@|Yunus Emre@|İncirli@|Şht.idris İyibilir~
+5131	Tugaylı Köyü	 Köy$
+917	Uluköy Köyü, Camikebir Mevkii	1 Nolu Okul~|2 Nolu Okul~|Atatürk~|Beyköy~|Cumhuriyet 1~|Cumhuriyet~|Emniyet~|Esen~|Gündoğdu~|Huzur~|Kalender~|Karakol~|Kasapoğlu~|Kooperatif~|Menderes~|İmamoğlu~|Şht.asb.tevfik Aksu~
+918	Uluköy Köyü, Yeni Mevkii	Cami~|Cumhuriyet~|Dar~|Fatih~|Gündoğdu~|Hastane~|Karanfil~|Kazım Karabekir~|Kısa~|Lale~|Mimar Sinan~|Poyraz~|Sulu~|Tuzla~|Yayla~|Yeni~|Yıldırım Beyazıt~|Yıldız~|Çeşme~
+5132	Yaka Köyü	 Köy$
+197927	Yaka Köyü, Yaka Mücavir Mevkii	 Köy$|Çivril@
+5133	Yapağlı Köyü	 Köy$
+5134	Yelalan Köyü	 Köy$
+916	Yeni Mah.	1. Pınar~|1. Çağlayan~|1.eski Harman~|2. Pınar 101~|2.eski Harman~|2.pınar~|3. Pınar~|3.eski Harman~|3.mevlana~|4.eski Harman~|5.eski Harman Yeri~|Aydoğan~|Batuhan~|Biriket~|Camii~|Caner~|Cevizli~|Dedekorkut~|Düzdirek~|Efe~|Ergenekon~|Gerenlik@|Güngörmüş~|Hürriyet@|Kuzulu~|Lalezar~|Pınar~|Topaloğlu~|Uslu~|Yenievler~|Yoncalı~|Çaylı~|Çığlı~|Üçkavak@|Şh. Mustafa Beter~|Şht.ismail Akkoç~
+5139	Yeşilhüyük Köyü	Yeşilhüyük=
+5157	Yeşilyurt Köyü	 Köy$
+5135	Yeşilçat Köyü	 Köy$
+5138	Yeşilçat Köyü, Hacımahmut Mevkii	 Köy$
+5137	Yeşilçat Köyü, Orta Mevkii	 Köy$
+5136	Yeşilçat Köyü, Peynir Yemez Mevkii	 Köy$
+5142	Yüksel Köyü	 Köy$
+5141	Yüksel Köyü, Akkanatlı Mevkii	Cami~|Gül~|Muhtar Hasan Sarıkaya~|Necati Bey~|Yılmaz~|Zafer Orhan~
+5140	Yüksel Köyü, Sağbaşlı Mevkii	Müftü Emin Sağbaş~|Çavuşlar~
+946	Yıprak Köyü, Bahçelievler Mevkii	Ali Efe~|B~|Başak~|Belediye~|Ekin~|Hacı Hoca~|Menderes~|Z~|Zafer~
+947	Yıprak Köyü, Esentepe Mevkii	13 Mart~|Altıntepe~|Atatürk~|Atilla~|Avşar~|Cumhuriyet~|Destan~|Ecem~|Emirgan~|Gök Mehmet~|Işık~|Menderes~|Menekşe~|Mocanoğlu~|Semt~|Sevindik~|Tuzla Yolu~|Zümrüt~|Çağlayan~|Çiğilli Tepe~|Şirinevler~
+948	Yıprak Köyü, Hisar Mevkii	Avşar~|Açangül~|Boğaziçi~|Gelincik~|Hacı Hoca~|Harman Yolu~|Kale~|Kardelen~|Karşıyaka~|Konak~|Menderes~|Mimar Sinan~|Pazar Yeri~|Paşa~|Seçkin~|Sudeposu Yolu~|Türkmenler~|Vakıf~|Yayla Kent~|Yuvam~|Zahman Yolu~|Zamana~
+5102	Çakıcı Köyü	 Köy$
+5103	Çamlı Köyü	 Köy$
+5104	Çapalı Köyü	Çapalı=
+5151	Çayüstü Köyü	 Köy$
+5150	Çağlayan Köyü	 Köy$
+925	Çiçektepe Köyü, Alpaslan Mevkii	1 Nci Işık~|1 Nci Pınar~|2 Nci Şehit Nadir Güneş~|Cami~|Değirmen~|Mehmet Akif Ersoy~
+926	Çiçektepe Köyü, Atatürk Mevkii	3 Ncü Şehit Nadir Güneş~|Alimefe~|Alpaslan~|Dedekorkut~|Güneş~|Işık~|Kubilay~|Kılıçaslan~|Nasrettin Hoca~|Nene Hatun~|Osman Bey~|Osman Gazi~|Oğuzhan~|Pınar~|Selimiye~|Tunahan~|Yavuz Sultan Selim~|Yıldırım Beyazıt 1~|Şeyh Şamil~
+927	Çiçektepe Köyü, Cumhuriyet Mevkii	1 Nci Mehmet Akif Ersoy~|1 Nci Şehit Nadir Güneş~|Atatürk~|Battalgazi~|Ertuğrul Gazi~|Evliya Çelebi~|Feyzi Çakmak~|Kanuni Sultan Süleyman~|Karacaoğlan~|Kürşat~|Mevlana~|Yunus Emre~
+928	Çiçektepe Köyü, Fatih Mevkii	1 Nci Değirmen~|4 Ncü Şehit Nadir Güneş~|Alperan~|Cumhuriyet~|Ertuğrul Gazi~|Fatih Sultan Mehmet~|Gençer~|Kızılay~|Lale~|Sümbül~|Timurhan~
+5105	Çobansaray Köyü	 Köy$
+5164	Çürüklü Köyü	 Köy$
+915	Üçlerce Mah.	1.fabrika~|Atatürk%|Geyikler~|Ilıca@|Kale~|Suçıkan@|Söğütlü Çeşme~|Üçlerce Yokuşu~|Şht.muzaffer Garip~
+901	İncirli Mah.	1. Nilüfer~|1.güngören~|10. Nilüfer~|11. Nilüfer~|2. Nilüfer~|2.güngören~|3. Nilüfer~|4. Nilüfer~|5. Nilüfer~|6. Nilüfer~|7. Nilüfer~|8. Nilüfer~|9. Nilüfer~|Acar~|Acar3~|Atölye~|Bayram Ali Veziroğlu@|Belen@|Cemil Bey@|Cihangiroğlu~|Endüstri~|Gökalp~|Güven~|Hastane~|Müdüroğlu@|Nuray Yüksel~|Osmanlı~|Osmanlı1~|Samı Yüksel~|Yusuf Mercan~|Çağlayan~|İncirli@|Şehit Oğuz İnan~|Şehit Zeki Esmer~|Şehit İlhan Avcı~
+902	İstasyon Mah.	1.okul~|3.kanal~|Ahmet Veziroğlu@|Bent~|Burç~|Daralan~|Fidanlık~|Gar~|Hamdi Özsoy~|Hüyük@|Jandarma~|Köprü~|Onurlu~|Selvili~|Sümer~|Yeni Denizli@|Çayboyu~|Çınar~|İstasyon@|Şehit Mahmut Kavak~
+903	İtfaiye Mah.	1.dedeoğlu~|2.dedeoğlu~|2.kanal~|3.dedeoğlu~|4.dedeoğlu~|Ada~|Ali Rıza Karakaya~|Barış~|Battaloğlu~|Baş Yiğit~|Cezaevi~|Demokrasi~|Fevzi Çakmak@|Gazı Özman Uysal~|Kanal~|Kesiciler@|Mehmet Göbekli~|Oduncular~|Prefabrik Konutlar=|Santral@|Santral-1~|Selanik@|Yeniyol@|Yırtım~|Özkartal~|İtfaiye~|Şht.cengiz Toklu~|Şht.hüseyin Güvercin@|Şht.şükrü Çetinel~

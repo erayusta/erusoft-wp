@@ -1,0 +1,44 @@
+180167	Akbayır Mah.	Akbayır~|Çevreli~
+180169	Aşağıhöçüklü Mah.	Aşağıhöçüklü~|Yusuflu~|Çukuryurt~
+180171	Aşağıkayabaşı Mah.	Aşağıkayabaşı~
+180173	Aşağıkekliktepe Mah.	Aşağıkekliktepe~
+180177	Bakırca Mah.	Bakırca~|Tandırcık~
+180179	Ballık Mah.	Ballık=
+180175	Bağtepe Mah.	Bağtepe~
+180181	Beğendik Mah.	Beğendik~|Fıstıklıgaffar~
+180183	Bülbül Mah.	Bülbül~
+180185	Büyükkarakuyu Mah.	Büyükkarakuyu~
+30696	Cingife Mah.	Bahadır~|Kale~|Mahmut Ağa~|Şahinler@|Şehit Hanifi Yıldırım@
+30697	Cumhuriyet Mah.	Camii~|Ebem~|Girne~|Kula~|Merzimen@|Mustafa Taşar Myd.|Park@|Sağlık Ocağı~|Stadyum@|Yılmaz~|Çavuşbaba@|Şehit İbrahim Solak@
+180191	Değirmitaş Mah.	Değirmitaş~
+180193	Düzce Mah.	Düzce~
+30698	Fevzi Çakmak Mah.	1 Nolu~|15 Nolu~|18 Nolu~|2 Nolu~|23 Nolu~|3 Nolu~|33 Nolu~|34 Nolu~|4 Nolu~|5 Nolu~|6 Nolu~|8 Nolu~|Agbaba~|Altun~|Araban@|Başpınar@|Cafer Kaya@|Değirmen@|Gaziantep@|Gündeş~|Karayılan@|Kayacık@|Kurtuluş@|Kızıklar~|Lojmanlar@|Maliyeciler~|Mustafa Kemal@|P.t.t~|Taş~|Tepe@|Turgut Özal@|Yeni Gaziantep Araban@|Yüksek~|Çiftçi@|Özdemir~|Şahinbey@|Şakirkabakoğlu@|Şehit Ali Çiftçi~|Şehit İbrahim Koç@
+180195	Göçmez Mah.	Göçmez~
+180213	Gülpınar Mah.	Gülpınar~
+180197	Hacımallı Mah.	Hacımallı~
+180199	Havuz Mah.	Havuz~|Küçük Havuz~
+30699	Hürriyet Mah.	35 Nolu~|36 Nolu~|37 Nolu~|38 Nolu~|39 Nolu~|40 Nolu~|Araban@|Balak~|Ebem~|Gaziantep@|Girne~|Güngör@|Kaplan~|Kıbrıs=|Mustafa Taşar Myd.|Park@|Pirketçiler@|Stadyum@|Çavuşbaba@|Özdal~|İnönü@|Şehit İbrahim Solak@
+180201	Ilıcak Mah.	Ilıcak~|Çatlaklar~
+180205	Karabey Mah.	Derince~|Karabey~
+180219	Karahan Mah.	Nohutalan~
+180207	Karahüseyinli Mah.	Karahüseyinli~
+180209	Kasaba Mah.	Kasaba~
+180211	Keşrobası Mah.	Keşrobası~|Köşk~
+180215	Kuzuyatağı Mah.	Kuzuyatağı~
+180217	Küçükkarakuyu Mah.	Akkuyu~|Küçükkarakuyu~
+180223	Saraymağara Mah.	Saraymağara=
+180225	Sarıbuğday Mah.	Halilbaş~|Sarıbuğday~
+180227	Sarılar Mah.	Sarılar~
+30700	Sultan Selim Mah.	2.~|3.~|41 Nolu%|42 Nolu%|43 Nolu%|44 Nolu%|Araban@|Bahadır~|Güzel~|H.sait Korkmaz@|Hacılar@|Kale~|Mahmut Ağa~|Yöreli@|Yıldız~|Şahin~|Şahinler@
+180229	Süleymanobası Mah.	Süleymanobası~
+180233	Tokaçlı Mah.	Elmacık~|Göbek~|Hamobası~|Tokaçlı~
+180237	Yarımca Mah.	Dereköy~|Yarımca~
+180245	Yeniyurt Mah.	Nureyler~|Yakuplu~|Yeniyurt~
+180241	Yukarıkekliktepe Mah.	Yukarıkekliktepe~
+180243	Yukarıyeniköy Mah.	Aşağıyeniköy~|Yukarıkayabaşı~|Yukarıyeniköy~
+180239	Yöreli Mah.	Yöreli Köyü=
+180187	Çiltoprak Mah.	Çiltoprak~
+180189	Çimenli Mah.	Çimenli~
+180221	Örenli Mah.	Örenli~
+180235	Üçgöl Mah.	Üçgöl=
+180231	Şenlikçe Mah.	Şenlikçe~

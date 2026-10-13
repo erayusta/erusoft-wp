@@ -1,0 +1,73 @@
+160611	Acıelma Mah.	19001.~|Acıelma=|Acıelma/1=|Tayipli~
+160615	Ahmetcik Mah.	Ahmetcik=|Elmalı=|Kızılöz=
+160621	Altınoba Mah.	Altınoba=
+160617	Alıçlıbucak Mah.	Alıçlıbucak=|Armutlu=
+199775	Apıklar Mah.	Apıklar=|Düğünyurdu=|Güzelyurt=|Karlıoluk=|Kocayer=
+160625	Aslanbeyçiftliği Mah.	Aslanbey Çiftlik@|Kabayar=
+199771	Bahçelievler Mah.	69001.~|69002.~|69003.~|69003/1.~|69004.~|69005.~|69006.~|69007.~|69008.~|69009.~|69010.~|69012.~|69014.~|69016.~|69018.~|Aslanbey%|Ayhan Taner Ekici%|Bilinmeyenn 1~|Buhara@|Celal Erzurum@|Fatih@|Fevzi Çakmak@|Kandilli@|Kazım Kara Bekir-@|Kazım Karabekir/2@|Müftü Abdulkadir Çetin@|Necip Fazıl@|Veli Efendi@|Şehit Ahmet Geben@
+458760	Bozarmut Mah.	Bozarmutlu=
+160521	Bozhüyük Mah.	12001~|12001.~|120011.~|120013.~|120015.~|12002.~|12003.~|12004~|12005~|12006~|12007.~|12009.~|Belediye_1@|Bilinmeyen=|Boz Mehmet=|Cami Bozhüyük@|Camii~|Ertuğrul Gazi_1@|Ertuğrulgazi@|Gazi Kırmızı Ali~|Gazi Çolak Ali@|Gazi Çolak Ali/1@|Halep Gazisi Cuma Çavuş~|Halep Gazisi Yusuf Çavuş-~|Kazım Karabekir_1@|Lise@|M.a.ersoy (yavuz Selim)@|M.a.ersoy@|Mahmut Bey~|Menekşe@|Mevlana/bozhüyük@|Mevlana/bozhüyük/1~|Mevlana2@|Necip Fazıl_1~|Orhangazi@|Timurlar~|Topallar 1~|Topallar~|Çanakkale Şehidi Hasan~|Çanakkale Şehidi Mehmet-@|Çanakkele Şehidi Deli Mehmet-~|Üçevler~|Şehit Resul Tokaç (yavuz Selim)%|Şehit Resul Tokaç%
+160527	Büyükkızılcık Mah.	13013.~|Bahçe~|Bahçe1~|Bahçe2~|Bahçe3~|Bahçe4~|Bahçe6~|Cami~|Cami1~|Cami2~|Cami3~|Cumhuriyet (cumhuriyet) Myd.|Cumhuriyet1~|Cumhuriyet2~|Cumhuriyet3~|Cumhuriyet4~|Cumhuriyet5~|Cumhuriyet_3@|Ekinçilik=|Kocayer=|Kurtuluş@|Kurtuluş1~|Kurtuluş2~|Kurtuluş3~|Kurtuluş4~|Kurtuluş5~|Kurtuluş7~|Kömergözü=|Mesut Bey~|Mesut Bey1~|Mesut Bey2~|Mesut Bey3~|Mesut Bey4~|Mesut Bey5~|Mesut Bey6~|Mesut Bey7~|Mesut Bey8~|Mesut Bey9~|Taşlı (kurtuluş)~|Taşlı~|Taşlı/kurtuluş1~|Taşlı/kurtuluş2~|Taşlı1~|Taşlı2~|Taşlı3~|Taşlı4~|Yeni Yol_1~|Yıldırım_1=|Çorlavık=
+160629	Büyükçamurlu Mah.	Büyükçamurlu=|Fındıklıkoyak=
+52731	Cumhuriyet Mah.	2002~|2004~|2006~|2008~|2012 1~|2012~|2012/2~|2014~|2015~|2016~|2017~|2018~|2019~|2020~|2021~|2022~|2023~|2024~|2025~|2026~|2027~|2028~|2029~|2030~|2031-~|2032~|2034 1~|2034~|2035~|2036~|2037~|2038~|2039~|2040-~|2040.~|Abdul Hamit Han@|Ali Çetin@|Aslanbey%|Aslanbey Çiftlik@|Haydar Bey 1~|Haydar Bey@|Prof. Dr. Mehmet Sağlam%|Sarı Mehmet@|Yantepe=|Yeşilhöyük=|Ş.piyade Resul Tokaç@|Şehit Er Mustafa Kök 1~|Şehit Er Mustafa Kök 2~|Şehit Er Mustafa Kök@
+160541	Değirmendere Mah.	14001~|14002~|14002/1~|14003~|14004~|14005~|14006~|14007~|14008~|14009~|14010~|14011~|14012~|14013~|14014~|Akpınar~|Akpınar/1~|Alperen@|Asmalı~|Atatürk-@|Atatürk/değirmendere 1~|Atatürk/değirmendere@|Ayvalı~|Barbaros/1~|Barbaros_1~|Belediye@|Cumhuriyet-@|Değirmendere Cumhuriyet@|Değirmendere Cumhuriyet/1~|Fidan~|Gazi~|Gerdek Mağara 3~|Gerdek Mağara~|Gerdek Mağara/1~|Gerdek Mağara/2~|Gölpınar=|Harmanyeri~|Hızar~|Hızar/1~|Hızar/3~|Hızır/4~|Kale_1~|Kazım Karabekir@|Kazım Karabekir1~|Mareşal Fevzi Çakmak@|Mareşal Fevzi Çakmak/1~|Mareşal Fevzi Çakmak/2~|Mareşal Fevzi Çakmak/3~|Mareşal Fevzi Çakmak/4~|Meraşal Fevzi Çakmak-@|Mevlana/1~|Mevlana_1@|Mohaç Değirmendere~|Mohaç-~|Muhsin Yazıcıoğlu -@|Muhsin Yazıcıoğlu@|Namık Kemal~|Y.emre~|Yarpızlı (yavuz)-@|Yarpızlı@|Yavuz Selim~|Yavuz Selim/1~|Yıldırım~|Ziyaret 1~|Ziyaret~|Çamlı Çeşme -~|Çamlı Çeşme~|Çiğdem~|Şehit Hacı Alkan@|Şehit Hacı Alkan/1~|Şehit Ünal Karaca (yavuz)@|Şehit Ünal Karaca@|Şehit Ünal Karaca/1~|Şehit Ünal Karaca/2~
+160639	Doğankonak Mah.	Doğankonak=
+160643	Elmalı Mah.	Elmalı=|Kale=|Saraycık=
+160603	Ericek Mah.	18001.~|18002.~|18003.~|18004.~|18005.~|18006.~|18008.~|Ağcalar~|Ağcalar/1~|Ağcalar/2~|Bahçeli Evler~|Bahçeli Evler/1~|Bahçeli Evler/2~|Bülbülcük=|Cami-~|Cumolar=|Demirciler (kurtuluş)=|Demirciler=|Ericek Cami=|Esendere=|Gürcüler~|Hamzalar=|Havcular=|Haytalar=|Hürriyet (kurtuluş)@|Hürriyet 1~|Hürriyet 2~|Hürriyet 3~|Hürriyet 5~|Hürriyet 6~|Hürriyet 7~|Hürriyet~|Kale Obası~|Köroğlu_1=|Kırandere=|Kızıltepe 1~|Kızıltepe 2~|Kızıltepe~|Müdürler=|Su Gediği=|Taşlı Tarla=|Yoncalı=|Çaçalar~
+160647	Esenköy Mah.	Esenköy=|Güldağı=
+160741	Fındık Mah.	60001.~|60002.~|60003.~|60004.~|60005.~|60006.~|60007.~|60008.~|60010.~|60012.~|60014.~|60016.~|60018.~|60019~|60020~|Akpınar-~|Bilinmeyen 1~|Fındık=|Korkmaz=|Sarıgüzel=|Çamlı Kavak~
+160651	Fındıklıkoyak Mah.	Andırın@|Bahçedere=|Fındıklıkoyak=|Sırapınar=
+160655	Gölpınar Mah.	Gölpınar=
+160659	Göynük Mah.	31002.-~|Göynük=
+160745	Gücüksu Mah.	61001~|61001/1~|61002~|61003~|61004~|61005~|61006~|61007~|61008~|61010~|61011~|61011/1~|61012~|61013~|61014~|61016~|61017~|61018~|61019~|61020~|61021=|61022~|Bılınmeyen Yol~|Elmalı=|Gücüksu~|Gücüksu/1~|Gücüksu/2~|Gücüksu/5~|Gücüksu/7~|Gücüksu/8~|Kale/salyan=
+447391	Güldağı Mah.	Güldağı=|Köyyeri=
+199773	Güller Mah.	Günaydın=|Güzelyurt=|Karlıoluk=|Kocayer=|Çamlıca=
+160663	Hacıkodal Mah.	Bağlama=|Dere=|Gümgüm=|Hacıkodal=|Kocabor-~|Körkuyu=|Onsöğüt=|Yelekçam=|Çataloluk=|Çörek Dere=
+140577	Hacımirza Mah.	6012.~|Hacımirza=|Kömür@|Ortatepe=
+160665	Hacıömer Mah.	Hacıömer=|Temürağa=|Yağmurlu=
+52732	Harbiye Mah.	1001.~|1002~|1002.~|1002/1~|1002/2~|1002/3~|1002/4~|1002/5~|1003.~|1004~|1005.~|1006.~|1006/1~|1006/2~|1006/3~|1007.~|1008.~|1009.~|1010.~|1010/1~|1011~|1011.~|1013~|1014~|1015~|1016~|1017~|1018~|1019~|1020~|1021~|1022~|1023~|1023/1~|1023/2~|1024~|1025~|1026~|1027~|1028~|2012 Harbiye~|Barbaros@|Barbaros-@|Berit@|Ergenekon@|Göktürk@|Göktürk/2~|Gültekin@|Gültekin/1~|Hacı Mirza@|Hacımirza=|Hoca Hacı Çiçek@|Karahanlı@|Karlik=|Karlık@|Kömür@|Kömür/1@|Kömür/2~|Prof. Dr. Mehmet Sağlam%|Sarıkamış-@|Selçuklu@|Temürağa=|Turnabucağı Yavuz Sultan Selim Han%|Turnabucağı Yavuz Sultan Selim Han/2~|Uzun Ağa@|Uzun Ağa/1~|İnalcık 5~|İnalcık@|İnalcık/1~|İnalcık/2~|İnalcık/3~|İnalcık/4~|İnalcık/5~|Şeyh Edeb Ali@|Şeyh Edeb Ali/1~
+160667	Huğtaş Mah.	Acıelma=|Huğtaş=|Kırıkkilise=
+160671	Kale Mah.	Elmalı=|Gücüksu~|Kale=|Kale/salyan=
+160669	Kaleboynu Mah.	Aybastı=|Kaleboynu=|Kazandere=|Kırkkuyu=|Çağallıkoyak=
+160749	Kamışcık Mah.	Kamışcık=
+160553	Kanlıkavak Mah.	Ak Bulvarı (yavuz Sultan Selim)%|Ak Bulvarı 2~|Ak Bulvarı 3~|Ak Bulvarı 4~|Ak Bulvarı 5~|Ak Bulvarı 6~|Ak Bulvarı 7~|Ak Bulvarı 8~|Ak Bulvarı%|Ak Bulvarı/yavuz Sultan Selim1~|Aksoy 1~|Aksoy 2~|Aksoy 3~|Aksoy 4~|Aksoy 5~|Aksoy@|Alafakı~|Alafakı1~|Alan Seki~|Alan Seki1~|Aziz~|Aşağı Pınar~|Aşağı Pınar1~|Bahçe Pınar@|Bağlar 1~|Bağlar 2~|Bağlar 3~|Bağlar 4~|Bağlar 5~|Bağlar~|Bilinmeyen1~|Cesur@|Cesur1~|Cesur2~|Cinikler~|Cumhuriyet/kanlıkavak 1~|Cumhuriyet/kanlıkavak 2@|Cumhuriyet_2@|Derendere~|Derendere1~|Derendere2~|Dervişler@|Dervişler1~|Dervişler2~|Doruklu~|Fatih (kanlıkavak)@|Fatih1~|Fatih2~|Fatih3~|Fatih4~|Gökcegöz~|Gökcegöz1~|Hacolar~|Hastane@|Hastane1~|Hüyük 1~|Hüyük@|Hızır~|Iğlı~|Iğlı1~|Iğlı2~|Kara Bayır~|Karabayır~|Kayalar 1~|Kayalar 2~|Kayalar~|Kayepe~|Kayepe1~|Kopcurlar~|Kuyu~|Y.s.selim 1~|Y.s.selim 2~|Y.s.selim 3~|Y.s.selim 4~|Y.s.selim@|Yamaçlı 1~|Yamaçlı~|Yarıcak~|Yeni Yol~|Yeniyapan 1~|Yeniyapan=|Çeşme 1~|Çeşme 2~|Çolaklar@|Çukurlu~|İğde 1~|İğde 2~|İğde 3~
+160673	Karaahmet Mah.	Karaahmet=|Soğuksu~
+160753	Karatut Mah.	63001.~|63002.~|63003.~|Bahçe Obası=|Daluşagı=|Dağobası=|Karatut=|Köy Obası=
+160755	Karaömer Mah.	Düğünyurdu=|Karaömer=|Kızılcıksuyu~|Sokakmazı=|Yeniyapan=
+160675	Kavşut Mah.	Ayşeölen=|Değirmenüstü=|Kavşut=|Sarısabak=
+52733	Kayabaşı Mah.	15 Temmuz Cuhuriyet Ve Demokrasi Myd.|15 Temmuz Cumhuriyet Ve Demokrasi- Myd.|15 Temmuz Ve Demokrasi Kayabaşı Myd.|8001.-~|8002.~|8003.@|8004.~|8005.~|8006.~|8007~|8008.~|8404~|Ali Pehlivan@|Ali Pehlivan1~|Amasyalılar@|Atatürk@|Ayhan Taner Ekici%|Cengiz Topel@|Cumhuriyet_1%|Dulkadiroğlu@|Dulkadiroğlu1~|Durdu Kale@|Durdukale1~|Gökbörü@|Gün Sazak@|Hoca Ahmet Yesevi/kayabaşı 2~|Hoca Ahmet Yesevi/kayabaşı1~|Hoca Ahmet Yesevi_1@|Kandilli@|Mehmet Akif Ersoy_1@|Mehmetçik@|Mehmetçik1~|Mehmetçik2~|Mehmetçik3~|Müftü Abdulkadir Çetin@|Müftü Çokaklı Zade Ali Efendi@|Taşkent@|Turnabucağı Yavuz Sultan Selim Han%|Çirkin Halil@|İbn-i Sina@|İbni Sina1~|İbni Sina2~|İsa Yusuf Alptekin@|Şehit Uzman Çavuş Mehmet Kökkaya~
+160737	Kazandere Mah.	Kazandere=
+160677	Keklikoluk Mah.	Keklikoluk=
+160757	Kemalpaşa Mah.	Esendere=|Kemalpaşa=|Oruçlar~|Pıtıklar~
+160683	Kireç Mah.	Aslanbey%|Aslanbeyçiftliği=|Kireç=
+160759	Korkmaz Mah.	Arpaderesi=|Atmakaya~|Korkmaz=|Sarıgüzel 1~|Sarıgüzel=|Şehit Cevher Dudayev1~
+52735	Kurtuluş Mah.	15 Temmuz Ve Demokras Kurtuluş Myd.|3005~|3006~|3007~|3008~|3009~|3010~|3011~|3012~|3013~|3014~|3015~|3016~|3016/1~|3017~|3017/1-~|3018~|3019~|3020~|3021~|3022~|3023~|3025.~|3027.~|69007.~|Ali Kahyalar@|Aslanbey%|Aslanbey Çiftlik 1@|Aslanbey Çiftlik@|Atatürk@|Bilinmeyen/5.~|Bilinmeyen/6.~|Bilinmeyen/7.~|Buğrahan@|Cevher Dudayev@|Dede Korkut@|Fatih@|Kürşat@|Kürşat1~|Mehmet Akif Ersoy_1@|Mohaç@|Müftü Abdulkadir Çetin@|Necati Özmen@|Necip Fazıl@|Plevne@|Turgut Özal@|Türkmenistan@|Türkmenistan1@|Türkmenistan2~|Yahya Kemal@|Yenı Yol~|Çeteler~|Şehit Uzman Çavuş Mehmet Kökkaya~
+160685	Kömür Mah.	Kömür Merkez=|Kötühatçe=
+52734	Köprübaşı Mah.	4001.~|4002.~|4004.~|4005.~|4007.~|4008.~|4009.~|4010.~|4011.~|4012.~|Andırın_1@|Aslanbey%|Atatürk@|Azerbeycan@|Bilinmeyen/1.~|Bilinmeyen/2.~|Bilinmeyen/3.~|Dede Korkut@|Dede Korkut1.~|Doğramacılar@|Ertuğrul Gazi@|Malazgirt@|Mercimek Nuri Efendi@|Mevlana@|Mohaç@|Mohaç1~|Oğuz Han@|Plevne@|Türkmenistan@|Yunus Emre@|Çardak%|Çitil Osman@|İsimsiz 13~|İsimsiz 14~|İsimsiz 15~
+160687	Küçükçamurlu Mah.	Büyükkutu=|Hamamgözü=|Küçük Kutu=|Küçükçamurlu=|Meryemçil=
+160679	Kınıkkoz Mah.	Kınıkkoz=
+160681	Kızılöz Mah.	Kızılöz=
+160689	Mahmutbey Mah.	Mahmutbey=
+160691	Mehmetbey Mah.	46002.~|46004.~|Ellekler_1=|Mehmetbey=|Tokat=|Tokat_1=|Çağlayan_1@
+160693	Mürsel Mah.	Akpınar_1=|Boz Mehmet=|Kayapınar=|Mürsel=
+160697	Ortatepe Mah.	53001~|Alıçlıbucak=|Armutlu=|Kömür@|Ortatepe=|Temürağa=
+160767	Payamburnu Mah.	68001.=|Merkez=
+52736	Pınarbaşı Mah.	6001.~|6002.~|6003.~|6004.~|6005.~|6006 1~|6006.~|6007.~|6008~|6009.~|6010.~|6011.~|6012.~|6013.~|6020.-~|8404~|Akhun@|Akşemsettin@|Atilla 1~|Atilla@|Baburşah-@|Barbaros@|Berit@|Beyiin Bağı@|Bilinmeyen 001~|Binboğa@|Cengiz Topel@|Doğan Güreş@|Göksun Çayı 1~|Göksun Çayı 2~|Göksun Çayı@|Göksun Çayı/1~|Gündüz Bey@|Hoca Hacı Çiçek 1~|Hoca Hacı Çiçek@|Hoca Osman Koca@|Kekilli Ahmet@|Malazgirt@|Mevlana@|Nebioğlu=|Osman Gazi@|Taşkent@|Turnabucağı Yavuz Sultan Selim Han%|Yıldırım Han@|Ziya Gökalp@|Çaldıran 1~|Çaldıran@|Çağrı@|Çirkin Ahmet 1~|Çirkin Ahmet@|Çirkin Halil@|İbn-i Sina@|Şeyh Edeb Ali 1~|Şeyh Edeb Ali@|Şeyh Şamil@
+160699	Saraycık Mah.	Kale=|Saraycık=
+160707	Soğukpınar Mah.	Soğukpınar=|Çiçekler~
+160703	Sırmalı Mah.	Ahmetçik=|Sırmalı=|Yoğunoluk=
+160709	Tahirbey Mah.	52001.~|52002.~|52004.~|52006.~|Tahirbey=
+160573	Taşoluk Mah.	1.~|16006~|16007.~|16008~|2.~|3.~|4.~|5.~|A~|Akşemsettin_1@|Andırın 1~|Andırın@|Atatürk_1@|B~|Basırık Deresi~|Basırık Deresi1~|Bilimeyen 81~|Bilinmeyen 65~|Bilinmeyen 66~|Bilinmeyen 73~|Bilinmeyen 74~|Bilinmeyen 75~|Bilinmeyen 76~|Bilinmeyen 77~|Bilinmeyen 78~|Bilinmeyen 79~|Bilinmeyen 80~|Bilinmeyen 81=|Bilinmeyen 82~|Bilinmeyen 83~|Bilinmeyen58@|Bilinmeyen60@|Bilinmeyen61~|Bilinmeyen62~|Bilinmeyen63@|Bilinmeyen64~|Bilinmeyen71~|Bilinmeyen72~|Bılınmeyen~|C~|D 1~|D~|Fatih Sultan Mehmet@|Göksun@|Hoca Ahmet Yesevi@|Köroğlu 1~|Köroğlu@|Mehmet Akif Ersoy@|Mehmet Akif Ersoyy 1~|Necip Fazıl Kısakürek@|Taşlıdere=|Taşoluk@|Topallar Taşoluk=|Topallar-=|Yavuz Selim 1~|Yavuz Sultan Selim 2~|Yavuz Sultan Selim@
+160713	Temürağa Mah.	53001~|53002~|53003.~|53004.~|53005.~|53006.~|53007.~|Bilinmeyen Temürağa 1~|Bilinmeyen_1~|Hacıömer=|Prof. Dr. Mehmet Sağlam%|Temürağa=
+52737	Tepebaşı Mah.	15 Temmuz Cuhuriyet Ve Demokrasi Myd.|15 Temmuz Cumhuriyet Ve Demokrasi- Myd.|15 Temmuz Ve Demokrasi Myd.|7001~|7003~|7004~|7005~|7006~|7007~|7008~|Ali Pehlivan@|Atatürk@|Ayoğlan@|Durdu Kale@|Durdukale1~|Hacı İbrahim@|Hacı İbrahim1~|Kuvayi Milliye@|Malazgirt@|Mevlana@|Müftü Çokaklı Zade Ali Efendi@
+160761	Tombak Mah.	47001.~|47007.~|Oruçlar~|Pıtıklar~|Pıtıklar1~|Sarıgüzel_1=|Soğucak~|Tombak=
+140579	Yantepe Mah.	11001.~|11002.~|11004.~|11005.~|Bilinmeyen Temürağa 1~|Mahmutlar=|Prof. Dr. Mehmet Sağlam%|Soğuksu~|Yantepe=|Yeşilhöyük=
+160715	Yağmurlu Mah.	Kazmaca=|Prof. Dr. Mehmet Sağlam%|Yağmurlu=
+52738	Yeni Mah.	1 Nolu@|2 Nolu@|3 Nolu@|4 Nolu@|5 Nolu@|5001.~|5001/1~|5005.~|5006.~|5007~|5008~|6 Nolu@|7 Nolu@|8 Nolu@|Andırın/1~|Andırın/2~|Andırın_1@|Baburşah-@|Bilinmeyen 001~|Bilinmeyen/1~|Doğan Güreş@|Ellekler@|Ellekler/1~|Göksun Çayı/1~|Göç Yolu-@|Gündüz Bey@|Hacı Yakup@|Karadurdular1~|Kekilli Ahmet@|Kulunçtaş@|Kulunçtaş1~|Kuşoğulları Zabit=|Mevlana@|Mustafa Cantürk@|Mustafa Cantürk/1~|Nevzat Pakdil%|Nevzat Pakdil/1~|Nevzat Pakdil/2~|Oğuz Han@|Rauf Denktaş@|Sökünburnu@|Sökünburnu/1~|Süleyman Gazi@|Telbüzek@|Turnabucağı Yavuz Sultan Selim Han%|Turnabucağı Yavuz Sultan Selim Han/1~|Van Deprem Şehidi Tayfun Boyraz@|Yunus Emre@|Yunus Emre/1~|Yunus Emre/2~|Yıldırım Han 1~|Yıldırım Han@|Çardak%|Çardak/1~|Çardak/3~|Çağrı@|Ötüken-@
+160717	Yeniyapan Mah.	Karaömer=|Kazez=|Sokakmazı=|Yeniyapan 1~|Yeniyapan=
+160721	Yeşilköy Mah.	Deli Melek~|Karasoku~|Kömesöğüt 1~|Kömesöğüt~|Kızılöz=|Ortamış~|Yastıpınar-~|Yeşilköy=|İnce Aliler~
+160729	Yiricek Mah.	57001~|57001/1~|Acıelma=|Basırık Deresi~|Basırık Deresi1~|Kulunçtaş@|Kulunçtaş2~|Kulunçtaş3~|Kulunçtaş4~|Kulunçtaş5~|Kulunçtaş6~|Kuşoğulları Zabit=|Küçükmezde-~|Yiricek=
+160733	Yoğunoluk Mah.	Fındıklıkoyak=|Yoğunoluk=
+160633	Çamdere Mah.	Çamdere=
+160587	Çardak Mah.	17001~|17002~|17003~|17004~|17005@|17007~|17009~|1711~|Abdulkadir Denge-@|Ali İnce-~|Ardıç Bölük~|Atatürk-@|Bağlar-~|Binnaz~|Cami-~|Camırza~|Cemalettin~|Cengizhan~|Cumhuriyet Myd.|Elmapınar=|Emniyet@|Fatih (çardak)-@|Fevzi Yaşar@|Geylani=|Göksun-@|Gül~|Hacı Bilal~|Hacı Cavithan~|Hacı Maksut~|Hafız İbrahim@|Hanifi Kömü=|Kadir Gül-=|Kantarma~|Korkmaz=|Kurtpınar=|M.akif Ersoy@|Medet Önlü~|Mehmet Gül~|Menekşe_1~|Mülazım Mirza~|Orgeneral Doğan Güreş@|Sadıklar~|Salih Durna~|Selimbey=|Tarık Cemal Kutlu~|Taşlı Tarla=|Taşpınar~|Yandır~|Yavuz Selim@|Çardak Atatürk@|Çardak Bağlar~|Çardak Cami~|Çardaklı Fatih@|Çardaklı Göksun 2~|Çardaklı Göksun=|Çıkmaz 1~|Çıkmaz 2~|Şahan Bey@|Şehit Başkomiser Fatih Özdil@|Şehit Cevher Dudayev=|Şehit Cevher Dudayev1~|Şehit Faruk Teke~|Şehit Hamdi~|Şehit Hüseyin@|Şehit Tahir Toka~|Şeyhşamil (yunus Emre)@|Şeyhşamil@
+140575	Çağlayan Mah.	57001~|9003.=|Ellekler-~|Ellekler_1=|Kara Durdular=|Çağlayan=|Çağlayan.1~|Çağlayan.2~|Çağlayan.3~|Çağlayan.4~|Çağlayan_1@

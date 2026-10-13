@@ -1,0 +1,29 @@
+180657	Akyar Mah.	Akyar Merkez=|Köprübaşı=|Tavşanalanı=|Toslak Yaylası=|Çayır=
+180659	Balkaya Mah.	Balkaya=|Balkaya Yayla Evleri=
+180661	Bedan Mah.	Ekin~|Kaynarca Mevki~|Menekşe~|Saray~
+180667	Eskibağ Mah.	Merkez Eskibağ=|Yeşildere=
+2629	Fatih Mah.	Alparslan@|Alparslan Türkeş@|Cumhuriyet@|Hoca Ahmet Yesevi@|Kuzyaka 1@|Kuzyaka@|Mevlüt Çavuşoğlu@|Sümeni Karain=|Yunus Emre@|Öğretmen Abdullah Kurnaz@
+180633	Güneycik Mah.	Güneycik=
+180635	Güneyyaka Mah.	Çaltı=|Çaltı Merkez=
+180637	Kalecik Mah.	Çürük=|Çürük Merkez=|Çürük Yayla Evleri=
+180639	Karabul Mah.	Karabul=
+180641	Karadere Mah.	Karadere Merkez=|Ortaalan=|İnişdibi=
+180643	Karaisa Mah.	Alibeyler Yayla Evleri=|Karaisa Merkez=|Köyiçi=
+180669	Karaköy Mah.	Karaköy=
+180671	Kayabükü Mah.	Başpınar Yaylası=|Kayabükü Güzle=|Kayabükü=|Kurugöl Yaylası=
+180645	Kozağacı Mah.	Kozağacı=
+180625	Köprülü Mah.	(pınargözü Yeni)=|Küme=|Yazlar=
+180647	Narağacı Mah.	1~|2~|3~|Nurçak=
+180655	Ortakonuş Mah.	Köprü=|Opan=|Ortakonuş=
+180627	Ortaköy Mah.	Bademli=|Barcın Yaylası=|Dağdere=|Koyukballık - Çokpınar=|Merkez=|Oğuz Yaylası=
+180649	Pembelik Mah.	Gelesandıra=|Pembelik=
+2626	Rasih Kaplan Mah.	Akıncılar@|Antalya@|Atatürk@|Cempaşa@|Cumhuriyet@|Demirel@|Ergenekon@|Gazino~|Güzle=|Hilal@|Hümmetler~|Hürriyet~|Kanuni@|Kursu=|Menderes@|Nuri Efendi@|Okul~|Orman Kümesi=|Yaşardoğu@|Yukarı Gelesandra=|Yukarıcami=|Zübeydehanım@|Çakallar Yaylası~|Çaşır Yaylası=|İnönü@
+180623	Senir Mah.	Kume (yayla)=|Kume=|Küme=|Merkez=
+180651	Serinyaka Mah.	Serinyaka Merkez=|Çöşlü=
+180653	Umutlu Mah.	Umutlu=
+180673	Yeniköy Mah.	Yayla Evleri=|Yeniköy=
+180663	Çaltı Mah.	Hacıyüzü=|Çaltı Merkez=|Çaltı Yayla Evleri=
+180665	Çamlıalan Mah.	Çamlıalan=
+180629	Çayırözü Mah.	Çayırözü=
+180631	Çiçekoluk Mah.	Çiçekoluk=
+2627	Özügür Mah.	Atatürk@|Cempaşa@|Cumhuriyet@|Demirel@|Fatih@|Hümmetler~|Kuzyaka@|Mahmutlar Kuyusu~|Namık Kemal@|Orta=|Öğretmen Abdullah Kurnaz@|İnönü@

@@ -1,0 +1,154 @@
+18441	Ahmetbeyler Köyü	Ahmetbeyler Köy Yolu=|Bölücekova Köy Yolu=|Demirhanlar Köy Yolu=
+18444	Aksaklar Köyü, Aksaklar Merkez Mevkii	Aksaklar Merkez Köy Yolu=
+18445	Aksaklar Köyü, Turgutlar Mevkii	Aksaklar Merkez Köy Yolu=|Tekirler Merkez Köy Yolu=|Turgutlar Mahalle Yolu=
+18442	Akçaalan Köyü, Akçaalan Merkez Mevkii	Akçaalan Merkez Köy Yolu=
+18443	Akçaalan Köyü, Kavacık Mevkii	Akçaalan Merkez Köy Yolu=|Bolu Bilecik Yolu1@|Kavacık Mahalle Yolu=|Muratlar Mahalle Yolu=|Yapraklı Mahalle Yolu=
+18446	Alanköy Köyü, Alan Merkez Mevkii	Alan Merkez Köy Yolu=|Ayvatlar Mahalle Yolu=|Bekirfakılar Köy Merkez Yolu=
+18448	Alanköy Köyü, Alan Yaylası Yayla Evleri	Alan Yaylası Yolu=
+18447	Alanköy Köyü, Okçular Mevkii	Okçular Mahalle Yolu=
+18449	Arıkçayırı Köyü, Arıkçayırı Merkez Mevkii	Arıkçayırı Köy Yolu=|Bolu Bilecik Yolu1@|Bozcaarmut Köy Yolu=|Dere Mahalle Yolu=|Kavacık Mahalle Yolu=|Kozcağız Merkez Köy Yolu=|Köstek Mahalle Yolu=
+18450	Arıkçayırı Köyü, Dere Mevkii	Arıkçayırı Köy Yolu=|Bozcaarmut Köy Yolu=|Dere Mahalle Yolu=
+18451	Arızlar Köyü	Arızlar Köy Yolu=|Boyacılar Köy Yolu=|Hilaller Köy Yolu=|Köybaşı Köy Yolu=|Narzanlar Köy Yolu=
+18455	Aşağıkınık Köyü, Aşağıkınık Merkez(çatacık) Mevkii	Aşağıkınık Köy Yolu=
+18453	Aşağıkınık Köyü, Hallar Mevkii	Hallar Mahallesi Yolu=|Yukarıkınık Köy Yolu=
+18454	Aşağıkınık Köyü, Köroğlu Mevkii	Köroğlu Mahallesi Yolu=
+18452	Aşağıkınık Köyü, Safalar Mevkii	Safalar Mahallesi Yolu=
+18456	Bayındır Köyü, Bayındır Merkez Mevkii	Bayındır Köy Yolu=
+18457	Bayındır Köyü, Ilıca Mevkii	Ilıca Mahalle Yolu=
+18458	Bayındır Köyü, Karafakılar Mevkii	Karafakılar Mahalle Yolu=
+18460	Bekirfakılar Köyü, Ayvatlar Mevkii	Ayvatlar Mahalle Yolu=|Bilecik Sakarya Nallıhan Yolu@|Sifyanlar Mahalle Yolu=
+18459	Bekirfakılar Köyü, Bekirfakılar Merkez Mevkii	Alan Merkez Köy Yolu=|Bekirfakılar Köy Merkez Yolu=|Bocuk Yaylası Yolu=
+18461	Boyacılar Köyü, Boyacılar Merkez Mevkii	Arızlar Köy Yolu=|Boyacılar Köy Yolu=
+18462	Boyacılar Köyü, Niğit Mevkii	Kayabaşı Köy Yolu=|Köstekler Mahallesi Yolu=|Niğit Mahallesi Yolu=
+18463	Bozcaarmut Köyü	Arıkçayırı Köy Yolu=|Bolu Bilecik Yolu1@|Bozcaarmut Köy Yolu=|Dere Mahalle Yolu=|Gölbaşı Mahalle Yolu=
+18466	Bulanık Köyü, Bulanık Merkez Mevkii	Bulanık At Yaylası Yolu=|Bulanık Beyciler Yaylası Yolu=|Bulanık Merkez Köy Yolu=|Muzaffer Demiröz/1~
+18467	Bulanık Köyü, Kumarlar Mevkii	Bulanık Beyciler Yaylası Yolu=|Kumarlar Mahalle Yolu=|Muzaffer Demiröz/1~|Safran Beleni Mevkii=
+18468	Bulanık Köyü, Orta Mevkii	Bulanık Beyciler Yaylası Yolu=|Bulanık Merkez Köy Yolu=|Kumarlar Mahalle Yolu=|Muzaffer Demiröz/1~|Orta Mahalle Yolu=
+18464	Bölücekova Köyü, Bölücekova Merkez Mevkii	Bölücekova Köy Yolu=|Hasanlar Köy Yolu=
+181320	Bölücekova Köyü, Yeşilova Mahallesi Mevkii	Yeşilova Mahallesi Yolu=
+18465	Bölücekova Köyü, Çatak Mevkii	Aşağıkınık Köy Yolu=|Çatak Mahalle Yolu=
+18469	Ceylanlı Köyü	Ceylanlı Köy Yolu=|Güneyçalıca Köy Yolu=
+10911	Cuma Mah.	Aksungur@|Akşemseddin@|Ankara@|Bayındır~|Deveyolu~|Dik~|Elvan~|Gazi Süleyman Paşa%|Hükümet@|Kavaklar~|Keçeciler~|Korkmaz Çıkmazı~|Kulealtı~|Prof.dr.necmettin Erbakan@|Yeni@|İngaziler 1~|İngaziler~|Şıhhızır~
+18484	Dağhacılar Köyü, Dağhacılar Merkez Mevkii	Dağhacılar Merkez Köy Yolu=
+18485	Dağhacılar Köyü, Kabalar Mevkii	Kabalar Mahalle Yolu=
+18486	Dağşeyhleri Köyü	Dağşeyhleri Köy Yolu=|Güneyçalıca Köy Yolu=
+18487	Dedeler Köyü	Bilecik Sakarya Nallıhan Yolu@|Dedeler Merkez Köy Yolu=|Karaardıç Merkez Köy Yolu=
+18489	Demirhanlar Köyü	Ahmetbeyler Köy Yolu=|Demirhanlar Köy Yolu=|Hasanlar Köy Yolu=
+18488	Değirmenözü Köyü	Alaşar=|Değirmenözü Köy Yolu=|Değirmenözü Yaylası Yolu=|Kaşıkçışeyhler Merkez Köy Yolu=|Kaşıkçışeyhler Yaylası Yolu=|Seki Mahalle Yolu=|Yağcılar Mahalle Yolu=
+18491	Ekinciler Köyü, Doğruk Mevkii	Doğruk Mahalle Yolu=
+18490	Ekinciler Köyü, Ekinciler Merkez Mevkii	Ekinciler Merkez Köy Yolu=
+18492	Ekinciler Köyü, Yeni Mevkii	Bolu Bilecik Yolu@|Doğruk Mahalle Yolu=|Yeni Mahalle Yolu=
+18493	Gerişler Köyü	Gerişler Köy Yolu=
+18496	Gökçesaray Köyü, Arabacılar Mevkii	Arabacılar Mahalle Yolu=|Çiftlik Mahalle Yolu=
+18494	Gökçesaray Köyü, Gökçesaray Merkez Mevkii	Gökçesaray Merkez Köy Yolu=
+18497	Gökçesaray Köyü, Gökçesaray Yayla Evleri Yayla Evleri	Gökçesaray Yayla Evleri Yolu=
+18495	Gökçesaray Köyü, Nasuhlar Mevkii	Nasuhlar Mahalle Yolu=
+18498	Güneyçalıca Köyü, Güneyçalıca Merkez Mevkii	Güneyçalıca Köy Yolu=
+18499	Güneyçalıca Köyü, Çalıca Mevkii	Güneyçalıca Köy Yolu=|Çalıca Mahallesi Yolu=
+18501	Gürpınar Köyü, Fakılar Mevkii	Fakılar Mahallesi Yolu=
+18500	Gürpınar Köyü, Gürpınar Merkez Mevkii	Gürpınar Köy Yolu=
+10913	Hacı Abdi Mah.	Alacapınar Mevkii~|Bilecik Sakarya Nallıhan Yolu@|Dere Değirmeni~|Deveyolu~|Deveyolu/1~|Dik~|Düztarla Mevkii~|Endife 1~|Endife@|Gazi Süleyman Paşa%|Göksan Mevkii~|Müezzinler@|Salmanlar~|Sıtma Pınarı~|Tepebaşı Köy Yolu=|Turanlar~|Yazganlar 1~|Yazganlar~|Zeytin Dalı~|Şirin~|Şirince~
+18504	Hacımahmut Köyü, Hacımahmut Merkez Mah.yaylası Yayla Evleri	Hacımahmut Merkez Mah. Yaylası Yolu=
+18502	Hacımahmut Köyü, Hacımahmut Merkez Mevkii	Hacımahmut Merkez Köy Yolu=|Çiftlik Mahalle Yolu=
+18505	Hacımahmut Köyü, Çiftlik Mah.yaylası Yayla Evleri	Çiftlik Mah. Yaylası Yolu=
+18503	Hacımahmut Köyü, Çiftlik Mevkii	Bekirler Mahalle Yolu=|Hacımahmut Merkez Köy Yolu=|Çiftlik Mahalle Yolu=
+18506	Hasanlar Köyü	Bölücekova Köy Yolu=|Demirhanlar Köy Yolu=|Hasanlar Köy Yolu=
+18507	Hilaller Köyü	Gerişler Köy Yolu=|Hilaller Köy Yolu=|Karacalar Köy Yolu=|Köybaşı Köy Yolu=
+18510	Himmetoğlu Köyü, Aşağı Mevkii	Aşağı Mahalle Yolu=|Aşağıkınık Köy Yolu=|Karısıklar Mahalle Yolu=|Yeşilova Mahallesi Yolu=
+18508	Himmetoğlu Köyü, Himmetoğlu Merkez Mevkii	Himmetoğlu Köy Yolu=|Karısıklar Mahalle Yolu=
+18509	Himmetoğlu Köyü, Karısıklar Mevkii	Aşağı Mahalle Yolu=|Karısıklar Mahalle Yolu=
+18514	Hisarözü Köyü, Ayvatlar Mevkii	Ayvatlar Mahallesi Yolu=|Hisarözü Merkez Köy Yolu=
+18515	Hisarözü Köyü, Gavurlar Pınarı Mevkii	- Köy$
+18512	Hisarözü Köyü, Hapşanlar Mevkii	Ayvatlar Mahallesi Yolu=|Hapşanlar Mahalle Yolu=|Hisarözü@|Hisarözü Merkez Köy Yolu=
+18511	Hisarözü Köyü, Hisarözü Merkez Mevkii	Hisarözü Merkez Köy Yolu=|Muzaffer Demiröz/1~|Seki Mahalle Yolu=
+18516	Hisarözü Köyü, Meşeli Mevkii	Kemer Köprü/4~|Meşeli Mahalle Yolu=
+18513	Hisarözü Köyü, Şabanlar Mevkii	Ayvatlar Mahallesi Yolu=|Hisarözü Merkez Köy Yolu=|Şabanlar Mahalle Yolu=
+18522	Karaaliler Köyü, Karaaliler Merkez Mevkii	Karaaliler Merkez Köy Yolu=|Yörükler Mahalle Yolu=
+18524	Karaaliler Köyü, Mantarlar Mevkii	Mantarlar Mahalle Yolu=
+18523	Karaaliler Köyü, Yahyalar Mevkii	Yahyalar Mahalle Yolu=
+18526	Karaardıç Köyü, Hebiller Mevkii	Habiller Mahalle Yolu=
+18525	Karaardıç Köyü, Karaardıç Merkez Mevkii	Bilecik Sakarya Nallıhan Yolu@|Dedeler Merkez Köy Yolu=|Karaardıç Merkez Köy Yolu=|Susuz Köy Yolu=
+18527	Karacalar Köyü	Bolu Bilecik Yolu@|Gerişler Köy Yolu=|Hilaller Köy Yolu=|Karacalar Köy Yolu=
+18531	Kayabaşı Köyü	Kayabaşı Köy Yolu=
+18532	Kayalıdere Köyü, Kayalıdere Merkez Mevkii	Karafakılar Mahalle Yolu=|Kayalıdere Merkez Köy Yolu=|Susuz Köy Yolu=
+18533	Kayalıdere Köyü, Turgutlar Mevkii	Karafakılar Mahalle Yolu=|Turgutlar Mahalle Yolu=
+18529	Kaşıkçışeyhler Köyü, Bekirler Mevkii	Bekirler Mahalle Yolu=
+18528	Kaşıkçışeyhler Köyü, Kaşıkçışeyhler Merkez Mevkii	Bekirler Mahalle Yolu=|Değirmenözü Köy Yolu=|Değirmenözü Yaylası Yolu=|Kaşıkçışeyhler Merkez Köy Yolu=|Kaşıkçışeyhler Yaylası Yolu=
+18530	Kaşıkçışeyhler Köyü, Yağcılar Mevkii	Bekirler Mahalle Yolu=|Yağcılar Mahalle Yolu=
+10914	Kepkebir Mah.	Akgün~|Ankara@|Baltalar~|Deveyolu~|Değirmen~|Elvan~|Gazi Süleyman Paşa%|Kulealtı~|Musalar~|Müezzinler@|Yeni@|Şıhhızır~
+18540	Kilciler Köyü	Boyacılar Köy Yolu=|Kilciler Köy Yolu=|Köstekler Mahallesi Yolu=
+18542	Kozcağız Köyü, Aşağıkozcağız Mevkii	Aşağıkozcağız Mahalle Yolu=|Bolu Bilecik Yolu1@
+18541	Kozcağız Köyü, Kozcağız Merkez Mevkii	Bolu Bilecik Yolu1@|Kozcağız Merkez Köy Yolu=
+18544	Kozcağız Köyü, Köstek Mevkii	Köstek Mahalle Yolu=
+18543	Kozcağız Köyü, Tembeller Mevkii	Tembeller Mahalle Yolu=
+18546	Kumcuk Köyü, Kumcuk Merkez Mevkii	Kumcuk Merkez Köy Yolu=|Menzil Alanı Ve Ruzbeyler=|Tepebaşı Köy Yolu=
+18548	Kumcuk Köyü, Kurtuluş Mevkii	Alaşar=|Bolu Bilecik Yolu@|Kurtuluş Mahalle Yolu=
+18547	Kumcuk Köyü, Seki Mevkii	Seki Mahalle Yolu=
+18549	Kuyupınar Köyü, Kuyupınar Merkez Mevkii	Kuyupınar Köy Yolu=|Safalar Mahallesi Yolu=
+18550	Kuyupınar Köyü, Ovaboyu Mevkii	Ovaboyu Mahallesi Yolu=|Çayköy Köy Yolu=
+18545	Köybaşı Köyü	Arızlar Köy Yolu=|Hilaller Köy Yolu=|Köybaşı Köy Yolu=
+18551	Kürnüç Köyü	Kayabaşı Köy Yolu=|Kürnüç Köy Yolu=
+18534	Kılavuzlar Köyü	Ekinciler Merkez Köy Yolu=|Kılavuzlar Köy Yolu=
+18535	Kılavuzlar Köyü, Kılavuzlar Yaylası Yayla Evleri	Kılavuzlar Yaylası Yolu=
+18537	Kızılkuyu Köyü, Caferler Mevkii	Caferler Mahallesi Yolu=
+18539	Kızılkuyu Köyü, Göbeller Mevkii	Göbeller Mahallesi Yolu=
+18538	Kızılkuyu Köyü, Köstekler Mevkii	Kilciler Köy Yolu=|Köstekler Mahallesi Yolu=|Niğit Mahallesi Yolu=
+18536	Kızılkuyu Köyü, Kızılkuyu Merkez Mevkii	Kızılkuyu Köy Yolu=
+18553	Memeceler Köyü, Gözler Mevkii	Gözler Mahalle Yolu=|Gözler Yaylası Yolu=
+18552	Memeceler Köyü, Memeceler Merkez Mevkii	Karafakılar Mahalle Yolu=|Memeceler Köy Yolu=
+18554	Memeceler Köyü, Memeceler Yaylası Yayla Evleri	Memeceler Yaylası Yolu=
+18556	Mustanlar Köyü, Killer Mevkii	Hacımahmut Merkez Köy Yolu=|Killer Mahalle Yolu=
+18555	Mustanlar Köyü, Mustanlar Merkez Mevkii	Killer Yaylası Yolu=|Mustanlar Köy Yolu=|Mustanlar Yaylası Yolu=
+18557	Narzanlar Köyü	Arızlar Köy Yolu=|Boyacılar Köy Yolu=|Gerişler Köy Yolu=|Hilaller Köy Yolu=|Kilciler Köy Yolu=|Narzanlar Köy Yolu=
+18565	Pelitcik Köyü	Pelitcik Köy Yolu=
+18566	Sarıcalar Köyü	Köybaşı Köy Yolu=|Sarıcalar Köy Yolu=
+18567	Sarılar Köyü, Sarılar Merkez Mevkii	Bilecik Sakarya Nallıhan Yolu@|Göynük Yolu@|Sarılar Merkez Köy Yolu=
+18568	Sarılar Köyü, Sifyanlar Mevkii	Bilecik Sakarya Nallıhan Yolu@|Sifyanlar Mahalle Yolu=
+10915	Sofu Ali Mah.	Ahmet Çankaya@|Alaşar=|Beybahçesi@|Beybahçesi/1~|Beytepesi@|Fatih Sultan Mehmet@|Fatih Sultan Mehmet/1~|Gökçeler~|Gül~|Gürcüler Çayırı@|Hafız İsmail Biçer@|Hapşanlar Mahalle Yolu=|Hisar~|Hisarözü@|Kahyalar~|Karanfil~|Kayhanlar~|Kepçebaşı~|Keşifler~|Kulealtı~|Lale~|Manolya~|Menekşe~|Meşeli Mahalle Yolu=|Muhsin Yazıcıoğlu@|Muzaffer Demiröz~|Muzaffer Demiröz/1~|Nökerler~|Orkide~|Papatya~|Safran Beleni Mevkii=|Safran~|Sümbül~|Tunahan~|Yayayolu~|Yüceller~|Zambak~|Çekirgelik=|Çelikler Tepesi~|Çimen~|Şehit Mustafa Bilgi@|Şevketbey~
+18569	Soğukçam Köyü	Gürpınar Köy Yolu=|Soğukçam Köy Yolu=
+18570	Susuz Köyü	Bilecik Sakarya Nallıhan Yolu@|Karaardıç Merkez Köy Yolu=|Susuz Köy Yolu=
+18572	Sünnet Köyü, Fındıcak Mevkii	Fındıcak Mahalle Yolu=
+18574	Sünnet Köyü, Muratlar Mevkii	Bolu Bilecik Yolu1@|Kavacık Mahalle Yolu=|Muratlar Mahalle Yolu=
+18571	Sünnet Köyü, Sünnet Merkez Mevkii	Altıncılar Mahalle Yolu=|Sünnet Merkez Köy Yolu=
+18573	Sünnet Köyü, Yapraklı Mevkii	Arıkçayırı Köy Yolu=|Köstek Mahalle Yolu=|Yapraklı Mahalle Yolu=
+18575	Tekirler Köyü, Tekirler Merkez Mevkii	Tekirler Merkez Köy Yolu=|Çapar Köy Yolu=
+18576	Tekirler Köyü, Yörükler Mevkii	Yörükler Mahalle Yolu=
+18577	Tepebaşı Köyü	Bilecik Sakarya Nallıhan Yolu@|Endife 1~|Endife@|Kumcuk Merkez Köy Yolu=|Susuz Köy Yolu=|Tepebaşı Köy Yolu=
+18578	Umurlar Köyü	Aktaş Mahalle Yolu=|Susuz Köy Yolu=|Umurlar Köy Yolu=|Çamlıca Merkez Köy Yolu=
+10916	Yenice Mah.	Aksungur@|Alaşar=|Atış Alanı=|Belediye Myd.|Beybahçesi@|Beşir Bayraktar@|Dereyolu~|Endife@|Erenler~|Erenler Tepesi~|Erenler/1~|Gazhane~|Gazi Süleyman Paşa%|Hacıkadın~|Hatıp Bahçesi 1~|Hatıp Bahçesi 2~|Hatıp Bahçesi~|Hükümet@|Kabalar~|Kabalar/1~|Karadayılar~|Konakyeri~|Menzil Alanı Ve Ruzbeyler=|Orhan Çalış@|Prof.dr.necmettin Erbakan@|Rüzgarlı 1~|Rüzgarlı~|Rüzgarlı/1~|Safran Beleni Mevkii=|Sarayönü~|Selim Çapar@|Selim Çapar/1@|Yayayolu~|Çaykenarı~|Çelikler Tepesi~|Çelikler Tepesi/1~|Çetin Çıkmazı~|Örücüler 1@|Örücüler@
+18582	Yeniköy Köyü, Aktaş Mevkii	Aktaş Mahalle Yolu=|Bilecik Sakarya Nallıhan Yolu@
+18580	Yeniköy Köyü, Alancık Mevkii	Alancık Mahalle Yolu=|Bilecik Sakarya Nallıhan Yolu@
+18581	Yeniköy Köyü, Aydınlar Mevkii	Aksaklar Merkez Köy Yolu=|Aydınlar Mahalle Yolu=|Bilecik Sakarya Nallıhan Yolu@|Yukarı Aydınlar Mahalle Yolu=
+18579	Yeniköy Köyü, Yeniköy Merkez Mevkii	Bilecik Sakarya Nallıhan Yolu@|Umurlar Köy Yolu=|Yeniköy Merkez Köy Yolu=
+18584	Yeşilyazı Köyü, Conlar Mevkii	Conlar Mahalle Yolu=|Hacıahmetler Mahalle Yolu=
+18583	Yeşilyazı Köyü, Hacıahmetler Mevkii	Hacıahmetler Mahalle Yolu=
+18585	Yeşilyazı Köyü, Yeşilyazı Merkez Mevkii	Yeşilyazı Köy Yolu=
+18587	Yukarıkınık Köyü, Elmacılar Mevkii	Elmacılar Mahallesi Yolu=
+18586	Yukarıkınık Köyü, Yukarıkınık Merkez Mevkii	Köroğlu Mahallesi Yolu=|Yukarıkınık Köy Yolu=
+18472	Çamlıca Köyü, Gölözü Mevkii	Bolu Bilecik Yolu1@|Gölözü Mahalle Yolu=
+18471	Çamlıca Köyü, Yeni Mevkii	Aşağıkozcağız Mahalle Yolu=|Bolu Bilecik Yolu1@|Yeni Mahalle Yolu=
+18470	Çamlıca Köyü, Çamlıca Merkez Mevkii	Bilecik Sakarya Nallıhan Yolu@|Gökçebel~|Çamlıca Merkez Köy Yolu=
+18473	Çapar Köyü	Çapar Köy Yolu=
+18474	Çatacık Köyü, Çatacık Merkez Mevkii	Yapraklı Mahalle Yolu=|Çatacık Merkez Köy Yolu=
+18475	Çatacık Köyü, Çiftlik Mevkii	Yapraklı Mahalle Yolu=|Çiftlik Mahalle Yolu=
+18476	Çayköy Köyü	Ovaboyu Mahallesi Yolu=|Çayköy Köy Yolu=
+18477	Çayköy Köyü, Maden Aksa Mevkii	Maden Aksa Mahallesi Yolu=|Çayköy Köy Yolu=
+18480	Çaylak Köyü, Altıncılar Mevkii	Altıncılar Mahalle Yolu=|Köstek Mahalle Yolu=|Sünnet Merkez Köy Yolu=|Tembeller Mahalle Yolu=
+18479	Çaylak Köyü, Seferler Mevkii	Bekirfakılar Köy Merkez Yolu=|Seferler Mahalle Yolu=
+18478	Çaylak Köyü, Çaylak Merkez Mevkii	Çaylak Merkez Köy Yolu=
+10912	Çeşme Mah.	Arkkenarı~|Bodurlar Deresi~|Bolu Bilecik Yolu1%|Değirmen~|Değirmen/1~|Gazi Süleymanpaşa%|Gökçebel~|Gökçebel/1~|Gölözü Mahalle Yolu=|Ihlamur~|Kabakulakaltı Mahalle Yolu=|Kemer Köprü@|Kemer Köprü/2~|Kemer Köprü/4~|Kemer Köprü/5~|Kemer Köprü2~|Kemer Köprü3~|Köse Kadılar~|Musalar~|Müezzinler@|Sıtma Pınarı~|Sıtma Pınarım 1~|Sıtma Pınarım 2~|Sıtma Pınarım 3~|Sıtma Pınarım 4~|Sıtma Pınarım 5~|Türbe~|Yeni@|Çınar~
+18483	Çubukköy Köyü, Gölbaşı Mevkii	Arıkçayırı Köy Yolu=|Dereköy Yaylası Yolu=|Gölbaşı Mahalle Yolu=|Gölbaşı Yaylası Yolu=|Çubuk Merkez Köy Yolu=
+18482	Çubukköy Köyü, Seki Mevkii	Seki Mahalle Yolu=
+18481	Çubukköy Köyü, Çubuk Merkez Mevkii	Çubuk Merkez Köy Yolu=
+18558	Örencik Köyü, Kabakulak Mevkii	Kabakulak Mahalle Yolu=|Meşeli Mahalle Yolu=
+18561	Örencik Köyü, Kabakulakaltı Mevkii	Kabakulakaltı Mahalle Yolu=|Kemer Köprü2~
+18560	Örencik Köyü, Kozdere Mevkii	Bolu Bilecik Yolu1@|Kozdere Mahalle Yolu=
+18563	Örencik Köyü, Umutdere Mevkii	Umutdere Mahalle Yolu=
+18559	Örencik Köyü, Çaykol Mevkii	Çaykol Mahalle Yolu=|Çaykol Yaylası Yolu=
+18562	Örencik Köyü, Örencik Merkez Mevkii	Kabakulak Mahalle Yolu=|Örencik Merkez Köy Yolu=
+18564	Örencik Köyü, Örencik Yaylası Yayla Evleri	Örencik Yaylası Yolu=
+18521	İbrahimözü Köyü, Aşağısafranlar Mevkii	Aşağısafranlar Mahalle Yolu=|Bolu Bilecik Yolu@
+18518	İbrahimözü Köyü, Boyalıca Mevkii	Boyalıca Mahalle Yolu=
+18520	İbrahimözü Köyü, Depo Mevkii	Bolu Bilecik Yolu@|Depo Mahalle Yolu=
+18517	İbrahimözü Köyü, Merkez Mevkii	İbrahimözü Merkez Köy Yolu=
+18519	İbrahimözü Köyü, Safranlar Mevkii	Safranlar Mahalle Yolu=

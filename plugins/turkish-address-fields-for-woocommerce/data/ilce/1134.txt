@@ -1,0 +1,210 @@
+6438	Abacı Köyü	Abacı=|Küçük Kızılca=
+1293	Akbilek Mah.	Abidin Coşkun@|Adalet~|Akşemsettin@|Alim~|Alptekin@|Artuk~|Aytekin~|Açelya~|Babayiğit~|Barbaros~|Bayraktar~|Cemre~|Cevahir~|Efe~|Ekin~|Elvan Çelebi@|Furkan~|Fırat Yılmaz Çakıroğlu@|Gümüştekin~|Gündoğdu~|Güzide~|Hakimiyet@|Hilal~|Hulusi~|Kamelya~|Kandil~|Karşıyaka~|Kayı~|Kemal Nehrozoğlu@|Kevser~|Kurtuluş~|Mehmet Akif Ersoy@|Mehmetçik@|Mirza~|Muhsin Yazıcıoğlu@|Mustafa Arıkan@|Nazar-~|Niyazi Akı@|Oruç Reis~|Oğuzeli~|Rahmet~|Reyhan~|Rıhtım~|Salih~|Soylu-~|Söğüt~|Süvari~|Türkistan@|Türkoğlu~|Uhud@|Vefa~|Yabangülü~|Yamaç~|Yetenekli~|Yonca-~|Yıldırım~|Zümrüt~|Çamlıbel~|Ören~|Ümit~|Üzeyir~|İdeal~|İkram~|İlim~|İsmail Hakkı Mumcu@|Şehit Aziz Sağlam~|Şehit Gültekin Tırpan~|Şehit Seyfi Karaca~|Şelale~|Şevket Güres@|Şeyhcui~
+6346	Aksalur Köyü	Aksalur=|Amasya Zıle Yolu@
+6348	Aksalur Köyü, Salamut Mezrası	Aksalur=|Salamut=
+6347	Aksalur Köyü, Çay Köyü Mezrası	Amasya Zıle Yolu@|Çayköy=
+6403	Aktaş Köyü	Aktaş=
+6349	Akyazı Köyü	- Köy$|Akyazı=|Amasya Zıle Yolu@
+6350	Alakadı Köyü	Alakadı=|Yavru=
+6439	Albayrak Köyü	Albayrak=|Tokat Amasya Yolu@
+6440	Albayrak Köyü, Atatürk Mevkii	Atatürk=|Tokat Amasya Yolu@
+6351	Ardıçlar Köyü	Ardıçlar=
+139455	Ardıçlar Köyü, Eski Ardıçlar Mevkii	Eski Ardıçlar=
+139456	Ardıçlar Köyü, Kazanasmaz Mevkii	Kazanazmas=
+139459	Ardıçlar Köyü, Kirazpınarı Mevkii	Kaleköy=|Kirazpınarı=
+139457	Ardıçlar Köyü, Oba Önü Mevkii	Obaönü Mevkii=
+139458	Ardıçlar Köyü, Tartışık Mevkii	Tartışık=
+6441	Avşar Köyü	Avşar=
+6442	Avşar Köyü, Alan Mezrası	Alan=
+6443	Avşar Köyü, Kayadibi Mezrası	Kayadibi=
+6353	Aydoğdu Köyü	Aydoğdu=
+1340	Aydınca Köyü, Merkez Mevkii	Akasya-~|Amasya-~|Atatürk-~|Aydınca=|Bahçeler-~|Cumhuriyet-~|Değirmen-~|Eşref Bitlis-~|Gül-~|Karanfil-~|Kardelen Çıkmazı-~|Lale-~|Manolya-~|Menekşe-~|Nilüfer Çıkmazı-~|Sümbül-~|Tokat Amasya Yolu@|Yasemin-~
+6352	Aydınlık Köyü	Aydınlık=
+1294	Bahçeleriçi Mah.	Albayrak~|Alparslan Türkeş-@|Anadolu~|Avcı~|Avize~|Billur~|Burcu~|Büyükağa@|Cihat~|Cülüs~|Dağıstanlı~|Destan~|Devran~|Diyar~|Erikli~|Garipler~|Gönül~|Gülbaba~|Gülistan~|Gülveren~|Hangel~|Hasbahçe~|Hürriyet~|Kalkan~|Kılıçer~|Medrese~|Mevsim~|Miraç~|Samet~|Sardunya~|Sebil~|Tersakan~|Yeniçeri@|Zafer~|Zübeyde Hanım@|İ.hakkı Göztaş@|İ.hakkı Göztaş-@|İtimat~|Şehit Alper Kalem@|Şehit Ferhat Bolat~|Şehit Sinan Yılmaz~|Şehzade~
+6444	Bayat Köyü	Bayat=
+6354	Bağlarüstü Köyü	Bağlarüstü=
+183128	Bağlarüstü Köyü, Bağlarüstü Mücavir Mevkii	Birlik@
+6417	Bağlıca Köyü	- Köy$|Bağlıca=|Çorum Amasya Yolu@
+98831	Bağlıca Köyü, Bağlıca Mücavir Mevkii	Kazakistan~|Kızılırmak~
+6418	Bağlıca Köyü, Bağlıcaosb Mevkii	1.sokak~|1/1 Sokak~|1/2 Sokak~|2.sokak~|3.sokak~|4.sokak 1~|4.sokak 2~|4.sokak~|Doğantepe Bucağı Yolu@|Tahir Köse 1~|Tahir Köse 2~|Tahir Köse Caddesi@|Çorum Amasya Yolu 1~|Çorum Amasya Yolu 2~|Çorum Amasya Yolu 3~|Çorum Amasya Yolu@
+6419	Beke Köyü	Beke=
+6445	Beldağı Köyü	Beldağı=|Çatalçam=
+1295	Beyazıtpaşa Mah.	Dereboyu~|Elçibey%|Gülüm~|Keklik~|Mehmet Paşa@|Mehmet Varinli@|Mevlana~|Pınar~|Sakman~|Selvi~|Tabakhane@|Talat Öncel@|Tohumcular~|Turna~|Ziya Türem~|Özlük~|Şahin~|Şehit Mehmet Keleş~
+6421	Boğaköy Köyü	Boğaköy=
+6420	Boğaköy Köyü, Kaşka Mezrası	Kaşka=
+196447	Boğazköy Mah.	Aslanağızı~|Biçim~|Civelek~|Cumhur~|Dostlar~|Enbiya~|Eraslan@|Ezel~|Fatih Sultan Mehmet@|Hedef~|Hoşgörü~|Kanlıdere~|Koyu~|Kuşak~|Kuşdili-~|Muhacir~|Saygın~|Yaprak~|Yavuz Sultan Selim@|Zirve~|Çekmece~|Öztürk-~|Şaşmaz~
+6356	Bulduklu Köyü	Bulduklu=
+6446	Böke Köyü	Böke=
+6379	Büyükkızılca Köyü	Büyükkızılca=
+6359	Dadı Köyü	Amasya Erzıncan Yolu@|Amasya Zıle Yolu@|Dadı=|Orhan Gazi~|Tokat Amasya Yolu@|Çorum Amasya Yolu@|İpekyolu@
+99637	Dadı Köyü, Küçük Sanayi Sitesi Mevkii	Azerbaycan@|Dağ Gülü~|Dutluk~|Fesleğen~|Florya~|Güldestesi-~|Güllü Dere~|Günbatımı~|Hanzade~|Havadis~|Kuşburnu~|Meziyet~|Orhan Gazi~|Çamlık~|Çoban Yıldızı~|İftihar~|İmece~|İncesu~|İpekyolu-@|İstikbal@
+6362	Damudere Köyü	- Köy$|Damudere=
+6360	Damudere Köyü, Dikyol Mezrası	Dikyol=
+6361	Damudere Köyü, Karasu Mezrası	Karasu=
+1325	Demet Evler Mah.	Aksu-~|Berrak~|Güven-~|Güzel-~|Kader~|Karlı~|Kuşcu-~|Kınalı~|Kırlangıç~|Tavşanlı~|Tepecik-~|İkbal~
+1297	Dere Mah.	Arasta~|Bedestan~|Cavit Öztürk~|Danişment@|Dar~|Değermi~|Ferit Yıldırım~|Ferman~|Güvercin~|Heri~|Karaca~|Mustafa Kemal Paşa@|Ruhi Tingiz@|Taşhan~|Yavuz Selim Myd.|Zembilli~|Zincirli~|Ziya Paşa%|Çelebi Mehmet~|Özkan Yalçın@|İğneci Baba~|Şairakif~|Şehit Selçuk Özarı~|Şeyh Zekeriya~
+6363	Değirmendere Köyü	Değirmendere=
+6404	Direkli Köyü	Direkli=
+6405	Direkli Köyü, Fındıklı Mezrası	Fındıklı=
+1337	Doğantepe Köyü, Gökhöyük Mevkii	Aras-~|Bağlıca=|Dicle-~|Fırat-~|Gökhöyük=|Orman-~
+1338	Doğantepe Köyü, Karşıyaka Mevkii	Evren=|İbe-~
+1339	Doğantepe Köyü, Merkez Mevkii	Doğan-~|Mithatpaşa-~|Sultan-~|İnönü=|İstiklal-~
+6364	Duruca Köyü	Duruca=|Yeni=
+199389	Duruca Köyü, Yeni Mevkii	Duruca=|Yeni=
+6365	Eliktekke Köyü	Eliktekke=
+1298	Ellibeşevler Mah.	Abide~|Adnan Menderes@|Ahıska~|Alparslan Türkeş@|Anafartalar-@|Arıburnu~|Ayvalı~|Ayışığı-~|Bahçe Saray-~|Bekir Samibey~|Bozhane~|Can~|Celal Topala~|Cevdet Topçu~|Ceyhan~|Dolunay~|Dumlu~|Emek~|Faruk Çöl~|Fatih~|Fevzi Paşa-~|Hilmi Topçu~|Kaide~|Kamil Demircioğlu~|Karasungur~|Kemal Ilıcak@|Kemalettin Güzeloğlu~|Kırtasiye~|Mehmet Fatih Arabacıoğlu~|Mehmet Varinli@|Melih Eşref-~|Meydan~|Muallim~|Olcay~|Osman Fevzi~|Pınar Başı~|Savakça~|Seddülbahir-~|Semendu~|Sungur~|Sıtkı Aslan~|Talat Öncel@|Tohumcular~|Tunahan~|Türkmen~|Uludağ~|Yeğenzade~|Yeşilırmak@|Çalı Kuşu-~|Çamlıca-~|Çağdaş~|Ömer Kabakçı~|İlyasağa~|Şahin~|Şehit Ali Türker~|Şeyh Yakup~
+6398	Ermiş Köyü	Ermiş=
+6450	Eskikızılca Köyü	Eskikızılca=|Tokat Amasya Yolu@
+1341	Ezinepazar Köyü, Merkez Mevkii	Ezinepazar=|Fatih Sultan Mehmet-~|Hoca Ahmet Yesevi-~|Merkez-~|Tokat Amasya Yolu@|Çağlar-~
+1299	Fethiye Mah.	Bedir~|Fethi Gazi Paşa~|Fetih~|Kadılar~|Küba~|Mustafa Sıtkı Paşa~|Pir Sinan~|Ruhi Tingiz@|Seyrani~|Soğukpınar~|Tabib~|Tepe~|Çelebi Mehmet_1%|Çeribaşı~|Çeten~|İbni Sina@|Şehit Selçuk Özarı~
+140767	Fındıklı Mah.	Ayaz~|Eraslan@|Eskiyol-~|Fatih Sultan Mehmet@|Kuzeykent@|Kılavuz~
+6416	Gerne Köyü	Gerne=
+6423	Gökdere Köyü	Gökdere=
+1300	Gökmedrese Mah.	Arzu~|Atabey~|Bakacak~|Dilşat~|Emir Seyfettin~|Ferhat~|Kamber~|Leyla~|Mecnun~|Melik Gazi~|Memü Dede~|Mustafa Kemal Paşa@|Nalan~|Necip Pehlivan~|Selçuklu~|Torumtay~|Yavuz Acar@|Özkan~|İstiklal~|Şirin~
+1301	Göllü Bağları Mah.	Alparslan Türkeş@|Asırlık~|Aynalı Mağara~|Ayça~|Bahçıvan~|Cevizli~|Defne~|Dikçe~|Eser~|Eskiyol~|Ezgi~|Fidan~|Gelincik-~|Göksu~|Gölbaşı-~|Göllü@|Kasımpatı~|Kirazlık~|Kudret~|Mazi-~|Meyveli~|Mezbahane~|Murat Daştan~|Nimet-~|Rabet-~|Recep Tayyip Erdoğan@|Salkım~|Serhat~|Su Yolu~|Susam-~|Tekirdede~|Tomurcuk-~|Tuğla~|Vişne~|Yasemin-~|Yaylayolu~|Yağmur-~|Zümre-~|Üçgöz~|Şeftali-~
+6424	Gözlek Köyü	Gözlek=
+98832	Gözlek Köyü, Gözlek Mücavir Mevkii	Kazakistan~
+1302	Gümüşlü Mah.	Arif Fazıl~|Atatürk@|Hitit~|Mehmet Paşa@|Sabuncuzade~
+1303	Hacı İlyas Mah.	Agah Efendi~|Emniyet~|Gani~|Hal~|Halim Hafız~|Hüseyin Nihal Atsız@|Kanarya~|Kapçak~|Milli Egemenlik@|Mustafa Kemal Paşa@|Sahra~|Saray~|Saygılı~|Sümbül~|Ulubatlı Hasan~|Yörgüçpaşa~|Ziya Paşa%|Örgücü~|Öğ.esra Çıtak~|Şehit Recep Bodur~
+1304	Hacılar Meydanı Mah.	Akıncılar~|Anayurt~|Arif Nihat Asya~|Ayan~|Aşık Paşa~|Aşık Veysel~|Bayındır~|Buhara~|Burma~|Canik~|Cennet~|Cesur~|Divan~|Dr. Devlet Bahçeli@|Dudayev~|Elmalı~|Elvan~|Emir~|Erdem~|Gazibey~|Gür Pınar~|Hanlar~|Haşmet~|Hoca Ahmet Yesevi@|Hüsamettin Olgun@|Hüseyin Nihal Atsız@|Ihlamur~|Kamer~|Koçibey~|Kutalmış~|Kutlu Payaslı~|Kutlubey~|Kültigin~|Mahmur~|Narlı~|Necip Fazıl@|Nevruz~|Nigar~|Orhun~|Oyma Ağaç~|Prof.dr.necmettin Erbakan@|Sade~|Sadık Ahmet@|Salur~|Sefa~|Tonyukuk~|Turan~|Töre~|Uzun~|Yakut~|Yavuz Acar@|Yediler~|Yeşil~|Çakır~|Çapkınoğlu~|Çardak~|Çilek~|Çinili~|Önkuzu@|Üç Mayıs~|İmaret~|İnce~|İrfan Özbakır@|Şehit Mustafa Rençber~|Şehit Recep Bodur~
+6451	Halifeli Köyü	Halifeli=|Karaali=
+6452	Hasabdal Köyü	Hasabdal=
+1305	Hatuniye Mah.	Bestekar~|Bülbül Hatun~|Derya~|Esra~|Figani~|Hacı Tevfik Hafız~|Harşena~|Hazeranlar~|Simge~|Yalı~|Şifre~
+1306	Helvacı Mah.	Akça~|Babaküstü~|Bülbül~|Derbent Bağları~|Ebedi~|Efteli~|Ender-~|Ferhat Arası@|Gökkuşağı~|Kaan-~|Kalite-~|Karaağaçlı-~|Karakuş-~|Kardelen~|Kartopu-~|Karçiçeği-~|Kehribar-~|Kurban-~|Kuru Çeşme-~|Kırmızıgül-~|Kıvrak-~|Kızılcık-~|Lalehan-~|Lavanta-~|Limonlu-~|Meriç-~|Mütevelli-~|Narlıbahçe-~|Nazlıcan-~|Neşe~|Nurçiçeği-~|Nusret-~|Okyanus-~|Pamuk Dede-~|Pehlivan-~|Piri Reis~|Plevne-~|Pınar Önü-~|Sarıçiçek-~|Sağlam-~|Seyit Onbaşı~|Sonbahar-~|Tekbir~|Turgut Reis~|Tuğba~|Tütün~|Viran-~|Yaban Mersini-~|Yahya Reis-~|Yavuz Eli-~|Yeni Dünya-~|Yüzük-~|Zeytinlik-~|Çağlayan@|Çetin~|Özyurt~|İsmail Şirvani~|Şadırvan-~|Şehit Ferhat Erdin-~|Şehit Hayrettin Yıldırım@|Şehit İdris Bolat~|Şen~
+1307	Hızırpaşa Mah.	Akasya~|Büklüm~|Dikmen~|Dülger~|Ertuğrul Gazi@|Gurur~|Gökalp~|Gülbahçesi~|Gümüş~|Hakimiyet@|Harman~|Haşim~|Hidayet~|Hoca Ahmet Yesevi@|Karacaoğlan~|Kazım Karabekir Paşa@|Kilitli~|Kumru~|Kutsal~|Kışlak~|Macit Zeren~|Malazgirt@|Mehmet Akif Ersoy@|Merdivenli~|Neşet Ertaş@|Onevler~|Oniki Haziran@|Pelit~|Rahmet~|Süvari~|Uysal~|Yeniay~|Yuvam~|Ziya Gökalp@|İlham~|İlker~|İstasyon@|Şehit Hüseyin Hatipoğlu@|Şehit Seyfi Karaca~
+6426	Kaleboğazı Köyü	Kaleboğazı=|Çorum Amasya Yolu@
+6371	Kaleköy Köyü	Kaleköy=|Tokat Amasya Yolu@
+6372	Kapıkaya Köyü	Amasya Erzıncan Yolu@|Kapıkaya=|Yavuz Acar@|İpekyolu@
+98830	Kapıkaya Köyü, Kapıkaya Mücavir Mevkii	Akçay~|Asmalı Konak~|Ay Çiçeği~|Azerbaycan@|Azra-~|Bilge Kaan-~|Buzlu Dere-~|Böğürtlen-~|Değişim~|Fasıla~|Fırat~|Gelibolu~|Gülseven~|Gülyağı~|Karagül~|Kavaklık~|Kaynarca~|Kuşkonmaz~|Kübra~|Kınalıel~|Kırgızistan~|Kızıltoprak~|Martı-~|Maviş~|Mimoza-~|Modern~|Nakkaş~|Orhan Gazi~|Paşalık~|Rampa-~|Sıhhat~|Tepegöz-~|Çırak~|İncirli~|İpekyolu@|İstikbal@
+6454	Karaali Köyü	Karaali=
+6455	Karaibrahim Köyü	Karaıbrahım=|Tokat Amasya Yolu@|Çengel=
+6457	Karaibrahim Köyü, Nohutluk Mevkii	Nohutluk=|Tokat Amasya Yolu@
+6456	Karaibrahim Köyü, Çengel Mevkii	Tokat Amasya Yolu@|Çengel=
+6406	Karakese Köyü	Karakese=
+6375	Karaköprü Köyü, Belmebük Mevkii	Amasya Zıle Yolu@|Belmebük=
+6374	Karaköprü Köyü, Merkez Mevkii	Amasya Zıle Yolu@|Belmebük=|Karaköprü=|Ovasaray=
+1309	Karasenir Mah.	Ağıllar=|Bilge~|Dr.mustafa Anıl Yaşar~|Eren~|Hasanpaşa~|Mert~|Serçoban@|Tamlar=|Toprak~|Yozgat~|Şehit Ferhat Ünelli~
+6458	Karataş Köyü	Karataş=
+6373	Karaçavuş Köyü	Karaçavuş=|Kazanazmas=|Obaönü Mevkii=
+6459	Karsan Köyü	Karsan=
+6376	Kayabaşı Köyü	Kayabaşı=|Çorum Amasya Yolu@
+6427	Kayacık Köyü	Kayacık=
+6377	Kayrak Köyü	Aşağı Kayrak=
+6378	Kayrak Köyü, Yukarı Kayrak Mevkii	Yukarı Kayrak=
+6460	Keçili Köyü	Hasabdal=|Keçili=
+6461	Keşlik Köyü	Keşlık=|Tokat Amasya Yolu@
+1310	Kirazlıdere Mah.	Altay~|Ardıç~|Armutlu~|Asya~|Aydoğan~|Aşikar~|Berat~|Bereket~|Beybaba~|Bozacı~|Cami~|Caner~|Cihan Hatun~|Derman~|Dilara~|Emirgazi~|Emrah~|Gökoğuz~|Gürgen~|Hacıbektaş~|Hazar~|Hulusi Efendi~|Hızır~|Kadem~|Karatay~|Kemal Ilıcak@|Kerimoğlu~|Kirazlıdere~|Koru~|Kırçiçeği~|Mehmet Varinli@|Memükzade~|Meşale~|Meşe~|Misket~|Mizah~|Nasip~|Nisa~|Orkide~|Sakinler~|Sanayii@|Sinan Paşa~|Talaş~|Tarım~|Teknik~|Turgut Özal@|Veteriner~|Çam~|Şener~|Şifa~
+1326	Koza Mah.	Altun~|Bağcılar~|Bağlarbaşı~|Başak~|Ceylan~|Cihangir~|Dumlupınar~|Elmacı~|Ensar~|Ergül~|Esen~|Filiz~|Karagöz~|Karaçalı~|Kordon~|Maarif~|Mahfuz~|Manolya~|Mukaddes~|Mutlu~|Müjde~|Nur~|Osmanlı~|Sakarya@|Setbaşı~|Tarlabaşı~|Tavşanlı~|Uyaroğlu~|Vatan~|Çalışkan~|Çanakkale~|İpek@|Şehit Ali Bilgiç@
+1311	Kurşunlu Mah.	Aslı~|Bahar~|Baki~|Coşar~|Dadaloğlu~|Emre~|Fuzuli~|Gevheri~|Huzur~|Kafkas~|Karacaoğlan~|Kerem~|Kutlugün~|Köroğlu~|Kırklar~|Malazgirt@|Uysal~|Yunus Emre~|Çakmak~|Çelik~|Ömür~|Örnek~
+6380	Kutu Köyü	Kutu=
+6381	Kutu Köyü, Kazanasmaz Mezrası	Kazanasmaz=
+6414	Kuzgeçe Köyü	Amasya Erzıncan Yolu@|Kavalan Çayı=|Kuzgeçe=
+6428	Köyceğiz Köyü	Köyceğiz=
+6462	Küçükkızılca Köyü	Küçük Kızılca=
+79614	Kızoğlu Köyü	Kızoğlu=
+79616	Kızoğlu Köyü, Geygeler Mezrası	Geygeler=
+79615	Kızoğlu Köyü, İstasyon Mevkii	İstasyon=
+6412	Kızseki Köyü	Amasya Erzıncan Yolu@|Kızseki=
+6413	Kızseki Köyü, Yukarı Kızseki Mevkii	Yukarı Kızseki=
+6407	Kızılkışlacık Köyü	Amasya Erzıncan Yolu@|Kızılkışlacık=
+6409	Kızılkışlacık Köyü, Dirgen Mezrası	Dirgen=
+6411	Kızılkışlacık Köyü, Kavalan Çayı Mezrası	Amasya Erzıncan Yolu@|Kavalan Çayı=
+6410	Kızılkışlacık Köyü, Keltir Mezrası	Amasya Erzıncan Yolu@|Keltir=
+6408	Kızılkışlacık Köyü, Koçalan Mezrası	Koçalan=
+6382	Mahmatlar Köyü	Mahmatlar=|Tokat Amasya Yolu@
+6383	Mahmatlar Köyü, Ağıllar Mezrası	Ağıllar=|Kaleköy=
+6384	Mahmatlar Köyü, Yolyanı Mezrası	Tokat Amasya Yolu@|Yolyanı=
+1313	Mehmet Paşa Mah.	Atatürk@|Bamya~|Barama~|Dereboyu~|Dulda~|Fecir~|Hamza Nigari~|Hançer~|Kırım~|Lokman~|Saraydüzü@|Tuna~|Çevikçe~|Çilhane Myd.|Şehit Mustafa Tuluk~|Şehit Nahit Bulut@|Şeyh Abdurrahman~
+6386	Meşeliçiftliği Köyü	Meşeçiftliği=
+6385	Meşeliçiftliği Köyü, Köprübaşı Mezrası	Köprübaşı=
+6387	Musaköy Köyü	Musaköy=
+6388	Musaköy Köyü, Hatun Pınarı Mezrası	Amasya Zıle Yolu@|Hatunpınarı=
+1314	Nergiz Mah.	Edai~|Edip Taci~|Hacı Tevfik Hafız~|Mihri Hatun~|Nergiz~|Refii~|Çelebi~|Şehit Ahmet Özsoy@
+6432	Oluz Köyü	Gökdere=|Oluz=
+6433	Oluz Köyü, Hamdi Apaydın Çifliği Mevkii	Hamdi Apaydın Çiftliği=
+1315	Orman Bağları Mah.	Esen~|Gür~|Konak~|Kırlangıç~|Orman Bağları@|Tavşanlı~|İpek@
+6389	Ormanözü Köyü	Ormanözü=
+6390	Ormanözü Köyü, Pamuklu Mezrası	Pamuklu=
+6429	Ortaköy Köyü	Ortaköy=
+6391	Ovasaray Köyü	Karaköprü=|Ovasaray=
+1316	Pirinççi Mah.	Atatürk@|Dersi Tamam~|Elçibey%|Falay~|Habibi~|Mehmet Paşa@|Selamet Hatun~|Şehit Erkan Başpehlivan~
+6392	Saraycık Köyü	Saraycık_2=
+6463	Sarayözü Köyü	Sarayözü=
+6464	Sarıalan Köyü	Sarıalan=
+6465	Sarıalan Köyü, Çaydere Mezrası	Çaydere=
+6466	Sarıkız Köyü	Sarıkız=
+6471	Sarıkız Köyü, Kadirgilin Ağıl Mezrası	Kadiringil Ağıl=
+6469	Sarıkız Köyü, Kurban Armudu Mezrası	Kurban Armudu=
+6468	Sarıkız Köyü, Melikyurdu Mezrası	Melikyurdu=
+6470	Sarıkız Köyü, Tartışık Mezrası	Tartışık Mevkii=
+6467	Sarıkız Köyü, İbonun Ağıl Mezrası	İbonun Ağıl=
+140769	Sarılar Mah.	Bekir Ağa~|Bileşim-~|Cemali~|Doğukent@|Hakan~|Hazal-~|Hidayet Efendi~|Kemal Ilıcak@|Rüzgar~|Salıncak-~|Sarraf~|Sükut-~|Yiğit~|Yosun~|Özbekistan~
+6472	Sarımeşe Köyü	Sarımeşe=|Tokat Amasya Yolu@
+6473	Sarıyar Köyü	Sarıyar=
+6474	Sarıyar Köyü, Ova Mezrası	Keşlık=|Ova=|Tokat Amasya Yolu@
+1317	Savadiye Mah.	Dereboyu~|Selvi~|Çalı~|Çınar~|Şehit Hayrettin Çoban~|Şehit Mustafa Tuluk~|Şehit Nahit Bulut@
+6394	Sazköy Köyü	Sazköy=
+6395	Sevincer Köyü	Sevincer=|Tokat Amasya Yolu@
+6396	Sevincer Köyü, Karadut Mezrası	Karadut=|Tokat Amasya Yolu@
+1318	Sofular Mah.	Ay~|Lala~|Müftü Kamil~|Onur~|Oruçbey~|Pirler~|Ruhi Tingiz@|Saraydüzü@|Valikonağı~|Yıldız~|Şeyh~
+6434	Soma Köyü	Soma=
+6431	Sıracevizler Köyü	Sıracevizler=
+6476	Tatar Köyü	Tatar=
+6397	Tuzsuz Köyü	Kutu=|Tuzsuz=
+1328	Uygur Köyü, Yeni Mevkii	Anafartalar-~|Atatürk-~|Aydın-~|Bağlar-~|Cumhuriyet-~|Değirmen-~|Dudluk-~|Esen-~|Filiz-~|Harmanaltı-~|Muradiye-~|Ortayol-~|Tokat Amasya Yolu@|Uğur Mumcu-~|Yeni=|Yuva Deresi-~|Özen-~
+1327	Uygur Köyü, İnönü Mevkii	Dikmen-~|Divan-~|Emek-~|Eğitim-~|Furunderesi-~|Güney-~|Güneş-~|Hacı Hasan-~|Havuz-~|Onevler-~|Sultan-~|Tokat Amasya Yolu@|Uğur Mumcu -~|Yuvam-~|Çelebi Mehmet=
+1332	Yassıçal Köyü, Erkonaş Mevkii	Altınbıyık-~|Atatürk (doğu)-~|Atatürk -~|Bahceleriçi-~|Erkonaş=|Gazeller-~|Işıklar-~|Mangallar=|Uğur Mumcu-~
+1333	Yassıçal Köyü, Filingirler Mevkii	Filingirler Bağlısı=|Kızıldere-~|Şehit Hayrettin Çoban-~
+1334	Yassıçal Köyü, Gölönü Mevkii	Ayanlar-~|Boylu-~|Erkonaş=|Gaziler-~|Kışarmudu-~|Mangallar=|Çevre Yolu Cad.-~
+6400	Yavru Köyü	Yavru=
+1323	Yazı Bağları Mah.	Kışla@|Yazı Bağları@
+6478	Yağcıabdal Köyü	Yağcıabdal=
+6486	Yağcıabdal Köyü, Alaşık Mezrası	Alaşık=
+6487	Yağcıabdal Köyü, Bahçeleraltı Mezrası	Bahçeleraltı=
+6485	Yağcıabdal Köyü, Dikmenardı Mezrası	Dikmenardı=
+6483	Yağcıabdal Köyü, Erikli Mezrası	Erikli=|Kirazpınarı=
+6482	Yağcıabdal Köyü, Kabaardıç Mezrası	Kabaardı=
+6479	Yağcıabdal Köyü, S Mezrası	
+6480	Yağcıabdal Köyü, Sulakbaşı Mezrası	Sulakbaşı=
+6484	Yağcıabdal Köyü, Çanaklı Mezrası	Çanaklı=
+6481	Yağcıabdal Köyü, Çıtırın Çördük Mezrası	Çıtırın Çördük=
+6399	Yağmur Köyü	Yağmur=
+98837	Yağmur Köyü, Yağmur Mücavir Mevkii	Eylül=
+6488	Yeşildere Köyü	Yeşildere=
+6490	Yeşildere Köyü, Ahmet Koltuğu Mezrası	Ahmet Koltuğu=
+6489	Yeşildere Köyü, Karakaya Mezrası	Karakaya=
+140891	Yeşilyenice Mah.	Aşıklar@|Başyayla~|Belediye@|Candanbağı~|Dereotu~|Değirmenli~|Elmas~|Filingirler@|Gölbağlar~|Gölbaşı~|Gözde~|Hacıdede~|Kadıbağı~|Karaağaç@|Karakucak~|Kavacuklar-@|Kayaboğazı-~|Kiremitocağı@|Kuyu~|Kılıçarslan@|Meşeyeri~|Mutludede Çıkmazı~|Seyran~|Seçkin~|Yakamoz~|Yeşilyenice~|Yıldırım Beyazıt@|Çaltılar~|Çınarlı~|Şefaatli~|Şirinevler~
+6491	Yeşilöz Köyü	Tokat Amasya Yolu@|Yeşilöz=
+6492	Yolyanı Köyü	Tokat Amasya Yolu@|Yolyanı=
+6401	Yuvacık Köyü	Yuvacık=
+6493	Yuvaköy Köyü	Yaylasaray=|Yaylasarayy=|Yuvaköy=
+1324	Yüzevler Mah.	Ahmet Pehlivan~|Danişment@|Ferhat Sinan Sağıroğlu~|Gocur Pehlivan~|Hikmet Akıncı Paşa~|Kolaylı Hüseyin~|Mercan~|Mustafa Kemal Paşa@|Nuri Ayvalı~|Sadık Esen~|Saray~|Torumtay~|Ziya Paşa%|Çelebi Mehmet~|Şairakif~|Şehit Özcan Özen~
+6415	Yıkılgan Köyü	Yıkılgan=
+6437	Yıldızköy Köyü	Yıldızköy=|Çorum Amasya Yolu@
+98833	Yıldızköy Köyü, Yıldızköy Mücavir Mevkii	Kızılırmak~
+1329	Ziyaret Beldesi, Aşağı Mah.	108~|Abdulbaki~|Adabağları=|Aksoy~|Aküzüm~|Akşemsettin 1~|Akşemsettin@|Aliçavuş@|Alparslan@|Alperen~|Amasya 1~|Amasya@|Atatürk 1~|Atatürk 2~|Atatürk 3~|Atatürk@|Ayandede~|Ayanlar@|Aynalı Mağara Cad.@|Barbaros Hayrettin Paşa@|Barbaros Hayrettın Paşa 1~|Barbaros Hayrettın Paşa 2~|Bağlar@|Bilgekağan-~|Cengizhan~|Cumhuriyet Myd.|Defne~|Delikli Taş@|Demet~|Değirmenler@|Dikenliderbağevleri=|Edebali~|Eren~|Esen~|Evliya Çelebi 1~|Evliya Çelebi~|Eşmeler~|Fatih Sultan Mehmet@|Göl~|Gölbaşı@|Gölet@|Gül~|Hacılar~|Hatipoğlu~|Hatıpoğlu 1~|Helvalık~|Hurriyet@|Hürriyet-@|Hüseyin Avni Davulcu~|Ihlamur~|Kadırak 3~|Kadırak~|Kardelen~|Keklik~|Kurtuluş~|Kılıçarslan~|Menderes~|Muhsin Yazıcıoğlu@|Nadide~|Narlı~|Osmanlı@|Piri Reis 1~|Piri Reis~|Rüzgarlı~|Saray 1~|Saray~|Selçuklu Cad.@|Soğukpınar 1~|Soğukpınar@|Tufan~|Turgut Özal@|Vatan@|Yakamoz~|Yeşil~|Yeşilırmak@|Yonca-~|Yüce-~|Ziya Gökalp~|Ziyapaşa~|Zübeyde Hanım~|Çayağzı~|Çaydere~|Çağlayan~|Çeşminaz~|Çiçek~|Üzümlü~|İbrahim Şahin@|İnçayı Bağevleri=|İrfan~|İsmet İnönü 1~|İsmet İnönü Cad.@|Şeyh Şamil~
+1330	Ziyaret Beldesi, Saraycık Mah.	Akyolağzı@|Celepler 1~|Celepler~|Dere~|Ertuğrul Gazi~|Göktürk 1@|Göktürk 2@|Göktürk 3@|Göktürk 4@|Göktürk 5@|Göktürk 6@|Göktürk 7~|Göktürk 78~|Göktürk@|Göktürk/3~|Gölen 1@|Gölen@|Hızır Reis 1~|Hızır Reis 2~|Hızır Reis 3~|Hızır Reis 4~|Hızır Reis~|Hızır Reis-~|Lokman Hekim~|Mimar Sinan~|Mimar Sınan 1~|Pınarbaşı Cad.@|Saraycık/1~|Saraycık/2~|Saraycık/3~|Saraycık/4~|Tokmaklar~|Turgut Reis 1~|Turgut Reis~|Turgut Reis1~|Tuğrul Bey~|Yunus Emre~|Zümrüt~|İbni Sina~|İbnı Sına 1~|İbnı Sına 2~
+1331	Ziyaret Beldesi, Yukarı Mah.	Ahmet Yesevi~|Aliçavuş@|Aydın~|Bağlar@|Cumhuriyet Myd.|Değirmenler@|Fatih Sultan Mehmet@|Gazi@|Hurriyet@|Kadırak 1~|Kadırak 2~|Kadırak 4~|Kadırak 5~|Kadırak 6~|Kadırak~|Kanuni~|Kayacık 1~|Kayacık~|Keçipınar@|Kocatepe 1~|Kocatepe~|Mehmet Akif Ersoy~|Menekşe~|Muhsin Yazıcıoğlu@|Mustafa Kemal Paşa~|Namık Kemal~|Necip Fazıl~|Nergiz 1~|Nergiz~|Osman Gazi@|Osmanlı@|Pelitdibi@|Pelıtdıbı 1~|Sancak 1~|Sancak 2~|Sancak 3~|Sancak~|Seyran~|Tepebaşı@|Yavuz Selim~|Yayla@|Yeşilırmak@|Yıldırım Beyazıt~|Zıya Gökalp~|Çınar 1~|Çınar~|Ömer Seyfettin@|İbrahim Dede~|İsmail Coşar 1~|İsmail Coşar~|İstiklal~|Şekerci@
+1296	Çakallar Mah.	Aydınlar~|Cevheri~|Hamza Düzü~|Karakaya~|Molla Cürcan~|Petekçioğlu~|Subaşı~|Sufi~|Tuana~|Vermiş~|Çakallar@|Çardaklı~|İkizler~
+6447	Çatalçam Köyü	Halifeli=|Çatalçam=
+6422	Çavuş Köyü	Kaleboğazı=|Çavuş=|Çorum Amasya Yolu@
+6448	Çengelkayı Köyü	Tokat Amasya Yolu@|Çengel=|Çengelkayı=
+6449	Çengelkayı Köyü, Han Mezrası	Han=
+6357	Çivi Köyü	Çivi=
+6358	Çivi Köyü, Terziköy/kaplıca Mevkii	Terziköy/kaplıca=|Çivi=
+6402	Çiğdemlik Köyü	Amasya Erzıncan Yolu@|Çiğdemlik=
+6494	Özfındıklı Köyü	Özfındıklı=
+6477	Ümük Köyü	Ümük=
+1322	Üçler Mah.	Ahmet Pehlivan~|Arzu~|Aybastı~|Burak~|Cedit~|Değirmen~|Ferhat~|Feridun Bey~|Feyzullah Çelebi~|Gocur Pehlivan~|Halkalı~|Handan~|Hisar~|Kutuplar~|Melik Gazi~|Mustafa Kemal Paşa@|Nalan~|Necip Pehlivan~|Torumtay~|Yusuf Sinaneddin~|Çaltı~|Çağatay~|İbni Sina@|Şehit Recep Gülen~|Şirin~
+6453	İbecik Köyü	İbecik=
+1308	İhsaniye Mah.	Akzambak~|Alaca~|Ali Çelebi~|Armağan~|Asalet-~|Aşiyan~|Bakır~|Beyazgül-~|Beyzade~|Bilgin~|Bostancı-~|Burcular-~|Cengaver~|Cihan~|Damla~|Demet~|Destegül~|Duygu~|Fazıla~|Gedikli Paşa~|Gonca~|Gökçe~|Gül~|Gülçiçek~|Hüsrev~|Karanfil~|Kendir~|Kolbaşı~|Kültür~|Lale~|Liyakat~|Menekşe~|Merve~|Mutasarrıf~|Neslihan~|Neyzen Teyfik~|Papatya~|Pervane~|Rehber~|Sancak~|Sezan~|Sultan~|Türkeli~|Zübeyde Hanım@|Şatgeldi Paşa~|Şehit Adnan Kırımlı~|Şeyhoğlu~
+6425	İlgazi Köyü	İlgazi=
+6368	İlyas Köyü	Tokat Amasya Yolu@|İlyas=
+6367	İlyas Köyü, Kavaklıağıl Mezrası	Kavaklıağıl=|Tokat Amasya Yolu@
+201285	İlyas Köyü, İlyas Mücavir Mevkii	
+6369	İpekköy Köyü	Yavuz Acar@|İpekköy=
+6370	İpekköy Köyü, Karaçalılık Mevkii	Karaçalılık=|Sakarya@
+1319	Şamlar Mah.	Ali Efendi~|Atlas-~|Barış~|Deliktaş~|Deniz-~|Dergah~|Deva~|Ebabil~|Ehli Hatun~|Endüstri~|Esentepe~|Kale~|Karanfil~|Melikşah~|Meltem~|Sancak~|Türbedar~|Yusuf Demir~|Zübeyde Hanım@|Çağrı~|İsmail Topçam~|Şehit Ahmet Özsoy@|Şehit Niyazi Bayrak~
+1320	Şehirüstü Mah.	Aykut~|Cedit~|Ferhat~|Halkalı~|Kolaylı Hüseyin~|Mercan~|Pir Sinan~|Sami Çelebi~|Torumtay~|Çelebi Mehmet~|Çeribaşı~|İbni Sina@
+1321	Şeyhcui Mah.	Afşin~|Ahmet Çekin@|Akmescit~|Aydoğdu~|Aydın~|Ayhan~|Bahadır~|Baybars~|Bayır-~|Bilim~|Borabey~|Bozkır~|Boğaçhan~|Buğra~|Bülent Ecevit@|Dağhan~|Denizhan~|Dilek~|Doğanay~|Dülger~|Eflatun~|Elik~|Emirgan~|Enes~|Engin~|Fırat Yılmaz Çakıroğlu@|Gaye~|Gizem~|Gökhan~|Günhan~|Hanedan~|Hasret~|Hatıra~|Hayret~|Hoca Arvasi@|Işık~|Kanuni@|Kayadibi~|Kemal Nehrozoğlu@|Kerkük~|Kervan~|Kocabel@|Konuralp~|Korkut~|Kosova~|Koşuk~|Kutup Dede~|Kürşad~|Kınık~|Kıraç~|Lalezar~|Leylak~|Macit Zeren~|Makber~|Malazgirt@|Mazlum~|Mesnevi~|Metehan~|Mihriban~|Mimar Sinan@|Muhsin Yazıcıoğlu@|Muhteşem-~|Muteber-~|Mütevazi~|Naci Altunay@|Nadide~|Nakış~|Nene Hatun~|Nilüfer~|Oniki Haziran@|Osman Gazi@|Palmiye~|Pazar~|Pelit~|Poyraz~|Pırlanta~|Ravza~|Reyhani~|Rüya~|Saltuk~|Samyeli-~|Sarmaşık~|Seheryeli~|Serçe~|Taşlı~|Tevhit~|Tolga~|Toy~|Tuğra~|Türk Ocakları@|Türkistan@|Uhud@|Valide-~|Veysel Karani@|Vuslat~|Yadigar-~|Yemen~|Yoğurtçubaba~|Yunus~|Yüce~|Yıldızhan~|Zambak~|Zerafet~|Çandar~|Çarık~|Çağrıbey~|Çeçen@|Çiğdem~|Üstat~|Üzüm~|Üzümlü~|İhlas~|İlbey~|İlbilge~|İlteriş~|İpekli~|İğdeli~|Şafak~|Şehit Ekrem Solak~|Şehit Vedat Taşova~|Şevkat~|Şeyh Yolu~|Şeyh Şamil~|Şölen~|Şûheda-~
+6475	Şeyhsadi Köyü	Şeyhsadi=

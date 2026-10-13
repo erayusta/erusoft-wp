@@ -1,0 +1,80 @@
+28849	Akbulut Köyü	Akbulut=
+28850	Akbulut Köyü, Gümüşlü Mezrası	Gümüşlü=
+28805	Akyürek Köyü	Akyürek=
+28804	Akyürek Köyü, Umurca Mezrası	 Köy$
+28803	Akyürek Köyü, Yazmacık Mezrası	Yazmacık=
+28806	Altınölçek Köyü	Altınölçek=
+28808	Andılar Köyü	Andılar=
+28807	Andılar Köyü, İncesu Mezrası	 Köy$
+28811	Arındık Köyü	Arındık=
+28809	Arındık Köyü, Hüssam Mezrası	Hüssam=
+28810	Arındık Köyü, Şeyhpiran Mezrası	Şeyhpiran=
+28851	Atik Köyü	Atik=
+21436	Aşağı Mah.	Abdullah Bey=|Güvenem=|Köprübaşı=|Küme Evler=|Maksutoğlu=|Zumuhta=|Çayyukarı=
+21445	Baltaşı Köyü, Bahçelievler Mevkii	Alirıza Septioğlu=|Bulutlar~|Demiroğulları~|Kümler Kümesi~|Recep Tayip Erdoğan~|Şahinler~
+21446	Baltaşı Köyü, Çaybaşı Mevkii	Asmalı~|Bahçe~|Belediye~|Camii~|Damla~|Degirmen=|Dere~|Esen~|Fırın~|Güney=|Güneşler=|Kantar=|Kılıç Çıkmaz~|Kınalı~|Mehmet Baba=|Mezarlık~|Meşe~|Palu~|Recep Tayip Erdoğan~|Sağlık~|Sögüt~|Turgut Özal@|Yamaç~|Yasemin~|Yazı~|Ziyaret~|Çay~|İlköğretim~|Şar Eh=|Şen~
+28852	Beydoğan Köyü	Beydoğan=
+21449	Beyhan Beldesi, Girne Mah.	Beyaz Çeşme~|Beyzade~|Bulutlar~|Gül~|Gülnar=|Hamçeşme~|Karabulut~|Karşı~|Kılıçlar~|Osmanlı@|Tarlabaşı=|Taş~|Yeşildere~|Yeşilkent=|Çeşmeyolu=|Özdemirler~|Şahin~|Şelale~
+21448	Beyhan Beldesi, Güney Mah.	Alibey~|Bayramlar=|Bağlar~|Biçer~|Camii~|Cevizli~|Dereli~|Doğan~|Gültepe=|Koç~|Kültür@|Mahmut Sami=|Orta=|Piri Melik~|Süleyman=|Yamanlar~|Yeşildere~|Çay~|Çelebiler=
+21450	Beyhan Beldesi, Karşıyaka Mah.	Arılar~|Açıklar~|Bahçeli~|Batı=|Batıkent=|Dağdelen=|Daşkent=|Esenkent=|Hacılar~|Halefoğlu~|Malik~|Mevlana=|Miroğlu=|Sayer~|Septioğlu@|Tekinler~|Yunus Emre@
+21447	Beyhan Beldesi, İstasyon Mah.	Albahçe~|Alt=|Ağa Dayı~|Bayır=|Beyhan Barajı=|Demiryolu@|Ferkızi Baba=|Hun=|Mahmutlu=|Murat@|Nehir~|Yavuz Sultan Selim@|Yılmazlar=|Çatalca=|Çay-1~|İstasyon=
+28814	Bozçanak Köyü	Bozçanak=
+139798	Bozçanak Köyü, Bircan Mevkii	 Köy$
+28813	Bozçanak Köyü, Hama Mezrası	Hama=
+28812	Bozçanak Köyü, Hanönü Mezrası	Hanönü=
+28815	Burgudere Köyü	Burgudere=
+28853	Bölükelma Köyü	Bölükelma=
+28854	Büyükçaltı Köyü	Büyükçaltı=
+21437	Cumhuriyet Mah.	1@|10@|11@|12@|15 Temmuz Diriliş Caddesi@|2@|210~|211~|212~|213~|214~|254~|258~|260~|261~|262~|263~|264~|265~|266~|267~|268~|3@|40@|5@|6@|Cumhuriyet%
+28817	Damlapınar Köyü	Damlapınar=
+28816	Damlapınar Köyü, Gömelan Mezrası	Gömelan=
+100423	Esentepe Mah.	103@|104@|105@|106=|276@|277~|278~|279~|59@|60@|61@|62@|63@|64@|65@|66@|67@|68@|69@|Osmanlı%|Rasim Giray%|Çarşıbaşı%|Şeyh Şamil%
+28855	Gemtepe Köyü	Gemtepe=
+28846	Gökdere Köyü	Gökdere=
+28848	Gökdere Köyü, Akdemir Mezrası	Akdemir=
+28847	Gökdere Köyü, Sivrikaya Mezrası	Sivrikaya=
+28819	Güllüce Köyü	Güllüce=
+28818	Gümeçbağlar Köyü	Gömeçbağlar~|Gümeçbağlar=
+28820	Gümüşkaynak Köyü	Gümüşkaynak=
+28821	Hasbey Köyü	Hasbey=
+21442	Kalekent Mah.	102@|270~|271~|272~|43@|44@|45@|46@|47@|48@|49@|50@|51@|52@|53@|54@|55@|56@|57@|58@|70@|71@|72@|73@|74@|75@|76@|77@|78@|79@|80@|81@|82@|83@|84@|85@|86@|87@|91@|92@|Cimşitbey%|Komando Bölüğü=|Özsoy%|Şeyh Şamil%
+28822	Karacabağ Köyü	Karacabağ=
+28824	Karacabağ Köyü, Hamzabey Mezrası	Hamzabey=
+28823	Karacabağ Köyü, Taştek Mezrası	Taştek=
+28825	Karasalkım Köyü	Karasalkım=
+28826	Karasalkım Köyü, Pınarbaşı Mezrası	Pınarbaşı=
+28829	Karataş Köyü	Karataş=
+28828	Karataş Köyü, Aksaray Mezrası	Aksaray=
+28827	Karataş Köyü, Eşmekaya Mezrası	Eşmekaya=
+21439	Karşıbahçeler Mah.	Aşağıbahçeler 1=|Aşağıbahçeler 2=|Değirmen Başı=|Paşabey=
+28830	Kasıl Köyü	Kasıl=
+28036	Kayahisar Köyü	Kayahisar=
+28035	Kayahisar Köyü, Boğazlı Mezrası	Boğazlı=
+28831	Kayaönü Köyü	Kayaönü=
+28832	Kayaönü Köyü, Yaylacık Mezrası	Yaylacık=
+28833	Keklikdere Köyü	Keklikdere=
+28834	Keklikdere Köyü, Balkaya Mezrası	Balkaya=
+28860	Köklüce Köyü	Köklüce=
+28861	Köklüce Köyü, Bük Mezrası Mezrası	 Köy$
+28862	Köklüce Köyü, Dol Küçük Mezrası Mezrası	Dol Küçük Mezrası=
+21440	Kültür Mah.	216~|218~|219~|220~|221~|222~|223~|224~|225~|226~|227~|229~|235~|236~|237~|274~|28@|29@|3@|31@|32@|33@|34@|35@|36@|37@|38@|7@|Ali Rıza Septioğlu%|Hacı Yasin%
+28863	Küçükçaltı Köyü	Küçükçaltı=
+28856	Kırkbulak Köyü	Kırkbulak=
+28858	Kırkbulak Köyü, Dutağacı Mezrası	Kırkbulak=
+28857	Kırkbulak Köyü, Payamlı Mezrası	Payamlı=
+28859	Kırkbulak Köyü, Ünveren Mezrası	
+21441	Numune Mah.	15 Temmuz Diriliş Caddesi@|2@|214~|215~|217~|269~|3@|5@|6@|8@|Ali Rıza Septioğlu%|Cumhuriyet%
+28839	Seydili Köyü	Seydili=
+28840	Tarhana Köyü	Tarhana=
+28841	Umutkaya Köyü	Umutkaya=
+28844	Yarımtepe Köyü	Yarımtepe=
+21444	Yenimahalle Mah.	13@|14@|15@|16@|17@|18@|19@|20@|21@|22@|23@|230~|231~|232~|234~|238~|239~|24@|240~|241~|242~|244~|245~|246~|247~|248~|249~|25@|250~|26@|27@|39@|Alı Rıza Septıoglu%
+28845	Yeşilbayır Köyü	Yeşilbayır=
+21443	Yukarı Palu Mah.	275@|300~|Ense Bahçeler=|Kuru Mezra=|Saryönü=|Zeve=|Şenova=
+21438	Çarşı Mah.	1@|12@|13@|201~|202~|203~|204~|206~|208~|210~|253~|254~|256~|257~|258~|3@|4@|5@|500=|6@
+28835	Örencik Köyü	Örencik=
+28836	Örencik Köyü, Keseköprü Mezrası	Keseköprü=
+28837	Örgülü Köyü	Örgülü=
+28842	Üçdeğirmenler Köyü	Üçdeğirmenler=
+28843	Üçdeğirmenler Köyü, Köroğlu Mezrası	Köroğlu=
+139611	Üçdeğirmenler Köyü, Maço Mevkii	

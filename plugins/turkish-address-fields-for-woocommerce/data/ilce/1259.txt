@@ -1,0 +1,320 @@
+23725	Abdalata Köyü	 Köy$
+23929	Acıpınar Köyü, Aşağı Mevkii	 Köy$
+23928	Acıpınar Köyü, Merkez Mevkii	 Köy$
+23930	Acıpınar Köyü, Üçevler Mevkii	 Köy$
+23726	Ahiilyas Köyü	 Köy$
+100266	Ahiilyas Köyü, Ahiilyas Mücavir Mevkii	Karacaköy Şehiryolu Mevki=|Köy İçi=
+23727	Ahmediye Köyü	Köy İçi=
+23897	Ahmetoğlan Köyü, Merkez Mevkii	 Köy$
+99659	Ak Kent Mah.	Akkent 1~|Akkent 1. Cad.@|Akkent 10~|Akkent 10.cad@|Akkent 11~|Akkent 13~|Akkent 14~|Akkent 15~|Akkent 16~|Akkent 17~|Akkent 19.~|Akkent 2~|Akkent 2. Cad.@|Akkent 21.~|Akkent 23.~|Akkent 25.~|Akkent 27.~|Akkent 29.~|Akkent 3~|Akkent 3. Cad.@|Akkent 31.~|Akkent 4~|Akkent 4. Cad.@|Akkent 5~|Akkent 5. Cad.@|Akkent 6~|Akkent 6. Cad.@|Akkent 7~|Akkent 7. Cad.@|Akkent 8~|Akkent 8. Cad.@|Akkent 9~|Akkent 9. Cad@|Akkent Cad.@|Ankara Yolu 2.@|Ankara Yolu%|Buluz Yolu~|Celilkırı Yolu~|Gimat 1.cad.@|Gimat 10.~|Gimat 12.~|Gimat 13.~|Gimat 15.~|Gimat 17.~|Gimat 19.~|Gimat 2.~|Gimat 2.cad@|Gimat 21.~|Gimat 23.~|Gimat 25.~|Gimat 27.~|Gimat 29.~|Gimat 3.~|Gimat 3.cad.@|Gimat 31.~|Gimat 33.~|Gimat 35.~|Gimat 4.~|Gimat 5.~|Gimat 5.cad.@|Gimat 6.~|Gimat 7.~|Gimat 8.~|Gimat Cad.@|Kamyon Garajı=|Kırkgöz Çayırı=|Parsellenmemiş Ekili Arazi~|Sebze Ve Meyve Hali=|Traktörcüler Sitesi=|Çevre Yolu 1.~|Çevre Yolu 2.~|Çevre Yolu 3.~|Çevre Yolu%|Çorum Ticaret Borsası Kompleksi=|İskilip Cad.@
+23934	Aksungur Köyü, Kavaklı Mevkii	 Köy$
+23931	Aksungur Köyü, Kozanoğlu Mevkii	 Köy$
+23932	Aksungur Köyü, Memişler Mevkii	 Köy$
+23933	Aksungur Köyü, Merkez Mevkii	 Köy$
+23935	Akyazı Köyü	 Köy$
+23728	Akçakaya Köyü	 Köy$
+100073	Altınbaş Köyü, Altınbaş Mücavir Mevkii	Acısu Mevki=|Bahçeler Mevki=|Gümeleburnu Mevki=|Karakınan Mevki=|Köy İçi=
+23730	Altınbaş Köyü, Kendisi Mevkii	 Köy$
+23729	Altınbaş Köyü, Merkez Mevkii	 Köy$
+23936	Arpalık Köyü, Merkez Mevkii	 Köy$
+23731	Arpaöz Köyü, Merkez Mevkii	 Köy$
+23937	Arslan Köyü	 Köy$
+100096	Atçalı Köyü, Atcalı Mücavir Mevkii	Köy İçi=|Tantan Mevki=
+23732	Atçalı Köyü, Gök Mevkii	 Köy$
+23733	Atçalı Köyü, Merkez Mevkii	 Köy$
+23734	Ayaz Köyü, Merkez Mevkii	 Köy$
+23735	Ayvalı Köyü	 Köy$
+23998	Aşağısaraylı Köyü, Danaderesi Mevkii	 Köy$
+23997	Aşağısaraylı Köyü, Merkez Mevkii	 Köy$
+23736	Babaoğlu Köyü	 Köy$
+20328	Bahçelievler Mah.	Afet Evleri~|Altınevler 1.~|Altınevler 2.~|Altınevler~|Bahabey Cad.@|Bahar 1.~|Bahar 1.cad@|Bahar 10.~|Bahar 11~|Bahar 12.~|Bahar 13.~|Bahar 14.~|Bahar 15.~|Bahar 16~|Bahar 17.~|Bahar 18~|Bahar 19.~|Bahar 2.~|Bahar 20~|Bahar 21.~|Bahar 22~|Bahar 23.~|Bahar 24~|Bahar 25.~|Bahar 26~|Bahar 27.~|Bahar 28.~|Bahar 29.~|Bahar 3.~|Bahar 30~|Bahar 31~|Bahar 32.~|Bahar 33.~|Bahar 34.~|Bahar 35.~|Bahar 36.~|Bahar 37~|Bahar 39~|Bahar 4.~|Bahar 41~|Bahar 43~|Bahar 45~|Bahar 47~|Bahar 5.~|Bahar 6.~|Bahar 7.~|Bahar 8.~|Bahar 9.~|Bahar@|Bahçelievler 1.~|Bahçelievler 1.cad@|Bahçelievler 2.~|Bahçelievler 2.cad@|Bahçelievler 3.~|Bahçelievler 4.~|Bahçelievler 5.~|Bahçelievler 6.~|Bahçelievler 7.~|Dumlupınar 1.~|Dumlupınar 10.~|Dumlupınar 11.~|Dumlupınar 12.~|Dumlupınar 13.~|Dumlupınar 14.~|Dumlupınar 15.~|Dumlupınar 16.~|Dumlupınar 17.~|Dumlupınar 18.~|Dumlupınar 19.~|Dumlupınar 2.~|Dumlupınar 20.~|Dumlupınar 22~|Dumlupınar 24.~|Dumlupınar 25.~|Dumlupınar 26.~|Dumlupınar 27.~|Dumlupınar 28.~|Dumlupınar 29.~|Dumlupınar 3~|Dumlupınar 30.~|Dumlupınar 31.~|Dumlupınar 32.~|Dumlupınar 33.~|Dumlupınar 34.~|Dumlupınar 36.~|Dumlupınar 37.~|Dumlupınar 38.~|Dumlupınar 4.~|Dumlupınar 40.~|Dumlupınar 42.~|Dumlupınar 44.~|Dumlupınar 46.~|Dumlupınar 48.~|Dumlupınar 5.~|Dumlupınar 50.~|Dumlupınar 51.~|Dumlupınar 52.~|Dumlupınar 53.~|Dumlupınar 54.~|Dumlupınar 55.~|Dumlupınar 56.~|Dumlupınar 58.~|Dumlupınar 6.~|Dumlupınar 60.~|Dumlupınar 62.~|Dumlupınar 64.~|Dumlupınar 66~|Dumlupınar 68.~|Dumlupınar 7.~|Dumlupınar 70.~|Dumlupınar 8.~|Dumlupınar 9.~|Dumlupınar Cad@|Gazi Cad@|Hoyhoy Mevki=|Kadife Çeşmesi Evleri=|Kandilarkası Mevki=|Karşıyaka 1.~|Karşıyaka 1.cad@|Karşıyaka 10.~|Karşıyaka 11.~|Karşıyaka 12.~|Karşıyaka 13.~|Karşıyaka 14.~|Karşıyaka 15.~|Karşıyaka 16.~|Karşıyaka 17.~|Karşıyaka 18.~|Karşıyaka 19.~|Karşıyaka 2.~|Karşıyaka 2.cad@|Karşıyaka 20~|Karşıyaka 21.~|Karşıyaka 3.~|Karşıyaka 3.cad@|Karşıyaka 4.~|Karşıyaka 4.cad@|Karşıyaka 5.~|Karşıyaka 6.~|Karşıyaka 7.~|Karşıyaka 8.~|Karşıyaka 9.~|Karşıyaka~|Kuyuönü~|M.akif Ersoy 1.~|M.akif Ersoy 1.cad@|M.akif Ersoy 10.~|M.akif Ersoy 11.~|M.akif Ersoy 12.~|M.akif Ersoy 13.~|M.akif Ersoy 14.~|M.akif Ersoy 15.~|M.akif Ersoy 16.~|M.akif Ersoy 17.~|M.akif Ersoy 18.~|M.akif Ersoy 19.~|M.akif Ersoy 2.~|M.akif Ersoy 2.cad@|M.akif Ersoy 20.~|M.akif Ersoy 21.~|M.akif Ersoy 22.~|M.akif Ersoy 23.~|M.akif Ersoy 24.~|M.akif Ersoy 25.~|M.akif Ersoy 26.~|M.akif Ersoy 27.~|M.akif Ersoy 28.~|M.akif Ersoy 29~|M.akif Ersoy 3.~|M.akif Ersoy 3.cad.@|M.akif Ersoy 30.~|M.akif Ersoy 31.~|M.akif Ersoy 32.~|M.akif Ersoy 34~|M.akif Ersoy 35~|M.akif Ersoy 37.~|M.akif Ersoy 4.~|M.akif Ersoy 5.~|M.akif Ersoy 6.~|M.akif Ersoy 7.~|M.akif Ersoy 8.~|M.akif Ersoy 9.~|M.akif Ersoy Cad@|M.akif Ersoy~|Madeniş 1.~|Madeniş 2.~|Madeniş 3.~|Madeniş 4.~|Madeniş 5.~|Melik Gazi 1.~|Melik Gazi 2.~|Melik Gazi 3.~|Melik Gazi 4.~|Melik Gazi 5.~|Melik Gazi Bağları=|Melik Gazi Cad@|Melik Gazi Yolu=|Park~|Parsellenmemiş Ekili Arazi~|Samsun Yolu%|Sanatcılar~|Sülüklüevler 1.~|Sülüklüevler 12.~|Sülüklüevler 14.~|Sülüklüevler 16.~|Sülüklüevler 18.~|Sülüklüevler 19.~|Sülüklüevler 20.~|Sülüklüevler 21.~|Sülüklüevler 22.~|Sülüklüevler 23.~|Sülüklüevler 24.~|Sülüklüevler 25.~|Sülüklüevler 26.~|Sülüklüevler 27~|Sülüklüevler 28.~|Sülüklüevler 29.~|Sülüklüevler 30.~|Sülüklüevler 31.~|Sülüklüevler 32.~|Sülüklüevler 33.~|Sülüklüevler 34.~|Sülüklüevler 35.~|Sülüklüevler 36.~|Sülüklüevler 37.~|Sülüklüevler 38.~|Sülüklüevler 39.~|Sülüklüevler 4.~|Sülüklüevler 40~|Sülüklüevler 41.~|Sülüklüevler 42.~|Sülüklüevler 43.~|Sülüklüevler 44.~|Sülüklüevler 45.~|Sülüklüevler 47.~|Sülüklüevler 48.~|Sülüklüevler 49.~|Sülüklüevler 50.~|Sülüklüevler 51.~|Sülüklüevler 52~|Sülüklüevler 53.~|Sülüklüevler 54.~|Sülüklüevler 55.~|Sülüklüevler 56~|Sülüklüevler 57.~|Sülüklüevler 58~|Sülüklüevler 59.~|Sülüklüevler 6.~|Sülüklüevler 60.~|Sülüklüevler 61.~|Sülüklüevler 62~|Sülüklüevler 64~|Sülüklüevler 66~|Sülüklüevler 68~|Sülüklüevler 8.~|Sıklık Mevki=|Yeşilyurt 1.~|Yeşilyurt 2.~|Yeşilyurt 3.~|Yeşilyurt 4.~|Yeşilyurt 5.~|Yeşilyurt~|Çamlık 1.cad@|Çamlık@|Çamlık~|Çoraklık 10.~|Çoraklık 11.~|Çoraklık 12~|Çoraklık 13.~|Çoraklık 14.~|Çoraklık 15.~|Çoraklık 16.~|Çoraklık 17.~|Çoraklık 18.~|Çoraklık 19~|Çoraklık 2.~|Çoraklık 21.~|Çoraklık 23.~|Çoraklık 25.~|Çoraklık 26~|Çoraklık 27.~|Çoraklık 28~|Çoraklık 29.~|Çoraklık 30.~|Çoraklık 31.~|Çoraklık 32~|Çoraklık 33.~|Çoraklık 34~|Çoraklık 35.~|Çoraklık 36~|Çoraklık 37.~|Çoraklık 38~|Çoraklık 39.~|Çoraklık 4.~|Çoraklık 40~|Çoraklık 41.~|Çoraklık 42~|Çoraklık 43.~|Çoraklık 44~|Çoraklık 45.~|Çoraklık 46~|Çoraklık 47.~|Çoraklık 48~|Çoraklık 49.~|Çoraklık 50.~|Çoraklık 51.~|Çoraklık 52.~|Çoraklık 53.~|Çoraklık 54.~|Çoraklık 55~|Çoraklık 56.~|Çoraklık 57.~|Çoraklık 59.~|Çoraklık 6~|Çoraklık 61.~|Çoraklık 63.~|Çoraklık 65.~|Çoraklık 67.~|Çoraklık 69.~|Çoraklık 7~|Çoraklık 71.~|Çoraklık 8.~|Çoraklık Bağları=|Çoraklık Cad@|İpeklievler 1.~|İpeklievler 1.cad@|İpeklievler 10.~|İpeklievler 11.~|İpeklievler 12.~|İpeklievler 13.~|İpeklievler 14.~|İpeklievler 15.~|İpeklievler 16.~|İpeklievler 17.~|İpeklievler 18.~|İpeklievler 19.~|İpeklievler 2.~|İpeklievler 2.cad@|İpeklievler 20.~|İpeklievler 21.~|İpeklievler 22.~|İpeklievler 23.~|İpeklievler 24.~|İpeklievler 25.~|İpeklievler 26.~|İpeklievler 27.~|İpeklievler 28.~|İpeklievler 29.~|İpeklievler 3.~|İpeklievler 3.cad@|İpeklievler 30.~|İpeklievler 31.~|İpeklievler 32.~|İpeklievler 33.~|İpeklievler 34.~|İpeklievler 35.~|İpeklievler 36.~|İpeklievler 37.~|İpeklievler 38.~|İpeklievler 39.~|İpeklievler 4.~|İpeklievler 40.~|İpeklievler 41.~|İpeklievler 42.~|İpeklievler 43.~|İpeklievler 44.~|İpeklievler 45~|İpeklievler 46.~|İpeklievler 47.~|İpeklievler 48.~|İpeklievler 5.~|İpeklievler 50.~|İpeklievler 52.~|İpeklievler 54.~|İpeklievler 55~|İpeklievler 56.~|İpeklievler 57.~|İpeklievler 58~|İpeklievler 59~|İpeklievler 6.~|İpeklievler 60.~|İpeklievler 61~|İpeklievler 62~|İpeklievler 64.~|İpeklievler 7.~|İpeklievler 8.~|İpeklievler 9.~|İpeklievler Cad.@|İçeridere Bağyolu~|Şehitlik@|Şenyurt 1.~|Şenyurt 1.cad@|Şenyurt 10.~|Şenyurt 11.~|Şenyurt 12.~|Şenyurt 13.~|Şenyurt 14.~|Şenyurt 15~|Şenyurt 2.~|Şenyurt 2.cad@|Şenyurt 3.~|Şenyurt 4.~|Şenyurt 5.~|Şenyurt 6.~|Şenyurt 7.~|Şenyurt 8.~|Şenyurt 9.~|Şenyurt Cad@
+23737	Balımsultan Köyü	 Köy$
+23898	Balıyakup Köyü	 Köy$
+199499	Bayat Mah.	Bayat 1.~|Bayat 1.cad.@|Bayat 2.~|Bayat 2.cad.@|Bayat 3.~|Bayat 4.~|Bayat 5.~|Bayat@|Mücavir Alan=|Null Mevki=|Osmancık@|Parsellenmemiş Ekili Arazi~|Yakacık Mevki=|Özgürevler@
+23938	Bektaşoğlu Köyü, Merkez Mevkii	 Köy$
+23739	Beydili Köyü	 Köy$
+100088	Bozboğa Köyü, Bozbuğa Mücavir Mevkii	Köy İçi=|Tilki Tepesi Mevki=
+23743	Bozboğa Köyü, Merkez Mevkii	 Köy$
+23740	Boğabağı Köyü	 Köy$
+23741	Boğacık Köyü	 Köy$
+23742	Boğazönü Köyü	 Köy$
+23745	Budakören Köyü	 Köy$
+20329	Buharaevler Mah.	Bayat Gediği 1.~|Bayat Gediği 1.cad@|Bayat Gediği 10~|Bayat Gediği 11~|Bayat Gediği 12.~|Bayat Gediği 13.~|Bayat Gediği 14.~|Bayat Gediği 15.~|Bayat Gediği 16.~|Bayat Gediği 17.~|Bayat Gediği 18.~|Bayat Gediği 19.~|Bayat Gediği 2~|Bayat Gediği 20.~|Bayat Gediği 21.~|Bayat Gediği 22.~|Bayat Gediği 23.~|Bayat Gediği 24.~|Bayat Gediği 25.~|Bayat Gediği 26.~|Bayat Gediği 27.~|Bayat Gediği 28.~|Bayat Gediği 29.~|Bayat Gediği 3.~|Bayat Gediği 30~|Bayat Gediği 31.~|Bayat Gediği 32.~|Bayat Gediği 33.~|Bayat Gediği 34~|Bayat Gediği 35.~|Bayat Gediği 36~|Bayat Gediği 37.~|Bayat Gediği 38~|Bayat Gediği 39.~|Bayat Gediği 4~|Bayat Gediği 40~|Bayat Gediği 41.~|Bayat Gediği 42.~|Bayat Gediği 43.~|Bayat Gediği 44.~|Bayat Gediği 45.~|Bayat Gediği 46.~|Bayat Gediği 47.~|Bayat Gediği 49.~|Bayat Gediği 5.~|Bayat Gediği 6~|Bayat Gediği 7.~|Bayat Gediği 8~|Bayat Gediği 9.~|Bişkek Cad.@|Buharaevler 1.~|Buharaevler 10.~|Buharaevler 11.~|Buharaevler 13.~|Buharaevler 15.~|Buharaevler 17.~|Buharaevler 19.~|Buharaevler 2.~|Buharaevler 2.cad.@|Buharaevler 20.~|Buharaevler 21.~|Buharaevler 22.~|Buharaevler 23.~|Buharaevler 24.~|Buharaevler 25.~|Buharaevler 26.~|Buharaevler 27.~|Buharaevler 29.~|Buharaevler 3.~|Buharaevler 3.cad.@|Buharaevler 31~|Buharaevler 32.~|Buharaevler 33.~|Buharaevler 34.~|Buharaevler 35.~|Buharaevler 36.~|Buharaevler 37~|Buharaevler 38.~|Buharaevler 39~|Buharaevler 4.cad.@|Buharaevler 40.~|Buharaevler 41~|Buharaevler 42.~|Buharaevler 43.~|Buharaevler 44.~|Buharaevler 45.~|Buharaevler 47.~|Buharaevler 48.~|Buharaevler 49.~|Buharaevler 5.~|Buharaevler 5.cad.@|Buharaevler 50.~|Buharaevler 51.~|Buharaevler 52.~|Buharaevler 53.~|Buharaevler 54.~|Buharaevler 55.~|Buharaevler 56.~|Buharaevler 57.~|Buharaevler 59.~|Buharaevler 6.~|Buharaevler 6.cad.@|Buharaevler 60~|Buharaevler 7.~|Buharaevler 8.~|Buharaevler 9.~|Dr.ilhan Gürel Cad.@|Dr.sadık Ahmet Cad.@|Haskent 1~|Haskent 10~|Haskent 11~|Haskent 12~|Haskent 2~|Haskent 3~|Haskent 4~|Haskent 5~|Haskent 6~|Haskent 7~|Haskent 8~|Haskent 9~|Kamışlıevler 1.~|Kamışlıevler 10.~|Kamışlıevler 12.~|Kamışlıevler 2.~|Kamışlıevler 20.~|Kamışlıevler 21.~|Kamışlıevler 22.~|Kamışlıevler 23.~|Kamışlıevler 24.~|Kamışlıevler 25.~|Kamışlıevler 26.~|Kamışlıevler 27.~|Kamışlıevler 29.~|Kamışlıevler 3.~|Kamışlıevler 4.~|Kamışlıevler 5.~|Kamışlıevler 6.~|Kamışlıevler 7.~|Kamışlıevler 8.~|Kamışlıevler 9.~|Kamışlıevler Cad.@|Mahmutevler 14.~|Mahmutevler 16.~|Mahmutevler 18.~|Mahmutevler 19~|Mahmutevler 2.~|Mahmutevler 20.~|Mahmutevler 21.~|Mahmutevler 22.~|Mahmutevler 23~|Mahmutevler 24.~|Mahmutevler 25~|Mahmutevler 26~|Mahmutevler 27~|Mahmutevler 28~|Mahmutevler 29~|Mahmutevler 3.~|Mahmutevler 30~|Mahmutevler 6.~|Mahmutevler 7.~|Mahmutevler 8.~|Mahmutevler 9.~|Mahmutevler Cad.@|Osmancık Cad.@|Parsellenmemiş Ekili Arazi~|Selçuk 23.~|Selçuk 25~|Selçuk 27.~|Selçuk 29.~|Selçuk 31.~|Selçuk 32~|Selçuk 33~|Selçuk 34~|Selçuk 36~|Selçuk 37.~|Selçuk 38~|Selçuk 39~|Selçuk 40~|Selçuk 41~|Selçuk 43.~|Selçuk Cad.@|Silmkent 1.~|Silmkent 10.~|Silmkent 15~|Silmkent 17.~|Silmkent 2.~|Silmkent 2.cad.@|Silmkent 20~|Silmkent 22.~|Silmkent 24.~|Silmkent 26.~|Silmkent 28.~|Silmkent 3.~|Silmkent 3.cad.@|Silmkent 30.~|Silmkent 32.~|Silmkent 4.cad.@|Silmkent 40.~|Silmkent 42.~|Silmkent 5.~|Silmkent 5.cad.@|Silmkent 6.~|Silmkent 7~|Silmkent 8.~|Silmkent@|İbrahim Çayırı 1.~|İbrahim Çayırı 10.~|İbrahim Çayırı 11.~|İbrahim Çayırı 12.~|İbrahim Çayırı 13.~|İbrahim Çayırı 14.~|İbrahim Çayırı 15.~|İbrahim Çayırı 16.~|İbrahim Çayırı 18.~|İbrahim Çayırı 2.~|İbrahim Çayırı 20.~|İbrahim Çayırı 22.~|İbrahim Çayırı 24.~|İbrahim Çayırı 26.~|İbrahim Çayırı 28.~|İbrahim Çayırı 3.~|İbrahim Çayırı 30.~|İbrahim Çayırı 31.~|İbrahim Çayırı 32.~|İbrahim Çayırı 33.~|İbrahim Çayırı 34.~|İbrahim Çayırı 35.~|İbrahim Çayırı 36.~|İbrahim Çayırı 4.~|İbrahim Çayırı 40~|İbrahim Çayırı 5.~|İbrahim Çayırı 6.~|İbrahim Çayırı 7.~|İbrahim Çayırı 8.~|İbrahim Çayırı 9.~|İbrahim Çayırı Bağları=
+23746	Burun Köyü	 Köy$
+23749	Büyükdivan Köyü	 Köy$
+23750	Büyükgülücek Köyü	 Köy$
+23748	Büğdüz Köyü, Merkez Mevkii	 Köy$
+23747	Büğet Köyü, Merkez Mevkii	Ayarık Mevki=|Kireçcik Mevki=|Köy İçi=|Köyönü Mevki=|Çal Mevki=|Çomar Mevkii=
+23744	Büğrüoğlu Köyü	 Köy$
+23751	Celilkırı Köyü, Merkez Mevkii	Ağdere Mevki=|Celilkırı Mevki=|Kanlıtarla Mevki=|Köy İçi=|Kürtpınarı Mevki=|Kütüklü Mevki=|Kır Mevki=
+23940	Cerit Köyü	 Köy$
+23901	Dağkarapınar Köyü	 Köy$
+23766	Delibekiroğlu Köyü, Merkez Mevkii	 Köy$
+23767	Deliler Köyü	 Köy$
+100076	Deliler Köyü, Deliler Mücavir Mevkii	Dağyolu Mevkii=|Köy İçi=|Şehiryolu Mevki=
+23768	Deniz Köyü, Merkez Mevkii	 Köy$
+23941	Dere Köyü	 Köy$
+23764	Değirmendere Köyü, Merkez Mevkii	 Köy$
+23945	Dut Köyü	 Köy$
+23944	Dutçakallı Köyü, Akçaaz Mevkii	 Köy$
+23943	Dutçakallı Köyü, Orta Mevkii	 Köy$
+23942	Dutçakallı Köyü, Orta-akçaaz Mevkii	 Köy$
+23903	Düdüklük Köyü, Bekaroğlu Mevkii	 Köy$
+23902	Düdüklük Köyü, Merkez Mevkii	 Köy$
+20341	Düvenci Beldesi, Ataköy Mah.	Ata 1~|Ata 2~|Ata 3~|Ata 4~|Ata@|Ceylan~|Cumhuriyet@|Menekşe~|Papatya 1~|Papatya 2~|Papatya@|Simge~|Tekin~|Yasemin~
+20342	Düvenci Beldesi, Fatih Sultan Mehmet Mah.	Bilinmeyen 3=|Bilinmeyen 82~|Bilinmeyen11~|Dikmen~|Eyüp Sultan 1~|Eyüp Sultan 2~|Eyüp Sultan@|Gazi Osman@|Hatip~|Kanarya~|Kömürcü~|Köroğlu@|Mercan 1~|Mercan~|Muhsin Yazıcıoğlu 1~|Muhsin Yazıcıoğlu@|Orman@|Selim~|Yüksel~|Özgür~
+99525	Düvenci Beldesi, Gedikbekir Mah.	Gedikbekir=
+140799	Düvenci Beldesi, Kultak Mah.	Merkez=
+20346	Düvenci Beldesi, Kışladeresi Mah.	Küme Evler=|Tekçam Kümesi=
+20343	Düvenci Beldesi, Mimarsinan Mah.	Avcılar 1.~|Avcılar 2.~|Bağdat@|Bilinmeyen 1~|Bilinmeyen 70~|Bilinmeyen 83~|Bülbül~|Dikmen~|Emir Ahmet@|Gazi Osman@|Hamam~|Kanarya~|Köroğlu@|Mezarlık~|Nur~|Orhan Gazi@|Orman@|Sakarya~|Tunalı~|Uzunçayır=|Yaylakümesi=
+20344	Düvenci Beldesi, Yunusemre Mah.	Bağdat@|Bilinmeyen 74~|Bilinmeyen 75~|Hatipoğlu@|Karanfil~|Kaynarca=|Lale~|M.akif Ersoy~|Mevlana@|Muhsin Yazıcıoğlu@|Yalçın~|Ötegeçe=|Şht.abdullah Gödek@
+20345	Düvenci Beldesi, İkipınar Mah.	Küme Evler/ 1=|Küme Evler/2=|Kümeevler=
+23770	Elicek Köyü	 Köy$
+23904	Elköy Köyü	 Köy$
+23771	Elmalı Köyü	Köy İçi=|Çukurlar Mevki=
+23946	Erdek Köyü	 Köy$
+23772	Ertuğrul Köyü	 Köy$
+23947	Esençay Köyü, Merkez Mevkii	 Köy$
+23948	Esençay Köyü, Söğütseki Mevkii	 Köy$
+23773	Eskice Köyü	 Köy$
+100079	Eskice Köyü, Eskice Mücavir Mevkii	Arpalık Mevki=|Cevizli Mevki=|Köy İçi=|Uzunok Mevki=
+23777	Eskiekin Köyü, Aliki Mevkii	 Köy$
+23774	Eskiekin Köyü, Eskiekin Bağları Yayla Evleri	 Köy$
+100097	Eskiekin Köyü, Eskiekin Mücavir Mevkii	Aliki Bağları Mevki=|Arpalık Mevki=|Aşağı Eskiekin Bağları Mevki=|Bacakgeren Mevki=|Derinöz Mevki=|Eskiekin Bağları Mevki=|Harmantarla Mevki=|Köy İçi=|Selavat Belanı Mevki=|Çekirgelik Mevki=
+23778	Eskiekin Köyü, Harmantarla Mevkii	 Köy$
+23776	Eskiekin Köyü, Merkez Mevkii	 Köy$
+23775	Eskiekin Köyü, Şehit Bekir Özaydın Aliki Bağlısı Yayla Evleri	 Köy$
+23779	Eskikaradona Köyü	 Köy$
+23951	Eskiköy Köyü, Akseki Mevkii	 Köy$
+23956	Eskiköy Köyü, Aliki Mevkii	
+23958	Eskiköy Köyü, Derebey Mevkii	 Köy$
+23952	Eskiköy Köyü, Eskiköy Mevkii	 Köy$
+23954	Eskiköy Köyü, Eğridere Mevkii	 Köy$
+23953	Eskiköy Köyü, Hacivat Mevkii	 Köy$
+23959	Eskiköy Köyü, Karakaya Mevkii	 Köy$
+23950	Eskiköy Köyü, Koğuduruk Mevkii	 Köy$
+23960	Eskiköy Köyü, Kışlacık Mevkii	 Köy$
+23955	Eskiköy Köyü, Merkez Mevkii	
+23949	Eskiköy Köyü, Çelikkaya Mevkii	 Köy$
+23957	Eskiköy Köyü, İmamlar Mevkii	 Köy$
+23961	Eskiören Köyü, Ferhatlı Mevkii	 Köy$
+23962	Eskiören Köyü, Merkez Mevkii	 Köy$
+23780	Evcikuzkışla Köyü	 Köy$
+23781	Evciortakışla Köyü	 Köy$
+23782	Evciyenikışla Köyü	 Köy$
+23769	Eyerci Köyü	 Köy$
+23784	Eymir Köyü, Küçük Eymir Mevkii	 Köy$
+23783	Eymir Köyü, Merkez Mevkii	 Köy$
+23785	Feruz Köyü	 Köy$
+23786	Gemet Köyü	 Köy$
+23788	Göcenovacığı Köyü, Merkez Mevkii	 Köy$
+23787	Gökdere Köyü	 Köy$
+23906	Gökköy Köyü, Merkez Mevkii	 Köy$
+23905	Gökçepınar Köyü	 Köy$
+20332	Gülabibey Mah.	Anıtevler 1.~|Anıtevler 2.~|Anıtevler 3.~|Anıtevler 4.~|Ata Cad.@|Bağcılar 1. Cad.@|Bağcılar 1.~|Bağcılar 10.~|Bağcılar 101.~|Bağcılar 103.~|Bağcılar 104.~|Bağcılar 105.~|Bağcılar 106.~|Bağcılar 11.~|Bağcılar 12.~|Bağcılar 13.~|Bağcılar 14~|Bağcılar 15.~|Bağcılar 17.~|Bağcılar 18~|Bağcılar 19.~|Bağcılar 2. Cad.@|Bağcılar 2.~|Bağcılar 20.~|Bağcılar 21.~|Bağcılar 22.~|Bağcılar 23.~|Bağcılar 24.~|Bağcılar 25.~|Bağcılar 26.~|Bağcılar 27.~|Bağcılar 28.~|Bağcılar 3. Cad.@|Bağcılar 3.~|Bağcılar 30.~|Bağcılar 31.~|Bağcılar 32.~|Bağcılar 33.~|Bağcılar 34.~|Bağcılar 35.~|Bağcılar 36.~|Bağcılar 37.~|Bağcılar 38.~|Bağcılar 39.~|Bağcılar 4. Cad.@|Bağcılar 4.~|Bağcılar 40~|Bağcılar 41.~|Bağcılar 43.~|Bağcılar 47.~|Bağcılar 49.~|Bağcılar 5. Cad.@|Bağcılar 5.~|Bağcılar 51.~|Bağcılar 53.~|Bağcılar 55.~|Bağcılar 57.~|Bağcılar 58.~|Bağcılar 6. Cad.@|Bağcılar 6.~|Bağcılar 60.~|Bağcılar 61.~|Bağcılar 63.~|Bağcılar 65.~|Bağcılar 69.~|Bağcılar 7. Cad.@|Bağcılar 7.~|Bağcılar 71.~|Bağcılar 72.~|Bağcılar 73.~|Bağcılar 75.~|Bağcılar 76.~|Bağcılar 77.~|Bağcılar 78.~|Bağcılar 79.~|Bağcılar 8.~|Bağcılar 8.cad.@|Bağcılar 80.~|Bağcılar 82.~|Bağcılar 83.~|Bağcılar 84.~|Bağcılar 85.~|Bağcılar 86.~|Bağcılar 87.~|Bağcılar 88.~|Bağcılar 89.~|Bağcılar 9.~|Bağcılar 90.~|Bağcılar 91.~|Bağcılar 92.~|Bağcılar 93.~|Bağcılar 95.~|Bağcılar 96.~|Bağcılar 97.~|Bağcılar 98.~|Bağcılar 99.~|Bağcılar Cad.@|Beytepe 1. Cad.@|Beytepe 1.~|Beytepe 10.~|Beytepe 11.~|Beytepe 12.~|Beytepe 2. Cad.@|Beytepe 2.~|Beytepe 3. Cad.@|Beytepe 3.~|Beytepe 4. Cad.@|Beytepe 4.~|Beytepe 5. Cad.@|Beytepe 5.~|Beytepe 6.~|Beytepe 7.~|Beytepe 8.~|Beytepe~|Bozdoğan 1.~|Bozdoğan 2.~|Cemil Bey 1.~|Cemil Bey 2.~|Cemil Bey 3.~|Cemilbey Cad.@|Cengiz Topel Cad.@|Cumhuriyet 1.~|Cumhuriyet 2.~|Cumhuriyet Cad.@|Ekin 1.~|Ekin 2.~|Ekin 3.~|Ekin 4.~|Ekin 5.~|Ekin Cad.@|Eskiekin Tavuk Çiftlikleri=|Eğridere~|Fevzi Çakmak Cad.@|Fevzi Çakmak~|Güzel Yurt 13.~|Güzel Yurt 15.~|Güzel Yurt 17.~|Güzel Yurt 21.~|Güzel Yurt 23.~|Güzel Yurt 25.~|Güzel Yurt 27.~|Güzel Yurt 31.~|Güzel Yurt 5.~|Güzel Yurt 7.~|Güzelyurt 11.sk~|Güzelyurt 3.~|Hamidiye 2.~|Hamidiye 4.~|Hamidiye1.~|Hamidiye3.~|Harmanlar 1.~|Harmanlar 2.~|Harmanlar 3.~|Harmanlar 4.~|Harmanlar 5.~|Harmanlar 6.~|Harmanlar 7.~|Harmanlar 8.~|Harmanlar 9.~|Harmanlar Çıkmazı~|Hasan Paşa 1.~|Hasan Paşa 2.~|Hasan Paşa 3.~|Hasan Paşa 4.~|Kafkasevleri 1.~|Kafkasevleri 10.~|Kafkasevleri 11.~|Kafkasevleri 12.~|Kafkasevleri 13.~|Kafkasevleri 14.~|Kafkasevleri 15.~|Kafkasevleri 16.~|Kafkasevleri 17.~|Kafkasevleri 18.~|Kafkasevleri 19.~|Kafkasevleri 2.~|Kafkasevleri 20.~|Kafkasevleri 22.~|Kafkasevleri 23.~|Kafkasevleri 24.~|Kafkasevleri 3.~|Kafkasevleri 4.~|Kafkasevleri 6.~|Kafkasevleri 7.~|Kafkasevleri 8.~|Kafkasevleri 9.~|Kafkasevleri Pasajı=|Kapaklı 1. Cad.@|Kapaklı 1.~|Kapaklı 10.~|Kapaklı 12.~|Kapaklı 13.~|Kapaklı 14.~|Kapaklı 15.~|Kapaklı 16.~|Kapaklı 17.~|Kapaklı 18.~|Kapaklı 19.~|Kapaklı 2. Cad.@|Kapaklı 2.~|Kapaklı 20.~|Kapaklı 21.~|Kapaklı 22.~|Kapaklı 23.~|Kapaklı 24.~|Kapaklı 25.~|Kapaklı 26.~|Kapaklı 27.~|Kapaklı 28.~|Kapaklı 29.~|Kapaklı 3. Cad.@|Kapaklı 3.~|Kapaklı 30.~|Kapaklı 31.~|Kapaklı 32.~|Kapaklı 33.~|Kapaklı 34.~|Kapaklı 35.~|Kapaklı 36.~|Kapaklı 37.~|Kapaklı 38.~|Kapaklı 39.~|Kapaklı 4. Cad.@|Kapaklı 4.~|Kapaklı 40~|Kapaklı 41.~|Kapaklı 42.~|Kapaklı 43.~|Kapaklı 44.~|Kapaklı 45.~|Kapaklı 46.~|Kapaklı 47.~|Kapaklı 48.~|Kapaklı 49.~|Kapaklı 50.~|Kapaklı 51.~|Kapaklı 52.~|Kapaklı 53.~|Kapaklı 54.~|Kapaklı 56.~|Kapaklı 57.~|Kapaklı 58.~|Kapaklı 59.~|Kapaklı 6.~|Kapaklı 60.~|Kapaklı 61.~|Kapaklı 62.~|Kapaklı 63.~|Kapaklı 64.~|Kapaklı 65.~|Kapaklı 66.~|Kapaklı 67.~|Kapaklı 68.~|Kapaklı 69.~|Kapaklı 7.~|Kapaklı 71.~|Kapaklı 8.~|Kapaklı 9.~|Karafakioğlu 1.~|Karafakioğlu 2.~|Karafakioğlu 3.~|Karafakioğlu 4.~|Karafakioğlu 5.~|Kubbeli Cad.@|Küçük Abdullah 1.~|Küçük Abdullah 10.~|Küçük Abdullah 2.~|Küçük Abdullah 3.~|Küçük Abdullah 4.~|Küçük Abdullah 5.~|Küçük Abdullah 6.~|Küçük Abdullah 7.~|Küçük Abdullah 8.~|Küçük Abdullah 9.~|Küçük Abdullah Cad.@|Malazgirt 1.~|Malazgirt~|Millet 1.~|Millet 2.~|Millet 3.~|Millet Cad.@|Millet~|Milönü Cad.@|Müze~|Nurettin Bey 1.~|Nurettin Bey 2.~|Nurettin Bey 3.~|Nurettin Bey 4.~|Nurettinbey Cad.@|Parsellenmemiş Ekili Arazi~|Sanayi 1.~|Sanayi 10.~|Sanayi 11.~|Sanayi 12.~|Sanayi 2.~|Sanayi 3.~|Sanayi 4.~|Sanayi 5.~|Sanayi 6.~|Sanayi 7.~|Sanayi 8.~|Sanayi 9.~|Sancaktar~|Uğur Mumcu Cad.@|Vatan Cad.@|Vatan~|Velipaşa 1.~|Yenidoğan 1.~|Yenidoğan 10.~|Yenidoğan 11.~|Yenidoğan 2.~|Yenidoğan 3.~|Yenidoğan 4.~|Yenidoğan 5.~|Yenidoğan 6.~|Yenidoğan 7.~|Yenidoğan 8.~|Yenidoğan 9.~|Yenidoğan Cad.@|İnkılap~|İnönü Cad.@|Şeyh Eyüp~
+23789	Güney Köyü	 Köy$
+100270	Güney Köyü, Güney Mücavir Mevkii	Köy İçi=
+23791	Güvenli Köyü	 Köy$
+23790	Güveçli Köyü	 Köy$
+23792	Güzelyurt Köyü, Karşıyaka Mevkii	 Köy$
+23794	Güzelyurt Köyü, Merkez Mevkii	
+23793	Güzelyurt Köyü, Yeşilyurt Mevkii	 Köy$
+23963	Hacıahmetderesi Köyü	 Köy$
+23964	Hacıbey Köyü	 Köy$
+23795	Hacımusa Köyü	 Köy$
+23796	Hacıpaşa Köyü	 Köy$
+100269	Hacıpaşa Köyü, Hacıpaşa Mücavir Mevkii	Kurtarmış Mevki=|Köy İçi=
+23797	Hamamlıçay Köyü	 Köy$
+23800	Hamdiköy Köyü, Aşağı Mevkii	 Köy$
+23798	Hamdiköy Köyü, Merkez Mevkii	 Köy$
+23799	Hamdiköy Köyü, Sorsavuş Mevkii	 Köy$
+23801	Hankozlusu Köyü	 Köy$
+23803	Harmancık Köyü, Gülveren Mevkii	 Köy$
+23802	Harmancık Köyü, Merkez Mevkii	 Köy$
+23909	Hımıroğlu Köyü, Hüseyinağ Mevkii	 Köy$
+23908	Hımıroğlu Köyü, Karşıyaka Mevkii	 Köy$
+23907	Hımıroğlu Köyü, Merkez Mevkii	 Köy$
+23910	Hımıroğlu Köyü, Örencikkaçağı Mevkii	 Köy$
+23804	Hızırdede Köyü	 Köy$
+23911	Kadıderesi Köyü, Merkez Mevkii	 Köy$
+23807	Kadıkırı Köyü, Ahmet Şahna Mevkii	 Köy$
+100265	Kadıkırı Köyü, Kadıkırı Mücavir Mevkii	Harmanözü Mevki=|Kadıkırı Mevki=|Kumluk Mevki=|Köy İçi=
+23806	Kadıkırı Köyü, Merkez Mevkii	 Köy$
+20333	Kale Mah.	102 Evler 1.~|102 Evler 2.~|102 Evler 3.~|102 Evler 4.~|102 Evler 5.~|102 Evler 6.~|Aksaray 1. Cad.@|Aksaray 1.~|Aksaray 15.~|Aksaray 16.~|Aksaray 17.~|Aksaray 18.~|Aksaray 2. Cad.@|Aksaray 2.~|Aksaray 22.~|Aksaray 3. Cad.@|Aksaray 3.~|Aksaray 4. Cad.@|Aksaray 4.~|Aksaray 5.~|Aksaray 6.~|Aksaray 7.~|Ata 1. Cad.@|Ata 1.~|Ata 10.~|Ata 11.~|Ata 12.~|Ata 13.~|Ata 14.~|Ata 15.~|Ata 16.~|Ata 17.~|Ata 18.~|Ata 19.~|Ata 2~|Ata 20.~|Ata 21.~|Ata 22.~|Ata 23.~|Ata 24.~|Ata 25.~|Ata 26.~|Ata 27.~|Ata 28.~|Ata 29.~|Ata 3.~|Ata 30.~|Ata 31.~|Ata 32.~|Ata 33.~|Ata 34~|Ata 35~|Ata 36.~|Ata 37~|Ata 38~|Ata 39~|Ata 4.~|Ata 40~|Ata 41~|Ata 42~|Ata 43~|Ata 44.~|Ata 45~|Ata 46~|Ata 47~|Ata 48.~|Ata 49~|Ata 5.~|Ata 50~|Ata 51~|Ata 52~|Ata 53.~|Ata 54~|Ata 55.~|Ata 56~|Ata 57~|Ata 58~|Ata 59~|Ata 6.~|Ata 60~|Ata 61~|Ata 62~|Ata 63~|Ata 64~|Ata 65.~|Ata 66.~|Ata 67.~|Ata 68.~|Ata 69.~|Ata 7~|Ata 8.~|Ata 9.~|Ata Cad.@|Ata~|Aydınevler 1.~|Aydınevler 2.~|Aydınevler 3.~|Aydınevler 4.~|Aydınevler 5.~|Aydınevler 6.~|Aydınevler 7.~|Bahabey Cad.@|Celep 1.~|Celep~|Cengiz Topel Cad.@|Doğan~|Ecirdede~|Ekin Cad.@|Emek Cad.@|Erdem~|Eti 1.~|Eti 10.~|Eti 11.~|Eti 12.~|Eti 2.~|Eti 3.~|Eti 4.~|Eti 5.~|Eti 6.~|Eti 7.~|Eti 8.~|Eti 9.~|Eti Cad.@|Gelincik 1.~|Gelincik 2.~|Gelincik 3.~|Gelincik 5.~|Gelincik 7.~|Gelincik~|Gül~|Hacı Kerim@|Hamit Duran Cad.@|Harmanlar 3~|Hüyük Cad.@|Kale 1.~|Kale 2.~|Kale~|Kale Çıkmazı~|Kale İçi 1.~|Kale İçi 2.~|Kale İçi~|Karanfil~|Kardeş~|Kireçocağı Yolu Hacıkerim Bağları=|Küçük Abdullah Cad.@|Kıbrıs@|Lale~|Mahmut Tunaboylu~|Meram 1.~|Meram 2.~|Meram 3.~|Meram 4.~|Meram 5.~|Meram 7.~|Meram 8.~|Meram~|Milönü 1.~|Milönü 2.~|Milönü 2. Çıkmazı~|Milönü 3.~|Milönü 3. Çıkmazı~|Milönü 4.~|Milönü 4. Çıkmazı~|Milönü 5.~|Milönü 5.çıkmazı~|Milönü Cad.@|Mutlu 1.~|Mutlu 2.~|Mutlu 3.~|Mutlu 4.~|Mutlu 5.~|Mutlu Cad.@|Müftü Tevfik~|Nergis~|Parsellenmemiş Ekili Arazi~|Rüya~|Uğur Mumcu Cad.@|Veli Paşa~|Yiğit~|Yukarı Kapaklı Bağları=|Yurt~|Zafer 1. Cad.@|Zafer 1.~|Zafer 10.~|Zafer 11.~|Zafer 12.~|Zafer 13.~|Zafer 14.~|Zafer 15.~|Zafer 16~|Zafer 17~|Zafer 19.~|Zafer 2. Cad.@|Zafer 2.~|Zafer 21.~|Zafer 3. Cad.@|Zafer 3.~|Zafer 4.~|Zafer 5.~|Zafer 6.~|Zafer 7.~|Zafer 8.~|Zafer 9.~|Çiğdem~|İbik 1.~|İbik 1.çıkmazı~|İbik 2.~|İbik 2.çıkmazı~|İbik 3.~|İbik 4.~|İbik~|Şahin~|Şeyh Eyüp~
+23808	Kalehisar Köyü	 Köy$
+23809	Karaağaç Köyü	 Köy$
+100271	Karaağaç Köyü, Karaağaç Mücavir Mevkii	Köy İçi=
+23811	Karabayır Köyü, Kösrelik Mevkii	 Köy$
+23810	Karabayır Köyü, Merkez Mevkii	 Köy$
+23812	Karabürçek Köyü	
+100074	Karabürçek Köyü, Karabürçek Mücavir Mevkii	Büyükçayır Mevki=|Kuşyakası Mevki=|Köy İçi=
+23813	Karabürçek Köyü, Köyün Kendisi Mezrası	Köy Sokağı1 Köy$|Köy Sokağı2~
+23814	Karaca Köyü, Merkez Mevkii	Hanaltı Bataklar Mevki=|Köy İçi=
+23815	Karacaören Köyü	 Köy$
+23816	Karadona Köyü, Merkez Mevkii	 Köy$
+23912	Karagöz Köyü, Merkez Mevkii	 Köy$
+23818	Karahisar Köyü, Kendisi Mevkii	 Köy$
+23817	Karahisar Köyü, Merkez Mevkii	 Köy$
+23969	Karakeçili Köyü, Akdam Mevkii	 Köy$
+23970	Karakeçili Köyü, Merkez Mevkii	 Köy$
+20334	Karakeçili Mah.	Ahçılar 3. Cad.@|Alaybey~|Alaybey Çıkmazı~|Albayrak 1.~|Albayrak 4.~|Albayrak 5.~|Albayrak 6.~|Albayrak 7.~|Albayrak 8.~|Albayrak Cad.@|Azap Ahmet~|Bayındır 1.~|Bayındır 2.~|Bayındır 3.~|Bayındır 4.~|Fatih@|Fuar Cad.@|Gazi Cad.@|Hamit Kaplan Cad.@|Ilıca Cad.@|Karakeçili 1.~|Karakeçili 14.~|Karakeçili 2.~|Karakeçili 3.~|Karakeçili 4.~|Karakeçili 5.~|Karakeçili 6.~|Karakeçili 8.~|Karakeçili~|Karakeçili Çıkmazı 5.~|Kültür~|Lise 1.~|Lise 2.~|Lise 3.~|Lise~|Mazlum Oğlu~|Parsellenmemiş Ekili Arazi~|Recep Tayyip Erdoğan@|Stad~|Çevre Yolu%|Üçtutlar Cad.@
+23819	Karapınar Köyü	 Köy$
+100264	Karapınar Köyü, Karapınar Mücavir Mevkii	Ali Taş Mevki=|Cemilbey Yolu Mevki=|Kurtpınarı Mevki=|Köy İçi=|Çukur Mevki=|Şehiryolu Mevki=
+23820	Kavacık Köyü	Ekizderesi Mevki=|Köy İçi=|Çoban Tepesi Mevki=|Öz Mevki=
+23822	Kayı Köyü, Kıvırcık Mevkii	 Köy$
+23821	Kayı Köyü, Merkez Mevkii	 Köy$
+23823	Kazıklıkaya Köyü	 Köy$
+100263	Kazıklıkaya Köyü, Kazıklıkaya Mücavir Mevkii	Köy İçi=
+23972	Kertme Köyü, Babaoğlu Mevkii	 Köy$
+23971	Kertme Köyü, Merkez Mevkii	 Köy$
+23830	Kiranlık Köyü	 Köy$
+23913	Kirazlıpınar Köyü	 Köy$
+23831	Kireçocağı Köyü	 Köy$
+20347	Konaklı Köyü, Bahçelievler Mevkii	Akif~|Bahçelievler=|Foter~|Garipler~|Kanal~|Kanarya~|Kocatepe~|Orman~|Sağlık~|Çorum~|İpek~|Şht.cemal~
+20348	Konaklı Köyü, Karşıyaka Mevkii	Afetevleri 1.~|Afetevleri 10.~|Afetevleri 11.~|Afetevleri 12.~|Afetevleri 13.~|Afetevleri 14.~|Afetevleri 2.~|Afetevleri 3.~|Afetevleri 4.~|Afetevleri 5.~|Afetevleri 6.~|Afetevleri 7.~|Afetevleri 8.~|Afetevleri 9.~|Ata~|Cumhuriyet~|Emin~|Fatih~|Girdal~|Güven~|Kebir~|Kişler~|Mescit~|Sağlık~|Yunus Emre~|Çorum~|Özarlan~|Şht.cemal~
+185094	Konaklı Köyü, Konaklı Mücavir Mevkii	Satılmışyeri Mevki=
+20349	Konaklı Köyü, Şenyurt Mevkii	Balakcı~|Cumhuriyet~|Dörtyol~|Emin~|Güngör~|Karanfil~|Mezarlık 2.~|Mezarlık~|Okul~|Orta~|Tepecik~|Özarlan~|İğdeli~|Şenyurt=
+23893	Koparan Köyü	 Köy$
+23914	Kozluca Köyü	 Köy$
+23974	Kumçeltiği Köyü	 Köy$
+20335	Kunduzhan Mah.	Akpınar Cad.@|Akşemseddin@|Azerbaycan@|Aşık Paşa~|Bahçe 10.~|Bahçe 11.~|Bahçe 13.~|Bahçe 7.~|Bahçe 9.~|Bahçeler 1.~|Bahçeler 2.~|Devane Mey Myd.|Devane~|Farabi Cad.@|Hamit Camii~|Hayat~|Hoşuroğlu Çıkmazı~|Hürriyet 10.~|Hürriyet 11.~|Hürriyet 12.~|Hürriyet 13.~|Hürriyet 2.~|Hürriyet 3.~|Hürriyet 4.~|Hürriyet 5.~|Hürriyet 6.~|Hürriyet 7.~|Hürriyet 8.~|Hürriyet 9.~|Hürriyet Cad.@|Hürriyet Myd.|Kiremitciler 1.~|Kiremitciler~|Kiremitçiler 2.~|Kiremitçiler 3.~|Kunduzhan 1.cad.@|Kunduzhan 5.~|Kunduzhan 6.~|Kunduzhan Cad.@|Oruç 1.~|Oruç 2.~|Oruç 3.~|Oruç 4.~|Oruç 5.~|Oruç~|Osmancık Cad.@|Parsellenmemiş Ekili Arazi~|Prof. Dr. Arif Ersoy@|Tabak 1.~|Tabak 2.~|Tabak 3.~|Tabak 4.~|Tabak 5.~|Tabak 6.~|Tabak~|Taşhan 1.~|Taşhan 2.~|Taşhan Cad.@|Zarif Hoca 1.~|Zarif Hoca~|Çiriş 1.~|Çiriş 2.~|Çiriş 3.~|Çubukçu 1.~|Çubukçu 2.~|Çubukçu~|İskilip Cad.@
+23835	Kuruçay Köyü, Köyün Kendisi Mevkii	Arpalık Mevki=|Bağlar Mevki=|Güzelyayla Mevki=|Köy İçi=|Metinler Mevki=|Yazıkırı Mevki=
+23839	Kutluca Köyü, Merkez Mevkii	 Köy$
+100078	Kuşsaray Köyü, Kuşsaray Mücavir Mevkii	Büyükgöl Mevki=|Dağsaray Mevki=|Kayaardı Mevki=|Kaymakcı Mevki=|Köy İçi=|Köyönü Mevki=|Mezarardı Mevki=|Sağmaca Mevki=
+23838	Kuşsaray Köyü, Merkez Mevkii	 Köy$
+23832	Köprüalan Köyü, Merkez Mevkii	Köy İçi=|Leylek Çukuru Mevki=|Nacak Mevki=|Öksüzler Mevki=|Öksüzören Mevki=
+23840	Küçükdüvenci Köyü	 Köy$
+23841	Küçükgülücek Köyü	 Köy$
+23915	Küçükpalabıyık Köyü	 Köy$
+23825	Kılıçören Köyü, Boyralı Mevkii	 Köy$
+23824	Kılıçören Köyü, Merkez Mevkii	 Köy$
+23973	Kınık Köyü	 Köy$
+23826	Kınıkdeliler Köyü, Merkez Mevkii	 Köy$
+23828	Kırkdilim Köyü, Gözübüyük Mevkii	 Köy$
+23827	Kırkdilim Köyü, Merkez Mevkii	 Köy$
+23829	Kızılpınar Köyü	 Köy$
+23842	Laloğlu Köyü	 Köy$
+23843	Mecidiyekavak Köyü	 Köy$
+20336	Mimarsinan Mah.	15 Temmuz Şehitler@|Ankara Yolu 1. Cad.@|Ankara Yolu 13.~|Ankara Yolu 3.cad.@|Ankara Yolu 5.cad.@|Ankara Yolu 7.cad.@|Ankara Yolu%|Ayyıldız@|Bosna Cad.@|Cemilbey Cad.@|Erzurum Dede 1.~|Erzurum Dede 1.cad.@|Erzurum Dede 10.~|Erzurum Dede 12.~|Erzurum Dede 14.~|Erzurum Dede 16.~|Erzurum Dede 18.~|Erzurum Dede 2.~|Erzurum Dede 2.cad.@|Erzurum Dede 20.~|Erzurum Dede 22.~|Erzurum Dede 24.~|Erzurum Dede 26.~|Erzurum Dede 28.~|Erzurum Dede 3.cad.@|Erzurum Dede 30.~|Erzurum Dede 32.~|Erzurum Dede 34.~|Erzurum Dede 36.~|Erzurum Dede 38.~|Erzurum Dede 4.~|Erzurum Dede 6.~|Erzurum Dede 8.~|Erzurum Dede Cad.@|Erzurum Dede~|Fevzi Çakmak 1.~|Fevzi Çakmak 1.cad.@|Fevzi Çakmak 11.~|Fevzi Çakmak 13.~|Fevzi Çakmak 15.~|Fevzi Çakmak 17.~|Fevzi Çakmak 19.~|Fevzi Çakmak 2. Cad.@|Fevzi Çakmak 2.~|Fevzi Çakmak 3.~|Fevzi Çakmak 3.cad.@|Fevzi Çakmak 4.~|Fevzi Çakmak 5.~|Fevzi Çakmak 6.~|Fevzi Çakmak 8.~|Fevzi Çakmakcad.@|Fırat Kalkanı@|Galericiler 10.~|Galericiler 12.~|Galericiler 14.~|Galericiler 16.~|Galericiler 2~|Galericiler 4.~|Galericiler 6.~|Galericiler 8.~|Galericiler Cad.@|Güzelyurt 10.~|Güzelyurt 12.~|Güzelyurt 2.~|Güzelyurt 4.~|Güzelyurt 6.~|Güzelyurt 8.~|Hurdacılar 1.@|Hurdacılar 3.@|Hurdacılar 5.@|Keresteciler 1.@|Kudüs@|Kömürcüler 1.@|Kömürcüler 3.@|Küçük Sanayi 1. Cad.@|Küçük Sanayi 1.~|Küçük Sanayi 10.~|Küçük Sanayi 101.~|Küçük Sanayi 11. Cad.@|Küçük Sanayi 11.~|Küçük Sanayi 12.~|Küçük Sanayi 12.cad.@|Küçük Sanayi 13.~|Küçük Sanayi 13.cad.@|Küçük Sanayi 14. Cad@|Küçük Sanayi 14.~|Küçük Sanayi 15. Cad.@|Küçük Sanayi 15.~|Küçük Sanayi 16.~|Küçük Sanayi 16.cad.@|Küçük Sanayi 17. Cad.@|Küçük Sanayi 17.~|Küçük Sanayi 18.~|Küçük Sanayi 18.cad.@|Küçük Sanayi 19.~|Küçük Sanayi 2. Cad.@|Küçük Sanayi 2.~|Küçük Sanayi 20.~|Küçük Sanayi 21.~|Küçük Sanayi 21.cad.@|Küçük Sanayi 23.~|Küçük Sanayi 23.cad.@|Küçük Sanayi 25.~|Küçük Sanayi 25.cad.@|Küçük Sanayi 27.~|Küçük Sanayi 27.cad.@|Küçük Sanayi 29.~|Küçük Sanayi 29.cad.@|Küçük Sanayi 3.~|Küçük Sanayi 3.cad.@|Küçük Sanayi 31.~|Küçük Sanayi 33.~|Küçük Sanayi 35.~|Küçük Sanayi 37.~|Küçük Sanayi 39.~|Küçük Sanayi 4.~|Küçük Sanayi 4.cad.@|Küçük Sanayi 41.~|Küçük Sanayi 43.~|Küçük Sanayi 45.~|Küçük Sanayi 47.~|Küçük Sanayi 49~|Küçük Sanayi 5.~|Küçük Sanayi 5.cad.@|Küçük Sanayi 51~|Küçük Sanayi 53~|Küçük Sanayi 55.~|Küçük Sanayi 57.~|Küçük Sanayi 59.~|Küçük Sanayi 6.~|Küçük Sanayi 6.cad.@|Küçük Sanayi 61~|Küçük Sanayi 63~|Küçük Sanayi 65.~|Küçük Sanayi 67.~|Küçük Sanayi 69.~|Küçük Sanayi 7.~|Küçük Sanayi 7.cad.@|Küçük Sanayi 71.~|Küçük Sanayi 73.~|Küçük Sanayi 75.~|Küçük Sanayi 77.~|Küçük Sanayi 79.~|Küçük Sanayi 8.~|Küçük Sanayi 8.cad.@|Küçük Sanayi 81.~|Küçük Sanayi 83.~|Küçük Sanayi 85.~|Küçük Sanayi 87.~|Küçük Sanayi 89.~|Küçük Sanayi 9.~|Küçük Sanayi 9.cad.@|Küçük Sanayi 91.~|Küçük Sanayi 93.~|Küçük Sanayi 95.~|Küçük Sanayi 97.~|Küçük Sanayi 99.~|Küçük Sanayi Cad.@|Küçük Sanayii 10.cad.@|Makinacılar 1.@|Makinacılar 3.@|Makinacılar 5.@|Makinacılar 7.@|Mehmetçik@|Mermerciler 1.@|Mimar Sinan 1.~|Mimar Sinan 1.cad.@|Mimar Sinan 10.~|Mimar Sinan 10.cad.@|Mimar Sinan 11.cad.@|Mimar Sinan 12.~|Mimar Sinan 12.cad.@|Mimar Sinan 13.~|Mimar Sinan 13.cad.@|Mimar Sinan 14.~|Mimar Sinan 14.cad.@|Mimar Sinan 15.cad.@|Mimar Sinan 17.~|Mimar Sinan 18.~|Mimar Sinan 19.~|Mimar Sinan 2.~|Mimar Sinan 2.cad.@|Mimar Sinan 20.~|Mimar Sinan 21.~|Mimar Sinan 23.~|Mimar Sinan 25~|Mimar Sinan 27~|Mimar Sinan 28.~|Mimar Sinan 29.~|Mimar Sinan 3.cad.@|Mimar Sinan 30.~|Mimar Sinan 31.~|Mimar Sinan 32.~|Mimar Sinan 33.~|Mimar Sinan 34.~|Mimar Sinan 35.~|Mimar Sinan 36.~|Mimar Sinan 37.~|Mimar Sinan 38.~|Mimar Sinan 39.~|Mimar Sinan 4.~|Mimar Sinan 4.cad.@|Mimar Sinan 40~|Mimar Sinan 41.~|Mimar Sinan 42~|Mimar Sinan 44.~|Mimar Sinan 46.~|Mimar Sinan 5.~|Mimar Sinan 5.cad.@|Mimar Sinan 6.~|Mimar Sinan 6.cad.@|Mimar Sinan 60~|Mimar Sinan 62.~|Mimar Sinan 63.~|Mimar Sinan 65.~|Mimar Sinan 66~|Mimar Sinan 67.~|Mimar Sinan 68.~|Mimar Sinan 69.~|Mimar Sinan 7.cad.@|Mimar Sinan 70.~|Mimar Sinan 71~|Mimar Sinan 72.~|Mimar Sinan 73.~|Mimar Sinan 74~|Mimar Sinan 75~|Mimar Sinan 77.~|Mimar Sinan 8.~|Mimar Sinan 8.cad.@|Mimar Sinan 9.cad.@|Muhsin Yazıcıoğlu Cad.@|Parsellenmemiş Ekili Arazi~|Zeytin Dalı@|Çorum Sanayi Sitesi 1.~|Çorum Sanayi Sitesi 1.cad.@|Çorum Sanayi Sitesi 10.~|Çorum Sanayi Sitesi 11.~|Çorum Sanayi Sitesi 12.~|Çorum Sanayi Sitesi 13.~|Çorum Sanayi Sitesi 14.~|Çorum Sanayi Sitesi 2.~|Çorum Sanayi Sitesi 3.~|Çorum Sanayi Sitesi 32.~|Çorum Sanayi Sitesi 4.~|Çorum Sanayi Sitesi 5.~|Çorum Sanayi Sitesi 6.~|Çorum Sanayi Sitesi 7.~|Çorum Sanayi Sitesi 8.~|Çorum Sanayi Sitesi 9.~|İnönü Cad.@|İnşaatçılar 1.@|İnşaatçılar 3.@|İnşaatçılar 5.@
+23844	Mislerovacığı Köyü	 Köy$
+23916	Mollahasan Köyü, Merkez Mevkii	 Köy$
+23976	Morsümbül Köyü	 Köy$
+23978	Morsümbül Köyü, Borsunlu Mevkii	 Köy$
+23975	Morsümbül Köyü, Kaşgaga Mevkii	 Köy$
+23977	Morsümbül Köyü, Merkez Mevkii	 Köy$
+23917	Mustafaçelebi Köyü	 Köy$
+23845	Mühürler Köyü	 Köy$
+23846	Narlık Köyü, Merkez Mevkii	 Köy$
+23847	Osmaniye Köyü	 Köy$
+23858	Ovasaray Köyü, Fatih Mevkii	 Köy$
+23860	Ovasaray Köyü, Hacı Mevkii	 Köy$
+23861	Ovasaray Köyü, Merkez Mevkii	
+23862	Ovasaray Köyü, Saray Mevkii	 Köy$
+23859	Ovasaray Köyü, Yeni Mevkii	 Köy$
+23979	Oymaağaç Köyü	 Köy$
+23850	Palabıyık Köyü	 Köy$
+23851	Pancarlık Köyü	 Köy$
+100272	Pancarlık Köyü, Pancarlık Mücavir Mevkii	Boyalık Mevki=|Köy İçi=|Kürtoğlan Mevki=
+23852	Paşa Köyü	 Köy$
+100075	Paşa Köyü, Paşa Mücavir Mevkii	Köy İçi=
+23853	Pembecik Köyü	 Köy$
+23854	Pınarcık Köyü	Avanoğlu Mevki=|Cevizli Mevki=|Kaklık Mevki=|Kayıncak Mevki=|Koçakyeri Mevki=|Kuyular Mevkii=|Köy İçi=|Mücavir Dışı Köy$|Pirce Mevki=|Yakacık Mevki=
+23855	Pınarçay Köyü	Köy İçi=|Kır Mevki=
+23856	Pınarçayosb Mevkii	Organize Sanayi 1~|Organize Sanayi 1.@|Organize Sanayi 11@|Organize Sanayi 12@|Organize Sanayi 14@|Organize Sanayi 16@|Organize Sanayi 18@|Organize Sanayi 2.~|Organize Sanayi 20.@|Organize Sanayi 22.@|Organize Sanayi 24.@|Organize Sanayi 26.@|Organize Sanayi 28.@|Organize Sanayi 3~|Organize Sanayi 3.@|Organize Sanayi 4.@|Organize Sanayi 5.@|Organize Sanayi 6.@|Organize Sanayi 7.@|Organize Sanayi 8.@|Organize Sanayi 9@|Organize Sanayi Tesis.@|Salih Aydın%
+23982	Salur Köyü	 Köy$
+23857	Sapa Köyü	 Köy$
+23983	Saraylı Köyü	 Köy$
+23865	Sarmaşa Köyü	 Köy$
+23927	Sarıkaya Köyü	 Köy$
+23920	Sarılık Köyü, Aş.sarılık Mevkii	 Köy$
+23921	Sarılık Köyü, Merkez Mevkii	 Köy$
+23863	Sarımbey Köyü	 Köy$
+100082	Sarımbey Köyü, Sarımbey Mücavir Mevkii	Eğri Para Mevki=|Kadıkırı Mevki=|Serbanboğazı Mevki=
+23864	Sarışeyh Köyü	 Köy$
+23922	Sazak Köyü, Merkez Mevkii	 Köy$
+23866	Sazdeğirmeni Köyü	 Köy$
+23867	Serban Köyü, Merkez Mevkii	 Köy$
+100267	Serban Köyü, Serban Mücavir Mevkii	Köy İçi=
+23868	Serpin Köyü	Kaklık Mevki=|Köy İçi=|Mücavir Dışı~|Üçoluk Mevki=
+23923	Sevindikalanı Köyü	 Köy$
+20350	Seydim Köyü, Gölyeri Mevkii	Camii~|Gölyeri=|Göğnüş~
+20351	Seydim Köyü, Seyitmurat Mevkii	Akpınar~|Dere~|Esentepe~|Hacı Bekir~|Kulaksız~|Orta Pınar~|Seydim Sultan~|Seyitmurat=|Çorum~
+20352	Seydim Köyü, Yunusemre Mevkii	Boran~|Keçeciler~|Kubbeli Camii~|Namazgah~|Okul~|Oluklu~|Pehlivan~|Sağlık~|Yunusemre=|Çorum~
+23985	Seydimçakallı Köyü, Aşağı Üçdam Mevkii	 Köy$
+23986	Seydimçakallı Köyü, Sarıyar Mevkii	 Köy$
+23984	Seydimçakallı Köyü, Çayseki Mevkii	 Köy$
+23987	Seydimçakallı Köyü, Üçdam Mevkii	 Köy$
+23869	Seyfe Köyü, Merkez Mevkii	 Köy$
+23870	Soğuksu Köyü, Merkez Mevkii	 Köy$
+23988	Sırıklı Köyü, Arzum Pınarı Mevkii	 Köy$
+23989	Sırıklı Köyü, Merkez Mevkii	 Köy$
+23990	Sırıklı Köyü, Oluközü Mevkii	 Köy$
+23874	Tarhan Köyü, Merkez Mevkii	 Köy$
+23875	Tarhankozlusu Köyü	 Köy$
+23877	Tatar Köyü	 Köy$
+100268	Tatar Köyü, Tatar Mücavir Mevkii	Köy İçi=|Toptepeözü Mevki=
+23876	Taşpınar Köyü	 Köy$
+23878	Teslim Köyü	 Köy$
+23879	Tolamehmet Köyü	 Köy$
+100093	Tolamehmet Köyü, Tolamehmet Mücavir Mevkii	Aliki Bağları=|Köy İçi=|Yavşanlı Mevki=
+23995	Tozluburun Köyü, Merkez Mevkii	 Köy$
+23880	Turgut Köyü, Merkez Mevkii	 Köy$
+23881	Türkayşe Köyü, Merkez Mevkii	 Köy$
+23882	Türkler Köyü	 Köy$
+20337	Ulukavak Mah.	Abdibey 1.~|Abdibey 2.~|Adnan Özejder Cad.@|Akpınar 1.~|Akpınar 1.cad.@|Akpınar 2.~|Akpınar 2.çıkmazı~|Akpınar 3.~|Akpınar 4~|Akpınar 5.~|Akpınar 6.~|Akpınar 8.~|Akpınar Cad.@|Akpınar~|Akşemseddin@|Alparslan Türkeş Cad.@|Atalay 1. Cad.@|Atalay 1.~|Atalay 10.~|Atalay 11.~|Atalay 2. Cad.@|Atalay 2.~|Atalay 3.~|Atalay 4.~|Atalay 5.~|Atalay 6.~|Atalay 7.~|Atalay 8.~|Atalay 9.~|Atalay~|Buharaevler Cad.@|Damat Şükrü 1.~|Damat Şükrü 2.~|Damat Şükrü 3.~|Damat Şükrü 4.~|Damat Şükrü 5.~|Damat Şükrü 6.~|Dr.ilhan Gürel Cad.@|Dr.sadık Ahmet Cad.@|Eşref Hoca Cad.@|Fatih Cad.@|Garantievler 10.~|Garantievler 12.~|Garantievler 13.~|Garantievler 15~|Garantievler 17.~|Garantievler 19.~|Garantievler 21.~|Garantievler 4.~|Garantievler 5.~|Garantievler 6.~|Garantievler 7.~|Garantievler 8.~|Garantievler 9.~|Güneşevler 1.~|Güneşevler 2.~|Güneşevler 3.~|Güneşevler 5.~|Güneşevler 6.~|Güneşevler 7.~|Güneşevler 8.~|Güneşevler 9.~|Karaman Çavuş 2.~|Karaman Çavuş 4.~|Karaman Çavuş Cad.@|Kunduzhan 1.cad.@|Köprübaşı 1. Cad.@|Köprübaşı 11.~|Köprübaşı 12.~|Köprübaşı 13.~|Köprübaşı 15.~|Köprübaşı 16.~|Köprübaşı 17.~|Köprübaşı 19.~|Köprübaşı 2.~|Köprübaşı 20.~|Köprübaşı 21.~|Köprübaşı 23.~|Köprübaşı 24.~|Köprübaşı 25.~|Köprübaşı 26.~|Köprübaşı 27.~|Köprübaşı 28.~|Köprübaşı 29.~|Köprübaşı 3.~|Köprübaşı 3.cad.@|Köprübaşı 30.~|Köprübaşı 31.~|Köprübaşı 32.~|Köprübaşı 33.~|Köprübaşı 34.~|Köprübaşı 35.~|Köprübaşı 36.~|Köprübaşı 37~|Köprübaşı 38.~|Köprübaşı 39.~|Köprübaşı 4.~|Köprübaşı 40.~|Köprübaşı 41.~|Köprübaşı 43.~|Köprübaşı 45.~|Köprübaşı 47.~|Köprübaşı 48.~|Köprübaşı 5.~|Köprübaşı 6.~|Köprübaşı 7.~|Köprübaşı 8.~|Köprübaşı 9.~|Köprübaşı Cad.@|Mandıraevler 1.~|Mandıraevler 10~|Mandıraevler 11~|Mandıraevler 12~|Mandıraevler 13.~|Mandıraevler 14~|Mandıraevler 15.~|Mandıraevler 16~|Mandıraevler 17.~|Mandıraevler 18~|Mandıraevler 19~|Mandıraevler 2~|Mandıraevler 20~|Mandıraevler 21.~|Mandıraevler 23~|Mandıraevler 25~|Mandıraevler 3.~|Mandıraevler 4~|Mandıraevler 5~|Mandıraevler 6~|Mandıraevler 7.~|Mandıraevler 8~|Mandıraevler 9.~|Mandıraevler Cad.@|Mavral 1.~|Mavral~|Osmancık 4.çıkmaz~|Osmancık 5.~|Osmancık 6.~|Osmancık 7.~|Osmancık Cad.@|Parsellenmemiş Ekili Arazi~|Sakarya 1. Cad.@|Sakarya 1.~|Sakarya 10.~|Sakarya 11.~|Sakarya 12.~|Sakarya 13.~|Sakarya 14.~|Sakarya 15~|Sakarya 17.~|Sakarya 2. Cad.@|Sakarya 2.~|Sakarya 3. Cad.@|Sakarya 3.~|Sakarya 4.~|Sakarya 6.~|Sakarya 7.~|Sakarya 8.~|Sakarya 9.~|Sarılık 1.~|Sarılık 11.~|Sarılık 13.~|Sarılık 15.~|Sarılık 3.~|Sarılık 5.~|Sarılık 7.~|Sarılık 9.~|Selimiye 1.~|Selimiye 2.~|Selimiye 3.~|Selimiye 4.~|Selimiye 5.~|Selçuk 1.@|Selçuk 1.~|Selçuk 11~|Selçuk 13~|Selçuk 2.@|Selçuk 3.~|Selçuk 4.~|Selçuk 5.~|Selçuk 6.~|Selçuk 7.~|Selçuk 8~|Selçuk 9~|Selçuk@|Söğütlüevler 1. Cad.@|Söğütlüevler 1.~|Söğütlüevler 10.~|Söğütlüevler 12.~|Söğütlüevler 13.~|Söğütlüevler 15.~|Söğütlüevler 16.~|Söğütlüevler 17.~|Söğütlüevler 18.~|Söğütlüevler 19~|Söğütlüevler 2~|Söğütlüevler 2. Cad.@|Söğütlüevler 21.~|Söğütlüevler 22.~|Söğütlüevler 23.~|Söğütlüevler 24.~|Söğütlüevler 25.~|Söğütlüevler 26.~|Söğütlüevler 27~|Söğütlüevler 28.~|Söğütlüevler 29.~|Söğütlüevler 3. Cad.@|Söğütlüevler 3.~|Söğütlüevler 30.~|Söğütlüevler 31~|Söğütlüevler 32.~|Söğütlüevler 34.~|Söğütlüevler 39.~|Söğütlüevler 4.~|Söğütlüevler 40.~|Söğütlüevler 41.~|Söğütlüevler 42.~|Söğütlüevler 44.~|Söğütlüevler 46.~|Söğütlüevler 5.~|Söğütlüevler 50.~|Söğütlüevler 54.~|Söğütlüevler 56.~|Söğütlüevler 58.~|Söğütlüevler 62.~|Söğütlüevler 68.~|Söğütlüevler 72~|Söğütlüevler 74.~|Söğütlüevler 76~|Söğütlüevler 9.~|Söğütlüevler Cad.@|Tarakcı 1.~|Tarakcı 2.~|Tarakcı 4.~|Tarakcı 5.~|Tarakcı 7.~|Tarakcı 8.~|Tarakcı 9.~|Tekceviz 10.~|Tekceviz 11.~|Tekceviz 12.~|Tekceviz 13.~|Tekceviz 14.~|Tekceviz 15.~|Tekceviz 16~|Tekceviz 17.~|Tekceviz 18.~|Tekceviz 19.~|Tekceviz 2.~|Tekceviz 21.~|Tekceviz 23.~|Tekceviz 25.~|Tekceviz 27.~|Tekceviz 29.~|Tekceviz 3.~|Tekceviz 31.~|Tekceviz 33.~|Tekceviz 37.~|Tekceviz 4.~|Tekceviz 6.~|Tekceviz 7.~|Tekceviz 8.~|Tekceviz 9.~|Varinli Cad.@|Çamdeğirmeni 1.~|Çamdeğirmeni 10.~|Çamdeğirmeni 11.~|Çamdeğirmeni 12.~|Çamdeğirmeni 13.~|Çamdeğirmeni 14.~|Çamdeğirmeni 15.~|Çamdeğirmeni 16.~|Çamdeğirmeni 17.~|Çamdeğirmeni 18.~|Çamdeğirmeni 19.~|Çamdeğirmeni 2.~|Çamdeğirmeni 20.~|Çamdeğirmeni 21.~|Çamdeğirmeni 22.~|Çamdeğirmeni 23.~|Çamdeğirmeni 24.~|Çamdeğirmeni 25.~|Çamdeğirmeni 26.~|Çamdeğirmeni 3.~|Çamdeğirmeni 4.~|Çamdeğirmeni 5.~|Çamdeğirmeni 6.~|Çamdeğirmeni 7.~|Çamdeğirmeni 8.~|Çamdeğirmeni 9.~|Çamdeğirmeni~|Çatalhavuz 1.~|Çatalhavuz 10.~|Çatalhavuz 11.~|Çatalhavuz 12.~|Çatalhavuz 13.~|Çatalhavuz 14.~|Çatalhavuz 15.~|Çatalhavuz 16.~|Çatalhavuz 17.~|Çatalhavuz 18.~|Çatalhavuz 2.~|Çatalhavuz 20.~|Çatalhavuz 21.~|Çatalhavuz 22.~|Çatalhavuz 23.~|Çatalhavuz 24.~|Çatalhavuz 25.~|Çatalhavuz 26.~|Çatalhavuz 3.~|Çatalhavuz 4.~|Çatalhavuz 5.~|Çatalhavuz 6.~|Çatalhavuz 7.~|Çatalhavuz 8.~|Çatalhavuz 9.~|Çatalhavuz~|Çevre Yolu%|Çiftlik@|Çiftlik Pınarı 24~|Çiftlik Pınarı 3~|Çiftlik Pınarı 3. Cad.@|Çiftlikpınarı 1~|Çiftlikpınarı 1. Cad.@|Çiftlikpınarı 16~|Çiftlikpınarı 18~|Çiftlikpınarı 2. Cad.@|Çiftlikpınarı 2.~|Çiftlikpınarı 20.~|Çiftlikpınarı 22~|Çiftlikpınarı 30~|Çiftlikpınarı 32.~|Çiftlikpınarı 34.~|Çiftlikpınarı 36.~|Çiftlikpınarı 4~|Çiftlikpınarı 4. Cad.@|Çiftlikpınarı 5.~|Çiftlikpınarı 51.~|Çiftlikpınarı 53.~|Çiftlikpınarı 55.~|Çiftlikpınarı 57.~|Çiftlikpınarı 59.~|Çiftlikpınarı 6.~|Çiftlikpınarı 61.~|Çiftlikpınarı 63.~|Çiftlikpınarı 7.~|Çiftlikpınarı 8.~|Çiftlikpınarı Cad.@|Çiftlikçayırı 10.~|Çiftlikçayırı 11.~|Çiftlikçayırı 12.~|Çiftlikçayırı 13.~|Çiftlikçayırı 14.~|Çiftlikçayırı 15.~|Çiftlikçayırı 16.~|Çiftlikçayırı 17.~|Çiftlikçayırı 18.~|Çiftlikçayırı 19.~|Çiftlikçayırı 2. Cad.@|Çiftlikçayırı 21.~|Çiftlikçayırı 22.~|Çiftlikçayırı 24.~|Çiftlikçayırı 26.~|Çiftlikçayırı 27.~|Çiftlikçayırı 28.~|Çiftlikçayırı 29.~|Çiftlikçayırı 30.~|Çiftlikçayırı 31.~|Çiftlikçayırı 33.~|Çiftlikçayırı 35.~|Çiftlikçayırı 37.~|Çiftlikçayırı 39.~|Çiftlikçayırı 5.~|Çiftlikçayırı 54.~|Çiftlikçayırı 56.~|Çiftlikçayırı 58.~|Çiftlikçayırı 60.~|Çiftlikçayırı 62.~|Çiftlikçayırı 7.~|Çiftlikçayırı 8.~|Çiftlikçayırı 9.~|Çiftlikçayırı Cad.@|Çömlekciler~|Ölçek 1.~|Ölçek 10.~|Ölçek 2.~|Ölçek 3.~|Ölçek 4.~|Ölçek 5~|Ölçek 6~|Ölçek 7~|Ölçek 8~|Ölçek 9.~|Ölçek~|Ölçek Çıkmazı 1.~|Özgürevler 1.~|Özgürevler 1.cad@|Özgürevler 13.~|Özgürevler 15.~|Özgürevler 19~|Özgürevler 2.~|Özgürevler 21.~|Özgürevler 23.~|Özgürevler 25.~|Özgürevler 27.~|Özgürevler 3.~|Özgürevler 31.~|Özgürevler 33.~|Özgürevler 35.~|Özgürevler 37.~|Özgürevler 39.~|Özgürevler 4.~|Özgürevler 41.~|Özgürevler 43.~|Özgürevler 5.~|Özgürevler 6.~|Özgürevler 7.~|Özgürevler 8.~|Özgürevler 9.~|Özgürevler Cad.@|İskilip Cad.@
+23883	Uğrak Köyü	 Köy$
+23887	Yakuparpa Köyü, Bademli Mevkii	 Köy$
+23886	Yakuparpa Köyü, Kuşveren Mevkii	 Köy$
+23885	Yakuparpa Köyü, Merkez Mevkii	 Köy$
+20339	Yavruturna Mah.	102 Evler 3.~|102 Evler 4.~|102 Evler 5.~|102 Evler 6.~|Ata Cad.@|Atayurt 1.~|Atayurt 2.~|Atayurt 3.~|Atayurt 4.~|Atayurt 5.~|Bahabey Cad.@|Bülbül~|Cengiz Topel Cad.@|Emek 1.~|Emek 3.~|Emek 5.~|Emek Cad.@|Esnafevleri 1.~|Esnafevleri 10.~|Esnafevleri 11.~|Esnafevleri 12.~|Esnafevleri 13.~|Esnafevleri 14.~|Esnafevleri 2.~|Esnafevleri 3.~|Esnafevleri 4.~|Esnafevleri 5.~|Esnafevleri 6.~|Esnafevleri 7.~|Esnafevleri 8.~|Esnafevleri 9.~|Fırat Yılmaz Çakıroğlu~|Garip Dede~|Gazi Cad.@|Gazi Paşa~|Hüyük Cad.@|Kadeş 1.~|Kadeş 2.~|Kavukcu 1.~|Kavukcu~|Kulaksız 1.~|Kulaksız 2.~|Kulaksız~|Kulaksız Çıkmazı 1.~|Kulaksız Çıkmazı 2.~|Kuyulu~|Kıbrıs Cad.@|Maliye 1.~|Maliye 2~|Maliye 3~|Maliye 4.~|Mürsel 1.~|Mürsel 2.~|Mürsel 3.~|Mürsel 4.~|Mürsel 5.~|Mürsel~|Parsellenmemiş Ekili Arazi~|Uğur Mumcu Cad.@|Yavruturna 1.~|Yavruturna 2.~|Yavruturna 3.~|Yavruturna 4.~|Yavruturna 5.~|Yavruturna~|Zafer 19.~|Zafer 2.cad.@|Zafer 21.~|Zafer 3. Cad.@
+23888	Yaydiğin Köyü	Köy Önü Mevki=|Köy İçi=|Maşatlık Mevki=|Salkoşa Deresi Mevki=|Teknetaş Mevki=|Uzundere Mevki=|Yaydiğin Bağları Mevki=
+23891	Yenice Köyü	 Köy$
+100094	Yenice Köyü, Yenice Mücavir Mevkii	Eğrek Mevki=|Köy İçi=|Kırdibi Mevkii=
+23892	Yenihayat Köyü	 Köy$
+20340	Yeniyol Mah.	Azap Ahmet~|Baltalı 1.~|Baltalı~|Eski Saray 1.~|Eski Saray 1.çıkmazı~|Eski Saray 2.~|Eski Saray 2.çıkmazı~|Eski Saray 3.~|Eski Saray 3.çıkmazı~|Eski Saray~|Eğridere~|Gazi 1.~|Gazi 10.~|Gazi 12.~|Gazi 14.~|Gazi 16.~|Gazi 2.~|Gazi 3.~|Gazi 4.~|Gazi 5.~|Gazi 6.~|Gazi 8.~|Gazi Cad.@|Gazi Paşa~|Hamam~|Hürriyet Mey Myd.|Kubbeli Cad.@|Kulaksız~|Kıbrıs Cad.@|Mecitözü Çıkmazı~|Müftü Ahmet Gökeşme~|Parsellenmemiş Ekili Arazi~|Sel~|Sepetçi~|Uğur Mumcu Cad.@|Yavruturna~|Çanlı~|İnönü Cad.@
+23894	Yeşildere Köyü	 Köy$
+23926	Yeşilyayla Köyü, Merkez Mevkii	 Köy$
+23895	Yoğunpelit Köyü	 Köy$
+23753	Çakır Köyü, Merkez Mevkii	 Köy$
+23755	Çalkışla Köyü, Merkez Mevkii	 Köy$
+23939	Çaltıcak Köyü	 Köy$
+23757	Çalyayla Köyü, Akkol Mevkii	 Köy$
+23758	Çalyayla Köyü, Dağbağ Mevkii	 Köy$
+23756	Çalyayla Köyü, Merkez Mevkii	 Köy$
+23754	Çalıca Köyü, Merkez Mevkii	 Köy$
+23759	Çanakçı Köyü	 Köy$
+23760	Çatak Köyü, Merkez Mevkii	 Köy$
+23761	Çayhatap Köyü, Merkez Mevkii	 Köy$
+23752	Çağşak Köyü	 Köy$
+20330	Çepni Mah.	Akşemseddin@|Aynalı 1.~|Aynalı 2.~|Aynalı~|Aynalı Çıkmazı~|Demirciler~|Dr.pertev Bey~|Emniyet~|Fen Lisesi 1. Cad.@|Fen Lisesi 1.~|Fen Lisesi 10.~|Fen Lisesi 11.~|Fen Lisesi 12.~|Fen Lisesi 13.~|Fen Lisesi 14.~|Fen Lisesi 15.~|Fen Lisesi 16.~|Fen Lisesi 17.~|Fen Lisesi 18.~|Fen Lisesi 19.~|Fen Lisesi 2. Cad.@|Fen Lisesi 2.~|Fen Lisesi 20.~|Fen Lisesi 21.~|Fen Lisesi 22.~|Fen Lisesi 23.~|Fen Lisesi 24.~|Fen Lisesi 25.~|Fen Lisesi 26.~|Fen Lisesi 27.~|Fen Lisesi 28.~|Fen Lisesi 29.~|Fen Lisesi 3.~|Fen Lisesi 3.cad.@|Fen Lisesi 30.~|Fen Lisesi 31.~|Fen Lisesi 32.~|Fen Lisesi 33.~|Fen Lisesi 34.~|Fen Lisesi 35.~|Fen Lisesi 36.~|Fen Lisesi 38.~|Fen Lisesi 4.~|Fen Lisesi 4.cad.@|Fen Lisesi 40.~|Fen Lisesi 42.~|Fen Lisesi 44.~|Fen Lisesi 46.~|Fen Lisesi 48.~|Fen Lisesi 5.~|Fen Lisesi 5.cad.@|Fen Lisesi 50.~|Fen Lisesi 52.~|Fen Lisesi 54.~|Fen Lisesi 6.~|Fen Lisesi 7.~|Fen Lisesi 8.~|Fen Lisesi 9.~|Fen Lisesi Cad.@|Hamit Camii~|Hamit Dede~|Haritacı Osman Bey~|Hayat 1.~|Hayat~|Hazırcılar~|Hürriyet 1.~|Hürriyet 4.~|Hürriyet Myd.|Hıdırlık 1.~|Hıdırlık Cad.@|Hıdırlık~|Kavafiyeciler 1.~|Kavafiyeciler~|Kerebi Gazi 1.~|Kerebi Gazi 1.cad.@|Kerebi Gazi Cad.@|Kerebi Gazi~|Kubbeli 1.~|Kubbeli 2.~|Kubbeli 3.~|Kubbeli Cad.@|Leblebiciler Sit.=|Merih~|Necmettin Erbakan Cad.@|Parsellenmemiş Ekili Arazi~|Prof. Dr. Arif Ersoy@|Sandıkcılar~|Suhibirumi~|Tarım Cad.@|Taşhan Cad.@|Yeni Sanayi 1.~|Yeni Sanayi 10.~|Yeni Sanayi 11.~|Yeni Sanayi 12.~|Yeni Sanayi 13.~|Yeni Sanayi 14.~|Yeni Sanayi 15.~|Yeni Sanayi 16.~|Yeni Sanayi 17.~|Yeni Sanayi 18.~|Yeni Sanayi 2.~|Yeni Sanayi 3.~|Yeni Sanayi 4.~|Yeni Sanayi 5.~|Yeni Sanayi 6.~|Yeni Sanayi 7.~|Yeni Sanayi 8.~|Yeni Sanayi 9.~|Çakır~|Çelik 1. Cad.@|Çelik 1.~|Çelik 10.~|Çelik 12.~|Çelik 14.~|Çelik 16.~|Çelik 18.~|Çelik 2.~|Çelik 20.~|Çelik 22.~|Çelik 3. Cad.@|Çelik 3.~|Çelik 4.~|Çelik 5.~|Çelik 6.~|Çelik 7.~|Çelik 8.~|Çelik 9.~|Çevre Yolu%|Çorum Şehirlerarası Otobüs Terminali=|Ömür 1.~|Ömür 2.~|Ömür 3.~|Ömür 4.~|Ömür~|Öğretmen Lisesi 1. Cad.@|Öğretmen Lisesi 1.~|Öğretmen Lisesi 10.~|Öğretmen Lisesi 11.~|Öğretmen Lisesi 12.~|Öğretmen Lisesi 13.~|Öğretmen Lisesi 14.~|Öğretmen Lisesi 15.~|Öğretmen Lisesi 16.~|Öğretmen Lisesi 17.~|Öğretmen Lisesi 18.~|Öğretmen Lisesi 19.~|Öğretmen Lisesi 2.~|Öğretmen Lisesi 2.cad.@|Öğretmen Lisesi 20.~|Öğretmen Lisesi 21.~|Öğretmen Lisesi 22.~|Öğretmen Lisesi 23.~|Öğretmen Lisesi 24.~|Öğretmen Lisesi 25.~|Öğretmen Lisesi 26.~|Öğretmen Lisesi 27.~|Öğretmen Lisesi 29.~|Öğretmen Lisesi 3.~|Öğretmen Lisesi 3.cad.@|Öğretmen Lisesi 31.~|Öğretmen Lisesi 33.~|Öğretmen Lisesi 35.~|Öğretmen Lisesi 37.~|Öğretmen Lisesi 39.~|Öğretmen Lisesi 4.~|Öğretmen Lisesi 5.~|Öğretmen Lisesi 6.~|Öğretmen Lisesi 7.~|Öğretmen Lisesi 8.~|Öğretmen Lisesi 9.~|Öğretmen Lisesi Cad.@|Öğretmen Lisesi~|Ümithalife~|İnkılap~|İnönü Cad.@|İskilip 1.~|İskilip 1.cad.@|İskilip 10.~|İskilip 12.~|İskilip 14.~|İskilip 16.~|İskilip 18.~|İskilip 2.~|İskilip 3.~|İskilip 4.~|İskilip 5.~|İskilip 6.~|İskilip 7.~|İskilip 8.~|İskilip 9.~|İskilip Cad.@
+23762	Çeşmeören Köyü	 Köy$
+23900	Çobandivan Köyü	 Köy$
+98445	Çomarbaşı Köyü, Rıçvanlar Mevkii	Köy İçi=
+98446	Çomarbaşı Köyü, Çomarbaşı Mevkii	Köy İçi=|Çomar Mevki=|Çomar Yolu Mevki=
+23896	Çorak Köyü	 Köy$
+23763	Çukurören Köyü, Merkez Mevkii	 Köy$
+20331	Çöplü Mah.	Akpınar Cad.@|Azerbaycan@|Aşık Paşa~|Camikebir 3.~|Camikebir 4.~|Devane 1.~|Devane~|Değirmen 1.~|Değirmen 2.~|Emekliler 1.~|Emekliler~|Kunduzhan 1.~|Kunduzhan 1.cad.@|Kunduzhan 2.~|Kunduzhan 3.~|Kunduzhan 4.~|Kunduzhan Cad.@|Kunduzhan Çıkmazı 1.~|Kunduzhan Çıkmazı 2.~|Madan Bahçe 1.~|Madan Bahçe~|Madan~|Madan Çıkmazı 1.~|Madan Çıkmazı 2.~|Namazgah 1.~|Namazgah Cad.@|Namazgah~|Osmancık Cad.@|Parsellenmemiş Ekili Arazi~|Prof. Dr. Arif Ersoy@|Uç 1.~|Uç 3.~|Uç~|Uç Çıkmazı 3.~|Uç Çıkmazı 4.~|Çöplü 1.~|Çöplü 2.~|Çöplü 3.~|Çöplü Cad.@|Çınar 1.~|Çınar~|İcadiye~|İstiklal 1.~
+23899	Çıkrık Köyü, Merkez Mevkii	 Köy$
+23981	Öksüzler Köyü, Büklüce Mevkii	 Köy$
+23980	Öksüzler Köyü, Merkez Mevkii	 Köy$
+23849	Ömerbey Köyü, Merkez Mevkii	Köy İçi=|Köyönü=|Sık Söğüt Mevki=
+23848	Ömerbey Köyü, Tepe Mevkii	Köy İçi=
+23919	Örencik Köyü, Merkez Mevkii	 Köy$
+23918	Örencik Köyü, Örencik Kaçağı Mevkii	 Köy$
+23996	Ülkenpınarı Köyü	 Köy$
+23884	Üyük Köyü, Merkez Mevkii	 Köy$
+23925	Üçköy Köyü	 Köy$
+20338	Üçtutlar Mah.	Ahçı Bağları=|Ahçılar 1.~|Ahçılar 1.cad.@|Ahçılar 10.~|Ahçılar 11.~|Ahçılar 12.~|Ahçılar 13~|Ahçılar 14.~|Ahçılar 15.~|Ahçılar 16~|Ahçılar 17.~|Ahçılar 18~|Ahçılar 19.~|Ahçılar 2.~|Ahçılar 20~|Ahçılar 21.~|Ahçılar 22~|Ahçılar 23~|Ahçılar 24~|Ahçılar 25.~|Ahçılar 3~|Ahçılar 3.cadde@|Ahçılar 4.~|Ahçılar 5~|Ahçılar 6.~|Ahçılar 7.~|Ahçılar 8.~|Ahçılar 9~|Akasya~|Alaybey 1.~|Alaybey 2.~|Alaybey 3.~|Alaybey~|Albayrak 2.~|Albayrak 3.~|Albayrak Cad.@|Anadolu 1.~|Anadolu 10.~|Anadolu 11.~|Anadolu 12.~|Anadolu 13.~|Anadolu 15.~|Anadolu 2.~|Anadolu 4.~|Anadolu 5.~|Anadolu 6.~|Anadolu 7.~|Anadolu 8.~|Anadolu 9.~|Ayarık Bağları 1.~|Ayarık Bağları 10.~|Ayarık Bağları 11.~|Ayarık Bağları 12.~|Ayarık Bağları 13.~|Ayarık Bağları 14.~|Ayarık Bağları 15.~|Ayarık Bağları 16.~|Ayarık Bağları 17.~|Ayarık Bağları 18.~|Ayarık Bağları 19.~|Ayarık Bağları 2.~|Ayarık Bağları 20.~|Ayarık Bağları 21.~|Ayarık Bağları 22.~|Ayarık Bağları 23.~|Ayarık Bağları 24.~|Ayarık Bağları 25.~|Ayarık Bağları 26.~|Ayarık Bağları 28.~|Ayarık Bağları 3.~|Ayarık Bağları 30.~|Ayarık Bağları 32.~|Ayarık Bağları 34.~|Ayarık Bağları 36.~|Ayarık Bağları 38.~|Ayarık Bağları 4.~|Ayarık Bağları 40.~|Ayarık Bağları 42.~|Ayarık Bağları 44.~|Ayarık Bağları 46.~|Ayarık Bağları 48.~|Ayarık Bağları 5.~|Ayarık Bağları 50.~|Ayarık Bağları 52.~|Ayarık Bağları 6.~|Ayarık Bağları 7.~|Ayarık Bağları 8.~|Ayarık Bağları 9.~|Ayarık Bağları@|Binevler 1.~|Binevler 1.cad.@|Binevler 10.~|Binevler 10.cad.@|Binevler 100.~|Binevler 102.~|Binevler 103.~|Binevler 107.~|Binevler 109.~|Binevler 11.~|Binevler 113.~|Binevler 114.~|Binevler 115.~|Binevler 116.~|Binevler 12.~|Binevler 120.~|Binevler 121.~|Binevler 124.~|Binevler 129.~|Binevler 13.~|Binevler 130.~|Binevler 133~|Binevler 134.~|Binevler 135.~|Binevler 136.~|Binevler 137.~|Binevler 138.~|Binevler 139.~|Binevler 14.~|Binevler 140.~|Binevler 141.~|Binevler 142.~|Binevler 143.~|Binevler 144.~|Binevler 145.~|Binevler 149.~|Binevler 15~|Binevler 151.~|Binevler 153.~|Binevler 155.~|Binevler 156.~|Binevler 157.~|Binevler 159.~|Binevler 16.~|Binevler 161.~|Binevler 163.~|Binevler 167.~|Binevler 168.~|Binevler 169.~|Binevler 17~|Binevler 170.~|Binevler 171.~|Binevler 172.~|Binevler 177.~|Binevler 18~|Binevler 181.~|Binevler 183.~|Binevler 185.~|Binevler 187.~|Binevler 189.~|Binevler 19~|Binevler 191.~|Binevler 193.~|Binevler 195.~|Binevler 197~|Binevler 2~|Binevler 20~|Binevler 21~|Binevler 22~|Binevler 226.~|Binevler 228.~|Binevler 23~|Binevler 230.~|Binevler 232.~|Binevler 24.~|Binevler 246.~|Binevler 248.~|Binevler 25~|Binevler 251.~|Binevler 253.~|Binevler 255.~|Binevler 256.~|Binevler 258.~|Binevler 260.~|Binevler 261.~|Binevler 262.~|Binevler 264.~|Binevler 266~|Binevler 27~|Binevler 28~|Binevler 283.~|Binevler 285.~|Binevler 287.~|Binevler 289.~|Binevler 29~|Binevler 291.~|Binevler 293.~|Binevler 295.~|Binevler 297.~|Binevler 299~|Binevler 3.~|Binevler 3.cad.@|Binevler 30.~|Binevler 301.~|Binevler 303.~|Binevler 305.~|Binevler 307.~|Binevler 309.~|Binevler 31~|Binevler 32.~|Binevler 33.~|Binevler 34.~|Binevler 35.~|Binevler 36.~|Binevler 37.~|Binevler 38.~|Binevler 39.~|Binevler 4.~|Binevler 40.~|Binevler 41.~|Binevler 43.~|Binevler 45.~|Binevler 46.~|Binevler 47~|Binevler 48~|Binevler 49.~|Binevler 5.~|Binevler 50.~|Binevler 51~|Binevler 52.~|Binevler 53~|Binevler 54~|Binevler 55~|Binevler 56~|Binevler 58.~|Binevler 6. Cad.@|Binevler 6.~|Binevler 60.~|Binevler 62~|Binevler 63~|Binevler 64~|Binevler 65~|Binevler 66~|Binevler 67~|Binevler 68~|Binevler 69~|Binevler 7.~|Binevler 70~|Binevler 71~|Binevler 72~|Binevler 73~|Binevler 74~|Binevler 75~|Binevler 76~|Binevler 77~|Binevler 78~|Binevler 79~|Binevler 8.~|Binevler 8.cad.@|Binevler 80~|Binevler 81~|Binevler 82~|Binevler 83~|Binevler 84~|Binevler 86~|Binevler 88~|Binevler 9.~|Binevler 90~|Binevler 94~|Binevler 96~|Binevler 98.~|Camikebir 1.~|Camikebir~|Dr.ilhan Gürel Cad.@|Emirahmet~|Eskiciler~|Eşrefhoca Cad.@|Fatih 1.~|Fatih 2.~|Fatih 3.~|Fatih 4.~|Fatih 5.~|Fatih 6.~|Fatih 7.~|Fatih 8.~|Fatih Cad.@|Gülkent 1.~|Gülkent 1.cad.@|Gülkent 10.~|Gülkent 11.~|Gülkent 12.~|Gülkent 13.~|Gülkent 14.~|Gülkent 15.~|Gülkent 16.~|Gülkent 17.~|Gülkent 18.~|Gülkent 19.~|Gülkent 2.~|Gülkent 20.~|Gülkent 21.~|Gülkent 22.~|Gülkent 23.~|Gülkent 24.~|Gülkent 25.~|Gülkent 26.~|Gülkent 27.~|Gülkent 28.~|Gülkent 29.~|Gülkent 3.~|Gülkent 31.~|Gülkent 33.~|Gülkent 35.~|Gülkent 37.~|Gülkent 39.~|Gülkent 4.~|Gülkent 4.cad.@|Gülkent 41.~|Gülkent 5.~|Gülkent 6.~|Gülkent 7.~|Gülkent 8.~|Gülkent 9.~|Gülkent Cad.@|Hamit Kaplan Cad.@|Hürriyet Myd.|Ihlamur~|Ilıca 1.~|Ilıca 2.~|Ilıca Bağları=|Ilıca Cad.@|Ilıca~|Muratevler 1.~|Muratevler 10.~|Muratevler 12.~|Muratevler 14~|Muratevler 16.~|Muratevler 18.~|Muratevler 2~|Muratevler 20.~|Muratevler 21.~|Muratevler 22.~|Muratevler 23.~|Muratevler 24.~|Muratevler 25.~|Muratevler 26.~|Muratevler 27.~|Muratevler 28.~|Muratevler 3.~|Muratevler 4~|Muratevler 5.~|Muratevler 6~|Muratevler 8~|Okul 1.~|Okul 2.~|Okul 3.~|Osmancık 1.~|Osmancık 2.~|Osmancık 3.~|Osmancık 4.~|Osmancık 8.~|Osmancık Cad.@|Parsellenmemiş Ekili Arazi~|Recep Tayyip Erdoğan@|Samsun Yolu%|Selvi~|Silmkent 5.@|Stad 1.~|Stad 2.~|Stad 3.~|Stad 4.~|Stad 5.~|Stad~|Çevre Yolu%|Çomar Bağları=|Üçtutlar 1.~|Üçtutlar 2.~|Üçtutlar 3.~|Üçtutlar 4.~|Üçtutlar 5.~|Üçtutlar 6.~|Üçtutlar Cad.@|Üçtutlar Çıkmazı 2.~|Üçtutlar Çıkmazı 3.~|Üçtutlar Çıkmazı 4.~|İğdeli~
+23967	İnalözü Köyü, Merkez Mevkii	 Köy$
+23968	İnalözü Köyü, Sülüklü Mevkii	 Köy$
+23805	İsmailköy Köyü	 Köy$
+23966	İğdeli Köyü, Kızılkır Mevkii	 Köy$
+23965	İğdeli Köyü, Merkez Mevkii	 Köy$
+23992	Şahinkaya Köyü, Budağan Mevkii	 Köy$
+23991	Şahinkaya Köyü, Merkez Mevkii	 Köy$
+23924	Şanlıosman Köyü, Merkez Mevkii	 Köy$
+23871	Şekerbey Köyü	 Köy$
+23994	Şendere Köyü, Aktaş Mevkii	 Köy$
+23993	Şendere Köyü, Merkez Mevkii	 Köy$
+23872	Şeyhhamza Köyü, Merkez Mevkii	 Köy$
+23873	Şeyhmustafa Köyü, Merkez Mevkii	 Köy$

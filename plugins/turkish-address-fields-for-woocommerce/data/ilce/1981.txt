@@ -1,0 +1,64 @@
+76102	Akbelen Köyü	Köyün Kendisi=
+76103	Arım Köyü, Merkez Mevkii	Merkez=
+76104	Arım Köyü, Orta Mevkii	Orta=
+76105	Asarcıkcamili Köyü	Köyün Kendisi Asarcıkcamili=
+76106	Asarcıkhacıköy Köyü	Köyün Kendisi=
+76107	Asarcıkkayalı Köyü, Merkez Mevkii	Merkez=
+76108	Asarcıkkayalı Köyü, Çobanlı Mevkii	Çobanlı=
+76109	Asarcıkkazaklı Köyü	Köyünkendisi=
+76111	Avluca Köyü	Köyün Kendisi=
+139807	Avluca Köyü, Aluç Mevkii	- Köy$|Aşağı Aluç=|Yukarı Aluç=
+76110	Aşağıakpınar Köyü	Köyün Kendisi=
+76114	Bahçeköy Köyü, Kadıoğlu Mevkii	Kadıoğlu=
+76115	Bahçeköy Köyü, Kendirli Mevkii	Kendirli=
+76112	Bahçeköy Köyü, Merkez Mevkii	Merkez=
+76113	Bahçeköy Köyü, Çalaplı Mevkii	Çalaplı=
+76117	Bahşaşlı Köyü, Aşağı Mevkii	Aşağı=
+76118	Bahşaşlı Köyü, Yukarı Mevkii	Yukarı=
+76116	Bahşaşlı Köyü, Zeyve Mevkii	Zeyve=
+76120	Başekin Köyü, Dere Mevkii	Dere=
+76122	Başekin Köyü, Merkez Mevkii	Merkez=
+76119	Başekin Köyü, Orta Mevkii	Orta=
+76121	Başekin Köyü, Salmanlı Mevkii	Salmanlı=
+76126	Cumakayalı Köyü, Dimbiloglu Mevkii	Dimbiloğlu=
+76124	Cumakayalı Köyü, Gürlen Mevkii	Gürlen=
+76127	Cumakayalı Köyü, Merkez Mevkii	Merkez=
+76125	Cumakayalı Köyü, Sögütlü Mevkii	Söğütlü=
+76128	Cumaköy Köyü	Köyün Kendisi=
+76129	Cumatabaklı Köyü	Köyün Kendisi=
+76138	Fakılı Köyü, Kışla Mevkii	- Köy$
+76137	Fakılı Köyü, Merkez Mevkii	- Köy$
+76139	Göynükören Köyü	Köyün Kendisi=
+76140	Hacıçay Köyü	Köyün Kendisi=
+76141	Hanoğlu Köyü	Köyün Kendisi=
+76143	Karaçaygöleti Köyü, Aşağı Mevkii	Aşağı=
+76142	Karaçaygöleti Köyü, Merkez Mevkii	Merkez=
+76144	Korucuk Köyü	Köyün Kendisi=
+70237	Merkez Mah.	1~|1.~|101~|1010~|1012~|1013~|1015~|102~|103~|104~|105~|106~|108~|110~|2~|2.~|2001~|3~|3.~|301~|302~|303~|304~|305~|306~|307~|308~|4~|4.~|5.~|509~|6.~|601~|602~|606~|7.~|7.isimsiz~|700~|8.~|9.~|Abdi Hoca@|Akmanoğlu@|Akmanoğlu1~|Albay Mustafa Babayiğit@|Ali Hafız~|Ali Çavuş-~|Babayiğit@|Bahşaşlı Yolu~|Banka~|Başçavuş~|Bılınmeyensokak~|Bılınmeyensokak1@|Cami Kebir~|Cemel-@|Cuma Yolu@|Elecek Yolu@|Embiyel Kaşı@|Esentepe@|Eyüp Erdem@|Fakılar@|Fakılı@|Gazi Çıkmazı~|Gülenler~|Güneş~|Güneş/1~|Hacı Ahmet@|Haşim Çavuş@|Hükümet~|Isımsız10~|Jandarma@|Kamber@|Karakol~|Karakol-~|Kayagil~|Kaymakam Ünlüsoy@|Kaşif Öztürk@|Koca Müdür@|Koca Usta~|Köloğlar~|Lale~|Mebus Hilmi Biçer@|Mehmet Coşar@|Mehmet Çavuş@|Muhtar Osman@|Nuri Hafız~|Okullar@|Orman~|Ova Çıkmazı~|Papatya~|Park@|Patika~|Paşaoğlu~|Peker~|Postacı~|Saraçoğlu~|Süleyman Biçer@|Taşgın~|Toporoğ~|Topçu~|Trafo~|Vatan@|Yaka@|Yaylacılı@|Yukarı Cemel@|Yılmazer~|Zıytırlar~|Çay Yolu~|Çentoğlar~|Ören@|Örenisimsiz~|Özgünler@|İsimsiz 1@|İsimsiz11~|İsmail Çavuş~|Şehit Bayram Çetin@|Şehit Mustafa Harmantepe@|Şehit Sami Erşahin@|Şehit Şakir Elkovan@
+76146	Tepeköy Köyü, Köçbeyendi Mevkii	Köçbeyendi=
+76145	Tepeköy Köyü, Merkez Mevkii	Merkez=
+76147	Uluköy Köyü	Köyün Kendisi=
+76148	Yalmansaray Köyü, Merkez Mevkii	Köyün Kendisi=
+76165	Yaylacılı Köyü, Aşağıdarıçay Mevkii	- Köy$
+76150	Yaylacılı Köyü, Elicek Mevkii	Elicek=
+76149	Yaylacılı Köyü, Merkez Mevkii	Merkez=
+76152	Yaylacılı Köyü, Yukarı Elicek Mevkii	Yukarı Elicek=
+76153	Yaylacılı Köyü, Çalca Mevkii	Çalca=
+76151	Yaylacılı Köyü, Çevlik Mevkii	- Köy$
+76155	Yenice Köyü, Gülören Mevkii	Gülören=
+76154	Yenice Köyü, Merkez Mevkii	Merkez=
+76156	Yenice Köyü, Şıh Mevkii	Şıh=
+76157	Yukarıakpınar Köyü, Koruk Mevkii	Koruk=
+76158	Yukarıakpınar Köyü, Merkez Mevkii	Aksu Yaylası- Köy$|Merkez=
+76159	Yukarıarım Köyü	Köyün Kendisi=
+76163	Zaimköy Köyü, Bürüm Mevkii	Bürüm=
+76162	Zaimköy Köyü, Kozluca Mevkii	Kozluca=
+76161	Zaimköy Köyü, Merkez Mevkii	Merkez=
+76164	Zaimköy Köyü, Yonca Mevkii	Yonca=
+76132	Çalpınar Köyü, Balcılar Mevkii	Balcılar=
+76131	Çalpınar Köyü, Güney Mevkii	Gür Pınar=
+76133	Çalpınar Köyü, Gür Pınar Mevkii	Gür Pınar_1=
+76130	Çalpınar Köyü, Merkez Mevkii	Merkez=
+76134	Çampaşalı Köyü	Köyün Kendisi=
+76136	Çorman Köyü, Hemitli Mevkii	Hemitli=
+76135	Çorman Köyü, Merkez Mevkii	Merkez=

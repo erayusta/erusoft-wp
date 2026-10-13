@@ -1,0 +1,21 @@
+52253	Atatürk Mah.	101.~|102.~|103.~|104.~|106.~|107.~|108.~|109.~|110.~|111.~|112.~|113.~|115.~|116.~|117.~|118.~|119.~|120.~|121.~|122.~|123.~|124.~|125.~|126.~|127.~|128.~|129.~|130.~|131.~|132.~|133.~|134~|135.~|136~|137.~|138.~|139.~|140.~|141.~|143.~|145.~|146.~|148~|154.~|6 Eylül Myd.|Akpınar@|Atatürk%|Başöğretmen Sabri Bulut@|Fahri Dayı@|Hıdır@|Menderes@|Mimar Sinan@|Nato@|Tahirbey 1.çıkmaz~|Tahirbey@|Uğur Mumcu@|Vali Niyazi Aras@|Şehit Ali Rıza Akbaş~|Şehit Emrah Aral~|Şht.adnan Ceylan@
+154103	Ayanlar Mah.	Ayanlar~
+154105	Beyler Mah.	Beyler~
+154111	Değnekler Mah.	Deynekler~
+52254	Eski Camii Mah.	Barbaros~|Başöğretmen Sabri Bulut@|Evliya Çelebi~|Fevzi Çakmak~|Fırat~|G.osman Paşa@|Gaziler@|Gediz~|Han~|Kılıçaslan~|Levent@|M.akif Ersoy~|Meriç~|Mithat Paşa~|Namık Kemal~|Okul~|Sakarya~|Selçuk~|Seyhan~|Sultan Murat~|Talatpaşa~|Tuna~|Vali Niyazi Aras@|Vardarlı@|Yavuz Selim~|Öğrt.cafer~|Şahuban 1.çıkmaz~|Şahuban 2.çıkmaz~|Şahuban~|Şehit Harun Çakar~
+154113	Hacıbaştanlar Mah.	Hacıbaştanlar~
+154115	Hacıveliler Mah.	Hacıveliler~
+154117	Hıroğlu Mah.	Hıroğlu~
+154119	Kayaaltı Mah.	Kayaaltı~|Nato Evleri=
+52257	Kayapınar Mah.	601.~|604.~|608.~|610.~|612.~|614.~|615.~|617.~|618.~|Akköprü-=|Akpınar-=|Aydınlı~|Buğdaylı=|Ceylan-=|Değirmenaltı-=|Doğru Yol=|Fatih 1.çıkmaz~|Fatih 2.çıkmaz~|Fatih@|Karayağız@|Mehmet Kıyak~|Nato@|Osman Çavuş~|Paldımoğlu@|Pirenlik~|Topraklı -=|Yalçıova=|Zeytinlik~|Çam~|Çarklı Kuyu-=|Çoraklı-=|Üsteğmen İrfan Birsoy~|Üyücek-=
+154121	Kılcanlar Mah.	Kılcanlar~
+154123	Ozanca Mah.	Cami~|Kadir~|Karanfil~|Kağızman~|Ozan~|Pınar~
+154125	Taşkuyucak Mah.	Taşkuyucak~
+154127	Tiyenli Mah.	Avcılar~|Doğan~|Fırın~|Marmara~|Ova~|Pamukçular~|Pazar~|Tütüncüler~|Üzümcüler~|İzmir~
+52258	Yeni Camii Mah.	Barbaros~|Beyazıt~|Cengiz Topel~|Ceyhan~|Dicle~|Evliya Çelebi~|Fevzi Çakmak~|Gaziler@|Gül~|Halime Hatun~|Kazım Karabekir~|Lale~|Leylak~|Mevlana~|Mimar Sinan@|Mustafa Mercan~|Nergiz~|Oğuzhan~|Papatya~|Pusanga~|Serdaroğlu~|Seyhan~|Sümbül~|Talatpaşa~|Vali Niyazi Aras@|Zambak~|Şair Eşref~|Şht.özcan Yıldız@
+154129	Yeniköy Mah.	Yeniköy~
+154131	Yunuslar Mah.	Yunuslar~
+154107	Çamköy Mah.	Çamköy~
+154109	Çömlekçi Mah.	Geriz=|Çömlekçi~
+52255	İhsaniye Mah.	501.~|502.~|503.~|504.~|506.~|507.~|508.~|509.~|510.~|511.~|512.~|513~|515.~|521~|529.~|531.~|533~|Abdurrahim Koca~|Fahri Dayı@|Farabi~|H.edip Adıvar~|Hamzacık@|Karayağız@|Mersin~|Mimar Sinan@|Nedim~|Papatya~|Tahirbey@|Yeşilırmak~|Yunus Emre~|Şair Eşref~|Şht. Özcan Yıldız 1.çıkmaz~|Şht.adnan Ceylan@|Şht.özcan Yıldız@
+52256	İsmetpaşa Mah.	202.~|204.~|205.~|206~|207.~|208.~|209.~|211.~|213.~|215.~|216.~|217.~|218.~|222~|225.~|226.~|227.~|229.~|231.-~|233.~|234.~|236.~|240.~|244.~|246.~|248.~|Akkavak Ve Mısırlı Kuyu=|Akçiftlik=|Başöğretmen Sabri Bulut@|Cem Sultan~|Dutlukuyu-=|Döşeme Başı-=|Edirne~|Erciyes~|G.osman Paşa@|Gedevre~|Gülbahar~|Hayıtlı Öz Vegöktepe=|Kanal Boy Ve Kovalık=|Kara Kuyu Ve Gölcük~|Kubilay~|Kum Alanı~|Kumkuyu-=|Kışla Kuyu=|Levent@|Muhtar Mustafa Tütüncü~|Orhan Gazi~|Sasköy=|Selanik~|Sultan Murat~|Toros~|Uludağ~|Ulus~|Yenişehir~|Çakallık-=|Şehit Turan Geçkalmış~

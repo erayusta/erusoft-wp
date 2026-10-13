@@ -1,0 +1,27 @@
+5009	Akkeçili Köyü	 Köy$
+5010	Akkoyunlu Köyü	 Köy$
+5011	Akpınar Köyü	 Köy$
+5012	Aşağı Beltarla Köyü	 Köy$
+733	Aşağı Hilal Mah.	Akpınar@|Cengiz~|Deprem Evleri@|Düğün Salonu@|Karacayer=|Kaymakamlık@|Konakaltı 1~|Konakaltı@|Mezarlık-1~|Yunus Emre~|Zafer~|Üçkavaklar=|İnkılap~
+734	Barbaros Mah.	Atatürk-1=|Aydoğmuş~|Barbaros@|Durak~|Eski Pazar@|Fedai@|Gazi Osman Bircan~|Kadıoğlu@|Karaca~|Karakülah~|Karanfil~|Kasaplar@|Kaymakamlık@|Kırmızı~|Mezarlık@|Toygar~|Yağlıca@|Yeni Yol@|Çiçek~|Şehit Rıza Korkmaz~|Şirket@
+5017	Ekinlik Köyü	 Köy$
+736	Fatih Mah.	Atatürk@|Dar~|Dayılarharımı=|Doğan~|Durmuşlar@|Eleler~|Eski Pazar@|Gönüllü~|Güleryüz~|Güngör~|Hal Yolu@|Haliçi@|Hükümet Myd.|Kadıoğlu@|Kalaycılar~|Kartçı~|Köyönü@|Meydan@|Yaka Yolu@|Yağcılar Caddesi@|Yağcılar@|Yeni Yol@|Çarşı@|İlkokul@|İsmet Atilla@|İstiklal@|Şirin~
+737	Gülistan Mah.	Demirciler~|Dinar Yolu@|Durmuşlar@|Ekşi~|Gülistan Deprem Evleri=|Hükümet Myd.|Hükümet Önü@|Karakurt~|Kazanlar~|Köyönü@|Tavukhane=|Toslar~|Tüfekçiler~|Ulu Camii@|Ulus~|Yaka Yolu@|Yayla Myd.|Çakmak~|Örs~|Şahinler~
+5018	Hırkaköy Köyü	 Köy$
+5019	Küllüce Köyü	 Köy$
+738	Mimar Sinan Mah.	Atatürk@|Atatürk-1=|Azmak=|Dazkırı@|Flamingo@|Gazi Mehmet Görgülü~|Hacı Bölük~|Hacıefendi~|Hatice Elaziz~|Kasaplar@|Kemerkapı~|Kesikler Ve Azmak Mevkii=|Kırmızı~|Pamuk~|Telaşe~|Topraklık~|Tunçbilek~|Yahyalar~|Yağlıca@|Yenimera Mevkii=|Çömezler@|Özaydın~|İlkokul@|İçel~
+5021	Ovacık Köyü, Emmiler Mevkii	 Köy$
+5020	Ovacık Köyü, Merkez Mevkii	 Köy$
+5022	Ovacık Köyü, Tınalar Mevkii	 Köy$
+5023	Sarıköy Köyü	 Köy$
+741	Yaka Köyü, Aşağı Mevkii	29 Ekim~|Atatürk~|Atılım~|Aydınlık~|Aydınlık-1~|Aşağıçay~|Bahçelievler~|Berber~|Cami~|Cemal Gürsel~|Cumhuriyet~|Demokrasi~|Değirmen~|Efe~|Emek~|Esen~|Gazi-1~|Gençtürk~|Gökçimen~|Göl~|Gözde~|Gül~|Güneş~|Hoca~|Hızar~|Karanfil~|Kuyu~|Köyaltı~|Lale~|Manolya~|Menekşe~|Milli Eğitim~|Mimar Sinan~|Nergiz~|Poyraz~|Tut~|Yelalan~|Yeni~|Zümrüt~|Çamlık~|Çayırlık~|Çağlayan~|İnönü~|İstiklal~|Şahin~
+742	Yaka Köyü, Yukarı Mevkii	Cumhuriyet~|Dar~|Daşbaş~|Dededağam~|Demirci~|Depo~|Deredibek~|Dibekbaşı~|Fidan~|Gazi~|Hacı~|Mehmet Akif~|Nalbant~|Okudan~|Taşköprü~|Tokat~|Yassıören~|Çelik~|Çolak~|Çıkmaz 1~|Özgürlük~|Şehit Yalçın~
+5024	Yassıören Köyü	 Köy$
+739	Yeni Mah.	1.~|2.~|3.~|Bahçeli Evler@|Bulvar@|Dazkırı@|Eflatun~|Eşme Kuyusu Mevkii=|H.ahmet Yesevi@|Karaçepel Kuyusu Mevkii=|Konutevleri=|Lale~|Lise@|Maarif@|Ortaokul@|Tokuç=|Yeni Mera%|Çarşı@|İlkokul@
+740	Yukarı Hilal Mah.	Akpınar@|Bakır~|Eski Yaka Yolu@|Hastane Arkası@|Karacayer=|Köyiçi=|Salihler~|Tavukhaneler@|Tavukhaneler-1=|Topaloğlu Kuyusu=|İbrahim Fadıl Karaman Myd.
+5025	Yukarıbeltarla Köyü	 Köy$
+735	Çağlayan Mah.	100.yıl@|Bulvar@|Dinar Yolu@|Durna~|Gazi Ömer Torun~|Göl~|Hükümet Önü@|Işıklar Myd.|Karakaş~|Küçük Sanayi Sitesi=|Lise@|Maarif@|Oruç~|Sanayi@|Stadyum@|Tosunlar~|Ulu Camii@|Yeşil~|Çağlayan 1~|Çağlayan@|İnce~|Şehit Erol Çil@
+5013	Çevlik Köyü	 Köy$
+5015	Çığrı Köyü, Aşağı Mevkii	 Köy$
+5016	Çığrı Köyü, Orta Mevkii	 Köy$
+5014	Çığrı Köyü, Yukarı Mevkii	 Köy$

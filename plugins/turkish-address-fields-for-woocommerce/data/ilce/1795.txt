@@ -1,0 +1,13 @@
+61030	Alibey Mah.	Cebecili~|Ersin Taranoğlu@|Postallı@|Yonuzlu@|Çitli@|Şabanlı@
+151289	Ambarcılı Mah.	Doğuayşe~|Kızılali~|Merkez~|Tüküçlü-kurtlu-kıran~
+151293	Ayrılık Mah.	Cörütlü~|Dere~|Duydumlu~|Kasaplı~|Kilisecik~|Köseli~|Ustalı~
+61031	Gülistan Mah.	Eminoğlu@|Ersin Taranoğlu@|Gülistan~|Ordu@|Sakaoğlu~|Ustalı@
+61032	Hoşköy Mah.	Atatürk@|Greyler@|Karamanlı@|Macitler~|Ordu@
+151299	Kestane Mah.	Ahmet Kadıoğlı~|Beyoğlu~|Cincaoğlu~|Dörekli~|Kara Mustafaoğlu~|Kurdoğlu~|Çaylaklı-hasanlı~|İmamlı~|Şıhoğlu~
+151301	Mustafalı Mah.	Mustafalı~
+61033	Sayaca Mah.	Aşağı~|Orta~|Soğukoluk@|Velittin Küçük@
+151303	Taşlıçay Mah.	Taşlıçay~
+61035	Tepealtı Mah.	Divani@|Ordu@
+151307	Turnasuyu Mah.	1447~|Ata~|Divane (mücavir)~|Divane~|Ferahlı@|Garkın (mücavir)~|Garkın 1.~|Garkın 2.~|Garkın 3.~|Garkın 4.~|Garkın 5.~|Garkın~|Hürriyet (mücavir)~|Hürriyet 1.~|Hürriyet 2.~|Hürriyet~|Kapıcılı~|Merkez 1.~|Merkez 10.~|Merkez 11.~|Merkez 12.~|Merkez 13.~|Merkez 2.~|Merkez 3.~|Merkez 4.~|Merkez 5.~|Merkez 6.~|Merkez 7.~|Merkez 8.~|Merkez 9.~|Merkez~|Mustafa Kemal%|Ordu@|Sıraca 1.~|Sıraca 3.~|Taflanlık~|Uluca 1.~|Uluca 2.~|Uluca 3.~|Uluca~|Yalı 1.~|Yalı 10.~|Yalı 11.~|Yalı 12.~|Yalı 13.~|Yalı 14.~|Yalı 15.~|Yalı 16.~|Yalı 17.~|Yalı 18.~|Yalı 19.~|Yalı 2.~|Yalı 20.~|Yalı 21.~|Yalı 22.~|Yalı 23.~|Yalı 24.~|Yalı 25.~|Yalı 26.~|Yalı 27.~|Yalı 28.~|Yalı 29.~|Yalı 3.~|Yalı 30.~|Yalı 31.~|Yalı 32.~|Yalı 33.~|Yalı 34.~|Yalı 35.~|Yalı 36.~|Yalı 37.~|Yalı 38.~|Yalı 39.~|Yalı 4.~|Yalı 40.~|Yalı 5.~|Yalı 6.~|Yalı 7.~|Yalı 8.~|Yalı 9.~|Yalı~|Yama~|Yaylacık 1.~|Yaylacık 2.~|Yaylacık 3.~|Yaylacık~|Yeni (mücavir)~|Yeni 1.~|Yeni 10.~|Yeni 11.~|Yeni 12.~|Yeni 13.~|Yeni 14.~|Yeni 15.~|Yeni 16.~|Yeni 2.~|Yeni 3.~|Yeni 4.~|Yeni 5.~|Yeni 6.~|Yeni 7.~|Yeni 8.~|Yeni 9.~|Yeni~|Çobanlı 1.~|Çobanlı 2.~|Çobanlı~
+61034	Yeniköy Mah.	13 Nolu@|14 Nolu@|15 Nolu@|16 Nolu@|17 Nolu@|Fasılcık@|Hüseyin Topkaraoğlu@|Ordu@|Rahmi Hüsem@|Sahil~|Sayaca@|Velittin Küçük@|Yeniköy@|Şükrü Vayni@
+98864	Ürümbey Mah.	1 Nolu@|10 Nolu@|11 Nolu@|12 Nolu@|2 Nolu@|3 Nolu@|4 Nolu@|5 Nolu@|6 Nolu@|7 Nolu@|8 Nolu@|9 Nolu@|Ali Şen@|Karanfil~|Kumsal~|Mezbaha@|Ordu@|Velittin Küçük@|Ürümbey@

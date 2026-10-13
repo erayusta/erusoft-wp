@@ -1,0 +1,16 @@
+191129	Aşağıkuzfındık Mah.	Aşağıkuzfındık=
+191131	Dereyalak Mah.	Dereyalak=
+191133	Dutluca Mah.	Dutluca=|Mavi Gök-deniz Akaryakıt=|Özpet Dinlenme Tesisleri=
+191135	Erenköy Mah.	Erenköy=
+191137	Esnemez Mah.	Aşçı~|Bakkal~|Cami~|Canbaz~|Dağdelen~|Dere~|Eskişehir~|Esnemez 1~|Esnemez~|Keskin~|Kısa~|Okul~|Tekeli~|Tuncer~|Uzun~|Yayla~|Zenbel~|Çoşkun~|Çoşu~|Özdemir~|İlim~
+191139	Kümbet Mah.	Gülel Akaryakıt=|Kümbet=|Çulha=
+191141	Kümbetakpınar Mah.	Kümbetakpınar=
+191143	Kümbetyeniköy Mah.	Kümbetyeniköy=
+191145	Oklubalı Mah.	37.sokak~|Altıncı~|Ballık~|Bayırbaşı@|Beşinci~|Birinci~|Dokuzuncu~|Dördüncü~|Murat Güler Koyunculuk Tesisi=|Onaltıncı~|Onbeşinci~|Onbirinci~|Ondokuzuncu~|Ondördüncü~|Onikinci~|Onsekizinci~|Onuncu~|Onyedinci~|Onüçüncü~|Sekizinci~|Yedinci~|Çam Bayırı=|Çayırönü@|Çukurhisar Oklubalı Yolu~|Üçüncü~|İkinci~|İnönü@
+30279	Orta Mah.	Atatürk@|Aydın~|Bayramoğlu Orta~|Bayramoğlu~|Demirbaş~|Erkoç@|Eski Hükümet@|Güner Koçel%|Güven@|Karapınar~|Keser~|Konut~|Koçlar~|Mertsöz~|Okullar@|Sahil 1@|Sahil 2@|Taştan~|Uçar~|Yahya Kemal@|Yumurta Pazarı@|Yunusemre@|Örencik~|İnce~|İsmet İnönü@|Şehit İkram Cirit~
+191147	Seyitaliköyü Mah.	Seyitaliköyü=
+30280	Yenice Mah.	Akar~|Akıncı~|Atatürk@|Ağa~|Bahçelievler@|Bilir~|Demirbaş~|Deniz Porselen Fabrika Sahası=|Dinçer~|Efe~|Erkoç@|Erol-ercan~|Ford Otosan Fabrika Sahası=|Gazi Çıkmazı~|Güner Koçel%|Havuz Yolu@|Karacan Petrol Sahası=|Kenar Myd.|Kenar~|Keskin Çıkmazı~|Kurupınar~|Küpeliler A.ş.=|Mescit~|Otokoç Küme Evler=|Polat~|Sahil 1@|Sahil 2@|Söğüt Çıkmazı~|T.h.k. Eğitim Merkezi=|Tetik~|Türkkuşu@|Yumurta Pazarı@|Zincirlikuyu~|Çavuş Çıkmazı~|İsmet İnönü Cad.@|Şengül~|Şenkaya~
+191149	Yukarıkuzfındık Mah.	Yukarıkuzfındık=
+191151	Yürükyayla Mah.	Yürükyayla=
+30277	Çarşı Mah.	1 Nisan@|72 Evler@|Alçengel~|Atatürk@|Aydın~|Aytekin~|Balıklı~|Barış@|Beylik~|Esen~|Eski Hükümet@|Hamamönü~|Kale~|Karargah@|Kibar~|Mustafa Kemal@|Oker Çıkmazı~|Okullar@|Opet A.ş.=|Organize Sanayi Yolu@|Pınarönü~|Sahil 1@|Sahil 2@|Sevinç=|Sıra Taşlar~|Tekin~|Uygur~|Uçar~|Yahya Kemal@|Yelken~|Yumurta Pazarı@|Yunus Emre@|Yörük~|Çakar~|Çiçek~|İsmet İnönü@|Şehit Asteğmen Ali İhsan Aydın%
+30278	İsmetpaşa Mah.	1 Nisan@|1. (birinci)@|2. (ikinci)@|Ahmet Şatıroğlu@|Ak~|Akdeniz Mineralleri A.ş=|Akgül Çıkmazı~|Ali İhsan İlkbahar%|Alim Çıkmazı~|Altın~|Altınok@|Alçengel~|Anıt~|Atatürk@|Ayaz~|Aşkın Çıkmazı~|Bayır~|Başkan~|Bursa Kütahya Karayolu%|Cebeci Çıkmazı~|Cumhuriyet@|Dilek~|Dostum=|Dündar~|Ekol Gıda San.tic. Ltd.şti.=|Elif~|Emeksiz~|Erden Çıkmazı~|Eren~|Erkaya~|Ertuğrul~|Eser~|Eskişehir-kütahya Karayolu=|Fındıklı~|Gül~|Güneş~|Gürbüz~|Hazine Çayırı=|Ilıca Tesisleri=|Irmak~|Kabadağ~|Karahisar~|Karaköse~|Karargah@|Kartal~|Kaya~|Kayıt~|Kirman=|Kırlangıç~|Kızılyol Ayağı=|Magnesit A.ş.=|Mahmut Durmaz@|Mert~|Metin Çıkmazı~|Mis~|Molapet Akaryakıt=|Mızrak~|Nizam~|Oker Çıkmazı~|Park~|Raif Özgür~|Sahil 1@|Sahil 2@|Sarıçiçek~|Saygılı=|Seranit Granit Seramik Sanayi Ticaret A.ş.=|Tansel@|Tanık~|Tozan~|Turgut~|Vatan@|Veli Akgün=|Yedibela~|Yeşil~|Yılmaz~|Çekirge~|Özgül~|Özturanlar=|Ülker~|İmri~|İnan~|İnsa=|İsmet İnönü@|İstiklal@|Şahin Türk~|Şahin Çıkmazı~|Şehit Asteğmen Ali İhsan Aydın%|Şehit Mustafa Karayel@|Şehit Pilot İbrahim Çetin~|Şeker~|Şen~

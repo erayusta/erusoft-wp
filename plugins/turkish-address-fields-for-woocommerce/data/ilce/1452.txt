@@ -1,0 +1,92 @@
+69977	19 Mayıs Mah.	Adnan Menderes@|Akman~|Akpınar~|Altunay Çıkmazı~|Arslan~|Başaran~|Başkaya~|Bilgin~|Eren~|Fabrikalar~|Ferhan~|Fetvacı~|Fırın~|Günay~|Güngör~|Kantar~|Kaş Çıkmazı~|Kemal Kabataş@|Manolya~|Mert_1~|Muratbeyli~|Nazlı~|Nilay~|Nilgün~|Osmanlı~|Saygı~|Soylu~|Toprak~|Tunahan~|Uyanık~|Uygur~|Yolaydın~|Yıldız~|Ünsal~|İstasyon~|İçli~|Şehit Erdal Artut~|Şehit Hüseyin Kaşka~|Şehit Nurettin Cinsoy@|Şehit Sedat Eş~
+187937	Ahurlu Mah.	Ahurlu~
+187939	Akbelen Mah.	Ağcagüney~|Ağlık~|Hödoğlu~|Köyağası~|Merkez_2~|Yirmenönü~
+187945	Alagömlek Mah.	Karaahmetoğlu~|Koçköy~|Merkez_7~|Rahmioğlu~|Çürükdağ~
+187941	Alaçam Mah.	Dağcıoğlu~|Merkez_9~
+187947	Atayurt Mah.	Atayurt~
+187951	Azaklı Mah.	Azaklı~|Karantu_1~
+187935	Ağcakise Mah.	Ağcakise~
+187949	Aşağıçirişli Mah.	Aşağıçirişli~
+69972	Bahçelievler Mah.	1.~|10.~|11.~|13.~|14.~|15.~|17.~|19.~|2.~|205~|21.~|214.~|216.~|218.~|219.~|220.~|221.~|222.~|223.~|224.~|225.~|226.-~|227.-~|228.-~|229.-~|230.-~|28~|3.~|32.~|34~|37~|38.~|39.~|4.~|40.~|41~|42.~|43.~|44.-~|45~|46.~|47~|5.~|51.~|53.~|55~|57.~|59.~|6.~|7.~|8.~|9.~|Akkaya~|Aksakal~|Akşemseddin@|Asarcık~|Ateşer~|Atıcı~|Bilen~|Demir~|Eker~|Emirli_5~|Erbaa~|Erikçi~|Fatih Sultan Mehmet@|Geriş-~|Kılay~|Mahmutağa~|Okuyucu~|Sefa~|Vural~|Yetiş~|Çelik~|Çetinkaya~|Özçelik~|Şehit Mustafa Güdel~|Şehit Nurettin Cinsoy@|Şehit Teğmen Ahmet Altunoğlu~|Şehit İlhan Kuşan~
+187957	Bayraklı Mah.	Merkez_25~|Süleyman Dağı~
+187955	Bayındır Mah.	Bayındır~
+187953	Başalan Mah.	Başalan~|Hodoğlu~
+187959	Bekdemir Mah.	Dağardı~|Merkez_24~|Yukarı Bekdemir~
+187961	Belalan Mah.	Belalan~
+187963	Beybesli Mah.	Beybesli~
+187965	Beyköy Mah.	Beyköy~
+187967	Boğaziçi Mah.	Bozarmut~|Güdüller~|Merkez_29~|İçmesu~
+187969	Bükceğiz Mah.	Bükceğiz~|Merkez_17~
+187971	Büyükçukur Mah.	Büyükçukur~|Büyükçukur1=
+187973	Celallı Mah.	Haytalar~|Merkez_26~
+187995	Demirci Mah.	Dellallar~|Merkez_5~
+187997	Dereköy Mah.	Dereköy~|Muratbeyli~
+187993	Değirmencili Mah.	Değirmencili~
+187999	Divanbaşı Mah.	Divanbaşı~
+188001	Doruk Mah.	Doruk~|Dörtyol Mevkii~|Karadağ-~|Toptepe~
+188003	Duman Mah.	Duman~|Muratbeyli~
+188005	Dura Mah.	Dura~
+188007	Emirli Mah.	Emirli~
+188009	Germiyan Mah.	Germiyan~
+188011	Göçebe Mah.	Aslança~|Battallı~|Kovancık~|Koçalan~|Merkez_11~
+188013	Güneyce Mah.	Güneyce~
+188015	Hacılı Mah.	Alaca~|Ketenlik~|Merkez_20~
+188017	Ilıcaköy Mah.	Ilıcaköy~
+188023	Kapuhayat Mah.	Kapuhayat~
+188025	Karaaslan Mah.	Aşçı Köse~|Dombalak~|Emirhasan~|Kale_2~|Merkez_31~|Sadıklı~
+188027	Karacalar Mah.	Merkez_18~|Mezere~|Çeylük~
+188029	Karadağ Mah.	Karadağ~
+188031	Karantu Mah.	Karantu~|Karantu_1~
+188033	Karapınar Mah.	Merkez_16~|Teknecik~
+188035	Karayusuflu Mah.	Gebeşdağı~|Merkez_14~
+188039	Karlı Mah.	Bükceğiz~|Kavallı~|Merkez_17~
+188037	Kartepe Mah.	Kartepe~
+188101	Kayabaşı Mah.	Medek~|Merkez_23~|Çiftlik-~
+188041	Kayaköy Mah.	Kayaköy~
+188043	Kazancı Mah.	Hacıömerli~|Mamuş~|Merkez_8~|Sapak~|Yanaluk~
+188045	Kethüda Mah.	Kethüda~|Koçalan~
+188047	Kozansıkı Mah.	Kozansıkı~
+188051	Kurşunlu Mah.	Kurşunlu~|Köyiçi~
+188053	Kuzalan Mah.	Merkez_28~|Şıhlı~
+188049	Köseli Mah.	Marsullu~|Merkez_30~|Çuhacılı~|Şabanlı~
+188055	Küçükçukur Mah.	Küçükçukur~
+188057	Mahmutbeyli Mah.	Mahmutbeyli~
+188059	Mahmutlu Mah.	Merkez~|Sapak~|Sapak_1~
+69973	Mehmetpaşa Mah.	16.~|18.~|20.~|22.~|23.~|24.~|25.~|26.~|27.~|28.~|29.~|31.~|33.~|35~|37~|Akan~|Akşemseddin@|Aşan~|Belediye~|Bellek~|Cumhuriyet Myd.|Demircan~|Demirhan~|Depo~|Dikmen~|Esen~|Fatih Sultan Mehmet@|Hükümet~|Karacaoğlan~|Karagöz~|Karakol~|Kartal~|Keskin~|Kılıçarslan Geçidi~|Kırımlı~|Mehmet Paşa@|Mezarlık~|Osb~|Çal~|Çelik~|Çeşme~|Özkan~|Şehit İlhan Kuşan~
+188061	Mert Mah.	Merkez_10~|Mert~
+188063	Muhsinli Mah.	Muhsinli~
+188065	Muratbeyli Mah.	Muratbeyli~
+188067	Ortaköy Mah.	Geyikalan~|Merkez_6~
+188069	Saralan Mah.	Saralan~
+188071	Seyitali Mah.	Seyitali~
+69974	Soğuksu Mah.	201.~|202.~|203.~|204.~|205~|206.~|207.~|208.-~|209.~|210.~|212.~|213.~|215.~|217.~|Adnan Menderes@|Akal~|Akkaya~|Akyel~|Asar~|Baki Yürüker~|Bolver~|Cumhuriyet Myd.|Demir~|Emirli_5~|Erbaa~|Fatih Sultan Mehmet@|Hacı Ömer Çilce~|Hastane~|Irmak_2~|Kaşavar~|Kulüp~|Lise~|Mektep~|Yaşar~|Öner@|Şehit Nurettin Cinsoy@
+188075	Susuz Mah.	Merkez~|Susuz~
+188073	Sıralı Mah.	Merkez_21~|Çamlı~
+188081	Tabaklı Mah.	Domşullu~|Merkez_19~|Söylemiş~
+188099	Talışman Mah.	Kaşdağı~|Merkez_13~
+188083	Tatarmuslu Mah.	Tatarmuslu~|İndere~
+188085	Tekkeköy Mah.	Tekke Köy~
+188087	Tepecik Mah.	Alparslan~|Kemal Kabataş -@|Tepecik~|Şehit Seyit Ahmet Kayhan~
+188089	Toptepe Mah.	Toptepe~
+69975	Yaşar Doğu Mah.	100.~|101~|102.~|103~|105~|106~|107~|108~|110~|111~|112~|113~|114~|116~|117~|118~|119~|120~|121~|122~|123~|124~|125~|126~|128~|129~|130~|131~|133~|135~|136~|137~|138~|301-~|303~|304-~|305-~|306-~|307~|308-~|309~|310-~|311~|312-~|313-~|Acet~|Adnan Menderes@|Akça~|Alparslan~|Altıngöz~|Arlı~|Asena~|Aydın~|Azim~|Aşık Kemali Bülbül~|Batkal Çıkmazı~|Bayar Geçidi~|Bozkurt~|Dereköy_2~|Emeksiz~|Evcen~|Güdel~|Gül~|Güler~|Gürel~|Güven~|Ildır~|Kabataş~|Karagüdek~|Kaya~|Kemal Kabataş@|Kofoğlu~|Köksal~|Kırış~|Muslu~|Oğuz~|Oğuz Türkleri~|Rıdvan Çelikel~|Saral~|Ulugazi~|Yazıcı~|Yeşil Kavak~|Yüce~|Çakır~|Çelikoğlu~|Öncü~|Özgür~|Özkök~|Ünal~|Üçler~|İlhan~|Şehit Emre Kaan Arlı~|Şehit Gültekin Akyol~|Şehit Seyit Ahmet Kayhan~|Şehit Seyit Ahmet Çakır~|Şerif Karagöz~
+69978	Yeni Cami Osb Mah.	1.@|2.@|3.@|4.@|5.@|Mezarlık~
+69976	Yenicami Mah.	Dere~|Irmak_1~|Kale_1~|Mezarlık~|Osb~|Sabri Hafız@|Serdan Geçidi~|Sezgin~|Seğmen~|Taşkın~|Turan~|Yeni Cami@|Özkaya Geçidi~|Şengül Geçidi~
+188093	Yenigün Mah.	Karabalçak~|Merkez_22~
+188095	Yeralan Mah.	Ayvacık~|Ekinözü~|Merkez_27~|Yanbullu~
+188103	Yosunlu Mah.	Dereköy_1~|Mamuş~|Saraykent~|Yosunlu(köy Merkezi)~
+187943	Yukarı Dereköy Mah.	Alaçamderesi~
+188097	Yukarıçirişli Mah.	Yukarıçirişli~
+187975	Çakallı Mah.	Denizereği~|Eserli~|Karapınar~|Merkez_4~|Sakarca~|Çakıryeri~
+187977	Çalbaşı Mah.	Sakarca~|Çalbaşı~
+187979	Çarıklıbaşı Mah.	Çarıklıbaşı~
+187981	Çataltepe Mah.	Çataltepe~
+187983	Çayırlı Mah.	Çayırlı~
+187989	Çivril Mah.	Çivril~
+187985	Çiçekyazı Mah.	Kaşdağı~|Çiçekyazı~
+187987	Çiğdem Mah.	Çiğdem~
+187991	Çukurbük Mah.	Avutlu~|Merkez_12~|Çöte~|Çınar~
+188091	Üçhanlar Mah.	Gırgır Deresi~|Köyün Kendisi~|Merkez_3~
+188019	İdrisli Mah.	İdrisli~
+188021	İkizdere Mah.	İkizdere~
+188077	Şeyhli Mah.	Değirmenönü_1~|Kadıllı~|Merkez_15~
+188079	Şeyhresul Mah.	Bayat~|Güneyce_1~|Karakaya~|Karımlı~|Kopuzlu~|Merkez_10~
