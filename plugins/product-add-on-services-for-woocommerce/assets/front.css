@@ -1,0 +1,14 @@
+.eru-aos{margin:0 0 1.25em;max-width:100%;box-sizing:border-box}
+.eru-aos-group{margin:0 0 1em;padding:.75em 1em 1em;border:1px solid rgba(0,0,0,.15);border-radius:6px;min-width:0}
+.eru-aos-group__title{padding:0 .35em;font-weight:600}
+.eru-aos-group__required{font-weight:400;font-size:.85em;opacity:.75}
+.eru-aos-group__desc{margin:0 0 .5em;font-size:.9em;opacity:.85}
+.eru-aos-group__hint{display:block;font-size:.9em}
+.eru-aos-option{display:flex;flex-wrap:wrap;align-items:baseline;gap:.25em .5em;padding:.35em 0;cursor:pointer;overflow-wrap:anywhere}
+.eru-aos-option input{margin:0;flex:0 0 auto;align-self:center}
+.eru-aos-option__label{flex:1 1 8em;min-width:0}
+.eru-aos-option__price{white-space:nowrap;font-weight:600}
+.eru-aos-option__charge{font-weight:400;font-size:.85em;opacity:.75}
+.eru-aos-option__desc{flex:0 0 100%;padding-left:1.6em;font-size:.85em;opacity:.8}
+.eru-aos-total{margin:.5em 0 0;font-size:1.05em}
+.eru-aos-total[hidden]{display:none}

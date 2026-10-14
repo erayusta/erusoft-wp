@@ -22,6 +22,7 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [FAQ Accordion for WordPress](https://wordpress.erusoft.com/faq-accordion-for-wordpress/) — Sürüklenebilir sıkça sorulan sorular ve erişilebilir akordeon kısa kodu. | İçerik & AI | Stabil |
 | [Heading Pagination for WordPress](https://wordpress.erusoft.com/heading-pagination-for-wordpress/) — Uzun yazıları H2 başlıklarına göre sayfalara böler. | İçerik & AI | Stabil |
 | [Notice Boxes for WordPress](https://wordpress.erusoft.com/notice-boxes-for-wordpress/) — Bilgi, uyarı, başarı ve hata kutuları; kısa kod ve blok olarak. | İçerik & AI | Stabil |
+| [Site Manager for WordPress](https://wordpress.erusoft.com/site-manager-for-wordpress/) — llms.txt, yerel işletme şeması ve yapay zekâ tarayıcı kuralları için hafif site yönetimi. | İçerik & AI | Stabil |
 | [Click & Collect for WooCommerce](https://wordpress.erusoft.com/click-collect-for-woocommerce/) — Mağazadan teslim (gel-al) kargo yöntemi ve teslim noktası seçimi sunar. | Kargo & Teslimat | Stabil |
 | [Order SMS & Delivery Codes for İleti Merkezi](https://wordpress.erusoft.com/order-sms-delivery-codes-for-ileti-merkezi/) — Sipariş durumuna göre SMS gönderir ve teslimat kodu doğrular. | Kargo & Teslimat | Stabil |
 | [Same-Day Delivery for WooCommerce](https://wordpress.erusoft.com/same-day-delivery-for-woocommerce/) — Aynı gün teslimat uygunluğunu ürün, ilçe ve kesim saatine göre belirler. | Kargo & Teslimat | Stabil |
@@ -59,6 +60,7 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Primary Category for WooCommerce](https://wordpress.erusoft.com/primary-category-for-woocommerce/) — Ürüne birincil kategori seçtirir; adres ve kırıntıda kullanılır. | SEO | Stabil |
 | [SEO Meta REST Fields for WordPress](https://wordpress.erusoft.com/seo-meta-rest-fields-for-wordpress/) — SEO başlık, açıklama ve anahtar kelime alanlarını REST API'ye açar. | SEO | Stabil |
 | [Catalog Mode & WhatsApp Orders for WooCommerce](https://wordpress.erusoft.com/catalog-mode-whatsapp-orders-for-woocommerce/) — Katalog modu ve ürün bilgisiyle dolu WhatsApp sipariş düğmesi. | Sepet & Ödeme Akışı | Stabil |
+| [Custom Order Statuses for WooCommerce](https://wordpress.erusoft.com/custom-order-statuses-for-woocommerce/) — Panelden renkli, gruplu özel sipariş durumları ekleyin; e-posta, stok ve ödendi davranışını yönetin. | Sepet & Ödeme Akışı | Stabil |
 | [High-Value Cart Offer for WooCommerce](https://wordpress.erusoft.com/high-value-cart-offer-for-woocommerce/) — Yüksek tutarlı sepetlerde sepet özetiyle WhatsApp sohbeti açan teklif kutusu. | Sepet & Ödeme Akışı | Stabil |
 | [Payment Method Discounts for WooCommerce](https://wordpress.erusoft.com/payment-method-discounts-for-woocommerce/) — Ödeme yöntemine göre indirim veya ek ücret uygular. | Sepet & Ödeme Akışı | Stabil |
 | [Payment Restrictions by Category for WooCommerce](https://wordpress.erusoft.com/payment-restrictions-by-category-for-woocommerce/) — Seçili kategorilerdeki ürünlerde belirli ödeme yöntemlerini kapatır. | Sepet & Ödeme Akışı | Stabil |
@@ -76,6 +78,7 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Hide Categories for WooCommerce](https://wordpress.erusoft.com/hide-categories-for-woocommerce/) — Seçili kategorileri listelerden, bileşenlerden ve aramadan gizler. | Ürün & Katalog | Stabil |
 | [Out-of-Stock Last for WooCommerce](https://wordpress.erusoft.com/out-of-stock-last-for-woocommerce/) — Stokta olmayan ürünleri arşivlerde listenin sonuna taşır. | Ürün & Katalog | Stabil |
 | [PDF Product Catalog for WooCommerce](https://wordpress.erusoft.com/pdf-product-catalog-for-woocommerce/) — Kategorilerden kapaklı, yazdırmaya hazır ürün kataloğu üretir; PDF olarak kaydedilir. | Ürün & Katalog | Stabil |
+| [Product Add-On Services for WooCommerce](https://wordpress.erusoft.com/product-add-on-services-for-woocommerce/) — Ürün sayfasında garanti, hediye paketi, kurulum gibi ücretli ek hizmetler seçtirin; fiyatı sunucu hesaplar. | Ürün & Katalog | Stabil |
 | [Product Ribbons for WooCommerce](https://wordpress.erusoft.com/product-ribbons-for-woocommerce/) — Ürün görsellerine kategori veya ürün bazlı renkli şerit/etiket ekler. | Ürün & Katalog | Stabil |
 | [Product Status Notifications for WooCommerce](https://wordpress.erusoft.com/product-status-notifications-for-woocommerce/) — Ürün durumu, stok veya fiyat değişince e-posta bildirimi gönderir. | Ürün & Katalog | Stabil |
 | [Smart Product Search for WooCommerce](https://wordpress.erusoft.com/smart-product-search-for-woocommerce/) — Türkçe karakterden bağımsız ürün arama ve canlı öneri listesi. | Ürün & Katalog | Stabil |
@@ -83,8 +86,6 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [USD Pricing for WooCommerce](https://wordpress.erusoft.com/usd-pricing-for-woocommerce/) — Ürünleri USD fiyatlandırıp TL fiyatı güncel kurla otomatik hesaplar. | Ürün & Katalog | Stabil |
 | [Dopigo Integration for WooCommerce](https://wordpress.erusoft.com/dopigo-integration-for-woocommerce/) — Dopigo ile stok, fiyat ve sipariş senkronu kurar. | Entegrasyon (ERP/CRM) | Yakında |
 | [e-Devlet Document Verification for WordPress](https://wordpress.erusoft.com/e-devlet-document-verification-for-wordpress/) — Yüklenen resmî belgeleri e-Devlet doğrulamasıyla kontrol eder. | Güvenlik | Yakında |
-| [Site Content Generator](https://wordpress.erusoft.com/site-content-generator/) — Ayarlanabilir konu ve sağlayıcıyla site içeriği üretir. | İçerik & AI | Yakında |
-| [Site Manager for WordPress](https://wordpress.erusoft.com/site-manager-for-wordpress/) — Slider, iletişim bilgileri, şema ve llms.txt için modüler site yönetimi. | İçerik & AI | Yakında |
 | [Yurtiçi Kargo Integration for WooCommerce](https://wordpress.erusoft.com/yurtici-kargo-integration-for-woocommerce/) — Yurtiçi Kargo gönderi oluşturma, etiket ve teslimat takibini otomatikleştirir. | Kargo & Teslimat | Yakında |
 | [Sales Team Commissions for WooCommerce](https://wordpress.erusoft.com/sales-team-commissions-for-woocommerce/) — Satış temsilcisi hiyerarşisi, komisyon kuralları ve ödeme akışı. | Müşteri & B2B | Yakında |
 | [Bank Transfer Auto-Approval for Garanti BBVA](https://wordpress.erusoft.com/bank-transfer-auto-approval-for-garanti-bbva/) — Garanti BBVA hesap hareketlerinden havale ödemelerini otomatik onaylar. | Ödeme | Yakında |
@@ -99,9 +100,7 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Product Push for Trendyol](https://wordpress.erusoft.com/product-push-for-trendyol/) — WooCommerce ürünlerini Trendyol'a toplu gönderir. | Pazaryeri | Yakında |
 | [Server-Side Refunds for GA4](https://wordpress.erusoft.com/server-side-refunds-for-ga4/) — İade ve iptalleri GA4'e sunucu tarafında bildirir. | Raporlama & Analitik | Yakında |
 | [Server-Side Refunds for Matomo](https://wordpress.erusoft.com/server-side-refunds-for-matomo/) — İade ve iptalleri Matomo'ya sunucu tarafında bildirir. | Raporlama & Analitik | Yakında |
-| [Custom Order Statuses for WooCommerce](https://wordpress.erusoft.com/custom-order-statuses-for-woocommerce/) — Panelden sipariş durumu ekleyin; renk, sıra, e-posta ve toplu işlem yönetin. | Sepet & Ödeme Akışı | Yakında |
 | [Device Trade-In for WooCommerce](https://wordpress.erusoft.com/device-trade-in-for-woocommerce/) — Takas edilen ürün için yapılandırılabilir özelliklere göre indirim değeri hesaplar. | Sepet & Ödeme Akışı | Yakında |
-| [Product Add-On Services for WooCommerce](https://wordpress.erusoft.com/product-add-on-services-for-woocommerce/) — Ürün veya kategoriye bağlı ek hizmet grupları (montaj, garanti vb.) tanımlayın. | Ürün & Katalog | Yakında |
 | [T-Soft Migrator for WooCommerce](https://wordpress.erusoft.com/t-soft-migrator-for-woocommerce/) — T-Soft mağaza verisini WooCommerce'e taşıyan genel içe aktarma aracı. | Ürün & Katalog | Yakında |
 <!-- catalog:end -->
 

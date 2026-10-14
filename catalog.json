@@ -2327,13 +2327,14 @@
     "name": "Custom Order Statuses for WooCommerce",
     "type": "plugin",
     "category": "Sepet & Ödeme Akışı",
-    "tagline_tr": "Panelden sipariş durumu ekleyin; renk, sıra, e-posta ve toplu işlem yönetin.",
-    "tagline_en": "Create and manage custom order statuses with colours, order, e-mails and bulk actions.",
+    "tagline_tr": "Panelden renkli, gruplu özel sipariş durumları ekleyin; e-posta, stok ve ödendi davranışını yönetin.",
+    "tagline_en": "Add coloured, grouped custom order statuses with e-mails, paid and stock behaviour.",
     "features_tr": [
-      "Durum ekleme, düzenleme, silme",
-      "Renk ve sıra",
-      "E-posta tetikleme",
-      "Toplu işlem ve liste sekmeleri"
+      "Durum ekleme, düzenleme ve sürükleyerek sıralama",
+      "Renkli rozetler ve sayılı grup kutuları (HPOS ve klasik liste)",
+      "Ödendi, stok düşürme, düzenleme ve indirme bayrakları",
+      "Durum başına WooCommerce müşteri/yönetici e-postası",
+      "Siparişleri taşıyarak güvenli silme, webhook konuları ve wp eru-cos"
     ],
     "requires": {
       "wp": "6.5",
@@ -2341,11 +2342,16 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 5,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/custom-order-statuses-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/custom-order-statuses-for-woocommerce/1.png",
+      "docs/screenshots/custom-order-statuses-for-woocommerce/2.png",
+      "docs/screenshots/custom-order-statuses-for-woocommerce/3.png",
+      "docs/screenshots/custom-order-statuses-for-woocommerce/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2419,13 +2425,14 @@
     "name": "Product Add-On Services for WooCommerce",
     "type": "plugin",
     "category": "Ürün & Katalog",
-    "tagline_tr": "Ürün veya kategoriye bağlı ek hizmet grupları (montaj, garanti vb.) tanımlayın.",
-    "tagline_en": "Define add-on service groups per product or category.",
+    "tagline_tr": "Ürün sayfasında garanti, hediye paketi, kurulum gibi ücretli ek hizmetler seçtirin; fiyatı sunucu hesaplar.",
+    "tagline_en": "Let customers pick paid add-on services (warranty, gift wrap, installation) on the product page, priced server-side.",
     "features_tr": [
-      "Sabit veya yüzdelik fiyat",
-      "Tekli ve çoklu seçim grupları",
-      "Zorunlu veya isteğe bağlı hizmet",
-      "Canlı ara toplam"
+      "Tek veya çoklu seçimli, zorunlu ya da isteğe bağlı hizmet grupları (en az / en fazla)",
+      "Tüm ürünler, kategori, etiket veya ürün bazında kapsam; hariç ürünler ve üründe kapatma",
+      "Sabit tutar veya ürün fiyatının yüzdesi; adet başına ya da satır başına bir kez (ayrı, vergili ücret satırı)",
+      "Varyasyona göre güncellenen canlı toplam; JavaScript olmadan da çalışan form",
+      "Sepet, blok ödeme, sipariş, e-posta ve tekrar sipariş desteği; wp eru-aos dışa/içe aktarma"
     ],
     "requires": {
       "wp": "6.5",
@@ -2433,11 +2440,17 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 5,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/product-add-on-services-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/product-add-on-services-for-woocommerce/1.png",
+      "docs/screenshots/product-add-on-services-for-woocommerce/2.png",
+      "docs/screenshots/product-add-on-services-for-woocommerce/3.png",
+      "docs/screenshots/product-add-on-services-for-woocommerce/4.png",
+      "docs/screenshots/product-add-on-services-for-woocommerce/5.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2553,56 +2566,33 @@
     "version": "1.0.0"
   },
   {
-    "slug": "site-content-generator",
-    "name": "Site Content Generator",
-    "type": "plugin",
-    "category": "İçerik & AI",
-    "tagline_tr": "Ayarlanabilir konu ve sağlayıcıyla site içeriği üretir.",
-    "tagline_en": "Generates site content with a configurable topic and AI provider.",
-    "features_tr": [
-      "Perplexity, OpenAI veya Anthropic seçimi",
-      "Anahtar ayar ekranından",
-      "Görsel ekleme"
-    ],
-    "requires": {
-      "wp": "6.5",
-      "php": "8.0"
-    },
-    "integrations": [
-      "Perplexity",
-      "OpenAI",
-      "Anthropic"
-    ],
-    "status": "coming-soon",
-    "phase": 5,
-    "repo": null,
-    "path": null,
-    "screenshots": [],
-    "version": "1.0.0"
-  },
-  {
     "slug": "site-manager-for-wordpress",
     "name": "Site Manager for WordPress",
     "type": "plugin",
     "category": "İçerik & AI",
-    "tagline_tr": "Slider, iletişim bilgileri, şema ve llms.txt için modüler site yönetimi.",
-    "tagline_en": "Modular site management for sliders, contact info, schema and llms.txt.",
+    "tagline_tr": "llms.txt, yerel işletme şeması ve yapay zekâ tarayıcı kuralları için hafif site yönetimi.",
+    "tagline_en": "Lightweight site management for llms.txt, local business schema and AI crawler rules.",
     "features_tr": [
-      "Ana sayfa slider içerik türü",
-      "LocalBusiness ve SSS JSON-LD",
-      "llms.txt uç noktası",
-      "Sözleşme sayfaları"
+      "Sanal llms.txt ve isteğe bağlı llms-full.txt",
+      "LocalBusiness JSON-LD (tür, adres, saatler, geo)",
+      "robots.txt için tarayıcı bazlı yapay zekâ kuralları",
+      "WP-CLI ile çıktı önizleme (wp eru-sm)"
     ],
     "requires": {
       "wp": "6.5",
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 5,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/site-manager-for-wordpress",
+    "screenshots": [
+      "docs/screenshots/site-manager-for-wordpress/1.png",
+      "docs/screenshots/site-manager-for-wordpress/2.png",
+      "docs/screenshots/site-manager-for-wordpress/3.png",
+      "docs/screenshots/site-manager-for-wordpress/4.png"
+    ],
     "version": "1.0.0"
   },
   {

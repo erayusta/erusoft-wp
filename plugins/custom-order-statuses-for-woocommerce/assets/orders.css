@@ -1,0 +1,11 @@
+.eru-cos-groups { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px; margin: 12px 0 6px; }
+.eru-cos-group { background: #fff; border: 1px solid #c3c4c7; border-radius: 4px; padding: 8px 12px; min-width: 180px; }
+.eru-cos-group.is-current { border-color: #2271b1; box-shadow: 0 0 0 1px #2271b1; }
+.eru-cos-group__title { display: block; font-weight: 600; text-decoration: none; margin-bottom: 4px; }
+.eru-cos-group ul { margin: 0; }
+.eru-cos-group li { margin: 2px 0; }
+.eru-cos-group li a { text-decoration: none; }
+.eru-cos-group .count { color: #646970; }
+.eru-cos-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; margin-right: 6px; }
+.eru-cos-groups__hide, .eru-cos-groups-off { align-self: center; font-size: 12px; }
+.eru-cos-groups-off { margin: 8px 0 0; }

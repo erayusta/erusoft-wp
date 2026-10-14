@@ -1,0 +1,20 @@
+.eru-cos-table { max-width: 1100px; margin-top: 12px; }
+.eru-cos-table td { vertical-align: middle; }
+.eru-cos-handle-col, .eru-cos-handle { width: 28px; }
+.eru-cos-handle { cursor: move; color: #8c8f94; }
+.eru-cos-table .num { text-align: right; width: 70px; }
+.eru-cos-badge { display: inline-block; padding: 3px 10px; border-radius: 4px; font-weight: 500; line-height: 1.6; }
+.eru-cos-flags span { display: inline-block; margin: 2px 4px 2px 0; padding: 1px 7px; border: 1px solid #c3c4c7; border-radius: 10px; font-size: 12px; background: #f6f7f7; }
+.eru-cos-delete { color: #b32d2e; }
+.eru-cos-sortable-placeholder { height: 44px; background: #f0f6fc; }
+.eru-cos-reorder-status { min-height: 1.5em; color: #50575e; }
+.eru-cos-columns { display: flex; flex-wrap: wrap; gap: 20px; max-width: 1100px; }
+.eru-cos-card { flex: 1 1 340px; background: #fff; border: 1px solid #c3c4c7; padding: 4px 16px 16px; }
+.form-table td fieldset label.eru-cos-flag, .eru-cos-flag { display: block; margin: 0 0 8px !important; }
+.eru-cos-from { margin-top: 4px; }
+.eru-cos-preview { margin-left: 8px; vertical-align: middle; }
+#eru-cos-color { vertical-align: middle; width: 48px; height: 32px; padding: 0 2px; }
+@media (max-width: 782px) {
+	.eru-cos-table th:nth-child(4), .eru-cos-table td:nth-child(4),
+	.eru-cos-table th:nth-child(6), .eru-cos-table td:nth-child(6) { display: none; }
+}
