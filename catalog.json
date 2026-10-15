@@ -497,12 +497,14 @@
     "name": "Dopigo Integration for WooCommerce",
     "type": "plugin",
     "category": "Entegrasyon (ERP/CRM)",
-    "tagline_tr": "Dopigo ile stok, fiyat ve sipariş senkronu kurar.",
-    "tagline_en": "Syncs stock, prices and orders with Dopigo.",
+    "tagline_tr": "Dopigo ile yönü seçilebilir stok/fiyat senkronu, KDV'li sipariş gönderimi ve bütçeli ürün içe aktarma.",
+    "tagline_en": "Directional stock/price sync with Dopigo, order push with VAT lines and budgeted product import.",
     "features_tr": [
       "Yönü seçilebilir stok ve fiyat senkronu",
-      "Siparişleri KDV'siyle gönderme",
-      "Zaman bütçeli ürün içe aktarma"
+      "Siparişleri KDV'siyle gönderme ve durum senkronu",
+      "Zaman bütçeli ürün içe aktarma (varyasyon, kategori, görsel)",
+      "SKU eşleştirme denetimi ve onarım araçları",
+      "Gösterge paneli ve filtrelenebilir günlük"
     ],
     "requires": {
       "wp": "6.5",
@@ -512,11 +514,17 @@
     "integrations": [
       "Dopigo"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/dopigo-integration-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/dopigo-integration-for-woocommerce/1.png",
+      "docs/screenshots/dopigo-integration-for-woocommerce/2.png",
+      "docs/screenshots/dopigo-integration-for-woocommerce/3.png",
+      "docs/screenshots/dopigo-integration-for-woocommerce/4.png",
+      "docs/screenshots/dopigo-integration-for-woocommerce/5.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -719,12 +727,14 @@
     "name": "Yurtiçi Kargo Integration for WooCommerce",
     "type": "plugin",
     "category": "Kargo & Teslimat",
-    "tagline_tr": "Yurtiçi Kargo gönderi oluşturma, etiket ve teslimat takibini otomatikleştirir.",
-    "tagline_en": "Automates Yurtiçi Kargo shipment creation, labels and delivery tracking.",
+    "tagline_tr": "Yurtiçi Kargo gönderisi, barkod etiketi, çoklu hesap ve geri çekilmeli teslimat takibi.",
+    "tagline_en": "Yurtiçi Kargo shipments, barcode labels, multiple accounts and back-off delivery tracking.",
     "features_tr": [
-      "Otomatik gönderi ve etiket",
-      "Çoklu kargo hesabı desteği",
-      "Zamanlanmış teslimat takibi"
+      "Sipariş durumuna göre otomatik Yurtiçi gönderisi ve barkod etiketi",
+      "Birden fazla Yurtiçi hesabı, tutar/kargo yöntemine göre hesap seçimi",
+      "Zamanlanmış, geri çekilmeli teslimat takibi ve durum güncelleme",
+      "Barkod iptali, yeniden gönderim ve sipariş zaman tüneli",
+      "Kargo Firmaları eklentisiyle takip linki"
     ],
     "requires": {
       "wp": "6.5",
@@ -734,11 +744,17 @@
     "integrations": [
       "Yurtiçi Kargo"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/yurtici-kargo-integration-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/yurtici-kargo-integration-for-woocommerce/1.png",
+      "docs/screenshots/yurtici-kargo-integration-for-woocommerce/2.png",
+      "docs/screenshots/yurtici-kargo-integration-for-woocommerce/3.png",
+      "docs/screenshots/yurtici-kargo-integration-for-woocommerce/4.png",
+      "docs/screenshots/yurtici-kargo-integration-for-woocommerce/5.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -943,12 +959,13 @@
     "name": "Conversion Boosters for WooCommerce",
     "type": "plugin",
     "category": "Pazarlama & Kampanya",
-    "tagline_tr": "Ücretsiz kargo çubuğu, hoş geldin kuponu ve geri sayımlı kupon gibi dönüşüm araçları.",
-    "tagline_en": "Conversion tools such as a free-shipping bar, welcome coupon and countdown coupon.",
+    "tagline_tr": "Ürün önerili ücretsiz kargo çubuğu, hoş geldin kuponu ve gerçek süreli sepet kuponu.",
+    "tagline_en": "Free-shipping bar with product suggestions, welcome coupon and a genuine expiring cart coupon.",
     "features_tr": [
-      "Ürün önerili ücretsiz kargo çubuğu",
-      "Hoş geldin kuponu",
-      "Geri sayımlı kupon"
+      "Ürün önerili ücretsiz kargo çubuğu (eşik WooCommerce kargo ayarından)",
+      "Onaylı e-posta aboneliği ve kişiye özel hoş geldin kuponu",
+      "Süreli (geri sayımlı) sepet kuponu",
+      "Çapraz satış yoksa sepette tamamlayıcı ürün önerileri"
     ],
     "requires": {
       "wp": "6.5",
@@ -956,11 +973,17 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/conversion-boosters-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/conversion-boosters-for-woocommerce/1.png",
+      "docs/screenshots/conversion-boosters-for-woocommerce/2.png",
+      "docs/screenshots/conversion-boosters-for-woocommerce/3.png",
+      "docs/screenshots/conversion-boosters-for-woocommerce/4.png",
+      "docs/screenshots/conversion-boosters-for-woocommerce/5.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1027,12 +1050,14 @@
     "name": "Product Push for Trendyol",
     "type": "plugin",
     "category": "Pazaryeri",
-    "tagline_tr": "WooCommerce ürünlerini Trendyol'a toplu gönderir.",
-    "tagline_en": "Pushes WooCommerce products to Trendyol in bulk.",
+    "tagline_tr": "Basit ve varyantlı ürünleri doğrulayıp Trendyol'a gönderir; onay durumuna göre doğru uçla günceller.",
+    "tagline_en": "Validates and pushes simple and variable products to Trendyol, updating them by approval state.",
     "features_tr": [
-      "Ürün ekranında Trendyol alanları",
-      "Ajax kategori arama",
-      "Toplu gönderim"
+      "Ürün ekranında Trendyol alanları ve zorunlu özellik formu",
+      "Ajax kategori arama ve kategori eşleme tablosu",
+      "Basit ve varyantlı ürünlerde toplu gönderim ve doğrulama",
+      "Onay durumu takibi ve doğru güncelleme ucu",
+      "WP-CLI komutları"
     ],
     "requires": {
       "wp": "6.5",
@@ -1042,11 +1067,16 @@
     "integrations": [
       "Trendyol"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/product-push-for-trendyol",
+    "screenshots": [
+      "docs/screenshots/product-push-for-trendyol/1.png",
+      "docs/screenshots/product-push-for-trendyol/2.png",
+      "docs/screenshots/product-push-for-trendyol/3.png",
+      "docs/screenshots/product-push-for-trendyol/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1827,7 +1857,7 @@
       "docs/screenshots/turkish-shipping-carriers-for-woocommerce/3.png",
       "docs/screenshots/turkish-shipping-carriers-for-woocommerce/4.png"
     ],
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   {
     "slug": "b2b-customer-pricing-for-woocommerce",
@@ -1963,16 +1993,18 @@
     "version": "1.0.0"
   },
   {
-    "slug": "server-side-refunds-for-ga4",
-    "name": "Server-Side Refunds for GA4",
+    "slug": "server-side-refunds-for-woocommerce",
+    "name": "Server-Side Refunds for WooCommerce",
     "type": "plugin",
     "category": "Raporlama & Analitik",
-    "tagline_tr": "İade ve iptalleri GA4'e sunucu tarafında bildirir.",
-    "tagline_en": "Reports refunds and cancellations to GA4 from the server side.",
+    "tagline_tr": "İade ve iptalleri GA4 ve Matomo'ya sunucu tarafında, kuyrukla bildirir.",
+    "tagline_en": "Reports refunds and cancellations to GA4 and Matomo from the server, through a retrying queue.",
     "features_tr": [
-      "İade ve iptal olayları",
-      "Kuyruk ve yeniden deneme",
-      "Sunucu tarafı gönderim"
+      "Kısmi ve tam iadeleri GA4 ve/veya Matomo'ya bildirme",
+      "Ödenmiş siparişin iptalinde kalan tutarla gelir düzeltmesi",
+      "Kuyruk, üstel geri çekilmeli yeniden deneme ve tekilleştirme",
+      "Kuyruk ekranı ve test gönderimi",
+      "HPOS uyumlu, çerez yoksa yedek client_id"
     ],
     "requires": {
       "wp": "6.5",
@@ -1980,40 +2012,18 @@
       "php": "8.0"
     },
     "integrations": [
-      "Google Analytics 4"
-    ],
-    "status": "coming-soon",
-    "phase": 3,
-    "repo": null,
-    "path": null,
-    "screenshots": [],
-    "version": "1.0.0"
-  },
-  {
-    "slug": "server-side-refunds-for-matomo",
-    "name": "Server-Side Refunds for Matomo",
-    "type": "plugin",
-    "category": "Raporlama & Analitik",
-    "tagline_tr": "İade ve iptalleri Matomo'ya sunucu tarafında bildirir.",
-    "tagline_en": "Reports refunds and cancellations to Matomo from the server side.",
-    "features_tr": [
-      "Kısmi ve tam iade",
-      "İptal olayı",
-      "Kuyruk ve yeniden deneme"
-    ],
-    "requires": {
-      "wp": "6.5",
-      "wc": "9.0",
-      "php": "8.0"
-    },
-    "integrations": [
+      "Google Analytics 4",
       "Matomo"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/server-side-refunds-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/server-side-refunds-for-woocommerce/1.png",
+      "docs/screenshots/server-side-refunds-for-woocommerce/2.png",
+      "docs/screenshots/server-side-refunds-for-woocommerce/3.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2021,12 +2031,14 @@
     "name": "Device Trade-In for WooCommerce",
     "type": "plugin",
     "category": "Sepet & Ödeme Akışı",
-    "tagline_tr": "Takas edilen ürün için yapılandırılabilir özelliklere göre indirim değeri hesaplar.",
-    "tagline_en": "Calculates a discount value for a traded-in item based on configurable attributes.",
+    "tagline_tr": "Eski cihazını takas eden müşteriye, sizin tablonuza göre hesaplanan değeri sepette indirim olarak yansıtır.",
+    "tagline_en": "Deducts a trade-in value from your own device table in the cart, with approval flow, order hold and reminders.",
     "features_tr": [
-      "Yapılandırılabilir özellik seçimi (ör. model, durum)",
-      "Takas değeri tablosu",
-      "Sepette indirim"
+      "Yapılandırılabilir özellik seçimi (marka/model/kapasite ve durum)",
+      "CSV ile içe/dışa aktarılan takas değeri tablosu",
+      "Takas değerinin sepette indirim olarak düşmesi (ürün bedeliyle sınırlı)",
+      "Siparişe bağlı takas kaydı, onay akışı ve gecikme hatırlatması",
+      "Listede olmayan cihaz için talep formu"
     ],
     "requires": {
       "wp": "6.5",
@@ -2034,11 +2046,18 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/device-trade-in-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/device-trade-in-for-woocommerce/1.png",
+      "docs/screenshots/device-trade-in-for-woocommerce/2.png",
+      "docs/screenshots/device-trade-in-for-woocommerce/3.png",
+      "docs/screenshots/device-trade-in-for-woocommerce/4.png",
+      "docs/screenshots/device-trade-in-for-woocommerce/5.png",
+      "docs/screenshots/device-trade-in-for-woocommerce/6.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2046,12 +2065,14 @@
     "name": "Bank Transfer Auto-Approval for Garanti BBVA",
     "type": "plugin",
     "category": "Ödeme",
-    "tagline_tr": "Garanti BBVA hesap hareketlerinden havale ödemelerini otomatik onaylar.",
-    "tagline_en": "Automatically approves bank transfer orders from Garanti BBVA account activity.",
+    "tagline_tr": "Garanti BBVA hesap hareketlerini rızayla okur, havale siparişlerini numara ve tutarla eşleştirip onaylar.",
+    "tagline_en": "Reads Garanti BBVA account activity with consent and approves bank transfer orders matched by number and amount.",
     "features_tr": [
-      "Hesap hareketlerini yetkiyle okuma",
-      "Tutar ve referans eşleştirme",
-      "Otomatik sipariş onayı"
+      "Garanti BBVA hesap hareketlerini rızayla salt-okunur çekme",
+      "Sipariş numarası ve tutar eşleştirme, parçalı havale desteği",
+      "Eşleşen siparişi otomatik onaylama ve yöneticiye e-posta",
+      "Kullanılan işlem kaydı: aynı havale iki siparişi onaylayamaz",
+      "Deneme modu ve işlem/eşleşme ekranı"
     ],
     "requires": {
       "wp": "6.5",
@@ -2061,11 +2082,16 @@
     "integrations": [
       "Garanti BBVA"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/bank-transfer-auto-approval-for-garanti-bbva",
+    "screenshots": [
+      "docs/screenshots/bank-transfer-auto-approval-for-garanti-bbva/1.png",
+      "docs/screenshots/bank-transfer-auto-approval-for-garanti-bbva/2.png",
+      "docs/screenshots/bank-transfer-auto-approval-for-garanti-bbva/3.png",
+      "docs/screenshots/bank-transfer-auto-approval-for-garanti-bbva/4.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2301,13 +2327,14 @@
     "name": "Growth Automations for WooCommerce",
     "type": "plugin",
     "category": "Pazarlama & Kampanya",
-    "tagline_tr": "Havale hatırlatma, terk edilen sepet, geri kazanım ve yorum isteği otomasyonları.",
-    "tagline_en": "Automations for transfer reminders, abandoned carts, win-back and review requests.",
+    "tagline_tr": "Havale hatırlatma, onaylı terk edilmiş sepet, geri kazanım, yorum isteği ve stok bildirimi otomasyonları.",
+    "tagline_en": "Transfer reminders, consent-based abandoned carts, win-back, review requests and back-in-stock alerts.",
     "features_tr": [
-      "Havale ve EFT hatırlatma",
-      "Terk edilmiş sepet e-postası",
-      "Geri kazanım kuponu",
-      "Yorum isteği ve stok bildirimi"
+      "Havale/EFT ödeme hatırlatma",
+      "Onaylı terk edilmiş sepet e-postası ve sepeti geri yükleme",
+      "Kişiye özel kuponlu geri kazanım e-postası",
+      "Teslimat sonrası yorum isteği",
+      "Varyasyon destekli \"stoğa gelince haber ver\""
     ],
     "requires": {
       "wp": "6.5",
@@ -2315,11 +2342,17 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/growth-automations-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/growth-automations-for-woocommerce/1.png",
+      "docs/screenshots/growth-automations-for-woocommerce/2.png",
+      "docs/screenshots/growth-automations-for-woocommerce/3.png",
+      "docs/screenshots/growth-automations-for-woocommerce/4.png",
+      "docs/screenshots/growth-automations-for-woocommerce/5.png"
+    ],
     "version": "1.0.0"
   },
   {

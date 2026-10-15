@@ -51,6 +51,7 @@ Varsayılan takip şablonları firmaların herkese açık takip sayfalarını g�
 | Ad | Tür | Açıklama |
 |---|---|---|
 | `eru_tsc_get_tracking( $order )` | fonksiyon | `carrier`, `carrier_name`, `number`, `url` dizisi |
+| `eru_tsc_set_tracking( $order, $carrier, $number = null )` | fonksiyon | Takip numarasını koddan kaydeder (siparişi kaydeder; yeni numarada müşteri notu ve `eru_tsc_tracking_saved`). `$number` `null` ise yalnızca firma değişir. Yeni numarada `true` döner (1.0.1) |
 | `eru_tsc_tracking_saved` | eylem | Yeni takip numarası kaydedildi (`$order`, takip dizisi) |
 | `eru_tsc_catalogue` | filtre | Firma listesi (kimlik → ad, varsayılan takip şablonu) |
 | `eru_tsc_tracking_url` | filtre | Oluşan takip adresi |
@@ -65,7 +66,7 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu. Klasik ve blok ödeme s
 
 ## Sınırlamalar
 
-- **Kargo firması API'si yoktur:** gönderi/etiket oluşturma, barkod basımı, otomatik durum takibi, iade kodları ve toplu gönderim bu sürümde yoktur (müşteriye özel API kimlik bilgisi gerektirdikleri ve gerçek hesaplarla doğrulanamadıkları için çıkarıldı). Takip numarası elle veya `eru_tsc` metaları üzerinden kodla girilir.
+- **Kargo firması API'si yoktur:** gönderi/etiket oluşturma, barkod basımı, otomatik durum takibi, iade kodları ve toplu gönderim bu sürümde yoktur (müşteriye özel API kimlik bilgisi gerektirdikleri ve gerçek hesaplarla doğrulanamadıkları için çıkarıldı). Takip numarası elle veya `eru_tsc_set_tracking()` ile kodla girilir (ör. Yurtiçi Kargo Integration otomatik takip numaralarını bu yoldan yazar).
 - Ücret kuralları firma başınadır; bölgeye/ile göre farklı tarife yoktur (gerekirse farklı bölgelere yöntemi ayrı ayrı ekleyip firmaları bölge başına seçin; ücretler ortak kalır).
 - Desi hesabı ürün ağırlık ve ölçüleri girilmişse anlamlıdır; eksik ürünler 0 desi sayılır.
 - Siparişe tek takip numarası girilir (çok paketli gönderi yok).

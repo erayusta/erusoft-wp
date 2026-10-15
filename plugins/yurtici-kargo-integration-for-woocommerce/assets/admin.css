@@ -1,0 +1,33 @@
+.eru-yk-state { display: inline-block; padding: 2px 8px; border-radius: 3px; background: #f0f0f1; color: #3c434a; font-size: 12px; line-height: 1.6; }
+.eru-yk-state-dispatched { background: #e5f0fa; color: #0a4b78; }
+.eru-yk-state-in_transit { background: #fcf0d6; color: #7a4d00; }
+.eru-yk-state-delivered { background: #e6f4ea; color: #1e6b33; }
+.eru-yk-state-failed, .eru-yk-state-needs_review { background: #fbeaea; color: #8a1f1f; }
+.eru-yk-state-unknown, .eru-yk-state-retry, .eru-yk-state-pending { background: #fff4ce; color: #6b5300; }
+.eru-yk-state-gave_up, .eru-yk-state-cancelled { background: #ececec; color: #50575e; }
+.eru-yk-test { display: inline-block; padding: 1px 6px; border: 1px dashed #996800; color: #996800; font-size: 11px; border-radius: 3px; }
+.eru-yk-dl { margin: 8px 0; display: grid; grid-template-columns: auto 1fr; gap: 2px 8px; }
+.eru-yk-dl dt { color: #646970; }
+.eru-yk-dl dd { margin: 0; overflow-wrap: anywhere; }
+.eru-yk-error { color: #b32d2e; }
+.eru-yk-actions { display: flex; flex-wrap: wrap; gap: 4px; }
+.eru-yk-result.is-ok { color: #1e6b33; }
+.eru-yk-result.is-error { color: #b32d2e; }
+.eru-yk-timeline { margin: 0 0 8px 1.2em; max-height: 260px; overflow: auto; font-size: 12px; }
+.eru-yk-timeline li { margin-bottom: 4px; }
+.eru-yk-timeline time { color: #646970; }
+.eru-yk-ev-error { color: #8a1f1f; }
+.eru-yk-ev-success { color: #1e6b33; }
+.eru-yk-ev-warn { color: #7a4d00; }
+.eru-yk-muted { color: #a7aaad; }
+.eru-yk-saved { color: #1e6b33; font-size: 12px; }
+.eru-yk-warn { color: #b32d2e; }
+.eru-yk-repeater input, .eru-yk-repeater select { max-width: 100%; }
+.eru-yk-log .eru-yk-filter { margin: 12px 0; }
+.eru-yk-log pre { white-space: pre-wrap; word-break: break-all; max-height: 240px; overflow: auto; background: #f6f7f7; padding: 6px; font-size: 11px; }
+.eru-yk-log .eru-yk-purge { margin-top: 16px; }
+.eru-yk-lvl { font-size: 11px; padding: 1px 6px; border-radius: 3px; background: #f0f0f1; }
+.eru-yk-lvl-error { background: #fbeaea; color: #8a1f1f; }
+.eru-yk-lvl-success { background: #e6f4ea; color: #1e6b33; }
+.eru-yk-lvl-warn { background: #fcf0d6; color: #7a4d00; }
+.column-eru_yk { width: 11ch; }

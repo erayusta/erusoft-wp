@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><env:Envelope xmlns:env="http://schemas.xmlsoap.org/soap/envelope/"><env:Header/><env:Body><ns1:cancelShipmentResponse xmlns:ns1="http://yurticikargo.com.tr/ShippingOrderDispatcherServices"><ShippingOrderResultVO><outResult>Demo: bilinmeyen yanıt</outResult></ShippingOrderResultVO></ns1:cancelShipmentResponse></env:Body></env:Envelope>

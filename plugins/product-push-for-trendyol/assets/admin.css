@@ -1,0 +1,34 @@
+.eru-ppt-pick { position: relative; max-width: 560px; }
+.eru-ppt-pick-current { font-weight: 600; }
+.eru-ppt-pick-q { margin-top: 4px; }
+.eru-ppt-pick-results { margin: 4px 0 0; padding: 4px 8px; max-height: 220px; overflow: auto; background: #fff; border: 1px solid #c3c4c7; }
+.eru-ppt-pick-results li { margin: 2px 0; }
+.eru-ppt-pick-results button { text-align: left; }
+.eru-ppt-saved { color: #00a32a; font-weight: 600; }
+.eru-ppt-msg.is-error, .eru-ppt-error, .eru-ppt-result.is-error { color: #b32d2e; }
+.eru-ppt-msg.is-ok, .eru-ppt-result.is-ok { color: #00701a; }
+.eru-ppt-addr { display: inline-block; margin-right: 12px; }
+.eru-ppt-addr select { max-width: 360px; }
+.eru-ppt-repeater td { vertical-align: top; }
+.eru-ppt-attrpick select { display: block; margin-top: 4px; max-width: 260px; }
+.eru-ppt-attr-values { max-width: 320px; margin-top: 4px; }
+.eru-ppt-box .eru-ppt-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 12px 24px; }
+.eru-ppt-box h4 { margin: 16px 0 6px; }
+.eru-ppt-attr-table select { max-width: 280px; }
+.eru-ppt-req { color: #b32d2e; font-size: 12px; }
+.eru-ppt-note { background: #fcf9e8; border-left: 4px solid #dba617; padding: 6px 10px; }
+.eru-ppt-status td { vertical-align: top; }
+.eru-ppt-errlist, .eru-ppt-errors ul { margin: 0; padding-left: 16px; list-style: disc; color: #b32d2e; }
+.eru-ppt-result { margin: 8px 0 0; padding-left: 16px; list-style: disc; }
+.eru-ppt-badge { display: inline-block; margin: 0 2px 2px 0; padding: 1px 6px; border-radius: 3px; background: #f0f0f1; color: #50575e; font-size: 12px; }
+.eru-ppt-badge.is-approved { background: #d1e7dd; color: #0f5132; }
+.eru-ppt-badge.is-unapproved, .eru-ppt-badge.is-pending, .eru-ppt-badge.is-sending { background: #fff3cd; color: #664d03; }
+.eru-ppt-badge.is-failed, .eru-ppt-badge.is-invalid, .eru-ppt-badge.is-needs_review, .eru-ppt-badge.is-unknown { background: #f8d7da; color: #842029; }
+.eru-ppt-list { list-style: disc; padding-left: 18px; }
+.eru-ppt-list ul { list-style: circle; padding-left: 18px; color: #842029; }
+.eru-ppt-variation { margin-top: 8px; padding-top: 6px; border-top: 1px dashed #dcdcde; }
+.eru-ppt-variation label { margin-right: 12px; }
+.eru-ppt-log td { font-size: 12px; }
+.eru-ppt-status code { white-space: nowrap; }
+.wp-list-table .column-eru_ppt { width: 150px; }
+.eru-ppt-list ul.eru-ppt-warn { color: #664d03; }

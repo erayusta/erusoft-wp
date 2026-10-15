@@ -1,0 +1,9 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {"id": 5001, "service_order_id": "__ORDER_ID__", "service_value": "__ORDER_ID__", "status": "delivered"},
+    {"id": 5999, "service_order_id": "__ORDER_ID__", "service_value": "__ORDER_ID__", "status": "cancelled"}
+  ]
+}

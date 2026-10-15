@@ -1,0 +1,10 @@
+.eru-gra-consent { clear: both; font-size: .9em; }
+.eru-gra-consent label { display: flex; gap: .5em; align-items: flex-start; }
+.eru-gra-alert { margin: 1em 0; padding: 1em; border: 1px solid currentColor; border-radius: 4px; box-sizing: border-box; max-width: 100%; }
+.eru-gra-alert__title { margin: 0 0 .5em; font-weight: 600; }
+.eru-gra-alert__row { display: flex; gap: .5em; flex-wrap: wrap; }
+.eru-gra-alert__email { flex: 1 1 12em; min-width: 0; box-sizing: border-box; }
+.eru-gra-alert__hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+.eru-gra-alert__note { margin: .5em 0 0; font-size: .85em; opacity: .8; }
+.eru-gra-alert__msg { margin: .5em 0 0; font-size: .9em; }
+.eru-gra-alert__msg:empty { display: none; }

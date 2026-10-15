@@ -1,0 +1,9 @@
+.eru-ssr-test-result { margin: .5em 0 0; }
+.eru-ssr-test-result li { margin: .25em 0; }
+.eru-ssr-ok { color: #1a7f37; }
+.eru-ssr-bad { color: #b32d2e; }
+.eru-ssr-badge { display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: 12px; background: #e5e5e5; }
+.eru-ssr-badge.sent { background: #d1f0d8; color: #14532d; }
+.eru-ssr-badge.pending { background: #fff1c2; color: #6b4f00; }
+.eru-ssr-badge.failed { background: #fbd5d5; color: #7a1010; }
+.eru-ssr-err { color: #646970; max-width: 28em; word-break: break-word; }

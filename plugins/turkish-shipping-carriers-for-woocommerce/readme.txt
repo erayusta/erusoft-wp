@@ -4,7 +4,7 @@ Tags: woocommerce, shipping, turkey, cargo, tracking
 Requires at least: 6.5
 Tested up to: 7.1
 Requires PHP: 8.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,10 @@ Its own options. Order meta is kept.
 4. Checkout on mobile.
 
 == Changelog ==
+
+= 1.0.1 =
+* New `eru_tsc_set_tracking()` / `Eru_TSC_Tracking::save_tracking()`: other plugins store a tracking number with the same customer note and `eru_tsc_tracking_saved` action as a manual entry.
+* Saving an order screen opened before a background tracking update no longer blanks that tracking number.
 
 = 1.0.0 =
 * Initial public release.

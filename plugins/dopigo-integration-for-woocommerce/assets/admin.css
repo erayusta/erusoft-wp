@@ -1,0 +1,25 @@
+.eru-dpg .eru-dpg-beta{font-size:12px;font-weight:600;background:#f0f6fc;color:#2271b1;border:1px solid #c5d9ed;border-radius:3px;padding:1px 6px;vertical-align:middle}
+.eru-dpg .eru-dpg-badge{display:inline-block;min-width:16px;height:16px;line-height:16px;text-align:center;border-radius:8px;background:#d63638;color:#fff;font-size:11px;font-weight:700;margin-left:4px}
+.eru-dpg-warn{background:#fcf9e8;border:1px solid #dba617;border-left-width:4px;padding:4px 14px;margin:16px 0;max-width:900px}
+.eru-dpg-inline{display:inline-block;margin:0 6px 6px 0}
+.eru-dpg-saved{display:inline-block;background:#edfaef;color:#1a6e2c;border:1px solid #a7d7b0;border-radius:3px;padding:2px 8px;font-size:12px}
+.eru-dpg-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin:16px 0}
+.eru-dpg-card{background:#fff;border:1px solid #dcdcde;border-radius:4px;padding:4px 16px 12px}
+.eru-dpg-card h2{font-size:14px;margin:12px 0 8px}
+.eru-dpg-card ul{margin:0}
+.eru-dpg-card li{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid #f0f0f1;padding:5px 0;margin:0}
+.eru-dpg-card li:last-child{border-bottom:0}
+.eru-dpg-card b.ok,.eru-dpg-test.ok{color:#1a6e2c}
+.eru-dpg-card b.bad,.eru-dpg-test.bad{color:#b32d2e}
+.eru-dpg-card b.warn{color:#996800}
+.eru-dpg-card b.off{color:#646970}
+.eru-dpg-lvl{display:inline-block;border-radius:3px;padding:1px 6px;font-size:12px;background:#f0f0f1}
+.lvl-success{color:#1a6e2c}.eru-dpg-lvl.lvl-success{background:#edfaef}
+.lvl-failed{color:#b32d2e}.eru-dpg-lvl.lvl-failed{background:#fcf0f1}
+.lvl-warning{color:#996800}.eru-dpg-lvl.lvl-warning{background:#fcf9e8}
+.eru-dpg-log td{vertical-align:top}.eru-dpg-log .nowrap{white-space:nowrap}
+.eru-dpg-log pre{white-space:pre-wrap;word-break:break-word;max-width:640px;margin:6px 0 0;font-size:12px}
+.eru-dpg-filter{margin:16px 0 8px}.eru-dpg-filter select,.eru-dpg-filter input[type=search]{margin-right:4px}
+.eru-dpg-maps{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px;max-width:1000px}
+.eru-dpg-jobs{max-width:1000px}.eru-dpg-jobs .eru-dpg-inline{margin:0}
+.eru-dpg-form h2{margin:8px 0 0}

@@ -1,0 +1,7 @@
+.eru-dti-admin .nav-tab-wrapper{margin-bottom:1em}
+.eru-dti-devform,.eru-dti-csvbox,.eru-dti-search{margin:1em 0}
+.eru-dti-devform input[type=text]{width:150px}
+.eru-dti-conds td{vertical-align:middle}
+.eru-dti-conds input.large-text{width:100%}
+.eru-dti-statusform{display:flex;gap:.4em;align-items:center;flex-wrap:wrap}
+.eru-dti-devform input[type=number]{width:110px}

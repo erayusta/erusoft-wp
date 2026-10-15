@@ -1,0 +1,38 @@
+{
+  "count": 3,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "meta_id": 9101,
+      "name": "Demo Ürün Tişört",
+      "description": "<p>Demo açıklama.</p>",
+      "vat": 20,
+      "category": {"id": 501, "name": "Demo Kategori"},
+      "products": [
+        {"id": 77001, "meta_id": 9101, "sku": "DPG-77001", "foreign_sku": "DEMO-001", "barcode": "", "stock": 7, "available_stock": 7, "price": "1200.00", "listing_price": "1200.00", "updated_at": "2026-10-01T10:00:00Z", "custom_attributes": [], "images": []}
+      ]
+    },
+    {
+      "meta_id": 9102,
+      "name": "Demo Ürün Sweatshirt",
+      "description": "<p>Demo varyasyonlu ürün.</p>",
+      "vat": 20,
+      "category": {"id": 501, "name": "Demo Kategori"},
+      "products": [
+        {"id": 77011, "meta_id": 9102, "sku": "DPG-77011", "foreign_sku": "DEMO-SHARED", "barcode": "", "stock": 3, "available_stock": 3, "price": "600.00", "listing_price": "600.00", "updated_at": "2026-10-01T10:00:00Z", "custom_attributes": [{"attribute": {"name": "beden"}, "value": {"name": "S"}}], "images": []},
+        {"id": 77012, "meta_id": 9102, "sku": "DPG-77012", "foreign_sku": "DEMO-SHARED", "barcode": "", "stock": 4, "available_stock": 4, "price": "600.00", "listing_price": "600.00", "updated_at": "2026-10-02T10:00:00Z", "custom_attributes": [{"attribute": {"name": "beden"}, "value": {"name": "M"}}], "images": []}
+      ]
+    },
+    {
+      "meta_id": 9103,
+      "name": "Demo Ürün Bere",
+      "description": "",
+      "vat": 10,
+      "category": 502,
+      "products": [
+        {"id": 77021, "meta_id": 9103, "sku": "", "foreign_sku": "", "barcode": "", "stock": 0, "available_stock": 0, "price": "330.00", "listing_price": "330.00", "updated_at": "2026-10-01T10:00:00Z", "custom_attributes": [], "images": []}
+      ]
+    }
+  ]
+}

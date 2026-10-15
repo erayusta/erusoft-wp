@@ -1,0 +1,31 @@
+.eru-gha-beta{font-size:12px;font-weight:600;background:#f0b849;color:#1d2327;border-radius:3px;padding:2px 6px;vertical-align:middle}
+.eru-gha-bar{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;background:#fff;border:1px solid #c3c4c7;padding:10px 14px;margin:12px 0}
+.eru-gha-bar ul{display:flex;flex-wrap:wrap;gap:8px 24px;margin:0}
+.eru-gha-bar li{margin:0}
+.eru-gha-bar li span{color:#646970;margin-right:6px}
+.eru-gha-bar b.ok{color:#008a20}.eru-gha-bar b.off{color:#646970}.eru-gha-bar b.warn{color:#996800}.eru-gha-bar b.bad{color:#d63638}
+.eru-gha-actions{display:flex;gap:6px}
+.eru-gha-inline{display:inline}
+.eru-gha-table{margin-top:10px}
+.eru-gha-table td.num,.eru-gha-table th.num{text-align:right;white-space:nowrap}
+.eru-gha-table td.desc{max-width:360px;word-break:break-word}
+.eru-gha-table tr.debit td{color:#646970}
+.eru-gha-pill{display:inline-block;border-radius:10px;padding:1px 8px;font-size:12px;background:#f0f0f1;color:#3c434a}
+.eru-gha-pill.in{background:#edfaef;color:#007017}.eru-gha-pill.out{background:#fcf0f1;color:#8a2424}
+.eru-gha-pill.used,.eru-gha-pill.t-approved,.eru-gha-pill.t-manual{background:#edfaef;color:#007017}
+.eru-gha-pill.t-would_approve{background:#f0f6fc;color:#0a4b78}
+.eru-gha-pill.t-review,.eru-gha-pill.t-skipped,.eru-gha-pill.t-release{background:#fcf9e8;color:#7a5a00}
+.eru-gha-pill.t-fetch_error{background:#fcf0f1;color:#8a2424}
+.eru-gha-approve input[type=number]{width:110px}
+.eru-gha-approve label{font-size:12px;margin-right:4px}
+.eru-gha-release{margin-top:4px}
+.eru-gha-release input[type=text]{width:180px}
+.eru-gha-txns{margin:4px 0 0;color:#50575e;font-size:12px}
+.eru-gha-txns li{margin:0}
+.eru-gha-checks label,.form-table td fieldset.eru-gha-checks label{display:inline-block;margin:0 20px 6px 0!important}
+.eru-gha-saved{color:#008a20;font-weight:600}
+.eru-gha-test-out{margin-top:6px}
+.eru-gha-test-out.ok{color:#008a20}.eru-gha-test-out.warn{color:#996800}.eru-gha-test-out.bad{color:#d63638}
+.eru-gha-empty{background:#fff;border:1px dashed #c3c4c7;padding:16px;margin-top:10px}
+.eru-gha .notice.inline{margin:8px 0}
+.eru-gha-warn{color:#996800}

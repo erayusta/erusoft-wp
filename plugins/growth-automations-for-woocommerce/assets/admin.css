@@ -1,0 +1,6 @@
+.eru-gra-admin h2.nav-tab-wrapper { margin-bottom: 1em; }
+.eru-gra-admin .eru-gra-lead { max-width: 60em; }
+.eru-gra-admin textarea { width: 100%; max-width: 50em; }
+.eru-gra-admin .eru-gra-ph code { margin-right: .5em; }
+.eru-gra-admin .eru-gra-log td, .eru-gra-admin .eru-gra-log th { padding: 6px 10px; }
+@media (max-width: 782px) { .eru-gra-admin input.regular-text { width: 100%; } }

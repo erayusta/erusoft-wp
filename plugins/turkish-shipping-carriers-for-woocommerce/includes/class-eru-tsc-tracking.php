@@ -81,6 +81,29 @@ class Eru_TSC_Tracking {
 		return '' !== $number && $old !== $number;
 	}
 
+	/**
+	 * Public save path for other plugins (e.g. a carrier integration that receives tracking numbers in the background):
+	 * stores carrier + number, saves the order and, when the number is new, runs the same side effects as a manual
+	 * entry (optional customer note e-mail and the `eru_tsc_tracking_saved` action).
+	 *
+	 * @since 1.0.1
+	 * @param WC_Order    $order   Order.
+	 * @param string      $carrier Carrier id (e.g. `yurtici`), '' for none.
+	 * @param string|null $number  Tracking number; null keeps the stored one (carrier only).
+	 * @return bool True when the tracking number changed to a new non-empty value.
+	 */
+	public static function save_tracking( WC_Order $order, string $carrier, ?string $number = null ): bool {
+		if ( null === $number ) {
+			$number = (string) $order->get_meta( self::META_NUMBER );
+		}
+		$changed = self::set( $order, $carrier, $number );
+		$order->save();
+		if ( $changed ) {
+			self::after_new_number( $order );
+		}
+		return $changed;
+	}
+
 	/* ---- admin box ---- */
 
 	private static function screen_id(): string {
@@ -98,6 +121,10 @@ class Eru_TSC_Tracking {
 		}
 		$t = self::get( $order );
 		wp_nonce_field( 'eru_tsc_tracking', 'eru_tsc_tracking_nonce' );
+		// The values this screen was opened with: a field the admin did not touch must not overwrite a tracking number
+		// another plugin stored in the background meanwhile.
+		echo '<input type="hidden" name="eru_tsc_carrier_loaded" value="' . esc_attr( (string) $order->get_meta( self::META_CARRIER ) ) . '">';
+		echo '<input type="hidden" name="eru_tsc_tracking_loaded" value="' . esc_attr( $t['number'] ) . '">';
 		echo '<p><label for="eru_tsc_carrier">' . esc_html__( 'Kargo firması', 'turkish-shipping-carriers-for-woocommerce' ) . '</label><br><select name="eru_tsc_carrier" id="eru_tsc_carrier" style="width:100%"><option value="">' . esc_html__( '— Seçin —', 'turkish-shipping-carriers-for-woocommerce' ) . '</option>';
 		foreach ( Eru_TSC_Carriers::all() as $id => $c ) {
 			if ( '' === trim( (string) $c['name'] ) ) {
@@ -128,6 +155,13 @@ class Eru_TSC_Tracking {
 		}
 		$carrier = isset( $_POST['eru_tsc_carrier'] ) ? sanitize_key( wp_unslash( $_POST['eru_tsc_carrier'] ) ) : '';
 		$number  = isset( $_POST['eru_tsc_tracking_number'] ) ? sanitize_text_field( wp_unslash( $_POST['eru_tsc_tracking_number'] ) ) : '';
+		// A field still holding the value the screen was opened with was not edited: keep what is stored now.
+		if ( isset( $_POST['eru_tsc_carrier_loaded'] ) && sanitize_key( wp_unslash( $_POST['eru_tsc_carrier_loaded'] ) ) === $carrier ) {
+			$carrier = (string) $order->get_meta( self::META_CARRIER );
+		}
+		if ( isset( $_POST['eru_tsc_tracking_loaded'] ) && sanitize_text_field( wp_unslash( $_POST['eru_tsc_tracking_loaded'] ) ) === $number ) {
+			$number = (string) $order->get_meta( self::META_NUMBER );
+		}
 		$changed = self::set( $order, $carrier, $number );
 		$order->save();
 		if ( $changed ) {
