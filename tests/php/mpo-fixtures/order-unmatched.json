@@ -1,0 +1,57 @@
+{
+	"remote_ref": "{{REF}}",
+	"order_number": "DEMO-ON-{{REF}}",
+	"package_id": "{{REF}}",
+	"status": "new",
+	"remote_status": "DemoNew",
+	"ordered_at": 1791003600,
+	"currency": "TRY",
+	"customer": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"email": "demo.alici@example.com",
+		"phone": "{{PHONE}}"
+	},
+	"billing": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"address_1": "Demo Mahallesi Örnek Sokak No: 3",
+		"district": "Konak",
+		"city_code": 35,
+		"city": "İzmir",
+		"country": "TR",
+		"phone": "{{PHONE}}"
+	},
+	"shipping": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"address_1": "Demo Mahallesi Örnek Sokak No: 3",
+		"district": "Konak",
+		"city_code": 35,
+		"city": "İzmir",
+		"country": "TR",
+		"phone": "{{PHONE}}"
+	},
+	"lines": [
+		{
+			"remote_line_id": "DEMO-L9-{{REF}}",
+			"sku": "DEMO-NOSKU-{{REF}}",
+			"barcode": "DEMO-BC-{{REF}}",
+			"name": "Demo Kupa",
+			"quantity": 3,
+			"unit_price": 59.90,
+			"discount": 0,
+			"vat_rate": 20
+		}
+	],
+	"totals": {
+		"shipping": 0,
+		"discount": 0,
+		"total": 179.70
+	},
+	"events": [],
+	"raw": {
+		"packageRef": "{{REF}}",
+		"marker": "demo-raw-marker"
+	}
+}

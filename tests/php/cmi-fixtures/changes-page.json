@@ -1,0 +1,1 @@
+{"after":"{{C}}","list":[{"recipient":"pull-a@example.com","type":"EPOSTA","status":"RET","recipientType":"BIREYSEL","source":"HS_WEB","consentDate":"{{D}}","creationDate":"{{D}}"},{"recipient":"pull-b@example.com","type":"EPOSTA","status":"ONAY","recipientType":"BIREYSEL","source":"HS_WEB","consentDate":"{{D}}","creationDate":"{{D}}"}]}

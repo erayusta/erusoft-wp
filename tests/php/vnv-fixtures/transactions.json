@@ -1,0 +1,1 @@
+{"Header": {"StatusCode": "APIGW000000", "StatusDescription": "Başarılı", "ObjectID": "demo-034"}, "Data": {"TransactionList": [{"InstructionId": 700100, "TransactionId": 520001, "DebtAmount": 275.25, "MaturityDate": "2027-02-20T00:00:00+03:00", "DebtStatusCode": 2, "DebtorName": "Demo Borçlu Kişi", "IdentityTaxNumber": "{{TCKN}}", "DebtorPhone": "{{PHONE}}"}]}}

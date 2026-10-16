@@ -1,0 +1,9 @@
+{
+	"orderNumber": "{{NUM}}",
+	"packageNumber": "{{PN}}",
+	"status": "{{STATUS}}",
+	"cargoCompany": "Demo Kargo",
+	"trackingInfoCode": "{{TRACK}}",
+	"trackingInfoUrl": "https://example.com/takip/{{TRACK}}",
+	"barcode": "DEMO-BARKOD-{{PN}}"
+}

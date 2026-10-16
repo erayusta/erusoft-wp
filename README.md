@@ -32,6 +32,7 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Email Domain Roles for WordPress](https://wordpress.erusoft.com/email-domain-roles-for-wordpress/) — Kayıt olan kullanıcıya e-posta alan adına göre otomatik rol atar. | Müşteri & B2B | Stabil |
 | [Price Lists for WooCommerce](https://wordpress.erusoft.com/price-lists-for-woocommerce/) — Fiyat listeleri tanımlayıp role veya kişiye atayın. | Müşteri & B2B | Stabil |
 | [Role-Based Prices for WooCommerce](https://wordpress.erusoft.com/role-based-prices-for-woocommerce/) — Kullanıcı rollerine özel ürün fiyatları tanımlayın. | Müşteri & B2B | Stabil |
+| [Sales Team Commissions for WooCommerce](https://wordpress.erusoft.com/sales-team-commissions-for-woocommerce/) — Satış temsilcisi hiyerarşisi, kural bazlı komisyon, bekleme süresi ve ödeme talebi akışı. | Müşteri & B2B | Stabil |
 | [Store Locator for WordPress](https://wordpress.erusoft.com/store-locator-for-wordpress/) — Şube veya yetkili servis noktalarını harita ve liste olarak gösterir. | Müşteri & B2B | Stabil |
 | [Wholesale Inquiry Box for WooCommerce](https://wordpress.erusoft.com/wholesale-inquiry-box-for-woocommerce/) — Ürün sayfasına toplu alım teklif formu ekler. | Müşteri & B2B | Stabil |
 | [Edenred for WooCommerce](https://wordpress.erusoft.com/edenred-for-woocommerce/) — Edenred Ticket Restaurant ile WooCommerce'te ödeme alın. | Ödeme | Stabil |
@@ -40,6 +41,7 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Automatic Discounts for WooCommerce](https://wordpress.erusoft.com/automatic-discounts-for-woocommerce/) — Kupon gerektirmeyen ürün, kategori ve sepet bazlı otomatik indirimler. | Pazarlama & Kampanya | Stabil |
 | [Bought Together Discounts for WooCommerce](https://wordpress.erusoft.com/bought-together-discounts-for-woocommerce/) — Birlikte alınan ürünlere sepette otomatik indirim uygular. | Pazarlama & Kampanya | Stabil |
 | [Brand Coupon Banners for WooCommerce](https://wordpress.erusoft.com/brand-coupon-banners-for-woocommerce/) — Marka veya kategoriye bağlı kuponları tarihli banner olarak sergiler. | Pazarlama & Kampanya | Stabil |
+| [Campaign Engine for WooCommerce](https://wordpress.erusoft.com/campaign-engine-for-woocommerce/) — Koşul ve aksiyon tabanlı kampanya motoru: sihirbaz, hazır şablonlar, akıllı sepet ve ödül kuponları. | Pazarlama & Kampanya | Stabil |
 | [Campaign Pages for WordPress](https://wordpress.erusoft.com/campaign-pages-for-wordpress/) — Kampanyaları arşiv sayfası ve aktif/yaklaşan/bitmiş durumlarıyla yayınlar. | Pazarlama & Kampanya | Stabil |
 | [Cart Campaigns for WooCommerce](https://wordpress.erusoft.com/cart-campaigns-for-woocommerce/) — Sepet tutarı kademelerine bağlı kampanyalar ve ilerleme mesajı. | Pazarlama & Kampanya | Stabil |
 | [Conversion Boosters for WooCommerce](https://wordpress.erusoft.com/conversion-boosters-for-woocommerce/) — Ürün önerili ücretsiz kargo çubuğu, hoş geldin kuponu ve gerçek süreli sepet kuponu. | Pazarlama & Kampanya | Stabil |
@@ -90,16 +92,13 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Dopigo Integration for WooCommerce](https://wordpress.erusoft.com/dopigo-integration-for-woocommerce/) — Dopigo ile yönü seçilebilir stok/fiyat senkronu, KDV'li sipariş gönderimi ve bütçeli ürün içe aktarma. | Entegrasyon (ERP/CRM) | Beta |
 | [Yurtiçi Kargo Integration for WooCommerce](https://wordpress.erusoft.com/yurtici-kargo-integration-for-woocommerce/) — Yurtiçi Kargo gönderisi, barkod etiketi, çoklu hesap ve geri çekilmeli teslimat takibi. | Kargo & Teslimat | Beta |
 | [Bank Transfer Auto-Approval for Garanti BBVA](https://wordpress.erusoft.com/bank-transfer-auto-approval-for-garanti-bbva/) — Garanti BBVA hesap hareketlerini rızayla okur, havale siparişlerini numara ve tutarla eşleştirip onaylar. | Ödeme | Beta |
+| [VakıfBank Vinov Integration for WooCommerce](https://wordpress.erusoft.com/vakifbank-vinov-integration-for-woocommerce/) — VakıfBank Vinov ile banka doğrulamalı OTP'li ödeme, talimat takibi ve iptali. | Ödeme | Beta |
+| [Consent Manager for İYS](https://wordpress.erusoft.com/consent-manager-for-iys/) — İYS izin deposu, denetim kaydı, ödeme ve Hesabım'da izin toplama, hız sınırlı senkron kuyruğu. | Pazarlama & Kampanya | Beta |
+| [Marketplace Orders for WooCommerce](https://wordpress.erusoft.com/marketplace-orders-for-woocommerce/) — Trendyol ve Hepsiburada siparişlerini tekrar-güvenli aktarır; stok ve fiyatı kurallarla senkronlar. | Pazaryeri | Beta |
 | [Product Push for Trendyol](https://wordpress.erusoft.com/product-push-for-trendyol/) — Basit ve varyantlı ürünleri doğrulayıp Trendyol'a gönderir; onay durumuna göre doğru uçla günceller. | Pazaryeri | Beta |
 | [Server-Side Refunds for WooCommerce](https://wordpress.erusoft.com/server-side-refunds-for-woocommerce/) — İade ve iptalleri GA4 ve Matomo'ya sunucu tarafında, kuyrukla bildirir. | Raporlama & Analitik | Beta |
 | [e-Devlet Document Verification for WordPress](https://wordpress.erusoft.com/e-devlet-document-verification-for-wordpress/) — Yüklenen resmî belgeleri e-Devlet doğrulamasıyla kontrol eder. | Güvenlik | Yakında |
-| [Sales Team Commissions for WooCommerce](https://wordpress.erusoft.com/sales-team-commissions-for-woocommerce/) — Satış temsilcisi hiyerarşisi, komisyon kuralları ve ödeme akışı. | Müşteri & B2B | Yakında |
 | [Multi Virtual POS for WooCommerce](https://wordpress.erusoft.com/multi-virtual-pos-for-woocommerce/) — Birden çok bankanın sanal POS'unu kural motoruyla yöneten ödeme eklentisi. | Ödeme | Yakında |
-| [VakıfBank Vinov Integration for WooCommerce](https://wordpress.erusoft.com/vakifbank-vinov-integration-for-woocommerce/) — VakıfBank Vinov ile OTP'li ödeme ve talimat yönetimi. | Ödeme | Yakında |
-| [Campaign Engine for WooCommerce](https://wordpress.erusoft.com/campaign-engine-for-woocommerce/) — Koşul ve aksiyon tabanlı tam kampanya motoru ve sihirbazı. | Pazarlama & Kampanya | Yakında |
-| [Checkout Consent Sync for İYS](https://wordpress.erusoft.com/checkout-consent-sync-for-iys/) — Ödeme sayfasında iletişim izni alır ve İYS ile senkronlar. | Pazarlama & Kampanya | Yakında |
-| [Consent Manager for İYS](https://wordpress.erusoft.com/consent-manager-for-iys/) — İYS izin deposu, denetim kaydı ve hız sınırlı senkron kuyruğu. | Pazarlama & Kampanya | Yakında |
-| [Marketplace Orders for WooCommerce](https://wordpress.erusoft.com/marketplace-orders-for-woocommerce/) — Pazaryeri siparişlerini WooCommerce'e aktarır; stok ve fiyatı senkronlar. | Pazaryeri | Yakında |
 | [T-Soft Migrator for WooCommerce](https://wordpress.erusoft.com/t-soft-migrator-for-woocommerce/) — T-Soft mağaza verisini WooCommerce'e taşıyan genel içe aktarma aracı. | Ürün & Katalog | Yakında |
 <!-- catalog:end -->
 

@@ -1,0 +1,7 @@
+{
+	"page": 0,
+	"size": 200,
+	"totalPages": 2,
+	"totalElements": 3,
+	"content": [ {{PKG_1}}, {{PKG_2}} ]
+}

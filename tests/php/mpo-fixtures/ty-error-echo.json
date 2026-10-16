@@ -1,0 +1,11 @@
+{
+	"errors": [ { "message": "Demo sunucu hatası" } ],
+	"echo": {
+		"Authorization": "{{AUTH}}",
+		"apiSecretValue": "{{SECRET}}",
+		"note": "anahtar {{KEY}} ile gelen istek",
+		"tcIdentityNumber": "{{TCKN}}",
+		"invoiceAddress": { "taxNumber": "{{TAXNO}}" },
+		"plain": "kimlik {{TCKN}}"
+	}
+}

@@ -1,0 +1,67 @@
+{
+	"remote_ref": "{{REF}}",
+	"order_number": "DEMO-ON-{{REF}}",
+	"package_id": "{{REF}}",
+	"status": "{{STATUS}}",
+	"remote_status": "Demo{{STATUS}}",
+	"ordered_at": 1791007200,
+	"currency": "TRY",
+	"customer": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"email": "demo.alici@example.com",
+		"phone": "{{PHONE}}",
+		"tax_number": "{{TAXNO}}",
+		"tax_office": "Demo Vergi Dairesi"
+	},
+	"billing": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"address_1": "Demo Mahallesi Örnek Sokak No: 5",
+		"district": "Çankaya",
+		"city": "{{BCITY}}",
+		"country": "TR",
+		"phone": "{{PHONE}}"
+	},
+	"shipping": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"address_1": "Örnek Caddesi No: 6",
+		"district": "Konak",
+		"city": "{{SCITY}}",
+		"country": "TR",
+		"phone": "{{PHONE}}"
+	},
+	"lines": [
+		{
+			"remote_line_id": "DEMO-L1-{{REF}}",
+			"sku": "{{SKU}}",
+			"name": "Demo Tişört",
+			"quantity": 2,
+			"unit_price": 149.90,
+			"discount": 0,
+			"vat_rate": 20
+		},
+		{
+			"remote_line_id": "DEMO-L2-{{REF}}",
+			"sku": "{{SKU2}}",
+			"name": "Demo Şort",
+			"quantity": 1,
+			"unit_price": 89.90,
+			"discount": 0,
+			"vat_rate": 20,
+			"status": "{{L2STATUS}}"
+		}
+	],
+	"totals": {
+		"shipping": "{{SHIP}}",
+		"shipping_vat_rate": "{{SHIPVAT}}",
+		"discount": "{{DISCOUNT}}",
+		"total": "{{TOTAL}}"
+	},
+	"events": [],
+	"raw": {
+		"packageRef": "{{REF}}",
+		"marker": "demo-raw-marker"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"id": "{{LINE}}",
+	"orderNumber": "{{NUM}}",
+	"orderId": "DEMO-HB-ORDER-{{NUM}}",
+	"orderDate": "{{DATE}}",
+	"status": "Open",
+	"merchantSKU": "{{SKU}}",
+	"sku": "HBV0000DEMO{{SKU_TAG}}",
+	"name": "{{NAME}}",
+	"quantity": {{QTY}},
+	"unitPrice": { "amount": {{UNIT}}, "currency": "TRY" },
+	"totalPrice": { "amount": {{TOTAL}}, "currency": "TRY" },
+	"merchantDiscount": { "totalPrice": { "amount": {{MD}}, "currency": "TRY" } },
+	"hbDiscount": { "totalPrice": { "amount": {{HD}}, "currency": "TRY" } },
+	"commission": { "amount": {{COM}}, "currency": "TRY" },
+	"commissionRate": {{COM_RATE}},
+	"vatRate": 20,
+	"customerName": "Demo Alıcı",
+	"dueDate": "{{DATE}}",
+	"deliveryType": "Standard",
+	"cargoCompanyModel": null,
+	"shippingAddress": {
+		"name": "Demo Alıcı",
+		"address": "Demo Caddesi No 2",
+		"district": "Demo Mahallesi",
+		"town": "Konak",
+		"city": "İzmir",
+		"postalCode": "35000",
+		"countryCode": "TR",
+		"phoneNumber": "{{PHONE}}",
+		"email": "mpo.test.hb@example.com"
+	},
+	"invoice": {
+		"turkishIdentityNumber": "{{TCKN}}",
+		"taxNumber": "",
+		"taxOffice": "",
+		"address": {
+			"name": "Demo Alıcı",
+			"address": "Demo Caddesi No 2",
+			"district": "Demo Mahallesi",
+			"town": "Konak",
+			"city": "İzmir",
+			"postalCode": "35000",
+			"countryCode": "TR",
+			"phoneNumber": "{{PHONE}}",
+			"email": "mpo.test.hb@example.com"
+		}
+	}
+}

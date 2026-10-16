@@ -1,0 +1,7 @@
+{
+	"orderNumber": "{{NUM}}",
+	"lineItemId": "{{LINE}}",
+	"quantity": {{QTY}},
+	"cancelledBy": "Customer",
+	"cancelReasonCode": "DEMO"
+}

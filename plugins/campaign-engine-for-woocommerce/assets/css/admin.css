@@ -1,0 +1,226 @@
+/* Campaign Engine — admin. */
+.eru-ce-steps {
+	display: flex;
+	flex-wrap: wrap;
+	gap: .5rem;
+	margin: 0 0 1rem;
+	padding: 0;
+	list-style: none;
+	counter-reset: none;
+}
+.eru-ce-steps li {
+	margin: 0;
+}
+.eru-ce-step-tab {
+	display: inline-flex;
+	align-items: center;
+	gap: .4rem;
+	padding: .4rem .8rem;
+	border: 1px solid #c3c4c7;
+	border-radius: 999px;
+	background: #fff;
+	cursor: pointer;
+	font-size: 13px;
+}
+.eru-ce-step-tab.is-current {
+	border-color: #2271b1;
+	background: #2271b1;
+	color: #fff;
+}
+.eru-ce-step-tab.has-error {
+	border-color: #d63638;
+}
+.eru-ce-step-no {
+	display: inline-grid;
+	place-items: center;
+	width: 1.4rem;
+	height: 1.4rem;
+	border-radius: 50%;
+	background: rgba(0, 0, 0, .08);
+	font-weight: 600;
+}
+.eru-ce-step h3 {
+	margin: .5rem 0 1rem;
+}
+.eru-ce-wizard:not(.is-js) .eru-ce-nav,
+.eru-ce-wizard:not(.is-js) .eru-ce-steps {
+	display: none;
+}
+.eru-ce-wizard:not(.is-js) .eru-ce-step + .eru-ce-step {
+	margin-top: 1.5rem;
+	padding-top: 1rem;
+	border-top: 1px solid #dcdcde;
+}
+.eru-ce-nav {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 1rem;
+	padding-top: .75rem;
+	border-top: 1px solid #dcdcde;
+}
+.eru-ce-types {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+	gap: .5rem;
+}
+.eru-ce-type {
+	display: flex;
+	gap: .5rem;
+	align-items: flex-start;
+	padding: .6rem .75rem;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	background: #fff;
+}
+.eru-ce-type:has(input:checked) {
+	border-color: #2271b1;
+	box-shadow: 0 0 0 1px #2271b1;
+}
+.eru-ce-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+	gap: 0 1.25rem;
+}
+.eru-ce-field select,
+.eru-ce-wide {
+	max-width: 100%;
+}
+.eru-ce-wide,
+.eru-ce-field .select2-container {
+	width: 100% !important;
+}
+.eru-ce-field-error {
+	margin: .25rem 0 .75rem;
+	color: #d63638;
+	font-weight: 600;
+}
+.eru-ce-field.has-error input,
+.eru-ce-field.has-error .select2-selection {
+	border-color: #d63638;
+}
+.eru-ce-group {
+	margin: .5rem 0;
+	padding: .75rem;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	background: #f6f7f7;
+}
+.eru-ce-group--nested {
+	background: #fff;
+}
+.eru-ce-group-head,
+.eru-ce-group-actions,
+.eru-ce-leaf,
+.eru-ce-value {
+	display: flex;
+	flex-wrap: wrap;
+	gap: .4rem;
+	align-items: center;
+}
+.eru-ce-leaf {
+	margin: .4rem 0;
+	padding: .4rem;
+	border-radius: 4px;
+	background: #fff;
+}
+.eru-ce-group--nested .eru-ce-leaf {
+	background: #f6f7f7;
+}
+.eru-ce-group-actions {
+	margin-top: .5rem;
+}
+.eru-ce-remove {
+	color: #b32d2e;
+}
+.eru-ce-day {
+	margin-right: .5rem;
+	white-space: nowrap;
+}
+.eru-ce-json summary {
+	cursor: pointer;
+	margin: .5rem 0;
+}
+.eru-ce-tiers td,
+.eru-ce-tiers th {
+	padding: .35rem .5rem;
+}
+.eru-ce-exclusive-warning {
+	padding: .5rem .75rem;
+	border-left: 4px solid #dba617;
+	background: #fcf9e8;
+}
+.eru-ce-preview-table td,
+.eru-ce-preview-table th {
+	padding: .3rem .4rem;
+	font-size: 12px;
+}
+.eru-ce-preview-why ul,
+.eru-ce-preview-warn ul {
+	margin: .25rem 0 0 1rem;
+	list-style: disc;
+}
+.eru-ce-preview-warn {
+	color: #8a6a00;
+}
+.eru-ce-templates {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+	gap: 1rem;
+	margin-top: 1rem;
+}
+.eru-ce-template {
+	display: flex;
+	flex-direction: column;
+	padding: 1rem 1.1rem;
+	border: 1px solid #c3c4c7;
+	border-radius: 6px;
+	background: #fff;
+}
+.eru-ce-template h2 {
+	margin: 0 0 .25rem;
+	font-size: 1.1rem;
+}
+.eru-ce-template p:last-child {
+	margin-top: auto;
+	margin-bottom: 0;
+}
+.eru-ce-template-gives {
+	margin: 0;
+	color: #2271b1;
+	font-weight: 600;
+}
+.eru-ce-template--blank {
+	border-style: dashed;
+}
+.eru-ce-state {
+	display: inline-block;
+	padding: .1rem .5rem;
+	border-radius: 999px;
+	background: #dcdcde;
+	font-size: 12px;
+	font-weight: 600;
+}
+.eru-ce-state--active,
+.eru-ce-state--ok {
+	background: #d1e7dd;
+	color: #0a3622;
+}
+.eru-ce-state--paused,
+.eru-ce-state--waiting,
+.eru-ce-state--warn {
+	background: #fcf0c3;
+	color: #614a00;
+}
+.eru-ce-state--error {
+	background: #f8d7da;
+	color: #58151c;
+}
+.eru-ce-state--ended,
+.eru-ce-state--draft,
+.eru-ce-state--info {
+	background: #e9ecef;
+	color: #3c434a;
+}
+.eru-ce-status td {
+	vertical-align: top;
+}

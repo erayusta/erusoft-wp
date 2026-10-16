@@ -928,33 +928,6 @@
     "version": "1.0.0"
   },
   {
-    "slug": "checkout-consent-sync-for-iys",
-    "name": "Checkout Consent Sync for İYS",
-    "type": "plugin",
-    "category": "Pazarlama & Kampanya",
-    "tagline_tr": "Ödeme sayfasında iletişim izni alır ve İYS ile senkronlar.",
-    "tagline_en": "Collects contact consent at checkout and syncs it with İYS.",
-    "features_tr": [
-      "Ödeme sayfasında izin kutusu",
-      "Hesabım'da iletişim izinleri sekmesi",
-      "Kuyruk ve zamanlanmış senkron"
-    ],
-    "requires": {
-      "wp": "6.5",
-      "wc": "9.0",
-      "php": "8.0"
-    },
-    "integrations": [
-      "İYS"
-    ],
-    "status": "coming-soon",
-    "phase": 3,
-    "repo": null,
-    "path": null,
-    "screenshots": [],
-    "version": "1.0.0"
-  },
-  {
     "slug": "conversion-boosters-for-woocommerce",
     "name": "Conversion Boosters for WooCommerce",
     "type": "plugin",
@@ -1891,12 +1864,14 @@
     "name": "Sales Team Commissions for WooCommerce",
     "type": "plugin",
     "category": "Müşteri & B2B",
-    "tagline_tr": "Satış temsilcisi hiyerarşisi, komisyon kuralları ve ödeme akışı.",
-    "tagline_en": "Sales rep hierarchy, commission rules and payout flow.",
+    "tagline_tr": "Satış temsilcisi hiyerarşisi, kural bazlı komisyon, bekleme süresi ve ödeme talebi akışı.",
+    "tagline_en": "Sales rep hierarchy, rule-based commissions, a hold period and a payout request flow.",
     "features_tr": [
-      "Temsilci hiyerarşisi",
-      "Ürün, kategori ve seviye bazlı komisyon",
-      "Ödeme talebi akışı"
+      "Temsilci hiyerarşisi ve müşteri atama (davet linki, sırayla dağıtım, elle)",
+      "Ürün, kategori, marka ve seviye bazlı komisyon kuralları",
+      "İade ve iptallerde otomatik düzeltme, bekleme süresi",
+      "Hesabım'da temsilci paneli ve ödeme talebi",
+      "Şifreli ödeme bilgileri, CSV ve WP-CLI raporları"
     ],
     "requires": {
       "wp": "6.5",
@@ -1904,11 +1879,19 @@
       "php": "8.0"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/sales-team-commissions-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/sales-team-commissions-for-woocommerce/1.png",
+      "docs/screenshots/sales-team-commissions-for-woocommerce/2.png",
+      "docs/screenshots/sales-team-commissions-for-woocommerce/3.png",
+      "docs/screenshots/sales-team-commissions-for-woocommerce/4.png",
+      "docs/screenshots/sales-team-commissions-for-woocommerce/5.png",
+      "docs/screenshots/sales-team-commissions-for-woocommerce/6.png",
+      "docs/screenshots/sales-team-commissions-for-woocommerce/7.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1916,24 +1899,34 @@
     "name": "Campaign Engine for WooCommerce",
     "type": "plugin",
     "category": "Pazarlama & Kampanya",
-    "tagline_tr": "Koşul ve aksiyon tabanlı tam kampanya motoru ve sihirbazı.",
-    "tagline_en": "A full condition-and-action campaign engine with a setup wizard.",
+    "tagline_tr": "Koşul ve aksiyon tabanlı kampanya motoru: sihirbaz, hazır şablonlar, akıllı sepet ve ödül kuponları.",
+    "tagline_en": "Condition-and-action campaign engine: wizard, ready templates, smart cart offers and reward coupons.",
     "features_tr": [
-      "Koşul ve aksiyon kural motoru",
-      "Kampanya sihirbazı ve şablonlar",
-      "Ödüller ve Hesabım görünümü"
+      "VE/VEYA koşullu kural motoru (ürün, kategori, müşteri, zaman)",
+      "Dört adımlı sihirbaz, hazır şablonlar ve canlı önizleme",
+      "Ürün rozeti, kazanç kutusu, akıllı sepet teklifleri ve kampanya sayfaları",
+      "Harca-kazan ödül kuponları ve Hesabım → Ödüllerim",
+      "Durum ekranı, çakışma uyarısı ve WP-CLI"
     ],
     "requires": {
       "wp": "6.5",
-      "wc": "9.0",
-      "php": "8.0"
+      "wc": "9.9",
+      "php": "8.1"
     },
     "integrations": [],
-    "status": "coming-soon",
+    "status": "stable",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/campaign-engine-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/campaign-engine-for-woocommerce/1.png",
+      "docs/screenshots/campaign-engine-for-woocommerce/2.png",
+      "docs/screenshots/campaign-engine-for-woocommerce/3.png",
+      "docs/screenshots/campaign-engine-for-woocommerce/4.png",
+      "docs/screenshots/campaign-engine-for-woocommerce/5.png",
+      "docs/screenshots/campaign-engine-for-woocommerce/6.png",
+      "docs/screenshots/campaign-engine-for-woocommerce/7.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1941,12 +1934,14 @@
     "name": "Consent Manager for İYS",
     "type": "plugin",
     "category": "Pazarlama & Kampanya",
-    "tagline_tr": "İYS izin deposu, denetim kaydı ve hız sınırlı senkron kuyruğu.",
-    "tagline_en": "An İYS consent store with audit log and a rate-limited sync queue.",
+    "tagline_tr": "İYS izin deposu, denetim kaydı, ödeme ve Hesabım'da izin toplama, hız sınırlı senkron kuyruğu.",
+    "tagline_en": "İYS consent store with audit trail, checkout and My Account capture and a rate-limited sync queue.",
     "features_tr": [
-      "İzin deposu ve denetim kaydı",
-      "Hız sınırlı İYS kuyruğu",
-      "Toplu aktarım"
+      "İzin deposu ve denetim kaydı (kim, ne zaman, hangi kaynaktan)",
+      "Kurallara uygun toplu İYS kuyruğu ve otomatik yeniden deneme",
+      "Ödeme sayfası, kayıt ve Hesabım'da izin yönetimi",
+      "İYS'den değişiklik çekme ve gece mutabakatı",
+      "CSV ve WP-CLI ile toplu aktarım, imzalı harici uç"
     ],
     "requires": {
       "wp": "6.5",
@@ -1956,11 +1951,18 @@
     "integrations": [
       "İYS"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/consent-manager-for-iys",
+    "screenshots": [
+      "docs/screenshots/consent-manager-for-iys/1.png",
+      "docs/screenshots/consent-manager-for-iys/2.png",
+      "docs/screenshots/consent-manager-for-iys/3.png",
+      "docs/screenshots/consent-manager-for-iys/4.png",
+      "docs/screenshots/consent-manager-for-iys/5.png",
+      "docs/screenshots/consent-manager-for-iys/6.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -1968,13 +1970,14 @@
     "name": "Marketplace Orders for WooCommerce",
     "type": "plugin",
     "category": "Pazaryeri",
-    "tagline_tr": "Pazaryeri siparişlerini WooCommerce'e aktarır; stok ve fiyatı senkronlar.",
-    "tagline_en": "Imports marketplace orders into WooCommerce and syncs stock and prices.",
+    "tagline_tr": "Trendyol ve Hepsiburada siparişlerini tekrar-güvenli aktarır; stok ve fiyatı kurallarla senkronlar.",
+    "tagline_en": "Imports Trendyol and Hepsiburada orders without duplicates and syncs stock and prices with rules.",
     "features_tr": [
-      "Pazaryeri adaptör yapısı",
-      "Tekrar-güvenli sipariş aktarımı",
-      "Birleşik durumlar ve yaşam döngüsü",
-      "Stok köprüsü modülü"
+      "Pazaryeri adaptör yapısı (Trendyol, Hepsiburada; yenisi eklenebilir)",
+      "Tekrar-güvenli sipariş aktarımı ve gözlem modu",
+      "Birleşik durumlar ve yaşam döngüsü (kargo, iptal, iade)",
+      "Kurallı stok ve fiyat köprüsü",
+      "Eski Trendyol/Hepsiburada eklentisinden geçiş"
     ],
     "requires": {
       "wp": "6.5",
@@ -1985,11 +1988,18 @@
       "Trendyol",
       "Hepsiburada"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/marketplace-orders-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/marketplace-orders-for-woocommerce/1.png",
+      "docs/screenshots/marketplace-orders-for-woocommerce/2.png",
+      "docs/screenshots/marketplace-orders-for-woocommerce/3.png",
+      "docs/screenshots/marketplace-orders-for-woocommerce/4.png",
+      "docs/screenshots/marketplace-orders-for-woocommerce/5.png",
+      "docs/screenshots/marketplace-orders-for-woocommerce/6.png"
+    ],
     "version": "1.0.0"
   },
   {
@@ -2125,12 +2135,14 @@
     "name": "VakıfBank Vinov Integration for WooCommerce",
     "type": "plugin",
     "category": "Ödeme",
-    "tagline_tr": "VakıfBank Vinov ile OTP'li ödeme ve talimat yönetimi.",
-    "tagline_en": "OTP payments and instruction management with VakıfBank Vinov.",
+    "tagline_tr": "VakıfBank Vinov ile banka doğrulamalı OTP'li ödeme, talimat takibi ve iptali.",
+    "tagline_en": "Bank-verified OTP payments, instruction tracking and cancellation with VakıfBank Vinov.",
     "features_tr": [
-      "OTP'li ödeme",
-      "Talimat oluşturma, listeleme, iptal",
-      "Kampanya ve hareket sorguları"
+      "TC kimlik + SMS doğrulamalı Vinov ödeme yöntemi (sunucu taraflı)",
+      "Taksit farkının siparişte ayrı satır olarak gösterilmesi",
+      "Talimat listeleme, detay ve iptal (sipariş ekranından)",
+      "Zamanlanmış talimat durumu takibi",
+      "Kampanya ve hareket sorguları, kişisel veri saklamadan"
     ],
     "requires": {
       "wp": "6.5",
@@ -2140,11 +2152,17 @@
     "integrations": [
       "VakıfBank Vinov"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 3,
     "repo": null,
-    "path": null,
-    "screenshots": [],
+    "path": "plugins/vakifbank-vinov-integration-for-woocommerce",
+    "screenshots": [
+      "docs/screenshots/vakifbank-vinov-integration-for-woocommerce/1.png",
+      "docs/screenshots/vakifbank-vinov-integration-for-woocommerce/2.png",
+      "docs/screenshots/vakifbank-vinov-integration-for-woocommerce/3.png",
+      "docs/screenshots/vakifbank-vinov-integration-for-woocommerce/4.png",
+      "docs/screenshots/vakifbank-vinov-integration-for-woocommerce/5.png"
+    ],
     "version": "1.0.0"
   },
   {

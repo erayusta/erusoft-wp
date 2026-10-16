@@ -1,0 +1,1 @@
+{"Header": {"StatusCode": "APIGW000000", "StatusDescription": "Başarılı", "ObjectID": "demo-011"}, "Data": {"WorkPlaceInstruction": [{"Id": {{ID}}, "InvoiceNumber": "{{INVOICE}}", "InstructionDescription": "{{DESCRIPTION}}", "InstructionAmount": {{AMOUNT}}, "InstructionStatusCode": 3}]}}

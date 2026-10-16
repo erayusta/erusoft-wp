@@ -1,0 +1,68 @@
+{
+	"shipmentPackageId": {{PKG}},
+	"id": {{PKG}},
+	"orderNumber": "{{NUM}}",
+	"orderDate": {{DATE_MS}},
+	"status": "{{STATUS}}",
+	"currencyCode": "TRY",
+	"customerFirstName": "Demo",
+	"customerLastName": "Alıcı",
+	"customerEmail": "mpo.test.ty@example.com",
+	"tcIdentityNumber": "{{TCKN}}",
+	"packageTotalPrice": 369.7,
+	"cargoProviderName": "Demo Kargo",
+	"cargoTrackingNumber": "{{TRACK}}",
+	"cargoTrackingLink": "",
+	"cargoSenderNumber": "DEMO-GND-{{PKG}}",
+	"shipmentAddress": {
+		"firstName": "Demo",
+		"lastName": "Alıcı",
+		"address1": "Demo Sokak No 1",
+		"neighborhood": "Demo Mahallesi",
+		"district": "Çankaya",
+		"city": "Ankara",
+		"cityCode": 6,
+		"postalCode": "06000",
+		"countryCode": "TR",
+		"phone": "{{PHONE}}"
+	},
+	"invoiceAddress": {
+		"firstName": "Demo",
+		"lastName": "Alıcı",
+		"address1": "Demo Sokak No 1",
+		"district": "Çankaya",
+		"city": "Ankara",
+		"cityCode": 6,
+		"postalCode": "06000",
+		"countryCode": "TR",
+		"taxNumber": "{{TAXNO}}",
+		"taxOffice": "Demo Vergi Dairesi"
+	},
+	"lines": [
+		{
+			"id": {{LINE_A}},
+			"stockCode": "{{SKU_A}}",
+			"barcode": "DEMO-BC-A",
+			"productName": "Demo Tişört",
+			"quantity": 2,
+			"lineGrossAmount": 149.9,
+			"lineUnitPrice": 139.9,
+			"lineSellerDiscount": 10,
+			"commission": 12.5,
+			"vatRate": 20,
+			"orderLineItemStatusName": "{{LINE_A_STATUS}}"
+		},
+		{
+			"id": {{LINE_B}},
+			"stockCode": "{{SKU_B}}",
+			"barcode": "DEMO-BC-B",
+			"productName": "Demo Şort",
+			"quantity": 1,
+			"lineGrossAmount": 89.9,
+			"lineUnitPrice": 89.9,
+			"commission": 15,
+			"vatRate": 20,
+			"orderLineItemStatusName": "Created"
+		}
+	]
+}

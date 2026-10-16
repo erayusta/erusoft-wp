@@ -39,7 +39,7 @@ Etkinleştirme sonrası eklenti pasiftir: ana anahtar açılıp üç kimlik bilg
 | Satıcı ID / API anahtarı / API secret | Anahtar ve secret yalnızca yazılabilir: ekrana geri yazılmaz ("Kayıtlı"), boş bırakılırsa korunur, "Sil" ile silinir. Ayarlar tek seçenekte `autoload=no` saklanır. Kimlik bilgileri yalnızca `Authorization: Basic` başlığında gider, adrese (GET) eklenmez, günlüğe yazılmaz. |
 | Entegrasyon referansı | `User-Agent: <satıcı ID> - <referans>` başlığı; kendi entegrasyonunuzsa `SelfIntegration`. |
 
-Kimlik bilgilerini başka bir eklenti sağlıyorsa `eru_ppt_credentials` filtresini kullanın (ör. ileride Marketplace Orders): `seller_id`, `api_key`, `api_secret`, `integration_ref` anahtarlı diziyi döndürün; filtre ayarların üzerine yazar. Bilgilerden biri boşsa hiçbir istek gönderilmez ve açık bir hata döner.
+Kimlik bilgilerini başka bir eklenti sağlıyorsa `eru_ppt_credentials` filtresini kullanın (ör. Marketplace Orders for WooCommerce, "Trendyol bilgilerini Product Push ile paylaş" ayarı açıkken yalnızca boş anahtarları doldurur): `seller_id`, `api_key`, `api_secret`, `integration_ref` anahtarlı diziyi döndürün; filtre ayarların üzerine yazar. Bilgilerden biri boşsa hiçbir istek gönderilmez ve açık bir hata döner.
 
 Her istek `wp_remote_request` ile tek denemedir (30 sn zaman aşımı, yönlendirme yok, `sleep` yok). JSON gövdesi `serialize_precision = -1` ile kodlanır ve önceki değer geri yüklenir; böylece `194.35` her sunucuda `194.35` olarak gider. Ayar ekranının altındaki **Son istekler** günlüğü yalnızca son 100 isteğin yöntem, yol, HTTP kodu, süre ve (gizlenmiş) hata metnini tutar; başlık ve gövde saklanmaz.
 
@@ -117,7 +117,7 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 ## Sınırlamalar
 
 - **Beta:** Trendyol Ürün V2 uçlarının tamamı (oluşturma, onaylı/onaysız güncelleme, onaylı/onaysız listeler, batch sonucu, kategori ağacı, kategori özellikleri, marka, adres) yalnızca belgelenen biçimdeki **uydurma (mock) yanıtlarla** sınandı. Özellikle listelerin `barcode` filtresi, batch sonucundaki `requestItem` biçimi ve güncelleme uçlarının alan listeleri kendi hesabınızla (önce test ortamında) doğrulanmalıdır; yollar `eru_ppt_paths` ile değiştirilebilir.
-- **Yalnızca içerik gönderimi yapılır.** Fiyat ve stok eşitlemesi (price-and-inventory) bu eklentide yoktur; stok ve fiyat yalnızca ilk oluşturmada gider. Sürekli eşitleme için Marketplace Orders (yakında) planlanmaktadır.
+- **Yalnızca içerik gönderimi yapılır.** Fiyat ve stok eşitlemesi (price-and-inventory) bu eklentide yoktur; stok ve fiyat yalnızca ilk oluşturmada gider. Sürekli stok ve fiyat eşitlemesi için Marketplace Orders for WooCommerce'in stok köprüsünü kullanın.
 - Trendyol'un içerik kuralları (yasaklı kelimeler, görsel boyutu, başlık biçimi, marka yetkisi) mağazanın sorumluluğundadır; eklenti bunları denetlemez. Gerekirse `eru_ppt_item` filtresiyle uygulayın.
 - Teslimat süresi/kargo firması güncelleme ucu (delivery-info) ve ürün silme/arşivleme desteklenmez. Gruplanmış, harici ve diğer ürün türleri gönderilmez.
 - Kargo firması kimliği elle girilir (listesi Trendyol entegrasyon dokümanındadır).

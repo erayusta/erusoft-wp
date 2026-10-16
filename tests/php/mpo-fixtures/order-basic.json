@@ -1,0 +1,70 @@
+{
+	"remote_ref": "{{REF}}",
+	"order_number": "DEMO-ON-{{REF}}",
+	"package_id": "{{REF}}",
+	"remote_order_id": "DEMO-OID-{{REF}}",
+	"status": "{{STATUS}}",
+	"remote_status": "Demo{{STATUS}}",
+	"ordered_at": 1791000000,
+	"currency": "TRY",
+	"customer": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"email": "demo.alici@example.com",
+		"phone": "{{PHONE}}",
+		"identity_number": "{{TCKN}}",
+		"tax_number": "",
+		"tax_office": ""
+	},
+	"billing": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"address_1": "Demo Mahallesi Örnek Sokak No: 1",
+		"neighborhood": "Demo Mahallesi",
+		"district": "Çankaya",
+		"city": "Ankara",
+		"postcode": "06000",
+		"country": "TR",
+		"phone": "{{PHONE}}"
+	},
+	"shipping": {
+		"first_name": "Demo",
+		"last_name": "Alıcı",
+		"address_1": "Örnek Caddesi No: 2",
+		"district": "Konak",
+		"city": "izmir",
+		"postcode": "35000",
+		"country": "TR",
+		"phone": "{{PHONE}}"
+	},
+	"lines": [
+		{
+			"remote_line_id": "DEMO-L1-{{REF}}",
+			"sku": "{{SKU}}",
+			"barcode": "",
+			"name": "Demo Tişört",
+			"quantity": 2,
+			"unit_price": 149.90,
+			"discount": 0,
+			"vat_rate": 20,
+			"commission_rate": 12.5
+		}
+	],
+	"totals": {
+		"shipping": 0,
+		"discount": 0,
+		"total": 299.80
+	},
+	"cargo_provider": "Demo Kargo",
+	"tracking_number": "DEMO-TRK-{{REF}}",
+	"tracking_url": "",
+	"events": [],
+	"raw": {
+		"packageRef": "{{REF}}",
+		"marker": "demo-raw-marker",
+		"invoiceAddress": {
+			"identityNumber": "{{TCKN}}",
+			"fullName": "Demo Alıcı"
+		}
+	}
+}

@@ -1,0 +1,107 @@
+/* Campaign Engine — shop front. Colours follow the theme where possible (currentColor, inherit). */
+.eru-ce-badge {
+	position: absolute;
+	top: .5rem;
+	left: .5rem;
+	z-index: 2;
+	max-width: calc(100% - 1rem);
+	padding: .2rem .55rem;
+	border-radius: 999px;
+	background: #1d2327;
+	color: #fff;
+	font-size: .75rem;
+	font-weight: 600;
+	line-height: 1.4;
+	overflow-wrap: anywhere;
+}
+.wc-block-components-product-image,
+.woocommerce ul.products li.product a.woocommerce-LoopProduct-link {
+	position: relative;
+}
+.eru-ce-gain,
+.eru-ce-smart-cart,
+.eru-ce-thankyou {
+	margin: 1rem 0;
+	padding: .9rem 1rem;
+	border: 1px solid rgba(0, 0, 0, .15);
+	border-left: 4px solid #2271b1;
+	border-radius: 4px;
+	background: rgba(34, 113, 177, .05);
+	overflow-wrap: anywhere;
+}
+.eru-ce-gain ul,
+.eru-ce-smart-cart ul,
+.eru-ce-thankyou ul {
+	margin: .25rem 0 0;
+	padding-left: 1.1rem;
+}
+.eru-ce-gain-title,
+.eru-ce-smart-title {
+	margin: 0;
+	font-weight: 600;
+}
+.eru-ce-gain-amount {
+	font-size: .9em;
+}
+.eru-ce-countdown {
+	display: inline-block;
+	font-variant-numeric: tabular-nums;
+	font-size: .9em;
+}
+.eru-ce-offer {
+	margin-top: .75rem;
+}
+.eru-ce-offer p {
+	margin: 0 0 .35rem;
+}
+.eru-ce-progress {
+	height: .5rem;
+	border-radius: 999px;
+	background: rgba(0, 0, 0, .1);
+	overflow: hidden;
+}
+.eru-ce-progress span {
+	display: block;
+	height: 100%;
+	border-radius: inherit;
+	background: #2271b1;
+}
+.eru-ce-summary small {
+	font-weight: 400;
+}
+.eru-ce-pages {
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}
+.eru-ce-cards {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
+	gap: 1rem;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.eru-ce-card {
+	padding: 1rem;
+	border: 1px solid rgba(0, 0, 0, .15);
+	border-radius: 6px;
+}
+.eru-ce-card h2 {
+	margin: 0 0 .25rem;
+	font-size: 1.2rem;
+}
+.eru-ce-card-gives {
+	font-weight: 600;
+}
+.eru-ce-rewards-table .eru-ce-code {
+	font-size: 1rem;
+	letter-spacing: .04em;
+	overflow-wrap: anywhere;
+}
+.eru-ce-gain ul + .eru-ce-gain-title {
+	margin-top: .6rem;
+}
+.eru-ce-gain-note {
+	margin: .4rem 0 0;
+	font-size: .85em;
+}

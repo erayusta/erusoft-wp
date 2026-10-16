@@ -1,0 +1,41 @@
+/* Sales Team Commissions — My Account panel. */
+.eru-stc-account { --eru-stc-line: rgba(0, 0, 0, .12); --eru-stc-soft: rgba(0, 0, 0, .04); --eru-stc-accent: #1f6f5c; max-width: 100%; overflow-wrap: anywhere; }
+.eru-stc-account h3 { margin: 1.6em 0 .6em; font-size: 1.1em; }
+.eru-stc-tiles { list-style: none; margin: 0 0 .8em; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; }
+.eru-stc-tile { margin: 0; padding: 12px 14px; border: 1px solid var(--eru-stc-line); border-radius: 8px; background: var(--eru-stc-soft); display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.eru-stc-tile--accent { border-color: var(--eru-stc-accent); box-shadow: inset 3px 0 0 var(--eru-stc-accent); }
+.eru-stc-tile__label { font-size: .82em; opacity: .75; }
+.eru-stc-tile__value { font-size: 1.25em; line-height: 1.2; }
+.eru-stc-muted { font-size: .9em; opacity: .8; }
+.eru-stc-note { padding: 10px 14px; border-left: 3px solid var(--eru-stc-accent); background: var(--eru-stc-soft); }
+.eru-stc-code { font-size: 1em; padding: 2px 6px; }
+.eru-stc-copy, .eru-stc-inline { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.eru-stc-copy input, .eru-stc-inline input[type="email"] { flex: 1 1 220px; min-width: 0; }
+.eru-stc-table { width: 100%; }
+.eru-stc-table td, .eru-stc-table th { vertical-align: top; }
+.eru-stc-badge { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: .82em; background: var(--eru-stc-soft); border: 1px solid var(--eru-stc-line); white-space: nowrap; }
+.eru-stc-badge--approved, .eru-stc-badge--active { border-color: #2e7d32; color: #1b5e20; }
+.eru-stc-badge--paid { background: #1f6f5c; border-color: #1f6f5c; color: #fff; }
+.eru-stc-badge--void, .eru-stc-badge--cancelled, .eru-stc-badge--suspended { opacity: .7; text-decoration: line-through; }
+.eru-stc-badge--requested, .eru-stc-badge--pending { border-color: #b26a00; color: #8a5200; }
+.eru-stc-filter { list-style: none; margin: 0 0 1em; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 14px; }
+.eru-stc-filter .is-current { font-weight: 600; text-decoration: none; }
+.eru-stc-pager { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin: 1em 0; }
+.eru-stc-masked { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0 0 1em; }
+.eru-stc-masked dt { font-weight: 600; margin: 0; }
+.eru-stc-masked dd { margin: 0; min-width: 0; }
+.eru-stc-details-form .input-text { width: 100%; max-width: 420px; box-sizing: border-box; }
+.eru-stc-link-button { background: none !important; border: 0 !important; padding: 0 !important; text-decoration: underline; color: #a00 !important; box-shadow: none !important; }
+@media (max-width: 600px) {
+	.eru-stc-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+	.eru-stc-table thead { display: none; }
+	.eru-stc-table, .eru-stc-table tbody, .eru-stc-table tr, .eru-stc-table td { display: block; width: 100%; box-sizing: border-box; }
+	.eru-stc-table tr { border: 1px solid var(--eru-stc-line); border-radius: 8px; margin: 0 0 10px; padding: 6px 10px; }
+	.eru-stc-table td { display: flex; justify-content: space-between; gap: 12px; padding: 4px 0; border: 0; text-align: right; }
+	.eru-stc-table td::before { content: attr(data-title); font-weight: 600; text-align: left; }
+	.eru-stc-masked { grid-template-columns: 1fr; }
+	.eru-stc-masked dd { margin-bottom: 6px; }
+}
+.eru-stc-copy input, .eru-stc-inline input { padding: .55em .75em; border: 1px solid var(--eru-stc-line); border-radius: 6px; font: inherit; font-size: .95em; background: #fff; color: inherit; box-sizing: border-box; }
+.eru-stc-copy .button, .eru-stc-inline .button, .eru-stc-form .button { padding: .55em 1.1em; border-radius: 6px; font: inherit; font-size: .95em; cursor: pointer; }
+.eru-stc-copy .button, .eru-stc-inline .button { border: 1px solid var(--eru-stc-accent); background: var(--eru-stc-accent); color: #fff; }

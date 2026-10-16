@@ -1,0 +1,15 @@
+.eru-vnv-dl{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;margin:0 0 10px}
+.eru-vnv-dl dt{color:#50575e}
+.eru-vnv-dl dd{margin:0;font-weight:600;word-break:break-word}
+.eru-vnv-actions .button{margin:0 4px 4px 0}
+.eru-vnv-danger{color:#b32d2e!important;border-color:#b32d2e!important}
+.eru-vnv-confirm{background:#fcf0f1;border-left:3px solid #b32d2e;padding:6px 10px;margin:6px 0}
+.eru-vnv-confirm .button-primary.eru-vnv-danger{background:#b32d2e;color:#fff!important}
+.eru-vnv-result table{width:100%;margin-top:6px}
+.eru-vnv-result .is-error{color:#b32d2e}
+.eru-vnv-admin .eru-vnv-filters{margin:12px 0;display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center}
+.eru-vnv-admin .eru-vnv-inline{display:inline-block;margin:0 0 10px}
+.eru-vnv-admin .eru-vnv-scroll{overflow-x:auto}
+.eru-vnv-admin .eru-vnv-pager{margin-top:10px}
+.eru-vnv-ok{color:#008a20;font-weight:600}
+.eru-vnv-bad{color:#b32d2e;font-weight:600}

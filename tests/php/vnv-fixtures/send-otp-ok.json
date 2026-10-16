@@ -1,0 +1,1 @@
+{"Header": {"StatusCode": "APIGW000000", "StatusDescription": "Başarılı", "ObjectID": "demo-001"}, "Data": {"OTPInfo": {"OTPTransactionId": {{OTP_TXN}}}}}

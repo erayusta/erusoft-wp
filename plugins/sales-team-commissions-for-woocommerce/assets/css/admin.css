@@ -1,0 +1,36 @@
+/* Sales Team Commissions — admin screens. */
+.eru-stc-wrap .eru-stc-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin: 16px 0 20px; }
+.eru-stc-tile { background: #fff; border: 1px solid #dcdcde; border-radius: 6px; padding: 12px 14px; display: flex; flex-direction: column; gap: 4px; }
+.eru-stc-tile.is-accent { border-color: #1f6f5c; box-shadow: inset 3px 0 0 #1f6f5c; }
+.eru-stc-tile.is-warn { border-color: #dba617; box-shadow: inset 3px 0 0 #dba617; }
+.eru-stc-tile__label { color: #50575e; font-size: 12px; text-transform: uppercase; letter-spacing: .02em; }
+.eru-stc-tile__value { font-size: 20px; line-height: 1.3; }
+.eru-stc-tile__sub { color: #646970; font-size: 12px; }
+.eru-stc-columns { display: grid; grid-template-columns: repeat(auto-fit, minmax(360px, 1fr)); gap: 20px; align-items: start; }
+.eru-stc-card { background: #fff; border: 1px solid #dcdcde; border-radius: 6px; padding: 4px 16px 12px; margin: 0 0 16px; }
+.eru-stc-card h2 { font-size: 14px; margin: 12px 0; }
+.eru-stc-card .form-table th { width: 140px; padding: 10px 10px 10px 0; }
+.eru-stc-card .form-table td { padding: 8px 0; }
+.eru-stc-badge { display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: 12px; line-height: 18px; background: #f0f0f1; border: 1px solid #dcdcde; white-space: nowrap; }
+.eru-stc-badge--approved, .eru-stc-badge--active { background: #edfaef; border-color: #68de7c; color: #00450c; }
+.eru-stc-badge--paid { background: #1f6f5c; border-color: #1f6f5c; color: #fff; }
+.eru-stc-badge--pending, .eru-stc-badge--requested { background: #fcf9e8; border-color: #dba617; color: #614a00; }
+.eru-stc-badge--void, .eru-stc-badge--cancelled, .eru-stc-badge--suspended { background: #f6f7f7; color: #646970; }
+.eru-stc-sub { margin: 4px 0 0; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.eru-stc-masked { display: grid; grid-template-columns: max-content 1fr; gap: 6px 16px; margin: 0 0 8px; }
+.eru-stc-masked dt { font-weight: 600; margin: 0; }
+.eru-stc-masked dd { margin: 0; }
+.eru-stc-list { margin: 0 0 12px; }
+.eru-stc-inline { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.eru-stc-filters { margin: 8px 0 4px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.eru-stc-danger { color: #b32d2e !important; }
+.eru-stc-warn { color: #b32d2e; font-size: 12px; }
+.eru-stc-paid-form { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; margin-bottom: 4px; }
+.eru-stc-paid-form input[type="text"] { width: 150px; }
+.eru-stc-cancel-form { margin: 0; }
+.eru-stc-rules tr.is-editing td { background: #f0f6fc; }
+.eru-stc-row { display: flex; gap: 10px; flex-wrap: wrap; }
+.eru-stc-row > span { flex: 1 1 90px; }
+.eru-stc-row input, .eru-stc-row select { width: 100%; }
+.eru-stc-wrap .column-id { width: 60px; }
+.eru-stc-wrap .column-cb { width: 2.2em; }
