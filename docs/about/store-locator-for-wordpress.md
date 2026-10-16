@@ -2,7 +2,7 @@
 
 ## Ne işe yarar
 
-Şube, bayi veya yetkili servis noktalarınızı WordPress yönetiminden girip sitenizde Google Haritalar üzerinde ve liste olarak göstermenizi sağlar. Ziyaretçi il ve ilçeye göre süzer, noktanın telefonunu arar ya da yol tarifi alır. Eklentinin yönetim menüsü adı "Store Locator"dır; depodaki eklenti adı "Eru Store Locator" olarak geçer.
+Şube, bayi veya yetkili servis noktalarınızı WordPress yönetiminden girip sitenizde Google Haritalar üzerinde ve liste olarak göstermenizi sağlar. Ziyaretçi il ve ilçeye göre süzer, noktanın telefonunu arar ya da yol tarifi alır. Eklentinin yönetim menüsü adı "Store Locator"dır; depodaki eklenti adı "Eru Store Locator" olarak geçer. Not: 1.0.1 sürümünde bilinen bir hata vardır; Sınırlamalar bölümüne bakın.
 
 ## Özellikler
 
@@ -18,7 +18,7 @@
 
 ## Kurulum
 
-1. GitHub deposunun Releases bölümünden ya da "Code → Download ZIP" ile ZIP dosyasını indirin.
+1. GitHub deposunda "Code → Download ZIP" ile ZIP dosyasını indirin.
 2. Eklentiler → Yeni ekle → Eklenti yükle ile ZIP'i yükleyip etkinleştirin.
 3. Yönetim menüsündeki **Store Locator → Settings** sayfasında Google Maps API anahtarınızı girin.
 4. **Store Locator → Add New** ile noktalarınızı ekleyin ve ilgili il/ilçe terimlerini seçin.
@@ -34,7 +34,7 @@
 - Harita için Google'a bağlanılır; ziyaretçi sayfayı açtığında harita ve konum istekleri Google'a gider. Bunu gizlilik metninizde belirtmeniz gerekir.
 - Yönetim ekranı metinleri ağırlıklı olarak İngilizcedir; Türkçe çeviri dosyası ayrıca yüklenir.
 - Ayarlar sayfasındaki "özel harita stilleri" bölümü "yakında" olarak işaretlidir; henüz çalışmaz.
-- **Bilinen hata (1.0.1):** ön ek geçişi (`erustlo_` → `erusl_`) yarım kalmıştır. İçerik türü, AJAX eylemleri ve betik verisi farklı adlarla kayıtlı olduğundan mağaza listesi, il/ilçe filtreleri, kısa kod oluşturucu ve içe/dışa aktarma ekranı çalışmaz. Düzeltme sürümü yayımlanana kadar canlı sitede kullanmayın.
+- **Bilinen hata (1.0.1):** ön ek geçişi (`erustlo_` → `erusl_`) yarım kalmıştır: nokta bilgileri (adres, telefon, koordinat) kaydedilmez, harita API anahtarını okumaz, ön yüz AJAX çağrıları ve il/ilçe filtreleri çalışmaz. Düzeltme sürümü yayımlanana kadar canlı sitede kullanmayın.
 
 ## SSS
 

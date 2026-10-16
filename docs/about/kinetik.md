@@ -6,7 +6,7 @@ KİNETİK, Türkiye'deki spor giyim mağazaları için yazılmış klasik (blok 
 
 ## Özellikler
 
-**Tema (`themes/kinetik`)**
+### Tema (`themes/kinetik`)
 
 - Mobil öncelikli, hafif tasarım: WooCommerce'in varsayılan CSS'i yüklenmez, alan bazlı CSS dosyaları sayfaya göre yüklenir, görseller WebP üretilir.
 - Ana sayfa, mağaza/kategori (kategori, beden, cinsiyet ve fiyat süzgeçleri, mobil süzgeç çekmecesi), ürün sayfası, sepet, ödeme ve hesap sayfaları için özel şablonlar.
@@ -15,7 +15,7 @@ KİNETİK, Türkiye'deki spor giyim mağazaları için yazılmış klasik (blok 
 - SEO çıktısı: başlık ve açıklama, canonical, Open Graph/Twitter, Organization, WebSite ve Product JSON-LD.
 - Tema süzgeçleri: `kinetik_footer_credit`, `kinetik_dispatch_days`, `kinetik_return_days` ve `kinetik_welcome_coupon`.
 
-**Dahil eklentiler (`plugins/`)**
+### Dahil eklentiler (`plugins/`)
 
 - **kinetik-sozlesmeler:** Mesafeli Satış Sözleşmesi ve Ön Bilgilendirme Formu'nu siparişe özel üretir; iki ayrı onay kutusu, isteğe bağlı ticari ileti onayı, onay kaydı ve sözleşme kopyasının siparişe yazılması. Satıcı bilgileri WooCommerce → Sözleşmeler ekranından tek yerden yönetilir.
 - **kinetik-tr-adres:** İl → ilçe → mahalle → cadde/sokak seçimi; veri pakete dahildir, dış API çağrısı yapılmaz.
@@ -24,12 +24,11 @@ KİNETİK, Türkiye'deki spor giyim mağazaları için yazılmış klasik (blok 
 
 ## Kurulum
 
-1. GitHub deposunu Releases bölümünden ya da "Code → Download ZIP" ile indirin. Tema ve eklentiler aynı arşivde ayrı klasörlerdedir.
+1. GitHub deposunda "Code → Download ZIP" ile depoyu indirin. Tema ve eklentiler aynı arşivde ayrı klasörlerdedir.
 2. `themes/kinetik` klasörünü ayrıca ZIP'leyip Görünüm → Temalar → Yeni ekle → Tema yükle ile yükleyin (ya da klasörü `wp-content/themes/` altına kopyalayın) ve etkinleştirin.
 3. İstediğiniz eklenti klasörlerini (`plugins/` altında) aynı biçimde ZIP'leyip Eklentiler → Yeni ekle → Eklenti yükle ile yükleyin (ya da `wp-content/plugins/` altına kopyalayın) ve etkinleştirin.
 4. **WooCommerce → Sözleşmeler** ekranında satıcı bilgilerinizi girin.
 5. Sepet ve ödeme sayfalarının `[woocommerce_cart]` ve `[woocommerce_checkout]` kısa kodlarını kullandığından emin olun; TR adres eklentisi klasik ödeme sayfası ister.
-6. İsterseniz `demo/` altındaki WP-CLI betikleri örnek mağazayı (ayarlar, kategoriler, sayfalar, menüler, demo ürünler) kurar. Demo satıcı bilgileri uydurmadır; yayına almadan önce kendi bilgilerinizi girin.
 
 ## Gereksinimler
 
@@ -41,8 +40,8 @@ KİNETİK, Türkiye'deki spor giyim mağazaları için yazılmış klasik (blok 
 - Klasik temadır; blok temaları ve tam site düzenleme desteklenmez.
 - TR adres eklentisi blok tabanlı ödeme sayfasıyla çalışmaz; klasik ödeme sayfası gerekir.
 - Sözleşme ve yasal sayfa şablonları başlangıç noktasıdır, hukuki danışmanlık yerine geçmez; yayından önce bir hukukçuya kontrol ettirin.
-- Demo katalog görselleri ve tema görselleri ayrı lisanslıdır; kaynakları depodaki `CREDITS.md` dosyalarında listelenir.
-- Footer'daki geliştirici imzası varsayılan olarak görünür; `kinetik_footer_credit` süzgeciyle kaldırılabilir.
+- Tema yazı tiplerini Google Fonts'tan yükler; ziyaretçi tarayıcısı Google sunucularına bağlanır. Gerekirse fontları yerel olarak barındırın ve gizlilik metninizde belirtin.
+- Footer'da varsayılan olarak bir geliştirici imzası bağlantısı (Erusoft) görünür; `kinetik_footer_credit` süzgeciyle kaldırılabilir.
 
 ## SSS
 
@@ -52,7 +51,7 @@ KİNETİK, Türkiye'deki spor giyim mağazaları için yazılmış klasik (blok 
 
 **Ücretsiz kargo eşiği nerede ayarlanır?** Eşik WooCommerce'in ücretsiz kargo ayarından okunur; kinetik-marketing eklentisindeki `kinetik_free_shipping_threshold` süzgeciyle de değiştirilebilir.
 
-**Logoyu nasıl değiştiririm?** `tools/make-logo.py` içindeki ad ve işaret değerlerini düzenleyip betiği çalıştırarak logo ve simge setini yeniden üretebilirsiniz.
+**Kargo ücreti nereden gelir?** WooCommerce'in sabit ücret ve ücretsiz kargo yöntemlerinden okunur.
 
 ## Kaynak kod
 

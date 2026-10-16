@@ -18,7 +18,7 @@ Yoast SEO, Rank Math veya All in One SEO ile girilmiş SEO başlığı, açıkla
 
 Bu bir mu-plugin'dir; Eklentiler ekranından yüklenmez.
 
-1. GitHub deposunun Releases bölümünden ya da "Code → Download ZIP" ile depoyu indirin.
+1. GitHub deposunda "Code → Download ZIP" ile depoyu indirin.
 2. Arşivdeki `wordpress/wp-ai-toolkit-seo-rest.php` dosyasını sitenizde `wp-content/mu-plugins/` dizinine kopyalayın. Dizin yoksa oluşturun.
 3. Başka bir adım gerekmez; mu-plugin'ler otomatik etkindir ve ayar ekranı yoktur.
 4. Deneyin: `GET /wp-json/wp/v2/posts/<id>` yanıtında `seo` nesnesini görmelisiniz. Yazmak için uygulama parolasıyla kimlik doğrulayıp aynı uç noktaya `seo` nesnesi gönderin.

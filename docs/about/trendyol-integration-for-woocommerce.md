@@ -2,13 +2,14 @@
 
 ## Ne işe yarar
 
-Trendyol pazaryerinden gelen siparişleri WooCommerce'e izole biçimde aktarır. Siparişler kendi özel durumlarında bekler; normal sipariş akışınızı (stok düşümü, ERP aktarımı, kargo ve müşteri e-postaları) tetiklemez. İsterseniz WooCommerce stoklarını Trendyol'a geri gönderebilirsiniz. Bu eklenti eski bir sürümdür; yeni kurulumlar için katalogdaki Marketplace Orders eklentisine geçmeniz önerilir.
+Trendyol pazaryerinden gelen siparişleri WooCommerce'e izole biçimde aktarır. Siparişler kendi özel durumlarında bekler; normal sipariş akışınızı (stok düşümü, ERP aktarımı, kargo ve müşteri e-postaları) tetiklemez. Sipariş hazırlığa alındığında Trendyol'a durum bildirir; isterseniz stokları da geri gönderebilirsiniz. Bu eklenti eski bir sürümdür; yeni kurulumlar için katalogdaki Marketplace Orders eklentisine geçmeniz önerilir.
 
 ## Özellikler
 
 - 5 dakikalık zamanlı görevle Trendyol siparişlerini çeker; çekilecek paket durumları ve geriye dönük tarama süresi (saat) ayarlanabilir.
 - Sipariş kaydı sırasında `woocommerce_new_order` dinleyicileri geçici olarak devre dışı bırakılır ve hemen geri yüklenir.
 - Özel sipariş durumları: yeni, alındı, hazır, kargo, teslim, iptal ve iade (`trendyol-` öneki).
+- Sipariş "Trendyol - Sipariş Alındı" durumuna alındığında paket Trendyol'da "İşleme Al" (Picking) olarak bildirilir ve sipariş yaklaşık 30 saniye sonra "Hazırlanıyor"a geçer (süre `ERU_TRENDYOL_PICKING_DWELL` sabitiyle değişir; test modunda bildirim gönderilmez).
 - Ürün eşleme: Trendyol `stockCode` değeri WooCommerce SKU'su ile eşleşir; eşleşmeyen kalem işaretlenir ve günlüğe düşer.
 - Test modu: siparişler çekilir ama WooCommerce'e yazılmaz, yalnızca günlüğe işlenir.
 - İsteğe bağlı stok gönderimi (varsayılan kapalı): değişen stoklar 10 dakikalık görevle toplu gönderilir; "tüm stokları gönder" ile tam gönderim yapılabilir. Eşleme önce SKU–`stockCode`, yedek olarak GTIN–barkod ile yapılır.
@@ -19,7 +20,7 @@ Trendyol pazaryerinden gelen siparişleri WooCommerce'e izole biçimde aktarır.
 
 ## Kurulum
 
-1. GitHub deposunun Releases bölümünden ya da "Code → Download ZIP" ile ZIP dosyasını indirin.
+1. GitHub deposunda "Code → Download ZIP" ile ZIP dosyasını indirin.
 2. Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin; tablolar oluşturulur ve zamanlı görev kurulur.
 3. **WooCommerce → Trendyol Siparişleri** sayfasında satıcı kimliği (yalnız rakam), API anahtarı ve API sırrını girin. Eklenti varsayılan olarak kapalı gelir.
 4. Önce "Test modu" ile kimlikleri doğrulayın, sonra test modunu kapatıp "Aktif" kutusunu işaretleyin.
@@ -33,7 +34,7 @@ Trendyol pazaryerinden gelen siparişleri WooCommerce'e izole biçimde aktarır.
 ## Sınırlamalar
 
 - Zamanlı görev ziyarete bağlıdır; az trafikli sitelerde gerçek bir sistem cron'u önerilir.
-- Eşleme SKU üzerindendir; büyük/küçük harf dahil birebir aynı olmalıdır.
+- Eşleme `stockCode` = SKU (yedek: barkod = SKU) üzerindendir; kodların aynı olması gerekir.
 - Stok gönderimi açıkken yanlış eşleşme Trendyol stoklarını bozabilir; önce eşleşmeleri kontrol edin.
 - Sipariş meta alanları fatura bilgisi gibi kişisel veri içerebilir; veri koruma yükümlülükleri mağaza sahibindedir.
 - Eski sürüm olarak sunulur; yeni özellik geliştirmesi beklenmemelidir.
@@ -44,7 +45,7 @@ Trendyol pazaryerinden gelen siparişleri WooCommerce'e izole biçimde aktarır.
 
 **Siparişler neden stok düşürmüyor?** Pazaryeri stoku kendi tarafında yönetir; çift düşümü önlemek için sipariş izole kaydedilir. İsterseniz kendi stok mantığınızı `eru_trendyol_crm_positive` eylemine bağlayabilirsiniz.
 
-**401 hatası alıyorum.** Satıcı kimliğinin yalnız rakamdan oluştuğunu, API anahtarı ve sırrında baş/son boşluk kalmadığını kontrol edin; günlük ekranında hata görünür.
+**401 hatası alıyorum, ne yapmalıyım?** Satıcı kimliğini, API anahtarını ve sırrını Trendyol panelindeki değerlerle karşılaştırın; ayrıntı günlük ekranında görünür.
 
 **Stok gönderimi nasıl çalışır?** Ayar açıksa değişen ürünler işaretlenir ve görev bunları toplu olarak Trendyol'a yollar.
 

@@ -12,7 +12,7 @@ Bildirimleri en kısa sürede yanıtlamaya çalışırız. Düzeltme yayımlanan
 
 ## Desteklenen sürümler
 
-Güvenlik düzeltmeleri her ürünün en güncel sürümüne yapılır ve https://wordpress.erusoft.com üzerinden yeni ZIP olarak yayımlanır.
+Güvenlik düzeltmeleri her ürünün en güncel sürümüne yapılır ve https://wordpress.erusoft.com üzerinden yeni ZIP olarak (monorepodaki ürünler için), ayrı GitHub deposunda tutulan ürünler için o deponun GitHub sayfasında yayımlanır.
 
 ## English
 

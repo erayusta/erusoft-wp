@@ -22,7 +22,7 @@ WooCommerce mağazanıza Edenred (Ticket Restaurant) sanal POS ile ödeme yönte
 2. Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin.
 3. **WooCommerce → Ayarlar → Ödemeler → Edenred (Ticket Restaurant)** sayfasında MerchantNo, TerminalNo, Password, HashKey ve ServiceId alanlarını doldurun ve akışı seçin.
 4. Test modunda deneyin, sonra test modunu kapatın.
-5. Edenred sonuç bildirim adresi isterse `https://siteniz.com/wc-api/edwc_result` adresini bildirin.
+5. Edenred sonuç bildirim adresi isterse `https://example.com/wc-api/edwc_result` adresini bildirin.
 
 ## Gereksinimler
 

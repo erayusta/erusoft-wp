@@ -18,10 +18,10 @@ WooCommerce ürünlerinizi Akakçe fiyat karşılaştırma sitesinin beklediği 
 
 ## Kurulum
 
-1. GitHub deposunun Releases bölümünden ya da "Code → Download ZIP" ile ZIP dosyasını indirin.
+1. GitHub deposunda "Code → Download ZIP" ile ZIP dosyasını indirin.
 2. Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin.
 3. **WooCommerce → Akakçe XML Feed** sayfasında kargo, teslimat ve güncelleme ayarlarını yapıp kaydedin.
-4. Besleme adresi `https://siteniz.com/akakce-feed.xml` olur. Adres 404 veriyorsa aynı sayfadaki bağlantıyla ya da Ayarlar → Kalıcı Bağlantılar'dan kaydederek kuralları yenileyin.
+4. Besleme adresi `https://example.com/akakce-feed.xml` olur. Adres 404 veriyorsa aynı sayfadaki bağlantıyla ya da Ayarlar → Kalıcı Bağlantılar'dan kaydederek kuralları yenileyin.
 5. Adresi Akakçe'ye bildirin ve sunucunuzun Akakçe IP'lerine erişime izin verdiğinden emin olun.
 
 ## Gereksinimler

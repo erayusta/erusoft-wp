@@ -20,7 +20,7 @@ Hepsiburada pazaryerinden gelen siparişleri WooCommerce'e izole biçimde aktar�
 
 ## Kurulum
 
-1. GitHub deposunun Releases bölümünden ya da "Code → Download ZIP" ile ZIP dosyasını indirin.
+1. GitHub deposunda "Code → Download ZIP" ile ZIP dosyasını indirin.
 2. Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin; tablolar oluşturulur ve zamanlı görev kurulur.
 3. **WooCommerce → Hepsiburada Siparişleri** sayfasında Merchant ID, servis anahtarı ve zorunlu Developer Username bilgilerini girin. Eklenti varsayılan olarak kapalı ve test ortamında gelir.
 4. Önce test ortamında doğrulayın, ardından canlı ortamı seçip "Aktif" kutusunu işaretleyin.
@@ -42,11 +42,11 @@ Hepsiburada pazaryerinden gelen siparişleri WooCommerce'e izole biçimde aktar�
 
 **Siparişler neden normal sipariş gibi stok düşürmüyor?** Bilinçli tasarım: pazaryeri stoku kendi tarafında zaten yönetir. Çift düşümü önlemek için sipariş izole kaydedilir.
 
-**401 hatası alıyorum.** Developer Username'i, seçili ortamla kimlik bilgilerinin eşleştiğini ve servis anahtarını kontrol edin.
+**401 hatası alıyorum, ne yapmalıyım?** Developer Username'i, seçili ortamla kimlik bilgilerinin eşleştiğini ve servis anahtarını kontrol edin.
 
-**Sipariş geldi ama kalem eşleşmedi.** Hepsiburada `merchantSku` ile WooCommerce SKU'su birebir aynı olmalıdır.
+**Sipariş geldi ama kalem eşleşmedi, neden?** Hepsiburada `merchantSku` ile WooCommerce SKU'su birebir aynı olmalıdır.
 
-**Zamanlı görev çalışmıyor.** Eklentiyi devre dışı bırakıp yeniden etkinleştirmek görevi yeniden kurar.
+**Zamanlı görev çalışmıyorsa ne yapmalıyım?** Eklentiyi devre dışı bırakıp yeniden etkinleştirmek görevi yeniden kurar.
 
 ## Kaynak kod
 

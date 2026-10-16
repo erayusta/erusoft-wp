@@ -33,7 +33,6 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Price Lists for WooCommerce](https://wordpress.erusoft.com/price-lists-for-woocommerce/) — Fiyat listeleri tanımlayıp role veya kişiye atayın. | Müşteri & B2B | Stabil |
 | [Role-Based Prices for WooCommerce](https://wordpress.erusoft.com/role-based-prices-for-woocommerce/) — Kullanıcı rollerine özel ürün fiyatları tanımlayın. | Müşteri & B2B | Stabil |
 | [Sales Team Commissions for WooCommerce](https://wordpress.erusoft.com/sales-team-commissions-for-woocommerce/) — Satış temsilcisi hiyerarşisi, kural bazlı komisyon, bekleme süresi ve ödeme talebi akışı. | Müşteri & B2B | Stabil |
-| [Store Locator for WordPress](https://wordpress.erusoft.com/store-locator-for-wordpress/) — Şube veya yetkili servis noktalarını harita ve liste olarak gösterir. | Müşteri & B2B | Stabil |
 | [Wholesale Inquiry Box for WooCommerce](https://wordpress.erusoft.com/wholesale-inquiry-box-for-woocommerce/) — Ürün sayfasına toplu alım teklif formu ekler. | Müşteri & B2B | Stabil |
 | [Edenred for WooCommerce](https://wordpress.erusoft.com/edenred-for-woocommerce/) — Edenred Ticket Restaurant ile WooCommerce'te ödeme alın. | Ödeme | Stabil |
 | [MetropolCard for WooCommerce](https://wordpress.erusoft.com/metropolcard-for-woocommerce/) — MetropolCard ile ödeme sayfasından ayrılmadan SMS kodlu ödeme alın. | Ödeme | Stabil |
@@ -97,6 +96,7 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Marketplace Orders for WooCommerce](https://wordpress.erusoft.com/marketplace-orders-for-woocommerce/) — Trendyol ve Hepsiburada siparişlerini tekrar-güvenli aktarır; stok ve fiyatı kurallarla senkronlar. | Pazaryeri | Beta |
 | [Product Push for Trendyol](https://wordpress.erusoft.com/product-push-for-trendyol/) — Basit ve varyantlı ürünleri doğrulayıp Trendyol'a gönderir; onay durumuna göre doğru uçla günceller. | Pazaryeri | Beta |
 | [Server-Side Refunds for WooCommerce](https://wordpress.erusoft.com/server-side-refunds-for-woocommerce/) — İade ve iptalleri GA4 ve Matomo'ya sunucu tarafında, kuyrukla bildirir. | Raporlama & Analitik | Beta |
+| [Store Locator for WordPress](https://wordpress.erusoft.com/store-locator-for-wordpress/) — Şube veya yetkili servis noktalarını harita ve liste olarak gösterir. | Müşteri & B2B | Yakında |
 | [Multi Virtual POS for WooCommerce](https://wordpress.erusoft.com/multi-virtual-pos-for-woocommerce/) — Birden çok bankanın sanal POS'unu kural motoruyla yöneten ödeme eklentisi. | Ödeme | Yakında |
 | [T-Soft Migrator for WooCommerce](https://wordpress.erusoft.com/t-soft-migrator-for-woocommerce/) — T-Soft mağaza verisini WooCommerce'e taşıyan genel içe aktarma aracı. | Ürün & Katalog | Yakında |
 <!-- catalog:end -->

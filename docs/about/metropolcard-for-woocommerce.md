@@ -11,7 +11,7 @@ WooCommerce ödeme sayfasında MetropolCard vPos-OTP ile ödeme almanızı sağl
 - İptal/iade WooCommerce'in standart iade ekranından yapılır; aynı gün ve tam tutar ise "iptal", diğer durumlarda "iade" olarak gönderilir.
 - Test modu ve "Test modu kullanıcıları": alan doluysa yöntem yalnızca listelenen giriş yapmış kullanıcılara gösterilir.
 - Kimlik doğrulama bilgileri için ayarlar: ConsumerId, ConsumerName, RefNo, AccessKey, AES anahtarı (SaltKey), İş Yeri Kodu ve Terminal Kodu; canlı API adresi ayrı bir alandır.
-- API belirteci AES-256-CBC ile şifreli istenir ve geçici olarak önbelleğe alınır.
+- API belirteci, SaltKey uzunluğuna göre AES-128/192/256-CBC ile şifrelenip istenir ve geçici olarak önbelleğe alınır.
 - Kart numarası saklanmaz ve kaydedilmez; yalnızca maskeli hali görünür. OTP bağlamı 10 dakikalık geçici kayıtta tutulur.
 - OTP istendikten sonra sepet tutarı değişirse ödeme reddedilir ve yeni kod istenir.
 - API hata kodları Türkçe mesajlara çevrilir.

@@ -20,7 +20,7 @@ WooCommerce mağazanız için influencer ve içerik üreticilerine yönelik bir 
 
 ## Kurulum
 
-1. GitHub deposunun Releases bölümünden ya da "Code → Download ZIP" ile ZIP dosyasını indirin.
+1. GitHub deposunda "Code → Download ZIP" ile ZIP dosyasını indirin.
 2. Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin. WooCommerce etkin olmalıdır.
 3. **WooCommerce → Ayarlar → Affiliates** sekmesinde program adını, payı, grupları, eşikleri, ödeme kurallarını ve panel adreslerini belirleyin.
 4. Bir sayfaya `[ssa_apply]` kısa kodunu koyup ayarlarda başvuru sayfası olarak seçin.
@@ -33,7 +33,7 @@ WooCommerce mağazanız için influencer ve içerik üreticilerine yönelik bir 
 ## Sınırlamalar
 
 - Ödemeleri eklenti göndermez: hakedişleri siz havale/EFT ile öder, ardından yönetimde "ödendi" olarak işaretlersiniz.
-- Varsayılan ayarlar belirli bir program kurgusuna göre gelir; kendi oranlarınızı, eşiklerinizi ve metinlerinizi gözden geçirmeden yayına almayın.
+- Varsayılan oran, eşik ve metinler örnek değerlerdir; kendi değerlerinizi girmeden yayına almayın.
 - Veri tabloları, eklenti silindiğinde yalnızca `wp-config.php` içinde `SSA_REMOVE_DATA` sabiti `true` ise kaldırılır.
 - Ortak ve komisyon verileri kişisel veri içerir; KVKK yükümlülükleri sizdedir.
 

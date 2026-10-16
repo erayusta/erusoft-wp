@@ -18,11 +18,12 @@ Pluxee (eski adıyla Sodexo) Türkiye mobil ödeme koduyla WooCommerce'te ödeme
 - OTP RSA/OAEP ile şifrelenip gönderilir, açık hali saklanmaz; GSM numaraları ve gizli değerler günlüklerde maskelenir.
 - Kimlik bilgilerini `wp-config.php` sabitleriyle tanımlayıp veritabanı dışında tutma seçeneği.
 - WP-CLI komutları: `wp pluxee test-connection`, `wp pluxee info`.
-- GitHub Releases üzerinden güncelleme denetimi (`pluxee_wc_enable_updater` süzgeciyle kapatılabilir).
+- GitHub Releases üzerinden güncelleme denetimi (`pluxee_wc_enable_updater` süzgeciyle kapatılabilir); güncelleme denetimi varsayılan olarak açıktır ve `api.github.com` adresine istek yapar.
+- Ayar ekranı, sunucunun çıkış IP adresini göstermek için `api.ipify.org` adresine istek yapar (sonuç bir gün önbelleğe alınır).
 
 ## Kurulum
 
-1. GitHub deposunun **Releases** bölümünden `pluxee-for-woocommerce.zip` dosyasını indirin. Kaynak kod arşivi ("Download ZIP") yerine release dosyasını seçin; `vendor/` içeren kurulabilir paket oradadır.
+1. GitHub deposunun **Releases** bölümünden `pluxee-for-woocommerce.zip` dosyasını indirin. Kaynak kod arşivi ("Download ZIP") yerine release dosyasını seçin; eklenti klasörü doğru adla (`pluxee-for-woocommerce`) paketlenmiştir.
 2. Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin.
 3. **WooCommerce → Ayarlar → Ödemeler → Pluxee ile Öde** sayfasında ortamı seçin, servis bilgilerini girin, RSA açık anahtarını yapıştırın ve kaydedin.
 4. Kaydettikten sonra "Bağlantıyı test et" düğmesini kullanın; test, açık anahtarı formdan değil kayıtlı ayardan okur.
@@ -44,7 +45,7 @@ Pluxee (eski adıyla Sodexo) Türkiye mobil ödeme koduyla WooCommerce'te ödeme
 
 **Kaydetmeden test etsem olur mu?** Hayır. Bağlantı testi RSA açık anahtarını kayıtlı ayardan okur; yeni anahtarı yapıştırdıktan sonra önce kaydedin.
 
-**Yanıt gelmeyen ödemede ne olur?** Eklenti otomatik teknik iptal dener; durum işlem tablosunda `technical_reversal` olarak görünür.
+**Yanıt gelmeyen ödemede ne olur?** Eklenti otomatik teknik iptal dener; durum işlem tablosunda "Teknik iptal" tipiyle görünür.
 
 **Giyim gibi gıda dışı ürünler satıyorum, ne yapmalıyım?** Ürün uygunluğu kuralını ve kategori listesini ayarlayın; uygun olmayan ürün sepetteyken yöntem gizlenir.
 

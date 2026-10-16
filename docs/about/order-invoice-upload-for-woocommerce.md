@@ -14,12 +14,12 @@ Sipariş ekranından o siparişe PDF fatura yüklemenizi, müşterinizin de bu f
 - Müşteri tarafında: sipariş detay sayfasında "Faturalar" tablosu ve Hesabım → Siparişler listesinde "Fatura" sütunu (en son yüklenen fatura).
 - İndirme bağlantıları nonce ile korunur; sipariş sahibi, yönetici ya da sipariş anahtarını (`key`) taşıyan misafir isteği kabul edilir.
 - "Sipariş tamamlandı" ve "müşteri faturası" e-postalarına en son yüklenen fatura ek olarak eklenir.
-- Yükleme ve indirme için saatte 10 deneme sınırı vardır.
+- Kullanıcı başına saatte en fazla 10 yükleme ve 10 indirme isteği (başarılı istekler dahil).
 - Arayüz metinleri çeviriye hazırdır (`.pot` dosyası depoda).
 
 ## Kurulum
 
-1. GitHub deposunun Releases bölümünden ya da "Code → Download ZIP" ile ZIP dosyasını indirin.
+1. GitHub deposunda "Code → Download ZIP" ile ZIP dosyasını indirin.
 2. WordPress yönetiminde Eklentiler → Yeni ekle → Eklenti yükle yolunu izleyip ZIP'i yükleyin ve etkinleştirin. Etkinleştirmede faturalar için bir veritabanı tablosu ve yükleme dizini oluşturulur.
 3. Ayar ekranı yoktur. Bir siparişi açın; yan sütundaki **E-Fatura Yönetimi** kutusundan PDF'i seçip "Fatura Yükle" düğmesine basın.
 
@@ -33,6 +33,7 @@ Sipariş ekranından o siparişe PDF fatura yüklemenizi, müşterinizin de bu f
 - Yalnızca PDF desteklenir; başka dosya türleri reddedilir.
 - Fatura oluşturma, numaralandırma veya resmi e-fatura/e-arşiv entegrasyonu yoktur.
 - Koruma dosyası (`.htaccess`) dizin listelemeyi ve betik türlerini kapatır, ancak PDF'lerin adresten doğrudan açılmasını engellemez. Dosya adı tahmin edilmesi zor olsa da, hassas ortamlarda bu dizini sunucu kuralıyla ayrıca kapatmanız önerilir. Apache dışı sunucularda `.htaccess` hiç uygulanmaz.
+- Toplu fatura yüklemede saatlik 10 yükleme sınırına takılabilirsiniz.
 - Hesabım listesinde siparişin yalnızca en son faturası görünür; diğerleri sipariş detay sayfasındaki tabloda listelenir.
 - Giriş yapmamış (misafir) kullanıcıların hız sınırı sayacı ortaktır.
 

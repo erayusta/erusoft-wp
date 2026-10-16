@@ -130,17 +130,17 @@ ${entries.map(card).join('\n')}
   <div class="wrap">
     <h2>Neden Erusoft WP?</h2>
     <ul class="why">
-      <li><h3>Tek iş, sade kod</h3><p>Her eklenti tek bir sorunu çözer. Reklam, "pro sürüme geç" ekranı ya da gereksiz modül yok; ayarlar Türkçe ve yerinde.</p></li>
+      <li><h3>Tek iş, sade kod</h3><p>Her eklenti tek bir sorunu çözer. Bu depodaki eklenti ve temalarda reklam, "pro sürüme geç" ekranı ya da gereksiz modül yok; ayarlar Türkçe ve yerinde.</p></li>
       <li><h3>Açık kaynak, GPL</h3><p>Kodun tamamı GitHub'da. Okuyun, değiştirin, ticari sitelerinizde dahil dilediğiniz gibi kullanın.</p></li>
       <li><h3>Türkiye'deki mağazalar için</h3><p>İYS izinleri, il-ilçe-mahalle adresleri, yerel kargo firmaları, bankalar, yemek kartları ve pazaryerleri için hazır entegrasyonlar.</p></li>
-      <li><h3>Telemetri yok</h3><p>Eklentiler bize veri göndermez ve güncelleme sunucusuna bağlanmaz. Dış servise yalnızca sizin ayarladığınız entegrasyon bağlanır.</p></li>
+      <li><h3>Telemetri yok</h3><p>Bu depodaki eklentiler ve temalar bize veri göndermez; telemetri ve lisans denetimi yoktur. Dış servise yalnızca sizin ayarladığınız entegrasyon bağlanır. İstisnalar (ör. Pluxee'nin kapatılabilir GitHub güncelleme denetimi) ürün sayfasında yazılıdır.</p></li>
     </ul>
   </div>
 </section>
 <section class="wrap faq" id="sss">
   <h2>Sık sorulanlar</h2>
   <details><summary>Eklentiler ücretsiz mi?</summary><p>Evet. Hepsi GPL-2.0-or-later lisanslıdır; kişisel ve ticari sitelerde ücretsiz kullanabilir, kodunu değiştirebilirsiniz.</p></details>
-  <details><summary>Nasıl kurar ve güncellerim?</summary><p>Ürün sayfasından ZIP'i indirin, WordPress yönetiminde Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin. Yeni sürüm çıktığında aynı ZIP'i yeniden yükleyin; WordPress mevcut sürümü değiştirmeyi önerir. Eklentiyi silmediğiniz sürece ayarlarınız korunur.</p></details>
+  <details><summary>Nasıl kurar ve güncellerim?</summary><p>Ürün sayfasından ZIP'i indirin (ayrı depoda tutulan ürünlerde GitHub'dan), WordPress yönetiminde Eklentiler → Yeni ekle → Eklenti yükle ile yükleyip etkinleştirin. Yeni sürüm çıktığında aynı ZIP'i yeniden yükleyin; WordPress mevcut sürümü değiştirmeyi önerir. Eklentiyi silmediğiniz sürece ayarlarınız korunur.</p></details>
   <details><summary>"Beta" ne demek?</summary><p>Beta eklentiler bir dış servise (banka, pazaryeri, kargo, kampanya izni) bağlanır ve o servisin canlı ortamında henüz geniş çapta denenmemiştir. Kod test edilmiştir, ama canlıya almadan önce servisin test ortamında denemenizi öneririz. Sınırlamalar her ürünün sayfasında yazılıdır.</p></details>
   <details><summary>"Yakında" ne demek?</summary><p>Planlanan ama henüz yayımlanmamış ürünlerdir; indirme bağlantısı yoktur. Önceliklendirmemizi istediğiniz biri varsa <a href="${mailto('Yakında: öncelik talebi')}">${SUPPORT_EMAIL}</a> adresine yazın.</p></details>
   <details><summary>Kurulum veya özel geliştirme desteği alabilir miyim?</summary><p>Evet. Kurulum, yapılandırma, mevcut bir eklentiyi işinize göre uyarlama veya yeni entegrasyon için <a href="${mailto('Destek talebi')}">${SUPPORT_EMAIL}</a> adresine yazın. Ayrıntılar <a href="/destek/">destek sayfasında</a>.</p></details>
@@ -258,7 +258,7 @@ export function supportPage() {
 <div class="wrap product">
   <article class="prose">
     <h2 id="belgeler">1. Önce ürün sayfasına bakın</h2>
-    <p>Her ürün sayfasında <strong>Kurulum</strong>, <strong>Ayarlar</strong>, <strong>Sınırlamalar</strong> ve <strong>SSS</strong> bölümleri var. Sık karşılaşılan durumların çoğu orada yanıtlanıyor. Aramak için <a href="/#katalog">kataloğu</a> kullanın.</p>
+    <p>Her ürün sayfasında <strong>Kurulum</strong>, <strong>Sınırlamalar</strong> ve <strong>SSS</strong> bölümleri, çoğunda <strong>Ayarlar</strong> da var. Sık karşılaşılan durumların çoğu orada yanıtlanıyor. Aramak için <a href="/#katalog">kataloğu</a> kullanın.</p>
     <h2 id="hata-bildirimi">2. Hata bildirin</h2>
     <p>Bir eklenti beklendiği gibi çalışmıyorsa <a href="${ISSUES}" target="_blank" rel="noopener">GitHub Issues</a> üzerinden bildirin. Hızlı çözüm için şunları yazın:</p>
     <ul>
