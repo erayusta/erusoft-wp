@@ -123,12 +123,12 @@
     "integrations": [
       "Google Maps"
     ],
-    "status": "coming-soon",
+    "status": "beta",
     "phase": 1,
     "repo": "https://github.com/erayusta/yetkiliservis",
     "path": null,
     "screenshots": [],
-    "version": "1.0.0"
+    "version": "1.0.2"
   },
   {
     "slug": "brand-coupon-banners-for-woocommerce",

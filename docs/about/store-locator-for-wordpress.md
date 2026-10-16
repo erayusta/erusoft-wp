@@ -2,7 +2,7 @@
 
 ## Ne işe yarar
 
-Şube, bayi veya yetkili servis noktalarınızı WordPress yönetiminden girip sitenizde Google Haritalar üzerinde ve liste olarak göstermenizi sağlar. Ziyaretçi il ve ilçeye göre süzer, noktanın telefonunu arar ya da yol tarifi alır. Eklentinin yönetim menüsü adı "Store Locator"dır; depodaki eklenti adı "Eru Store Locator" olarak geçer. Not: 1.0.1 sürümünde bilinen bir hata vardır; Sınırlamalar bölümüne bakın.
+Şube, bayi veya yetkili servis noktalarınızı WordPress yönetiminden girip sitenizde Google Haritalar üzerinde ve liste olarak göstermenizi sağlar. Ziyaretçi il ve ilçeye göre süzer, noktanın telefonunu arar ya da yol tarifi alır. Eklentinin yönetim menüsü adı "Store Locator"dır; depodaki eklenti adı "Eru Store Locator" olarak geçer.
 
 ## Özellikler
 
@@ -34,7 +34,7 @@
 - Harita için Google'a bağlanılır; ziyaretçi sayfayı açtığında harita ve konum istekleri Google'a gider. Bunu gizlilik metninizde belirtmeniz gerekir.
 - Yönetim ekranı metinleri ağırlıklı olarak İngilizcedir; Türkçe çeviri dosyası ayrıca yüklenir.
 - Ayarlar sayfasındaki "özel harita stilleri" bölümü "yakında" olarak işaretlidir; henüz çalışmaz.
-- **Bilinen hata (1.0.1):** ön ek geçişi (`erustlo_` → `erusl_`) yarım kalmıştır: nokta bilgileri (adres, telefon, koordinat) kaydedilmez, harita API anahtarını okumaz, ön yüz AJAX çağrıları ve il/ilçe filtreleri çalışmaz. Düzeltme sürümü yayımlanana kadar canlı sitede kullanmayın.
+- **Beta:** 1.0.2, 1.0.1'deki yarım kalan ön ek geçişini (`erustlo_` → `erusl_`) düzeltir; nokta bilgilerinin kaydı, API anahtarı, AJAX araması ve il/ilçe filtreleri yeniden aynı tanımları kullanır. Canlı siteye almadan önce bir hazırlık sitesinde deneyin. 1.0.1 kullanıyorsanız 1.0.2'ye geçin.
 
 ## SSS
 
