@@ -23,6 +23,15 @@ Sorularınızı yönetim panelinde SSS içerik türü olarak girer, gruplara ay�
 - FAQPage JSON-LD (varsayılan açık) sayfa başına yalnızca bir kez basılır
 - Cevaplar `wp_kses_post` ile temizlenir; koyu/açık temada çalışan sade CSS
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; yönetim panelinde **SSS** menüsünü açın.
+2. "Yeni ekle" ile soru olarak "Demo soru nedir?" başlığını, cevap olarak kısa bir metin yazın ve "Demo Grup" adlı bir grup seçin.
+3. Birkaç soru daha ekleyip liste ekranında sürükleyerek sıralayın.
+4. Bir sayfaya `[eru_faq group="demo-grup" open="first"]` kısa kodunu ekleyin (grup kısa adı sınıflandırma ekranında yazar).
+5. Sayfayı açın: sorular akordeon olarak görünür, ilki açıktır; sayfanın kaynağında bir FAQPage JSON-LD bloğu bulunur.
+6. Şemayı istemezseniz SSS → Ayarlar'dan kapatın ya da `schema="0"` verin.
+
 ## Kurulum
 
 1. `faq-accordion-for-wordpress` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
@@ -55,9 +64,26 @@ WordPress 6.5+, PHP 8.0+. WooCommerce gerekmez. Harici servis kullanmaz.
 
 **Şemayı kapatabilir miyim?** Evet: Ayarlar'dan ya da `[eru_faq schema="0"]` ile.
 
+**Eklentiyi silersem sorularım gider mi?** Hayır. Silmede yalnızca `eru_faq_settings` seçeneği silinir; SSS kayıtları içerik olduğu için kalır. Devre dışı bırakmak hiçbir veriyi silmez.
+
+**JavaScript gerekir mi?** Akordeon `<details>/<summary>` ile çalıştığı için gerekmez; "tek seferde bir soru" davranışı destekleyen tarayıcılarda çalışır.
+
+**Aynı sayfada birden çok kısa kod kullanabilir miyim?** Evet; ancak FAQPage şeması yalnızca ilk kısa kodun sorularını içerir (bkz. Sınırlamalar).
+
+**Dış servise bağlanır mı?** Hayır.
+
+**Çeviri nasıl yapılır?** Metin alanı `faq-accordion-for-wordpress`; çeviri yolu `/languages`.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

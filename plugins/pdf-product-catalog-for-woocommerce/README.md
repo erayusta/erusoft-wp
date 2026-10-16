@@ -36,6 +36,15 @@ Yönetim ekranından kategori seçip kataloğu yeni sekmede açarsınız; **Yazd
 
 Seçenek: `eru_ppc_settings`. Önbelleğe alınan ön yüz katalogları `uploads/eru-ppc/` altında tutulur (doğrudan erişime kapalı); kaldırınca silinir.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **PDF Katalog** ekranını açın.
+2. Kategori listesinden "Demo Kategori"yi işaretleyin (boş bırakırsanız tüm ana kategoriler gelir).
+3. Kapak için başlığı "Demo Katalog 2026" olarak girin; sütun sayısını, yönü ve fiyat/stok kodu/görsel seçeneklerini belirleyin.
+4. **Kataloğu aç**'a basın; katalog yeni sekmede açılır.
+5. **Yazdır / PDF olarak kaydet**'e basın, hedef olarak "PDF olarak kaydet"i seçin ve renklerin çıkması için "Arka plan grafikleri"ni açın.
+6. Ziyaretçilere de sunmak isterseniz "Ön yüz" kutusunu işaretleyin ve bir sayfaya `[eru_pdf_catalog category="demo-kategori" label="Kataloğu indir"]` ekleyin.
+
 ## Kısa kodlar, kancalar ve filtreler
 
 | Ad | Tür | Açıklama |
@@ -66,9 +75,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS uyumludur. Harici servis veya g
 
 **Ziyaretçiler görebilsin istiyorum.** "Ön yüz" kutusunu işaretleyip `[eru_pdf_catalog]` kısa kodunu bir sayfaya ekleyin.
 
+**Eklentiyi devre dışı bırakınca ne olur?** Katalog ekranı ve kısa kod çalışmaz; ayar ve önbellek dosyaları yerinde kalır. Eklenti silinince (Eklentiler → Sil) `eru_ppc_settings` seçeneği ve `uploads/eru-ppc/` klasöründeki önbellek dosyaları silinir. Siparişlere veya ürünlere dokunulmaz.
+
+**HPOS ve bloklar?** HPOS uyumluluğu bildirilir. Eklenti sepet ya da ödeme sayfasına bağlanmaz, bu yüzden Cart/Checkout blokları konusu geçerli değildir.
+
+**Önbellek ne kadar süre tutulur?** Yalnızca herkese açık (ön yüz) katalog önbelleğe alınır; süre varsayılan 1 saattir ve `eru_ppc_cache_ttl` ile değişir. Yönetim ekranından açtığınız katalog her seferinde yeniden üretilir.
+
+**Harici bir hizmete veri gönderiyor mu?** Hayır; katalog tamamen sitenizde üretilir.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

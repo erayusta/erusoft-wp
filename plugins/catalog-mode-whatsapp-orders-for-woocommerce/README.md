@@ -29,7 +29,16 @@
 
 1. `catalog-mode-whatsapp-orders-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
-3. WooCommerce → **Katalog Modu ve WhatsApp**: numarayı (ülke koduyla, örn. `905550000000`) girin; isterseniz katalog modu kutularını işaretleyin.
+3. WooCommerce → **Katalog Modu ve WhatsApp**: numarayı (ülke koduyla, örn. `90` + 10 haneli numara) girin; isterseniz katalog modu kutularını işaretleyin.
+
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Katalog Modu ve WhatsApp** ekranını açın.
+2. Numara alanına işletme numaranızı ülke koduyla (`90` + 10 hane) yazın. Düğme metnini "WhatsApp ile sipariş ver" bırakın.
+3. Mesaj şablonu olarak `Merhaba, {product} ürünü hakkında bilgi almak istiyorum: {url}` yazın; "ürün sayfasında göster" kutusunu işaretleyip kaydedin.
+4. "Demo Ürün" (250 TL) sayfasını açın: sayfada WhatsApp düğmesi görünür. Tıklayınca WhatsApp, ürün adı ve bağlantısı yazılı mesajla açılır.
+5. Ürünleri yalnızca tanıtmak istiyorsanız aynı ekranda "fiyatları gizle" ve "sepeti kaldır" kutularını işaretleyin. Ürün sayfasında fiyat ve "Sepete ekle" kalkar, düğme kalır.
+6. Çıkış yapmış bir tarayıcıda "Demo Ürün"ü açıp düğmeyi deneyin; varyasyonlu bir üründe seçtiğiniz özelliklerin mesaja eklendiğini görün.
 
 ## Ayarlar
 
@@ -58,9 +67,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS uyumludur. WhatsApp'a yalnızca
 
 **0555… ile başlayan numara kabul ediliyor mu?** Evet, 11 haneli `0` ile başlayan ve 10 haneli `5` ile başlayan Türkiye numaraları otomatik `90…` biçimine çevrilir ve bir bilgi mesajı gösterilir.
 
+**Eklentiyi devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca düğme kalkar, fiyatlar ve sepet normale döner (hiçbir ürün verisi değiştirilmemiştir). Eklentiler → Sil yalnızca `eru_cmw_settings` seçeneğini siler.
+
+**HPOS ve Cart/Checkout blokları?** HPOS uyumluluğu bildirilir. Fiyat gizleme blok tabanlı fiyat bileşenlerini kapsamaz (Sınırlamalar).
+
+**Dış servise bağlanır mı?** Hayır; yalnızca ziyaretçinin tarayıcısında `wa.me` bağlantısı açılır. Sunucudan dış çağrı yapılmaz.
+
+**Çeviri ve çoklu site?** Metin alanı `catalog-mode-whatsapp-orders-for-woocommerce`, alan yolu `/languages`; klasörde hazır çeviri dosyası yoktur, düğme metni ve mesajı ayarlardan yazarsınız. Ağ düzeyinde etkinleştirme için özel bir destek yoktur.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -50,6 +50,9 @@ This is a beta release. Every marketplace call was verified against mocked respo
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Can an order be imported twice? =
 
 No. Each package takes an atomic lock and a unique map row before an order is built. Re-runs only update the existing order, and statuses only move forward.

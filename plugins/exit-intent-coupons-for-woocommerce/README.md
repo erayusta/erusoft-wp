@@ -32,6 +32,15 @@ Ziyaretçi sepete ya da ödemeye varmadan siteyi terk etmeden önce ona bir indi
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. WooCommerce → **Çıkış Kuponu** ekranında kupon türünü seçin, kodu girin ve "açık" işaretleyin.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Çıkış Kuponu** ekranını açın.
+2. Kupon türü olarak "Üretilen kupon"u seçin: indirim %15, geçerlilik 24 saat, asgari sepet 250 TL, kod öneki `DEMO`, günlük bütçe 50.
+3. Başlık ve metni yazın (ör. "Gitmeden önce", "Sepetinize özel bir kod hazırladık"), ödeme ve sepet sayfalarında gösterme kutularını işaretli bırakın.
+4. **Çıkış kuponu açık** kutusunu işaretleyip kaydedin.
+5. Mağazanızı gizli sekmede masaüstünde açın, birkaç saniye bekleyin ve fareyi sayfanın üst kenarından dışarı çıkarın; pencere açılır ve `DEMO` önekli bir kod gösterir. Pencereyi elle denemek için tarayıcı konsolunda `window.eruEic.open()` çağırabilirsiniz.
+6. Kodu "Demo Ürün" içeren sepette uygulayın; WooCommerce → Pazarlama → Kuponlar'da üretilen kuponu tek kullanımlık ve süreli olarak görürsünüz.
+
 ## Ayarlar
 
 WooCommerce → **Çıkış Kuponu**. Ayarlar `eru_eic_settings` seçeneğinde, günlük sayaçlar `eru_eic_stats` seçeneğinde saklanır. Sabit kod için kuponu önce WooCommerce → Pazarlama → Kuponlar'dan oluşturun; kod bulunamazsa ayar ekranı uyarır.
@@ -57,7 +66,7 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS ile uyumludur. Harici servis ku
 - Çerez silen veya gizli sekme kullanan ziyaretçi pencereyi yeniden görebilir; üretilen kuponlarda IP sınırı ve günlük bütçe devrededir.
 - Kupon otomatik olarak sepete uygulanmaz; ziyaretçi kodu kopyalayıp girer.
 - Ayarlardaki bütçe, üretilen kupon sayısını sınırlar; harcanan tutarı takip etmez.
-- Eklenti silindiğinde yalnızca kendi ayarları ve zamanlanmış görevi silinir; üretilmiş kuponlar süresi dolunca temizlenir veya Kuponlar ekranından silinebilir.
+- Eklenti silindiğinde yalnızca kendi ayarları ve zamanlanmış görevi silinir; eklenti etkinken üretilmiş kuponlar süresi dolunca günlük işle temizlenir; eklenti silindikten sonra kalanlar Kuponlar ekranından elle silinir.
 
 ## SSS
 
@@ -65,9 +74,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS ile uyumludur. Harici servis ku
 
 **Kupon kuralları nasıl belirlenir?** Sabit kod modunda WooCommerce kuponunun kendi kuralları geçerlidir. Üretilen modda kupon tek kullanımlıktır, diğer kuponlarla birleştirilemez (bireysel kullanım) ve ayarladığınız asgari sepet tutarını taşır.
 
+**Eklentiyi devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca temizlik görevi (`eru_eic_cleanup`) kaldırılır ve pencere gösterilmez. Eklentiler → Sil ile `eru_eic_settings` ve `eru_eic_stats` seçenekleri ve zamanlanmış görev silinir; daha önce üretilmiş kuponlar silinmez; kendi sürelerinde geçersiz olurlar, ama temizlik görevi artık çalışmadığından kayıtlar Kuponlar ekranından elle silinir.
+
+**HPOS ve Cart/Checkout blokları?** HPOS uyumluluğu bildirilir. Pencere sayfaya eklenen bir betikle çalıştığı için sepet ve ödeme sayfalarının blok ya da klasik olması pencereyi etkilemez; "Sepet/ödeme sayfasında gösterme" ayarları WooCommerce'in sepet ve ödeme sayfası tanımlarına bakar.
+
+**Çevirisi var mı, çoklu sitede çalışır mı?** Metin alanı `exit-intent-coupons-for-woocommerce`, alan yolu `/languages`; klasörde hazır çeviri dosyası yoktur, pencere metinlerini ayardan yazarsınız. Ağ düzeyinde etkinleştirme için özel bir destek yoktur; ayarlar site başınadır.
+
+**Büyük trafikte yük bindirir mi?** Yalnızca üretilen kupon modunda ve pencere açıldığında bir REST isteği gider; günlük bütçe ve IP sınırı üretimi sınırlar.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -125,6 +125,10 @@ wp eru-yk cancel <sipariş>
 
 Gönderi oluşturulurken alıcı adı, adresi, telefonu ve e-postası Yurtiçi'ye iletilir (eklenti gizlilik politikası sayfasına öneri metni ekler). `{önek}eru_yk_log` tablosu ham istekleri bu bilgilerle birlikte tutar; **7 gün** (ayar) sonra günlük bir işle 1000'erli partilerle silinir ve WordPress kişisel veri dışa aktarma/silme araçlarına bağlıdır. `{önek}eru_yk_events` (zaman tüneli) eklentinin kendi mesajlarını tutar; ancak Yurtiçi'nin döndürdüğü hata metinleri olay mesajına eklenir ve bunlar alıcı bilgisi içerebilir. Bu yüzden olaylar da 90 gün (ayar) sonra silinir ve kişisel veri silme aracı ilgili siparişlerin olaylarını da siler.
 
+## Ayarlar
+
+Tüm ayarlar WooCommerce → Ayarlar → **Yurtiçi Kargo** altındadır: ana anahtar (Entegrasyon), Test modu, canlı ve test uç noktaları, hesaplar, yönlendirme kuralları, takip aralıkları, isteğe bağlı sipariş durumu geçişleri ve günlük/olay saklama süreleri (varsayılan 7 ve 90 gün). Bağlantı, hesap ve takip ayrıntıları yukarıdaki bölümlerdedir.
+
 ## Gereksinimler
 
 WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gelir). HPOS ile uyumludur; sipariş verisi yalnızca `WC_Order` üzerinden okunur ve yazılır. Sipariş meta alanları: `_eru_yk_state` (`pending`, `retry`, `unknown`, `needs_review`, `failed`, `dispatched`, `in_transit`, `delivered`, `cancelled`, `gave_up`), `_eru_yk_account`, `_eru_yk_account_label`, `_eru_yk_cargo_key`, `_eru_yk_job_id`, `_eru_yk_tracking_number`, `_eru_yk_tracking_url`, `_eru_yk_seq`, `_eru_yk_error`, `_eru_yk_last_polled_at`, `_eru_yk_next_poll_at`, `_eru_yk_no_detail`, `_eru_yk_last_event`.
@@ -138,6 +142,20 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 - "Sorgula" ve "İptal" düğmeleri tek bir isteği (20 sn zaman aşımı) doğrudan yapar; gönderim her zaman kuyruktan gider.
 - Eklenti silindiğinde (Eklentiler → Sil) ayarlar, iki tablo, kilitler ve zamanlanmış işler silinir; **sipariş metası (`_eru_yk_*`) ve sipariş notları korunur.**
 
+## SSS
+
+**Eklentiyi devre dışı bırakınca ne olur?** Gönderim, takip ve günlük temizlik işleri (Action Scheduler) kaldırılır; ayarlar, tablolar ve sipariş metası yerinde kalır. Yeniden etkinleştirince kaldığınız yerden devam edersiniz.
+
+**HPOS ve bloklar?** HPOS (`custom_order_tables`) uyumluluğu bildirilir ve sipariş verisi `WC_Order` üzerinden okunur. Eklenti ödeme ekranına dokunmadığı için Cart/Checkout blokları için ayrı bir beyan yoktur.
+
+**Aynı siparişi iki kez gönderir miyim?** Hayır; gönderim sipariş ve kargo anahtarı başına tek seferliktir. Sonucu belirsiz bir hata olursa eklenti önce `queryShipment` ile sorgular, hâlâ belirsizse siparişi "inceleme gerekli" durumuna alır.
+
+**Test modunda gerçek gönderi oluşur mu?** Test modu, siz test uç noktasını girmedikçe çalışmaz. Test uç noktası için varsayılan adres yoktur; Yurtiçi'nin verdiği adresi girmeniz gerekir.
+
+**Çok siteli (multisite) kurulum?** Ağ düzeyinde özel bir destek veya sınama yoktur.
+
+**Kişisel veri nereye gidiyor?** Alıcı adı, adresi, telefonu ve e-postası yalnızca ayarladığınız Yurtiçi servis adresine iletilir; ham istek günlüğü ayarlanan süre sonunda silinir (bkz. Kişisel veri).
+
 ## English summary
 
 Yurtiçi Kargo shipments from WooCommerce over the legacy XML (SOAP 1.1) service, sent with `wp_remote_post` and an escaping envelope builder; responses parsed with `DOMDocument`/`LIBXML_NONET`, no DTDs. N sender accounts with write-only passwords and unique cargo-key prefixes; first-match routing by total and shipping method instance. Dispatch runs in Action Scheduler, idempotent per order and cargo key (lock + persisted pending state); transient errors retry after 1/5/15 minutes without sleeping; an ambiguous failure is looked up with `queryShipment` before any re-send, otherwise the order goes to "needs review". "Already exists" is recognised only by error code. Cancel bumps a sequence so the next key ends in `K<n>`. A 5-minute tracker polls due orders oldest-first with per-phase intervals and exponential back-off, self-heals the account, and optionally moves order statuses (default: no change, a note always). Writes Turkish Shipping Carriers tracking meta when that plugin is active. Beta: verified against mocked HTTP only.
@@ -145,6 +163,13 @@ Yurtiçi Kargo shipments from WooCommerce over the legacy XML (SOAP 1.1) service
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

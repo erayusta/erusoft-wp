@@ -6,7 +6,7 @@ import { execFileSync } from 'node:child_process';
 import { loadCatalog, validateCatalog } from '../tools/lib/catalog.mjs';
 import { normalize } from '../tools/lib/scrub-core.mjs';
 import { renderReadme, slugifyTr, catalogTable, SITE } from './lib/render.mjs';
-import { indexPage, categoryPage, productPage, notFoundPage } from './templates.mjs';
+import { indexPage, categoryPage, productPage, supportPage, notFoundPage } from './templates.mjs';
 
 export { slugifyTr };
 
@@ -57,8 +57,10 @@ export async function build({ root = process.cwd(), out = 'site/dist' } = {}) {
   const docAssets = new Set();
   for (const e of sorted) {
     let html = null;
-    if (e.path && existsSync(join(root, e.path, 'README.md'))) {
-      const r = renderReadme(readFileSync(join(root, e.path, 'README.md'), 'utf8'), e.path);
+    // Released entries whose code lives in another repo get their page text from docs/about/<slug>.md.
+    const [readme, dir] = e.path ? [join(e.path, 'README.md'), e.path] : [join('docs/about', e.slug + '.md'), 'docs/about'];
+    if (existsSync(join(root, readme))) {
+      const r = renderReadme(readFileSync(join(root, readme), 'utf8'), dir);
       html = r.html;
       r.assets.forEach(a => docAssets.add(a));
     }
@@ -73,6 +75,8 @@ export async function build({ root = process.cwd(), out = 'site/dist' } = {}) {
     write(out, `kategori/${c.slug}/index.html`, categoryPage(c, sorted.filter(e => e.category === c.name), cats)); pages++;
     urls.push(`/kategori/${c.slug}/`);
   }
+  write(out, 'destek/index.html', supportPage()); pages++;
+  urls.push('/destek/');
   write(out, '404.html', notFoundPage()); pages++;
 
   write(out, 'search.json', JSON.stringify(entries.map(e => ({

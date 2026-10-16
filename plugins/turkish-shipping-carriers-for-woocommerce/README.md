@@ -33,6 +33,17 @@ Müşteri ödeme sayfasında çalıştığınız kargo firmalarından birini se�
 2. WooCommerce → **Kargo Firmaları**: firmaları işaretleyin, ücretleri ve gerekirse takip şablonlarını girin.
 3. WooCommerce → Ayarlar → Gönderim → bölgenize **Kargo firmaları** yöntemini ekleyin.
 
+## Nasıl kullanılır
+
+Örnek senaryo: Aras Kargo'yu sabit ücretle sunmak ve bir siparişe takip numarası girmek.
+
+1. Eklentiyi etkinleştirin ve **WooCommerce → Kargo Firmaları** ekranını açın.
+2. Aras Kargo satırını işaretleyin, ücret tipini **Sabit** seçip 85 TL girin; "bu tutar ve üzeri ücretsiz" alanına 750 TL yazın.
+3. **WooCommerce → Ayarlar → Gönderim** altında bölgenize **Kargo firmaları** yöntemini ekleyin.
+4. Mağazada "Demo Ürün" (250 TL) ile ödeme sayfasına gidin: "Aras Kargo" 85 TL olarak listelenir. Sepet 750 TL'ye ulaşınca ücret 0 olur.
+5. Siparişi verin. Sipariş ekranındaki **Kargo takip** kutusunda firmanın seçili geldiğini görürsünüz; takip numarası alanına `DEMO123456` yazıp siparişi kaydedin.
+6. Müşteri, takip numarasından sonra giden sipariş e-postasında, teşekkür sayfasında ve Hesabım → Siparişler'de "Kargonuzu takip edin" bağlantısını görür; bağlantı takip URL şablonundaki `{takip_no}` yerine numarayı koyar.
+
 ## Ayarlar
 
 | Ayar | Varsayılan |
@@ -77,11 +88,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu. Klasik ve blok ödeme s
 
 **Takip bağlantısı hangi e-postalarda görünür?** Takip numarası girildikten sonra gönderilen tüm sipariş e-postalarında (ör. Tamamlandı). İsterseniz "müşteriye not e-postası" seçeneğiyle numara kaydedildiği an bildirim gider.
 
-**Kaldırınca ne silinir?** `eru_tsc_carriers` ve `eru_tsc_settings`. Sipariş metası korunur.
+**Devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakmak hiçbir veriyi silmez; yalnızca ödeme sayfasındaki seçenekler ve takip bağlantıları kalkar. Eklentiyi silmek (Eklentiler → Sil) yalnızca `eru_tsc_carriers` ve `eru_tsc_settings` seçeneklerini siler. Siparişlerdeki `_eru_tsc_*` metası ve gönderim bölgesindeki yöntem örnekleri korunur; veriyi koruyan ya da silen bir sabit yoktur.
+
+**HPOS ve blok ödeme sayfası?** Eklenti HPOS uyumluluğunu (`custom_order_tables`) bildirir. Kargo seçenekleri WooCommerce'in standart gönderim yöntemi olarak sunulduğundan klasik ve blok ödeme sayfasında listelenir; eklenti `cart_checkout_blocks` uyumluluğu ayrıca bildirmez.
+
+**Kargo firmasının sunucusuna bağlanıyor mu?** Hayır. Hiçbir firma API'si veya kimlik bilgisi kullanılmaz; takip bağlantısı yalnızca müşterinin tarayıcısında firmanın kendi sayfasını açar.
+
+**Önbellek eklentileriyle sorun olur mu?** Ücretler ödeme sırasında WooCommerce'in gönderim hesabıyla bulunur; sepet ve ödeme sayfalarını önbellekten hariç tutmak bu eklentiye özel değil, genel bir gerekliliktir.
+
+**Aynı bölgeye birden çok firma ekleyebilir miyim?** Evet; etkin her firma ayrı bir seçenek olarak sunulur. Bölge başına hangi firmaların görüneceğini yöntem ayarından seçersiniz.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

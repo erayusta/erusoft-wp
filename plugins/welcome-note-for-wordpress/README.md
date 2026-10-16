@@ -29,6 +29,15 @@ Ekibinize ya da ziyaretçilere kısa bir not göstermenin sade yolu: metin ve ba
 2. Eklentiler ekranından etkinleştirin.
 3. Ayarları yapın (aşağıya bakın).
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve Ayarlar → **Hoş geldin notu** ekranını açın.
+2. **Not metni** alanına "Merhaba {name}, {site} paneline hoş geldiniz." yazın.
+3. İsterseniz **Bağlantı adresi** olarak `https://example.com/yardim` ve **Bağlantı yazısı** olarak "Yardım sayfası" girin; **Görünüm** olarak Bilgi'yi seçin.
+4. **Yönetim paneli** için notu görecek rolleri işaretleyip kaydedin; o roldeki bir kullanıcıyla panele girince not görünür ve kapatılabilir.
+5. Ziyaretçilere de göstermek için "Site ziyaretçileri" kutusunu işaretleyin ve konumu (Üstte/Altta) seçin.
+6. Notu kapatın ve sayfayı yenileyin: not geri gelmez. Metni değiştirip kaydederseniz yeniden görünür.
+
 ## Ayarlar
 
 Ayarlar → **Hoş geldin notu**: metin, bağlantı adresi ve yazısı, görünüm, roller, ön yüzde gösterim ve konum. Seçenek: `eru_wn_settings`; kapatma kaydı kullanıcı metası `eru_wn_dismissed`.
@@ -45,7 +54,6 @@ Ayarlar → **Hoş geldin notu**: metin, bağlantı adresi ve yazısı, görün�
 
 WordPress 6.5+, PHP 8.0+. Harici servis kullanmaz.
 
-
 ## Sınırlamalar
 
 - Tek bir not vardır; çoklu not ya da zamanlama yoktur.
@@ -53,11 +61,26 @@ WordPress 6.5+, PHP 8.0+. Harici servis kullanmaz.
 
 ## SSS
 
-**Notu herkes için yeniden gösterebilir miyim?** Evet: metni ya da bağlantıyı değiştirmeniz yeterlidir.
+**Notu herkes için yeniden gösterebilir miyim?** Evet: not metnini, bağlantı adresini ya da bağlantı yazısını değiştirmeniz yeterlidir; kapatma bu üçünden türetilen bir anahtara bağlıdır.
+
+**Eklentiyi silersem ne olur?** Eklenti silindiğinde `eru_wn_settings` seçeneği ve tüm kullanıcılardaki `eru_wn_dismissed` kullanıcı metası silinir. Devre dışı bırakınca not görünmez, ayarlar saklanır.
+
+**Giriş yapmamış ziyaretçiler için kapatma nasıl hatırlanır?** Tarayıcının `localStorage` alanında; sunucuda kayıt tutulmaz. Tarayıcı verisi silinirse çubuk yeniden görünür.
+
+**Önbellek eklentisiyle çalışır mı?** Misafirler için kapatma durumu tarayıcıda uygulanır. Metni değiştirdikten sonra sayfa önbelleğini temizlemeniz gerekebilir.
+
+**Dış servis kullanıyor mu?** Hayır.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -26,6 +26,9 @@ The admin interface is in Turkish. Diğer Erusoft eklentileri: https://wordpress
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Does it work without Gift Product Rules? =
 Yes, if you mark gift lines with the eru_glg_is_gift_line filter.
 

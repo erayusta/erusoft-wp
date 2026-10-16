@@ -42,6 +42,9 @@ This is a beta release. Every Trendyol call (create, updates, listings, batch st
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Does it sync stock and prices? =
 
 No. Stock and price are only sent when an item is created. Continuous price/stock sync is out of scope.

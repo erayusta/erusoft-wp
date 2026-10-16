@@ -40,6 +40,9 @@ This is a beta release. The client and every flow (create, query, cancel, duplic
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Are my credentials sent in clear text? =
 
 The default live endpoint uses HTTPS (the address in the service WSDL). There is no default test endpoint: take it from your contract documentation; test mode does nothing until it is set. Yurtiçi's legacy endpoints are plain HTTP; if you enter one of them, the web service user name and password travel unencrypted. The settings screen warns about it.

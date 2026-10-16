@@ -39,6 +39,9 @@ This is a beta release. The İYS client, queue, pull and reconcile were verified
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = What is removed on uninstall? =
 
 Settings (including the external API key hash and signing secret), caches, locks, scheduled actions, the queue and the API log. The consent store, its history, the hash salt, the link-signing secret and the consent texts are kept unless `ERU_CMI_REMOVE_DATA` is defined as true in wp-config.php.

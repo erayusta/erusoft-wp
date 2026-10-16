@@ -54,6 +54,15 @@ WordPress site haritası açıksa ve başka bir eklenti `Sitemap:` satırı ekle
 2. Eklentiler ekranından etkinleştirin.
 3. Ayarlar → Site Yönetimi'nde istediğiniz modülü açın. `llms.txt` modülü açıldığında adres kuralı bir kez yenilenir.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve Ayarlar → **Site Yönetimi** ekranını açın.
+2. **llms.txt** sekmesinde modülü açın; içerik türü olarak sayfaları ve yazıları bırakın, "Demo Sayfa" gibi listelenmesini istemediğiniz bir içeriğin ID'sini hariç tutun ve kaydedin.
+3. Tarayıcıda `https://ornek.example.com/llms.txt` adresini açın; `# Site adı` başlığını ve `- [Başlık](adres)` satırlarını görmelisiniz.
+4. **robots.txt yapay zekâ kuralları** sekmesinde, örneğin `CCBot` için **Engelle** seçip kaydedin.
+5. `/robots.txt` adresinde `User-agent: CCBot` ve `Disallow: /` satırlarının eklendiğini kontrol edin; "Varsayılan" bıraktığınız tarayıcılar için satır eklenmez.
+6. İsterseniz **Yerel işletme şeması** sekmesinde ad ve adres gibi demo değerler girip modülü açın; ana sayfa kaynağında JSON-LD çıktısını görürsünüz.
+
 ## WP-CLI
 
 ```
@@ -63,6 +72,10 @@ wp eru-sm robots          # robots.txt
 ```
 
 Modül kapalıysa komutlar uyarı verir ve çıktıyı yalnızca önizleme olarak gösterir.
+
+## Gereksinimler
+
+WordPress 6.5+ ve PHP 8.0+. WooCommerce zorunlu değildir; yalnızca etkinse ürünler llms.txt içeriği olarak seçilebilir. Yoast, Rank Math ve SEOPress yalnızca noindex ve yerel şema çakışması algılamak için okunur, bağımlılık değildir.
 
 ## Sınırlamalar
 
@@ -75,7 +88,7 @@ Modül kapalıysa komutlar uyarı verir ve çıktıyı yalnızca önizleme olara
 
 ## Kaldırma
 
-Eklenti silindiğinde yalnızca kendi ayarı (`eru_sm_settings`) ve önbelleği silinir. Sitenizdeki içeriklere dokunulmaz.
+Eklenti devre dışı bırakıldığında yalnızca kalıcı bağlantı kuralları yenilenir; ayarlarınız saklanır. Eklenti silindiğinde kendi ayarı (`eru_sm_settings`), kural yenileme bayrağı (`eru_sm_flush_rules`) ve iki önbellek geçici verisi silinir. Sitenizdeki içeriklere dokunulmaz.
 
 ## SSS
 
@@ -85,9 +98,22 @@ Eklenti silindiğinde yalnızca kendi ayarı (`eru_sm_settings`) ve önbelleği 
 
 **Gizlediğim ürünler llms.txt'de görünür mü?** Hayır. Katalog görünürlüğü "Yalnızca mağaza", "Yalnızca arama sonuçları" veya "Gizli" olan ürünler listelenmez; şifreli, özel ve noindex içerikler de dışarıda kalır. Tek tek gizlemek istediğiniz içerikler için hariç tutulacak ID'leri girin.
 
+**Modülleri kapatınca ne olur?** Kapalı modül hiçbir çıktı üretmez: `/llms.txt` yanıt vermez, şema yazılmaz, robots.txt'ye satır eklenmez. Ayarlarınız silinmez.
+
+**Dış servise istek yapıyor mu?** Hayır. Eklentinin kodunda dış HTTP isteği yoktur; çıktılar sitenizdeki içerikten üretilir.
+
+**Önbellek eklentisiyle uyumlu mu?** `/llms.txt` çıktısı eklentinin kendi önbelleğinden gelir ve içerik kaydedilince temizlenir. Sayfa önbelleği kullanıyorsanız ayar değiştikten sonra o önbelleği de temizleyin.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

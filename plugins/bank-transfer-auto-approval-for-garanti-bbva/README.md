@@ -114,6 +114,10 @@ wp eru-gha ledger [--page=1] [--format=table|csv|json]
 
 Hareket açıklamaları ve EFT açıklamaları gönderen adını içerebilir; bu yüzden kişisel veri sayılır. Eşleşme günlüğü (`{önek}eru_gha_log`) hareket açıklamalarını en fazla 160 karakter, gönderen adı baş harflere çevrilmiş, IBAN'lar ve 11 haneden uzun sayılar maskelenmiş olarak tutar (açıklama başka kişisel bilgi içerebilir); ayarlanan süre sonunda silinir ve WordPress kişisel veri dışa aktarma/silme araçlarına (sipariş e-postasıyla) bağlıdır. İşlemler ekranının önbelleği (10 dakikalık geçici veri) gönderen adını ve parçalı havale gruplaması için gönderen IBAN'ının (yoksa adının) site anahtarıyla üretilmiş HMAC özetini içerir; silme aracı bu önbelleği de temizler. Kullanılan işlem kaydı yalnızca işlem kimliği, sipariş no ve tutar tutar; aynı havalenin ikinci bir siparişi onaylamasını önlemek için saklanır. Eklenti gizlilik politikası sayfasına öneri metni ekler.
 
+## Ayarlar
+
+Tüm ayarlar WooCommerce → **Garanti Havale Onayı** → **Ayarlar** sekmesindedir: API kimlik bilgileri ve rıza (consent) kimliği, hesap/şube numarası ve IBAN, **Otomatik kontrol** ana anahtarı, **Deneme modu**, tur aralığı (5, 15 veya 30 dakika), referans deseni veya önek şablonu, tutar toleransı, parçalı havale, izlenen ödeme yöntemleri ve durumlar, onay sonrası durum ve eşleşme günlüğü saklama süresi (7–365 gün). Ayrıntılar yukarıdaki bölümlerde anlatılır.
+
 ## Gereksinimler
 
 WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gelir). HPOS ile uyumludur; sipariş verisi yalnızca `WC_Order` üzerinden okunur ve yazılır (onay öncesi durum kontrolü için durum sütunu doğrudan okunur). Sipariş meta alanları: `_eru_gha_txn_ids`, `_eru_gha_review`.
@@ -131,6 +135,20 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 - Tek hesap desteklenir.
 - Eklenti silindiğinde (Eklentiler → Sil) ayarlar, eşleşme günlüğü tablosu, kilitler, geçici veriler ve zamanlanmış işler silinir; **sipariş metası (`_eru_gha_*`) ve sipariş notları korunur.** **Kullanılan işlem kaydı** (`{önek}eru_gha_used`: işlem kimliği, sipariş no, tutar) da korunur: eklenti yeniden kurulduğunda aynı havalenin ikinci bir siparişi onaylamasını önleyen kayıt budur. Bu tabloyu da silmek için `wp-config.php` içinde `define( 'ERU_GHA_REMOVE_DATA', true );` tanımlayın.
 
+## SSS
+
+**Eklentiyi devre dışı bırakınca ne olur?** Zamanlanmış turlar (Action Scheduler işleri) kaldırılır; ayarlar, günlük ve kayıtlar yerinde kalır. Yeniden etkinleştirince kimlik bilgilerini tekrar girmeniz gerekmez.
+
+**HPOS ile çalışır mı?** Evet, eklenti `custom_order_tables` uyumluluğunu bildirir. Cart/Checkout blokları için ayrı bir beyan yoktur; eklenti ödeme ekranına dokunmaz, yalnızca sipariş durumunu değiştirir.
+
+**Bankaya ne zaman istek gider?** Yalnızca ana anahtar ve kimlik bilgileri tamamlandıktan sonra zamanlanmış turda ya da "Şimdi çalıştır", "Bu işlemle onayla" veya WP-CLI ile siz tetiklediğinizde. Yönetim sayfalarını açmak bankaya istek göndermez.
+
+**Havale iki siparişe uyarsa?** Hiçbiri onaylanmaz; ikisi de "inceleme gerekli" olur ve İşlemler ekranından elle karar verebilirsiniz.
+
+**Çok siteli (multisite) kurulumda?** Bu konuda kodda özel bir destek yoktur; ağ düzeyinde sınanmamıştır.
+
+**Verilerim başka yere gönderiliyor mu?** Yalnızca ayarladığınız API adresine (varsayılan Garanti BBVA) hesap hareketi isteği gider; başka bir dış hizmet çağrılmaz.
+
 ## English summary
 
 Read-only Garanti BBVA Account Transactions polling with OAuth2 client credentials (fresh token per run, one re-mint per page on 401) and paging (100 per page, 30 pages, de-duplicated by `transactionInstanceId`); any page failure or truncation aborts the run before matching. Incoming credits in the account currency are matched to bank transfer orders in the watched gateways and statuses by a configurable reference regex (group 1, default digit-bounded 3–10 digits) or prefix template, amount tolerance (default 0) and optional split payments (off by default, same sender only); an order may be created at most 1 hour after the transfer. Ambiguity (one transfer fits two orders, or two transfers fit one order) means no approval and a review flag. Approvals happen under a run lock: status re-read from the database, ledger claim first (unique `(txn_id, active)`), then note (payer initials, IBAN last 4), meta and status (`payment_complete()` for paid statuses). Dry-run on by default, and every run is a dry-run while the master switch is off; manual approval (refused while off) from the server-side transaction cache by id; ledger release needs a note. Log retention, privacy exporter/eraser, WP-CLI. Beta: verified against mocked HTTP only.
@@ -138,6 +156,13 @@ Read-only Garanti BBVA Account Transactions polling with OAuth2 client credentia
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

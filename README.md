@@ -1,6 +1,6 @@
 # Erusoft WP
 
-WordPress ve WooCommerce için küçük, tek işe odaklı, GPL lisanslı açık kaynak eklentiler. Katalog ve indirmeler: **https://wordpress.erusoft.com**
+WordPress ve WooCommerce için küçük, tek işe odaklı, GPL lisanslı açık kaynak eklentiler ve temalar. Katalog ve indirmeler: **https://wordpress.erusoft.com** · Bir [Erusoft](https://erusoft.com) projesidir; destek için **hello@erusoft.com**.
 
 Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler için `mu-plugins/`) altında kendi klasöründe yaşar. `catalog.json` kataloğun tek kaynağıdır; site ve aşağıdaki tablo buradan üretilir.
 
@@ -97,7 +97,6 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 | [Marketplace Orders for WooCommerce](https://wordpress.erusoft.com/marketplace-orders-for-woocommerce/) — Trendyol ve Hepsiburada siparişlerini tekrar-güvenli aktarır; stok ve fiyatı kurallarla senkronlar. | Pazaryeri | Beta |
 | [Product Push for Trendyol](https://wordpress.erusoft.com/product-push-for-trendyol/) — Basit ve varyantlı ürünleri doğrulayıp Trendyol'a gönderir; onay durumuna göre doğru uçla günceller. | Pazaryeri | Beta |
 | [Server-Side Refunds for WooCommerce](https://wordpress.erusoft.com/server-side-refunds-for-woocommerce/) — İade ve iptalleri GA4 ve Matomo'ya sunucu tarafında, kuyrukla bildirir. | Raporlama & Analitik | Beta |
-| [e-Devlet Document Verification for WordPress](https://wordpress.erusoft.com/e-devlet-document-verification-for-wordpress/) — Yüklenen resmî belgeleri e-Devlet doğrulamasıyla kontrol eder. | Güvenlik | Yakında |
 | [Multi Virtual POS for WooCommerce](https://wordpress.erusoft.com/multi-virtual-pos-for-woocommerce/) — Birden çok bankanın sanal POS'unu kural motoruyla yöneten ödeme eklentisi. | Ödeme | Yakında |
 | [T-Soft Migrator for WooCommerce](https://wordpress.erusoft.com/t-soft-migrator-for-woocommerce/) — T-Soft mağaza verisini WooCommerce'e taşıyan genel içe aktarma aracı. | Ürün & Katalog | Yakında |
 <!-- catalog:end -->
@@ -109,6 +108,13 @@ Bu depo bir monorepo: her eklenti `plugins/` (veya tek dosyalık düzeltmeler i�
 3. Etkinleştirin ve eklentinin README'sindeki ayarları izleyin.
 
 Gereksinimler: WordPress 6.5+, PHP 8.0+; WooCommerce eklentileri için WooCommerce 9.0+.
+
+## Destek
+
+- Her ürün sayfasında **Kurulum**, **Sınırlamalar** ve **SSS** bölümleri var; önce oraya göz atın.
+- Hata bildirimi: [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues). Eklenti sürümünü, WordPress/WooCommerce/PHP sürümlerini ve adımları yazın.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği: **[hello@erusoft.com](mailto:hello@erusoft.com)** · [erusoft.com](https://erusoft.com) · [Destek sayfası](https://wordpress.erusoft.com/destek/)
+- Güvenlik açıkları için herkese açık issue açmayın; bkz. [SECURITY.md](SECURITY.md).
 
 ## Katkı
 
@@ -127,4 +133,4 @@ GPL-2.0-or-later. Bkz. [LICENSE](LICENSE).
 
 ## English summary
 
-Erusoft WP is an open-source monorepo of focused WordPress and WooCommerce plugins (GPL-2.0-or-later). Browse the catalogue and download ZIPs at https://wordpress.erusoft.com. See `docs/CONTRIBUTING.md` to contribute.
+Erusoft WP is an open-source monorepo of focused WordPress and WooCommerce plugins and themes (GPL-2.0-or-later), built by [Erusoft](https://erusoft.com). Browse the catalogue and download ZIPs at https://wordpress.erusoft.com. Bugs: GitHub Issues. Setup, custom development and integration support: hello@erusoft.com. See `docs/CONTRIBUTING.md` to contribute.

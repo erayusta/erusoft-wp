@@ -23,6 +23,11 @@ Requires WooCommerce 9.0 or newer; compatible with HPOS. The admin interface is 
 2. Activate it (WooCommerce must be active).
 3. Configure it as described in the Turkish README; until configured the plugin leaves the store unchanged (except where noted in the description).
 
+== Frequently Asked Questions ==
+
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 == Screenshots ==
 
 1. Yönetim ekranı

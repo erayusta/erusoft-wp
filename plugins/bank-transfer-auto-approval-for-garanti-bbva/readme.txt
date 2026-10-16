@@ -42,6 +42,9 @@ This is a beta release. No public sandbox is known for the Garanti BBVA Account 
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Can one transfer approve two orders? =
 
 No. Every approval first writes the transaction id to the ledger table, whose unique key refuses a second active row. A status rollback does not free it; only a manual release with a note does.

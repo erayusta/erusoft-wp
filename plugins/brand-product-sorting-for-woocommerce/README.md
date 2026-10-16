@@ -29,6 +29,15 @@ Bir marka ya da kategori arşivinde hangi ürünün hangi sırada görüneceğin
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. Ürünler → **Ürün Sıralama** ekranından terimi seçip ürünleri sıralayın. Sıra kaydedilene kadar mağazanızda hiçbir şey değişmez.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve Ürünler → **Ürün Sıralama** sayfasını açın.
+2. **Sınıflandırma** olarak "Ürün kategorisi"ni (marka sınıflandırması kuruluysa onu) ve **Terim** olarak "Demo Kategori"yi seçin; terimdeki ürünler küçük görsel, ad ve kimlikle listelenir.
+3. "Demo Ürün"ü sürükleyip listenin en üstüne bırakın.
+4. **Sıralamayı kaydet**'e basın.
+5. Mağazada "Demo Kategori" arşivini açın: "Demo Ürün" ilk sırada görünür. Ziyaretçi "Fiyata göre" gibi başka bir sıralama seçerse bu sıra uygulanmaz.
+6. Varsayılan sıraya dönmek için aynı ekranda **Elle sıralamayı kaldır**'a basın.
+
 ## Ayarlar
 
 Ürünler → **Ürün Sıralama**. Yetki: `manage_woocommerce`. Her terimin sırası `_eru_bps_order` terim meta alanında saklanır.
@@ -57,9 +66,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS uyumludur. Harici servis kullan
 
 **Stokta olmayanlar sona gitsin istiyorum.** [Stokta Olmayanlar Sonda](../out-of-stock-last-for-woocommerce/) ile birlikte kullanılabilir: önce stok durumu, sonra sizin sıranız gelir.
 
+**Sıralama neden arşivimde görünmüyor?** Mağazanın varsayılan ürün sıralaması "Varsayılan sıralama" (`menu_order`) olmalıdır ve ziyaretçi başka bir sıralama seçmemiş olmalıdır. Sıra yalnızca arşivin ana sorgusunda uygulanır; kısa kod ve bloklarla çizilen listeler etkilenmez.
+
+**Sonradan eklenen ürünler nereye gider?** Kayıtlı listede olmayan ürünler, kayıtlı sıranın arkasına varsayılan sıralarıyla gelir. Yeni ürünü istediğiniz yere koymak için ekranda yeniden sıralayıp kaydedin.
+
+**Eklentiyi devre dışı bırakırsam veya silersem ne olur?** Devre dışı bırakınca arşivler varsayılan sırayla görünür; kayıtlı sıralar korunur ve yeniden etkinleştirince geri gelir. Eklenti silinirken bütün `_eru_bps_order` terim meta alanları silinir; ürünler, terimler ve diğer veriler etkilenmez. Silmeden önce kayıtlı sıralar yedeklenmediyse geri getirilemez.
+
+**HPOS ve blok Sepet/Ödeme ile ilgisi var mı?** HPOS uyumluluğu bildirilir, ancak eklenti siparişlere dokunmaz; yalnızca arşiv sorgusunu ve yönetim ekranını etkiler. Sepet/Ödeme bloklarıyla ilgisi yoktur.
+
+**Önbellek eklentileri ve performans?** Sıra, arşiv sorgusuna SQL `FIELD()` sıralaması olarak eklenir; sayfa önbelleğiniz varsa sıralamayı kaydettikten sonra arşiv sayfalarının önbelleğini temizleyin. Çok büyük listeler sorguyu yavaşlatabilir (bkz. Sınırlamalar).
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

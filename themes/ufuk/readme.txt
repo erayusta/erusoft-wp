@@ -36,6 +36,9 @@ The interface strings are Turkish and translation-ready (text domain `ufuk`). Di
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Where are the contact messages stored? =
 
 Nowhere. They are e-mailed to the address set in the Customizer (default: the site admin e-mail).

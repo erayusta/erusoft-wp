@@ -32,6 +32,15 @@ Yüksek adetli alım yapmak isteyen ziyaretçiler ürün sayfasındaki katlanır
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. WooCommerce → **Toplu Teklif** ekranından kutuyu etkinleştirin. Etkinleştirene kadar mağazanızda hiçbir değişiklik olmaz.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Toplu Teklif** sayfasını açın.
+2. Kutuyu göstermeyi açın, hedef e-posta olarak `ornek@example.com` yazın, asgari adedi `10` bırakın ve kaydedin. Yalnızca belirli ürünlerde göstermek için bir kategori seçin.
+3. Mağazada "Demo Ürün"ün sayfasını açın: ürün özeti alanında (varsayılan temalarda sepete ekle düğmesinin altında) katlanır teklif kutusu görünür.
+4. Kutuyu açıp ad, e-posta, telefon, adet (en az 10) ve kısa bir mesaj yazın, gönderin.
+5. Hedef adrese "Toplu alım teklif talebi: Demo Ürün" konulu bir e-posta düşer; ürün adı, SKU, bağlantı, adet ve müşteri bilgileri içindedir. "Yanıtla" dediğinizde yanıt doğrudan müşteriye gider.
+6. Aynı ziyaretçi 30 saniye içinde yeniden gönderirse "Çok sık istek gönderdiniz" uyarısı görür.
+
 ## Ayarlar
 
 WooCommerce → **Toplu Teklif**: kutuyu göster, başlık, açıklama, düğme yazısı, asgari adet, hedef e-posta, kategoriler, WhatsApp numarası ve şablonu. Veriler `eru_wib_settings` seçeneğinde tutulur.
@@ -62,9 +71,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS ile uyumludur. E-posta WordPres
 
 **Spam geliyor.** `eru_wib_rate_limit` filtresiyle bekleme süresini artırın.
 
+**Gelen talepler sitede saklanır mı?** Hayır. Talep yalnızca e-postayla iletilir; veritabanına yazılmaz. Bekleme süresi için ziyaretçi IP'sinin özeti (md5) kısa ömürlü bir geçici kayıtta (`transient`) tutulur ve süre dolunca silinir.
+
+**Eklentiyi devre dışı bırakırsam veya silersem ne olur?** Devre dışı bırakınca kutu ürün sayfalarından kalkar, ayarlar yerinde kalır. Eklenti silinirken yalnızca `eru_wib_settings` seçeneği silinir; başka tablo ya da meta oluşturmadığı için geride veri kalmaz.
+
+**HPOS ve blok tabanlı Sepet/Ödeme ile ilgisi var mı?** HPOS uyumluluğu bildirilir, ancak eklenti siparişlere dokunmaz; kutu ürün sayfasında çalışır. Sepet/Ödeme blokları için ayrı bir uyumluluk bildirimi yoktur ve gerekmez.
+
+**Hangi telefon numarası WhatsApp düğmesine yazılır?** Ayarlardaki WhatsApp numarası kullanılır; düğme `wa.me` bağlantısını yeni sekmede açar ve mesaj şablonundaki `{urun}`, `{sku}`, `{link}` değerlerini ürünle doldurur. Numara boşsa düğme görünmez.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

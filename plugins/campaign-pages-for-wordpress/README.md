@@ -26,6 +26,15 @@ Kampanyalarınızı yazı gibi girersiniz: başlık, banner görseli, açıklama
 - Yönetim listesinde durum ve tarih sütunları
 - Adres kuralları yalnızca etkinleştirmede ve adres değişince bir kez yenilenir
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; **Kampanyalar → Yeni ekle** ekranını açın.
+2. Başlık olarak "Demo Kampanya" yazın, açıklamayı girin ve öne çıkan görsel olarak bir banner seçin.
+3. "Kampanya ayarları" kutusunda bugünü başlangıç, bir hafta sonrasını bitiş tarihi yapın; düğme için özel bir adres ya da ürün seçin.
+4. Yayınlayın ve **Kampanyalar → Ayarlar**'dan arşiv adresini (varsayılan `/kampanyalar/`) kontrol edin.
+5. Arşiv adresini açın: kampanya kart olarak listelenir. Bir sayfaya `[eru_campaigns limit="3" columns="3"]` kısa kodunu ekleyerek aynı listeyi başka yerde gösterin.
+6. Bitiş tarihi geçince kampanya listeden kalkar; kendi sayfası "sona erdi" notuyla açık kalır.
+
 ## Kurulum
 
 1. `campaign-pages-for-wordpress` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
@@ -63,9 +72,24 @@ WordPress 6.5+, PHP 8.0+. WooCommerce zorunlu değildir; yüklüyse düğme bir 
 
 **Tema görünümü bozuyor, ne yapmalıyım?** Şablonları temanızın `eru-campaigns/` klasörüne kopyalayıp düzenleyin.
 
+**Eklentiyi silersem kampanyalar gider mi?** Hayır. Silmede yalnızca `eru_cp_settings` ve `eru_cp_flush` seçenekleri silinir; kampanya yazıları içerik olduğu için kalır. Devre dışı bırakmak adres kurallarını yeniler (`flush_rewrite_rules`), veri silmez.
+
+**Kampanya sayfaları arama motorlarında çıkar mı?** Aktif kampanyalar normal indekslenir; bitmiş ve henüz başlamamış olanlar `noindex` alır. `eru_cp_noindex` filtresiyle değiştirilebilir.
+
+**WooCommerce gerekli mi?** Hayır. Yüklüyse düğme bir ürüne veya ürün kategorisine bağlanabilir.
+
+**Çeviri nasıl yapılır?** Metin alanı `campaign-pages-for-wordpress`; çeviri yolu `/languages`.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -135,6 +135,31 @@ Betik idempotenttir. Demo mağaza ("Narin Demo Kozmetik Ltd. Şti."), ürünler,
 - Ana menü iki seviyeye kadar desteklenir.
 - Ana renk olarak açık bir ton seçilirse düğmelerdeki beyaz yazının kontrastı düşer; koyu bir ton seçin.
 
+## SSS
+
+**Temayı değiştirirsem ayarlarım ne olur?** Özelleştirici ayarları WordPress'in tema ayarları (`theme_mod`) olarak `narin_` önekiyle kaydedilir. Başka bir temaya geçince silinmez; Narin'e geri dönerseniz yerinde durur. Tema kendi başına sayfa, menü veya ürün oluşturmadığı için kaldırılacak başka bir veri yoktur.
+
+**WooCommerce kurulu değilse çalışır mı?** Evet. Mağaza bölümleri ve bağlantıları gizlenir; blog ve sayfalar normal görünür.
+
+**Yazı tipleri dışarıdan mı yükleniyor?** Hayır. Cormorant Garamond ve Jost tema klasöründen gelir; Özelleştirici'den kapatılırsa sistem yazı tipleri kullanılır. Temanın ön yüzü dış istek yapmaz.
+
+**"Son baktıklarınız" şeridi ziyaretçi bilgisini sunucuya yollar mı?** Hayır. Liste yalnızca ziyaretçinin tarayıcısında (`localStorage`) tutulur.
+
+**Başka bir dile çevrilebilir mi?** Tema `narin` metin alanıyla çeviriye hazırdır ve `languages/` klasörünü yükler; arayüz Türkçedir. Klasörde şu an hazır bir çeviri dosyası yoktur.
+
+**Yoast SEO veya Rank Math ile çakışır mı?** Hayır. Bu eklentilerden biri etkinse temanın Open Graph ve JSON-LD etiketleri kendiliğinden kapanır.
+
+## Sürüm notları
+
+Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve tema sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
+
 ## Lisans ve kaynaklar
 
 - Kod: GPL-2.0-or-later (deponun `LICENSE` dosyası).

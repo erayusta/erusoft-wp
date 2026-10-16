@@ -36,6 +36,17 @@ Eklenti:
 
 Etkinleştirildiğinde sitenin ön yüzünde hiçbir şey değişmez, İYS'ye istek gitmez ve zamanlanmış iş oluşmaz. Ana anahtar kapalıyken izinler yalnızca sitede saklanır. **Açık uçlar:** REST ucu (`eru-cmi/v1/consent`) ve imzalı bağlantı sayfaları etkinleştirmeyle birlikte çalışır; anahtarlar kapalıyken de daha önce gönderilmiş bağlantılar geçerli kalır. Uç yalnızca imzalı bağlantı ya da giriş yapmış hesabın kendi bilgileriyle çalışır.
 
+## Nasıl kullanılır
+
+Test (sandbox) ortamında uçtan uca bir deneme:
+
+1. Kurulum bölümündeki bağlantı bilgilerini girin, ortamı **Test (sandbox)** bırakın ve **Ayarlar → Toplama** bölümünden ödeme sayfası kutusunu açın.
+2. Ana anahtarı açmadan önce siteye `ornek@example.com` adresiyle, "Demo Ürün" (250 TL) sepete ekleyerek bir deneme siparişi verin; ödeme sayfasındaki izin kutusunu işaretleyin.
+3. **WooCommerce → İYS İzinleri → İzinler** sekmesinde yeni kaydı açın: durum ONAY, kaynak HS_WEB, kanıt sütununda "doğrulanmadı" görünmeli. **Denetim kaydı** sekmesinde zaman, izin metni özeti ve tuzlanmış IP özeti görünür.
+4. Ana anahtarı açın. **Kuyruk** sekmesinde satırın bekliyor, gönderildi ve sonuç durumlarına geçişini izleyin; hata varsa "Son hata / not" sütununa bakın.
+5. Hesabım → İletişim tercihleri sekmesinden kanalı kapatın: yeni bir RET geçmiş satırı ve kuyruk satırı oluşur.
+6. Her şey beklendiği gibiyse ortamı **Canlı** yapın.
+
 ## H175 ve H467
 
 - **H175 — ilk kayıt RET olamaz.** İYS, bir alıcı için hiç kaydı yokken gelen RET'i reddeder. Eklenti bu durumda RET'i sitede saklar ama İYS'ye göndermez (kuyrukta "atlandı"). İYS'de kayıt olup olmadığı ortam başına izlenir (önceden kabul edilmiş ya da yolda olan bir kayıt). TACIR alıcılar önceden izin olmadan ileti alabildiği ve yalnızca ret bildirebildiği için ilk TACIR RET'i gönderilir; İYS reddederse satır "atlandı" olur.
@@ -160,6 +171,16 @@ Growth Automations etkinse eklenti `eru_gra_has_marketing_consent` filtresine 20
 
 Eklenti silindiğinde (Eklentiler → Sil) ayarlar, harici API anahtarının özeti ve imza sırrı, önbellekler, kilitler, zamanlanmış işler, çekme ve mutabakat durumu, kuyruk tablosu ve API kaydı silinir. **İzin deposu, denetim kaydı, adres özetlerinin tuzu, bağlantı imza sırrı ve izin metinleri saklanır** (önceden gönderilmiş geri çekme bağlantıları yeniden kurulumdan sonra da çalışır). Bunları da silmek için `wp-config.php` dosyasına `define( 'ERU_CMI_REMOVE_DATA', true );` ekleyip sonra silin.
 
+## Ayarlar
+
+**WooCommerce → İYS İzinleri** altında beş sekme vardır: İzinler, Denetim kaydı, Kuyruk, Ayarlar ve Araçlar. Ayarlar sekmesinin bölümleri:
+
+- **Bağlantı:** test ve canlı ortam bilgileri, ortam seçimi, ana anahtar, "Bağlantıyı test et", geri çekme bağlantısı süresi (gün) ve harici API anahtarı.
+- **Toplama:** ödeme sayfası ve üyelik kutuları, Hesabım sekmesi.
+- **Senkron ve saklama:** saatlik çekme, mutabakat saati, API kaydı süresi, denetim kaydındaki IP ve tarayıcı özetlerinin saklama süresi.
+
+CSV aktarma ve toplu işlemler Araçlar sekmesindedir.
+
 ## Gereksinimler
 
 WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile uyumludur. Arka plan işleri WooCommerce ile gelen Action Scheduler'la çalışır. WooCommerce yoksa eklenti bir uyarı gösterir ve hiçbir şey yapmaz.
@@ -181,9 +202,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **İYS'ye bağlanmadan kullanılabilir mi?** Evet. Ana anahtar kapalıyken izinler, geçmiş ve bağlantılar sitede çalışır; kuyruk birikir ve anahtar açılınca gönderilir. 3 iş gününü geçen ONAY'lar H467 nedeniyle atlanır (yeniden damgalama açık değilse); geri çekmeler (RET) ise her zaman gönderim anının tarihiyle gider.
 
+**Çok sitede (multisite) çalışır mı?** Ağ düzeyinde etkinleştirme için kodda özel bir destek yoktur; her site kendi tablolarını ve ayarlarını kullanır.
+
+**Dış servise bağlanır mı?** Yalnızca İYS API'sine ve yalnızca Bağlantı bölümünde girdiğiniz bilgilerle; ana anahtar kapalıyken İYS'ye istek gitmez.
+
+**Eklentiyi silersem izin kayıtları gider mi?** Hayır; izin deposu ve denetim kaydı varsayılan olarak saklanır. Ayrıntı için Kaldırma bölümüne bakın.
+
+**HPOS ve Ödeme bloğu ile uyumlu mu?** HPOS uyumluluğu bildirilir. Ödeme bloğunda kutu desteklenir, ancak etiketi düz metindir (Sınırlamalar).
+
+**Çeviri dosyaları var mı?** Arayüz Türkçe yazılmıştır; metin alanı `consent-manager-for-iys`, alan yolu `/languages` olarak tanımlıdır, ancak klasörde henüz hazır bir çeviri dosyası yoktur.
+
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

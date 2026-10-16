@@ -53,6 +53,9 @@ Requires WooCommerce 9.6 or later for the shop features (brands use WooCommerce'
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Why is the free-shipping bar not shown? =
 
 The bar needs an enabled "Free shipping" method with a minimum order amount in the shipping zone that matches the

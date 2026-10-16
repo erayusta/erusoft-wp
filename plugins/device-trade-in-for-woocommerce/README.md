@@ -8,6 +8,15 @@ Müşteri ürün sayfasında eski cihazını seçer, durumunu işaretler ve tahm
 
 ![Takas cihazları tablosu](../../docs/screenshots/device-trade-in-for-woocommerce/1.png)
 
+## Kurulum
+
+1. `device-trade-in-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin) ve etkinleştirin. WooCommerce gereklidir; yoksa eklenti bir uyarı gösterir.
+2. **WooCommerce → Takas** ekranında Ayarlar, Cihazlar ve Takas kayıtları sekmeleri bulunur. Aşağıdaki "Nasıl çalışır" adımlarını sırayla izleyin.
+
+## Ayarlar
+
+Ayarlar **WooCommerce → Takas → Ayarlar** sekmesindedir: takas açılacak kategori ve ürünler, durum adları ve yüzdeleri, indirim biçimi (negatif ücret ya da satır indirimi), kampanya bonusu, "Siparişi beklet" ve "Reddedilen takasta iptal et", gecikme hatırlatma günü, gönderim talimatı ve saklama süresi. Ayrıntılar aşağıdaki ilgili bölümlerde anlatılır.
+
 ## Nasıl çalışır
 
 1. **Cihaz tablosunu girin** (WooCommerce → Takas → Cihazlar): marka, model, kapasite ve baz değer. Elle ekleyebilir ya da CSV içe aktarabilirsiniz. Eklenti hiçbir cihaz veya fiyat listesiyle gelmez.
@@ -92,6 +101,20 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 - Takas listesi sınırlı sayfalama ile (50 / 30 satır) gösterilir; çok büyük tablolar için CSV kullanın.
 - Eklenti silindiğinde (Eklentiler → Sil) ayarlar, üç tablo (cihazlar, takas kayıtları, talepler) ve zamanlanmış işler silinir; sipariş metası (`_eru_dti_*`) ve sipariş notları korunur.
 
+## SSS
+
+**Eklentiyi devre dışı bırakırsam ne olur?** Günlük zamanlanmış iş (`eru_dti_daily`) kaldırılır; veriler durur. Ön yüzde seçici görünmez, takaslı siparişler siparişte kalır.
+
+**Eklentiyi silersem takas kayıtları gider mi?** Evet: ayarlar, üç tablo (cihazlar, takas kayıtları, talepler), geçici kayıtlar ve zamanlanmış işler silinir. Sipariş metası (`_eru_dti_*`) ve sipariş notları korunur. Silmeden önce gerekiyorsa cihaz tablosunu CSV olarak dışa aktarın. Bu eklentide veriyi koruyan bir sabit yoktur.
+
+**HPOS ve Sepet/Ödeme blokları?** Eklenti HPOS uyumluluğunu (`custom_order_tables`) bildirir. Ödeme sırasında Store API üzerinden gelen siparişler de takas kaydı alır; ancak seçici klasik ürün sayfasındaki sepete ekle formu içindir ve blok tabanlı tekil ürün şablonu desteklenmez (bkz. Sınırlamalar).
+
+**Müşteri değeri değiştirebilir mi?** Hayır. Tarayıcıdan yalnızca cihaz kimliği ve durum anahtarı gelir; değer her sepet hesaplamasında veritabanından yeniden hesaplanır.
+
+**Dış servise bağlanıyor mu?** Hayır; cihaz fiyat listesi ya da başka bir servis çağrılmaz. Tablo sizin girdiğiniz verilerden oluşur.
+
+**Önbellek eklentisiyle sorun olur mu?** Seçici ürün sayfasında çalışır; sepet ve ödeme sayfalarını önbellekten hariç tutmanız, bu sayfalar herkeste olduğu gibi, önerilir.
+
 ## English summary
 
 Customers choose their old device and its condition on the product page; the value (base × condition % + optional bonus) is re-resolved from the database on every cart calculation, capped at the per-unit ex-tax product price, and applied as a non-taxable negative fee or as a line discount (which reduces the tax base). Ask your accountant which fits your invoicing. Orders get a trade-in record with an approval flow, optional order hold, overdue reminders, privacy tools and retention purge. Nothing is shown until categories or products are enabled.
@@ -99,6 +122,13 @@ Customers choose their old device and its condition on the product page; the val
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

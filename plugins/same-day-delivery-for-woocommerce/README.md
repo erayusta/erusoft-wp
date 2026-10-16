@@ -2,7 +2,7 @@
 
 Kesim saati, çalışma günleri ve tatillere göre "Bugün kargoda / Yarın kargoda" mesajı ve uygun şehir/ilçeler için isteğe bağlı aynı gün teslimat yöntemi.
 
-> **English:** Cut-off time, working days and holidays: shows "Ships today / tomorrow / <weekday>" on product and cart pages (site timezone) and adds an optional same-day shipping method with its own fee for eligible cities/districts. Everything is off or empty until configured.
+> **English:** Cut-off time, working days and holidays: shows "Ships today / tomorrow / `<weekday>`" on product and cart pages (site timezone) and adds an optional same-day shipping method with its own fee for eligible cities/districts. Everything is off or empty until configured.
 
 [![Lisans: GPL-2.0-or-later](https://img.shields.io/badge/lisans-GPL--2.0--or--later-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html) ![WordPress 6.5+](https://img.shields.io/badge/WordPress-6.5%2B-21759b.svg) ![WooCommerce 9.0+](https://img.shields.io/badge/WooCommerce-9.0%2B-96588a.svg) ![PHP 8.0+](https://img.shields.io/badge/PHP-8.0%2B-777bb4.svg)
 
@@ -27,6 +27,15 @@ Müşteriye siparişin ne zaman kargoya verileceğini söyler ve belirlediğiniz
 1. Klasörü `wp-content/plugins/` altına kopyalayın ve etkinleştirin.
 2. WooCommerce → **Aynı Gün Teslimat**: kesim saatini, çalışma günlerini, tatilleri ve bölgeleri girin; mesajı göstermek için kutuyu işaretleyin.
 3. Aynı gün yöntemi için WooCommerce → Ayarlar → Gönderim bölgelerinde bölgenize **Aynı gün teslimat** yöntemini ekleyin ve ücretini yazın.
+
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin, WooCommerce → **Aynı Gün Teslimat** ekranını açın.
+2. Kesim saatini 14:00, çalışma günlerini Pazartesi-Cuma yapın; tatil olarak `12-25` (her yıl) ve `2030-01-02` (tek seferlik) gibi örnek günler ekleyin.
+3. Aynı gün bölgeleri alanına `İzmir` ve `Ankara/Çankaya` yazın; "Mesajları göster" kutusunu işaretleyip kaydedin.
+4. WooCommerce → Ayarlar → Gönderim'de İzmir'i kapsayan bölgeye **Aynı gün teslimat** yöntemini ekleyin, ücret olarak 50 TL yazın.
+5. "Demo Ürün" sayfasını açın: kesim saatinden önce "Bugün kargoda", sonra "Yarın kargoda" (ya da hafta sonuysa `<gün> kargoda`) mesajı görünür. Sepet sayfasında da aynı mesaj çıkar.
+6. Ödeme adımında adresi İzmir seçip çalışma günü kesim saatinden önce deneyin: "Aynı gün teslimat" seçeneği 50 TL ile sunulur. Saat dışında ya da listede olmayan bir şehirde sunulmaz. Denemek için `eru_sdd_now` filtresiyle saati simüle edebilirsiniz.
 
 ## Ayarlar
 
@@ -68,11 +77,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu.
 
 **Hafta sonu verilen sipariş?** Bir sonraki çalışma günü için `<gün> kargoda` mesajı gösterilir.
 
-Kaldırma: `eru_sdd_settings` silinir.
+**Eklentiyi devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca mesajlar kalkar ve aynı gün yöntemi ödemede sunulmaz. Eklentiler → Sil yalnızca `eru_sdd_settings` seçeneğini siler. Gönderim bölgelerine eklediğiniz yöntem örnekleri WooCommerce'in kendi verisidir, silinmez. Eklenti başka tablo veya meta yazmaz, zamanlanmış iş kurmaz.
+
+**HPOS ve blok sepet/ödeme?** HPOS uyumluluğu bildirilir. Sepet mesajı klasik sepetin `woocommerce_before_cart_totals` kancasına eklenir; blok sepette bu kanca çalışmaz, mesajı o sayfada `[eru_sdd_message]` kısa koduyla yerleştirin. Blok için ayrı bir uyumluluk bildirimi yoktur.
+
+**Dış servise bağlanır mı?** Hayır. Tüm hesaplar sunucuda, site saat diliminde yapılır.
+
+**Önbellek eklentisi kullanıyorum.** Mesaj sayfa oluşturulurken hesaplanır; tam sayfa önbelleği, önbellek süresi kadar eski mesaj gösterebilir. Kısa süreli önbellek ya da kesim saatinde temizleme kullanın.
+
+**Çeviri ve çoklu site?** Metin alanı `same-day-delivery-for-woocommerce`, alan yolu `/languages`; klasörde hazır çeviri dosyası yoktur, mesaj metinlerini ayarlardan yazarsınız. Ağ düzeyinde etkinleştirme için özel bir destek yoktur.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

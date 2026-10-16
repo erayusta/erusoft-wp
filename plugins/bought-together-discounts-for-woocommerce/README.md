@@ -29,6 +29,15 @@ Birbirini tamamlayan ürünleri (örneğin ana ürün ve aksesuarı) bir set ola
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. Aşağıdaki ayar ekranından yapılandırın. Yapılandırma yapılana kadar mağazanızda hiçbir değişiklik olmaz.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Birlikte Al İndirimleri** sayfasını açın.
+2. **Set ekle**'ye basın, set adına "Demo Set" yazın ve ürün arama kutusundan iki ürün seçin: "Demo Ürün" ve "Demo Aksesuar".
+3. Set indirimini yüzde olarak seçip `20` girin (ya da "Sabit tutar (set başına)" seçip örneğin `50` TL girin), **Etkin** kutusunu işaretleyin ve **Kaydet**'e basın.
+4. "Demo Ürün"ün sayfasını açın: ürün ve aksesuar, set fiyatıyla birlikte "Hepsini sepete ekle" düğmesiyle görünür.
+5. Düğmeye basın; iki ürün de sepete girer ve sepette set etiketiyle (boşsa "Birlikte alma indirimi") negatif bir ücret satırı oluşur.
+6. Ürünlerden birini sepetten çıkarın: set tamamlanmadığı için indirim satırı kendiliğinden kalkar.
+
 ## Ayarlar
 
 WooCommerce → **Birlikte Al İndirimleri**. Setler `eru_btd_sets` seçeneğinde saklanır; varsayılan boştur. Varyasyonlu ürünlerde ürün arama kutusundan ilgili **varyasyonu** seçin (varyasyonlu ana ürün kaydedilmez). İndirim tabanı, setteki ürünlerin kupon öncesi birim fiyatlarıdır.
@@ -77,6 +86,14 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **Müşteri ürünlerden birini sepetten çıkarırsa?** Set tamamlanmadığı için indirim kendiliğinden kalkar.
 
+**Eklentiyi devre dışı bırakırsam veya silersem ne olur?** Devre dışı bırakınca set indirimi ve ürün sayfası bloğu çalışmaz; ayarlar yerinde kalır. Eklenti silinirken yalnızca `eru_btd_sets` seçeneği silinir. İndirimli verilmiş siparişlerdeki ücret satırları sipariş kaydında olduğu gibi kalır.
+
+**HPOS ve blok tabanlı Sepet/Ödeme ile uyumlu mu?** HPOS uyumluluğu bildirilir. Blok Sepet/Ödeme için ayrı bir uyumluluk bildirimi yoktur; indirim sepete ücret satırı olarak eklendiği için sepet toplamı WooCommerce'in hesabından geçer, ancak ürün sayfası bloğu klasik "add to cart" kancasına bağlıdır.
+
+**Önbellek eklentileriyle sorun olur mu?** İndirim sunucuda her sepet hesabında yeniden üretilir; önbelleğe alınan bir ürün sayfasında set fiyatı bloğu bir önceki yapılandırmayı gösterebilir. Setleri değiştirdikten sonra sayfa önbelleğinizi temizleyin.
+
+**Varyasyonlu ürünle çalışır mı?** Evet, ancak sete varyasyonlu ana ürün değil, ilgili **varyasyon** eklenir.
+
 ### Hangisini seçmeliyim?
 
 Belirli ürünleri set olarak satmak için bu eklenti; kupon kodsuz genel kural motoru için [Otomatik İndirimler](../automatic-discounts-for-woocommerce/); sepet tutarı kademeleri için [Sepet Kampanyaları](../cart-campaigns-for-woocommerce/). Hepsi birlikte etkinse indirimler toplanır.
@@ -84,6 +101,13 @@ Belirli ürünleri set olarak satmak için bu eklenti; kupon kodsuz genel kural 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

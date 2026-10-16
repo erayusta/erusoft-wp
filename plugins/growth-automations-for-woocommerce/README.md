@@ -108,7 +108,7 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 - Stok bildirimi formu JavaScript gerektirir.
 - E-postalar `wp_mail` ile gider; teslim edilebilirlik (SPF, DKIM) sitenizin e-posta kurulumuna bağlıdır.
 - Geri kazanımda müşteri, fatura e-postasıyla tanınır; farklı e-postalarla verilmiş siparişler ayrı müşteri sayılır.
-- Eklenti silindiğinde (Eklentiler > Sil) kendi ayarları, tabloları, stok bildirimleri, zamanlanmış işleri ve üretilen kuponlardan süresi dolmuş, hiç kullanılmamış olanlar silinir. Vazgeçme (engelleme) listesi, müşteriye e-postayla gönderilmiş ve süresi dolmamış kuponlar ile kullanılmış kuponlar yeniden kurulumda korunur; bunlar yalnızca `wp-config.php`'de `define( 'ERU_GRA_REMOVE_DATA', true );` tanımlıysa silinir. Siparişlere yazılmış işaretler (`_eru_gra_*` sipariş metası) ve sipariş notları her durumda korunur.
+- Eklenti silindiğinde (Eklentiler > Sil) kendi ayarları, tabloları, stok bildirimleri, zamanlanmış işleri ve üretilen kuponlardan süresi dolmuş, hiç kullanılmamış olanlar silinir; müşterilerin pazarlama izni kullanıcı metası (`eru_gra_marketing_optin`) de her durumda silinir. Vazgeçme (engelleme) listesi, müşteriye e-postayla gönderilmiş ve süresi dolmamış kuponlar ile kullanılmış kuponlar yeniden kurulumda korunur; bunlar yalnızca `wp-config.php`'de `define( 'ERU_GRA_REMOVE_DATA', true );` tanımlıysa silinir. Siparişlere yazılmış işaretler (`_eru_gra_*` sipariş metası) ve sipariş notları her durumda korunur.
 - Google alışveriş beslemesi bu eklentinin kapsamında değildir.
 
 ## SSS
@@ -119,6 +119,12 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 
 **Kupon yoksa e-posta ne olur?** Metin `{coupon_code}` içeriyor ama kupon sağlanamıyorsa e-posta gönderilmez ve neden kayıt ekranında görünür.
 
+**Eklentiyi silersem vazgeçme listesi gider mi?** Hayır. Silmede ayarlar, tablolar, stok bildirimleri, zamanlanmış işler ve süresi dolmuş, kullanılmamış üretilen kuponlar silinir; müşterilerin pazarlama izni kullanıcı metası (`eru_gra_marketing_optin`) de her durumda silinir; vazgeçme listesi ile gönderilmiş geçerli ve kullanılmış kuponlar `ERU_GRA_REMOVE_DATA` `true` tanımlanmadıkça kalır. Sipariş metası ve sipariş notları her durumda kalır.
+
+**Dış bir servis kullanıyor mu?** Hayır, kodda dış HTTP isteği yoktur. E-postalar sitenizin `wp_mail` kurulumuyla gider.
+
+**Blok tabanlı ödeme sayfasıyla çalışır mı?** Kısmen: ödeme sayfasındaki onay kutusu ve sepet yakalama klasik `[woocommerce_checkout]` içindir; sipariş kurtarma blok ödemede de çalışır. Ayrıntı için Sınırlamalar bölümüne bakın.
+
 ## English summary
 
 Opt-in automations for WooCommerce, off by default, with one tab per automation under WooCommerce > Büyüme Otomasyonları. Transactional: bank-transfer reminder, review request, double-opt-in back-in-stock alerts (simple products and single variations). Marketing (consent required): abandoned-cart e-mail with a single-use restore link, win-back with a unique coupon bound to the recipient and created before sending. Unsubscribe is signed and confirmed with a POST; suppression always wins. Selection queries carry the "done" flag and every run re-arms itself while work remains. A filter lets consent platforms grant consent; no İYS registration is performed. WP-CLI: `wp eru-gra run <automation> [--dry-run]`.
@@ -126,6 +132,13 @@ Opt-in automations for WooCommerce, off by default, with one tab per automation 
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

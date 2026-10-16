@@ -17,6 +17,15 @@
 - Yanıtın `_links` alanı ve başlıkları HIT'te MISS ile aynıdır
 - Süre (TTL) ayarlanabilir (10 - 86400 sn, varsayılan 300)
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → Ayarlar → **REST Önbelleği** sekmesini açın.
+2. Uç listesine her satıra bir yol yazın, örneğin `/wc/store/v1/products`.
+3. Süreyi (TTL) 300 saniye olarak bırakın ve kaydedin.
+4. Çıkış yapmış bir tarayıcıdan (veya tarayıcı geliştirici araçlarından, oturum çerezi olmadan) bu adrese iki kez GET isteği atın.
+5. İlk yanıtta `X-Eru-Cache: MISS`, ikincisinde `X-Eru-Cache: HIT` başlığını görün.
+6. "Demo Ürün"ün fiyatını değiştirip kaydedin: ürün değişimi önbelleği temizler, sonraki istek yeniden `MISS` olur.
+
 ## Kurulum
 
 1. `rest-response-cache-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın ve etkinleştirin.
@@ -58,6 +67,14 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+.
 
 **Yönetici olarak neden HIT görmüyorum?** Giriş yapmış istekler asla önbelleğe alınmaz.
 
+**Eklentiyi silersem ne olur?** Silme sırasında `eru_rrc_routes`, `eru_rrc_ttl`, `eru_rrc_version` seçenekleri ve `eru_rrc_` önekli transient'ler silinir; başka veri yoktur. Devre dışı bırakmak ayarları silmez.
+
+**Dış servise bağlanır mı?** Hayır, kodda dış HTTP isteği yoktur.
+
+**Sayfa önbelleği eklentisiyle birlikte kullanılır mı?** Bu eklenti yalnızca izin listesindeki REST GET yanıtlarını önbelleğe alır, sayfaları değil. Müşteriye göre değişen yanıt veren uçları listeye eklemeyin (bkz. Sınırlamalar).
+
+**Çeviri nasıl yapılır?** Metin alanı `rest-response-cache-for-woocommerce`; çeviri yolu `/languages`.
+
 ## English summary
 
 Caches anonymous GET responses of allow-listed public REST routes (default list is empty, so nothing is cached). Keys include the normalised route, sorted query and locale. Never caches authenticated, credentialed, session-cookie, non-GET, `Set-Cookie`/`no-store` responses. Flushes on product/term changes and via a manual button. Adds `X-Eru-Cache: HIT|MISS`.
@@ -65,6 +82,13 @@ Caches anonymous GET responses of allow-listed public REST routes (default list 
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

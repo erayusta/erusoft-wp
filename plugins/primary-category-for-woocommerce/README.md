@@ -27,6 +27,14 @@ Birden fazla kategorideki ürünlerde hangi kategorinin adreste ve kırıntıda 
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. Ürün düzenleme ekranında "Birincil kategori" kutusundan seçim yapın. Seçilmemiş ürünlerde hiçbir şey değişmez.
 
+## Nasıl kullanılır
+
+1. Ayarlar → Kalıcı bağlantılar'da ürün bağlantı yapısını, `%product_cat%` içerecek şekilde seçin (ör. ürün öneki ile birlikte kategori adı).
+2. "Demo Ürün"ü iki kategoriye atayın: "Demo Giyim" ve "Demo Aksesuar".
+3. Ürün düzenleme ekranının yan sütunundaki **Birincil kategori** kutusunu açın; listede yalnızca bu iki kategori görünür. "Demo Aksesuar"ı seçip ürünü güncelleyin.
+4. Ürünün adresinde artık `demo-aksesuar` kategori parçası kullanılır, WooCommerce kırıntısında da ana kategori olarak o görünür.
+5. Seçimi geri almak için kutuyu "— otomatik —" yapıp kaydedin; WooCommerce eski davranışına döner.
+
 ## Ayarlar
 
 Ayar ekranı yoktur. Seçim `_eru_pc_primary` ürün meta alanında saklanır.
@@ -53,9 +61,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS uyumludur. Yoast SEO ve Rank Ma
 
 **Yoast SEO'daki birincil kategori ezilir mi?** Hayır. Yoast değeri yalnızca bu eklentinin kendi seçimi yoksa okunur.
 
+**Eklentiyi silersem ne olur?** Eklentide `uninstall.php` yoktur; silince `_eru_pc_primary` ürün meta alanları veritabanında kalır ama kullanılmaz. Devre dışı bırakmak adresleri ve kırıntıyı WooCommerce'in varsayılan davranışına döndürür. Meta alanlarını temizlemek isterseniz kendiniz silebilirsiniz.
+
+**Birincil kategoriyi seçtiğim kategoriyi üründen çıkarırsam?** Ürüne atanmamış bir kategori geçersiz sayılır; kayıt sırasında da yalnızca ürüne atanmış bir kategori kaydedilir.
+
+**HPOS ile uyumlu mu?** Evet, eklenti `custom_order_tables` uyumluluğunu bildirir (siparişlere dokunmaz).
+
+**Dışarıya istek yapıyor mu?** Hayır, harici servis kullanmaz.
+
+**Mevcut adreslerim değişir mi?** Evet, `%product_cat%` kullanan bir bağlantı yapınız varsa birincil kategori seçtiğiniz ürünün adresi değişir. Eski adreslerin yönlendirmesini yönlendirme eklentinizle yönetin.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

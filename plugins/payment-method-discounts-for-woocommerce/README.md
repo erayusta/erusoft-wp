@@ -32,6 +32,15 @@ Havale/EFT gibi tercih etmenizi istediğiniz ödeme yöntemlerine, ödeme sayfas
 
 WooCommerce → **Ödeme İndirimleri**. Kurallar `eru_pmd_rules` seçeneğinde saklanır; varsayılan boştur.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Ödeme İndirimleri** ekranını açın.
+2. **Kural ekle**'ye basın; ödeme yöntemi olarak "Doğrudan banka havalesi"ni seçin, tür **İndirim**, mod yüzde, değer `5` olsun.
+3. **Etiket** alanına "Havale indirimi" yazın, **Asgari sepet** alanına `200` girin ve **Kaydet**'e basın.
+4. Mağazada "Demo Ürün" (250 TL) sepete ekleyip ödeme sayfasına gidin.
+5. Ödeme yöntemi olarak havaleyi seçin: sayfa yenilenir ve sepette "Havale indirimi" satırı (-12,50 TL) görünür.
+6. Başka bir ödeme yöntemine geçtiğinizde satır kalkar.
+
 ## Kancalar, filtreler ve veri alanları
 
 | Ad | Tür | Açıklama |
@@ -59,9 +68,22 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **Diğer indirim eklentileriyle birlikte çalışır mı?** Evet. [Otomatik İndirimler](../automatic-discounts-for-woocommerce/), [Sepet Kampanyaları](../cart-campaigns-for-woocommerce/) ve [Birlikte Al İndirimleri](../bought-together-discounts-for-woocommerce/) da negatif ücret satırı ekler; satırlar toplanır ve her toplam hesaplamasında yeniden üretildiği için hiçbiri iki kez uygulanmaz.
 
+**Eklentiyi silersem ne olur?** Eklenti silindiğinde yalnızca `eru_pmd_rules` seçeneği silinir. Eski siparişlerdeki ücret satırları sipariş kaydında kalır. Devre dışı bırakmak indirimi durdurur ama kurallarınız saklanır.
+
+**HPOS ve Sepet/Ödeme blokları ile çalışır mı?** HPOS uyumluluğu bildirilir. Blok tabanlı ödeme sayfasında ücret, oturumda kayıtlı ödeme yöntemine göre hesaplanır; seçime anında tepki için klasik ödeme sayfası önerilir (bkz. Sınırlamalar).
+
+**Asgari sepet tutarına ulaşılmazsa ne olur?** Kural o sepet için atlanır ve satır eklenmez. Asgari tutar, ürünlerin alt toplamına göre kontrol edilir.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

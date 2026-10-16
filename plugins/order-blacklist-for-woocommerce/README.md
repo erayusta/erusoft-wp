@@ -24,6 +24,15 @@ Sorunlu müşterilerin sipariş vermesini ödeme adımında engeller. Listeler b
 - Eşleşmede ziyaretçi IP'sini listeye ekleme: **isteğe bağlı**, varsayılan kapalı
 - WordPress kişisel veri dışa aktarma/silme araçlarına bağlanır (e-posta anahtarı)
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → **Kara Liste** ekranını açın.
+2. E-posta listesine her satıra bir adres olacak şekilde `ornek@example.com` ve alan adının tamamını engellemek için `@example.net` yazın.
+3. İsterseniz telefon listesine örnek bir numara, adres parçası listesine "Demo Mahallesi" yazın.
+4. Engelleme mesajını değiştirin (boşsa varsayılan metin kullanılır) ve kaydedin.
+5. Mağazada `ornek@example.com` ile ödeme yapmayı deneyin: klasik ödemede genel bir hata mesajı görünür, sipariş oluşmaz.
+6. Ekrandaki günlükte engellenen denemeyi (eşleşen kural, tür, zaman) görün.
+
 ## Kurulum
 
 1. Klasörü `wp-content/plugins/` altına kopyalayın ve etkinleştirin.
@@ -63,11 +72,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu.
 
 **Günlükte kişisel veri var mı?** Yalnızca sizin yazdığınız eşleşen kural, tür, zaman ve kaynak; kural e-posta/telefon gibi kişisel veri olabileceği için KVKK kapsamında değerlendirin.
 
-Kaldırma: `eru_ob_settings` ve `eru_ob_log` silinir.
+**Eklentiyi silersem ne olur?** Silme sırasında yalnızca `eru_ob_settings` (listeler, mesaj) ve `eru_ob_log` (günlük) seçenekleri silinir; sipariş metası kalır. Devre dışı bırakmak hiçbir veriyi silmez.
+
+**Blok ödeme sayfasında çalışır mı?** Evet. Eşleşmede istek `eru_ob_blocked` hatasıyla (400) reddedilir; ayrıntı Sınırlamalar bölümünde.
+
+**Dış servise bağlanır mı?** Hayır, kodda dış HTTP isteği yoktur; listeler ve günlük sitenizin veritabanındadır.
+
+**Telefon eşleşmesinde +90 ve 0 farkı önemli mi?** Hayır; yalnızca rakamlar karşılaştırılır (son 10 hane).
+
+**Çeviri nasıl yapılır?** Metin alanı `order-blacklist-for-woocommerce`; çeviri yolu `/languages`.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

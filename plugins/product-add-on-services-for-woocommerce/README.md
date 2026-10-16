@@ -35,6 +35,16 @@
 2. Eklentiler ekranından etkinleştirin.
 3. WooCommerce → **Ek Hizmetler** → Grup ekle. Grubun kapsamını ve seçeneklerini girip yayınlayın.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → **Ek Hizmetler** → Grup ekle.
+2. Gruba "Hediye Paketi" gibi bir ad verin, tek seçim ya da çoklu seçim belirleyin; isterseniz zorunlu yapın.
+3. Kapsamı seçin: örneğin yalnızca "Demo Ürün".
+4. Seçenek ekleyin: "Standart paket" 50 TL (adet başına), "Kurulum" 200 TL (satır başına bir kez).
+5. Grubu yayınlayın ve "Demo Ürün" sayfasını açın; seçenekler sepete ekle düğmesinin üstünde görünür.
+6. Adedi 2 yapıp seçenekleri işaretleyin: canlı toplam güncellenir.
+7. Sepete ekleyin: seçimler ürün satırında, "satır başına" tutar ise ayrı ücret satırı olarak görünür; ödeme ve siparişte de aynı kayıtlar yer alır.
+
 ## Fiyatlandırma
 
 Tutarları ürün fiyatlarını girdiğiniz gibi girin: WooCommerce "Fiyatlar vergi dahil girilir" ayarı açıksa KDV dahil, kapalıysa KDV hariç. Yüzde, sepetteki ürünün o anki fiyatından (indirimli fiyat dahil) hesaplanır; ayarlardan normal fiyat da seçilebilir. Varyasyonlu üründe yüzde, seçilen varyasyonun fiyatından hesaplanır.
@@ -113,9 +123,22 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **JavaScript kapalıysa?** Form normal gönderilir, doğrulama ve fiyat sunucudadır; yalnızca canlı toplam görünmez.
 
+**Eklentiyi silersem sipariş kayıtları gider mi?** Hayır. Silmede hizmet grupları, `eru_aos_*` ayarları ve ürünlerdeki "kapat" işareti silinir; siparişlere yazılmış ek hizmet metası ve ücret satırları kalır. Yalnızca devre dışı bırakmak hiçbir veriyi silmez.
+
+**Blok sepet ve ödeme sayfasıyla çalışır mı?** Evet, seçimler ürün satırında görünür ve fiyat sunucuda hesaplanır. Sınırlar için Sınırlamalar bölümüne bakın.
+
+**Dış servise bağlanır mı?** Hayır, vitrinde dış HTTP isteği yoktur.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

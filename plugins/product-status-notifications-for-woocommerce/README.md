@@ -10,7 +10,7 @@
 
 ## Ne işe yarar
 
-Olayları siz seçersiniz: yayın durumu geçişi (örn. yayında → taslak), stokta yok durumuna geçiş, normal/indirimli fiyat değişikliği. Her olay için ürün adı, stok kodu, önceki/sonraki değer ve değişikliği yapan kullanıcıyı içeren tek bir e-posta gider.
+Olayları siz seçersiniz: yayın durumu geçişi (örn. yayında → taslak), stokta yok durumuna geçiş, normal/indirimli fiyat değişikliği. Her değişiklik için ürün adı, stok kodu, önceki/sonraki değer ve değişikliği yapan kullanıcı e-postada yer alır; aynı istekteki değişiklikler tek bir özet e-postada toplanır.
 
 ## Özellikler
 
@@ -32,6 +32,15 @@ Olayları siz seçersiniz: yayın durumu geçişi (örn. yayında → taslak), s
 ## Ayarlar
 
 Seçenek: `eru_psn_settings` (`events`, `status_from`, `status_to`, `recipients`, `rules`, `excluded`).
+
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Ürün Bildirimleri** ekranını açın.
+2. **Stok bitti** ve **Fiyat değişti** olaylarını işaretleyin.
+3. Alıcılar alanına `ornek@example.com` yazın (boş bırakırsanız site yöneticisinin e-postası kullanılır).
+4. İsterseniz alıcı kurallarına `product_cat:demo-kategori = ornek@example.com` satırını ekleyin; yalnızca o kategorideki ürünlerin bildirimi bu adrese gider.
+5. Kaydedin; ardından "Demo Ürün"ün fiyatını 250 TL'den 299 TL'ye çevirip ürünü güncelleyin.
+6. Alıcıya ürün adı, stok kodu, önceki ve sonraki değeri ve değişikliği yapan kullanıcıyı içeren bir e-posta gelir.
 
 ## Kısa kodlar, kancalar ve filtreler
 
@@ -56,9 +65,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS uyumludur. E-postalar WordPress
 
 **E-posta gelmiyor.** En az bir olay seçili olmalı ve sitenizde e-posta gönderimi çalışmalıdır (SMTP).
 
+**Eklentiyi devre dışı bırakınca ne olur?** Bildirimler durur; zamanlanmış iş oluşturmaz, bu yüzden temizlenecek bir şey yoktur. Ayarlar kalır. Eklenti silinince (Eklentiler → Sil) yalnızca `eru_psn_settings` seçeneği silinir.
+
+**HPOS ve bloklar?** HPOS uyumluluğu bildirilir. Eklenti ürün kayıtlarını izler, sepet ve ödeme sayfalarına dokunmaz; bu yüzden Cart/Checkout blokları konusu geçerli değildir.
+
+**Toplu düzenlemede yüzlerce e-posta gelir mi?** Hayır. Aynı istekteki değişiklikler alıcı listesi başına tek özet e-postada toplanır; en fazla 50 ürün listelenir (`eru_psn_max_items`).
+
+**İçe aktarma sırasında bildirim gelir mi?** Varsayılan olarak hayır; `WP_IMPORTING` sırasında bildirimler atlanır. `eru_psn_skip_import` filtresiyle `false` dönerseniz açılır.
+
+**Dış servis kullanıyor mu?** Hayır; e-postalar yalnızca WordPress'in `wp_mail` işleviyle gider.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

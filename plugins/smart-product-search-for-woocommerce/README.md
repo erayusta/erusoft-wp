@@ -36,6 +36,15 @@
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. WooCommerce → **Akıllı Ürün Arama**: "Arama sonuçları" ve/veya "Canlı arama" kutusunu işaretleyin. Mevcut ürünleri **Yeniden indeksle** düğmesiyle bir kez indeksleyin (yeni/güncellenen ürünler otomatik indekslenir).
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Akıllı Ürün Arama** ekranını açın.
+2. "Arama sonuçları" ve "Canlı arama" kutularını işaretleyip kaydedin.
+3. **Yeniden indeksle** düğmesine basın; mevcut ürünler bir kez indekslenir.
+4. "Demo Ürün" adlı bir ürününüz varsa mağazada arama kutusuna `demo` ya da farklı büyük/küçük harfle yazın; öneri listesi açılır.
+5. Eş anlamlılar kutusuna `kulaklık, headphone` yazıp kaydedin; `headphone` aramasının "kulaklık" içeren ürünleri de getirdiğini kontrol edin.
+6. Temanızın arama kutusu canlı öneriye bağlanmıyorsa CSS seçici ayarına kutunun seçicisini yazın ya da `[eru_product_search]` kısa kodunu bir sayfaya ekleyin.
+
 ## Ayarlar
 
 Seçenek: `eru_sps_settings` (ana sorgu, canlı arama, CSS seçici, ürün sayısı, en az karakter, gösterilecek alanlar, istek sınırı, eş anlamlılar). İndeks: `_eru_sps_index`, `_eru_sps_title` (ürün meta). Eş anlamlılar her satırda bir grup, virgülle: `kulaklık, headphone`.
@@ -72,9 +81,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, MySQL/MariaDB. HPOS uyumludur. Haric
 
 **Proxy/CDN arkasındayım, sınır herkesi etkiliyor.** `eru_sps_client_ip` filtresiyle gerçek ziyaretçi adresini döndürün.
 
+**Eklentiyi silersem ne olur?** Eklenti silindiğinde `eru_sps_settings` seçeneği, kategori önbelleği ve tüm ürünlerdeki `_eru_sps_index` ile `_eru_sps_title` meta alanları silinir. Ürünlerinize ve siparişlerinize dokunulmaz. Devre dışı bırakmak yalnızca arama davranışını varsayılana döndürür; indeks ve ayarlar durur.
+
+**HPOS uyumlu mu?** Evet, eklenti özel sipariş tabloları uyumluluğunu bildirir; zaten sipariş verisine dokunmaz.
+
+**Dış servis kullanıyor mu?** Hayır; eşleştirme ve öneriler sitenizin veritabanı ve kendi REST uç noktasıyla çalışır.
+
+**Çok sayıda üründe yavaşlar mı?** Eşleştirme ürün başına tutulan indeks meta alanı üzerinden SQL'de yapılır; sonuç sayısı alaka sırasına göre en fazla 200 ürünle sınırlıdır. İlk indekslemeyi **Yeniden indeksle** ile bir kez yapmanız gerekir.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

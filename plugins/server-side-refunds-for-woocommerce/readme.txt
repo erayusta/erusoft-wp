@@ -38,6 +38,9 @@ This is a beta release. The GA4 and Matomo requests were verified against mocked
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Is anything sent right after activation? =
 No. A destination must be enabled and configured first.
 

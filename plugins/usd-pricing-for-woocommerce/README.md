@@ -32,9 +32,27 @@ Fiyatını dolarla belirlediğiniz ürünler için ürün düzenleme ekranına "
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. Aşağıdaki ayar ekranından yapılandırın. Yapılandırma yapılana kadar mağazanızda hiçbir değişiklik olmaz.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → **USD Fiyatlandırma** ekranını açın.
+2. **Kur kaynağı** olarak "Elle girilen kur"u seçin, **Elle kur (1 $ =)** alanına `30` yazın, **Kur payı** `0` kalsın ve kaydedin. Ekranda "Uygulanan kur: 30,0000" görünmelidir.
+3. "Demo Ürün"ü düzenleyin; fiyat alanlarının yanındaki **USD fiyat ($)** alanına `10` yazıp güncelleyin.
+4. Mağazada ürün 300 TL (10 $ x 30) olarak görünür; sepet ve ödeme de aynı mağaza para birimi tutarını kullanır.
+5. Kuru `32` yapıp kaydederseniz fiyat 320 TL olur; kayıtlı fiyatlar arka planda 50'şer ürünle güncellenir.
+6. **Gösterim** kutusunu işaretlerseniz fiyatın yanında dolar karşılığı da yazılır.
+
 ## Ayarlar
 
-WooCommerce → **USD Fiyatlandırma**.
+WooCommerce → **USD Fiyatlandırma**:
+
+- **Kur kaynağı**: elle girilen kur (dış bağlantı yok) veya TCMB günlük kuru (döviz satış, 6 saat önbellek).
+- **Elle kur (1 $ =)**: kaynak "elle" iken kullanılan kur.
+- **Kur payı (%)**: uygulanan kur `kur x (1 + pay/100)` olarak hesaplanır.
+- **Gösterim**: fiyatın yanında dolar karşılığını da göster.
+- **TCMB kurunu şimdi güncelle**: TCMB seçiliyken kuru anında indirir.
+- Ekranda "Uygulanan kur" gösterilir; kur tanımsızsa eklenti pasiftir.
+
+Ürün ve varyasyon başına USD fiyat ve USD indirimli fiyat, düzenleme ekranındaki fiyat alanlarının yanındadır.
 
 ## Kancalar, filtreler ve veri alanları
 
@@ -72,9 +90,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **Kur payı ne işe yarar?** Kura yüzde olarak eklenir (örn. %2 kur farkı koruması).
 
+**Eklentiyi silersem fiyatlar ne olur?** Eklentiler → Sil yalnızca `eru_usd_*` seçeneklerini, TCMB önbelleğini ve zamanlanmış işleri siler. Ürünlerdeki `_eru_usd_*` meta alanları ve kayıtlı fiyatlar korunur. Devre dışı bırakmak veri silmez.
+
+**HPOS ile uyumlu mu?** Evet, eklenti `custom_order_tables` uyumluluğunu bildirir.
+
+**Cart/Checkout blokları?** Blok uyumluluğu için ayrı bir beyan ya da test yoktur.
+
+**Sipariş verildikten sonra kur değişirse?** Verilmiş siparişlerin tutarları değişmez.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

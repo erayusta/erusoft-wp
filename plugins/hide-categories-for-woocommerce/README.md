@@ -29,6 +29,14 @@ Seçtiğiniz kategoriler ve alt kategorileri; mağaza listelerinde, kategori bil
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. WooCommerce → **Kategori Gizle** ekranından kategorileri işaretleyin.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Kategori Gizle** ekranını açın.
+2. Ağaçta "Demo Kategori"yi işaretleyin; alt kategorileri de otomatik gizlenir. Kaydedin.
+3. Mağaza sayfasında, kategori bileşeninde ve arama sonuçlarında "Demo Kategori" ile bu kategorideki ürünlerin artık görünmediğini kontrol edin.
+4. Kategori adresini adres çubuğuna yazarsanız sayfa hâlâ açılır; bunu da kapatmak için 404 kutusunu işaretleyip kaydedin.
+5. Çıkış yapmış bir ziyaretçi olarak (ya da gizli pencerede) aynı adresi açın; 404 sayfasını görmelisiniz.
+
 ## Ayarlar
 
 WooCommerce → **Kategori Gizle**. Seçenek: `eru_hc_settings` (`ids`, `block`). Varsayılan boştur.
@@ -54,11 +62,28 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS uyumludur. Harici servis kullan
 
 ## SSS
 
-**Kategori sayfası hâlâ açılıyor.** Kapalıyken adresi bilen herkes sayfaya ulaşabilir; "Doğrudan erişim" kutusunu işaretleyin.
+**Kategori sayfası hâlâ açılıyor.** Kapalıyken adresi bilen herkes sayfaya ulaşabilir; "Gizli kategori sayfaları ve yalnızca gizli kategorilerde olan ürünler için 404 döndür" kutusunu işaretleyin. Ürün düzenleme yetkisi (`edit_products`) olan kullanıcılar 404'ten etkilenmez.
+
+**Eklentiyi silersem ne olur?** Eklenti silindiğinde yalnızca `eru_hc_settings` seçeneği silinir; kategorileriniz ve ürünleriniz değişmez ve yeniden görünür olur. Devre dışı bırakmak da gizlemeyi hemen durdurur, ayar saklanır.
+
+**HPOS ile uyumlu mu?** Evet, eklenti özel sipariş tabloları uyumluluğunu bildirir; siparişlere dokunmaz.
+
+**Dış servis kullanıyor mu?** Hayır, dış istek yapmaz.
+
+**Bir ürünü başka kategorideyken de gizler miyim?** Evet: gizli kategorideki ürün mağaza listelerinde görünmez. Ürün sayfası adresi ise, ürünün tüm kategorileri gizli olmadıkça ve 404 seçeneği açık olmadıkça açılmaya devam eder.
+
+**Belirli bir sorguyu etkilememesini nasıl sağlarım?** `WP_Query` ya da `get_terms` argümanına `eru_hc_skip => 1` ekleyin.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

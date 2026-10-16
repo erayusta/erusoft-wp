@@ -56,6 +56,17 @@ Boş bırakılan her ayar ziyaretçiye hiçbir şey göstermez: boş kutu, `tel:
 
 Tema etkinleştirildiğinde hiçbir sayfa, menü ya da ayar kendiliğinden oluşturulmaz.
 
+## Nasıl kullanılır
+
+Boş bir kurulumda ilk ana sayfayı kurmak için:
+
+1. Temayı etkinleştirin. "Ana sayfa" adlı bir sayfa ve "Hizmetler" adlı bir sayfa oluşturun; Hizmetler'in altına "Demo Hizmet" gibi iki alt sayfa ekleyin (öne çıkan görsel isteğe bağlı).
+2. **Ayarlar → Okuma**'da statik sayfa olarak "Ana sayfa"yı seçin.
+3. **Görünüm → Özelleştir → Ufuk** altında giriş başlığını ve açıklamayı yazın, bir düğme metni ve bağlantısı girin.
+4. Ana sayfa bölümlerinde "Hizmetler" sayfası olarak oluşturduğunuz sayfayı seçin; alt sayfalar numaralı kartlar olarak görünür.
+5. İletişim bölümüne `ornek@example.com` gibi bir e-posta girin, "İletişim" şablonlu bir sayfa oluşturup Özelleştirici'de seçin; deneme mesajı gönderip e-postanın geldiğini doğrulayın.
+6. **Görünüm → Menüler**'den ana menüyü atayın. Hızlı bir önizleme isterseniz yukarıdaki demo kurulumunu kullanabilirsiniz.
+
 ## Özelleştirici ayarları (Görünüm → Özelleştir → Ufuk)
 
 | Bölüm | Ayar | Varsayılan |
@@ -122,6 +133,33 @@ Betik idempotenttir. Demo firma ("Ufuk Demo Danışmanlık Ltd. Şti."), adresi 
 - İletişim formu mesajları saklamaz; e-posta gönderimi sunucunuzun `wp_mail` ayarına bağlıdır (SMTP eklentisi önerilir). Dosya eki desteklemez.
 - Ana renk olarak açık bir ton seçilirse düğmelerdeki beyaz yazının kontrastı düşer; koyu bir ton seçin.
 - WooCommerce şablonu içermez.
+
+## SSS
+
+**Temayı değiştirirsem ya da silersem Özelleştirici ayarlarım ne olur?** Ayarlar tema ayarları (`theme_mod`) olarak `ufuk_` önekiyle saklanır. Başka bir temaya geçince veritabanında kalır, Ufuk'a dönünce yeniden kullanılır; tema silindiğinde de WordPress bunları kendiliğinden temizlemez. Sayfalarınız, yazılarınız ve menüleriniz temadan bağımsızdır. Tema kendi tablosunu oluşturmaz.
+
+**İletişim formu mesajları nerede saklanır?** Hiçbir yerde: mesaj yalnızca `wp_mail` ile gönderilir, veritabanına yazılmaz. Yalnızca spam sınırı için IP özetini ve kısa süreli geçici kayıtları (transient) tutar.
+
+**Dışarıya istek yapar mı?** Hayır. Yazı tipi temayla gelir, simgeler satır içi SVG'dir.
+
+**Çeviri destekli mi?** Evet; metin alanı `ufuk` ve çeviri klasörü `languages/` olarak tanımlıdır, arayüz Türkçedir.
+
+**SEO eklentisi kullanırsam çakışır mı?** Yoast SEO, Rank Math, SEOPress veya All in One SEO etkinse temanın Open Graph ve JSON-LD çıktısı kendiliğinden kapanır.
+
+**Önbellek eklentisiyle sorun olur mu?** İletişim formunun güvenlik anahtarı nedeniyle sayfayı önbellekten hariç tutmanız gerekebilir (Sınırlamalar).
+
+**WooCommerce ile kullanılır mı?** Tema WooCommerce şablonu içermez.
+
+## Sürüm notları
+
+Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve tema sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans ve kaynaklar
 

@@ -44,6 +44,15 @@ Yönetim panelinden WooCommerce'e kendi sipariş durumlarınızı ekleyin: renk,
 
 Etkinleştirince hiçbir şey değişmez; ilk durumu siz eklediğinizde devreye girer. Müşteri tarafında yalnızca WooCommerce'in kendi gösterdiği durum adı görünür, dış HTTP isteği yapılmaz (webhook modülünü açıp webhook tanımlamadıkça).
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → **Sipariş Durumları** ekranını açın.
+2. *Yeni durum* ile ad olarak `Demo Paketlendi` yazın; kısa ad `demo-paketlendi` olarak kendiliğinden oluşur. Bir renk seçin.
+3. Bayraklardan *Toplu işlemde göster* ve *Hızlı işlem düğmesi* kutularını işaretleyin; hızlı düğmenin kaynak durumu olarak "Hazırlanıyor"u seçin.
+4. İsterseniz müşteri e-postasını açın ve WooCommerce → Ayarlar → E-postalar'da konu satırını `Siparişiniz paketlendi: {order_number}` yapın.
+5. Sipariş listesinde "Hazırlanıyor" durumundaki bir siparişin satırında yeni düğme görünür; tıklayınca sipariş `Demo Paketlendi` olur ve renkli rozetle listelenir.
+6. Müşteri Hesabım → Siparişler'de durum adını görür; e-posta açıksa aynı anda gider.
+
 ## Ayarlar
 
 | Seçenek | İçerik |
@@ -121,9 +130,22 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu (klasik sipariş listesi
 
 **Kaldırınca ne olur?** `eru_cos_statuses`, `eru_cos_groups`, `eru_cos_settings`, eklentinin WooCommerce e-posta ayarları, sayı önbelleği ve kullanıcıların grup gizleme tercihi silinir. Siparişlerin durumları değiştirilmez; kaldırmadan önce siparişleri taşıyın (bkz. *Silme ve taşıma*).
 
+**Eklentiyi devre dışı bırakınca ne olur?** Hiçbir veri silinmez, ama özel durumdaki siparişlerin durumu veritabanında kalır ve WooCommerce onu tanımaz. Devre dışı bırakmadan önce siparişleri başka bir duruma taşıyın; Eklentiler ekranı sipariş varsa uyarır.
+
+**HPOS ile uyumlu mu?** Evet. Eklenti `custom_order_tables` uyumluluğunu bildirir; sipariş listesi rozetleri ve grup kutuları hem HPOS hem klasik listede çalışır.
+
+**Dışarıya istek yapıyor mu?** Hayır. Webhook modülünü açıp bir webhook tanımlamadıkça dış HTTP isteği yapılmaz; kodda ayrıca bir uzak istek yoktur.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

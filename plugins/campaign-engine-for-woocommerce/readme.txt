@@ -37,6 +37,9 @@ Diğer Erusoft eklentileri: https://wordpress.erusoft.com
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = How does it work with other price plugins? =
 
 Price changes made before the `eru_ce_price_priority` priority (default 9999) are the campaign's base. A plugin that changes the price after it withdraws the campaign discount on that line; the status screen lists such hooks.

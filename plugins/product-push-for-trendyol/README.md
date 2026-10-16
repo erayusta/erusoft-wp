@@ -126,9 +126,32 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 
 Eklenti silindiğinde (Eklentiler → Sil) ayarlar, istek günlüğü, açık batch listesi, kategori/özellik önbellekleri, kilitler ve zamanlanmış işler silinir. Ürün/varyasyon üzerindeki `_eru_ppt_*` alanları (girdiğiniz barkodlar, özellik yanıtları ve Trendyol'daki onay durumuna bağlantı) **korunur**: bunlar olmadan yeniden kurulumda hangi ürünlerin Trendyol'da zaten bulunduğu bilinemez. Bu alanları da silmek için `wp-config.php` içinde `define( 'ERU_PPT_REMOVE_DATA', true );` tanımlayın. Trendyol'daki ürünlere dokunulmaz. Sipariş verisi yazılmadığı için silinecek sipariş metası yoktur.
 
+## SSS
+
+**Eklentiyi devre dışı bırakırsam ne olur?** Zamanlanmış işler (batch sorgusu, gönderim, yenileme) kaldırılır ve Trendyol'a istek gitmez; ayarlar ve ürün alanları durur. Silme (uninstall) davranışı için yukarıdaki **Kaldırma** bölümüne bakın.
+
+**Ürünü kaydedince Trendyol'a otomatik gider mi?** Hayır. Gönderim yalnızca ürün kutusundaki düğme, toplu işlem veya WP-CLI ile başlar.
+
+**HPOS ile uyumlu mu? Sepet/Ödeme bloklarını etkiler mi?** Eklenti HPOS uyumluluğunu (`custom_order_tables`) bildirir ve sipariş verisine dokunmaz. Sepet ya da ödeme sayfasında hiçbir şey eklemediği için Sepet/Ödeme bloklarıyla bir ilişkisi yoktur.
+
+**Dış servise bağlanıyor mu?** Yalnızca Trendyol entegrasyon API'sine (canlı ya da test adresi) ve yalnızca entegrasyon açıkken. Başka bir üçüncü taraf servisle konuşmaz.
+
+**Önbellek eklentisi sorun çıkarır mı?** Eklenti yönetim ekranında çalışır ve ön yüzde bir şey değiştirmez; sayfa önbelleği etkilenmez. Kategori ağacı ve özellik önbelleği WordPress'in geçici kayıtlarında (transient) tutulur.
+
+**Büyük kataloglarda ne olur?** Gönderim arka planda (Action Scheduler) yapılır; sonuçlar 10 dakikada bir sorgulanır. Önce küçük bir ürün grubuyla, mümkünse test ortamında deneyin (bkz. Sınırlamalar, beta notu).
+
+**Fiyat ve stok güncellenir mi?** Hayır; fiyat ve stok yalnızca ilk oluşturmada gider.
+
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

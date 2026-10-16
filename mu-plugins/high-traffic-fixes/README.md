@@ -129,6 +129,37 @@ add_filter( 'eru_htf_plugin_diet_rules', static function ( $rules ) {
 
 WordPress 6.5+, PHP 8.0+. WooCommerce gerekmez: WooCommerce'e veya üçüncü taraf bir eklentiye (Redis Object Cache, WP Rocket, Rank Math, AutomateWoo, PixelYourSite, GTM4WP…) bağlı dosya, o eklenti yoksa sessizce hiçbir şey yapmaz.
 
+## Nasıl kullanılır
+
+1. Yalnızca ihtiyacınız olan dosyayı seçin; örneğin Action Scheduler kuyruğunuz PHP işçilerini uzun süre meşgul ediyorsa `eru-htf-action-scheduler-sleep.php`.
+2. Dosyayı FTP/SFTP ile `wp-content/mu-plugins/` klasörünün en üst düzeyine kopyalayın. Etkinleştirme adımı yoktur.
+3. Düzeltmenin devrede olduğunu doğrulayın: **Eklentiler → Zorunlu kullanım (Must-Use)** sekmesinde dosya "HTF — ..." adıyla listelenir.
+4. Süre gibi bir ayar gerekiyorsa `wp-config.php` içine ilgili sabiti ekleyin, örneğin `define( 'ERU_HTF_AS_SLEEP_SECONDS', 2 );`.
+5. Bir düzeltmeyi dosyayı silmeden kapatmak için kendi mu-plugin kodunuza `add_filter( 'eru_htf_action_scheduler_sleep_enabled', '__return_false' );` ekleyin.
+
+## Ayarlar
+
+Paketin yönetim ekranı ve veritabanı seçeneği yoktur. Ayar yalnızca kodla yapılır: her dosya için `eru_htf_<düzeltme>_enabled` filtresi ve bazı dosyalar için sabitler (`ERU_HTF_AS_SLEEP_SECONDS`, `ERU_HTF_CART_FRAGMENTS_GUARD`, `ERU_HTF_INDEXNOW_TIMEOUT`, `ERU_HTF_REDIS_FLUSH_TRACER_LOG`, `ERU_HTF_REDIS_FLUSH_TRACER_MAX`). Ayrıntılar yukarıda her düzeltmenin "Kapatma" satırındadır.
+
+## Sınırlamalar
+
+- Normal eklenti değildir: Eklentiler ekranından yüklenemez, güncelleme bildirimi almaz; yeni sürümü dosyaları elle değiştirerek uygularsınız.
+- Her dosya yalnızca hedeflediği eklenti ya da altyapı varsa iş yapar; yoksa sessizce hiçbir şey yapmaz.
+- **Plugin Diet** varsayılan olarak boştur ve yanlış listelenen bir eklenti ön yüzde çalışmayı bırakır; listeye eklemeden önce eklentinin ön yüz kancalarını kontrol edin.
+- **Redis Flush Tracer** yalnızca teşhis içindir ve bir kütük dosyası yazar; kaynağı bulunca silin.
+
+## SSS
+
+**Dosyaları sildiğimde ne olur?** Düzeltme anında devre dışı kalır. Paket veritabanına seçenek, tablo ya da meta yazmaz; kaldırma sonrası temizlenecek veri yoktur. Yalnızca Redis Flush Tracer'ın yazdığı kütük dosyasını (varsayılan: `eru-htf-redis-flush.log`) elle silmeniz gerekir.
+
+**Eklentiler listesinde Etkinleştir düğmesi yok, çalışıyor mu?** Evet. Zorunlu kullanım (mu-plugin) dosyaları klasörde durdukları sürece her istekte yüklenir; etkinleştirme gerekmez.
+
+**Hepsini kurmam gerekir mi?** Hayır, dosyalar birbirinden bağımsızdır; yalnızca sorun yaşadığınız konuyla ilgili olanı kopyalayın.
+
+**Dış servise istek yapıyor mu?** Hayır. Paket kendi başına bir servise bağlanmaz; IndexNow dosyası, IndexNow eklentisinin zaten yaptığı çağrıyı yanıt beklemeden gönderir; Cloudflare dosyası ise ön yüzdeki eşzamanlı purge çağrılarını keser. İkisi de yeni bir bağlantı eklemez.
+
+**Önbellek eklentisi gerekir mi?** Gerekmez. Redis ile ilgili dosyalar yalnızca Redis Object Cache kuruluysa anlam taşır.
+
 ## English summary
 
 Eleven standalone mu-plugin files that fix common performance and stability problems on busy WooCommerce stores: a shorter Action Scheduler pause, O(1) AutomateWoo cache flushes, a cookie-aware cart-fragments loader, no phantom `begin_checkout` events behind a checkout login wall, conditional category rewrite flushes, no synchronous Cloudflare purges on the front end, a plugin diet for admin-only plugins (rules are empty by default and supplied via the `eru_htf_plugin_diet_rules` filter), non-blocking IndexNow pings, status-based order webhook topics, a PixelYourSite fragment fix, and a Redis flush tracer. Do not upload it via Plugins → Add New: unzip it and copy only the `.php` files you need into the top level of `wp-content/mu-plugins/`. Every fix can be disabled with the `eru_htf_<fix>_enabled` filter, and every file does nothing if the plugin it targets is absent.
@@ -136,6 +167,13 @@ Eleven standalone mu-plugin files that fix common performance and stability prob
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

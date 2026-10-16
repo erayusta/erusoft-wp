@@ -23,6 +23,15 @@
 - WordPress kişisel veri dışa aktarma ve silme araçları (e-posta anahtarı; aynı e-postayla verilmiş siparişlerin/hesabın telefonuyla eşleşen yalnızca-telefonlu kayıtlar da kapsanır)
 - Etkinleştirilene kadar hiçbir şey yakalanmaz
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → **Arama Listesi → Ayarlar** ekranında onay metnini yazın ve **Etkin**'i işaretleyin.
+2. Mağazanızda ziyaretçi olarak "Demo Ürün"ü sepete ekleyip ödeme sayfasına gidin; onay kutusunu işaretleyin.
+3. E-posta alanına `ornek@example.com`, telefon alanına örnek bir numara yazıp alandan çıkın, sayfadan ayrılın.
+4. WooCommerce → **Arama Listesi** ekranında kaydın "Aranacak" durumuyla ve sepet özetiyle göründüğünü görün.
+5. Aradıktan sonra durumu "Arandı" ya da "Ulaşılamadı" yapıp not ekleyin.
+6. Aynı e-postayla bir sipariş verildiğinde kayıt otomatik "Sipariş verdi" olur ve siparişe bağlanır.
+
 ## Kurulum
 
 1. Klasörü `wp-content/plugins/` altına kopyalayın ve etkinleştirin (tablo oluşturulur).
@@ -69,11 +78,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu. Klasik ödeme sayfası.
 
 **Siparişi veren listeden kalkar mı?** Kalkmaz; durumu **Sipariş verdi** olur ve saklama süresi sonunda silinir.
 
-Kaldırma: Tablo, ayarlar ve cron olayı kaldırılır.
+**Eklentiyi devre dışı bırakırsam ne olur?** Zamanlanmış temizlik olayı kaldırılır, tablo ve ayarlar durur. Eklentiyi silmek (Eklentiler → Sil) `eru_accl_leads` tablosunu, ayarları ve sürüm seçeneğini siler; sipariş verisine dokunulmaz.
+
+**Dış servise veri gönderir mi?** Hayır, kodda dış HTTP isteği yoktur; kayıtlar yalnızca sitenizin veritabanındadır.
+
+**Blok ödeme sayfasında çalışır mı?** Hayır, onay metni gösterilemediği için hiçbir şey kaydedilmez (bkz. Sınırlamalar).
+
+**Önbellek eklentisi sorun çıkarır mı?** Yakalama, ödeme sayfasındaki betiğin `admin-ajax.php`'ye yaptığı istekle çalışır. Önbellek veya güvenlik eklentisinin bu isteği engellemediğini test edin.
+
+**Çeviri nasıl yapılır?** Metin alanı `abandoned-checkout-call-list-for-woocommerce`; çeviri yolu `/languages`.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

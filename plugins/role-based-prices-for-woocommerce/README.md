@@ -31,6 +31,16 @@ Erusoft kataloğunda fiyatı kişiye göre değiştiren üç eklenti vardır:
 
 Üçü aynı mağazada birlikte etkin olabilir; çakışmada öncelik şöyledir: **müşteriye özel kural (B2B Customer Pricing) > fiyat listesi (Price Lists) > rol fiyatı (Role-Based Prices)**. Bu, filtre önceliğiyle sağlanır (USD Pricing 998 temel fiyatı dolardan çevirir; rol fiyatı 999, fiyat listesi 1000, müşteri kuralı 1001; sonra çalışan kazanır). Bir üründe üst düzey eklenti fiyat vermiyorsa bir alttaki uygulanır. Yine de kafa karışıklığını önlemek için mümkünse tek bir yaklaşım seçin.
 
+## Nasıl kullanılır
+
+Örnek senaryo: "Bayi" rolündeki kullanıcılara "Demo Ürün" için indirimli sabit fiyat vermek.
+
+1. Eklentiyi etkinleştirin. **WooCommerce → Rol Fiyatları** ekranında "Bayi" rolünü işaretleyip kaydedin (rol yoksa önce Kullanıcılar bölümünden tanımlanmış olmalıdır).
+2. "Demo Ürün" ürününü düzenleyin; normal fiyatı 250 TL yapın.
+3. Fiyat alanlarının altında beliren "Bayi fiyatı" alanına 199 TL yazıp ürünü güncelleyin. Varyasyonlu üründe aynı alan her varyasyonun fiyat bölümünde bulunur.
+4. Rolü "Bayi" olan bir kullanıcıyla (örneğin `ornek@example.com`) giriş yapıp mağazaya bakın: katalogda, ürün sayfasında, sepette ve ödemede 199 TL görünür.
+5. Çıkış yapın ya da başka bir rolle girin: ürün 250 TL olarak görünür.
+
 ## Kurulum
 
 1. `role-based-prices-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
@@ -63,7 +73,7 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 - Sayfa önbelleği (sayfa cache) kullanıyorsanız giriş yapmış kullanıcıları önbellekten hariç tutun, yoksa fiyatlar karışabilir.
 - Rol fiyatı sabit tutardır; yüzde bazlı kural, müşteri bazlı fiyat veya fiyat listesi yoktur.
 - Rol fiyatları vergi ayarlarınıza göre (vergi dahil/hariç) girilmiş sayılır.
-- Eklenti silindiğinde (Eklentiler → Sil) yalnızca kendi ayarları (`eru_rbp_*` seçenekleri) silinir; ürünlere yazılmış meta alanları korunur.
+- Eklenti silindiğinde (Eklentiler → Sil) yalnızca kendi ayarı (`eru_rbp_roles` seçeneği) silinir; ürünlere yazılmış meta alanları korunur.
 
 ## SSS
 
@@ -71,9 +81,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **İndirimli fiyatla birlikte çalışır mı?** Rol fiyatı olan kullanıcıda rol fiyatı geçerlidir ve indirimli fiyat uygulanmaz.
 
+**Devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca herkes normal fiyatı görür; rol seçimi ve girilen fiyatlar durur. Silince yalnızca `eru_rbp_roles` seçeneği kalkar; `_eru_rbp_price_<rol>` alanları ürünlerde kalır (yeniden kurunca fiyatlar geri gelir). Veriyi silen bir sabit yoktur.
+
+**HPOS ve blok sepet/ödeme?** Eklenti HPOS uyumluluğunu (`custom_order_tables`) bildirir. Fiyatı ürün fiyat filtreleriyle değiştirdiği için WooCommerce'in sepet ve ödeme akışı klasik ya da blok olsun aynı fiyatı kullanır; eklenti blok uyumluluğu için ayrı bir bildirim yapmaz.
+
+**Sayfa önbelleği fiyatları karıştırır mı?** Fiyat kullanıcıya göre değiştiği için giriş yapmış kullanıcıları sayfa önbelleğinden hariç tutmalısınız. Varyasyonlu ürünlerin fiyat aralığı WooCommerce'in önbelleğinde seçili rollere göre ayrı tutulur.
+
+**Büyük katalogda yavaşlatır mı?** Fiyat, ürün başına bir meta okumasıyla bulunur; ayrı bir tablo ya da toplu hesap yoktur.
+
+**Dış servis kullanıyor mu?** Hayır.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

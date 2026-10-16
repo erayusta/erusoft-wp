@@ -24,6 +24,9 @@ Diğer Erusoft eklentileri: https://wordpress.erusoft.com
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Is CSS loaded on every page? =
 No. The stylesheet is only enqueued when a ribbon is actually rendered.
 

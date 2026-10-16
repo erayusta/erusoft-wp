@@ -12,7 +12,7 @@ Koşul sağlandığında hediye ürünü sepete 0 TL ile otomatik ekler, koşul 
 
 ## Ne işe yarar
 
-"Sepet 500 TL'yi geçerse hediye", "şu ürünü alana şu hediye" ya da "şu kategoriden alışverişe hediye" gibi kampanyaları kuralla tanımlarsınız. Müşteri ürünü sepete eklediğinde hediye otomatik gelir; sepet koşulun altına düşerse otomatik kalkar. Hediye satırının fiyatı her hesaplamada 0'a sabitlenir, adedi kural tarafından belirlenir.
+"Sepet 250 TL'yi geçerse hediye", "şu ürünü alana şu hediye" ya da "şu kategoriden alışverişe hediye" gibi kampanyaları kuralla tanımlarsınız. Müşteri ürünü sepete eklediğinde hediye otomatik gelir; sepet koşulun altına düşerse otomatik kalkar. Hediye satırının fiyatı her hesaplamada 0'a sabitlenir, adedi kural tarafından belirlenir.
 
 ## Özellikler
 
@@ -30,6 +30,15 @@ Koşul sağlandığında hediye ürünü sepete 0 TL ile otomatik ekler, koşul 
 1. `gift-product-rules-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. WooCommerce → **Hediye Kuralları** ekranından kural ekleyin. Kural eklenene kadar mağazanızda hiçbir değişiklik olmaz.
+
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Hediye Kuralları** sayfasını açın.
+2. **Kural ekle**'ye basın, **Açık** kutusunu işaretleyin ve koşul olarak "Sepet tutarı en az" seçip asgari tutara `250` yazın.
+3. Hediye ürün olarak "Demo Hediye" ürününü seçin, adedi `1` bırakın, etikete "Hediye" yazın ve **Kaydet**'e basın.
+4. Mağazada toplamı 250 TL'nin altında kalan bir sepet hazırlayın: hediye satırı görünmez.
+5. Sepete ürün ekleyip toplamı 250 TL'ye ulaştırın: "Demo Hediye" 0 TL ile otomatik eklenir, adedi sepette değiştirilemez.
+6. Ürün çıkarıp toplamı eşiğin altına düşürün: hediye satırı kendiliğinden kalkar.
 
 ## Ayarlar
 
@@ -61,9 +70,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS ile uyumludur. Klasik ve blok t
 
 **Hangi eklentiyle birlikte kullanılır?** [Otomatik İndirimler](../automatic-discounts-for-woocommerce/) ve [Sepet Kampanyaları](../cart-campaigns-for-woocommerce/) ile birlikte çalışabilir; hediye satırı tutar karşılaştırmasına dahil edilmez.
 
+**Eklentiyi devre dışı bırakırsam veya silersem ne olur?** Devre dışı bırakınca kurallar çalışmaz ve hediye satırları eklenmez; kurallar yerinde kalır. Eklenti silinirken yalnızca `eru_gpr_rules` seçeneği silinir. Verilmiş siparişlerdeki hediye kalemleri ve `_eru_gpr_gift` meta alanı olduğu gibi kalır.
+
+**HPOS ve blok tabanlı sepet?** HPOS uyumluluğu bildirilir. Blok Sepet/Ödeme için ayrı bir uyumluluk bildirimi yoktur; sınırlamalarda belirtildiği gibi blok sepette hediye satırında sil düğmesi görünebilir, ancak kural hâlâ eşleştiği için hediye yeniden eklenir.
+
+**Önbellek eklentileri ve performans?** Kurallar her sepet hesabında sunucuda değerlendirilir; sepet ve ödeme sayfaları zaten önbelleğe alınmamalıdır. Kural listesi tek bir seçenekte tutulur, ek tablo yoktur.
+
+**Hediye stokta yoksa?** Stokta olmayan veya satın alınamayan hediye sepete eklenmez; müşteri ödeme yapabilir.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

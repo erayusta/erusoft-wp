@@ -34,6 +34,15 @@ Müşteri adresini serbest metin yerine listeden seçer; kargo firmasına giden 
 2. Ödeme sayfanız klasik `[woocommerce_checkout]` kısa kodunu kullanmalıdır (ayar ekranı blok ödemeyi algılarsa uyarır).
 3. WooCommerce → **Türkiye Adres**: "Türkiye adres alanlarını etkinleştir" kutusunu işaretleyin, kaydedin.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Türkiye Adres** sayfasında "Türkiye adres alanlarını etkinleştir" kutusunu işaretleyip kaydedin.
+2. Ödeme sayfanızın klasik `[woocommerce_checkout]` kısa koduyla çalıştığından emin olun.
+3. Mağazaya "Demo Ürün" gibi bir ürün ekleyin ve sepetten ödeme sayfasına gidin.
+4. Ülke Türkiye iken **İl**'i seçin; İlçe, ardından Mahalle ve Cadde/Sokak listeleri sırayla dolar (her listede yazarak arama yapılır).
+5. Adres satırına bina ve kapı numarasını yazın (ör. `no:13`); eklenti bunu `No: 13` biçimine çevirir. Numara yoksa "Adresimde bina / kapı numarası yok" kutusunu işaretleyin.
+6. Siparişi verin. Sipariş ekranında Adres 1 = Cadde/Sokak + bina, Adres 2 = Mahalle, Şehir = İlçe olarak görünür; "İlçe / Mahalle / Sokak" satırı da eklenir.
+
 ## Ayarlar
 
 Tümü `eru_taf_settings` seçeneğinde:
@@ -91,7 +100,15 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu. **Klasik ödeme sayfas�
 
 **Yurt dışı müşteriler?** Ülke Türkiye değilse alanlar gizlenir ve zorunlu olmaz; WooCommerce'in normal adres alanları kullanılır.
 
-**Kaldırınca ne silinir?** `eru_taf_settings`. Sipariş ve müşteri metası korunur.
+**Kaldırınca ne silinir?** Eklenti silinirken yalnızca `eru_taf_settings` seçeneği silinir. Siparişlerdeki `_billing_eru_taf_*` / `_shipping_eru_taf_*` alanları ve müşteri metası korunur. Devre dışı bırakmak hiçbir veriyi silmez.
+
+**Dış bir adres servisine bağlanır mı?** Hayır. Adres verisi eklentinin içindedir; tarayıcı yalnızca sitenizdeki `admin-ajax.php` ucundan seçilen ilçenin listesini alır.
+
+**Büyük veri sitemi yavaşlatır mı?** Veri sayfa açılışında yüklenmez; ilçe başına ayrı dosya olarak, yalnızca müşteri o ilçeyi seçtiğinde okunur (en büyük ilçe yaklaşık 100 KB). AJAX yanıtı önbelleğe alınabilir.
+
+**HPOS ve blok ödeme sayfası?** HPOS uyumluluğu bildirilir. Blok tabanlı Sepet/Ödeme bildirilmez ve desteklenmez; klasik `[woocommerce_checkout]` gerekir.
+
+**Müşterinin adresi listede yoksa ne olur?** Her seviyede "Listede yok / elle gireceğim" seçeneği vardır; müşteri adresi elle yazar ve sipariş engellenmez.
 
 ## Hangisini seçmeliyim?
 
@@ -100,6 +117,13 @@ Bu ürün, daha önce ayrı geliştirilen sokak seçici ve paketli il/ilçe/maha
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

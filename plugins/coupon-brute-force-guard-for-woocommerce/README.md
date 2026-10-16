@@ -33,6 +33,15 @@ WooCommerce → Ayarlar → Kupon Koruması:
 | `eru_cbg_uniform_errors` Hata mesajlarını tek tipe indir | açık |
 | `eru_cbg_message` Kilit mesajı | boş (varsayılan metin) |
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; koruma varsayılan olarak açıktır.
+2. WooCommerce → Ayarlar → **Kupon Koruması** sekmesinde eşikleri kontrol edin (varsayılan: 15 dakikada 5 başarısız deneme, 60 dakika kilit). İsterseniz **Kilit mesajı** alanına kendi metninizi yazın.
+3. Yönetici olmayan bir hesapla (veya çıkış yapmış bir tarayıcıda) "Demo Ürün"ü sepete ekleyin.
+4. Sepette art arda var olmayan kodlar deneyin (`YANLIS1`, `YANLIS2` …).
+5. Eşik aşıldığında kilit mesajı görünür; bu noktadan sonra geçerli bir kupon (örneğin `DEMO10`) bile reddedilir.
+6. Kilit süresi dolunca aynı istemci yeniden kupon deneyebilir. Yönetici hesabıyla aynı denemeler kilitlenmez.
+
 ## Kancalar ve filtreler
 
 | Ad | Tür | Açıklama |
@@ -60,6 +69,16 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **Kilidi nasıl kaldırırım?** Süre dolunca kalkar; acil durumda `eru_cbg_lock_*` transient'lerini silin.
 
+**Eklentiyi devre dışı bırakınca ne olur?** Koruma hemen durur ve mevcut kilitler etkisiz kalır; ayarlar ve sayaçlar (geçici veriler) veritabanında kalır, süreleri dolunca kendiliğinden silinir. Eklentiyi silerseniz `eru_cbg_*` seçenekleri ve kilit/sayaç transient'leri de silinir.
+
+**HPOS ve blok sepet ile uyumlu mu?** HPOS uyumluluğu bildirilir. Blok sepet ve Store API `/cart/apply-coupon` isteği de korunur (bkz. Özellikler).
+
+**Önbellek eklentileriyle sorun olur mu?** Sayaç ve kilit sunucu tarafında transient olarak tutulur ve kupon uygulama isteğinde sayılır (sayfa gösterimi sayılmaz). Kalıcı bir object cache varsa sayaçlar `wp_cache_incr` ile artar.
+
+**Dış servis kullanıyor mu? IP saklanıyor mu?** Dış servis yoktur. Ham IP saklanmaz; anahtar tuzlanmış IP özetidir (girişli kullanıcıda ek olarak kullanıcı kimliği).
+
+**Hata mesajını neden tek tipe indiriyor?** "Süresi dolmuş" veya "kullanım limiti dolmuş" gibi ayrı mesajlar saldırgana kodun var olduğunu söyler. `eru_cbg_uniform_errors` seçeneği kapatılarak bu davranış devre dışı bırakılabilir.
+
 ## English summary
 
 Locks out clients after too many failed coupon attempts (default 5 attempts in 15 minutes, locked for 60 minutes) and replaces coupon error messages that reveal whether a code exists. Settings live at WooCommerce > Settings > Kupon Koruması; limits can be overridden with the `eru_cbg_limits` filter.
@@ -67,6 +86,13 @@ Locks out clients after too many failed coupon attempts (default 5 attempts in 1
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

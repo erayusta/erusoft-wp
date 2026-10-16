@@ -28,9 +28,22 @@ Yazı içinde dikkat çekmesi gereken notları şık kutular olarak gösterir. A
 2. Eklentiler ekranından etkinleştirin.
 3. Ayarları yapın (aşağıya bakın).
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; Ayarlar → **Bilgi Kutuları** ekranında varsayılan türü ve görünümü seçin, "Örnekler" bölümünde 12 kombinasyona bakın.
+2. Bir yazı ya da sayfada kısa kodu kullanın:
+
+```
+[eru_notice type="warning" title="Demo Uyarı" style="outline"]Demo Ürün stoğu sınırlıdır.[/eru_notice]
+```
+
+3. Blok düzenleyiciyi tercih ederseniz **Bilgi Kutusu** (`eru/notice-box`) bloğunu ekleyin; türü, başlığı ve görünümü blok ayarlarından seçip içeriği iç bloklara yazın.
+4. Yazıyı önizleyin: seçtiğiniz türe uygun renk ve simgeyle, başlığı kalın bir satır olarak gösteren bir kutu görünür.
+5. `type` ve `style` verilmezse Ayarlar ekranındaki varsayılanlar kullanılır; geçersiz bir değer yazılırsa tür `info`, görünüm `soft` olur.
+
 ## Ayarlar
 
-Ayarlar → **Bilgi Kutuları**: varsayılan tür ve görünüm, simgeler, koyu mod. Aynı ekranda 12 kombinasyonun önizlemesi vardır. Seçenek: `eru_nb_settings`.
+Ayarlar → **Bilgi Kutuları**: varsayılan tür, varsayılan görünüm, "Kutularda simge göster" kutusu ve koyu mod ("Cihaz ayarını izle" veya "Her zaman açık renkler"). Aynı ekranda 12 kombinasyonun önizlemesi vardır. Seçenek: `eru_nb_settings`.
 
 ## Kısa kodlar, kancalar, filtreler
 
@@ -54,9 +67,24 @@ WordPress 6.5+, PHP 8.0+. Harici servis kullanmaz.
 
 **Eski kısa kodum yeni kutuyla uyumlu mu?** Kısa kod adı `[eru_notice]`'dir; öznitelikler yukarıdaki tabloda.
 
+**Eklentiyi silersem ne olur?** Eklentiler → Sil yalnızca `eru_nb_settings` seçeneğini siler. Devre dışı bırakınca `[eru_notice]` kısa kodu yazıda düz metin olarak kalır ve blok "desteklenmeyen blok" görünür; içerik silinmez, eklentiyi yeniden etkinleştirince kutular geri gelir.
+
+**Kutu içine HTML yazabilir miyim?** Evet, içerik `wp_kses_post` ile temizlenir: yazı düzenleyicide izin verilen etiketler kalır, betikler ve benzeri atılır. Başlıktaki etiketler temizlenir.
+
+**Dışarıya istek yapıyor mu, ön yüzde ne yükler?** Hayır, harici servis yoktur. Kutu sayfada kullanıldığında yalnızca eklentinin küçük bir stil dosyası yüklenir.
+
+**Koyu modu kapatabilir miyim?** Evet, Ayarlar → Bilgi Kutuları'nda koyu modu "Her zaman açık renkler" yapın.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

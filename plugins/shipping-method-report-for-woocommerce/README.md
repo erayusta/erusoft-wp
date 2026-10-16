@@ -20,6 +20,14 @@ Hangi kargo yönteminden kaç sipariş çıktığını ve kaç ürün adedi gön
 - CSV indirme (UTF-8 BOM, `;` ayracı, elektronik tablo formül enjeksiyonuna karşı korumalı)
 - HPOS uyumlu; siparişler 200'lük gruplarla okunur
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → **Kargo Yöntemi Raporu** ekranını açın.
+2. Başlangıç ve bitiş tarihini seçin (ör. geçen ayın ilk ve son günü) ve sipariş durumlarını belirleyin.
+3. Raporu çalıştırın: her kargo yöntemi için sipariş sayısı, ürün adedi ve kargo tutarı satırlarını ve alttaki toplamı görün.
+4. Kargo ücreti olmayan siparişler ayrı bir satırda toplanır; Click & Collect for WooCommerce etkinse "Demo Mağaza" gibi teslim noktası adlarına göre de ayrılır.
+5. Tablo büyükse CSV olarak indirin ve elektronik tabloda açın (`;` ayraçlı, UTF-8).
+
 ## Kurulum
 
 1. Klasörü `wp-content/plugins/` altına kopyalayın ve etkinleştirin.
@@ -49,11 +57,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu. İsteğe bağlı: Click
 
 **Neden rapor boş?** Tarih aralığında seçili durumlarda sipariş yoktur; durumları genişletin.
 
-Kaldırma: Saklanan veri yoktur.
+**Eklentiyi silersem ne olur?** Eklenti seçenek, tablo ya da meta saklamaz; silinecek bir veri yoktur. Sipariş verisi değişmez, rapor yalnızca okur.
+
+**Dış servise bağlanır mı?** Hayır, kodda dış HTTP isteği yoktur.
+
+**HPOS ile uyumlu mu?** Evet, eklenti özel sipariş tabloları uyumluluğunu bildirir ve siparişleri 200'lük gruplarla okur.
+
+**Çok sayıda siparişte ne olur?** En çok 20.000 sipariş işlenir; sınır aşılırsa "Sonuç üst sınıra ulaştı; tarih aralığını daraltın." uyarısı çıkar.
+
+**Çeviri nasıl yapılır?** Metin alanı `shipping-method-report-for-woocommerce`; çeviri yolu `/languages`.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

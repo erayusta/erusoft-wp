@@ -23,6 +23,15 @@ Yeni kayıt olan kullanıcıya e-posta alan adına göre otomatik rol atar. Eşl
 
 Ayarlar → E-posta Alan Adı Rolleri: eşleme tablosu (`eru_edr_mappings`, boş) ve eşleşme yoksa rol (`eru_edr_fallback_role`, boş = değiştirme).
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve Ayarlar → **E-posta Alan Adı Rolleri** ekranını açın.
+2. Eşleme ekleyin: alan adı `example.com`, rol "Müşteri" (veya sitenizde tanımlı yetkisiz bir rol). Alt alan adlarını da kapsamak için `*.example.org` biçimini kullanabilirsiniz.
+3. İsterseniz "eşleşme yoksa" rolünü seçin; boş bırakırsanız eşleşmeyen kullanıcılar olduğu gibi kalır.
+4. Kaydedin.
+5. Çıkış yapmış bir tarayıcıda `kisi@example.com` adresiyle kayıt olun.
+6. Yeni kullanıcı Kullanıcılar listesinde tanımladığınız rolle görünür. Eşleşmeyen alan adıyla kayıt olan kullanıcı varsayılan rolünü korur (ya da eşleşme yoksa rolü atanmışsa onu alır).
+
 ## Kancalar ve filtreler
 
 | Ad | Tür | Açıklama |
@@ -48,6 +57,14 @@ WordPress 6.5+, PHP 8.0+. WooCommerce gerekmez.
 
 **Yönetici ekranından seçtiğim rol ezilir mi?** Varsayılan rol dışında bir rol seçtiyseniz ezilmez.
 
+**Eşleşmelerde hangisi geçerli olur?** Tablo yukarıdan aşağı taranır ve ilk eşleşen satır kazanır. `*.example.org` yalnızca alt alan adlarını (ör. `a.example.org`) kapsar; `example.org` için ayrı bir satır ekleyin.
+
+**Eklentiyi devre dışı bırakınca ne olur?** Yeni kayıtlara rol atanmaz; ayarlar ve daha önce atanmış roller olduğu gibi kalır. Eklenti silinince (Eklentiler → Sil) yalnızca `eru_edr_mappings` ve `eru_edr_fallback_role` seçenekleri silinir.
+
+**WooCommerce hesap kaydı ile çalışır mı?** Evet; eklenti WordPress'in kullanıcı oluşturma olayına bağlanır, bu yüzden WooCommerce hesap kaydı da kapsanır. WooCommerce gerekmez, ancak varsa müşteri (`customer`) rolü de değiştirilebilir roller arasındadır.
+
+**Dış servis kullanıyor mu?** Hayır; yalnızca kayıt anında e-posta adresinin alan adı kısmına bakılır, hiçbir veri dışarı gitmez.
+
 ## English summary
 
 Assigns a role to newly registered users based on their e-mail domain. The domain-to-role table (Settings > E-posta Alan Adı Rolleri) is empty by default; wildcard `*.example.org` is supported and roles with administrative or privilege-escalation capabilities (manage_options, promote_users, edit_users, create_users, unfiltered_html, install_plugins, edit_theme_options, manage_woocommerce) are excluded.
@@ -55,6 +72,13 @@ Assigns a role to newly registered users based on their e-mail domain. The domai
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

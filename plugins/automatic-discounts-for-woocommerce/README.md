@@ -32,6 +32,17 @@ Müşterinin kupon kodu girmesine gerek kalmadan, kurallarınıza uyan sepetlere
 
 WooCommerce → **Otomatik İndirimler**. Kurallar `eru_ad_rules` seçeneğinde saklanır; varsayılan boştur. Koşul ara toplam için kupon öncesi, indirim tabanı ise kupon sonrası ve KDV hariç satır toplamıdır. Kategori kuralında taban yalnızca o kategorideki satırlardır.
 
+## Nasıl kullanılır
+
+Örnek senaryo: 400 TL ve üzeri sepetlere %5 otomatik indirim.
+
+1. Eklentiyi etkinleştirin ve **WooCommerce → Otomatik İndirimler** ekranını açın.
+2. **Kural ekle**'ye tıklayın. Koşul olarak "Sepet ara toplamı en az" seçip tutar alanına 400 yazın.
+3. İndirim türünü `%`, değeri 5 yapın; "Sepette görünen ad" alanına "Sepet indirimi" yazın.
+4. İsterseniz tarih aralığı girin; öncelik alanını 10 bırakın. **Kaydet**'e basın.
+5. Mağazada "Demo Ürün" (250 TL) ürününden 2 adet ekleyin: ara toplam 500 TL, eşik 400 TL olduğu için sepette "Sepet indirimi" adlı −25 TL satırı belirir. Adedi 1'e düşürünce satır kalkar.
+6. Aynı tabloya "Kategoriden en az N adet" koşullu ikinci bir kural ekleyip birincisine "Dur" işaretleyerek hangi indirimin tek başına uygulanacağını belirleyebilirsiniz.
+
 ## Diğer indirimlerle birlikte kullanım
 
 Bu eklenti indirimini sepete **negatif ücret satırı** olarak ekler; her toplam hesaplamasında satır baştan üretilir, bu yüzden kaç kez yeniden hesaplanırsa hesaplansın sonuç aynıdır. Aynı mantığı kullanan diğer Erusoft indirim eklentileri (Ödeme Yöntemi İndirimleri, Otomatik İndirimler, Sepet Kampanyaları, Birlikte Al İndirimleri) **birlikte çalışır ve indirimler toplanır**: her biri kendi satırını ekler, hiçbiri diğerinin satırını değiştirmez. Her eklentinin yüzdesi satır toplamları üzerinden hesaplanır (diğer eklentilerin ücret satırları taban değeri düşürmez); örneğin 1.000 TL'lik sepette %10 Otomatik İndirim (100 TL) ile %5 Ödeme Yöntemi İndirimi (50 TL) birlikte 850 TL öder. Tek bir eklentinin indirimi sepette ödenecek tutarı aşamaz. Birlikte toplanmasını istemiyorsanız `eru_ad_apply` filtresiyle `false` dönerek bu eklentiyi koşullu olarak devre dışı bırakabilirsiniz (örnek aşağıda).
@@ -74,6 +85,16 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **İki kural aynı adı taşırsa?** Sepette ayrı satır olmaları için ikinci satırın adına otomatik "(2)" eklenir.
 
+**Devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca indirimler uygulanmaz; kurallarınız `eru_ad_rules` seçeneğinde durur. Eklentiyi silerseniz (Eklentiler → Sil) yalnızca bu seçenek silinir; geçmiş siparişlerdeki indirim satırları siparişin parçası olduğu için yerinde kalır. Veriyi koruyan bir sabit yoktur.
+
+**HPOS ve blok sepet/ödeme?** Eklenti HPOS uyumluluğunu (`custom_order_tables`) bildirir ve siparişe doğrudan dokunmaz; indirim sepette ücret satırı olarak oluştuğu için sipariş kaydına WooCommerce tarafından yazılır. Blok sepet/ödemede ücret satırı gösterilir (bkz. Sınırlamalar).
+
+**Önbellek eklentisi sorun çıkarır mı?** İndirim sepet ve ödeme hesabında üretilir; bu sayfaları önbellekten hariç tutmak genel bir WooCommerce gereğidir. Eklenti ön yüzde ayrı bir çıktı üretmez.
+
+**Büyük katalogda yavaşlatır mı?** Hesap yalnızca sepetteki satırlar ve kurallar üzerinden yapılır; katalog boyutundan bağımsızdır.
+
+**Dış servis kullanıyor mu?** Hayır.
+
 ### Hangisini seçmeliyim?
 
 | İhtiyaç | Eklenti |
@@ -88,6 +109,13 @@ Aynı sepet için iki eklentiyi birlikte etkinleştirirseniz indirimler toplanı
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -219,7 +219,7 @@
     "tagline_en": "Imports Hepsiburada orders into WooCommerce (legacy; migrate to Marketplace Orders).",
     "features_tr": [
       "Zamanlanmış veya elle sipariş aktarımı",
-      "Ürün eşleme tablosu",
+      "Stok koduyla (SKU) ürün eşleme",
       "İşlem günlüğü"
     ],
     "requires": {
@@ -1764,33 +1764,6 @@
       "docs/screenshots/heading-pagination-for-wordpress/2.png",
       "docs/screenshots/heading-pagination-for-wordpress/3.png"
     ],
-    "version": "1.0.0"
-  },
-  {
-    "slug": "e-devlet-document-verification-for-wordpress",
-    "name": "e-Devlet Document Verification for WordPress",
-    "type": "plugin",
-    "category": "Güvenlik",
-    "tagline_tr": "Yüklenen resmî belgeleri e-Devlet doğrulamasıyla kontrol eder.",
-    "tagline_en": "Verifies uploaded official documents through e-Devlet validation.",
-    "features_tr": [
-      "PDF metin çıkarma",
-      "e-Devlet doğrulama ve hash kontrolü",
-      "Manuel barkod modu",
-      "Yetki ve nonce korumalı yükleme"
-    ],
-    "requires": {
-      "wp": "6.5",
-      "php": "8.0"
-    },
-    "integrations": [
-      "e-Devlet"
-    ],
-    "status": "coming-soon",
-    "phase": 3,
-    "repo": null,
-    "path": null,
-    "screenshots": [],
     "version": "1.0.0"
   },
   {

@@ -264,9 +264,24 @@ WordPress 6.5+, WooCommerce 9.9+, PHP 8.1+, MySQL 5.7.5+ ya da MariaDB 10.0.2+ (
 
 **Müşteriye "son 3 ürün" gibi mesajlar gösterebilir miyim?** Hayır, eklenti yalnızca kampanyanın gerçek bilgilerini gösterir.
 
+**Eklenti silinirse kampanyalarım kaybolur mu?** Hayır, varsayılan olarak korunur: kampanyalar, kullanım kayıtları, ödüller ve denetim kaydı kalır; yalnızca ayarlar, zamanlanmış işler ve müşteri metrikleri tablosu silinir. Hepsini silmek için `wp-config.php` içine `ERU_CE_REMOVE_DATA` sabitini `true` olarak ekleyin (bkz. Kaldırma).
+
+**HPOS ve Sepet/Ödeme blokları ile çalışır mı?** Eklenti özel sipariş tablolarıyla (HPOS) uyumluluğunu bildirir. Bloklarda indirimler ürün fiyatında görünür; akıllı sepet kutusu ve özet satırı yalnızca klasik sayfalarda vardır (bkz. Sınırlamalar).
+
+**Dış bir servise istek yapıyor mu?** Eklentinin PHP kodunda dış servise HTTP isteği yapan bir çağrı yoktur; hesaplamalar sitenizde yapılır.
+
+**Önbellek eklentisi kullanıyorum, indirim yanlış görünür mü?** Sepet, ödeme ve sipariş her zaman o anda hesaplanır. Mağaza sayfalarındaki rozet ve fiyat kampanya değişince önbellek süresince eski kalabilir; temizleme seçenekleri için "Önbellek eklentileri" bölümüne bakın.
+
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

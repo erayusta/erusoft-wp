@@ -28,6 +28,9 @@ The admin interface is in Turkish. Diğer Erusoft eklentileri: https://wordpress
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = What is removed on uninstall? =
 Service groups, the plugin settings and the per-product switch. Order item meta and fee lines are kept.
 

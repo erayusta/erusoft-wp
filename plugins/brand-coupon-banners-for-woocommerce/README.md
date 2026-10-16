@@ -16,6 +16,15 @@ Marka veya ürün kategorisine bağlı kupon kampanyalarını, tarih aralığıy
 - İsteğe bağlı: banner kaydedilince WooCommerce kuponu oluşturma/güncelleme (kategori kısıtıyla)
 - Etkin banner yoksa ön yüze hiçbir şey eklenmez
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; Marka Bannerları → **Ayarlar** ekranında marka sınıflandırmasını seçin (markanız yoksa "Marka kullanma") ve gösterim yerlerini işaretleyin.
+2. İsterseniz "WooCommerce kuponu" seçeneğini açın.
+3. Marka Bannerları → **Yeni banner ekle**: "Demo Banner" başlığıyla, kupon kodu `DEMO15`, yüzde indirim 15 girin.
+4. Ürün kategorilerinden "Demo Kategori"yi seçin; başlangıç ve bitiş tarihini belirleyin, "Aktif"i işaretleyin.
+5. Görsel seçin ya da banner metnine `{code} koduyla %15 indirim` yazın; `{code}` yerine kupon kodu basılır.
+6. Kaydedin: kategori arşivinde ve o kategorideki bir ürünün sayfasında banner görünür; kupon açıksa WooCommerce'te `DEMO15` oluşur.
+
 ## Kurulum
 
 1. `brand-coupon-banners-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
@@ -49,6 +58,14 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+.
 
 **Marka sınıflandırması yoksa?** Ayarlarda "Marka kullanma"yı seçin; yalnızca kategori ve genel bannerlar çalışır.
 
+**Eklentiyi silersem bannerlar gider mi?** Hayır. Silmede yalnızca `eru_bcb_options` ayarı silinir; banner kayıtları, meta verileri ve oluşturulmuş kuponlar kalır. Devre dışı bırakmak hiçbir veriyi silmez.
+
+**Blok temalarıyla çalışır mı?** Evet; banner blok temalarında her zaman listenin üstünde gösterilir (bkz. Sınırlamalar).
+
+**Dış servise bağlanır mı?** Hayır, kodda dış HTTP isteği yoktur.
+
+**Süresi biten banner ne olur?** Tarih aralığı dışında görünmez; kayıt silinmez.
+
 ## English summary
 
 Shows scheduled, brand- or category-scoped coupon banners (image or text) on shop archives and matching product pages. The brand taxonomy is selectable in settings; a WooCommerce coupon can optionally be created from the banner. Nothing is output when no banner is active.
@@ -56,6 +73,13 @@ Shows scheduled, brand- or category-scoped coupon banners (image or text) on sho
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

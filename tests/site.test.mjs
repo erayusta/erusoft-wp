@@ -134,3 +134,38 @@ test('theme ZIP excludes top-level demo/ only; product page explains theme insta
   assert.match(html, /Görünüm → Temalar/);
   assert.match(html, /WooCommerce eklentisi gereklidir/);
 });
+
+test('support page, support e-mail and erusoft.com links are on every page type', async () => {
+  const out = mkdtempSync(join(tmpdir(), 'site-'));
+  await build({ root: process.cwd(), out });
+  const support = readFileSync(join(out, 'destek', 'index.html'), 'utf8');
+  assert.match(support, /href="mailto:hello@erusoft\.com\?subject=/);
+  assert.match(support, /github\.com\/erayusta\/erusoft-wp\/issues/);
+  assert.match(readFileSync(join(out, 'sitemap.xml'), 'utf8'), /<loc>https:\/\/wordpress\.erusoft\.com\/destek\/<\/loc>/);
+  const cat = JSON.parse(readFileSync('catalog.json', 'utf8'));
+  for (const e of cat) {
+    const html = readFileSync(join(out, e.slug, 'index.html'), 'utf8');
+    assert.match(html, /href="mailto:hello@erusoft\.com\?subject=[^"]+"/, e.slug);
+    assert.match(html, /href="https:\/\/erusoft\.com"/, e.slug);
+    const ld = JSON.parse(html.match(/<script type="application\/ld\+json">(.*?)<\/script>/)[1]);
+    assert.equal(ld.name, e.name);
+  }
+  const home = readFileSync(join(out, 'index.html'), 'utf8');
+  assert.match(home, /href="\/destek\/"/);
+  assert.match(home, /id="sss"/);
+});
+test('JSON-LD cannot break out of its script tag', async () => {
+  const { productPage } = await import('../site/templates.mjs');
+  const html = productPage({ slug: 'x', name: 'X </script><script>alert(1)</script>', type: 'plugin', category: 'C', tagline_tr: 't', tagline_en: 't', features_tr: [], requires: { wp: '6.5', php: '8.0' }, integrations: [], status: 'stable', path: 'plugins/x', version: '1.0.0' }, null);
+  assert.doesNotMatch(html.match(/<script type="application\/ld\+json">[\s\S]*?<\/script>/)[0].slice(35, -9), /<\/script>/);
+});
+test('link-only released entries render docs/about/<slug>.md', async () => {
+  const out = mkdtempSync(join(tmpdir(), 'site-'));
+  await build({ root: process.cwd(), out });
+  const cat = JSON.parse(readFileSync('catalog.json', 'utf8'));
+  for (const e of cat.filter(x => !x.path && x.status !== 'coming-soon')) {
+    assert.ok(existsSync(join('docs', 'about', e.slug + '.md')), e.slug);
+    const html = readFileSync(join(out, e.slug, 'index.html'), 'utf8');
+    assert.match(html, /<h2 id="destek">/, e.slug);
+  }
+});

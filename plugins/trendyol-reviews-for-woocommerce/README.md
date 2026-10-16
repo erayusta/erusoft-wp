@@ -124,6 +124,14 @@ Google, başka sitelerden toplanan yorumların ürün yorum zengin sonuçlarınd
 
 **Eşleştirmeyi kaldırırsam yorumlar silinir mi?** Hayır; silmek için `wp trendyol-reviews reset` veya kaldırma ayarını kullanın.
 
+**Eklentiyi devre dışı bırakırsam veya silersem içe aktarılan yorumlar ne olur?** Devre dışı bırakmak hiçbir veriyi silmez. Eklenti silinirken ayarlar, API Secret, eşleştirme tablosu, eşleşmeyen ürün listesi, son çalışma, günlük ve zamanlanmış işler her zaman kaldırılır. İçe aktarılan yorumlar ve indirilen fotoğraflar (`uploads/trendyol-reviews/`) ise yalnızca **Eklenti silinirken içe aktarılan yorumları da sil** ayarı açıksa silinir; varsayılan olarak yorumlar sitede kalır.
+
+**Blok tabanlı Sepet/Ödeme ve HPOS ile sorun çıkarır mı?** Eklenti hem HPOS (`custom_order_tables`) hem Sepet/Ödeme blokları (`cart_checkout_blocks`) için uyumluluk bildirir. Zaten sipariş ya da ödeme akışına karışmaz; yalnızca ürün yorumlarıyla çalışır.
+
+**Önbellek eklentileriyle çalışır mı?** İçe aktarılan yorumlar normal WooCommerce yorumu olarak kaydedilir; ürün sayfası önbelleğiniz varsa yeni yorumların görünmesi için önbelleği temizlemeniz gerekebilir.
+
+**Dış servislere ne gönderilir?** Mağaza içe aktarımında Trendyol Satıcı API'sine ve Trendyol'un herkese açık yorum uç noktasına istek yapılır. Etkinleştirmek tek başına hiçbir dış istek başlatmaz. Fotoğraf indirme açıksa yalnızca Trendyol CDN adresleri indirilir.
+
 ## Geliştirici testleri
 
 `tests/php/tyr-matcher.php` ve `tests/php/tyr-import.php`, eklenti etkinken `wp eval-file` ile çalıştırılır. HTTP istekleri `tests/fixtures/tyr/` altındaki elle hazırlanmış (gerçek olmayan) yanıtlarla taklit edilir.
@@ -135,6 +143,13 @@ Imports the product reviews of **your own** Trendyol store into WooCommerce as n
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

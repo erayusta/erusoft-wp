@@ -82,6 +82,17 @@ Başlık ve gövde **Archivo**, ürün kodu, fiyat ve teknik değerler **JetBrai
 
 Tema etkinleştirildiğinde hiçbir sayfa, menü, ürün ya da ayar kendiliğinden oluşturulmaz.
 
+## Nasıl kullanılır
+
+Örnek senaryo: "Demo Ürün" için ücretsiz kargo çubuğu ve teklif bağlantısı görünür olsun.
+
+1. Temayı etkinleştirin, **Ayarlar → Okuma**'dan bir ana sayfa seçin. Kurulum bölümündeki gibi "Teklif İste" şablonlu bir sayfa oluşturun.
+2. **WooCommerce → Ayarlar → Gönderim** altında bölgenize 2.000 TL "En az sipariş tutarı" olan bir "Ücretsiz gönderim" yöntemi ekleyin.
+3. "Demo Ürün" adlı bir ürün oluşturun, kategorisini ve 250 TL fiyatını girin; ürün koduna `DEMO-001` yazın.
+4. **Görünüm → Özelleştir → Voltaj → Teklif ve iletişim formları** bölümünde alıcı olarak `ornek@example.com` yazın.
+5. Ürün sayfasını açın: ürün kodu, stok noktası, çerçeveli satın alma kutusu, "Toplu alım için teklif isteyin" bağlantısı ve ücretsiz kargoya kalan tutarı gösteren çubuk görünür.
+6. Teklif bağlantısına tıklayın; form ürün adı ve koduyla dolu gelir. Gönderdiğinizde mesaj `ornek@example.com` adresine e-postayla gider, veritabanına yazılmaz.
+
 ## Özelleştirici ayarları (Görünüm → Özelleştir → Voltaj)
 
 | Bölüm | Ayar | Varsayılan |
@@ -158,6 +169,33 @@ Betik idempotenttir. Demo mağaza ("Voltaj Demo Teknik Malzeme Ltd. Şti."), mar
 - Başlıktaki sepet sayısını WooCommerce'in sepet parçaları (`wc-cart-fragments`) betiği günceller; betik sepet ve ödeme sayfalarında yüklenmez (orada sepet sunucuda çizilir, sayı sepet güncellenince tema betiğiyle yenilenir). Önbellek eklentisi kullanıyorsanız sepet ve ödeme sayfalarını önbellekten hariç tutun.
 - Ana menü ve alt bilgi menüleri tek seviyelidir; katalog paneli üç seviyeye kadar gösterir.
 - Vurgu rengi olarak koyu bir ton seçilirse düğmelerdeki grafit yazının kontrastı düşer; açık ve parlak bir ton seçin.
+
+## SSS
+
+**Temayı değiştirirsem ya da silersem veriler ne olur?** Tema veritabanında kendi tablosunu oluşturmaz ve etkinleştirmede sayfa, menü, ürün ya da ayar eklemez. Ayarlar WordPress'in tema ayarları kaydında (`theme_mods_voltaj`) durur; başka temaya geçince silinmez, Voltaj'a dönünce geri gelir. Katalog paneli ve filtre sayımı önbelleği geçici kayıtlardır (transient) ve süresi dolunca kendiliğinden kalkar. Teklif ve iletişim formu mesajları hiç saklanmaz.
+
+**Önbellek eklentisiyle çalışır mı?** Evet, ama sepet ve ödeme sayfalarını önbellekten hariç tutun (bkz. Sınırlamalar). Kategori ya da ürün değişince katalog paneli önbelleği yenilenir; süresini `voltaj_nav_cache_ttl` filtresiyle değiştirebilirsiniz.
+
+**Dışarıya istek yapıyor mu?** Hayır. Yazı tipleri temayla gelir, simgeler satır içidir, analitik kodu yoktur. "Son baktıklarınız" şeridi yalnızca ziyaretçinin tarayıcısında (localStorage) tutulur.
+
+**Çok sitede (multisite) kullanılabilir mi?** Kodda çok siteye özel bir işlem yoktur; her sitede ayrı etkinleştirilen sıradan bir tema olarak davranır. Ayarlar site bazlıdır.
+
+**Başka dile çevrilebilir mi?** Tema metin alanı `voltaj` ile çeviriye hazırdır ve `languages/` klasörünü yükler; arayüz Türkçe yazılmıştır.
+
+**WooCommerce kurulu değilse ne olur?** Tema çalışır: mağaza öğeleri gizlenir, başlıktaki düğme ana menüyü açar, blog ve sayfalar normal görünür.
+
+**Yoast SEO gibi bir SEO eklentisiyle çakışır mı?** Yoast SEO, Rank Math, SEOPress veya All in One SEO etkinse temanın kendi SEO etiketleri kapanır.
+
+## Değişiklik geçmişi
+
+- **1.0.0** (2026-10-13): İlk genel sürüm. Ayrıntı için [`CHANGELOG.md`](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve tema sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans ve kaynaklar
 

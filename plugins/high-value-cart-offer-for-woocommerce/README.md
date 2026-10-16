@@ -20,6 +20,15 @@ Yüksek tutarlı sepetlerde müşteriyi satış ekibine yönlendirir: kutudaki b
 - Sepet sayfasında ve isteğe bağlı olarak mini sepette gösterim
 - **Numara girilmedikçe hiçbir çıktı yoktur**
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → **Sepet Teklifi** ekranını açın.
+2. WhatsApp numarası olarak ülke koduyla örnek bir numara girin (ör. `90XXXXXXXXXX`).
+3. Eşiği 250 TL yapın; başlığı, açıklamayı ve buton metnini istediğiniz gibi yazın.
+4. İsterseniz mini sepette gösterimi açıp kaydedin.
+5. Mağazada "Demo Ürün"ü sepete ekleyip sepet sayfasını açın: tutar 250 TL'yi aşınca teklif kutusu görünür; altındaysa görünmez.
+6. Butona tıklayın: WhatsApp, ürün listesi ve sepet tutarı hazır yazılmış bir mesajla açılır.
+
 ## Kurulum
 
 1. `high-value-cart-offer-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
@@ -28,7 +37,7 @@ Yüksek tutarlı sepetlerde müşteriyi satış ekibine yönlendirir: kutudaki b
 
 ## Ayarlar
 
-WooCommerce → **Sepet Teklifi**. Ayarlar `eru_hvco_settings` seçeneğinde saklanır. Numara ülke koduyla girilir (ör. `905550000000`); 0 ile başlayan Türkiye numaraları, başında 5 olan 10 haneli cep numaraları ve `00` öneki Catalog Mode & WhatsApp Orders ile aynı kurallarla uluslararası biçime çevrilir. Eşik, kupon sonrası ve kargo hariç sepet tutarına (KDV dahil) bakar.
+WooCommerce → **Sepet Teklifi**. Ayarlar `eru_hvco_settings` seçeneğinde saklanır. Numara ülke koduyla girilir (ör. `90XXXXXXXXXX`); 0 ile başlayan Türkiye numaraları, başında 5 olan 10 haneli cep numaraları ve `00` öneki Catalog Mode & WhatsApp Orders ile aynı kurallarla uluslararası biçime çevrilir. Eşik, kupon sonrası ve kargo hariç sepet tutarına (KDV dahil) bakar.
 
 ## Kancalar, filtreler ve veri alanları
 
@@ -52,9 +61,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **Müşterinin telefonu paylaşılır mı?** Hayır; bağlantı yalnızca sizin numaranızı ve sepet özetini içerir, sohbeti müşteri kendi WhatsApp hesabıyla başlatır.
 
+**Eklentiyi silersem ne olur?** Silme sırasında yalnızca `eru_hvco_settings` seçeneği silinir. Devre dışı bırakmak ayarı silmez.
+
+**Dış servise bağlanır mı?** Hayır. Kutu yalnızca bir `wa.me` bağlantısı üretir; sitenizden dış HTTP isteği yapılmaz.
+
+**Blok tabanlı sepette çalışır mı?** Hayır; kutu klasik sepet sayfasında ve mini sepette çıkar (bkz. Sınırlamalar).
+
+**Eşik hangi tutara bakar?** Kupon sonrası, kargo hariç sepet tutarına (KDV dahil). Başka bir değer kullanmak için `eru_hvco_cart_value` filtresi vardır.
+
+**Çeviri nasıl yapılır?** Metin alanı `high-value-cart-offer-for-woocommerce`; çeviri yolu `/languages`.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -88,9 +88,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler ile), HPOS uyumlu. 
 
 **Kaldırınca ne silinir?** İki tablo ve `eru_osms_*` seçenekleri; sipariş notları korunur.
 
+**HPOS uyumlu mu?** Evet, `custom_order_tables` uyumluluğu bildirilir. Eklenti ödeme ekranına bir alan eklemez; SMS'ler sipariş durumu değişimlerinden tetiklenir, bu yüzden Cart/Checkout blokları ayrıca ilgilendirmez.
+
+**Dış hizmete ne gider?** Yalnızca `https://api.iletimerkezi.com` adresine kimlik bilgisi, gönderici başlığı, alıcı numarası ve şablondan üretilen metin gider. Başka bir dış çağrı yoktur.
+
+**Eklentiyi devre dışı bırakınca veriler ne olur?** Hiçbir şey silinmez; ayarlar, kurallar, kimlik bilgileri ve iki tablo yerinde kalır. Silme yalnızca Eklentiler → Sil ile yapılır.
+
+**Gönderim kayıtları ne zaman silinir?** Otomatik silinmez (bkz. Sınırlamalar); telefon numarası ve ad içeren metinler kayıtta kaldığı için saklama süresini siz belirlemelisiniz.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

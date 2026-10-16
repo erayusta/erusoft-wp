@@ -41,6 +41,9 @@ This is a beta release. Every bank call (OTP, debtor check, instruction create, 
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Does the plugin store the customer's identity number? =
 
 No. The session keeps an HMAC of it and the order keeps a mask with the first two and last two digits. The phone is kept on the order for support; both are removed by the eraser and after the retention period.

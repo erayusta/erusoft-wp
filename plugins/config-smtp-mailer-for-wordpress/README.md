@@ -25,6 +25,14 @@ define( 'ERU_SMTP_FROM', 'noreply@example.com' );  // isteğe bağlı
 define( 'ERU_SMTP_FROM_NAME', 'Mağaza Adı' );      // isteğe bağlı
 ```
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin. Bu noktada hiçbir şey değişmez; `ERU_SMTP_HOST` tanımlı değildir.
+2. `wp-config.php` dosyasında "That's all, stop editing" satırından önce örnek değerleri kendi SMTP bilgilerinizle ekleyin: `ERU_SMTP_HOST` = `smtp.example.com`, `ERU_SMTP_PORT` = `587`, `ERU_SMTP_USER` = `noreply@example.com`, `ERU_SMTP_PASS` = parolanız.
+3. İsterseniz `ERU_SMTP_FROM_NAME` ile gönderen adını (ör. `Demo Mağaza`) verin; `ERU_SMTP_FROM` boşsa kullanıcı adı bir e-posta ise gönderen adresi o olur.
+4. Terminalde `wp eval 'var_dump(wp_mail("ornek@example.com","Deneme","Merhaba"));'` komutunu çalıştırın. `bool(true)` dönmesi gönderimin SMTP sunucusuna iletildiği anlamına gelir.
+5. Gelen kutusunda mesajın gönderen adresinin ve adının ayarladığınız değerler olduğunu, HTML e-postalarda ise düz metin alternatifinin de bulunduğunu kontrol edin.
+
 ## Ayarlar
 
 | Sabit | Zorunlu | Açıklama |
@@ -60,6 +68,16 @@ WordPress 6.5+, PHP 8.0+. WooCommerce gerekmez.
 
 **Parolayı neden ayar ekranından girmiyorum?** Parolalar veritabanı yedeklerine ve dışa aktarımlara sızmasın diye.
 
+**Eklentiyi silersem ne olur?** Eklenti veritabanına hiçbir şey yazmadığı için silinecek veri yoktur. `wp-config.php` içindeki `ERU_SMTP_*` sabitlerini kendiniz kaldırın. Devre dışı bırakınca `wp_mail()` WordPress'in varsayılan gönderimine döner.
+
+**WooCommerce e-postaları da bu yoldan mı gider?** Evet, `wp_mail()` kullanan her e-posta (WooCommerce dahil) bu SMTP ayarlarından geçer. WooCommerce gerekmez; gönderen adı sabit yoksa WooCommerce'in e-posta gönderen adı varsa o, yoksa site adı kullanılır.
+
+**Dışarıya istek yapıyor mu?** Yalnızca ayarladığınız SMTP sunucusuna, e-posta gönderilirken bağlanır. `ERU_SMTP_HOST` tanımlı değilse hiçbir bağlantı kurulmaz.
+
+**Düz metin alternatifini kapatabilir miyim?** Evet: `add_filter( 'eru_smtp_add_alt_body', '__return_false' );`
+
+**Başka bir SMTP eklentisiyle birlikte kullanılabilir mi?** Aynı anda iki SMTP eklentisi aynı `phpmailer_init` ayarlarını değiştireceği için birini kullanmanız önerilir.
+
 ## English summary
 
 Sends `wp_mail()` through SMTP configured by `ERU_SMTP_*` constants in `wp-config.php`, aligns From/Return-Path and adds a plain-text alternative body to HTML mail. Does nothing when `ERU_SMTP_HOST` is not defined. No settings screen.
@@ -67,6 +85,13 @@ Sends `wp_mail()` through SMTP configured by `ERU_SMTP_*` constants in `wp-confi
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

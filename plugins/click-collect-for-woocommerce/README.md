@@ -29,6 +29,15 @@ Müşteri siparişini kargo yerine sizin tanımladığınız bir teslim noktası
 3. WooCommerce → Ayarlar → Gönderim bölgelerinde bölgenize **Mağazadan teslim** yöntemini ekleyin.
 4. Ödeme sayfanız klasik `[woocommerce_checkout]` kısa kodunu kullanmalıdır.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin ve WooCommerce → **Mağazadan Teslim** ekranında iki teslim noktası ekleyin: "Demo Şube 1" ve "Demo Şube 2" (adres ve çalışma saatleri, örn. "Hafta içi 10:00-18:00").
+2. WooCommerce → Ayarlar → Gönderim'de bir bölgeye **Mağazadan teslim** yöntemini ekleyin; ücreti 0 bırakın.
+3. Ödeme sayfasının klasik `[woocommerce_checkout]` kısa koduyla çalıştığından emin olun.
+4. "Demo Ürün" (250 TL) sepetle ödemeye gidin, Mağazadan teslim'i seçin ve açılan listeden "Demo Şube 2"yi seçin. Seçim yapmadan sipariş vermeyi denerseniz doğrulama hatası alırsınız.
+5. Siparişi `ornek@example.com` ile tamamlayın; nokta adı, adres ve saatler teşekkür sayfasında, müşteri e-postasında ve yönetici sipariş ekranında görünür.
+6. İsterseniz "Teslim almaya hazır" durumunu ayarlardan açın; siparişi bu duruma alınca müşteriye bildirim gider.
+
 ## Ayarlar
 
 | Ayar | Varsayılan |
@@ -62,11 +71,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+, HPOS uyumlu. Klasik ödeme sayfası.
 
 **Teslim noktasını sipariş sonrası değiştirebilir miyim?** Sipariş metasını değiştirmek için kendi koduna ihtiyaç vardır; arayüz yoktur.
 
-Kaldırma: `eru_ccl_locations` ve `eru_ccl_settings` silinir; sipariş metası korunur.
+**Eklentiyi devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca yöntem ödemede sunulmaz; teslim noktaları ve siparişler olduğu gibi kalır. Eklentiler → Sil ile `eru_ccl_locations` ve `eru_ccl_settings` seçenekleri silinir; sipariş metası (`_eru_ccl_*`) siparişlere ait olduğu için korunur. Gönderim bölgelerindeki yöntem örnekleri WooCommerce'indir.
+
+**HPOS ve blok ödeme?** HPOS uyumluluğu bildirilir. Blok ödemede Store API siparişi işlenirken tek nokta varsa otomatik atanır; birden fazla noktada klasik ödeme gerekir (Sınırlamalar).
+
+**Dış servis, çeviri, çoklu site?** Dış servise bağlanmaz. Metin alanı `click-collect-for-woocommerce`, alan yolu `/languages`; klasörde hazır çeviri dosyası yoktur. Ağ düzeyinde etkinleştirme için özel bir destek yoktur.
+
+**Teslim noktası sayısı performansı etkiler mi?** Noktalar tek bir seçenekte tutulur ve ödeme sırasında bu listeye karşı doğrulanır; çok büyük listeler için tasarlanmamıştır.
 
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

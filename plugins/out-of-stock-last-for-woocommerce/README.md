@@ -27,6 +27,14 @@ Mağaza, kategori, etiket, marka ve arama sayfalarında stokta olmayan ürünler
 1. `out-of-stock-last-for-woocommerce` klasörünü `wp-content/plugins/` altına kopyalayın (veya zip olarak yükleyin).
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir). Ek ayar gerekmez.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin. Ek ayar gerekmeden sıralama ve arama uygulaması açık gelir.
+2. "Demo Kategori" içinde bir ürünü (ör. "Demo Ürün") ürün düzenleme ekranından **Stokta yok** olarak işaretleyin.
+3. Mağazada "Demo Kategori" arşivini açın: "Demo Ürün", sıralama ne olursa olsun listenin sonunda görünür.
+4. Ziyaretçi "Fiyata göre: düşükten yükseğe" gibi bir sıralama seçtiğinde stokta olan ürünler seçilen sırayla, stokta olmayanlar en sonda yer alır.
+5. Ürün aramasında da aynı davranışı istemiyorsanız WooCommerce → **Stokta Olmayanlar Sonda** sayfasında **Arama** kutusunun işaretini kaldırıp kaydedin; tamamen kapatmak için **Sıralama** kutusunu da kaldırın.
+
 ## Ayarlar
 
 WooCommerce → **Stokta Olmayanlar Sonda**. İki onay kutusu: sıralama ve arama. Ayarlar `eru_osl_settings` seçeneğinde saklanır.
@@ -52,9 +60,26 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS uyumludur. Harici servis kullan
 
 **Marka sıralama eklentisiyle birlikte çalışır mı?** Evet. Önce stok durumu, sonra [Marka Ürün Sıralama](../brand-product-sorting-for-woocommerce/) sırası uygulanır.
 
+**Eklentiyi devre dışı bırakırsam veya silersem ne olur?** Devre dışı bırakınca arşivler WooCommerce'in kendi sırasına döner; ayar yerinde kalır. Eklenti silinirken yalnızca `eru_osl_settings` seçeneği silinir, ürün ve stok verisine dokunulmaz.
+
+**Ürünlerin stok durumunu değiştirir mi?** Hayır. Eklenti yalnızca ön yüzdeki sorgunun ORDER BY kısmına stok kriterini ekler; ürünleri gizlemez ve veritabanına yazmaz.
+
+**HPOS ve blok Sepet/Ödeme ile ilgisi var mı?** HPOS uyumluluğu bildirilir, ancak eklenti siparişlere dokunmaz. Sepet/Ödeme blokları için ayrı bir uyumluluk bildirimi yoktur ve gerekmez. Blok tabanlı ürün listeleri ve kısa kodlar ana sorgu olmadığı için etkilenmez.
+
+**Önbellek eklentileri ve performans?** Stok kriteri `wc_product_meta_lookup` tablosuna tek bir LEFT JOIN ekler; ürün başına ek sorgu yapmaz. Stok durumu değiştiğinde sayfa önbelleğiniz arşivleri hemen yenilemiyorsa önbelleği temizleyin.
+
+**Kendi `WP_Query` sorgumda kullanabilir miyim?** Evet; sorgu değişkenlerine `eru_osl => 1` ekleyin. Bu durumda sonda sıralama, ön yüz ve ana sorgu koşulu aranmadan uygulanır; ayarlardaki **Sıralama** kutusu kapalıysa yine uygulanmaz.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

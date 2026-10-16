@@ -108,6 +108,16 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 
 **Kupon süresi dolunca ne olur?** WooCommerce kuponu reddeder, kutu "süresi doldu" der ve bekleme süresi boyunca yeni kupon sunulmaz.
 
+**Eklentiyi devre dışı bırakınca ne olur?** Günlük temizlik ve saklama işleri kaldırılır; ayarlar, aboneler ve üretilmiş kuponlar yerinde kalır. Modüller zaten ana anahtar kapalıyken çalışmaz.
+
+**HPOS uyumlu mu?** Evet, `custom_order_tables` uyumluluğu bildirilir. Cart/Checkout blokları için bkz. Sınırlamalar: çubuk ve bülten kısa kodları dışında modüller klasik sayfalara bağlanır.
+
+**Bülten formu önbelleğe alınmış sayfada çalışır mı?** Evet. Form nonce taşımaz; kötüye kullanım gizli bir tuzak alanı, aynı kaynak (Origin/Referer) denetimi ve IP özetine bağlı saatte 5 deneme sınırıyla sınırlanır.
+
+**Dışarıdaki bir hizmete veri gider mi?** Hayır; eklenti kendi kodunda dış API çağırmaz. Onay ve hoş geldin e-postaları WordPress'in e-posta altyapısıyla gider.
+
+**Saklama süresi dolan aboneler ne olur?** Varsayılan 730 gün sonra günlük işle silinir (bkz. Ayarlar).
+
 ## English summary
 
 All four modules are independent switches (default off). The threshold is read from the customer's shipping-zone `free_shipping` method unless set manually. Gap suggestions run one bounded query cached for ten minutes. The newsletter is double opt-in: a pending row and a confirmation e-mail first; consent is recorded and the unique single-use, e-mail-restricted, expiring coupon is created and e-mailed only after the link is followed (never shown in a response). Plus-addressing cannot farm coupons, and a global hourly cap limits distributed abuse. The cart coupon is a genuine WooCommerce coupon with `date_expires`; after expiry the session is not offered another one for a configurable cool-down. Privacy exporter/eraser and retention purge included. Classic cart/checkout only (see Sınırlamalar).
@@ -115,6 +125,13 @@ All four modules are independent switches (default off). The threshold is read f
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

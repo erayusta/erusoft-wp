@@ -39,6 +39,15 @@ Erusoft kataloğunda fiyatı kişiye göre değiştiren üç eklenti vardır:
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. WooCommerce → **Fiyat Listeleri** → Yeni liste. Liste yayımlanana kadar mağazanızda hiçbir değişiklik olmaz.
 
+## Nasıl kullanılır
+
+1. WooCommerce → **Fiyat Listeleri** → *Yeni liste*; adı `Demo Bayi` olsun.
+2. **Roller** bölümünde `Customer` rolünü işaretleyin (ya da **Kullanıcılar** kutusuna `ornek@example.com` yazın).
+3. **Tüm ürünlerde indirim %** alanına `15`, istediğiniz bir kategorinin yanındaki alana `20` yazın.
+4. **Sabit fiyatlar** kutusuna `DEMO-001 = 250` satırını ekleyin (SKU'su `DEMO-001` olan "Demo Ürün" için).
+5. Listeyi **yayımlayın**; taslak listeler uygulanmaz.
+6. Atanan kullanıcıyla giriş yapıp mağazayı açın: "Demo Ürün" 250 TL görünür, o kategorideki ürünler normal fiyattan %20, diğerleri %15 indirimli listelenir; sepet ve ödeme aynı fiyatı kullanır.
+
 ## Ayarlar
 
 Liste düzenleme ekranında:
@@ -82,9 +91,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS ile uyumludur. WooCommerce yoks
 
 **Fiyat listesi, rol fiyatı ve müşteri kuralı birlikte?** Müşteriye özel kural > fiyat listesi > rol fiyatı.
 
+**Eklentiyi silersem ne olur?** Eklentiler → Sil ile tüm fiyat listeleri (`eru_plst_list` yazıları) ve `eru_plst_version` seçeneği silinir. Devre dışı bırakmak yalnızca fiyat değişikliğini durdurur; listeler yerinde kalır.
+
+**HPOS ve blok tabanlı sepet/ödeme ile uyumlu mu?** Eklenti HPOS uyumluluğunu bildirir. Cart/Checkout blokları için ayrı bir uyumluluk beyanı ya da test yoktur.
+
+**Önbellek eklentisiyle çalışır mı?** Giriş yapmış kullanıcıları sayfa önbelleğinden hariç tutmanız gerekir; aksi halde bir kullanıcının fiyatı başkasına gösterilebilir.
+
+**Dışarıya istek yapıyor mu?** Hayır, harici servis ve dış HTTP isteği yoktur.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -28,6 +28,14 @@ Stok koruma, kampanya ürünü veya toptan alım düzeni için sepete konabilece
 2. Eklentiler ekranından etkinleştirin (WooCommerce gereklidir).
 3. Aşağıdaki ayar ekranından yapılandırın. Yapılandırma yapılana kadar mağazanızda hiçbir değişiklik olmaz.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; "Demo Ürün"ün düzenleme ekranında **Envanter** sekmesini açın.
+2. **Siparişte asgari adet** `2`, **Siparişte azami adet** `5` yazın ve ürünü güncelleyin.
+3. Aynı ürün için **Müşteri başına azami adet** `10`, **Dönem (gün)** `30` girin: bir müşteri 30 gün içinde en fazla 10 adet alabilir.
+4. WooCommerce → **Satın Alma Limitleri** ekranında isterseniz sipariş geneli asgari/azami toplam adedi ve mesaj metinlerini düzenleyin.
+5. Mağazada ürünü 6 adet sepete eklemeyi deneyin: azami adet aşıldığı için bir uyarı mesajı görürsünüz. 1 adetle ödemeye gitmeyi deneyin: asgari 2 adet şartı sepet/ödeme doğrulamasında sipariş tamamlanmasını engeller.
+
 ## Ayarlar
 
 WooCommerce → **Satın Alma Limitleri** (kategori, sipariş, mesajlar) ve ürün düzenleme → Envanter (ürün limitleri). Seçenek `eru_pl_settings`; ürün meta alanları `_eru_pl_min`, `_eru_pl_max`, `_eru_pl_customer_max`, `_eru_pl_period_days`. Varsayılan: hiç limit yok.
@@ -58,9 +66,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **Aynı kişi farklı e-postayla alırsa?** Müşteri limiti hesap veya e-posta tabanlıdır; kimlik doğrulaması yapmaz.
 
+**Eklentiyi silersem ne olur?** Eklentiler → Sil yalnızca `eru_pl_settings` seçeneğini (kategori/sipariş limitleri ve mesajlar) siler. Ürünlerdeki `_eru_pl_*` meta alanları korunur. Devre dışı bırakınca limitler uygulanmaz, veri silinmez.
+
+**HPOS ve blok sepet ile uyumlu mu?** Evet. Eklenti HPOS uyumluluğunu bildirir ve blok sepet için Store API'nin sepete ekleme doğrulamasına bağlanır.
+
+**Dışarıya istek yapıyor mu?** Hayır. Dış HTTP isteği yoktur.
+
+**Mesajları değiştirebilir miyim?** Evet, WooCommerce → Satın Alma Limitleri ekranında üç mesaj (azami aşıldı, asgari altında, müşteri limiti aşıldı) düzenlenir; `{name}`, `{limit}`, `{bought}`, `{period}` yer tutucuları kullanılabilir.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -25,6 +25,15 @@ Hediye satırları genellikle fiyatı 0 yapılmış normal sepet satırlarıdır
 
 > **Eklentiler → Yeni ekle ile yüklemeyin.** ZIP'i bilgisayarınızda açın ve `gift-line-guard-for-woocommerce.php` dosyasını doğrudan `wp-content/mu-plugins/` klasörünün **en üst düzeyine** kopyalayın (klasör yoksa oluşturun). Etkinleştirme gerekmez, dosyayı silmek devre dışı bırakır.
 
+## Nasıl kullanılır
+
+1. `gift-line-guard-for-woocommerce.php` dosyasını `wp-content/mu-plugins/` klasörüne kopyalayın; etkinleştirme gerekmez.
+2. [Gift Product Rules](../../plugins/gift-product-rules-for-woocommerce/) ile "Demo Hediye" ürününü 250 TL ve üzeri sepetlere hediye eden bir kural tanımlayın.
+3. Sepeti 250 TL'ye ulaştırın: "Demo Hediye" 0 TL ile eklenir.
+4. Sepet sayfasında hediye satırının adet kutusu yerine yalnızca okunur bir sayı görünür; blok sepette adet düzenlenemez.
+5. Adedi bir istekle (örneğin elle hazırlanmış bir form gönderimiyle) artırmayı deneyin: sonraki toplam hesabında adet ilk görülen değere döner ve fiyat 0 kalır.
+6. Siparişi tamamlayın: hediye kaleminin ara toplamı ve toplamı 0'dır.
+
 ## Ayarlar
 
 Ayar ekranı yoktur; varsayılan davranış güvenlidir. Davranış filtrelerle değişir.
@@ -61,9 +70,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. Gift Product Rules ile birlikte kull
 
 **İkisini birlikte kullanmak çift işlem yapar mı?** Hayır; ikisi de aynı değeri (0 fiyat, kuralın adedi) uygular.
 
+**Devre dışı bırakmak veya kaldırmak için ne yapmalıyım?** Dosyayı `wp-content/mu-plugins/` klasöründen silmeniz yeterlidir; eklentiler ekranında devre dışı bırakma yoktur. Eklenti seçenek, tablo ya da kalıcı veri oluşturmaz, bu yüzden silinecek bir şey de bırakmaz. Daha önce verilmiş siparişler değişmez. Sepet satırındaki `_eru_glg_qty` kaydı yalnızca sepet oturumunda tutulur.
+
+**HPOS ve blok tabanlı Sepet/Ödeme ile uyumlu mu?** Sınırlamalarda anlatıldığı gibi sipariş tablolarına doğrudan erişmez, HPOS açıkken de çalışır. Blok sepette hediye satırının adedi Store API üzerinden düzenlenemez (`woocommerce_store_api_product_quantity_editable` filtresi).
+
+**Önbellek eklentileri veya performans için dikkat edilecek bir şey var mı?** Koruma yalnızca sepet toplamı hesaplanırken ve siparişe aktarılırken çalışır; sayfa çıktısına, veritabanına ya da dış servise dokunmaz. Sepet ve ödeme sayfalarının zaten önbelleğe alınmaması gerekir.
+
+**Başka bir hediye eklentisiyle kullanabilir miyim?** Evet. Eklentinizin hediye satırlarını `eru_glg_is_gift_line` filtresiyle `true` döndürerek işaretleyin; adedi bilerek değiştirmek gerekirse `eru_glg_allowed_quantity` filtresini kullanın.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

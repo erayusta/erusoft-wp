@@ -29,6 +29,17 @@ WooCommerce mağazanızı Dopigo ile bağlar: stok ve fiyatı seçtiğiniz yönd
 
 Etkinleştirme sonrası eklenti pasiftir: ana anahtar açılıp kimlik bilgileri kaydedilene kadar dış istek, zamanlanmış iş veya ön yüz çıktısı yoktur. Hiçbir sekmeyi görüntülemek Dopigo'ya istek göndermez; yalnızca "Bağlantıyı test et" düğmesi doğrudan istek yapar.
 
+## Nasıl kullanılır
+
+Önce kuru çalışmayla güvenli bir deneme:
+
+1. Eklentiyi etkinleştirin; **WooCommerce → Dopigo → Bağlantı** sekmesinde kimlik bilgilerini girin, **Kuru çalışma**'yı ve **Entegrasyon**'u açıp kaydedin.
+2. **Bağlantıyı test et** düğmesine basın; token alındığını görün.
+3. **Araçlar** sekmesinden **SKU eşleştirme denetimi**'ni çalıştırın ve Woo SKU'larınızın (ör. `DEMO-001`, "Demo Ürün") Dopigo'da bulunup bulunmadığına bakın.
+4. Ürün sekmesinde stok yönünü "Dopigo → Woo" seçin, fiyat yönünü kapalı bırakın. Kuru çalışma açıkken Dopigo verisi yazılmaz; yapılacak işler **Günlük** sekmesinde görünür.
+5. Günlük beklediğiniz işleri gösteriyorsa Kuru çalışma'yı kapatın. 5 dakikada bir çekme çalışır; `DEMO-001` stoğunun Dopigo'daki değere eşitlendiğini doğrulayın.
+6. Sipariş göndermek isterseniz Sipariş sekmesinden tetiği seçin; çift stok düşümü uyarısını okuyun. Deneme siparişi (250 TL) verip sipariş ekranındaki Dopigo kutusundan durumunu izleyin.
+
 ## Bağlantı
 
 | Ayar | Açıklama |
@@ -115,6 +126,10 @@ wp eru-dpg order <id>
 | `eru_dpg_import_image_sizes` | filtre | İçe aktarmada üretilecek görsel boyutları |
 | `eru_dpg_api_base` | filtre | API kök adresi (varsayılan `https://panel.dopigo.com`) |
 
+## Ayarlar
+
+**WooCommerce → Dopigo** altında Panel, Bağlantı, Ürün, Sipariş, Araçlar ve Günlük sekmeleri bulunur. Ayarlar ilgili sekmelerdedir: kimlik doğrulama ve kuru çalışma Bağlantı'da, stok/fiyat yönü ve KDV Ürün'de, sipariş tetiği ve durum eşleme tablosu Sipariş'te yer alır; her ayarın açıklaması ekranda yazılıdır.
+
 ## Gereksinimler
 
 WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gelir). HPOS ile uyumludur; sipariş verisi yalnızca `WC_Order` üzerinden okunur ve yazılır. Sipariş meta alanları: `_eru_dpg_order_id`, `_eru_dpg_order_state` (`pending`, `sent`, `failed`, `unknown`, `needs_review`), `_eru_dpg_order_pending_at`, `_eru_dpg_order_error`, `_eru_dpg_synced_at`. Ürün meta alanları: `_eru_dpg_variant_id`, `_eru_dpg_product_id`, `_eru_dpg_updated_at`, `_eru_dpg_img_sig`, `_eru_dpg_img_todo`.
@@ -132,6 +147,20 @@ Sipariş gönderimi açıksa siparişteki ad, e-posta, telefon, adres ve varsa v
 - Dopigo'da görseli olmayan içe aktarılmış ürünlerde WooCommerce'in kendi yer tutucu görseli görünür; eklenti başka bir yer tutucu adresi kullanmaz.
 - Eklenti silindiğinde (Eklentiler → Sil) ayarlar, token önbelleği, günlük tablosu, kilitler, zamanlanmış işler ve ürün/görsel metası silinir; **sipariş metası (`_eru_dpg_*`) ve sipariş notları korunur.**
 
+## SSS
+
+**Eklentiyi silersem ne olur?** Eklentiler → Sil ile ayarlar, token önbelleği, günlük tablosu, kilitler, zamanlanmış işler ve ürün/varyasyon/görsel metası silinir. Sipariş metası (`_eru_dpg_*`) ve sipariş notları korunur. Yalnızca devre dışı bırakmak veri silmez.
+
+**HPOS ile uyumlu mu?** Evet, uyumluluk bildirilir ve sipariş verisi `WC_Order` üzerinden okunur ve yazılır. Cart/Checkout blok uyumluluğu için ayrı bir bildirim yoktur; "sipariş oluşunca" tetiği Store API siparişlerini de yakalar.
+
+**Dopigo'ya hangi adresten istek gider?** Varsayılan `https://panel.dopigo.com`; `eru_dpg_api_base` filtresiyle değiştirilir. Etkinleştirme sonrası ana anahtar açılana kadar hiçbir istek yapılmaz.
+
+**Çok sitede (multisite) çalışır mı?** Ağ düzeyinde etkinleştirme için kodda özel bir destek yoktur; tablo ve ayarlar sitenin önekiyle çalışır.
+
+**Eklenti çeviri dosyası sunuyor mu?** Metin alanı `dopigo-integration-for-woocommerce`, alan yolu `/languages` olarak tanımlıdır; klasörde hazır çeviri dosyası yoktur, arayüz Türkçedir.
+
+**Büyük kataloglarda yavaşlatır mı?** İçe aktarma ve çekme işleri zaman, sayfa ve görsel bütçesiyle parçalara bölünür ve Action Scheduler ile arka planda çalışır; ürün kaydı sırasında dış istek yapılmaz.
+
 ## English summary
 
 Two-way Dopigo sync for WooCommerce. Stock and price directions are chosen separately; Woo → Dopigo updates are queued (one Action Scheduler action per product, nothing sent during the product save). Orders are pushed with VAT-inclusive lines under a per-order lock plus a persisted pending state, so two events in two requests create one Dopigo order and a retry after the Dopigo id is stored never creates a second one. Order statuses sync both ways through a mapping table; an unmapped status changes nothing. The importer is cursor-based and time-budgeted with deterministic unique SKUs, parent-constrained categories and two-phase, hash-deduplicated image sideloading. 429/503/5xx are retried through Action Scheduler with 1–30 minute backoff; nothing sleeps. A warning and a one-click preset cover the double stock decrement when Woo → Dopigo stock and order push are both on. Credentials are write-only and never logged. Beta: verified against mocked HTTP only.
@@ -139,6 +168,13 @@ Two-way Dopigo sync for WooCommerce. Stock and price directions are chosen separ
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

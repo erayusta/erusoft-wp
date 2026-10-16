@@ -27,6 +27,15 @@
 
 Etkinleştirme sonrası eklenti pasiftir: hedef açılıp yapılandırılmadıkça dış istek, zamanlanmış iş veya ön yüz çıktısı yoktur.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → Ayarlar → Entegrasyon → **Sunucu Tarafı İadeler** ekranını açın.
+2. "GA4'e gönder"i işaretleyin, Ölçüm Kimliğini ve API gizli anahtarını girin (ya da Matomo için izleme adresi, site kimliği ve token_auth).
+3. **GA4 test gönderimi** düğmesine basın; sonuç ekranında doğrulama iletisinin hatasız geldiğini görün.
+4. Demo bir sipariş (ör. "Demo Ürün", 250 TL) oluşturup ödenmiş duruma getirin, ardından siparişte 50 TL kısmi iade yapın.
+5. WooCommerce → **İade Kuyruğu** ekranında `refund` satırının eklendiğini, kısa süre içinde durumunun "Gönderildi"ye döndüğünü doğrulayın.
+6. Aynı satır sipariş ekranındaki kutuda da görünür. Hata varsa satırı buradan yeniden deneyebilirsiniz.
+
 ## GA4 kurulumu
 
 1. GA4 → Yönetici → Veri akışları → akışınız: **Ölçüm Kimliği** (`G-…`) ve "Measurement Protocol API gizli anahtarları" altında bir **API gizli anahtarı** oluşturun.
@@ -100,6 +109,20 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 - Aynı sipariş için ikinci bir iptal olayı gönderilmez (`cancel:<sipariş id>`).
 - Eklenti silindiğinde (Eklentiler → Sil) ayarlar, kuyruk tablosu ve zamanlanmış işler silinir; sipariş metası (`_eru_ssr_*`) ve sipariş notları korunur.
 
+## SSS
+
+**Eklentiyi devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca bekleyen zamanlanmış işler kaldırılır; ayarlar ve kuyruk tablosu durur. Eklentiyi silince ayarlar, kuyruk tablosu ve zamanlanmış işler silinir; sipariş metası (`_eru_ssr_*`) ve sipariş notları korunur.
+
+**HPOS ile uyumlu mu?** Evet, eklenti özel sipariş tabloları uyumluluğunu bildirir ve sipariş verisini yalnızca `WC_Order` üzerinden okur/yazar.
+
+**Hangi dış servislere istek yapar?** Yalnızca siz açtığınızda: GA4 Measurement Protocol (`google-analytics.com`) ve kendi Matomo adresiniz. Hedef açılmadıkça dış istek yoktur.
+
+**Satın alma (purchase) olaylarını da gönderir mi?** Hayır; yalnızca iade ve iptal. Satın alma izlemeyi kendi etiket kurulumunuz sürdürür.
+
+**Gönderim başarısız olursa ne olur?** Kuyrukta bekler ve üstel geri çekilmeyle en çok 10 kez denenir; sonra "Başarısız" olur ve İade Kuyruğu ekranından elle yeniden denenebilir.
+
+**Aynı iade iki kez gönderilebilir mi?** Hayır; her iade ve iptal için tekilleştirme anahtarı vardır, aynı anahtar kuyruğa ikinci kez eklenmez.
+
 ## English summary
 
 Reports refunds and cancellations of paid orders to GA4 and/or Matomo server-side. A cancellation sends only the remaining amount (total minus already refunded), and an order that was never paid sends nothing. Delivery uses a queue table with a unique de-duplication key, Action Scheduler processing (20 rows per run), exponential backoff capped at 6 hours and 10 attempts. Matomo mode A records a negative-revenue ecommerce order (raises the order count); mode B records a custom event. Credentials are write-only and never logged. Beta: verified against mocked HTTP only.
@@ -107,6 +130,13 @@ Reports refunds and cancellations of paid orders to GA4 and/or Matomo server-sid
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

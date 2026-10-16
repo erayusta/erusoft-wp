@@ -230,9 +230,24 @@ WordPress 6.5+, WooCommerce 9.0+, PHP 8.0+ ve PHP sodium eklentisi (ödeme bilgi
 
 **Komisyon KDV dahil mi hesaplanır?** Hayır. İndirim sonrası, KDV hariç satır tutarı; isteğe bağlı olarak KDV hariç kargo payı eklenir.
 
+**Eklentiyi silersem komisyon kayıtları gider mi?** Hayır. Silme sırasında ayarlar silinir; temsilciler, kurallar, komisyonlar ve ödemeler `ERU_STC_REMOVE_DATA` sabiti `wp-config.php`'de `true` yapılmadıkça korunur. Ayrıntı için [Kaldırma](#kaldırma) bölümüne bakın.
+
+**Dış bir servise istek atıyor mu?** Hayır. Kodda dış HTTP isteği yoktur; ödeme bilgileri yalnızca sitenizin veritabanında, `wp-config.php`'deki anahtarla şifreli tutulur.
+
+**HPOS ile uyumlu mu?** Evet, eklenti özel sipariş tabloları uyumluluğunu bildirir.
+
+**Çeviri nasıl yapılır?** Metin alanı `sales-team-commissions-for-woocommerce`, eklenti başlığındaki çeviri yolu `/languages` dizinidir. Hazır bir çeviri dosyası pakette yoktur.
+
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

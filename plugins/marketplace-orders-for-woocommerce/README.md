@@ -355,9 +355,34 @@ Siparişlerdeki `_eru_mpo_*` alanları ve sipariş notları her durumda korunur.
 
 **Eklenti kapalıyken `eru-mpo-*` durumundaki siparişler sipariş listesinde görünmez** (durumlar eklentiyle kayıtlıdır); eklentiyi yeniden açınca geri dönerler. Eklentiyi kalıcı olarak kaldırmadan önce siparişleri çekirdek durumlara taşıyın (ör. "Sipariş durumları" ayarını çekirdek durumlara alıp toplu işlemle güncelleyin).
 
+## SSS
+
+**Etkinleştirince hemen sipariş çekmeye başlar mı?** Hayır. Etkinleştirme yalnızca tabloları oluşturur. Ana anahtar açılıp bir pazaryeri yapılandırılana kadar pazaryerine istek gitmez, zamanlanmış iş kurulmaz. Gözlem modu varsayılan olarak açıktır; yalnızca günlüğe "aktarılırdı" satırı yazar.
+
+**Aynı siparişi iki kez aktarır mı?** Hayır. Her paket için atomik kilit ve benzersiz eşleme satırı tutulur; yeniden çekim, durum güncellemesi ya da bağlantı siparişi ikinci kez oluşturmaz ve stoğu ikinci kez düşürmez.
+
+**Dış servislere bağlanır mı?** Yalnızca sizin yapılandırdığınız Trendyol ve Hepsiburada API uçlarına bağlanır. Başka bir hizmete veri göndermez. Kimlik bilgileri yalnızca istek başlığında gider; günlükte gizlenir.
+
+**HPOS ve blok tabanlı Sepet/Ödeme ile uyumlu mu?** HPOS uyumluluğu bildirilir; sipariş verisi yalnızca `WC_Order` üzerinden yazılır ve sipariş listesindeki **Pazaryeri** sütunu hem HPOS'ta hem klasik listede çalışır. Eklenti Sepet/Ödeme bloklarıyla ilgili bir uyumluluk bildirmez; zaten ön yüzde hiçbir şey değiştirmez.
+
+**Ekran açıkken sayfa pazaryerine istek gönderir mi?** Hayır. **Bağlantıyı test et** ve **Şimdi senkronla** işi Action Scheduler'da arka plana kuyruğa alır. Çekimler ve gönderimler WP-Cron/Action Scheduler'ın çalışmasına bağlıdır; sitenizde zamanlanmış işlerin düzenli çalıştığından emin olun.
+
+**Eklentiyi devre dışı bırakırsam veya silersem veriler ne olur?** Devre dışı bırakmak yalnızca zamanlanmış işleri kaldırır. Silince ayarlar, kimlik bilgileri, ham veri, ilan ve stok kuyruğu tabloları gider; sipariş eşleme tablosu ve günlük `ERU_MPO_REMOVE_DATA` tanımlanmadıkça korunur, siparişlerdeki `_eru_mpo_*` alanları ve notlar her durumda kalır. Ayrıntı için yukarıdaki **Kaldırma** bölümüne bakın.
+
+**Kişisel veri nasıl işlenir?** Ham veri varsayılan 30 gün, günlük 14 gün saklanır; kimlik numaraları yazılırken maskelenir. WordPress'in kişisel veri dışa aktarma ve silme araçlarıyla çalışır. Ayrıntı için **Kişisel veriler** bölümüne bakın.
+
+**Büyük kataloglarda stok gönderimi yavaşlatır mı?** Stok ve fiyat değişiklikleri kuyruğa alınır, gecikmeli ve toplu gönderilir; ilan yenilemesi çalışma başına sayfa sınırıyla yapılır. İlk gönderim için **Tüm stok ve fiyatları gönder** düğmesini kullanın.
+
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

@@ -31,6 +31,17 @@ Konuları (isteğe bağlı anahtar kelimelerle) kuyruğa eklersiniz; açtığın
 2. Eklentiler ekranından etkinleştirin.
 3. Ayarları yapın (aşağıya bakın).
 
+## Nasıl kullanılır
+
+Örnek senaryo: tek bir konudan taslak yazı üretmek.
+
+1. Eklentiyi etkinleştirin ve **Ayarlar → İçerik Otomasyonu** ekranını açın.
+2. Bir sağlayıcı seçin (OpenAI, Anthropic veya Perplexity) ve kendi API anahtarınızı o sağlayıcının alanına girin; örnek anahtar biçimi için sağlayıcının belgelerine bakın. Yayın kuralını "Taslak (önerilen)" bırakın.
+3. "Konu kuyruğu" kutusuna `WordPress yedekleme için 5 ipucu | yedekleme, güvenlik` yazıp **Kuyruğa ekle**'ye basın.
+4. Günlük istek sınırını 5, çalışma başına konu sayısını 1 yapıp kaydedin.
+5. **Şimdi çalıştır**'a basın. Birkaç saniye sonra "Çalıştırıldı: 1 yazı oluşturuldu" bildirimi gelir; kuyrukta konunun durumu "Tamam" olur ve yanında oluşan yazının bağlantısı görünür.
+6. **Yazılar** ekranında taslağı açıp okuyun, düzenleyin ve kendiniz yayımlayın. Zamanlanmış çalışma için "Zamanlanmış çalışmayı etkinleştir" kutusunu işaretleyin.
+
 ## Ayarlar
 
 Ayarlar → **İçerik Otomasyonu**: etkinleştirme, sıklık, çalışma başına konu, sağlayıcı/anahtar/model, dil, yayın kuralı, kategori, sınırlar, görsel; aynı ekranda kuyruk ve "Şimdi çalıştır". Seçenekler: `eru_ca_settings`, `eru_ca_keys`, `eru_ca_queue`, `eru_ca_usage`, `eru_ca_lock`.
@@ -66,9 +77,26 @@ WordPress 6.5+, PHP 8.0+. WP-Cron çalışmalıdır (düşük trafikli sitelerde
 
 **Etkinleştirdim ama yazı çıkmıyor.** Anahtarın girildiğinden, kuyrukta bekleyen konu olduğundan ve günlük sınırın dolmadığından emin olun; "Şimdi çalıştır" ile deneyebilirsiniz.
 
+**Devre dışı bırakırsam ya da silersem ne olur?** Devre dışı bırakınca zamanlanmış çalışma (`eru_ca_tick`) kaldırılır; ayarlar, anahtarlar ve kuyruk durur. Eklentiyi silerseniz (Eklentiler → Sil) zamanlama ve `eru_ca_settings`, `eru_ca_keys`, `eru_ca_queue`, `eru_ca_usage`, `eru_ca_lock` seçenekleri (saklanan API anahtarları ve konu kuyruğu dahil) silinir. Üretilmiş yazılar içeriğiniz olduğu için korunur. Veriyi koruyan bir sabit yoktur.
+
+**Hangi veri dışarı gider?** Her çalışmada seçtiğiniz sağlayıcının API adresine (OpenAI, Anthropic veya Perplexity) konu, varsa anahtar kelimeler ve yazı dili gönderilir; anahtarınız yalnızca o sağlayıcının sunucusuna gider. Başka bir üçüncü taraf servis yoktur. Anahtar girilmediyse hiçbir istek yapılmaz.
+
+**WP-Cron çalışmıyor, yazılar gelmiyor.** Zamanlama yalnızca WP-Cron ile yapılır; düşük trafikli sitelerde tetiklenmeyebilir. Sunucu cron'u kurun ya da **Şimdi çalıştır** düğmesini kullanın.
+
+**Birden fazla konuyu aynı anda işler mi?** Çalışma başına en çok 3 konu işlenir; bir kilit iki çalışmanın çakışmasını önler. Bir konu 3 başarısız denemeden sonra "başarısız" olur ve günlük istek sınırı dolunca o gün durulur.
+
+**Önbellek eklentileri ve WooCommerce?** Eklenti yalnızca yönetim tarafında ve cron'da çalışır, ön yüzde çıktı üretmez; sayfa önbelleğinden etkilenmez. WooCommerce'e bağlı değildir, HPOS ya da blok ödeme ile ilgisi yoktur.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

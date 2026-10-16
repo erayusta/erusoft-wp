@@ -20,6 +20,15 @@ Siparişlere ayarlanabilir sinyallerle 0-100 arası risk puanı verir. Puan sipa
 2. Eklentiler ekranından etkinleştirin.
 3. WooCommerce → Ayarlar → **Risk Skoru** sekmesinden ağırlıkları ve listeleri girin.
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; WooCommerce → Ayarlar → **Risk Skoru** sekmesini açın.
+2. **Tek kullanımlık e-posta alan adları** kutusuna `example.com` yazın (yalnızca deneme için); diğer ağırlıkları varsayılan bırakıp kaydedin.
+3. Mağazada misafir olarak, e-postası `ornek@example.com` olan bir "Demo Ürün" siparişi (250 TL) verin.
+4. WooCommerce → Siparişler listesinde yeni **Risk** sütununda rozet görünür: tek kullanımlık alan adı (30) + misafir siparişi (10) = 40 puan, varsayılan eşiklerle "Orta" bant.
+5. Siparişi açın; sağdaki kutuda puan ve tetiklenen sinyaller listelenir.
+6. Ağırlıkları değiştirdiyseniz ya da sipariş verisini düzenlediyseniz kutudaki **Yeniden hesapla** düğmesine basın.
+
 ## Ayarlar
 
 WooCommerce → Ayarlar → Risk Skoru. Ağırlıklar `eru_ors_weight_<sinyal>` (varsayılanlar: izleme listesi 100, tek kullanımlık e-posta 30, ilk sipariş 15, misafir 10, yüksek tutar 25, adres farkı 20, ülke farkı 20, riskli ülke 25, manuel ödeme 25).
@@ -61,6 +70,14 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+. HPOS (özel sipariş tabloları) ile
 
 **Eski siparişler puanlanır mı?** Hayır; detay ekranından "Yeniden hesapla" ile tek tek puanlanabilir.
 
+**Eklentiyi silersem ne olur?** Eklentiler → Sil, `eru_ors_*` seçeneklerini (ağırlıklar, eşikler, listeler) siler. Siparişlere yazılmış `_eru_ors_*` meta alanları korunur. Devre dışı bırakmak veri silmez; yeni siparişler puanlanmaz.
+
+**HPOS ve blok ödeme ile uyumlu mu?** Evet. Eklenti HPOS uyumluluğunu bildirir ve puanlamayı hem klasik ödeme hem Store API (blok ödeme) kancalarına bağlar.
+
+**Dışarıya istek yapıyor mu, müşteri bir şey görür mü?** Hayır; dış HTTP isteği ve müşteri tarafı çıktısı yoktur. Puan yalnızca yönetim ekranlarında görünür.
+
+**Kendi sinyalimi ekleyebilir miyim?** Evet, `eru_ors_signals` filtresiyle (`label`, `weight`, `check` callable). Ağırlık ayarlar sekmesine de yansır.
+
 ## English summary
 
 Scores each order from 0 to 100 using configurable signals (disposable e-mail domains, address/country mismatch, first or guest order, high amount, risky countries, manual payment, watchlist). Every weight, threshold and list is an option under WooCommerce > Settings > Risk Skoru; lists are empty by default. A score column is added to the orders list (HPOS and legacy). No automatic action is taken.
@@ -68,6 +85,13 @@ Scores each order from 0 to 100 using configurable signals (disposable e-mail do
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

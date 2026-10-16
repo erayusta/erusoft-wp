@@ -39,6 +39,9 @@ This is a beta release. Dopigo has no public sandbox; the API client and every s
 
 == Frequently Asked Questions ==
 
+= Where can I get support? =
+Check the FAQ and limitations in the README first. Report bugs on GitHub: https://github.com/erayusta/erusoft-wp/issues. For setup, configuration, custom development or integration support, e-mail hello@erusoft.com (https://erusoft.com). Never send passwords, API keys or customer data.
+
 = Why is there a warning about double stock decrement? =
 
 When an order is pushed, Dopigo reduces its own stock. If WooCommerce also sends its reduced stock to Dopigo, one sale is subtracted twice. Use "Yalnızca sipariş gönder" to keep order push and take stock from Dopigo instead.

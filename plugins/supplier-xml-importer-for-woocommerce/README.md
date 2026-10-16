@@ -24,6 +24,16 @@ Tedarikçinizin XML dosyası ya da adresi ile mağazanızdaki ürünleri senkron
 - Görseller yalnızca beslemedeki adreslerden indirilir; aynı adres ikinci kez indirilmez
 - Aynı beslemenin çakışan çalıştırmalarına karşı kilit
 
+## Nasıl kullanılır
+
+1. Eklentiyi etkinleştirin; Ürünler → **Tedarikçi XML** → Yeni besleme ekle.
+2. Kaynak olarak `samples/demo-feed.xml` dosyasını yükleyin (ya da kendi besleme adresinizi girin) ve ürün öğesi yolunu `catalog/product` yapın.
+3. "Örnek ürünü göster" ile ilk ürünün yollarını görün; SKU alanına `sku`, ad alanına `title`, fiyat alanına `price`, stok alanına `stock` gibi eşlemeleri girin.
+4. Fiyat kuralı olarak örneğin %20 kâr marjı ve ",90 yuvarlama" seçip kaydedin.
+5. **Kuru çalıştır (önizleme)** düğmesine basın: hiçbir ürün yazılmaz, oluşturulacak / güncellenecek ürünler tabloda listelenir.
+6. Tablo beklediğiniz gibiyse gerçek içe aktarmayı başlatın; ilerleme çubuğu bitince ürünler mağazada görünür.
+7. İsterseniz beslemeye zamanlama (ör. günlük) verin; sonraki çalıştırmalar yalnızca seçtiğiniz alanları günceller.
+
 ## Güvenlik
 
 XML, `XMLReader` ile akış olarak okunur (`LIBXML_NONET`); DOCTYPE/varlık (entity) içeren dosyalar reddedilir; dosya boyutu sınırlıdır (varsayılan 50 MB, `eru_sxi_max_bytes`). Adresler `wp_safe_remote_get` ile zaman aşımlı çekilir (iç ağ adresleri engellenir). Yüklenen dosyalar web erişimine kapalı özel bir klasörde tutulur. Tüm ekranlar `manage_woocommerce` yetkisi ve nonce ister.
@@ -77,9 +87,24 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 
 **Yanlış öğe yolu girersem ürünler silinir mi?** Hayır; hiç ürün okunamazsa çalıştırma başarısız olur ve "kayıp ürün" işlemi uygulanmaz.
 
+**Eklentiyi silersem içe aktarılan ürünler gider mi?** Hayır. Silme sırasında besleme tanımları, çalıştırma durumları, kilitler, zamanlanmış eylemler ve `uploads/eru-sxi/` altındaki geçici dosyalar silinir; ürünler kalır. Devre dışı bırakmak veriyi silmez.
+
+**Dış servise bağlanır mı?** Yalnızca sizin tanımladığınız besleme ve görsel adreslerine; üçüncü taraf bir servis yoktur.
+
+**Büyük bir tedarikçi dosyasında sitem yavaşlar mı?** Satırlar gruplar halinde (varsayılan 20) ve Action Scheduler ile işlenir. Besleme ilk adımda tek seferde ayrıştırıldığı için çok büyük dosyalarda zamanlanmış çalıştırma önerilir (bkz. Sınırlamalar).
+
+**Çeviri nasıl yapılır?** Metin alanı `supplier-xml-importer-for-woocommerce`; çeviri yolu `/languages`.
+
 ## Değişiklik geçmişi
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 

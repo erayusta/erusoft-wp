@@ -206,6 +206,20 @@ WordPress 6.5+, PHP 8.0+, WooCommerce 9.0+ (Action Scheduler WooCommerce ile gel
 - Tek işyeri (WorkPlace ID) ve TRY desteklenir.
 - **Kaldırma:** eklenti silindiğinde (Eklentiler → Sil) ayarlar, bayraklar, saklanan token'lar, liste önbellekleri, hız sınırı sayaçları, kilit ve doğrulama satırları ve zamanlanmış işler silinir. **Talimat tablosu korunur**; tabloyu da silmek için `wp-config.php` içinde `define( 'ERU_VNV_REMOVE_DATA', true );` tanımlayın. **Siparişlerdeki `_eru_vnv_*` meta alanları ve sipariş notları her durumda korunur** (sabit tanımlı olsa da); maskeli TC ve telefon kişisel veri saklama süresi ya da silme aracıyla temizlenir.
 
+## SSS
+
+**Eklentiyi silersem veriler ne olur?** Ayarlar, token'lar, önbellekler, hız sınırı sayaçları ve zamanlanmış işler silinir. Talimat tablosu varsayılan olarak korunur; silmek için `wp-config.php` içinde `define( 'ERU_VNV_REMOVE_DATA', true );` tanımlayın. Siparişlerdeki `_eru_vnv_*` meta alanları ve sipariş notları her durumda kalır. Devre dışı bırakmak veri silmez.
+
+**Blok tabanlı ödeme sayfasıyla çalışır mı?** Hayır. Yöntem yalnızca `[woocommerce_checkout]` kısa kodlu klasik ödeme sayfasında gösterilir; ayarlar ekranı blok sayfada uyarı verir.
+
+**HPOS ile uyumlu mu?** Evet. Eklenti `custom_order_tables` uyumluluğunu bildirir ve sipariş verisini `WC_Order` üzerinden okuyup yazar.
+
+**Dışarıya istek yapıyor mu?** Evet, yalnızca ayarlarda girdiğiniz banka API adresine (SMS gönderme, kod doğrulama, borçlu kontrolü, talimat oluşturma ve sorgulama). Başka bir hizmete istek gitmez. Ödeme yöntemi etkinleştirilip bilgiler girilene kadar hiçbir istek yapılmaz.
+
+**Sayfa önbelleği ödeme sayfasını bozar mı?** Ödeme sayfası WooCommerce'in kendisi gibi önbelleğe alınmamalıdır; doğrulama oturuma ve nonce'a bağlıdır. Önbellek eklentinizde ödeme ve sepet sayfalarını hariç tutun.
+
+**Çoklu site (multisite) desteği var mı?** Çoklu site için özel bir destek veya test yoktur.
+
 ## English summary
 
 Classic-checkout VakıfBank Vinov gateway. The OTP is sent and verified by the bank (no local bypass, also in test mode), the debtor check uses the server-computed total, and `process_payment` re-checks a 10-minute, single-use session verification bound to the identity HMAC, phone, installment count, total and cart hash before an idempotent createInstruction (ambiguous answers are looked up before one retry). The installment commission is a non-taxable fee line, so the instruction amount equals the order total. Instructions are tracked in `{prefix}eru_vnv_instructions` (no identity data); an Action Scheduler job that re-arms itself while open rows exist (pending-only check) polls at most 50 rows per run, least recently checked first, under a run lock: status 2 → `payment_complete()` once, status 3 → cancelled, still waiting after 30 days → note and stop; ambiguous attempts are resolved with the payment's matching rules and never marked paid without a status-2 poll. Order box with query and confirmed cancel (by instruction id, `edit_shop_orders` + nonce); read-only instruction (5-minute cache), campaign and movement views; the debtor query sends the identity number once and never stores, caches or logs it. Privacy exporter/eraser and retention for the masked identity number and phone, daily batched clean-up, WP-CLI `wp eru-vnv sync|instruction|cancel`. A cancelled order is never charged silently: Vinov orders that may have an instruction are excluded from WooCommerce's unpaid-order auto-cancel, cancelling or refunding an unpaid order with a waiting instruction (any path) queues a bank cancel by instruction id that reads the instruction's status first (idempotent, retried, never changes the order status), and an approval that still lands on a cancelled order is flagged for review, mailed to the admin, shown as a dismissible persistent notice and fired as `eru_vnv_paid_while_cancelled`, once per instruction; the order is never reopened. Uninstall keeps the instruction table unless `ERU_VNV_REMOVE_DATA` is true; order meta and notes are always kept. Beta: verified against mocked HTTP only.
@@ -213,6 +227,13 @@ Classic-checkout VakıfBank Vinov gateway. The OTP is sent and verified by the b
 ## Sürüm notları
 
 Bkz. [CHANGELOG.md](CHANGELOG.md).
+
+## Destek
+
+- Önce bu sayfadaki **SSS** ve **Sınırlamalar** bölümlerine göz atın; sık karşılaşılan durumlar orada.
+- Hata mı buldunuz? [GitHub Issues](https://github.com/erayusta/erusoft-wp/issues) üzerinden bildirin. WordPress, WooCommerce, PHP ve eklenti sürümünü, adımları ve beklenen/gerçekleşen sonucu yazmanız işi hızlandırır.
+- Kurulum, yapılandırma, özel geliştirme veya entegrasyon desteği için **[hello@erusoft.com](mailto:hello@erusoft.com)** adresine yazın. Erusoft hakkında: [erusoft.com](https://erusoft.com).
+- Lütfen şifre, API anahtarı veya müşteri verisi (ad, telefon, TCKN, sipariş dökümü) göndermeyin; ekran görüntülerindeki kişisel verileri karartın.
 
 ## Lisans
 
