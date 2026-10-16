@@ -8,7 +8,8 @@
     "scrub": "node tools/scrub.mjs",
     "validate": "node tools/validate-catalog.mjs",
     "build": "node site/build.mjs",
-    "lint:php": "bash tools/php-lint.sh"
+    "lint:php": "bash tools/php-lint.sh",
+    "indexnow": "node tools/indexnow.mjs"
   },
   "dependencies": { "marked": "12.0.2" }
 }

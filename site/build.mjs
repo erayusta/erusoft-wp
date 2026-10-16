@@ -8,6 +8,8 @@ import { normalize } from '../tools/lib/scrub-core.mjs';
 import { renderReadme, slugifyTr, catalogTable, SITE } from './lib/render.mjs';
 import { indexPage, categoryPage, productPage, supportPage, notFoundPage } from './templates.mjs';
 
+export const INDEXNOW_KEY = '23dbf3f50e17cfed1900e618df22efe9';
+
 export { slugifyTr };
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -86,6 +88,8 @@ export async function build({ root = process.cwd(), out = 'site/dist' } = {}) {
   cpSync(join(root, 'catalog.json'), join(out, 'catalog.json'));
   cpSync(join(root, 'CNAME'), join(out, 'CNAME'));
   cpSync(join(here, 'assets'), join(out, 'assets'), { recursive: true });
+  // IndexNow (Bing, Yandex…) site ownership key; scripts/indexnow.mjs submits the sitemap URLs.
+  write(out, `${INDEXNOW_KEY}.txt`, INDEXNOW_KEY);
   write(out, 'robots.txt', `User-agent: *\nAllow: /\n\nSitemap: ${SITE}/sitemap.xml\n`);
   write(out, 'sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map(u => `  <url><loc>${SITE}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
   return { pages, zips };
