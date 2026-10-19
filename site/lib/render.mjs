@@ -11,12 +11,38 @@ export function slugifyTr(s) {
 
 export const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+const attr = (tag, name) => (tag.match(new RegExp(`\\s${name}="([^"]*)"`, 'i')) || [])[1] ?? '';
+const unescape = s => s.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&');
+const plain = s => unescape(s.replace(/<[^>]*>/g, '')).replace(/\s+/g, ' ').trim();
+
 /**
- * Render a product README to HTML.
+ * Screenshot markup in a raw HTML chunk: [{repoPath, alt, caption, width}], or null when the chunk
+ * holds no <img> or any <img> points outside the product's docs/ files.
+ */
+function screenshots(html, productDir) {
+  const cells = /<td\b/i.test(html) ? html.split(/<td\b[^>]*>/i).slice(1) : html.match(/<img\b[^>]*>/gi) || [];
+  const shots = [];
+  for (const cell of cells) {
+    const tags = cell.match(/<img\b[^>]*>/gi) || [];
+    for (const tag of tags) {
+      const src = attr(tag, 'src');
+      const repoPath = posix.normalize(posix.join(productDir, src));
+      if (!src || /^[a-z][a-z0-9+.-]*:|^\/\//i.test(src) || !repoPath.startsWith('docs/') || !/\.(png|jpe?g|webp|gif)$/i.test(repoPath)) return null;
+      const sub = tags.length === 1 && cell.match(/<sub>([\s\S]*?)<\/sub>/i);
+      const width = attr(tag, 'width');
+      shots.push({ repoPath, alt: unescape(attr(tag, 'alt')), caption: sub ? plain(sub[1]) : '', width: /^\d{1,4}$/.test(width) ? width : '' });
+    }
+  }
+  return shots.length ? shots : null;
+}
+
+/**
+ * Render a product README to HTML. `size(repoPath)` → {w, h} (optional) lets screenshot galleries
+ * give portrait (mobile) shots a narrower column.
  * Relative image links under docs/ are rewritten to ../docs/... and reported in `assets`
  * (repo-relative paths the caller must copy into dist). Other relative links point to GitHub.
  */
-export function renderReadme(md, productDir) {
+export function renderReadme(md, productDir, { size } = {}) {
   const assets = new Set();
   const body = md.replace(/^\s*#\s+.*\n/, '').replace(/<!--[\s\S]*?-->/g, ''); // page has its own h1
   const renderer = new marked.Renderer();
@@ -29,7 +55,17 @@ export function renderReadme(md, productDir) {
     if (n) id = `${id}-${n + 1}`;
     return `<h${level} id="${id}">${text}</h${level}>\n`;
   };
-  renderer.html = html => esc(html); // raw HTML in READMEs is shown as text, never executed
+  // Raw HTML in READMEs is shown as text, never executed. The one exception is screenshot markup
+  // (<img> of a docs/ file, optionally in a <table> with a <sub> caption): it is rebuilt from scratch.
+  renderer.html = (html, block) => {
+    const shots = screenshots(html, productDir);
+    if (!shots) return esc(html);
+    shots.forEach(s => assets.add(s.repoPath));
+    const img = s => `<img src="../${esc(s.repoPath)}" alt="${esc(s.alt)}"${s.width ? ` width="${s.width}"` : ''} loading="lazy">`;
+    if (!block) return shots.map(img).join(' ');
+    const tall = s => { const d = size?.(s.repoPath); return d && d.h > d.w * 1.2; };
+    return `<div class="shots">${shots.map(s => `<figure${tall(s) ? ' class="tall"' : ''}>${img(s)}${s.caption ? `<figcaption>${esc(s.caption)}</figcaption>` : ''}</figure>`).join('')}</div>\n`;
+  };
   renderer.image = (href, title, text) => {
     if (/^https?:/.test(href)) return `<img src="${esc(href)}" alt="${esc(text)}" loading="lazy">`;
     const repoPath = posix.normalize(posix.join(productDir, href));

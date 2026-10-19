@@ -54,6 +54,17 @@ test('raw HTML in a README is escaped, not executed', () => {
   assert.doesNotMatch(html, /<script|<img|<b /);
   assert.match(html, /&lt;script&gt;/);
 });
+test('screenshot HTML (table or bare <img> of docs/ files) becomes a gallery', () => {
+  const md = '# T\n\n<table>\n  <tr>\n    <td width="70%"><img src="../../docs/screenshots/t/1.png" alt="Ana sayfa" onerror="x()"><br><sub><b>Ana sayfa</b>: giriş &amp; <i>bant</i></sub></td>\n    <td><img src="../../docs/screenshots/t/2.png" alt="Mobil"></td>\n  </tr>\n</table>\n\nMetin <img src="../../docs/screenshots/t/3.png" alt="Panel" width="200"> son.\n';
+  const { html, assets } = renderReadme(md, 'themes/t');
+  assert.match(html, /<div class="shots"><figure><img src="\.\.\/docs\/screenshots\/t\/1\.png" alt="Ana sayfa" loading="lazy"><figcaption>Ana sayfa: giriş &amp; bant<\/figcaption><\/figure><figure><img src="\.\.\/docs\/screenshots\/t\/2\.png" alt="Mobil" loading="lazy"><\/figure><\/div>/);
+  assert.match(html, /<p>Metin <img src="\.\.\/docs\/screenshots\/t\/3\.png" alt="Panel" width="200" loading="lazy"> son\.<\/p>/);
+  assert.doesNotMatch(html, /onerror|<table|<td|<sub/);
+  assert.deepEqual(assets.sort(), ['docs/screenshots/t/1.png', 'docs/screenshots/t/2.png', 'docs/screenshots/t/3.png']);
+  for (const bad of ['<img src="https://evil.example/x.png">', '<img src="../../plugins/x/a.png">', '<table><tr><td><img src="../../docs/a.png"></td><td><img src="javascript:x"></td></tr></table>', '<img src="../../docs/a.svg">']) {
+    assert.doesNotMatch(renderReadme(`# T\n\n${bad}\n`, 'themes/t').html, /<img|<table/, bad);
+  }
+});
 test('headings get unique ids; empty headings get bolum-N', () => {
   const { html } = renderReadme('# T\n\n## SSS\n\n## SSS\n\n## ???\n', 'plugins/x');
   assert.match(html, /id="sss"/);

@@ -8,6 +8,14 @@ import { normalize } from '../tools/lib/scrub-core.mjs';
 import { renderReadme, slugifyTr, catalogTable, SITE } from './lib/render.mjs';
 import { indexPage, categoryPage, productPage, supportPage, notFoundPage } from './templates.mjs';
 
+/** Width and height from a PNG header, or null for other files. */
+function pngSize(file) {
+  try {
+    const b = readFileSync(file);
+    return b.toString('ascii', 12, 16) === 'IHDR' ? { w: b.readUInt32BE(16), h: b.readUInt32BE(20) } : null;
+  } catch { return null; }
+}
+
 export const INDEXNOW_KEY = '23dbf3f50e17cfed1900e618df22efe9';
 
 export { slugifyTr };
@@ -62,7 +70,7 @@ export async function build({ root = process.cwd(), out = 'site/dist' } = {}) {
     // Released entries whose code lives in another repo get their page text from docs/about/<slug>.md.
     const [readme, dir] = e.path ? [join(e.path, 'README.md'), e.path] : [join('docs/about', e.slug + '.md'), 'docs/about'];
     if (existsSync(join(root, readme))) {
-      const r = renderReadme(readFileSync(join(root, readme), 'utf8'), dir);
+      const r = renderReadme(readFileSync(join(root, readme), 'utf8'), dir, { size: f => pngSize(join(root, f)) });
       html = r.html;
       r.assets.forEach(a => docAssets.add(a));
     }
