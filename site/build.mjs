@@ -60,6 +60,10 @@ export async function build({ root = process.cwd(), out = 'site/dist' } = {}) {
   const catNames = [...new Set(entries.map(e => e.category))].sort((a, b) => a.localeCompare(b, 'tr'));
   const cats = catNames.map(name => ({ name, slug: slugifyTr(name), n: entries.filter(e => e.category === name).length }));
 
+  // Card thumbnails (themes): docs/thumbs/<slug>.jpg, small JPEGs made from the first screenshot.
+  for (const e of sorted) if (existsSync(join(root, 'docs/thumbs', e.slug + '.jpg'))) e.thumb = `docs/thumbs/${e.slug}.jpg`;
+  if (existsSync(join(root, 'docs/thumbs'))) cpSync(join(root, 'docs/thumbs'), join(out, 'docs/thumbs'), { recursive: true });
+
   let pages = 0, zips = 0;
   const urls = ['/'];
   write(out, 'index.html', indexPage(sorted, cats)); pages++;

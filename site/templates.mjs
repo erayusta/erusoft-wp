@@ -88,7 +88,7 @@ export function card(e) {
   const soon = e.status === 'coming-soon';
   return `<li class="card ${soon ? 'is-soon' : ''}" data-s="${e.slug}" data-cat="${slugifyTr(e.category)}" data-status="${e.status}">
   <a class="card-link" href="/${e.slug}/">
-    <span class="card-top">${chip(e.status)}<span class="card-cat">${esc(e.category)}</span></span>
+    ${e.thumb ? `<img class="card-thumb" src="/${esc(e.thumb)}" alt="" width="720" height="450" loading="lazy">` : ''}<span class="card-top">${chip(e.status)}<span class="card-cat">${esc(e.category)}</span></span>
     <h3>${esc(e.name)}</h3>
     <p class="card-desc">${esc(e.tagline_tr)}</p>
   </a>

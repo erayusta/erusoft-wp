@@ -57,7 +57,10 @@ test('raw HTML in a README is escaped, not executed', () => {
 test('screenshot HTML (table or bare <img> of docs/ files) becomes a gallery', () => {
   const md = '# T\n\n<table>\n  <tr>\n    <td width="70%"><img src="../../docs/screenshots/t/1.png" alt="Ana sayfa" onerror="x()"><br><sub><b>Ana sayfa</b>: giriş &amp; <i>bant</i></sub></td>\n    <td><img src="../../docs/screenshots/t/2.png" alt="Mobil"></td>\n  </tr>\n</table>\n\nMetin <img src="../../docs/screenshots/t/3.png" alt="Panel" width="200"> son.\n';
   const { html, assets } = renderReadme(md, 'themes/t');
-  assert.match(html, /<div class="shots"><figure><img src="\.\.\/docs\/screenshots\/t\/1\.png" alt="Ana sayfa" loading="lazy"><figcaption>Ana sayfa: giriş &amp; bant<\/figcaption><\/figure><figure><img src="\.\.\/docs\/screenshots\/t\/2\.png" alt="Mobil" loading="lazy"><\/figure><\/div>/);
+  assert.match(html, /<div class="shots"><figure><a href="\.\.\/docs\/screenshots\/t\/1\.png" target="_blank" rel="noopener"><img src="\.\.\/docs\/screenshots\/t\/1\.png" alt="Ana sayfa" loading="lazy"><\/a><figcaption>Ana sayfa: giriş &amp; bant<\/figcaption><\/figure><figure><a [^>]+><img src="\.\.\/docs\/screenshots\/t\/2\.png" alt="Mobil" loading="lazy"><\/a><\/figure><\/div>/);
+  const split = renderReadme(md, 'themes/t', { size: f => f.endsWith('2.png') ? { w: 390, h: 844 } : { w: 1440, h: 900 } }).html;
+  assert.match(split, /<div class="shots">(?:(?!2\.png).)*<\/div>\n<div class="shots shots-tall"><figure><a [^>]+><img src="\.\.\/docs\/screenshots\/t\/2\.png"/);
+  assert.match(renderReadme('# T\n\n<img src="../../docs/s/7.png" alt="Panel" width="100%">\n<sub><b>Panel</b>: tek ekran</sub>\n', 'themes/t').html, /<figcaption>Panel: tek ekran<\/figcaption>/);
   assert.match(html, /<p>Metin <img src="\.\.\/docs\/screenshots\/t\/3\.png" alt="Panel" width="200" loading="lazy"> son\.<\/p>/);
   assert.doesNotMatch(html, /onerror|<table|<td|<sub/);
   assert.deepEqual(assets.sort(), ['docs/screenshots/t/1.png', 'docs/screenshots/t/2.png', 'docs/screenshots/t/3.png']);

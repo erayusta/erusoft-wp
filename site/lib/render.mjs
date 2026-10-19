@@ -28,7 +28,7 @@ function screenshots(html, productDir) {
       const src = attr(tag, 'src');
       const repoPath = posix.normalize(posix.join(productDir, src));
       if (!src || /^[a-z][a-z0-9+.-]*:|^\/\//i.test(src) || !repoPath.startsWith('docs/') || !/\.(png|jpe?g|webp|gif)$/i.test(repoPath)) return null;
-      const sub = tags.length === 1 && cell.match(/<sub>([\s\S]*?)<\/sub>/i);
+      const sub = tags.length === 1 && (cells.length === 1 ? html : cell).match(/<sub>([\s\S]*?)<\/sub>/i);
       const width = attr(tag, 'width');
       shots.push({ repoPath, alt: unescape(attr(tag, 'alt')), caption: sub ? plain(sub[1]) : '', width: /^\d{1,4}$/.test(width) ? width : '' });
     }
@@ -63,8 +63,11 @@ export function renderReadme(md, productDir, { size } = {}) {
     shots.forEach(s => assets.add(s.repoPath));
     const img = s => `<img src="../${esc(s.repoPath)}" alt="${esc(s.alt)}"${s.width ? ` width="${s.width}"` : ''} loading="lazy">`;
     if (!block) return shots.map(img).join(' ');
-    const tall = s => { const d = size?.(s.repoPath); return d && d.h > d.w * 1.2; };
-    return `<div class="shots">${shots.map(s => `<figure${tall(s) ? ' class="tall"' : ''}>${img(s)}${s.caption ? `<figcaption>${esc(s.caption)}</figcaption>` : ''}</figure>`).join('')}</div>\n`;
+    // Landscape (desktop) and portrait (mobile) shots go in separate grids so no row is left half empty.
+    const tall = s => { const d = size?.(s.repoPath); return Boolean(d && d.h > d.w * 1.2); };
+    const fig = s => `<figure><a href="../${esc(s.repoPath)}" target="_blank" rel="noopener">${img(s)}</a>${s.caption ? `<figcaption>${esc(s.caption)}</figcaption>` : ''}</figure>`;
+    const grid = (list, cls) => list.length ? `<div class="${cls}">${list.map(fig).join('')}</div>\n` : '';
+    return grid(shots.filter(s => !tall(s)), 'shots') + grid(shots.filter(tall), 'shots shots-tall');
   };
   renderer.image = (href, title, text) => {
     if (/^https?:/.test(href)) return `<img src="${esc(href)}" alt="${esc(text)}" loading="lazy">`;
